@@ -70,7 +70,7 @@ wc -l Compilation/*
 
 The lists could have **duplicates** so do not forget to **deduplicate** before cracking. (https://stackoverflow.com/questions/9377040/remove-duplicate-entries-in-a-bash-script)
 
-The following project could interest you:
+The following projects could interest you:
   - https://github.com/mxrch/penglab: Abuse of Google Colab for Cracking
   - https://github.com/danielmiessler/SecLists/: Tons of Lists
   - https://github.com/hashcat/hashcat: Hashcat
