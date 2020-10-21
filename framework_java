@@ -1,0 +1,609 @@
+(GWT)
+(gwt)
+(Jini)
+(jini)
+Accumulo
+accumulo
+ActiveMQ
+activemq
+Activiti
+activiti
+Akka
+akka
+Apache
+apache
+Apache Accumulo
+apache accumulo
+Apache ActiveMQ
+apache activemq
+Apache Avalon
+apache avalon
+Apache Avro
+apache avro
+Apache Axis
+apache axis
+Apache Camel
+apache camel
+Apache Click
+apache click
+Apache Cocoon
+apache cocoon
+Apache Commons
+apache commons
+Apache CXF
+apache cxf
+Apache Empire DB
+apache empire db
+Apache Felix
+apache felix
+Apache Flume
+apache flume
+Apache Geronimo
+apache geronimo
+Apache Giraph
+apache giraph
+Apache Hadoop
+apache hadoop
+Apache HBase
+apache hbase
+Apache Hive
+apache hive
+Apache JackRabbit
+apache jackrabbit
+Apache Jena
+apache jena
+Apache Kafka
+apache kafka
+Apache Log4j
+apache log4j
+Apache Lucene
+apache lucene
+Apache Mahout
+apache mahout
+Apache Mesos
+apache mesos
+Apache Mina
+apache mina
+Apache Nutch
+apache nutch
+Apache OODT
+apache oodt
+Apache Oozie
+apache oozie
+Apache OpenNLP
+apache opennlp
+Apache PDFBox
+apache pdfbox
+Apache Pig
+apache pig
+Apache Pivot
+apache pivot
+Apache POI
+apache poi
+Apache Qpid
+apache qpid
+Apache River (Jini)
+apache river (jini)
+Apache Samza
+apache samza
+Apache Shiro
+apache shiro
+Apache Sling
+apache sling
+Apache Solr
+apache solr
+Apache Spark
+apache spark
+Apache Storm
+apache storm
+Apache Struts
+apache struts
+Apache Tapestry
+apache tapestry
+Apache Tika
+apache tika
+Apache Tomcat
+apache tomcat
+Apache Uima
+apache uima
+Apache Velocity
+apache velocity
+Apache VXQuery
+apache vxquery
+Apache Wicket
+apache wicket
+Apache Wink
+apache wink
+Apache Xerces
+apache xerces
+Apache Zookeeper
+apache zookeeper
+ApacheAccumulo
+apacheaccumulo
+ApacheActiveMQ
+apacheactivemq
+ApacheAvalon
+apacheavalon
+ApacheAvro
+apacheavro
+ApacheAxis
+apacheaxis
+ApacheCamel
+apachecamel
+ApacheClick
+apacheclick
+ApacheCocoon
+apachecocoon
+ApacheCommons
+apachecommons
+ApacheCXF
+apachecxf
+ApacheEmpireDB
+apacheempiredb
+ApacheFelix
+apachefelix
+ApacheFlume
+apacheflume
+ApacheGeronimo
+apachegeronimo
+ApacheGiraph
+apachegiraph
+ApacheHadoop
+apachehadoop
+ApacheHBase
+apachehbase
+ApacheHive
+apachehive
+ApacheJackRabbit
+apachejackrabbit
+ApacheJena
+apachejena
+ApacheKafka
+apachekafka
+ApacheLog4j
+apachelog4j
+ApacheLucene
+apachelucene
+ApacheMahout
+apachemahout
+ApacheMesos
+apachemesos
+ApacheMina
+apachemina
+ApacheNutch
+apachenutch
+ApacheOODT
+apacheoodt
+ApacheOozie
+apacheoozie
+ApacheOpenNLP
+apacheopennlp
+ApachePDFBox
+apachepdfbox
+ApachePig
+apachepig
+ApachePivot
+apachepivot
+ApachePOI
+apachepoi
+ApacheQpid
+apacheqpid
+ApacheRiver
+apacheriver
+ApacheRiver(Jini)
+apacheriver(jini)
+ApacheSamza
+apachesamza
+ApacheShiro
+apacheshiro
+ApacheSling
+apachesling
+ApacheSolr
+apachesolr
+ApacheSpark
+apachespark
+ApacheStorm
+apachestorm
+ApacheStruts
+apachestruts
+ApacheTapestry
+apachetapestry
+ApacheTika
+apachetika
+ApacheTomcat
+apachetomcat
+ApacheUima
+apacheuima
+ApacheVelocity
+apachevelocity
+ApacheVXQuery
+apachevxquery
+ApacheWicket
+apachewicket
+ApacheWink
+apachewink
+ApacheXerces
+apachexerces
+ApacheZookeeper
+apachezookeeper
+AppFuse
+appfuse
+Astrodynamics
+astrodynamics
+Avalon
+avalon
+Avro
+avro
+Axis
+axis
+Barracuda
+barracuda
+BioJava
+biojava
+Birt
+birt
+BlueCove
+bluecove
+Bouncy
+bouncy
+Bouncy Castle Cryptographic
+bouncy castle cryptographic
+BouncyCastleCryptographic
+bouncycastlecryptographic
+Burningwave
+burningwave
+Burningwave Core
+burningwave core
+BurningwaveCore
+burningwavecore
+Camel
+camel
+Cascading
+cascading
+Castle
+castle
+Click
+click
+Cocoon
+cocoon
+CodeName
+codename
+CodeName One
+codename one
+CodeNameOne
+codenameone
+Collections
+collections
+Commons
+commons
+Core
+core
+Cryptographic
+cryptographic
+CXF
+cxf
+DB
+db
+Deeplearning4j
+deeplearning4j
+DirectWebRemoting
+directwebremoting
+Drools
+drools
+EclipseLink
+eclipselink
+EHCache
+ehcache
+Ejml
+ejml
+Ejml (Efficient Java Matrix Library)
+ejml (efficient java matrix library)
+Ejml(EfficientJavaMatrixLibrary)
+ejml(efficientjavamatrixlibrary)
+Empire
+empire
+Felix
+felix
+fleXive
+flexive
+Flume
+flume
+Framework
+framework
+FreeMarker
+freemarker
+FreeMarker Template
+freemarker template
+FreeMarkerTemplate
+freemarkertemplate
+GeoApi
+geoapi
+GeoTools
+geotools
+Geronimo
+geronimo
+Giraph
+giraph
+GlassFish
+glassfish
+Google
+google
+Google Gson
+google gson
+Google Guava
+google guava
+Google Guice
+google guice
+Google Web Toolkit (GWT)
+google web toolkit (gwt)
+GoogleGson
+googlegson
+GoogleGuava
+googleguava
+GoogleGuice
+googleguice
+GoogleWebToolkit
+googlewebtoolkit
+GoogleWebToolkit(GWT)
+googlewebtoolkit(gwt)
+Gson
+gson
+Guava
+guava
+Guice
+guice
+Hadoop
+hadoop
+HBase
+hbase
+Hibernate
+hibernate
+Hive
+hive
+HSQLDB
+hsqldb
+iBatis
+ibatis
+Infinispan
+infinispan
+Integration
+integration
+IText
+itext
+JackRabbit
+jackrabbit
+Jackson
+jackson
+Jasper
+jasper
+Jasper Reports
+jasper reports
+JasperReports
+jasperreports
+Java
+java
+Java Astrodynamics Toolkit
+java astrodynamics toolkit
+Java Collections Framework
+java collections framework
+Java Media Framework
+java media framework
+Java Topology suite
+java topology suite
+JavaAstrodynamicsToolkit
+javaastrodynamicstoolkit
+JavaCollectionsFramework
+javacollectionsframework
+JavaMediaFramework
+javamediaframework
+JavAssist
+javassist
+JavaTopologysuite
+javatopologysuite
+JaxP
+jaxp
+JBoss
+jboss
+JBoss Seam
+jboss seam
+JBossSeam
+jbossseam
+jBPM
+jbpm
+JDom
+jdom
+Jena
+jena
+Jersey
+jersey
+Jetty
+jetty
+JFreeChart
+jfreechart
+JHipster
+jhipster
+JMonkeyEngine
+jmonkeyengine
+JProfiler
+jprofiler
+JRockit
+jrockit
+JSF
+jsf
+JSoup
+jsoup
+JUnit
+junit
+Kafka
+kafka
+Library)
+library)
+LiquiBase
+liquibase
+Log4j
+log4j
+Lucene
+lucene
+LWJGL
+lwjgl
+Mahout
+mahout
+Matrix
+matrix
+Media
+media
+Mesos
+mesos
+Mina
+mina
+Mockito
+mockito
+MyBatis
+mybatis
+ND4J
+nd4j
+Netty
+netty
+Neuroph
+neuroph
+Nutch
+nutch
+One
+one
+OODT
+oodt
+Oozie
+oozie
+OpenCV
+opencv
+OpenNLP
+opennlp
+OpenXava
+openxava
+Oracle
+oracle
+Oracle WebLogic
+oracle weblogic
+OracleWebLogic
+oracleweblogic
+OrientDB
+orientdb
+ORMLite
+ormlite
+Payara
+payara
+Payara Server
+payara server
+PayaraServer
+payaraserver
+PDFBox
+pdfbox
+Pig
+pig
+Pivot
+pivot
+Play
+play
+POI
+poi
+PrimeFaces
+primefaces
+Qpid
+qpid
+Quartz
+quartz
+RabbitMQ
+rabbitmq
+Reports
+reports
+River
+river
+Roo
+roo
+Samza
+samza
+Sax
+sax
+Seam
+seam
+Security
+security
+Selenium
+selenium
+Server
+server
+Shiro
+shiro
+SLF4J
+slf4j
+Sling
+sling
+Solr
+solr
+SonarQube
+sonarqube
+Spark
+spark
+Spock
+spock
+Spring
+spring
+Spring Integration
+spring integration
+Spring Roo
+spring roo
+Spring Security
+spring security
+SpringIntegration
+springintegration
+SpringRoo
+springroo
+SpringSecurity
+springsecurity
+Storm
+storm
+Struts
+struts
+suite
+Tapestry
+tapestry
+Template
+template
+TestNG
+testng
+Thymeleaf
+thymeleaf
+Tika
+tika
+Tomcat
+tomcat
+Toolkit
+toolkit
+Topology
+topology
+Uima
+uima
+Vaadin
+vaadin
+Velocity
+velocity
+Vertx
+vertx
+VRaptor
+vraptor
+VXQuery
+vxquery
+Web
+web
+WebLogic
+weblogic
+Wicket
+wicket
+Wink
+wink
+Xerces
+xerces
+ZKoss
+zkoss
+Zookeeper
+zookeeper
