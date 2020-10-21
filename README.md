@@ -41,6 +41,8 @@ The main part of the list come from various place of internet but many thanks to
 * [SublimeText](https://www.sublimetext.com/)
 * [Python](https://www.python.org/)
 
+The keyboard walk are generated with https://github.com/hashcat/kwprocessor.
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
