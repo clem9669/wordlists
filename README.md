@@ -49,7 +49,16 @@ The keyboard walk are generated with https://github.com/hashcat/kwprocessor.
 I let the end user use at their will the lists. 
 You could use only certains or all lists depending on your scope.
 
+    **Warning**: the list sum is ~ 300'000 words.
+    Multipled with the rule at https://github.com/clem9669/hashcat-rule, you have roughly 3'596'000'000 passwords.
+
 The lists could have **duplicates** so do not forget to **deduplicate** before cracking. (https://stackoverflow.com/questions/9377040/remove-duplicate-entries-in-a-bash-script)
+
+The following project could interest you:
+  - https://github.com/mxrch/penglab: Abuse of Google Colab for Cracking
+  - https://github.com/danielmiessler/SecLists/: Tons of Lists
+  - https://github.com/hashcat/hashcat: Hashcat
+  - https://github.com/openwall/john: John (jtr)
 
 <!-- ROADMAP -->
 ## Roadmap
