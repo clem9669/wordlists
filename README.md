@@ -48,9 +48,25 @@ The keyboard walk are generated with https://github.com/hashcat/kwprocessor.
 
 I let the end user use at their will the lists. 
 You could use only certains or all lists depending on your scope.
+However in the *Compilation* folder, you have a 21/20/2020 generated version.
 
-    **Warning**: the list sum is ~ 300'000 words.
-    Multipled with the rule at https://github.com/clem9669/hashcat-rule, you have roughly 3'596'000'000 passwords.
+
+```bash
+awk '!a[$0]++' all > all_uniq
+```
+
+```bash
+sort -u all > all_uniq_sort
+```
+
+```bash
+wc -l Compilation/*
+  316061 Compilation/all
+  288571 Compilation/all_uniq
+  288571 Compilation/all_uniq_sort
+  ```
+> **Warning**: the list sum is ~ 300'000 words.
+> Multipled with the rule at https://github.com/clem9669/hashcat-rule, you have roughly 3'596'000'000 passwords.
 
 The lists could have **duplicates** so do not forget to **deduplicate** before cracking. (https://stackoverflow.com/questions/9377040/remove-duplicate-entries-in-a-bash-script)
 
