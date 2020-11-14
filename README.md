@@ -14,6 +14,9 @@
 
 > check out my hashcat rule project at: https://github.com/clem9669/hashcat-rule
 
+//TODO
+- remove impossible to type letters as œ, É, ë, î, û, \`, ô
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
