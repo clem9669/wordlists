@@ -14,10 +14,6 @@
 
 > check out my hashcat rule project at: https://github.com/clem9669/hashcat-rule
 
-//TODO
-- remove impossible to type letters as œ, É, ë, î, û, \`, ô
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -35,12 +31,12 @@ It is easier to crack password for english people because it is le langue of int
 This project aim to provide french word list about everything a person could use as a base password.
 If you are cracking with the list above, please also **use a rule in hashcat or john**.
 
-I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë,ù,µ` which are difficult to type chars even if they are présent in french alphabet.
+I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë,ù,µ` which are difficult to type chars even if they are present in french alphabet.
 
-#### Secondary
+### Secondary
 
 In the folder **WEB**, you can found a wordlist for pentesting purpose wich is design to find ressources for french people too. 
-Read more at <link>
+Read more at [WEB_readme](https://github.com/clem9669/wordlists/blob/master/Web/README.md)
 
 ### Built With
 The main part of the list come from various place of internet but many thanks to :
