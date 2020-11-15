@@ -33,9 +33,14 @@
 It is easier to crack password for english people because it is le langue of internet. And there is good ressource as rockyou, hashorg2019, etc...
 
 This project aim to provide french word list about everything a person could use as a base password.
-
 If you are cracking with the list above, please also **use a rule in hashcat or john**.
 
+I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë,ù,µ` which are difficult to type chars even if they are présent in french alphabet.
+
+#### Secondary
+
+In the folder **WEB**, you can found a wordlist for pentesting purpose wich is design to find ressources for french people too. 
+Read more at <link>
 
 ### Built With
 The main part of the list come from various place of internet but many thanks to :
@@ -59,16 +64,24 @@ awk '!a[$0]++' all > all_uniq
 
 I recommand running hashcat rule on the wordlist then crack avoiding to have duplicate hash calculation (ex: password & password1 will be computed twice in hashcat with the rules.)
 
-> **Warning**: the list sum is ~ 800'000 words.
-> Multipled with the rule at https://github.com/clem9669/hashcat-rule, you have roughly 3'596'000'000 passwords.
+> **Warning**: the list sum is ~ 700'000 words.
+> Multipled with the rule at https://github.com/clem9669/hashcat-rule (\~ 12'000), you have roughly 8'400'000'000 passwords.
 
 The lists could have **duplicates** so do not forget to **deduplicate** before cracking. (https://stackoverflow.com/questions/9377040/remove-duplicate-entries-in-a-bash-script)
+
+⚠️⚠️⚠️
+
+I have recently heard of https://github.com/nil0x42/duplicut ! 
+
+It aims to uniq huge wordlist ! I recommand you to give it a try.
+
 
 The following projects could interest you:
   - https://github.com/mxrch/penglab: Abuse of Google Colab for Cracking
   - https://github.com/danielmiessler/SecLists/: Tons of Lists
   - https://github.com/hashcat/hashcat: Hashcat
   - https://github.com/openwall/john: John (jtr)
+  - https://github.com/nil0x42/duplicut: Remove duplicates in huge lists
 
 <!-- ROADMAP -->
 ## Roadmap
