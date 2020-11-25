@@ -1,11 +1,3 @@
-ADD https://github.com/Screetsec/Wordlist-Dracos/blob/master/Date/date_ddmmyy.txt
-https://github.com/Screetsec/Wordlist-Dracos/blob/master/Date/date_ddmmyyyy.txt
-enhance fromages
-enhance club2foot
-enhance latin
-add basic english password
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
