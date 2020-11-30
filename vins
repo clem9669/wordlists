@@ -1,3 +1,5 @@
+adhemar
+adhémar
 ajaccio
 aligote
 aligoté
@@ -13,6 +15,7 @@ alsace pinot
 alsace pinot noir
 alsace riesling
 alsace sylvaner
+alsace tokay
 alsace tokay-pinot gris
 alsacechasselas
 alsacegewurztraminer
@@ -22,29 +25,23 @@ alsacepinot
 alsacepinotnoir
 alsaceriesling
 alsacesylvaner
+alsacetokay
 alsacetokay-pinotgris
 alsacetokaypinotgris
 amboise
 amour
 anjou
-anjou  coteaux de la loire
-anjou - coteaux de la loire
+anjou coteaux de la loire
 anjou rose de cabernet
 anjou rosé de cabernet
 anjou-coteaux
 anjou-coteaux de la loire
-anjou-coteaux de la loire-rose de cabernet
-anjou-coteaux de la loire-rosé de cabernet
 anjou-coteauxdelaloire
 anjou-gamay
 anjou-villages
 anjou-villages brissac
 anjoucoteaux
-anjoucoteaux de la loirerose de cabernet
-anjoucoteaux de la loirerosé de cabernet
 anjoucoteauxdelaloire
-anjoucoteauxdelaloirerosedecabernet
-anjoucoteauxdelaloirerosédecabernet
 anjougamay
 anjourosedecabernet
 anjourosédecabernet
@@ -89,9 +86,9 @@ bergerac sec
 bergeracsec
 beze
 bienvenue
-bienvenue batard-montrachet
-bienvenuebatard-montrachet
-bienvenuebatardmontrachet
+bienvenue batard
+bienvenuebatard
+bienvenues
 bienvenues-batard-montrachet
 bienvenuesbatardmontrachet
 bilh
@@ -103,8 +100,7 @@ blancfumedepouilly
 blancfumédepouilly
 blanquette
 blanquette de limoux
-blanquette de limoux  limoux
-blanquette de limoux - limoux
+blanquette de limoux limoux
 blanquettedelimoux
 blanquettedelimouxlimoux
 blaye
@@ -115,11 +111,8 @@ bonnes-mares
 bonnesmares
 bonnezeaux
 bordeaux
-bordeaux  cotes de castillon
-bordeaux  cotes de francs
-bordeaux - cotes de castillon
-bordeaux - cotes de francs
 bordeaux clairet
+bordeaux cotes de castillon
 bordeaux cotes de francs
 bordeaux rose
 bordeaux sec
@@ -143,19 +136,24 @@ bourgogne claret
 bourgogne cote
 bourgogne cote 
 bourgogne cote chalonnaise
+bourgogne cote saint
 bourgogne cote saint-jacques
 bourgogne cotes d'auxerre
 bourgogne cotes du couchois
+bourgogne coulanges
 bourgogne coulanges-la-vineuse
 bourgogne epineuil
 bourgogne grand ordinaire
+bourgogne hautes
 bourgogne hautes-cotes de beaune
 bourgogne hautes-cotes de nuits
+bourgogne la chapelle notre
 bourgogne la chapelle notre-dame
 bourgogne le chapitre
 bourgogne montrecul
 bourgogne mousseux
 bourgogne ordinaire
+bourgogne passe
 bourgogne passe-tout-grains
 bourgogne passetoutgrain
 bourgogne passetoutgrains
@@ -167,19 +165,23 @@ bourgognechitry
 bourgogneclaret
 bourgognecote
 bourgognecotechalonnaise
+bourgognecotesaint
 bourgognecotesaint-jacques
 bourgognecotesaintjacques
 bourgognecotesd'auxerre
 bourgognecotesdauxerre
 bourgognecotesducouchois
+bourgognecoulanges
 bourgognecoulanges-la-vineuse
 bourgognecoulangeslavineuse
 bourgogneepineuil
 bourgognegrandordinaire
+bourgognehautes
 bourgognehautes-cotesdebeaune
 bourgognehautes-cotesdenuits
 bourgognehautescotesdebeaune
 bourgognehautescotesdenuits
+bourgognelachapellenotre
 bourgognelachapellenotre-dame
 bourgognelachapellenotredame
 bourgognelechapitre
@@ -191,6 +193,7 @@ bourgognepassetoutgrains
 bourgognevezelay
 bourgueil
 bourguignons
+boutenac
 bouzeron
 bris
 brissac
@@ -274,6 +277,7 @@ chateaumeillantaovdqs
 chateauneuf
 chateauneuf-du-pape
 chateauneufdupape
+chatillon
 chatillon-en-diois
 chatillonendiois
 chaume
@@ -303,22 +307,29 @@ clairettededie
 clairettedulanguedoc
 clape
 claret
+clery
 clesse
 clessé
 clos
 clos 
+clos de beze
+clos de bèze
 clos de la roche
 clos de tart
 clos de vougeot
 clos des lambrays
+clos saint
 clos saint-denis
 clos saintdenis
+closdebeze
 closdelaroche
 closdeslambrays
 closdetart
 closdevougeot
+clossaint
 clossaint-denis
 clossaintdenis
+cléry
 collioure
 condrieu
 conti
@@ -355,6 +366,7 @@ cote de beaune villages
 cote de beaune-villages
 cote de beaunevillages
 cote de brouilly
+cote de nuits
 cote de nuits-villages
 cote de nuitsvillages
 cote du frontonnais
@@ -369,6 +381,7 @@ coteaux d'aixenprovence
 coteaux d'ancenis
 coteaux de die
 coteaux de l'aubance
+coteaux de la loire
 coteaux de pierrevert
 coteaux de saumur
 coteaux des baux de provence
@@ -382,6 +395,7 @@ coteaux du quercy
 coteaux du tricastin
 coteaux du vendomois
 coteaux du vendomois aovdqs
+coteaux d’aix
 coteaux d’aix-en-provence
 coteaux d’aixenprovence
 coteaux varois
@@ -395,9 +409,8 @@ coteauxdaix
 coteauxdancenis
 coteauxdedie
 coteauxdel'aubance
+coteauxdelaloire
 coteauxdelaubance
-coteauxdelaubancerosedecabernet
-coteauxdelaubancerosédecabernet
 coteauxdepierrevert
 coteauxdesaumur
 coteauxdesbauxdeprovence
@@ -405,8 +418,6 @@ coteauxdugiennois
 coteauxdugiennoisaovdqs
 coteauxdulanguedoc
 coteauxdulayon
-coteauxdulayonrosedecabernet
-coteauxdulayonrosédecabernet
 coteauxduloir
 coteauxdulyonnais
 coteauxduquercy
@@ -419,6 +430,7 @@ coteauxvaroisenprovence
 cotedebeaune
 cotedebeaunevillages
 cotedebrouilly
+cotedenuits
 cotedenuits-villages
 cotedenuitsvillages
 cotedufrontonnais
@@ -429,19 +441,20 @@ cotes d'auvergne
 cotes d'auvergne aovdqs
 cotes de
 cotes de 
+cotes de beaune
 cotes de bergerac
 cotes de bergerac moelleux
 cotes de blaye
 cotes de bordeaux
-cotes de bordeaux-saint-macaire
-cotes de bordeauxsaintmacaire
 cotes de bourg
 cotes de castillon
 cotes de duras
 cotes de la malepere
 cotes de millau
 cotes de montravel
+cotes de nuits
 cotes de provence
+cotes de saint
 cotes de saint-mont aovdqs
 cotes de toul
 cotes de toul aovdqs
@@ -454,8 +467,6 @@ cotes du rhone
 cotes du rhone villages
 cotes du rhone-villages
 cotes du roussillon
-cotes du roussillon-villages
-cotes du roussillonvillages
 cotes du ventoux
 cotes du vivarais
 cotes du vivarais aovdqs
@@ -464,6 +475,7 @@ cotesd'auvergneaovdqs
 cotesdauvergne
 cotesdauvergneaovdqs
 cotesde
+cotesdebeaune
 cotesdebergerac
 cotesdebergeracmoelleux
 cotesdeblaye
@@ -475,7 +487,9 @@ cotesdeduras
 cotesdelamalepere
 cotesdemillau
 cotesdemontravel
+cotesdenuits
 cotesdeprovence
+cotesdesaint
 cotesdesaint-montaovdqs
 cotesdesaintmontaovdqs
 cotesdetoul
@@ -489,8 +503,6 @@ cotesdurhone
 cotesdurhone-villages
 cotesdurhonevillages
 cotesduroussillon
-cotesduroussillon-villages
-cotesduroussillonvillages
 cotesduventoux
 cotesduvivarais
 cotesduvivaraisaovdqs
@@ -525,8 +537,10 @@ cremantdesavoie
 cremantdujura
 crepy
 criots
+criots batard
 criots batard-montrachet
 criots-batard-montrachet
+criotsbatard
 criotsbatard-montrachet
 criotsbatardmontrachet
 croix
@@ -570,6 +584,7 @@ denis
 des
 deux
 die
+diois
 du
 duche
 duche d'uzes
@@ -581,9 +596,12 @@ duchéd'uzès
 duchéduzès
 duras
 duresses
+d’aix
 d’aix-en-provence
 echezeaux
 emilion
+emilion grand cru
+emiliongrandcru
 en
 entraygues
 entraygues -le fel
@@ -601,8 +619,8 @@ estaing
 estephe
 estèphe
 et
-et saumur  puy notre dame
 et saumur - puy notre dame
+et saumur puy notre dame
 etsaumurpuynotredame
 faugeres
 faugères
@@ -634,6 +652,8 @@ gaillac
 gamay
 gard
 georges
+georges saint
+georgessaint
 gevrey
 gevrey-chambertin
 gevreychambertin
@@ -641,6 +661,7 @@ gewurztraminer
 giennois
 gigondas
 givry
+grains
 grand
 grand rousillon
 grand-lieu
@@ -661,6 +682,7 @@ graves supérieures
 gravesdevayres
 gravessuperieures
 gravessupérieures
+grignan
 grignan-les-adhemar
 grignan-les-adhémar
 grignanlesadhemar
@@ -700,6 +722,8 @@ jacques
 jasnieres
 jasnières
 jean
+jean de minervois
+jeandeminervois
 joseph
 joue
 joué
@@ -749,6 +773,7 @@ layon
 layon-rose
 layon-rosé
 le
+le fel
 leognan
 les
 les baux de provence
@@ -763,6 +788,7 @@ listrac-médoc
 listracmedoc
 listracmédoc
 loche
+loché
 loir
 loire
 loire-rose
@@ -775,7 +801,10 @@ lussac
 lussac saint emilion
 lussacsaintemilion
 lyonnais
+lès
+léognan
 létoile
+macaire
 macon
 macon superieur
 macon villages
@@ -800,6 +829,7 @@ mazischambertin
 mazoyeres
 mazoyeres-chambertin
 mazoyereschambertin
+mazoyères
 mazoyères-chambertin
 mazoyèreschambertin
 medoc
@@ -817,13 +847,17 @@ moelleux
 moines
 monbazillac
 mont
+mont aovdqs
 montagne
 montagne 
+montagne saint
 montagne saint-emilion
 montagne-saint-emilion
+montagnesaint
 montagnesaint-emilion
 montagnesaintemilion
 montagny
+montaovdqs
 monthelie
 montlouis
 montlouis-sur-loire
@@ -851,18 +885,24 @@ moulisenmédoc
 mousseux
 muscadet
 muscadet coteaux de la loire
+muscadet cotes de grand
 muscadet cotes de grand-lieu
 muscadet cotes de grandlieu
+muscadet de sevre
 muscadet de sevre-et-maine
 muscadet des coteaux de la loire
+muscadet sevre
 muscadet sevre-et-maine
 muscadet sevreetmaine
+muscadet sèvre
 muscadet sèvre-et-maine
 muscadet sèvreetmaine
 muscadetcoteauxdelaloire
+muscadetcotesdegrand
 muscadetcotesdegrand-lieu
 muscadetcotesdegrandlieu
 muscadetdescoteauxdelaloire
+muscadetdesevre
 muscadetdesevre-et-maine
 muscadetdesevreetmaine
 muscadetsevreetmaine
@@ -870,30 +910,31 @@ muscadetsèvreetmaine
 muscat
 muscat de
 muscat de 
+muscat de beaumes
 muscat de beaumes de venise
 muscat de beaumes-de-venise
 muscat de frontignan vin de frontignan
 muscat de lunel
 muscat de mireval
 muscat de rivesaltes
+muscat de saint
 muscat de saint-jean de minervois
 muscat de saint-jean-de-minervois
 muscat de saintjeandeminervois
 muscat du cap corse
 muscatde
+muscatdebeaumes
 muscatdebeaumes-de-venise
 muscatdebeaumesdevenise
 muscatdefrontignanvindefrontignan
 muscatdelunel
 muscatdemireval
 muscatderivesaltes
+muscatdesaint
 muscatdesaint-jeandeminervois
 muscatdesaintjeandeminervois
 muscatducapcorse
 musigny
-mâcon
-mâcon villages
-mâconvillages
 médoc
 nantais
 neac
@@ -925,20 +966,16 @@ orléans
 orléans-cléry
 orléanscléry
 ou
-ou cote de nuits-villages
-ou cote de nuitsvillages
-ou ermitage
-ou vins fins de la cote de nuits
-oucotedenuitsvillages
-ouermitage
-ouvinsfinsdelacotedenuits
 pacherenc
+pacherenc du vic
 pacherenc du vic-bilh
 pacherenc du vicbilh
+pacherencduvic
 pacherencduvic-bilh
 pacherencduvicbilh
 palette
 pape
+passe
 passe-tout-grains
 passetoutgrain
 patrimonio
@@ -967,8 +1004,16 @@ pineau des charentes
 pineaudescharentes
 pinet
 pinot
+pinot blanc
+pinot gris
+pinot rouge
+pinotblanc
+pinotgris
+pinotrouge
 plant
 poitou
+poitou aovdqs
+poitouaovdqs
 pomerol
 pommard
 pouilly
@@ -993,6 +1038,9 @@ pouillyloché
 pouillysurloire
 pouillyvinzelles
 pourcain
+pourcain aovdqs
+pourcainaovdqs
+pourçain
 premier
 premieres
 premieres cotes de blaye
@@ -1003,8 +1051,10 @@ premières
 provence
 puisseguin
 puisseguin 
+puisseguin saint
 puisseguin saint-emilion
 puisseguin saintemilion
+puisseguinsaint
 puisseguinsaint-emilion
 puisseguinsaintemilion
 puligny
@@ -1048,6 +1098,7 @@ romanéeconti
 romanéesaintvivant
 rose
 rose d'anjou
+rose de cabernet
 rose de loire
 rose des riceys
 rosed'anjou
@@ -1057,6 +1108,7 @@ rosedesriceys
 rosette
 rosé
 rosé d'anjou
+rosé de cabernet
 rosé de loire
 rosé des riceys
 roséd'anjou
@@ -1154,6 +1206,7 @@ saintvéran
 salon
 sancerre
 santenay
+sardos
 saumur
 saumur champigny
 saumur rose de cabernet
@@ -1167,18 +1220,11 @@ saumursecblanc
 saussignac
 sauternes
 savennieres
-savennieres coulee de serrant
-savennieres coulee-de-serrant
-savennieres roche aux moines
-savennieres roches-aux-moines
-savennierescoulee-de-serrant
-savennierescouleedeserrant
-savennieresrocheauxmoines
-savennieresroches-aux-moines
-savennieresrochesauxmoines
+savennieres coulee
+savennieres roches
+savennierescoulee
+savennieresroches
 savennières
-savennières coulée de serrant
-savennières roche aux moines
 savennièrescouléedeserrant
 savennièresrocheauxmoines
 savigny
@@ -1199,6 +1245,7 @@ supérieur
 supérieures
 sur
 sylvaner
+sèvre
 sèvre-et-maine
 tache
 tart
@@ -1227,6 +1274,7 @@ tourainemesland
 tourainenoblejoue
 tourainenoblejoué
 touraineoisly
+tout
 tricastin
 tursan
 tursan aovdqs
@@ -1251,6 +1299,7 @@ vic
 vic-bilh
 vicbilh
 villages
+villages brissac
 villaudric
 vin
 vin de corse
@@ -1263,7 +1312,6 @@ vinrose
 vinrosé
 vinrouge
 vins
-vins fins de la cote de nuits
 vinsfinsdelacotedenuits
 vinsobres
 vinzelles
@@ -1286,4 +1334,3 @@ vougeot
 vouvray
 véran
 vézelay
-vézelayajaccio
