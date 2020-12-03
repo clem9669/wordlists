@@ -16,19 +16,24 @@
 2
 7
 a
+aaas
 abbr
 abelite
 abhesive
 ablator
 abomasitis
+about
 abscisic
 absiemens
+acap
 accept-charset
 acceptcharset
 accesskey
+acct
 accumbent
 Accumulo
 accumulo
+acd
 acene
 acentrous
 acetylide
@@ -43,6 +48,7 @@ acoelomate
 acoelous
 acouchi
 acoustooptics
+acr
 acrasin
 acronym
 actinide
@@ -105,6 +111,7 @@ adiponecrosis
 adiponitrile
 adiposogenital
 adit
+adiumxtra
 adjab
 adjoint
 adjugate
@@ -126,6 +133,7 @@ adont
 adrenogenital
 adrenomedullary
 adret
+adt
 adularescence
 adularia
 adularization
@@ -201,6 +209,8 @@ aestival
 affination
 aflatoxicosis
 afocal
+afp
+afs
 afterblow
 afterbody
 afterbreak
@@ -260,6 +270,7 @@ aichmophobia
 aiguille
 aikinite
 ailsyte
+aim
 aiophyllous
 Air
 AIR
@@ -560,6 +571,7 @@ amorphic
 amphibolite
 amphid
 amplifer
+amss
 amygdule
 analbite
 analcime
@@ -856,6 +868,7 @@ Appcelerator Titanium
 appcelerator titanium
 AppceleratorTitanium
 appceleratortitanium
+appdata
 AppFuse
 appfuse
 applet
@@ -865,6 +878,7 @@ appstate
 appulse
 apsides
 apsis
+apt
 apterous
 aqualf
 arachnology
@@ -884,6 +898,7 @@ arenite
 argillite
 arhythmia
 aril
+ark
 arknet
 arkose
 arkosite
@@ -919,6 +934,7 @@ asynchronous
 atlantite
 atopite
 atropous
+attachment
 attapulgite
 attemperation
 attenuator
@@ -981,6 +997,7 @@ avifauna
 avigation
 Avro
 avro
+aw
 axinite
 axiolite
 Axis
@@ -1020,6 +1037,7 @@ bandylite
 barberite
 barchan
 barchane
+barion
 barney
 baroclinic
 barotropic
@@ -1061,6 +1079,7 @@ benzyne
 beraunite
 beresorite
 berkeyite
+beshare
 betaware
 bethelks
 bgsound
@@ -1233,6 +1252,8 @@ bisync
 bisynchronous
 bitangent
 bitblt
+bitcoin
+bitcoincash
 bitegmic
 biternate
 bithionol
@@ -1296,6 +1317,7 @@ blennorrhagia
 blepharoplasty
 blindstory
 blink
+blob
 blockette
 blockquote
 blodite
@@ -1320,6 +1342,7 @@ body
 bogecn
 boghead
 bollard
+bolo
 boolean
 boracite
 borane
@@ -1360,6 +1383,7 @@ bromegrass
 bromellite
 bronchoconstriction
 bronchodilation
+browserext
 brynmawr
 bryology
 BSD
@@ -1489,6 +1513,7 @@ calclithite
 calcrete
 calcspar
 calcsparite
+calculator
 caledonite
 calefaction
 calender
@@ -1502,6 +1527,7 @@ calite
 calixarene
 callenia
 callideic
+callto
 calmagite
 calmodulin
 calomelene
@@ -1557,6 +1583,7 @@ cannular
 cantala
 canthariasis
 canvas
+cap
 capillatus
 capillitium
 capitellate
@@ -1664,12 +1691,14 @@ cascading
 cascode
 casemate
 cassidyite
+cast
 castable
 castaneous
 castellanus
 castellatus
 Castle
 castle
+casts
 cata
 catachosis
 cataclasis
@@ -1742,6 +1771,8 @@ chromatoplasm
 chromatoscope
 chromatosis
 chromatron
+chrome
+chrome-extension
 chrominance
 chromocenter
 chromocratic
@@ -1796,6 +1827,7 @@ chymopapain
 chymosin
 cibarium
 cibophobia
+cid
 ciguatoxin
 ciliolate
 ciminite
@@ -1927,6 +1959,12 @@ cmich
 cmsu
 cmu
 cnc
+coap
+coap+tcp
+coap+ws
+coaps
+coaps+tcp
+coaps+ws
 cobaltite
 cobleskill
 coccolith
@@ -1964,6 +2002,7 @@ colostate
 cols
 colspan
 columbite
+com-eventbrite-attendee
 combinatorial
 command
 commensal
@@ -1979,6 +2018,7 @@ conncoll
 content
 contenteditable
 contextmenu
+conti
 continentality
 contrarotation
 controls
@@ -2001,6 +2041,7 @@ coulometry
 covariance
 covellite
 creighton
+crid
 crossband
 crossbedding
 crossorigin
@@ -2056,6 +2097,7 @@ cutover
 cutscore
 cutterhead
 cutwater
+cvs
 cwru
 CXF
 cxf
@@ -2089,11 +2131,13 @@ cyclopentane
 cyclothem
 cytokine
 cytometry
+dab
 dacite
 dalton
 data
 datalist
 datetime
+dav
 dayglow
 DB
 db
@@ -2328,6 +2372,7 @@ diapositive
 diarch
 diarsine
 diarylamine
+diaspora
 diaspore
 diasporometer
 diastase
@@ -2411,6 +2456,7 @@ diclinous
 dicoccous
 dicovalent
 dicrotophos
+dict
 dictyoblastospore
 dictyonema
 dictyosome
@@ -2418,6 +2464,7 @@ dictyospore
 dictyostele
 dicyandiamide
 dicyanide
+did
 didodecyl
 didymolite
 didymous
@@ -2574,11 +2621,16 @@ directrix
 DirectWebRemoting
 directwebremoting
 dirname
+dis
 disabled
 discard
 discriminant
 div
 dl
+dlna-playcontainer
+dlna-playsingle
+dns
+dntp
 dodecagon
 dodecahedron
 Dojo
@@ -2586,15 +2638,21 @@ dojo
 downdraft
 downhole
 download
+dpp
 draggable
 driftmeter
+drm
 Drools
 drools
+drop
 dropzone
 dsu
 dt
+dtmi
+dtn
 dunite
 duq
+dvb
 dystetic
 earlham
 Echo3
@@ -2607,6 +2665,7 @@ ecok
 ecotype
 ectophagous
 ecu
+ed2k
 edgewood
 edinboro
 educom
@@ -2700,6 +2759,7 @@ ellipticity
 ellsworthite
 elpasolite
 elpidite
+elsi
 elutriation
 elutriator
 eluvial
@@ -2983,6 +3043,7 @@ eulittoral
 eupelagic
 evapotranspiration
 ewu
+example
 exon
 exoprosthesis
 expanz
@@ -3014,6 +3075,7 @@ eyespot
 eyestalk
 fabricable
 faceplate
+facetime
 falciparum
 farmingdale
 fasciate
@@ -3021,9 +3083,12 @@ fasciation
 fascine
 fasciole
 fau
+fax
 fccc
 fdu
+feed
 feedforward
+feedready
 feedstock
 feedwater
 feldspathoid
@@ -3150,9 +3215,13 @@ fievre
 figcaption
 figure
 file
+filesystem
 filoplume
 filosus
+finger
 firn
+first-run-pen-experience
+fish
 fissiped
 fitnyc
 fiu
@@ -3222,6 +3291,7 @@ fluxmeter
 flyback
 flysch
 flytrap
+fm
 fogbank
 fogbow
 fohn
@@ -3300,6 +3370,8 @@ fructivorous
 fructopyranose
 frustum
 fsu
+ftp
+fuchsia-pkg
 fulcrate
 fullcoll
 fullerene
@@ -3348,6 +3420,7 @@ gemmho
 gemmiform
 gemmiparous
 geneseo
+geo
 GeoApi
 geoapi
 geobotany
@@ -3372,12 +3445,15 @@ geronimo
 gersdorffite
 gesso
 geyserite
+gg
 gibbsite
 gigawatt
 gilsonite
 gimbal
 Giraph
 giraph
+git
+gizmoproject
 glaciation
 glassboro
 GlassFish
@@ -3421,6 +3497,7 @@ gnathothorax
 gneissic
 gnomon
 gnomonic
+go
 goethite
 gonosome
 gonosomite
@@ -3455,6 +3532,7 @@ GoogleWebToolkit
 googlewebtoolkit
 GoogleWebToolkit(GWT)
 googlewebtoolkit(gwt)
+gopher
 goslarite
 GPL
 gpl
@@ -3466,6 +3544,7 @@ graben
 grahamite
 granitization
 granodiorite
+graph
 graphitization
 graphitizing
 graphoscope
@@ -3481,6 +3560,7 @@ greenschist
 Gson
 gson
 gsu
+gtalk
 guaiazulene
 guanajuatite
 guar
@@ -3504,6 +3584,7 @@ gynoecium
 gypsite
 gyrotron
 h1
+h323
 hackmanite
 Hadoop
 hadoop
@@ -3525,6 +3606,7 @@ halogenic
 halohydrin
 halosere
 haltere
+ham
 hambergite
 hamline
 hammarite
@@ -3544,6 +3626,8 @@ hausmannite
 haverford
 HBase
 hbase
+hcap
+hcp
 head
 header
 headers
@@ -3704,19 +3788,24 @@ HSQLDB
 hsqldb
 HTML
 html
+http
 http-equiv
 httpequiv
+https
 hudsonite
 huebnerite
 huntite
 hutchinsonite
 huttonite
+hxxp
+hxxps
 hyalite
 hyalopsite
 hyalotekite
 hybridoma
 hydathode
 hydranencephaly
+hydrazone
 hydroboration
 hydrochlorthiazide
 hydrochory
@@ -3794,8 +3883,10 @@ i
 ianthinite
 ias
 iastate
+iax
 iBatis
 ibatis
+icap
 icase
 ichneumon
 ichnofossil
@@ -3824,9 +3915,11 @@ illite
 illuvium
 ilmenite
 ilstu
+im
 image
 image2
 image3
+imap
 img
 img2
 immittance
@@ -3844,6 +3937,7 @@ indstate
 inductometer
 Infinispan
 infinispan
+info
 informosome
 infrabasal
 infrabranchial
@@ -3886,8 +3980,20 @@ iodohydrocarbon
 iodomethane
 iodosobenzene
 iodoxybenzene
+iotdisco
 iPhone
 iphone
+ipn
+ipp
+ipps
+irc
+irc6
+ircs
+iris
+iris.beep
+iris.lwz
+iris.xpc
+iris.xpcs
 irradiance
 irrotational
 isi
@@ -3937,13 +4043,16 @@ isopropylamine
 isopropylphenyl
 isopropylxanthate
 isoptic
+isostore
 isotach
 isu
 itemprop
 IText
 itext
+itms
 iup
 iupui
+jabber
 JackRabbit
 jackrabbit
 Jackson
@@ -3951,6 +4060,7 @@ jackson
 jacobsite
 jadeitite
 jamesonite
+jar
 jarapplet
 jarosite
 Jasper
@@ -4025,6 +4135,7 @@ jhu
 jhuapl
 JMonkeyEngine
 jmonkeyengine
+jms
 jmu
 jojoba
 jordanite
@@ -4073,6 +4184,7 @@ kernel
 kernite
 kerogen
 keygen
+keyparc
 kilobar
 kilobase
 kilocalorie
@@ -4123,6 +4235,7 @@ larviporous
 laryngophone
 lasalle
 laserscope
+lastfm
 latech
 laterite
 latite
@@ -4131,6 +4244,9 @@ lawsonite
 lazurite
 lcc
 lclark
+ldap
+ldaps
+leaptofrogans
 legend
 lemma
 lemniscate
@@ -4244,6 +4360,7 @@ lollingite
 lolly
 loop
 lophophore
+lorawan
 loricate
 loris
 low
@@ -4277,6 +4394,7 @@ lunisolar
 lunitidal
 lutite
 lvc
+lvlt
 lwc
 LWJGL
 lwjgl
@@ -4310,6 +4428,7 @@ macroprocessor
 madreporite
 mafic
 magnesite
+magnet
 magnetoelectricity
 magnetogalvanic
 magnetohydrodynamics
@@ -4332,6 +4451,8 @@ magnocellular
 magnochromite
 Mahout
 mahout
+mailserver
+mailto
 main
 maldonite
 malm
@@ -4346,10 +4467,12 @@ mansonelliasis
 mantlet
 manto
 map
+maps
 maquis
 maricopa
 marist
 mark
+market
 marlstone
 marquee
 martempering
@@ -4401,6 +4524,7 @@ mesophyll
 Mesos
 mesos
 mesosere
+message
 meta
 metacenter
 metalimnion
@@ -4466,6 +4590,9 @@ Microsoft
 microsoft
 Microsoft Silverlight
 microsoft silverlight
+microsoft.windows.camera
+microsoft.windows.camera.multipicker
+microsoft.windows.camera.picker
 MicrosoftSilverlight
 microsoftsilverlight
 microspore
@@ -4474,6 +4601,7 @@ microsystem
 microtectonics
 microtektite
 microtron
+mid
 migmatite
 millerite
 millikin
@@ -4490,11 +4618,13 @@ MIT
 mit
 miu
 mixolimnion
+mms
 mnsmc
 Mobile
 mobile
 Mockito
 mockito
+modem
 modified
 moly
 molybdenite
@@ -4506,6 +4636,7 @@ molysite
 momental
 monalbite
 monazite
+mongodb
 monobromide
 monocable
 monocalcium
@@ -4554,18 +4685,83 @@ moscovite
 mosis
 motherboard
 mousebane
+moz
 MPL
 mpl
 MPLGPLLGPL
 mplgpllgpl
+ms-access
+ms-browser-extension
+ms-calculator
+ms-drive-to
+ms-enrollment
+ms-excel
+ms-eyecontrolspeech
+ms-gamebarservices
+ms-gamingoverlay
+ms-getoffice
+ms-help
+ms-infopath
+ms-inputapp
+ms-lockscreencomponent-config
+ms-media-stream-id
+ms-mixedrealitycapture
+ms-mobileplans
+ms-officeapp
+ms-people
+ms-powerpoint
+ms-project
+ms-publisher
+ms-restoretabcompanion
+ms-screenclip
+ms-screensketch
+ms-search
+ms-search-repair
+ms-secondary-screen-controller
+ms-secondary-screen-setup
+ms-settings
+ms-settings-airplanemode
+ms-settings-bluetooth
+ms-settings-camera
+ms-settings-cellular
+ms-settings-cloudstorage
+ms-settings-connectabledevices
+ms-settings-displays-topology
+ms-settings-emailandaccounts
+ms-settings-language
+ms-settings-location
+ms-settings-lock
+ms-settings-nfctransactions
+ms-settings-notifications
+ms-settings-power
+ms-settings-privacy
+ms-settings-proximity
+ms-settings-screenrotation
+ms-settings-wifi
+ms-settings-workplace
+ms-spd
+ms-sttoverlay
+ms-transit-to
+ms-useractivityset
+ms-virtualtouchpad
+ms-visio
+ms-walk-to
+ms-whiteboard
+ms-whiteboard-cmd
+ms-word
 msc
+msnim
 msnmessangeraccept
+msrp
+msrps
+mss
 mssc
 mssm
 msstate
 msu
 msus
 mtholyoke
+mtqp
 mtsac
 mtsu
 mtu
@@ -4591,16 +4787,19 @@ multiplet
 multiplexing
 multitask
 multitrack
+mumble
 mun
 muohio
 muon
 muonium
+mupdate
 musc
 muscul
 musculo
 muskingum
 muted
 mvcc
+mvn
 mwc
 mwsc
 MyBatis
@@ -4677,9 +4876,13 @@ Neuroph
 neuroph
 neve
 newpaltz
+news
 newschool
 nextid
+nfs
+ni
 nidicolous
+nih
 nimbostratus
 nitroalkane
 nitroaniline
@@ -4702,6 +4905,7 @@ njit
 nmc
 nmsu
 nmt
+nntp
 noao
 nobr
 nodak
@@ -4710,6 +4914,7 @@ noframes
 norbergite
 northwester
 noscript
+notes
 novalidate
 nrao
 nscee
@@ -4729,6 +4934,7 @@ nycboe
 nyh
 nymc
 object
+ocf
 ociw
 octadecene
 octadecenyl
@@ -4753,6 +4959,7 @@ ohiostate
 ohiou
 ohmointment
 ohsu
+oid
 okstate
 ol
 oldwestbury
@@ -4809,6 +5016,8 @@ One
 one
 onend
 onended
+onenote
+onenote-cmd
 oneonta
 onerror
 onet
@@ -4881,6 +5090,7 @@ oosparite
 oosparrudite
 Oozie
 oozie
+opaquelocktoken
 open
 OpenCV
 opencv
@@ -4888,6 +5098,7 @@ OpenLaszlo
 openlaszlo
 OpenNLP
 opennlp
+openpgp4fpr
 OpenXava
 openxava
 ophiolite
@@ -4967,6 +5178,7 @@ ozokerite
 p
 P3D
 p3d
+pack
 pahoehoe
 palaeotropical
 paleobiocoenosis
@@ -5000,12 +5212,14 @@ paleolithologic
 paleomagnetic
 paleomagnetics
 paleosol
+palm
 palp
 palustrine
 palynology
 Panda3D
 panda3d
 panmixis
+paparazzi
 parabituminous
 paraboloid
 paraboloidal
@@ -5067,6 +5281,8 @@ Payara Server
 payara server
 PayaraServer
 payaraserver
+payment
+payto
 pcsjr
 pcstr
 PDFBox
@@ -5258,6 +5474,7 @@ ping
 pitometer
 Pivot
 pivot
+pkcs11
 placeholder
 plagioclase
 plaintext
@@ -5341,6 +5558,7 @@ polyphase
 polypropylene
 polyurethane
 pomace
+pop
 portlandite
 positronium
 poster
@@ -5350,6 +5568,7 @@ pre
 prehnite
 preignition
 preload
+pres
 prestress
 prill
 PrimeFaces
@@ -5376,6 +5595,7 @@ prorennin
 prorubricyte
 prosodus
 prosoma
+prospero
 protogalaxy
 protolith
 protonate
@@ -5397,6 +5617,7 @@ protoxylem
 protropic
 protrypsin
 proustite
+proxy
 psc
 psephite
 psephyte
@@ -5445,11 +5666,14 @@ pseudomountain
 pseudomucinous
 psilomelane
 psu
+psyc
 psychosomatograph
 psychotaxis
+pttp
 pulsejet
 pumpability
 pvamu
+pwid
 pyrargyrite
 pyridine
 pyrobelonite
@@ -5475,6 +5699,7 @@ pyroxene
 pyrrhite
 pyrrole
 q
+qb
 qc
 QML
 qml
@@ -5505,6 +5730,8 @@ quercite
 quercitol
 quercitrin
 quercitroside
+query
+quic-transport
 Quick
 quick
 quinalbarbitone
@@ -5547,12 +5774,15 @@ rcs
 readonly
 recursion
 redbed
+redis
+rediss
 redshift
 referrerpolicy
 reflectivity
 reflectometer
 regolith
 rel
+reload
 Remote
 remote
 Remote Application
@@ -5565,10 +5795,12 @@ renormalization
 Reports
 reports
 required
+res
 resbenzophenone
 rescap
 rescinnamine
 reseau
+resource
 reticle
 reticulopenia
 reticulopodia
@@ -5622,6 +5854,7 @@ rit
 River
 river
 riverbed
+rmi
 rockbolt
 rockburst
 rockslide
@@ -5641,8 +5874,14 @@ rowspan
 rp
 rpi
 rpslmc
+rsync
 rt
 rtc
+rtmfp
+rtmp
+rtsp
+rtsps
+rtspu
 ruby
 runet
 rutherfordium
@@ -5690,6 +5929,7 @@ Seam
 seam
 seamount
 seattleu
+secondlife
 section
 Security
 security
@@ -5705,6 +5945,7 @@ sepiolite
 serpentinite
 Server
 server
+service
 sesquibromide
 sesquicarbonate
 sesquichloride
@@ -5716,6 +5957,7 @@ sesquisulfate
 sesquisulfide
 sesquiterpene
 sessid
+session
 sessoblast
 seston
 set
@@ -5727,6 +5969,8 @@ sfasu
 sferics
 sfit
 sfsu
+sftp
+sgn
 shadow
 shape
 shareware
@@ -5734,6 +5978,7 @@ Shiro
 shiro
 shothole
 shsu
+shttp
 sid
 sideband
 siderolite
@@ -5741,6 +5986,7 @@ sideromelane
 sideropenic
 siderophore
 siemens
+sieve
 silane
 silicle
 silicoaluminate
@@ -5755,13 +6001,16 @@ siltstone
 Silverlight
 silverlight
 silviculture
+simpleledger
 sintering
+sip
 siphonogamous
 siphonoglyph
 siphonosome
 siphonostele
 siphonozooid
 siphuncle
+sips
 SITESERVER
 siteserver
 siu
@@ -5774,6 +6023,7 @@ sju
 skarn
 skidmore
 skio
+skype
 slagging
 slcc
 SLF4J
@@ -5784,20 +6034,28 @@ slipway
 slot
 slu
 small
+smb
 smc
 smcm
+sms
 smsu
+smtp
 smu
 snc
+snews
+snmp
 snowbreak
 snybklyn
 snybuf
 snymor
+soap.beep
+soap.beeps
 sociobiology
 sodaclase
 sodalite
 sofar
 soffit
+soldat
 solenium
 solifluction
 soliton
@@ -5855,6 +6113,7 @@ spherulite
 spherulitic
 sphingolipidosis
 sphygmophone
+spiffe
 spinel
 spirocyst
 spirule
@@ -5864,6 +6123,7 @@ Spock
 spock
 spodumene
 sporophyll
+spotify
 Spring
 spring
 Spring Integration
@@ -5884,6 +6144,7 @@ src
 srcdoc
 srclang
 srcset
+ssh
 staphylomycin
 staphylotoxin
 starburst
@@ -5891,6 +6152,7 @@ start
 statoblast
 stator
 staurolite
+steam
 steatization
 steelmaking
 steen
@@ -5949,6 +6211,8 @@ Struts
 struts
 stsci
 stthomas
+stun
+stuns
 style
 sub
 subangular
@@ -5967,6 +6231,7 @@ subgraywacke
 sublittoral
 submetallic
 submillimeter
+submit
 succinimide
 succinite
 succinonitrite
@@ -6011,6 +6276,7 @@ susc
 susqu
 suu
 svg
+svn
 SWF
 swf
 switchgear
@@ -6045,6 +6311,7 @@ syr
 tabindex
 table
 tablemount
+tag
 taiu
 tamu
 Tapestry
@@ -6059,6 +6326,7 @@ tbody
 tc3
 tcu
 td
+teamspeak
 technetron
 technihadron
 technipion
@@ -6075,6 +6343,7 @@ tectoquinone
 tectosilicate
 tectosome
 tectosphere
+tel
 teleconference
 telemeeting
 telemeteorograph
@@ -6088,6 +6357,8 @@ teleseminar
 telesynd
 teleterminal
 teletext
+teliaeid
+telnet
 telson
 Template
 template
@@ -6189,6 +6460,7 @@ text
 textarea
 texturized
 tfoot
+tftp
 th
 thalassic
 thalassocratic
@@ -6229,6 +6501,7 @@ thermovoltmeter
 therophyte
 thesocyte
 thetagram
+things
 thiophanate
 thiophenol
 thiophile
@@ -6238,6 +6511,7 @@ thiosemicarbazone
 thiospinel
 thiostreptone
 thiosulfonic
+thismessage
 thorianite
 thorite
 throatable
@@ -6255,16 +6529,19 @@ thyrse
 Tika
 tika
 time
+tip
 Titanium
 titanium
 title
 tju
 tmc
+tn3270
 toluylic
 tolyl
 Tomcat
 tomcat
 tonne
+tool
 Toolkit
 toolkit
 topoisomerases
@@ -6386,6 +6663,9 @@ turboshaft
 turbosphere
 turbulization
 turion
+turn
+turns
+tv
 type
 tyrolite
 tyrosamine
@@ -6420,6 +6700,7 @@ ucsu
 udallas
 udayton
 udel
+udp
 ufl
 uga
 uh
@@ -6512,6 +6793,7 @@ unmc
 uno
 unomaha
 unr
+unreal
 unt
 uofo
 uofs
@@ -6543,6 +6825,7 @@ urediospore
 ureilite
 urich
 uridine
+urn
 uroarthritis
 urocanic
 urogomphus
@@ -6562,6 +6845,7 @@ usm
 usma
 usouthal
 usu
+ut2004
 uta
 utahsbr
 utarl
@@ -6592,6 +6876,7 @@ uwstout
 uwsuper
 uww
 uwyo
+v-event
 v3
 Vaadin
 vaadin
@@ -6637,6 +6922,8 @@ vectopluviometer
 vectored
 Velocity
 velocity
+vemmi
+ventrilo
 Vertx
 vertx
 vestibulocerebellar
@@ -6651,6 +6938,8 @@ vibrometer
 vibronic
 video
 videophone
+videotex
+view-source
 viewstate
 vigoureux
 vill
@@ -6678,6 +6967,7 @@ vitellarium
 vitellina
 vitrain
 vmi
+vnc
 volborthite
 volcanello
 volcanicity
@@ -6698,6 +6988,7 @@ vuthan
 VXQuery
 vxquery
 wacke
+wais
 Wakanda
 wakanda
 waveband
@@ -6712,6 +7003,7 @@ wcu
 wcupa
 Web
 web
+webcal
 weberite
 Webix
 webix
@@ -6756,11 +7048,15 @@ wollastonite
 WPF
 wpf
 wpi
+wpid
 wrap
+ws
+wss
 wssu
 wsu
 Wt
 wt
+wtai
 wuacc
 wulfenite
 wurtzilite
@@ -6769,6 +7065,7 @@ wustl
 wvnet
 wwc
 wwu
+wyciwyg
 xanthan
 xanthate
 xanthenone
@@ -6783,6 +7080,8 @@ xanthosiderite
 xanthoxenite
 Xbox
 xbox
+xcon
+xcon-userid
 xenoblast
 xenocryst
 xenogamy
@@ -6797,7 +7096,11 @@ xerces
 xerogel
 xerophyte
 xerosere
+xfire
+xmlrpc.beep
+xmlrpc.beeps
 xmp
+xmpp
 Xojo
 xojo
 Xojo Server
@@ -6806,6 +7109,7 @@ XojoServer
 xojoserver
 XojoServerJavaScriptclient
 xojoserverjavascriptclient
+xri
 xylenol
 xylidine
 xylinite
@@ -6816,8 +7120,12 @@ Yes
 yes
 ylide
 ylium
+ymsgr
 ysu
 yu
+z39.50
+z39.50r
+z39.50s
 zenid
 zenocentric
 zenodiagnosis
