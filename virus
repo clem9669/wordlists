@@ -191,8 +191,8 @@ Colorectal
 corona
 coronavirus
 covid
-covid19
 covid-19
+covid19
 cowpea
 cucumber
 cunea
@@ -225,6 +225,8 @@ galleria
 Gastro-intestinale
 gastro-intestinale
 gastroenteritis
+Gastrointestinale
+gastrointestinale
 glycine
 grassy
 green
@@ -372,9 +374,19 @@ sarcomeKaposi
 sarcomekaposi
 sars-cov
 sars-cov-
+sars-cov-0
 sars-cov-1
 sars-cov-2
 sars-cov-3
+sarscov
+sarscov-
+sarscov-0
+sarscov-1
+sarscov-2
+sarscov-3
+sarscov1
+sarscov2
+sarscov3
 sein
 Sein
 separata
@@ -419,7 +431,6 @@ tumeurducerveau
 turnip
 typhimurium
 variole
-variole 
 vein
 vessie
 Vessie
