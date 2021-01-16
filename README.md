@@ -57,12 +57,8 @@ See the release section in github for a uniq version compiled.
 awk '!a[$0]++' all > all_uniq
 ```
 
-I recommand running hashcat rule on the wordlist then crack avoiding to have duplicate hash calculation (ex: password & password1 will be computed twice in hashcat with the rules.)
-
-> **Warning**: the list sum is ~ 700'000 words.
-> Multipled with the rule at https://github.com/clem9669/hashcat-rule (\~ 12'000), you have roughly 8'400'000'000 passwords.
-
-The lists could have **duplicates** so do not forget to **deduplicate** before cracking. (https://stackoverflow.com/questions/9377040/remove-duplicate-entries-in-a-bash-script)
+> **Warning**: the lists can be big!
+> Multipled with the rule at https://github.com/clem9669/hashcat-rule
 
 ⚠️⚠️⚠️
 
