@@ -2,6 +2,8 @@ ain
 aisne
 allier
 alpes
+alpes de haute provence
+alpes maritimes
 alpes-de-haute-provence
 alpes-maritimes
 alpesdehauteprovence
@@ -17,27 +19,38 @@ aube
 aude
 aveyron
 bas
+bas rhin
 bas-rhin
 basrhin
 belfort
 bouches
+bouches du rhone
 bouches-du-rhone
 bouchesdurhone
 calais
 calvados
 cantal
 charente
+charente maritime
 charente-maritime
 charentemaritime
 cher
 correze
 corrèze
 cote
+cote d'or
+cote dor
 cote-d'or
+cote-dor
 coted'or
+cotedor
 cotes
+cotes d'armor
+cotes darmor
 cotes-d'armor
+cotes-darmor
 cotesd'armor
+cotesdarmor
 creuse
 d'armor
 d'oise
@@ -46,6 +59,8 @@ darmor
 de
 denis
 deux
+deux sevres
+deux sèvres
 deux-sevres
 deux-sèvres
 deuxsevres
@@ -60,6 +75,7 @@ du
 essonne
 et
 eure
+eure et loir
 eure-et-loir
 eureetloir
 finistere
@@ -70,8 +86,15 @@ gers
 gironde
 guadeloupe
 haut
+haut rhin
 haut-rhin
 haute
+haute garonne
+haute loire
+haute marne
+haute saone
+haute savoie
+haute vienne
 haute-garonne
 haute-loire
 haute-marne
@@ -82,6 +105,9 @@ hautegaronne
 hauteloire
 hautemarne
 hautes
+hautes alpes
+hautes pyrenees
+hautes pyrénées
 hautes-alpes
 hautes-pyrenees
 hautes-pyrénées
@@ -93,14 +119,17 @@ hautespyrénées
 hautevienne
 hautrhin
 hauts
+hauts de seine
 hauts-de-seine
 hautsdeseine
 herault
 hérault
 ille
+ille et vilaine
 ille-et-vilaine
 illeetvilaine
 indre
+indre et loire
 indre-et-loire
 indreetloire
 isere
@@ -109,19 +138,25 @@ jura
 la reunion
 la réunionain
 landes
+lareunion
+laréunionain
 loir
+loir et cher
 loir-et-cher
 loire
+loire atlantique
 loire-atlantique
 loireatlantique
 loiret
 loiretcher
 lot
+lot et garonne
 lot-et-garonne
 lotetgaronne
 lozere
 lozère
 maine
+maine et loire
 maine-et-loire
 maineetloire
 manche
@@ -130,6 +165,7 @@ maritimes
 marne
 mayenne
 meurthe
+meurthe et moselle
 meurthe-et-moselle
 meurtheetmoselle
 meuse
@@ -142,31 +178,43 @@ oise
 orientales
 orne
 pas
+pas de calais
 pas-de-calais
 pasdecalais
 provence
 puy
+puy de dome
 puy-de-dome
 puydedome
 pyrenees
+pyrenees atlantiques
+pyrenees orientales
 pyrenees-atlantiques
 pyrenees-orientales
 pyreneesatlantiques
 pyreneesorientales
 pyrénées
+pyrénées atlantiques
+pyrénées orientales
 pyrénées-atlantiques
 pyrénées-orientales
 pyrénéesatlantiques
 pyrénéesorientales
+reunion
 rhin
 rhone
+réunionain
 saint
 saone
+saone et loire
 saone-et-loire
 saoneetloire
 sarthe
 savoie
 seine
+seine et marne
+seine maritime
+seine saint denis
 seine-et-marne
 seine-maritime
 seine-saint-denis
@@ -177,14 +225,21 @@ sevres
 somme
 sèvres
 tarn
+tarn et garonne
 tarn-et-garonne
 tarnetgaronne
 territoire de belfort
+territoiredebelfort
 val
+val d'oise
+val de marne
+val doise
 val-d'oise
 val-de-marne
+val-doise
 vald'oise
 valdemarne
+valdoise
 var
 vaucluse
 vendee
