@@ -5,7 +5,9 @@
 
 While pentesting it is sometime hard to find a good worldlist to run with *dirb, wfuzz, gobuster, ffuf and others*.
 
-This project aims to give a good and complete wordlist for discovery (including French words).
+This project aims to give a good and complete wordlist for discovery (including French words). It does **not** contain file extensions ! Put extensions accordingly to your webapp.
+
+For extensions file, I recommand the [Raft file extensions](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content).
 
 I have removed weird and difficult to type letter:
 ```sh
@@ -30,7 +32,7 @@ sed -i '/µ/d' decouverte.txt
 The size of the wordlist is about:
 ```sh
 wc -l decouverte.txt 
-347974 decouverte.txt
+348290 decouverte.txt
 ```
 
 ### Built With
