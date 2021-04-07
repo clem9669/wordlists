@@ -11,7 +11,7 @@
     Crack french people password
   </p>
 
-> check out my hashcat rule project at: https://github.com/clem9669/hashcat-rule
+> Check out my hashcat rule project at: https://github.com/clem9669/hashcat-rule
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -32,6 +32,12 @@ If you are cracking with the list above, please also **use a rule in hashcat or 
 
 I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë,ù,µ` which are difficult to type chars even if they are present in french alphabet.
 
+## ⚠️ Release Compilation ⚠️
+
+Because It might be simpler for you, I already compiled 3 differents versions of wordlists in the [Release](https://github.com/clem9669/wordlists/releases) section of Github
+
+All details are there about wordlists combinaison.
+
 ### Secondary
 
 In the folder **WEB**, you can found a wordlist for pentesting purpose wich is design to find ressources for french people too. 
@@ -43,8 +49,11 @@ The main part of the list come from various place of internet but many thanks to
 * [Grammalect](https://grammalecte.net/download.php?prj=fr)
 * [SublimeText](https://www.sublimetext.com/)
 * [Python](https://www.python.org/)
+* [xajkep/wordlists](https://github.com/xajkep/wordlists)
+* [danielmiessler/Seclists](https://github.com/danielmiessler/SecLists/)
+* And more github wordlists ...
 
-The keyboard walk are generated with https://github.com/hashcat/kwprocessor.
+The keyboard walks are generated with https://github.com/hashcat/kwprocessor.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -60,12 +69,8 @@ awk '!a[$0]++' all > all_uniq
 > **Warning**: the lists can be big!
 > Multipled with the rule at https://github.com/clem9669/hashcat-rule
 
-⚠️⚠️⚠️
 
-I have recently heard of https://github.com/nil0x42/duplicut ! 
-
-It aims to uniq huge wordlist ! I recommand you to give it a try.
-
+I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq huge wordlist.
 
 The following projects could interest you:
   - https://github.com/mxrch/penglab: Abuse of Google Colab for Cracking
