@@ -853,6 +853,9 @@ Algorand
 algorand
 alidade
 align
+align-content
+align-items
+align-self
 aliquant
 alite
 alivincular
@@ -868,6 +871,7 @@ alkylbenzene
 alkylene
 alkyloxonium
 alkyne
+all
 allachesthesia
 allactite
 allalinite
@@ -1098,6 +1102,15 @@ anhydrite
 animate
 animatemotion
 animatetransform
+animation
+animation-delay
+animation-direction
+animation-duration
+animation-fill-mode
+animation-iteration-count
+animation-name
+animation-play-state
+animation-timing-function
 ankerite
 Ankr
 ANKR
@@ -13926,8 +13939,13 @@ babel.com
 backband
 backblast
 backbreak
+backface-visibility
 backfill
 backflash
+background
+background-clip
+background-origin
+background-size
 backplate
 backsaw
 backscatter
@@ -14294,6 +14312,17 @@ bolo
 boolean
 boracite
 borane
+border-bottom-left-radius
+border-bottom-right-radius
+border-image
+border-image-outset
+border-image-repeat
+border-image-slice
+border-image-source
+border-image-width
+border-radius
+border-top-left-radius
+border-top-right-radius
 borehole
 borer
 boride
@@ -14311,6 +14340,9 @@ BouncyCastleCryptographic
 bouncycastlecryptographic
 bowfin
 bowshock
+box-decoration-break
+box-shadow
+box-sizing
 boxwork
 br
 brachycerebral
@@ -14614,6 +14646,7 @@ cardioblast
 cardiocirculatory
 cardiogenic
 carene
+caret-color
 carination
 carinii
 cariostatic
@@ -14999,6 +15032,7 @@ clinohedrite
 clinohumite
 clinoptilolite
 clinopyroxene
+clip-path
 clu
 Club-50plus
 club-50plus
@@ -15061,6 +15095,16 @@ colostate
 cols
 colspan
 columbite
+column-count
+column-fill
+column-gap
+column-rule
+column-rule-color
+column-rule-style
+column-rule-width
+column-span
+column-width
+columns
 com-eventbrite-attendee
 combinatorial
 comeventbriteattendee
@@ -20427,6 +20471,7 @@ filecoin
 filesystem
 filoplume
 filosus
+filter
 finger
 firn
 first-run-pen-experience
@@ -20443,6 +20488,12 @@ flavanol
 flavescence
 Flex
 flex
+flex-basis
+flex-direction
+flex-flow
+flex-grow
+flex-shrink
+flex-wrap
 flexibilizer
 flexional
 fleXive
@@ -20515,6 +20566,9 @@ fohn
 foldover
 FOMO
 font
+font-kerning
+font-size-adjust
+font-stretch
 footcandle
 footer
 for
@@ -21276,6 +21330,7 @@ hambergite
 hamline
 hammarite
 hamptonu
+hanging-punctuation
 hanksite
 haplophase
 Happn
@@ -21548,6 +21603,7 @@ hypertext
 hyperthecosis
 hypervalent
 hypervelocity
+hyphens
 hypoallergenic
 hypocotyl
 hypodontia
@@ -23194,6 +23250,7 @@ isohypse
 isohypsic
 isoinertial
 isokeraunic
+isolation
 isometry
 isomolecule
 isoneph
@@ -23350,6 +23407,7 @@ jsums
 juniata
 JUnit
 junit
+justify-content
 JVx
 jvx
 Kafka
@@ -24328,6 +24386,8 @@ nycboe
 nyh
 nymc
 object
+object-fit
+object-position
 ocf
 ociw
 octadecene
@@ -24501,6 +24561,7 @@ oosparite
 oosparrudite
 Oozie
 oozie
+opacity
 opaquelocktoken
 open
 OpenCV
@@ -24524,6 +24585,7 @@ Oracle WebLogic
 oracle weblogic
 OracleWebLogic
 oracleweblogic
+order
 organoborane
 organolite
 organoselenium
@@ -24578,7 +24640,10 @@ Oulfa
 oulfa
 Oulfa.fr
 oulfa.fr
+outline-offset
 output
+overflow-x
+overflow-y
 oxazole
 oxosilane
 oxoxanthone
@@ -24772,6 +24837,8 @@ periodogram
 perlite
 permittivity
 perovskite
+perspective
+perspective-origin
 perthite
 petrofabric
 petrofacies
@@ -24955,6 +25022,7 @@ Pof.fr
 pof.fr
 POI
 poi
+pointer-events
 polaron
 Polkadot
 polkadot
@@ -25323,6 +25391,7 @@ Reservecougar
 reservecougar
 Reservecougar.com
 reservecougar.com
+resize
 resource
 reticle
 reticulopenia
@@ -25926,6 +25995,7 @@ syngas
 Synthetix
 synthetix
 syr
+tab-size
 tabindex
 table
 tablemount
@@ -26091,6 +26161,13 @@ tetryl
 tetrytol
 Text
 text
+text-align-last
+text-decoration-color
+text-decoration-line
+text-decoration-style
+text-justify
+text-overflow
+text-shadow
 textarea
 texturized
 Tezos
@@ -26226,6 +26303,14 @@ trachyte
 track
 tractrix
 transaction
+transform
+transform-origin
+transform-style
+transition
+transition-delay
+transition-duration
+transition-property
+transition-timing-function
 translate
 transuranic
 trennschaukel
@@ -26537,6 +26622,7 @@ usdc
 USDT
 usdt
 usemap
+user-select
 uses
 usf
 usfca
@@ -26781,6 +26867,8 @@ wmich
 wofford
 wolframite
 wollastonite
+word-break
+word-wrap
 WPF
 wpf
 wpi
@@ -26789,6 +26877,7 @@ wrap
 Wrapped
 Wrapped Bitcoin
 wrapped bitcoin
+writing-mode
 ws
 wss
 wssu
