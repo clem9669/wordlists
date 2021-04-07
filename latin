@@ -1,3 +1,4 @@
+a
 A contrario
 a contrario
 A fortiori
@@ -22,6 +23,8 @@ ac
 accepi
 acceptum
 accipio
+accumsan
+accusamus
 acies
 Acontrario
 acontrario
@@ -42,10 +45,13 @@ Adhoc
 adhoc
 Adhominem
 adhominem
+adipiscing
+adipisicing
 adsum
 Advitamaeternam
 advitamaeternam
 ae
+aenean
 aequo
 aetas
 aeternam
@@ -65,6 +71,10 @@ alea jacta est
 Aleajactaest
 aleajactaest
 alienus
+aliqua
+aliquam
+aliquet
+aliquip
 aliquis
 alius
 alter
@@ -76,6 +86,7 @@ alterego
 altus
 amatum
 amavi
+amet
 amicitia
 amicus
 Aminima
@@ -88,6 +99,8 @@ amor fati
 Amorfati
 amorfati
 an
+anim
+animi
 animus
 annus
 ante
@@ -97,20 +110,25 @@ Apriori
 apriori
 apud
 aqua
+arcu
 are
 arma
 ars
 artis
 asinus
+assumenda
 at
 atis
 atque
+auctor
 audeo
 audio
+augue
 ausus
 ausus sum
 ausussum
 aut
+aute
 autem
 belli
 Bellum
@@ -119,6 +137,9 @@ Bene
 bene
 Beneficium
 beneficium
+bibendum
+blandit
+blanditiis
 Bonum
 bonum
 Bonus
@@ -161,6 +182,7 @@ cessum
 cetera
 Ceterus
 ceterus
+cillum
 Civilis
 civilis
 Civis
@@ -225,6 +247,7 @@ Commeatus
 commeatus
 Commito
 commito
+commodo
 Commoveo
 commoveo
 Communis
@@ -235,21 +258,35 @@ Comperio
 comperio
 Complector
 complector
+condimentum
 Conditio
 conditio
 Conditio sine qua non
 conditio sine qua non
 Conditiosinequanon
 conditiosinequanon
+congue
+consectetur
+consequat
 contrario
+convallis
+corrupti
+cras
 culpa
 cultum
+cum
+cumque
+cupidatat
+cupiditate
+curabitur
 Curriculum
 curriculum
 Curriculum vitae
 curriculum vitae
 Curriculumvitae
 curriculumvitae
+cursus
+dapibus
 De
 de
 De facto
@@ -260,18 +297,49 @@ Defacto
 defacto
 Dejure
 dejure
+deleniti
+deserunt
+diam
+dictum
+dictumst
 diem
+dignissim
+dignissimos
+dis
+distinctio
 Distinguo
 distinguo
 Dixit
 dixit
+do
+dolor
+dolore
+dolores
+dolorum
+donec
+ducimus
+dui
+duis
 e
+ea
+egestas
+eget
 egi
 ego
+eiusmod
+eleifend
+elementum
+eligendi
+elit
+enim
+eos
+erat
 ere
 ergo
+eros
 Erratum
 erratum
+esse
 est
 Et
 et
@@ -279,6 +347,9 @@ Et cetera ou et caetera
 et cetera ou et caetera
 Etceteraouetcaetera
 etceteraouetcaetera
+etiam
+eu
+euismod
 Ex
 ex
 Ex aequo
@@ -287,12 +358,25 @@ Ex-ante
 ex-ante
 Exaequo
 exaequo
+excepteur
+excepturi
+exercitation
 Exit
 exit
+expedita
 extenso
 extremis
+facere
+facilis
+facilisi
+facilisis
 facto
+fames
 fati
+faucibus
+felis
+fermentum
+feugiat
 Fiat
 fiat
 Fiat Lux
@@ -301,17 +385,28 @@ FiatLux
 fiatlux
 fine
 fortiori
+fringilla
+fuga
+fugiat
+fusce
 gnitum
 gnoui
+gravida
 Grosso
 grosso
 Grosso modo
 grosso modo
 Grossomodo
 grossomodo
+habitant
+habitasse
+hac
+harum
+hendrerit
 hoc
 hominem
 i
+iaculis
 Ibid
 ibid
 Ibid ou Ibidem
@@ -320,8 +415,11 @@ Ibidem
 ibidem
 IbidouIbidem
 ibidouibidem
+id
 Idem
 idem
+impedit
+imperdiet
 In
 in
 In extenso
@@ -330,6 +428,7 @@ In extremis
 in extremis
 In fine
 in fine
+incididunt
 Inextenso
 inextenso
 Inextremis
@@ -338,6 +437,8 @@ Infine
 infine
 inis
 initio
+integer
+interdum
 Intra
 intra
 Intra muros
@@ -350,18 +451,43 @@ Intuitu personae
 intuitu personae
 Intuitupersonae
 intuitupersonae
+ipsum
 ire
+irure
 is
 isse
 itis
+iusto
 jacta
 jure
+justo
+labore
+laboris
+laborum
+lacinia
+lacus
+laoreet
 Lapsus
 lapsus
 lectum
+lectus
 legi
+leo
+libero
+ligula
+lobortis
+lorem
+luctus
 Lux
 lux
+maecenas
+magna
+magnis
+malesuada
+massa
+mattis
+mauris
+maxime
 Mea
 mea
 Mea culpa
@@ -369,38 +495,84 @@ mea culpa
 Meaculpa
 meaculpa
 mecum
+metus
+mi
+minim
 minima
+minus
 misi
 missum
 modo
+molestias
+molestie
+mollis
+mollit
+mollitia
+montes
+morbi
 mortem
 motum
 moui
 muros
+mus
+nam
+nascetur
+natoque
 Nec
 nec
 Nec plus ultra
 nec plus ultra
 Necplusultra
 necplusultra
+neque
+netus
+nibh
+nihil
+nisi
+nisl
+nobis
 non
+nostrud
 Nota
 nota
 Nota bene
 nota bene
 Notabene
 notabene
+nulla
+nullam
+nunc
+obcaecati
+occaecat
+odio
+officia
+omnis
 onis
+optio
+orci
 oris
+ornare
 orum
 ou
+pariatur
+parturient
+pellentesque
+penatibus
 peri
 personae
 pertum
+pharetra
+phasellus
+placeat
+placerat
+platea
 plexus
 plexus sum
 plexussum
 plus
+porta
+porttitor
+possimus
 Post
 post
 Post mortem
@@ -408,20 +580,58 @@ post mortem
 posteriori
 Postmortem
 postmortem
+posuere
+potenti
+praesent
+praesentium
+pretium
 priori
 pro
+proident
+proin
+provident
+pulvinar
+purus
 qua
+quam
+quas
 Qui
 qui
 Qui pro quo
 qui pro quo
+quidem
 Quiproquo
 quiproquo
+quis
+quisque
 quo
+quod
+quos
+repellendus
+reprehenderit
+rerum
+rhoncus
+ridiculus
+risus
+rutrum
+sagittis
+sapien
+scelerisque
+sed
+sem
+semper
+senectus
 si
 Sic
 sic
+similique
 sine
+sint
+sit
+sociis
+sodales
+sollicitudin
+soluta
 Statu
 statu
 Statu quo
@@ -429,22 +639,47 @@ statu quo
 Statuquo
 statuquo
 sum
+sunt
+suscipit
+suspendisse
 tamtamtam
 Tamtamtam
 TamTamTam
+tellus
+tempor
+tempore
+tempus
+tincidunt
 tis
+tortor
+tristique
+turpis
+ullamco
+ullamcorper
 ultra
+ultrices
+ultricies
 um
+urna
 us
+ut
 Vade
 vade
 Vade mecum
 vade mecum
 Vademecum
 vademecum
+varius
+vehicula
+vel
+velit
+venenatis
+veniam
+vero
 versa
 Versus
 versus
+vestibulum
 Veto
 veto
 Vice
@@ -455,3 +690,10 @@ Viceversa
 viceversa
 vitae
 vitam
+vivamus
+viverra
+voluptas
+voluptate
+voluptatum
+volutpat
+vulputate
