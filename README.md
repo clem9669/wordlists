@@ -48,7 +48,8 @@ The main part of the list come from various places of internet but many thanks t
 * [Wikipedia](https://www.wikipedia.org/)
 * [Grammalect](https://grammalecte.net/download.php?prj=fr)
 * [SublimeText](https://www.sublimetext.com/)
-* [weakpass.com/](https://weakpass.com/)
+* [weakpass.com](https://weakpass.com/)
+* [hashes.org](https://hashes.org)
 * [packetstormsecurity.com](https://packetstormsecurity.com/Crackers/wordlists/)
 * [danielmiessler/Seclists](https://github.com/danielmiessler/SecLists/)
 * [scipag/password-list](https://github.com/scipag/password-list/)
@@ -65,7 +66,7 @@ You could use only certains or all lists depending on your scope.
 See the release section in github for a uniq version compiled.
 
 ```bash
-LC_ALL=C.UTF-8; time sort -u wordlist >> wordlist_uniq_sorted
+LC_ALL=C.UTF-8; sort -u wordlist >> wordlist_uniq_sorted
 ```
 
 > **Warning**: the lists can be very big!
@@ -77,14 +78,15 @@ I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq hu
 ## Recommanded read
 
 The following projects could interest you:
-  - https://github.com/mxrch/penglab: Abuse of Google Colab for Cracking
-  - https://github.com/danielmiessler/SecLists/: Tons of Lists
-  - https://github.com/hashcat/hashcat: Hashcat
-  - https://github.com/openwall/john: John (jtr)
-  - https://github.com/nil0x42/duplicut: Remove duplicates in huge lists
-  - https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
-  - https://www.scip.ch/en/?labs.20210415
-
+  - [CeWL](https://tools.kali.org/password-attacks/cewl): Website word crawler
+  - [crunch](https://tools.kali.org/password-attacks/crunch): Wordlist generator alternative to *mp64.bin*
+  - [github.com/mxrch/penglab](https://github.com/mxrch/penglab): Abuse of Google Colab for Cracking
+  - [github.com/hashcat/hashcat](https://github.com/hashcat/hashcat): Hashcat
+  - [github.com/openwall/john](https://github.com/openwall/john): John (jtr)
+  - [github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut): Remove duplicates in huge lists
+  - [scip.ch/en/?labs.20210415](https://www.scip.ch/en/?labs.20210415): Analysis of Passwords (blog)
+  - [crackstation.net/crackstation-wordlist-password-cracking-dictionary](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm): CrackStation's wordlist
+  - [hackingarticles.in/wordlists-for-pentester](https://www.hackingarticles.in/wordlists-for-pentester/): Wordlist guide
 
 <!-- ROADMAP -->
 ## Roadmap
