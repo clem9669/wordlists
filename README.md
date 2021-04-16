@@ -44,16 +44,18 @@ In the folder **WEB**, you can found a wordlist for pentesting purpose wich is d
 Read more at [WEB_readme](https://github.com/clem9669/wordlists/blob/master/Web/README.md)
 
 ### Built With
-The main part of the list come from various place of internet but many thanks to :
+The main part of the list come from various places of internet but many thanks to :
 * [Wikipedia](https://www.wikipedia.org/)
 * [Grammalect](https://grammalecte.net/download.php?prj=fr)
 * [SublimeText](https://www.sublimetext.com/)
 * [Python](https://www.python.org/)
-* [xajkep/wordlists](https://github.com/xajkep/wordlists)
+* [weakpass.com/](https://weakpass.com/)
 * [danielmiessler/Seclists](https://github.com/danielmiessler/SecLists/)
+* [scipag/password-list](https://github.com/scipag/password-list/)
+* [xajkep/wordlists](https://github.com/xajkep/wordlists)
 * And more github wordlists ...
 
-The keyboard walks are generated with https://github.com/hashcat/kwprocessor.
+The keyboard walks are generated with [kwprocessor](https://github.com/hashcat/kwprocessor).
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -69,8 +71,11 @@ awk '!a[$0]++' all > all_uniq
 > **Warning**: the lists can be big!
 > Multipled with the rule at https://github.com/clem9669/hashcat-rule
 
-
 I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq huge wordlist.
+
+
+
+## Recommanded read
 
 The following projects could interest you:
   - https://github.com/mxrch/penglab: Abuse of Google Colab for Cracking
@@ -78,6 +83,10 @@ The following projects could interest you:
   - https://github.com/hashcat/hashcat: Hashcat
   - https://github.com/openwall/john: John (jtr)
   - https://github.com/nil0x42/duplicut: Remove duplicates in huge lists
+  - https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
+  - https://packetstormsecurity.com/Crackers/wordlists/
+  - https://www.scip.ch/en/?labs.20210415
+
 
 <!-- ROADMAP -->
 ## Roadmap
