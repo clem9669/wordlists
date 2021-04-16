@@ -30,7 +30,7 @@ It is easier to crack password for english people because it is le langue of int
 This project aim to provide french word list about everything a person could use as a base password.
 If you are cracking with the list above, please also **use a rule in hashcat or john**.
 
-I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë,ù,µ` which are difficult to type chars even if they are present in french alphabet.
+I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë` which are difficult to type chars even if they are present in french alphabet.
 
 ## ⚠️ Release Compilation ⚠️
 
@@ -48,8 +48,8 @@ The main part of the list come from various places of internet but many thanks t
 * [Wikipedia](https://www.wikipedia.org/)
 * [Grammalect](https://grammalecte.net/download.php?prj=fr)
 * [SublimeText](https://www.sublimetext.com/)
-* [Python](https://www.python.org/)
 * [weakpass.com/](https://weakpass.com/)
+* [packetstormsecurity.com](https://packetstormsecurity.com/Crackers/wordlists/)
 * [danielmiessler/Seclists](https://github.com/danielmiessler/SecLists/)
 * [scipag/password-list](https://github.com/scipag/password-list/)
 * [xajkep/wordlists](https://github.com/xajkep/wordlists)
@@ -65,14 +65,13 @@ You could use only certains or all lists depending on your scope.
 See the release section in github for a uniq version compiled.
 
 ```bash
-awk '!a[$0]++' all > all_uniq
+LC_ALL=C.UTF-8; time sort -u wordlist >> wordlist_uniq_sorted
 ```
 
-> **Warning**: the lists can be big!
+> **Warning**: the lists can be very big!
 > Multipled with the rule at https://github.com/clem9669/hashcat-rule
 
 I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq huge wordlist.
-
 
 
 ## Recommanded read
@@ -84,7 +83,6 @@ The following projects could interest you:
   - https://github.com/openwall/john: John (jtr)
   - https://github.com/nil0x42/duplicut: Remove duplicates in huge lists
   - https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm
-  - https://packetstormsecurity.com/Crackers/wordlists/
   - https://www.scip.ch/en/?labs.20210415
 
 
