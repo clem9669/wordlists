@@ -21,8 +21,6 @@
 (not
 (Paulsen)
 (paulsen)
-(Paulsen),
-(paulsen),
 (Russian
 (russian
 (Tarrasch)
@@ -38,6 +36,206 @@
 (yugoslav
 /
 1
+1.c4
+1.c4 Nf6
+1.c4 nf6
+1.c4Nf6
+1.c4nf6
+1.d4
+1.d4 d5 2.c4
+1.d4 d5 2.c4 c6
+1.d4 d5 2.c4 c6 3.Nf3 Nf6
+1.d4 d5 2.c4 c6 3.nf3 nf6
+1.d4 d5 2.c4 dxc4
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.d3
+1.d4 d5 2.c4 dxc4 3.nf3 nf6 4.d3
+1.d4 d5 2.Nf3 Nf6 3
+1.d4 d5 2.nf3 nf6 3
+1.d4 d6 2.Nf3 Bg4
+1.d4 d6 2.nf3 bg4
+1.d4 d6 2.Nf3 Bg4 3.c4 Nbd7 4.Nc3
+1.d4 d6 2.nf3 bg4 3.c4 nbd7 4.nc3
+1.d4 f5
+1.d4 f5 2.g3 Nf6
+1.d4 f5 2.g3 nf6
+1.d4 g6
+1.d4 g6 2
+1.d4 Nf6 2.c4
+1.d4 nf6 2.c4
+1.d4 Nf6 2.c4 c5
+1.d4 nf6 2.c4 c5
+1.d4 Nf6 2.c4 c5 3.d5
+1.d4 nf6 2.c4 c5 3.d5
+1.d4 Nf6 2.c4 c5 3.d5 b5
+1.d4 nf6 2.c4 c5 3.d5 b5
+1.d4 Nf6 2.c4 c5 3.d5 b5 cxb5
+1.d4 nf6 2.c4 c5 3.d5 b5 cxb5
+1.d4 Nf6 2.c4 c5 3.dxc5
+1.d4 nf6 2.c4 c5 3.dxc5
+1.d4 Nf6 2.c4 g6
+1.d4 nf6 2.c4 g6
+1.d4 Nf6 2.c4 g6 3.Nc3 d5
+1.d4 nf6 2.c4 g6 3.nc3 d5
+1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5
+1.d4 nf6 2.c4 g6 3.nc3 d5 4.cxd5 nxd5
+1.d4 Nf6 2.Nf3 d5 3.Bc4
+1.d4 nf6 2.nf3 d5 3.bc4
+1.d4d52.c4
+1.d4d52.c4c6
+1.d4d52.c4c63.Nf3Nf6
+1.d4d52.c4c63.nf3nf6
+1.d4d52.c4dxc4
+1.d4d52.c4dxc43.Nf3Nf64.d3
+1.d4d52.c4dxc43.nf3nf64.d3
+1.d4d52.Nf3Nf63
+1.d4d52.nf3nf63
+1.d4d62.Nf3Bg4
+1.d4d62.nf3bg4
+1.d4d62.Nf3Bg43.c4Nbd74.Nc3
+1.d4d62.nf3bg43.c4nbd74.nc3
+1.d4f5
+1.d4f52.g3Nf6
+1.d4f52.g3nf6
+1.d4g6
+1.d4g62
+1.d4Nf62.c4
+1.d4nf62.c4
+1.d4Nf62.c4c5
+1.d4nf62.c4c5
+1.d4Nf62.c4c53.d5
+1.d4nf62.c4c53.d5
+1.d4Nf62.c4c53.d5b5
+1.d4nf62.c4c53.d5b5
+1.d4Nf62.c4c53.d5b5cxb5
+1.d4nf62.c4c53.d5b5cxb5
+1.d4Nf62.c4c53.dxc5
+1.d4nf62.c4c53.dxc5
+1.d4Nf62.c4g6
+1.d4nf62.c4g6
+1.d4Nf62.c4g63.Nc3d5
+1.d4nf62.c4g63.nc3d5
+1.d4Nf62.c4g63.Nc3d54.cxd5Nxd5
+1.d4nf62.c4g63.nc3d54.cxd5nxd5
+1.d4Nf62.Nf3d53.Bc4
+1.d4nf62.nf3d53.bc4
+1.f4
+1.f4 d5 3.Nf3
+1.f4 d5 3.nf3
+1.f4d53.Nf3
+1.f4d53.nf3
+1.Nf3 d5 2.c4
+1.nf3 d5 2.c4
+1.Nf3 d5 2.g3
+1.nf3 d5 2.g3
+1.Nf3 d5 2.g3 Nf6 3.Bg2 c6 4.O-O Bg4 5.d3 Nbd7 6.Nbd2
+1.nf3 d5 2.g3 nf6 3.bg2 c6 4.o-o bg4 5.d3 nbd7 6.nbd2
+1.Nf3d52.c4
+1.nf3d52.c4
+1.Nf3d52.g3
+1.nf3d52.g3
+1.Nf3d52.g3Nf63.Bg2c64.O-OBg45.d3Nbd76.Nbd2
+1.nf3d52.g3nf63.bg2c64.o-obg45.d3nbd76.nbd2
+1c4
+1c4 Nf6
+1c4 nf6
+1c4Nf6
+1c4nf6
+1d4
+1d4 d5 2c4
+1d4 d5 2c4 c6
+1d4 d5 2c4 c6 3Nf3 Nf6
+1d4 d5 2c4 c6 3nf3 nf6
+1d4 d5 2c4 dxc4
+1d4 d5 2c4 dxc4 3Nf3 Nf6 4d3
+1d4 d5 2c4 dxc4 3nf3 nf6 4d3
+1d4 d5 2Nf3 Nf6 3
+1d4 d5 2nf3 nf6 3
+1d4 d6 2Nf3 Bg4
+1d4 d6 2nf3 bg4
+1d4 d6 2Nf3 Bg4 3c4 Nbd7 4Nc3
+1d4 d6 2nf3 bg4 3c4 nbd7 4nc3
+1d4 f5
+1d4 f5 2g3 Nf6
+1d4 f5 2g3 nf6
+1d4 g6
+1d4 g6 2
+1d4 Nf6 2c4
+1d4 nf6 2c4
+1d4 Nf6 2c4 c5
+1d4 nf6 2c4 c5
+1d4 Nf6 2c4 c5 3d5
+1d4 nf6 2c4 c5 3d5
+1d4 Nf6 2c4 c5 3d5 b5
+1d4 nf6 2c4 c5 3d5 b5
+1d4 Nf6 2c4 c5 3d5 b5 cxb5
+1d4 nf6 2c4 c5 3d5 b5 cxb5
+1d4 Nf6 2c4 c5 3dxc5
+1d4 nf6 2c4 c5 3dxc5
+1d4 Nf6 2c4 g6
+1d4 nf6 2c4 g6
+1d4 Nf6 2c4 g6 3Nc3 d5
+1d4 nf6 2c4 g6 3nc3 d5
+1d4 Nf6 2c4 g6 3Nc3 d5 4cxd5 Nxd5
+1d4 nf6 2c4 g6 3nc3 d5 4cxd5 nxd5
+1d4 Nf6 2Nf3 d5 3Bc4
+1d4 nf6 2nf3 d5 3bc4
+1d4d52c4
+1d4d52c4c6
+1d4d52c4c63Nf3Nf6
+1d4d52c4c63nf3nf6
+1d4d52c4dxc4
+1d4d52c4dxc43Nf3Nf64d3
+1d4d52c4dxc43nf3nf64d3
+1d4d52Nf3Nf63
+1d4d52nf3nf63
+1d4d62Nf3Bg4
+1d4d62nf3bg4
+1d4d62Nf3Bg43c4Nbd74Nc3
+1d4d62nf3bg43c4nbd74nc3
+1d4f5
+1d4f52g3Nf6
+1d4f52g3nf6
+1d4g6
+1d4g62
+1d4Nf62c4
+1d4nf62c4
+1d4Nf62c4c5
+1d4nf62c4c5
+1d4Nf62c4c53d5
+1d4nf62c4c53d5
+1d4Nf62c4c53d5b5
+1d4nf62c4c53d5b5
+1d4Nf62c4c53d5b5cxb5
+1d4nf62c4c53d5b5cxb5
+1d4Nf62c4c53dxc5
+1d4nf62c4c53dxc5
+1d4Nf62c4g6
+1d4nf62c4g6
+1d4Nf62c4g63Nc3d5
+1d4nf62c4g63nc3d5
+1d4Nf62c4g63Nc3d54cxd5Nxd5
+1d4nf62c4g63nc3d54cxd5nxd5
+1d4Nf62Nf3d53Bc4
+1d4nf62nf3d53bc4
+1f4
+1f4 d5 3Nf3
+1f4 d5 3nf3
+1f4d53Nf3
+1f4d53nf3
+1Nf3 d5 2c4
+1nf3 d5 2c4
+1Nf3 d5 2g3
+1nf3 d5 2g3
+1Nf3 d5 2g3 Nf6 3Bg2 c6 4O-O Bg4 5d3 Nbd7 6Nbd2
+1nf3 d5 2g3 nf6 3bg2 c6 4o-o bg4 5d3 nbd7 6nbd2
+1Nf3d52c4
+1nf3d52c4
+1Nf3d52g3
+1nf3d52g3
+1Nf3d52g3Nf63Bg2c64O
+1nf3d52g3nf63bg2c64o
+1Nf3d52g3Nf63Bg2c64O-OBg45d3Nbd76Nbd2
+1nf3d52g3nf63bg2c64o-obg45d3nbd76nbd2
 3rd
 4
 Abbazia
@@ -331,11 +529,17 @@ Attack,
 attack,
 attaque
 attaque Grob’s
+attaque grob’s
 attaque Nimzowitsch-Larsen
+attaque nimzowitsch-larsen
 attaque Sokolsky
+attaque sokolsky
 attaqueGrob’s
+attaquegrob’s
 attaqueNimzowitsch-Larsen
+attaquenimzowitsch-larsen
 attaqueSokolsky
+attaquesokolsky
 Austrian
 austrian
 Austrian attack
@@ -709,6 +913,11 @@ Bum
 bum
 Byrne
 byrne
+c4
+c4 Nf6
+c4 nf6
+c4Nf6
+c4nf6
 Canal
 canal
 Canal-
@@ -1272,6 +1481,81 @@ Czech Defence
 czech defence
 CzechDefence
 czechdefence
+d4
+d4 d5 c4
+d4 d5 c4 c6
+d4 d5 c4 c6 Nf3 Nf6
+d4 d5 c4 c6 nf3 nf6
+d4 d5 c4 dxc4
+d4 d5 c4 dxc4 Nf3 Nf6 d3
+d4 d5 c4 dxc4 nf3 nf6 d3
+d4 d5 Nf3 Nf6 3
+d4 d5 nf3 nf6 3
+d4 d6 Nf3 Bg4
+d4 d6 nf3 bg4
+d4 d6 Nf3 Bg4 c4 Nbd7 Nc3
+d4 d6 nf3 bg4 c4 nbd7 nc3
+d4 f5
+d4 f5 g3 Nf6
+d4 f5 g3 nf6
+d4 g6
+d4 Nf6 c4
+d4 nf6 c4
+d4 Nf6 c4 c5
+d4 nf6 c4 c5
+d4 Nf6 c4 c5 d5
+d4 nf6 c4 c5 d5
+d4 Nf6 c4 c5 d5 b5
+d4 nf6 c4 c5 d5 b5
+d4 Nf6 c4 c5 d5 b5 cxb5
+d4 nf6 c4 c5 d5 b5 cxb5
+d4 Nf6 c4 c5 dxc5
+d4 nf6 c4 c5 dxc5
+d4 Nf6 c4 g6
+d4 nf6 c4 g6
+d4 Nf6 c4 g6 Nc3 d5
+d4 nf6 c4 g6 nc3 d5
+d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5
+d4 nf6 c4 g6 nc3 d5 cxd5 nxd5
+d4 Nf6 Nf3 d5 Bc4
+d4 nf6 nf3 d5 bc4
+d4d5c4
+d4d5c4c6
+d4d5c4c6Nf3Nf6
+d4d5c4c6nf3nf6
+d4d5c4dxc4
+d4d5c4dxc4Nf3Nf6d3
+d4d5c4dxc4nf3nf6d3
+d4d5Nf3Nf63
+d4d5nf3nf63
+d4d6Nf3Bg4
+d4d6nf3bg4
+d4d6Nf3Bg4c4Nbd7Nc3
+d4d6nf3bg4c4nbd7nc3
+d4f5
+d4f5g3Nf6
+d4f5g3nf6
+d4g6
+d4Nf6c4
+d4nf6c4
+d4Nf6c4c5
+d4nf6c4c5
+d4Nf6c4c5d5
+d4nf6c4c5d5
+d4Nf6c4c5d5b5
+d4nf6c4c5d5b5
+d4Nf6c4c5d5b5cxb5
+d4nf6c4c5d5b5cxb5
+d4Nf6c4c5dxc5
+d4nf6c4c5dxc5
+d4Nf6c4g6
+d4nf6c4g6
+d4Nf6c4g6Nc3d5
+d4nf6c4g6nc3d5
+d4Nf6c4g6Nc3d5cxd5Nxd5
+d4nf6c4g6nc3d5cxd5nxd5
+d4Nf6Nf3d5Bc4
+d4nf6nf3d5bc4
 Dame
 dame
 Damiano
@@ -1540,27 +1824,35 @@ dutchvariation
 Défense
 défense
 défense Alekhine
+défense alekhine
 Défense Caro-Kann
 défense caro-kann
 Défense française
 défense française
 défense moderne
 défense Nimzowitsch
+défense nimzowitsch
 défense Owen
+défense owen
 défense Pirc
+défense pirc
 Défense scandinave
 défense scandinave
 Défense sicilienne
 défense sicilienne
 défenseAlekhine
+défensealekhine
 DéfenseCaro-Kann
 défensecaro-kann
 Défensefrançaise
 défensefrançaise
 défensemoderne
 défenseNimzowitsch
+défensenimzowitsch
 défenseOwen
+défenseowen
 défensePirc
+défensepirc
 Défensescandinave
 défensescandinave
 Défensesicilienne
@@ -2165,6 +2457,11 @@ ExchangeVariationDoubly
 exchangevariationdoubly
 ExchangeVariationDoublyDeferred
 exchangevariationdoublydeferred
+f4
+f4 d5 Nf3
+f4 d5 nf3
+f4d5Nf3
+f4d5nf3
 Falkbeer
 falkbeer
 Falkbeer and
@@ -2581,6 +2878,7 @@ grobs
 GrobsAttack
 grobsattack
 Grob’s
+grob’s
 Grunfeld
 grunfeld
 Grunfeld Defence
@@ -4313,6 +4611,18 @@ NeoGrunfeld Defence
 neogrunfeld defence
 NeoGrunfeldDefence
 neogrunfelddefence
+Nf3 d5 c4
+nf3 d5 c4
+Nf3 d5 g3
+nf3 d5 g3
+Nf3 d5 g3 Nf6 Bg2 c6 O-O Bg4 d3 Nbd7 Nbd2
+nf3 d5 g3 nf6 bg2 c6 o-o bg4 d3 nbd7 nbd2
+Nf3d5c4
+nf3d5c4
+Nf3d5g3
+nf3d5g3
+Nf3d5g3Nf6Bg2c6O-OBg4d3Nbd7Nbd2
+nf3d5g3nf6bg2c6o-obg4d3nbd7nbd2
 Nimzo
 nimzo
 Nimzo-
@@ -4778,6 +5088,7 @@ nimzowitsch
 Nimzowitsch Defence
 nimzowitsch defence
 Nimzowitsch-Larsen
+nimzowitsch-larsen
 NimzowitschDefence
 nimzowitschdefence
 Noa
@@ -5063,17 +5374,21 @@ ouverture
 Ouverture anglaise
 ouverture anglaise
 ouverture Bird
+ouverture bird
 ouverture des 4 cavaliers
 Ouverture Ruy Lopez
 ouverture ruy lopez
 ouverture Van Geet
+ouverture van geet
 Ouvertureanglaise
 ouvertureanglaise
 ouvertureBird
+ouverturebird
 ouverturedes4cavaliers
 OuvertureRuyLopez
 ouvertureruylopez
 ouvertureVanGeet
+ouverturevangeet
 Owen
 owen
 Owen'
