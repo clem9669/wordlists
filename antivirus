@@ -2,10 +2,8 @@
 (av)
 (Mac)
 (mac)
-+
--
-10
 15-in-1
+15in1
 2008
 2013
 360
@@ -23,6 +21,8 @@
 360totalsecurity
 60-Second
 60-second
+60Second
+60second
 8
 Access
 access
@@ -39,6 +39,7 @@ Ad-Aware2008
 ad-aware2008
 Ad-AwareTotalSecurity
 ad-awaretotalsecurity
+ad-awareTotalSecurity
 Adaptive
 adaptive
 adaware
@@ -51,9 +52,12 @@ AdAware2008
 adaware2008
 adawareantivirus
 adawareantivirusfree
+adawareAntivirusFree
 adawareantiviruspro
+adawareAntivirusPro
 AdAwareTotalSecurity
 adawaretotalsecurity
+adawareTotalSecurity
 Advance
 advance
 Advance Spyware Remover
@@ -78,16 +82,22 @@ advanced Threat Prevention
 advanced threat prevention
 AdvancedSystemCare
 advancedsystemcare
+advancedSystemcare
 AdvancedSystemOptimizer
 advancedsystemoptimizer
+advancedSystemOptimizer
 AdvancedSystemProtector
 advancedsystemprotector
+advancedSystemProtector
 AdvancedSystemRestore
 advancedsystemrestore
+advancedSystemRestore
 AdvancedThreatPrevention
 advancedthreatprevention
+advancedThreatPrevention
 AdvanceSpywareRemover
 advancespywareremover
+advanceSpywareRemover
 Adware
 adware
 Adware Remover
@@ -95,6 +105,7 @@ adware Remover
 adware remover
 AdwareRemover
 adwareremover
+adwareRemover
 Agent
 agent
 AhnLab
@@ -108,6 +119,7 @@ alyac Enterprise
 alyac enterprise
 ALYacEnterprise
 alyacenterprise
+alyacEnterprise
 AMITI
 amiti
 and
@@ -120,6 +132,7 @@ anti-malware Pro
 anti-malware pro
 Anti-MalwarePro
 anti-malwarepro
+anti-malwarePro
 Anti-Spy
 anti-spy
 Anti-Spyware
@@ -132,6 +145,9 @@ AntiMalware
 antimalware
 AntiMalwarePro
 antimalwarepro
+antimalwarePro
+AntiSpy
+antispy
 AntiSpyware
 antispyware
 AntiVir
@@ -151,8 +167,10 @@ Antivirus+
 antivirus+
 AntiVirusThor
 antivirusthor
+antivirusThor
 AntivirusZap
 antiviruszap
+antivirusZap
 Antiy
 antiy
 Antiy Ghostbusters
@@ -160,6 +178,7 @@ antiy Ghostbusters
 antiy ghostbusters
 AntiyGhostbusters
 antiyghostbusters
+antiyGhostbusters
 Anvi
 anvi
 Anvi Smart Defender
@@ -167,6 +186,7 @@ anvi Smart Defender
 anvi smart defender
 AnviSmartDefender
 anvismartdefender
+anviSmartDefender
 Apex
 apex
 Arcabit
@@ -185,6 +205,16 @@ arcabit Internet Security
 arcabit internet security
 ArcabitAntiVirus
 arcabitantivirus
+arcabitAntivirus
+ArcabitEndpointAntiVirus
+arcabitEndpointAntivirus
+arcabitendpointantivirus
+ArcabitEndpointSecurity
+arcabitEndpointSecurity
+arcabitendpointsecurity
+ArcabitInternetSecurity
+arcabitInternetSecurity
+arcabitinternetsecurity
 Armor
 armor
 Arovax
@@ -194,6 +224,7 @@ arovax Antispyware
 arovax antispyware
 ArovaxAntiSpyware
 arovaxantispyware
+arovaxAntispyware
 Asiainfo
 asiainfo
 Auslogics
@@ -207,6 +238,7 @@ autorun Eater
 autorun eater
 AutorunEater
 autoruneater
+autorunEater
 AV
 av
 AVANSI
@@ -216,6 +248,7 @@ avansi Antivirus
 avansi antivirus
 AVANSIAntivirus
 avansiantivirus
+avansiAntivirus
 Avast
 avast
 Avast Business Antivirus
@@ -227,12 +260,6 @@ avast business security
 avast!
 avast! Endpoint Protection
 avast! endpoint protection
-avast! Endpoint Protection Plus
-avast! endpoint protection plus
-avast! Endpoint Protection Suite
-avast! endpoint protection suite
-avast! Endpoint Protection Suite Plus
-avast! endpoint protection suite plus
 avast! File Server Security
 avast! file server security
 avast! Free Antivirus
@@ -261,14 +288,18 @@ avastAntivirus
 avastantivirus
 AvastBusinessAntivirus
 avastbusinessantivirus
+avastBusinessAntivirus
 AvastBusinessSecurity
 avastbusinesssecurity
+avastBusinessSecurity
 avastEndpointProtection
 avastendpointprotection
 avastEndpointProtectionSuite
 avastendpointprotectionsuite
 avastFileServerSecurity
 avastfileserversecurity
+avastFreeAntivirus
+avastfreeantivirus
 avastInternetSecurity
 avastinternetsecurity
 AvastMacSecurity
@@ -304,20 +335,28 @@ avg Internet Security
 avg internet security
 AVGAnti-Spyware
 avganti-spyware
+avgAnti-spyware
 AVGAntiSpyware
 avgantispyware
+avgAntispyware
 AVGAntiVirus
 avgantivirus
+avgAntivirus
 AVGAntiVirusFree
 avgantivirusfree
+avgAntivirusFree
 AVGBusiness
 avgbusiness
+avgBusiness
 AVGCloudCare
 avgcloudcare
+avgCloudcare
 AVGFileServerEdition
 avgfileserveredition
+avgFileServerEdition
 AVGInternetSecurity
 avginternetsecurity
+avgInternetSecurity
 Avira
 avira
 Avira Server Security
@@ -325,6 +364,9 @@ avira Server Security
 avira server security
 AviraAntivirus
 aviraantivirus
+AviraServerSecurity
+aviraServerSecurity
+aviraserversecurity
 Backup
 backup
 Baidu
@@ -334,6 +376,7 @@ baidu Antivirus
 baidu antivirus
 BaiduAntivirus
 baiduantivirus
+baiduAntivirus
 Basic
 basic
 Bazooka
@@ -343,6 +386,7 @@ bazooka Scanner
 bazooka scanner
 BazookaScanner
 bazookascanner
+bazookaScanner
 BeeDoctor
 beedoctor
 BestCrypt
@@ -354,6 +398,7 @@ bit9 Agent
 bit9 agent
 Bit9Agent
 bit9agent
+bit9Agent
 Bitdefender
 BitDefender
 bitdefender
@@ -369,10 +414,12 @@ BitdefenderInternetSecurity
 bitdefenderinternetsecurity
 BitDefenderSecurity
 bitdefendersecurity
+bitdefenderSecurity
 BitdefenderTotalSecurity
 bitdefendertotalsecurity
 BitdefenderVirusScanner
 bitdefendervirusscanner
+bitdefenderVirusScanner
 BitLocker
 bitlocker
 BitLocker Drive Encryption
@@ -380,6 +427,7 @@ bitlocker Drive Encryption
 bitlocker drive encryption
 BitLockerDriveEncryption
 bitlockerdriveencryption
+bitlockerDriveEncryption
 BitSecure
 bitsecure
 BitSecure Antivirus System
@@ -387,6 +435,7 @@ bitsecure Antivirus System
 bitsecure antivirus system
 BitSecureAntivirusSystem
 bitsecureantivirussystem
+bitsecureAntivirusSystem
 Bkav
 bkav
 Bkav Home Plus
@@ -399,8 +448,10 @@ BkavHome
 bkavhome
 BkavHomePlus
 bkavhomeplus
+bkavHomePlus
 BkavPro
 bkavpro
+bkavPro
 Black
 black
 Blink
@@ -420,8 +471,13 @@ bullguard Premium Protection
 bullguard premium protection
 BullGuardAntivirus
 bullguardantivirus
+bullguardAntivirus
 BullGuardInternetSecurity
 bullguardinternetsecurity
+bullguardInternetSecurity
+BullGuardPremiumProtection
+bullguardPremiumProtection
+bullguardpremiumprotection
 Business
 business
 ByteFence
@@ -431,8 +487,10 @@ bytefence Anti-malware
 bytefence anti-malware
 ByteFenceAnti-Malware
 bytefenceanti-malware
+bytefenceAnti-malware
 ByteFenceAntiMalware
 bytefenceantimalware
+bytefenceAntimalware
 C-Guard
 c-guard
 C-Guard Antivirus
@@ -440,6 +498,7 @@ c-guard Antivirus
 c-guard antivirus
 C-GuardAntivirus
 c-guardantivirus
+c-guardAntivirus
 CA
 ca
 CA Internet Security Suite
@@ -447,6 +506,7 @@ ca Internet Security Suite
 ca internet security suite
 CAInternetSecuritySuite
 cainternetsecuritysuite
+caInternetSecuritySuite
 Carbon
 carbon
 Carbon Black Defense
@@ -460,10 +520,13 @@ carbon Black Response
 carbon black response
 CarbonBlackDefense
 carbonblackdefense
+carbonBlackDefense
 CarbonBlackDefenseSensor
 carbonblackdefensesensor
+carbonBlackDefenseSensor
 CarbonBlackResponse
 carbonblackresponse
+carbonBlackResponse
 Center
 center
 Cerber
@@ -473,8 +536,12 @@ cerber Antivirus
 cerber antivirus
 CerberAntiVirus
 cerberantivirus
+cerberAntivirus
+CGuard
+cguard
 CGuardAntivirus
 cguardantivirus
+cguardAntivirus
 Chaser
 chaser
 Check
@@ -484,6 +551,7 @@ check Point Endpoint Security
 check point endpoint security
 CheckPointEndpointSecurity
 checkpointendpointsecurity
+checkPointEndpointSecurity
 Chili
 chili
 Chili Antivirus
@@ -491,6 +559,7 @@ chili Antivirus
 chili antivirus
 ChiliAntivirus
 chiliantivirus
+chiliAntivirus
 CHOMAR
 chomar
 CHOMAR Antivirus
@@ -498,6 +567,7 @@ chomar Antivirus
 chomar antivirus
 CHOMARAntivirus
 chomarantivirus
+chomarAntivirus
 Cisco
 cisco
 ClamWin
@@ -509,6 +579,7 @@ ClamWinAntivirus
 clamwinantivirus
 ClamWinFreeAntivirus
 clamwinfreeantivirus
+clamwinFreeAntivirus
 ClamXav
 clamxav
 Clean
@@ -524,6 +595,7 @@ cleanmymac X
 cleanmymac x
 CleanMyMacX
 cleanmymacx
+cleanmymacX
 Clearsight
 clearsight
 Clearsight Antivirus
@@ -531,6 +603,7 @@ clearsight Antivirus
 clearsight antivirus
 ClearsightAntivirus
 clearsightantivirus
+clearsightAntivirus
 Client
 client
 Cloud
@@ -549,8 +622,10 @@ cmc Internet Security
 cmc internet security
 CMCAntivirus
 cmcantivirus
+cmcAntivirus
 CMCInternetSecurity
 cmcinternetsecurity
+cmcInternetSecurity
 Collector
 collector
 Combo
@@ -565,9 +640,9 @@ comodo antivirus
 Comodo Antivirus for Mac
 comodo Antivirus For Mac
 comodo antivirus for mac
-COMODO Client - Security
-comodo Client - Security
-comodo client - security
+COMODO Client
+comodo Client
+comodo client
 COMODO Cloud Antivirus
 comodo Cloud Antivirus
 comodo cloud antivirus
@@ -583,20 +658,29 @@ comodo firewall
 COMODOAntivirus
 ComodoAntivirus
 comodoantivirus
+comodoAntivirus
 ComodoAntivirusforMac
 comodoantivirusformac
+comodoAntivirusForMac
+COMODOClient
+comodoClient
+comodoclient
 COMODOClient-Security
 comodoclient-security
 COMODOClientSecurity
 comodoclientsecurity
 COMODOCloudAntivirus
 comodocloudantivirus
+comodoCloudAntivirus
 COMODODiskEncryption
 comododiskencryption
+comodoDiskEncryption
 COMODOEndpointSecurity
 comodoendpointsecurity
+comodoEndpointSecurity
 COMODOFirewall
 comodofirewall
+comodoFirewall
 COMODOInternetSecurity
 comodointernetsecurity
 Complete
@@ -620,6 +704,7 @@ crowdstrike Falcon
 crowdstrike falcon
 CrowdStrikeFalcon
 crowdstrikefalcon
+crowdstrikeFalcon
 Cryptainer
 cryptainer
 Cryptainer LE
@@ -627,6 +712,7 @@ cryptainer Le
 cryptainer le
 CryptainerLE
 cryptainerle
+cryptainerLe
 CryptArchiver
 cryptarchiver
 CryptArchiver Lite
@@ -634,6 +720,7 @@ cryptarchiver Lite
 cryptarchiver lite
 CryptArchiverLite
 cryptarchiverlite
+cryptarchiverLite
 CryptoExpert
 cryptoexpert
 Crystal
@@ -643,6 +730,7 @@ crystal Security
 crystal security
 CrystalSecurity
 crystalsecurity
+crystalSecurity
 CS
 cs
 CS Anti-Virus
@@ -650,8 +738,10 @@ cs Anti-virus
 cs anti-virus
 CSAnti-Virus
 csanti-virus
+csAnti-virus
 CSAntiVirus
 csantivirus
+csAntivirus
 Cyber
 cyber
 CyberByte
@@ -661,6 +751,7 @@ cyberbyte Antivirus
 cyberbyte antivirus
 CyberByteAntivirus
 cyberbyteantivirus
+cyberbyteAntivirus
 Cybereason
 cybereason
 Cybereason ActiveProbe
@@ -668,6 +759,7 @@ cybereason Activeprobe
 cybereason activeprobe
 CybereasonActiveProbe
 cybereasonactiveprobe
+cybereasonActiveprobe
 CylancePROTECT
 cylanceprotect
 CYSEC
@@ -677,6 +769,7 @@ cysec Av
 cysec av
 CYSECAV
 cysecav
+cysecAv
 Data
 DATA
 data
@@ -690,6 +783,7 @@ defender Pro
 defender pro
 DefenderPro
 defenderpro
+defenderPro
 Defense
 defense
 DefenseWall
@@ -722,8 +816,10 @@ Digital Patrol
 digital Patrol
 digital patrol
 digital-defender
+digitaldefender
 DigitalPatrol
 digitalpatrol
+digitalPatrol
 Disk
 disk
 DiskCryptor
@@ -737,6 +833,7 @@ diy Virus Repair
 diy virus repair
 DIYVirusRepair
 diyvirusrepair
+diyVirusRepair
 Doctor
 doctor
 Dome
@@ -748,6 +845,7 @@ doorstop X
 doorstop x
 DoorStopX
 doorstopx
+doorstopX
 Double
 double
 Dr.Web
@@ -766,16 +864,21 @@ dr.web Security Space
 dr.web security space
 Dr.WebAnti-virus
 dr.webanti-virus
+dr.webAnti-virus
 Dr.WebAntivirus
 dr.webantivirus
+dr.webAntivirus
 Dr.WebforMacOSX
 dr.webformacosx
 Dr.WebKATANA
 dr.webkatana
+dr.webKatana
 Dr.WebLight
 dr.weblight
+dr.webLight
 Dr.WebSecuritySpace
 dr.websecurityspace
+dr.webSecuritySpace
 Drive
 drive
 DrWebAntivirus
@@ -795,6 +898,7 @@ dws Antivirus
 dws antivirus
 DWSAntiVirus
 dwsantivirus
+dwsAntivirus
 Dynamikode
 dynamikode
 EarthLink
@@ -814,6 +918,7 @@ eGambit
 egambit
 EGAntiVirus
 egantivirus
+egAntiVirus
 EgoSecure
 egosecure
 EgoSecure Endpoint Agent
@@ -821,6 +926,7 @@ egosecure Endpoint Agent
 egosecure endpoint agent
 EgoSecureEndpointAgent
 egosecureendpointagent
+egosecureEndpointAgent
 EMCO
 emco
 EMCO Malware Destroyer
@@ -828,6 +934,7 @@ emco Malware Destroyer
 emco malware destroyer
 EMCOMalwareDestroyer
 emcomalwaredestroyer
+emcoMalwareDestroyer
 Emergency
 emergency
 Emsisoft
@@ -840,10 +947,13 @@ emsisoft Mamutu
 emsisoft mamutu
 EmsisoftAnti-Malware
 emsisoftanti-malware
+emsisoftAnti-malware
 EmsisoftAntiMalware
 emsisoftantimalware
+emsisoftAntimalware
 EmsisoftMamutu
 emsisoftmamutu
+emsisoftMamutu
 Encryption
 encryption
 Endpoint
@@ -856,6 +966,7 @@ Endpoints
 endpoints
 EndpointSecurity
 endpointsecurity
+endpointSecurity
 Endurance
 endurance
 Endurance Antivirus
@@ -863,6 +974,7 @@ endurance Antivirus
 endurance antivirus
 EnduranceAntivirus
 enduranceantivirus
+enduranceAntivirus
 enSilo
 ensilo
 Enterprise
@@ -876,6 +988,7 @@ epcheal Antivirus
 epcheal antivirus
 ePChealAntivirus
 epchealantivirus
+epchealAntivirus
 Eraser
 eraser
 eScan
@@ -888,8 +1001,10 @@ escan Total Security
 escan total security
 eScanAnti-Virus
 escananti-virus
+escanAnti-virus
 eScanAntiVirus
 escanantivirus
+escanAntivirus
 eScanCorporate
 escancorporate
 eScanCorporateEdition
@@ -900,6 +1015,7 @@ eScanInternetSecuritySuite
 escaninternetsecuritysuite
 eScanTotalSecurity
 escantotalsecurity
+escanTotalSecurity
 ESET
 eset
 ESET Cyber Security
@@ -931,22 +1047,31 @@ eset Smart Security
 eset smart security
 ESETCyberSecurity
 esetcybersecurity
+esetCyberSecurity
 ESETCyberSecurityPro
 esetcybersecuritypro
+esetCyberSecurityPro
 ESETEndpointAntivirus
 esetendpointantivirus
+esetEndpointAntivirus
 ESETEndpointEncryption
 esetendpointencryption
+esetEndpointEncryption
 ESETEndpointSecurity
 esetendpointsecurity
+esetEndpointSecurity
 ESETInternetSecurity
 esetinternetsecurity
+esetInternetSecurity
 ESETMailSecurity
 esetmailsecurity
+esetMailSecurity
 ESETNOD32Antivirus
 esetnod32antivirus
+esetNod32Antivirus
 ESETSmartSecurity
 esetsmartsecurity
+esetSmartSecurity
 eShield
 eshield
 Essentials
@@ -964,8 +1089,10 @@ exterminate It!
 exterminate it!
 ExterminateIt
 exterminateit
+exterminateIt
 ExterminateIt!
 exterminateit!
+exterminateIt!
 eXtra
 extra
 Extreme
@@ -977,6 +1104,7 @@ f-prot Antivirus
 f-prot antivirus
 F-PROTAntivirus
 f-protantivirus
+f-protAntivirus
 F-Secure
 f-secure
 F-Secure Anti-Virus
@@ -987,8 +1115,10 @@ f-secure Safe
 f-secure safe
 F-SecureAnti-Virus
 f-secureanti-virus
+f-secureAnti-virus
 F-SecureSAFE
 f-securesafe
+f-secureSafe
 Falcon
 falcon
 Family
@@ -1000,8 +1130,10 @@ faronics Anti-virus
 faronics anti-virus
 FaronicsAnti-Virus
 faronicsanti-virus
+faronicsAnti-virus
 FaronicsAntiVirus
 faronicsantivirus
+faronicsAntivirus
 FaronicsAntiVirusEnterprise
 faronicsantivirusenterprise
 Ferrari
@@ -1011,6 +1143,7 @@ ferrari Security Scan
 ferrari security scan
 FerrariSecurityScan
 ferrarisecurityscan
+ferrariSecurityScan
 Fighter
 fighter
 File
@@ -1020,6 +1153,7 @@ file Encryption Extra Protection
 file encryption extra protection
 FileEncryptioneXtraProtection
 fileencryptionextraprotection
+fileEncryptionExtraProtection
 FileVault
 filevault
 FireEye
@@ -1029,6 +1163,7 @@ fireeye Endpoint Agent
 fireeye endpoint agent
 FireEyeEndpointAgent
 fireeyeendpointagent
+fireeyeEndpointAgent
 FireWall
 Firewall
 firewall
@@ -1038,6 +1173,8 @@ Fixa
 fixa
 Fixer
 fixer
+FixIt
+fixit
 Flextivity
 flextivity
 Folder
@@ -1047,6 +1184,7 @@ folder Lock
 folder lock
 FolderLock
 folderlock
+folderLock
 for
 Forefront
 forefront
@@ -1058,20 +1196,27 @@ FortKnoxPersonal
 fortknoxpersonal
 FortKnoxPersonalFirewall
 fortknoxpersonalfirewall
+FPROT
+fprot
 FPROTAntivirus
 fprotantivirus
+fprotAntivirus
 Free
 free
 FreeFixer
 freefixer
+FSecure
+fsecure
 FSecureAntiVirus
 fsecureantivirus
+fsecureAntivirus
 FSecureClientSecurity
 fsecureclientsecurity
 FSecurePSBSecurity
 fsecurepsbsecurity
 FSecureSAFE
 fsecuresafe
+fsecureSafe
 Full
 full
 Fusion360
@@ -1081,6 +1226,7 @@ fusion360 Anti Spyware
 fusion360 anti spyware
 Fusion360AntiSpyware
 fusion360antispyware
+fusion360AntiSpyware
 G
 g
 G Data AntiVirus
@@ -1101,6 +1247,7 @@ GDataAntiVirenKitClient
 gdataantivirenkitclient
 GDataAntiVirus
 gdataantivirus
+gDataAntivirus
 GDataInternetSecurity
 gdatainternetsecurity
 GDataNotebookSecurity
@@ -1110,10 +1257,13 @@ GDATASecurityClient
 gdatasecurityclient
 GDataTotalCare
 gdatatotalcare
+gDataTotalcare
 GDataTotalProtection
 gdatatotalprotection
+gDataTotalprotection
 GDataTotalSecurity
 gdatatotalsecurity
+gDataTotalsecurity
 Gen-X
 gen-x
 Gen-X Total Security
@@ -1121,8 +1271,12 @@ gen-x Total Security
 gen-x total security
 Gen-XTotalSecurity
 gen-xtotalsecurity
+gen-xTotalSecurity
+GenX
+genx
 GenXTotalSecurity
 genxtotalsecurity
+genxTotalSecurity
 GFI
 gfi
 GFI Cloud Agent
@@ -1132,6 +1286,7 @@ GFICloud-Antivirus
 gficloud-antivirus
 GFICloudAgent
 gficloudagent
+gfiCloudAgent
 GFICloudAntivirus
 gficloudantivirus
 Ghostbusters
@@ -1147,8 +1302,10 @@ gridinsoft Anti-malware
 gridinsoft anti-malware
 GridinSoftAnti-Malware
 gridinsoftanti-malware
+gridinsoftAnti-malware
 GridinSoftAntiMalware
 gridinsoftantimalware
+gridinsoftAntimalware
 Guard
 guard
 Guarder
@@ -1166,6 +1323,7 @@ heimdal Thor Agent
 heimdal thor agent
 HeimdalThorAgent
 heimdalthoragent
+heimdalThorAgent
 HitmanPro
 hitmanpro
 HitmanPro.Alert
@@ -1185,6 +1343,7 @@ hp Drive Encryption
 hp drive encryption
 HPDriveEncryption
 hpdriveencryption
+hpDriveEncryption
 Hunter
 hunter
 iAntiVirus
@@ -1197,6 +1356,7 @@ idoo Antispyware Pro
 idoo antispyware pro
 idooAntiSpywarePro
 idooantispywarepro
+idooAntispywarePro
 IKARUS
 ikarus
 IKARUS anti.virus
@@ -1204,6 +1364,7 @@ ikarus Anti.virus
 ikarus anti.virus
 IKARUSanti.virus
 ikarusanti.virus
+ikarusAnti.virus
 IKARUSantivirus
 ikarusantivirus
 Immunet
@@ -1226,8 +1387,10 @@ iobit Security 360
 iobit security 360
 IObitMalwareFighter
 iobitmalwarefighter
+iobitMalwareFighter
 IObitSecurity360
 iobitsecurity360
+iobitSecurity360
 iolo
 iolo System Shield
 iolo system shield
@@ -1235,6 +1398,7 @@ ioloSystemShield
 iolosystemshield
 IT
 it
+It
 It!
 it!
 ITbrain
@@ -1244,8 +1408,10 @@ itbrain Anti-malware
 itbrain anti-malware
 ITbrainAnti-Malware
 itbrainanti-malware
+itbrainAnti-malware
 ITbrainAntiMalware
 itbrainantimalware
+itbrainAntimalware
 Jetico
 jetico
 Jetico Personal Firewall
@@ -1255,6 +1421,7 @@ JeticoPersonal
 jeticopersonal
 JeticoPersonalFirewall
 jeticopersonalfirewall
+jeticoPersonalFirewall
 K7
 k7
 K7 Anti-Virus Plus
@@ -1265,16 +1432,19 @@ k7 Total Security
 k7 total security
 K7Anti-VirusPlus
 k7anti-virusplus
+k7Anti-virusPlus
 K7AntiVirus
 k7antivirus
 K7AntiVirusPlus
 k7antivirusplus
+k7AntivirusPlus
 K7AntiVirusPremium
 k7antiviruspremium
 K7EndpointSecurity
 k7endpointsecurity
 K7TotalSecurity
 k7totalsecurity
+k7TotalSecurity
 K7UltimateSecurity
 k7ultimatesecurity
 K7VirusSecurity
@@ -1286,8 +1456,10 @@ kapha Anti-malware
 kapha anti-malware
 KaphaAnti-Malware
 kaphaanti-malware
+kaphaAnti-malware
 KaphaAntiMalware
 kaphaantimalware
+kaphaAntimalware
 Kaspersky
 kaspersky
 Kaspersky Anti-Virus
@@ -1316,24 +1488,33 @@ kaspersky Total Security
 kaspersky total security
 KasperskyAnti-Virus
 kasperskyanti-virus
+kasperskyAnti-virus
 KasperskyAntiVirus
 kasperskyantivirus
+kasperskyAntivirus
 KasperskyEndpointSecurity
 kasperskyendpointsecurity
+kasperskyEndpointSecurity
 KasperskyFree
 kasperskyfree
+kasperskyFree
 KasperskyInternetSecurity
 kasperskyinternetsecurity
+kasperskyInternetSecurity
 KasperskyPURE
 kasperskypure
+kasperskyPure
 KasperskySecurity
 kasperskysecurity
+kasperskySecurity
 KasperskySecurityCloud
 kasperskysecuritycloud
 KasperskySecurityScan
 kasperskysecurityscan
+kasperskySecurityScan
 KasperskyTotalSecurity
 kasperskytotalsecurity
+kasperskyTotalSecurity
 KATANA
 katana
 Kenoxis
@@ -1343,6 +1524,7 @@ kenoxis Antivirus Pro
 kenoxis antivirus pro
 KenoxisAntivirusPro
 kenoxisantiviruspro
+kenoxisAntivirusPro
 Keylogger
 keylogger
 Keylogger Detector
@@ -1350,6 +1532,7 @@ keylogger Detector
 keylogger detector
 KeyloggerDetector
 keyloggerdetector
+keyloggerDetector
 Kido
 kido
 Killer
@@ -1364,8 +1547,10 @@ kingsoft Internet Security
 kingsoft internet security
 KingsoftAntivirus
 kingsoftantivirus
+kingsoftAntivirus
 KingsoftInternetSecurity
 kingsoftinternetsecurity
+kingsoftInternetSecurity
 Komal
 komal
 Komal Antivirus
@@ -1373,6 +1558,7 @@ komal Antivirus
 komal antivirus
 KomalAntivirus
 komalantivirus
+komalAntivirus
 LANDesk
 landesk
 LANDesk Antivirus
@@ -1383,8 +1569,10 @@ landesk Endpoint Security
 landesk endpoint security
 LANDeskAntivirus
 landeskantivirus
+landeskAntivirus
 LANDeskEndpointSecurity
 landeskendpointsecurity
+landeskEndpointSecurity
 Lavasoft
 lavasoft
 Lavasoft Digital Lock
@@ -1398,12 +1586,15 @@ lavasoft Privacy Toolbox
 lavasoft privacy toolbox
 LavasoftDigitalLock
 lavasoftdigitallock
+lavasoftDigitalLock
 LavasoftPersonal
 lavasoftpersonal
 LavasoftPersonalFirewall
 lavasoftpersonalfirewall
+lavasoftPersonalFirewall
 LavasoftPrivacyToolbox
 lavasoftprivacytoolbox
+lavasoftPrivacyToolbox
 LE
 le
 Light
@@ -1419,6 +1610,7 @@ loaris Trojan Remover
 loaris trojan remover
 LoarisTrojanRemover
 loaristrojanremover
+loarisTrojanRemover
 Lock
 lock
 Mac
@@ -1450,14 +1642,18 @@ malwarebytes Anti-malware
 malwarebytes anti-malware
 MalwarebytesAnti-Malware
 malwarebytesanti-malware
+malwarebytesAnti-malware
 MalwarebytesAntiMalware
 malwarebytesantimalware
+malwarebytesAntimalware
 MalwarebytesEndpointAgent
 malwarebytesendpointagent
 MalwareEraser
 malwareeraser
+malwareEraser
 MalwareHunter
 malwarehunter
+malwareHunter
 MalwareSecure
 malwaresecure
 Mamutu
@@ -1469,12 +1665,16 @@ managed Antivirus
 managed antivirus
 ManagedAntivirus
 managedantivirus
+managedAntivirus
 Management
 management
 Manager
 manager
 Max
 max
+Max Internet Secur?ty
+max Internet Secur?ty
+max internet secur?ty
 Max Internet Securіty
 max Internet Securіty
 max internet securіty
@@ -1497,16 +1697,23 @@ Maximum
 maximum
 MaxInternetSecur?ty
 maxinternetsecur?ty
+maxInternetSecur?ty
 MaxInternetSecurіty
 maxinternetsecurіty
+maxInternetSecurіty
 MaxSecureAntiVirus
 maxsecureantivirus
+maxSecureAntiVirus
+maxSecureAntivirus
 MaxSecureAntiVirusPlus
 maxsecureantivirusplus
+maxSecureAntiVirusPlus
 MaxSecureTotalSecurity
 maxsecuretotalsecurity
+maxSecureTotalSecurity
 MaxSpywareDetector
 maxspywaredetector
+maxSpywareDetector
 MaxTotalSecurity
 maxtotalsecurity
 McAfee
@@ -1547,27 +1754,38 @@ mcafee Security
 mcafee security
 McAfeeAllAccess
 mcafeeallaccess
+mcafeeAllAccess
 McAfeeAntiVirus
 McAfeeAntivirus
 mcafeeantivirus
+mcafeeAntivirus
 McAfeeAntiVirusPlus
 mcafeeantivirusplus
+mcafeeAntivirusPlus
 McAfeeCloudAV
 mcafeecloudav
+mcafeeCloudav
 McAfeeEndpointEncryption
 mcafeeendpointencryption
+mcafeeEndpointEncryption
 McAfeeEndpointProtection
 mcafeeendpointprotection
+mcafeeEndpointProtection
 McAfeeEndpointSecurity
 mcafeeendpointsecurity
+mcafeeEndpointSecurity
 McAfeeFreeAntivirus
 mcafeefreeantivirus
+mcafeeFreeAntivirus
 McAfeeInternetSecurity
 mcafeeinternetsecurity
+mcafeeInternetSecurity
 McAfeeLiveSafe
 mcafeelivesafe
+mcafeeLivesafe
 McAfeeSecurity
 mcafeesecurity
+mcafeeSecurity
 McAfeeTotalProtection
 mcafeetotalprotection
 Mechanic
@@ -1583,6 +1801,9 @@ microminder
 Microminder Sentinel Antivirus
 microminder Sentinel Antivirus
 microminder sentinel antivirus
+MicrominderSentinelAntivirus
+microminderSentinelAntivirus
+micromindersentinelantivirus
 Microsoft
 microsoft
 Microsoft Security Essentials
@@ -1590,6 +1811,7 @@ microsoft Security Essentials
 microsoft security essentials
 MicrosoftSecurityEssentials
 microsoftsecurityessentials
+microsoftSecurityEssentials
 Minusoft
 minusoft
 Minusoft Kido
@@ -1597,6 +1819,7 @@ minusoft Kido
 minusoft kido
 MinusoftKido
 minusoftkido
+minusoftKido
 Morphisec
 morphisec
 MOVE
@@ -1606,6 +1829,7 @@ move Av Client
 move av client
 MOVEAVClient
 moveavclient
+moveAvClient
 MSecure
 msecure
 Multi
@@ -1617,6 +1841,7 @@ nano Antivirus
 nano antivirus
 NANOAntiVirus
 nanoantivirus
+nanoAntivirus
 NCP
 ncp
 NCP Secure Entry Client
@@ -1624,6 +1849,7 @@ ncp Secure Entry Client
 ncp secure entry client
 NCPSecureEntryClient
 ncpsecureentryclient
+ncpSecureEntryClient
 Net
 net
 Net Protector
@@ -1638,6 +1864,7 @@ netbook Optimizer
 netbook optimizer
 NetbookOptimizer
 netbookoptimizer
+netbookOptimizer
 Netbooks
 netbooks
 NETGATE
@@ -1653,12 +1880,16 @@ netgate Spy Emergency
 netgate spy emergency
 NETGATEAMITIAntivirus
 netgateamitiantivirus
+netgateAmitiAntivirus
 NETGATEInternetSecurity
 netgateinternetsecurity
+netgateInternetSecurity
 NETGATESpyEmergency
 netgatespyemergency
+netgateSpyEmergency
 NetProtector
 netprotector
+netProtector
 NOD32
 nod32
 Norascan
@@ -1670,6 +1901,7 @@ norman Antivirus
 norman antivirus
 NormanAntivirus
 normanantivirus
+normanAntivirus
 NormanAntivirusforMac
 normanantivirusformac
 NormanEndPointProtection
@@ -1693,10 +1925,13 @@ Norton360
 norton360
 NortonAntiVirus
 nortonantivirus
+nortonAntivirus
 NortonInternetSecurity
 nortoninternetsecurity
+nortonInternetSecurity
 NortonSecurity
 nortonsecurity
+nortonSecurity
 NortonSecurityScan
 nortonsecurityscan
 NortonSecuritySuite
@@ -1720,10 +1955,13 @@ online Armor
 online armor
 OnlineArmor
 onlinearmor
+onlineArmor
 Optimizer
 optimizer
 Orange
 orange
+orange cyberdefense
+orangecyberdefense
 OS
 os
 OSHI
@@ -1733,6 +1971,7 @@ oshi Defender
 oshi defender
 OSHIDefender
 oshidefender
+oshiDefender
 Outpost
 outpost
 Pacote
@@ -1764,16 +2003,25 @@ PandaAdaptiveDefense360
 pandaadaptivedefense360
 PandaAntivirus
 pandaantivirus
+pandaAntivirus
 PandaAntivirusPro
 pandaantiviruspro
+pandaAntivirusPro
 PandaCloudAntivirus
 pandacloudantivirus
+pandaCloudAntivirus
 PandaCloudCleaner
 pandacloudcleaner
+pandaCloudCleaner
 PandaDome
 pandadome
+pandaDome
+PandaInternetSecurity
+pandaInternetSecurity
+pandainternetsecurity
 PandaSecurity
 pandasecurity
+pandaSecurity
 Patrol
 patrol
 PC
@@ -1788,10 +2036,12 @@ PC-Clean
 pc-clean
 PCAntivirusPro
 pcantiviruspro
+pcAntivirusPro
 PCClean
 pcclean
 PCCleanerPro
 pccleanerpro
+pcCleanerPro
 PCKeeper
 pckeeper
 PCKeeper Antivirus
@@ -1799,6 +2049,7 @@ pckeeper Antivirus
 pckeeper antivirus
 PCKeeperAntivirus
 pckeeperantivirus
+pckeeperAntivirus
 PCSpywareProtection
 pcspywareprotection
 PCTools
@@ -1818,6 +2069,7 @@ pgp Desktop
 pgp desktop
 PGPDesktop
 pgpdesktop
+pgpDesktop
 Pika
 pika
 Pika Purger
@@ -1825,6 +2077,7 @@ pika Purger
 pika purger
 PikaPurger
 pikapurger
+pikaPurger
 PJMagic
 pjmagic
 PJMagic Total Security
@@ -1832,6 +2085,7 @@ pjmagic Total Security
 pjmagic total security
 PJMagicTotalSecurity
 pjmagictotalsecurity
+pjmagicTotalSecurity
 Platform
 platform
 Plus
@@ -1851,6 +2105,7 @@ premiumav Antivirus
 premiumav antivirus
 PremiumAVAntivirus
 premiumavantivirus
+premiumavAntivirus
 PremiumIS
 premiumis
 PremiumIS Internet Security
@@ -1858,6 +2113,7 @@ premiumis Internet Security
 premiumis internet security
 PremiumISInternetSecurity
 premiumisinternetsecurity
+premiumisInternetSecurity
 Prevention
 prevention
 Preventon
@@ -1870,8 +2126,10 @@ preventon Firewall
 preventon firewall
 PreventonAntivirus
 preventonantivirus
+preventonAntivirus
 PreventonFirewall
 preventonfirewall
+preventonFirewall
 Privacy
 privacy
 Private
@@ -1893,8 +2151,10 @@ prodot Maximum Security
 prodot maximum security
 ProDotAntivirus
 prodotantivirus
+prodotAntivirus
 ProDotMaximumSecurity
 prodotmaximumsecurity
+prodotMaximumSecurity
 Professional
 professional
 PROSHIELD
@@ -1904,6 +2164,7 @@ proshield Antivirus
 proshield antivirus
 PROSHIELDAntivirus
 proshieldantivirus
+proshieldAntivirus
 Protect
 protect
 Protection
@@ -1915,6 +2176,7 @@ protectmac Antivirus
 protectmac antivirus
 ProtectMacAntiVirus
 protectmacantivirus
+protectmacAntivirus
 Protector
 protector
 Protector Plus
@@ -1922,6 +2184,7 @@ protector Plus
 protector plus
 ProtectorPlus
 protectorplus
+protectorPlus
 Protegent
 protegent
 Protegent Antivirus
@@ -1929,6 +2192,7 @@ protegent Antivirus
 protegent antivirus
 ProtegentAntivirus
 protegentantivirus
+protegentAntivirus
 PS-PROFILER
 ps-profiler
 PS-PROFILERSophosHome
@@ -1937,6 +2201,10 @@ PS-PROFILERWindowsDefender
 ps-profilerwindowsdefender
 PSB
 psb
+PSPROFILER
+psprofiler
+PSPROFILERSophosHome
+psprofilersophoshome
 PSPROFILERWindowsDefender
 psprofilerwindowsdefender
 PURE
@@ -1953,10 +2221,12 @@ quick Heal Antivirus
 quick heal antivirus
 QuickGuardTotalSecurity
 quickguardtotalsecurity
+quickGuardTotalSecurity
 QuickHeal
 quickheal
 QuickHealAntiVirus
 quickhealantivirus
+quickHealAntivirus
 QuickHealTotalSecurity
 quickhealtotalsecurity
 Rapport
@@ -1968,6 +2238,7 @@ reason Core Security
 reason core security
 ReasonCoreSecurity
 reasoncoresecurity
+reasonCoreSecurity
 RemoveIT
 removeit
 RemoveIT Pro Enterprise
@@ -1975,6 +2246,7 @@ removeit Pro Enterprise
 removeit pro enterprise
 RemoveITProEnterprise
 removeitproenterprise
+removeitProEnterprise
 Remover
 remover
 Repair
@@ -1990,6 +2262,7 @@ returnil System Safe
 returnil system safe
 ReturnilSystemSafe
 returnilsystemsafe
+returnilSystemSafe
 REVE
 reve
 REVE Antivirus
@@ -1997,6 +2270,7 @@ reve Antivirus
 reve antivirus
 REVEAntivirus
 reveantivirus
+reveAntivirus
 Reza
 reza
 Reza AntiVirus
@@ -2004,6 +2278,7 @@ reza Antivirus
 reza antivirus
 RezaAntiVirus
 rezaantivirus
+rezaAntivirus
 Rising
 rising
 Rising AntiVirus
@@ -2017,12 +2292,15 @@ rising Personal Firewall
 rising personal firewall
 RisingAntiVirus
 risingantivirus
+risingAntivirus
 RisingInternetSecurity
 risinginternetsecurity
+risingInternetSecurity
 RisingPersonal
 risingpersonal
 RisingPersonalFireWall
 risingpersonalfirewall
+risingPersonalFirewall
 Roboscan
 roboscan
 RoboscanInternetSecurity
@@ -2038,6 +2316,7 @@ RRAVAntiVirus
 rravantivirus
 RRAVAntiVirusPlus
 rravantivirusplus
+rravAntivirusPlus
 Safe
 SAFE
 safe
@@ -2048,6 +2327,7 @@ safeguard Privatedisk
 safeguard privatedisk
 SafeGuardPrivateDisk
 safeguardprivatedisk
+safeguardPrivatedisk
 SafeHouse
 safehouse
 SBS
@@ -2075,6 +2355,7 @@ SecureDoc
 securedoc
 SecureIT
 secureit
+secureIt
 Securite
 securite
 Security
@@ -2084,10 +2365,13 @@ security Shield
 security shield
 Security-as-a-Service
 security-as-a-service
+SecurityasaService
+securityasaservice
 SecurityManagerAVDefender
 securitymanageravdefender
 SecurityShield
 securityshield
+securityShield
 Securіty
 securіty
 Seguranca
@@ -2101,6 +2385,7 @@ seguridad Dispositivo
 seguridad dispositivo
 SeguridadDispositivo
 seguridaddispositivo
+seguridadDispositivo
 Sensor
 sensor
 Sentinel
@@ -2110,6 +2395,7 @@ sentinel Agent
 sentinel agent
 SentinelAgent
 sentinelagent
+sentinelAgent
 Seqrite
 seqrite
 Seqrite Endpoint Security
@@ -2117,6 +2403,7 @@ seqrite Endpoint Security
 seqrite endpoint security
 SeqriteEndpointSecurity
 seqriteendpointsecurity
+seqriteEndpointSecurity
 Server
 server
 Servers
@@ -2129,6 +2416,7 @@ shadow Defender
 shadow defender
 ShadowDefender
 shadowdefender
+shadowDefender
 ShareCrypt
 sharecrypt
 Shield
@@ -2138,6 +2426,7 @@ shield Antivirus
 shield antivirus
 ShieldAntivirus
 shieldantivirus
+shieldAntivirus
 Skylar
 skylar
 SkyShieldAV
@@ -2153,6 +2442,7 @@ smart Heal Total Security
 smart heal total security
 SmartHealTotalSecurity
 smarthealtotalsecurity
+smartHealTotalSecurity
 SMB
 smb
 Sniper
@@ -2162,6 +2452,7 @@ sniper Antivirus
 sniper antivirus
 SniperAntivirus
 sniperantivirus
+sniperAntivirus
 Sophos
 sophos
 Sophos Anti-Virus
@@ -2181,16 +2472,22 @@ sophos Safeguard
 sophos safeguard
 SophosAnti-Virus
 sophosanti-virus
+sophosAnti-virus
 SophosAntiVirus
 sophosantivirus
+sophosAntivirus
 SophosCloudEndpoint
 sophoscloudendpoint
+sophosCloudEndpoint
 SophosEndpoint
 sophosendpoint
+sophosEndpoint
 SophosHome
 sophoshome
+sophosHome
 SophosSafeGuard
 sophossafeguard
+sophosSafeguard
 Space
 space
 SparkTrust
@@ -2200,6 +2497,7 @@ sparktrust Antivirus
 sparktrust antivirus
 SparkTrustAntiVirus
 sparktrustantivirus
+sparktrustAntivirus
 Spy
 spy
 SpyHunter
@@ -2215,6 +2513,7 @@ SPYWAREfighter
 spywarefighter
 SpywareTerminator
 spywareterminator
+spywareTerminator
 SpyZooka
 spyzooka
 Standard
@@ -2226,6 +2525,7 @@ stopzilla Antivirus
 stopzilla antivirus
 STOPzillaAntiVirus
 stopzillaantivirus
+stopzillaAntivirus
 Stronghold
 stronghold
 Stronghold AntiMalware
@@ -2233,20 +2533,33 @@ stronghold Antimalware
 stronghold antimalware
 StrongholdAntiMalware
 strongholdantimalware
+strongholdAntimalware
 Suite
 suite
-orangecyberdefense
-orange cyberdefense
+Suite de Securite
+suite De Securite
+suite de securite
 Suite de Securite Orange
 suite De Securite Orange
 suite de securite orange
+suite de sécurité
+Suite de Sécurité
+suite De Sécurité
 Suite de Sécurité Orange
 suite De Sécurité Orange
 suite de sécurité orange
+SuitedeSecurite
+suiteDeSecurite
+suitedesecurite
 SuitedeSecuriteOrange
 suitedesecuriteorange
+suiteDeSecuriteOrange
+suitedesécurité
+SuitedeSécurité
+suiteDeSécurité
 SuitedeSécuritéOrange
 suitedesécuritéorange
+suiteDeSécuritéOrange
 SUPERAntiSpyware
 superantispyware
 SWITZ
@@ -2256,6 +2569,7 @@ switz Antivirus
 switz antivirus
 SWITZAntivirus
 switzantivirus
+switzAntivirus
 Symantec
 symantec
 Symantec AntiVirus
@@ -2278,16 +2592,22 @@ symantec Hosted Endpoint Protection
 symantec hosted endpoint protection
 SymantecAntiVirus
 symantecantivirus
+symantecAntivirus
 SymantecEncryptionDesktop
 symantecencryptiondesktop
+symantecEncryptionDesktop
 SymantecEndpointEncryption
 symantecendpointencryption
+symantecEndpointEncryption
 SymantecEndpointProtection
 symantecendpointprotection
+symantecEndpointProtection
 SymantecEndpointProtectionCloud
 symantecendpointprotectioncloud
+symantecEndpointProtectionCloud
 SymantecHostedEndpointProtection
 symantechostedendpointprotection
+symantecHostedEndpointProtection
 System
 system
 SystemCare
@@ -2305,6 +2625,7 @@ tachyon Endpoint Security
 tachyon endpoint security
 TACHYONEndpointSecurity
 tachyonendpointsecurity
+tachyonEndpointSecurity
 Tech
 tech
 Tech Guard Internet Security
@@ -2315,10 +2636,13 @@ tech Tune-up Security
 tech tune-up security
 TechGuardInternetSecurity
 techguardinternetsecurity
+techGuardInternetSecurity
 TechTune-UpSecurity
 techtune-upsecurity
+techTune-upSecurity
 TechTuneUpSecurity
 techtuneupsecurity
+techTuneupSecurity
 Telefonica
 telefonica
 Telekom
@@ -2328,6 +2652,7 @@ telekom Secure Client
 telekom secure client
 TelekomSecureClient
 telekomsecureclient
+telekomSecureClient
 TELUS
 telus
 TELUS security services
@@ -2335,6 +2660,7 @@ telus Security Services
 telus security services
 TELUSsecurityservices
 telussecurityservices
+telusSecurityServices
 Tencent
 tencent
 Tencent PC Manager
@@ -2342,6 +2668,7 @@ tencent Pc Manager
 tencent pc manager
 TencentPCManager
 tencentpcmanager
+tencentPcManager
 Terminator
 terminator
 The
@@ -2351,6 +2678,7 @@ the Shield Deluxe
 the shield deluxe
 TheShieldDeluxe
 theshielddeluxe
+theShieldDeluxe
 Thirtyseven4
 thirtyseven4
 Thirtyseven4 AntiVirus
@@ -2358,6 +2686,7 @@ thirtyseven4 Antivirus
 thirtyseven4 antivirus
 Thirtyseven4AntiVirus
 thirtyseven4antivirus
+thirtyseven4Antivirus
 Thor
 thor
 Threat
@@ -2379,8 +2708,10 @@ TotalCare
 totalcare
 TotalDefenseAnti-Virus
 totaldefenseanti-virus
+totalDefenseAnti-virus
 TotalDefenseAntiVirus
 totaldefenseantivirus
+totalDefenseAntivirus
 TotalProtection
 totalprotection
 TotalSecurity
@@ -2406,14 +2737,19 @@ trend Micro Virusbuster
 trend micro virusbuster
 TrendMicro
 trendmicro
+trendMicro
 TrendMicroSafeLock
 trendmicrosafelock
+trendMicroSafeLock
 TrendMicroSecurity
 trendmicrosecurity
+trendMicroSecurity
 TrendMicroTitanium
 trendmicrotitanium
+trendMicroTitanium
 TrendMicroVirusBuster
 trendmicrovirusbuster
+trendMicroVirusbuster
 Trojan
 trojan
 Trojan Guarder Gold
@@ -2424,8 +2760,10 @@ trojan Killer
 trojan killer
 TrojanGuarderGold
 trojanguardergold
+trojanGuarderGold
 TrojanKiller
 trojankiller
+trojanKiller
 TrueCrypt
 truecrypt
 TrustPort
@@ -2435,12 +2773,15 @@ trustport Antivirus
 trustport antivirus
 TrustPortAntivirus
 trustportantivirus
+trustportAntivirus
 TrustPortInternetSecurity
 trustportinternetsecurity
 TrustPortTotalProtection
 trustporttotalprotection
 Tune-Up
 tune-up
+TuneUp
+tuneup
 Twister
 twister
 Twister Antivirus
@@ -2448,6 +2789,7 @@ twister Antivirus
 twister antivirus
 TwisterAntivirus
 twisterantivirus
+twisterAntivirus
 Ultimate
 ultimate
 UnHackMe
@@ -2459,6 +2801,7 @@ unthreat Antivirus
 unthreat antivirus
 UnThreatAntiVirus
 unthreatantivirus
+unthreatAntivirus
 USB
 usb
 USB Disk Security
@@ -2466,6 +2809,7 @@ usb Disk Security
 usb disk security
 USBDiskSecurity
 usbdisksecurity
+usbDiskSecurity
 Utilities
 utilities
 V3
@@ -2496,14 +2840,18 @@ vipre Business Agent
 vipre business agent
 VIPREAdvancedSecurity
 vipreadvancedsecurity
+vipreAdvancedSecurity
 VIPREAntivirus
 vipreantivirus
+vipreAntivirus
 VipreAV
 vipreav
 VIPREBusiness
 viprebusiness
+vipreBusiness
 VIPREBusinessAgent
 viprebusinessagent
+vipreBusinessAgent
 VIPREInternetSecurity
 vipreinternetsecurity
 VIPREManagedAntivirus
@@ -2515,6 +2863,7 @@ virit Explorer Pro
 virit explorer pro
 VirITeXplorerPRO
 viritexplorerpro
+viritExplorerPro
 ViRobot
 virobot
 ViRobot Internet Security
@@ -2522,6 +2871,7 @@ virobot Internet Security
 virobot internet security
 ViRobotInternetSecurity
 virobotinternetsecurity
+virobotInternetSecurity
 Virtualization
 virtualization
 Virus
@@ -2535,6 +2885,7 @@ VirusBuster
 virusbuster
 VirusChaser
 viruschaser
+virusChaser
 VIRUSfighter
 virusfighter
 VirusKeeper
@@ -2547,6 +2898,10 @@ Vivo
 vivo
 Vivo Seguranca Online
 vivo Seguranca Online
+vivo seguranca online
+VivoSegurancaOnline
+vivoSegurancaOnline
+vivosegurancaonline
 Volume
 volume
 VoodooShield
@@ -2560,6 +2915,7 @@ webroot Secureanywhere
 webroot secureanywhere
 WebrootSecureAnywhere
 webrootsecureanywhere
+webrootSecureanywhere
 WebrootSecureAnywhereComplete
 webrootsecureanywherecomplete
 WhiteList
@@ -2577,10 +2933,13 @@ windows Firewall
 windows firewall
 WindowsDefender
 windowsdefender
+windowsDefender
 WindowsDeviceEncryption
 windowsdeviceencryption
+windowsDeviceEncryption
 WindowsFirewall
 windowsfirewall
+windowsFirewall
 WinMend
 winmend
 WinMend System Doctor
@@ -2588,6 +2947,7 @@ winmend System Doctor
 winmend system doctor
 WinMendSystemDoctor
 winmendsystemdoctor
+winmendSystemDoctor
 WinMHR
 winmhr
 WinZip
@@ -2597,6 +2957,7 @@ winzip Malware Protector
 winzip malware protector
 WinZipMalwareProtector
 winzipmalwareprotector
+winzipMalwareProtector
 WISO
 wiso
 WISO Internet Security
@@ -2604,6 +2965,7 @@ wiso Internet Security
 wiso internet security
 WISOInternetSecurity
 wisointernetsecurity
+wisoInternetSecurity
 with
 Workstation
 workstation
@@ -2611,6 +2973,8 @@ Workstations
 workstations
 Worry-Free
 worry-free
+WorryFree
+worryfree
 X
 x
 XANA
@@ -2620,6 +2984,7 @@ xana Evolution Antivirus
 xana evolution antivirus
 XANAEvolutionAntivirus
 xanaevolutionantivirus
+xanaEvolutionAntivirus
 XoftSpy
 xoftspy
 XoftSpy AntiVirus Pro
@@ -2627,6 +2992,7 @@ xoftspy Antivirus Pro
 xoftspy antivirus pro
 XoftSpyAntiVirusPro
 xoftspyantiviruspro
+xoftspyAntivirusPro
 Xvirus
 xvirus
 Xvirus Anti-Malware
@@ -2637,10 +3003,13 @@ xvirus Personal Guard
 xvirus personal guard
 XvirusAnti-Malware
 xvirusanti-malware
+xvirusAnti-malware
 XvirusAntiMalware
 xvirusantimalware
+xvirusAntimalware
 XvirusPersonalGuard
 xviruspersonalguard
+xvirusPersonalGuard
 Xyvos
 xyvos
 Xyvos Antivirus
@@ -2648,6 +3017,7 @@ xyvos Antivirus
 xyvos antivirus
 XyvosAntivirus
 xyvosantivirus
+xyvosAntivirus
 XyvosWhiteListAntivirus
 xyvoswhitelistantivirus
 YAC
@@ -2664,8 +3034,10 @@ zemana Endpoint Security
 zemana endpoint security
 ZemanaAntiMalware
 zemanaantimalware
+zemanaAntimalware
 ZemanaEndpointSecurity
 zemanaendpointsecurity
+zemanaEndpointSecurity
 ZERO
 zero
 Zillya
@@ -2680,12 +3052,15 @@ zillya! Antivirus
 zillya! antivirus
 Zillya!Antivirus
 zillya!antivirus
+zillya!Antivirus
 ZillyaAntivirus
 zillyaantivirus
+zillyaAntivirus
 ZillyaInternetSecurity
 zillyainternetsecurity
 ZillyaTotalSecurity
 zillyatotalsecurity
+zillyaTotalSecurity
 ZoneAlarm
 zonealarm
 ZoneAlarmAntivirus
@@ -2695,5 +3070,4 @@ zonealarmfirewall
 ZoneAlarmPRO
 zonealarmpro
 ZoneAlarmSecuritySuite
-zonealarmsecuritysuite
 zonealarmsecuritysuite
