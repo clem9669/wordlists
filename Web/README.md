@@ -32,7 +32,7 @@ sed -i '/µ/d' decouverte.txt
 The size of the wordlist is about:
 ```sh
 wc -l decouverte.txt 
-348290 decouverte.txt
+331570 decouverte.txt
 ```
 
 ### Built With
@@ -43,7 +43,7 @@ The main part of the list come from various place of internet but many thanks to
 * French dictionnary
 
 The following projects could interest you:
-  - https://github.com/nil0x42/duplicut: Remove duplicates in huge wordlists
+  - https://github.com/nil0x42/duplicut
   - https://github.com/fuzzdb-project/fuzzdb
   - https://github.com/danielmiessler/SecLists
   - https://github.com/swisskyrepo/PayloadsAllTheThings
