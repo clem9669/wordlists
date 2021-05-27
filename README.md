@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/clem9669/wordlists/">
-    <img src="https://s.rfi.fr/media/display/f19b9c3c-1723-11ea-b771-005056bf7c53/w:310/p:16x9/dictionnaire_5_0.jpg" alt="Logo" width="80" height="80">
+    <img src="https://s.rfi.fr/media/display/f19b9c3c-1723-11ea-b771-005056bf7c53/w:310/p:16x9/dictionnaire_5_0.jpg" alt="Logo" width="400" height="200">
   </a>
 
   <h3 align="center">French Wordlists</h3>
