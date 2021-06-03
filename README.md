@@ -56,6 +56,7 @@ The main part of the list come from various places of internet but many thanks t
 * [xajkep/wordlists](https://github.com/xajkep/wordlists)
 * [JustinApplegate/password-cracking](https://github.com/JustinApplegate/password-cracking)
 * [Cheroxx/custom-wordlists](https://github.com/Cheroxx/custom-wordlists)
+* [decal/werdlists](https://github.com/decal/werdlists)
 * And more github wordlists ...
 
 The keyboard walks are generated with [kwprocessor](https://github.com/hashcat/kwprocessor).
