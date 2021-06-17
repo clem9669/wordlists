@@ -3,7 +3,7 @@ name: Wordlist-news
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "10 15 * * *" # At 10:10 UTC everyday.
+    - cron: "25 13 * * *" # At 13:25 UTC everyday.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
