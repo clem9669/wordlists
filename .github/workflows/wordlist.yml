@@ -1,11 +1,9 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Wordlist-news
 
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "10 10 * * *" # At 10:10 UTC everyday.
+    - cron: "10 15 * * *" # At 10:10 UTC everyday.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -22,8 +20,8 @@ jobs:
       - name: List current directory
         run: pwd && find . -type f -ls 
        
-      - name: Install xmllint
-        run: sudo apt-get install libxml2-utils curl sed sort
+      - name: Update & install xmllint
+        run: sudo apt update && sudo apt-get install libxml2-utils curl sed sort -y
 
       - name: Run a one-line script FR
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=FR' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_FR
