@@ -21,7 +21,7 @@ jobs:
         run: pwd && find . -type f -ls 
        
       - name: Update & install xmllint
-        run: sudo apt update && sudo apt-get install libxml2-utils curl sort -y
+        run: sudo apt update && sudo apt-get install libxml2-utils curl -y
 
       - name: Run a one-line script FR
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=FR' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_FR
