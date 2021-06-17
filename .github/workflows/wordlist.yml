@@ -3,7 +3,7 @@ name: Wordlist-news
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "25 13 * * *" # At 13:25 UTC everyday.
+    - cron: "00 16 * * *" # At 13:25 UTC everyday.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -21,7 +21,7 @@ jobs:
         run: pwd && find . -type f -ls 
        
       - name: Update & install xmllint
-        run: sudo apt update && sudo apt-get install libxml2-utils curl sed sort -y
+        run: sudo apt update && sudo apt-get install libxml2-utils curl sort -y
 
       - name: Run a one-line script FR
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=FR' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_FR
