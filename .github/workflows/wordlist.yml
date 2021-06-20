@@ -33,7 +33,7 @@ jobs:
         run: sort -u news_FR news_BE news_CH >> news_CURL
         
       - name: Run sort against the old one
-        run: sort -u news_CURL news >> news
+        run: cat news_CURL news | sort -u >> news
 
       # Runs a set of commands using the runners shell
       - name: Git commit and push
