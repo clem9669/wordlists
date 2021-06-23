@@ -30,7 +30,7 @@ jobs:
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=CH' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_CH
         
       - name: Run sort and uniq
-        run: sort -u news_FR news_BE news_CH news > news #might become buggy?
+        run: cat news news_BE news_CH news_FR >> pourquoi; sort -u pourquoi > news; ls -la news; wc -l news
 
       # Runs a set of commands using the runners shell
       - name: Git commit and push
