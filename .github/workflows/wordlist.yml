@@ -28,9 +28,15 @@ jobs:
 
       - name: Run a one-line script CH
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=CH' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_CH
-        
+
+      - name: Permutations options
+        run: cat news* | tr A-Z a-z > news_lower; cat news* | tr a-z A-Z > news_upper; sed "s/ //g" news* > news_nospaces; sed "s/-//g" news* > news_nodash
+
+      - name: Accent options
+        run: iconv -f utf8 -t ascii//TRANSLIT news* > news_noaccent
+
       - name: Run sort and uniq
-        run: cat news news_BE news_CH news_FR >> pourquoi; sort -u pourquoi > news; ls -la news; wc -l news
+        run: cat news* >> pourquoi; sort -u pourquoi > news; ls -la; wc -l news*;
 
       # Runs a set of commands using the runners shell
       - name: Git commit and push
