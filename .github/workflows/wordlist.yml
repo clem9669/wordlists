@@ -32,8 +32,8 @@ jobs:
       - name: Permutations options
         run: cat news* | tr A-Z a-z > news_lower; cat news* | tr a-z A-Z > news_upper; sed "s/ //g" news* > news_nospaces; sed "s/-//g" news* > news_nodash
 
-      - name: Accent options
-        run: iconv -f utf8 -t ascii//TRANSLIT news* > news_noaccent
+      # - name: Accent options
+      #   run: iconv -f utf8 -t ascii//TRANSLIT news* > news_noaccent
 
       - name: Run sort and uniq
         run: cat news* >> pourquoi; sort -u pourquoi > news; ls -la; wc -l news*;
