@@ -36,8 +36,9 @@ jobs:
             sed "s/ //g" cat news_FR news_BE news_CH > news_nospaces;
             sed "s/-//g" cat news_FR news_BE news_CH > news_nodash;
 
-      - name: Accent options
-        run: iconv -f latin1 -t ascii//TRANSLIT news_FR news_CH news_BE news_nodash news_nospaces news_lower news_upper > news_noaccent
+      # TODO: fix it
+      # - name: Accent options
+      #   run: iconv -f latin1 -t ascii//TRANSLIT news_FR news_CH news_BE news_nodash news_nospaces news_lower news_upper > news_noaccent
 
       - name: Run sort and uniq
         run: cat news* >> pourquoi; sort -u pourquoi > news; ls -la; wc -l news*;
