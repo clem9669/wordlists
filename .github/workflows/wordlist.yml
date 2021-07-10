@@ -3,7 +3,7 @@ name: Wordlist-news
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "21 10 * * *" # At 13:25 UTC everyday.
+    - cron: "21 11 * * *" # At 13:25 UTC everyday.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -37,7 +37,7 @@ jobs:
             sed "s/-//g" news* > news_nodash;
 
       - name: Accent options
-        run: iconv -f utf8 -t ascii//TRANSLIT news* > news_noaccent
+        run: iconv -f latin1 -t ascii//TRANSLIT news* > news_noaccent
 
       - name: Run sort and uniq
         run: cat news* >> pourquoi; sort -u pourquoi > news; ls -la; wc -l news*;
