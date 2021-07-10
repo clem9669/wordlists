@@ -3,7 +3,7 @@ name: Wordlist-news
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "50 12 * * *" # At 13:25 UTC everyday.
+    - cron: "15 13 * * *" # At 13:25 UTC everyday.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -32,9 +32,9 @@ jobs:
       - name: Permutations options
         run: |
             cat news_FR news_BE news_CH | awk '{print tolower($0)}' > news_lower;
-            cat cat news_FR news_BE news_CH | awk '{print toupper($0)}' > news_upper;
-            sed "s/ //g" cat news_FR news_BE news_CH > news_nospaces;
-            sed "s/-//g" cat news_FR news_BE news_CH > news_nodash;
+            cat news_FR news_BE news_CH | awk '{print toupper($0)}' > news_upper;
+            sed "s/ //g" news_FR news_BE news_CH > news_nospaces;
+            sed "s/-//g" news_FR news_BE news_CH > news_nodash;
 
       # TODO: fix it
       # - name: Accent options
