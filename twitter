@@ -20,6 +20,7 @@ AmineAdli
 AntiPassSanitaire
 Auxerre
 BAAL
+BARCA
 BASTIA
 BASTIEN
 BAYONNE
@@ -41,6 +42,7 @@ BROLY
 BROT
 BSCYB
 Baal
+Barca
 Bastia
 Bastien
 Bayonne
@@ -58,6 +60,7 @@ Brot
 CAEN
 CARAPAZ
 CERCLE
+CHARLEROI
 CHOKRI
 CHRISTENEN
 CLAUDE MALHURET
@@ -69,6 +72,7 @@ CYRIL
 Caen
 Carapaz
 Cercle
+Charleroi
 Chokri
 Christenen
 Claude Malhuret
@@ -87,6 +91,7 @@ DEPAY
 DETAILHANDEL
 DIENST
 DIKTATUR
+DIMI
 DINANT
 DUNKERQUE
 Damso
@@ -96,6 +101,7 @@ Demo
 Depay
 Dienst
 Diktatur
+Dimi
 Dinant
 Dunkerque
 EL CHADAILLE
@@ -117,12 +123,14 @@ FILLON
 FLEISCH
 FLIEGER
 FLORIDA
+FORTBOYARD
 FUSSBALL
 FVDB
 Fillon
 Fleisch
 Flieger
 Florida
+FortBoyard
 Fussball
 GAMER
 GARP
@@ -135,6 +143,7 @@ GERNE
 GEWITTER
 GHARBI
 GOMIS
+GRUNDE
 GRÜN
 GUINGAMP
 Gamer
@@ -148,6 +157,7 @@ Gerne
 Gewitter
 Gharbi
 Gomis
+Grunde
 Grün
 Guingamp
 HAECHAN
@@ -157,6 +167,7 @@ HANDELN
 HENRY
 HERR GLARNER
 HERRERA
+HONGARIJE
 HUGO
 HUSSEIN
 Hagel
@@ -166,15 +177,19 @@ Henry
 Herr Glarner
 HerrGlarner
 Herrera
+Hongarije
 Hugo
 Hussein
 ILLUSION
 IMOLA
 IPSÉITÉ
 ITACHI
+Illusion
 Imola
 Ipséité
 Itachi
+J'ADORE
+J'adore
 JAEMIN
 JAPAN
 JEAN-YVES LAFESSE
@@ -193,6 +208,7 @@ KAIDO
 KALIMUENDO
 KEHRER
 KEY LARGO
+KIEL
 KIRCHE
 KOKOMI
 KONSUM
@@ -206,6 +222,7 @@ Kalimuendo
 Kehrer
 Key Largo
 KeyLargo
+Kiel
 Kirche
 Kokomi
 Konsum
@@ -215,12 +232,15 @@ Kriterien
 Kurzawa
 LAIFIS
 LEQUIPEL2
+LESTOURISTES
 LEVANTE
 LEVSRFC
 LEYE
 LIL NAS X
+LSFCSG
 LUKA MKHEIDZE
 LUZERN
+LesTouristes
 Levante
 Leye
 Lil Nas X
@@ -295,12 +315,14 @@ RASKIN
 RED LIONS
 REMCO
 RODEZ
+ROGER
 ROGLIC
 Raskin
 Red Lions
 RedLions
 Remco
 Rodez
+Roger
 Roglic
 SCHADEN
 SINAYOKO
@@ -329,18 +351,22 @@ TACITURNE
 TAYLOR
 TEAMBELGIUM
 TFCACA
+TITREDÉGUEULASSE
 TOBY
 TOKYO2020
 TOMMY
 TOTTI
 TOULON
 TROCADERO
+TROCADÉRO
 TRÄUME
 Taciturne
+TitreDégueulasse
 Toby
 Tokyo2020
 Totti
 Toulon
+Trocadéro
 Träume
 VALVERDE
 VAN AERT
@@ -361,14 +387,18 @@ Vilvoorde
 WARRIORS
 WERCHTER
 WESTEN
+WESTERN
 WILLEN
 WOEDENDE
 WONHO
+WOUT
 Warriors
 Westen
+Western
 Willen
 Woedende
 Wonho
+Wout
 XAVI SIMONS
 Xavi Simons
 XaviSimons
@@ -395,6 +425,7 @@ amine adli
 antipasssanitaire
 auxerre
 baal
+barca
 bastia
 bastien
 bayonne
@@ -416,6 +447,7 @@ bscyb
 caen
 carapaz
 cercle
+charleroi
 chokri
 christenen
 claude malhuret
@@ -432,9 +464,11 @@ depay
 detailhandel
 dienst
 diktatur
+dimi
 dinant
 dunkerque
 el chadaille
+elchadaille
 energie
 erfahrung
 eric clapton
@@ -445,6 +479,7 @@ fillon
 fleisch
 flieger
 florida
+fortboyard
 fussball
 fvdb
 gamer
@@ -458,6 +493,7 @@ gerne
 gewitter
 gharbi
 gomis
+grunde
 grün
 guingamp
 haechan
@@ -467,12 +503,14 @@ handeln
 henry
 herr glarner
 herrera
+hongarije
 hugo
 hussein
 illusion
 imola
 ipséité
 itachi
+j'adore
 jaemin
 japan
 jean-yves lafesse
@@ -484,6 +522,7 @@ kaido
 kalimuendo
 kehrer
 key largo
+kiel
 kirche
 kokomi
 konsum
@@ -495,10 +534,12 @@ kvkser
 laifis
 lequipeL2
 lequipel2
+lestouristes
 levante
 levsrfc
 leye
 lil nas x
+lsfcsg
 luka mkheidze
 luzern
 manchester
@@ -537,6 +578,7 @@ raskin
 red lions
 remco
 rodez
+roger
 roglic
 schaden
 sinayoko
@@ -553,16 +595,19 @@ taciturne
 taylor
 teambelgium
 tfcaca
+titredégueulasse
 toby
 tokyo2020
 tommy
 totti
 toulon
 trocadero
+trocadéro
 träume
 valverde
 van aert
 van avermaet
+vanavermaet
 vandenbroucke
 vannes
 verbrenner
@@ -570,9 +615,11 @@ vilvoorde
 warriors
 werchter
 westen
+western
 willen
 woedende
 wonho
+wout
 xavi simons
 yeonjun
 yess
@@ -581,6 +628,7 @@ yousef
 zilver
 zucker
 zulte waregem
+zultewaregem
 ÜBERZEUGUNG
 Überzeugung
 überzeugung
