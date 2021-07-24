@@ -55,5 +55,5 @@ jobs:
           git config user.name "Twitter-bot"
           git config user.email ""
           git add twitter
-          git commit -m "[Bot] Twitter trends from $(date +'%Y_%m_%d')"
+          git commit -m "[Bot] Twitter trends from $(date +'%Y_%m_%d %R')"
           git push origin master
