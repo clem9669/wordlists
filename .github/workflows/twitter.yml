@@ -21,7 +21,7 @@ jobs:
         run: sudo apt update && sudo apt-get install libxml2-utils curl jq -y
 
       - name: Run a one-line script FR
-        run: curl -s "https://api.twitter.com/1.1/trends/place.json?id=23424819" -H  "Authorization: Bearer ${{ secrets.BEARER_TOKEN }}"
+        run: curl -s "https://api.twitter.com/1.1/trends/place.json?id=23424819" -H  "Authorization: Bearer 123"
 
       - name: Run a one-line script BE
         run: curl -s "https://api.twitter.com/1.1/trends/place.json?id=23424757" -H  "Authorization: Bearer ${{ secrets.BEARER_TOKEN }}" | jq '.[0].trends[].name' | sed 's/#//g' | tr -d '"' > twitter_BR
