@@ -41,6 +41,7 @@ jobs:
             cat twitter_FR twitter_BE twitter_CH | awk '{print toupper($0)}' > twitter_upper;
             sed "s/ //g" twitter_FR twitter_BE twitter_CH > twitter_nospaces;
             sed "s/-//g" twitter_FR twitter_BE twitter_CH > twitter_nodash;
+            sed "s/'//g" twitter_FR twitter_BE twitter_CH > twitter_quote;
 
       - name: Run sort and uniq
         run: cat twitter* >> pourquoit; sort -u pourquoit > twitter; ls -la; wc -l twitter*;
