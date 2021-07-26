@@ -16,6 +16,12 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+[![Twitter-trends](https://github.com/clem9669/wordlists/actions/workflows/twitter.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/twitter.yml)
+[![Wordlist-news](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/clem9669/wordlists)
+
+
+
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Usage](#usage)
@@ -24,6 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 
 It is easier to crack password for english people because it is le langue of internet. And there is good ressource as rockyou, hashorg2019, etc...
 
