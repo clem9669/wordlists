@@ -3,7 +3,7 @@ name: Twitter-trends
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "23 */2 * * *" # At minute 23 past every 2nd hour.
+    - cron: "23 * * * *" # At minute 23 past every 2nd hour.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -46,7 +46,7 @@ jobs:
         run: cat twitter* >> pourquoit; sort -u pourquoit > twitter; ls -la; wc -l twitter*;
 
       - name: Accent options
-        run: ls -la; wc -l twitter*;env;export LANGUAGE=fr_FR; export LANG=fr.UTF8; iconv -f UTF-8 -t ascii//TRANSLIT twitter >> twitter; ls -la; wc -l twitter*
+        run: ls -la; wc -l twitter*;env;LANG=en_US.UTF-8 iconv -f UTF-8 -t ascii//TRANSLIT twitter >> twitter; ls -la; wc -l twitter*
       
       # Runs a set of commands using the runners shell
       - name: Git commit and push
