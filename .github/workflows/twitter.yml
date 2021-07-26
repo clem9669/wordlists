@@ -17,8 +17,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - name: Update & install curl & jq
-        run: sudo apt update && sudo apt-get install libxml2-utils curl jq -y
+      - name: Update & install curl, iconv & jq
+        run: sudo apt update && sudo apt-get install libxml2-utils curl libc-bin jq -y
 
       - name: Run a one-line script FR
         run: |
@@ -42,13 +42,12 @@ jobs:
             sed "s/ //g" twitter_FR twitter_BE twitter_CH > twitter_nospaces;
             sed "s/-//g" twitter_FR twitter_BE twitter_CH > twitter_nodash;
 
-      # TODO: fix it
-      # - name: Accent options
-      #   run: iconv -f latin1 -t ascii//TRANSLIT news_FR news_CH news_BE news_nodash news_nospaces news_lower news_upper > news_noaccent
-
       - name: Run sort and uniq
         run: cat twitter* >> pourquoit; sort -u pourquoit > twitter; ls -la; wc -l twitter*;
 
+      - name: Accent options
+        run: ls -la; wc -l twitter*; iconv -t ascii//TRANSLIT twitter >> twitter; ls -la; wc -l twitter*
+      
       # Runs a set of commands using the runners shell
       - name: Git commit and push
         run: |
