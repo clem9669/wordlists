@@ -42,12 +42,10 @@ jobs:
             sed "s/ //g" twitter_FR twitter_BE twitter_CH > twitter_nospaces;
             sed "s/-//g" twitter_FR twitter_BE twitter_CH > twitter_nodash;
             sed "s/'//g" twitter_FR twitter_BE twitter_CH > twitter_quote;
+            sed 'y/ÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/AaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' twitter_FR twitter_BE twitter_CH > twitter_noaccent;
 
       - name: Run sort and uniq
         run: cat twitter* >> pourquoit; sort -u pourquoit > twitter; ls -la; wc -l twitter*;
-
-      - name: Accent options
-        run: ls -la; wc -l twitter*;env;LANG=en_US.UTF-8 iconv -f UTF-8 -t ascii//TRANSLIT twitter >> twitter; ls -la; wc -l twitter*
       
       # Runs a set of commands using the runners shell
       - name: Git commit and push
