@@ -46,7 +46,7 @@ jobs:
         run: cat twitter* >> pourquoit; sort -u pourquoit > twitter; ls -la; wc -l twitter*;
 
       - name: Accent options
-        run: ls -la; wc -l twitter*;env;export LANGUAGE=fr_FR; export LANG=fr.UTF8; iconv -t ascii//TRANSLIT twitter >> twitter; ls -la; wc -l twitter*
+        run: ls -la; wc -l twitter*;env;export LANGUAGE=fr_FR; export LANG=fr.UTF8; iconv -f UTF-8 -t ascii//TRANSLIT twitter >> twitter; ls -la; wc -l twitter*
       
       # Runs a set of commands using the runners shell
       - name: Git commit and push
