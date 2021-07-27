@@ -42,7 +42,7 @@ jobs:
             sed "s/ //g" twitter_FR twitter_BE twitter_CH > twitter_nospaces;
             sed "s/-//g" twitter_FR twitter_BE twitter_CH > twitter_nodash;
             sed "s/'//g" twitter_FR twitter_BE twitter_CH > twitter_quote;
-            sed 'y/ÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/AaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' twitter_FR twitter_BE twitter_CH > twitter_noaccent;
+            sed 'y/ÇçÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/CcAaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' twitter_FR twitter_BE twitter_CH > twitter_noaccent;
 
       - name: Run sort and uniq
         run: cat twitter* >> pourquoit;LC_ALL=C sort -u pourquoit > twitter; ls -la; wc -l twitter*;
