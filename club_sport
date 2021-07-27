@@ -3039,12 +3039,12 @@ CS PARIS SUD-EST
 cs Paris Sudest
 cs paris sudest
 CS PARIS SUDEST
-cs Pont-du-chateau(auvergne)
-cs pont-du-chateau(auvergne)
-CS PONT-DU-CHATEAU(AUVERGNE)
-cs Pontduchateau(auvergne)
-cs pontduchateau(auvergne)
-CS PONTDUCHATEAU(AUVERGNE)
+cs Pont-du-chateau
+cs pont-du-chateau
+CS PONT-DU-CHATEAU
+cs Pontduchateau
+cs pontduchateau
+CS PONTDUCHATEAU
 csCaen
 cscaen
 CSCAEN
@@ -3085,12 +3085,12 @@ CSPARISSUD-EST
 csParisSudest
 csparissudest
 CSPARISSUDEST
-csPont-du-chateau(auvergne)
-cspont-du-chateau(auvergne)
-CSPONT-DU-CHATEAU(AUVERGNE)
-csPontduchateau(auvergne)
-cspontduchateau(auvergne)
-CSPONTDUCHATEAU(AUVERGNE)
+csPont-du-chateau
+cspont-du-chateau
+CSPONT-DU-CHATEAU
+csPontduchateau
+cspontduchateau
+CSPONTDUCHATEAU
 cugnaux
 CUGNAUX
 cuiseaux
@@ -9542,8 +9542,8 @@ SAINT-CHAMOND BASKET
 Saint-ChamondBasket
 saint-chamondbasket
 SAINT-CHAMONDBASKET
-saint-chinian(languedoc-r.)
-SAINT-CHINIAN(LANGUEDOC-R.)
+saint-chinian
+SAINT-CHINIAN
 saint-cyr
 SAINT-CYR
 saint-denis
@@ -9643,10 +9643,8 @@ saintbrévin
 SaintChamondBasket
 saintchamondbasket
 SAINTCHAMONDBASKET
-saintchinian(languedocr)
-SAINTCHINIAN(LANGUEDOCR)
-saintchinian(languedocr.)
-SAINTCHINIAN(LANGUEDOCR.)
+saintchinian
+SAINTCHINIAN
 saintcyr
 SAINTCYR
 saintdenis
