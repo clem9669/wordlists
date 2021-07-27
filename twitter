@@ -272,6 +272,7 @@ CHOKRI
 CHRISTENEN
 CHÂTELET
 CLARISSE
+CLARISSE AGBEGNENOU
 CLAUDE MALHURET
 CLEMENT
 CLUEUP
@@ -320,6 +321,8 @@ Chokri
 Christenen
 Châtelet
 Clarisse
+Clarisse Agbegnenou
+ClarisseAgbegnenou
 Claude Malhuret
 ClaudeMalhuret
 Clement
@@ -971,6 +974,7 @@ LAMATINALEWE
 LANDER
 LASCHET
 LASOUPEAUXCHOUX
+LAURENT
 LAURENT FABIUS
 LAVINE
 LE 0
@@ -1030,6 +1034,7 @@ LaMatinaleWE
 LaSoupeAuxChoux
 Lander
 Laschet
+Laurent
 Laurent Fabius
 LaurentFabius
 Lavine
@@ -1092,10 +1097,12 @@ Lunin
 Lunite
 Lunité
 Luzern
+LÖSUNG
 Léon Marchand
 LéonMarchand
 Léquipe de France
 LéquipedeFrance
+Lösung
 MACRON
 MACRONDESTITUTION
 MADARA
@@ -1240,6 +1247,7 @@ NAOMI
 NAOMI MAC
 NASE
 NASSOURDINE
+NATHALIE
 NATHAN
 NATI
 NATIONALRAT
@@ -1253,6 +1261,7 @@ NIEUWPOORT
 NIMES
 NINA CHRISTEN
 NINA DERWAEL
+NJET\ VLAAMS-BRABANT
 NMECHA
 NOAH
 NOICE
@@ -1267,6 +1276,7 @@ Naomi
 Naomi Mac
 NaomiMac
 Nase
+Nathalie
 Nathan
 Nati
 Nationalrat
@@ -1305,6 +1315,7 @@ OR NOIR
 ORBAN
 ORDM
 ORLEANS
+OSAKA
 OUR FASHION ICON JAY
 OURFASHIONICONJAY
 Obito
@@ -1321,6 +1332,7 @@ OrNoir
 Orban
 Orleans
 Orléans
+Osaka
 PANDEMIE
 PAPIER
 PARDON
@@ -1709,6 +1721,7 @@ VAN VLEUTEN
 VANDENBROUCKE
 VANNES
 VARANE
+VARIANTEN
 VELO
 VERBRENNER
 VERFAHREN
@@ -1743,6 +1756,7 @@ Vandenbroucke
 VanderPoel
 Vannes
 Varane
+Varianten
 Velo
 Verbrenner
 Verfahren
@@ -1817,6 +1831,7 @@ ZION
 ZITAT
 ZORO
 ZUCKER
+ZUCKERBERG
 ZUGANG
 ZUHAUSE
 ZULTE WAREGEM
@@ -1827,6 +1842,7 @@ Zion
 Zitat
 Zoro
 Zucker
+Zuckerberg
 Zugang
 Zuhause
 Zulte Waregem
@@ -1983,6 +1999,7 @@ chokri
 christenen
 châtelet
 clarisse
+clarisse agbegnenou
 claude malhuret
 claudemalhuret
 clement
@@ -2343,6 +2360,7 @@ lamatinalewe
 lander
 laschet
 lasoupeauxchoux
+laurent
 laurent fabius
 lavine
 le 0
@@ -2400,6 +2418,7 @@ luzern
 léon marchand
 léonmarchand
 léquipe de france
+lösung
 macron
 macrondestitution
 madara
@@ -2481,6 +2500,7 @@ naomi
 naomi mac
 nase
 nassourdine
+nathalie
 nathan
 nati
 nationalrat
@@ -2497,6 +2517,9 @@ nina christen
 nina derwael
 ninachristen
 ninaderwael
+njet\ vlaams-brabant
+njet\ vlaamsbrabant
+njet\vlaams-brabant
 nmecha
 noah
 noice
@@ -2520,6 +2543,7 @@ ordm
 orleans
 orléans
 ornoir
+osaka
 our fashion icon jay
 pandemie
 papier
@@ -2738,6 +2762,7 @@ vandenbroucke
 vannes
 vanvleuten
 varane
+varianten
 velo
 verbrenner
 verfahren
@@ -2786,6 +2811,7 @@ zion
 zitat
 zoro
 zucker
+zuckerberg
 zugang
 zuhause
 zulte waregem
