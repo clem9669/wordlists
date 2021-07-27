@@ -19,6 +19,7 @@ AIRWAKS
 AJACCIO
 AKWS
 AKWs
+ALDI
 ALEXANDRE MENDY
 ALLEZ AMANDINE
 ALLEZ L'OM
@@ -74,6 +75,7 @@ Ahmed Hafnaoui
 AhmedHafnaoui
 Airwaks
 Ajaccio
+Aldi
 Alexandre Mendy
 AlexandreMendy
 Allez Manon
@@ -168,6 +170,7 @@ BOEDAPEST
 BOMA
 BON DIMANCHE
 BONJOUR GUILLAUME
+BONJOUR MARIE
 BOOBA
 BORDEAUX
 BOREL
@@ -233,7 +236,9 @@ Boma
 Bon Dimanche
 BonDimanche
 Bonjour Guillaume
+Bonjour Marie
 BonjourGuillaume
+BonjourMarie
 Booba
 Bordeaux
 Borel
@@ -300,6 +305,7 @@ COVID-ZERTIFIKAT
 COVID-Zertifikat
 COVIDZertifikat
 CROIX ROUGE
+CROSSCOUNTRY
 CURRY
 CYBORG
 CYCLINGROAD
@@ -461,6 +467,7 @@ Défensivement
 EFFEKT
 EHRE
 EIER
+EINKOMMEN
 EL CHADAILLE
 EL HADJ
 ELON
@@ -491,6 +498,7 @@ EXACT
 Effekt
 Ehre
 Eier
+Einkommen
 El Chadaille
 El Hadj
 ElChadaille
@@ -560,6 +568,7 @@ FRANCOISE
 FRANKEN
 FRANS
 FRANSEN
+FRANÇAISES
 FRANÇOISE
 FRARSA
 FRAUSA
@@ -604,6 +613,7 @@ Francoise
 Franken
 Frans
 Fransen
+Françaises
 Françoise
 FreebetNetBet
 FreebetPMU
@@ -614,6 +624,7 @@ GAEL MONFILS
 GAMER
 GANNA
 GARDE REPUBLICAINE
+GARE DU NORD
 GARP
 GAUDU
 GAVI
@@ -630,6 +641,7 @@ GERMANY
 GERNE
 GERSON
 GERT VERHULST
+GESETZE
 GEWITTER
 GHARBI
 GIGI
@@ -658,6 +670,8 @@ Garde Republicaine
 Garde Républicaine
 GardeRepublicaine
 GardeRépublicaine
+Gare du Nord
+GareduNord
 Garp
 Gaudu
 Gavi
@@ -674,6 +688,7 @@ Gerne
 Gerson
 Gert Verhulst
 GertVerhulst
+Gesetze
 Gewitter
 Gharbi
 Gigi
@@ -777,6 +792,7 @@ IPHONE
 IPPON
 IPSEITE
 IRAN
+IRELAND
 ISRAËL
 ISSA RAE
 ITACHI
@@ -805,6 +821,7 @@ Ippon
 Ipseite
 Ipséité
 Iran
+Ireland
 Israel
 Israël
 Issa Rae
@@ -831,6 +848,7 @@ JEZUS
 JIMINIE
 JO2020
 JOFFRIN
+JOLANDA NEFF
 JOON
 JOSE
 JOTOKYO
@@ -869,6 +887,8 @@ JeuxOlympiques
 Jezus
 Jiminie
 Joffrin
+Jolanda Neff
+JolandaNeff
 Jose
 José
 Jour 25
@@ -987,6 +1007,7 @@ L'équipedeFrance
 LA CHAPELLE
 LA DEFENSE
 LA FRANCE
+LA SUISSE
 LAIFIS
 LAMATINALEWE
 LANDER
@@ -998,10 +1019,12 @@ LAVINE
 LE 0
 LE 25
 LE 26
+LE 27
 LE H
 LE M
 LE O
 LE SENAT
+LE VTT
 LEE KNOW
 LEGO
 LEON MARCHAND
@@ -1060,19 +1083,23 @@ Lavine
 Le 0
 Le 25
 Le 26
+Le 27
 Le H
 Le M
 Le O
 Le Senat
 Le Sénat
+Le VTT
 Le0
 Le25
 Le26
+Le27
 LeH
 LeM
 LeO
 LeSenat
 LeSénat
+LeVTT
 Lee Know
 LeeKnow
 Lego
@@ -1181,6 +1208,7 @@ MIRALLAS
 MODRIC
 MOHAMED HENNI
 MOLLEMA
+MOLOTOV
 MONANECDOTETGVINOUI
 MONDAYMOTIVATION
 MONTPARNASSE
@@ -1255,6 +1283,7 @@ Modric
 Mohamed Henni
 MohamedHenni
 Mollema
+Molotov
 MonAnecdoteTGVINOUI
 MondayMotivation
 Montparnasse
@@ -1281,10 +1310,12 @@ NATI
 NATIONALRAT
 NAZIS
 NEDERLANDSE
+NEFF
 NELSON
 NELSON MONFORT
 NENA
 NETFLIX AND CHIBRE
+NICOLAS GEAY
 NIEUWPOORT
 NIMES
 NINA CHRISTEN
@@ -1310,12 +1341,15 @@ Nati
 Nationalrat
 Nazis
 Nederlandse
+Neff
 Nelson
 Nelson Monfort
 NelsonMonfort
 Nena
 Netflix and Chibre
 NetflixandChibre
+Nicolas Geay
+NicolasGeay
 Nieuwpoort
 Nimes
 Nina Christen
@@ -1369,6 +1403,7 @@ PARLEMENT
 PASSFRAUDULEUX
 PATRICK CHESNAIS
 PATTY MILLS
+PAULINE
 PAYET
 PEDRI
 PELS
@@ -1379,6 +1414,7 @@ PETRA
 PETRA DE SUTTER
 PEUT-ETRE
 PFLICHT
+PHILIPPE AUGUSTE
 PHILIPPE JUVIN
 PHILIPPOT
 PIDCOCK
@@ -1410,6 +1446,7 @@ Patrick Chesnais
 PatrickChesnais
 Patty Mills
 PattyMills
+Pauline
 Payet
 Pedri
 Pels
@@ -1423,7 +1460,9 @@ Peut-être
 Peutetre
 Peutêtre
 Pflicht
+Philippe Auguste
 Philippe Juvin
+PhilippeAuguste
 PhilippeJuvin
 Philippot
 Pidcock
@@ -1483,6 +1522,7 @@ ROMAINCANNONE
 ROTBLAULIVE
 RSCA
 RUDY
+RUNDE
 RUSSIA
 Radonjic
 Raman
@@ -1509,12 +1549,14 @@ Roglic
 Romain Cannone
 RomainCannone
 Rudy
+Runde
 Russia
 SACK
 SAINTETIENNEDUROUVRAY
 SAKAI
 SAMPAOLI
 SAMUSE
+SANDRINE
 SARAH-LEONIE CYSIQUE
 SARAH-LÉONIE CYSIQUE
 SARDAIGNE
@@ -1574,6 +1616,7 @@ STROM
 STRUFF
 STUDIEN
 STVGNT
+SUISSESSES
 SUPER LEAGUE
 SUSPENSION
 SYRIA
@@ -1582,6 +1625,7 @@ SaintEtienneduRouvray
 Sakai
 Sampaoli
 Samuse
+Sandrine
 Sarah-Leonie Cysique
 Sarah-LeonieCysique
 Sarah-Léonie Cysique
@@ -1636,6 +1680,7 @@ StrayKids
 Strom
 Struff
 Studien
+Suissesses
 Super League
 SuperLeague
 Suspension
@@ -1670,6 +1715,7 @@ TOBY
 TOKYO2020
 TOKYOREVENGERS
 TOM DALEY
+TOM PIDCOCK
 TOMMY
 TOMORROWLAND
 TONY PARKER
@@ -1709,7 +1755,9 @@ Toby
 Tokyo2020
 TokyoRevengers
 Tom Daley
+Tom Pidcock
 TomDaley
+TomPidcock
 Tomorrowland
 Tony Parker
 Tony Yoka
@@ -1826,6 +1874,7 @@ WESTERN
 WILLEN
 WOCHENSTART
 WOEDENDE
+WOLLANTS
 WONHO
 WORTEL
 WOUT
@@ -1842,6 +1891,7 @@ Western
 Willen
 Wochenstart
 Woedende
+Wollants
 Wonho
 Wortel
 Wout
@@ -1899,6 +1949,7 @@ ahmed hafnaoui
 airwaks
 ajaccio
 akws
+aldi
 alexandre mendy
 alexandremendy
 allez amandine
@@ -1990,6 +2041,7 @@ boma
 bon dimanche
 bondimanche
 bonjour guillaume
+bonjour marie
 booba
 bordeaux
 borel
@@ -2059,6 +2111,7 @@ covid-zertifikat
 covidzertifikat
 croix rouge
 croixrouge
+crosscountry
 curry
 cyborg
 cyclingroad
@@ -2121,6 +2174,7 @@ détectivepikachu
 effekt
 ehre
 eier
+einkommen
 el chadaille
 el hadj
 elchadaille
@@ -2185,6 +2239,7 @@ francoise
 franken
 frans
 fransen
+françaises
 françoise
 frarsa
 frausa
@@ -2202,6 +2257,7 @@ garde republicaine
 garde républicaine
 garderepublicaine
 garderépublicaine
+gare du nord
 garp
 gaudu
 gavi
@@ -2219,6 +2275,7 @@ gerne
 gerson
 gert verhulst
 gertverhulst
+gesetze
 gewitter
 gharbi
 gigi
@@ -2297,6 +2354,7 @@ ippon
 ipseite
 ipséité
 iran
+ireland
 israël
 issa rae
 itachi
@@ -2324,6 +2382,7 @@ jezus
 jiminie
 jo2020
 joffrin
+jolanda neff
 joon
 jose
 josé
@@ -2396,6 +2455,7 @@ la chapelle
 la defense
 la défense
 la france
+la suisse
 ladefense
 ladéfense
 laifis
@@ -2403,17 +2463,20 @@ lamatinalewe
 lander
 laschet
 lasoupeauxchoux
+lasuisse
 laurent
 laurent fabius
 lavine
 le 0
 le 25
 le 26
+le 27
 le h
 le m
 le o
 le senat
 le sénat
+le vtt
 lee know
 lego
 leh
@@ -2527,6 +2590,7 @@ modric
 mohamed henni
 mohamedhenni
 mollema
+molotov
 monanecdotetgvinoui
 mondaymotivation
 montparnasse
@@ -2553,11 +2617,13 @@ nati
 nationalrat
 nazis
 nederlandse
+neff
 nelson
 nelson monfort
 nena
 netflix and chibre
 netflixandchibre
+nicolas geay
 nieuwpoort
 nimes
 nina christen
@@ -2602,6 +2668,7 @@ passfrauduleux
 patrick chesnais
 patrickchesnais
 patty mills
+pauline
 payet
 pedri
 pels
@@ -2614,6 +2681,7 @@ petradesutter
 peut-etre
 peut-être
 pflicht
+philippe auguste
 philippe juvin
 philippejuvin
 philippot
@@ -2671,12 +2739,14 @@ romaincannone
 rotblaulive
 rsca
 rudy
+runde
 russia
 sack
 saintetiennedurouvray
 sakai
 sampaoli
 samuse
+sandrine
 sarah-leonie cysique
 sarah-léonie cysique
 sarah-léoniecysique
@@ -2740,6 +2810,7 @@ strom
 struff
 studien
 stvgnt
+suissesses
 super league
 superleague
 suspension
@@ -2774,6 +2845,7 @@ toby
 tokyo2020
 tokyorevengers
 tom daley
+tom pidcock
 tommy
 tomorrowland
 tony parker
@@ -2845,6 +2917,7 @@ western
 willen
 wochenstart
 woedende
+wollants
 wonho
 wortel
 wout
