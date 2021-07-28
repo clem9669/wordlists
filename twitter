@@ -29,6 +29,7 @@ ALDI
 ALEXANDRE MENDY
 ALGERIE
 ALLEZ AMANDINE
+ALLEZ CLARISSE
 ALLEZ L'OM
 ALLEZ LOM
 ALLEZ MANON
@@ -160,6 +161,7 @@ Australia
 Australie
 Auswahl
 Auxerre
+Aviron
 AztraL
 Aztral
 BAAL
@@ -213,7 +215,9 @@ BOMA
 BON DIMANCHE
 BONJOUR CELINE
 BONJOUR GUILLAUME
+BONJOUR LYLA
 BONJOUR MARIE
+BONJOUR TWITTER
 BOOBA
 BORDEAUX
 BOREL
@@ -298,10 +302,14 @@ BonDimanche
 Bonjour Celine
 Bonjour Céline
 Bonjour Guillaume
+Bonjour Lyla
 Bonjour Marie
+Bonjour Twitter
 BonjourCéline
 BonjourGuillaume
+BonjourLyla
 BonjourMarie
+BonjourTwitter
 Booba
 Bordeaux
 Borel
@@ -624,6 +632,7 @@ ESTROSI
 ETHEREUM
 EUPEN
 EUROPE
+EUROPE 1
 EUROPEAN
 EUROSPORT
 EUROSPORT 6
@@ -668,6 +677,8 @@ Estrosi
 Ethereum
 Eupen
 Europe
+Europe 1
+Europe1
 European
 Eurosport
 Eurosport 6
@@ -725,6 +736,7 @@ FRAUSA
 FREEBETNETBET
 FREEBETPMU
 FREEBETUNIBET
+FREEBETWINAMAX
 FRESSE
 FULHAM
 FUSSBALL
@@ -773,6 +785,7 @@ Françoise
 FreebetNetBet
 FreebetPMU
 FreebetUnibet
+FreebetWinamax
 Fresse
 Fulham
 Fussball
@@ -824,6 +837,7 @@ GROEN
 GROENEN
 GRUN
 GRUNDE
+GRÜNDE
 GUENDOUZI
 GUEYE
 GUINGAMP
@@ -878,6 +892,7 @@ Gratulation
 Groen
 Grun
 Grunde
+Gründe
 Guendouzi
 Gueye
 Guingamp
@@ -915,6 +930,7 @@ HOPPSCHWIIZ
 HOSEOK
 HUGO
 HUGO BOUCHERON
+HUMBERT
 HUSSEIN
 HYBE
 Habs
@@ -953,6 +969,7 @@ Hoseok
 Hugo
 Hugo Boucheron
 HugoBoucheron
+Humbert
 Hussein
 Hybe
 HÄNDEN
@@ -1254,9 +1271,11 @@ LE 0
 LE 25
 LE 26
 LE 27
+LE 28
 LE H
 LE M
 LE O
+LE PACTE
 LE REAL
 LE SENAT
 LE VTT
@@ -1335,9 +1354,11 @@ Le 0
 Le 25
 Le 26
 Le 27
+Le 28
 Le H
 Le M
 Le O
+Le Pacte
 Le Real
 Le Senat
 Le Sénat
@@ -1346,9 +1367,11 @@ Le0
 Le25
 Le26
 Le27
+Le28
 LeH
 LeM
 LeO
+LePacte
 LeReal
 LeSenat
 LeSénat
@@ -1466,6 +1489,7 @@ MEDIZINER
 MEINUNGSFREIHEIT
 MEISTER
 MELANIE
+MEMECREDI
 MEMPHIS
 MENDES
 MENDY
@@ -2171,7 +2195,9 @@ TRAVAGLIO
 TRAVIS SCOTT
 TRIATHLON
 TROCADERO
+TRUFFAUT
 TRUMP
+TSITSIPAS
 TUNISIE
 Taciturne
 Taekwondo
@@ -2232,7 +2258,9 @@ TravisScott
 Triathlon
 Trocadero
 Trocadéro
+Truffaut
 Trump
+Tsitsipas
 Tunisie
 UBERZEUGUNG
 UFCVEGAS32
@@ -2340,6 +2368,7 @@ Vormer
 Vorteile
 Vuelta
 WAALSE
+WALD
 WALLONIE
 WARRIORS
 WASS
@@ -2362,6 +2391,7 @@ WOUT
 WRIGHT
 WSMDS
 Waalse
+Wald
 Wallonie
 Warriors
 Wass
@@ -2457,11 +2487,13 @@ alexandremendy
 algerie
 algérie
 allez amandine
+allez clarisse
 allez l'om
 allez lom
 allez manon
 allez pauline
 allezamandine
+allezclarisse
 allezlesbleus
 almada
 alpes-maritimes
@@ -2564,7 +2596,9 @@ bon dimanche
 bondimanche
 bonjour céline
 bonjour guillaume
+bonjour lyla
 bonjour marie
+bonjour twitter
 booba
 bordeaux
 borel
@@ -2764,6 +2798,7 @@ estrosi
 ethereum
 eupen
 europe
+europe 1
 european
 eurosport
 eurosport 6
@@ -2821,6 +2856,7 @@ freebetPMU
 freebetnetbet
 freebetpmu
 freebetunibet
+freebetwinamax
 fresse
 fulham
 fussball
@@ -2878,6 +2914,7 @@ groen
 groenen
 grun
 grunde
+gründe
 guendouzi
 gueye
 guingamp
@@ -2918,6 +2955,8 @@ hoppschwiiz
 hoseok
 hugo
 hugo boucheron
+hugoboucheron
+humbert
 hussein
 hybe
 händen
@@ -3091,9 +3130,11 @@ le 0
 le 25
 le 26
 le 27
+le 28
 le h
 le m
 le o
+le pacte
 le real
 le senat
 le sénat
@@ -3218,6 +3259,7 @@ mediziner
 meinungsfreiheit
 meister
 melanie
+memecredi
 memphis
 mendes
 mendy
@@ -3595,7 +3637,9 @@ travis scott
 triathlon
 trocadero
 trocadéro
+truffaut
 trump
+tsitsipas
 tunisie
 uberzeugung
 ufcvegas32
@@ -3653,6 +3697,7 @@ vormer
 vorteile
 vuelta
 waalse
+wald
 wallonie
 warriors
 wass
