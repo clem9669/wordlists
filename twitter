@@ -263,6 +263,7 @@ BERG
 BERLIJN
 BERNARDONI
 BERSET
+BETCLICQUIZ
 BETRIEB
 BETTIOL
 BEVOLKERUNG
@@ -373,6 +374,7 @@ Berg
 Berlijn
 Bernardoni
 Berset
+BetclicQuiz
 Betrieb
 Bettiol
 Bevolkerung
@@ -462,6 +464,7 @@ CANCER
 CAPITAL
 CAPITOL
 CARAPAZ
+CARICATURETONMACRON
 CARLITO
 CASSE
 CATCHRAW
@@ -553,6 +556,7 @@ Canada
 Cancer
 Capitol
 Carapaz
+CaricatureTonMacron
 Carlito
 Casse
 CatchRAW
@@ -633,6 +637,8 @@ Covid19
 CovidSafeTicket
 CovidZertifikat
 Covid_19
+Credit Suisse
+CreditSuisse
 Croix Rouge
 CroixRouge
 Crystal Palace
@@ -1301,6 +1307,7 @@ IMOLA
 IMPFGEGNER
 IMPFPFLICHT
 IMPFQUOTE
+IMPFSTATUS
 IMPFSTOFF
 IMPFUNG
 IMPFVERWEIGERER
@@ -1344,6 +1351,7 @@ Imola
 Impfgegner
 Impfpflicht
 Impfquote
+Impfstatus
 Impfstoff
 Impfung
 Impfverweigerer
@@ -2605,6 +2613,7 @@ SEDUCTIVESUNDAY
 SENAT
 SENJU
 SEPTAHUIT
+SERENA
 SERIE
 SERTIC
 SERVIE
@@ -2675,6 +2684,7 @@ STUDIEN
 STVGNT
 STVV
 SUISSESSES
+SUNISA LEE
 SUPER LEAGUE
 SUSPENSION
 SWIMMING
@@ -2724,6 +2734,7 @@ Secu
 SeductiveSunday
 Senat
 Senju
+Serena
 Serie
 Sertic
 Servie
@@ -2789,6 +2800,8 @@ Strom
 Struff
 Studien
 Suissesses
+Sunisa Lee
+SunisaLee
 Super League
 SuperLeague
 Suspension
@@ -2844,6 +2857,7 @@ TICINO
 TIERE
 TIGRES
 TIJDRIT
+TIKTOK
 TINNE
 TIPLOUF
 TITREDEGUEULASSE
@@ -2926,6 +2940,7 @@ Thelin
 Ticino
 Tiere
 Tigres
+TikTok
 Tinne
 Tiplouf
 TitreDegueulasse
@@ -3402,6 +3417,7 @@ berg
 berlijn
 bernardoni
 berset
+betclicquiz
 betrieb
 bettiol
 bevolkerung
@@ -3483,6 +3499,7 @@ cancer
 capital
 capitol
 carapaz
+caricaturetonmacron
 carlito
 casse
 catchraw
@@ -3934,6 +3951,7 @@ imola
 impfgegner
 impfpflicht
 impfquote
+impfstatus
 impfstoff
 impfung
 impfverweigerer
@@ -4626,6 +4644,7 @@ seductivesunday
 senat
 senju
 septahuit
+serena
 serie
 sertic
 servie
@@ -4699,6 +4718,7 @@ studien
 stvgnt
 stvv
 suissesses
+sunisa lee
 super league
 superleague
 suspension
@@ -4752,6 +4772,7 @@ ticino
 tiere
 tigres
 tijdrit
+tiktok
 tinne
 tiplouf
 titredegueulasse
