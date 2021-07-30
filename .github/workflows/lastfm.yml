@@ -1,0 +1,60 @@
+name: Music-trends
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron: "9 9 * * *" # At 09:09.
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "lastfm"
+  lastfm:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - name: Update & install curl, iconv & jq
+        run: sudo apt update && sudo apt-get install libxml2-utils curl libc-bin jq -y
+
+      - name: Run a one-line script FR
+        run: |
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=france&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_fr
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_fr
+
+      - name: Run a one-line script BE
+        run: |
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_be
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_be
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_be
+
+      - name: Run a one-line script CH
+        run: |
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_ch
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_ch
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_ch
+
+      - name: Permutations options
+        run: |
+            cat lastfm_fr lastfm_be lastfm_ch | awk '{print tolower($0)}' > lastfm_lower;
+            cat lastfm_fr lastfm_be lastfm_ch | awk '{print toupper($0)}' > lastfm_upper;
+            sed "s/ //g" lastfm_fr lastfm_be lastfm_ch > lastfm_nospaces;
+            sed "s/-//g" lastfm_fr lastfm_be lastfm_ch > lastfm_nodash;
+            sed "s/'//g" lastfm_fr lastfm_be lastfm_ch > lastfm_quote;
+            sed 'y/ÖöËÇçÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECcAaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' lastfm_quote lastfm_upper lastfm_lower lastfm_nodash lastfm_fr lastfm_be lastfm_ch > lastfm_noaccent;
+
+      - name: Run sort and uniq
+        run: cat lastfm* >> pourquoit;LC_ALL=C sort -u pourquoit > lastfm; ls -la; wc -l lastfm*;
+      
+      # Runs a set of commands using the runners shell
+      - name: Git commit and push
+        run: |
+          git config user.name "Music-bot"
+          git config user.email ""
+          git add lastfm
+          git commit -m "[Bot] Music trends from $(date +'%Y_%m_%d')"
+          git push origin master
