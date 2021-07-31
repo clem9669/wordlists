@@ -125,6 +125,7 @@ ANDERSEN
 ANDRE TUBEUF
 ANDUNI
 ANDUSG
+ANGEL
 ANGRIFF
 ANIMAL CROSSING
 ANITA
@@ -280,6 +281,7 @@ Andersen
 Andre Tubeuf
 André Tubeuf
 AndréTubeuf
+Angel
 Angriff
 Animal Crossing
 AnimalCrossing
@@ -353,6 +355,7 @@ BAAL
 BAILEY
 BAILLY
 BAKKER
+BALERDI
 BALLON
 BAND
 BARBIE
@@ -378,6 +381,7 @@ BBNAJIA
 BBNaija
 BBNajia
 BEAL
+BEATRICE
 BEDARF
 BEDEUTUNG
 BEECER
@@ -519,6 +523,7 @@ Baal
 Bailey
 Bailly
 Bakker
+Balerdi
 Ballon
 Band
 Barbie
@@ -543,6 +548,7 @@ Bayo
 Bayonne
 Baywatch
 Beal
+Beatrice
 Bedarf
 Bedeutung
 Beerschot
@@ -749,6 +755,7 @@ CHAUMET
 CHELSEA
 CHIBNALL
 CHIEF KEEF
+CHIFUYU
 CHINA
 CHINE
 CHINEZEN
@@ -849,6 +856,7 @@ Cdiscount
 CelebriteRidicule
 Cendrillon
 Ceni
+CerOHL
 Cercle
 Cetelem
 Champion
@@ -880,6 +888,7 @@ Chelsea
 Chibnall
 Chief Keef
 ChiefKeef
+Chifuyu
 China
 Chine
 Chinezen
@@ -3686,6 +3695,7 @@ Rust
 RÉUNION
 Réunion
 SACK
+SAHARA
 SAILING
 SAILLET
 SAINTETIENNEDUROUVRAY
@@ -3814,6 +3824,7 @@ SPAANS
 SPANNEND
 SPARTA PRAGUE
 SPARTAK MOSCOU
+SPIEGEL
 SPIELE
 SPORTING
 SPORTLER
@@ -3873,6 +3884,7 @@ SYLVAIN ANDRE
 SYLVAIN ANDRÉ
 SYRIA
 Sack
+Sahara
 Sailing
 Saillet
 SaintEtienneduRouvray
@@ -4002,6 +4014,7 @@ Sparta Prague
 SpartaPrague
 Spartak Moscou
 SpartakMoscou
+Spiegel
 Spiele
 Sporting
 Sportler
@@ -4068,7 +4081,11 @@ Sécu
 Sénat
 Séville
 T'AIME
+T'ETAIS
 T'aime
+T'etais
+T'ÉTAIS
+T'étais
 TA LOU
 TACITURNE
 TAEKWONDO
@@ -4214,6 +4231,7 @@ TerrenceClarke
 Tessin
 Testen
 Tests
+Tetais
 Thailand
 Thauvin
 The Ascent
@@ -4298,6 +4316,7 @@ Tyler
 Typisch
 TÄTER
 Täter
+Tétais
 UBERZEUGUNG
 UFCVEGAS32
 UFCVegas32
@@ -4495,6 +4514,7 @@ Vuelta
 VÉLODROME
 Vélodrome
 WAALSE
+WAGEN
 WAHLKAMPF
 WAHNSINN
 WAHRSCHEINLICHKEIT
@@ -4537,6 +4557,7 @@ WRIGHT
 WSMDS
 WUYTS
 Waalse
+Wagen
 Wahlkampf
 Wahnsinn
 Wahrscheinlichkeit
@@ -4780,6 +4801,7 @@ andersen
 andré tubeuf
 anduni
 andusg
+angel
 angriff
 animal crossing
 anita
@@ -4846,6 +4868,7 @@ baal
 bailey
 bailly
 bakker
+balerdi
 ballon
 band
 barbie
@@ -4871,6 +4894,7 @@ baywatch
 bbnaija
 bbnajia
 beal
+beatrice
 bedarf
 bedeutung
 beecer
@@ -5065,6 +5089,7 @@ chaumet
 chelsea
 chibnall
 chief keef
+chifuyu
 china
 chine
 chinezen
@@ -6552,6 +6577,7 @@ russie
 rust
 réunion
 sack
+sahara
 sailing
 saillet
 saintetiennedurouvray
@@ -6686,6 +6712,7 @@ spannend
 sparta prague
 spartak moscou
 spartakmoscou
+spiegel
 spiele
 sporting
 sportler
@@ -6753,6 +6780,8 @@ sécu
 sénat
 séville
 t'aime
+t'etais
+t'étais
 ta lou
 taciturne
 taekwondo
@@ -6972,6 +7001,7 @@ vrenzbleijenbergh
 vuelta
 vélodrome
 waalse
+wagen
 wahlkampf
 wahnsinn
 wahrscheinlichkeit
