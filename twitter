@@ -28,6 +28,8 @@
 3pts
 4MARIAGESPOUR1LUNEDEMIEL
 4mariagespour1lunedemiel
+70KG
+70kg
 ABBA
 ABBA KYARI
 ABSICHT
@@ -68,6 +70,7 @@ ALLEZ AMANDINE
 ALLEZ AXELLE
 ALLEZ CLARISSE
 ALLEZ L'OM
+ALLEZ LA FRANCE
 ALLEZ LES BLEUES
 ALLEZ LES FILLES
 ALLEZ LOM
@@ -75,10 +78,12 @@ ALLEZ MADELEINE
 ALLEZ MANON
 ALLEZ PAULINE
 ALLEZ REMI
+ALLEZ ROMANE
 ALLEZ RÉMI
 ALLEZ UGO
 ALLEZ VINCENT
 ALLEZL'OM
+ALLEZLAFRANCE
 ALLEZLESBLEUS
 ALLEZLOM
 ALLEZRÉMI
@@ -128,6 +133,7 @@ APOTHEKE
 APP STORE
 APPLE
 ARBEITGEBER
+ARBITRE
 AREOLA
 ARGUMENT
 ARIANA
@@ -156,6 +162,7 @@ AUSTRALIË
 AUSWAHL
 AUXERRE
 AVIRON
+AXEL
 AZTRAL
 Abba
 Abba Kyari
@@ -205,6 +212,7 @@ Allez Madeleine
 Allez Manon
 Allez Pauline
 Allez Remi
+Allez Romane
 Allez Rémi
 Allez Ugo
 Allez les Bleues
@@ -213,6 +221,7 @@ AllezLesBleus
 AllezMadeleine
 AllezManon
 AllezPauline
+AllezRomane
 AllezRémi
 AllezUgo
 AllezlesBleues
@@ -273,6 +282,7 @@ App Store
 AppStore
 Apple
 Arbeitgeber
+Arbitre
 Areola
 Argument
 Ariana Grande
@@ -303,9 +313,11 @@ Australie
 Auswahl
 Auxerre
 Aviron
+Axel
 AztraL
 Aztral
 BAAL
+BAILLY
 BALLON
 BAND
 BARBIE
@@ -316,6 +328,7 @@ BART DE WEVER
 BASHAEV
 BASTIA
 BASTIEN
+BATTRE LE JAPON
 BATUM
 BAUDET
 BAYO
@@ -338,6 +351,7 @@ BEIN
 BEINE
 BEISPIELE
 BEKA BEKA
+BEKE
 BELEIDIGUNGEN
 BELGEN
 BELGIAN CATS
@@ -456,6 +470,7 @@ BURO
 BUSSE
 BUTTER8THNO1ONHOT100
 Baal
+Bailly
 Ballon
 Band
 Barbie
@@ -468,6 +483,8 @@ BartDeWever
 Bashaev
 Bastia
 Bastien
+Battre le Japon
+BattreleJapon
 Batum
 Baudet
 Bayo
@@ -486,6 +503,7 @@ Beine
 Beispiele
 Beka Beka
 BekaBeka
+Beke
 Beleidigungen
 Belgen
 Belgian Cats
@@ -651,6 +669,7 @@ CETELEM
 CHAMPION
 CHAMPION OLYMPIQUE
 CHAMPIONNE OLYMPIQUE
+CHAMPIONOLYMPIQUE
 CHAMPSELYSEES
 CHAN
 CHANTAL DELSOL
@@ -888,6 +907,7 @@ DE WEVER
 DEFENSIVEMENT
 DEKU
 DELAP
+DELCROIX
 DELTA
 DELTA-VARIANTE
 DEMAINNOUSAPPARTIENT
@@ -996,6 +1016,7 @@ Decolo
 Defensivement
 Deku
 Delap
+Delcroix
 Delta
 Delta-Variante
 DeltaVariante
@@ -1084,6 +1105,7 @@ EBENE
 ECKE
 EFFEKT
 EGBERT
+EHEFUERALLE
 EHRE
 EIER
 EINKOMMEN
@@ -1126,6 +1148,7 @@ ERKRANKUNG
 ERKRANKUNGEN
 ERWIN
 ESCRIME
+ESPAGNE
 ESPCIV
 ESPOIRS
 ESTHER
@@ -1154,6 +1177,7 @@ Ebene
 Ecke
 Effekt
 Egbert
+Ehefueralle
 Ehre
 Eier
 Einkommen
@@ -1204,6 +1228,7 @@ Erkrankung
 Erkrankungen
 Erwin
 Escrime
+Espagne
 Espoirs
 Esther
 Estrosi
@@ -1268,6 +1293,7 @@ FIJNE
 FILLON
 FINALE
 FIRMA
+FLAIR
 FLANDRE
 FLASH MCQUEEN
 FLEISCH
@@ -1359,6 +1385,7 @@ Fijne
 Fillon
 Finale
 Firma
+Flair
 Flandre
 Flash McQueen
 FlashMcQueen
@@ -1943,8 +1970,10 @@ James Gunn
 JamesGunn
 Jan Breydel
 Jan Van Hecke
+Jan van Hecke
 JanBreydel
 JanVanHecke
+JanvanHecke
 Japan
 Japon
 Jardim
@@ -2360,6 +2389,7 @@ LSFCSG
 LUAN PERES
 LUCIEN FAVRE
 LUCIFER
+LUGE
 LUKA MKHEIDZE
 LUKEBA
 LUNIN
@@ -2544,6 +2574,7 @@ Lyon
 LÄNDER
 LÉGENDE
 LÉON
+LÜGE
 Länder
 Lécole
 Légende
@@ -2552,6 +2583,7 @@ Léon Marchand
 LéonMarchand
 Léquipe de France
 LéquipedeFrance
+Lüge
 MA LONG
 MACRON
 MACRONDESTITUTION
@@ -2587,6 +2619,7 @@ MARIE
 MARIE WATTEL
 MARINE
 MARJORIE DELASSUS
+MARKUS
 MARLEN REUSSER
 MARQUISES
 MARSEILLAISE
@@ -2635,6 +2668,7 @@ MESSI
 METER
 MHA321
 MICDROP1B
+MICHAEL
 MICHEL
 MICHEL VAN DOUSSELAERE
 MICHELIN
@@ -2670,6 +2704,7 @@ MOULOUD ACHOUR
 MOUNIR
 MOUNTAINBIKE
 MOVETHEDATE
+MRNA
 MUCCHIELLI
 MUFASA
 MUFC
@@ -2716,6 +2751,7 @@ MarieWattel
 Marine
 Marjorie Delassus
 MarjorieDelassus
+Markus
 Marlen Reusser
 MarlenReusser
 Marquises
@@ -2774,6 +2810,7 @@ Merkel
 Messi
 Meter
 MicDrop1B
+Michael
 Michel
 Michel Van Dousselaere
 MichelVanDousselaere
@@ -2851,6 +2888,7 @@ NAUKA
 NAZIS
 NBADRAFT
 NBADraft
+NEDERLANDERS
 NEDERLANDSE
 NEDUSA
 NEED 2
@@ -2919,6 +2957,7 @@ Nationalrat
 Natur
 Nauka
 Nazis
+Nederlanders
 Nederlandse
 Need 2
 Need2
@@ -3291,8 +3330,11 @@ RIP DUSTY HILL
 RIP Dusty Hill
 RIP HARRY
 RIP Harry
+RIP JACOB
+RIP Jacob
 RIPDustyHill
 RIPHarry
+RIPJacob
 RIPOLL
 RIPPLE
 RMC SPORT
@@ -3432,6 +3474,7 @@ SAMUSE
 SANCHO
 SANDRINE
 SANJI
+SARAH
 SARAH-LEONIE CYSIQUE
 SARDAIGNE
 SARDELLA
@@ -3594,6 +3637,7 @@ Samuse
 Sancho
 Sandrine
 Sanji
+Sarah
 Sarah-Leonie Cysique
 Sarah-LeonieCysique
 Sarah-Léonie Cysique
@@ -3809,6 +3853,7 @@ TODESFÄLLE
 TOKIO2020
 TOKYO2020
 TOKYO2021
+TOKYOOLYMPICS2020
 TOKYOREVENGERS
 TOKYOREVENGERS216
 TOM DALEY
@@ -3913,6 +3958,7 @@ Todesfälle
 Tokio2020
 Tokyo2020
 Tokyo2021
+TokyoOlympics2020
 TokyoRevengers
 TokyoRevengers216
 Tom Daley
@@ -4291,6 +4337,7 @@ ZUHAUSE
 ZUID-AFRIKA
 ZULTE WAREGEM
 ZURICH
+ZUSTAND
 ZVEREV
 ZWEIFEL
 ZWIEBELN
@@ -4318,6 +4365,7 @@ ZuidAfrika
 Zulte Waregem
 ZulteWaregem
 Zurich
+Zustand
 Zverev
 Zweifel
 Zwiebeln
@@ -4374,6 +4422,7 @@ allez amandine
 allez axelle
 allez clarisse
 allez l'om
+allez la france
 allez les bleues
 allez les filles
 allez lom
@@ -4381,6 +4430,7 @@ allez madeleine
 allez manon
 allez pauline
 allez remi
+allez romane
 allez rémi
 allez ugo
 allez vincent
@@ -4440,6 +4490,7 @@ apotheke
 app store
 apple
 arbeitgeber
+arbitre
 areola
 argument
 ariana
@@ -4468,8 +4519,10 @@ australie
 auswahl
 auxerre
 aviron
+axel
 aztral
 baal
+bailly
 ballon
 band
 barbie
@@ -4482,6 +4535,7 @@ bartdewever
 bashaev
 bastia
 bastien
+battre le japon
 batum
 baudet
 bayo
@@ -4502,6 +4556,7 @@ bein
 beine
 beispiele
 beka beka
+beke
 beleidigungen
 belgen
 belgian cats
@@ -4666,6 +4721,7 @@ charleroi
 charlie
 charlie hebdo
 charline picon
+charlinepicon
 chaumet
 chelsea
 chibnall
@@ -4771,6 +4827,7 @@ deketelaere
 deku
 delafuente
 delap
+delcroix
 delta
 delta-variante
 deltavariante
@@ -4860,6 +4917,7 @@ ebene
 ecke
 effekt
 egbert
+ehefueralle
 ehre
 eier
 einkommen
@@ -4904,6 +4962,7 @@ erkrankung
 erkrankungen
 erwin
 escrime
+espagne
 espciv
 espoirs
 esther
@@ -4964,6 +5023,7 @@ fijne
 fillon
 finale
 firma
+flair
 flandre
 flash mcqueen
 flashmcqueen
@@ -5609,6 +5669,8 @@ léon
 léon marchand
 léonmarchand
 léquipe de france
+lüge
+mRNA
 ma long
 macron
 macrondestitution
@@ -5648,6 +5710,7 @@ marie wattel
 mariewattel
 marine
 marjorie delassus
+markus
 marlen reusser
 marlenreusser
 marquises
@@ -5703,6 +5766,7 @@ messi
 meter
 mha321
 micdrop1b
+michael
 michel
 michel van dousselaere
 michelin
@@ -5741,6 +5805,7 @@ mouloud achour
 mounir
 mountainbike
 movethedate
+mrna
 mucchielli
 mufasa
 mufc
@@ -5775,6 +5840,7 @@ natur
 nauka
 nazis
 nbadraft
+nederlanders
 nederlandse
 nedusa
 need 2
@@ -6017,6 +6083,7 @@ rihanna
 riner
 rip dusty hill
 rip harry
+rip jacob
 ripharry
 ripoll
 ripple
@@ -6080,6 +6147,7 @@ samuse
 sancho
 sandrine
 sanji
+sarah
 sarah-leonie cysique
 sarah-léonie cysique
 sarah-léoniecysique
@@ -6302,6 +6370,7 @@ todesfälle
 tokio2020
 tokyo2020
 tokyo2021
+tokyoolympics2020
 tokyorevengers
 tokyorevengers216
 tom daley
@@ -6526,6 +6595,7 @@ zuidafrika
 zulte waregem
 zultewaregem
 zurich
+zustand
 zverev
 zweifel
 zwiebeln
