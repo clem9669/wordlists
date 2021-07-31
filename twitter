@@ -162,6 +162,7 @@ ARSENAL
 ARZT
 ASENSIO
 ASGREEN
+ASNLTFC
 ASSELINEAU
 ASSEOM
 ASTON VILLA
@@ -475,6 +476,7 @@ BRAVO CHAMPION
 BRAVO CHAMPIONNE
 BRAVO CLARISSE
 BRAVO TEDDY
+BRAY WYATT
 BRAZIL
 BREGANCON
 BREXIT
@@ -652,6 +654,8 @@ BravoChampion
 BravoChampionne
 BravoClarisse
 BravoTeddy
+Bray Wyatt
+BrayWyatt
 Brazil
 Bregancon
 Brexit
@@ -705,6 +709,7 @@ CELEBRITERIDICULE
 CENDRILLON
 CENI
 CERCLE
+CEROHL
 CETELEM
 CHAMPION
 CHAMPION OLYMPIQUE
@@ -718,6 +723,7 @@ CHAOS
 CHAP
 CHARDY
 CHARLEROI
+CHARLES
 CHARLIE
 CHARLIE HEBDO
 CHARLINE PICON
@@ -842,6 +848,7 @@ Chaos
 Chap
 Chardy
 Charleroi
+Charles
 Charlie
 Charlie Hebdo
 CharlieHebdo
@@ -950,6 +957,7 @@ DAVION MITCHELL
 DAVOS
 DE COLO
 DE CROO
+DE JONG
 DE KETELAERE
 DE LA FUENTE
 DE MORGEN
@@ -1056,12 +1064,14 @@ DavionMitchell
 Davos
 De Colo
 De Croo
+De Jong
 De Ketelaere
 De Morgen
 De Wever
 De colo
 DeColo
 DeCroo
+DeJong
 DeKetelaere
 DeMorgen
 DeWever
@@ -1561,6 +1571,7 @@ GOEDEMORGEN
 GOEIEMORGEN
 GOLD
 GOLDEN SLAM
+GOLDMEDAILLE
 GOLUBIC
 GOMEZ
 GOMIS
@@ -1570,6 +1581,7 @@ GRATULIERE
 GREALISH
 GREECE
 GRENOUILLER
+GRIEZMANN
 GRIMES
 GROEN
 GROENEN
@@ -1582,6 +1594,7 @@ GUADELOUPE
 GUENDOUZI
 GUEUGNON
 GUEYE
+GUIMARAES
 GUINGAMP
 GUNNA
 GYMNASTICS
@@ -1643,6 +1656,7 @@ Goeiemorgen
 Gold
 Golden Slam
 GoldenSlam
+Goldmedaille
 Golubic
 Gomez
 Gomis
@@ -1653,6 +1667,7 @@ Gratuliere
 Grealish
 Greece
 Grenouiller
+Griezmann
 Groen
 Groenland
 Grosjean
@@ -1663,6 +1678,7 @@ Guadeloupe
 Guendouzi
 Gueugnon
 Gueye
+Guimaraes
 Guingamp
 Gunna
 HAALAND
@@ -2374,6 +2390,8 @@ LA DEFENSE
 LA F
 LA FFF
 LA FRANCE
+LA JAMAIQUE
+LA JAMAÏQUE
 LA SUISSE
 LA SÛRETE
 LA SÛRETÉ
@@ -2503,6 +2521,7 @@ La Défense
 La F
 La FFF
 La France
+La Jamaïque
 La Suisse
 La Sûrete
 La Sûreté
@@ -2513,6 +2532,7 @@ LaDéfense
 LaF
 LaFFF
 LaFrance
+LaJamaïque
 LaMatinaleWE
 LaSoupeAuxChoux
 LaSuisse
@@ -3012,6 +3032,8 @@ NETHERLANDS
 NETS
 NEW YORK
 NEWCASTLE
+NFTS
+NFTs
 NICKI
 NICOLAS GEAY
 NIEUWPOORT
@@ -3224,6 +3246,7 @@ PAKISTAN
 PANDEMIE
 PAPE GUEYE
 PAPIER
+PAQUETA
 PARDON
 PARIS 2024
 PARIS FC
@@ -3310,6 +3333,7 @@ Pandemie
 Pape Gueye
 PapeGueye
 Papier
+Paqueta
 Pardon
 Paris 2024
 Paris FC
@@ -3590,6 +3614,7 @@ RÉUNION
 Réunion
 SACK
 SAILING
+SAILLET
 SAINTETIENNEDUROUVRAY
 SAINZ
 SAKAI
@@ -3635,6 +3660,7 @@ SCHUTZ
 SCHWEDEN
 SCHWEIZ
 SCHWEIZER
+SCHWEIZERIN
 SCHWEIZERINNEN
 SCHWESTER
 SCHWURBLER
@@ -3650,6 +3676,7 @@ SENAT
 SENF
 SENJU
 SEPTAHUIT
+SERAING
 SERENA
 SERIE
 SERKVM
@@ -3769,6 +3796,7 @@ SYLVAIN ANDRÉ
 SYRIA
 Sack
 Sailing
+Saillet
 SaintEtienneduRouvray
 Sainz
 Sakai
@@ -3820,6 +3848,7 @@ Schweden
 Schweiz
 Schweizer
 SchweizerInnen
+Schweizerin
 Schweizerinnen
 Schwester
 Schwurbler
@@ -3834,6 +3863,7 @@ SeductiveSunday
 Senat
 Senf
 Senju
+Seraing
 Serena
 Serie
 Sertic
@@ -4692,6 +4722,7 @@ arsenal
 arzt
 asensio
 asgreen
+asnltfc
 asselineau
 asseom
 aston villa
@@ -4847,6 +4878,7 @@ bravo clarisse
 bravo teddy
 bravochampion
 bravochampionne
+bray wyatt
 brazil
 bregancon
 brexit
@@ -4902,6 +4934,7 @@ celebriteridicule
 cendrillon
 ceni
 cercle
+cerohl
 cetelem
 champion
 champion olympique
@@ -4916,6 +4949,7 @@ chaos
 chap
 chardy
 charleroi
+charles
 charlie
 charlie hebdo
 charline picon
@@ -5020,6 +5054,7 @@ davion mitchell
 davos
 de colo
 de croo
+de jong
 de ketelaere
 de la fuente
 de morgen
@@ -5074,6 +5109,7 @@ diomande
 dior
 dirk van esser
 dirkvanesser
+dirupo
 disasi
 diskriminierung
 diskussionen
@@ -5360,6 +5396,7 @@ goedemorgen
 goeiemorgen
 gold
 golden slam
+goldmedaille
 golubic
 gomez
 gomis
@@ -5369,6 +5406,7 @@ gratuliere
 grealish
 greece
 grenouiller
+griezmann
 grimes
 groen
 groenen
@@ -5381,6 +5419,7 @@ guadeloupe
 guendouzi
 gueugnon
 gueye
+guimaraes
 guingamp
 gunna
 gymnastics
@@ -5753,6 +5792,7 @@ la défense
 la f
 la fff
 la france
+la jamaïque
 la suisse
 la sûrete
 la sûreté
@@ -6090,6 +6130,7 @@ netherlands
 nets
 new york
 newcastle
+nfts
 nicki
 nicolas geay
 nieuwpoort
@@ -6189,6 +6230,7 @@ pandemie
 pape gueye
 papegueye
 papier
+paqueta
 pardon
 paris 2024
 paris fc
@@ -6377,6 +6419,7 @@ rust
 réunion
 sack
 sailing
+saillet
 saintetiennedurouvray
 sainz
 sakai
@@ -6424,6 +6467,7 @@ schutz
 schweden
 schweiz
 schweizer
+schweizerin
 schweizerinnen
 schwester
 schwurbler
@@ -6440,6 +6484,7 @@ senat
 senf
 senju
 septahuit
+seraing
 serena
 serie
 serkvm
