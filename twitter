@@ -56,6 +56,7 @@ AKWs
 ALAIN GRISET
 ALBERT
 ALDI
+ALERTEENLEVEMENT
 ALEX WILSON
 ALEX YEE
 ALEXANDRE MENDY
@@ -827,7 +828,11 @@ Curry
 Cyborg
 CyclingRoad
 Cyril
+CÔTES-D'ARMOR
 CélébritéRidicule
+Côtes-d'Armor
+Côtes-dArmor
+Côtesd'Armor
 DA SILVA
 DABABY
 DAFT PUNK
@@ -869,6 +874,7 @@ DESCHAMPS
 DESINSTALLE
 DETAILHANDEL
 DETECTIVE PIKACHU
+DEWI
 DEXTER
 DFCOFCSM
 DI GRASSI
@@ -974,6 +980,7 @@ Depe
 Depé
 Deschamps
 Desinstalle
+Dewi
 Dexter
 Di Grassi
 Di Rupo
@@ -1043,6 +1050,7 @@ Désinstalle
 EARTH
 EARTHOVERSHOOTDAY
 EBENE
+ECKE
 EFFEKT
 EGBERT
 EHRE
@@ -1077,6 +1085,7 @@ ENZO LEFORT
 EQUIPEDEFRANCE
 ERDOGAN
 ERFAHRUNG
+ERFAHRUNGEN
 ERHOLUNG
 ERIC CLAPTON
 ERKENNTNISSE
@@ -1108,6 +1117,7 @@ EXTREEM
 Earth
 EarthOvershootDay
 Ebene
+Ecke
 Effekt
 Egbert
 Ehre
@@ -1150,6 +1160,7 @@ Enzo Lefort
 EnzoLefort
 Erdogan
 Erfahrung
+Erfahrungen
 Erholung
 Eric Clapton
 EricClapton
@@ -1250,6 +1261,7 @@ FRANCAIS
 FRANCAISES
 FRANCE 2
 FRANCE 4
+FRANCE JAPON
 FRANCE OLYMPIQUE
 FRANCE TV
 FRANCE USA
@@ -1331,12 +1343,14 @@ Francais
 Francaises
 France 2
 France 4
+France Japon
 France Olympique
 France TV
 France USA
 France-USA
 France2
 France4
+FranceJapon
 FranceOlympique
 FranceTV
 FranceUSA
@@ -1661,6 +1675,7 @@ ICARDI
 IDEM
 IDIOTEN
 IDOL
+IGNACE
 IGNORANZ
 IKEA
 IL Y A 5
@@ -1705,7 +1720,9 @@ ISRAËL
 ISSA RAE
 ITACHI
 ITALIA
+ITALIE
 ITALIENNES
+ITALIË
 Icardi
 Idem
 Idioten
@@ -1753,7 +1770,9 @@ Issa Rae
 IssaRae
 Itachi
 Italia
+Italie
 Italiennes
+Italië
 J'ADORE
 J'AIME
 J'ALLAIS
@@ -1828,6 +1847,8 @@ JOUR 25
 JOUR 28
 JOUR 29
 JOUR 30
+JOUR DE MATCH
+JOURDEMATCH
 JOURDUDEPASSEMENT
 JOVETIC
 JOËL AYAYI
@@ -2183,6 +2204,7 @@ LAMATINALEWE
 LANDER
 LANDES
 LANDWIRTSCHAFT
+LANNION
 LASCHET
 LASOUPEAUXCHOUX
 LAURA TARANTOLA
@@ -2215,6 +2237,7 @@ LEGA
 LEGENDE
 LEGO
 LEISTUNG
+LEMBACH
 LEON
 LEON MARCHAND
 LEQUIPE DE FRANCE
@@ -2312,6 +2335,7 @@ Lakers
 Lander
 Landes
 Landwirtschaft
+Lannion
 Larbitrage
 Laschet
 Laura Tarantola
@@ -2370,6 +2394,7 @@ Lega
 Legende
 Lego
 Leistung
+Lembach
 Leon
 Leon Marchand
 LeonMarchand
@@ -2542,6 +2567,7 @@ MENDES
 MENDY
 MENSCHHEIT
 MENTALE
+MERCI JACOB
 MERCII
 MERKEL
 MESSI
@@ -2679,6 +2705,8 @@ Mendes
 Mendy
 Menschheit
 Mentale
+Merci Jacob
+MerciJacob
 Mercii
 Merkel
 Messi
@@ -3007,6 +3035,7 @@ PIERRE
 PIERRE VAN DAMME
 PING PONG
 PINK FLOYD
+PINOT
 PIQUE
 PLUM
 PODCAST
@@ -3207,6 +3236,7 @@ RODOLPHE GAUDIN
 RODRYGO
 ROGER
 ROGLIC
+ROLF
 ROLLE
 ROMA
 ROMAIN CANNONE
@@ -3282,6 +3312,7 @@ RodolpheGaudin
 Rodrygo
 Roger
 Roglic
+Rolf
 Rolle
 Roma
 Romain Cannone
@@ -3455,6 +3486,7 @@ SUISSESSES
 SUNISA LEE
 SUPER LEAGUE
 SUPER POLE
+SUPERBE
 SUSPENSION
 SWIMMING
 SWISS
@@ -3614,6 +3646,7 @@ Super League
 Super Pole
 SuperLeague
 SuperPole
+Superbe
 Suspension
 Swimming
 Swiss
@@ -4227,6 +4260,8 @@ akws
 alain griset
 albert
 aldi
+alerteEnlevement
+alerteenlevement
 alex wilson
 alex yee
 alexandre mendy
@@ -4596,6 +4631,7 @@ cyclingroad
 cyril
 czefra
 célébritéridicule
+côtes-d'armor
 da silva
 dababy
 daft punk
@@ -4643,6 +4679,7 @@ desinstalle
 detailhandel
 detective pikachu
 detectivepikachu
+dewi
 dexter
 dfcofcsm
 di grassi
@@ -4708,6 +4745,7 @@ détectivepikachu
 earth
 earthovershootday
 ebene
+ecke
 effekt
 egbert
 ehre
@@ -4744,6 +4782,7 @@ enzo lefort
 equipedefrance
 erdogan
 erfahrung
+erfahrungen
 erholung
 eric clapton
 erkenntnisse
@@ -4836,6 +4875,7 @@ francais
 francaises
 france 2
 france 4
+france japon
 france olympique
 france tv
 france usa
@@ -5034,6 +5074,7 @@ icardi
 idem
 idioten
 idol
+ignace
 ignoranz
 ikea
 il y a 5
@@ -5081,7 +5122,9 @@ issa rae
 istanbul
 itachi
 italia
+italie
 italiennes
+italië
 j'adore
 j'aime
 j'allais
@@ -5162,6 +5205,7 @@ jour 25
 jour 28
 jour 29
 jour 30
+jour de match
 jour28
 jourdudepassement
 jovetic
@@ -5314,6 +5358,7 @@ lamatinalewe
 lander
 landes
 landwirtschaft
+lannion
 laschet
 lasoupeauxchoux
 lasuisse
@@ -5351,6 +5396,7 @@ lego
 legraet
 leh
 leistung
+lembach
 leon
 leon marchand
 leonmarchand
@@ -5524,6 +5570,7 @@ mendes
 mendy
 menschheit
 mentale
+merci jacob
 mercii
 merkel
 messi
@@ -5751,6 +5798,7 @@ pierre van damme
 pierrevandamme
 ping pong
 pink floyd
+pinot
 pique
 piqué
 plum
@@ -5853,6 +5901,7 @@ rodolphe gaudin
 rodrygo
 roger
 roglic
+rolf
 rolle
 roma
 romain cannone
@@ -6036,6 +6085,7 @@ sunisa lee
 sunisalee
 super league
 super pole
+superbe
 superleague
 superpole
 suspension
