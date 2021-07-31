@@ -1,3 +1,186 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 !
 "Harry"
 "HARRY"
@@ -228,6 +411,17 @@ ABYSS
 abyss
 abyssal
 ABYSSAL
+Acacia
+acacia
+ACACIA
+Acacia Door
+acacia door
+ACACIA DOOR
+AcaciaDoor
+acaciadoor
+ACACIADOOR
+acajou
+ACAJOU
 Acchi
 ACCHI
 acchi
@@ -749,6 +943,9 @@ al bheds
 Aladdin
 aladdin
 ALADDIN
+Alambic
+alambic
+ALAMBIC
 Albatoss
 ALBATOSS
 albatoss
@@ -898,6 +1095,15 @@ algaçante
 Algol
 ALGOL
 algol
+ALGUE
+Algue
+algue
+ALGUE SECHEE
+Algue séchée
+algue séchée
+ALGUESECHEE
+Algueséchée
+algueséchée
 Alice
 ALICE
 alice
@@ -1121,12 +1327,25 @@ amberley
 Ambition
 ambition
 AMBITION
+ambulant
+AMBULANT
 America
 america
 AMERICA
 American
 american
 AMERICAN
+Amethyst
+amethyst
+AMETHYST
+Amethyst Shard
+amethyst shard
+AMETHYST SHARD
+amethyst_shard
+AMETHYST_SHARD
+AmethystShard
+amethystshard
+AMETHYSTSHARD
 Ami
 AMI
 ami
@@ -1810,6 +2029,18 @@ armadillo
 Armageddon
 ARMAGEDDON
 armageddon
+Armes
+armes
+ARMES
+Armes et
+armes et
+ARMES ET
+Armes et Armures
+armes et armures
+ARMES ET ARMURES
+ArmesetArmures
+armesetarmures
+ARMESETARMURES
 Armor
 armor
 ARMOR
@@ -1819,6 +2050,9 @@ ARMOR ATTACK
 Armor King
 ARMOR KING
 armor king
+Armor Stand
+armor stand
+ARMOR STAND
 ArmorAttack
 armorattack
 ARMORATTACK
@@ -1840,6 +2074,9 @@ ARMOREDWARRIORS
 ArmorKing
 ARMORKING
 armorking
+ArmorStand
+armorstand
+ARMORSTAND
 Arms
 arms
 ARMS
@@ -1848,6 +2085,46 @@ arms:
 ARMS:
 armure
 ARMURE
+Armure
+Armure en cuir
+armure en cuir
+ARMURE EN CUIR
+Armure en cuir pour cheval
+armure en cuir pour cheval
+ARMURE EN CUIR POUR CHEVAL
+Armure en diamant
+armure en diamant
+ARMURE EN DIAMANT
+Armure en diamant pour cheval
+armure en diamant pour cheval
+ARMURE EN DIAMANT POUR CHEVAL
+Armure en fer
+armure en fer
+ARMURE EN FER
+Armure en fer pour cheval
+armure en fer pour cheval
+ARMURE EN FER POUR CHEVAL
+Armure en or
+armure en or
+ARMURE EN OR
+Armure en or pour cheval
+armure en or pour cheval
+ARMURE EN OR POUR CHEVAL
+Armureencuirpourcheval
+armureencuirpourcheval
+ARMUREENCUIRPOURCHEVAL
+Armureendiamantpourcheval
+armureendiamantpourcheval
+ARMUREENDIAMANTPOURCHEVAL
+Armureenferpourcheval
+armureenferpourcheval
+ARMUREENFERPOURCHEVAL
+Armureenorpourcheval
+armureenorpourcheval
+ARMUREENORPOURCHEVAL
+Armures
+armures
+ARMURES
 Army
 army
 ARMY
@@ -2319,6 +2596,8 @@ avalave
 AvaTate
 AVATATE
 avatate
+avec
+AVEC
 Avengers
 avengers
 AVENGERS
@@ -2412,6 +2691,35 @@ AXISAND
 AxisandAllies
 axisandallies
 AXISANDALLIES
+axolotl
+AXOLOTL
+Axolotl
+axolotl bucket
+AXOLOTL BUCKET
+Axolotl dans
+axolotl dans
+AXOLOTL DANS
+Axolotl dans un seau
+axolotl dans un seau
+AXOLOTL DANS UN SEAU
+Axolotl Spawn
+axolotl spawn
+AXOLOTL SPAWN
+Axolotl Spawn Egg
+axolotl spawn egg
+AXOLOTL SPAWN EGG
+axolotl_bucket
+AXOLOTL_BUCKET
+axolotl_spawn_egg
+AXOLOTL_SPAWN_EGG
+axolotlbucket
+AXOLOTLBUCKET
+Axolotldansunseau
+axolotldansunseau
+AXOLOTLDANSUNSEAU
+AxolotlSpawnEgg
+axolotlspawnegg
+AXOLOTLSPAWNEGG
 Ayuhara
 AYUHARA
 ayuhara
@@ -2590,9 +2898,33 @@ BAHAMUT LAGOON
 BahamutLagoon
 bahamutlagoon
 BAHAMUTLAGOON
+Baies
+baies
+BAIES
+Baies lumineuses
+baies lumineuses
+BAIES LUMINEUSES
+BAIES SUCREES
+Baies sucrées
+baies sucrées
+Baieslumineuses
+baieslumineuses
+BAIESLUMINEUSES
+BAIESSUCREES
+Baiessucrées
+baiessucrées
 Bajoue
 BAJOUE
 bajoue
+Baked
+baked
+BAKED
+Baked Potato
+baked potato
+BAKED POTATO
+BakedPotato
+bakedpotato
+BAKEDPOTATO
 Baker
 BAKER
 baker
@@ -2782,6 +3114,158 @@ BANK PANIC
 BankPanic
 bankpanic
 BANKPANIC
+Banner
+banner
+BANNER
+Banner Pattern
+banner pattern
+BANNER PATTERN
+Banner Pattern Creeper
+banner pattern creeper
+BANNER PATTERN CREEPER
+Banner Pattern Flower
+banner pattern flower
+BANNER PATTERN FLOWER
+Banner Pattern Globe
+banner pattern globe
+BANNER PATTERN GLOBE
+Banner Pattern Piglin
+banner pattern piglin
+BANNER PATTERN PIGLIN
+Banner Pattern Skull
+banner pattern skull
+BANNER PATTERN SKULL
+Banner Pattern Thing
+banner pattern thing
+BANNER PATTERN THING
+BannerPatternCreeper
+bannerpatterncreeper
+BANNERPATTERNCREEPER
+BannerPatternFlower
+bannerpatternflower
+BANNERPATTERNFLOWER
+BannerPatternGlobe
+bannerpatternglobe
+BANNERPATTERNGLOBE
+BannerPatternPiglin
+bannerpatternpiglin
+BANNERPATTERNPIGLIN
+BannerPatternSkull
+bannerpatternskull
+BANNERPATTERNSKULL
+BannerPatternThing
+bannerpatternthing
+BANNERPATTERNTHING
+BANNIERE
+BANNIERE BLANCHE
+BANNIERE BLEU
+BANNIERE BLEU CLAIR
+BANNIERE BLEUE
+BANNIERE CYAN
+BANNIERE GRIS
+BANNIERE GRIS CLAIR
+BANNIERE GRISE
+BANNIERE JAUNE
+BANNIERE MAGENTA
+BANNIERE MARRON
+BANNIERE NOIRE
+BANNIERE ORANGE
+BANNIERE ROSE
+BANNIERE ROUGE
+BANNIERE VERT
+BANNIERE VERT CLAIR
+BANNIERE VERTE
+BANNIERE VIOLETTE
+BANNIERE:
+BANNIEREBLANCHE
+BANNIEREBLEUCLAIR
+BANNIEREBLEUE
+BANNIERECYAN
+BANNIEREGRISCLAIR
+BANNIEREGRISE
+BANNIEREJAUNE
+BANNIEREMAGENTA
+BANNIEREMARRON
+BANNIERENOIRE
+BANNIEREORANGE
+BANNIEREROSE
+BANNIEREROUGE
+BANNIEREVERTCLAIR
+BANNIEREVERTE
+BANNIEREVIOLETTE
+Bannière
+bannière
+Bannière blanche
+bannière blanche
+Bannière bleu
+bannière bleu
+Bannière bleu clair
+bannière bleu clair
+Bannière bleue
+bannière bleue
+Bannière cyan
+bannière cyan
+Bannière gris
+bannière gris
+Bannière gris clair
+bannière gris clair
+Bannière grise
+bannière grise
+Bannière jaune
+bannière jaune
+Bannière magenta
+bannière magenta
+Bannière marron
+bannière marron
+Bannière noire
+bannière noire
+Bannière orange
+bannière orange
+Bannière rose
+bannière rose
+Bannière rouge
+bannière rouge
+Bannière vert
+bannière vert
+Bannière vert clair
+bannière vert clair
+Bannière verte
+bannière verte
+Bannière violette
+bannière violette
+bannière:
+Bannièreblanche
+bannièreblanche
+Bannièrebleuclair
+bannièrebleuclair
+Bannièrebleue
+bannièrebleue
+Bannièrecyan
+bannièrecyan
+Bannièregrisclair
+bannièregrisclair
+Bannièregrise
+bannièregrise
+Bannièrejaune
+bannièrejaune
+Bannièremagenta
+bannièremagenta
+Bannièremarron
+bannièremarron
+Bannièrenoire
+bannièrenoire
+Bannièreorange
+bannièreorange
+Bannièrerose
+bannièrerose
+Bannièrerouge
+bannièrerouge
+Bannièrevertclair
+bannièrevertclair
+Bannièreverte
+bannièreverte
+Bannièreviolette
+bannièreviolette
 Banon
 BANON
 banon
@@ -2818,6 +3302,8 @@ barbarajohnson
 BarbarBarbar
 BARBARBARBAR
 barbarbarbar
+barbare
+BARBARE
 Barbe-Tranchante
 BARBE-TRANCHANTE
 barbe-tranchante
@@ -2985,12 +3471,57 @@ bastion
 Bat
 BAT
 bat
+Bat Spawn
+bat spawn
+BAT SPAWN
+Bat Spawn Egg
+bat spawn egg
+BAT SPAWN EGG
 Batabon
 BATABON
 batabon
 Batamon
 BATAMON
 batamon
+Bateau
+bateau
+BATEAU
+Bateau en acacia
+bateau en acacia
+BATEAU EN ACACIA
+Bateau en acajou
+bateau en acajou
+BATEAU EN ACAJOU
+Bateau en bouleau
+bateau en bouleau
+BATEAU EN BOULEAU
+Bateau en chene
+bateau en chene
+BATEAU EN CHENE
+Bateau en chene noir
+bateau en chene noir
+BATEAU EN CHENE NOIR
+Bateau en sapin
+bateau en sapin
+BATEAU EN SAPIN
+Bateauenacacia
+bateauenacacia
+BATEAUENACACIA
+Bateauenacajou
+bateauenacajou
+BATEAUENACAJOU
+Bateauenbouleau
+bateauenbouleau
+BATEAUENBOULEAU
+Bateauenchene
+bateauenchene
+BATEAUENCHENE
+Bateauenchenenoir
+bateauenchenenoir
+BATEAUENCHENENOIR
+Bateauensapin
+bateauensapin
+BATEAUENSAPIN
 Baten
 baten
 BATEN
@@ -3037,6 +3568,24 @@ BATMANARKHAMCITY
 BatmanReturns
 batmanreturns
 BATMANRETURNS
+Baton
+baton
+BATON
+Baton de Blaze
+baton de blaze
+BATON DE BLAZE
+BATON DE DEBOGAGE
+Baton de débogage
+baton de débogage
+BatondeBlaze
+batondeblaze
+BATONDEBLAZE
+BATONDEDEBOGAGE
+Batondedébogage
+batondedébogage
+BatSpawnEgg
+batspawnegg
+BATSPAWNEGG
 Batsu
 BATSU
 batsu
@@ -3132,6 +3681,9 @@ bean
 Bean the Dynamite
 BEAN THE DYNAMITE
 bean the dynamite
+Beans
+beans
+BEANS
 BeantheDynamite
 BEANTHEDYNAMITE
 beanthedynamite
@@ -3288,12 +3840,44 @@ becky langford
 BeckyLangford
 BECKYLANGFORD
 beckylangford
+Bed
+bed
+BED
 Bedlam
 bedlam
 BEDLAM
 Bee
 bee
 BEE
+Bee Spawn
+bee spawn
+BEE SPAWN
+Bee Spawn Egg
+bee spawn egg
+BEE SPAWN EGG
+bee_spawn_egg
+BEE_SPAWN_EGG
+Beef
+beef
+BEEF
+BeeSpawnEgg
+beespawnegg
+BEESPAWNEGG
+Beetroot
+beetroot
+BEETROOT
+Beetroot Seeds
+beetroot seeds
+BEETROOT SEEDS
+Beetroot Soup
+beetroot soup
+BEETROOT SOUP
+BeetrootSeeds
+beetrootseeds
+BEETROOTSEEDS
+BeetrootSoup
+beetrootsoup
+BEETROOTSOUP
 Beetty
 BEETTY
 beetty
@@ -3414,6 +3998,9 @@ berniecrane
 Bero
 BERO
 bero
+Berries
+berries
+BERRIES
 Berserk
 BERSERK
 berserk
@@ -3444,6 +4031,11 @@ BETRAYAL AT KRONDOR
 BetrayalatKrondor
 betrayalatkrondor
 BETRAYALATKRONDOR
+Betterave
+betterave
+BETTERAVE
+betteraves
+BETTERAVES
 Beubeu
 BEUBEU
 beubeu
@@ -3654,6 +4246,21 @@ BIOWARE
 Biquette
 BIQUETTE
 biquette
+Birch
+birch
+BIRCH
+Birch Boat
+birch boat
+BIRCH BOAT
+Birch Door
+birch door
+BIRCH DOOR
+BirchBoat
+birchboat
+BIRCHBOAT
+BirchDoor
+birchdoor
+BIRCHDOOR
 Birdie
 BIRDIE
 birdie
@@ -3675,6 +4282,8 @@ birnabirna
 Birnbaum
 BIRNBAUM
 birnbaum
+biscornu
+BISCORNU
 Bisetout
 BISETOUT
 bisetout
@@ -3720,12 +4329,21 @@ bjarmasdottir
 Black
 black
 BLACK
+Black Banner
+black banner
+BLACK BANNER
+Black Bed
+black bed
+BLACK BED
 Black Crypt
 black crypt
 BLACK CRYPT
 Black Doom
 BLACK DOOM
 black doom
+Black Dye
+black dye
+BLACK DYE
 Black Isle
 black isle
 BLACK ISLE
@@ -3738,12 +4356,23 @@ black shadow
 Black Tiger
 black tiger
 BLACK TIGER
+black_dye
+BLACK_DYE
+BlackBanner
+blackbanner
+BLACKBANNER
+BlackBed
+blackbed
+BLACKBED
 BlackCrypt
 blackcrypt
 BLACKCRYPT
 BlackDoom
 BLACKDOOM
 blackdoom
+BlackDye
+blackdye
+BLACKDYE
 BlackIsle
 blackisle
 BLACKISLE
@@ -3863,12 +4492,33 @@ BLAZBLUE
 Blaze
 BLAZE
 blaze
+Blaze Powder
+blaze powder
+BLAZE POWDER
+Blaze Rod
+blaze rod
+BLAZE ROD
+Blaze Spawn
+blaze spawn
+BLAZE SPAWN
+Blaze Spawn Egg
+blaze spawn egg
+BLAZE SPAWN EGG
 Blaze the Cat
 BLAZE THE CAT
 blaze the cat
+BlazePowder
+blazepowder
+BLAZEPOWDER
 Blazer
 blazer
 BLAZER
+BlazeRod
+blazerod
+BLAZEROD
+BlazeSpawnEgg
+blazespawnegg
+BLAZESPAWNEGG
 BlazetheCat
 BLAZETHECAT
 blazethecat
@@ -3887,6 +4537,7 @@ BLAZINGLASERS
 BlazingStar
 blazingstar
 BLAZINGSTAR
+BLE
 Bleach
 bleach
 BLEACH
@@ -3923,6 +4574,8 @@ bledarmorina
 Bleu
 BLEU
 bleu
+BLEUE
+bleue
 Blitz
 blitz
 BLITZ
@@ -3935,6 +4588,9 @@ bloc
 Blocdogue
 BLOCDOGUE
 blocdogue
+Block
+block
+BLOCK
 Blockbot
 BLOCKBOT
 blockbot
@@ -4022,12 +4678,32 @@ blowfishblowfish
 blue
 Blue
 BLUE
+Blue Banner
+blue banner
+BLUE BANNER
+Blue Bed
+blue bed
+BLUE BED
+Blue Dye
+blue dye
+BLUE DYE
 Blue Lightning
 blue lightning
 BLUE LIGHTNING
 Blue Wing Blitz
 blue wing blitz
 BLUE WING BLITZ
+blue_dye
+BLUE_DYE
+BlueBanner
+bluebanner
+BLUEBANNER
+BlueBed
+bluebed
+BLUEBED
+BlueDye
+bluedye
+BLUEDYE
 BlueLightning
 bluelightning
 BLUELIGHTNING
@@ -4049,6 +4725,8 @@ BLUPI
 Blustergas
 BLUSTERGAS
 blustergas
+Blé
+blé
 Bo
 BO
 bo
@@ -4067,6 +4745,9 @@ bo'raicho
 Boarders
 boarders
 BOARDERS
+Boat
+boat
+BOAT
 Bob
 bob
 BOB
@@ -4137,9 +4818,20 @@ bobrichards
 Boccino
 BOCCINO
 boccino
+Boeuf
+boeuf
+BOEUF
+Boeuf cru
+boeuf cru
+BOEUF CRU
+Boeufcru
+boeufcru
+BOEUFCRU
 Boing
 BOING
 boing
+bois
+BOIS
 Bois-Manteau
 BOIS-MANTEAU
 bois-manteau
@@ -4176,6 +4868,9 @@ bokoblin
 Boktai
 boktai
 BOKTAI
+Bol
+bol
+BOL
 Boman
 BOMAN
 boman
@@ -4266,6 +4961,12 @@ BONANZA BROS
 BonanzaBros
 bonanzabros
 BONANZABROS
+Bone
+bone
+BONE
+Bone Meal
+bone meal
+BONE MEAL
 Bonehead
 BONEHEAD
 bonehead
@@ -4275,6 +4976,9 @@ bonehead bonehead
 BoneheadBonehead
 BONEHEADBONEHEAD
 boneheadbonehead
+BoneMeal
+bonemeal
+BONEMEAL
 Bones
 BONES
 bones
@@ -4301,6 +5005,18 @@ BONUS
 Boo
 BOO
 boo
+Book
+book
+BOOK
+Book and
+book and
+BOOK AND
+Book and Quill
+book and quill
+BOOK AND QUILL
+BookandQuill
+bookandquill
+BOOKANDQUILL
 Bookem
 BOOKEM
 bookem
@@ -4331,6 +5047,9 @@ boomer boomer
 BoomerBoomer
 BOOMERBOOMER
 boomerboomer
+Boots
+boots
+BOOTS
 BoRai
 BORAI
 borai
@@ -4370,12 +5089,75 @@ boten boten
 BotenBoten
 BOTENBOTEN
 botenboten
+Bottes
+bottes
+BOTTES
+Bottes de mailles
+bottes de mailles
+BOTTES DE MAILLES
+Bottes en cuir
+bottes en cuir
+BOTTES EN CUIR
+Bottes en diamant
+bottes en diamant
+BOTTES EN DIAMANT
+Bottes en fer
+bottes en fer
+BOTTES EN FER
+Bottes en Netherite
+bottes en netherite
+BOTTES EN NETHERITE
+Bottes en or
+bottes en or
+BOTTES EN OR
+Bottesdemailles
+bottesdemailles
+BOTTESDEMAILLES
+Bottesencuir
+bottesencuir
+BOTTESENCUIR
+Bottesendiamant
+bottesendiamant
+BOTTESENDIAMANT
+Bottesenfer
+bottesenfer
+BOTTESENFER
+BottesenNetherite
+bottesennetherite
+BOTTESENNETHERITE
+Bottesenor
+bottesenor
+BOTTESENOR
+Bottle
+bottle
+BOTTLE
+Bottle o
+bottle o
+BOTTLE O
+Bottle o Enchanting
+bottle o enchanting
+BOTTLE O ENCHANTING
+Bottle o'
+bottle o'
+BOTTLE O'
+Bottle o' Enchanting
+bottle o' enchanting
+BOTTLE O' ENCHANTING
+Bottleo'Enchanting
+bottleo'enchanting
+BOTTLEO'ENCHANTING
+BottleoEnchanting
+bottleoenchanting
+BOTTLEOENCHANTING
 Boubou
 BOUBOU
 boubou
 Boucher
 BOUCHER
 boucher
+Bouclier
+bouclier
+BOUCLIER
 Boulay
 BOULAY
 boulay
@@ -4391,6 +5173,29 @@ BOULDERDASH
 Bouldozer
 BOULDOZER
 bouldozer
+Boule
+boule
+BOULE
+Boule de feu
+boule de feu
+BOULE DE FEU
+Boule de neige
+boule de neige
+BOULE DE NEIGE
+Boule de Slime
+boule de slime
+BOULE DE SLIME
+bouleau
+BOULEAU
+Bouledefeu
+bouledefeu
+BOULEDEFEU
+Bouledeneige
+bouledeneige
+BOULEDENEIGE
+BouledeSlime
+bouledeslime
+BOULEDESLIME
 Bouloche
 BOULOCHE
 bouloche
@@ -4442,6 +5247,9 @@ BOUNTYBOBSTRIKESBACK
 Bourrico
 BOURRICO
 bourrico
+Boussole
+boussole
+BOUSSOLE
 Bout
 bout
 BOUT
@@ -4460,6 +5268,9 @@ boutonbeille
 Boutonsecte
 BOUTONSECTE
 boutonsecte
+Bow
+bow
+BOW
 Bowby
 BOWBY
 bowby
@@ -4552,6 +5363,9 @@ bravura
 Brawler
 brawler
 BRAWLER
+Bread
+bread
+BREAD
 breath
 Breath
 BREATH
@@ -4625,6 +5439,15 @@ brevic
 Brević
 BREVIĆ
 brević
+Brewing
+brewing
+BREWING
+Brewing Stand
+brewing stand
+BREWING STAND
+BrewingStand
+brewingstand
+BREWINGSTAND
 Brian
 brian
 BRIAN
@@ -4658,6 +5481,9 @@ briano'toole
 BrianOToole
 BRIANOTOOLE
 brianotoole
+Brick
+brick
+BRICK
 Briggs
 BRIGGS
 briggs
@@ -4679,6 +5505,18 @@ brilliant
 Brio
 BRIO
 brio
+Brique
+brique
+BRIQUE
+Brique du Nether
+brique du nether
+BRIQUE DU NETHER
+BriqueduNether
+briquedunether
+BRIQUEDUNETHER
+Briquet
+briquet
+BRIQUET
 Brittany
 BRITTANY
 brittany
@@ -4720,6 +5558,29 @@ BROTHERSIN
 BrothersinArms
 brothersinarms
 BROTHERSINARMS
+Brown
+brown
+BROWN
+Brown Banner
+brown banner
+BROWN BANNER
+Brown Bed
+brown bed
+BROWN BED
+Brown Dye
+brown dye
+BROWN DYE
+brown_dye
+BROWN_DYE
+BrownBanner
+brownbanner
+BROWNBANNER
+BrownBed
+brownbed
+BROWNBED
+BrownDye
+browndye
+BROWNDYE
 Bruce
 bruce
 BRUCE
@@ -4762,6 +5623,9 @@ brultetebrultete
 Brut
 BRUT
 brut
+Brute
+brute
+BRUTE
 Brutus
 BRUTUS
 brutus
@@ -4845,6 +5709,45 @@ buck
 Buck Raleigh
 BUCK RALEIGH
 buck raleigh
+Bucket
+bucket
+BUCKET
+Bucket of
+bucket of
+BUCKET OF
+Bucket of Axolotl
+bucket of axolotl
+BUCKET OF AXOLOTL
+Bucket of Cod
+bucket of cod
+BUCKET OF COD
+Bucket of Pufferfish
+bucket of pufferfish
+BUCKET OF PUFFERFISH
+Bucket of Salmon
+bucket of salmon
+BUCKET OF SALMON
+Bucket of Tropical
+bucket of tropical
+BUCKET OF TROPICAL
+Bucket of Tropical Fish
+bucket of tropical fish
+BUCKET OF TROPICAL FISH
+BucketofAxolotl
+bucketofaxolotl
+BUCKETOFAXOLOTL
+BucketofCod
+bucketofcod
+BUCKETOFCOD
+BucketofPufferfish
+bucketofpufferfish
+BUCKETOFPUFFERFISH
+BucketofSalmon
+bucketofsalmon
+BUCKETOFSALMON
+BucketofTropicalFish
+bucketoftropicalfish
+BUCKETOFTROPICALFISH
 BuckRaleigh
 BUCKRALEIGH
 buckraleigh
@@ -4954,6 +5857,9 @@ Bunbun
 BUNBUN
 bunbun
 BunBun
+Bundle
+bundle
+BUNDLE
 Bunnie
 BUNNIE
 bunnie
@@ -5249,6 +6155,8 @@ CABBADGE PATCH KIDS
 CabbadgePatchKids
 cabbadgepatchkids
 CABBADGEPATCHKIDS
+CACAO
+cacao
 cachalot
 CACHALOT
 Cachel
@@ -5275,6 +6183,15 @@ CADILLACS AND DINOSAURS
 CadillacsandDinosaurs
 cadillacsanddinosaurs
 CADILLACSANDDINOSAURS
+Cadre
+cadre
+CADRE
+Cadre luisant
+cadre luisant
+CADRE LUISANT
+Cadreluisant
+cadreluisant
+CADRELUISANT
 Cadres
 CADRES
 cadres
@@ -5335,6 +6252,9 @@ caius ballad
 CaiusBallad
 CAIUSBALLAD
 caiusballad
+Cake
+cake
+CAKE
 Calcinalion
 CALCINALION
 calcinalion
@@ -5449,6 +6369,26 @@ candydawn
 CandyKong
 CANDYKONG
 candykong
+Cane
+cane
+CANE
+CANNE
+Canne
+canne
+CANNE A PECHE
+CANNE A SUCRE
+Canne à
+canne à
+Canne à peche
+canne à peche
+Canne à sucre
+canne à sucre
+CANNEAPECHE
+CANNEASUCRE
+Canneàpeche
+canneàpeche
+Canneàsucre
+canneàsucre
 Cannon
 cannon
 CANNON
@@ -5458,9 +6398,14 @@ CANNON FODDER
 CannonFodder
 cannonfodder
 CANNONFODDER
+CANON
+canon
 Canvas
 canvas
 CANVAS
+Cap
+cap
+CAP
 Capcom
 capcom
 CAPCOM
@@ -5565,6 +6510,21 @@ caracteristiques
 Caractéristiques
 CARACTÉRISTIQUES
 caractéristiques
+Carapace
+carapace
+CARAPACE
+Carapace de Shulker
+carapace de shulker
+CARAPACE DE SHULKER
+Carapace de tortue
+carapace de tortue
+CARAPACE DE TORTUE
+CarapacedeShulker
+carapacedeshulker
+CARAPACEDESHULKER
+Carapacedetortue
+carapacedetortue
+CARAPACEDETORTUE
 Carapuce
 carapuce
 CARAPUCE
@@ -5622,6 +6582,21 @@ caro
 Carol
 CAROL
 carol
+Carotte
+carotte
+CAROTTE
+CAROTTE DOREE
+Carotte dorée
+carotte dorée
+Carotte sur un baton
+carotte sur un baton
+CAROTTE SUR UN BATON
+CAROTTEDOREE
+Carottedorée
+carottedorée
+Carottesurunbaton
+carottesurunbaton
+CAROTTESURUNBATON
 Carottin
 CAROTTIN
 carottin
@@ -5634,6 +6609,15 @@ CARRIER COMMAND
 Carriercommand
 carriercommand
 CARRIERCOMMAND
+Carrot
+carrot
+CARROT
+Carrot on a Stick
+carrot on a stick
+CARROT ON A STICK
+CarrotonaStick
+carrotonastick
+CARROTONASTICK
 Cars
 cars
 CARS
@@ -5646,9 +6630,15 @@ carte
 Carte des ankhegs
 CARTE DES ANKHEGS
 carte des ankhegs
+Carte vierge
+carte vierge
+CARTE VIERGE
 Cartedesankhegs
 CARTEDESANKHEGS
 cartedesankhegs
+Cartevierge
+cartevierge
+CARTEVIERGE
 Cartoon
 cartoon
 CARTOON
@@ -5676,6 +6666,36 @@ caskacaska
 Casque
 CASQUE
 casque
+Casque de mailles
+casque de mailles
+CASQUE DE MAILLES
+Casque en diamant
+casque en diamant
+CASQUE EN DIAMANT
+Casque en fer
+casque en fer
+CASQUE EN FER
+Casque en Netherite
+casque en netherite
+CASQUE EN NETHERITE
+Casque en or
+casque en or
+CASQUE EN OR
+Casquedemailles
+casquedemailles
+CASQUEDEMAILLES
+Casqueendiamant
+casqueendiamant
+CASQUEENDIAMANT
+Casqueenfer
+casqueenfer
+CASQUEENFER
+CasqueenNetherite
+casqueennetherite
+CASQUEENNETHERITE
+Casqueenor
+casqueenor
+CASQUEENOR
 Cassandra
 CASSANDRA
 cassandra
@@ -5739,6 +6759,12 @@ castor
 Cat
 CAT
 cat
+Cat Spawn
+cat spawn
+CAT SPAWN
+Cat Spawn Egg
+cat spawn egg
+CAT SPAWN EGG
 Cataboum
 CATABOUM
 cataboum
@@ -5748,6 +6774,9 @@ catacouacs
 Cathie
 CATHIE
 cathie
+CatSpawnEgg
+catspawnegg
+CATSPAWNEGG
 Catwoman
 CATWOMAN
 catwoman
@@ -5760,9 +6789,27 @@ cauchemar cauchemar
 CauchemarCauchemar
 CAUCHEMARCAUCHEMAR
 cauchemarcauchemar
+Cauldron
+cauldron
+CAULDRON
 Cause
 cause
 CAUSE
+Cave
+cave
+CAVE
+Cave Spider
+cave spider
+CAVE SPIDER
+Cave Spider Spawn
+cave spider spawn
+CAVE SPIDER SPAWN
+Cave Spider Spawn Egg
+cave spider spawn egg
+CAVE SPIDER SPAWN EGG
+CaveSpiderSpawnEgg
+cavespiderspawnegg
+CAVESPIDERSPAWNEGG
 Cawcun
 CAWCUN
 cawcun
@@ -5907,9 +6954,45 @@ CHAIN
 Chain Shot!
 chain shot!
 CHAIN SHOT!
+Chainmail
+chainmail
+CHAINMAIL
+Chainmail Boots
+chainmail boots
+CHAINMAIL BOOTS
+Chainmail Chestplate
+chainmail chestplate
+CHAINMAIL CHESTPLATE
+Chainmail Helmet
+chainmail helmet
+CHAINMAIL HELMET
+Chainmail Leggings
+chainmail leggings
+CHAINMAIL LEGGINGS
+ChainmailBoots
+chainmailboots
+CHAINMAILBOOTS
+ChainmailChestplate
+chainmailchestplate
+CHAINMAILCHESTPLATE
+ChainmailHelmet
+chainmailhelmet
+CHAINMAILHELMET
+ChainmailLeggings
+chainmailleggings
+CHAINMAILLEGGINGS
 ChainShot!
 chainshot!
 CHAINSHOT!
+CHAIR
+Chair
+chair
+CHAIR PUTREFIEE
+Chair putréfiée
+chair putréfiée
+CHAIRPUTREFIEE
+Chairputréfiée
+chairputréfiée
 Challenge
 challenge
 CHALLENGE
@@ -5922,6 +7005,22 @@ CHAMELEON
 Champi
 CHAMPI
 champi
+Champignon
+champignon
+CHAMPIGNON
+Champignon biscornu
+champignon biscornu
+CHAMPIGNON BISCORNU
+Champignon biscornu sur un baton
+champignon biscornu sur un baton
+CHAMPIGNON BISCORNU SUR UN BATON
+Champignonbiscornusurunbaton
+champignonbiscornusurunbaton
+CHAMPIGNONBISCORNUSURUNBATON
+champignons
+CHAMPIGNONS
+champimeuh
+CHAMPIMEUH
 champions
 Champions
 CHAMPIONS
@@ -5982,9 +7081,33 @@ chaotiqueneutre
 Chaotix
 chaotix
 CHAOTIX
+Chapeau
+chapeau
+CHAPEAU
+Chapeau en cuir
+chapeau en cuir
+CHAPEAU EN CUIR
+Chapeauencuir
+chapeauencuir
+CHAPEAUENCUIR
 Charade
 CHARADE
 charade
+Charbon
+charbon
+CHARBON
+Charbon de bois
+charbon de bois
+CHARBON DE BOIS
+Charbondebois
+charbondebois
+CHARBONDEBOIS
+Charcoal
+charcoal
+CHARCOAL
+Charge
+charge
+CHARGE
 Charizard
 charizard
 CHARIZARD
@@ -6078,6 +7201,8 @@ chasseur de primes
 ChasseurdePrimes
 CHASSEURDEPRIMES
 chasseurdeprimes
+chat
+CHAT
 Chateau-Suif
 CHATEAU-SUIF
 chateau-suif
@@ -6087,6 +7212,9 @@ chateausuif
 Chats
 CHATS
 chats
+Chaudron
+chaudron
+CHAUDRON
 Chauffeur
 CHAUFFEUR
 chauffeur
@@ -6195,6 +7323,8 @@ chen
 Chen Lin
 CHEN LIN
 chen lin
+chene
+CHENE
 Cheng
 CHENG
 cheng
@@ -6228,6 +7358,12 @@ cheriseglover
 Chessmaster
 chessmaster
 CHESSMASTER
+Chest
+chest
+CHEST
+Chestplate
+chestplate
+CHESTPLATE
 Cheval
 cheval
 CHEVAL
@@ -6237,6 +7373,10 @@ CHEVAL ET
 Cheval et Poney
 cheval et poney
 CHEVAL ET PONEY
+cheval-squelette
+CHEVAL-SQUELETTE
+cheval-zombie
+CHEVAL-ZOMBIE
 Chevalet
 chevalet
 CHEVALET
@@ -6264,6 +7404,11 @@ CHEVALIERSDEBAPHOMET
 ChevaliersdeBaphometLes
 chevaliersdebaphometles
 CHEVALIERSDEBAPHOMETLES
+chevalsquelette
+CHEVALSQUELETTE
+chevalzombie
+CHEVALZOMBIE
+CHEVRE
 Chi
 chi
 CHI
@@ -6324,9 +7469,18 @@ CHICKEN
 Chicken Invaders
 chicken invaders
 CHICKEN INVADERS
+Chicken Spawn
+chicken spawn
+CHICKEN SPAWN
+Chicken Spawn Egg
+chicken spawn egg
+CHICKEN SPAWN EGG
 ChickenInvaders
 chickeninvaders
 CHICKENINVADERS
+ChickenSpawnEgg
+chickenspawnegg
+CHICKENSPAWNEGG
 ChickStew
 CHICKSTEW
 chickstew
@@ -6549,6 +7703,21 @@ CHORO Q
 ChoroQ
 choroq
 CHOROQ
+Chorus
+chorus
+CHORUS
+CHORUS ECLATE
+Chorus Fruit
+chorus fruit
+CHORUS FRUIT
+Chorus éclaté
+chorus éclaté
+CHORUSECLATE
+ChorusFruit
+chorusfruit
+CHORUSFRUIT
+Choruséclaté
+choruséclaté
 Chouette
 CHOUETTE
 chouette
@@ -6688,6 +7857,7 @@ chunkykong
 ChunLi
 CHUNLI
 chunli
+chèvre
 Chépaki
 CHÉPAKI
 chépaki
@@ -6744,6 +7914,9 @@ CIRCUS CHARLIE
 CircusCharlie
 circuscharlie
 CIRCUSCHARLIE
+Cisailles
+cisailles
+CISAILLES
 Cities
 cities
 CITIES
@@ -6753,6 +7926,8 @@ CITIES XL
 CitiesXL
 citiesxl
 CITIESXL
+citrouille
+CITROUILLE
 city
 City
 CITY
@@ -6794,6 +7969,8 @@ civilizationii
 CIVILIZATIONII
 civilizationiv
 CIVILIZATIONIV
+CLAIR
+clair
 Claire
 CLAIRE
 claire
@@ -6881,12 +8058,18 @@ claudioserafino
 Clay
 CLAY
 clay
+Clay Ball
+clay ball
+CLAY BALL
 Clay Simmons
 CLAY SIMMONS
 clay simmons
 Clay Simons
 CLAY SIMONS
 clay simons
+ClayBall
+clayball
+CLAYBALL
 Clayn
 CLAYN
 clayn
@@ -7007,6 +8190,9 @@ CLÉA
 cléa
 coach
 COACH
+Coal
+coal
+COAL
 Cobb
 COBB
 cobb
@@ -7019,15 +8205,30 @@ cobrat
 Coccinelle
 COCCINELLE
 coccinelle
+cochon
+COCHON
+cochon-zombie
+COCHON-ZOMBIE
 Cochons
 COCHONS
 cochons
+cochonzombie
+COCHONZOMBIE
 Coco
 COCO
 coco
 Coco Bandicoot
 COCO BANDICOOT
 coco bandicoot
+Cocoa
+cocoa
+COCOA
+Cocoa Beans
+cocoa beans
+COCOA BEANS
+CocoaBeans
+cocoabeans
+COCOABEANS
 CocoBandicoot
 COCOBANDICOOT
 cocobandicoot
@@ -7040,15 +8241,44 @@ cocoon
 Cocottes
 COCOTTES
 cocottes
+cod
+COD
+Cod
+cod bucket
+COD BUCKET
+Cod Spawn
+cod spawn
+COD SPAWN
+Cod Spawn Egg
+cod spawn egg
+COD SPAWN EGG
+cod_bucket
+COD_BUCKET
+cod_spawn_egg
+COD_SPAWN_EGG
+codbucket
+CODBUCKET
 Code
 code
 CODE
+CodSpawnEgg
+codspawnegg
+CODSPAWNEGG
 Cody
 CODY
 cody
 Coen
 COEN
 coen
+Coeur
+coeur
+COEUR
+Coeur de la mer
+coeur de la mer
+COEUR DE LA MER
+Coeurdelamer
+coeurdelamer
+COEURDELAMER
 Cohen
 COHEN
 cohen
@@ -7103,6 +8333,15 @@ colonel
 Color
 color
 COLOR
+Colorant
+colorant
+COLORANT
+Colorant pour la laine
+colorant pour la laine
+COLORANT POUR LA LAINE
+Colorantpourlalaine
+colorantpourlalaine
+COLORANTPOURLALAINE
 Colosseum
 colosseum
 COLOSSEUM
@@ -7209,6 +8448,8 @@ commandconquer:redalert
 COMMANDCONQUER:REDALERT
 commandconquerredalert
 COMMANDCONQUERREDALERT
+commande
+COMMANDE
 Commander
 commander
 COMMANDER
@@ -7256,6 +8497,21 @@ como como
 ComoComo
 COMOCOMO
 comocomo
+Comparateur
+comparateur
+COMPARATEUR
+Comparateur de redstone
+comparateur de redstone
+COMPARATEUR DE REDSTONE
+Comparateurderedstone
+comparateurderedstone
+COMPARATEURDEREDSTONE
+Comparator
+comparator
+COMPARATOR
+Compass
+compass
+COMPASS
 Compati
 compati
 COMPATI
@@ -7265,6 +8521,8 @@ COMPATI HERO
 CompatiHero
 compatihero
 COMPATIHERO
+complet
+COMPLET
 Complete
 complete
 COMPLETE
@@ -7352,6 +8610,8 @@ CONKERSBADFURDAY
 Conlae
 CONLAE
 conlae
+connaissances
+CONNAISSANCES
 Connor
 CONNOR
 connor
@@ -7407,6 +8667,45 @@ coo coo
 CooCoo
 COOCOO
 coocoo
+Cooked
+cooked
+COOKED
+Cooked Chicken
+cooked chicken
+COOKED CHICKEN
+Cooked Cod
+cooked cod
+COOKED COD
+Cooked Mutton
+cooked mutton
+COOKED MUTTON
+Cooked Porkchop
+cooked porkchop
+COOKED PORKCHOP
+Cooked Rabbit
+cooked rabbit
+COOKED RABBIT
+Cooked Salmon
+cooked salmon
+COOKED SALMON
+CookedChicken
+cookedchicken
+COOKEDCHICKEN
+CookedCod
+cookedcod
+COOKEDCOD
+CookedMutton
+cookedmutton
+COOKEDMUTTON
+CookedPorkchop
+cookedporkchop
+COOKEDPORKCHOP
+CookedRabbit
+cookedrabbit
+COOKEDRABBIT
+CookedSalmon
+cookedsalmon
+COOKEDSALMON
 Cookie
 COOKIE
 cookie
@@ -7464,6 +8763,17 @@ copigoutte copigoutte
 CopigoutteCopigoutte
 COPIGOUTTECOPIGOUTTE
 copigouttecopigoutte
+Copper
+copper
+COPPER
+Copper Ingot
+copper ingot
+COPPER INGOT
+copper_ingot
+COPPER_INGOT
+CopperIngot
+copperingot
+COPPERINGOT
 Coq
 COQ
 coq
@@ -7626,6 +8936,33 @@ costocosto
 Cot
 COT
 cot
+Cotelette
+cotelette
+COTELETTE
+Cotelette de porc
+cotelette de porc
+COTELETTE DE PORC
+Cotelette de porc crue
+cotelette de porc crue
+COTELETTE DE PORC CRUE
+Cotelette de porc cuite
+cotelette de porc cuite
+COTELETTE DE PORC CUITE
+Cotelettedeporccrue
+cotelettedeporccrue
+COTELETTEDEPORCCRUE
+Cotelettedeporccuite
+cotelettedeporccuite
+COTELETTEDEPORCCUITE
+Cotte
+cotte
+COTTE
+Cotte de mailles
+cotte de mailles
+COTTE DE MAILLES
+Cottedemailles
+cottedemailles
+COTTEDEMAILLES
 Cotton
 cotton
 COTTON
@@ -7689,6 +9026,18 @@ courtland
 Cousette
 COUSETTE
 cousette
+Cow
+cow
+COW
+Cow Spawn
+cow spawn
+COW SPAWN
+Cow Spawn Egg
+cow spawn egg
+COW SPAWN EGG
+CowSpawnEgg
+cowspawnegg
+COWSPAWNEGG
 Cozesouci
 COZESOUCI
 cozesouci
@@ -7778,6 +9127,21 @@ crakos
 Crane
 CRANE
 crane
+Crane de squelette
+crane de squelette
+CRANE DE SQUELETTE
+Crane de Wither
+crane de wither
+CRANE DE WITHER
+Crane de Wither squelette
+crane de wither squelette
+CRANE DE WITHER SQUELETTE
+Cranedesquelette
+cranedesquelette
+CRANEDESQUELETTE
+CranedeWithersquelette
+cranedewithersquelette
+CRANEDEWITHERSQUELETTE
 Cranky
 CRANKY
 cranky
@@ -7934,6 +9298,35 @@ credo
 creed
 Creed
 CREED
+Creeper
+creeper
+CREEPER
+creeper banner
+CREEPER BANNER
+creeper banner pattern
+CREEPER BANNER PATTERN
+Creeper Head
+creeper head
+CREEPER HEAD
+Creeper Spawn
+creeper spawn
+CREEPER SPAWN
+Creeper Spawn Egg
+creeper spawn egg
+CREEPER SPAWN EGG
+creeper_banner_pattern
+CREEPER_BANNER_PATTERN
+creeperbannerpattern
+CREEPERBANNERPATTERN
+CreeperHead
+creeperhead
+CREEPERHEAD
+CreeperSpawnEgg
+creeperspawnegg
+CREEPERSPAWNEGG
+CREME
+CREME DE MAGMA
+CREMEDEMAGMA
 Crescent
 CRESCENT
 crescent
@@ -7988,6 +9381,30 @@ crimsonviper
 Crisis
 crisis
 CRISIS
+Cristal
+cristal
+CRISTAL
+Cristal de l'End
+cristal de l'end
+CRISTAL DE L'END
+Cristal de lEnd
+cristal de lend
+CRISTAL DE LEND
+Cristaldel'End
+cristaldel'end
+CRISTALDEL'END
+CristaldelEnd
+cristaldelend
+CRISTALDELEND
+Cristaux
+cristaux
+CRISTAUX
+Cristaux de prismarine
+cristaux de prismarine
+CRISTAUX DE PRISMARINE
+Cristauxdeprismarine
+cristauxdeprismarine
+CRISTAUXDEPRISMARINE
 Croapule
 CROAPULE
 croapule
@@ -8015,6 +9432,9 @@ cropcrop
 Cross
 cross
 CROSS
+crossbow
+Crossbow
+CROSSBOW
 crossing
 Crossing
 CROSSING
@@ -8027,6 +9447,10 @@ CROWN
 Croy
 CROY
 croy
+cru
+CRU
+crue
+CRUE
 Cruel
 CRUEL
 cruel
@@ -8102,6 +9526,9 @@ CRYSTALCASTLES
 Crystalis
 crystalis
 CRYSTALIS
+Crystals
+crystals
+CRYSTALS
 Crânolo
 CRÂNOLO
 crânolo
@@ -8120,6 +9547,12 @@ crânos crânos
 CrânosCrânos
 CRÂNOSCRÂNOS
 crânoscrânos
+Crème
+crème
+Crème de magma
+crème de magma
+Crèmedemagma
+crèmedemagma
 Création
 CRÉATION
 création
@@ -8153,6 +9586,9 @@ cubot et orbot
 CubotetOrbot
 CUBOTETORBOT
 cubotetorbot
+Cuir
+cuir
+CUIR
 Cuistoc
 CUISTOC
 cuistoc
@@ -8162,6 +9598,19 @@ cuistoc cuistoc
 CuistocCuistoc
 CUISTOCCUISTOC
 cuistoccuistoc
+cuit
+CUIT
+cuite
+CUITE
+Cuivre
+cuivre
+CUIVRE
+Cuivre brut
+cuivre brut
+CUIVRE BRUT
+Cuivrebrut
+cuivrebrut
+CUIVREBRUT
 Culdcept
 culdcept
 CULDCEPT
@@ -8237,9 +9686,27 @@ cya
 Cyan
 CYAN
 cyan
+Cyan Banner
+cyan banner
+CYAN BANNER
+Cyan Bed
+cyan bed
+CYAN BED
+Cyan Dye
+cyan dye
+CYAN DYE
 Cyan Garamonde
 CYAN GARAMONDE
 cyan garamonde
+CyanBanner
+cyanbanner
+CYANBANNER
+CyanBed
+cyanbed
+CYANBED
+CyanDye
+cyandye
+CYANDYE
 CyanGaramonde
 CYANGARAMONDE
 cyangaramonde
@@ -8331,6 +9798,8 @@ CÉSAR
 césar
 D
 d
+d'abeille
+D'ABEILLE
 d'Acosta
 D'ACOSTA
 d'acosta
@@ -8339,20 +9808,60 @@ D'ALVADE
 d'alvade
 d'ames
 D'AMES
+D'AMETHYSTE
 d'amour
 D'AMOUR
+d'améthyste
+d'ane
+D'ANE
+d'apparition
+D'APPARITION
+D'ARAIGNEE
+d'araignée
+d'argent
+D'ARGENT
+d'argile
+D'ARGILE
+d'arpenteur
+D'ARPENTEUR
+d'artifice
+D'ARTIFICE
+d'axolotl
+D'AXOLOTL
 d'eau
 D'EAU
+d'encre
+D'ENCRE
+d'Enderman
+d'enderman
+D'ENDERMAN
+d'Endermite
+d'endermite
+D'ENDERMITE
 d'entrainement
 D'ENTRAINEMENT
+D'EVOCATEUR
+D'EXPERIENCE
+d'expérience
 d'Hocotate
 D'HOCOTATE
 d'hocotate
+D'IMMORTALITE
+d'immortalité
+d'ocelot
+D'OCELOT
+d'or
+D'OR
+d'os
+D'OS
+d'ours
+D'OURS
 D'Vorah
 D'VORAH
 d'vorah
 d'âmes
 D'ÂMES
+d'évocateur
 D-Fekt
 D-FEKT
 d-fekt
@@ -8365,6 +9874,8 @@ da
 Da!
 DA!
 da!
+dabeille
+DABEILLE
 Dacooga
 DACOOGA
 dacooga
@@ -8494,6 +10005,7 @@ DAME
 dame
 dames
 DAMES
+DAMETHYSTE
 Damia
 DAMIA
 damia
@@ -8502,6 +10014,7 @@ DAMOUR
 Dampierre
 DAMPIERRE
 dampierre
+daméthyste
 Dan
 DAN
 dan
@@ -8550,6 +10063,8 @@ dandan dandan
 DandanDandan
 DANDANDANDAN
 dandandandan
+dane
+DANE
 Danganronpa
 danganronpa
 DANGANRONPA
@@ -8580,6 +10095,8 @@ danny wilkins
 DannyWilkins
 DANNYWILKINS
 dannywilkins
+dans
+DANS
 DanTate
 DANTATE
 dantate
@@ -8607,12 +10124,20 @@ daphnes nohansen hyrule iii
 DaphnesNohansenHyruleIII
 DAPHNESNOHANSENHYRULEIII
 daphnesnohansenhyruleiii
+dapparition
+DAPPARITION
 Daraen
 daraen
 DARAEN
+DARAIGNEE
+daraignée
 Darby
 DARBY
 darby
+dargent
+DARGENT
+dargile
+DARGILE
 Darius
 darius
 DARIUS
@@ -8643,6 +10168,15 @@ dark kahn
 Dark Malgus
 DARK MALGUS
 dark malgus
+Dark Oak
+dark oak
+DARK OAK
+Dark Oak Boat
+dark oak boat
+DARK OAK BOAT
+Dark Oak Door
+dark oak door
+DARK OAK DOOR
 Dark Pit
 dark pit
 DARK PIT
@@ -8699,6 +10233,12 @@ darko brevic
 Darko Brević
 DARKO BREVIĆ
 darko brević
+DarkOakBoat
+darkoakboat
+DARKOAKBOAT
+DarkOakDoor
+darkoakdoor
+DARKOAKDOOR
 DarkoBrevic
 DARKOBREVIC
 darkobrevic
@@ -8749,9 +10289,13 @@ darky darky
 DarkyDarky
 DARKYDARKY
 darkydarky
+darpenteur
+DARPENTEUR
 Darrius
 DARRIUS
 darrius
+dartifice
+DARTIFICE
 Daruk
 DARUK
 daruk
@@ -8779,6 +10323,8 @@ DARWIN4078
 Dash
 dash
 DASH
+dauphin
+DAUPHIN
 Dave
 DAVE
 dave
@@ -8824,6 +10370,8 @@ dawn
 Dawson
 DAWSON
 dawson
+daxolotl
+DAXOLOTL
 Daxter
 daxter
 DAXTER
@@ -8960,6 +10508,7 @@ DEATHSTROKE
 deathstroke
 deau
 DEAU
+DEBOGAGE
 Deborah
 DEBORAH
 deborah
@@ -8969,6 +10518,14 @@ debra
 Debug
 debug
 DEBUG
+Debug Stick
+debug stick
+DEBUG STICK
+debug_stick
+DEBUG_STICK
+DebugStick
+debugstick
+DEBUGSTICK
 Decapre
 DECAPRE
 decapre
@@ -8990,6 +10547,7 @@ deckardcain
 Decophage
 DECOPHAGE
 decophage
+DECORATIFS
 Dedede
 dedede
 DEDEDE
@@ -9181,6 +10739,14 @@ demonfrogdemonfrog
 DemonResident
 DEMONRESIDENT
 demonresident
+dencre
+DENCRE
+dEnderman
+denderman
+DENDERMAN
+dEndermite
+dendermite
+DENDERMITE
 Denise
 DENISE
 denise
@@ -9274,6 +10840,9 @@ DES
 Descent
 descent
 DESCENT
+Description
+description
+DESCRIPTION
 DeSean
 DESEAN
 desean
@@ -9449,12 +11018,15 @@ devinweston
 DeVir
 DEVIR
 devir
+DEVOCATEUR
 Devoreuse
 DEVOREUSE
 devoreuse
 DeWitt
 DEWITT
 dewitt
+DEXPERIENCE
+dexpérience
 Dexter
 DEXTER
 dexter
@@ -9504,6 +11076,75 @@ DIABOLIK LOVERS
 DiabolikLovers
 diaboliklovers
 DIABOLIKLOVERS
+Diamant
+diamant
+DIAMANT
+Diamond
+diamond
+DIAMOND
+Diamond Axe
+diamond axe
+DIAMOND AXE
+Diamond Boots
+diamond boots
+DIAMOND BOOTS
+Diamond Chestplate
+diamond chestplate
+DIAMOND CHESTPLATE
+Diamond Helmet
+diamond helmet
+DIAMOND HELMET
+Diamond Hoe
+diamond hoe
+DIAMOND HOE
+Diamond Horse
+diamond horse
+DIAMOND HORSE
+Diamond Horse Armor
+diamond horse armor
+DIAMOND HORSE ARMOR
+Diamond Leggings
+diamond leggings
+DIAMOND LEGGINGS
+Diamond Pickaxe
+diamond pickaxe
+DIAMOND PICKAXE
+Diamond Shovel
+diamond shovel
+DIAMOND SHOVEL
+Diamond Sword
+diamond sword
+DIAMOND SWORD
+DiamondAxe
+diamondaxe
+DIAMONDAXE
+DiamondBoots
+diamondboots
+DIAMONDBOOTS
+DiamondChestplate
+diamondchestplate
+DIAMONDCHESTPLATE
+DiamondHelmet
+diamondhelmet
+DIAMONDHELMET
+DiamondHoe
+diamondhoe
+DIAMONDHOE
+DiamondHorseArmor
+diamondhorsearmor
+DIAMONDHORSEARMOR
+DiamondLeggings
+diamondleggings
+DIAMONDLEGGINGS
+DiamondPickaxe
+diamondpickaxe
+DIAMONDPICKAXE
+DiamondShovel
+diamondshovel
+DIAMONDSHOVEL
+DiamondSword
+diamondsword
+DIAMONDSWORD
 Diana
 DIANA
 diana
@@ -9606,6 +11247,8 @@ dimitri rascalov
 DimitriRascalov
 DIMITRIRASCALOV
 dimitrirascalov
+DIMMORTALITE
+dimmortalité
 Dincht
 DINCHT
 dincht
@@ -9657,6 +11300,9 @@ dinorhino
 Dinosaurs
 dinosaurs
 DINOSAURS
+Disc
+disc
+DISC
 Discworld
 discworld
 DISCWORLD
@@ -9686,6 +11332,15 @@ DISNEYINFINITY
 DisneySports
 disneysports
 DISNEYSPORTS
+Disque
+disque
+DISQUE
+Disque pour le Jukebox
+disque pour le jukebox
+DISQUE POUR LE JUKEBOX
+DisquepourleJukebox
+disquepourlejukebox
+DISQUEPOURLEJUKEBOX
 Dissipation
 DISSIPATION
 dissipation
@@ -9697,6 +11352,8 @@ DISSIPATIONDELAMAGIE
 dissipationdelamagie
 DIVA
 diva
+divers
+DIVERS
 Divinity
 divinity
 DIVINITY
@@ -9748,6 +11405,8 @@ doc doc
 DocDoc
 DOCDOC
 docdoc
+docelot
+DOCELOT
 Docteur
 DOCTEUR
 docteur
@@ -9856,6 +11515,17 @@ dolph
 Dolphin
 dolphin
 DOLPHIN
+Dolphin Spawn
+dolphin spawn
+DOLPHIN SPAWN
+Dolphin Spawn Egg
+dolphin spawn egg
+DOLPHIN SPAWN EGG
+dolphin_spawn_egg
+DOLPHIN_SPAWN_EGG
+DolphinSpawnEgg
+dolphinspawnegg
+DOLPHINSPAWNEGG
 Dom
 DOM
 dom
@@ -9948,6 +11618,12 @@ DONKEY KONG LAND
 Donkey Konga
 donkey konga
 DONKEY KONGA
+Donkey Spawn
+donkey spawn
+DONKEY SPAWN
+Donkey Spawn Egg
+donkey spawn egg
+DONKEY SPAWN EGG
 donkeykong
 DonkeyKong
 DONKEYKONG
@@ -9969,6 +11645,9 @@ DONKEYKONGJUNIOR
 DonkeyKongLand
 donkeykongland
 DONKEYKONGLAND
+DonkeySpawnEgg
+donkeyspawnegg
+DONKEYSPAWNEGG
 DonMasko
 DONMASKO
 donmasko
@@ -10029,9 +11708,12 @@ doomseye
 Door
 door
 DOOR
+dor
+DOR
 Dora
 DORA
 dora
+DOREE
 Dorian
 DORIAN
 dorian
@@ -10050,6 +11732,9 @@ dorothee
 Dorothée
 DOROTHÉE
 dorothée
+dorée
+dos
+DOS
 dota
 DOTA
 dota 2
@@ -10082,6 +11767,8 @@ DOUBLEHAWK
 Doubleuse
 DOUBLEUSE
 doubleuse
+dours
+DOURS
 Downs
 DOWNS
 downs
@@ -10254,6 +11941,9 @@ DRAGON BALL Z BUDOKAI
 Dragon de Glace
 DRAGON DE GLACE
 dragon de glace
+Dragon Head
+dragon head
+DRAGON HEAD
 Dragon Knight
 dragon knight
 DRAGON KNIGHT
@@ -10279,12 +11969,18 @@ DRAGON WARRIOR
 Dragon's
 dragon's
 DRAGON'S
+Dragon's Breath
+dragon's breath
+DRAGON'S BREATH
 Dragon's Curse
 dragon's curse
 DRAGON'S CURSE
 Dragon's Lair
 dragon's lair
 DRAGON'S LAIR
+Dragon'sBreath
+dragon'sbreath
+DRAGON'SBREATH
 Dragon'sCurse
 dragon'scurse
 DRAGON'SCURSE
@@ -10316,6 +12012,9 @@ DRAGONBALLZBUDOKAI
 DragondeGlace
 DRAGONDEGLACE
 dragondeglace
+DragonHead
+dragonhead
+DRAGONHEAD
 DragonKnight
 dragonknight
 DRAGONKNIGHT
@@ -10334,12 +12033,18 @@ DRAGONQUEST8
 Dragons
 dragons
 DRAGONS
+Dragons Breath
+dragons breath
+DRAGONS BREATH
 Dragons Curse
 dragons curse
 DRAGONS CURSE
 Dragons Lair
 dragons lair
 DRAGONS LAIR
+DragonsBreath
+dragonsbreath
+DRAGONSBREATH
 DragonsCurse
 dragonscurse
 DRAGONSCURSE
@@ -10393,6 +12098,17 @@ drengr
 Dreyfuss
 DREYFUSS
 dreyfuss
+Dried
+dried
+DRIED
+Dried Kelp
+dried kelp
+DRIED KELP
+dried_kelp
+DRIED_KELP
+DriedKelp
+driedkelp
+DRIEDKELP
 Drift
 drift
 DRIFT
@@ -10473,6 +12189,20 @@ drottoort-meyer
 DrOttoOrtMeyer
 DROTTOORTMEYER
 drottoortmeyer
+Drowned
+drowned
+DROWNED
+Drowned Spawn
+drowned spawn
+DROWNED SPAWN
+Drowned Spawn Egg
+drowned spawn egg
+DROWNED SPAWN EGG
+drowned_spawn_egg
+DROWNED_SPAWN_EGG
+DrownedSpawnEgg
+drownedspawnegg
+DROWNEDSPAWNEGG
 DrStewart
 DRSTEWART
 drstewart
@@ -10708,6 +12438,9 @@ dusky donovan
 DuskyDonovan
 DUSKYDONOVAN
 duskydonovan
+Dust
+dust
+DUST
 duty
 Duty
 DUTY
@@ -10728,6 +12461,9 @@ DWAYNEFORGE
 dwayneforge
 DX
 dx
+Dye
+dye
+DYE
 Dygclops
 DYGCLOPS
 dygclops
@@ -10769,12 +12505,14 @@ DYSLEY
 dysley
 dâmes
 DÂMES
+débogage
 Déborah
 DÉBORAH
 déborah
 Décophage
 DÉCOPHAGE
 décophage
+décoratifs
 déesses
 DÉESSES
 Démon
@@ -10786,6 +12524,7 @@ démon résident
 DémonRésident
 DÉMONRÉSIDENT
 démonrésident
+dévocateur
 Dévoreuse
 DÉVOREUSE
 dévoreuse
@@ -10904,6 +12643,12 @@ ebifryerebifryer
 Ebrum
 EBRUM
 ebrum
+Ecaille
+ECAILLE
+Ecaille de tortue
+ECAILLE DE TORTUE
+Ecailledetortue
+ECAILLEDETORTUE
 Eccles
 ECCLES
 eccles
@@ -10925,9 +12670,25 @@ ECCOTHEDOLPHIN
 Echidna
 ECHIDNA
 echidna
+ECLAT
+Eclat
+ECLAT D'AMETHYSTE
+Eclat d'améthyste
+ECLAT DAMETHYSTE
+Eclat daméthyste
+Eclat de prismarine
+ECLAT DE PRISMARINE
+ECLATD'AMETHYSTE
+Eclatd'améthyste
+ECLATDAMETHYSTE
+Eclatdaméthyste
+Eclatdeprismarine
+ECLATDEPRISMARINE
+ECLATE
 Ecochrome
 ecochrome
 ECOCHROME
+ECRIT
 Ecu-d'Argent
 ECU-D'ARGENT
 ecu-d'argent
@@ -11085,6 +12846,10 @@ effaceureffaceur
 effect
 Effect
 EFFECT
+EFFET
+effet
+EFFICACE.
+efficace.
 effrayant
 EFFRAYANT
 Effroyables
@@ -11183,12 +12948,24 @@ ELBOW
 elder
 Elder
 ELDER
+Elder Guardian
+elder guardian
+ELDER GUARDIAN
+Elder Guardian Spawn
+elder guardian spawn
+ELDER GUARDIAN SPAWN
+Elder Guardian Spawn Egg
+elder guardian spawn egg
+ELDER GUARDIAN SPAWN EGG
 Elder Scrolls
 elder scrolls
 ELDER SCROLLS
 Elder Scrolls Travels
 elder scrolls travels
 ELDER SCROLLS TRAVELS
+ElderGuardianSpawnEgg
+elderguardianspawnegg
+ELDERGUARDIANSPAWNEGG
 Elders
 elders
 ELDERS
@@ -11440,6 +13217,11 @@ elwoodo'neil
 ElwoodONeil
 ELWOODONEIL
 elwoodoneil
+Elytra
+elytra
+ELYTRA
+Elytres
+ELYTRES
 Elzix
 ELZIX
 elzix
@@ -11455,6 +13237,11 @@ emaskye
 Emblem
 emblem
 EMBLEM
+Emerald
+emerald
+EMERALD
+Emeraude
+EMERAUDE
 Emergency
 emergency
 EMERGENCY
@@ -11533,21 +13320,99 @@ employés de la shinra
 EmployésdelaShinra
 EMPLOYÉSDELASHINRA
 employésdelashinra
+EMPOISONNEE
 empoisonnees
 EMPOISONNEES
+empoisonnée
 empoisonnées
 EMPOISONNÉES
+Empty
+empty
+EMPTY
+Empty Map
+empty map
+EMPTY MAP
+EmptyMap
+emptymap
+EMPTYMAP
 en
 EN
+ENCHANTE
+Enchanted
+enchanted
+ENCHANTED
+Enchanted Book
+enchanted book
+ENCHANTED BOOK
+Enchanted Golden
+enchanted golden
+ENCHANTED GOLDEN
+Enchanted Golden Apple
+enchanted golden apple
+ENCHANTED GOLDEN APPLE
+EnchantedBook
+enchantedbook
+ENCHANTEDBOOK
+EnchantedGoldenApple
+enchantedgoldenapple
+ENCHANTEDGOLDENAPPLE
+ENCHANTEE
 Enchanteur
 ENCHANTEUR
 enchanteur
+Enchanting
+enchanting
+ENCHANTING
+enchanté
+enchantée
 Encounter
 encounter
 ENCOUNTER
 Encounters
 encounters
 ENCOUNTERS
+End
+end
+END
+End Crystal
+end crystal
+END CRYSTAL
+EndCrystal
+endcrystal
+ENDCRYSTAL
+Ender
+ender
+ENDER
+Ender Pearl
+ender pearl
+ENDER PEARL
+Enderman
+enderman
+ENDERMAN
+Enderman Spawn
+enderman spawn
+ENDERMAN SPAWN
+Enderman Spawn Egg
+enderman spawn egg
+ENDERMAN SPAWN EGG
+EndermanSpawnEgg
+endermanspawnegg
+ENDERMANSPAWNEGG
+Endermite
+endermite
+ENDERMITE
+Endermite Spawn
+endermite spawn
+ENDERMITE SPAWN
+Endermite Spawn Egg
+endermite spawn egg
+ENDERMITE SPAWN EGG
+EndermiteSpawnEgg
+endermitespawnegg
+ENDERMITESPAWNEGG
+EnderPearl
+enderpearl
+ENDERPEARL
 Enders
 enders
 ENDERS
@@ -11649,6 +13514,8 @@ entarecud'argent
 EntarEcudArgent
 ENTARECUDARGENT
 entarecudargent
+ENTONNOIR
+entonnoir
 Entraineur
 entraineur
 ENTRAINEUR
@@ -11700,6 +13567,21 @@ eorforwine eorforwine
 EorforwineEorforwine
 EORFORWINEEORFORWINE
 eorforwineeorforwine
+EPEE
+EPEE EN BOIS
+EPEE EN DIAMANT
+EPEE EN FER
+EPEE EN NETHERITE
+EPEE EN OR
+EPEE EN PIERRE
+EPEE TRES EFFICACE.
+EPEEENBOIS
+EPEEENDIAMANT
+EPEEENFER
+EPEEENNETHERITE
+EPEEENOR
+EPEEENPIERRE
+EPEETRESEFFICACE.
 Epic
 epic
 EPIC
@@ -11721,6 +13603,24 @@ epona
 Epstein
 EPSTEIN
 epstein
+Epée
+epée
+Epée en bois
+Epée en diamant
+Epée en fer
+Epée en Netherite
+Epée en or
+Epée en pierre
+Epée très efficace.
+epée très efficace.
+Epéeenbois
+Epéeendiamant
+Epéeenfer
+EpéeenNetherite
+Epéeenor
+Epéeenpierre
+Epéetrèsefficace.
+epéetrèsefficace.
 EQUITATION
 equitation
 Equitation
@@ -11870,6 +13770,24 @@ ethan winters
 EthanWinters
 ETHANWINTERS
 ethanwinters
+Etiquette
+ETIQUETTE
+Etoile
+ETOILE
+Etoile de feu
+ETOILE DE FEU
+Etoile de feu d'artifice
+ETOILE DE FEU D'ARTIFICE
+Etoile de feu dartifice
+ETOILE DE FEU DARTIFICE
+Etoile du Nether
+ETOILE DU NETHER
+Etoiledefeud'artifice
+ETOILEDEFEUD'ARTIFICE
+Etoiledefeudartifice
+ETOILEDEFEUDARTIFICE
+EtoileduNether
+ETOILEDUNETHER
 Etrian
 etrian
 ETRIAN
@@ -11956,6 +13874,18 @@ EVERYBODYSTENNIS
 evil
 Evil
 EVIL
+Evoker
+evoker
+EVOKER
+Evoker Spawn
+evoker spawn
+EVOKER SPAWN
+Evoker Spawn Egg
+evoker spawn egg
+EVOKER SPAWN EGG
+EvokerSpawnEgg
+evokerspawnegg
+EVOKERSPAWNEGG
 Evolution
 evolution
 EVOLUTION
@@ -12030,9 +13960,18 @@ eydiseydis
 Eye
 eye
 EYE
+Eye of
+eye of
+EYE OF
+Eye of Ender
+eye of ender
+EYE OF ENDER
 Eye of the Beholder
 eye of the beholder
 EYE OF THE BEHOLDER
+EyeofEnder
+eyeofender
+EYEOFENDER
 EyeoftheBeholder
 eyeofthebeholder
 EYEOFTHEBEHOLDER
@@ -12443,6 +14382,9 @@ FE
 fe
 FEAR
 fear
+Feather
+feather
+FEATHER
 Fee
 FEE
 fee
@@ -12518,9 +14460,32 @@ fenrirfenrir
 Fentan
 FENTAN
 fentan
+Fer
+fer
+FER
+Fer brut
+fer brut
+FER BRUT
+Ferbrut
+ferbrut
+FERBRUT
 Ferino
 FERINO
 ferino
+FERMENTE
+Fermented
+fermented
+FERMENTED
+Fermented Spider
+fermented spider
+FERMENTED SPIDER
+Fermented Spider Eye
+fermented spider eye
+FERMENTED SPIDER EYE
+FermentedSpiderEye
+fermentedspidereye
+FERMENTEDSPIDEREYE
+fermenté
 Fermier
 FERMIER
 fermier
@@ -12560,9 +14525,15 @@ festivaldenashkel
 Feu
 FEU
 feu
+FEVES
+FEVES DE CACAO
+FEVESDECACAO
 Fey
 FEY
 fey
+Ficelle
+ficelle
+FICELLE
 Field
 field
 FIELD
@@ -12739,9 +14710,33 @@ finnr finnr
 FinnrFinnr
 FINNRFINNR
 finnrfinnr
+Fiole
+fiole
+FIOLE
+FIOLE D'EXPERIENCE
+Fiole d'expérience
+fiole d'expérience
+Fiole de miel
+fiole de miel
+FIOLE DE MIEL
+FIOLE DEXPERIENCE
+Fiole dexpérience
+fiole dexpérience
+FIOLED'EXPERIENCE
+Fioled'expérience
+fioled'expérience
+Fioledemiel
+fioledemiel
+FIOLEDEMIEL
+FIOLEDEXPERIENCE
+Fioledexpérience
+fioledexpérience
 Fire
 fire
 FIRE
+Fire Charge
+fire charge
+FIRE CHARGE
 Fire Emblem
 fire emblem
 FIRE EMBLEM
@@ -12760,6 +14755,9 @@ FIRE PRO WRESTLING
 Firecam
 FIRECAM
 firecam
+FireCharge
+firecharge
+FIRECHARGE
 FireEmblem
 fireemblem
 FIREEMBLEM
@@ -12778,9 +14776,27 @@ FIREPROWRESTLING
 Firestart
 firestart
 FIRESTART
+Firework
+firework
+FIREWORK
+Firework Rocket
+firework rocket
+FIREWORK ROCKET
+Firework Star
+firework star
+FIREWORK STAR
+FireworkRocket
+fireworkrocket
+FIREWORKROCKET
+FireworkStar
+fireworkstar
+FIREWORKSTAR
 First
 first
 FIRST
+Fish
+fish
+FISH
 Fishbone
 FISHBONE
 fishbone
@@ -12793,6 +14809,15 @@ fishbonefishbone
 Fisher
 FISHER
 fisher
+Fishing
+fishing
+FISHING
+Fishing Rod
+fishing rod
+FISHING ROD
+FishingRod
+fishingrod
+FISHINGROD
 Fist
 fist
 FIST
@@ -12940,11 +14965,18 @@ fleau
 Fleche
 FLECHE
 fleche
+FLECHE A EFFET
+FLECHE SPECTRALE
+FLECHEAEFFET
 fleches
 FLECHES
+FLECHESPECTRALE
 Fleet
 fleet
 FLEET
+Flesh
+flesh
+FLESH
 Fletcher
 FLETCHER
 fletcher
@@ -12975,6 +15007,8 @@ fleurpukey
 FleurPukeyFleurPukey
 FLEURPUKEYFLEURPUKEY
 fleurpukeyfleurpukey
+fleurs
+FLEURS
 Flexer
 FLEXER
 flexer
@@ -12996,6 +15030,18 @@ FLIGHTSIMULATOR
 FlightSimulator2000
 flightsimulator2000
 FLIGHTSIMULATOR2000
+Flint
+flint
+FLINT
+Flint and
+flint and
+FLINT AND
+Flint and Steel
+flint and steel
+FLINT AND STEEL
+FlintandSteel
+flintandsteel
+FLINTANDSTEEL
 Flopper
 FLOPPER
 flopper
@@ -13053,6 +15099,23 @@ flotty le noyau cellulaire
 Flottylenoyaucellulaire
 FLOTTYLENOYAUCELLULAIRE
 flottylenoyaucellulaire
+Flower
+flower
+FLOWER
+flower banner
+FLOWER BANNER
+flower banner pattern
+FLOWER BANNER PATTERN
+Flower Pot
+flower pot
+FLOWER POT
+flower_banner_pattern
+FLOWER_BANNER_PATTERN
+flowerbannerpattern
+FLOWERBANNERPATTERN
+FlowerPot
+flowerpot
+FLOWERPOT
 Floyd
 FLOYD
 floyd
@@ -13095,8 +15158,18 @@ FLYING
 Flèche
 FLÈCHE
 flèche
+Flèche spectrale
+flèche spectrale
+Flèche à
+flèche à
+Flèche à effet
+flèche à effet
 flèches
 FLÈCHES
+Flèchespectrale
+flèchespectrale
+Flècheàeffet
+flècheàeffet
 Fléau
 FLÉAU
 fléau
@@ -13136,6 +15209,9 @@ FOOD FIGHT
 FoodFight
 foodfight
 FOODFIGHT
+Foot
+foot
+FOOT
 Football
 football
 FOOTBALL
@@ -13303,9 +15379,32 @@ fourretout
 fox
 Fox
 FOX
+Fox Spawn
+fox spawn
+FOX SPAWN
+Fox Spawn Egg
+fox spawn egg
+FOX SPAWN EGG
+fox_spawn_egg
+FOX_SPAWN_EGG
+FoxSpawnEgg
+foxspawnegg
+FOXSPAWNEGG
 Fractalus
 fractalus
 FRACTALUS
+Fragments
+fragments
+FRAGMENTS
+Fragments de Netherite
+fragments de netherite
+FRAGMENTS DE NETHERITE
+FragmentsdeNetherite
+fragmentsdenetherite
+FRAGMENTSDENETHERITE
+Frame
+frame
+FRAME
 Fran
 FRAN
 fran
@@ -13551,6 +15650,9 @@ FRONTPAGESPORTSFOOTBALL
 Frost
 FROST
 frost
+Fruit
+fruit
+FRUIT
 Fruity
 fruity
 FRUITY
@@ -13669,6 +15771,9 @@ FUN
 Fun School
 fun school
 FUN SCHOOL
+Fungus
+fungus
+FUNGUS
 Funky
 FUNKY
 funky
@@ -13699,6 +15804,9 @@ fureurdeloup
 FureurdeLoupFureurdeLoup
 FUREURDELOUPFUREURDELOUP
 fureurdeloupfureurdeloup
+Furnace
+furnace
+FURNACE
 Furukawa
 FURUKAWA
 furukawa
@@ -13708,6 +15816,12 @@ FURY
 Fury,
 fury,
 FURY,
+FUSEE
+FUSEE DE FEU
+FUSEE DE FEU D'ARTIFICE
+FUSEE DE FEU DARTIFICE
+FUSEEDEFEUD'ARTIFICE
+FUSEEDEFEUDARTIFICE
 Fusion
 fusion
 FUSION
@@ -13717,6 +15831,18 @@ FUSION FRENZY
 FusionFrenzy
 fusionfrenzy
 FUSIONFRENZY
+Fusée
+fusée
+Fusée de feu
+fusée de feu
+Fusée de feu d'artifice
+fusée de feu d'artifice
+Fusée de feu dartifice
+fusée de feu dartifice
+Fuséedefeud'artifice
+fuséedefeud'artifice
+Fuséedefeudartifice
+fuséedefeudartifice
 Futaki
 FUTAKI
 futaki
@@ -13777,6 +15903,12 @@ FZEROGX
 FZeroX
 fzerox
 FZEROX
+Fèves
+fèves
+Fèves de cacao
+fèves de cacao
+Fèvesdecacao
+fèvesdecacao
 Fée
 FÉE
 fée
@@ -14209,6 +16341,9 @@ GATE
 Gate of Thunder
 gate of thunder
 GATE OF THUNDER
+Gateau
+gateau
+GATEAU
 GateofThunder
 gateofthunder
 GATEOFTHUNDER
@@ -14485,6 +16620,24 @@ GG ALESTE
 GGAleste
 ggaleste
 GGALESTE
+Ghast
+ghast
+GHAST
+Ghast Spawn
+ghast spawn
+GHAST SPAWN
+Ghast Spawn Egg
+ghast spawn egg
+GHAST SPAWN EGG
+Ghast Tear
+ghast tear
+GHAST TEAR
+GhastSpawnEgg
+ghastspawnegg
+GHASTSPAWNEGG
+GhastTear
+ghasttear
+GHASTTEAR
 Gheed
 GHEED
 gheed
@@ -14703,6 +16856,15 @@ gladys
 Glanzelius
 GLANZELIUS
 glanzelius
+Glass
+glass
+GLASS
+Glass Bottle
+glass bottle
+GLASS BOTTLE
+GlassBottle
+glassbottle
+GLASSBOTTLE
 Glebov
 GLEBOV
 glebov
@@ -14721,6 +16883,18 @@ glimmerlepoisson-pecheur
 Glimmerlepoissonpecheur
 GLIMMERLEPOISSONPECHEUR
 glimmerlepoissonpecheur
+Glistering
+glistering
+GLISTERING
+Glistering Melon
+glistering melon
+GLISTERING MELON
+Glistering Melon Slice
+glistering melon slice
+GLISTERING MELON SLICE
+GlisteringMelonSlice
+glisteringmelonslice
+GLISTERINGMELONSLICE
 Glitch
 glitch
 GLITCH
@@ -14739,6 +16913,17 @@ GLOBAL DEFENCE FORCE
 GlobalDefenceForce
 globaldefenceforce
 GLOBALDEFENCEFORCE
+globe
+GLOBE
+Globe
+globe banner
+GLOBE BANNER
+globe banner pattern
+GLOBE BANNER PATTERN
+globe_banner_pattern
+GLOBE_BANNER_PATTERN
+globebannerpattern
+GLOBEBANNERPATTERN
 Globette
 GLOBETTE
 globette
@@ -14799,6 +16984,62 @@ glousseuseglousseuse
 Glover
 GLOVER
 glover
+Glow
+glow
+GLOW
+Glow Berries
+glow berries
+GLOW BERRIES
+Glow Ink
+glow ink
+GLOW INK
+Glow Ink Sac
+glow ink sac
+GLOW INK SAC
+Glow Item
+glow item
+GLOW ITEM
+Glow Item Frame
+glow item frame
+GLOW ITEM FRAME
+Glow Squid
+glow squid
+GLOW SQUID
+Glow Squid Spawn
+glow squid spawn
+GLOW SQUID SPAWN
+Glow Squid Spawn Egg
+glow squid spawn egg
+GLOW SQUID SPAWN EGG
+glow_berries
+GLOW_BERRIES
+glow_ink_sac
+GLOW_INK_SAC
+glow_item_frame
+GLOW_ITEM_FRAME
+glow_squid_spawn_egg
+GLOW_SQUID_SPAWN_EGG
+GlowBerries
+glowberries
+GLOWBERRIES
+GlowInkSac
+glowinksac
+GLOWINKSAC
+GlowItemFrame
+glowitemframe
+GLOWITEMFRAME
+GlowSquidSpawnEgg
+glowsquidspawnegg
+GLOWSQUIDSPAWNEGG
+Glowstone
+glowstone
+GLOWSTONE
+Glowstone Dust
+glowstone dust
+GLOWSTONE DUST
+GlowstoneDust
+glowstonedust
+GLOWSTONEDUST
 Gluigi
 GLUIGI
 gluigi
@@ -14837,6 +17078,20 @@ GO!
 Goan
 GOAN
 goan
+Goat
+goat
+GOAT
+Goat Spawn
+goat spawn
+GOAT SPAWN
+Goat Spawn Egg
+goat spawn egg
+GOAT SPAWN EGG
+goat_spawn_egg
+GOAT_SPAWN_EGG
+GoatSpawnEgg
+goatspawnegg
+GOATSPAWNEGG
 Gobbi
 GOBBI
 gobbi
@@ -14920,27 +17175,81 @@ gogo
 Gold
 gold
 GOLD
+Gold Ingot
+gold ingot
+GOLD INGOT
+Gold Nugget
+gold nugget
+GOLD NUGGET
 Goldberg
 GOLDBERG
 goldberg
 Golden
 golden
 GOLDEN
+Golden Apple
+golden apple
+GOLDEN APPLE
 Golden Axe
 golden axe
 GOLDEN AXE
+Golden Boots
+golden boots
+GOLDEN BOOTS
+Golden Carrot
+golden carrot
+GOLDEN CARROT
+Golden Chestplate
+golden chestplate
+GOLDEN CHESTPLATE
+Golden Helmet
+golden helmet
+GOLDEN HELMET
+Golden Hoe
+golden hoe
+GOLDEN HOE
+Golden Horse
+golden horse
+GOLDEN HORSE
+Golden Horse Armor
+golden horse armor
+GOLDEN HORSE ARMOR
+Golden Leggings
+golden leggings
+GOLDEN LEGGINGS
+Golden Pickaxe
+golden pickaxe
+GOLDEN PICKAXE
+Golden Shovel
+golden shovel
+GOLDEN SHOVEL
 Golden Sun
 golden sun
 GOLDEN SUN
+Golden Sword
+golden sword
+GOLDEN SWORD
 Golden Tee
 golden tee
 GOLDEN TEE
 Golden Tee Golf
 golden tee golf
 GOLDEN TEE GOLF
+GoldenApple
+goldenapple
+GOLDENAPPLE
 GoldenAxe
 goldenaxe
 GOLDENAXE
+GoldenBoots
+goldenboots
+GOLDENBOOTS
+GoldenCarrot
+goldencarrot
+GOLDENCARROT
+GoldenChestplate
+goldenchestplate
+GOLDENCHESTPLATE
 goldeneye
 Goldeneye
 GoldenEye
@@ -14953,15 +17262,42 @@ goldeneye007
 Goldeneye007
 GoldenEye007
 GOLDENEYE007
+GoldenHelmet
+goldenhelmet
+GOLDENHELMET
+GoldenHoe
+goldenhoe
+GOLDENHOE
+GoldenHorseArmor
+goldenhorsearmor
+GOLDENHORSEARMOR
+GoldenLeggings
+goldenleggings
+GOLDENLEGGINGS
+GoldenPickaxe
+goldenpickaxe
+GOLDENPICKAXE
+GoldenShovel
+goldenshovel
+GOLDENSHOVEL
 GoldenSun
 goldensun
 GOLDENSUN
+GoldenSword
+goldensword
+GOLDENSWORD
 GoldenTee
 goldentee
 GOLDENTEE
 GoldenTeeGolf
 goldenteegolf
 GOLDENTEEGOLF
+GoldIngot
+goldingot
+GOLDINGOT
+GoldNugget
+goldnugget
+GOLDNUGGET
 Golf
 golf
 GOLF
@@ -15144,6 +17480,33 @@ graguémona
 Graham
 GRAHAM
 graham
+Graines
+graines
+GRAINES
+Graines de betterave
+graines de betterave
+GRAINES DE BETTERAVE
+GRAINES DE BLE
+Graines de blé
+graines de blé
+Graines de citrouille
+graines de citrouille
+GRAINES DE CITROUILLE
+GRAINES DE PASTEQUE
+Graines de pastèque
+graines de pastèque
+Grainesdebetterave
+grainesdebetterave
+GRAINESDEBETTERAVE
+GRAINESDEBLE
+Grainesdeblé
+grainesdeblé
+Grainesdecitrouille
+grainesdecitrouille
+GRAINESDECITROUILLE
+GRAINESDEPASTEQUE
+Grainesdepastèque
+grainesdepastèque
 gran
 Gran
 GRAN
@@ -15304,6 +17667,27 @@ GRANTURISMO3ASPEC
 Gravelli
 GRAVELLI
 gravelli
+Gray
+gray
+GRAY
+Gray Banner
+gray banner
+GRAY BANNER
+Gray Bed
+gray bed
+GRAY BED
+Gray Dye
+gray dye
+GRAY DYE
+GrayBanner
+graybanner
+GRAYBANNER
+GrayBed
+graybed
+GRAYBED
+GrayDye
+graydye
+GRAYDYE
 Great
 great
 GREAT
@@ -15337,15 +17721,33 @@ greavy
 Green
 green
 GREEN
+Green Banner
+green banner
+GREEN BANNER
+Green Bed
+green bed
+GREEN BED
 Green Beret
 green beret
 GREEN BERET
+Green Dye
+green dye
+GREEN DYE
 Green Lantern
 GREEN LANTERN
 green lantern
+GreenBanner
+greenbanner
+GREENBANNER
+GreenBed
+greenbed
+GREENBED
 GreenBeret
 greenberet
 GREENBERET
+GreenDye
+greendye
+GREENDYE
 GreenLantern
 GREENLANTERN
 greenlantern
@@ -15429,9 +17831,13 @@ grimoire
 Grinder
 GRINDER
 grinder
+GRIS
+gris
 Grisa
 GRISA
 grisa
+GRISE
+grise
 Grisette
 GRISETTE
 grisette
@@ -15531,9 +17937,18 @@ GUARDIAN
 Guardian Heroes
 guardian heroes
 GUARDIAN HEROES
+Guardian Spawn
+guardian spawn
+GUARDIAN SPAWN
+Guardian Spawn Egg
+guardian spawn egg
+GUARDIAN SPAWN EGG
 GuardianHeroes
 guardianheroes
 GUARDIANHEROES
+GuardianSpawnEgg
+guardianspawnegg
+GUARDIANSPAWNEGG
 Gudrun
 GUDRUN
 gudrun
@@ -15705,6 +18120,9 @@ GUNNER
 Gunpey
 gunpey
 GUNPEY
+Gunpowder
+gunpowder
+GUNPOWDER
 Guns
 guns
 GUNS
@@ -15862,6 +18280,42 @@ h.e.r.o
 Hache
 HACHE
 hache
+Hache en bois
+hache en bois
+HACHE EN BOIS
+Hache en diamant
+hache en diamant
+HACHE EN DIAMANT
+Hache en fer
+hache en fer
+HACHE EN FER
+Hache en Netherite
+hache en netherite
+HACHE EN NETHERITE
+Hache en or
+hache en or
+HACHE EN OR
+Hache en pierre
+hache en pierre
+HACHE EN PIERRE
+Hacheenbois
+hacheenbois
+HACHEENBOIS
+Hacheendiamant
+hacheendiamant
+HACHEENDIAMANT
+Hacheenfer
+hacheenfer
+HACHEENFER
+HacheenNetherite
+hacheennetherite
+HACHEENNETHERITE
+Hacheenor
+hacheenor
+HACHEENOR
+Hacheenpierre
+hacheenpierre
+HACHEENPIERRE
 Hachi
 HACHI
 hachi
@@ -16315,9 +18769,23 @@ healer
 Heart
 heart
 HEART
+Heart of
+heart of
+HEART OF
+Heart of the
+heart of the
+HEART OF THE
+Heart of the Sea
+heart of the sea
+HEART OF THE SEA
+heart_of_the_sea
+HEART_OF_THE_SEA
 Heartilly
 HEARTILLY
 heartilly
+HeartoftheSea
+heartofthesea
+HEARTOFTHESEA
 hearts
 Hearts
 HEARTS
@@ -16441,6 +18909,9 @@ helibirdloiseau
 Helium
 HELIUM
 helium
+Helmet
+helmet
+HELMET
 Henchman
 HENCHMAN
 henchman
@@ -16609,6 +19080,9 @@ hibikiuozumi
 Hibou
 HIBOU
 hibou
+Hide
+hide
+HIDE
 Hideo
 HIDEO
 hideo
@@ -16798,6 +19272,9 @@ hjorrhalfsson
 Hobbit
 hobbit
 HOBBIT
+Hoe
+hoe
+HOE
 Hoffner
 HOFFNER
 hoffner
@@ -16807,6 +19284,20 @@ hog
 Hog Pig Poppo
 HOG PIG POPPO
 hog pig poppo
+Hoglin
+hoglin
+HOGLIN
+Hoglin Spawn
+hoglin spawn
+HOGLIN SPAWN
+Hoglin Spawn Egg
+hoglin spawn egg
+HOGLIN SPAWN EGG
+hoglin_spawn_egg
+HOGLIN_SPAWN_EGG
+HoglinSpawnEgg
+hoglinspawnegg
+HOGLINSPAWNEGG
 HogPigPoppo
 HOGPIGPOPPO
 hogpigpoppo
@@ -16873,12 +19364,23 @@ honda
 Honey
 HONEY
 honey
+Honey Bottle
+honey bottle
+HONEY BOTTLE
 Honey Honey
 HONEY HONEY
 honey honey
 Honey the Cat
 HONEY THE CAT
 honey the cat
+honey_bottle
+HONEY_BOTTLE
+HoneyBottle
+honeybottle
+HONEYBOTTLE
+Honeycomb
+honeycomb
+HONEYCOMB
 HoneyHoney
 HONEYHONEY
 honeyhoney
@@ -16927,6 +19429,9 @@ hopecougars
 HopeEstheim
 HOPEESTHEIM
 hopeestheim
+Hopper
+hopper
+HOPPER
 Horace
 horace
 HORACE
@@ -16972,12 +19477,60 @@ HORSE
 Horse Life
 horse life
 HORSE LIFE
+Horse Spawn
+horse spawn
+HORSE SPAWN
+Horse Spawn Egg
+horse spawn egg
+HORSE SPAWN EGG
 HorseLife
 horselife
 HORSELIFE
+HorseSpawnEgg
+horsespawnegg
+HORSESPAWNEGG
 Hotaru
 HOTARU
 hotaru
+Houe
+houe
+HOUE
+Houe en bois
+houe en bois
+HOUE EN BOIS
+Houe en diamant
+houe en diamant
+HOUE EN DIAMANT
+Houe en fer
+houe en fer
+HOUE EN FER
+Houe en Netherite
+houe en netherite
+HOUE EN NETHERITE
+Houe en or
+houe en or
+HOUE EN OR
+Houe en pierre
+houe en pierre
+HOUE EN PIERRE
+Houeenbois
+houeenbois
+HOUEENBOIS
+Houeendiamant
+houeendiamant
+HOUEENDIAMANT
+Houeenfer
+houeenfer
+HOUEENFER
+HoueenNetherite
+houeennetherite
+HOUEENNETHERITE
+Houeenor
+houeenor
+HOUEENOR
+Houeenpierre
+houeenpierre
+HOUEENPIERRE
 House
 house
 HOUSE
@@ -17097,6 +19650,18 @@ hurly hurly
 HurlyHurly
 HURLYHURLY
 hurlyhurly
+Husk
+husk
+HUSK
+Husk Spawn
+husk spawn
+HUSK SPAWN
+Husk Spawn Egg
+husk spawn egg
+HUSK SPAWN EGG
+HuskSpawnEgg
+huskspawnegg
+HUSKSPAWNEGG
 Hwang
 HWANG
 hwang
@@ -17252,6 +19817,8 @@ ichinose
 ico
 Ico
 ICO
+ID
+id
 Idol
 idol
 IDOL
@@ -17515,6 +20082,9 @@ INGEN
 Ingo
 INGO
 ingo
+Ingot
+ingot
+INGOT
 Ingraham
 INGRAHAM
 ingraham
@@ -17542,9 +20112,18 @@ INITIALDARCADE
 InitialDArcadeStage
 initialdarcadestage
 INITIALDARCADESTAGE
+Ink
+ink
+INK
+Ink Sac
+ink sac
+INK SAC
 Inkling
 inkling
 INKLING
+InkSac
+inksac
+INKSAC
 Inohara
 INOHARA
 inohara
@@ -17685,12 +20264,93 @@ iroiro
 Iron
 iron
 IRON
+Iron Axe
+iron axe
+IRON AXE
+Iron Boots
+iron boots
+IRON BOOTS
+Iron Chestplate
+iron chestplate
+IRON CHESTPLATE
+Iron Door
+iron door
+IRON DOOR
+Iron Helmet
+iron helmet
+IRON HELMET
+Iron Hoe
+iron hoe
+IRON HOE
+Iron Horse
+iron horse
+IRON HORSE
+Iron Horse Armor
+iron horse armor
+IRON HORSE ARMOR
+Iron Ingot
+iron ingot
+IRON INGOT
+Iron Leggings
+iron leggings
+IRON LEGGINGS
+Iron Nugget
+iron nugget
+IRON NUGGET
+Iron Pickaxe
+iron pickaxe
+IRON PICKAXE
+Iron Shovel
+iron shovel
+IRON SHOVEL
 Iron Soldier
 iron soldier
 IRON SOLDIER
+Iron Sword
+iron sword
+IRON SWORD
+IronAxe
+ironaxe
+IRONAXE
+IronBoots
+ironboots
+IRONBOOTS
+IronChestplate
+ironchestplate
+IRONCHESTPLATE
+IronDoor
+irondoor
+IRONDOOR
+IronHelmet
+ironhelmet
+IRONHELMET
+IronHoe
+ironhoe
+IRONHOE
+IronHorseArmor
+ironhorsearmor
+IRONHORSEARMOR
+IronIngot
+ironingot
+IRONINGOT
+IronLeggings
+ironleggings
+IRONLEGGINGS
+IronNugget
+ironnugget
+IRONNUGGET
+IronPickaxe
+ironpickaxe
+IRONPICKAXE
+IronShovel
+ironshovel
+IRONSHOVEL
 IronSoldier
 ironsoldier
 IRONSOLDIER
+IronSword
+ironsword
+IRONSWORD
 Irvin
 IRVIN
 irvin
@@ -17766,6 +20426,15 @@ isurugi
 It
 it
 IT
+Item
+item
+ITEM
+Item Frame
+item frame
+ITEM FRAME
+ItemFrame
+itemframe
+ITEMFRAME
 Itherael
 ITHERAEL
 itherael
@@ -18090,6 +20759,39 @@ jamalbam jamalbam
 JamalbamJamalbam
 JAMALBAMJAMALBAM
 jamalbamjamalbam
+JAMBIERES
+JAMBIERES DE MAILLES
+JAMBIERES EN DIAMANT
+JAMBIERES EN FER
+JAMBIERES EN NETHERITE
+JAMBIERES EN OR
+JAMBIERESDEMAILLES
+JAMBIERESENDIAMANT
+JAMBIERESENFER
+JAMBIERESENNETHERITE
+JAMBIERESENOR
+Jambières
+jambières
+Jambières de mailles
+jambières de mailles
+Jambières en diamant
+jambières en diamant
+Jambières en fer
+jambières en fer
+Jambières en Netherite
+jambières en netherite
+Jambières en or
+jambières en or
+Jambièresdemailles
+jambièresdemailles
+Jambièresendiamant
+jambièresendiamant
+Jambièresenfer
+jambièresenfer
+JambièresenNetherite
+jambièresennetherite
+Jambièresenor
+jambièresenor
 Jamella
 JAMELLA
 jamella
@@ -18308,6 +21010,8 @@ JET SET WILLY
 Jet the Hawk
 JET THE HAWK
 jet the hawk
+jetable
+JETABLE
 Jetman
 jetman
 JETMAN
@@ -18662,6 +21366,9 @@ JUGE
 Jujo
 JUJO
 jujo
+Jukebox
+jukebox
+JUKEBOX
 Juli
 JULI
 juli
@@ -18713,15 +21420,27 @@ jun kazama
 Jungle
 jungle
 JUNGLE
+Jungle Boat
+jungle boat
+JUNGLE BOAT
 Jungle Bomb
 JUNGLE BOMB
 jungle bomb
+Jungle Door
+jungle door
+JUNGLE DOOR
 Jungle King
 jungle king
 JUNGLE KING
+JungleBoat
+jungleboat
+JUNGLEBOAT
 JungleBomb
 JUNGLEBOMB
 junglebomb
+JungleDoor
+jungledoor
+JUNGLEDOOR
 JungleKing
 jungleking
 JUNGLEKING
@@ -19316,6 +22035,9 @@ keldorn firecam
 KeldornFirecam
 KELDORNFIRECAM
 keldornfirecam
+Kelp
+kelp
+KELP
 Ken
 ken
 KEN
@@ -19920,6 +22642,15 @@ KNOCKOUTKINGS
 Know
 know
 KNOW
+Knowledge
+knowledge
+KNOWLEDGE
+Knowledge Book
+knowledge book
+KNOWLEDGE BOOK
+KnowledgeBook
+knowledgebook
+KNOWLEDGEBOOK
 Knuckle
 KNUCKLE
 knuckle
@@ -20678,6 +23409,12 @@ l'empereur ix
 L'EmpereurIx
 L'EMPEREURIX
 l'empereurix
+l'End
+l'end
+L'END
+l'Ender
+l'ender
+L'ENDER
 l'espace
 L'ESPACE
 l'espadon
@@ -20874,6 +23611,11 @@ laine
 Lair
 lair
 LAIR
+Laisse
+laisse
+LAISSE
+lait
+LAIT
 Lakitu
 LAKITU
 lakitu
@@ -20997,9 +23739,21 @@ LAP
 Lapin
 lapin
 LAPIN
+Lapin cru
+lapin cru
+LAPIN CRU
+Lapin cuit
+lapin cuit
+LAPIN CUIT
 Lapin malin
 lapin malin
 LAPIN MALIN
+Lapincru
+lapincru
+LAPINCRU
+Lapincuit
+lapincuit
+LAPINCUIT
 Lapinmalin
 lapinmalin
 LAPINMALIN
@@ -21018,6 +23772,19 @@ Lapinscretins
 Lapinscrétins
 lapinscrétins
 LAPINSCRÉTINS
+Lapis
+lapis
+LAPIS
+Lapis Lazuli
+lapis lazuli
+LAPIS LAZULI
+Lapis-lazuli
+lapis-lazuli
+LAPIS-LAZULI
+LapisLazuli
+lapislazuli
+LAPISLAZULI
+Lapislazuli
 LaPrincesseFeeBanane
 LAPRINCESSEFEEBANANE
 laprincessefeebanane
@@ -21043,6 +23810,15 @@ LARCHEDUCAPITAINEBLOOD
 LaReineOiseauBanane
 LAREINEOISEAUBANANE
 lareineoiseaubanane
+Larme
+larme
+LARME
+Larme de Ghast
+larme de ghast
+LARME DE GHAST
+LarmedeGhast
+larmedeghast
+LARMEDEGHAST
 Larmee
 LARMEE
 larmee
@@ -21231,6 +24007,17 @@ LAURIE
 laurie
 lautruche
 LAUTRUCHE
+Lava
+lava
+LAVA
+Lava Bucket
+lava bucket
+LAVA BUCKET
+LavaBucket
+lavabucket
+LAVABUCKET
+lave
+LAVE
 Lavilleinfernale
 lavilleinfernale
 LAVILLEINFERNALE
@@ -21285,6 +24072,9 @@ lazlow jones
 LazlowJones
 LAZLOWJONES
 lazlowjones
+Lazuli
+lazuli
+LAZULI
 le
 Le
 LE
@@ -21417,6 +24207,9 @@ Lea
 LEA PASSION
 lea passion
 Lea Passion
+Lead
+lead
+LEAD
 League
 league
 LEAGUE
@@ -21445,9 +24238,47 @@ LeaPassion
 Leasleach
 LEASLEACH
 leasleach
+Leather
+leather
+LEATHER
+Leather Boots
+leather boots
+LEATHER BOOTS
+Leather Cap
+leather cap
+LEATHER CAP
+Leather Horse
+leather horse
+LEATHER HORSE
+Leather Horse Armor
+leather horse armor
+LEATHER HORSE ARMOR
+Leather Pants
+leather pants
+LEATHER PANTS
+Leather Tunic
+leather tunic
+LEATHER TUNIC
+leather_horse_armor
+LEATHER_HORSE_ARMOR
+LeatherBoots
+leatherboots
+LEATHERBOOTS
+LeatherCap
+leathercap
+LEATHERCAP
 Leatherface
 LEATHERFACE
 leatherface
+LeatherHorseArmor
+leatherhorsearmor
+LEATHERHORSEARMOR
+LeatherPants
+leatherpants
+LEATHERPANTS
+LeatherTunic
+leathertunic
+LEATHERTUNIC
 Leblanc
 LEBLANC
 leblanc
@@ -21676,6 +24507,9 @@ legeneralcaraway
 Leggett
 LEGGETT
 leggett
+Leggings
+leggings
+LEGGINGS
 LeGrandKohga
 LEGRANDKOHGA
 legrandkohga
@@ -21764,6 +24598,12 @@ lemusicien
 Len
 LEN
 len
+lEnd
+lend
+LEND
+lEnder
+lender
+LENDER
 Lenne
 LENNE
 lenne
@@ -22460,12 +25300,45 @@ liflif
 Light
 LIGHT
 light
+Light Blue
+light blue
+LIGHT BLUE
+Light Blue Banner
+light blue banner
+LIGHT BLUE BANNER
+Light Blue Bed
+light blue bed
+LIGHT BLUE BED
+Light Blue Dye
+light blue dye
+LIGHT BLUE DYE
 Light Gaia
 LIGHT GAIA
 light gaia
 Light Gaïa
 LIGHT GAÏA
 light gaïa
+Light Gray
+light gray
+LIGHT GRAY
+Light Gray Banner
+light gray banner
+LIGHT GRAY BANNER
+Light Gray Bed
+light gray bed
+LIGHT GRAY BED
+Light Gray Dye
+light gray dye
+LIGHT GRAY DYE
+LightBlueBanner
+lightbluebanner
+LIGHTBLUEBANNER
+LightBlueBed
+lightbluebed
+LIGHTBLUEBED
+LightBlueDye
+lightbluedye
+LIGHTBLUEDYE
 Lightfish
 LIGHTFISH
 lightfish
@@ -22481,6 +25354,15 @@ lightgaia
 LightGaïa
 LIGHTGAÏA
 lightgaïa
+LightGrayBanner
+lightgraybanner
+LIGHTGRAYBANNER
+LightGrayBed
+lightgraybed
+LIGHTGRAYBED
+LightGrayDye
+lightgraydye
+LIGHTGRAYDYE
 Lightning
 lightning
 LIGHTNING
@@ -22513,6 +25395,27 @@ LILY
 lily
 limbo
 LIMBO
+Lime
+lime
+LIME
+Lime Banner
+lime banner
+LIME BANNER
+Lime Bed
+lime bed
+LIME BED
+Lime Dye
+lime dye
+LIME DYE
+LimeBanner
+limebanner
+LIMEBANNER
+LimeBed
+limebed
+LIMEBED
+LimeDye
+limedye
+LIMEDYE
 LiMei
 LIMEI
 limei
@@ -22542,6 +25445,48 @@ ling
 Ling Xiaoyu
 LING XIAOYU
 ling xiaoyu
+Lingering
+lingering
+LINGERING
+Lingering Potion
+lingering potion
+LINGERING POTION
+LingeringPotion
+lingeringpotion
+LINGERINGPOTION
+Lingot
+lingot
+LINGOT
+Lingot d'or
+lingot d'or
+LINGOT D'OR
+Lingot de cuivre
+lingot de cuivre
+LINGOT DE CUIVRE
+Lingot de fer
+lingot de fer
+LINGOT DE FER
+Lingot de Netherite
+lingot de netherite
+LINGOT DE NETHERITE
+Lingot dor
+lingot dor
+LINGOT DOR
+Lingotd'or
+lingotd'or
+LINGOTD'OR
+Lingotdecuivre
+lingotdecuivre
+LINGOTDECUIVRE
+Lingotdefer
+lingotdefer
+LINGOTDEFER
+LingotdeNetherite
+lingotdenetherite
+LINGOTDENETHERITE
+Lingotdor
+lingotdor
+LINGOTDOR
 LingXiaoyu
 LINGXIAOYU
 lingxiaoyu
@@ -22622,6 +25567,18 @@ liquid snake
 LiquidSnake
 LIQUIDSNAKE
 liquidsnake
+Lire
+lire
+LIRE
+Lire le test
+lire le test
+LIRE LE TEST
+Lire le test complet
+lire le test complet
+LIRE LE TEST COMPLET
+Lireletestcomplet
+lireletestcomplet
+LIRELETESTCOMPLET
 Lisa
 LISA
 lisa
@@ -22643,6 +25600,75 @@ lisapunchinello-sax
 LisaPunchinelloSax
 LISAPUNCHINELLOSAX
 lisapunchinellosax
+Lit
+lit
+LIT
+Lit blanc
+lit blanc
+LIT BLANC
+Lit bleu
+lit bleu
+LIT BLEU
+Lit bleu clair
+lit bleu clair
+LIT BLEU CLAIR
+Lit cyan
+lit cyan
+LIT CYAN
+Lit gris
+lit gris
+LIT GRIS
+Lit gris clair
+lit gris clair
+LIT GRIS CLAIR
+Lit jaune
+lit jaune
+LIT JAUNE
+Lit magenta
+lit magenta
+LIT MAGENTA
+Lit marron
+lit marron
+LIT MARRON
+Lit noir
+lit noir
+LIT NOIR
+Lit orange
+lit orange
+LIT ORANGE
+Lit rose
+lit rose
+LIT ROSE
+Lit rouge
+lit rouge
+LIT ROUGE
+Lit vert
+lit vert
+LIT VERT
+Lit vert clair
+lit vert clair
+LIT VERT CLAIR
+Lit violet
+lit violet
+LIT VIOLET
+Litblanc
+litblanc
+LITBLANC
+Litbleu
+litbleu
+LITBLEU
+Litbleuclair
+litbleuclair
+LITBLEUCLAIR
+Litcyan
+litcyan
+LITCYAN
+Litgris
+litgris
+LITGRIS
+Litgrisclair
+litgrisclair
+LITGRISCLAIR
 Lithorok
 LITHOROK
 lithorok
@@ -22658,6 +25684,27 @@ lithoroknox
 LithorokRare
 LITHOROKRARE
 lithorokrare
+Litjaune
+litjaune
+LITJAUNE
+Litmagenta
+litmagenta
+LITMAGENTA
+Litmarron
+litmarron
+LITMARRON
+Litnoir
+litnoir
+LITNOIR
+Litorange
+litorange
+LITORANGE
+Litrose
+litrose
+LITROSE
+Litrouge
+litrouge
+LITROUGE
 Little
 little
 LITTLE
@@ -22697,6 +25744,15 @@ LITTLEMAC
 LittleSamson
 littlesamson
 LITTLESAMSON
+Litvert
+litvert
+LITVERT
+Litvertclair
+litvertclair
+LITVERTCLAIR
+Litviolet
+litviolet
+LITVIOLET
 Liu
 LIU
 liu
@@ -22712,6 +25768,39 @@ LIVE
 Lives
 lives
 LIVES
+Livre
+livre
+LIVRE
+Livre des
+livre des
+LIVRE DES
+Livre des connaissances
+livre des connaissances
+LIVRE DES CONNAISSANCES
+LIVRE ECRIT
+LIVRE ENCHANTE
+Livre enchanté
+livre enchanté
+Livre et
+livre et
+LIVRE ET
+Livre et plume
+livre et plume
+LIVRE ET PLUME
+Livre écrit
+livre écrit
+Livredesconnaissances
+livredesconnaissances
+LIVREDESCONNAISSANCES
+LIVREECRIT
+LIVREENCHANTE
+Livreenchanté
+livreenchanté
+Livreetplume
+livreetplume
+LIVREETPLUME
+Livreécrit
+livreécrit
 Lizardman
 LIZARDMAN
 lizardman
@@ -22727,6 +25816,18 @@ ljufvina bjarmasdottir
 LjufvinaBjarmasdottir
 LJUFVINABJARMASDOTTIR
 ljufvinabjarmasdottir
+Llama
+llama
+LLAMA
+Llama Spawn
+llama spawn
+LLAMA SPAWN
+Llama Spawn Egg
+llama spawn egg
+LLAMA SPAWN EGG
+LlamaSpawnEgg
+llamaspawnegg
+LLAMASPAWNEGG
 Lloyd
 LLOYD
 lloyd
@@ -22825,6 +25926,12 @@ LONCLE
 Long
 LONG
 long
+Longue-vue
+longue-vue
+LONGUE-VUE
+Longuevue
+longuevue
+LONGUEVUE
 Lonte
 LONTE
 lonte
@@ -23109,6 +26216,10 @@ luis fernando lopez
 Luis Lopez
 LUIS LOPEZ
 luis lopez
+luisant
+LUISANT
+luisante
+LUISANTE
 LuisFernandoLopez
 LUISFERNANDOLOPEZ
 luisfernandolopez
@@ -23129,6 +26240,10 @@ LUMIERE
 Lumines
 lumines
 LUMINES
+lumineuse
+LUMINEUSE
+lumineuses
+LUMINEUSES
 Luminoth
 LUMINOTH
 luminoth
@@ -23451,6 +26566,27 @@ maemae
 Mafia
 mafia
 MAFIA
+Magenta
+magenta
+MAGENTA
+Magenta Banner
+magenta banner
+MAGENTA BANNER
+Magenta Bed
+magenta bed
+MAGENTA BED
+Magenta Dye
+magenta dye
+MAGENTA DYE
+MagentaBanner
+magentabanner
+MAGENTABANNER
+MagentaBed
+magentabed
+MAGENTABED
+MagentaDye
+magentadye
+MAGENTADYE
 Mages
 mages
 MAGES
@@ -23508,6 +26644,27 @@ magikoopa
 Magique
 MAGIQUE
 magique
+Magma
+magma
+MAGMA
+Magma Cream
+magma cream
+MAGMA CREAM
+Magma Cube
+magma cube
+MAGMA CUBE
+Magma Cube Spawn
+magma cube spawn
+MAGMA CUBE SPAWN
+Magma Cube Spawn Egg
+magma cube spawn egg
+MAGMA CUBE SPAWN EGG
+MagmaCream
+magmacream
+MAGMACREAM
+MagmaCubeSpawnEgg
+magmacubespawnegg
+MAGMACUBESPAWNEGG
 Magogo
 MAGOGO
 magogo
@@ -23583,6 +26740,8 @@ maillalenvers maillalenvers
 MaillalenversMaillalenvers
 MAILLALENVERSMAILLALENVERS
 maillalenversmaillalenvers
+mailles
+MAILLES
 Maillon
 MAILLON
 maillon
@@ -23843,6 +27002,9 @@ manuel escuela
 ManuelEscuela
 MANUELESCUELA
 manuelescuela
+Map
+map
+MAP
 Mappy
 mappy
 MAPPY
@@ -23876,6 +27038,8 @@ marcelo branco
 MarceloBranco
 MARCELOBRANCO
 marcelobranco
+marchand
+MARCHAND
 Marco
 marco
 MARCO
@@ -24180,6 +27344,8 @@ marley
 MarlKingdom
 marlkingdom
 MARLKINGDOM
+MARRON
+marron
 Marsh
 MARSH
 marsh
@@ -24703,6 +27869,9 @@ MDK 2
 mdk 2
 MDK2
 mdk2
+Meal
+meal
+MEAL
 meat
 MEAT
 Meat
@@ -24947,9 +28116,33 @@ melmanmelman
 Melo
 MELO
 melo
+Melon
+melon
+MELON
+Melon Seeds
+melon seeds
+MELON SEEDS
+Melon Slice
+melon slice
+MELON SLICE
+MelonSeeds
+melonseeds
+MELONSEEDS
+MelonSlice
+melonslice
+MELONSLICE
 Meltzer
 MELTZER
 meltzer
+Membrane
+membrane
+MEMBRANE
+Membrane de Phantom
+membrane de phantom
+MEMBRANE DE PHANTOM
+MembranedePhantom
+membranedephantom
+MEMBRANEDEPHANTOM
 Membres
 MEMBRES
 membres
@@ -25013,6 +28206,8 @@ mephilesthedark
 Mephisto
 MEPHISTO
 mephisto
+mer
+MER
 Mercenary
 mercenary
 MERCENARY
@@ -25414,6 +28609,8 @@ MIDWAYARCADETREASURES
 Midwinter
 midwinter
 MIDWINTER
+miel
+MIEL
 Might
 might
 MIGHT
@@ -25634,6 +28831,15 @@ MILITARY MADNESS
 MilitaryMadness
 militarymadness
 MILITARYMADNESS
+Milk
+milk
+MILK
+Milk Bucket
+milk bucket
+MILK BUCKET
+MilkBucket
+milkbucket
+MILKBUCKET
 Millenium
 millenium
 MILLENIUM
@@ -25689,6 +28895,45 @@ MINE
 Mine Storm
 mine storm
 MINE STORM
+Minecart
+minecart
+MINECART
+Minecart with
+minecart with
+MINECART WITH
+Minecart with Chest
+minecart with chest
+MINECART WITH CHEST
+Minecart with Command
+minecart with command
+MINECART WITH COMMAND
+Minecart with Command Block
+minecart with command block
+MINECART WITH COMMAND BLOCK
+Minecart with Furnace
+minecart with furnace
+MINECART WITH FURNACE
+Minecart with Hopper
+minecart with hopper
+MINECART WITH HOPPER
+Minecart with TNT
+minecart with tnt
+MINECART WITH TNT
+MinecartwithChest
+minecartwithchest
+MINECARTWITHCHEST
+MinecartwithCommandBlock
+minecartwithcommandblock
+MINECARTWITHCOMMANDBLOCK
+MinecartwithFurnace
+minecartwithfurnace
+MINECARTWITHFURNACE
+MinecartwithHopper
+minecartwithhopper
+MINECARTWITHHOPPER
+MinecartwithTNT
+minecartwithtnt
+MINECARTWITHTNT
 minecraft
 MINECRAFT
 Miner
@@ -26034,6 +29279,18 @@ mmethornhill
 Moblin
 MOBLIN
 moblin
+Mode
+mode
+MODE
+Mode de transport
+mode de transport
+MODE DE TRANSPORT
+Mode de transport solitaire
+mode de transport solitaire
+MODE DE TRANSPORT SOLITAIRE
+Modedetransportsolitaire
+modedetransportsolitaire
+MODEDETRANSPORTSOLITAIRE
 modern
 Modern
 MODERN
@@ -26068,6 +29325,17 @@ mohammed
 Moira
 MOIRA
 moira
+mojang
+MOJANG
+Mojang
+mojang banner
+MOJANG BANNER
+mojang banner pattern
+MOJANG BANNER PATTERN
+mojang_banner_pattern
+MOJANG_BANNER_PATTERN
+mojangbannerpattern
+MOJANGBANNERPATTERN
 Mojo
 MOJO
 mojo
@@ -26089,6 +29357,8 @@ molly
 Moloch
 MOLOCH
 moloch
+MOMIFIE
+momifié
 Momo
 MOMO
 momo
@@ -26243,6 +29513,9 @@ montaron
 Monteiro
 MONTEIRO
 monteiro
+Montre
+montre
+MONTRE
 Mony
 MONY
 mony
@@ -26279,6 +29552,18 @@ mooshar mooshar
 MoosharMooshar
 MOOSHARMOOSHAR
 moosharmooshar
+Mooshroom
+mooshroom
+MOOSHROOM
+Mooshroom Spawn
+mooshroom spawn
+MOOSHROOM SPAWN
+Mooshroom Spawn Egg
+mooshroom spawn egg
+MOOSHROOM SPAWN EGG
+MooshroomSpawnEgg
+mooshroomspawnegg
+MOOSHROOMSPAWNEGG
 Mopoo
 MOPOO
 mopoo
@@ -26408,6 +29693,30 @@ mortalkombatx
 Mortevielle
 mortevielle
 MORTEVIELLE
+Morue
+morue
+MORUE
+Morue crue
+morue crue
+MORUE CRUE
+Morue cuite
+morue cuite
+MORUE CUITE
+Morue dans
+morue dans
+MORUE DANS
+Morue dans un seau
+morue dans un seau
+MORUE DANS UN SEAU
+Moruecrue
+moruecrue
+MORUECRUE
+Moruecuite
+moruecuite
+MORUECUITE
+Moruedansunseau
+moruedansunseau
+MORUEDANSUNSEAU
 Morvux
 MORVUX
 morvux
@@ -26438,6 +29747,48 @@ MOTHER3
 MotherBrain
 MOTHERBRAIN
 motherbrain
+MOTIF
+Motif
+motif
+MOTIF DE BANNIERE:
+MOTIF DE BANNIERE: CRANE
+MOTIF DE BANNIERE: CREEPER
+MOTIF DE BANNIERE: FLEUR
+MOTIF DE BANNIERE: GLOBE
+MOTIF DE BANNIERE: MOJANG
+MOTIF DE BANNIERE: PIGLIN
+Motif de bannière:
+motif de bannière:
+Motif de bannière: Crane
+motif de bannière: crane
+Motif de bannière: Creeper
+motif de bannière: creeper
+Motif de bannière: Fleur
+motif de bannière: fleur
+Motif de bannière: Globe
+motif de bannière: globe
+Motif de bannière: Mojang
+motif de bannière: mojang
+Motif de bannière: Piglin
+motif de bannière: piglin
+MOTIFDEBANNIERE:CRANE
+MOTIFDEBANNIERE:CREEPER
+MOTIFDEBANNIERE:FLEUR
+MOTIFDEBANNIERE:GLOBE
+MOTIFDEBANNIERE:MOJANG
+MOTIFDEBANNIERE:PIGLIN
+Motifdebannière:Crane
+motifdebannière:crane
+Motifdebannière:Creeper
+motifdebannière:creeper
+Motifdebannière:Fleur
+motifdebannière:fleur
+Motifdebannière:Globe
+motifdebannière:globe
+Motifdebannière:Mojang
+motifdebannière:mojang
+Motifdebannière:Piglin
+motifdebannière:piglin
 Moto
 moto
 MOTO
@@ -26474,6 +29825,8 @@ MOTOR PSYCHO
 MotoRacer
 motoracer
 MOTORACER
+MOTORISE
+motorisé
 MotorPsycho
 motorpsycho
 MOTORPSYCHO
@@ -26489,6 +29842,21 @@ motoshotzo
 MotoShotzoMotoShotzo
 MOTOSHOTZOMOTOSHOTZO
 motoshotzomotoshotzo
+Motte
+motte
+MOTTE
+Motte d'argile
+motte d'argile
+MOTTE D'ARGILE
+Motte dargile
+motte dargile
+MOTTE DARGILE
+Motted'argile
+motted'argile
+MOTTED'ARGILE
+Mottedargile
+mottedargile
+MOTTEDARGILE
 Mouchak
 MOUCHAK
 mouchak
@@ -26527,6 +29895,21 @@ mountain
 MOUNTAIN
 moustiques
 MOUSTIQUES
+Mouton
+mouton
+MOUTON
+Mouton cru
+mouton cru
+MOUTON CRU
+Mouton cuit
+mouton cuit
+MOUTON CUIT
+Moutoncru
+moutoncru
+MOUTONCRU
+Moutoncuit
+moutoncuit
+MOUTONCUIT
 Move
 move
 MOVE
@@ -26718,6 +30101,18 @@ muerte
 Mugnaio
 MUGNAIO
 mugnaio
+Mule
+mule
+MULE
+Mule Spawn
+mule spawn
+MULE SPAWN
+Mule Spawn Egg
+mule spawn egg
+MULE SPAWN EGG
+MuleSpawnEgg
+mulespawnegg
+MULESPAWNEGG
 Muller
 MULLER
 muller
@@ -26751,9 +30146,30 @@ MURPHY
 Museum
 museum
 MUSEUM
+Mushroom
+mushroom
+MUSHROOM
+Mushroom Stew
+mushroom stew
+MUSHROOM STEW
+MushroomStew
+mushroomstew
+MUSHROOMSTEW
 Music
 music
 MUSIC
+Music Disc
+music disc
+MUSIC DISC
+music disc pigstep
+MUSIC DISC PIGSTEP
+music_disc_pigstep
+MUSIC_DISC_PIGSTEP
+MusicDisc
+musicdisc
+MUSICDISC
+musicdiscpigstep
+MUSICDISCPIGSTEP
 Musicien
 MUSICIEN
 musicien
@@ -26766,6 +30182,9 @@ MUTANT LEAGUE FOOTBALL
 MutantLeagueFootball
 mutantleaguefootball
 MUTANTLEAGUEFOOTBALL
+Mutton
+mutton
+MUTTON
 Muzza
 MUZZA
 muzza
@@ -27099,6 +30518,15 @@ NAMCO MUSEUM
 NamcoMuseum
 namcomuseum
 NAMCOMUSEUM
+Name
+name
+NAME
+Name Tag
+name tag
+NAME TAG
+NameTag
+nametag
+NAMETAG
 Namikawa
 NAMIKAWA
 namikawa
@@ -27210,6 +30638,17 @@ natsukishimizu
 Natsume
 NATSUME
 natsume
+Nautilus
+nautilus
+NAUTILUS
+Nautilus Shell
+nautilus shell
+NAUTILUS SHELL
+nautilus_shell
+NAUTILUS_SHELL
+NautilusShell
+nautilusshell
+NAUTILUSSHELL
 Naval
 naval
 NAVAL
@@ -27441,6 +30880,124 @@ NESFAMICOM
 Ness
 ness
 NESS
+Nether
+nether
+NETHER
+Nether Brick
+nether brick
+NETHER BRICK
+Nether Quartz
+nether quartz
+NETHER QUARTZ
+Nether Star
+nether star
+NETHER STAR
+Nether Wart
+nether wart
+NETHER WART
+NetherBrick
+netherbrick
+NETHERBRICK
+Netherite
+netherite
+NETHERITE
+Netherite Axe
+netherite axe
+NETHERITE AXE
+Netherite Boots
+netherite boots
+NETHERITE BOOTS
+Netherite Chestplate
+netherite chestplate
+NETHERITE CHESTPLATE
+Netherite Helmet
+netherite helmet
+NETHERITE HELMET
+Netherite Hoe
+netherite hoe
+NETHERITE HOE
+Netherite Ingot
+netherite ingot
+NETHERITE INGOT
+Netherite Leggings
+netherite leggings
+NETHERITE LEGGINGS
+Netherite Pickaxe
+netherite pickaxe
+NETHERITE PICKAXE
+Netherite Scrap
+netherite scrap
+NETHERITE SCRAP
+Netherite Shovel
+netherite shovel
+NETHERITE SHOVEL
+Netherite Sword
+netherite sword
+NETHERITE SWORD
+netherite_axe
+NETHERITE_AXE
+netherite_boots
+NETHERITE_BOOTS
+netherite_chestplate
+NETHERITE_CHESTPLATE
+netherite_helmet
+NETHERITE_HELMET
+netherite_hoe
+NETHERITE_HOE
+netherite_ingot
+NETHERITE_INGOT
+netherite_leggings
+NETHERITE_LEGGINGS
+netherite_pickaxe
+NETHERITE_PICKAXE
+netherite_scrap
+NETHERITE_SCRAP
+netherite_shovel
+NETHERITE_SHOVEL
+netherite_sword
+NETHERITE_SWORD
+NetheriteAxe
+netheriteaxe
+NETHERITEAXE
+NetheriteBoots
+netheriteboots
+NETHERITEBOOTS
+NetheriteChestplate
+netheritechestplate
+NETHERITECHESTPLATE
+NetheriteHelmet
+netheritehelmet
+NETHERITEHELMET
+NetheriteHoe
+netheritehoe
+NETHERITEHOE
+NetheriteIngot
+netheriteingot
+NETHERITEINGOT
+NetheriteLeggings
+netheriteleggings
+NETHERITELEGGINGS
+NetheritePickaxe
+netheritepickaxe
+NETHERITEPICKAXE
+NetheriteScrap
+netheritescrap
+NETHERITESCRAP
+NetheriteShovel
+netheriteshovel
+NETHERITESHOVEL
+NetheriteSword
+netheritesword
+NETHERITESWORD
+NetherQuartz
+netherquartz
+NETHERQUARTZ
+NetherStar
+netherstar
+NETHERSTAR
+NetherWart
+netherwart
+NETHERWART
 Network
 network
 NETWORK
@@ -27936,9 +31493,14 @@ noia
 Noir
 NOIR
 noir
+NOIRE
+noire
 Noko
 NOKO
 noko
+Nom
+nom
+NOM
 Nomad
 nomad
 NOMAD
@@ -28029,6 +31591,8 @@ NOX
 nox
 noyau
 NOYAU
+NOYE
+noyé
 Noémie
 NOÉMIE
 noémie
@@ -28044,6 +31608,9 @@ nruffnruff
 NTrance
 NTRANCE
 ntrance
+Nugget
+nugget
+NUGGET
 nukem
 Nukem
 NUKEM
@@ -28069,6 +31636,8 @@ NÉCROMANCIEN
 nécromancien
 o
 O
+o'
+O'
 O'Aka
 O'AKA
 o'aka
@@ -28090,6 +31659,18 @@ o'possum
 O'Toole
 O'TOOLE
 o'toole
+Oak
+oak
+OAK
+Oak Boat
+oak boat
+OAK BOAT
+Oak Door
+oak door
+OAK DOOR
+Oak Sign
+oak sign
+OAK SIGN
 OAka
 OAKA
 oaka
@@ -28099,6 +31680,15 @@ oaka et wantz
 OAkaetWantz
 OAKAETWANTZ
 oakaetwantz
+OakBoat
+oakboat
+OAKBOAT
+OakDoor
+oakdoor
+OAKDOOR
+OakSign
+oaksign
+OAKSIGN
 Oasis
 oasis
 OASIS
@@ -28111,6 +31701,24 @@ oazo oazo
 OazoOazo
 OAZOOAZO
 oazooazo
+Objets
+objets
+OBJETS
+Objets divers
+objets divers
+OBJETS DIVERS
+OBJETS DIVERS ET
+Objets divers et
+objets divers et
+OBJETS DIVERS ET DECORATIFS
+Objets divers et décoratifs
+objets divers et décoratifs
+Objetsdivers
+objetsdivers
+OBJETSDIVERS
+OBJETSDIVERSETDECORATIFS
+Objetsdiversetdécoratifs
+objetsdiversetdécoratifs
 oblivion
 OBLIVION
 Obrieski
@@ -28130,6 +31738,15 @@ OCEAN
 Ocelot
 OCELOT
 ocelot
+Ocelot Spawn
+ocelot spawn
+OCELOT SPAWN
+Ocelot Spawn Egg
+ocelot spawn egg
+OCELOT SPAWN EGG
+OcelotSpawnEgg
+ocelotspawnegg
+OCELOTSPAWNEGG
 Ochoa
 OCHOA
 ochoa
@@ -28184,6 +31801,45 @@ odon
 Odyssey
 odyssey
 ODYSSEY
+OEIL
+Oeil
+oeil
+OEIL D'ARAIGNEE
+OEIL D'ARAIGNEE FERMENTE
+Oeil d'araignée
+oeil d'araignée
+Oeil d'araignée fermenté
+oeil d'araignée fermenté
+OEIL DARAIGNEE
+OEIL DARAIGNEE FERMENTE
+Oeil daraignée
+oeil daraignée
+Oeil daraignée fermenté
+oeil daraignée fermenté
+Oeil de l'Ender
+oeil de l'ender
+OEIL DE L'ENDER
+Oeil de lEnder
+oeil de lender
+OEIL DE LENDER
+OEILD'ARAIGNEE
+OEILD'ARAIGNEEFERMENTE
+Oeild'araignée
+oeild'araignée
+Oeild'araignéefermenté
+oeild'araignéefermenté
+OEILDARAIGNEE
+OEILDARAIGNEEFERMENTE
+Oeildaraignée
+oeildaraignée
+Oeildaraignéefermenté
+oeildaraignéefermenté
+Oeildel'Ender
+oeildel'ender
+OEILDEL'ENDER
+OeildelEnder
+oeildelender
+OEILDELENDER
 Oerba
 OERBA
 oerba
@@ -28199,6 +31855,912 @@ oerbadiavanille
 OerbaYunFang
 OERBAYUNFANG
 oerbayunfang
+Oeuf
+oeuf
+OEUF
+Oeuf d'apparition
+oeuf d'apparition
+OEUF D'APPARITION
+Oeuf d'apparition d'abeille
+oeuf d'apparition d'abeille
+OEUF D'APPARITION D'ABEILLE
+Oeuf d'apparition d'ane
+oeuf d'apparition d'ane
+OEUF D'APPARITION D'ANE
+OEUF D'APPARITION D'ARAIGNEE
+OEUF D'APPARITION D'ARAIGNEE VENIMEUSE
+Oeuf d'apparition d'araignée
+oeuf d'apparition d'araignée
+Oeuf d'apparition d'araignée venimeuse
+oeuf d'apparition d'araignée venimeuse
+Oeuf d'apparition d'arpenteur
+oeuf d'apparition d'arpenteur
+OEUF D'APPARITION D'ARPENTEUR
+Oeuf d'apparition d'axolotl
+oeuf d'apparition d'axolotl
+OEUF D'APPARITION D'AXOLOTL
+Oeuf d'apparition d'Enderman
+oeuf d'apparition d'enderman
+OEUF D'APPARITION D'ENDERMAN
+Oeuf d'apparition d'Endermite
+oeuf d'apparition d'endermite
+OEUF D'APPARITION D'ENDERMITE
+OEUF D'APPARITION D'EVOCATEUR
+Oeuf d'apparition d'ocelot
+oeuf d'apparition d'ocelot
+OEUF D'APPARITION D'OCELOT
+Oeuf d'apparition d'ours
+oeuf d'apparition d'ours
+OEUF D'APPARITION D'OURS
+Oeuf d'apparition d'ours blanc
+oeuf d'apparition d'ours blanc
+OEUF D'APPARITION D'OURS BLANC
+Oeuf d'apparition d'évocateur
+oeuf d'apparition d'évocateur
+Oeuf d'apparition de Blaze
+oeuf d'apparition de blaze
+OEUF D'APPARITION DE BLAZE
+Oeuf d'apparition de champimeuh
+oeuf d'apparition de champimeuh
+OEUF D'APPARITION DE CHAMPIMEUH
+Oeuf d'apparition de chat
+oeuf d'apparition de chat
+OEUF D'APPARITION DE CHAT
+Oeuf d'apparition de chauve-souris
+oeuf d'apparition de chauve-souris
+OEUF D'APPARITION DE CHAUVE-SOURIS
+Oeuf d'apparition de cheval
+oeuf d'apparition de cheval
+OEUF D'APPARITION DE CHEVAL
+Oeuf d'apparition de cheval-squelette
+oeuf d'apparition de cheval-squelette
+OEUF D'APPARITION DE CHEVAL-SQUELETTE
+Oeuf d'apparition de cheval-zombie
+oeuf d'apparition de cheval-zombie
+OEUF D'APPARITION DE CHEVAL-ZOMBIE
+OEUF D'APPARITION DE CHEVRE
+Oeuf d'apparition de chèvre
+oeuf d'apparition de chèvre
+Oeuf d'apparition de cochon
+oeuf d'apparition de cochon
+OEUF D'APPARITION DE COCHON
+Oeuf d'apparition de cochon-zombie
+oeuf d'apparition de cochon-zombie
+OEUF D'APPARITION DE COCHON-ZOMBIE
+Oeuf d'apparition de Creeper
+oeuf d'apparition de creeper
+OEUF D'APPARITION DE CREEPER
+Oeuf d'apparition de cube
+oeuf d'apparition de cube
+OEUF D'APPARITION DE CUBE
+Oeuf d'apparition de cube de magma
+oeuf d'apparition de cube de magma
+OEUF D'APPARITION DE CUBE DE MAGMA
+Oeuf d'apparition de dauphin
+oeuf d'apparition de dauphin
+OEUF D'APPARITION DE DAUPHIN
+Oeuf d'apparition de gardien
+oeuf d'apparition de gardien
+OEUF D'APPARITION DE GARDIEN
+Oeuf d'apparition de Ghast
+oeuf d'apparition de ghast
+OEUF D'APPARITION DE GHAST
+Oeuf d'apparition de grand
+oeuf d'apparition de grand
+OEUF D'APPARITION DE GRAND
+Oeuf d'apparition de grand gardien
+oeuf d'apparition de grand gardien
+OEUF D'APPARITION DE GRAND GARDIEN
+Oeuf d'apparition de Hoglin
+oeuf d'apparition de hoglin
+OEUF D'APPARITION DE HOGLIN
+Oeuf d'apparition de lama
+oeuf d'apparition de lama
+OEUF D'APPARITION DE LAMA
+Oeuf d'apparition de lama de marchand
+oeuf d'apparition de lama de marchand
+OEUF D'APPARITION DE LAMA DE MARCHAND
+Oeuf d'apparition de lapin
+oeuf d'apparition de lapin
+OEUF D'APPARITION DE LAPIN
+Oeuf d'apparition de loup
+oeuf d'apparition de loup
+OEUF D'APPARITION DE LOUP
+Oeuf d'apparition de marchand
+oeuf d'apparition de marchand
+OEUF D'APPARITION DE MARCHAND
+Oeuf d'apparition de marchand ambulant
+oeuf d'apparition de marchand ambulant
+OEUF D'APPARITION DE MARCHAND AMBULANT
+Oeuf d'apparition de morue
+oeuf d'apparition de morue
+OEUF D'APPARITION DE MORUE
+Oeuf d'apparition de mouton
+oeuf d'apparition de mouton
+OEUF D'APPARITION DE MOUTON
+Oeuf d'apparition de mule
+oeuf d'apparition de mule
+OEUF D'APPARITION DE MULE
+OEUF D'APPARITION DE NOYE
+Oeuf d'apparition de noyé
+oeuf d'apparition de noyé
+Oeuf d'apparition de panda
+oeuf d'apparition de panda
+OEUF D'APPARITION DE PANDA
+Oeuf d'apparition de perroquet
+oeuf d'apparition de perroquet
+OEUF D'APPARITION DE PERROQUET
+Oeuf d'apparition de Phantom
+oeuf d'apparition de phantom
+OEUF D'APPARITION DE PHANTOM
+Oeuf d'apparition de Piglin
+oeuf d'apparition de piglin
+OEUF D'APPARITION DE PIGLIN
+Oeuf d'apparition de Piglin barbare
+oeuf d'apparition de piglin barbare
+OEUF D'APPARITION DE PIGLIN BARBARE
+OEUF D'APPARITION DE PIGLIN ZOMBIFIE
+Oeuf d'apparition de Piglin zombifié
+oeuf d'apparition de piglin zombifié
+Oeuf d'apparition de pillard
+oeuf d'apparition de pillard
+OEUF D'APPARITION DE PILLARD
+Oeuf d'apparition de poisson
+oeuf d'apparition de poisson
+OEUF D'APPARITION DE POISSON
+Oeuf d'apparition de poisson d'argent
+oeuf d'apparition de poisson d'argent
+OEUF D'APPARITION DE POISSON D'ARGENT
+Oeuf d'apparition de poisson tropical
+oeuf d'apparition de poisson tropical
+OEUF D'APPARITION DE POISSON TROPICAL
+Oeuf d'apparition de poisson-globe
+oeuf d'apparition de poisson-globe
+OEUF D'APPARITION DE POISSON-GLOBE
+Oeuf d'apparition de poule
+oeuf d'apparition de poule
+OEUF D'APPARITION DE POULE
+Oeuf d'apparition de poulpe
+oeuf d'apparition de poulpe
+OEUF D'APPARITION DE POULPE
+Oeuf d'apparition de poulpe luisant
+oeuf d'apparition de poulpe luisant
+OEUF D'APPARITION DE POULPE LUISANT
+Oeuf d'apparition de ravageur
+oeuf d'apparition de ravageur
+OEUF D'APPARITION DE RAVAGEUR
+Oeuf d'apparition de renard
+oeuf d'apparition de renard
+OEUF D'APPARITION DE RENARD
+Oeuf d'apparition de saumon
+oeuf d'apparition de saumon
+OEUF D'APPARITION DE SAUMON
+Oeuf d'apparition de Shulker
+oeuf d'apparition de shulker
+OEUF D'APPARITION DE SHULKER
+Oeuf d'apparition de Slime
+oeuf d'apparition de slime
+OEUF D'APPARITION DE SLIME
+OEUF D'APPARITION DE SORCIERE
+Oeuf d'apparition de sorcière
+oeuf d'apparition de sorcière
+Oeuf d'apparition de squelette
+oeuf d'apparition de squelette
+OEUF D'APPARITION DE SQUELETTE
+Oeuf d'apparition de tortue
+oeuf d'apparition de tortue
+OEUF D'APPARITION DE TORTUE
+Oeuf d'apparition de vache
+oeuf d'apparition de vache
+OEUF D'APPARITION DE VACHE
+Oeuf d'apparition de vagabond
+oeuf d'apparition de vagabond
+OEUF D'APPARITION DE VAGABOND
+Oeuf d'apparition de Vex
+oeuf d'apparition de vex
+OEUF D'APPARITION DE VEX
+Oeuf d'apparition de villageois
+oeuf d'apparition de villageois
+OEUF D'APPARITION DE VILLAGEOIS
+Oeuf d'apparition de vindicateur
+oeuf d'apparition de vindicateur
+OEUF D'APPARITION DE VINDICATEUR
+Oeuf d'apparition de Wither
+oeuf d'apparition de wither
+OEUF D'APPARITION DE WITHER
+Oeuf d'apparition de Wither squelette
+oeuf d'apparition de wither squelette
+OEUF D'APPARITION DE WITHER SQUELETTE
+Oeuf d'apparition de Zoglin
+oeuf d'apparition de zoglin
+OEUF D'APPARITION DE ZOGLIN
+Oeuf d'apparition de zombie
+oeuf d'apparition de zombie
+OEUF D'APPARITION DE ZOMBIE
+OEUF D'APPARITION DE ZOMBIE MOMIFIE
+Oeuf d'apparition de zombie momifié
+oeuf d'apparition de zombie momifié
+Oeuf d'apparition de zombie-villageois
+oeuf d'apparition de zombie-villageois
+OEUF D'APPARITION DE ZOMBIE-VILLAGEOIS
+Oeuf dapparition
+oeuf dapparition
+OEUF DAPPARITION
+Oeuf dapparition dabeille
+oeuf dapparition dabeille
+OEUF DAPPARITION DABEILLE
+Oeuf dapparition dane
+oeuf dapparition dane
+OEUF DAPPARITION DANE
+OEUF DAPPARITION DARAIGNEE
+OEUF DAPPARITION DARAIGNEE VENIMEUSE
+Oeuf dapparition daraignée
+oeuf dapparition daraignée
+Oeuf dapparition daraignée venimeuse
+oeuf dapparition daraignée venimeuse
+Oeuf dapparition darpenteur
+oeuf dapparition darpenteur
+OEUF DAPPARITION DARPENTEUR
+Oeuf dapparition daxolotl
+oeuf dapparition daxolotl
+OEUF DAPPARITION DAXOLOTL
+Oeuf dapparition de Blaze
+oeuf dapparition de blaze
+OEUF DAPPARITION DE BLAZE
+Oeuf dapparition de champimeuh
+oeuf dapparition de champimeuh
+OEUF DAPPARITION DE CHAMPIMEUH
+Oeuf dapparition de chat
+oeuf dapparition de chat
+OEUF DAPPARITION DE CHAT
+Oeuf dapparition de chauve-souris
+oeuf dapparition de chauve-souris
+OEUF DAPPARITION DE CHAUVE-SOURIS
+Oeuf dapparition de chauvesouris
+oeuf dapparition de chauvesouris
+OEUF DAPPARITION DE CHAUVESOURIS
+Oeuf dapparition de cheval
+oeuf dapparition de cheval
+OEUF DAPPARITION DE CHEVAL
+Oeuf dapparition de cheval-squelette
+oeuf dapparition de cheval-squelette
+OEUF DAPPARITION DE CHEVAL-SQUELETTE
+Oeuf dapparition de cheval-zombie
+oeuf dapparition de cheval-zombie
+OEUF DAPPARITION DE CHEVAL-ZOMBIE
+Oeuf dapparition de chevalsquelette
+oeuf dapparition de chevalsquelette
+OEUF DAPPARITION DE CHEVALSQUELETTE
+Oeuf dapparition de chevalzombie
+oeuf dapparition de chevalzombie
+OEUF DAPPARITION DE CHEVALZOMBIE
+OEUF DAPPARITION DE CHEVRE
+Oeuf dapparition de chèvre
+oeuf dapparition de chèvre
+Oeuf dapparition de cochon
+oeuf dapparition de cochon
+OEUF DAPPARITION DE COCHON
+Oeuf dapparition de cochon-zombie
+oeuf dapparition de cochon-zombie
+OEUF DAPPARITION DE COCHON-ZOMBIE
+Oeuf dapparition de cochonzombie
+oeuf dapparition de cochonzombie
+OEUF DAPPARITION DE COCHONZOMBIE
+Oeuf dapparition de Creeper
+oeuf dapparition de creeper
+OEUF DAPPARITION DE CREEPER
+Oeuf dapparition de cube
+oeuf dapparition de cube
+OEUF DAPPARITION DE CUBE
+Oeuf dapparition de cube de magma
+oeuf dapparition de cube de magma
+OEUF DAPPARITION DE CUBE DE MAGMA
+Oeuf dapparition de dauphin
+oeuf dapparition de dauphin
+OEUF DAPPARITION DE DAUPHIN
+Oeuf dapparition de gardien
+oeuf dapparition de gardien
+OEUF DAPPARITION DE GARDIEN
+Oeuf dapparition de Ghast
+oeuf dapparition de ghast
+OEUF DAPPARITION DE GHAST
+Oeuf dapparition de grand
+oeuf dapparition de grand
+OEUF DAPPARITION DE GRAND
+Oeuf dapparition de grand gardien
+oeuf dapparition de grand gardien
+OEUF DAPPARITION DE GRAND GARDIEN
+Oeuf dapparition de Hoglin
+oeuf dapparition de hoglin
+OEUF DAPPARITION DE HOGLIN
+Oeuf dapparition de lama
+oeuf dapparition de lama
+OEUF DAPPARITION DE LAMA
+Oeuf dapparition de lama de marchand
+oeuf dapparition de lama de marchand
+OEUF DAPPARITION DE LAMA DE MARCHAND
+Oeuf dapparition de lapin
+oeuf dapparition de lapin
+OEUF DAPPARITION DE LAPIN
+Oeuf dapparition de loup
+oeuf dapparition de loup
+OEUF DAPPARITION DE LOUP
+Oeuf dapparition de marchand
+oeuf dapparition de marchand
+OEUF DAPPARITION DE MARCHAND
+Oeuf dapparition de marchand ambulant
+oeuf dapparition de marchand ambulant
+OEUF DAPPARITION DE MARCHAND AMBULANT
+Oeuf dapparition de morue
+oeuf dapparition de morue
+OEUF DAPPARITION DE MORUE
+Oeuf dapparition de mouton
+oeuf dapparition de mouton
+OEUF DAPPARITION DE MOUTON
+Oeuf dapparition de mule
+oeuf dapparition de mule
+OEUF DAPPARITION DE MULE
+OEUF DAPPARITION DE NOYE
+Oeuf dapparition de noyé
+oeuf dapparition de noyé
+Oeuf dapparition de panda
+oeuf dapparition de panda
+OEUF DAPPARITION DE PANDA
+Oeuf dapparition de perroquet
+oeuf dapparition de perroquet
+OEUF DAPPARITION DE PERROQUET
+Oeuf dapparition de Phantom
+oeuf dapparition de phantom
+OEUF DAPPARITION DE PHANTOM
+Oeuf dapparition de Piglin
+oeuf dapparition de piglin
+OEUF DAPPARITION DE PIGLIN
+Oeuf dapparition de Piglin barbare
+oeuf dapparition de piglin barbare
+OEUF DAPPARITION DE PIGLIN BARBARE
+OEUF DAPPARITION DE PIGLIN ZOMBIFIE
+Oeuf dapparition de Piglin zombifié
+oeuf dapparition de piglin zombifié
+Oeuf dapparition de pillard
+oeuf dapparition de pillard
+OEUF DAPPARITION DE PILLARD
+Oeuf dapparition de poisson
+oeuf dapparition de poisson
+OEUF DAPPARITION DE POISSON
+Oeuf dapparition de poisson dargent
+oeuf dapparition de poisson dargent
+OEUF DAPPARITION DE POISSON DARGENT
+Oeuf dapparition de poisson tropical
+oeuf dapparition de poisson tropical
+OEUF DAPPARITION DE POISSON TROPICAL
+Oeuf dapparition de poisson-globe
+oeuf dapparition de poisson-globe
+OEUF DAPPARITION DE POISSON-GLOBE
+Oeuf dapparition de poissonglobe
+oeuf dapparition de poissonglobe
+OEUF DAPPARITION DE POISSONGLOBE
+Oeuf dapparition de poule
+oeuf dapparition de poule
+OEUF DAPPARITION DE POULE
+Oeuf dapparition de poulpe
+oeuf dapparition de poulpe
+OEUF DAPPARITION DE POULPE
+Oeuf dapparition de poulpe luisant
+oeuf dapparition de poulpe luisant
+OEUF DAPPARITION DE POULPE LUISANT
+Oeuf dapparition de ravageur
+oeuf dapparition de ravageur
+OEUF DAPPARITION DE RAVAGEUR
+Oeuf dapparition de renard
+oeuf dapparition de renard
+OEUF DAPPARITION DE RENARD
+Oeuf dapparition de saumon
+oeuf dapparition de saumon
+OEUF DAPPARITION DE SAUMON
+Oeuf dapparition de Shulker
+oeuf dapparition de shulker
+OEUF DAPPARITION DE SHULKER
+Oeuf dapparition de Slime
+oeuf dapparition de slime
+OEUF DAPPARITION DE SLIME
+OEUF DAPPARITION DE SORCIERE
+Oeuf dapparition de sorcière
+oeuf dapparition de sorcière
+Oeuf dapparition de squelette
+oeuf dapparition de squelette
+OEUF DAPPARITION DE SQUELETTE
+Oeuf dapparition de tortue
+oeuf dapparition de tortue
+OEUF DAPPARITION DE TORTUE
+Oeuf dapparition de vache
+oeuf dapparition de vache
+OEUF DAPPARITION DE VACHE
+Oeuf dapparition de vagabond
+oeuf dapparition de vagabond
+OEUF DAPPARITION DE VAGABOND
+Oeuf dapparition de Vex
+oeuf dapparition de vex
+OEUF DAPPARITION DE VEX
+Oeuf dapparition de villageois
+oeuf dapparition de villageois
+OEUF DAPPARITION DE VILLAGEOIS
+Oeuf dapparition de vindicateur
+oeuf dapparition de vindicateur
+OEUF DAPPARITION DE VINDICATEUR
+Oeuf dapparition de Wither
+oeuf dapparition de wither
+OEUF DAPPARITION DE WITHER
+Oeuf dapparition de Wither squelette
+oeuf dapparition de wither squelette
+OEUF DAPPARITION DE WITHER SQUELETTE
+Oeuf dapparition de Zoglin
+oeuf dapparition de zoglin
+OEUF DAPPARITION DE ZOGLIN
+Oeuf dapparition de zombie
+oeuf dapparition de zombie
+OEUF DAPPARITION DE ZOMBIE
+OEUF DAPPARITION DE ZOMBIE MOMIFIE
+Oeuf dapparition de zombie momifié
+oeuf dapparition de zombie momifié
+Oeuf dapparition de zombie-villageois
+oeuf dapparition de zombie-villageois
+OEUF DAPPARITION DE ZOMBIE-VILLAGEOIS
+Oeuf dapparition de zombievillageois
+oeuf dapparition de zombievillageois
+OEUF DAPPARITION DE ZOMBIEVILLAGEOIS
+Oeuf dapparition dEnderman
+oeuf dapparition denderman
+OEUF DAPPARITION DENDERMAN
+Oeuf dapparition dEndermite
+oeuf dapparition dendermite
+OEUF DAPPARITION DENDERMITE
+OEUF DAPPARITION DEVOCATEUR
+Oeuf dapparition docelot
+oeuf dapparition docelot
+OEUF DAPPARITION DOCELOT
+Oeuf dapparition dours
+oeuf dapparition dours
+OEUF DAPPARITION DOURS
+Oeuf dapparition dours blanc
+oeuf dapparition dours blanc
+OEUF DAPPARITION DOURS BLANC
+Oeuf dapparition dévocateur
+oeuf dapparition dévocateur
+Oeufd'apparitiond'abeille
+oeufd'apparitiond'abeille
+OEUFD'APPARITIOND'ABEILLE
+Oeufd'apparitiond'ane
+oeufd'apparitiond'ane
+OEUFD'APPARITIOND'ANE
+OEUFD'APPARITIOND'ARAIGNEE
+OEUFD'APPARITIOND'ARAIGNEEVENIMEUSE
+Oeufd'apparitiond'araignée
+oeufd'apparitiond'araignée
+Oeufd'apparitiond'araignéevenimeuse
+oeufd'apparitiond'araignéevenimeuse
+Oeufd'apparitiond'arpenteur
+oeufd'apparitiond'arpenteur
+OEUFD'APPARITIOND'ARPENTEUR
+Oeufd'apparitiond'axolotl
+oeufd'apparitiond'axolotl
+OEUFD'APPARITIOND'AXOLOTL
+Oeufd'apparitiond'Enderman
+oeufd'apparitiond'enderman
+OEUFD'APPARITIOND'ENDERMAN
+Oeufd'apparitiond'Endermite
+oeufd'apparitiond'endermite
+OEUFD'APPARITIOND'ENDERMITE
+OEUFD'APPARITIOND'EVOCATEUR
+Oeufd'apparitiond'ocelot
+oeufd'apparitiond'ocelot
+OEUFD'APPARITIOND'OCELOT
+Oeufd'apparitiond'oursblanc
+oeufd'apparitiond'oursblanc
+OEUFD'APPARITIOND'OURSBLANC
+Oeufd'apparitiond'évocateur
+oeufd'apparitiond'évocateur
+Oeufd'apparitiondeBlaze
+oeufd'apparitiondeblaze
+OEUFD'APPARITIONDEBLAZE
+Oeufd'apparitiondechampimeuh
+oeufd'apparitiondechampimeuh
+OEUFD'APPARITIONDECHAMPIMEUH
+Oeufd'apparitiondechat
+oeufd'apparitiondechat
+OEUFD'APPARITIONDECHAT
+Oeufd'apparitiondechauve-souris
+oeufd'apparitiondechauve-souris
+OEUFD'APPARITIONDECHAUVE-SOURIS
+Oeufd'apparitiondecheval
+oeufd'apparitiondecheval
+OEUFD'APPARITIONDECHEVAL
+Oeufd'apparitiondecheval-squelette
+oeufd'apparitiondecheval-squelette
+OEUFD'APPARITIONDECHEVAL-SQUELETTE
+Oeufd'apparitiondecheval-zombie
+oeufd'apparitiondecheval-zombie
+OEUFD'APPARITIONDECHEVAL-ZOMBIE
+OEUFD'APPARITIONDECHEVRE
+Oeufd'apparitiondechèvre
+oeufd'apparitiondechèvre
+Oeufd'apparitiondecochon
+oeufd'apparitiondecochon
+OEUFD'APPARITIONDECOCHON
+Oeufd'apparitiondecochon-zombie
+oeufd'apparitiondecochon-zombie
+OEUFD'APPARITIONDECOCHON-ZOMBIE
+Oeufd'apparitiondeCreeper
+oeufd'apparitiondecreeper
+OEUFD'APPARITIONDECREEPER
+Oeufd'apparitiondecubedemagma
+oeufd'apparitiondecubedemagma
+OEUFD'APPARITIONDECUBEDEMAGMA
+Oeufd'apparitiondedauphin
+oeufd'apparitiondedauphin
+OEUFD'APPARITIONDEDAUPHIN
+Oeufd'apparitiondegardien
+oeufd'apparitiondegardien
+OEUFD'APPARITIONDEGARDIEN
+Oeufd'apparitiondeGhast
+oeufd'apparitiondeghast
+OEUFD'APPARITIONDEGHAST
+Oeufd'apparitiondegrandgardien
+oeufd'apparitiondegrandgardien
+OEUFD'APPARITIONDEGRANDGARDIEN
+Oeufd'apparitiondeHoglin
+oeufd'apparitiondehoglin
+OEUFD'APPARITIONDEHOGLIN
+Oeufd'apparitiondelama
+oeufd'apparitiondelama
+OEUFD'APPARITIONDELAMA
+Oeufd'apparitiondelamademarchand
+oeufd'apparitiondelamademarchand
+OEUFD'APPARITIONDELAMADEMARCHAND
+Oeufd'apparitiondelapin
+oeufd'apparitiondelapin
+OEUFD'APPARITIONDELAPIN
+Oeufd'apparitiondeloup
+oeufd'apparitiondeloup
+OEUFD'APPARITIONDELOUP
+Oeufd'apparitiondemarchandambulant
+oeufd'apparitiondemarchandambulant
+OEUFD'APPARITIONDEMARCHANDAMBULANT
+Oeufd'apparitiondemorue
+oeufd'apparitiondemorue
+OEUFD'APPARITIONDEMORUE
+Oeufd'apparitiondemouton
+oeufd'apparitiondemouton
+OEUFD'APPARITIONDEMOUTON
+Oeufd'apparitiondemule
+oeufd'apparitiondemule
+OEUFD'APPARITIONDEMULE
+OEUFD'APPARITIONDENOYE
+Oeufd'apparitiondenoyé
+oeufd'apparitiondenoyé
+Oeufd'apparitiondepanda
+oeufd'apparitiondepanda
+OEUFD'APPARITIONDEPANDA
+Oeufd'apparitiondeperroquet
+oeufd'apparitiondeperroquet
+OEUFD'APPARITIONDEPERROQUET
+Oeufd'apparitiondePhantom
+oeufd'apparitiondephantom
+OEUFD'APPARITIONDEPHANTOM
+Oeufd'apparitiondePiglin
+oeufd'apparitiondepiglin
+OEUFD'APPARITIONDEPIGLIN
+Oeufd'apparitiondePiglinbarbare
+oeufd'apparitiondepiglinbarbare
+OEUFD'APPARITIONDEPIGLINBARBARE
+OEUFD'APPARITIONDEPIGLINZOMBIFIE
+Oeufd'apparitiondePiglinzombifié
+oeufd'apparitiondepiglinzombifié
+Oeufd'apparitiondepillard
+oeufd'apparitiondepillard
+OEUFD'APPARITIONDEPILLARD
+Oeufd'apparitiondepoisson-globe
+oeufd'apparitiondepoisson-globe
+OEUFD'APPARITIONDEPOISSON-GLOBE
+Oeufd'apparitiondepoissond'argent
+oeufd'apparitiondepoissond'argent
+OEUFD'APPARITIONDEPOISSOND'ARGENT
+Oeufd'apparitiondepoissontropical
+oeufd'apparitiondepoissontropical
+OEUFD'APPARITIONDEPOISSONTROPICAL
+Oeufd'apparitiondepoule
+oeufd'apparitiondepoule
+OEUFD'APPARITIONDEPOULE
+Oeufd'apparitiondepoulpe
+oeufd'apparitiondepoulpe
+OEUFD'APPARITIONDEPOULPE
+Oeufd'apparitiondepoulpeluisant
+oeufd'apparitiondepoulpeluisant
+OEUFD'APPARITIONDEPOULPELUISANT
+Oeufd'apparitionderavageur
+oeufd'apparitionderavageur
+OEUFD'APPARITIONDERAVAGEUR
+Oeufd'apparitionderenard
+oeufd'apparitionderenard
+OEUFD'APPARITIONDERENARD
+Oeufd'apparitiondesaumon
+oeufd'apparitiondesaumon
+OEUFD'APPARITIONDESAUMON
+Oeufd'apparitiondeShulker
+oeufd'apparitiondeshulker
+OEUFD'APPARITIONDESHULKER
+Oeufd'apparitiondeSlime
+oeufd'apparitiondeslime
+OEUFD'APPARITIONDESLIME
+OEUFD'APPARITIONDESORCIERE
+Oeufd'apparitiondesorcière
+oeufd'apparitiondesorcière
+Oeufd'apparitiondesquelette
+oeufd'apparitiondesquelette
+OEUFD'APPARITIONDESQUELETTE
+Oeufd'apparitiondetortue
+oeufd'apparitiondetortue
+OEUFD'APPARITIONDETORTUE
+Oeufd'apparitiondevache
+oeufd'apparitiondevache
+OEUFD'APPARITIONDEVACHE
+Oeufd'apparitiondevagabond
+oeufd'apparitiondevagabond
+OEUFD'APPARITIONDEVAGABOND
+Oeufd'apparitiondeVex
+oeufd'apparitiondevex
+OEUFD'APPARITIONDEVEX
+Oeufd'apparitiondevillageois
+oeufd'apparitiondevillageois
+OEUFD'APPARITIONDEVILLAGEOIS
+Oeufd'apparitiondevindicateur
+oeufd'apparitiondevindicateur
+OEUFD'APPARITIONDEVINDICATEUR
+Oeufd'apparitiondeWithersquelette
+oeufd'apparitiondewithersquelette
+OEUFD'APPARITIONDEWITHERSQUELETTE
+Oeufd'apparitiondeZoglin
+oeufd'apparitiondezoglin
+OEUFD'APPARITIONDEZOGLIN
+Oeufd'apparitiondezombie
+oeufd'apparitiondezombie
+OEUFD'APPARITIONDEZOMBIE
+Oeufd'apparitiondezombie-villageois
+oeufd'apparitiondezombie-villageois
+OEUFD'APPARITIONDEZOMBIE-VILLAGEOIS
+OEUFD'APPARITIONDEZOMBIEMOMIFIE
+Oeufd'apparitiondezombiemomifié
+oeufd'apparitiondezombiemomifié
+Oeufdapparitiondabeille
+oeufdapparitiondabeille
+OEUFDAPPARITIONDABEILLE
+Oeufdapparitiondane
+oeufdapparitiondane
+OEUFDAPPARITIONDANE
+OEUFDAPPARITIONDARAIGNEE
+OEUFDAPPARITIONDARAIGNEEVENIMEUSE
+Oeufdapparitiondaraignée
+oeufdapparitiondaraignée
+Oeufdapparitiondaraignéevenimeuse
+oeufdapparitiondaraignéevenimeuse
+Oeufdapparitiondarpenteur
+oeufdapparitiondarpenteur
+OEUFDAPPARITIONDARPENTEUR
+Oeufdapparitiondaxolotl
+oeufdapparitiondaxolotl
+OEUFDAPPARITIONDAXOLOTL
+OeufdapparitiondeBlaze
+oeufdapparitiondeblaze
+OEUFDAPPARITIONDEBLAZE
+Oeufdapparitiondechampimeuh
+oeufdapparitiondechampimeuh
+OEUFDAPPARITIONDECHAMPIMEUH
+Oeufdapparitiondechat
+oeufdapparitiondechat
+OEUFDAPPARITIONDECHAT
+Oeufdapparitiondechauve-souris
+oeufdapparitiondechauve-souris
+OEUFDAPPARITIONDECHAUVE-SOURIS
+Oeufdapparitiondechauvesouris
+oeufdapparitiondechauvesouris
+OEUFDAPPARITIONDECHAUVESOURIS
+Oeufdapparitiondecheval
+oeufdapparitiondecheval
+OEUFDAPPARITIONDECHEVAL
+Oeufdapparitiondecheval-squelette
+oeufdapparitiondecheval-squelette
+OEUFDAPPARITIONDECHEVAL-SQUELETTE
+Oeufdapparitiondecheval-zombie
+oeufdapparitiondecheval-zombie
+OEUFDAPPARITIONDECHEVAL-ZOMBIE
+Oeufdapparitiondechevalsquelette
+oeufdapparitiondechevalsquelette
+OEUFDAPPARITIONDECHEVALSQUELETTE
+Oeufdapparitiondechevalzombie
+oeufdapparitiondechevalzombie
+OEUFDAPPARITIONDECHEVALZOMBIE
+OEUFDAPPARITIONDECHEVRE
+Oeufdapparitiondechèvre
+oeufdapparitiondechèvre
+Oeufdapparitiondecochon
+oeufdapparitiondecochon
+OEUFDAPPARITIONDECOCHON
+Oeufdapparitiondecochon-zombie
+oeufdapparitiondecochon-zombie
+OEUFDAPPARITIONDECOCHON-ZOMBIE
+Oeufdapparitiondecochonzombie
+oeufdapparitiondecochonzombie
+OEUFDAPPARITIONDECOCHONZOMBIE
+OeufdapparitiondeCreeper
+oeufdapparitiondecreeper
+OEUFDAPPARITIONDECREEPER
+Oeufdapparitiondecubedemagma
+oeufdapparitiondecubedemagma
+OEUFDAPPARITIONDECUBEDEMAGMA
+Oeufdapparitiondedauphin
+oeufdapparitiondedauphin
+OEUFDAPPARITIONDEDAUPHIN
+Oeufdapparitiondegardien
+oeufdapparitiondegardien
+OEUFDAPPARITIONDEGARDIEN
+OeufdapparitiondeGhast
+oeufdapparitiondeghast
+OEUFDAPPARITIONDEGHAST
+Oeufdapparitiondegrandgardien
+oeufdapparitiondegrandgardien
+OEUFDAPPARITIONDEGRANDGARDIEN
+OeufdapparitiondeHoglin
+oeufdapparitiondehoglin
+OEUFDAPPARITIONDEHOGLIN
+Oeufdapparitiondelama
+oeufdapparitiondelama
+OEUFDAPPARITIONDELAMA
+Oeufdapparitiondelamademarchand
+oeufdapparitiondelamademarchand
+OEUFDAPPARITIONDELAMADEMARCHAND
+Oeufdapparitiondelapin
+oeufdapparitiondelapin
+OEUFDAPPARITIONDELAPIN
+Oeufdapparitiondeloup
+oeufdapparitiondeloup
+OEUFDAPPARITIONDELOUP
+Oeufdapparitiondemarchandambulant
+oeufdapparitiondemarchandambulant
+OEUFDAPPARITIONDEMARCHANDAMBULANT
+Oeufdapparitiondemorue
+oeufdapparitiondemorue
+OEUFDAPPARITIONDEMORUE
+Oeufdapparitiondemouton
+oeufdapparitiondemouton
+OEUFDAPPARITIONDEMOUTON
+Oeufdapparitiondemule
+oeufdapparitiondemule
+OEUFDAPPARITIONDEMULE
+OeufdapparitiondEnderman
+oeufdapparitiondenderman
+OEUFDAPPARITIONDENDERMAN
+OeufdapparitiondEndermite
+oeufdapparitiondendermite
+OEUFDAPPARITIONDENDERMITE
+OEUFDAPPARITIONDENOYE
+Oeufdapparitiondenoyé
+oeufdapparitiondenoyé
+Oeufdapparitiondepanda
+oeufdapparitiondepanda
+OEUFDAPPARITIONDEPANDA
+Oeufdapparitiondeperroquet
+oeufdapparitiondeperroquet
+OEUFDAPPARITIONDEPERROQUET
+OeufdapparitiondePhantom
+oeufdapparitiondephantom
+OEUFDAPPARITIONDEPHANTOM
+OeufdapparitiondePiglin
+oeufdapparitiondepiglin
+OEUFDAPPARITIONDEPIGLIN
+OeufdapparitiondePiglinbarbare
+oeufdapparitiondepiglinbarbare
+OEUFDAPPARITIONDEPIGLINBARBARE
+OEUFDAPPARITIONDEPIGLINZOMBIFIE
+OeufdapparitiondePiglinzombifié
+oeufdapparitiondepiglinzombifié
+Oeufdapparitiondepillard
+oeufdapparitiondepillard
+OEUFDAPPARITIONDEPILLARD
+Oeufdapparitiondepoisson-globe
+oeufdapparitiondepoisson-globe
+OEUFDAPPARITIONDEPOISSON-GLOBE
+Oeufdapparitiondepoissondargent
+oeufdapparitiondepoissondargent
+OEUFDAPPARITIONDEPOISSONDARGENT
+Oeufdapparitiondepoissonglobe
+oeufdapparitiondepoissonglobe
+OEUFDAPPARITIONDEPOISSONGLOBE
+Oeufdapparitiondepoissontropical
+oeufdapparitiondepoissontropical
+OEUFDAPPARITIONDEPOISSONTROPICAL
+Oeufdapparitiondepoule
+oeufdapparitiondepoule
+OEUFDAPPARITIONDEPOULE
+Oeufdapparitiondepoulpe
+oeufdapparitiondepoulpe
+OEUFDAPPARITIONDEPOULPE
+Oeufdapparitiondepoulpeluisant
+oeufdapparitiondepoulpeluisant
+OEUFDAPPARITIONDEPOULPELUISANT
+Oeufdapparitionderavageur
+oeufdapparitionderavageur
+OEUFDAPPARITIONDERAVAGEUR
+Oeufdapparitionderenard
+oeufdapparitionderenard
+OEUFDAPPARITIONDERENARD
+Oeufdapparitiondesaumon
+oeufdapparitiondesaumon
+OEUFDAPPARITIONDESAUMON
+OeufdapparitiondeShulker
+oeufdapparitiondeshulker
+OEUFDAPPARITIONDESHULKER
+OeufdapparitiondeSlime
+oeufdapparitiondeslime
+OEUFDAPPARITIONDESLIME
+OEUFDAPPARITIONDESORCIERE
+Oeufdapparitiondesorcière
+oeufdapparitiondesorcière
+Oeufdapparitiondesquelette
+oeufdapparitiondesquelette
+OEUFDAPPARITIONDESQUELETTE
+Oeufdapparitiondetortue
+oeufdapparitiondetortue
+OEUFDAPPARITIONDETORTUE
+Oeufdapparitiondevache
+oeufdapparitiondevache
+OEUFDAPPARITIONDEVACHE
+Oeufdapparitiondevagabond
+oeufdapparitiondevagabond
+OEUFDAPPARITIONDEVAGABOND
+OeufdapparitiondeVex
+oeufdapparitiondevex
+OEUFDAPPARITIONDEVEX
+Oeufdapparitiondevillageois
+oeufdapparitiondevillageois
+OEUFDAPPARITIONDEVILLAGEOIS
+Oeufdapparitiondevindicateur
+oeufdapparitiondevindicateur
+OEUFDAPPARITIONDEVINDICATEUR
+OEUFDAPPARITIONDEVOCATEUR
+OeufdapparitiondeWithersquelette
+oeufdapparitiondewithersquelette
+OEUFDAPPARITIONDEWITHERSQUELETTE
+OeufdapparitiondeZoglin
+oeufdapparitiondezoglin
+OEUFDAPPARITIONDEZOGLIN
+Oeufdapparitiondezombie
+oeufdapparitiondezombie
+OEUFDAPPARITIONDEZOMBIE
+Oeufdapparitiondezombie-villageois
+oeufdapparitiondezombie-villageois
+OEUFDAPPARITIONDEZOMBIE-VILLAGEOIS
+OEUFDAPPARITIONDEZOMBIEMOMIFIE
+Oeufdapparitiondezombiemomifié
+oeufdapparitiondezombiemomifié
+Oeufdapparitiondezombievillageois
+oeufdapparitiondezombievillageois
+OEUFDAPPARITIONDEZOMBIEVILLAGEOIS
+Oeufdapparitiondocelot
+oeufdapparitiondocelot
+OEUFDAPPARITIONDOCELOT
+Oeufdapparitiondoursblanc
+oeufdapparitiondoursblanc
+OEUFDAPPARITIONDOURSBLANC
+Oeufdapparitiondévocateur
+oeufdapparitiondévocateur
+Oeufs
+oeufs
+OEUFS
+Oeufs de spawn
+oeufs de spawn
+OEUFS DE SPAWN
+Oeufsdespawn
+oeufsdespawn
+OEUFSDESPAWN
 of
 OF
 Off
@@ -28443,9 +33005,36 @@ opélie
 or
 Or
 OR
+Or brut
+or brut
+OR BRUT
+Orange
+orange
+ORANGE
+Orange Banner
+orange banner
+ORANGE BANNER
+Orange Bed
+orange bed
+ORANGE BED
+Orange Dye
+orange dye
+ORANGE DYE
+OrangeBanner
+orangebanner
+ORANGEBANNER
+OrangeBed
+orangebed
+ORANGEBED
+OrangeDye
+orangedye
+ORANGEDYE
 Orbot
 ORBOT
 orbot
+Orbrut
+orbrut
+ORBRUT
 Orco
 ORCO
 orco
@@ -28521,6 +33110,9 @@ ortmeyer
 Orunitia
 ORUNITIA
 orunitia
+Os
+os
+OS
 Oscar
 OSCAR
 oscar
@@ -28611,6 +33203,9 @@ OUT!!
 Outcast
 outcast
 OUTCAST
+Outils
+outils
+OUTILS
 Outlast
 outlast
 OUTLAST
@@ -28799,6 +33394,9 @@ paige harris
 PaigeHarris
 PAIGEHARRIS
 paigeharris
+Pain
+pain
+PAIN
 Paine
 PAINE
 paine
@@ -28811,6 +33409,9 @@ paint roller
 Paint Roller Paint Roller
 PAINT ROLLER PAINT ROLLER
 paint roller paint roller
+Painting
+painting
+PAINTING
 PaintRoller
 PAINTROLLER
 paintroller
@@ -28874,9 +33475,29 @@ PALUTENA
 Pamela
 PAMELA
 pamela
+Pancarte
+pancarte
+PANCARTE
+Pancarte en chene
+pancarte en chene
+PANCARTE EN CHENE
+Pancarteenchene
+pancarteenchene
+PANCARTEENCHENE
 Panda
 PANDA
 panda
+Panda Spawn
+panda spawn
+PANDA SPAWN
+Panda Spawn Egg
+panda spawn egg
+PANDA SPAWN EGG
+panda_spawn_egg
+PANDA_SPAWN_EGG
+PandaSpawnEgg
+pandaspawnegg
+PANDASPAWNEGG
 Pang
 pang
 PANG
@@ -28889,6 +33510,15 @@ panser
 Pansy
 PANSY
 pansy
+Pantalon
+pantalon
+PANTALON
+Pantalon en cuir
+pantalon en cuir
+PANTALON EN CUIR
+Pantalonencuir
+pantalonencuir
+PANTALONENCUIR
 Panthers
 panthers
 PANTHERS
@@ -28982,6 +33612,9 @@ PAPERMARIO&THETHOUSANDYEARSDOOR
 PaperMarioTheThousandYearsDoor
 papermariothethousandyearsdoor
 PAPERMARIOTHETHOUSANDYEARSDOOR
+Papier
+papier
+PAPIER
 Papu
 PAPU
 papu
@@ -29108,6 +33741,18 @@ ParodiusDa!
 ParodiusDA!
 parodiusda!
 PARODIUSDA!
+Parrot
+parrot
+PARROT
+Parrot Spawn
+parrot spawn
+PARROT SPAWN
+Parrot Spawn Egg
+parrot spawn egg
+PARROT SPAWN EGG
+ParrotSpawnEgg
+parrotspawnegg
+PARROTSPAWNEGG
 Parry
 PARRY
 parry
@@ -29179,6 +33824,8 @@ passos
 past
 Past
 PAST
+PASTEQUE
+pastèque
 Pata
 PATA
 pata
@@ -29227,6 +33874,18 @@ patrickpatrick
 Patrol
 patrol
 PATROL
+Patte
+patte
+PATTE
+Patte de lapin
+patte de lapin
+PATTE DE LAPIN
+Pattedelapin
+pattedelapin
+PATTEDELAPIN
+Pattern
+pattern
+PATTERN
 Patty
 PATTY
 patty
@@ -29346,12 +34005,23 @@ pearlfey
 PearlPorter
 PEARLPORTER
 pearlporter
+Peau
+peau
+PEAU
+Peau de lapin
+peau de lapin
+PEAU DE LAPIN
+Peaudelapin
+peaudelapin
+PEAUDELAPIN
 Pec
 PEC
 pec
 Pecan
 PECAN
 pecan
+PECHE
+peche
 Pecheur
 PECHEUR
 pecheur
@@ -29388,6 +34058,45 @@ pegorino
 Peinture
 PEINTURE
 peinture
+Pelle
+pelle
+PELLE
+Pelle en bois
+pelle en bois
+PELLE EN BOIS
+Pelle en diamant
+pelle en diamant
+PELLE EN DIAMANT
+Pelle en fer
+pelle en fer
+PELLE EN FER
+Pelle en Netherite
+pelle en netherite
+PELLE EN NETHERITE
+Pelle en or
+pelle en or
+PELLE EN OR
+Pelle en pierre
+pelle en pierre
+PELLE EN PIERRE
+Pelleenbois
+pelleenbois
+PELLEENBOIS
+Pelleendiamant
+pelleendiamant
+PELLEENDIAMANT
+Pelleenfer
+pelleenfer
+PELLEENFER
+PelleenNetherite
+pelleennetherite
+PELLEENNETHERITE
+Pelleenor
+pelleenor
+PELLEENOR
+Pelleenpierre
+pelleenpierre
+PELLEENPIERRE
 Peloo
 PELOO
 peloo
@@ -29469,6 +34178,13 @@ pepinleguérisseur
 PepintheHealer
 PEPINTHEHEALER
 pepinthehealer
+PEPITE
+PEPITE D'OR
+PEPITE DE FER
+PEPITE DOR
+PEPITED'OR
+PEPITEDEFER
+PEPITEDOR
 Pepper
 pepper
 PEPPER
@@ -29546,6 +34262,18 @@ perlanneperlanne
 Perle
 PERLE
 perle
+Perle de l'Ender
+perle de l'ender
+PERLE DE L'ENDER
+Perle de lEnder
+perle de lender
+PERLE DE LENDER
+Perledel'Ender
+perledel'ender
+PERLEDEL'ENDER
+PerledelEnder
+perledelender
+PERLEDELENDER
 Perot
 PEROT
 perot
@@ -29562,6 +34290,8 @@ Persia
 PERSIA
 persia:
 PERSIA:
+persistante
+PERSISTANTE
 persona
 Persona
 PERSONA
@@ -29670,6 +34400,28 @@ PHANTASYSTARONLINE
 Phanto
 PHANTO
 phanto
+Phantom
+phantom
+PHANTOM
+Phantom Membrane
+phantom membrane
+PHANTOM MEMBRANE
+Phantom Spawn
+phantom spawn
+PHANTOM SPAWN
+Phantom Spawn Egg
+phantom spawn egg
+PHANTOM SPAWN EGG
+phantom_membrane
+PHANTOM_MEMBRANE
+phantom_spawn_egg
+PHANTOM_SPAWN_EGG
+PhantomMembrane
+phantommembrane
+PHANTOMMEMBRANE
+PhantomSpawnEgg
+phantomspawnegg
+PHANTOMSPAWNEGG
 Pharah
 PHARAH
 pharah
@@ -29759,6 +34511,9 @@ pichikuripichikuri
 Pichu
 pichu
 PICHU
+Pickaxe
+pickaxe
+PICKAXE
 Pico
 PICO
 pico
@@ -29795,6 +34550,9 @@ PICROSSS
 Pidgit
 PIDGIT
 pidgit
+Pie
+pie
+PIE
 Piece
 piece
 PIECE
@@ -29842,9 +34600,59 @@ PIEUVRE
 Pig
 PIG
 pig
+Pig Spawn
+pig spawn
+PIG SPAWN
+Pig Spawn Egg
+pig spawn egg
+PIG SPAWN EGG
+piglin
+PIGLIN
+Piglin
+piglin banner
+PIGLIN BANNER
+piglin banner pattern
+PIGLIN BANNER PATTERN
+Piglin Brute
+piglin brute
+PIGLIN BRUTE
+Piglin Brute Spawn
+piglin brute spawn
+PIGLIN BRUTE SPAWN
+Piglin Brute Spawn Egg
+piglin brute spawn egg
+PIGLIN BRUTE SPAWN EGG
+Piglin Spawn
+piglin spawn
+PIGLIN SPAWN
+Piglin Spawn Egg
+piglin spawn egg
+PIGLIN SPAWN EGG
+piglin_banner_pattern
+PIGLIN_BANNER_PATTERN
+piglin_brute_spawn_egg
+PIGLIN_BRUTE_SPAWN_EGG
+piglin_spawn_egg
+PIGLIN_SPAWN_EGG
+piglinbannerpattern
+PIGLINBANNERPATTERN
+PiglinBruteSpawnEgg
+piglinbrutespawnegg
+PIGLINBRUTESPAWNEGG
+PiglinSpawnEgg
+piglinspawnegg
+PIGLINSPAWNEGG
+Pigman
+pigman
+PIGMAN
 Pigmento
 PIGMENTO
 pigmento
+PigSpawnEgg
+pigspawnegg
+PIGSPAWNEGG
+pigstep
+PIGSTEP
 Pikachu
 pikachu
 PIKACHU
@@ -29959,6 +34767,22 @@ pile et face
 PileetFace
 PILEETFACE
 pileetface
+Pillager
+pillager
+PILLAGER
+Pillager Spawn
+pillager spawn
+PILLAGER SPAWN
+Pillager Spawn Egg
+pillager spawn egg
+PILLAGER SPAWN EGG
+pillager_spawn_egg
+PILLAGER_SPAWN_EGG
+PillagerSpawnEgg
+pillagerspawnegg
+PILLAGERSPAWNEGG
+pillard
+PILLARD
 Pilot
 pilot
 PILOT
@@ -29992,6 +34816,27 @@ pinglisse
 Pingouin
 PINGOUIN
 pingouin
+Pink
+pink
+PINK
+Pink Banner
+pink banner
+PINK BANNER
+Pink Bed
+pink bed
+PINK BED
+Pink Dye
+pink dye
+PINK DYE
+PinkBanner
+pinkbanner
+PINKBANNER
+PinkBed
+pinkbed
+PINKBED
+PinkDye
+pinkdye
+PINKDYE
 Pinstripe
 PINSTRIPE
 pinstripe
@@ -30001,6 +34846,45 @@ pinstripe potoroo
 PinstripePotoroo
 PINSTRIPEPOTOROO
 pinstripepotoroo
+Pioche
+pioche
+PIOCHE
+Pioche en bois
+pioche en bois
+PIOCHE EN BOIS
+Pioche en diamant
+pioche en diamant
+PIOCHE EN DIAMANT
+Pioche en fer
+pioche en fer
+PIOCHE EN FER
+Pioche en Netherite
+pioche en netherite
+PIOCHE EN NETHERITE
+Pioche en or
+pioche en or
+PIOCHE EN OR
+Pioche en pierre
+pioche en pierre
+PIOCHE EN PIERRE
+Piocheenbois
+piocheenbois
+PIOCHEENBOIS
+Piocheendiamant
+piocheendiamant
+PIOCHEENDIAMANT
+Piocheenfer
+piocheenfer
+PIOCHEENFER
+PiocheenNetherite
+piocheennetherite
+PIOCHEENNETHERITE
+Piocheenor
+piocheenor
+PIOCHEENOR
+Piocheenpierre
+piocheenpierre
+PIOCHEENPIERRE
 Pionpi
 PIONPI
 pionpi
@@ -30128,6 +35012,21 @@ PLANTE PIRANHA
 PlantePiranha
 plantepiranha
 PLANTEPIRANHA
+PLANTES
+Plantes
+plantes
+PLANTES ET
+Plantes et
+plantes et
+PLANTES ET AUTRES
+Plantes et autres
+plantes et autres
+PLANTES ET AUTRES VEGETAUX
+Plantes et autres végétaux
+plantes et autres végétaux
+PLANTESETAUTRESVEGETAUX
+Plantesetautresvégétaux
+plantesetautresvégétaux
 Plantule
 PLANTULE
 plantule
@@ -30146,6 +35045,33 @@ plasmawisp
 PlasmaWispPlasmaWisp
 PLASMAWISPPLASMAWISP
 plasmawispplasmawisp
+Plastron
+plastron
+PLASTRON
+Plastron en diamant
+plastron en diamant
+PLASTRON EN DIAMANT
+Plastron en fer
+plastron en fer
+PLASTRON EN FER
+Plastron en Netherite
+plastron en netherite
+PLASTRON EN NETHERITE
+Plastron en or
+plastron en or
+PLASTRON EN OR
+Plastronendiamant
+plastronendiamant
+PLASTRONENDIAMANT
+Plastronenfer
+plastronenfer
+PLASTRONENFER
+PlastronenNetherite
+plastronennetherite
+PLASTRONENNETHERITE
+Plastronenor
+plastronenor
+PLASTRONENOR
 Platoon
 platoon
 PLATOON
@@ -30161,6 +35087,15 @@ playboy x
 PlayboyX
 PLAYBOYX
 playboyx
+Player
+player
+PLAYER
+Player Head
+player head
+PLAYER HEAD
+PlayerHead
+playerhead
+PLAYERHEAD
 Playstation
 playstation
 PLAYSTATION
@@ -30187,6 +35122,7 @@ PLUIDPLUID
 pluidpluid
 plume
 PLUME
+Plume
 Plumo
 plumo
 PLUMO
@@ -30196,6 +35132,33 @@ plumy
 Plungelo
 PLUNGELO
 plungelo
+Poche
+poche
+POCHE
+Poche d'encre
+poche d'encre
+POCHE D'ENCRE
+Poche d'encre luisante
+poche d'encre luisante
+POCHE D'ENCRE LUISANTE
+Poche dencre
+poche dencre
+POCHE DENCRE
+Poche dencre luisante
+poche dencre luisante
+POCHE DENCRE LUISANTE
+Poched'encre
+poched'encre
+POCHED'ENCRE
+Poched'encreluisante
+poched'encreluisante
+POCHED'ENCRELUISANTE
+Pochedencre
+pochedencre
+POCHEDENCRE
+Pochedencreluisante
+pochedencreluisante
+POCHEDENCRELUISANTE
 Pocket
 pocket
 POCKET
@@ -30271,8 +35234,39 @@ poisonmash
 PoisonMashPoisonMash
 POISONMASHPOISONMASH
 poisonmashpoisonmash
+Poisonous
+poisonous
+POISONOUS
+Poisonous Potato
+poisonous potato
+POISONOUS POTATO
+PoisonousPotato
+poisonouspotato
+POISONOUSPOTATO
 poisson
 POISSON
+Poisson
+Poisson tropical
+poisson tropical
+POISSON TROPICAL
+Poisson tropical dans
+poisson tropical dans
+POISSON TROPICAL DANS
+Poisson tropical dans un seau
+poisson tropical dans un seau
+POISSON TROPICAL DANS UN SEAU
+Poisson-globe
+poisson-globe
+POISSON-GLOBE
+Poisson-globe dans
+poisson-globe dans
+POISSON-GLOBE DANS
+Poisson-globe dans un seau
+poisson-globe dans un seau
+POISSON-GLOBE DANS UN SEAU
+Poisson-globedansunseau
+poisson-globedansunseau
+POISSON-GLOBEDANSUNSEAU
 Poisson-Herisson
 POISSON-HERISSON
 poisson-herisson
@@ -30284,6 +35278,18 @@ POISSON-PECHEUR
 Poisson-Reve
 POISSON-REVE
 poisson-reve
+Poissonglobe
+poissonglobe
+POISSONGLOBE
+Poissonglobe dans
+poissonglobe dans
+POISSONGLOBE DANS
+Poissonglobe dans un seau
+poissonglobe dans un seau
+POISSONGLOBE DANS UN SEAU
+Poissonglobedansunseau
+poissonglobedansunseau
+POISSONGLOBEDANSUNSEAU
 PoissonHerisson
 POISSONHERISSON
 poissonherisson
@@ -30295,6 +35301,12 @@ POISSONPECHEUR
 PoissonReve
 POISSONREVE
 poissonreve
+Poissontropical
+poissontropical
+POISSONTROPICAL
+Poissontropicaldansunseau
+poissontropicaldansunseau
+POISSONTROPICALDANSUNSEAU
 Poivrot
 POIVROT
 poivrot
@@ -30343,6 +35355,18 @@ POKÉMONREDANDBLUE
 Polar
 POLAR
 polar
+Polar Bear
+polar bear
+POLAR BEAR
+Polar Bear Spawn
+polar bear spawn
+POLAR BEAR SPAWN
+Polar Bear Spawn Egg
+polar bear spawn egg
+POLAR BEAR SPAWN EGG
+PolarBearSpawnEgg
+polarbearspawnegg
+POLARBEARSPAWNEGG
 Pole
 pole
 POLE
@@ -30403,6 +35427,39 @@ polokus
 Polta
 POLTA
 polta
+Pomme
+pomme
+POMME
+Pomme de terre
+pomme de terre
+POMME DE TERRE
+Pomme de terre cuite
+pomme de terre cuite
+POMME DE TERRE CUITE
+POMME DE TERRE EMPOISONNEE
+Pomme de terre empoisonnée
+pomme de terre empoisonnée
+POMME DOREE
+POMME DOREE ENCHANTEE
+Pomme dorée
+pomme dorée
+Pomme dorée enchantée
+pomme dorée enchantée
+Pommedeterre
+pommedeterre
+POMMEDETERRE
+Pommedeterrecuite
+pommedeterrecuite
+POMMEDETERRECUITE
+POMMEDETERREEMPOISONNEE
+Pommedeterreempoisonnée
+pommedeterreempoisonnée
+POMMEDOREE
+POMMEDOREEENCHANTEE
+Pommedorée
+pommedorée
+Pommedoréeenchantée
+pommedoréeenchantée
 Pompey
 POMPEY
 pompey
@@ -30508,6 +35565,18 @@ popon popon
 PoponPopon
 POPONPOPON
 poponpopon
+Popped
+popped
+POPPED
+Popped Chorus
+popped chorus
+POPPED CHORUS
+Popped Chorus Fruit
+popped chorus fruit
+POPPED CHORUS FRUIT
+PoppedChorusFruit
+poppedchorusfruit
+POPPEDCHORUSFRUIT
 Poppo
 POPPO
 poppo
@@ -30520,12 +35589,17 @@ POPULOUS
 Poquette
 POQUETTE
 poquette
+porc
+PORC
 Porcella
 PORCELLA
 porcella
 Porcupo
 PORCUPO
 porcupo
+Porkchop
+porkchop
+PORKCHOP
 Porken
 PORKEN
 porken
@@ -30536,6 +35610,57 @@ portal 2
 PORTAL 2
 portal2
 PORTAL2
+Porte
+porte
+PORTE
+Porte en acacia
+porte en acacia
+PORTE EN ACACIA
+Porte en acajou
+porte en acajou
+PORTE EN ACAJOU
+Porte en bouleau
+porte en bouleau
+PORTE EN BOULEAU
+Porte en chene
+porte en chene
+PORTE EN CHENE
+Porte en chene noir
+porte en chene noir
+PORTE EN CHENE NOIR
+Porte en fer
+porte en fer
+PORTE EN FER
+Porte en sapin
+porte en sapin
+PORTE EN SAPIN
+Porte-armure
+porte-armure
+PORTE-ARMURE
+Portearmure
+portearmure
+PORTEARMURE
+Porteenacacia
+porteenacacia
+PORTEENACACIA
+Porteenacajou
+porteenacajou
+PORTEENACAJOU
+Porteenbouleau
+porteenbouleau
+PORTEENBOULEAU
+Porteenchene
+porteenchene
+PORTEENCHENE
+Porteenchenenoir
+porteenchenenoir
+PORTEENCHENENOIR
+Porteenfer
+porteenfer
+PORTEENFER
+Porteensapin
+porteensapin
+PORTEENSAPIN
 Porter
 PORTER
 porter
@@ -30545,9 +35670,36 @@ POSITION
 Postal
 postal
 POSTAL
+Pot
+pot
+POT
+Pot de fleurs
+pot de fleurs
+POT DE FLEURS
 Potama
 POTAMA
 potama
+Potato
+potato
+POTATO
+Potdefleurs
+potdefleurs
+POTDEFLEURS
+Potion
+potion
+POTION
+Potion jetable
+potion jetable
+POTION JETABLE
+Potion persistante
+potion persistante
+POTION PERSISTANTE
+Potionjetable
+potionjetable
+POTIONJETABLE
+Potionpersistante
+potionpersistante
+POTIONPERSISTANTE
 Potoroo
 POTOROO
 potoroo
@@ -30557,18 +35709,77 @@ POUCE-POUCE
 PoucePouce
 poucepouce
 POUCEPOUCE
+Poudre
+poudre
+POUDRE
+POUDRE A CANON
+Poudre d'os
+poudre d'os
+POUDRE D'OS
+Poudre de Blaze
+poudre de blaze
+POUDRE DE BLAZE
+Poudre de redstone
+poudre de redstone
+POUDRE DE REDSTONE
+Poudre dos
+poudre dos
+POUDRE DOS
+Poudre lumineuse
+poudre lumineuse
+POUDRE LUMINEUSE
+Poudre à
+poudre à
+Poudre à canon
+poudre à canon
+POUDREACANON
+Poudred'os
+poudred'os
+POUDRED'OS
+PoudredeBlaze
+poudredeblaze
+POUDREDEBLAZE
+Poudrederedstone
+poudrederedstone
+POUDREDEREDSTONE
+Poudredos
+poudredos
+POUDREDOS
+Poudrelumineuse
+poudrelumineuse
+POUDRELUMINEUSE
+poudreuse
+POUDREUSE
+Poudreàcanon
+poudreàcanon
 Poulba
 POULBA
 poulba
+poule
+POULE
 Poulet
 POULET
 poulet
+Poulet cru
+poulet cru
+POULET CRU
+Poulet roti
+poulet roti
+POULET ROTI
+Pouletcru
+pouletcru
+POULETCRU
+Pouletroti
+pouletroti
+POULETROTI
 Poulette
 POULETTE
 poulette
 Pouli
 POULI
 pouli
+poulpe
+POULPE
 Poum
 POUM
 poum
@@ -30578,12 +35789,28 @@ poum poum
 PoumPoum
 POUMPOUM
 poumpoum
+pour
+POUR
 Pouss'Pot
 POUSS'POT
 pouss'pot
 PoussPot
 POUSSPOT
 pousspot
+Powder
+powder
+POWDER
+Powder Snow
+powder snow
+POWDER SNOW
+Powder Snow Bucket
+powder snow bucket
+POWDER SNOW BUCKET
+powder_snow_bucket
+POWDER_SNOW_BUCKET
+PowderSnowBucket
+powdersnowbucket
+POWDERSNOWBUCKET
 Power
 power
 POWER
@@ -30788,6 +36015,21 @@ PRINCIA
 princia
 principaux
 PRINCIPAUX
+Prismarine
+prismarine
+PRISMARINE
+Prismarine Crystals
+prismarine crystals
+PRISMARINE CRYSTALS
+Prismarine Shard
+prismarine shard
+PRISMARINE SHARD
+PrismarineCrystals
+prismarinecrystals
+PRISMARINECRYSTALS
+PrismarineShard
+prismarineshard
+PRISMARINESHARD
 Prix
 prix
 PRIX
@@ -31144,6 +36386,26 @@ PTO:PACIFICTHEATEROFOPERATIONS
 PTOPacificTheaterofOperations
 ptopacifictheaterofoperations
 PTOPACIFICTHEATEROFOPERATIONS
+Pufferfish
+pufferfish
+PUFFERFISH
+pufferfish bucket
+PUFFERFISH BUCKET
+Pufferfish Spawn
+pufferfish spawn
+PUFFERFISH SPAWN
+Pufferfish Spawn Egg
+pufferfish spawn egg
+PUFFERFISH SPAWN EGG
+pufferfish_bucket
+PUFFERFISH_BUCKET
+pufferfish_spawn_egg
+PUFFERFISH_SPAWN_EGG
+pufferfishbucket
+PUFFERFISHBUCKET
+PufferfishSpawnEgg
+pufferfishspawnegg
+PUFFERFISHSPAWNEGG
 Puffy
 PUFFY
 puffy
@@ -31189,6 +36451,21 @@ PUMPIT
 PumpItUp
 pumpitup
 PUMPITUP
+Pumpkin
+pumpkin
+PUMPKIN
+Pumpkin Pie
+pumpkin pie
+PUMPKIN PIE
+Pumpkin Seeds
+pumpkin seeds
+PUMPKIN SEEDS
+PumpkinPie
+pumpkinpie
+PUMPKINPIE
+PumpkinSeeds
+pumpkinseeds
+PUMPKINSEEDS
 Punc
 PUNC
 punc
@@ -31249,6 +36526,29 @@ purayah
 Purna
 PURNA
 purna
+Purple
+purple
+PURPLE
+Purple Banner
+purple banner
+PURPLE BANNER
+Purple Bed
+purple bed
+PURPLE BED
+Purple Dye
+purple dye
+PURPLE DYE
+PurpleBanner
+purplebanner
+PURPLEBANNER
+PurpleBed
+purplebed
+PURPLEBED
+PurpleDye
+purpledye
+PURPLEDYE
+PUTREFIEE
+putréfiée
 Putt
 PUTT
 putt
@@ -31341,6 +36641,20 @@ pèrevittorio
 Pécan
 PÉCAN
 pécan
+Pépite
+pépite
+Pépite d'or
+pépite d'or
+Pépite de fer
+pépite de fer
+Pépite dor
+pépite dor
+Pépited'or
+pépited'or
+Pépitedefer
+pépitedefer
+Pépitedor
+pépitedor
 Pêcheur
 PÊCHEUR
 pêcheur
@@ -31453,6 +36767,15 @@ quantum
 Quarterback
 quarterback
 QUARTERBACK
+Quartz
+quartz
+QUARTZ
+Quartz du Nether
+quartz du nether
+QUARTZ DU NETHER
+QuartzduNether
+quartzdunether
+QUARTZDUNETHER
 quatre
 QUATRE
 Quatre
@@ -31507,6 +36830,9 @@ QUESTFOR
 QuestforGlory
 questforglory
 QUESTFORGLORY
+Quill
+quill
+QUILL
 Quistis
 QUISTIS
 quistis
@@ -31554,6 +36880,45 @@ r2
 Rabbit
 RABBIT
 rabbit
+Rabbit Hide
+rabbit hide
+RABBIT HIDE
+Rabbit Spawn
+rabbit spawn
+RABBIT SPAWN
+Rabbit Spawn Egg
+rabbit spawn egg
+RABBIT SPAWN EGG
+Rabbit Stew
+rabbit stew
+RABBIT STEW
+Rabbit's
+rabbit's
+RABBIT'S
+Rabbit's Foot
+rabbit's foot
+RABBIT'S FOOT
+Rabbit'sFoot
+rabbit'sfoot
+RABBIT'SFOOT
+RabbitHide
+rabbithide
+RABBITHIDE
+Rabbits
+rabbits
+RABBITS
+Rabbits Foot
+rabbits foot
+RABBITS FOOT
+RabbitsFoot
+rabbitsfoot
+RABBITSFOOT
+RabbitSpawnEgg
+rabbitspawnegg
+RABBITSPAWNEGG
+RabbitStew
+rabbitstew
+RABBITSTEW
 Rabbot
 RABBOT
 rabbot
@@ -31632,6 +36997,15 @@ RAGE
 Ragnarsson
 RAGNARSSON
 ragnarsson
+Ragoût
+ragoût
+RAGOÛT
+Ragoût de lapin
+ragoût de lapin
+RAGOÛT DE LAPIN
+Ragoûtdelapin
+ragoûtdelapin
+RAGOÛTDELAPIN
 Raid
 raid
 RAID
@@ -31860,9 +37234,94 @@ raulpassos
 Rauru
 RAURU
 rauru
+Ravager
+ravager
+RAVAGER
+Ravager Spawn
+ravager spawn
+RAVAGER SPAWN
+Ravager Spawn Egg
+ravager spawn egg
+RAVAGER SPAWN EGG
+ravager_spawn_egg
+RAVAGER_SPAWN_EGG
+RavagerSpawnEgg
+ravagerspawnegg
+RAVAGERSPAWNEGG
+ravageur
+RAVAGEUR
 Raven
 RAVEN
 raven
+Raw
+raw
+RAW
+Raw Beef
+raw beef
+RAW BEEF
+Raw Chicken
+raw chicken
+RAW CHICKEN
+Raw Cod
+raw cod
+RAW COD
+Raw Copper
+raw copper
+RAW COPPER
+Raw Gold
+raw gold
+RAW GOLD
+Raw Iron
+raw iron
+RAW IRON
+Raw Mutton
+raw mutton
+RAW MUTTON
+Raw Porkchop
+raw porkchop
+RAW PORKCHOP
+Raw Rabbit
+raw rabbit
+RAW RABBIT
+Raw Salmon
+raw salmon
+RAW SALMON
+raw_copper
+RAW_COPPER
+raw_gold
+RAW_GOLD
+raw_iron
+RAW_IRON
+RawBeef
+rawbeef
+RAWBEEF
+RawChicken
+rawchicken
+RAWCHICKEN
+RawCod
+rawcod
+RAWCOD
+RawCopper
+rawcopper
+RAWCOPPER
+RawGold
+rawgold
+RAWGOLD
+RawIron
+rawiron
+RAWIRON
+RawMutton
+rawmutton
+RAWMUTTON
+RawPorkchop
+rawporkchop
+RAWPORKCHOP
+RawRabbit
+rawrabbit
+RAWRABBIT
+RawSalmon
+rawsalmon
+RAWSALMON
 Ray
 RAY
 ray
@@ -31896,6 +37355,15 @@ raynor jim
 RaynorJim
 RAYNORJIM
 raynorjim
+Rayon
+rayon
+RAYON
+Rayon de miel
+rayon de miel
+RAYON DE MIEL
+Rayondemiel
+rayondemiel
+RAYONDEMIEL
 RaytheFlyingSquirrel
 RAYTHEFLYINGSQUIRREL
 raytheflyingsquirrel
@@ -31963,14 +37431,23 @@ Red
 RED
 red alert
 RED ALERT
+Red Banner
+red banner
+RED BANNER
 Red Baron
 red baron
 RED BARON
+Red Bed
+red bed
+RED BED
 Red Dead
 red dead
 RED DEAD
 red dead redemption
 RED DEAD REDEMPTION
+Red Dye
+red dye
+RED DYE
 Red Faction
 red faction
 RED FACTION
@@ -31991,14 +37468,23 @@ REDALERT
 RedaReda
 REDAREDA
 redareda
+RedBanner
+redbanner
+REDBANNER
 RedBaron
 redbaron
 REDBARON
+RedBed
+redbed
+REDBED
 RedDead
 reddead
 REDDEAD
 reddeadredemption
 REDDEADREDEMPTION
+RedDye
+reddye
+REDDYE
 redemption
 REDEMPTION
 RedFaction
@@ -32007,6 +37493,27 @@ REDFACTION
 Redfield
 REDFIELD
 redfield
+Redstone
+redstone
+REDSTONE
+Redstone Comparator
+redstone comparator
+REDSTONE COMPARATOR
+Redstone Dust
+redstone dust
+REDSTONE DUST
+Redstone Repeater
+redstone repeater
+REDSTONE REPEATER
+RedstoneComparator
+redstonecomparator
+REDSTONECOMPARATOR
+RedstoneDust
+redstonedust
+REDSTONEDUST
+RedstoneRepeater
+redstonerepeater
+REDSTONEREPEATER
 RedViper
 REDVIPER
 redviper
@@ -32091,6 +37598,8 @@ remo
 Remy
 REMY
 remy
+renard
+RENARD
 Renata
 RENATA
 renata
@@ -32111,6 +37620,12 @@ RENIFLEUR
 Renée
 RENÉE
 renée
+Repeater
+repeater
+REPEATER
+REPETEUR
+REPETEUR DE REDSTONE
+REPETEURDEREDSTONE
 Reptile
 REPTILE
 reptile
@@ -32709,6 +38224,9 @@ ROCKYMOUNTAINTROPHYHUNTER
 Rocs
 ROCS
 rocs
+Rod
+rod
+ROD
 Rodislav
 RODISLAV
 rodislav
@@ -33066,6 +38584,17 @@ rosta rosta
 RostaRosta
 ROSTAROSTA
 rostarosta
+roti
+ROTI
+Rotten
+rotten
+ROTTEN
+Rotten Flesh
+rotten flesh
+ROTTEN FLESH
+RottenFlesh
+rottenflesh
+ROTTENFLESH
 Rouge
 ROUGE
 rouge
@@ -33295,6 +38824,12 @@ république galactique
 RépubliqueGalactique
 RÉPUBLIQUEGALACTIQUE
 républiquegalactique
+Répéteur
+répéteur
+Répéteur de redstone
+répéteur de redstone
+Répéteurderedstone
+répéteurderedstone
 Résident
 RÉSIDENT
 résident
@@ -33331,6 +38866,9 @@ SABREMAN
 Sabrina
 SABRINA
 sabrina
+Sac
+sac
+SAC
 Sachiho
 SACHIHO
 sachiho
@@ -33349,6 +38887,9 @@ sachiko kenjou
 SachikoKenjou
 SACHIKOKENJOU
 sachikokenjou
+Saddle
+saddle
+SADDLE
 Sae
 SAE
 sae
@@ -33451,6 +38992,26 @@ sally acorn
 SallyAcorn
 SALLYACORN
 sallyacorn
+salmon
+SALMON
+Salmon
+salmon bucket
+SALMON BUCKET
+Salmon Spawn
+salmon spawn
+SALMON SPAWN
+Salmon Spawn Egg
+salmon spawn egg
+SALMON SPAWN EGG
+salmon_bucket
+SALMON_BUCKET
+salmon_spawn_egg
+SALMON_SPAWN_EGG
+salmonbucket
+SALMONBUCKET
+SalmonSpawnEgg
+salmonspawnegg
+SALMONSPAWNEGG
 sam
 Sam
 SAM
@@ -33646,6 +39207,8 @@ santa
 Sapiens
 sapiens
 SAPIENS
+sapin
+SAPIN
 Sapphire
 sapphire
 SAPPHIRE
@@ -33727,6 +39290,30 @@ SATURN BOMBERMAN
 SaturnBomberman
 saturnbomberman
 SATURNBOMBERMAN
+Saumon
+saumon
+SAUMON
+Saumon cru
+saumon cru
+SAUMON CRU
+Saumon cuit
+saumon cuit
+SAUMON CUIT
+Saumon dans
+saumon dans
+SAUMON DANS
+Saumon dans un seau
+saumon dans un seau
+SAUMON DANS UN SEAU
+Saumoncru
+saumoncru
+SAUMONCRU
+Saumoncuit
+saumoncuit
+SAUMONCUIT
+Saumondansunseau
+saumondansunseau
+SAUMONDANSUNSEAU
 Sauteur
 SAUTEUR
 sauteur
@@ -33835,6 +39422,8 @@ SCIENCE ADVENTURE
 ScienceAdventure
 scienceadventure
 SCIENCEADVENTURE
+SCINTILLANTE
+scintillante
 Scirano
 SCIRANO
 scirano
@@ -33868,6 +39457,9 @@ scourgethehedgehog
 Scramble
 scramble
 SCRAMBLE
+Scrap
+scrap
+SCRAP
 Screamer
 screamer
 SCREAMER
@@ -33883,6 +39475,12 @@ SCUD RACE
 ScudRace
 scudrace
 SCUDRACE
+Scute
+scute
+SCUTE
+Sea
+sea
+SEA
 Seagill
 SEAGILL
 seagill
@@ -33907,6 +39505,42 @@ search search
 SearchSearch
 SEARCHSEARCH
 searchsearch
+Seau
+seau
+SEAU
+Seau d'eau
+seau d'eau
+SEAU D'EAU
+Seau de lait
+seau de lait
+SEAU DE LAIT
+Seau de lave
+seau de lave
+SEAU DE LAVE
+Seau de neige
+seau de neige
+SEAU DE NEIGE
+Seau de neige poudreuse
+seau de neige poudreuse
+SEAU DE NEIGE POUDREUSE
+Seau deau
+seau deau
+SEAU DEAU
+Seaud'eau
+seaud'eau
+SEAUD'EAU
+Seaudeau
+seaudeau
+SEAUDEAU
+Seaudelait
+seaudelait
+SEAUDELAIT
+Seaudelave
+seaudelave
+SEAUDELAVE
+Seaudeneigepoudreuse
+seaudeneigepoudreuse
+SEAUDENEIGEPOUDREUSE
 Sebastian
 SEBASTIAN
 sebastian
@@ -33916,6 +39550,7 @@ sebastian gates
 SebastianGates
 SEBASTIANGATES
 sebastiangates
+SECHEE
 Second
 second
 SECOND
@@ -33962,6 +39597,9 @@ sectradeesectradee
 Seedrian
 SEEDRIAN
 seedrian
+Seeds
+seeds
+SEEDS
 Sega
 sega
 SEGA
@@ -34082,6 +39720,9 @@ Selection
 Selendis
 SELENDIS
 selendis
+Selle
+selle
+SELLE
 Selphie
 SELPHIE
 selphie
@@ -34389,6 +40030,9 @@ sharbon sharbon
 SharbonSharbon
 SHARBONSHARBON
 sharbonsharbon
+Shard
+shard
+SHARD
 Shariki
 shariki
 SHARIKI
@@ -34446,6 +40090,21 @@ shaun hastings
 ShaunHastings
 SHAUNHASTINGS
 shaunhastings
+Shears
+shears
+SHEARS
+Sheep
+sheep
+SHEEP
+Sheep Spawn
+sheep spawn
+SHEEP SPAWN
+Sheep Spawn Egg
+sheep spawn egg
+SHEEP SPAWN EGG
+SheepSpawnEgg
+sheepspawnegg
+SHEEPSPAWNEGG
 Sheeva
 SHEEVA
 sheeva
@@ -34464,6 +40123,9 @@ sheldsheld
 Shelke
 SHELKE
 shelke
+Shell
+shell
+SHELL
 Shenk
 SHENK
 shenk
@@ -34497,6 +40159,9 @@ shi-long lang
 Shi-LongLang
 SHI-LONGLANG
 shi-longlang
+Shield
+shield
+SHIELD
 Shiiko
 SHIIKO
 shiiko
@@ -34707,6 +40372,9 @@ shotzofeushotzofeu
 ShotzoShotzo
 SHOTZOSHOTZO
 shotzoshotzo
+Shovel
+shovel
+SHOVEL
 Show
 show
 SHOW
@@ -34722,6 +40390,24 @@ shujinko
 Shulk
 shulk
 SHULK
+Shulker
+shulker
+SHULKER
+Shulker Shell
+shulker shell
+SHULKER SHELL
+Shulker Spawn
+shulker spawn
+SHULKER SPAWN
+Shulker Spawn Egg
+shulker spawn egg
+SHULKER SPAWN EGG
+ShulkerShell
+shulkershell
+SHULKERSHELL
+ShulkerSpawnEgg
+shulkerspawnegg
+SHULKERSPAWNEGG
 Shun
 SHUN
 shun
@@ -34815,6 +40501,9 @@ sigfriedsigfried
 Sight
 sight
 SIGHT
+Sign
+sign
+SIGN
 Sigurd
 SIGURD
 sigurd
@@ -34878,6 +40567,9 @@ SILENTSCOPE
 SilentService
 silentservice
 SILENTSERVICE
+Silex
+silex
+SILEX
 Silpheed
 silpheed
 SILPHEED
@@ -34893,6 +40585,18 @@ silver neelsen
 Silver the Hedgehog
 SILVER THE HEDGEHOG
 silver the hedgehog
+Silverfish
+silverfish
+SILVERFISH
+Silverfish Spawn
+silverfish spawn
+SILVERFISH SPAWN
+Silverfish Spawn Egg
+silverfish spawn egg
+SILVERFISH SPAWN EGG
+SilverfishSpawnEgg
+silverfishspawnegg
+SILVERFISHSPAWNEGG
 Silvergun
 silvergun
 SILVERGUN
@@ -35077,6 +40781,36 @@ skelerex
 Skelet
 SKELET
 skelet
+Skeleton
+skeleton
+SKELETON
+Skeleton Horse
+skeleton horse
+SKELETON HORSE
+Skeleton Horse Spawn
+skeleton horse spawn
+SKELETON HORSE SPAWN
+Skeleton Horse Spawn Egg
+skeleton horse spawn egg
+SKELETON HORSE SPAWN EGG
+Skeleton Skull
+skeleton skull
+SKELETON SKULL
+Skeleton Spawn
+skeleton spawn
+SKELETON SPAWN
+Skeleton Spawn Egg
+skeleton spawn egg
+SKELETON SPAWN EGG
+SkeletonHorseSpawnEgg
+skeletonhorsespawnegg
+SKELETONHORSESPAWNEGG
+SkeletonSkull
+skeletonskull
+SKELETONSKULL
+SkeletonSpawnEgg
+skeletonspawnegg
+SKELETONSPAWNEGG
 Skidmarks
 skidmarks
 SKIDMARKS
@@ -35113,9 +40847,17 @@ skudskud
 Skull
 SKULL
 skull
+skull banner
+SKULL BANNER
+skull banner pattern
+SKULL BANNER PATTERN
 Skull Kid
 SKULL KID
 skull kid
+skull_banner_pattern
+SKULL_BANNER_PATTERN
+skullbannerpattern
+SKULLBANNERPATTERN
 Skuller
 SKULLER
 skuller
@@ -35172,6 +40914,9 @@ SLAYER
 Sleena
 sleena
 SLEENA
+Slice
+slice
+SLICE
 Slicer
 SLICER
 slicer
@@ -35199,9 +40944,21 @@ slimbob
 Slime
 slime
 SLIME
+Slime Spawn
+slime spawn
+SLIME SPAWN
+Slime Spawn Egg
+slime spawn egg
+SLIME SPAWN EGG
 Slime World
 slime world
 SLIME WORLD
+Slimeball
+slimeball
+SLIMEBALL
+SlimeSpawnEgg
+slimespawnegg
+SLIMESPAWNEGG
 SlimeWorld
 slimeworld
 SLIMEWORLD
@@ -35399,6 +41156,9 @@ SNOW JOB
 Snow Villiers
 SNOW VILLIERS
 snow villiers
+Snowball
+snowball
+SNOWBALL
 Snowboard
 snowboard
 SNOWBOARD
@@ -35500,6 +41260,8 @@ solidus snake
 SolidusSnake
 SOLIDUSSNAKE
 solidussnake
+solitaire
+SOLITAIRE
 Solomon
 SOLOMON
 solomon
@@ -35698,6 +41460,15 @@ SOS:THEFINALESCAPE
 SOSTheFinalEscape
 sosthefinalescape
 SOSTHEFINALESCAPE
+Souffle
+souffle
+SOUFFLE
+Souffle de dragon
+souffle de dragon
+SOUFFLE DE DRAGON
+Soufflededragon
+soufflededragon
+SOUFFLEDEDRAGON
 Soul
 soul
 SOUL
@@ -35767,6 +41538,30 @@ SOULREAVER
 souls
 Souls
 SOULS
+Soup
+soup
+SOUP
+Soupe
+soupe
+SOUPE
+Soupe de betteraves
+soupe de betteraves
+SOUPE DE BETTERAVES
+Soupe de champignons
+soupe de champignons
+SOUPE DE CHAMPIGNONS
+Soupe suspecte
+soupe suspecte
+SOUPE SUSPECTE
+Soupedebetteraves
+soupedebetteraves
+SOUPEDEBETTERAVES
+Soupedechampignons
+soupedechampignons
+SOUPEDECHAMPIGNONS
+Soupesuspecte
+soupesuspecte
+SOUPESUSPECTE
 Souriris
 SOURIRIS
 souriris
@@ -35893,6 +41688,17 @@ SPECIAL
 SpecOps
 specops
 SPECOPS
+Spectral
+spectral
+SPECTRAL
+Spectral Arrow
+spectral arrow
+SPECTRAL ARROW
+SpectralArrow
+spectralarrow
+SPECTRALARROW
+SPECTRALE
+spectrale
 Spectroplasme
 SPECTROPLASME
 spectroplasme
@@ -35928,12 +41734,27 @@ SPELUNKY
 Spider
 spider
 SPIDER
+Spider Eye
+spider eye
+SPIDER EYE
 Spider Fighter
 spider fighter
 SPIDER FIGHTER
+Spider Spawn
+spider spawn
+SPIDER SPAWN
+Spider Spawn Egg
+spider spawn egg
+SPIDER SPAWN EGG
+SpiderEye
+spidereye
+SPIDEREYE
 SpiderFighter
 spiderfighter
 SPIDERFIGHTER
+SpiderSpawnEgg
+spiderspawnegg
+SPIDERSPAWNEGG
 Spike
 spike
 SPIKE
@@ -35982,6 +41803,15 @@ SPIRIT
 Spirituel
 SPIRITUEL
 spirituel
+Splash
+splash
+SPLASH
+Splash Potion
+splash potion
+SPLASH POTION
+SplashPotion
+splashpotion
+SPLASHPOTION
 Splatterhouse
 splatterhouse
 SPLATTERHOUSE
@@ -36030,6 +41860,21 @@ SPRITE
 Sprites
 sprites
 SPRITES
+Spruce
+spruce
+SPRUCE
+Spruce Boat
+spruce boat
+SPRUCE BOAT
+Spruce Door
+spruce door
+SPRUCE DOOR
+SpruceBoat
+spruceboat
+SPRUCEBOAT
+SpruceDoor
+sprucedoor
+SPRUCEDOOR
 Spy
 spy
 SPY
@@ -36039,6 +41884,9 @@ SPY FOX
 SpyFox
 spyfox
 SPYFOX
+Spyglass
+spyglass
+SPYGLASS
 Spyro
 spyro
 SPYRO
@@ -36084,6 +41932,8 @@ squawksleperroquet
 Squeekly
 SQUEEKLY
 squeekly
+squelette
+SQUELETTE
 Squibby
 SQUIBBY
 squibby
@@ -36093,9 +41943,21 @@ squibby squibby
 SquibbySquibby
 SQUIBBYSQUIBBY
 squibbysquibby
+Squid
+squid
+SQUID
+Squid Spawn
+squid spawn
+SQUID SPAWN
+Squid Spawn Egg
+squid spawn egg
+SQUID SPAWN EGG
 Squiddicus
 SQUIDDICUS
 squiddicus
+SquidSpawnEgg
+squidspawnegg
+SQUIDSPAWNEGG
 Squirrel
 SQUIRREL
 squirrel
@@ -36178,6 +42040,9 @@ STAMPEDE
 Stan
 STAN
 stan
+Stand
+stand
+STAND
 Stanley
 STANLEY
 stanley
@@ -36415,6 +42280,9 @@ STARWARSTRILOGY
 States
 STATES
 states
+Steak
+steak
+STEAK
 SteamWorld
 steamworld
 STEAMWORLD
@@ -36484,6 +42352,9 @@ stew
 Stewart
 STEWART
 stewart
+Stick
+stick
+STICK
 Stickman
 stickman
 STICKMAN
@@ -36499,6 +42370,8 @@ sticksthebadger
 Sting
 STING
 sting
+stockage
+STOCKAGE
 Stomper
 STOMPER
 stomper
@@ -36511,6 +42384,36 @@ stomperlerenifleur
 Stone
 stone
 STONE
+Stone Axe
+stone axe
+STONE AXE
+Stone Hoe
+stone hoe
+STONE HOE
+Stone Pickaxe
+stone pickaxe
+STONE PICKAXE
+Stone Shovel
+stone shovel
+STONE SHOVEL
+Stone Sword
+stone sword
+STONE SWORD
+StoneAxe
+stoneaxe
+STONEAXE
+StoneHoe
+stonehoe
+STONEHOE
+StonePickaxe
+stonepickaxe
+STONEPICKAXE
+StoneShovel
+stoneshovel
+STONESHOVEL
+StoneSword
+stonesword
+STONESWORD
 Storm
 storm
 STORM
@@ -36538,6 +42441,18 @@ STRANGE
 Stratos
 stratos
 STRATOS
+Stray
+stray
+STRAY
+Stray Spawn
+stray spawn
+STRAY SPAWN
+Stray Spawn Egg
+stray spawn egg
+STRAY SPAWN EGG
+StraySpawnEgg
+strayspawnegg
+STRAYSPAWNEGG
 street
 Street
 STREET
@@ -36645,6 +42560,17 @@ STRICTE
 Strider
 strider
 STRIDER
+Strider Spawn
+strider spawn
+STRIDER SPAWN
+Strider Spawn Egg
+strider spawn egg
+STRIDER SPAWN EGG
+strider_spawn_egg
+STRIDER_SPAWN_EGG
+StriderSpawnEgg
+striderspawnegg
+STRIDERSPAWNEGG
 Strife
 STRIFE
 strife
@@ -36666,6 +42592,9 @@ STRIKERS1945
 Strikes
 strikes
 STRIKES
+String
+string
+STRING
 Strombolino
 STROMBOLINO
 strombolino
@@ -36753,6 +42682,11 @@ SUCHIEPAI
 Suchong
 SUCHONG
 suchong
+Sucre
+sucre
+SUCRE
+SUCREES
+sucrées
 Sudden
 sudden
 SUDDEN
@@ -36762,6 +42696,15 @@ SUDDEN STRIKE
 SuddenStrike
 suddenstrike
 SUDDENSTRIKE
+Sugar
+sugar
+SUGAR
+Sugar Cane
+sugar cane
+SUGAR CANE
+SugarCane
+sugarcane
+SUGARCANE
 Sugawara
 SUGAWARA
 sugawara
@@ -37156,6 +43099,8 @@ SUPERSTREETFIGHTERII
 SuperWaddleDoo
 SUPERWADDLEDOO
 superwaddledoo
+sur
+SUR
 Suresh
 SURESH
 suresh
@@ -37201,6 +43146,19 @@ susieparallèle
 SusieSusie
 SUSIESUSIE
 susiesusie
+suspecte
+SUSPECTE
+Suspicious
+suspicious
+SUSPICIOUS
+Suspicious Stew
+suspicious stew
+SUSPICIOUS STEW
+suspicious_stew
+SUSPICIOUS_STEW
+SuspiciousStew
+suspiciousstew
+SUSPICIOUSSTEW
 Susshi
 SUSSHI
 susshi
@@ -37245,6 +43203,17 @@ swashbuckler
 SWASHBUCKLER
 SWAT
 swat
+Sweet
+sweet
+SWEET
+Sweet Berries
+sweet berries
+SWEET BERRIES
+sweet_berries
+SWEET_BERRIES
+SweetBerries
+sweetberries
+SWEETBERRIES
 Swimmer
 swimmer
 SWIMMER
@@ -37324,6 +43293,7 @@ SYSTEMSHOCK
 systemshock2
 SystemShock2
 SYSTEMSHOCK2
+séchée
 Sélection
 sélection
 SÉLECTION
@@ -37374,6 +43344,9 @@ T.FORTUNE
 t.fortune
 T800
 t800
+Tableau
+tableau
+TABLEAU
 Tac
 tac
 TAC
@@ -37620,6 +43593,18 @@ tarayzan
 Tarkin
 TARKIN
 tarkin
+TARTE
+Tarte
+tarte
+TARTE A
+TARTE A LA CITROUILLE
+Tarte à
+tarte à
+Tarte à la citrouille
+tarte à la citrouille
+TARTEALACITROUILLE
+Tarteàlacitrouille
+tarteàlacitrouille
 Tasha
 TASHA
 tasha
@@ -37777,6 +43762,9 @@ TEAMCHAOTIX
 teamchaotix
 teamfortress2
 TEAMFORTRESS2
+Tear
+tear
+TEAR
 Teba
 TEBA
 teba
@@ -37819,6 +43807,114 @@ TEENAGEMUTANTNINJATURTLES
 TeenageMutantNinjaTurtlesTurtlesinTime
 teenagemutantninjaturtlesturtlesintime
 TEENAGEMUTANTNINJATURTLESTURTLESINTIME
+Teinture
+teinture
+TEINTURE
+Teinture blanche
+teinture blanche
+TEINTURE BLANCHE
+Teinture bleu
+teinture bleu
+TEINTURE BLEU
+Teinture bleu clair
+teinture bleu clair
+TEINTURE BLEU CLAIR
+Teinture bleue
+teinture bleue
+TEINTURE BLEUE
+Teinture cyan
+teinture cyan
+TEINTURE CYAN
+Teinture gris
+teinture gris
+TEINTURE GRIS
+Teinture gris clair
+teinture gris clair
+TEINTURE GRIS CLAIR
+Teinture grise
+teinture grise
+TEINTURE GRISE
+Teinture jaune
+teinture jaune
+TEINTURE JAUNE
+Teinture magenta
+teinture magenta
+TEINTURE MAGENTA
+Teinture marron
+teinture marron
+TEINTURE MARRON
+Teinture noire
+teinture noire
+TEINTURE NOIRE
+Teinture orange
+teinture orange
+TEINTURE ORANGE
+Teinture rose
+teinture rose
+TEINTURE ROSE
+Teinture rouge
+teinture rouge
+TEINTURE ROUGE
+Teinture vert
+teinture vert
+TEINTURE VERT
+Teinture vert clair
+teinture vert clair
+TEINTURE VERT CLAIR
+Teinture verte
+teinture verte
+TEINTURE VERTE
+Teinture violette
+teinture violette
+TEINTURE VIOLETTE
+Teintureblanche
+teintureblanche
+TEINTUREBLANCHE
+Teinturebleuclair
+teinturebleuclair
+TEINTUREBLEUCLAIR
+Teinturebleue
+teinturebleue
+TEINTUREBLEUE
+Teinturecyan
+teinturecyan
+TEINTURECYAN
+Teinturegrisclair
+teinturegrisclair
+TEINTUREGRISCLAIR
+Teinturegrise
+teinturegrise
+TEINTUREGRISE
+Teinturejaune
+teinturejaune
+TEINTUREJAUNE
+Teinturemagenta
+teinturemagenta
+TEINTUREMAGENTA
+Teinturemarron
+teinturemarron
+TEINTUREMARRON
+Teinturenoire
+teinturenoire
+TEINTURENOIRE
+Teintureorange
+teintureorange
+TEINTUREORANGE
+Teinturerose
+teinturerose
+TEINTUREROSE
+Teinturerouge
+teinturerouge
+TEINTUREROUGE
+Teinturevertclair
+teinturevertclair
+TEINTUREVERTCLAIR
+Teintureverte
+teintureverte
+TEINTUREVERTE
+Teintureviolette
+teintureviolette
+TEINTUREVIOLETTE
 tekken
 Tekken
 TEKKEN
@@ -37963,6 +44059,8 @@ terranova
 TerraSave
 TERRASAVE
 terrasave
+terre
+TERRE
 Terrence
 TERRENCE
 terrence
@@ -38019,6 +44117,30 @@ TESTDRIVE
 Tete
 TETE
 tete
+Tete de Creeper
+tete de creeper
+TETE DE CREEPER
+Tete de dragon
+tete de dragon
+TETE DE DRAGON
+Tete de joueur
+tete de joueur
+TETE DE JOUEUR
+Tete de zombie
+tete de zombie
+TETE DE ZOMBIE
+TetedeCreeper
+tetedecreeper
+TETEDECREEPER
+Tetededragon
+tetededragon
+TETEDEDRAGON
+Tetedejoueur
+tetedejoueur
+TETEDEJOUEUR
+Tetedezombie
+tetedezombie
+TETEDEZOMBIE
 Tetedoeuf
 TETEDOEUF
 tetedoeuf
@@ -38549,6 +44671,9 @@ THIN
 Thin ice
 thin ice
 THIN ICE
+Thing
+thing
+THING
 Thinice
 thinice
 THINICE
@@ -38834,6 +44959,15 @@ TINYTOONADVENTURES:ACMEALLSTARS
 TinyToonsWackySports
 tinytoonswackysports
 TINYTOONSWACKYSPORTS
+Tipped
+tipped
+TIPPED
+Tipped Arrow
+tipped arrow
+TIPPED ARROW
+TippedArrow
+tippedarrow
+TIPPEDARROW
 Tira
 TIRA
 tira
@@ -38849,6 +44983,8 @@ TMNT 4
 tmnt 4
 TMNT4
 tmnt4
+TNT
+tnt
 to
 TO
 Toad
@@ -39250,6 +45386,8 @@ tornicotontornicoton
 Torres
 TORRES
 torres
+tortue
+TORTUE
 Tosenbo
 TOSENBO
 tosenbo
@@ -39283,6 +45421,30 @@ TOTALANNIHILATION
 totalwar
 TotalWar
 TOTALWAR
+TOTEM
+Totem
+totem
+TOTEM D'IMMORTALITE
+Totem d'immortalité
+totem d'immortalité
+TOTEM DIMMORTALITE
+Totem dimmortalité
+totem dimmortalité
+Totem of
+totem of
+TOTEM OF
+Totem of Undying
+totem of undying
+TOTEM OF UNDYING
+TOTEMD'IMMORTALITE
+Totemd'immortalité
+totemd'immortalité
+TOTEMDIMMORTALITE
+Totemdimmortalité
+totemdimmortalité
+TotemofUndying
+totemofundying
+TOTEMOFUNDYING
 Touch!
 touch!
 TOUCH!
@@ -39391,6 +45553,23 @@ TRACKMANIA2
 TracknField
 tracknfield
 TRACKNFIELD
+Trader
+trader
+TRADER
+Trader Llama
+trader llama
+TRADER LLAMA
+Trader Llama Spawn
+trader llama spawn
+TRADER LLAMA SPAWN
+Trader Llama Spawn Egg
+trader llama spawn egg
+TRADER LLAMA SPAWN EGG
+trader_llama_spawn_egg
+TRADER_LLAMA_SPAWN_EGG
+TraderLlamaSpawnEgg
+traderllamaspawnegg
+TRADERLLAMASPAWNEGG
 Trails
 trails
 TRAILS
@@ -39433,6 +45612,21 @@ tramp
 Trance
 TRANCE
 trance
+TRANCHE
+Tranche
+tranche
+TRANCHE DE PASTEQUE
+TRANCHE DE PASTEQUE SCINTILLANTE
+Tranche de pastèque
+tranche de pastèque
+Tranche de pastèque scintillante
+tranche de pastèque scintillante
+TRANCHEDEPASTEQUE
+TRANCHEDEPASTEQUESCINTILLANTE
+Tranchedepastèque
+tranchedepastèque
+Tranchedepastèquescintillante
+tranchedepastèquescintillante
 Transformer
 TRANSFORMER
 transformer
@@ -39511,6 +45705,7 @@ tremor
 Trepe
 TREPE
 trepe
+TRES
 Trevor
 TREVOR
 trevor
@@ -39667,6 +45862,32 @@ trophy girls
 TrophyGirls
 TROPHYGIRLS
 trophygirls
+Tropical
+tropical
+TROPICAL
+Tropical Fish
+tropical fish
+TROPICAL FISH
+tropical fish bucket
+TROPICAL FISH BUCKET
+Tropical Fish Spawn
+tropical fish spawn
+TROPICAL FISH SPAWN
+Tropical Fish Spawn Egg
+tropical fish spawn egg
+TROPICAL FISH SPAWN EGG
+tropical_fish_bucket
+TROPICAL_FISH_BUCKET
+tropical_fish_spawn_egg
+TROPICAL_FISH_SPAWN_EGG
+TropicalFish
+tropicalfish
+TROPICALFISH
+tropicalfishbucket
+TROPICALFISHBUCKET
+TropicalFishSpawnEgg
+tropicalfishspawnegg
+TROPICALFISHSPAWNEGG
 Tropy
 TROPY
 tropy
@@ -39714,6 +45935,7 @@ truelovestory
 TRUELOVESTORY
 TRY
 try
+très
 Tsuchiya
 TSUCHIYA
 tsuchiya
@@ -39747,6 +45969,18 @@ tuggle tuggle
 TuggleTuggle
 TUGGLETUGGLE
 tuggletuggle
+Tunic
+tunic
+TUNIC
+Tunique
+tunique
+TUNIQUE
+Tunique en cuir
+tunique en cuir
+TUNIQUE EN CUIR
+Tuniqueencuir
+tuniqueencuir
+TUNIQUEENCUIR
 Turbite
 TURBITE
 turbite
@@ -39792,9 +46026,35 @@ TUROK
 Turrican
 turrican
 TURRICAN
+turtle
+TURTLE
+Turtle
+turtle helmet
+TURTLE HELMET
+Turtle Shell
+turtle shell
+TURTLE SHELL
+Turtle Spawn
+turtle spawn
+TURTLE SPAWN
+Turtle Spawn Egg
+turtle spawn egg
+TURTLE SPAWN EGG
+turtle_helmet
+TURTLE_HELMET
+turtle_spawn_egg
+TURTLE_SPAWN_EGG
+turtlehelmet
+TURTLEHELMET
 Turtles
 turtles
 TURTLES
+TurtleShell
+turtleshell
+TURTLESHELL
+TurtleSpawnEgg
+turtlespawnegg
+TURTLESPAWNEGG
 TV
 tv
 Tweeter
@@ -40014,6 +46274,8 @@ umiushii umiushii
 UmiushiiUmiushii
 UMIUSHIIUMIUSHII
 umiushiiumiushii
+un
+UN
 Unagi
 UNAGI
 unagi
@@ -40041,6 +46303,9 @@ UNCHARTEDWATERS
 Under
 under
 UNDER
+Undying
+undying
+UNDYING
 Unera
 UNERA
 unera
@@ -40153,6 +46418,10 @@ vaan
 Vaati
 VAATI
 vaati
+vache
+VACHE
+vagabond
+VAGABOND
 Vaisseau
 VAISSEAU
 vaisseau
@@ -40339,6 +46608,7 @@ vee
 Vega
 VEGA
 vega
+VEGETAUX
 Velo
 VELO
 velo
@@ -40346,6 +46616,8 @@ vendeur
 VENDEUR
 venerable
 VENERABLE
+VENIMEUSE
+venimeuse
 Venom
 VENOM
 venom
@@ -40390,6 +46662,15 @@ vermilliondonny
 Veronica
 veronica
 VERONICA
+Verrues
+verrues
+VERRUES
+Verrues du Nether
+verrues du nether
+VERRUES DU NETHER
+VerruesduNether
+verruesdunether
+VERRUESDUNETHER
 Versopic
 VERSOPIC
 versopic
@@ -40399,6 +46680,8 @@ VERSUS
 Vert
 VERT
 vert
+VERTE
+verte
 Very
 VERY
 very
@@ -40408,6 +46691,18 @@ very gnawty
 VeryGnawty
 VERYGNAWTY
 verygnawty
+Vex
+vex
+VEX
+Vex Spawn
+vex spawn
+VEX SPAWN
+Vex Spawn Egg
+vex spawn egg
+VEX SPAWN EGG
+VexSpawnEgg
+vexspawnegg
+VEXSPAWNEGG
 vi
 VI
 Vi
@@ -40488,6 +46783,8 @@ videoolympics
 VIDEOOLYMPICS
 vieil
 VIEIL
+vierge
+VIERGE
 Viewpoint
 viewpoint
 VIEWPOINT
@@ -40517,6 +46814,15 @@ VILLAGEOIS
 Villager
 villager
 VILLAGER
+Villager Spawn
+villager spawn
+VILLAGER SPAWN
+Villager Spawn Egg
+villager spawn egg
+VILLAGER SPAWN EGG
+VillagerSpawnEgg
+villagerspawnegg
+VILLAGERSPAWNEGG
 ville
 VILLE
 Villiers
@@ -40546,9 +46852,25 @@ vincentgognitti
 VincentValentine
 VINCENTVALENTINE
 vincentvalentine
+vindicateur
+VINDICATEUR
+Vindicator
+vindicator
+VINDICATOR
+Vindicator Spawn
+vindicator spawn
+VINDICATOR SPAWN
+Vindicator Spawn Egg
+vindicator spawn egg
+VINDICATOR SPAWN EGG
+VindicatorSpawnEgg
+vindicatorspawnegg
+VINDICATORSPAWNEGG
 Violet
 VIOLET
 violet
+VIOLETTE
+violette
 Viper
 VIPER
 viper
@@ -40751,6 +47073,8 @@ vulcano rosso
 VulcanoRosso
 VULCANOROSSO
 vulcanorosso
+Végétaux
+végétaux
 vénérable
 VÉNÉRABLE
 Vérité
@@ -40843,6 +47167,47 @@ wade johnson
 WadeJohnson
 WADEJOHNSON
 wadejohnson
+Wagonnet
+wagonnet
+WAGONNET
+WAGONNET A ENTONNOIR
+WAGONNET A TNT
+Wagonnet avec
+wagonnet avec
+WAGONNET AVEC
+Wagonnet avec bloc
+wagonnet avec bloc
+WAGONNET AVEC BLOC
+Wagonnet avec bloc de commande
+wagonnet avec bloc de commande
+WAGONNET AVEC BLOC DE COMMANDE
+Wagonnet de stockage
+wagonnet de stockage
+WAGONNET DE STOCKAGE
+WAGONNET MOTORISE
+Wagonnet motorisé
+wagonnet motorisé
+Wagonnet à
+wagonnet à
+Wagonnet à entonnoir
+wagonnet à entonnoir
+Wagonnet à TNT
+wagonnet à tnt
+WAGONNETAENTONNOIR
+WAGONNETATNT
+Wagonnetavecblocdecommande
+wagonnetavecblocdecommande
+WAGONNETAVECBLOCDECOMMANDE
+Wagonnetdestockage
+wagonnetdestockage
+WAGONNETDESTOCKAGE
+WAGONNETMOTORISE
+Wagonnetmotorisé
+wagonnetmotorisé
+Wagonnetàentonnoir
+wagonnetàentonnoir
+WagonnetàTNT
+wagonnetàtnt
 Wagyan
 wagyan
 WAGYAN
@@ -40941,6 +47306,23 @@ walterphilipps
 Waluigi
 WALUIGI
 waluigi
+Wandering
+wandering
+WANDERING
+Wandering Trader
+wandering trader
+WANDERING TRADER
+Wandering Trader Spawn
+wandering trader spawn
+WANDERING TRADER SPAWN
+Wandering Trader Spawn Egg
+wandering trader spawn egg
+WANDERING TRADER SPAWN EGG
+wandering_trader_spawn_egg
+WANDERING_TRADER_SPAWN_EGG
+WanderingTraderSpawnEgg
+wanderingtraderspawnegg
+WANDERINGTRADERSPAWNEGG
 Wang
 WANG
 wang
@@ -41044,6 +47426,20 @@ WARIOWAREINC
 Warlords
 warlords
 WARLORDS
+Warped
+warped
+WARPED
+Warped Fungus
+warped fungus
+WARPED FUNGUS
+Warped Fungus on a Stick
+warped fungus on a stick
+WARPED FUNGUS ON A STICK
+warped_fungus_on_a_stick
+WARPED_FUNGUS_ON_A_STICK
+WarpedFungusonaStick
+warpedfungusonastick
+WARPEDFUNGUSONASTICK
 Warpot
 WARPOT
 warpot
@@ -41097,6 +47493,15 @@ WATCH DOGS
 WatchDogs
 watchdogs
 WATCHDOGS
+Water
+water
+WATER
+Water Bucket
+water bucket
+WATER BUCKET
+WaterBucket
+waterbucket
+WATERBUCKET
 Waters
 waters
 WATERS
@@ -41202,6 +47607,15 @@ weston
 Westward
 westward
 WESTWARD
+Wheat
+wheat
+WHEAT
+Wheat Seeds
+wheat seeds
+WHEAT SEEDS
+WheatSeeds
+wheatseeds
+WHEATSEEDS
 Wheeler
 WHEELER
 wheeler
@@ -41250,6 +47664,29 @@ whispywoodsjr
 WhispyWoodsJr.
 WHISPYWOODSJR.
 whispywoodsjr.
+White
+white
+WHITE
+White Banner
+white banner
+WHITE BANNER
+White Bed
+white bed
+WHITE BED
+White Dye
+white dye
+WHITE DYE
+white_dye
+WHITE_DYE
+WhiteBanner
+whitebanner
+WHITEBANNER
+WhiteBed
+whitebed
+WHITEBED
+WhiteDye
+whitedye
+WHITEDYE
 Whomp
 WHOMP
 whomp
@@ -41475,6 +47912,12 @@ wisps
 Witch
 WITCH
 witch
+Witch Spawn
+witch spawn
+WITCH SPAWN
+Witch Spawn Egg
+witch spawn egg
+WITCH SPAWN EGG
 witcher
 Witcher
 WITCHER
@@ -41493,6 +47936,32 @@ WITCHERIIIWILDHUNT
 WitcherThe
 witcherthe
 WITCHERTHE
+WitchSpawnEgg
+witchspawnegg
+WITCHSPAWNEGG
+with
+WITH
+Wither
+wither
+WITHER
+Wither Skeleton
+wither skeleton
+WITHER SKELETON
+Wither Skeleton Skull
+wither skeleton skull
+WITHER SKELETON SKULL
+Wither Skeleton Spawn
+wither skeleton spawn
+WITHER SKELETON SPAWN
+Wither Skeleton Spawn Egg
+wither skeleton spawn egg
+WITHER SKELETON SPAWN EGG
+WitherSkeletonSkull
+witherskeletonskull
+WITHERSKELETONSKULL
+WitherSkeletonSpawnEgg
+witherskeletonspawnegg
+WITHERSKELETONSPAWNEGG
 Wizardry
 wizardry
 WIZARDRY
@@ -41526,6 +47995,12 @@ wodenwoden
 Wolf
 wolf
 WOLF
+Wolf Spawn
+wolf spawn
+WOLF SPAWN
+Wolf Spawn Egg
+wolf spawn egg
+WOLF SPAWN EGG
 Wolfchild
 wolfchild
 WOLFCHILD
@@ -41541,6 +48016,9 @@ WOLFENSTEIN3D
 Wolfgang
 WOLFGANG
 wolfgang
+WolfSpawnEgg
+wolfspawnegg
+WOLFSPAWNEGG
 Wolves
 wolves
 WOLVES
@@ -41586,6 +48064,39 @@ wonderwoman
 Wong
 WONG
 wong
+Wooden
+wooden
+WOODEN
+Wooden Axe
+wooden axe
+WOODEN AXE
+Wooden Hoe
+wooden hoe
+WOODEN HOE
+Wooden Pickaxe
+wooden pickaxe
+WOODEN PICKAXE
+Wooden Shovel
+wooden shovel
+WOODEN SHOVEL
+Wooden Sword
+wooden sword
+WOODEN SWORD
+WoodenAxe
+woodenaxe
+WOODENAXE
+WoodenHoe
+woodenhoe
+WOODENHOE
+WoodenPickaxe
+woodenpickaxe
+WOODENPICKAXE
+WoodenShovel
+woodenshovel
+WOODENSHOVEL
+WoodenSword
+woodensword
+WOODENSWORD
 Woods
 WOODS
 woods
@@ -41685,6 +48196,15 @@ wrinkly kong
 WrinklyKong
 WRINKLYKONG
 wrinklykong
+Written
+written
+WRITTEN
+Written Book
+written book
+WRITTEN BOOK
+WrittenBook
+writtenbook
+WRITTENBOOK
 Wulong
 WULONG
 wulong
@@ -41935,6 +48455,27 @@ yazoo
 Years
 years
 YEARS
+Yellow
+yellow
+YELLOW
+Yellow Banner
+yellow banner
+YELLOW BANNER
+Yellow Bed
+yellow bed
+YELLOW BED
+Yellow Dye
+yellow dye
+YELLOW DYE
+YellowBanner
+yellowbanner
+YELLOWBANNER
+YellowBed
+yellowbed
+YELLOWBED
+YellowDye
+yellowdye
+YELLOWDYE
 Yeslick
 YESLICK
 yeslick
@@ -42466,6 +49007,20 @@ zoe washington
 ZoeWashington
 ZOEWASHINGTON
 zoewashington
+Zoglin
+zoglin
+ZOGLIN
+Zoglin Spawn
+zoglin spawn
+ZOGLIN SPAWN
+Zoglin Spawn Egg
+zoglin spawn egg
+ZOGLIN SPAWN EGG
+zoglin_spawn_egg
+ZOGLIN_SPAWN_EGG
+ZoglinSpawnEgg
+zoglinspawnegg
+ZOGLINSPAWNEGG
 Zoids
 zoids
 ZOIDS
@@ -42478,6 +49033,56 @@ zoltun kulle
 ZoltunKulle
 ZOLTUNKULLE
 zoltunkulle
+Zombie
+zombie
+ZOMBIE
+Zombie Head
+zombie head
+ZOMBIE HEAD
+Zombie Horse
+zombie horse
+ZOMBIE HORSE
+Zombie Horse Spawn
+zombie horse spawn
+ZOMBIE HORSE SPAWN
+Zombie Horse Spawn Egg
+zombie horse spawn egg
+ZOMBIE HORSE SPAWN EGG
+Zombie Pigman
+zombie pigman
+ZOMBIE PIGMAN
+Zombie Pigman Spawn
+zombie pigman spawn
+ZOMBIE PIGMAN SPAWN
+Zombie Pigman Spawn Egg
+zombie pigman spawn egg
+ZOMBIE PIGMAN SPAWN EGG
+Zombie Spawn
+zombie spawn
+ZOMBIE SPAWN
+Zombie Spawn Egg
+zombie spawn egg
+ZOMBIE SPAWN EGG
+Zombie Villager
+zombie villager
+ZOMBIE VILLAGER
+Zombie Villager Spawn
+zombie villager spawn
+ZOMBIE VILLAGER SPAWN
+Zombie Villager Spawn Egg
+zombie villager spawn egg
+ZOMBIE VILLAGER SPAWN EGG
+zombie-villageois
+ZOMBIE-VILLAGEOIS
+ZombieHead
+zombiehead
+ZOMBIEHEAD
+ZombieHorseSpawnEgg
+zombiehorsespawnegg
+ZOMBIEHORSESPAWNEGG
+ZombiePigmanSpawnEgg
+zombiepigmanspawnegg
+ZOMBIEPIGMANSPAWNEGG
 Zombies
 zombies
 ZOMBIES
@@ -42487,6 +49092,33 @@ ZOMBIES ATE MY NEIGHBOURS
 ZombiesAteMyNeighbours
 zombiesatemyneighbours
 ZOMBIESATEMYNEIGHBOURS
+ZombieSpawnEgg
+zombiespawnegg
+ZOMBIESPAWNEGG
+zombievillageois
+ZOMBIEVILLAGEOIS
+ZombieVillagerSpawnEgg
+zombievillagerspawnegg
+ZOMBIEVILLAGERSPAWNEGG
+ZOMBIFIE
+Zombified
+zombified
+ZOMBIFIED
+Zombified Piglin
+zombified piglin
+ZOMBIFIED PIGLIN
+Zombified Piglin Spawn
+zombified piglin spawn
+ZOMBIFIED PIGLIN SPAWN
+Zombified Piglin Spawn Egg
+zombified piglin spawn egg
+ZOMBIFIED PIGLIN SPAWN EGG
+zombified_piglin_spawn_egg
+ZOMBIFIED_PIGLIN_SPAWN_EGG
+ZombifiedPiglinSpawnEgg
+zombifiedpiglinspawnegg
+ZOMBIFIEDPIGLINSPAWNEGG
+zombifié
 Zomom
 ZOMOM
 zomom
@@ -42571,6 +49203,18 @@ zèbre
 ZÈBRE
 à
 À
+écaille
+écaille de tortue
+écailledetortue
+éclat
+éclat d'améthyste
+éclat daméthyste
+éclat de prismarine
+éclatd'améthyste
+éclatdaméthyste
+éclatdeprismarine
+éclaté
+écrit
 écureuils
 ÉCUREUILS
 Électark
@@ -42600,10 +49244,34 @@ ZÈBRE
 ÉlineÉline
 ÉLINEÉLINE
 élineéline
+élytres
 Éléments
 ÉLÉMENTS
 éléments
 éléphants
 ÉLÉPHANTS
+émeraude
+épée
+épée en bois
+épée en diamant
+épée en fer
+épée en netherite
+épée en or
+épée en pierre
+épéeenbois
+épéeendiamant
+épéeenfer
+épéeennetherite
+épéeenor
+épéeenpierre
 équitation
 ÉQUITATION
+étiquette
+étoile
+étoile de feu
+étoile de feu d'artifice
+étoile de feu dartifice
+étoile du nether
+étoiledefeud'artifice
+étoiledefeudartifice
+étoiledunether
