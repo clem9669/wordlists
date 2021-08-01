@@ -157,6 +157,7 @@ ANTIKORPER
 ANTIKÖRPER
 ANTILLES
 ANTIPASSSANITAIRE
+ANTKVK
 ANTOINE DE SAINT-EXUPERY
 ANTOINE DE SAINT-EXUPÉRY
 ANTWERP
@@ -1623,6 +1624,7 @@ FRERE
 FRESSE
 FREXIT
 FRIEDEN
+FUKUSHIMA
 FULHAM
 FUSS
 FUSSBALL
@@ -1725,6 +1727,7 @@ Frere
 Fresse
 Frexit
 Frieden
+Fukushima
 Fulham
 Fuss
 Fussball
@@ -1775,6 +1778,7 @@ GHARBI
 GHOSTBUSTERSAFTERLIFE
 GIGI
 GIGNAC
+GINI
 GIRONDINS
 GIROUD
 GIROUD HOLIDAY
@@ -1873,6 +1877,7 @@ Gharbi
 GhostbustersAfterlife
 Gigi
 Gignac
+Gini
 Girondins
 Giroud
 Giroud Holiday
@@ -1939,6 +1944,7 @@ HANS VANDEWEGHE
 HANS VDW
 HAPPIER THAN EVER
 HAPPIERTHANEVER
+HAPPY 730TH
 HAPPY BIRTHDAY SWITZERLAND
 HAPPY NEW
 HAPPY NEW MONTH
@@ -2025,9 +2031,11 @@ HansVandeweghe
 HansVdw
 Happier Than Ever
 HappierThanEver
+Happy 730th
 Happy Birthday Switzerland
 Happy New
 Happy New Month
+Happy730th
 HappyBirthdaySwitzerland
 HappyNew
 HappyNewMonth
@@ -2516,6 +2524,7 @@ KATZE
 KATZEN
 KCORP
 KCORPWIN
+KEAN
 KECHRIDA
 KEEF
 KEHRER
@@ -2614,7 +2623,9 @@ Karte
 Kassav
 Kate
 Katze
+Katzen
 Kcorp
+Kean
 Kechrida
 Keef
 Kehrer
@@ -2642,6 +2653,7 @@ Klasikoa
 Klimakrise
 Klimaschutz
 Klimawandel
+Knallerei
 Knie
 Koch
 Koeman
@@ -2799,6 +2811,7 @@ LIL BABY
 LIL NAS X
 LIL WAYNE
 LILLARD
+LILLE
 LILLOIS
 LIMBURGS
 LIMBURGSE
@@ -2999,6 +3012,7 @@ LilBaby
 LilNasX
 LilWayne
 Lillard
+Lille
 Lillois
 Limburgs
 Limburgse
@@ -3135,6 +3149,7 @@ MATTHIAS
 MATTHIAS CASSE
 MATTHIEU ANDRODIAS
 MAURI
+MAURICE
 MAXIME
 MAXIME BELTRA
 MAXIMEBELTRA
@@ -3294,6 +3309,7 @@ MatthiasCasse
 Matthieu Androdias
 MatthieuAndrodias
 Mauri
+Maurice
 Maxime
 Maxime Beltra
 MaximeBeltra
@@ -3753,6 +3769,7 @@ PRAYFORTURKEY
 PREISE
 PRENEZ
 PRESIDENT
+PRESKO
 PREUVE
 PRIMA
 PROFICIAT
@@ -3806,6 +3823,7 @@ PaysBas
 Peaky Blinders
 PeakyBlinders
 Pedri
+Pelloux
 Pels
 Pembele
 Pepinster
@@ -3871,6 +3889,7 @@ PrayForTurkey
 Preise
 Prenez
 President
+Presko
 Preuve
 Prima
 Proficiat
@@ -4233,6 +4252,7 @@ SOLINE
 SOOBIN
 SORRY HANS
 SOULAX
+SOZIALISTEN
 SPA24H
 SPAANS
 SPANJE
@@ -4282,6 +4302,7 @@ STRASSEN
 STRATEGIE
 STRAY
 STRAYKIDS
+STRECKE
 STROLL
 STROM
 STRUFF
@@ -4450,6 +4471,7 @@ Soline
 Sorry Hans
 SorryHans
 Soulax
+Sozialisten
 Spa24h
 Spaans
 Spanje
@@ -4499,6 +4521,7 @@ Strassen
 Strategie
 Stray
 StrayKids
+Strecke
 Stroll
 Strom
 Struff
@@ -4654,6 +4677,7 @@ TRUMP
 TRÄNEN
 TSITSIPAS
 TSUNODA
+TUCHEL
 TUNISIA
 TUNISIE
 TUPAC
@@ -4786,6 +4810,7 @@ Trump
 Tränen
 Tsitsipas
 Tsunoda
+Tuchel
 Tunisia
 Tunisie
 Tupac
@@ -5357,6 +5382,7 @@ antikorper
 antikörper
 antilles
 antipasssanitaire
+antkvk
 antoine de saint-exupery
 antoine de saint-exupéry
 antwerp
@@ -6084,6 +6110,7 @@ frere
 fresse
 frexit
 frieden
+fukushima
 fulham
 fuss
 fussball
@@ -6138,6 +6165,7 @@ gharbi
 ghostbustersafterlife
 gigi
 gignac
+gini
 girondins
 giroud
 giroud holiday
@@ -6213,6 +6241,7 @@ hansvdw
 hanvanderhorst
 happier than ever
 happierthanever
+happy 730th
 happy birthday switzerland
 happy new
 happy new month
@@ -6511,6 +6540,7 @@ katze
 katzen
 kcorp
 kcorpwin
+kean
 kechrida
 keef
 kehrer
@@ -6705,6 +6735,7 @@ lil nas x
 lil wayne
 lilbaby
 lillard
+lille
 lillois
 limburgs
 limburgse
@@ -6847,6 +6878,7 @@ matthiascasse
 matthieu androdias
 matthieuandrodias
 mauri
+maurice
 maxime
 maxime beltra
 maximebeltra
@@ -7178,6 +7210,7 @@ prayforturkey
 preise
 prenez
 president
+presko
 preuve
 prima
 proficiat
@@ -7451,6 +7484,7 @@ soobin
 sorry hans
 sorryhans
 soulax
+sozialisten
 spa24h
 spaans
 spanje
@@ -7501,6 +7535,7 @@ strassen
 strategie
 stray
 straykids
+strecke
 stroll
 strom
 struff
@@ -7658,6 +7693,7 @@ trump
 tränen
 tsitsipas
 tsunoda
+tuchel
 tunisia
 tunisie
 tupac
