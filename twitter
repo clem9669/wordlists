@@ -794,6 +794,7 @@ CLARISSE
 CLARISSE AGBEGNENOU
 CLAUDE MALHURET
 CLEMENT
+CLERMONT
 CLEVELAND
 CLUBS
 CLUEUP
@@ -936,6 +937,7 @@ ClarisseAgbegnenou
 Claude Malhuret
 ClaudeMalhuret
 Clement
+Clermont
 Cleveland
 CluEup
 Clubs
@@ -1280,6 +1282,8 @@ ERKRANKUNGEN
 ERWIN
 ESCRIME
 ESPAGNE
+ESPAGNE SLOVENIE
+ESPAGNE SLOVÉNIE
 ESPCIV
 ESPOIRS
 ESTHER
@@ -1370,6 +1374,9 @@ Erkrankungen
 Erwin
 Escrime
 Espagne
+Espagne Slovenie
+Espagne Slovénie
+EspagneSlovénie
 Espoirs
 Esther
 Estrosi
@@ -1432,6 +1439,7 @@ FENCING
 FERLAND
 FESSENHEIM
 FESTIVAL
+FETENATIONALESUISSE
 FEUDANSUNTITRE
 FEUER
 FEUERWEHR
@@ -1528,6 +1536,7 @@ Farbe
 Fatima
 Fauci
 Favre
+Federation
 Federer
 Fela
 Felicitations
@@ -1536,6 +1545,7 @@ Fencing
 Ferland
 Fessenheim
 Festival
+FeteNationaleSuisse
 FeuDansUnTitre
 Feuer
 Feuerwehr
@@ -1610,6 +1620,7 @@ Fulham
 Fuss
 Fussball
 FÉDÉRATION
+Fédération
 Félicitations
 GAEL MONFILS
 GAGA
@@ -1836,6 +1847,7 @@ HERZLICHEN DANK
 HERZLICHES BEILEID
 HEUREUSEMENT
 HIELD
+HILDE
 HILONA
 HIMMEL
 HINTERGRUND
@@ -1925,6 +1937,7 @@ Herzliches Beileid
 HerzlichesBeileid
 Heureusement
 Hield
+Hilde
 Hilona
 Himmel
 Hintergrund
@@ -2372,6 +2385,7 @@ KLIMAWANDEL
 KNIE
 KOCH
 KOEMAN
+KOEN
 KOHLE
 KOKOMI
 KOLO MUANI
@@ -2467,6 +2481,7 @@ Klimawandel
 Knie
 Koch
 Koeman
+Koen
 Kohle
 Kokomi
 Kolo Muani
@@ -2574,6 +2589,7 @@ LEGENDE
 LEGO
 LEISTUNG
 LEMBACH
+LENS
 LEON
 LEON MARCHAND
 LEQUIPE DE FRANCE
@@ -2632,6 +2648,7 @@ LONDONEPRIX
 LONGUE
 LOPES
 LORDE
+LORIENT
 LOSUNG
 LOTTE KOPECKY
 LOUIS TOMLINSON
@@ -2749,6 +2766,7 @@ Legende
 Lego
 Leistung
 Lembach
+Lens
 Leon
 Leon Marchand
 LeonMarchand
@@ -2816,6 +2834,7 @@ LondonEPrix
 Longue
 Lopes
 Lorde
+Lorient
 Losung
 Lotte Kopecky
 LotteKopecky
@@ -2941,6 +2960,7 @@ MERCII
 MERKEL
 MESSI
 METER
+METZ
 MEXER
 MHA321
 MICDROP1B
@@ -3094,6 +3114,7 @@ Mercii
 Merkel
 Messi
 Meter
+Metz
 Mexer
 MicDrop1B
 Michael
@@ -3420,6 +3441,7 @@ PAPE GUEYE
 PAPIER
 PAQUETA
 PARDON
+PARIS
 PARIS 2024
 PARIS FC
 PARIS2024
@@ -3511,6 +3533,7 @@ PapeGueye
 Papier
 Paqueta
 Pardon
+Paris
 Paris 2024
 Paris FC
 Paris2024
@@ -3844,6 +3867,7 @@ SCHAARBEEK
 SCHADEN
 SCHAERBEEK
 SCHMERZEN
+SCHNEE
 SCHUBLADE
 SCHUHE
 SCHULD
@@ -3941,6 +3965,7 @@ SPORZA
 SPOT AND EARN
 SPOTIFY
 SPRACHE
+SPURS
 SRFCTOR
 SRFSPORT
 SRFSport
@@ -4042,6 +4067,7 @@ Schaarbeek
 Schaden
 Schaerbeek
 Schmerzen
+Schnee
 Schublade
 Schuhe
 Schuld
@@ -4138,6 +4164,7 @@ Spot and Earn
 SpotandEarn
 Spotify
 Sprache
+Spurs
 St. Gallen
 St.Gallen
 Stadion
@@ -4253,6 +4280,7 @@ THEOBABAC
 THESUICIDESQUAD
 THEVOICENIGERIA
 THIAGO MENDES
+THOMAS
 THOMAS GOYARD
 THOMPSON
 TICINO
@@ -4368,6 +4396,7 @@ Theater
 Thelin
 Thiago Mendes
 ThiagoMendes
+Thomas
 Thomas Goyard
 ThomasGoyard
 Thompson
@@ -4638,6 +4667,7 @@ Vuelta
 VÉLODROME
 Vélodrome
 WAALSE
+WAFFE
 WAGEN
 WAHLKAMPF
 WAHNSINN
@@ -4681,6 +4711,7 @@ WRIGHT
 WSMDS
 WUYTS
 Waalse
+Waffe
 Wagen
 Wahlkampf
 Wahnsinn
@@ -5246,6 +5277,7 @@ clarisse agbegnenou
 claude malhuret
 claudemalhuret
 clement
+clermont
 cleveland
 clubs
 clueup
@@ -5482,6 +5514,8 @@ erkrankungen
 erwin
 escrime
 espagne
+espagne slovenie
+espagne slovénie
 espciv
 espoirs
 esther
@@ -5540,6 +5574,7 @@ fencing
 ferland
 fessenheim
 festival
+fetenationalesuisse
 feudansuntitre
 feuer
 feuerwehr
@@ -5776,6 +5811,7 @@ herzliches beileid
 herzlichesbeileid
 heureusement
 hield
+hilde
 hilona
 himmel
 hintergrund
@@ -6048,6 +6084,7 @@ klimawandel
 knie
 koch
 koeman
+koen
 kohle
 kokomi
 kolo muani
@@ -6162,6 +6199,7 @@ legraet
 leh
 leistung
 lembach
+lens
 leon
 leon marchand
 leonmarchand
@@ -6224,6 +6262,7 @@ londoneprix
 longue
 lopes
 lorde
+lorient
 losung
 lotte kopecky
 lottekopecky
@@ -6357,6 +6396,7 @@ mercii
 merkel
 messi
 meter
+metz
 mexer
 mha321
 micdrop1b
@@ -6561,6 +6601,7 @@ papegueye
 papier
 paqueta
 pardon
+paris
 paris 2024
 paris fc
 paris2024
@@ -6799,6 +6840,7 @@ schaarbeek
 schaden
 schaerbeek
 schmerzen
+schnee
 schublade
 schuhe
 schuld
@@ -6900,6 +6942,7 @@ sporza
 spot and earn
 spotify
 sprache
+spurs
 srfctor
 srfsport
 st. gallen
@@ -7016,6 +7059,7 @@ theobabac
 thesuicidesquad
 thevoicenigeria
 thiago mendes
+thomas
 thomas goyard
 thompson
 ticino
@@ -7191,6 +7235,7 @@ vrenzbleijenbergh
 vuelta
 vélodrome
 waalse
+waffe
 wagen
 wahlkampf
 wahnsinn
