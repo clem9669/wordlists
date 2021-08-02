@@ -1142,6 +1142,7 @@ DEMAINNOUSAPPARTIENT
 DEMIR
 DEMO
 DEMOKRATIE
+DEMONSTRANTEN
 DEMOS
 DENAYER
 DENNIS
@@ -1270,6 +1271,7 @@ DemainNousAppartient
 Demir
 Demo
 Demokratie
+Demonstranten
 Demos
 Denayer
 Dennis
@@ -1643,6 +1645,7 @@ FRANCE USA
 FRANCE-USA
 FRANCE7
 FRANCETVSPORT
+FRANCK FERRAND
 FRANCOIS ASSELINEAU
 FRANCOIS STEVENIN
 FRANCOISE
@@ -1755,6 +1758,8 @@ FranceJapon
 FranceOlympique
 FranceTV
 FranceUSA
+Franck Ferrand
+FranckFerrand
 Francois Asselineau
 Francoise
 Frank
@@ -1823,6 +1828,7 @@ GESCHICHTEN
 GESCHÄFT
 GESETZE
 GESPRÄCH
+GESUNDHEIT
 GEWINN
 GEWITTER
 GHARBI
@@ -1852,6 +1858,7 @@ GOLUBIC
 GOMEZ
 GOMIS
 GOT7
+GOUD
 GOUDEN NINA
 GOURVENNEC
 GP DE HONGRIE
@@ -1927,6 +1934,7 @@ Geschichten
 Geschäft
 Gesetze
 Gespräch
+Gesundheit
 Gewinn
 Gewitter
 Gharbi
@@ -1951,6 +1959,7 @@ Goldmedaille
 Golubic
 Gomez
 Gomis
+Goud
 Gouden Nina
 GoudenNina
 Gourvennec
@@ -2356,6 +2365,7 @@ JEFF HARDY
 JENNIE
 JENNIFER
 JEREMY DESPLANCHES
+JESOUTIENSZEMMOUR
 JESSICA
 JESSICA FOX
 JESUISUNCOMPTEDEMARCELSEL
@@ -2464,6 +2474,7 @@ Jaures
 Jaurès
 Jay-Z
 JayZ
+JeSoutiensZemmour
 JeSuisUnCompteDeMarcelSel
 Jean Jaures
 Jean Jaurès
@@ -2581,6 +2592,7 @@ KAMEL
 KAMETO
 KAMPAGNE
 KANDIDATEN
+KANE
 KANTE
 KANYE WEST
 KANZLER
@@ -2588,6 +2600,7 @@ KAPITALISMUS
 KAPPA
 KAREN
 KARIEM HUSSEIN
+KARIM LAGHOUAG
 KARL
 KARMINE
 KARRIERE
@@ -2661,6 +2674,7 @@ KRANKHEITEN
 KREBS
 KREIS
 KRITERIEN
+KRYSTSINA TSIMANOUSKAYA
 KUBO
 KUCHEN
 KUMINGA
@@ -2690,6 +2704,7 @@ Kamel
 Kameto
 Kampagne
 Kandidaten
+Kane
 Kante
 Kanté
 Kanye West
@@ -2700,6 +2715,8 @@ Kappa
 Karen
 Kariem Hussein
 KariemHussein
+Karim Laghouag
+KarimLaghouag
 Karl
 Karmine
 Karriere
@@ -2774,6 +2791,8 @@ Krankheiten
 Krebs
 Kreis
 Kriterien
+Krystsina Tsimanouskaya
+KrystsinaTsimanouskaya
 Kubo
 Kuchen
 Kuminga
@@ -5239,6 +5258,7 @@ WOUT
 WOZU
 WRIGHT
 WSMDS
+WUNSCHE DIR
 WUYTS
 Waalse
 Waffe
@@ -5294,6 +5314,9 @@ Wout
 Wozu
 Wright
 Wuyts
+WÜNSCHE DIR
+Wünsche Dir
+WünscheDir
 XAVI SIMONS
 XAVIER NIEL
 XBOX
@@ -5982,6 +6005,7 @@ demainnousappartient
 demir
 demo
 demokratie
+demonstranten
 demorgen
 demos
 denayer
@@ -6257,6 +6281,7 @@ france4
 france7
 franceolympique
 francetvsport
+franck ferrand
 francois asselineau
 francois stevenin
 francoise
@@ -6339,6 +6364,7 @@ geschichten
 geschäft
 gesetze
 gespräch
+gesundheit
 gewinn
 gewitter
 gharbi
@@ -6368,6 +6394,7 @@ golubic
 gomez
 gomis
 got7
+goud
 gouden nina
 goudennina
 gourvennec
@@ -6632,6 +6659,7 @@ jeffhardy
 jennie
 jennifer
 jeremy desplanches
+jesoutienszemmour
 jessica
 jessica fox
 jesuisuncomptedemarcelsel
@@ -6716,6 +6744,7 @@ kamel
 kameto
 kampagne
 kandidaten
+kane
 kante
 kanté
 kanye west
@@ -6726,6 +6755,7 @@ kappa
 karen
 kariem hussein
 kariemhussein
+karim laghouag
 karl
 karmine
 karriere
@@ -6799,6 +6829,7 @@ krankheiten
 krebs
 kreis
 kriterien
+krystsina tsimanouskaya
 kubo
 kuchen
 kuminga
@@ -8107,6 +8138,7 @@ wozu
 wright
 wsmds
 wuyts
+wünsche dir
 xavi simons
 xavier niel
 xbox
