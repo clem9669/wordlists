@@ -4,6 +4,8 @@ name: Release
 on:
   schedule:
     - cron: "10 04 3,17 * *" # At 04:10 on day-of-month 3 and 17.
+    tags:
+    - '*'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
