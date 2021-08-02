@@ -3,7 +3,7 @@ name: Release
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "10 10 2,16 * *" # At 04:10 on day-of-month 2 and 16.
+    - cron: "10 04 3,17 * *" # At 04:10 on day-of-month 3 and 17.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
