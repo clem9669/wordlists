@@ -4,8 +4,6 @@ name: Release
 on:
   schedule:
     - cron: "10 04 3,17 * *" # At 04:10 on day-of-month 3 and 17.
-  tags:
-    - '*'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -64,8 +62,10 @@ jobs:
         uses: ncipollo/release-action@v1.8.6
         id: create_release
         with:
+          tag: ${{ github.ref }}
           draft: false
           prerelease: false
           bodyFile: CHANGELOG.md
           artifacts: "Compilation/*.7z"
           token: ${{ secrets.GITHUB_TOKEN }}
+
