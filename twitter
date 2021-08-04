@@ -141,7 +141,9 @@ ALLEZLOM
 ALLEZPARIS
 ALLEZRÉMI
 ALMADA
+ALOISE RETORNAZ
 ALONSO
+ALOÏSE RETORNAZ
 ALPES-MARITIMES
 ALPHONSE
 ALPINE
@@ -346,6 +348,8 @@ AllezlesBleues
 AllezlesBleus
 Almada
 Alonso
+Aloïse Retornaz
+AloïseRetornaz
 Alpes-Maritimes
 AlpesMaritimes
 Alphonse
@@ -955,6 +959,7 @@ CADE CUNNINGHAM
 CAELEB DRESSEL
 CAEN
 CAMILLE COTTIN
+CAMILLE LECOINTRE
 CANADA
 CANCER
 CAPITAL
@@ -1115,7 +1120,9 @@ Caeleb Dressel
 CaelebDressel
 Caen
 Camille Cottin
+Camille Lecointre
 CamilleCottin
+CamilleLecointre
 Canada
 Cancer
 Capital
@@ -1411,6 +1418,7 @@ DRUMMOND
 DUBOIS
 DUIDELIJK
 DUITS
+DUITSERS
 DUMOULIN
 DUNCAN ROBINSON
 DUNKERQUE
@@ -1565,6 +1573,7 @@ Drummond
 Dubois
 Duidelijk
 Duits
+Duitsers
 Dumoulin
 Duncan Robinson
 DuncanRobinson
@@ -1587,6 +1596,7 @@ EFFECTIVEMENT
 EFFEKT
 EGBERT
 EHEFUERALLE
+EHPAD
 EHRE
 EIER
 EIGENVERANTWORTUNG
@@ -2089,6 +2099,7 @@ GEIMPFTE
 GEIMPFTEN
 GELOOF
 GELSON
+GELSON MARTINS
 GELUKKIGE
 GEMEINDE
 GENDERN
@@ -2312,6 +2323,7 @@ HAN VAN DER HORST
 HANDBALL
 HANDELN
 HANDEN
+HANGT
 HANS VANDEWEGHE
 HANS VDW
 HAPPIER THAN EVER
@@ -2407,6 +2419,7 @@ Hammer
 Handball
 Handeln
 Handen
+Hangt
 Hans Vandeweghe
 Hans Vdw
 HansVandeweghe
@@ -2713,6 +2726,7 @@ JEUXOLYMPIQUESDETOKYO
 JEVEUXESSAYERBACK4BLOOD
 JEVEUXSUCERTHOMASPESQUET
 JEZUS
+JIKOOK
 JIMINIE
 JINYOUNG
 JJK153
@@ -4923,6 +4937,7 @@ SERENA
 SERIE
 SERKVM
 SERTIC
+SERUM
 SERVETTE
 SERVIE
 SERVIË
@@ -5182,6 +5197,7 @@ Seraing
 Serena
 Serie
 Sertic
+Serum
 Servette
 Servie
 Servië
@@ -5345,10 +5361,12 @@ SylvainAndré
 Syria
 SÈTE
 SÉCU
+SÉRUM
 SÉVILLE
 Sète
 Sécu
 Sénat
+Sérum
 Séville
 T'AIME
 T'AVAIS
@@ -5376,6 +5394,7 @@ TANJA DEXTERS
 TANJADEXTERS
 TAPSOBA
 TATUM
+TAUBIRA
 TAYLOR
 TCHEQUES
 TCHOUAMENI
@@ -5446,6 +5465,7 @@ TOKO
 TOKYO REVENGERS
 TOKYO2020
 TOKYO2021
+TOKYOOLYMPICS
 TOKYOOLYMPICS2020
 TOKYOREVENGERS
 TOKYOREVENGERS216
@@ -5516,6 +5536,7 @@ Tanja Dexters
 TanjaDexters
 Tapsoba
 Tatum
+Taubira
 Tavais
 Taylor
 Tcheques
@@ -5576,8 +5597,10 @@ ThiagoMendes
 Thomas
 Thomas Goyard
 Thomas Van der Plaetsen
+Thomas van der Plaetsen
 ThomasGoyard
 ThomasVanderPlaetsen
+ThomasvanderPlaetsen
 Thompson
 Ticino
 Tiere
@@ -5598,6 +5621,7 @@ Toko
 Tokyo Revengers
 Tokyo2020
 Tokyo2021
+TokyoOlympics
 TokyoOlympics2020
 TokyoRevengers
 TokyoRevengers216
@@ -5793,6 +5817,7 @@ VINCENT MILOU
 VINICIUS
 VIOLENCESCONJUGALES
 VIREN
+VIRUS
 VITA
 VITALITY
 VLAAMS
@@ -5891,6 +5916,7 @@ VincentMilou
 Vinicius
 ViolencesConjugales
 Viren
+Virus
 Vita
 Vitality
 Vlaams
@@ -6273,6 +6299,7 @@ allezteddy
 allezvincent
 almada
 alonso
+aloïse retornaz
 alpes-maritimes
 alpesmaritimes
 alphonse
@@ -6630,6 +6657,7 @@ cade cunningham
 caeleb dressel
 caen
 camille cottin
+camille lecointre
 camillecottin
 canada
 cancer
@@ -6929,6 +6957,7 @@ drummond
 dubois
 duidelijk
 duits
+duitsers
 dumoulin
 duncan robinson
 dunkerque
@@ -6950,6 +6979,7 @@ effectivement
 effekt
 egbert
 ehefueralle
+ehpad
 ehre
 eier
 eigenverantwortung
@@ -7229,6 +7259,8 @@ geimpfte
 geimpften
 geloof
 gelson
+gelson martins
+gelsonmartins
 gelukkige
 gemeinde
 gendern
@@ -7343,6 +7375,7 @@ han van der horst
 handball
 handeln
 handen
+hangt
 hans vandeweghe
 hans vdw
 hansvandeweghe
@@ -7586,6 +7619,7 @@ jeuxolympiques
 jeuxolympiquesdetokyo
 jeveuxsucerthomaspesquet
 jezus
+jikook
 jiminie
 jinyoung
 jjk153
@@ -8721,6 +8755,7 @@ serena
 serie
 serkvm
 sertic
+serum
 servette
 servie
 servië
@@ -8897,6 +8932,7 @@ syria
 sète
 sécu
 sénat
+sérum
 séville
 t'aime
 t'avais
@@ -8919,6 +8955,7 @@ tanja dexters
 tanjadexters
 tapsoba
 tatum
+taubira
 taylor
 tcheques
 tchouameni
@@ -8993,6 +9030,7 @@ toko
 tokyo revengers
 tokyo2020
 tokyo2021
+tokyoolympics
 tokyoolympics2020
 tokyorevengers
 tokyorevengers216
@@ -9159,6 +9197,7 @@ vincentluis
 vinicius
 violencesconjugales
 viren
+virus
 vita
 vitality
 vlaams
