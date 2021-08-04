@@ -19,7 +19,8 @@
 [![Twitter-trends](https://github.com/clem9669/wordlists/actions/workflows/twitter.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/twitter.yml)
 [![Wordlist-news](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/clem9669/wordlists)
-
+[![Music-trends](https://github.com/clem9669/wordlists/actions/workflows/lastfm.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/lastfm.yml)
+[![Release](https://github.com/clem9669/wordlists/actions/workflows/release.yaml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/release.yaml)
 
 
 * [About the Project](#about-the-project)
