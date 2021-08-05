@@ -562,6 +562,7 @@ BANKEN
 BAPTISTE
 BARBIE
 BARCA
+BARDET
 BARSHIM
 BART
 BART DE PAUW
@@ -815,6 +816,7 @@ Banken
 Baptiste
 Barbie
 Barca
+Bardet
 Barshim
 Bart
 Bart De Pauw
@@ -3549,6 +3551,7 @@ LE 3X3
 LE 4
 LE 5
 LE BMX
+LE CC
 LE CONSEIL
 LE CONTRE
 LE DJ
@@ -3771,6 +3774,7 @@ Le 3x3
 Le 4
 Le 5
 Le BMX
+Le CC
 Le Conseil
 Le DJ
 Le Figaro
@@ -3802,6 +3806,7 @@ Le4
 Le5
 LeBMX
 LeBron
+LeCC
 LeCapitalismeBruleLaPlanete
 LeConseil
 LeDJ
@@ -5302,6 +5307,7 @@ Réunion
 SACHA
 SACK
 SAGAN
+SAGES
 SAHARA
 SAILING
 SAILLET
@@ -5571,6 +5577,7 @@ SYRIA
 Sacha
 Sack
 Sagan
+Sages
 Sahara
 Sailing
 Saillet
@@ -5841,7 +5848,9 @@ Switch
 Switzerland
 Sylvain Andre
 Sylvain André
+Sylvain Ripoll
 SylvainAndré
+SylvainRipoll
 Syria
 SÈTE
 Sète
@@ -6274,6 +6283,7 @@ VACCINEZVOUS
 VACCINEZVOUSBORDEL
 VACCINOBLIGATOIRE
 VALAIS
+VALENTINO ROSSI
 VALEURS ACTUELLES
 VALGNT
 VALINOR
@@ -6378,6 +6388,8 @@ VaccineUnFilm
 VaccinezVous
 VaccinezvousBordel
 Valais
+Valentino Rossi
+ValentinoRossi
 Valeurs Actuelles
 ValeursActuelles
 Valinor
@@ -6511,6 +6523,7 @@ WARNER
 WARRIORS
 WASHINGTON
 WASS
+WATERLOO
 WAVE RUNNER
 WEIN
 WEISE
@@ -6579,6 +6592,7 @@ Warner
 Warriors
 Washington
 Wass
+Waterloo
 Wave Runner
 WaveRunner
 Wein
@@ -7040,6 +7054,7 @@ banken
 baptiste
 barbie
 barca
+bardet
 barshim
 bart
 bart de pauw
@@ -7859,6 +7874,7 @@ france7
 franceolympique
 francetv
 francetvsport
+franceusa
 franck ferrand
 francois asselineau
 francois stevenin
@@ -8610,6 +8626,7 @@ le 3x3
 le 4
 le 5
 le bmx
+le cc
 le conseil
 le contre
 le dj
@@ -9481,6 +9498,7 @@ réunion
 sacha
 sack
 sagan
+sages
 sahara
 sailing
 saillet
@@ -9836,6 +9854,7 @@ the rock
 the suicide squad
 the weeknd
 theater
+theblock
 theboyz
 thebselcaday
 thelin
@@ -9982,6 +10001,7 @@ vaccinezvous
 vaccinezvousbordel
 vaccinobligatoire
 valais
+valentino rossi
 valeurs actuelles
 valgnt
 valinor
@@ -10115,6 +10135,7 @@ warner
 warriors
 washington
 wass
+waterloo
 wave runner
 wein
 weise
