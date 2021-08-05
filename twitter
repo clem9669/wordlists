@@ -68,6 +68,7 @@
 AARE
 ABBA
 ABBA KYARI
+ABEL
 ABRAHAM
 ABSICHT
 ACHRAF
@@ -116,6 +117,7 @@ ALEX COLLADO
 ALEX WILSON
 ALEX YEE
 ALEXANDRA TAVERNIER
+ALEXANDRE JUVING-BRUNET
 ALEXANDRE MENDY
 ALEXIS VASTINE
 ALGERIE
@@ -217,6 +219,7 @@ APPLE PAY
 ARAUJO
 ARBEITGEBER
 ARBITRE
+ARENA
 AREOLA
 ARGUMENT
 ARGUMENTE
@@ -281,6 +284,7 @@ Aare
 Abba
 Abba Kyari
 AbbaKyari
+Abel
 Abraham
 Absicht
 Achraf
@@ -331,7 +335,10 @@ AlexWilson
 AlexYee
 Alexandra Tavernier
 AlexandraTavernier
+Alexandre Juving-Brunet
+Alexandre JuvingBrunet
 Alexandre Mendy
+AlexandreJuving-Brunet
 AlexandreMendy
 Alexis Vastine
 AlexisVastine
@@ -453,6 +460,7 @@ ApplePay
 Araujo
 Arbeitgeber
 Arbitre
+Arena
 Areola
 Argument
 Argumente
@@ -678,6 +686,7 @@ BOLT
 BOMA
 BON DIMANCHE
 BONJOUR CELINE
+BONJOUR DAVID
 BONJOUR GUILLAUME
 BONJOUR LYLA
 BONJOUR MARC
@@ -930,12 +939,14 @@ Bon Dimanche
 BonDimanche
 Bonjour Celine
 Bonjour Céline
+Bonjour David
 Bonjour Guillaume
 Bonjour Lyla
 Bonjour Marc
 Bonjour Marie
 Bonjour Twitter
 BonjourCéline
+BonjourDavid
 BonjourGuillaume
 BonjourLyla
 BonjourMarc
@@ -3023,6 +3034,7 @@ Jezus
 Jikook
 Jiminie
 Jinyoung
+Jisoo
 Jodie
 Joe Dassin
 JoeDassin
@@ -3706,6 +3718,7 @@ Lens
 Leon
 Leon Marchand
 LeonMarchand
+Lepage
 Lequipe de France
 LequipedeFrance
 Leris
@@ -4868,6 +4881,7 @@ RACHIDA DATI
 RADONJIC
 RAFA MIR
 RAIOLA
+RAISITERRORIST
 RAMAN
 RAMOS
 RANDY ORTON
@@ -4991,6 +5005,7 @@ Radonjic
 Rafa Mir
 RafaMir
 Raiola
+RaisiTerrorist
 Raman
 Ramos
 Randy Orton
@@ -6015,6 +6030,7 @@ URTEIL
 URUS
 US OPEN
 US Open
+USAAUS
 USAIN BOLT
 USGCLU
 USOpen
@@ -6537,6 +6553,7 @@ Zélande
 aare
 abba
 abba kyari
+abel
 abraham
 absicht
 achraf
@@ -6585,6 +6602,7 @@ alex collado
 alex wilson
 alex yee
 alexandra tavernier
+alexandre juving-brunet
 alexandre mendy
 alexandremendy
 alexcollado
@@ -6706,6 +6724,7 @@ applepay
 araujo
 arbeitgeber
 arbitre
+arena
 areola
 argument
 argumente
@@ -6930,6 +6949,7 @@ boma
 bon dimanche
 bondimanche
 bonjour céline
+bonjour david
 bonjour guillaume
 bonjour lyla
 bonjour marc
@@ -9022,6 +9042,7 @@ rachidadati
 radonjic
 rafa mir
 raiola
+raisiterrorist
 raman
 ramos
 randy orton
@@ -9626,6 +9647,7 @@ uran
 urteil
 urus
 us open
+usaaus
 usain bolt
 usgclu
 vaccineunfilm
