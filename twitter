@@ -52,9 +52,11 @@
 400M
 400m
 4Août
+4H20
 4H30
 4MARIAGESPOUR1LUNEDEMIEL
 4X100M
+4h20
 4h30
 4mariagespour1lunedemiel
 4x100m
@@ -386,6 +388,7 @@ Allez Romane
 Allez Rémi
 Allez Sarah
 Allez Ugo
+Allez la France
 Allez les Bleues
 Allez les Bleus
 AllezAxelle
@@ -398,6 +401,7 @@ AllezRomane
 AllezRémi
 AllezSarah
 AllezUgo
+AllezlaFrance
 AllezlesBleues
 AllezlesBleus
 Allyson Felix
@@ -1202,6 +1206,7 @@ CHOKRI
 CHRIS CHAN
 CHRIS PAUL
 CHRISTENEN
+CHRISTIE
 CHRISTOPH BLOCHER
 CHRISTOPHER SIX
 CHUI
@@ -1214,6 +1219,7 @@ CLASSICO
 CLAUDE
 CLAUDE MALHURET
 CLAUDIA
+CLEMENCE
 CLEMENT
 CLEMENT BEAUNE
 CLEMENTINE
@@ -1228,6 +1234,7 @@ CLUBS
 CLUCER
 CLUEUP
 CLUJYB
+CLÉMENCE
 CM PUNK
 CM Punk
 CMPunk
@@ -1402,6 +1409,7 @@ Chris Paul
 ChrisChan
 ChrisPaul
 Christenen
+Christie
 Christoph Blocher
 ChristophBlocher
 Christopher Six
@@ -1419,6 +1427,7 @@ Claude
 Claude Malhuret
 ClaudeMalhuret
 Claudia
+Clemence
 Clement
 Clement Beaune
 Clementine
@@ -1435,6 +1444,7 @@ CluEup
 Club Brugge
 ClubBrugge
 Clubs
+Clémence
 Clément Beaune
 ClémentBeaune
 Clémentine
@@ -2270,6 +2280,7 @@ FREUNDE DER VERFASSUNG
 FREXIT
 FRIEDEN
 FROGBAR
+FUHL
 FUKUSHIMA
 FULHAM
 FUSS
@@ -2420,8 +2431,10 @@ Fukushima
 Fulham
 Fuss
 Fussball
+FÜHL
 Fédération
 Félicitations
+Fühl
 GABRIEL ATTAL
 GABRIEL BORDIER
 GAEL MONFILS
@@ -3915,6 +3928,7 @@ LUC FERRY
 LUCIEN FAVRE
 LUCIFER
 LUCILE
+LUDIVINE
 LUGANO
 LUGE
 LUIZ
@@ -4202,6 +4216,7 @@ Lucien Favre
 LucienFavre
 Lucifer
 Lucile
+Ludivine
 Lugano
 Luge
 Luiz
@@ -4302,6 +4317,7 @@ MASSE
 MASSNAHMEN
 MASSY
 MASTERCLASS
+MATA
 MATHIAS FLUCKIGER
 MATHIEU
 MATHIEU VAN DER POEL
@@ -4528,6 +4544,7 @@ Masse
 Massnahmen
 Massy
 Masterclass
+Mata
 Mathias FlUckiger
 Mathias Fluckiger
 MathiasFlUckiger
@@ -4697,6 +4714,7 @@ NACHO
 NADAL
 NAFI
 NAFI THIAM
+NAFITHIAM
 NAMJOON
 NAMUR
 NANCY
@@ -5191,6 +5209,9 @@ PORTUGAL
 POSETADISCIPLINEOLYMPIQUE
 POST 4
 POUPETTE
+POUR L'HISTOIRE
+POUR LHISTOIRE
+POURL'HISTOIRE
 POWELL
 PRACHTIGE
 PRAYFORTURKEY
@@ -6363,6 +6384,7 @@ THAILAND
 THAUVIN
 THE ASCENT
 THE BLOCK
+THE FACE
 THE FIEND
 THE FLAG
 THE LOX
@@ -6536,6 +6558,7 @@ Texas
 Thailand
 Thauvin
 The Ascent
+The Face
 The Fiend
 The Flag
 The Lox
@@ -6544,6 +6567,7 @@ The Suicide Squad
 The Weeknd
 TheAscent
 TheBSelcaDay
+TheFace
 TheFiend
 TheFlag
 TheLox
@@ -6712,6 +6736,7 @@ URUS
 US OPEN
 US Open
 USAAUS
+USAFRA
 USAIN BOLT
 USGCLU
 USOpen
@@ -7901,6 +7926,7 @@ chokri
 chris chan
 chris paul
 christenen
+christie
 christoph blocher
 christophblocher
 christopher six
@@ -7919,6 +7945,7 @@ claude
 claude malhuret
 claudemalhuret
 claudia
+clemence
 clement
 clement beaune
 clementine
@@ -7933,6 +7960,7 @@ clubs
 clucer
 clueup
 clujyb
+clémence
 clément beaune
 clémentbeaune
 clémentine
@@ -8487,6 +8515,7 @@ fussball
 fvdb
 fédération
 félicitations
+fühl
 gabriel attal
 gabriel bordier
 gael monfils
@@ -9391,6 +9420,7 @@ lucien favre
 lucienfavre
 lucifer
 lucile
+ludivine
 lugano
 luge
 luiz
@@ -9500,6 +9530,7 @@ masse
 massnahmen
 massy
 masterclass
+mata
 mathias fluckiger
 mathiasfluckiger
 mathieu
@@ -9773,6 +9804,7 @@ nva
 nwort
 nzlfra
 nächste woche
+nächstewoche
 oberlin
 obito
 ocad
@@ -9991,6 +10023,7 @@ posetadisciplineolympique
 post 4
 post4
 poupette
+pour l'histoire
 powell
 prachtige
 prayforturkey
@@ -10564,6 +10597,7 @@ thailand
 thauvin
 the ascent
 the block
+the face
 the fiend
 the flag
 the lox
@@ -10723,6 +10757,7 @@ urteil
 urus
 us open
 usaaus
+usafra
 usain bolt
 usgclu
 vaccineunfilm
