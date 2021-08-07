@@ -188,6 +188,7 @@ AMEN
 AMERICA
 AMERICAINES
 AMERICAINS
+AMERIKAANSE
 AMHARA
 AMIN
 AMINE ADLI
@@ -301,6 +302,7 @@ AUSTRALIE
 AUSTRALIENS
 AUSTRALISCH
 AUSTRALIË
+AUSTRIA
 AUSWAHL
 AUVIO
 AUXERRE
@@ -442,6 +444,7 @@ Amen
 America
 Americaines
 Americains
+Amerikaanse
 Amhara
 Amin
 Amine Adli
@@ -568,6 +571,7 @@ Australie
 Australiens
 Australisch
 Australië
+Austria
 Auswahl
 Auvio
 Auxerre
@@ -796,7 +800,9 @@ BRAV
 BRAVO CHAMPION
 BRAVO CHAMPIONNE
 BRAVO CLARISSE
+BRAVO LES BLEUES
 BRAVO LES BLEUS
+BRAVO LES FILLES
 BRAVO TEDDY
 BRAY WYATT
 BRAZIL
@@ -1082,12 +1088,16 @@ Bravo Champion
 Bravo Championne
 Bravo Clarisse
 Bravo Teddy
+Bravo les Bleues
 Bravo les Bleus
+Bravo les Filles
 BravoChampion
 BravoChampionne
 BravoClarisse
 BravoTeddy
+BravolesBleues
 BravolesBleus
+BravolesFilles
 Bray Wyatt
 BrayWyatt
 Brazil
@@ -1658,6 +1668,7 @@ DOLSON
 DOMENECH
 DON TOLIVER
 DONALD TRUMP
+DONAVAN GRONDIN
 DONC MESSI
 DONCIC
 DONDA
@@ -1835,6 +1846,8 @@ Don Toliver
 DonToliver
 Donald Trump
 DonaldTrump
+Donavan Grondin
+DonavanGrondin
 Donc Messi
 DoncMessi
 Doncic
@@ -2459,6 +2472,7 @@ FÜHL
 Fédération
 Félicitations
 Fühl
+GABBY WILLIAMS
 GABRIEL ATTAL
 GABRIEL BORDIER
 GAEL MONFILS
@@ -2598,6 +2612,8 @@ GUINGAMP
 GULF STREAM
 GUNNA
 GYMNASTICS
+Gabby Williams
+GabbyWilliams
 Gabriel Attal
 Gabriel Bordier
 GabrielAttal
@@ -2752,6 +2768,7 @@ HALL
 HALLEY'S COMET
 HALO
 HALOINFINITE
+HALTDIEFRESSETAMEDIA
 HAMEL
 HAMILTON
 HAMMER
@@ -2858,6 +2875,7 @@ Halley'sComet
 Halleys Comet
 Halo
 HaloInfinite
+HaltdieFresseTamedia
 Hamel
 Hamilton
 Hammer
@@ -4290,6 +4308,7 @@ MACRONDESTITUTION
 MADARA
 MADDISON
 MADELEINE MALONGA
+MADISON
 MAGGIE
 MAGIC
 MAGUIRE
@@ -4516,6 +4535,7 @@ Madara
 Maddison
 Madeleine Malonga
 MadeleineMalonga
+Madison
 Maggie
 Magic
 Maguire
@@ -5871,6 +5891,7 @@ SEPTAHUIT
 SERAING
 SERBIE
 SERENA
+SERFRA
 SERGI ROBERTO
 SERIE
 SERKVM
@@ -7499,6 +7520,7 @@ amen
 america
 americaines
 americains
+amerikaanse
 amhara
 amin
 amine adli
@@ -7616,6 +7638,7 @@ australie
 australiens
 australisch
 australië
+austria
 auswahl
 auvio
 auxerre
@@ -7848,7 +7871,9 @@ brav
 bravo champion
 bravo championne
 bravo clarisse
+bravo les bleues
 bravo les bleus
+bravo les filles
 bravo teddy
 bravochampion
 bravochampionne
@@ -8233,6 +8258,7 @@ dolson
 domenech
 don toliver
 donald trump
+donavan grondin
 donc messi
 doncic
 donda
@@ -8584,6 +8610,7 @@ fvdb
 fédération
 félicitations
 fühl
+gabby williams
 gabriel attal
 gabriel bordier
 gael monfils
@@ -8746,6 +8773,7 @@ hall
 halley's comet
 halo
 haloinfinite
+haltdiefressetamedia
 hamel
 hamilton
 hammer
@@ -9529,6 +9557,7 @@ madara
 maddison
 madeleine malonga
 madeleinemalonga
+madison
 maggie
 magic
 maguire
@@ -10406,6 +10435,7 @@ septahuit
 seraing
 serbie
 serena
+serfra
 sergi roberto
 serie
 serkvm
@@ -10651,6 +10681,7 @@ team usa
 teamaja
 teambelgium
 teamom
+teamusa
 tebas
 technik
 technologie
