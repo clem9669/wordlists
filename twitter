@@ -298,6 +298,7 @@ ASNLTFC
 ASSEFCL
 ASSELINEAU
 ASSEOM
+ASTER
 ASTON VILLA
 ASTRAZENECA
 ASTRO
@@ -583,6 +584,7 @@ Asgreen
 Ashimeru
 Asia
 Asselineau
+Aster
 Aston Villa
 AstonVilla
 AstraZeneca
@@ -3826,6 +3828,7 @@ KAKASHI
 KALASH
 KALIMUENDO
 KALU
+KAMARA
 KAMEL
 KAMERA
 KAMETO
@@ -3976,6 +3979,7 @@ Kakashi
 Kalash
 Kalimuendo
 Kalu
+Kamara
 Kamel
 Kamera
 Kameto
@@ -4154,6 +4158,7 @@ LA SURETE
 LA TURQUIE
 LA VAR
 LAAT
+LABORDE
 LACAND
 LACARTEAUXTRESORS
 LACASADEPAPEL
@@ -4416,6 +4421,7 @@ LaSureté
 LaTurquie
 LaVAR
 Laat
+Laborde
 Lacazette
 Lachaert
 Lacoste
@@ -4920,6 +4926,7 @@ MONETEAVECTRUFFAUT
 MONSTRUEUX
 MONT CORVO
 MONTPARNASSE
+MONTPELLIER
 MOODY
 MORHAD AMDOUNI
 MOSSON
@@ -5180,6 +5187,7 @@ Monstrueux
 Mont Corvo
 MontCorvo
 Montparnasse
+Montpellier
 Moody
 Morhad Amdouni
 MorhadAmdouni
@@ -5673,6 +5681,7 @@ PATRICK MONTEL
 PATRIMOINE
 PATTY MILLS
 PAU GASOL
+PAU LOPEZ
 PAUL GRAY
 PAUL JOHNSON
 PAULETTA FOPPA
@@ -5849,7 +5858,9 @@ Patrimoine
 Patty Mills
 PattyMills
 Pau Gasol
+Pau Lopez
 PauGasol
+PauLopez
 Paul Gray
 Paul Johnson
 PaulGray
@@ -5998,6 +6009,7 @@ QUALITÄT
 QUARANTANE
 QUARTIER
 QUATSCH
+QUEEN
 QUEL GP
 QUEL MATCH
 QUELLE
@@ -6014,6 +6026,7 @@ Qualität
 Quarantane
 Quartier
 Quatsch
+Queen
 Quelle
 Quentin Bigot
 QuentinBigot
@@ -6570,6 +6583,7 @@ STAGNK
 STALINGRAD
 STANDARD
 STANLEY NSOKI
+STAPS
 STARALOURDIE
 STARSHIP
 STATEMENT
@@ -8291,6 +8305,7 @@ asnltfc
 assefcl
 asselineau
 asseom
+aster
 aston villa
 astrazeneca
 astro
@@ -9985,6 +10000,7 @@ kakashi
 kalash
 kalimuendo
 kalu
+kamara
 kamel
 kamera
 kameto
@@ -10161,6 +10177,7 @@ la sureté
 la turquie
 la var
 laat
+laborde
 lacand
 lacarteauxtresors
 lacarteauxtrésors
@@ -10664,6 +10681,7 @@ moneteavectruffaut
 monstrueux
 mont corvo
 montparnasse
+montpellier
 moody
 morhad amdouni
 mosson
@@ -10965,6 +10983,7 @@ patrickmontel
 patrimoine
 patty mills
 pau gasol
+pau lopez
 paul gray
 paul johnson
 pauletta foppa
@@ -11111,6 +11130,7 @@ qualität
 quarantane
 quartier
 quatsch
+queen
 quel gp
 quel match
 quelgp
@@ -11542,6 +11562,7 @@ stalingrad
 standard
 stanley nsoki
 stanleynsoki
+staps
 staralourdie
 starship
 statement
