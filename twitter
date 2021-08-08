@@ -169,6 +169,7 @@ ALLEZ SARAH
 ALLEZ TEDDY
 ALLEZ UGO
 ALLEZ VINCENT
+ALLEZBORDEAUX
 ALLEZL'OM
 ALLEZLAFRANCE
 ALLEZLENS
@@ -625,6 +626,7 @@ BAKKER
 BAKUGO
 BALDE
 BALERDI
+BALIKWISHA
 BALLON
 BAND
 BANDE ORGANISEE
@@ -725,6 +727,7 @@ BEN YEDDER
 BENCIC
 BENEDETTO
 BENFICA
+BENITO
 BENJAMIN THOMAS
 BENNETT
 BENNY
@@ -927,6 +930,7 @@ Bakugo
 Balde
 Baldé
 Balerdi
+Balikwisha
 Ballon
 Band
 Bande Organisee
@@ -1022,6 +1026,7 @@ BenYedder
 Bencic
 Benedetto
 Benfica
+Benito
 Benjamin Thomas
 BenjaminThomas
 Bennett
@@ -1255,6 +1260,7 @@ CARTI
 CARUSO
 CASSANDRE
 CASSANDRE BEAUGRAND
+CASSANDRE FRISTOT
 CASSE
 CATALOGNE
 CATASTROPHIQUE
@@ -1392,6 +1398,7 @@ CORONA
 CORONAVIRUS
 CORSE
 CORY
+COSTIL
 COUCOU
 COURTOIS
 COUTINHO
@@ -1461,7 +1468,9 @@ Carti
 Caruso
 Cassandre
 Cassandre Beaugrand
+Cassandre Fristot
 CassandreBeaugrand
+CassandreFristot
 Casse
 Catalogne
 Catastrophique
@@ -1614,6 +1623,7 @@ Corona
 Coronavirus
 Corse
 Cory
+Costil
 Coucou
 Courtois
 Coutinho
@@ -3502,6 +3512,7 @@ JOLYNE
 JOON
 JORDI ALBA
 JORGE
+JORGE MARTIN
 JOSE
 JOSE ALDO
 JOSEPH
@@ -3677,6 +3688,8 @@ Jolyne
 Jordi Alba
 JordiAlba
 Jorge
+Jorge Martin
+JorgeMartin
 Jose
 Jose Aldo
 JoseAldo
@@ -3750,6 +3763,7 @@ KAIS SAIED
 KAKASHI
 KALASH
 KALIMUENDO
+KALU
 KAMEL
 KAMERA
 KAMETO
@@ -3885,6 +3899,7 @@ KVKortrijk
 KVMANT
 KVMEUP
 KVOCHA
+KWATENG
 KYLIAN
 KYUBI
 KYUNGSOO
@@ -3897,6 +3912,7 @@ KaisSaied
 Kakashi
 Kalash
 Kalimuendo
+Kalu
 Kamel
 Kamera
 Kameto
@@ -4035,6 +4051,7 @@ Kurama
 Kurek
 Kurzawa
 Kuzma
+Kwateng
 Kylian
 Kyubi
 L'ARBITRAGE
@@ -4727,6 +4744,7 @@ MEDIAPRO
 MEDIZIN
 MEDIZINER
 MEILLEUR VERT
+MEINAU
 MEINUNGEN
 MEINUNGSFREIHEIT
 MEISE
@@ -4983,6 +5001,7 @@ Medizin
 Mediziner
 Meilleur Vert
 MeilleurVert
+Meinau
 Meinungen
 Meinungsfreiheit
 Meise
@@ -5187,6 +5206,7 @@ NICOLAS TOUZAINT
 NIEUWPOORT
 NIGERIA
 NIJVEL
+NIKE
 NIMES
 NINA CHRISTEN
 NINA DERWAEL
@@ -5301,6 +5321,7 @@ NicolasTouzaint
 Nieuwpoort
 Nigeria
 Nijvel
+Nike
 Nimes
 Nina Christen
 Nina Derwael
@@ -5427,6 +5448,7 @@ OSS117
 OSTENDE
 OTPBERNARD
 OTPBernard
+OUDIN
 OUI MADAME
 OUII
 OUIIII
@@ -5508,6 +5530,7 @@ Orléans
 Orte
 Osaka
 Ostende
+Oudin
 Ouii
 Ouiiii
 Ouisticram
@@ -6393,12 +6416,14 @@ SOPRANO
 SORRY HANS
 SOUILLAC
 SOULAX
+SOURCE
 SOZIALISMUS
 SOZIALISTEN
 SPA24H
 SPAANS
 SPACEXPLOSION
 SPAHN
+SPANIEN
 SPANJE
 SPANNEND
 SPARTA PRAGUE
@@ -6714,11 +6739,13 @@ Sorry Hans
 SorryHans
 Souillac
 Soulax
+Source
 Sozialismus
 Sozialisten
 Spa24h
 Spaans
 Spahn
+Spanien
 Spanje
 Spannend
 Sparta Prague
@@ -7360,6 +7387,7 @@ VARANE
 VARDY
 VARIANTEN
 VASELINEDANSUNTITRE
+VASY
 VEGEDREAM
 VELO
 VELODROME
@@ -7484,6 +7512,7 @@ Varane
 Vardy
 Varianten
 VaselineDansUnTitre
+Vasy
 Vegedream
 Velo
 Velodrome
@@ -7602,6 +7631,7 @@ WEIN
 WEISE
 WEJDENE
 WELLE
+WELTBILD
 WENDY
 WENEN
 WENS
@@ -7684,6 +7714,7 @@ Wein
 Weise
 Wejdene
 Welle
+Weltbild
 Wendy
 Wenen
 Wens
@@ -8193,6 +8224,7 @@ bakugo
 balde
 baldé
 balerdi
+balikwisha
 ballon
 band
 bande organisee
@@ -8292,6 +8324,7 @@ ben yedder
 bencic
 benedetto
 benfica
+benito
 benjamin thomas
 benjaminthomas
 bennett
@@ -8512,6 +8545,7 @@ carti
 caruso
 cassandre
 cassandre beaugrand
+cassandre fristot
 cassandrebeaugrand
 casse
 catalogne
@@ -8660,6 +8694,7 @@ corona
 coronavirus
 corse
 cory
+costil
 coucou
 courtois
 coutinho
@@ -9734,6 +9769,7 @@ jolyne
 joon
 jordi alba
 jorge
+jorge martin
 jose
 jose aldo
 joseph
@@ -9800,6 +9836,7 @@ kais saied
 kakashi
 kalash
 kalimuendo
+kalu
 kamel
 kamera
 kameto
@@ -9942,6 +9979,7 @@ kvkser
 kvmant
 kvmeup
 kvocha
+kwateng
 kylian
 kyubi
 kyungsoo
@@ -10366,6 +10404,7 @@ mediapro
 medizin
 mediziner
 meilleur vert
+meinau
 meinungen
 meinungsfreiheit
 meise
@@ -10573,6 +10612,7 @@ nicolastouzaint
 nieuwpoort
 nigeria
 nijvel
+nike
 nimes
 nina christen
 nina derwael
@@ -10708,6 +10748,7 @@ oss 117
 oss117
 ostende
 otpbernard
+oudin
 oui madame
 ouii
 ouiiii
@@ -11284,12 +11325,14 @@ sorry hans
 sorryhans
 souillac
 soulax
+source
 sozialismus
 sozialisten
 spa24h
 spaans
 spacexplosion
 spahn
+spanien
 spanje
 spannend
 sparta prague
@@ -11700,6 +11743,7 @@ varane
 vardy
 varianten
 vaselinedansuntitre
+vasy
 vegedream
 velo
 velodrome
@@ -11817,6 +11861,7 @@ wein
 weise
 wejdene
 welle
+weltbild
 wendy
 wenen
 wens
