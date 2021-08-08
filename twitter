@@ -855,6 +855,7 @@ BROER
 BROLY
 BROMELL
 BRON
+BRONS
 BRONZE
 BROOK
 BROT
@@ -1163,6 +1164,7 @@ Broer
 Broly
 Bromell
 Bron
+Brons
 Bronze
 Brook
 Brot
@@ -1248,6 +1250,8 @@ CETELEM
 CHAMPION
 CHAMPION OLYMPIQUE
 CHAMPIONNE OLYMPIQUE
+CHAMPIONNES OLYMPIQUES
+CHAMPIONNESOLYMPIQUES
 CHAMPIONOLYMPIQUE
 CHAMPIONS
 CHAMPIONS OLYMPIQUES
@@ -1639,6 +1643,7 @@ DANIEL
 DANILO
 DANKJEWEL
 DANKZIJ
+DANNY
 DANOIS
 DANSO
 DARMANIN
@@ -1816,6 +1821,7 @@ Daniel
 Danilo
 Dankjewel
 Dankzij
+Danny
 Danois
 Danso
 Darmanin
@@ -2378,6 +2384,7 @@ FNCSDAY
 FNCSDay
 FOFANA
 FOKUS
+FOPPA
 FORDERUNG
 FOREM
 FORMULA1
@@ -2541,6 +2548,7 @@ Florida
 Fnac
 Fofana
 Fokus
+Foppa
 Forderung
 Forem
 Formula1
@@ -2630,6 +2638,7 @@ GAEL MONFILS
 GAGA
 GAMER
 GAND
+GANE
 GANNA
 GARDE REPUBLICAINE
 GARE DU NORD
@@ -2779,6 +2788,7 @@ GaelMonfils
 Gaga
 Gamer
 Gand
+Gane
 Ganna
 Garde Republicaine
 Garde Républicaine
@@ -3204,6 +3214,7 @@ INSHAALLAH
 INSHALLAH
 INSTAGRAMDOWN
 INTERESSE
+INTERNATIONALCATDAY
 INTERNATIONALFRIENDSHIPDAY
 INTERNETSHUTDOWN
 IPCC
@@ -3284,6 +3295,7 @@ Insel
 InshaAllah
 Inshallah
 Interesse
+InternationalCatDay
 InternationalFriendshipDay
 Ippon
 Ipseite
@@ -3428,6 +3440,7 @@ JOLYNE
 JOON
 JORGE
 JOSE
+JOSE ALDO
 JOSEPH
 JOTARO
 JOTOKYO
@@ -3598,6 +3611,8 @@ Jolien
 Jolyne
 Jorge
 Jose
+Jose Aldo
+JoseAldo
 Joseph
 José
 Jotaro
@@ -4160,6 +4175,7 @@ LOCKDOWN
 LOCKERUNGEN
 LODE
 LOGIK
+LOHN
 LOM
 LOMMEL
 LONDEN
@@ -4461,6 +4477,7 @@ Lockerungen
 Lode
 Lodeur
 Logik
+Lohn
 Lommel
 Londen
 London
@@ -5896,6 +5913,7 @@ RMCMMA
 RMCSport
 ROBERTO
 ROBIN
+ROCFRA
 ROCKDANSUNTITRE
 ROCKET LEAGUE
 ROCKETS
@@ -8294,6 +8312,7 @@ broer
 broly
 bromell
 bron
+brons
 bronze
 brook
 brot
@@ -8386,6 +8405,7 @@ champion
 champion olympique
 championne olympique
 championneolympique
+championnes olympiques
 championolympique
 champions
 champions olympiques
@@ -8566,6 +8586,7 @@ daniel
 danilo
 dankjewel
 dankzij
+danny
 danois
 danso
 darmanin
@@ -8971,6 +8992,7 @@ fncs
 fncs day
 fofana
 fokus
+foppa
 forderung
 forem
 formula1
@@ -9074,6 +9096,7 @@ gael monfils
 gaga
 gamer
 gand
+gane
 ganna
 garde republicaine
 garde républicaine
@@ -9399,6 +9422,7 @@ inshaallah
 inshallah
 instagramdown
 interesse
+internationalcatday
 internationalfriendshipday
 internetshutdown
 ipcc
@@ -9556,6 +9580,7 @@ jolyne
 joon
 jorge
 jose
+jose aldo
 joseph
 josé
 jotaro
@@ -9706,6 +9731,7 @@ koch
 koeman
 koen
 koen naert
+koennaert
 koh lanta
 koh-lanta
 kohlanta
@@ -9985,6 +10011,7 @@ lockdown
 lockerungen
 lode
 logik
+lohn
 lommel
 londen
 london
@@ -10815,6 +10842,7 @@ rmcmma
 rmcsport
 roberto
 robin
+rocfra
 rockdansuntitre
 rocket league
 rockets
