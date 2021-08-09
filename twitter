@@ -128,6 +128,7 @@ AKWS
 AKWs
 ALABA
 ALAIN GRISET
+ALARMEREND
 ALBA
 ALBANIE
 ALBANIË
@@ -181,6 +182,7 @@ ALLEZLOM
 ALLEZPARIS
 ALLEZREMI
 ALLO ALLO
+ALLTAG
 ALLYSON FELIX
 ALMADA
 ALOISE RETORNAZ
@@ -396,6 +398,7 @@ Aktivist
 Alaba
 Alain Griset
 AlainGriset
+Alarmerend
 Alba
 Albanie
 Albert
@@ -460,6 +463,7 @@ AllezlesBleues
 AllezlesBleus
 Allo Allo
 AlloAllo
+Alltag
 Allyson Felix
 AllysonFelix
 Almada
@@ -665,6 +669,7 @@ BANDELI
 BANKEN
 BANZA
 BAPTISTE
+BARBARA
 BARBIE
 BARCA
 BARCELLONA
@@ -979,6 +984,7 @@ Bandeli
 Banken
 Banza
 Baptiste
+Barbara
 Barbie
 Barca
 Barcellona
@@ -1344,6 +1350,7 @@ CHAMPIONSOLYMPIQUES
 CHAMPSELYSEES
 CHAN
 CHANCEN
+CHANGBIN
 CHANTAL DELSOL
 CHAOS
 CHAP
@@ -1563,6 +1570,7 @@ ChampionsOlympiques
 ChampsElysees
 Chan
 Chancen
+Changbin
 Chantal Delsol
 ChantalDelsol
 Chaos
@@ -1760,6 +1768,7 @@ DARMANIN
 DARSTELLUNG
 DATI
 DAUDET
+DAUER
 DAUMEN
 DAVE
 DAVID ASTORGA
@@ -1947,6 +1956,7 @@ Darmanin
 Darstellung
 Dati
 Daudet
+Dauer
 Daumen
 Dave
 David Astorga
@@ -2182,10 +2192,12 @@ ELOPUMP
 EMBIID
 EMERY
 EMINEM
+EMISSIONEN
 EMMA
 EMMA PLASSCHAERT
 EMMA STONE
 EMMANUEL
+EMMANUEL ABAYISENGA
 EMMANUEL MACRON
 EMPATHIE
 EN FRANCE
@@ -2319,13 +2331,16 @@ ElonMusk
 Embiid
 Emery
 Eminem
+Emissionen
 Emma
 Emma Plasschaert
 Emma Stone
 EmmaPlasschaert
 EmmaStone
 Emmanuel
+Emmanuel Abayisenga
 Emmanuel Macron
+EmmanuelAbayisenga
 EmmanuelMacron
 Empathie
 En France
@@ -2455,12 +2470,15 @@ FAVRE
 FAYE
 FC BARCELONA
 FC Barcelona
+FC DE KAMPIOENEN
+FC De Kampioenen
 FC NANTES
 FC Nantes
 FC SION
 FC Sion
 FCBSFC
 FCBarcelona
+FCDeKampioenen
 FCGBCF63
 FCLYB
 FCMESTAC
@@ -3535,6 +3553,7 @@ JACOBS
 JACQUES VILLENEUVE
 JADORE
 JAEMIN
+JAHRZEHNTEN
 JAKE
 JALEN GREEN
 JAMAIQUE
@@ -3688,6 +3707,7 @@ Jacobs
 Jacques Villeneuve
 JacquesVilleneuve
 Jadore
+Jahrzehnten
 Jaimais
 Jaime
 Jaimerais
@@ -4282,6 +4302,7 @@ LE REAL
 LE SEIGNEUR
 LE SENAT
 LE SOIR
+LE STANDARD
 LE VTT
 LEBANESE
 LEBANON
@@ -5017,6 +5038,7 @@ MOULOUD ACHOUR
 MOUNIR
 MOUNTAINBIKE
 MOURAD ALIEV
+MOUSSA
 MOVETHEDATE
 MRNA
 MUCCHIELLI
@@ -5289,6 +5311,7 @@ Mounir
 MountainBike
 Mourad Aliev
 MouradAliev
+Moussa
 MoveTheDate
 Mucchielli
 Mufasa
@@ -5575,6 +5598,7 @@ OHREN
 OKEREKE
 OLIMPIADI
 OLIVIA GREGOIRE
+OLIVIER MAIRE
 OLIVIER VERAN
 OLIVIER VÉRAN
 OLSB29
@@ -5622,6 +5646,7 @@ OPEN VLD
 OPENINGCEREMONY
 OPPOSITION
 OPRECHTE
+OQTF
 OR NOIR
 ORANGE
 ORBAN
@@ -5672,8 +5697,10 @@ Olimpiadi
 Olivia Gregoire
 Olivia Grégoire
 OliviaGrégoire
+Olivier Maire
 Olivier Veran
 Olivier Véran
+OlivierMaire
 OlivierVéran
 Olympia
 Olympic
@@ -5893,6 +5920,7 @@ PREMIER LEAGUE
 PRENEZ
 PRESIDENT
 PRESKO
+PRETRE
 PREUVE
 PRIMA
 PRIME VIDEO
@@ -6206,6 +6234,7 @@ RENNES
 RENTREE2021
 RENZI
 REPLAY
+REPUBLICAN
 RESPEKT
 RESSOURCEN
 REUNION
@@ -6369,6 +6398,7 @@ Rennes
 Rentree2021
 Renzi
 Replay
+Republican
 Respekt
 Ressourcen
 Reunion
@@ -7179,6 +7209,7 @@ TEAMPSG
 TEBAS
 TECHNIK
 TECHNOLOGIE
+TECHNOLOGIEN
 TEDDY
 TEDDY RINER
 TEGA
@@ -7370,6 +7401,7 @@ TeamUSA
 Tebas
 Technik
 Technologie
+Technologien
 Teddy
 Teddy Riner
 TeddyRiner
@@ -8301,6 +8333,7 @@ aktivist
 akws
 alaba
 alain griset
+alarmerend
 alba
 albanie
 albert
@@ -8362,6 +8395,7 @@ allezteddy
 allezvincent
 allo allo
 alloallo
+alltag
 allyson felix
 almada
 alonso
@@ -8560,6 +8594,7 @@ bandeli
 banken
 banza
 baptiste
+barbara
 barbie
 barca
 barcellona
@@ -8919,6 +8954,7 @@ championsolympiques
 champselysees
 chan
 chancen
+changbin
 chantal delsol
 chaos
 chap
@@ -9111,6 +9147,7 @@ darmanin
 darstellung
 dati
 daudet
+dauer
 daumen
 dave
 david astorga
@@ -9332,10 +9369,12 @@ elopump
 embiid
 emery
 eminem
+emissionen
 emma
 emma plasschaert
 emma stone
 emmanuel
+emmanuel abayisenga
 emmanuel macron
 emmaplasschaert
 empathie
@@ -9459,6 +9498,7 @@ faudrait
 favre
 faye
 fc barcelona
+fc de kampioenen
 fc nantes
 fc sion
 fcbsfc
@@ -10035,6 +10075,7 @@ jacobs
 jacques villeneuve
 jadore
 jaemin
+jahrzehnten
 jaimais
 jake
 jalen green
@@ -10421,6 +10462,7 @@ latifi
 laura tarantola
 lauratarantola
 laurence boccolini
+laurenceboccolini
 laurent
 laurent fabius
 laurent tillie
@@ -10468,6 +10510,7 @@ le real
 le seigneur
 le senat
 le soir
+le standard
 le sénat
 le vtt
 le360
@@ -10520,6 +10563,7 @@ leslakers
 lesoir
 lespatronssontdesparasites
 lespropriossontdesparasites
+lestandard
 lestouristes
 lesusa
 letland
@@ -10920,6 +10964,7 @@ mounir
 mountainbike
 mourad aliev
 mouradaliev
+moussa
 movethedate
 mrna
 mucchielli
@@ -11092,6 +11137,7 @@ olimpiadi
 olivia gregoire
 olivia grégoire
 oliviagrégoire
+olivier maire
 olivier veran
 olivier véran
 olsb29
@@ -11140,6 +11186,7 @@ openingceremony
 openvld
 opposition
 oprechte
+oqtf
 or noir
 orange
 orban
@@ -11330,6 +11377,7 @@ premier league
 prenez
 president
 presko
+pretre
 preuve
 prima
 prime video
@@ -11445,6 +11493,7 @@ rennes
 rentree2021
 renzi
 replay
+republican
 respekt
 ressourcen
 reunion
@@ -11941,6 +11990,7 @@ teamusa
 tebas
 technik
 technologie
+technologien
 teddy
 teddy riner
 teddyriner
