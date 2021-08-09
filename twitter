@@ -76,6 +76,9 @@
 800m
 9ICE
 9ice
+AA GENT
+AA Gent
+AAGent
 AARE
 AARGAU
 ABBA
@@ -1316,6 +1319,7 @@ CARUSO
 CASSANDRE
 CASSANDRE BEAUGRAND
 CASSANDRE FRISTOT
+CASSANDREFRISTOT
 CASSE
 CATALOGNE
 CATASTROPHIQUE
@@ -1745,6 +1749,7 @@ Côtesd'Armor
 DA SILVA
 DAARNAAST
 DABABY
+DACH
 DAFT PUNK
 DAGHE MUNEGU
 DALLAS
@@ -1932,6 +1937,7 @@ DaBaby
 DaSilva
 Daarnaast
 Dababy
+Dach
 Daft Punk
 DaftPunk
 Daghe Munegu
@@ -2590,6 +2596,7 @@ FRANCETV
 FRANCETVSPORT
 FRANCIS
 FRANCK FERRAND
+FRANCKEN
 FRANCOIS ASSELINEAU
 FRANCOIS STEVENIN
 FRANCOISE
@@ -2767,6 +2774,7 @@ FranceUSA
 Francis
 Franck Ferrand
 FranckFerrand
+Francken
 Francois Asselineau
 Francoise
 FrandroidOffreMoi
@@ -4199,6 +4207,8 @@ Kyubi
 L'ARBITRAGE
 L'ECOLE
 L'EQUIPE DE FRANCE
+L'INDIGNITE
+L'INDIGNITÉ
 L'INTER
 L'Inter
 L'ODEUR
@@ -4208,6 +4218,8 @@ L'arbitrage
 L'ecole
 L'equipe de France
 L'equipedeFrance
+L'indignite
+L'indignité
 L'inter
 L'odeur
 L'unite
@@ -4695,6 +4707,8 @@ Limburgse
 Lina
 Linda Indergand
 LindaIndergand
+Lindignite
+Lindignité
 Link's Awakening
 Link'sAwakening
 LinkedIn
@@ -5025,6 +5039,7 @@ MONDAYMOTIVATION
 MONETEAVECTRUFFAUT
 MONSTRUEUX
 MONT CORVO
+MONTFORTAINS
 MONTPARNASSE
 MONTPELLIER
 MOODY
@@ -5295,6 +5310,7 @@ MondayMotivation
 Monstrueux
 Mont Corvo
 MontCorvo
+Montfortains
 Montparnasse
 Montpellier
 Moody
@@ -6594,6 +6610,7 @@ SENDUNG
 SENDUNGEN
 SENF
 SENJU
+SEOKJIN
 SEPTAHUIT
 SERAING
 SERBES
@@ -8281,6 +8298,7 @@ Zürich
 \impfgegner\
 \overlegcomite\
 \overlegcomité\
+aa gent
 aare
 aargau
 abba
@@ -8920,6 +8938,7 @@ cassandre
 cassandre beaugrand
 cassandre fristot
 cassandrebeaugrand
+cassandrefristot
 casse
 catalogne
 catastrophique
@@ -9124,6 +9143,7 @@ côtesd'armor
 da silva
 daarnaast
 dababy
+dach
 daft punk
 daghe munegu
 dallas
@@ -9615,6 +9635,7 @@ francetvsport
 franceusa
 francis
 franck ferrand
+francken
 francois asselineau
 francois stevenin
 francoise
@@ -10403,6 +10424,8 @@ kyungsoo
 l'arbitrage
 l'ecole
 l'equipe de france
+l'indignite
+l'indignité
 l'inter
 l'odeur
 l'om
@@ -10949,6 +10972,7 @@ mondaymotivation
 moneteavectruffaut
 monstrueux
 mont corvo
+montfortains
 montparnasse
 montpellier
 moody
@@ -11705,6 +11729,7 @@ sendung
 sendungen
 senf
 senju
+seokjin
 septahuit
 seraing
 serbes
