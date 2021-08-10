@@ -1408,6 +1408,7 @@ CHAMPIONNES OLYMPIQUES
 CHAMPIONNESOLYMPIQUES
 CHAMPIONOLYMPIQUE
 CHAMPIONS
+CHAMPIONS LEAGUE
 CHAMPIONS OLYMPIQUES
 CHAMPIONSOLYMPIQUES
 CHAMPSELYSEES
@@ -1639,7 +1640,9 @@ ChampionOlympique
 Championne Olympique
 ChampionneOlympique
 Champions
+Champions League
 Champions Olympiques
+ChampionsLeague
 ChampionsOlympiques
 ChampsElysees
 Chan
@@ -2920,7 +2923,9 @@ Funfkampf
 FursuitFriday
 Fuss
 Fussball
+FÄLLE
 FÜNFKAMPF
+Fälle
 Fédération
 Félicitations
 Fünfkampf
@@ -4120,6 +4125,7 @@ KIPPPUNKT
 KIRCHE
 KISAKI
 KISHIMOTO
+KISSEN
 KITAOUT
 KLASIKOA
 KLAUSS
@@ -4133,6 +4139,7 @@ KNALLEREI
 KNICKS
 KNIE
 KNIGHTON
+KNOKKE
 KOCH
 KOEMAN
 KOEN
@@ -4291,6 +4298,7 @@ Kipppunkt
 Kirche
 Kisaki
 Kishimoto
+Kissen
 KitaOut
 Klasikoa
 Klauss
@@ -4303,6 +4311,7 @@ Knallerei
 Knicks
 Knie
 Knighton
+Knokke
 Koch
 Koeman
 Koen
@@ -5093,6 +5102,7 @@ MAXIMEBELTRA
 MAYER
 MAZEPIN
 MBAPPE
+MBAPPÉ
 MCDO
 MCFLY
 MCKINSEY
@@ -5214,6 +5224,7 @@ MONATEN
 MONDAYMOJI
 MONDAYMOTIVATION
 MONETEAVECTRUFFAUT
+MONOPRIX
 MONSTRUEUX
 MONT CORVO
 MONTFORTAINS
@@ -5495,6 +5506,7 @@ Monate
 Monaten
 MondayMoji
 MondayMotivation
+Monoprix
 Monstrueux
 Mont Corvo
 MontCorvo
@@ -6167,6 +6179,7 @@ PROFICIAT
 PROFICIAT NINA
 PROFICIATNINA
 PROFILBILD
+PROGNOSEN
 PROGRAMM
 PROJEKTE
 PRYCE
@@ -6365,6 +6378,7 @@ Proficiat
 Proficiat Nina
 ProficiatNina
 Profilbild
+Prognosen
 Programm
 Projekte
 Pryce
@@ -6975,6 +6989,7 @@ SPIDERMANDAY
 SPIEGEL
 SPIELE
 SPIELER
+SPITAL
 SPITÄLER
 SPORTING
 SPORTLER
@@ -7038,6 +7053,7 @@ STRATEGIE
 STRAY
 STRAYKIDS
 STRAYKIDSCOMEBACK
+STREAMZ
 STRECKE
 STROLL
 STROM
@@ -7324,6 +7340,7 @@ Spiderman
 Spiegel
 Spiele
 Spieler
+Spital
 Spitäler
 Sporting
 Sportler
@@ -7378,6 +7395,7 @@ Strategie
 Stray
 StrayKids
 StrayKidsComeback
+Streamz
 Strecke
 Stroll
 Strom
@@ -8012,7 +8030,9 @@ VERGEET
 VERGEWALTIGUNG
 VERLAUFEN
 VERLINDEN
+VERMOGEN
 VERMUTLICH
+VERMÖGEN
 VERRATTI
 VERSTANDNIS
 VERSTAPPEN
@@ -8146,7 +8166,9 @@ Vergeet
 Vergewaltigung
 Verlaufen
 Verlinden
+Vermogen
 Vermutlich
+Vermögen
 Verratti
 Verstandnis
 Verstappen
@@ -9287,6 +9309,7 @@ championneolympique
 championnes olympiques
 championolympique
 champions
+champions league
 champions olympiques
 championsolympiques
 champselysees
@@ -10031,6 +10054,7 @@ fursuitfriday
 fuss
 fussball
 fvdb
+fälle
 fédération
 félicitations
 fünfkampf
@@ -10527,6 +10551,7 @@ jeveuxsucerthomaspesquet
 jezus
 jikook
 jill peeters
+jillpeeters
 jimin live
 jiminie
 jiminlive
@@ -10708,6 +10733,7 @@ kipppunkt
 kirche
 kisaki
 kishimoto
+kissen
 kitaout
 klasikoa
 klauss
@@ -10721,6 +10747,7 @@ knallerei
 knicks
 knie
 knighton
+knokke
 koch
 koeman
 koen
@@ -11354,6 +11381,7 @@ monaten
 mondaymoji
 mondaymotivation
 moneteavectruffaut
+monoprix
 monstrueux
 mont corvo
 montfortains
@@ -11819,6 +11847,7 @@ proficiat
 proficiat nina
 proficiatnina
 profilbild
+prognosen
 programm
 projekte
 pryce
@@ -12278,6 +12307,7 @@ spidermanday
 spiegel
 spiele
 spieler
+spital
 spitäler
 sporting
 sportler
@@ -12340,6 +12370,7 @@ strategie
 stray
 straykids
 straykidscomeback
+streamz
 strecke
 stroll
 strom
@@ -12718,7 +12749,9 @@ vergeet
 vergewaltigung
 verlaufen
 verlinden
+vermogen
 vermutlich
+vermögen
 verratti
 verstandnis
 verstappen
