@@ -150,6 +150,7 @@ ALDO
 ALERTEENLEVEMENT
 ALEX
 ALEX COLLADO
+ALEX TELLES
 ALEX WILSON
 ALEX YEE
 ALEXANDRA TAVERNIER
@@ -428,9 +429,11 @@ Aldo
 AlerteEnlevement
 Alex
 Alex Collado
+Alex Telles
 Alex Wilson
 Alex Yee
 AlexCollado
+AlexTelles
 AlexWilson
 AlexYee
 Alexandra Tavernier
@@ -687,6 +690,7 @@ BAKUGO
 BALDE
 BALE
 BALERDI
+BALI
 BALIKWISHA
 BALLON
 BAMBA
@@ -727,6 +731,7 @@ BATTRE LE JAPON
 BATUM
 BAUDET
 BAUERN
+BAUM
 BAYERN
 BAYO
 BAYONNE
@@ -947,6 +952,7 @@ BREST
 BREXIT
 BRIAND
 BRIGHTON
+BRIGITTE BARDOT
 BRIZARD
 BROER
 BROLY
@@ -1009,6 +1015,7 @@ Balde
 Baldé
 Bale
 Balerdi
+Bali
 Balikwisha
 Ballon
 Bamba
@@ -1056,6 +1063,7 @@ BattreleJapon
 Batum
 Baudet
 Bauern
+Baum
 Bayern
 Bayo
 Bayonne
@@ -1289,6 +1297,8 @@ Brest
 Brexit
 Briand
 Brighton
+Brigitte Bardot
+BrigitteBardot
 Brizard
 Broer
 Broly
@@ -2531,6 +2541,7 @@ Extreem
 FABIUS
 FABRICE
 FABRIZIO
+FABRIZIO ROMANO
 FACHLEUTE
 FAIR
 FAIT
@@ -2739,6 +2750,8 @@ FVDB
 Fabius
 Fabrice
 Fabrizio
+Fabrizio Romano
+FabrizioRomano
 Fachleute
 Fair
 Fait
@@ -5018,6 +5031,7 @@ MANON BRUNET
 MARATHON
 MARBELLA
 MARBURG
+MARC COUCKE
 MARC VAN RANST
 MARC-ANTOINE OLIVIER
 MARCA
@@ -5274,11 +5288,13 @@ ManonBrunet
 Marathon
 Marbella
 Marburg
+Marc Coucke
 Marc Van Ranst
 Marc van Ranst
 Marc-Antoine Olivier
 Marc-AntoineOlivier
 MarcAntoine Olivier
+MarcCoucke
 MarcVanRanst
 Marca
 Marcelo
@@ -8058,6 +8074,7 @@ VOLLEYBALL
 VOLLSTANDIG GEIMPFTE
 VOLPI
 VORMER
+VORSCHLAG
 VORSTELLUNG
 VORTEILE
 VOSGES
@@ -8196,6 +8213,7 @@ Vollstandig Geimpfte
 VollstandigGeimpfte
 Volpi
 Vormer
+Vorschlag
 Vorstellung
 Vorteile
 Vosges
@@ -8490,6 +8508,7 @@ ZUSTAND
 ZUSTIMMUNG
 ZVEREV
 ZWASTA
+ZWEDEN
 ZWEIFEL
 ZWIEBELN
 ZWIJNDRECHT
@@ -8540,6 +8559,7 @@ Zusammenhang
 Zustand
 Zustimmung
 Zverev
+Zweden
 Zweifel
 Zwiebeln
 Zwijndrecht
@@ -8638,6 +8658,7 @@ alerteEnlevement
 alerteenlevement
 alex
 alex collado
+alex telles
 alex wilson
 alex yee
 alexandra tavernier
@@ -8883,6 +8904,7 @@ balde
 baldé
 bale
 balerdi
+bali
 balikwisha
 ballon
 bamba
@@ -8928,6 +8950,7 @@ battrelejapon
 batum
 baudet
 bauern
+baum
 bayern
 bayo
 bayonne
@@ -9150,6 +9173,7 @@ brest
 brexit
 briand
 brighton
+brigitte bardot
 brizard
 broer
 broly
@@ -9801,6 +9825,7 @@ extreem
 fabius
 fabrice
 fabrizio
+fabrizio romano
 fachleute
 fair
 fait
@@ -11129,6 +11154,7 @@ manonbrunet
 marathon
 marbella
 marburg
+marc coucke
 marc van ranst
 marc-antoine olivier
 marca
@@ -12761,6 +12787,7 @@ vollstandig geimpfte
 vollstandiggeimpfte
 volpi
 vormer
+vorschlag
 vorstellung
 vorteile
 vosges
@@ -12937,6 +12964,7 @@ zustand
 zustimmung
 zverev
 zwasta
+zweden
 zweifel
 zwiebeln
 zwijndrecht
