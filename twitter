@@ -68,7 +68,9 @@
 5000m
 50KM
 50km
+5MIN
 5PTS
+5min
 5pts
 70KG
 70kg
@@ -949,6 +951,7 @@ BRUGSE
 BRUSSEL
 BRUSSELAARS
 BRUXELLES
+BRUXELLOIS
 BRÜCKEN
 BSCYB
 BTRBRUSSELS
@@ -1284,6 +1287,7 @@ Brugse
 Brussel
 Brusselaars
 Bruxelles
+Bruxellois
 Brégançon
 Brücken
 Bubble
@@ -3178,7 +3182,9 @@ Guingamp
 Gulf Stream
 GulfStream
 Gunna
+GÄSTE
 GÉRALD BATICLE
+Gäste
 Gérald Darmanin
 GéraldDarmanin
 HAALAND
@@ -8104,6 +8110,7 @@ VladimirPetkovic
 Vlaming
 Vlamingen
 Vlive
+Vogel
 Volland
 Volley
 VolleyBall
@@ -8125,6 +8132,7 @@ VÉRAN
 VÖGEL
 Vélodrome
 Véran
+Vögel
 WAALSE
 WAFFE
 WAGEN
@@ -9070,6 +9078,7 @@ brugse
 brussel
 brusselaars
 bruxelles
+bruxellois
 brégançon
 brücken
 bscyb
@@ -10065,6 +10074,7 @@ guingamp
 gulf stream
 gunna
 gymnastics
+gäste
 gérald baticle
 gérald darmanin
 géraldbaticle
