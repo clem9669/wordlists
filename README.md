@@ -20,8 +20,8 @@
 [![Wordlist-news](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml)
 [![Music-trends](https://github.com/clem9669/wordlists/actions/workflows/lastfm.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/lastfm.yml)
 [![Release](https://github.com/clem9669/wordlists/actions/workflows/release.yaml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/release.yaml)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/clem9669/wordlists)
-
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/clem9669/wordlists)]((https://github.com/clem9669/wordlists/releases/)
+![Github Repo size](https://img.shields.io/github/repo-size/clem9669/wordlists?label=Repo%20Size)
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -65,6 +65,7 @@ The main part of the list come from various places of internet but many thanks t
 * [JustinApplegate/password-cracking](https://github.com/JustinApplegate/password-cracking)
 * [Cheroxx/custom-wordlists](https://github.com/Cheroxx/custom-wordlists)
 * [decal/werdlists](https://github.com/decal/werdlists)
+* [wordlists.dev](https://www.wordlists.dev/)
 * And more github wordlists ...
 
 The keyboard walks are generated with [kwprocessor](https://github.com/hashcat/kwprocessor).
