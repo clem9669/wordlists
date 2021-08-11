@@ -1397,6 +1397,7 @@ CAMP NOU
 CANADA
 CANAL 10
 CANCER
+CANICULE
 CANOE
 CANOË
 CAPITAL
@@ -1486,6 +1487,7 @@ CHOCOSOLDES
 CHOKRI
 CHOUINE
 CHRIS CHAN
+CHRIS FROOME
 CHRIS PAUL
 CHRISTENEN
 CHRISTIE
@@ -1729,8 +1731,10 @@ ChocoSoldes
 Chokri
 Chouine
 Chris Chan
+Chris Froome
 Chris Paul
 ChrisChan
+ChrisFroome
 ChrisPaul
 Christenen
 Christie
@@ -2067,6 +2071,7 @@ DUNKERQUE
 DUPLANTIS
 DUPONT
 DURBUY
+DURCHSEUCHUNG
 DUSTY HILL
 DWIGHT
 DYBALA
@@ -2295,6 +2300,7 @@ Dunkerque
 Duplantis
 Dupont
 Durbuy
+Durchseuchung
 Dusty Hill
 DustyHill
 Dwight
@@ -2615,6 +2621,7 @@ FABRIZIO ROMANO
 FACHLEUTE
 FAIR
 FAIT
+FAKENEWS
 FAKTEN
 FAKTOREN
 FALCON
@@ -2669,6 +2676,7 @@ FEDERER
 FELA
 FELICITATIONS
 FELIX
+FELLAINI
 FENCING
 FENSTER
 FERLAND
@@ -2863,6 +2871,7 @@ Federer
 Fela
 Felicitations
 Felix
+Fellaini
 Fencing
 Fenster
 Ferland
@@ -4821,6 +4830,7 @@ La F1
 La FFF
 La France
 La Jamaïque
+La Lfp
 La Liga
 La Marseillaise
 La Provence
@@ -4843,6 +4853,7 @@ LaF1
 LaFFF
 LaFrance
 LaJamaïque
+LaLfp
 LaLiga
 LaMarseillaise
 LaMatinaleWE
@@ -5177,6 +5188,7 @@ LéquipedeFrance
 Lösung
 Lösungen
 MA LONG
+MAANDAG
 MACHIDA
 MACRON
 MACRONDESTITUTION
@@ -5449,6 +5461,7 @@ MYRRHA
 MYTWITTERANNIVERSARY
 Ma Long
 MaLong
+Maandag
 Machida
 Macron
 MacronDestitution
@@ -6101,6 +6114,7 @@ OPEN VLD
 OPENINGCEREMONY
 OPPOSITION
 OPRECHTE
+OPTION
 OQTF
 OR NOIR
 ORANGE
@@ -6200,6 +6214,7 @@ OpenVld
 OpeningCeremony
 Opposition
 Oprechte
+Option
 Or Noir
 OrNoir
 Orange
@@ -6692,6 +6707,8 @@ Querdenker
 QuiFinancePhilippot
 Quickie
 Quil
+R KELLY
+R Kelly
 RAAR
 RACHIDA DATI
 RADONJIC
@@ -6789,6 +6806,7 @@ RIPPLE
 RIPUrs
 RIQUI
 RISEUPFORCHANGE
+RKelly
 RMC SPORT
 RMC Sport
 RMCBOXE
@@ -7169,6 +7187,7 @@ SHARING CRYP
 SHAWN
 SHINOBU
 SI LE PSG
+SICHT
 SICILE
 SIDA
 SIDEP
@@ -7186,6 +7205,7 @@ SIMON
 SIMON DELESTRE
 SIMONE
 SIMONE BILES
+SIMONE VEIL
 SIMONS
 SINA FREI
 SINAYOKO
@@ -7307,6 +7327,7 @@ STAY 3RD ANNIVERSARY
 STAY3RDANNIVERSARY
 STAYMENTIONPARTY
 STAYSELCADAY
+STEEVY
 STEF
 STEIN
 STELLE
@@ -7531,6 +7552,7 @@ SharingCRYP
 Shawn
 Shinobu
 Si le PSG
+Sicht
 Sicile
 Sida
 Sieg
@@ -7551,7 +7573,9 @@ Simon Delestre
 SimonDelestre
 Simone
 Simone Biles
+Simone Veil
 SimoneBiles
+SimoneVeil
 Simons
 Sina Frei
 SinaFrei
@@ -7662,6 +7686,7 @@ Statistik
 Statistiken
 Stau
 StaySelcaDay
+Steevy
 Stef
 Stein
 Stelle
@@ -7800,6 +7825,7 @@ TELEGRAM
 TELENET
 TELFORT
 TELLER
+TEMPO 30
 TEMPS MORT
 TEMPTATIONISLAND
 TENNIS
@@ -8005,6 +8031,8 @@ Telegram
 Telenet
 Telfort
 Teller
+Tempo 30
+Tempo30
 Temps Mort
 TempsMort
 TemptationIsland
@@ -8624,6 +8652,7 @@ WIRKSAMKEIT
 WIRSINDNETZCOURAGE
 WIRT
 WIRTSCHAFT
+WISSENS
 WISSENSCHAFT
 WISSENSCHAFTLER
 WIT-RUSLAND
@@ -8716,6 +8745,7 @@ Windrader
 Wirksamkeit
 Wirt
 Wirtschaft
+Wissens
 Wissenschaft
 Wissenschaftler
 Wit-Rusland
@@ -9594,6 +9624,7 @@ camp nou
 canada
 canal 10
 cancer
+canicule
 canoe
 capital
 capitol
@@ -9684,6 +9715,7 @@ chocosoldes
 chokri
 chouine
 chris chan
+chris froome
 chris paul
 christenen
 christie
@@ -10029,6 +10061,7 @@ dunkerque
 duplantis
 dupont
 durbuy
+durchseuchung
 dusty hill
 dwight
 dybala
@@ -10200,6 +10233,7 @@ fabrizio romano
 fachleute
 fair
 fait
+fakenews
 fakten
 faktoren
 falcon
@@ -10246,6 +10280,7 @@ federer
 fela
 felicitations
 felix
+fellaini
 fencing
 fenster
 ferland
@@ -10681,6 +10716,7 @@ hirn
 hiroshima
 historique
 hln onderzoek
+hlnonderzoek
 hobi
 hochwasser
 hochzeit
@@ -11540,6 +11576,7 @@ lösungen
 lüüt
 mRNA
 ma long
+maandag
 machida
 macron
 macrondestitution
@@ -12062,6 +12099,7 @@ openingceremony
 openvld
 opposition
 oprechte
+option
 oqtf
 or noir
 orange
@@ -12334,6 +12372,7 @@ querdenker
 quickie
 quifinancephilippot
 quil
+r kelly
 raar
 rachida dati
 rachidadati
@@ -12660,6 +12699,7 @@ sharing cryp
 shawn
 shinobu
 si le psg
+sicht
 sicile
 sida
 sidep
@@ -12678,6 +12718,7 @@ simon
 simon delestre
 simone
 simone biles
+simone veil
 simons
 sina frei
 sinafrei
@@ -12808,6 +12849,7 @@ stau
 stay 3rd anniversary
 staymentionparty
 stayselcaday
+steevy
 stef
 stein
 stelle
@@ -12944,6 +12986,7 @@ telegram
 telenet
 telfort
 teller
+tempo 30
 temps mort
 temptationisland
 tennis
@@ -13371,6 +13414,7 @@ wirsindNetzCourage
 wirsindnetzcourage
 wirt
 wirtschaft
+wissens
 wissenschaft
 wissenschaftler
 wit-rusland
