@@ -218,6 +218,7 @@ AMANDINE LEYNAUD
 AMAVI
 AMAZON
 AMAZON PRIME
+AMAZON UK
 AMEN
 AMERICA
 AMERICAINES
@@ -253,6 +254,7 @@ ANNE HIDALGO
 ANNEAUX
 ANNEKE
 ANNELIES
+ANNIE ERNAUX
 ANNIKA SCHLEU
 ANREIZE
 ANSATZ
@@ -525,7 +527,9 @@ AmandineLeynaud
 Amavi
 Amazon
 Amazon Prime
+Amazon UK
 AmazonPrime
+AmazonUK
 Amen
 America
 Americaines
@@ -569,6 +573,8 @@ AnneHidalgo
 Anneaux
 Anneke
 Annelies
+Annie Ernaux
+AnnieErnaux
 Annika Schleu
 AnnikaSchleu
 Anreize
@@ -705,6 +711,7 @@ BALE
 BALERDI
 BALI
 BALIKWISHA
+BALKON
 BALLON
 BAMBA
 BAND
@@ -1393,6 +1400,7 @@ CANOE
 CANOË
 CAPITAL
 CAPITOL
+CAPTAIN CARTER
 CAQUERET
 CARAPAZ
 CARDONA
@@ -1626,6 +1634,8 @@ Cancer
 Canoe
 Capital
 Capitol
+Captain Carter
+CaptainCarter
 Caqueret
 Carapaz
 Cardona
@@ -3126,6 +3136,7 @@ GREALISH
 GREECE
 GRENIER
 GRENOUILLER
+GRENZE
 GRIEKENLAND
 GRIEZMANN
 GRIMES
@@ -3282,6 +3293,7 @@ Grealish
 Greece
 Grenier
 Grenouiller
+Grenze
 Griekenland
 Griezmann
 Grippe
@@ -3634,6 +3646,7 @@ INSHAALLAH
 INSHALLAH
 INSTAGRAMDOWN
 INTERESSE
+INTERESSEN
 INTERNATIONALCATDAY
 INTERNATIONALFRIENDSHIPDAY
 INTERNETSHUTDOWN
@@ -3728,6 +3741,7 @@ Insel
 InshaAllah
 Inshallah
 Interesse
+Interessen
 InternationalCatDay
 InternationalFriendshipDay
 Ippon
@@ -6143,6 +6157,7 @@ Onfray
 OnlyOneOf
 Ontslag
 Onuachu
+Onzin
 Ooooh
 Oops
 Oostende
@@ -6245,6 +6260,7 @@ PAYPAL
 PAYS-BAS
 PEAKY BLINDERS
 PEDRI
+PEGGY CARTER
 PELE
 PELLOUX
 PELS
@@ -6457,6 +6473,8 @@ PaysBas
 Peaky Blinders
 PeakyBlinders
 Pedri
+Peggy Carter
+PeggyCarter
 Pele
 Pelloux
 Pels
@@ -6759,6 +6777,7 @@ RODOLPHE GAUDIN
 RODRYGO
 ROGER
 ROGER FEDERER
+ROGER HODKINSON
 ROGER LESPAGNARD
 ROGLIC
 ROJAS
@@ -6919,8 +6938,10 @@ RodolpheGaudin
 Rodrygo
 Roger
 Roger Federer
+Roger Hodkinson
 Roger Lespagnard
 RogerFederer
+RogerHodkinson
 RogerLespagnard
 Roglic
 Rojas
@@ -7270,6 +7291,7 @@ STRAFE
 STRAND
 STRANGER THINGS
 STRANGERTHINGS
+STRASBOURG
 STRASSEN
 STRATEGIE
 STRAY
@@ -7623,6 +7645,7 @@ Strafe
 Strand
 Stranger Things
 StrangerThings
+Strasbourg
 Strassen
 Strategie
 Stray
@@ -8324,6 +8347,7 @@ VLADIMIR PETKOVIC
 VLAMING
 VLAMINGEN
 VLAP
+VLIEGHE
 VLIVE
 VN-RAPPORT
 VN-rapport
@@ -9003,6 +9027,7 @@ amandineleynaud
 amavi
 amazon
 amazon prime
+amazon uk
 amen
 america
 americaines
@@ -9040,6 +9065,7 @@ anne hidalgo
 anneaux
 anneke
 annelies
+annie ernaux
 annika schleu
 annwauters
 anreize
@@ -9180,6 +9206,7 @@ bale
 balerdi
 bali
 balikwisha
+balkon
 ballon
 bamba
 band
@@ -9523,6 +9550,7 @@ cancer
 canoe
 capital
 capitol
+captain carter
 caqueret
 carapaz
 cardona
@@ -10477,6 +10505,7 @@ grealish
 greece
 grenier
 grenouiller
+grenze
 griekenland
 griezmann
 grimes
@@ -10706,6 +10735,7 @@ inshaallah
 inshallah
 instagramdown
 interesse
+interessen
 internationalcatday
 internationalfriendshipday
 internetshutdown
@@ -12073,6 +12103,7 @@ paypal
 pays-bas
 peaky blinders
 pedri
+peggy carter
 pele
 pelloux
 pels
@@ -12362,6 +12393,7 @@ rodolphe gaudin
 rodrygo
 roger
 roger federer
+roger hodkinson
 roger lespagnard
 roglic
 rojas
@@ -12732,6 +12764,7 @@ strafe
 strand
 stranger things
 strangerthings
+strasbourg
 strassen
 strategie
 stray
@@ -13180,6 +13213,7 @@ vladimir petkovic
 vlaming
 vlamingen
 vlap
+vlieghe
 vlive
 vn-rapport
 vnrapport
