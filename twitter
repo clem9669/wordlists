@@ -241,6 +241,7 @@ ANDERLECHT
 ANDERSEN
 ANDRE TUBEUF
 ANDREW
+ANDREW CUOMO
 ANDSER
 ANDUNI
 ANDUSG
@@ -561,6 +562,8 @@ Anderlecht
 Andersen
 Andre Tubeuf
 Andrew
+Andrew Cuomo
+AndrewCuomo
 André Tubeuf
 AndréTubeuf
 Andy Delort
@@ -2768,6 +2771,7 @@ FLEURET
 FLIEGEN
 FLIEGER
 FLORA DUFFY
+FLORE
 FLORENT MANAUDOU
 FLORENZI
 FLORIAN
@@ -2960,6 +2964,7 @@ Fliegen
 Flieger
 Flora Duffy
 FloraDuffy
+Flore
 Florent Manaudou
 FlorentManaudou
 Florenzi
@@ -3100,6 +3105,7 @@ GEFANGNIS
 GEFELICITEERD
 GEGENTEIL
 GEHALT
+GEIMPFT
 GEIMPFTE
 GEIMPFTEN
 GELOOF
@@ -3266,6 +3272,7 @@ Gefangnis
 Gefeliciteerd
 Gegenteil
 Gehalt
+Geimpft
 Geimpfte
 Geimpften
 Geloof
@@ -6057,6 +6064,7 @@ Newell
 Neymar
 Ngannou
 Ngapeth
+NichtMeinBundesrat
 Nicki
 Nico
 Nicolas Geay
@@ -6901,6 +6909,7 @@ RIPPLE
 RIPUrs
 RIQUI
 RISEUPFORCHANGE
+RISIKEN
 RKelly
 RMC SPORT
 RMC Sport
@@ -7069,6 +7078,7 @@ Ripple
 Riqui
 RiseUpForChange
 RiseUpforChange
+Risiken
 Roazhon Park
 RoazhonPark
 Roberto
@@ -7208,6 +7218,7 @@ SAVANIER
 SAYU
 SCAR
 SCARLETT JOHANSSON
+SCBASNL
 SCHAARBEEK
 SCHADEN
 SCHAERBEEK
@@ -7218,6 +7229,7 @@ SCHLEU
 SCHMERZEN
 SCHNEE
 SCHONEN 1
+SCHONEN ABEND
 SCHONEN SONNTAG
 SCHRITT
 SCHRODER
@@ -7239,6 +7251,7 @@ SCHWEIZERINNEN
 SCHWESTER
 SCHWURBLER
 SCHÄDEN
+SCHÖNEN ABEND
 SCIENSANO
 SCLESSIN
 SCOTLAND
@@ -7442,6 +7455,7 @@ STEVEN DA COSTA
 STEVENDACOSTA
 STIKO
 STIL
+STIMMEN
 STONE OCEAN
 STONEOCEAN
 STOPDICTATURESANITAIRE
@@ -7489,6 +7503,7 @@ SUNS
 SUPER LEAGUE
 SUPER POLE
 SUPERBE
+SUPERCOUPE
 SUPERLEAGUE
 SUSPENSION
 SVIZZERA
@@ -7497,6 +7512,7 @@ SWIMMING
 SWISS
 SWISS NATIONAL DAY
 SWISSCOM
+SWISSCOVIDCRIME
 SWISSCOVIDFAIL
 SWISSNATIONALDAY
 SWITCH
@@ -7504,6 +7520,7 @@ SWITZERLAND
 SYLVAIN ANDRE
 SYLVAIN RIPOLL
 SYMPTOME
+SYRACUSE
 SYRIA
 Sabrina
 Sacha
@@ -7590,6 +7607,7 @@ Schleu
 Schmerzen
 Schnee
 Schonen 1
+Schonen Abend
 Schonen Sonntag
 Schonen1
 SchonenSonntag
@@ -7614,6 +7632,8 @@ Schweizerinnen
 Schwester
 Schwurbler
 Schäden
+Schönen Abend
+SchönenAbend
 Sciensano
 Sclessin
 Scotland
@@ -7808,6 +7828,7 @@ Steven Da Costa
 StevenDaCosta
 Stiko
 Stil
+Stimmen
 Stone Ocean
 StoneOcean
 StopDictatureSanitaire
@@ -7856,6 +7877,7 @@ Super Pole
 SuperLeague
 SuperPole
 Superbe
+Supercoupe
 Superleague
 Suspension
 Suédoises
@@ -7863,6 +7885,7 @@ Svizzera
 Swimming
 Swiss
 Swiss National Day
+SwissCovidCrime
 SwissCovidFail
 SwissNationalDay
 Swisscom
@@ -7874,6 +7897,7 @@ Sylvain Ripoll
 SylvainAndré
 SylvainRipoll
 Symptome
+Syracuse
 Syria
 Sète
 Sécu
@@ -9248,6 +9272,7 @@ analyse
 anderlecht
 andersen
 andrew
+andrew cuomo
 andré tubeuf
 andser
 anduni
@@ -10469,6 +10494,7 @@ fleuret
 fliegen
 flieger
 flora duffy
+flore
 florent manaudou
 florentmanaudou
 florenzi
@@ -10629,6 +10655,7 @@ gefangnis
 gefeliciteerd
 gegenteil
 gehalt
+geimpft
 geimpfte
 geimpften
 geloof
@@ -12637,6 +12664,7 @@ ripple
 ripurs
 riqui
 riseupforchange
+risiken
 rmc sport
 rmcboxe
 rmcmma
@@ -12784,6 +12812,7 @@ savanier
 sayu
 scar
 scarlett johansson
+scbasnl
 schaarbeek
 schaden
 schaerbeek
@@ -12794,6 +12823,7 @@ schleu
 schmerzen
 schnee
 schonen 1
+schonen abend
 schonen sonntag
 schonen1
 schonensonntag
@@ -12817,6 +12847,7 @@ schweizerinnen
 schwester
 schwurbler
 schäden
+schönen abend
 sciensano
 sclessin
 scotland
@@ -13030,6 +13061,7 @@ steven
 steven da costa
 stiko
 stil
+stimmen
 stone ocean
 stoneocean
 stopdictaturesanitaire
@@ -13079,6 +13111,7 @@ suns
 super league
 super pole
 superbe
+supercoupe
 superleague
 superpole
 suspension
@@ -13089,6 +13122,7 @@ swimming
 swiss
 swiss national day
 swisscom
+swisscovidcrime
 swisscovidfail
 swissnationalday
 switch
@@ -13098,6 +13132,7 @@ sylvain andré
 sylvain ripoll
 sylvainripoll
 symptome
+syracuse
 syria
 sète
 sécu
