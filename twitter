@@ -261,6 +261,7 @@ ANREIZE
 ANSATZ
 ANSICHTEN
 ANSTAND
+ANSTECKUNGEN
 ANSTIEG
 ANTEIL
 ANTHO
@@ -582,6 +583,7 @@ Anreize
 Ansatz
 Ansichten
 Anstand
+Ansteckungen
 Anstieg
 Anteil
 Antho
@@ -2167,6 +2169,8 @@ Delap
 Delcroix
 Delhaize
 Delort
+Delphine Lecompte
+DelphineLecompte
 Delta
 Delta-Variante
 DeltaVariante
@@ -2281,7 +2285,9 @@ Dosen
 Dosis
 Dost
 Dr ZELENKO
+Dr Zelenko
 DrZELENKO
+DrZelenko
 Draft
 Draghi
 Dragic
@@ -4206,6 +4212,7 @@ JérémyDesplanches
 Jétais
 KAAGENT
 KABILA
+KABUL
 KABYLIE
 KADIMA
 KAGEYAMA
@@ -4374,6 +4381,7 @@ KYLIAN
 KYUBI
 KYUNGSOO
 Kabila
+Kabul
 Kabylie
 Kadima
 Kageyama
@@ -6171,6 +6179,7 @@ OUTER
 OUTER BANKS
 OUTER WILDS
 OUTERBANKS
+OVER THE HORIZON
 OVERLEGCOMITE
 OVLD
 Oberlin
@@ -6193,9 +6202,11 @@ Olimpiadi
 Olivia Gregoire
 Olivia Grégoire
 OliviaGrégoire
+Olivier MAIRE
 Olivier Maire
 Olivier Veran
 Olivier Véran
+OlivierMAIRE
 OlivierMaire
 OlivierVéran
 Olympia
@@ -6265,8 +6276,10 @@ Outer Wilds
 OuterBanks
 OuterWilds
 OutofControl
+Over the Horizon
 Overlegcomite
 Overlegcomité
+OvertheHorizon
 P.S USERS
 P.S Users
 P.SUsers
@@ -6473,6 +6486,7 @@ PUNKTE
 PURE
 PUREE
 PUTIN
+PVDA
 Paca
 Paint_Me_Naked
 Pakistan
@@ -6900,6 +6914,7 @@ RUSSELL
 RUSSES
 RUSSIA
 RUSSIE
+RUSSISCHE
 RUST
 RUTLI
 RWANDA
@@ -7067,6 +7082,7 @@ Russell
 Russes
 Russia
 Russie
+Russische
 Rust
 Rutli
 Rwanda
@@ -7422,11 +7438,13 @@ SWIMMING
 SWISS
 SWISS NATIONAL DAY
 SWISSCOM
+SWISSCOVIDFAIL
 SWISSNATIONALDAY
 SWITCH
 SWITZERLAND
 SYLVAIN ANDRE
 SYLVAIN RIPOLL
+SYMPTOME
 SYRIA
 Sabrina
 Sacha
@@ -7783,6 +7801,7 @@ Svizzera
 Swimming
 Swiss
 Swiss National Day
+SwissCovidFail
 SwissNationalDay
 Swisscom
 Switch
@@ -7792,6 +7811,7 @@ Sylvain André
 Sylvain Ripoll
 SylvainAndré
 SylvainRipoll
+Symptome
 Syria
 Sète
 Sécu
@@ -9183,6 +9203,7 @@ anreize
 ansatz
 ansichten
 anstand
+ansteckungen
 anstieg
 anteil
 antho
@@ -11111,6 +11132,7 @@ jérémydesplanches
 jétais
 kaagent
 kabila
+kabul
 kabylie
 kadima
 kageyama
@@ -12179,6 +12201,7 @@ outer
 outer banks
 outer wilds
 outerbanks
+over the horizon
 overlegcomite
 overlegcomité
 ovld
@@ -12397,6 +12420,7 @@ pure
 puree
 purée
 putin
+pvda
 pénélope
 qatar
 qr code
@@ -12590,6 +12614,7 @@ russell
 russes
 russia
 russie
+russische
 rust
 rutli
 rwanda
@@ -12969,6 +12994,7 @@ swimming
 swiss
 swiss national day
 swisscom
+swisscovidfail
 swissnationalday
 switch
 switzerland
@@ -12976,6 +13002,7 @@ sylvain andre
 sylvain andré
 sylvain ripoll
 sylvainripoll
+symptome
 syria
 sète
 sécu
