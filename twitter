@@ -1477,6 +1477,7 @@ CEROHL
 CETELEM
 CHAERYEONGISCOMING
 CHAERYEONGisComing
+CHALOBAH
 CHAMPION
 CHAMPION OLYMPIQUE
 CHAMPIONNE OLYMPIQUE
@@ -1721,6 +1722,7 @@ CeremonieDeCloture
 Cest Marseille
 Cest Mozart Capitaine Jackson
 Cetelem
+Chalobah
 Champion
 Champion Olympique
 ChampionOlympique
@@ -2371,6 +2373,7 @@ EBENE
 EBRAHIM RAISI
 ECKE
 ECOLO
+ED SHEERAN
 EDDY DEMAREZ
 EDDYDEMAREZ
 EDITH PIAF
@@ -2515,6 +2518,8 @@ Ebrahim Raisi
 EbrahimRaisi
 Ecke
 Ecolo
+Ed Sheeran
+EdSheeran
 Eddy Demarez
 EddyDemarez
 Edith Piaf
@@ -3420,6 +3425,7 @@ HAGEL
 HAIKYUU
 HAINAUT
 HAKI
+HAKIM
 HAKIMI
 HALFTE
 HALL
@@ -3545,6 +3551,7 @@ Hagel
 Haikyuu
 Hainaut
 Haki
+Hakim
 Hakimi
 Halfte
 Hall
@@ -4385,6 +4392,7 @@ KONE
 KONRAD
 KONRAD DE LA FUENTE
 KONSENS
+KONSEQUENZ
 KONSEQUENZEN
 KONSUM
 KONTEXT
@@ -4568,6 +4576,7 @@ Konrad
 Konrad de la Fuente
 KonraddelaFuente
 Konsens
+Konsequenz
 Konsequenzen
 Konsum
 Kontext
@@ -4691,6 +4700,7 @@ LATIFI
 LAURA TARANTOLA
 LAURENCE BOCCOLINI
 LAURENT
+LAURENT BLANC
 LAURENT FABIUS
 LAURENT TILLIE
 LAURYN HILL
@@ -4981,8 +4991,10 @@ LauraTarantola
 Laurence Boccolini
 LaurenceBoccolini
 Laurent
+Laurent Blanc
 Laurent Fabius
 Laurent Tillie
+LaurentBlanc
 LaurentFabius
 LaurentTillie
 Lauryn Hill
@@ -5533,6 +5545,7 @@ MONTREAL
 MONTRÉAL
 MOODY
 MORATA
+MORENO
 MORHAD AMDOUNI
 MOSSON
 MOTOGP
@@ -5832,6 +5845,7 @@ Montreal
 Montréal
 Moody
 Morata
+Moreno
 Morhad Amdouni
 MorhadAmdouni
 Mosson
@@ -5968,6 +5982,7 @@ NOE PONTI
 NOEL
 NOGMAALS
 NOICE
+NOLAN
 NOLE
 NOMME 5
 NONAUPASSEDELAHONTE
@@ -6113,6 +6128,7 @@ Noe Ponti
 Noel
 Nogmaals
 Noice
+Nolan
 Nole
 Nomme 5
 Nomme5
@@ -6281,6 +6297,7 @@ Ohja
 Ohren
 Okereke
 Olimpiadi
+Olivia
 Olivia Gregoire
 Olivia Grégoire
 OliviaGrégoire
@@ -6835,6 +6852,8 @@ Quickie
 Quil
 R KELLY
 R Kelly
+R.KELLY
+R.Kelly
 RAAR
 RACHIDA DATI
 RADONJIC
@@ -6988,6 +7007,7 @@ ROYALGBTQIA
 RSCA
 RUBEN
 RUBIO
+RUDIGER
 RUDY
 RUGANI
 RUGBY
@@ -7156,6 +7176,7 @@ Rousseau
 RoyaLGBTQIA
 Ruben
 Rubio
+Rudiger
 Rudy
 Rugani
 Rugby
@@ -9864,6 +9885,7 @@ ceremoniedecloture
 cerohl
 cetelem
 chaeryeongiscoming
+chalobah
 champion
 champion olympique
 championne olympique
@@ -10283,6 +10305,7 @@ ebene
 ebrahim raisi
 ecke
 ecolo
+ed sheeran
 eddy demarez
 eddydemarez
 edith piaf
@@ -10842,6 +10865,7 @@ hagel
 haikyuu
 hainaut
 haki
+hakim
 hakimi
 halfte
 hall
@@ -11407,6 +11431,7 @@ kone
 konrad
 konrad de la fuente
 konsens
+konsequenz
 konsequenzen
 konsum
 kontext
@@ -11536,6 +11561,7 @@ lauratarantola
 laurence boccolini
 laurenceboccolini
 laurent
+laurent blanc
 laurent fabius
 laurent tillie
 laurenttillie
@@ -12069,6 +12095,7 @@ montreal
 montréal
 moody
 morata
+moreno
 morhad amdouni
 morhadamdouni
 mosson
@@ -12209,6 +12236,7 @@ noe ponti
 noel
 nogmaals
 noice
+nolan
 nole
 nomme 5
 nonaupassedelahonte
@@ -12610,6 +12638,7 @@ quickie
 quifinancephilippot
 quil
 r kelly
+r.kelly
 raar
 rachida dati
 rachidadati
@@ -12765,6 +12794,7 @@ royalgbtqia
 rsca
 ruben
 rubio
+rudiger
 rudy
 rugani
 rugby
