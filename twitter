@@ -814,6 +814,7 @@ BEECER
 BEERSCHOT
 BEEUSG
 BEGINN
+BEHANDLUNG
 BEHAUPTUNGEN
 BEHORDEN
 BEIDES
@@ -1153,6 +1154,7 @@ Bedingungen
 Bedos
 Beerschot
 Beginn
+Behandlung
 Behauptungen
 Behorden
 Beides
@@ -3819,6 +3821,7 @@ INDBel
 INDIE WORLD
 INDIEWORLD
 INDIGENOUSPEOPLESDAY
+INES REG
 INFECTIOLOOG
 INFEKTION
 INFLATION
@@ -3842,6 +3845,7 @@ INTERNATIONALCATDAY
 INTERNATIONALFRIENDSHIPDAY
 INTERNATIONALYOUTHDAY
 INTERNETSHUTDOWN
+INÈS REG
 IPCC
 IPCC-RAPPORT
 IPCC-rapport
@@ -3853,6 +3857,7 @@ IPTV
 IRAN
 IRELAND
 IRENE
+IRIS
 IRON MAN
 IRONIE
 ISABEAU
@@ -3924,6 +3929,7 @@ Incredible
 Indie World
 IndieWorld
 IndigenousPeoplesDay
+Ines Reg
 Infectioloog
 Infektion
 Inflation
@@ -3945,12 +3951,15 @@ Interessen
 InternationalCatDay
 InternationalFriendshipDay
 InternationalYouthDay
+Inès Reg
+InèsReg
 Ippon
 Ipseite
 Ipséité
 Iran
 Ireland
 Irene
+Iris
 Iron Man
 IronMan
 Ironie
@@ -6387,6 +6396,7 @@ OPENINGCEREMONY
 OPPOSITION
 OPRECHTE
 OPTION
+OPTIONEN
 OQTF
 OR NOIR
 ORANGE
@@ -6493,6 +6503,7 @@ OpeningCeremony
 Opposition
 Oprechte
 Option
+Optionen
 Or Noir
 OrNoir
 Orange
@@ -6717,6 +6728,7 @@ PROGNOSEN
 PROGRAMM
 PROJEKT
 PROJEKTE
+PROLONGE
 PROXIMUS
 PRYCE
 PRÊTRE
@@ -6944,6 +6956,7 @@ Prognosen
 Programm
 Projekt
 Projekte
+Prolonge
 Proximus
 Pryce
 Préfet
@@ -7457,6 +7470,7 @@ SCHÖNEN ABEND
 SCIENSANO
 SCLESSIN
 SCOTLAND
+SCOTT
 SCOTTIE BARNES
 SCPOL
 SEARCH IN TELEGRAM
@@ -7525,6 +7539,7 @@ SIMONE
 SIMONE BILES
 SIMONE VEIL
 SIMONS
+SIMULATION
 SINA FREI
 SINAYOKO
 SINCERES
@@ -7655,6 +7670,7 @@ STEIN
 STELLE
 STELLUNG
 STERKTE
+STERNSCHNUPPEN
 STEUERN
 STEVEN
 STEVEN DA COSTA
@@ -7846,6 +7862,7 @@ SchönenAbend
 Sciensano
 Sclessin
 Scotland
+Scott
 Scottie Barnes
 ScottieBarnes
 Search in Telegram
@@ -7917,6 +7934,7 @@ Simone Veil
 SimoneBiles
 SimoneVeil
 Simons
+Simulation
 Sina Frei
 SinaFrei
 Sinayoko
@@ -8036,6 +8054,7 @@ Stein
 Stelle
 Stellung
 Sterkte
+Sternschnuppen
 Steuern
 Steven
 Steven Da Costa
@@ -8166,6 +8185,7 @@ TEAMAJA
 TEAMBELGIUM
 TEAMOM
 TEAMPSG
+TEAMS
 TEBAS
 TECHNIK
 TECHNOLOGIE
@@ -8246,6 +8266,7 @@ TIMONE
 TINA
 TINASHE
 TINNE
+TIPE
 TIPLOUF
 TITANIC
 TITREDEGUEULASSE
@@ -8377,6 +8398,7 @@ TeamFrance
 TeamOM
 TeamPSG
 TeamUSA
+Teams
 Tebas
 Technik
 Technologie
@@ -8475,6 +8497,7 @@ Timone
 Tina
 Tinashe
 Tinne
+Tipe
 Tiplouf
 Titanic
 TitreDegueulasse
@@ -8637,6 +8660,8 @@ USAIN BOLT
 USGCLU
 USOpen
 UZ BRUSSEL
+UZ Brussel
+UZBrussel
 Uber
 Uberzeugung
 Uganda
@@ -8756,6 +8781,7 @@ VILLARREAL
 VILLENEUVE
 VILLIERS
 VILVOORDE
+VINALES
 VINCENT
 VINCENT COLLET
 VINCENT DULUC
@@ -8896,6 +8922,7 @@ Villarreal
 Villeneuve
 Villiers
 Vilvoorde
+Vinales
 Vincent
 Vincent Collet
 Vincent Duluc
@@ -9763,6 +9790,7 @@ beecer
 beerschot
 beeusg
 beginn
+behandlung
 behauptungen
 behorden
 beides
@@ -11285,6 +11313,7 @@ indbel
 indie world
 indieworld
 indigenouspeoplesday
+ines reg
 infectioloog
 infektion
 inflation
@@ -11308,6 +11337,7 @@ internationalcatday
 internationalfriendshipday
 internationalyouthday
 internetshutdown
+inès reg
 ipcc
 ipcc-rapport
 iphone
@@ -11318,6 +11348,7 @@ iptv
 iran
 ireland
 irene
+iris
 iron man
 ironie
 isabeau
@@ -12626,6 +12657,7 @@ openvld
 opposition
 oprechte
 option
+optionen
 oqtf
 or noir
 orange
@@ -12862,6 +12894,7 @@ prognosen
 programm
 projekt
 projekte
+prolonge
 proximus
 pryce
 préfet
@@ -13202,6 +13235,7 @@ schönenabend
 sciensano
 sclessin
 scotland
+scott
 scottie barnes
 scpol
 search in telegram
@@ -13274,6 +13308,7 @@ simone biles
 simone veil
 simoneveil
 simons
+simulation
 sina frei
 sinafrei
 sinayoko
@@ -13413,6 +13448,7 @@ stein
 stelle
 stellung
 sterkte
+sternschnuppen
 steuern
 steven
 steven da costa
@@ -13539,6 +13575,7 @@ teamaja
 teambelgium
 teamom
 teampsg
+teams
 teamusa
 tebas
 technik
@@ -13625,6 +13662,7 @@ timone
 tina
 tinashe
 tinne
+tipe
 tiplouf
 titanic
 titredegueulasse
@@ -13866,6 +13904,7 @@ villarreal
 villeneuve
 villiers
 vilvoorde
+vinales
 vincent
 vincent collet
 vincent duluc
