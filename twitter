@@ -341,6 +341,7 @@ ARMYSelcaDay
 ARMYs
 ARSD
 ARSENAL
+ARTETA
 ARTISTICGYMNASTICS
 ARZT
 ARZTE
@@ -679,6 +680,7 @@ Armee
 Armin
 Army
 Arsenal
+Arteta
 ArtisticGymnastics
 Arzt
 Arzte
@@ -759,6 +761,7 @@ BALI
 BALIKWISHA
 BALKON
 BALLON
+BALOGUN
 BAMBA
 BAND
 BANDE ORGANISEE
@@ -1041,6 +1044,7 @@ BRAZIL
 BREAKING BAD
 BREGANCON
 BREGANÇON
+BRENTFORD
 BREST
 BREXIT
 BRIAND
@@ -1119,6 +1123,7 @@ Bali
 Balikwisha
 Balkon
 Ballon
+Balogun
 Bamba
 Band
 Bande Organisee
@@ -1429,6 +1434,7 @@ Brazil
 Breaking Bad
 BreakingBad
 Bregancon
+Brentford
 Brest
 Brexit
 Briand
@@ -1681,6 +1687,7 @@ CONGRATULATIONSJUNGKOOK
 CONGRATZ
 CONGRES
 CONNER
+CONNER ROUSSEAU
 CONOR
 CONSEIL
 CONSEIL CONSTITUTIONNEL
@@ -1728,6 +1735,7 @@ CRUNCHYROLL
 CRYPTO
 CRYSTAL PALACE
 CUBA
+CUBE
 CUDI
 CUNNINGHAM
 CUOMO
@@ -1954,6 +1962,8 @@ Congratz
 Congres
 Congrès
 Conner
+Conner Rousseau
+ConnerRousseau
 Conor
 ConseiLConstitutionnel
 Conseil
@@ -2005,6 +2015,7 @@ Crypto
 Crystal Palace
 CrystalPalace
 Cuba
+Cube
 Cudi
 Cunningham
 Cuomo
@@ -5651,6 +5662,7 @@ MAN CITY
 MANAUDOU
 MANCHESTER
 MANCHESTER CITY
+MANCHESTER UNITED
 MANDANDA
 MANGAS
 MANIF14AOUT
@@ -5674,6 +5686,7 @@ MARATHON
 MARBELLA
 MARBURG
 MARC COUCKE
+MARC DUTROUX
 MARC NOPPEN
 MARC VAN RANST
 MARC-ANTOINE OLIVIER
@@ -5949,7 +5962,9 @@ ManCity
 Manaudou
 Manchester
 Manchester City
+Manchester United
 ManchesterCity
+ManchesterUnited
 Mandanda
 Mangas
 Manifestation
@@ -5965,6 +5980,7 @@ Marathon
 Marbella
 Marburg
 Marc Coucke
+Marc Dutroux
 Marc Noppen
 Marc Van Ranst
 Marc van Ranst
@@ -5972,6 +5988,7 @@ Marc-Antoine Olivier
 Marc-AntoineOlivier
 MarcAntoine Olivier
 MarcCoucke
+MarcDutroux
 MarcNoppen
 MarcVanRanst
 Marca
@@ -6344,6 +6361,7 @@ NINA DERWAEL
 NINEART
 NISHIKORI
 NITOX
+NIVEAU
 NIVELLES
 NJET\ VLAAMS-BRABANT
 NMECHA
@@ -6493,6 +6511,7 @@ NinaDerwael
 NineArt
 Nishikori
 Nitox
+Niveau
 Nivelles
 Nmecha
 NoSVP
@@ -7364,6 +7383,7 @@ RINER
 RIOLO
 RIP DUSTY HILL
 RIP Dusty Hill
+RIP FRANCK
 RIP HARRY
 RIP Harry
 RIP JACOB
@@ -7837,6 +7857,8 @@ SKY BROWN
 SKYPIEA
 SLAAP
 SLAAPWEL
+SLAM DUNK
+SLAMDUNK
 SLBOM
 SLIMANI
 SLIPKNOT
@@ -8570,6 +8592,7 @@ TINASHE
 TINNE
 TIPE
 TIPLOUF
+TISCH
 TITANIC
 TITREDEGUEULASSE
 TIZI OUZOU
@@ -8813,6 +8836,7 @@ Tinashe
 Tinne
 Tipe
 Tiplouf
+Tisch
 Titanic
 TitreDegueulasse
 TitreDégueulasse
@@ -9363,6 +9387,7 @@ WASHINGTON
 WASS
 WATERLOO
 WAVE RUNNER
+WEGE
 WEIN
 WEISE
 WEJDENE
@@ -9462,6 +9487,7 @@ Wass
 Waterloo
 Wave Runner
 WaveRunner
+Wege
 Wein
 Weise
 Wejdene
@@ -9630,6 +9656,7 @@ ZILVER
 ZIMMER
 ZION
 ZIRKZEE
+ZITA
 ZITAT
 ZIYECH
 ZLATAN
@@ -9681,6 +9708,7 @@ Zilver
 Zimmer
 Zion
 Zirkzee
+Zita
 Zitat
 Ziyech
 Zlatan
@@ -10008,6 +10036,7 @@ armys
 armyselcaday
 arsd
 arsenal
+arteta
 artisticgymnastics
 arzt
 arzte
@@ -10090,6 +10119,7 @@ bali
 balikwisha
 balkon
 ballon
+balogun
 bamba
 band
 bande organisee
@@ -10381,6 +10411,7 @@ bray wyatt
 brazil
 breaking bad
 bregancon
+brentford
 brest
 brexit
 briand
@@ -10646,6 +10677,7 @@ congratz
 congres
 congrès
 conner
+conner rousseau
 conor
 conseil
 conseil constitutionnel
@@ -10694,6 +10726,7 @@ crunchyroll
 crypto
 crystal palace
 cuba
+cube
 cudi
 cunningham
 cuomo
@@ -12599,6 +12632,7 @@ man city
 manaudou
 manchester
 manchester city
+manchester united
 mandanda
 mangas
 manif14aout
@@ -12623,6 +12657,7 @@ marathon
 marbella
 marburg
 marc coucke
+marc dutroux
 marc noppen
 marc van ranst
 marc-antoine olivier
@@ -12991,6 +13026,7 @@ ninaderwael
 nineart
 nishikori
 nitox
+niveau
 nivelles
 njet\ vlaams-brabant
 njet\ vlaamsbrabant
@@ -13529,9 +13565,11 @@ rijsel
 riner
 riolo
 rip dusty hill
+rip franck
 rip harry
 rip jacob
 rip urs
+ripfranck
 ripharry
 ripjacob
 ripoll
@@ -13835,6 +13873,7 @@ sky brown
 skypiea
 slaap
 slaapwel
+slam dunk
 slbom
 slimani
 slipknot
@@ -14182,6 +14221,7 @@ tinashe
 tinne
 tipe
 tiplouf
+tisch
 titanic
 titredegueulasse
 titredégueulasse
@@ -14424,6 +14464,7 @@ vetter
 vforvictory
 vicaut
 vice city
+vicecity
 vicks
 victor
 vidts
@@ -14530,6 +14571,7 @@ washington
 wass
 waterloo
 wave runner
+wege
 wein
 weise
 wejdene
@@ -14662,6 +14704,7 @@ zilver
 zimmer
 zion
 zirkzee
+zita
 zitat
 ziyech
 zlatan
