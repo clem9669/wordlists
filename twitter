@@ -964,6 +964,8 @@ BOMA
 BOMB RUSH CYBERFUNK
 BON DIMANCHE
 BON GAMIN
+BONANNIVERSAIRESIMON
+BONJOUR BRIGITTE
 BONJOUR CATHERINE
 BONJOUR CELINE
 BONJOUR DAVID
@@ -973,6 +975,7 @@ BONJOUR ISA
 BONJOUR LYLA
 BONJOUR MARC
 BONJOUR MARIE
+BONJOUR PASCAL
 BONJOUR SANDRINE
 BONJOUR TWITTER
 BOOBA
@@ -1319,8 +1322,10 @@ Bomb Rush Cyberfunk
 BombRushCyberfunk
 Bon Dimanche
 Bon Gamin
+BonAnniversaireSimon
 BonDimanche
 BonGamin
+Bonjour Brigitte
 Bonjour Catherine
 Bonjour Celine
 Bonjour Céline
@@ -1331,8 +1336,10 @@ Bonjour Isa
 Bonjour Lyla
 Bonjour Marc
 Bonjour Marie
+Bonjour Pascal
 Bonjour Sandrine
 Bonjour Twitter
+BonjourBrigitte
 BonjourCatherine
 BonjourCéline
 BonjourDavid
@@ -1342,6 +1349,7 @@ BonjourIsa
 BonjourLyla
 BonjourMarc
 BonjourMarie
+BonjourPascal
 BonjourSandrine
 BonjourTwitter
 Booba
@@ -1490,6 +1498,7 @@ CAPITOL
 CAPTAIN CARTER
 CAQUERET
 CARAPAZ
+CARDI
 CARDONA
 CARICATURETONMACRON
 CARLITO
@@ -1744,6 +1753,7 @@ Captain Carter
 CaptainCarter
 Caqueret
 Carapaz
+Cardi
 Cardona
 CaricatureTonMacron
 Carlito
@@ -2143,6 +2153,7 @@ DJOKOVIC
 DNCG
 DOCTEUR
 DOCTOLIB
+DOEL
 DOIGBY
 DOKOMI
 DOKU
@@ -2379,6 +2390,7 @@ Djoko
 Djokovic
 Docteur
 Doctolib
+Doel
 Doigby
 Dokomi
 Doku
@@ -3005,6 +3017,7 @@ FREUDE
 FREUNDE DER VERFASSUNG
 FREXIT
 FREY
+FRIDAY THE 13TH
 FRIEDEN
 FROGBAR
 FUHL
@@ -3199,6 +3212,8 @@ Freunde der Verfassung
 FreundederVerfassung
 Frexit
 Frey
+Friday the 13th
+Fridaythe13th
 Frieden
 FrogBar
 Fuhl
@@ -3654,6 +3669,7 @@ HILONA
 HIMMEL
 HINDU
 HINTERGRUND
+HIPPOLYTE
 HIRN
 HIROSHIMA
 HISTORIQUE
@@ -3800,6 +3816,7 @@ Hilona
 Himmel
 Hindu
 Hintergrund
+Hippolyte
 Hirn
 Hiroshima
 Hochwasser
@@ -4921,6 +4938,7 @@ LANDWIRTSCHAFT
 LANNION
 LAPORTA
 LARA
+LARS
 LASCHET
 LASOUPEAUXCHOUX
 LATIFI
@@ -4932,6 +4950,7 @@ LAURENT BLANC
 LAURENT FABIUS
 LAURENT TILLIE
 LAURYN HILL
+LAUSANNE
 LAUTARO
 LAVILLENIE
 LAVINE
@@ -5218,6 +5237,7 @@ Lannion
 Laporta
 Lara
 Larbitrage
+Lars
 Laschet
 Latifi
 Laura Tarantola
@@ -5234,6 +5254,7 @@ LaurentFabius
 LaurentTillie
 Lauryn Hill
 LaurynHill
+Lausanne
 Lautaro
 Lavillenie
 Lavine
@@ -7166,6 +7187,7 @@ R.KELLY
 R.Kelly
 RAAR
 RACHIDA DATI
+RADJA
 RADONJIC
 RAFA MIR
 RAIOLA
@@ -7351,6 +7373,7 @@ RYAN
 Raar
 Rachida Dati
 RachidaDati
+Radja
 Radonjic
 Rafa Mir
 RafaMir
@@ -7684,6 +7707,7 @@ SHAWN
 SHINJI
 SHINOBU
 SI LE PSG
+SICHERHEIT
 SICHT
 SICILE
 SIDA
@@ -8082,6 +8106,7 @@ Shawn
 Shinji
 Shinobu
 Si le PSG
+Sicherheit
 Sicht
 Sicile
 Sida
@@ -8943,6 +8968,7 @@ VELODROME
 VELORTBF
 VENDEE
 VENDREDI 13
+VENDREDI13
 VENDREDILECTURE
 VENDÉE
 VENOM
@@ -10173,7 +10199,9 @@ boma
 bomb rush cyberfunk
 bon dimanche
 bon gamin
+bonanniversairesimon
 bondimanche
+bonjour brigitte
 bonjour catherine
 bonjour céline
 bonjour david
@@ -10183,6 +10211,7 @@ bonjour isa
 bonjour lyla
 bonjour marc
 bonjour marie
+bonjour pascal
 bonjour sandrine
 bonjour twitter
 bonjourguillaume
@@ -10328,6 +10357,7 @@ capitol
 captain carter
 caqueret
 carapaz
+cardi
 cardona
 caricaturetonmacron
 carlito
@@ -10727,6 +10757,7 @@ djokovic
 dncg
 docteur
 doctolib
+doel
 doigby
 dokomi
 doku
@@ -11184,6 +11215,7 @@ freunde der verfassung
 freundederverfassung
 frexit
 frey
+friday the 13th
 frieden
 frogbar
 fuhl
@@ -11482,6 +11514,7 @@ hilona
 himmel
 hindu
 hintergrund
+hippolyte
 hirn
 hiroshima
 historique
@@ -12119,6 +12152,7 @@ landwirtschaft
 lannion
 laporta
 lara
+lars
 laréserve
 laschet
 lasoupeauxchoux
@@ -12136,6 +12170,7 @@ laurent fabius
 laurent tillie
 laurenttillie
 lauryn hill
+lausanne
 lautaro
 lavillenie
 lavine
@@ -13253,6 +13288,7 @@ r.kelly
 raar
 rachida dati
 rachidadati
+radja
 radonjic
 rafa mir
 raiola
@@ -13606,6 +13642,7 @@ shawn
 shinji
 shinobu
 si le psg
+sicherheit
 sicht
 sicile
 sida
