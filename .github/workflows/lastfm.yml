@@ -20,23 +20,29 @@ jobs:
       - name: Update & install curl, iconv & jq
         run: sudo apt update && sudo apt-get install libxml2-utils curl libc-bin jq -y
 
-      - name: Run a one-line script FR
+      - name: Run a one-line script FR geo
         run: |
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=france&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_fr
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_fr
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=france&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_fr
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_fr
 
-      - name: Run a one-line script BE
+      - name: Run a one-line script BE geo
         run: |
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_be
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_be
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_be
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_be
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_be
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_be
 
-      - name: Run a one-line script CH
+      - name: Run a one-line script CH geo
         run: |
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_ch
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_ch
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_ch
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_ch
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_ch
+          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_ch
+
+      - name: Get top chart
+        run: |
+          curl -s 'http://ws.audioscrobbler.com/2.0/?method=chart.gettopartists&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.artists.artist[].name' | tr -d '"'| cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          curl -s 'http://ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"'| cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          curl -s 'http://ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name'| tr -d '"'| cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
 
       - name: Permutations options
         run: |
