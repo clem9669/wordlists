@@ -246,6 +246,7 @@ AMHARA
 AMIN
 AMINE ADLI
 AMIR
+AMIXEM
 AMOUREUSE
 AMSTERDAM
 AMUZU
@@ -579,6 +580,7 @@ Amin
 Amine Adli
 AmineAdli
 Amir
+Amixem
 Amoureuse
 Amsterdam
 Amuzu
@@ -2095,6 +2097,7 @@ DAMSO
 DANEMARK
 DANI ALVES
 DANIEL
+DANIEL JAMES
 DANILO
 DANKJEWEL
 DANKZIJ
@@ -2315,6 +2318,8 @@ Danemark
 Dani Alves
 DaniAlves
 Daniel
+Daniel James
+DanielJames
 Danilo
 Dankjewel
 Dankzij
@@ -2702,6 +2707,7 @@ EVERTON
 EVIA
 EVIDENZ
 EVLENBENIMLE
+EVOLI
 EXACT
 EXCUSES
 EXPERIMENT
@@ -2877,6 +2883,7 @@ Evenepoel
 Everton
 Evia
 Evidenz
+Evoli
 Exact
 Excuses
 Experiment
@@ -3439,6 +3446,7 @@ GIEC
 GIGI
 GIGNAC
 GINI
+GINO STRADA
 GINOSTRADA
 GIRLSPLANET999
 GIRO
@@ -3628,6 +3636,7 @@ GhostbustersAfterlife
 Gigi
 Gignac
 Gini
+Gino Strada
 GinoStrada
 GirlsPlanet999
 Giro
@@ -5182,6 +5191,7 @@ LECAPITALISMEBRULELAPLANETE
 LECLERC
 LECONTRE
 LEE KNOW
+LEEDS
 LEGA
 LEGENDE
 LEGO
@@ -5529,6 +5539,7 @@ Leclerc
 Lecole
 Lee Know
 LeeKnow
+Leeds
 Lega
 Legende
 Lego
@@ -5759,6 +5770,8 @@ MAHREZ
 MAIGNAN
 MAJ TWITTER
 MAJ Twitter
+MAJORITESILENCIEUSEVACCINEE
+MAJORITÉSILENCIEUSEVACCINÉE
 MAJTwitter
 MALCOM
 MALE
@@ -5873,6 +5886,7 @@ MBAPPÉ
 MBEUMO
 MCDO
 MCFLY
+MCFRED
 MCKINSEY
 MCLAREN
 MCLAUGHLIN
@@ -6204,6 +6218,7 @@ Mbappé
 Mbeumo
 McDo
 McFly
+McFred
 McKinsey
 McLaren
 McLaughlin
@@ -6945,6 +6960,7 @@ PALESTINIAN
 PALLOIS
 PANAME
 PANDEMIE
+PAOLA
 PAPE GUEYE
 PAPE MATAR SARR
 PAPIER
@@ -7093,6 +7109,8 @@ PONT DE NEUILLY
 POP SMOKE
 POPOVICH
 POPULAIRE
+PORTE DOREE
+PORTE DORÉE
 PORTLAND
 PORTO
 PORTUGAL
@@ -7137,6 +7155,7 @@ PROGRAMM
 PROJEKT
 PROJEKTE
 PROLONGE
+PROPAGANDA
 PROXIMUS
 PRYCE
 PRÊTRE
@@ -7150,6 +7169,7 @@ PTDRRRRR
 PUCCI
 PUKKELPOP
 PULISIC
+PUMA
 PUNISUNTITRE
 PUNKTE
 PURE
@@ -7169,6 +7189,7 @@ Palestine
 Palestinian
 Paname
 Pandemie
+Paola
 Pape Gueye
 Pape Matar Sarr
 PapeGueye
@@ -7338,6 +7359,9 @@ PontdeNeuilly
 Pop Smoke
 PopSmoke
 Popovich
+Porte Doree
+Porte Dorée
+PorteDorée
 Portland
 Porto
 Portugal
@@ -7379,6 +7403,7 @@ Programm
 Projekt
 Projekte
 Prolonge
+Propaganda
 Proximus
 Pryce
 Préfet
@@ -7388,6 +7413,7 @@ Ptdrrrrr
 Pucci
 Pukkelpop
 Pulisic
+Puma
 PunisUnTitre
 Punkte
 Pure
@@ -7514,6 +7540,7 @@ RENZI
 RENÉ
 REPLAY
 REPUBLICAN
+REPUBLIQUE
 RESPEKT
 RESSOURCEN
 RESTAURANTS
@@ -7712,6 +7739,7 @@ Renzi
 René
 Replay
 Republican
+Republique
 Respekt
 Ressourcen
 Restaurants
@@ -7819,8 +7847,10 @@ Rwanda
 Rwandais
 Ryan
 RÉAL
+RÉPUBLIQUE
 RÜCKSICHT
 Réal
+République
 Réunion
 Rücksicht
 SABRINA
@@ -9670,6 +9700,7 @@ WORTER
 WOUT
 WOZU
 WRCLIVE
+WRCLive
 WRIGHT
 WSMDS
 WUHAN
@@ -10173,6 +10204,7 @@ amhara
 amin
 amine adli
 amir
+amixem
 amoureuse
 amsterdam
 amuzu
@@ -11026,6 +11058,7 @@ damso
 danemark
 dani alves
 daniel
+daniel james
 danilo
 dankjewel
 dankzij
@@ -11403,6 +11436,7 @@ everton
 evia
 evidenz
 evlenbenimle
+evoli
 exact
 excuses
 experiment
@@ -11762,6 +11796,7 @@ giec
 gigi
 gignac
 gini
+gino strada
 ginostrada
 girlsplanet999
 giro
@@ -12692,6 +12727,7 @@ leclerc
 leconseil
 ledj
 lee know
+leeds
 lega
 legende
 lego
@@ -12918,6 +12954,8 @@ mahomet
 mahrez
 maignan
 maj twitter
+majoritesilencieusevaccinee
+majoritésilencieusevaccinée
 majtwitter
 malcom
 male
@@ -13051,6 +13089,7 @@ mbappé
 mbeumo
 mcdo
 mcfly
+mcfred
 mckinsey
 mclaren
 mclaughlin
@@ -13541,6 +13580,7 @@ palestinian
 pallois
 paname
 pandemie
+paola
 pape gueye
 pape matar sarr
 papegueye
@@ -13697,6 +13737,8 @@ pont de neuilly
 pop smoke
 popovich
 populaire
+porte doree
+porte dorée
 portland
 porto
 portugal
@@ -13740,6 +13782,7 @@ programm
 projekt
 projekte
 prolonge
+propaganda
 proximus
 pryce
 préfet
@@ -13754,6 +13797,7 @@ ptdrrrrr
 pucci
 pukkelpop
 pulisic
+puma
 punisuntitre
 punkte
 pure
@@ -13866,6 +13910,7 @@ renzi
 rené
 replay
 republican
+republique
 respekt
 ressourcen
 restaurants
@@ -13984,6 +14029,7 @@ rwanda
 rwandais
 ryan
 réal
+république
 réunion
 rücksicht
 sabrina
