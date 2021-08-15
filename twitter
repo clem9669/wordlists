@@ -163,6 +163,7 @@ AKTIONEN
 AKTIVIST
 AKWS
 AKWs
+AL JAZEERA
 ALABA
 ALAIN BERSET
 ALAIN GRISET
@@ -495,6 +496,8 @@ Akhenaton
 Akkar
 Aktionen
 Aktivist
+Al Jazeera
+AlJazeera
 Alaba
 Alain Griset
 AlainGriset
@@ -938,6 +941,7 @@ BENEDETTO
 BENFICA
 BENITO
 BENJAMIN
+BENJAMIN MENDY
 BENJAMIN THOMAS
 BENNETT
 BENNY
@@ -1179,6 +1183,7 @@ BUNDESLIGA
 BUNDESRAT
 BUNDU
 BUONA
+BUQUET
 BURAK
 BURN
 BURNLEY
@@ -1327,7 +1332,9 @@ Benedetto
 Benfica
 Benito
 Benjamin
+Benjamin Mendy
 Benjamin Thomas
+BenjaminMendy
 BenjaminThomas
 Bennett
 Benny
@@ -1595,6 +1602,7 @@ Bundesliga
 Bundesrat
 Bundu
 Buona
+Buquet
 Burak
 Burn
 Burnley
@@ -3192,6 +3200,8 @@ FLORIAN TELLE
 FLORIANTELLE
 FLORIDA
 FLOW
+FLUCHTLINGE
+FLÜCHTLINGE
 FNAC
 FNATIC
 FNCS
@@ -3418,6 +3428,7 @@ FlorianTELLE
 FlorianTelle
 Florida
 Flow
+Flüchtlinge
 Fnac
 Fnatic
 Fofana
@@ -4090,6 +4101,7 @@ HUNGARIANGP
 HUNGARYGP
 HUSSEIN
 HUYBRECHTS
+HWANG
 HYBE
 HYERES
 HYPERX
@@ -4257,6 +4269,7 @@ HungarianGP
 HungaryGP
 Hussein
 Huybrechts
+Hwang
 Hybe
 Hyeres
 HyperX
@@ -5551,6 +5564,7 @@ LIBANON
 LIBE
 LIBERTE
 LICHT
+LIDER
 LIEBIG
 LIED
 LIEF
@@ -5923,6 +5937,7 @@ Libanon
 Libe
 Libé
 Licht
+Lider
 Liebig
 Lied
 Lief
@@ -9270,6 +9285,7 @@ TERGIVERSATION
 TERMIN
 TERRAIN
 TERRENCE CLARKE
+TERRORISTEN
 TERZAKE
 TERZAKETV
 TESLA
@@ -9514,6 +9530,7 @@ Termin
 Terrain
 Terrence Clarke
 TerrenceClarke
+Terroristen
 Terzake
 Tesla
 Tessin
@@ -10674,6 +10691,7 @@ akkar
 aktionen
 aktivist
 akws
+al jazeera
 alaba
 alain berset
 alain griset
@@ -11107,6 +11125,7 @@ benedetto
 benfica
 benito
 benjamin
+benjamin mendy
 benjamin thomas
 benjaminthomas
 bennett
@@ -11358,6 +11377,7 @@ bundesliga
 bundesrat
 bundu
 buona
+buquet
 burak
 burn
 burnley
@@ -12224,6 +12244,7 @@ florian telle
 floriantelle
 florida
 flow
+flüchtlinge
 fnac
 fnatic
 fncs
@@ -12732,6 +12753,7 @@ hungariangp
 hungarygp
 hussein
 huybrechts
+hwang
 hybe
 hyeres
 hyperx
@@ -13523,6 +13545,7 @@ libe
 liberte
 libé
 licht
+lider
 liebig
 lied
 lief
@@ -15371,6 +15394,7 @@ tergiversation
 termin
 terrain
 terrence clarke
+terroristen
 terzake
 terzaketv
 tesla
