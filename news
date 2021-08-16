@@ -156,6 +156,7 @@ AMAZON PRIME DAY
 AMAZONPRIMEDAY
 AMBER HEARD
 AMBERHEARD
+AMBROISIE
 AMEL BENT
 AMERICAN STAFF
 AMY WINEHOUSE
@@ -166,6 +167,7 @@ ANDIE MACDOWELL
 ANDIEMACDOWELL
 ANDORRA
 ANDRE HAZES
+ANDREA BERG
 ANDREHAZES
 ANDREW CUOMO
 ANDY MURRAY
@@ -399,6 +401,7 @@ AmazonPrime
 AmazonPrimeDay
 Amber Heard
 AmberHeard
+Ambroisie
 Amel Bent
 AmelBent
 American Staff
@@ -416,6 +419,8 @@ AndieMacDowell
 Andorra
 Andre Hazes
 AndreHazes
+Andrea Berg
+AndreaBerg
 Andrew Cuomo
 AndrewCuomo
 Andy Murray
@@ -578,6 +583,7 @@ BARBYKELLY
 BARCA
 BARCELONA
 BARCELONA – JUVENTUS
+BARCELONA – REAL SOCIEDAD
 BARRAGE EUPEN
 BART DE WEVER
 BART PEETERS
@@ -686,6 +692,7 @@ BLESSUREDEBRUYNE
 BLESSUREEDENHAZARD
 BLOB
 BLOOD RED SKY
+BLUES BROTHERS
 BOB MORANE
 BOB ODENKIRK
 BOITE DE NUIT
@@ -794,7 +801,9 @@ BarbyKelly
 Barca
 Barcelona
 Barcelona – Juventus
+Barcelona – Real Sociedad
 Barcelona–Juventus
+Barcelona–RealSociedad
 Barrage Eupen
 BarrageEupen
 Bart De Wever
@@ -937,6 +946,8 @@ Blessuredebruyne
 Blob
 Blood Red Sky
 BloodRedSky
+Blues Brothers
+BluesBrothers
 Bob Morane
 Bob Odenkirk
 BobMorane
@@ -1023,10 +1034,12 @@ CALEB LANDRY JONES
 CALENDRIER LIGUE 1
 CALENDRIERLIGUE1
 CALHANOGLU
+CAMILA GIORGI
 CAMILLE CERF
 CAMILLE COMBAL
 CAMILLE COTTIN
 CAMILLE LELLOUCHE
+CAMILLE LOU
 CAMILLECOMBAL
 CAMILLECOTTIN
 CAMPING PARADIS
@@ -1038,6 +1051,7 @@ CAPTAIN AMERICA : CIVIL WAR
 CAPTAIN FANTASTIC
 CAPTAINAMERICA:CIVILWAR
 CAPTAINFANTASTIC
+CAPUCINE ANAV
 CARDANO
 CAREL EITING
 CARELEITING
@@ -1070,6 +1084,7 @@ CEDRICJUBILLAR
 CENGIZ UNDER
 CENGIZUNDER
 CENTRE DE VACCINATION
+CERCLE  ANDERLECHT
 CEREMONIE OUVERTURE JO 2021
 CERTIFICAT COVID
 CERTIFICAT COVID EUROPEEN
@@ -1177,6 +1192,7 @@ CODECO
 COLLIN MORIKAWA
 COLOMBIAANSE VARIANT
 COLUCHE
+COMMANDANT MASSOUD
 COMMENT JE SUIS DEVENU SUPER-HÉROS
 COMOMEER
 COMPARIS
@@ -1262,14 +1278,18 @@ CalebLandryJones
 Calendrier Ligue 1
 CalendrierLigue1
 Calhanoglu
+Camila Giorgi
+CamilaGiorgi
 Camille Cerf
 Camille Combal
 Camille Cottin
 Camille Lellouche
+Camille Lou
 CamilleCerf
 CamilleCombal
 CamilleCottin
 CamilleLellouche
+CamilleLou
 Camping Paradis
 CampingParadis
 Campomarino Lido
@@ -1280,6 +1300,8 @@ Captain America : Civil War
 Captain Fantastic
 CaptainAmerica:CivilWar
 CaptainFantastic
+Capucine Anav
+CapucineAnav
 Cardano
 Carel Eiting
 CarelEiting
@@ -1317,6 +1339,8 @@ Cengiz Under
 CengizUnder
 Centre de vaccination
 Centredevaccination
+Cercle  Anderlecht
+CercleAnderlecht
 Ceremonie ouverture JO 2021
 CeremonieouvertureJO2021
 Certificat Covid
@@ -1455,6 +1479,8 @@ CollinMorikawa
 Colombiaanse variant
 Colombiaansevariant
 Coluche
+Commandant Massoud
+CommandantMassoud
 Comment je suis devenu super-héros
 Comment je suis devenu superhéros
 Commentjesuisdevenusuper-héros
@@ -2236,6 +2262,7 @@ FELIX AUGERALIASSIME
 FELIXAUGER-ALIASSIME
 FELIXAUGERALIASSIME
 FEMIZID
+FENERBAHCE
 FENTANYL
 FERENCVAROS
 FERNANDO RAPALLINI
@@ -2294,6 +2321,7 @@ FINNLAND BELGIEN
 FINNLAND RUSSLAND
 FINNLANDBELGIEN
 FINNLANDRUSSLAND
+FLAVIE FLAMENT
 FLORA DUFFY
 FLORENCE FOSTER JENKINS
 FLORENCE PORCEL
@@ -2426,6 +2454,7 @@ Felix AugerAliassime
 FelixAuger-Aliassime
 FelixAugerAliassime
 Femizid
+Fenerbahce
 Fentanyl
 Ferencvaros
 Fernando Rapallini
@@ -2489,6 +2518,8 @@ Finnland Belgien
 Finnland Russland
 FinnlandBelgien
 FinnlandRussland
+Flavie Flament
+FlavieFlament
 Flora Duffy
 FloraDuffy
 Florence Foster Jenkins
@@ -3608,6 +3639,8 @@ KAA Gent
 KAAGent
 KAAMELOTT
 KAAMELOTT, PREMIER VOLET
+KABOUL
+KABUL
 KABYLIE
 KAI HAVERTZ
 KAIHAVERTZ
@@ -3691,6 +3724,8 @@ KYRGIOS
 Kaamelott
 Kaamelott, premier volet
 Kaamelott,premiervolet
+Kaboul
+Kabul
 Kabylie
 Kai Havertz
 KaiHavertz
@@ -3866,6 +3901,7 @@ LE DERNIER MERCENAIRE
 LE DIABLE S'HABILLE EN PRADA
 LE FIGARO
 LE GENDRE DE MA VIE
+LE MANS 66
 LE MONDE
 LE PARISIEN
 LE SENS DE LA FAMILLE
@@ -3889,6 +3925,7 @@ LENAMEYER-LANDRUT
 LENAMEYERLANDRUT
 LENS
 LENS UDINESE
+LENS – SAINT-ÉTIENNE
 LEON MARCHAND
 LEONARDO SPINAZZOLA
 LEPARISIEN
@@ -4045,6 +4082,7 @@ Laval
 Laylow
 Le Castellet
 Le Dernier Mercenaire
+Le Mans 66
 Le diable s'habille en Prada
 Le figaro
 Le gendre de ma vie
@@ -4054,6 +4092,7 @@ Le sens de la famille
 Le temps
 LeCastellet
 LeDernierMercenaire
+LeMans66
 Lea Seydoux
 Lea Sprunger
 LeaSeydoux
@@ -4078,7 +4117,10 @@ LenaMeyer-Landrut
 LenaMeyerLandrut
 Lens
 Lens Udinese
+Lens – saint-étienne
+Lens – saintétienne
 LensUdinese
+Lens–saint-étienne
 Leon Marchand
 LeonMarchand
 Leonardo Spinazzola
@@ -4226,6 +4268,7 @@ MADONNA
 MAEHLE
 MAIWENN
 MALADIE DE CHARCOT
+MALADIE DE LYME
 MALEFIQUE
 MALMEDY
 MALTA
@@ -4472,7 +4515,9 @@ Madonna
 Maehle
 Maiwenn
 Maladie de Charcot
+Maladie de Lyme
 MaladiedeCharcot
+MaladiedeLyme
 Malefique
 Malmedy
 Malta
@@ -4789,6 +4834,7 @@ NAGUI
 NAIRO QUINTANA
 NAIROQUINTANA
 NANTES
+NANTES – METZ
 NAOMI OSAKA
 NARBONNE
 NATALIA
@@ -4902,6 +4948,8 @@ Nagui
 Nairo Quintana
 NairoQuintana
 Nantes
+Nantes – Metz
+Nantes–Metz
 Naomi Osaka
 NaomiOsaka
 Narbonne
@@ -5056,12 +5104,15 @@ OM MARTIGUES
 OM Martigues
 OM SERVETTE
 OM Servette
+OM-BORDEAUX
+OM-Bordeaux
 OM-VILLARREAL
 OM-Villarreal
 OMAR RADDAD
 OMAR SY
 OMARRADDAD
 OMBenfica
+OMBordeaux
 OMBraga
 OMMARTIGUES
 OMMartigues
@@ -5193,6 +5244,7 @@ Overstromingenbelgie
 Oxyde d'éthylène
 Oxyded'éthylène
 Oyonnax
+PAKISTAN
 PALHINHA
 PAMPELONNE
 PANCARTE ANTISEMITE METZ
@@ -5409,6 +5461,7 @@ PUMA
 PUSKAS ARENA
 PUSKASARENA
 PYRENEES ORIENTALES
+Pakistan
 Palhinha
 Pampelonne
 Pancarte antisemite Metz
@@ -6005,6 +6058,7 @@ Résultatsbrevet2021
 SABALENKA
 SACHSENRING
 SAHRA WAGENKNECHT
+SAIGON
 SAINT JEAN
 SAINT-GAUDENS
 SAINT-JEAN
@@ -6022,6 +6076,7 @@ SAMIRAITSAID
 SAMMY MAHDI
 SAMSONOVA
 SAMSUNG
+SAMUEL KALU
 SAN SEBASTIAN
 SANCERRE
 SANS UN BRUIT 2
@@ -6035,8 +6090,12 @@ SASA KALAJDZIC
 SASAKALAJDZIC
 SASSUOLO
 SAUT D'OBSTACLES PAR ÉQUIPE JEUX OLYMPIQUES
+SC CHAM
+SC Cham
 SCARLETT JOHANSSON
 SCARLETTJOHANSSON
+SCCham
+SCHARIA
 SCHLAG DEN STAR
 SCHLEITHEIM
 SCHLUSSGANG
@@ -6076,6 +6135,7 @@ SEAN PENN
 SEATTLE KRAKEN
 SEBASTIEN CHABAL
 SEFEROVIC
+SEGWAY
 SELENA GOMEZ
 SELENAGOMEZ
 SELMA BLAIR
@@ -6120,6 +6180,7 @@ SLOWENIEN
 SLOWENIEN EINREISE
 SLUMDOG MILLIONAIRE
 SLUMDOGMILLIONAIRE
+SNAKE
 SNAPCHAT
 SNU
 SOEUR SOURIRE
@@ -6171,6 +6232,7 @@ ST. GALLEN GEGEN LUZERN
 ST.GALLEN GEGEN LUZERN
 STADE RENNES
 STADERENNES
+STAINS
 STANDARD
 STANLEY NSOKI
 STAU GOTTHARD
@@ -6251,6 +6313,7 @@ Sabalenka
 Sachsenring
 Sahra Wagenknecht
 SahraWagenknecht
+Saigon
 Saint jean
 Saint-Gaudens
 Saint-Jean
@@ -6277,6 +6340,8 @@ Sammy Mahdi
 SammyMahdi
 Samsonova
 Samsung
+Samuel Kalu
+SamuelKalu
 San Sebastian
 SanSebastian
 Sancerre
@@ -6297,6 +6362,7 @@ Sautd'obstaclesparéquipeJeuxolympiques
 Sautd'obstaclesparéquipejeuxolympiques
 Scarlett Johansson
 ScarlettJohansson
+Scharia
 Schlag den Star
 SchlagdenStar
 Schleitheim
@@ -6344,6 +6410,7 @@ SeattleKraken
 Sebastien Chabal
 SebastienChabal
 Seferovic
+Segway
 Selena Gomez
 SelenaGomez
 Selma Blair
@@ -6407,6 +6474,7 @@ Slowenien Einreise
 SlowenienEinreise
 Slumdog Millionaire
 SlumdogMillionaire
+Snake
 Snapchat
 Soeur Sourire
 SoeurSourire
@@ -6456,6 +6524,7 @@ Stade Rennes
 Stade rennes
 StadeRennes
 Staderennes
+Stains
 Standard
 Stanley Nsoki
 StanleyNsoki
@@ -6548,10 +6617,12 @@ TADEJ POGACAR
 TADESSE ABRAHAM
 TAHAR RAHIM
 TAIWAN
+TALIBAN C'EST QUOI
 TAMBERI
 TANGUY
 TANJA GROEN
 TARASCON
+TEAMS
 TEDDY RINER
 TERANCE MANN
 TERANCEMANN
@@ -6575,7 +6646,9 @@ THETOMORROWWAR
 THEUX
 THIAGO
 THIBAUT COURTOIS
+THIERRY BURKART
 THIERRY HENRY
+THIERRY NEUVILLE
 THIERRYHENRY
 THOMAS BRIELS
 THOMAS MEUNIER
@@ -6600,6 +6673,7 @@ TOKYO 2020
 TOKYO 2021
 TOM CRUISE
 TOM DALEY
+TOM DE COCK
 TOM DUMOULIN
 TOM HANKS
 TOM HOLLAND
@@ -6615,6 +6689,8 @@ TORI SPELLING
 TORISPELLING
 TORNADO TSCHECHIEN
 TORNADOTSCHECHIEN
+TOTTENHAM
+TOTTENHAM – MAN CITY
 TOULOUSE LA ROCHELLE
 TOULOUSELAROCHELLE
 TOUR DE FRANCE
@@ -6642,6 +6718,7 @@ TOUT L'ARGENT DU MONDE
 TOUT LE MONDE VEUT PRENDRE SA PLACE
 TOUTL'ARGENTDUMONDE
 TRAUTMANN
+TRAVIS BARKER
 TRAVIS SCOTT
 TREMBLEMENT DE TERRE STRASBOURG
 TREMBLEMENTDETERRESTRASBOURG
@@ -6676,11 +6753,14 @@ TadesseAbraham
 Tahar Rahim
 TaharRahim
 Taiwan
+Taliban c'est quoi
+Talibanc'estquoi
 Tamberi
 Tanguy
 Tanja Groen
 TanjaGroen
 Tarascon
+Teams
 Teddy Riner
 TeddyRiner
 Terance Mann
@@ -6715,8 +6795,12 @@ Theux
 Thiago
 Thibaut Courtois
 ThibautCourtois
+Thierry Burkart
 Thierry Henry
+Thierry Neuville
+ThierryBurkart
 ThierryHenry
+ThierryNeuville
 Thomas Briels
 Thomas Meunier
 Thomas Pesquet
@@ -6748,12 +6832,14 @@ Tokyo2020
 Tokyo2021
 Tom Cruise
 Tom Daley
+Tom De Cock
 Tom Dumoulin
 Tom Hanks
 Tom Holland
 Tom Leeb
 TomCruise
 TomDaley
+TomDeCock
 TomDumoulin
 TomHanks
 TomHolland
@@ -6771,6 +6857,9 @@ Tori Spelling
 ToriSpelling
 Tornado Tschechien
 TornadoTschechien
+Tottenham
+Tottenham – Man City
+Tottenham–ManCity
 Toulouse La Rochelle
 ToulouseLaRochelle
 Tour Eiffel
@@ -6803,7 +6892,9 @@ Tout le monde veut prendre sa place
 Toutl'argentdumonde
 Toutlemondeveutprendresaplace
 Trautmann
+Travis Barker
 Travis Scott
+TravisBarker
 TravisScott
 Tremblement de terre Strasbourg
 TremblementdeterreStrasbourg
@@ -7072,6 +7163,7 @@ WATTENMEER
 WAYNE ROONEY
 WEISSENSTEIN
 WEISSENSTEIN SCHWINGET
+WELS
 WEMBLEY
 WER STIEHLT MIR DIE SHOW
 WERCHTER PARKLIFE
@@ -7125,6 +7217,7 @@ WayneRooney
 Weissenstein
 Weissenstein schwinget
 Weissensteinschwinget
+Wels
 Wembley
 Wer stiehlt mir die Show
 Werchter Parklife
@@ -7409,6 +7502,7 @@ amazon prime day
 amazonprimeday
 amber heard
 amberheard
+ambroisie
 amel bent
 american staff
 amy winehouse
@@ -7419,6 +7513,7 @@ andie macdowell
 andiemacdowell
 andorra
 andre hazes
+andrea berg
 andrehazes
 andrew cuomo
 andy murray
@@ -7551,6 +7646,7 @@ barbykelly
 barca
 barcelona
 barcelona – juventus
+barcelona – real sociedad
 barrage eupen
 bart de wever
 bart peeters
@@ -7657,6 +7753,7 @@ blessuredebruyne
 blessureedenhazard
 blob
 blood red sky
+blues brothers
 bob morane
 bob odenkirk
 boite de nuit
@@ -7734,10 +7831,12 @@ caleb landry jones
 calendrier ligue 1
 calendrierligue1
 calhanoglu
+camila giorgi
 camille cerf
 camille combal
 camille cottin
 camille lellouche
+camille lou
 camillecombal
 camillecottin
 camping paradis
@@ -7749,6 +7848,7 @@ captain america : civil war
 captain fantastic
 captainamerica:civilwar
 captainfantastic
+capucine anav
 cardano
 carel eiting
 careleiting
@@ -7781,6 +7881,7 @@ cengiz under
 cengizUnder
 cengizunder
 centre de vaccination
+cercle  anderlecht
 ceremonie ouverture jo 2021
 certificat covid
 certificat covid europeen
@@ -7886,6 +7987,7 @@ codeco
 collin morikawa
 colombiaanse variant
 coluche
+commandant massoud
 comment je suis devenu super-héros
 comomeer
 comparis
@@ -8277,6 +8379,7 @@ felix augeraliassime
 felixauger-aliassime
 felixaugeraliassime
 femizid
+fenerbahce
 fentanyl
 ferencvaros
 fernando rapallini
@@ -8328,6 +8431,7 @@ finnland belgien
 finnland russland
 finnlandbelgien
 finnlandrussland
+flavie flament
 flora duffy
 florence foster jenkins
 florence porcel
@@ -8825,6 +8929,8 @@ jérôme salomon
 kaa gent
 kaamelott
 kaamelott, premier volet
+kaboul
+kabul
 kabylie
 kai havertz
 kaihavertz
@@ -8958,6 +9064,7 @@ le dernier mercenaire
 le diable s'habille en prada
 le figaro
 le gendre de ma vie
+le mans 66
 le monde
 le parisien
 le sens de la famille
@@ -8981,6 +9088,7 @@ lenameyer-landrut
 lenameyerlandrut
 lens
 lens udinese
+lens – saint-étienne
 leon marchand
 leonardo spinazzola
 leparisien
@@ -9096,6 +9204,7 @@ madonna
 maehle
 maiwenn
 maladie de charcot
+maladie de lyme
 malefique
 malmedy
 malta
@@ -9324,6 +9433,7 @@ nagui
 nairo quintana
 nairoquintana
 nantes
+nantes – metz
 naomi osaka
 narbonne
 natalia
@@ -9447,6 +9557,7 @@ om benfica
 om braga
 om martigues
 om servette
+om-bordeaux
 om-villarreal
 omar raddad
 omar sy
@@ -9485,6 +9596,7 @@ overstromingen belgie
 overstromingen oostenrijk
 oxyde d'éthylène
 oyonnax
+pakistan
 palhinha
 pampelonne
 pancarte antisemite metz
@@ -9831,6 +9943,7 @@ résultatsbrevet2021
 sabalenka
 sachsenring
 sahra wagenknecht
+saigon
 saint jean
 saint-gaudens
 saint-jean
@@ -9848,6 +9961,7 @@ samiraitsaid
 sammy mahdi
 samsonova
 samsung
+samuel kalu
 san sebastian
 sancerre
 sans un bruit 2
@@ -9861,8 +9975,10 @@ sasa kalajdzic
 sasakalajdzic
 sassuolo
 saut d'obstacles par équipe jeux olympiques
+sc cham
 scarlett johansson
 scarlettjohansson
+scharia
 schlag den star
 schleitheim
 schlussgang
@@ -9898,6 +10014,7 @@ sean penn
 seattle kraken
 sebastien chabal
 seferovic
+segway
 selena gomez
 selenagomez
 selma blair
@@ -9942,6 +10059,7 @@ slowenien
 slowenien einreise
 slumdog millionaire
 slumdogmillionaire
+snake
 snapchat
 snu
 soeur sourire
@@ -9989,6 +10107,7 @@ st. gallen gegen luzern
 st.gallen gegen luzern
 stade rennes
 staderennes
+stains
 standard
 stanley nsoki
 stau gotthard
@@ -10062,10 +10181,12 @@ tadej pogacar
 tadesse abraham
 tahar rahim
 taiwan
+taliban c'est quoi
 tamberi
 tanguy
 tanja groen
 tarascon
+teams
 teddy riner
 terance mann
 terancemann
@@ -10089,7 +10210,9 @@ thetomorrowwar
 theux
 thiago
 thibaut courtois
+thierry burkart
 thierry henry
+thierry neuville
 thierryhenry
 thomas briels
 thomas meunier
@@ -10114,6 +10237,7 @@ tokyo 2020
 tokyo 2021
 tom cruise
 tom daley
+tom de cock
 tom dumoulin
 tom hanks
 tom holland
@@ -10129,6 +10253,8 @@ tori spelling
 torispelling
 tornado tschechien
 tornadotschechien
+tottenham
+tottenham – man city
 toulouse la rochelle
 toulouselarochelle
 tour de france
@@ -10156,6 +10282,7 @@ tout l'argent du monde
 tout le monde veut prendre sa place
 toutl'argentdumonde
 trautmann
+travis barker
 travis scott
 tremblement de terre strasbourg
 tremblementdeterrestrasbourg
@@ -10285,6 +10412,7 @@ wattenmeer
 wayne rooney
 weissenstein
 weissenstein schwinget
+wels
 wembley
 wer stiehlt mir die show
 werchter parklife
