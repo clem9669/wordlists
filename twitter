@@ -861,6 +861,7 @@ BALE
 BALERDI
 BALI
 BALIKWISHA
+BALKAPETTE
 BALKON
 BALLON
 BALOGUN
@@ -1266,6 +1267,7 @@ Bale
 Balerdi
 Bali
 Balikwisha
+Balkapette
 Balkon
 Ballon
 Balogun
@@ -1706,6 +1708,7 @@ CAIO
 CAIO HENRIQUE
 CALAIS
 CAM THOMAS
+CAMAVINGA
 CAMBRAI
 CAMILLE COTTIN
 CAMILLE LECOINTRE
@@ -1986,6 +1989,7 @@ CaioHenrique
 Calais
 Cam Thomas
 CamThomas
+Camavinga
 Cambrai
 Camille Cottin
 Camille Lecointre
@@ -3289,8 +3293,10 @@ FIFA 22
 FIFA22
 FIGARO
 FIGHTORESCAPE_ALBUMPREVIEW
+FIGHTORESCAPE_OUTNOW
 FIGHT_OR_ESCAPE
 FIGHTorESCAPE_AlbumPreview
+FIGHTorESCAPE_OutNow
 FIJN
 FIJNE
 FILIPPO GANNA
@@ -4147,6 +4153,7 @@ HANDBALL
 HANDELN
 HANDEN
 HANGT
+HANOUNA
 HANS VANDEWEGHE
 HANS VDW
 HANSEN
@@ -4310,6 +4317,7 @@ Handball
 Handeln
 Handen
 Hangt
+Hanouna
 Hans Vandeweghe
 Hans Vdw
 HansVandeweghe
@@ -4516,6 +4524,7 @@ IMPFWILLIGEN
 IMPFZWANG
 IMPOSTEUR
 INCENDIE
+INCENDIEVAR
 INCREDIBLE
 INDBEL
 INDBel
@@ -5701,6 +5710,7 @@ LE MARDI
 LE MR
 LE O
 LE PACTE
+LE PEN
 LE PSG
 LE REAL
 LE SEIGNEUR
@@ -5873,6 +5883,7 @@ LOV3STAYWITHSKZ
 LOVEISBLINDAFTERTHEALTAR
 LOVEISLAND
 LOVELY
+LOWLOW
 LOWRY
 LSFCSG
 LU3107
@@ -6044,6 +6055,7 @@ Le Mr
 Le O
 Le PSG
 Le Pacte
+Le Pen
 Le Real
 Le Seigneur
 Le Senat
@@ -6088,6 +6100,7 @@ LeO
 LePSG
 LePacte
 LePage
+LePen
 LeReal
 LeSeigneur
 LeSenat
@@ -6268,6 +6281,7 @@ Lov3STAYwithSKZ
 LoveIsBlindAftertheAltar
 LoveIsland
 Lovely
+LowLow
 Lowry
 Luan Peres
 LuanPeres
@@ -6588,6 +6602,7 @@ MIGROS
 MIKE TRESOR
 MIKEY
 MIKUNI
+MILA
 MILAN
 MILAN AC
 MILIK
@@ -6964,6 +6979,7 @@ MiddenOosten
 Middle East
 MiddleEast
 Middleton
+Midinews
 Miedema
 Mieke Gorissen
 MiekeGorissen
@@ -6975,6 +6991,7 @@ Mike Trésor
 MikeTrésor
 Mikey
 Mikuni
+Mila
 Milan
 Milan AC
 MilanAC
@@ -7838,6 +7855,7 @@ POLAND
 POLEMIK
 POLEN
 POLFRA
+POLIO
 POLITIKERN
 POLIZEIGEWALT
 POLIZIST
@@ -8116,6 +8134,7 @@ Poirier
 Poland
 Polemik
 Polen
+Polio
 Politikern
 Polizeigewalt
 Polizist
@@ -9000,6 +9019,7 @@ SRFARENA
 SRFCLUB
 SRFCRCL
 SRFCTOR
+SRFECOTALK
 SRFSPORT
 SRFSport
 ST AMOUR
@@ -10850,6 +10870,7 @@ Y'aR
 YABUSELE
 YAMAHA
 YAMATO
+YANGYANG
 YANISSA
 YANN SOMMER
 YARI
@@ -10857,6 +10878,8 @@ YAZICI
 YBCLUJ
 YBGC
 YBSB
+YBXR1
+YBxR1
 YEEZYDAY
 YEONJUN
 YESS
@@ -10881,6 +10904,7 @@ Ya R
 Yabusele
 Yamaha
 Yamato
+Yangyang
 Yanissa
 Yann Sommer
 YannSommer
@@ -11447,6 +11471,7 @@ bale
 balerdi
 bali
 balikwisha
+balkapette
 balkon
 ballon
 balogun
@@ -11861,6 +11886,7 @@ caio
 caio henrique
 calais
 cam thomas
+camavinga
 cambrai
 camille cottin
 camille lecointre
@@ -12693,6 +12719,7 @@ fifa22
 figaro
 fight_or_escape
 fightorescape_albumpreview
+fightorescape_outnow
 fijn
 fijne
 filippo ganna
@@ -13128,6 +13155,7 @@ handball
 handeln
 handen
 hangt
+hanouna
 hans vandeweghe
 hans vdw
 hansen
@@ -13201,6 +13229,7 @@ hihi
 hilde
 hilfe in den nachbarsländern
 hilfe vor ort
+hilfeindennachbarsländern
 hilona
 himmel
 hindu
@@ -13329,6 +13358,7 @@ impfwilligen
 impfzwang
 imposteur
 incendie
+incendievar
 incredible
 indbel
 independence day
@@ -13984,6 +14014,7 @@ le mardi
 le mr
 le o
 le pacte
+le pen
 le psg
 le real
 le seigneur
@@ -14178,6 +14209,7 @@ loveIsland
 loveisblindafterthealtar
 loveisland
 lovely
+lowlow
 lowry
 lsfcsg
 lu3107
@@ -14511,6 +14543,7 @@ mike trésor
 miketrésor
 mikey
 mikuni
+mila
 milan
 milan ac
 milik
@@ -15116,6 +15149,7 @@ poland
 polemik
 polen
 polfra
+polio
 politikern
 polizeigewalt
 polizist
@@ -15809,6 +15843,7 @@ srfarena
 srfclub
 srfcrcl
 srfctor
+srfecotalk
 srfsport
 st amour
 st. gallen
@@ -16591,6 +16626,7 @@ y'a r
 yabusele
 yamaha
 yamato
+yangyang
 yanissa
 yann sommer
 yannsommer
@@ -16599,6 +16635,7 @@ yazici
 ybcluj
 ybgc
 ybsb
+ybxr1
 yeezyday
 yeonjun
 yess
