@@ -325,6 +325,7 @@ ANREIZE
 ANSATZ
 ANSICHTEN
 ANSTAND
+ANSTECKUNG
 ANSTECKUNGEN
 ANSTIEG
 ANTEIL
@@ -716,6 +717,7 @@ Anreize
 Ansatz
 Ansichten
 Anstand
+Ansteckung
 Ansteckungen
 Anstieg
 Anteil
@@ -3811,6 +3813,7 @@ GANNA
 GARCIA
 GARDE REPUBLICAINE
 GARE DU NORD
+GARIBIAN
 GARNIER
 GARP
 GARTEN
@@ -4039,6 +4042,7 @@ GardeRepublicaine
 GardeRépublicaine
 Gare du Nord
 GareduNord
+Garibian
 Garnier
 Garp
 Garten
@@ -4308,6 +4312,7 @@ HEINEKEN
 HELEMAAL
 HELENE
 HELPTURKEY
+HENK
 HENRI VERNES
 HENRIQUE
 HENRY
@@ -4481,6 +4486,7 @@ Heimat
 Heineken
 Helemaal
 Helene
+Henk
 Henri Vernes
 HenriVernes
 Henrique
@@ -4644,6 +4650,7 @@ IMPFSTATUS
 IMPFSTOFF
 IMPFSTOFFE
 IMPFUNG
+IMPFUNGEN
 IMPFVERWEIGERER
 IMPFWILLIGEN
 IMPFZWANG
@@ -4714,6 +4721,7 @@ ISCO
 ISLAM
 ISLAMABAD
 ISLAMIC
+ISLANDE
 ISRAEL
 ISRAELI
 ISRAELIENS
@@ -4786,6 +4794,7 @@ Impfstatus
 Impfstoff
 Impfstoffe
 Impfung
+Impfungen
 Impfverweigerer
 Impfwilligen
 Impfzwang
@@ -4847,6 +4856,7 @@ Isco
 Islam
 Islamabad
 Islamic
+Islande
 Israel
 Israeli
 Israeliens
@@ -4895,6 +4905,7 @@ JACKIE B
 JACKSONWANG
 JACOB DESVARIEUX
 JACOBS
+JACQUES
 JACQUES VILLENEUVE
 JACTROLL
 JADORE
@@ -5082,6 +5093,7 @@ JacksonWang
 Jacob Desvarieux
 JacobDesvarieux
 Jacobs
+Jacques
 Jacques Villeneuve
 JacquesVilleneuve
 Jactroll
@@ -5305,6 +5317,7 @@ KAAGENT
 KAAMELOTT
 KAARIS
 KABILA
+KABOEL
 KABOUL
 KABUL
 KABULAIRPORT
@@ -5336,6 +5349,7 @@ KAPPA
 KARABATIC
 KARATE
 KARATE2024
+KARBALA
 KAREN
 KARIEM HUSSEIN
 KARIM
@@ -5513,6 +5527,7 @@ KYUNGSOO
 Kaamelott
 Kaaris
 Kabila
+Kaboel
 Kaboul
 Kabul
 Kabylie
@@ -5545,6 +5560,7 @@ Kappa
 Karabatic
 Karate
 Karate2024
+Karbala
 Karen
 Kariem Hussein
 KariemHussein
@@ -9125,6 +9141,7 @@ SIMONE BILES
 SIMONE VEIL
 SIMONEVEIL
 SIMONS
+SIMPSON
 SIMULATION
 SINA FREI
 SINAYOKO
@@ -9609,6 +9626,7 @@ Simone Veil
 SimoneBiles
 SimoneVeil
 Simons
+Simpson
 Simulation
 Sina Frei
 SinaFrei
@@ -10002,6 +10020,7 @@ THURAM
 TIAFOE
 TIC TAC
 TICINO
+TICKETMASTER
 TICTAC
 TIELEN
 TIER
@@ -10277,6 +10296,7 @@ Thunderous
 Thuram
 Tiafoe
 Ticino
+Ticketmaster
 Tielen
 Tier
 Tiere
@@ -10562,6 +10582,7 @@ VARIANTE
 VARIANTEN
 VASELINEDANSUNTITRE
 VASY
+VATICAN
 VAUD
 VEGA
 VEGEDREAM
@@ -10742,6 +10763,7 @@ Variante
 Varianten
 VaselineDansUnTitre
 Vasy
+Vatican
 Vaud
 Vega
 Vegedream
@@ -11615,6 +11637,7 @@ anreize
 ansatz
 ansichten
 anstand
+ansteckung
 ansteckungen
 anstieg
 anteil
@@ -13271,6 +13294,7 @@ garde républicaine
 garderepublicaine
 garderépublicaine
 gare du nord
+garibian
 garnier
 garp
 garten
@@ -13560,6 +13584,7 @@ heineken
 helemaal
 helene
 helpturkey
+henk
 henri vernes
 henrique
 henrivernes
@@ -13722,6 +13747,7 @@ impfstatus
 impfstoff
 impfstoffe
 impfung
+impfungen
 impfverweigerer
 impfwilligen
 impfzwang
@@ -13790,6 +13816,7 @@ isco
 islam
 islamabad
 islamic
+islande
 israel
 israeli
 israeliens
@@ -13832,6 +13859,7 @@ jacksonwang
 jacob desvarieux
 jacobdesvarieux
 jacobs
+jacques
 jacques villeneuve
 jactroll
 jadore
@@ -14041,6 +14069,7 @@ kaagent
 kaamelott
 kaaris
 kabila
+kaboel
 kaboul
 kabul
 kabulairport
@@ -14073,6 +14102,7 @@ kappa
 karabatic
 karate
 karate2024
+karbala
 karen
 kariem hussein
 kariemhussein
@@ -14860,6 +14890,7 @@ melsbroek
 melvin raffin
 memecredi
 memories of 2020
+memoriesof2020
 memphis
 mendes
 mendy
@@ -16139,6 +16170,7 @@ simone biles
 simone veil
 simoneveil
 simons
+simpson
 simulation
 sina frei
 sinafrei
@@ -16264,6 +16296,7 @@ sprache
 spreek
 spurs
 srbfra
+srfCLUB
 srfarena
 srfclub
 srfcrcl
@@ -16555,6 +16588,7 @@ thuram
 tiafoe
 tic tac
 ticino
+ticketmaster
 tielen
 tier
 tiere
@@ -16796,6 +16830,7 @@ variante
 varianten
 vaselinedansuntitre
 vasy
+vatican
 vaud
 vega
 vegedream
