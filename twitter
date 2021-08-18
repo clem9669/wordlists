@@ -2465,6 +2465,7 @@ DEFENSIE
 DEFENSIVEMENT
 DEFORMEUNEEMISSION
 DEGOUTANT
+DEGUEULASSE
 DEKU
 DELAP
 DELCROIX
@@ -2751,6 +2752,7 @@ Defensie
 Defensivement
 DeformeUneEmission
 Degoutant
+Degueulasse
 Deku
 DelaFuente
 Delap
@@ -2982,6 +2984,7 @@ EDDY DEMAREZ
 EDDYDEMAREZ
 EDEN HAZARD
 EDITH PIAF
+EELV
 EFFECTIVEMENT
 EFFEKT
 EGBERT
@@ -3001,6 +3004,7 @@ EINKOMMEN
 EINORDNUNG
 EINSATZ
 EINSCHRÄNKUNG
+EINSCHRÄNKUNGEN
 EINSTELLUNG
 EIP-1559
 EIP1559
@@ -3175,6 +3179,7 @@ Einkommen
 Einordnung
 Einsatz
 Einschränkung
+Einschränkungen
 Einstellung
 El Bakkali
 El Chadaille
@@ -5426,6 +5431,7 @@ KANDIDATEN
 KANE
 KANTE
 KANTON
+KANTON BERN
 KANTÉ
 KANYE
 KANYE WEST
@@ -5638,6 +5644,8 @@ Kandidaten
 Kane
 Kante
 Kanton
+Kanton Bern
+KantonBern
 Kanté
 Kanye
 Kanye West
@@ -7199,6 +7207,8 @@ Mediapart
 Mediapro
 Medizin
 Mediziner
+Mega Mindy
+MegaMindy
 Mehdi
 Meilleur Vert
 MeilleurVert
@@ -8581,6 +8591,7 @@ QR-CODE
 QR-code
 QRCODE
 QRCode
+QRMSCB
 QRcode
 QU'IL
 QUALITAT
@@ -10242,6 +10253,7 @@ TOTTENHAM
 TOTTI
 TOUCHEPASAMESENFANTS
 TOUCHEPASAMESGOSSES
+TOUCHEPASARAOULT
 TOULON
 TOUR DE FRANCE
 TOUR DE POLOGNE
@@ -10528,6 +10540,7 @@ Tot168
 Tote
 Tottenham
 Totti
+TouchePasARaoult
 Toulon
 Tour Eiffel
 Tour de France
@@ -12800,6 +12813,7 @@ defensie
 defensivement
 deformeuneemission
 degoutant
+degueulasse
 deketelaere
 deku
 delafuente
@@ -13024,6 +13038,7 @@ eddydemarez
 eden hazard
 edith piaf
 edithpiaf
+eelv
 effectivement
 effekt
 egbert
@@ -13042,6 +13057,7 @@ einkommen
 einordnung
 einsatz
 einschränkung
+einschränkungen
 einstellung
 eip-1559
 eip1559
@@ -14310,6 +14326,7 @@ kandidaten
 kane
 kante
 kanton
+kanton bern
 kanté
 kanye
 kanye west
@@ -15929,6 +15946,7 @@ qatar
 qr code
 qr-code
 qrcode
+qrmscb
 qu'il
 qualitat
 qualität
@@ -16914,6 +16932,7 @@ tottenham
 totti
 touchepasamesenfants
 touchepasamesgosses
+touchepasaraoult
 toulon
 tour de france
 tour de pologne
