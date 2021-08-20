@@ -320,6 +320,7 @@ AMUZU
 AMÉRICAINS
 ANALYSE
 ANAS
+ANAs
 ANCELOTTI
 ANDERLECHT
 ANDERSEN
@@ -1186,6 +1187,7 @@ BLUE LOCK
 BLUE SUMMER
 BLUES BROTHERS
 BLUMMENFELT
+BLUTCH
 BLÖDSINN
 BMGFCB
 BMXRACING
@@ -1194,6 +1196,7 @@ BOADU
 BOATENG
 BOAVISTA
 BOB DYLAN
+BOB MARLEY
 BOB MORANE
 BOB ODENKIRK
 BODART
@@ -1623,14 +1626,17 @@ BlueSummer
 Blues Brothers
 BluesBrothers
 Blummenfelt
+Blutch
 Blödsinn
 Boadu
 Boateng
 Boavista
 Bob Dylan
+Bob Marley
 Bob Morane
 Bob Odenkirk
 BobDylan
+BobMarley
 BobMorane
 BobOdenkirk
 Bodart
@@ -1969,6 +1975,7 @@ CHEESE
 CHELSEA
 CHELSEAVILLARREAL
 CHERKI
+CHESTERFIELD
 CHEVALDANSUNTITRE
 CHEVIL
 CHIBNALL
@@ -2284,6 +2291,7 @@ Checkth1s
 Cheese
 Chelsea
 Cherki
+Chesterfield
 ChevalDansUnTitre
 Chibnall
 Chicago
@@ -3475,6 +3483,7 @@ FACHLEUTE
 FAIR
 FAIT
 FAKENEWS
+FAKT
 FAKTEN
 FAKTOREN
 FALCON
@@ -3760,6 +3769,7 @@ Fach
 Fachleute
 Fair
 Fait
+Fakt
 Fakten
 Faktoren
 Falcon
@@ -4529,6 +4539,7 @@ HAUTFARBE
 HAVERTZ
 HAWAII50
 HAWKEYE
+HAWKINS
 HAZARD
 HAÏTI
 HDPROS
@@ -4715,6 +4726,7 @@ Hautfarbe
 Havertz
 Hawaii50
 Hawkeye
+Hawkins
 Hazard
 Haïti
 He-Man
@@ -4942,6 +4954,7 @@ INSOLENCE
 INSPIRED
 INSTA
 INSTAGRAMDOWN
+INTENSIVSTATION
 INTENSIVSTATIONEN
 INTERESSE
 INTERESSEN
@@ -5090,6 +5103,7 @@ Inshallah
 Insolence
 Inspired
 Insta
+Intensivstation
 Intensivstationen
 Interesse
 Interessen
@@ -5696,6 +5710,7 @@ KHERER
 KIEL
 KIESENHOFER
 KIEV
+KILLER
 KIM TAEHYUNG
 KIMJONGKOOK
 KIMPEMBE
@@ -5703,6 +5718,7 @@ KINDER UNTER 12
 KINDEREN
 KINDERGARTEN
 KINDLE
+KING
 KINGS
 KINGSBOUNTY2
 KINO
@@ -5920,6 +5936,7 @@ Kherer
 Kiel
 Kiesenhofer
 Kiev
+Killer
 Kim Taehyung
 KimTaehyung
 Kimpembe
@@ -5928,6 +5945,7 @@ Kinderen
 Kindergarten
 Kinderunter12
 Kindle
+King
 Kings
 KingsBounty2
 Kino
@@ -6037,7 +6055,10 @@ Kylian
 Kyubi
 KÄSE
 Käse
+L'AGENT 212
 L'ARBITRAGE
+L'Agent 212
+L'Agent212
 L'ECOLE
 L'EPS
 L'EQUIPE
@@ -6148,6 +6169,7 @@ LAVUELTA21
 LAYCON
 LAYLOW
 LAZARE
+LAgent 212
 LAÇI
 LBRY
 LDLC
@@ -7097,6 +7119,7 @@ MEXER
 MEZCAUL
 MHA321
 MHA322
+MHA323
 MHASPOILERS
 MHASpoilers
 MHSCOM
@@ -8108,6 +8131,7 @@ ONE PIECE
 ONE YEAR WITH TREASURE
 ONEPIECE1020
 ONEPIECE1021
+ONEPIECE1022
 ONEPLUS
 ONESTENFINALE
 ONEYEARWITHTREASURE
@@ -8441,6 +8465,7 @@ PIDCOCK
 PIERRE
 PIERRE FULLA
 PIERRE MAUROY
+PIERRE TOMBAL
 PIERRE VAN DAMME
 PIETER TSJOEN
 PING PONG
@@ -8456,6 +8481,8 @@ PJ TUCKER
 PJ Tucker
 PJANIC
 PJTucker
+PLACE AUX STARS
+PLACEAUXSTARS
 PLANE
 PLANNINGFAMILIAL
 PLATINE
@@ -8746,9 +8773,11 @@ Pidcock
 Pierre
 Pierre Fulla
 Pierre Mauroy
+Pierre Tombal
 Pierre Van Damme
 PierreFulla
 PierreMauroy
+PierreTombal
 PierreVanDamme
 Pieter Tsjoen
 PieterTsjoen
@@ -8953,6 +8982,7 @@ RAMSDALE
 RANDY ORTON
 RANGERS
 RAOM
+RAOUL CAUVIN
 RAOULT
 RAPPORT DU GIEC
 RAPTORS
@@ -9180,6 +9210,8 @@ Ramsdale
 Randy Orton
 RandyOrton
 Rangers
+Raoul Cauvin
+RaoulCauvin
 Raoult
 Rapport du GIEC
 RapportduGIEC
@@ -12661,6 +12693,7 @@ blue summer
 bluelock
 blues brothers
 blummenfelt
+blutch
 blödsinn
 bmgfcb
 bmxracing
@@ -12668,6 +12701,7 @@ boadu
 boateng
 boavista
 bob dylan
+bob marley
 bob morane
 bob odenkirk
 bobmorane
@@ -12986,6 +13020,7 @@ cheese
 chelsea
 chelseavillarreal
 cherki
+chesterfield
 chevaldansuntitre
 chevil
 chibnall
@@ -13681,6 +13716,7 @@ fachleute
 fair
 fait
 fakenews
+fakt
 fakten
 faktoren
 falcon
@@ -14274,6 +14310,7 @@ hautfarbe
 havertz
 hawaii50
 hawkeye
+hawkins
 hazard
 haïti
 hdpros
@@ -14498,6 +14535,7 @@ insolence
 inspired
 insta
 instagramdown
+intensivstation
 intensivstationen
 interesse
 interessen
@@ -14896,6 +14934,7 @@ kherer
 kiel
 kiesenhofer
 kiev
+killer
 kim taehyung
 kimjongkook
 kimpembe
@@ -14904,6 +14943,7 @@ kinderen
 kindergarten
 kinderunter12
 kindle
+king
 kings
 kingsbounty2
 kino
@@ -15021,6 +15061,7 @@ kylian
 kyubi
 kyungsoo
 käse
+l'agent 212
 l'arbitrage
 l'ecole
 l'eps
@@ -15696,6 +15737,7 @@ mexer
 mezcaul
 mha321
 mha322
+mha323
 mhaspoilers
 mhscom
 miami
@@ -16130,6 +16172,7 @@ one year with treasure
 onepiece
 onepiece1020
 onepiece1021
+onepiece1022
 oneplus
 onestenfinale
 onfray
@@ -16351,6 +16394,7 @@ pidcock
 pierre
 pierre fulla
 pierre mauroy
+pierre tombal
 pierre van damme
 pierremauroy
 pierrevandamme
@@ -16367,6 +16411,7 @@ pixel 6
 pizza
 pj tucker
 pjanic
+place aux stars
 plane
 planningfamilial
 platine
@@ -16549,6 +16594,7 @@ randy orton
 randyorton
 rangers
 raom
+raoul cauvin
 raoult
 rapport du giec
 raptors
