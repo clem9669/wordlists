@@ -1353,6 +1353,7 @@ BRENTFORD
 BREPSG
 BREST
 BRESTPSG
+BRETAGNE
 BREXIT
 BRIAND
 BRICE
@@ -1847,6 +1848,7 @@ BreathoftheWild
 Bregancon
 Brentford
 Brest
+Bretagne
 Brexit
 Briand
 Brice
@@ -3652,6 +3654,7 @@ FATE
 FATIMA
 FAUCI
 FAUDRAIT
+FAVOURITE CLIP
 FAVRE
 FAYE
 FC BARCELONA
@@ -3949,6 +3952,8 @@ Fate
 Fatima
 Fauci
 Faudrait
+Favourite Clip
+FavouriteClip
 Favre
 Faye
 Federation
@@ -4252,6 +4257,7 @@ GENEVIÈVE ASSE
 GENIESS
 GENIET
 GENK
+GENOA
 GENSHIN
 GENTSE
 GERALD BATICLE
@@ -4415,6 +4421,7 @@ GUIMARAES
 GUINGAMP
 GUIRASSY
 GULF STREAM
+GULLI
 GUNNA
 GUNNERS
 GUY2BEZBAR
@@ -4505,6 +4512,7 @@ GenevièveAsse
 Geniess
 Geniet
 Genk
+Genoa
 Genshin
 Gentse
 Genève
@@ -4658,6 +4666,7 @@ Guingamp
 Guirassy
 Gulf Stream
 GulfStream
+Gulli
 Gunna
 Gunners
 Guy2bezbar
@@ -5162,6 +5171,7 @@ INTENSIVSTATIONEN
 INTER MILAN
 INTERESSE
 INTERESSEN
+INTERGENOA
 INTERNATIONALCATDAY
 INTERNATIONALFRIENDSHIPDAY
 INTERNATIONALYOUTHDAY
@@ -5313,6 +5323,7 @@ Intelligenz
 Intensivstation
 Intensivstationen
 Inter Milan
+InterGenoa
 InterMilan
 Interesse
 Interessen
@@ -6398,6 +6409,7 @@ LAPORTA
 LARA
 LARS
 LARSONNEUR
+LARSSEN
 LASCHET
 LASOUPEAUXCHOUX
 LATIFI
@@ -6768,6 +6780,7 @@ Lara
 Larbitrage
 Lars
 Larsonneur
+Larssen
 Laschet
 Latifi
 Laune
@@ -7520,6 +7533,7 @@ MORHAD AMDOUNI
 MOSLIMS
 MOSSON
 MOST OVERRATED
+MOST UNDERRATED
 MOTOGP
 MOTTO
 MOUAIS
@@ -7534,6 +7548,7 @@ MOURAD ALIEV
 MOURINHO
 MOURINHOSHOW
 MOUSSA
+MOUSSA DIABY
 MOUSTOIR
 MOVETHEDATE
 MRNA
@@ -7958,7 +7973,9 @@ MorhadAmdouni
 Moslims
 Mosson
 Most Overrated
+Most Underrated
 MostOverrated
+MostUnderrated
 MotoGP
 Motto
 Mouais
@@ -7975,6 +7992,8 @@ MouradAliev
 Mourinho
 MourinhoShow
 Moussa
+Moussa Diaby
+MoussaDiaby
 Moustoir
 MoveTheDate
 Mrs Hudson
@@ -10900,6 +10919,7 @@ TESSIN
 TESTBOYKOTT
 TESTEN
 TESTS
+TEUFEL
 TEXAS
 TFCACA
 TFCSCB
@@ -11194,6 +11214,7 @@ Testboykott
 Testen
 Tests
 Tetais
+Teufel
 Texas
 Thailand
 Thalys
@@ -11557,6 +11578,7 @@ VACCINEZVOUS
 VACCINEZVOUSBORDEL
 VACCINOBLIGATOIRE
 VAFCNO
+VAFCRAF
 VALAIS
 VALENCE
 VALENTINO ROSSI
@@ -13026,6 +13048,8 @@ belgique
 belgisch
 belgische
 belgische c-130
+belgische c130
+belgischec-130
 belinda bencic
 belindabencic
 bellerin
@@ -13285,6 +13309,7 @@ brentford
 brepsg
 brest
 brestpsg
+bretagne
 brexit
 briand
 brice
@@ -14259,6 +14284,7 @@ fate
 fatima
 fauci
 faudrait
+favourite clip
 favre
 faye
 fc barcelona
@@ -14603,6 +14629,7 @@ geneviève asse
 geniess
 geniet
 genk
+genoa
 genshin
 gentse
 genève
@@ -14771,6 +14798,7 @@ guimaraes
 guingamp
 guirassy
 gulf stream
+gulli
 gunna
 gunners
 guy2bezbar
@@ -14881,6 +14909,7 @@ herve jamar
 herve mathoux
 hervé jamar
 hervé mathoux
+hervéjamar
 herzliche gratulation
 herzlichegratulation
 herzlichen dank
@@ -15085,6 +15114,7 @@ intensivstationen
 inter milan
 interesse
 interessen
+intergenoa
 internationalcatday
 internationalfriendshipday
 internationalyouthday
@@ -15432,6 +15462,7 @@ karim
 karim laghouag
 karin keller
 karine lacombe
+karinkeller
 karl
 karma
 karmine
@@ -15705,6 +15736,7 @@ laporta
 lara
 lars
 larsonneur
+larssen
 laréserve
 laschet
 lasoupeauxchoux
@@ -16451,6 +16483,7 @@ morhadamdouni
 moslims
 mosson
 most overrated
+most underrated
 motogp
 motto
 mouais
@@ -16466,6 +16499,7 @@ mouradaliev
 mourinho
 mourinhoshow
 moussa
+moussa diaby
 moustoir
 movethedate
 mrna
@@ -18065,6 +18099,7 @@ testboykott
 testen
 tests
 tetais
+teufel
 texas
 tfcaca
 tfcscb
@@ -18352,6 +18387,7 @@ vaccinezvous
 vaccinezvousbordel
 vaccinobligatoire
 vafcno
+vafcraf
 valais
 valence
 valentino rossi
