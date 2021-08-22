@@ -529,6 +529,7 @@ AUSGANG
 AUSGEWOGENHEIT
 AUSLAND
 AUSLANDER
+AUSLÄNDER
 AUSNAHMEN
 AUSSAGEN
 AUSTRALIA
@@ -949,6 +950,7 @@ Ausgang
 Ausgewogenheit
 Ausland
 Auslander
+Ausländer
 Ausnahmen
 Aussagen
 Australia
@@ -2229,6 +2231,7 @@ COVID
 COVID SAFE TICKET
 COVID-19
 COVID-22
+COVID-GESETZ
 COVID-IMPFUNG
 COVID-ZERTIFIKAT
 COVID-Zertifikat
@@ -3756,6 +3759,7 @@ FERNAND LOPEZ
 FERNANDES
 FERNANDO
 FERNANDO NINO
+FERNSEHGARTEN
 FERRAGOSTO
 FERRARI
 FERRI
@@ -4029,6 +4033,7 @@ Fernandes
 Fernando
 Fernando Nino
 FernandoNino
+Fernsehgarten
 Ferragosto
 Ferrari
 Ferri
@@ -4272,6 +4277,7 @@ GASCENTRALES
 GASLY
 GASSET
 GASTE
+GASTIEN
 GATLIN
 GAUDU
 GAUZY
@@ -4298,6 +4304,7 @@ GEHIRN
 GEIMPFT
 GEIMPFTE
 GEIMPFTEN
+GEIMPFTER
 GELEGENHEIT
 GELL
 GELOOF
@@ -4468,6 +4475,7 @@ GROUPAMA STADIUM
 GROUPE C
 GRUN
 GRUNDE
+GRUNDLAGE
 GRUNDRECHTE
 GRUPPEN
 GRÈCE
@@ -4533,6 +4541,7 @@ Gascentrales
 Gasly
 Gasset
 Gaste
+Gastien
 Gatlin
 Gaudu
 Gavi
@@ -4557,6 +4566,7 @@ Gehirn
 Geimpft
 Geimpfte
 Geimpften
+Geimpfter
 Gelegenheit
 Gell
 Geloof
@@ -4720,6 +4730,7 @@ Groupe C
 GroupeC
 Grun
 Grunde
+Grundlage
 Grundrechte
 Gruppen
 Grèce
@@ -4908,6 +4919,7 @@ HOSPITALISATIONEN
 HOSPITALISIERUNGEN
 HOUSE OF GUCCI
 HOUSEOFGUCCI
+HOUSSEM
 HOUSTON
 HU TAO
 HUAN HUAN
@@ -5104,6 +5116,7 @@ Hospitalisierungen
 House of Gucci
 HouseOfGucci
 HouseofGucci
+Houssem
 Houston
 Hu Tao
 HuTao
@@ -5509,6 +5522,7 @@ JAN BREYDEL
 JAN JAMBON
 JAN VAN HECKE
 JANTJE
+JANVIER 2022
 JAPAN
 JAPFRA
 JAPON
@@ -5954,6 +5968,7 @@ KABOUL
 KABUL
 KABULAIRPORT
 KABYLIE
+KADEWERE
 KADIMA
 KAGEYAMA
 KAIDO
@@ -6181,6 +6196,7 @@ Kaboel
 Kaboul
 Kabul
 Kabylie
+Kadewere
 Kadima
 Kageyama
 Kaido
@@ -6805,6 +6821,7 @@ LUZERN
 LYDIA
 LYDIE
 LYON
+LYONNAIS
 La Belgique
 La Chapelle
 La Chaux
@@ -7248,6 +7265,7 @@ Luzern
 Lydia
 Lydie
 Lyon
+Lyonnais
 LÄNDER
 LÄNDERN
 LÄRM
@@ -9242,6 +9260,7 @@ PetraDeSutter
 Peut-etre
 Peut-être
 Peutetre
+Peutie
 Peutêtre
 Pferd
 Pferde
@@ -10087,6 +10106,7 @@ SCHWESTER
 SCHWURBLER
 SCHÄDEN
 SCHÖNEN ABEND
+SCHÖNEN SONNTAG
 SCIENSANO
 SCLESSIN
 SCOOL
@@ -10264,6 +10284,7 @@ SOLO LEVELING
 SOMI
 SOMMER 2021
 SON FORGET
+SONDAGE
 SONDAGEJOKERS
 SONDAGEPLUIE
 SONDAGEWENDERS
@@ -10283,6 +10304,7 @@ SOUILLAC
 SOULAX
 SOURCE
 SOUTH PARK
+SOUTHAMPTON
 SOUTIENBALKAWW
 SOZIALISMUS
 SOZIALISTEN
@@ -10293,6 +10315,7 @@ SPACEX
 SPACEXPLOSION
 SPAHN
 SPAIN
+SPALTUNG
 SPANIEN
 SPANJE
 SPANNEND
@@ -10472,6 +10495,7 @@ SYMPTOMEN
 SYRACUSE
 SYRIA
 SYRIE
+SZENE
 Sabrina
 Sacha
 Sack
@@ -10623,7 +10647,9 @@ Schwester
 Schwurbler
 Schäden
 Schönen Abend
+Schönen Sonntag
 SchönenAbend
+SchönenSonntag
 Sciensano
 Sclessin
 Scotland
@@ -10795,6 +10821,7 @@ Sommer 2021
 Sommer2021
 Son Forget
 SonForget
+Sondage
 SondageJokers
 SondagePluie
 SondageWenders
@@ -10816,6 +10843,7 @@ Soulax
 Source
 South Park
 SouthPark
+Southampton
 SoutienBalkaww
 Sozialismus
 Sozialisten
@@ -10826,6 +10854,7 @@ Spaans
 SpaceX
 Spahn
 Spain
+Spaltung
 Spanien
 Spanje
 Spannend
@@ -10993,6 +11022,7 @@ Symptomen
 Syracuse
 Syria
 Syrie
+Szene
 SÉNÉGAL
 Sète
 Sécu
@@ -11013,6 +11043,7 @@ T'etais
 T'étais
 T-SHIRT
 T-shirt
+T1WIN
 TA LOU
 TACITURNE
 TAEHYUN
@@ -11245,6 +11276,7 @@ TOUR DU LIMOUSIN
 TOUR EIFFEL
 TOURE
 TOURISTEN
+TOUSANTICOVID
 TOUSART
 TOUSENFINALE
 TOUSVACCINES
@@ -11302,6 +11334,7 @@ TURPIN
 TURQUIE
 TUURLIJK
 TVG6
+TWEAJA
 TWELVE MINUTES
 TWELVEMINUTES
 TWILIGHT PRINCESS
@@ -11568,6 +11601,7 @@ TourduDanemark
 TourduLimousin
 Toure
 Touristen
+TousAntiCovid
 TousEnFinale
 TousVaccines
 TousVaccinés
@@ -11787,6 +11821,7 @@ VAN AVERMAET
 VAN DE VEN
 VAN DER POEL
 VAN DIJK
+VAN IMPE
 VAN PERSIE
 VAN RANST
 VAN VLEUTEN
@@ -11970,6 +12005,7 @@ Van Aert
 Van Avermaet
 Van Der Poel
 Van Dijk
+Van Impe
 Van Persie
 Van Ranst
 Van Vleuten
@@ -11979,6 +12015,7 @@ VanAert
 VanAvermaet
 VanDerPoel
 VanDijk
+VanImpe
 VanPersie
 VanRanst
 VanVleuten
@@ -13093,6 +13130,7 @@ ausgang
 ausgewogenheit
 ausland
 auslander
+ausländer
 ausnahmen
 aussagen
 australia
@@ -13902,10 +13940,12 @@ covid
 covid safe ticket
 covid-19
 covid-22
+covid-gesetz
 covid-impfung
 covid-zertifikat
 covid19
 covid_19
+covidgesetz
 covidisairborne
 covidsafeticket
 covidzertifikat
@@ -14560,6 +14600,7 @@ fernandes
 fernando
 fernando nino
 fernandonino
+fernsehgarten
 ferragosto
 ferrari
 ferri
@@ -14822,6 +14863,7 @@ gascentrales
 gasly
 gasset
 gaste
+gastien
 gatlin
 gaudu
 gauzy
@@ -14848,6 +14890,7 @@ gehirn
 geimpft
 geimpfte
 geimpften
+geimpfter
 gelegenheit
 gell
 geloof
@@ -15024,6 +15067,7 @@ groupe c
 groupec
 grun
 grunde
+grundlage
 grundrechte
 gruppen
 grèce
@@ -15225,6 +15269,7 @@ hospitalisationen
 hospitalisierungen
 house of gucci
 houseofgucci
+houssem
 houston
 hu tao
 huan huan
@@ -15468,6 +15513,8 @@ janbreydel
 janjambon
 jantje
 janvanhecke
+janvier 2022
+janvier2022
 japan
 japfra
 japon
@@ -15677,6 +15724,7 @@ kaboul
 kabul
 kabulairport
 kabylie
+kadewere
 kadima
 kageyama
 kaido
@@ -16326,6 +16374,7 @@ luzern
 lydia
 lydie
 lyon
+lyonnais
 länder
 ländern
 lärm
@@ -17894,6 +17943,7 @@ schwester
 schwurbler
 schäden
 schönen abend
+schönen sonntag
 schönenabend
 sciensano
 sclessin
@@ -18078,6 +18128,7 @@ solo leveling
 somi
 sommer 2021
 son forget
+sondage
 sondagejokers
 sondagepluie
 sondagewenders
@@ -18099,6 +18150,7 @@ souillac
 soulax
 source
 south park
+southampton
 southpark
 soutienbalkaww
 sozialismus
@@ -18111,6 +18163,7 @@ spacexplosion
 spafrancorchamps
 spahn
 spain
+spaltung
 spanien
 spanje
 spannend
@@ -18294,6 +18347,7 @@ symptomen
 syracuse
 syria
 syrie
+szene
 sète
 sécu
 sénat
@@ -18308,6 +18362,7 @@ t'esgrand
 t'etais
 t'étais
 t-shirt
+t1win
 ta lou
 taciturne
 taehyun
@@ -18552,6 +18607,7 @@ tour eiffel
 tourdudanemark
 toure
 touristen
+tousanticovid
 tousart
 tousenfinale
 tousvaccines
@@ -18609,6 +18665,7 @@ turpin
 turquie
 tuurlijk
 tvg6
+tweaja
 twelve minutes
 twelveminutes
 twilight princess
@@ -18709,6 +18766,7 @@ van avermaet
 van de ven
 van der poel
 van dijk
+van impe
 van persie
 van ranst
 van vleuten
