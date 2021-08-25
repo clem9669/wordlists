@@ -1167,6 +1167,8 @@ BEERSCHOT
 BEESTA
 BEEUSG
 BEGINN
+BEGRUNDUNG
+BEGRÜNDUNG
 BEHANDLUNG
 BEHAUPTUNG
 BEHAUPTUNGEN
@@ -1645,6 +1647,7 @@ Bedingungen
 Bedos
 Beerschot
 Beginn
+Begründung
 Behandlung
 Behauptung
 Behauptungen
@@ -6468,6 +6471,7 @@ KOCHSALZLOSUNG
 KOCHSALZLÖSUNG
 KOEMAN
 KOEN
+KOEN KENNIS
 KOEN NAERT
 KOH LANTA
 KOH-LANTA
@@ -6724,7 +6728,9 @@ Kochsalzlosung
 Kochsalzlösung
 Koeman
 Koen
+Koen Kennis
 Koen Naert
+KoenKennis
 KoenNaert
 Koh Lanta
 Koh-Lanta
@@ -8785,6 +8791,7 @@ NETO
 NETS
 NEUER
 NEUILLY
+NEVERMIND
 NEW DROP
 NEW GEN
 NEW YORK
@@ -8981,6 +8988,7 @@ Neto
 Nets
 Neuer
 Neuilly
+Nevermind
 New Drop
 New Gen
 New York
@@ -9587,6 +9595,7 @@ PLOPSALAND
 PLRMC
 PLUM
 PLYMOUTH
+PLÄTZE
 PNDKR21
 POCHETTINO
 PODCAST
@@ -9938,6 +9947,7 @@ PlayStation
 Plopsaland
 Plum
 Plymouth
+Plätze
 Pochettino
 Podcast
 Poes
@@ -14193,6 +14203,7 @@ beerschot
 beesta
 beeusg
 beginn
+begründung
 behandlung
 behauptung
 behauptungen
@@ -16938,6 +16949,7 @@ kochsalzlosung
 kochsalzlösung
 koeman
 koen
+koen kennis
 koen naert
 koennaert
 koh lanta
@@ -18087,6 +18099,7 @@ neto
 nets
 neuer
 neuilly
+nevermind
 new drop
 new gen
 new york
@@ -18579,6 +18592,7 @@ plopsaland
 plrmc
 plum
 plymouth
+plätze
 pndkr21
 pochettino
 podcast
