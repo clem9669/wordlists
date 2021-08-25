@@ -1261,6 +1261,7 @@ BERLUX
 BERN
 BERNARD
 BERNARD LA SCOLA
+BERNARDO
 BERNARDONI
 BERNAT
 BERNE
@@ -1542,6 +1543,7 @@ BULLS
 BUND
 BUNDESLIGA
 BUNDESRAT
+BUNDESTAG
 BUNDU
 BUON FERRAGOSTO
 BUONA
@@ -2077,6 +2079,7 @@ Bulls
 Bund
 Bundesliga
 Bundesrat
+Bundestag
 Bundu
 Buon Ferragosto
 BuonFerragosto
@@ -3086,6 +3089,7 @@ DOCTOLIB
 DOEL
 DOHA
 DOIGBY
+DOKEV
 DOKOMI
 DOKU
 DOLBERG
@@ -3100,6 +3104,7 @@ DONC MESSI
 DONCIC
 DONDA
 DONER
+DONETSK
 DONNARUMMA
 DONNUM
 DONNY
@@ -3428,6 +3433,7 @@ Doctolib
 Doel
 Doha
 Doigby
+DokeV
 Dokomi
 Doku
 Dolberg
@@ -3446,6 +3452,7 @@ DoncMessi
 Doncic
 Donda
 Doner
+Donetsk
 Donnarumma
 Donnum
 Donny
@@ -7213,6 +7220,7 @@ LIESBETH VAN IMPE
 LIGUE
 LIGUE 1
 LIGUE 2
+LIGUE EUROPA
 LIGUE1
 LIGUE1UBEREATS
 LIGUE2
@@ -8245,6 +8253,7 @@ MONCORPSMONCHOIX
 MOND
 MONDAYMOJI
 MONDAYMOTIVATION
+MONEGASQUES
 MONETEAVECTRUFFAUT
 MONEY
 MONFILS
@@ -8258,6 +8267,7 @@ MONTPARNASSE
 MONTPELLIER
 MONTREAL
 MONTRÉAL
+MONÉGASQUES
 MOODY
 MOOI
 MORATA
@@ -8269,6 +8279,7 @@ MOSSON
 MOST OVERRATED
 MOST UNDERRATED
 MOTHERLANDFORTSALEM
+MOTING
 MOTIVATION
 MOTOGP
 MOTOR
@@ -8761,6 +8772,7 @@ Most Underrated
 MostOverrated
 MostUnderrated
 MotherlandFortSalem
+Moting
 Motivation
 MotoGP
 Motor
@@ -9865,6 +9877,7 @@ PURÉE
 PUSHA T
 PUTIN
 PVDA
+PYATOV
 Paare
 Pablo
 Pablo Fernandez
@@ -10210,6 +10223,7 @@ Pusha T
 PushaT
 Putin
 PvdA
+Pyatov
 PÉTAIN
 Pénélope
 Pétain
@@ -13582,6 +13596,7 @@ YOHAN BLAKE
 YOIMIYA
 YOKA
 YOUMAKESTRAYKIDSSTAY
+YOUNG BOYS
 YOUNGBOY
 YOUNGJAE
 YOUSEF
@@ -13615,6 +13630,8 @@ YohanBlake
 Yoimiya
 Yoka
 YouMakeStrayKidsStay
+Young Boys
+YoungBoys
 Youngboy
 Youngjae
 Yousef
@@ -13692,6 +13709,7 @@ ZWECK
 ZWEDEN
 ZWEEDSE
 ZWEIFEL
+ZWEIKLASSENGESELLSCHAFT
 ZWIEBELN
 ZWIJNDRECHT
 ZWISCHENWELLE
@@ -13761,6 +13779,7 @@ Zweck
 Zweden
 Zweedse
 Zweifel
+Zweiklassengesellschaft
 Zwiebeln
 Zwijndrecht
 Zwischenwelle
@@ -14483,6 +14502,7 @@ bern
 bernard
 bernard la scola
 bernardlascola
+bernardo
 bernardoni
 bernat
 berne
@@ -14775,6 +14795,7 @@ bulls
 bund
 bundesliga
 bundesrat
+bundestag
 bundu
 buon ferragosto
 buona
@@ -15246,6 +15267,7 @@ daumen
 dautant
 dave
 dave appadoo
+daveappadoo
 david
 david astorga
 david lisnard
@@ -15428,6 +15450,7 @@ doctolib
 doel
 doha
 doigby
+dokev
 dokomi
 doku
 dolberg
@@ -15443,6 +15466,7 @@ donc messi
 doncic
 donda
 doner
+donetsk
 donnarumma
 donnum
 donny
@@ -17596,9 +17620,11 @@ liesbethvanimpe
 ligue
 ligue 1
 ligue 2
+ligue europa
 ligue1
 ligue1ubereats
 ligue2
+ligueeuropa
 lihadji
 lil baby
 lil nas x
@@ -18176,6 +18202,7 @@ moncorpsmonchoix
 mond
 mondaymoji
 mondaymotivation
+monegasques
 moneteavectruffaut
 money
 monfils
@@ -18189,6 +18216,7 @@ montparnasse
 montpellier
 montreal
 montréal
+monégasques
 moody
 mooi
 morata
@@ -18202,6 +18230,7 @@ most overrated
 most underrated
 mostoverrated
 motherlandfortsalem
+moting
 motivation
 motogp
 motor
@@ -18661,6 +18690,7 @@ pallois
 paname
 pandemie
 pandemie der ungeimpften
+pandemiederungeimpften
 pansement
 pantheon
 panthéon
@@ -18984,6 +19014,7 @@ purée
 pusha t
 putin
 pvda
+pyatov
 pénélope
 pétain
 qalf
@@ -20749,6 +20780,7 @@ yohan blake
 yoimiya
 yoka
 youmakestraykidsstay
+young boys
 youngboy
 youngjae
 yousef
@@ -20827,6 +20859,7 @@ zweck
 zweden
 zweedse
 zweifel
+zweiklassengesellschaft
 zwiebeln
 zwijndrecht
 zwischenwelle
