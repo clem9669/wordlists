@@ -560,6 +560,7 @@ ATHLETICBARCA
 ATHLETICS
 ATINYSELCADAY
 ATLANTA
+ATLETICO
 ATMOSPHÄRE
 ATSD
 ATSUSHI
@@ -1023,6 +1024,7 @@ AthleticBarca
 Athletics
 AtinySelcaDay
 Atlanta
+Atletico
 Atmosphäre
 Atsushi
 Attal
@@ -1137,6 +1139,7 @@ BARD
 BARDET
 BARELLA
 BARGANTUA
+BARNIER
 BARSHIM
 BART
 BART DE PAUW
@@ -1643,6 +1646,7 @@ Bard
 Bardet
 Barella
 Bargantua
+Barnier
 Barshim
 Bart
 Bart De Pauw
@@ -2364,6 +2368,7 @@ CLINT EASTWOOD
 CLIPPERS
 CLOSINGCEREMONY
 CLUB BRUGGE
+CLUBBRUGGE
 CLUBEE
 CLUBS
 CLUCER
@@ -2752,6 +2757,7 @@ CluCer
 CluEup
 Club Brugge
 ClubBrugge
+Clubbrugge
 Clubs
 ClémenTINE
 Clémence
@@ -3063,6 +3069,7 @@ DI GRASSI
 DI MARIA
 DI RUPO
 DI VIZIO
+DIABY
 DIALGA
 DIALLO
 DIALOG
@@ -3416,6 +3423,7 @@ DiMaria
 DiRupo
 DiVizio
 DiaMaNt
+Diaby
 Dialga
 Diallo
 Dialog
@@ -3738,6 +3746,7 @@ ESPFRA
 ESPOIRS
 ESPSLO
 ESPUSA
+ESSIEN
 ESTACPSG
 ESTEBAN
 ESTEBAN OCON
@@ -3951,6 +3960,7 @@ Espagne Slovénie
 EspagneSlovénie
 Espagnols
 Espoirs
+Essien
 Esteban
 Esteban Ocon
 EstebanOcon
@@ -4670,6 +4680,7 @@ GASLY
 GASSET
 GASTE
 GASTIEN
+GASTRO
 GASTRONOMIE
 GASTROSUISSE
 GATLIN
@@ -4884,6 +4895,7 @@ GROOT
 GROSJEAN
 GROTE
 GROUPAMA STADIUM
+GROUPE B
 GROUPE C
 GRUN
 GRUNDE
@@ -4960,6 +4972,7 @@ Gasly
 Gasset
 Gaste
 Gastien
+Gastro
 GastroSuisse
 Gastronomie
 Gastrosuisse
@@ -5166,7 +5179,9 @@ Grosjean
 Grote
 Groupama Stadium
 GroupamaStadium
+Groupe B
 Groupe C
+GroupeB
 GroupeC
 Grun
 Grunde
@@ -8242,6 +8257,7 @@ MESSIPSG
 METAL SLUG TACTICS
 METER
 METHODE
+METHODEN
 METROID
 METZ
 MEVROUW LEEMANS
@@ -8503,7 +8519,9 @@ Manifs7aout
 Manigold
 Manny
 Manon Brunet
+Manon Claeys
 ManonBrunet
+ManonClaeys
 Manuel Valls
 ManuelValls
 Mané
@@ -8738,6 +8756,7 @@ Metal Slug Tactics
 MetalSlugTactics
 Meter
 Methode
+Methoden
 Metroid
 Metz
 Mevrouw Leemans
@@ -9725,6 +9744,7 @@ PAREDES
 PARIJS
 PARIS
 PARIS 2024
+PARIS CITY
 PARIS FC
 PARIS SAINT GERMAIN
 PARIS SAINT-GERMAIN
@@ -9917,6 +9937,7 @@ PONT DE NEUILLY
 POP SMOKE
 POPOVICH
 POPULAIRE
+PORSCHE
 PORTE DOREE
 PORTE DORÉE
 PORTLAND
@@ -10066,12 +10087,14 @@ Paredes
 Parijs
 Paris
 Paris 2024
+Paris City
 Paris FC
 Paris Saint Germain
 Paris Saint-Germain
 Paris SaintGermain
 Paris Texas
 Paris2024
+ParisCity
 ParisFC
 ParisSaint-Germain
 ParisSaintGermain
@@ -10281,6 +10304,7 @@ PontdeNeuilly
 Pop Smoke
 PopSmoke
 Popovich
+Porsche
 Porte Doree
 Porte Dorée
 PorteDorée
@@ -10455,6 +10479,7 @@ RANGERS
 RAOM
 RAOUL CAUVIN
 RAOULT
+RAPPEN
 RAPPORT DU GIEC
 RAPTORS
 RASHANI
@@ -11203,6 +11228,7 @@ SHARIA
 SHARING CRYP
 SHAWN
 SHEERIZ
+SHERIFF
 SHINEE
 SHINJI
 SHINOBU
@@ -11799,6 +11825,7 @@ Sharing CRYP
 SharingCRYP
 Shawn
 Sheeriz
+Sheriff
 Shinji
 Shinobu
 Shutdown
@@ -12351,6 +12378,7 @@ TIPE
 TIPLOUF
 TIPP
 TIRAGELDC
+TIRASPOL
 TISCH
 TITANIC
 TITI
@@ -12695,6 +12723,7 @@ Tipe
 Tiplouf
 Tipp
 TirageLDC
+Tiraspol
 Tisch
 Titanic
 Titi
@@ -13148,6 +13177,7 @@ VISIBLEWOMEN
 VISSER
 VITA
 VITALITY
+VITAND
 VITESSE
 VIVALDI
 VIVE LA FRANCE
@@ -13537,6 +13567,7 @@ WOEDENDE
 WOHLSTAND
 WOKE
 WOLFGANG
+WOLFSBURG
 WOLKEN
 WOLLANTS
 WOLVES
@@ -13701,6 +13732,7 @@ Woedende
 Wohlstand
 Woke
 Wolfgang
+Wolfsburg
 Wolken
 Wollants
 Wolves
@@ -14436,6 +14468,7 @@ athleticbarca
 athletics
 atinyselcaday
 atlanta
+atletico
 atmosphäre
 atsd
 atsushi
@@ -14547,6 +14580,7 @@ bard
 bardet
 barella
 bargantua
+barnier
 barshim
 bart
 bart de pauw
@@ -15257,6 +15291,7 @@ clint eastwood
 clippers
 closingceremony
 club brugge
+clubbrugge
 clubee
 clubs
 clucer
@@ -15590,6 +15625,7 @@ di grassi
 di maria
 di rupo
 di vizio
+diaby
 dialga
 diallo
 dialog
@@ -15915,6 +15951,7 @@ espfra
 espoirs
 espslo
 espusa
+essien
 estacpsg
 esteban
 esteban ocon
@@ -16349,6 +16386,7 @@ gasly
 gasset
 gaste
 gastien
+gastro
 gastronomie
 gastrosuisse
 gatlin
@@ -16569,6 +16607,7 @@ groot
 grosjean
 grote
 groupama stadium
+groupe b
 groupe c
 groupec
 grun
@@ -18315,6 +18354,7 @@ messipsg
 metal slug tactics
 meter
 methode
+methoden
 metroid
 metz
 mevrouw leemans
@@ -18967,6 +19007,7 @@ paredes
 parijs
 paris
 paris 2024
+paris city
 paris fc
 paris saint germain
 paris saint-germain
@@ -19171,6 +19212,7 @@ pont de neuilly
 pop smoke
 popovich
 populaire
+porsche
 porte doree
 porte dorée
 portland
@@ -19338,6 +19380,7 @@ raom
 raoul cauvin
 raoulcauvin
 raoult
+rappen
 rapport du giec
 raptors
 rashani
@@ -19838,6 +19881,7 @@ sharia
 sharing cryp
 shawn
 sheeriz
+sheriff
 shinee
 shinji
 shinobu
@@ -20417,6 +20461,7 @@ tipe
 tiplouf
 tipp
 tirageldc
+tiraspol
 tisch
 titanic
 titi
@@ -20806,6 +20851,7 @@ visiblewomen
 visser
 vita
 vitality
+vitand
 vitesse
 vivaldi
 vive la france
@@ -20991,6 +21037,7 @@ woedende
 wohlstand
 woke
 wolfgang
+wolfsburg
 wolken
 wollants
 wolves
