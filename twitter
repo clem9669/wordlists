@@ -4907,6 +4907,7 @@ GATLIN
 GAUDU
 GAUZY
 GAVI
+GAVORY
 GAZA
 GAZO
 GAZPROM
@@ -5217,6 +5218,7 @@ Gastrosuisse
 Gatlin
 Gaudu
 Gavi
+Gavory
 Gaza
 Gazo
 Gazprom
@@ -6501,6 +6503,7 @@ JUSTIN BIEBER
 JUSTITIE
 JUTTA VERKEST
 JUVE
+JUVEEMPOLI
 JUVENTUS
 JUVIN
 JVLIVS
@@ -6780,6 +6783,7 @@ Justitie
 Jutta Verkest
 JuttaVerkest
 Juve
+JuveEmpoli
 Juventus
 Juvin
 JÉRÔME ALONZO
@@ -7523,7 +7527,9 @@ LE SEIGNEUR
 LE SENAT
 LE SOIR
 LE STANDARD
+LE VELODROME
 LE VTT
+LE VÉLODROME
 LEA FERNEY
 LEAGUE OF LEGENDS
 LEBANESE
@@ -7972,6 +7978,8 @@ Le Senat
 Le Soir
 Le Sénat
 Le VTT
+Le Velodrome
+Le Vélodrome
 Le0
 Le10
 Le15
@@ -8026,6 +8034,7 @@ LeSenat
 LeSoir
 LeSénat
 LeVTT
+LeVélodrome
 Lea Ferney
 League of Legends
 LeagueofLegends
@@ -8560,6 +8569,7 @@ MEDIAPART
 MEDIAPRO
 MEDIENMITTEILUNG
 MEDIKAMENTE
+MEDIUM
 MEDIZIN
 MEDIZINER
 MEDVEDEV
@@ -9079,6 +9089,7 @@ Mediapart
 Mediapro
 Medienmitteilung
 Medikamente
+Medium
 Medizin
 Mediziner
 Medvedev
@@ -11504,8 +11515,10 @@ SAIGON
 SAILING
 SAILLET
 SAINT AMOUR
+SAINT ETIENNE
 SAINT LOUIS
 SAINT MAXIMIN
+SAINT ÉTIENNE
 SAINT-DENIS
 SAINT-ETIENNE
 SAINT-LAURENT-SUR-SEVRE
@@ -11785,6 +11798,7 @@ SIQUET
 SIR ALEX
 SIR ALEX FERGUSON
 SISQUI
+SISSAKO
 SIXERS
 SKANDAL
 SKATE
@@ -12107,8 +12121,10 @@ Saigon
 Sailing
 Saillet
 Saint Amour
+Saint Etienne
 Saint Louis
 Saint Maximin
+Saint Étienne
 Saint-Denis
 Saint-Etienne
 Saint-Laurent-sur-Sevre
@@ -12123,6 +12139,7 @@ SaintLouis
 SaintMaximin
 Saints Row
 SaintsRow
+SaintÉtienne
 Sainz
 Saison
 Sakai
@@ -17094,6 +17111,7 @@ gatlin
 gaudu
 gauzy
 gavi
+gavory
 gaza
 gazo
 gazprom
@@ -18034,6 +18052,7 @@ justitie
 jutta verkest
 juttaverkest
 juve
+juveempoli
 juventus
 juvin
 jvlivs
@@ -18513,7 +18532,9 @@ le senat
 le soir
 le standard
 le sénat
+le velodrome
 le vtt
+le vélodrome
 le25
 le30
 le360
@@ -19079,6 +19100,7 @@ mediapart
 mediapro
 medienmitteilung
 medikamente
+medium
 medizin
 mediziner
 medvedev
@@ -20490,8 +20512,10 @@ saigon
 sailing
 saillet
 saint amour
+saint etienne
 saint louis
 saint maximin
+saint étienne
 saint-denis
 saint-etienne
 saint-laurent-sur-sevre
@@ -20793,6 +20817,7 @@ siquet
 sir alex
 sir alex ferguson
 sisqui
+sissako
 sixers
 skandal
 skate
