@@ -188,6 +188,7 @@ AMERICAN STAFF
 AMINE HARIT
 AMNESTIE
 AMY WINEHOUSE
+ANASTACIA
 ANDERLECHT
 ANDERLECHT GENT
 ANDERLECHT LACI
@@ -483,6 +484,7 @@ AmineHarit
 Amnestie
 Amy Winehouse
 AmyWinehouse
+Anastacia
 Anderlecht
 Anderlecht Gent
 Anderlecht Vitesse
@@ -720,6 +722,7 @@ BAUMWIPFELPFAD LAAX
 BAYER
 BAYERN
 BAYERN  AJAX
+BAYERN GEGEN HERTHA
 BAYERN GEGEN KÖLN
 BAYERN GEGEN MÖNCHENGLADBACH
 BAYERN – COLOGNE
@@ -787,6 +790,7 @@ BERRETTINI
 BERT DE BACKER
 BESANCON
 BESTMILE
+BETIS – REAL
 BFM
 BHUTAN
 BIELERSEE
@@ -801,6 +805,7 @@ BILLIE EILISH
 BILLRAMSEY
 BILLY GIBBONS
 BILLY GILMOUR
+BILLY THE KID
 BILLYGILMOUR
 BIONTECH-AKTIE
 BIRGIT VAN MOL
@@ -989,10 +994,12 @@ BaumwipfelpfadLaax
 Bayer
 Bayern
 Bayern  Ajax
+Bayern gegen Hertha
 Bayern gegen Köln
 Bayern gegen Mönchengladbach
 Bayern – Cologne
 BayernAjax
+BayerngegenHertha
 BayerngegenKöln
 BayerngegenMönchengladbach
 Bayern–Cologne
@@ -1079,6 +1086,8 @@ Bert De Backer
 BertDeBacker
 Besancon
 Bestmile
+Betis – Real
+Betis–Real
 Bhutan
 Bielersee
 Bilal Hassani
@@ -1092,8 +1101,10 @@ Billie Eilish
 BillieEilish
 Billy Gibbons
 Billy Gilmour
+Billy the Kid
 BillyGibbons
 BillyGilmour
+BillytheKid
 BioNTech-Aktie
 BioNTechAktie
 Biontech-Aktie
@@ -1253,6 +1264,7 @@ CALL OF DUTY: VANGUARD
 CAMAVINGA
 CAMILA GIORGI
 CAMILA KENDRA
+CAMILLE BALANCHE
 CAMILLE CERF
 CAMILLE COMBAL
 CAMILLE COTTIN
@@ -1317,6 +1329,7 @@ CERTIFICATCOVIDEUROPEEN
 CERTIFICATCOVIDEUROPeEN
 CERTIFICATCOVIDEUROPéEN
 CHADLI
+CHADWICK BOSEMAN
 CHAINSAW MAN
 CHAINSAWMAN
 CHALLENGE LEAGUE
@@ -1457,6 +1470,7 @@ CORREA
 CORRIERE DELLO SPORT
 CORSE COVID
 COTE LANDAISE
+COUCKE
 COUPE D'EUROPE 2021
 COUPE DU MONDE
 COUPE DU MONDE 2022
@@ -1527,12 +1541,14 @@ Camila Giorgi
 Camila Kendra
 CamilaGiorgi
 CamilaKendra
+Camille Balanche
 Camille Cerf
 Camille Combal
 Camille Cottin
 Camille Gottlieb
 Camille Lellouche
 Camille Lou
+CamilleBalanche
 CamilleCerf
 CamilleCombal
 CamilleCottin
@@ -1604,6 +1620,8 @@ CertificatCovidSuisse
 CertificatCovideuropeen
 CertificatCovideuropéen
 Chadli
+Chadwick Boseman
+ChadwickBoseman
 Chainsaw Man
 ChainsawMan
 Challenge League
@@ -1802,6 +1820,7 @@ Corse Covid
 CorseCovid
 Cote landaise
 Cotelandaise
+Coucke
 Coupe d'Europe 2021
 Coupe du Monde
 Coupe du monde
@@ -1885,6 +1904,7 @@ DANIELA KATZENBERGER
 DANIELCARR
 DANIELMICKELSON
 DANIELPOLETTE
+DANTE VANZEIR
 DANY BOON
 DANYBOON
 DARLIGEN
@@ -2008,6 +2028,8 @@ DanielMickelson
 DanielPolette
 Daniela Katzenberger
 DanielaKatzenberger
+Dante Vanzeir
+DanteVanzeir
 Dany Boon
 DanyBoon
 Darligen
@@ -2205,6 +2227,7 @@ ELITE
 ELITE SAISON 4
 ELITESAISON4
 ELIUD KIPCHOGE
+ELIZABETH HOLMES
 ELKE VANHOOF BMX
 ELLEMIEKE VERMOLEN
 ELLEMIEKEVERMOLEN
@@ -2305,6 +2328,7 @@ ETHAN MBAPPé
 ETHANMBAPPE
 ETHANMBAPPe
 ETHANMBAPPé
+ETHIOPIE
 ETHYLEENOXIDE
 ETIENNE DAHO
 ETOILE DE MIDI
@@ -2393,6 +2417,8 @@ Elite saison 4
 Elitesaison4
 Eliud Kipchoge
 EliudKipchoge
+Elizabeth Holmes
+ElizabethHolmes
 Elke Vanhoof BMX
 ElkeVanhoofBMX
 Ellemieke Vermolen
@@ -2495,6 +2521,7 @@ Ethan Mbappe
 Ethan Mbappé
 EthanMbappe
 EthanMbappé
+Ethiopie
 Ethyleenoxide
 Etienne Daho
 EtienneDaho
@@ -2697,6 +2724,7 @@ FOOT
 FOOT LIGUE 1
 FOOTBALL
 FOOTBALL JEUX OLYMPIQUES DE TOKYO 2020
+FORMEL 1
 FORMEL-1
 FORMULA 1
 FORMULE 1
@@ -2916,6 +2944,7 @@ FootLigue1
 Football
 Football Jeux Olympiques de Tokyo 2020
 FootballJeuxOlympiquesdeTokyo2020
+Formel 1
 Formel-1
 Formel1
 Formula 1
@@ -3078,6 +3107,7 @@ GATESHEAD
 GEERT MEYFROIDT
 GENK  OOSTENDE
 GENSHIN IMPACT
+GENT - CLUB BRUGGE
 GENT JAZZ
 GEORGE CLOONEY
 GERALD MARIE
@@ -3140,6 +3170,7 @@ GP MOTO
 GP Moto
 GPAUTRICHE
 GPAutriche
+GPF1
 GPMoto
 GRAND ORAL BAC 2021
 GRAND PALAIS ÉPHÉMÈRE
@@ -3209,7 +3240,10 @@ Genk  Oostende
 GenkOostende
 Genshin Impact
 GenshinImpact
+Gent  Club Brugge
+Gent - Club Brugge
 Gent Jazz
+Gent-ClubBrugge
 GentJazz
 George Clooney
 GeorgeClooney
@@ -3356,6 +3390,7 @@ HARRY POTTER ET LE PRISONNIER D'AZKABAN
 HARRYMAGUIRE
 HARRYPOTTER
 HARRYPOTTER2
+HAUS DES GELDES
 HAWAII
 HAWAII 5-0
 HAWKS - BUCKS
@@ -3443,6 +3478,8 @@ HarryPotter
 HarryPotter2
 HarryPotter4
 HarryPotteretleprisonnierd'Azkaban
+Haus des Geldes
+HausdesGeldes
 Hawaii
 Hawaii 5-0
 Hawaii 50
@@ -3537,6 +3574,7 @@ IM NETZ DER VERSUCHUNG
 IMMOBILE
 IMMUNODÉPRIMÉS
 INA AOGO
+INCENDIE LANDES
 INCENDIE MARSEILLE
 INCENDIE VAR
 INDEPENDENCE DAY
@@ -3649,8 +3687,10 @@ Immobile
 Immunodéprimés
 Ina Aogo
 InaAogo
+Incendie Landes
 Incendie Marseille
 Incendie Var
+IncendieLandes
 IncendieMarseille
 IncendieVar
 Independence Day
@@ -3758,6 +3798,7 @@ JACQUES LEGROS
 JADE CAREY
 JADON SANCHO
 JADONSANCHO
+JAKE PAUL VS TYRON WOODLEY
 JALIL LESPERT
 JAMAICA
 JAMES HARDEN
@@ -3906,7 +3947,9 @@ JUSTIN BIEBER
 JUSTINBIEBER
 JUUSO HIETANEN
 JUUSOHIETANEN
+JUVE EMPOLI
 JUVENTUS
+JUVENTUS – EMPOLI
 Jack Grealish
 JackGrealish
 Jackson Hole
@@ -3919,6 +3962,10 @@ Jade Carey
 JadeCarey
 Jadon Sancho
 JadonSancho
+Jake Paul vs Tyron Woodley
+Jake paul vs Tyron Woodley
+JakePaulvsTyronWoodley
+JakepaulvsTyronWoodley
 Jalil lespert
 Jalillespert
 Jamaica
@@ -4127,7 +4174,11 @@ Justin Bieber
 JustinBieber
 Juuso Hietanen
 JuusoHietanen
+Juve Empoli
+JuveEmpoli
 Juventus
+Juventus – Empoli
+Juventus–Empoli
 JÉRÔME SALOMON
 Jérôme Salomon
 JérômeSalomon
@@ -4461,6 +4512,7 @@ LES DIABLES ROUGES
 LES FANTASMES
 LES GETS
 LES MARSEILLAIS VS LE RESTE DU MONDE 6
+LES POUILLES
 LES SOUS-DOUÉS
 LESCHOSESDELAVIE
 LESDIABLESROUGES
@@ -4500,6 +4552,7 @@ LISSABONCORONA
 LISTE DESCHAMPS
 LIVERPOOL
 LIVERPOOL – BURNLEY
+LIVERPOOL – CHELSEA
 LOCATELLI
 LOCATELLI MANUEL
 LOCATELLIMANUEL
@@ -4515,6 +4568,7 @@ LORIENT – MONACO
 LOTING EUROPA LEAGUE
 LOTO 25 AOUT 2021
 LOTO 26 JUIN 2021
+LOTO 28 AOUT 2021
 LOTO 28 JUILLET 2021
 LOTO 3 JUILLET 2021
 LOTO 7 JUILLET 2021
@@ -4528,6 +4582,7 @@ LOTTO
 LOTUS EMIRA
 LOTUSEMIRA
 LOUIS CROENEN
+LOUISIANA
 LOVE ISLAND 2021
 LUAN PERES
 LUANA BELMONDO
@@ -4686,6 +4741,7 @@ Les Choses de la vie
 Les Diables Rouges
 Les Gets
 Les Marseillais vs le reste du Monde 6
+Les Pouilles
 Les Sous-doués
 Les Sousdoués
 Les fantasmes
@@ -4693,6 +4749,7 @@ LesChosesdelavie
 LesDiablesRouges
 LesGets
 LesMarseillaisvsleresteduMonde6
+LesPouilles
 LesSous-doués
 Lesensdelafamille
 Lesfantasmes
@@ -4746,7 +4803,9 @@ Liste Deschamps
 ListeDeschamps
 Liverpool
 Liverpool – Burnley
+Liverpool – Chelsea
 Liverpool–Burnley
+Liverpool–Chelsea
 Locatelli
 Locatelli Manuel
 LocatelliManuel
@@ -4768,12 +4827,14 @@ Loting Europa League
 LotingEuropaLeague
 Loto 25 aout 2021
 Loto 26 juin 2021
+Loto 28 aout 2021
 Loto 28 juillet 2021
 Loto 3 juillet 2021
 Loto 7 juillet 2021
 Loto vendredi 13
 Loto25aout2021
 Loto26juin2021
+Loto28aout2021
 Loto28juillet2021
 Loto3juillet2021
 Loto7juillet2021
@@ -4785,6 +4846,7 @@ Lotus Emira
 LotusEmira
 Louis Croenen
 LouisCroenen
+Louisiana
 Love Island 2021
 LoveIsland2021
 Luan Peres
@@ -4928,6 +4990,7 @@ MARIESOPHIELACARRAU
 MARIJN DE VRIES
 MARINE LE PEN
 MARINELEPEN
+MARIO BALOTELLI
 MARIO FEHR
 MARIOFEHR
 MARION COTILLARD
@@ -4942,6 +5005,7 @@ MARKO ARNAUTOVIC
 MARKOARNAUTOVIC
 MARLEN REUSSER
 MARSEILLE SAINT-ETIENNE
+MARSEILLE – SAINT-ÉTIENNE
 MARTEN VAN RIEL
 MARTIN PERSCHEID
 MARTINE WONNER
@@ -4974,6 +5038,7 @@ MATISSKIVLENIEKS
 MATT DAMON
 MATT HANCOCK
 MATTHANCOCK
+MATTHEW MINDLER
 MATTHEW PERRY
 MATTHEWPERRY
 MATTHIAS CASSE
@@ -5255,7 +5320,9 @@ Marijn de Vries
 MarijndeVries
 Marine Le Pen
 MarineLePen
+Mario Balotelli
 Mario Fehr
+MarioBalotelli
 MarioFehr
 Marion Cotillard
 Marion Rousse
@@ -5273,7 +5340,10 @@ Marlen Reusser
 MarlenReusser
 Marseille Saint-Etienne
 Marseille SaintEtienne
+Marseille – Saint-Étienne
+Marseille – SaintÉtienne
 MarseilleSaint-Etienne
+Marseille–Saint-Étienne
 Marten Van Riel
 MartenVanRiel
 Martin Perscheid
@@ -5315,7 +5385,9 @@ Matt Damon
 Matt Hancock
 MattDamon
 MattHancock
+Matthew Mindler
 Matthew Perry
+MatthewMindler
 MatthewPerry
 Matthias Casse
 MatthiasCasse
@@ -5799,6 +5871,7 @@ OFFERFEEST
 OFSP
 OHL
 OKSANA CHUSOVITINA
+OL
 OLD
 OLIVER DAEMEN
 OLIVER POCHER
@@ -6191,12 +6264,15 @@ PSG
 PSG BILLETTERIE
 PSG LE MANS
 PSG Le Mans
+PSG REIMS
+PSG Reims
 PSG TROYES
 PSG Troyes
 PSG billetterie
 PSG-STRASBOURG
 PSG-Strasbourg
 PSGLeMans
+PSGReims
 PSGStrasbourg
 PSGTroyes
 PSGbilletterie
@@ -7664,6 +7740,7 @@ TRIATHLON OLYMPIA
 TRIPLE ALLIANCE FILM
 TROPHÉE DES CHAMPIONS
 TROSSARD
+TROYES – MONACO
 TROYES – PARIS-SG
 TSCHECHIEN
 TUNISIE
@@ -7885,8 +7962,10 @@ TripleAlliancefilm
 Trophée des champions
 Trophéedeschampions
 Trossard
+Troyes – Monaco
 Troyes – paris-sg
 Troyes – parissg
+Troyes–Monaco
 Troyes–paris-sg
 Tschechien
 TuRKEI WALES
@@ -7941,6 +8020,7 @@ UNA STUBBS
 UNE BONNE LEÇON
 UNGARN FRANKREICH
 UNGARNFRANKREICH
+UNION SAINT-GILLOISE – STANDARD
 UNPLANNED
 UNWETTER DEUTSCHLAND
 UNWETTER SCHWEIZ
@@ -7979,6 +8059,9 @@ Unebonneleçon
 Unespiontrèsrecherché
 Ungarn Frankreich
 UngarnFrankreich
+Union Saint-Gilloise – Standard
+Union SaintGilloise – Standard
+UnionSaint-Gilloise–Standard
 Unmomentd'égarement
 Unplanned
 Unwetter Deutschland
@@ -8001,6 +8084,7 @@ VACCINATION BELGIQUE
 VACCINJANSSEN
 VACCINODROME TOULOUSE
 VAINQUEUR EURO
+VAL DI SOLE
 VAL KILMER
 VALENTINO ROSSI
 VALERIAN
@@ -8076,7 +8160,9 @@ VaccinodromeToulouse
 Vainqueur euro
 Vainqueureuro
 Val Kilmer
+Val di Sole
 ValKilmer
+ValdiSole
 Valentino Rossi
 ValentinoRossi
 Valerian
@@ -8185,6 +8271,7 @@ WEST HAM
 WEST-NIL-VIRUS
 WESTBROOK
 WETTEREN
+WETZIKON
 WHAT IF
 WHO
 WIE IS VLAAMSE ACTEUR KINDERMISBRUIK
@@ -8250,6 +8337,7 @@ WestHam
 WestNilVirus
 Westbrook
 Wetteren
+Wetzikon
 What If
 WhatIf
 Wie is Vlaamse acteur kindermisbruik
@@ -8565,6 +8653,7 @@ american staff
 amine harit
 amnestie
 amy winehouse
+anastacia
 anderlecht
 anderlecht gent
 anderlecht laci
@@ -8748,6 +8837,7 @@ baumwipfelpfad laax
 bayer
 bayern
 bayern  ajax
+bayern gegen hertha
 bayern gegen köln
 bayern gegen mönchengladbach
 bayern – cologne
@@ -8813,6 +8903,7 @@ berrettini
 bert de backer
 besancon
 bestmile
+betis – real
 bfm
 bhutan
 bielersee
@@ -8827,6 +8918,7 @@ billie eilish
 billramsey
 billy gibbons
 billy gilmour
+billy the kid
 billygilmour
 biontech-aktie
 birgit van mol
@@ -8949,6 +9041,7 @@ call of duty: vanguard
 camavinga
 camila giorgi
 camila kendra
+camille balanche
 camille cerf
 camille combal
 camille cottin
@@ -9011,6 +9104,7 @@ certificatcovid
 certificatcovideuropeen
 certificatcovideuropéen
 chadli
+chadwick boseman
 chainsaw man
 chainsawman
 challenge league
@@ -9151,6 +9245,7 @@ correa
 corriere dello sport
 corse covid
 cote landaise
+coucke
 coupe d'europe 2021
 coupe du monde
 coupe du monde 2022
@@ -9224,6 +9319,7 @@ daniela katzenberger
 danielcarr
 danielmickelson
 danielpolette
+dante vanzeir
 dany boon
 danyboon
 darligen
@@ -9370,6 +9466,7 @@ elite
 elite saison 4
 elitesaison4
 eliud kipchoge
+elizabeth holmes
 elke vanhoof bmx
 ellemieke vermolen
 ellemiekevermolen
@@ -9460,6 +9557,7 @@ ethan mbappe
 ethan mbappé
 ethanmbappe
 ethanmbappé
+ethiopie
 ethyleenoxide
 etienne daho
 etoile de midi
@@ -9613,6 +9711,7 @@ foot
 foot ligue 1
 football
 football jeux olympiques de tokyo 2020
+formel 1
 formel-1
 formula 1
 formule 1
@@ -9717,6 +9816,7 @@ gateshead
 geert meyfroidt
 genk  oostende
 genshin impact
+gent - club brugge
 gent jazz
 george clooney
 gerald marie
@@ -9837,6 +9937,7 @@ harry potter et le prisonnier d'azkaban
 harrymaguire
 harrypotter
 harrypotter2
+haus des geldes
 hawaii
 hawaii 5-0
 hawks - bucks
@@ -9906,6 +10007,7 @@ im netz der versuchung
 immobile
 immunodéprimés
 ina aogo
+incendie landes
 incendie marseille
 incendie var
 independence day
@@ -10000,6 +10102,7 @@ jacques legros
 jade carey
 jadon sancho
 jadonsancho
+jake paul vs tyron woodley
 jalil lespert
 jamaica
 james harden
@@ -10134,7 +10237,9 @@ justin bieber
 justinbieber
 juuso hietanen
 juusohietanen
+juve empoli
 juventus
+juventus – empoli
 jérôme salomon
 kaa gent
 kaamelott
@@ -10322,6 +10427,7 @@ les diables rouges
 les fantasmes
 les gets
 les marseillais vs le reste du monde 6
+les pouilles
 les sous-doués
 leschosesdelavie
 lesdiablesrouges
@@ -10361,6 +10467,7 @@ lissaboncorona
 liste deschamps
 liverpool
 liverpool – burnley
+liverpool – chelsea
 locatelli
 locatelli manuel
 locatellimanuel
@@ -10376,6 +10483,7 @@ lorient – monaco
 loting europa league
 loto 25 aout 2021
 loto 26 juin 2021
+loto 28 aout 2021
 loto 28 juillet 2021
 loto 3 juillet 2021
 loto 7 juillet 2021
@@ -10389,6 +10497,7 @@ lotto
 lotus emira
 lotusemira
 louis croenen
+louisiana
 love island 2021
 luan peres
 luana belmondo
@@ -10519,6 +10628,7 @@ mariesophielacarrau
 marijn de vries
 marine le pen
 marinelepen
+mario balotelli
 mario fehr
 mariofehr
 marion cotillard
@@ -10533,6 +10643,7 @@ marko arnautovic
 markoarnautovic
 marlen reusser
 marseille saint-etienne
+marseille – saint-étienne
 marten van riel
 martin perscheid
 martine wonner
@@ -10563,6 +10674,7 @@ matisskivlenieks
 matt damon
 matt hancock
 matthancock
+matthew mindler
 matthew perry
 matthewperry
 matthias casse
@@ -10821,6 +10933,7 @@ offerfeest
 ofsp
 ohl
 oksana chusovitina
+ol
 old
 oliver daemen
 oliver pocher
@@ -11082,6 +11195,7 @@ présidents
 psg
 psg billetterie
 psg le mans
+psg reims
 psg troyes
 psg-strasbourg
 psv
@@ -11669,6 +11783,7 @@ triathlon olympia
 triple alliance film
 trophée des champions
 trossard
+troyes – monaco
 troyes – paris-sg
 tschechien
 tunisie
@@ -11711,6 +11826,7 @@ una stubbs
 une bonne leçon
 ungarn frankreich
 ungarnfrankreich
+union saint-gilloise – standard
 unplanned
 unwetter deutschland
 unwetter schweiz
@@ -11730,6 +11846,7 @@ vaccinatiecentrum
 vaccination belgique
 vaccinodrome toulouse
 vainqueur euro
+val di sole
 val kilmer
 valentino rossi
 valerian
@@ -11813,6 +11930,7 @@ west ham
 west-nil-virus
 westbrook
 wetteren
+wetzikon
 what if
 who
 wie is vlaamse acteur kindermisbruik
