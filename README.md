@@ -20,12 +20,14 @@
 [![Wordlist-news](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/wordlist.yml)
 [![Music-trends](https://github.com/clem9669/wordlists/actions/workflows/lastfm.yml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/lastfm.yml)
 [![Release](https://github.com/clem9669/wordlists/actions/workflows/release.yaml/badge.svg)](https://github.com/clem9669/wordlists/actions/workflows/release.yaml)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/clem9669/wordlists?label=Release)](https://github.com/clem9669/wordlists/releases/)
-![Github Repo size](https://img.shields.io/github/repo-size/clem9669/wordlists?label=Repo%20Size)
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [Downloads](#downloads)
+  * [Web discovery](#web-discovery)
+  * [Built with](#built-with)
 * [Usage](#usage)
+  * [Cracking contest](#cracking-contest)
+* [Recommanded read](#recommanded-read)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 
@@ -40,24 +42,29 @@ If you are cracking with the list above, please also **use a rule in hashcat or 
 
 I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë` which are difficult to type chars even if they are present in french alphabet.
 
-## ⚠️ Release Compilation ⚠️
+### Downloads
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/clem9669/wordlists?label=Release)](https://github.com/clem9669/wordlists/releases/)
+![Github Repo size](https://img.shields.io/github/repo-size/clem9669/wordlists?label=Repo%20Size)
 
 Because It might be simpler for you, I already compiled 3 differents versions of wordlists in the [Release](https://github.com/clem9669/wordlists/releases) section of Github
 
 All details are there about wordlists combinaison.
 
-### Secondary
+### Web discovery
 
 In the folder **WEB**, you can found a wordlist for pentesting purpose wich is design to find ressources for french people too. 
+
 Read more at [WEB_readme](https://github.com/clem9669/wordlists/blob/master/Web/README.md)
 
-### Built With
+### Built with
 The main part of the list come from various places of internet but many thanks to :
 * [Wikipedia](https://www.wikipedia.org/)
 * [Grammalect](https://grammalecte.net/download.php?prj=fr)
 * [SublimeText](https://www.sublimetext.com/)
 * [weakpass.com](https://weakpass.com/)
 * [hashes.org](https://hashes.org)
+* [hashmob.net](https://hashmob.net)
 * [packetstormsecurity.com](https://packetstormsecurity.com/Crackers/wordlists/)
 * [danielmiessler/Seclists](https://github.com/danielmiessler/SecLists/)
 * [scipag/password-list](https://github.com/scipag/password-list/)
@@ -66,6 +73,7 @@ The main part of the list come from various places of internet but many thanks t
 * [Cheroxx/custom-wordlists](https://github.com/Cheroxx/custom-wordlists)
 * [decal/werdlists](https://github.com/decal/werdlists)
 * [wordlists.dev](https://www.wordlists.dev/)
+* [sous-titres.eu](https://www.sous-titres.eu/)
 * And more github wordlists ...
 
 The keyboard walks are generated with [kwprocessor](https://github.com/hashcat/kwprocessor).
@@ -84,8 +92,12 @@ LC_ALL=C.UTF-8; sort -u wordlist >> wordlist_uniq_sorted
 > **Warning**: the lists can be very big!
 > Multipled with the rule at https://github.com/clem9669/hashcat-rule
 
-I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq huge wordlist.
+*N.B: I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq huge wordlist.*
 
+### Cracking contest
+
+This repo and the [rulelist](https://github.com/clem9669/hashcat-rule/) associated has been used for :
+- [Korelogic Password Cracking contest](https://contest-2021.korelogic.com/) at Defcon 2021.
 
 ## Recommanded read
 
