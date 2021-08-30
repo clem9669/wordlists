@@ -102,8 +102,6 @@ This repo and the [rulelist](https://github.com/clem9669/hashcat-rule/) associat
 ## Recommanded read
 
 The following projects could interest you:
-  - [CeWL](https://tools.kali.org/password-attacks/cewl): Website word crawler
-  - [crunch](https://tools.kali.org/password-attacks/crunch): Wordlist generator alternative to *mp64.bin*
   - [github.com/mxrch/penglab](https://github.com/mxrch/penglab): Abuse of Google Colab for Cracking
   - [github.com/hashcat/hashcat](https://github.com/hashcat/hashcat): Hashcat
   - [github.com/openwall/john](https://github.com/openwall/john): John (jtr)
@@ -111,6 +109,7 @@ The following projects could interest you:
   - [scip.ch/en/?labs.20210415](https://www.scip.ch/en/?labs.20210415): Analysis of Passwords (blog)
   - [crackstation.net/crackstation-wordlist-password-cracking-dictionary](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm): CrackStation's wordlist
   - [hackingarticles.in/wordlists-for-pentester](https://www.hackingarticles.in/wordlists-for-pentester/): Wordlist guide
+  - [Hashcat writeups](https://hashcat.net/events/): Contest writeups
 
 <!-- ROADMAP -->
 ## Roadmap
