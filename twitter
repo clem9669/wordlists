@@ -1475,6 +1475,7 @@ BIG 3
 BIG L
 BIG PHARMA
 BIG ROM
+BIG TECH
 BIG WIZ
 BIGBROTHERNAIJA
 BIGGIE
@@ -2021,12 +2022,14 @@ Big 3
 Big L
 Big Pharma
 Big Rom
+Big Tech
 Big Wiz
 Big3
 BigBrotherNaija
 BigL
 BigPharma
 BigRom
+BigTech
 BigWiz
 Biggie
 Bilbao
@@ -2379,6 +2382,7 @@ CAEN
 CAIO
 CAIO HENRIQUE
 CALAIS
+CALETA CAR
 CALIFORNIA
 CALLOFDUTYVANGUARD
 CAM THOMAS
@@ -2777,6 +2781,8 @@ Caio
 Caio Henrique
 CaioHenrique
 Calais
+Caleta Car
+CaletaCar
 California
 CallofDutyVanguard
 Cam Thomas
@@ -8178,6 +8184,7 @@ LUNITE
 LUQUE
 LUUT
 LUXEMBOURG
+LUXEMBURG
 LUZERN
 LYDIA
 LYDIE
@@ -9067,6 +9074,7 @@ MESSI
 MESSI 30
 MESSI 91
 MESSI VS CR7
+MESSIAS
 MESSIAUPSG
 MESSIPSG
 METAL SLUG TACTICS
@@ -9632,6 +9640,7 @@ Messi30
 Messi91
 MessiAuPSG
 MessiPSG
+Messias
 MessivsCR7
 Metal Slug Tactics
 MetalSlugTactics
@@ -11619,6 +11628,8 @@ REVOLTEUNTITRE
 REVOLUTION
 REY MYSTERIO
 RFSGNT
+RIBERY
+RIBÉRY
 RICAINS
 RICCA
 RICCIARDO
@@ -11925,6 +11936,8 @@ RevolteUnTitre
 Revolution
 Rey Mysterio
 ReyMysterio
+Ribery
+Ribéry
 Ricains
 Ricca
 Ricciardo
@@ -12206,6 +12219,7 @@ SCHADE
 SCHADEN
 SCHADENFREUDE
 SCHAERBEEK
+SCHAFE
 SCHALKE
 SCHANDALIG
 SCHANDE
@@ -12611,6 +12625,7 @@ STERNSCHNUPPEN
 STEUERN
 STEVEN
 STEVEN DA COSTA
+STEVEN VAN GUCHT
 STEVENDACOSTA
 STICH
 STIJN
@@ -13246,7 +13261,9 @@ Sternschnuppen
 Steuern
 Steven
 Steven Da Costa
+Steven Van Gucht
 StevenDaCosta
+StevenVanGucht
 Stich
 Stijn
 Stiko
@@ -13435,6 +13452,7 @@ TECHNOLOGIE
 TECHNOLOGIEN
 TECHNOSUPPORT
 TEDDY
+TEDDY CHEVALIER
 TEDDY RINER
 TEGA
 TEHEIURA
@@ -13792,7 +13810,9 @@ TechnoSupport
 Technologie
 Technologien
 Teddy
+Teddy Chevalier
 Teddy Riner
+TeddyChevalier
 TeddyRiner
 Tega
 Teheiura
@@ -14369,6 +14389,7 @@ VERGEET
 VERGEWALTIGUNG
 VERGLEICH
 VERHALTEN
+VERKEHR
 VERLAUF
 VERLAUFEN
 VERLINDEN
@@ -14599,6 +14620,7 @@ Vergeet
 Vergewaltigung
 Vergleich
 Verhalten
+Verkehr
 Verlauf
 Verlaufen
 Verlinden
@@ -14867,6 +14889,7 @@ WOEDENDE
 WOERTH
 WOHLSTAND
 WOKE
+WOLF
 WOLFGANG
 WOLFSBURG
 WOLKEN
@@ -15042,6 +15065,7 @@ Woedende
 Woerth
 Wohlstand
 Woke
+Wolf
 Wolfgang
 Wolfsburg
 Wolken
@@ -16190,6 +16214,7 @@ big 3
 big l
 big pharma
 big rom
+big tech
 big wiz
 bigbrothernaija
 biggie
@@ -16503,6 +16528,7 @@ caen
 caio
 caio henrique
 calais
+caleta car
 california
 callofdutyvanguard
 cam thomas
@@ -19746,6 +19772,7 @@ lunité
 luque
 luut
 luxembourg
+luxemburg
 luzern
 lydia
 lydie
@@ -20098,6 +20125,7 @@ messi 30
 messi 91
 messi vs cr7
 messi91
+messias
 messiaupsg
 messipsg
 metal slug tactics
@@ -21330,6 +21358,8 @@ revolution
 rey mysterio
 reymysterio
 rfsgnt
+ribery
+ribéry
 ricains
 ricca
 ricciardo
@@ -21622,6 +21652,7 @@ schade
 schaden
 schadenfreude
 schaerbeek
+schafe
 schalke
 schandalig
 schande
@@ -22031,6 +22062,7 @@ steden
 steevy
 stef
 stef peeters
+stefpeeters
 steiger
 stein
 steiner
@@ -22045,6 +22077,7 @@ sternschnuppen
 steuern
 steven
 steven da costa
+steven van gucht
 stich
 stijn
 stiko
@@ -22235,6 +22268,7 @@ technologie
 technologien
 technosupport
 teddy
+teddy chevalier
 teddy riner
 teddyriner
 tega
@@ -22734,6 +22768,7 @@ vergeet
 vergewaltigung
 vergleich
 verhalten
+verkehr
 verlauf
 verlaufen
 verlinden
@@ -23011,6 +23046,7 @@ woedende
 woerth
 wohlstand
 woke
+wolf
 wolfgang
 wolfsburg
 wolken
