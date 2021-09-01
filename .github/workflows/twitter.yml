@@ -3,7 +3,7 @@ name: Twitter-trends
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "23 * * * *" # At minute 23 past every hour.
+    - cron: "40 * * * *" # At minute 40 past every hour.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
