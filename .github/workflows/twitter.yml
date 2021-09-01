@@ -3,7 +3,7 @@ name: Twitter-trends
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "40 * * * *" # At minute 40 past every hour.
+    - cron: "43 * * * *" # At minute 40 past every hour.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -42,7 +42,7 @@ jobs:
             sed "s/ //g" twitter_FR twitter_BE twitter_CH > twitter_nospaces;
             sed "s/-//g" twitter_FR twitter_BE twitter_CH > twitter_nodash;
             sed "s/'//g" twitter_FR twitter_BE twitter_CH > twitter_quote;
-            sed 'y/ÖöËÇçÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECcAaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' twitter_quote twitter_upper twitter_lower twitter_nodash twitter_FR twitter_BE twitter_CH > twitter_noaccent;
+            sed 'y/ÖöËÇÀāáǎëēěèīíǐìōóǒòūúǔǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECAaaaeeeeiiiioooouuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' twitter_quote twitter_upper twitter_lower twitter_nodash twitter_FR twitter_BE twitter_CH > twitter_noaccent;
 
       - name: Run sort and uniq
         run: cat twitter twitter_noaccent >> pourquoit;LC_ALL=C sort -u pourquoit > twitter; ls -la; wc -l twitter*;
