@@ -1821,6 +1821,7 @@ BOUFFON VERT
 BOULAYE DIA
 BOULY
 BOUNA SARR
+BOUNEDJAH
 BOUNIDA
 BOUNTY
 BOURDIEU
@@ -1969,6 +1970,8 @@ BUON FERRAGOSTO
 BUONA
 BUQUET
 BURAK
+BURALG
+BURKINA
 BURKINA FASO
 BURKINI
 BURN
@@ -2480,6 +2483,7 @@ BoulayeDia
 Bouly
 Bouna Sarr
 BounaSarr
+Bounedjah
 Bounida
 Bounty
 Bourdieu
@@ -2628,6 +2632,7 @@ BuonFerragosto
 Buona
 Buquet
 Burak
+Burkina
 Burkina Faso
 BurkinaFaso
 Burkini
@@ -3772,6 +3777,7 @@ DEMON SLAYER
 DEMONSTRANTEN
 DEMOS
 DENAYER
+DENEMARKEN
 DENIS
 DENIS DUCARME
 DENIS VILLENEUVE
@@ -4201,6 +4207,7 @@ DemonSlayer
 Demonstranten
 Demos
 Denayer
+Denemarken
 Denis
 Denis Villeneuve
 Denis von Burg
@@ -14298,6 +14305,7 @@ SUPERCUP2021
 SUPERLEAGUE
 SURSIS
 SUSPENSION
+SVITOLINA
 SVIZZERA
 SVIZZERAITALIA
 SVPLER
@@ -15005,6 +15013,7 @@ Superleague
 Sursis
 Suspension
 Suédoises
+Svitolina
 Svizzera
 SvizzeraItalia
 Sweetener
@@ -15065,6 +15074,7 @@ TAEHYUN
 TAEKWONDO
 TAEMIN
 TAEYONG
+TAGES
 TAGI
 TAHITI
 TAIWAN
@@ -15344,6 +15354,7 @@ TOP 10
 TOP 3
 TOP 4
 TOP 5
+TOP SCORER
 TOP14
 TORIES
 TORINO
@@ -15475,6 +15486,7 @@ Table 5
 Taciturne
 Taekwondo
 Taemin
+Tages
 Tagi
 Tahiti
 Taime
@@ -18406,6 +18418,7 @@ boulaye dia
 boulayedia
 bouly
 bouna sarr
+bounedjah
 bounida
 bounty
 bourdieu
@@ -18551,6 +18564,8 @@ buon ferragosto
 buona
 buquet
 burak
+buralg
+burkina
 burkina faso
 burkini
 burn
@@ -19242,6 +19257,7 @@ demonstranten
 demorgen
 demos
 denayer
+denemarken
 denis
 denis ducarme
 denis villeneuve
@@ -24945,6 +24961,7 @@ superpole
 sursis
 suspension
 suédoises
+svitolina
 svizzera
 svizzeraitalia
 svpler
@@ -24997,6 +25014,7 @@ taehyun
 taekwondo
 taemin
 taeyong
+tages
 tagi
 tahiti
 taiwan
@@ -25290,6 +25308,7 @@ top 10
 top 3
 top 4
 top 5
+top scorer
 top14
 tories
 torino
