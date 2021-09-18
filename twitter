@@ -488,6 +488,7 @@ ALLEZ CLARISSE
 ALLEZ L'OL
 ALLEZ L'OM
 ALLEZ LA FRANCE
+ALLEZ LE LOSC
 ALLEZ LENS
 ALLEZ LES BLEUES
 ALLEZ LES BLEUS
@@ -3137,6 +3138,7 @@ CASSE
 CASTAGNE
 CASTEX
 CASTILLA
+CASTRES
 CATALOGNE
 CATASTROPHIQUE
 CATCHRAW
@@ -3670,6 +3672,7 @@ Casse
 Castagne
 Castex
 Castilla
+Castres
 Catalogne
 Catastrophique
 CatchRAW
@@ -11527,6 +11530,7 @@ MCFLYETCARLITO
 MCFRED
 MCIARS
 MCINOR
+MCISOU
 MCKENNIE
 MCKINSEY
 MCLAREN
@@ -11652,6 +11656,7 @@ MHA325
 MHA326
 MHASPOILERS
 MHASpoilers
+MHRST
 MHSCASSE
 MHSCFCL
 MHSCOM
@@ -14976,6 +14981,7 @@ ROKHAYA
 ROKHAYA DIALLO
 ROLAND
 ROLAND EMMERICH
+ROLAND GARROS
 ROLANDGARROS
 ROLEX
 ROLF
@@ -15350,6 +15356,7 @@ Rokhaya Diallo
 RokhayaDiallo
 Roland
 Roland Emmerich
+Roland Garros
 RolandGarros
 Rolex
 Rolf
@@ -19531,6 +19538,7 @@ ZEMMOURERIC
 ZENDAYA
 ZENFONE8
 ZENITH
+ZERATOR
 ZERIBI
 ZERMATT
 ZERROUKI
@@ -19641,6 +19649,7 @@ ZemmourEric
 Zendaya
 Zenfone8
 Zenith
+Zerator
 Zeribi
 Zermatt
 Zerrouki
@@ -19741,8 +19750,10 @@ Zürich
 \Gratistests\
 \IMPFGEGNER\
 \INGEBORG\
+\INTELLIGENZ\
 \Impfgegner\
 \Ingeborg\
+\Intelligenz\
 \KUNSTLER\
 \KÜNSTLER\
 \Künstler\
@@ -19788,6 +19799,7 @@ Zürich
 \gratistests\
 \impfgegner\
 \ingeborg\
+\intelligenz\
 \künstler\
 \luzern\
 \mercato\
@@ -20032,6 +20044,7 @@ allez clarisse
 allez l'ol
 allez l'om
 allez la france
+allez le losc
 allez lens
 allez les bleues
 allez les bleus
@@ -21326,6 +21339,7 @@ casse
 castagne
 castex
 castilla
+castres
 catalogne
 catastrophique
 catchraw
@@ -25780,6 +25794,7 @@ mcflyetcarlito
 mcfred
 mciars
 mcinor
+mcisou
 mckennie
 mckinsey
 mclaren
@@ -25905,6 +25920,7 @@ mha324
 mha325
 mha326
 mhaspoilers
+mhrst
 mhscasse
 mhscfcl
 mhscom
@@ -27569,6 +27585,7 @@ rokhaya
 rokhaya diallo
 roland
 roland emmerich
+roland garros
 rolandgarros
 rolex
 rolf
@@ -29823,6 +29840,7 @@ zemmoureric
 zendaya
 zenfone8
 zenith
+zerator
 zeribi
 zermatt
 zerrouki
