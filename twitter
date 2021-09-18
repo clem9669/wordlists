@@ -3047,6 +3047,7 @@ C.1.2
 C130
 CABO
 CABRAL
+CABSP
 CABUSAP
 CAC40
 CADE
@@ -3770,6 +3771,7 @@ CharlineVanhoenacker
 Charlotte
 Charlotte Lembach
 CharlotteLembach
+Chasseurs
 Chaumet
 Check th1s
 Checkth1s
@@ -6011,6 +6013,7 @@ FRANS
 FRANSE
 FRANSEN
 FRANSERGIO
+FRANSTALIGE
 FRANSTALIGEN
 FRANZOSEN
 FRANÇAISES
@@ -6396,6 +6399,7 @@ Frans
 Franse
 Fransen
 Fransergio
+Franstalige
 Franstaligen
 Franzosen
 Françaises
@@ -16246,6 +16250,7 @@ SURSIS
 SUSI KRIEMLER
 SUSIC
 SUSPENSION
+SUSPENSIONFDESOUCHE
 SVEN
 SVITOLINA
 SVIZZERA
@@ -17040,6 +17045,7 @@ Sursis
 Susi Kriemler
 Susic
 Suspension
+SuspensionFdesouche
 Suédoises
 Sven
 Svitolina
@@ -17425,6 +17431,7 @@ TOMORI
 TOMORROWLAND
 TOMORROW_X_TOGETHER
 TONALI
+TONEY
 TONGEREN
 TONTON
 TONY
@@ -17921,6 +17928,7 @@ Tommy
 Tomori
 Tomorrowland
 Tonali
+Toney
 Tongeren
 Tonton
 Tony
@@ -19531,6 +19539,7 @@ ZITAT
 ZIYECH
 ZIZOU
 ZLATAN
+ZOB2022
 ZOEK
 ZOIETS
 ZOLANG
@@ -19639,6 +19648,7 @@ Zitat
 Ziyech
 Zizou
 Zlatan
+Zob2022
 Zoek
 Zoiets
 Zolang
@@ -21207,6 +21217,7 @@ c.1.2
 c130
 cabo
 cabral
+cabsp
 cabusap
 cac40
 cade
@@ -22890,6 +22901,7 @@ frans
 franse
 fransen
 fransergio
+franstalige
 franstaligen
 franzosen
 françaises
@@ -28469,6 +28481,7 @@ sursis
 susi kriemler
 susic
 suspension
+suspensionfdesouche
 suédoises
 sven
 svitolina
@@ -28859,6 +28872,7 @@ tomori
 tomorrow_x_together
 tomorrowland
 tonali
+toney
 tongeren
 tonton
 tony
@@ -29806,6 +29820,7 @@ zitat
 ziyech
 zizou
 zlatan
+zob2022
 zoek
 zoiets
 zolang
