@@ -96,7 +96,7 @@ LC_ALL=C.UTF-8; sort -u wordlist >> wordlist_uniq_sorted
 
 ### Cracking contest
 
-This repo and the [rulelist](https://github.com/clem9669/hashcat-rule/) associated has been used for :
+This repo and the [rulelists](https://github.com/clem9669/hashcat-rule/) associated have been used for :
 - [Korelogic Password Cracking contest](https://contest-2021.korelogic.com/) at Defcon 2021.
 
 ## Recommanded read
