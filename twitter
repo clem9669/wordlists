@@ -424,6 +424,7 @@ AJAX
 AJAlee
 AJLA DEL PONTE
 AJORQUE
+AJOUTEDESINSECTESDANSUNTITRE
 AKAINU
 AKANJI
 AKHENATON
@@ -881,6 +882,7 @@ ASSELOSC
 ASSEOGCN
 ASSEOM
 ASSISES
+ASSISESDELASANTEMENTALE
 ASSOMPTION
 ASTER
 ASTERIX
@@ -6228,6 +6230,7 @@ FDESOUCHE
 FDP-PRÄSIDENT
 FDP-Präsident
 FDPPräsident
+FDS2021
 FEDERATION
 FEDERATION WALLONIE-BRUXELLES
 FEDERER
@@ -6953,6 +6956,7 @@ FreebetPMU
 FreebetParionsSport
 FreebetUnibet
 FreebetWinamax
+Freebetchampions
 Freebetwinamax
 Freedom
 Freek
@@ -10038,6 +10042,7 @@ KIEV
 KIJK
 KILCHBERGER SCHWINGET
 KILLER
+KIM CLIJSTERS
 KIM K
 KIM TAEHYUNG
 KIMI
@@ -10396,6 +10401,7 @@ Kiev
 Kijk
 Kilchberger Schwinget
 Killer
+Kim Clijsters
 Kim K
 Kim Taehyung
 KimTaehyung
@@ -12453,6 +12459,7 @@ MELDUNG
 MELDUNGEN
 MELENCHON
 MELENCHON2022
+MELENCHON2ETOUR
 MELENCHONJDD
 MELENCHONPEUTGAGNER
 MELENCHONVAGAGNER
@@ -13206,6 +13213,7 @@ Meldung
 Meldungen
 Melenchon
 Melenchon2022
+Melenchon2eTour
 MelenchonJDD
 MelenchonPeutGagner
 MelenchonVsZemmour
@@ -13887,6 +13895,7 @@ NOTFALL
 NOTI
 NOTORIOUS BIG
 NOUSSAVONS
+NOUVEAUXIAOMI11TPRO
 NOUVEL ARC
 NOUVELARC
 NOUVELLE ZELANDE
@@ -14183,6 +14192,7 @@ Notfall
 Noti
 Notorious BIG
 NousSavons
+NouveauXiaomi11TPro
 Nouvelle Zelande
 Nouvelle Zélande
 Nouvelle-Aquitaine
@@ -15165,6 +15175,8 @@ PS5CaroJu
 PSG CITY
 PSG City
 PSG TV
+PSG-CITY
+PSG-City
 PSGCF63
 PSGCity
 PSGMCI
@@ -15943,6 +15955,7 @@ REECE JAMES
 REEL
 REFAELOV
 REFERENDUM
+REFERENDUMIMMIGRATION
 REFRACTAIRE
 REFUGEECONVENTION
 REFUGEESWELCOME
@@ -16674,6 +16687,7 @@ RÉVOLTEUNTITRE
 RÜCKSICHT
 Réal
 Réfractaire
+RéférendumImmigration
 Région
 Rémi
 Rémois
@@ -16812,6 +16826,7 @@ SARAH SCHLITZ
 SARAH-LEONIE CYSIQUE
 SARDAIGNE
 SARDELLA
+SARDINE
 SARDINIE
 SARDOCHE
 SARDOU
@@ -17755,6 +17770,7 @@ SarahLéonie Cysique
 SarahSchlitz
 Sardaigne
 Sardella
+Sardine
 Sardinie
 Sardoche
 Sardou
@@ -20982,6 +20998,7 @@ YOUTH
 YOUTH LEAGUE
 YOUTHDAY
 YOUTHDAY2021
+YOUTHLEAGUE
 YOUTHSTORIES
 YOUTHTODAY
 YOUTUBEUR
@@ -21042,6 +21059,7 @@ Youssouf
 Youth League
 YouthDay
 YouthDay2021
+YouthLeague
 YouthStories
 YouthToday
 Youv Dee
@@ -21369,7 +21387,9 @@ Zürich
 \Verbrechen\
 \Vrije\
 \WELLEN\
+\WOKE\
 \Wellen\
+\Woke\
 \belgen\
 \eigenverantwortung\
 \erklärungen\
@@ -21406,6 +21426,7 @@ Zürich
 \verbrechen\
 \vrije\
 \wellen\
+\woke\
 aa gent
 aaah
 aagent
@@ -21545,6 +21566,7 @@ ajax
 ajla del ponte
 ajladelponte
 ajorque
+ajoutedesinsectesdansuntitre
 akainu
 akanji
 akhenaton
@@ -22018,6 +22040,7 @@ asselosc
 asseogcn
 asseom
 assises
+assisesdelasantementale
 assomption
 aster
 asterixetobelixcontrecesar
@@ -24524,6 +24547,7 @@ fdday
 fdesouche
 fdp-präsident
 fdppräsident
+fds2021
 federation
 federer
 feghouli
@@ -26558,6 +26582,7 @@ kiev
 kijk
 kilchberger schwinget
 killer
+kim clijsters
 kim k
 kim taehyung
 kimi
@@ -27911,6 +27936,7 @@ meldung
 meldungen
 melenchon
 melenchon2022
+melenchon2etour
 melenchonjdd
 melenchonpeutgagner
 melenchonvagagner
@@ -28592,6 +28618,7 @@ notfall
 noti
 notorious big
 noussavons
+nouveauxiaomi11tpro
 nouvel arc
 nouvelle zelande
 nouvelle zélande
@@ -29388,6 +29415,7 @@ prêtre
 ps5caroju
 psg city
 psg tv
+psg-city
 psgcf63
 psgmci
 psgmhsc
@@ -29928,6 +29956,7 @@ ryuma
 ryze
 réal
 réfractaire
+référendumimmigration
 région
 rémi
 rémois
@@ -30077,6 +30106,7 @@ sarah-léoniecysique
 sarahléonie cysique
 sardaigne
 sardella
+sardine
 sardinie
 sardoche
 sardou
@@ -32224,6 +32254,7 @@ youth
 youth league
 youthday
 youthday2021
+youthleague
 youthstories
 youthtoday
 youtubeur
