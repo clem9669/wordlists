@@ -7388,6 +7388,7 @@ GIVEWAY500E
 GIVEWAYMACBOOK
 GJON
 GLADBACH
+GLADIATOR
 GLARNER
 GLARUS
 GLAS
@@ -7855,6 +7856,7 @@ Giveway500e
 GivewayMacBook
 Gjon
 Gladbach
+Gladiator
 Glarner
 Glarus
 Glas
@@ -11052,6 +11054,7 @@ LE GOAT
 LE GP
 LE GRAET
 LE GRAËT
+LE GRÊLE
 LE H
 LE HAND
 LE J
@@ -11736,6 +11739,7 @@ Le GOAT
 Le GP
 Le Graet
 Le Graët
+Le Grêlé
 Le H
 Le Hand
 Le J
@@ -21750,7 +21754,9 @@ Zürich
 \Pansement\
 \Parasite\
 \REPUBLIQUE\
+\RUCKTRITT\
 \République\
+\Rücktritt\
 \SIDEP\
 \STUDENTEN\
 \SUBVENTIONEN\
@@ -21797,6 +21803,7 @@ Zürich
 \parasite\
 \perez\
 \république\
+\rücktritt\
 \sidep\
 \studenten\
 \subventionen\
@@ -25621,6 +25628,7 @@ giveway500e
 givewaymacbook
 gjon
 gladbach
+gladiator
 glarner
 glarus
 glas
@@ -27528,6 +27536,7 @@ le goat
 le gp
 le graet
 le graët
+le grêlé
 le h
 le hand
 le j
