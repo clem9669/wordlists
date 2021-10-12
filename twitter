@@ -2414,6 +2414,7 @@ BELEIDIGUNG
 BELEIDIGUNGEN
 BELESP
 BELFAST
+BELFIUS
 BELFRA
 BELG
 BELGEN
@@ -3398,6 +3399,7 @@ Belattar
 Beleidigung
 Beleidigungen
 Belfast
+Belfius
 Belg
 Belgen
 Belges
@@ -8883,6 +8885,8 @@ FuryVsWilder3
 FuryWilder3
 Fuss
 Fussball
+FÄLLE
+Fälle
 Fédération
 Fédération Wallonie-Bruxelles
 Fédération WallonieBruxelles
@@ -11861,6 +11865,7 @@ JOTokyo2021
 JOUR 1
 JOUR 10
 JOUR 11
+JOUR 12
 JOUR 14
 JOUR 15
 JOUR 17
@@ -12414,6 +12419,7 @@ Jotaro
 Jour 1
 Jour 10
 Jour 11
+Jour 12
 Jour 14
 Jour 15
 Jour 17
@@ -17757,6 +17763,7 @@ NORRIS
 NORSACCE
 NORTH
 NORTH LONDON
+NORTHERN IRELAND
 NORTHLONDON
 NORVEGE
 NORWAY
@@ -18119,6 +18126,7 @@ Norsacce
 North
 North London
 NorthLondon
+Northern Ireland
 Norvege
 Norway
 Norwich
@@ -18422,6 +18430,7 @@ ORTEGA
 ORTEN
 OSAKA
 OSCAR
+OSCARS
 OSS 117
 OSS117
 OSTEN
@@ -18680,6 +18689,7 @@ Ortega
 Orten
 Osaka
 Oscar
+Oscars
 Osten
 Ostende
 Osterreich
@@ -21618,6 +21628,7 @@ SERGIORAMOS
 SERGIROBERTO
 SERIALKIFFEURS
 SERIE
+SERIEUS
 SERIOUSSPACE
 SERKVM
 SERKVO
@@ -22752,6 +22763,7 @@ Sergio Ramos
 SergioRamos
 SerialKiffeurs
 Serie
+Serieus
 SeriousSpace
 Sertic
 Serum
@@ -28247,6 +28259,7 @@ beleidigung
 beleidigungen
 belesp
 belfast
+belfius
 belfra
 belg
 belgen
@@ -31559,6 +31572,7 @@ fuss
 fussball
 futchampions
 fvdb
+fälle
 fédération
 fédération wallonie-bruxelles
 fédération walloniebruxelles
@@ -33377,6 +33391,7 @@ jotokyo2021
 jour 1
 jour 10
 jour 11
+jour 12
 jour 14
 jour 15
 jour 17
@@ -36425,6 +36440,7 @@ norris
 norsacce
 north
 north london
+northern ireland
 northlondon
 norvege
 norway
@@ -36754,6 +36770,7 @@ ortega
 orten
 osaka
 oscar
+oscars
 oss 117
 oss117
 osten
@@ -38543,6 +38560,7 @@ sergioramos
 sergiroberto
 serialkiffeurs
 serie
+serieus
 seriousspace
 serkvm
 serkvo
