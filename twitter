@@ -2324,6 +2324,7 @@ BATTLEFIELDOPENBETA
 BATTRE LE JAPON
 BATTRELEJAPON
 BATUM
+BAUCH
 BAUDET
 BAUERN
 BAUM
@@ -3354,6 +3355,7 @@ BattlefieldOpenBeta
 Battre le Japon
 BattreleJapon
 Batum
+Bauch
 Baudet
 Bauern
 Baum
@@ -4790,6 +4792,7 @@ COREEDUNORD
 CORENTIN ERMENAULT
 CORENTINERMENAULT
 CORINNE
+CORINNE DIACRE
 CORNET
 CORONA
 CORONA-DEMOS
@@ -5541,6 +5544,7 @@ CoreeduNord
 Corentin Ermenault
 CorentinErmenault
 Corinne
+Corinne Diacre
 Cornet
 Corona
 Corona-Zahlen an Schulen
@@ -10205,6 +10209,7 @@ HAPPIER THAN EVER
 HAPPIERTHANEVER
 HAPPINESSFAIRYJIMIN
 HAPPY 730TH
+HAPPY BIRTHDAY JIMIN
 HAPPY BIRTHDAY SWITZERLAND
 HAPPY NEW
 HAPPY NEW MONTH
@@ -10609,6 +10614,7 @@ Happier Than Ever
 HappierThanEver
 HappinessFairyJimin
 Happy 730th
+Happy Birthday Jimin
 Happy Birthday Switzerland
 Happy New
 Happy New Month
@@ -13991,6 +13997,7 @@ LE SOMMER
 LE SOMMET
 LE SPACE
 LE STANDARD
+LE SYSTEME B. L'INFORMATION
 LE TEMPS
 LE TGV
 LE UNO
@@ -14951,6 +14958,8 @@ Le Sommer
 Le Sommet
 Le Space
 Le Standard
+Le Systeme B. L'information
+Le Systeme B. Linformation
 Le Sénat
 Le TGV
 Le Temps
@@ -16040,6 +16049,7 @@ MEGA MINDY
 MEGADRIVE
 MEGAMINDY
 MEGAN
+MEGARBANE
 MEHDI
 MEHRWERT
 MEILLEUR FIFA
@@ -16568,6 +16578,7 @@ MUTATIONEN
 MUTTER
 MVDP
 MY ADVENTURE RANK
+MY LEAGUE LVL
 MY MJ
 MY SEELIE
 MY SERVER
@@ -17039,6 +17050,7 @@ MegaDrive
 MegaMindy
 Megadrive
 Megan
+Megarbane
 Mehdi
 Mehrwert
 Meilleur FIFA
@@ -17526,6 +17538,7 @@ Mutationen
 Mutter
 MvdP
 My Adventure Rank
+My League LVL
 My MJ
 My Seelie
 My Server
@@ -19055,6 +19068,7 @@ PARKPLATZE
 PARLAMENT
 PARLAMENTARIER
 PARLEMENT
+PARLIAMENT
 PARMELIN
 PAROLEN
 PARQUET
@@ -19786,6 +19800,7 @@ Parkplatze
 Parlament
 Parlamentarier
 Parlement
+Parliament
 Parmelin
 Parolen
 Parquet
@@ -20432,6 +20447,7 @@ RABIOT
 RACAILLE BLUES
 RACAILLEBLUES
 RACHEL
+RACHEL KHAN
 RACHIDA
 RACHIDA DATI
 RACHIDADATI
@@ -20954,6 +20970,7 @@ RULLI
 RUMBA
 RUN BTS
 RUNDE
+RUNETERRA
 RUQUIER
 RURALITE
 RUSFRA
@@ -20996,6 +21013,7 @@ Rabiot
 Racaille Blues
 RacailleBlues
 Rachel
+Rachel Khan
 Rachida
 Rachida Dati
 RachidaDati
@@ -21416,6 +21434,7 @@ Rulli
 Rumba
 Run BTS
 Runde
+Runeterra
 Ruquier
 RushersWorldWide
 Rusland
@@ -23807,6 +23826,7 @@ TCMatic
 TDAH
 TDAPR
 TDC2021
+TDF2022
 TDL2021
 TDP2021
 TDW21
@@ -24258,6 +24278,7 @@ TOUCOUILLE
 TOUJOURS 0
 TOULON
 TOUR DE FRANCE
+TOUR DE FRANCE 2022
 TOUR DE LOMBARDIE
 TOUR DE POLOGNE
 TOUR DU DANEMARK
@@ -24907,6 +24928,7 @@ Toujours 0
 Toulon
 Tour Eiffel
 Tour de France
+Tour de France 2022
 Tour de Lombardie
 Tour de Pologne
 Tour du Danemark
@@ -25499,6 +25521,7 @@ VERLAUFEN
 VERLIERER
 VERLINDEN
 VERLUST
+VERLÄUFEN
 VERMEERSCH
 VERMOGEN
 VERMUTLICH
@@ -25884,6 +25907,7 @@ Verlaufen
 Verlierer
 Verlinden
 Verlust
+Verläufen
 Vermeersch
 Vermogen
 Vermutlich
@@ -28463,6 +28487,7 @@ battlefieldopenbeta
 battre le japon
 battrelejapon
 batum
+bauch
 baudet
 bauern
 baum
@@ -30002,6 +30027,7 @@ coreedunord
 corentin ermenault
 corentinermenault
 corinne
+corinne diacre
 cornet
 corona
 corona-demos
@@ -32610,6 +32636,7 @@ happier than ever
 happierthanever
 happinessfairyjimin
 happy 730th
+happy birthday jimin
 happy birthday switzerland
 happy new
 happy new month
@@ -34755,6 +34782,7 @@ le sommer
 le sommet
 le space
 le standard
+le systeme b. l'information
 le sénat
 le temps
 le tgv
@@ -35910,6 +35938,7 @@ mega mindy
 megadrive
 megamindy
 megan
+megarbane
 mehdi
 mehrwert
 meilleur fifa
@@ -36438,6 +36467,7 @@ mutationen
 mutter
 mvdp
 my adventure rank
+my league lvl
 my mj
 my seelie
 my server
@@ -37344,6 +37374,7 @@ parkplatze
 parlament
 parlamentarier
 parlement
+parliament
 parmelin
 parolen
 parquet
@@ -38026,6 +38057,7 @@ rabiot
 racaille blues
 racailleblues
 rachel
+rachel khan
 rachida
 rachida dati
 rachidadati
@@ -38531,6 +38563,7 @@ rulli
 rumba
 run bts
 runde
+runeterra
 ruquier
 ruralité
 rusfra
@@ -39898,6 +39931,7 @@ tcmatic
 tdah
 tdapr
 tdc2021
+tdf2022
 tdl2021
 tdp2021
 tdw21
@@ -40348,6 +40382,7 @@ toucouille
 toujours 0
 toulon
 tour de france
+tour de france 2022
 tour de lombardie
 tour de pologne
 tour du danemark
@@ -40834,6 +40869,7 @@ verlaufen
 verlierer
 verlinden
 verlust
+verläufen
 vermeersch
 vermogen
 vermutlich
