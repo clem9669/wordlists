@@ -8607,7 +8607,7 @@ openpgp4fpr//
 openpgp4fpr:
 openpgp4fpr://
 opensnoop
-openvt 	
+openvt  
 optlamppetchttpd
 optlamppetchttpd.conf
 optxamppetcphp
@@ -11087,3 +11087,76 @@ zombproc
 ~/.xinitrc
 ~/.Xresources
 ~/.xsession
+ps -ef
+kill -9
+pkill
+xkill
+
+tar jcvf
+tar Jcvf
+tar zcvf
+tar tvf
+tar xvf
+sudo mount
+sudo umount
+sudo ifconfig
+sudo chown
+cat hello.txt
+echo "Hello"
+ls -l /tmp/
+echo "Hello World!" > hello.txt
+:q to exit vim
+:q! to quit
+sudo su
+Permission denied
+Permission refusée
+sudo updatedb
+source ~/.bashrc
+source ~/.zshrc
+cat /etc/passwd
+ls -l /etc/shadow
+sudo id
+sudo passwd
+echo $PATH
+#!/bin/bash
+#!/bin/sh
+#!/bin/dash
+#!/bin/zsh
+sudo dnf install
+sudo apt install
+cat /proc/cmdline
+cat /proc/meminfo
+cat /proc/uptime
+sudo sysctl -w net.ipv4.ip_forward=1
+sysctl net.ipv4.ip_forward
+cat /proc/sys/net/ipv4/ip_forward
+sudo systemctl status
+sudo systemctl start
+sudo systemctl reboot
+sudo systemctl shutdown
+sudo journalctl -u
+apt update
+apt list --upgradable
+apt dist-upgrade
+sudo apt-get install
+/etc/selinux/config
+sudo mount /dev/sdb1 /mnt
+ip addr show
+cat /etc/resolv.conf
+ls -l /etc/resolv.conf
+resolvectl status
+resolvectl query
+dig +short
+ssh localhost
+ssh-keygen -t rsa
+ssh-keygen -t rsa -b 2048
+ssh-keygen -t rsa -b 4096
+ssh-keygen -t rsa -b 8192
+ls -l .ssh
+ssh-copy-id
+iptables -nvL
+crontab -l
+/usr/bin/myscript.sh
+git clone https://github.com/
+vagrant up
+net.ipv4.ip_forward
