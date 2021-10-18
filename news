@@ -121,6 +121,8 @@
 4th of july
 4thofJuly
 4thofjuly
+6IX9INE
+6ix9ine
 9/11
 9/11 MEMORIAL
 9/11 Memorial
@@ -880,6 +882,7 @@ Appel du 18 juin
 Appeldu18juin
 Apple Event
 Apple Watch 7
+Apple-Event
 Apple-event
 AppleEvent
 AppleWatch7
@@ -1061,10 +1064,12 @@ BARBY KELLY
 BARBYKELLY
 BARCA
 BARCELONA
+BARCELONA  VALENCIA
 BARCELONA – GETAFE
 BARCELONA – JUVENTUS
 BARCELONA – LEVANTE
 BARCELONA – REAL SOCIEDAD
+BARCELONA – VALENCE
 BARRAGE EUPEN
 BART DE PAUW
 BART DE WEVER
@@ -1254,6 +1259,7 @@ BOOMTOWN
 BORDEAUX
 BORDEAUX – ANGERS
 BORDEAUX – CLERMONT
+BORDEAUX – NANTES
 BORDEAUX – RENNES
 BORIS COLLARDI
 BORIS JOHNSON
@@ -1403,14 +1409,18 @@ Barby Kelly
 BarbyKelly
 Barca
 Barcelona
+Barcelona  Valencia
 Barcelona – Getafe
 Barcelona – Juventus
 Barcelona – Levante
 Barcelona – Real Sociedad
+Barcelona – Valence
+BarcelonaValencia
 Barcelona–Getafe
 Barcelona–Juventus
 Barcelona–Levante
 Barcelona–RealSociedad
+Barcelona–Valence
 Barrage Eupen
 BarrageEupen
 Bart De Pauw
@@ -1683,9 +1693,11 @@ Boomtown
 Bordeaux
 Bordeaux – Angers
 Bordeaux – Clermont
+Bordeaux – Nantes
 Bordeaux – Rennes
 Bordeaux–Angers
 Bordeaux–Clermont
+Bordeaux–Nantes
 Bordeaux–Rennes
 Boris Collardi
 Boris Johnson
@@ -1937,6 +1949,7 @@ CHAMPIONSLEAGUE
 CHARENTE-MARITIME
 CHARLENE DE MONACO
 CHARLEROI  ANTWERP
+CHARLEROI  GENK
 CHARLES DE KETELAERE
 CHARLES INGRAM
 CHARLES-ANTOINE KOUAKOU
@@ -1959,6 +1972,7 @@ CHELSEA – SOUTHAMPTON
 CHELSEA – VILLARREAL
 CHENILLE PROCESSIONNAIRE
 CHENILLEPROCESSIONNAIRE
+CHEQUE CARBURANT
 CHEQUE ENERGIE
 CHER
 CHIARA FERRAGNI
@@ -2331,7 +2345,9 @@ CharenteMaritime
 Charlene de Monaco
 CharlenedeMonaco
 Charleroi  Antwerp
+Charleroi  Genk
 CharleroiAntwerp
+CharleroiGenk
 Charles De Ketelaere
 Charles Ingram
 Charles-Antoine Kouakou
@@ -2372,7 +2388,9 @@ Chelsea–Southampton
 Chelsea–Villarreal
 Chenille processionnaire
 Chenilleprocessionnaire
+Cheque carburant
 Cheque energie
+Chequecarburant
 Chequeenergie
 Cher
 Chiara Ferragni
@@ -2691,6 +2709,7 @@ DANEMARKREPUBLIQUETCHEQUE
 DANIEL AUTEUIL
 DANIEL CARR
 DANIEL CRAIG
+DANIEL DAY-LEWIS
 DANIEL MICKELSON
 DANIEL POLETTE
 DANIEL RICCIARDO
@@ -2708,6 +2727,7 @@ DANY BRILLANT
 DANYBOON
 DARLIGEN
 DARMANIN
+DARTS EK
 DAVE
 DAVID ALABA
 DAVID AMESS
@@ -2809,6 +2829,7 @@ DJSnake
 DOCTOLIB
 DOKU
 DOLLY PARTON
+DOMINIQUE AEGERTER
 DOMINIQUE FARRUGIA
 DOMINIQUE PERSOONE
 DON'T LOOK UP
@@ -2877,12 +2898,15 @@ Danemarkrepubliquetcheque
 Daniel Auteuil
 Daniel Carr
 Daniel Craig
+Daniel Day-Lewis
+Daniel DayLewis
 Daniel Mickelson
 Daniel Polette
 Daniel Ricciardo
 DanielAuteuil
 DanielCarr
 DanielCraig
+DanielDay-Lewis
 DanielMickelson
 DanielPolette
 DanielRicciardo
@@ -2904,6 +2928,8 @@ DanyBoon
 DanyBrillant
 Darligen
 Darmanin
+Darts EK
+DartsEK
 Dave
 David Alaba
 David Amess
@@ -3053,8 +3079,10 @@ Doctolib
 Doku
 Dolly Parton
 DollyParton
+Dominique Aegerter
 Dominique Farrugia
 Dominique Persoone
+DominiqueAegerter
 DominiqueFarrugia
 DominiquePersoone
 Don't Look Up
@@ -3935,6 +3963,7 @@ FRANCEFOOT
 FRANCEHONGRIE
 FRANCEINFO
 FRANCEPORTUGAL
+FRANCESCO FACCHINETTI
 FRANCESUISSE
 FRANCE–SUISSE
 FRANCINE JORDI
@@ -4254,6 +4283,8 @@ FranceUkraine
 Franceetatsunisbasket
 Francefoot
 Franceinfo
+Francesco Facchinetti
+FrancescoFacchinetti
 France–Suisse
 Francine Jordi
 FrancineJordi
@@ -4389,6 +4420,7 @@ GATESHEAD
 GAVI
 GAVIN NEWSOM
 GEERT MEYFROIDT
+GEMINI MAN
 GENK  OOSTENDE
 GENK - ANDERLECHT
 GENK VOETBAL
@@ -4432,6 +4464,7 @@ GIANNISANTETOKOUNMPO
 GIEC
 GIETEN
 GIL OFARIM
+GILBERT MONTAGNÉ
 GILET JAUNE
 GILETS JAUNES
 GILLIAN ANDERSON
@@ -4520,6 +4553,7 @@ GUILLAUMEPLEY
 GUINÉE
 GULF STREAM
 GUY LACHAPPELLE
+GUY VERHOFSTADT
 GWEN STEFANI
 GWENSTEFANI
 GYRANO KERK
@@ -4573,6 +4607,8 @@ GeRARD DEPARDIEU
 GeRARDDEPARDIEU
 Geert Meyfroidt
 GeertMeyfroidt
+Gemini Man
+GeminiMan
 Genk  Anderlecht
 Genk  Oostende
 Genk - Anderlecht
@@ -4635,6 +4671,8 @@ GiannisAntetokounmpo
 Gieten
 Gil Ofarim
 GilOfarim
+Gilbert Montagné
+GilbertMontagné
 Gilet jaune
 Giletjaune
 Gilets jaunes
@@ -4761,7 +4799,9 @@ Guinée
 Gulf Stream
 GulfStream
 Guy Lachappelle
+Guy Verhofstadt
 GuyLachappelle
+GuyVerhofstadt
 Gwen Stefani
 GwenStefani
 Gyrano Kerk
@@ -5411,6 +5451,7 @@ JAMESHARDEN
 JAMIE LEE CURTIS
 JAMIELEECURTIS
 JAN BAKELANTS
+JAN DE LICHTE
 JAN FABRE
 JAN HECKER
 JAN JAMBON
@@ -5614,6 +5655,7 @@ JUVENTUS  CHELSEA
 JUVENTUS STADIUM
 JUVENTUS – CHELSEA
 JUVENTUS – EMPOLI
+JUVENTUS – ROMA
 JUVENTUS – SAMPDORIA
 Jack Grealish
 Jack Hendry
@@ -5659,6 +5701,7 @@ Jan Jambon
 Jan Pennings
 Jan Smit
 Jan Ullrich
+Jan de Lichte
 JanBakelants
 JanFabre
 JanHecker
@@ -5668,6 +5711,7 @@ JanSmit
 JanUllrich
 Jana Ina
 JanaIna
+JandeLichte
 Jane Birkin
 JaneBirkin
 Janja Garnbret
@@ -5976,11 +6020,13 @@ Juventus  Chelsea
 Juventus Stadium
 Juventus – Chelsea
 Juventus – Empoli
+Juventus – Roma
 Juventus – Sampdoria
 JuventusChelsea
 JuventusStadium
 Juventus–Chelsea
 Juventus–Empoli
+Juventus–Roma
 Juventus–Sampdoria
 JÉRÔME SALOMON
 Jérôme Salomon
@@ -6079,6 +6125,7 @@ KOOLSKAMP KOERS
 KORTRIJK
 KORTRIJK  GENK
 KOSOVO
+KOURTNEY KARDASHIAN
 KRAANVOGEL
 KRC GENK
 KRC Genk
@@ -6262,6 +6309,8 @@ Kortrijk
 Kortrijk  Genk
 KortrijkGenk
 Kosovo
+Kourtney Kardashian
+KourtneyKardashian
 Kraanvogel
 Kreta
 Kristen Stewart
@@ -6482,8 +6531,11 @@ LESENSDELAFAMILLE
 LESGETS
 LETEMPS
 LEUVEN
+LEUZIGEN
 LEVANTE – REAL
 LEVERKUSEN
+LEVERKUSEN GEGEN BAYERN
+LEVERKUSEN – BAYERN
 LEWANDOWSKI
 LEWIS HAMILTON
 LEYLAH FERNANDEZ
@@ -6858,9 +6910,14 @@ Lesfantasmes
 Letemps
 Letraitreetleneant
 Leuven
+Leuzigen
 Levante – Real
 Levante–Real
 Leverkusen
+Leverkusen gegen Bayern
+Leverkusen – Bayern
+LeverkusengegenBayern
+Leverkusen–Bayern
 Lewandowski
 Lewis Hamilton
 LewisHamilton
@@ -7120,6 +7177,7 @@ MADAME BOVARY
 MADE IN ITALY
 MADELEINE MALONGA
 MADONNA
+MADOU
 MAEHLE
 MAENZA
 MAEVA GHENNAM
@@ -7255,6 +7313,7 @@ MARSCH FÜRS LEBEN
 MARSEILLE
 MARSEILLE SAINT-ETIENNE
 MARSEILLE – LENS
+MARSEILLE – LORIENT
 MARSEILLE – RENNES
 MARSEILLE – SAINT-ÉTIENNE
 MARTEN VAN RIEL
@@ -7348,6 +7407,7 @@ MEL THOMPSON
 MELANIE BOULANGER
 MELANIE MÜLLER
 MELANIE WINIGER
+MELENCHON
 MELS
 MELVIN KLOOSTER
 MELVINKLOOSTER
@@ -7374,12 +7434,15 @@ MESSI TRANSFER
 MESSI TRANSFERT
 MET GALA 2021
 METALLICA
+METAVERS
+METAVERSE
 METEJOOR
 METEO NIMES
 METEORITE BREST
 METEOSCHWEIZ
 METZ – LILLE
 METZ – PARIS-SG
+METZ – RENNES
 MEUSE
 MEVROUW LEEMANS
 MEXIQUE
@@ -7488,6 +7551,7 @@ MONTELUKAST
 MONTENEGRO
 MONTEROSA
 MONTGERON
+MONTPELLIER – LENS
 MONTPELLIER – MARSEILLE
 MONTPELLIER – SAINT-ÉTIENNE
 MONTPELLIER – STRASBOURG
@@ -7541,6 +7605,7 @@ MadeinItaly
 Madeleine Malonga
 MadeleineMalonga
 Madonna
+Madou
 Maehle
 Maenza
 Maeva Ghennam
@@ -7759,11 +7824,13 @@ Marseille
 Marseille Saint-Etienne
 Marseille SaintEtienne
 Marseille – Lens
+Marseille – Lorient
 Marseille – Rennes
 Marseille – Saint-Étienne
 Marseille – SaintÉtienne
 MarseilleSaint-Etienne
 Marseille–Lens
+Marseille–Lorient
 Marseille–Rennes
 Marseille–Saint-Étienne
 Marten Van Riel
@@ -7901,6 +7968,7 @@ Melanie Winiger
 MelanieBoulanger
 MelanieMüller
 MelanieWiniger
+Melenchon
 Mels
 Melvin Klooster
 MelvinKlooster
@@ -7939,6 +8007,8 @@ Messitransfert
 Met Gala 2021
 MetGala2021
 Metallica
+Metavers
+Metaverse
 Metejoor
 Meteo nimes
 Meteonimes
@@ -7946,9 +8016,11 @@ Meteorite Brest
 MeteoriteBrest
 Meteoschweiz
 Metz – Lille
+Metz – Rennes
 Metz – paris-sg
 Metz – parissg
 Metz–Lille
+Metz–Rennes
 Metz–paris-sg
 Meuse
 Mevrouw Leemans
@@ -8114,10 +8186,12 @@ MonteRosa
 Montelukast
 Montenegro
 Montgeron
+Montpellier – Lens
 Montpellier – Marseille
 Montpellier – Saint-Étienne
 Montpellier – SaintÉtienne
 Montpellier – Strasbourg
+Montpellier–Lens
 Montpellier–Marseille
 Montpellier–Saint-Étienne
 Montpellier–Strasbourg
@@ -8914,6 +8988,7 @@ PAUL QUILES
 PAUL RICARD
 PAUL SIMON
 PAUL WALKER
+PAULA BADOSA
 PAULETTE NARDAL
 PAULKOULAK
 PAULRICARD
@@ -8974,6 +9049,7 @@ PEUR PRIMALE
 PFADI WINTERTHUR
 PFADIWINTERTHUR
 PFEIFFERSCHES DRÜSENFIEBER
+PHANTOM THREAD
 PHARE DE CORDOUAN
 PHIL COLLINS
 PHILIPPE BOUVARD
@@ -9279,6 +9355,8 @@ PaulPogba
 PaulRicard
 PaulSimon
 PaulWalker
+Paula Badosa
+PaulaBadosa
 Paulette Nardal
 PauletteNardal
 Paulquiles
@@ -9343,6 +9421,8 @@ Pfadi Winterthur
 PfadiWinterthur
 Pfeiffersches Drüsenfieber
 PfeifferschesDrüsenfieber
+Phantom Thread
+PhantomThread
 Phare de Cordouan
 PharedeCordouan
 Phil Collins
@@ -9573,6 +9653,7 @@ RAFFAELLACARRÀ
 RAFFAELLACARRà
 RAHEEM STERLING
 RAHEEMSTERLING
+RAHEL BLOCHER
 RALLY IEPER
 RALLYE DE WALLONIE 2021
 RALLYE DU MONT-BLANC 2021
@@ -9667,6 +9748,7 @@ RHODOS
 RIADH BAHRI
 RICHARD ANCONINA
 RICHARD BERRY
+RICHARD BOHRINGER
 RICHARD BRANSON
 RICHARD CARAPAZ
 RICHARD DONNER
@@ -9780,6 +9862,7 @@ RUSSLANDDäNEMARK
 RWANDA
 RWDM
 RYAD MERHY
+RYAN REYNOLDS
 RYANAIR
 RYBAKINA
 RYDER CUP 2021
@@ -9806,6 +9889,8 @@ RaffaellaCarrà
 Raffaellacarra
 Raheem Sterling
 RaheemSterling
+Rahel Blocher
+RahelBlocher
 Rally Ieper
 RallyIeper
 Rallye Ypres
@@ -9939,11 +10024,13 @@ Riadh Bahri
 RiadhBahri
 Richard Anconina
 Richard Berry
+Richard Bohringer
 Richard Branson
 Richard Carapaz
 Richard Donner
 RichardAnconina
 RichardBerry
+RichardBohringer
 RichardBranson
 RichardCarapaz
 RichardDonner
@@ -10064,6 +10151,8 @@ RusslandDänemark
 Rwanda
 Ryad Merhy
 RyadMerhy
+Ryan Reynolds
+RyanReynolds
 Ryanair
 Rybakina
 Ryder Cup 2021
@@ -10405,6 +10494,7 @@ STOFFEL VANDOORNE
 STRASBOURG - METZ
 STRASBOURG FOOT
 STRASBOURG – LILLE
+STRASBOURG – SAINT-ÉTIENNE
 STREAM DECK
 STROMAE
 STROMAE 2021
@@ -10958,9 +11048,12 @@ Strasbourg  Metz
 Strasbourg - Metz
 Strasbourg foot
 Strasbourg – Lille
+Strasbourg – Saint-Étienne
+Strasbourg – SaintÉtienne
 Strasbourg-Metz
 Strasbourgfoot
 Strasbourg–Lille
+Strasbourg–Saint-Étienne
 Stream Deck
 StreamDeck
 Stromae
@@ -11124,6 +11217,7 @@ THE POST
 THE SUICIDE SQUAD
 THE TOMORROW WAR
 THE VOICE ALL STARS
+THE VOICE ALL-STARS
 THE VOICE OF GERMANY 2021
 THE WAVE
 THE WEEKND
@@ -11359,6 +11453,8 @@ The Mule
 The Suicide Squad
 The Tomorrow War
 The Voice All Stars
+The Voice All-Stars
+The Voice AllStars
 The Voice of Germany 2021
 The Wave
 The Weeknd
@@ -11376,6 +11472,7 @@ TheLastDuel
 TheMule
 TheSuicideSquad
 TheTomorrowWar
+TheVoiceAll-Stars
 TheVoiceAllStars
 TheVoiceofGermany2021
 TheWave
@@ -11799,6 +11896,7 @@ VARIANT COLOMBIEN
 VARIANT MU
 VENDREDI 13
 VENEZUELA – ARGENTINE
+VENOM
 VERONA POOTH
 VERONAPOOTH
 VERONIQUE
@@ -11926,6 +12024,7 @@ Vendredi 13
 Vendredi13
 Venezuela – Argentine
 Venezuela–Argentine
+Venom
 Verona Pooth
 VeronaPooth
 Veronique
@@ -12406,6 +12505,7 @@ ZWEDEN OEKRAINE
 ZWEDENOEKRAINE
 ZWEISIMMEN
 ZWOLLE
+ZWÖLF STÄMME
 ZYPERN
 Zac Efron
 ZacEfron
@@ -12473,6 +12573,8 @@ Zweden oekraine
 Zwedenoekraine
 Zweisimmen
 Zwolle
+Zwölf Stämme
+ZwölfStämme
 Zypern
 ZÜRICH
 ZÜRICH STURM
@@ -12860,10 +12962,12 @@ barby kelly
 barbykelly
 barca
 barcelona
+barcelona  valencia
 barcelona – getafe
 barcelona – juventus
 barcelona – levante
 barcelona – real sociedad
+barcelona – valence
 barrage eupen
 bart de pauw
 bart de wever
@@ -13049,6 +13153,7 @@ boomtown
 bordeaux
 bordeaux – angers
 bordeaux – clermont
+bordeaux – nantes
 bordeaux – rennes
 boris collardi
 boris johnson
@@ -13260,6 +13365,7 @@ championsleague
 charente-maritime
 charlene de monaco
 charleroi  antwerp
+charleroi  genk
 charles de ketelaere
 charles ingram
 charles-antoine kouakou
@@ -13282,6 +13388,7 @@ chelsea – southampton
 chelsea – villarreal
 chenille processionnaire
 chenilleprocessionnaire
+cheque carburant
 cheque energie
 cher
 chiara ferragni
@@ -13512,6 +13619,7 @@ danemarkrepubliquetcheque
 daniel auteuil
 daniel carr
 daniel craig
+daniel day-lewis
 daniel mickelson
 daniel polette
 daniel ricciardo
@@ -13529,6 +13637,7 @@ dany brillant
 danyboon
 darligen
 darmanin
+darts ek
 dave
 david alaba
 david amess
@@ -13627,6 +13736,7 @@ djokovic
 doctolib
 doku
 dolly parton
+dominique aegerter
 dominique farrugia
 dominique persoone
 don't look up
@@ -14096,6 +14206,7 @@ francefoot
 francehongrie
 franceinfo
 franceportugal
+francesco facchinetti
 francesuisse
 france–suisse
 francine jordi
@@ -14186,6 +14297,7 @@ gateshead
 gavi
 gavin newsom
 geert meyfroidt
+gemini man
 genk  oostende
 genk - anderlecht
 genk voetbal
@@ -14227,6 +14339,7 @@ giannisantetokounmpo
 giec
 gieten
 gil ofarim
+gilbert montagné
 gilet jaune
 gilets jaunes
 gillian anderson
@@ -14310,6 +14423,7 @@ guillaumepley
 guinée
 gulf stream
 guy lachappelle
+guy verhofstadt
 gwen stefani
 gwenstefani
 gyrano kerk
@@ -14606,6 +14720,7 @@ jamesharden
 jamie lee curtis
 jamieleecurtis
 jan bakelants
+jan de lichte
 jan fabre
 jan hecker
 jan jambon
@@ -14794,6 +14909,7 @@ juventus  chelsea
 juventus stadium
 juventus – chelsea
 juventus – empoli
+juventus – roma
 juventus – sampdoria
 jérôme salomon
 kaa gent
@@ -14886,6 +15002,7 @@ koolskamp koers
 kortrijk
 kortrijk  genk
 kosovo
+kourtney kardashian
 kraanvogel
 krc genk
 kreta
@@ -15073,8 +15190,11 @@ lesensdelafamille
 lesgets
 letemps
 leuven
+leuzigen
 levante – real
 leverkusen
+leverkusen gegen bayern
+leverkusen – bayern
 lewandowski
 lewis hamilton
 leylah fernandez
@@ -15251,6 +15371,7 @@ madame bovary
 made in italy
 madeleine malonga
 madonna
+madou
 maehle
 maenza
 maeva ghennam
@@ -15386,6 +15507,7 @@ marsch fürs leben
 marseille
 marseille saint-etienne
 marseille – lens
+marseille – lorient
 marseille – rennes
 marseille – saint-étienne
 marten van riel
@@ -15477,6 +15599,7 @@ mel thompson
 melanie boulanger
 melanie müller
 melanie winiger
+melenchon
 mels
 melvin klooster
 melvinklooster
@@ -15503,12 +15626,15 @@ messi transfer
 messi transfert
 met gala 2021
 metallica
+metavers
+metaverse
 metejoor
 meteo nimes
 meteorite brest
 meteoschweiz
 metz – lille
 metz – paris-sg
+metz – rennes
 meuse
 mevrouw leemans
 mexique
@@ -15613,6 +15739,7 @@ montelukast
 montenegro
 monterosa
 montgeron
+montpellier – lens
 montpellier – marseille
 montpellier – saint-étienne
 montpellier – strasbourg
@@ -15988,6 +16115,7 @@ paul quiles
 paul ricard
 paul simon
 paul walker
+paula badosa
 paulette nardal
 paulkoulak
 paulricard
@@ -16044,6 +16172,7 @@ peur primale
 pfadi winterthur
 pfadiwinterthur
 pfeiffersches drüsenfieber
+phantom thread
 phare de cordouan
 phil collins
 philippe bouvard
@@ -16208,6 +16337,7 @@ raffaellacarra
 raffaellacarrà
 raheem sterling
 raheemsterling
+rahel blocher
 rally ieper
 rallye de wallonie 2021
 rallye du mont-blanc 2021
@@ -16295,6 +16425,7 @@ rhodos
 riadh bahri
 richard anconina
 richard berry
+richard bohringer
 richard branson
 richard carapaz
 richard donner
@@ -16391,6 +16522,7 @@ russlanddänemark
 rwanda
 rwdm
 ryad merhy
+ryan reynolds
 ryanair
 rybakina
 ryder cup 2021
@@ -16709,6 +16841,7 @@ stoffel vandoorne
 strasbourg - metz
 strasbourg foot
 strasbourg – lille
+strasbourg – saint-étienne
 stream deck
 stromae
 stromae 2021
@@ -16843,6 +16976,7 @@ the post
 the suicide squad
 the tomorrow war
 the voice all stars
+the voice all-stars
 the voice of germany 2021
 the wave
 the weeknd
@@ -17101,6 +17235,7 @@ variant colombien
 variant mu
 vendredi 13
 venezuela – argentine
+venom
 verona pooth
 veronapooth
 veronique
@@ -17345,6 +17480,7 @@ zweden oekraine
 zwedenoekraine
 zweisimmen
 zwolle
+zwölf stämme
 zypern
 zürich
 zürich sturm
