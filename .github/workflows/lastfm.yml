@@ -1,4 +1,4 @@
-name: Music-trends
+name: Music-trends-lastFM
 
 # Controls when the action will run. 
 on:
@@ -62,5 +62,5 @@ jobs:
           git config user.name "Music-bot"
           git config user.email ""
           git add lastfm
-          git commit -m "[Bot] Music trends from $(date +'%Y_%m_%d')"
+          git commit -m "[Bot] LastFM trends from $(date +'%Y_%m_%d')"
           git push origin master
