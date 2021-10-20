@@ -54,7 +54,7 @@ jobs:
           curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $token" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
           curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DWVuV87wUBNwc/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $token" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
 
-    - name: Permutations options artists
+      - name: Permutations options artists
         run: |
             cat artists_temp | awk '{print tolower($0)}' > artists_lower;
             cat artists_temp | awk '{print toupper($0)}' > artists_upper;
