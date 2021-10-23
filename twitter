@@ -1230,6 +1230,7 @@ ASMR92
 ASMRCL
 ASMSHAKHTAR
 ASMSHK
+ASMSP
 ASMSPARTA
 ASMSR
 ASMShakhtar
@@ -4601,6 +4602,7 @@ CEREUP
 CERFROUSSE
 CERGY
 CEROHL
+CERSTA
 CERTIFICATCOVID
 CERTIFIED LOVER BOY
 CERTIFIEDLOVERBOY
@@ -4727,6 +4729,7 @@ CHEMCI
 CHEN
 CHENOR
 CHEQUECARBURANT
+CHEQUEINFLATION
 CHERKI
 CHESOU
 CHESTER BENNINGTON
@@ -7599,6 +7602,7 @@ EMERSON
 EMERY
 EMILIA CLARKE
 EMILIANO SALA
+EMILIAROMAGNAGP
 EMILIE
 EMINEM
 EMISSIONEN
@@ -8064,6 +8068,7 @@ Embiid
 Emerson
 Emery
 Emilia Clarke
+EmiliaRomagnaGP
 Emiliano Sala
 Emilie
 Eminem
@@ -12888,6 +12893,7 @@ JUSQU'AQUAND
 JUSQUA QUAND
 JUSQUAQUAND
 JUSTEMENT
+JUSTICEPOURDINAH
 JUSTIN BIEBER
 JUSTIN TRUDEAU
 JUSTINBIEBER
@@ -13477,6 +13483,7 @@ Jurgen Conings
 JurgenConings
 Juso
 Justement
+JusticepourDinah
 Justin Bieber
 Justin Trudeau
 JustinBieber
@@ -16672,6 +16679,7 @@ MANIFESTATION14AOUT
 MANIFESTATION16OCTOBRE
 MANIFESTATION18SEPTEMBRE
 MANIFESTATION21AOUT
+MANIFESTATION23OCTOBRE
 MANIFESTATION28AOUT
 MANIFESTATION31JUILLET
 MANIFESTATION4SEPTEMBRE
@@ -20420,6 +20428,7 @@ PEUTIE
 PEUTÊTRE
 PFAS
 PFCAJA
+PFCTFC
 PFERD
 PFERDE
 PFFF
@@ -23242,6 +23251,7 @@ SFCLS
 SFCLUG
 SFCMFK
 SFCYB
+SFPLOU
 SFPR92
 SFSP2021
 SHA'CARRI
@@ -29813,6 +29823,7 @@ asmr92
 asmrcl
 asmshakhtar
 asmshk
+asmsp
 asmsparta
 asmsr
 asnlaja
@@ -31331,6 +31342,7 @@ cereup
 cerfrousse
 cergy
 cerohl
+cersta
 certificatCOVID
 certificatcovid
 certified lover boy
@@ -31457,6 +31469,7 @@ chemci
 chen
 chenor
 chequecarburant
+chequeinflation
 cherki
 chesou
 chester bennington
@@ -32888,6 +32901,7 @@ emerson
 emery
 emilia clarke
 emiliano sala
+emiliaromagnagp
 emilie
 eminem
 emissionen
@@ -35957,6 +35971,7 @@ jusqu'a quand
 jusqu'aquand
 jusquaquand
 justement
+justicepourdinah
 justin bieber
 justin trudeau
 justinbieber
@@ -37726,6 +37741,8 @@ manifestation14aout
 manifestation16octobre
 manifestation18septembre
 manifestation21aout
+manifestation23Octobre
+manifestation23octobre
 manifestation28aout
 manifestation31juillet
 manifestation4septembre
@@ -39815,6 +39832,7 @@ peutie
 peutêtre
 pfas
 pfcaja
+pfctfc
 pferd
 pferde
 pfff
@@ -41383,6 +41401,7 @@ sfcls
 sfclug
 sfcmfk
 sfcyb
+sfplou
 sfpr92
 sfsp2021
 sha'carri
