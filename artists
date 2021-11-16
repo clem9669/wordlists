@@ -458,6 +458,7 @@ CHILLOUT: OCTOBER 2021
 CHLOE
 CHOSEN
 CHRIS BROWN
+CHRIS STAPLETON
 CHRIS TOMLIN
 CHRISTINA AGUILERA
 CHRISTINE AND THE QUEENS
@@ -540,8 +541,10 @@ Chloe
 Chlöe
 Chosen
 Chris Brown
+Chris Stapleton
 Chris Tomlin
 ChrisBrown
+ChrisStapleton
 ChrisTomlin
 Christina Aguilera
 ChristinaAguilera
@@ -1264,6 +1267,7 @@ KIRAS (IT)
 KISS ME MORE
 KISS ME MORE 
 KOBA LAD
+KRONOMUZIK
 KUNGS
 KWABS
 KYGO
@@ -1294,6 +1298,7 @@ Kiss Me More
 KissMeMore
 Koba LaD
 KobaLaD
+KronoMuzik
 Kungs
 Kwabs
 Kygo
@@ -1809,6 +1814,7 @@ PEBBLE BRAIN
 PEPAS
 PET CARE CLUB
 PETIT PRINCE
+PHOEBE BRIDGERS
 PICK ME UP
 PINK SWEAT$
 PINKFONG
@@ -1854,6 +1860,8 @@ Pet Care Club
 PetCareClub
 Petit Prince
 PetitPrince
+Phoebe Bridgers
+PhoebeBridgers
 Pick Me Up
 PickMeUp
 Pink Sweat$
@@ -2085,6 +2093,7 @@ SOUR
 SPACEMAN
 SPINNING
 SPLEEN
+SQUEEZIE
 STAND
 STARLIGHT
 STAY
@@ -2211,6 +2220,7 @@ SosoManess
 Soundtrack from the Animated Series
 SoundtrackfromtheAnimatedSeries
 Spleen
+Squeezie
 Starlight
 Steve Aoki
 SteveAoki
@@ -2299,6 +2309,7 @@ THUNDEROUS -JAPANESE VERSION-
 TIESTO
 TIFFANY
 TIMAL
+TIME TIME
 TIMELESS
 TINLICKER
 TO ME
@@ -2314,6 +2325,7 @@ TOUJOURS NOUS-MÊMES
 TOXIC
 TRANSLATION
 TRAVIS SCOTT
+TREI DEGETE
 TREPPENHAUS
 TREVOR DANIEL
 TRISHA YEARWOOD
@@ -2419,6 +2431,8 @@ Thunderous-Japaneseversion-
 Tiesto
 Tiffany
 Timal
+Time Time
+TimeTime
 Timeless
 Tinlicker
 Tiësto
@@ -2441,6 +2455,8 @@ Toxic
 Translation
 Travis Scott
 TravisScott
+Trei Degete
+TreiDegete
 Treppenhaus
 Trevor Daniel
 TrevorDaniel
@@ -2804,6 +2820,7 @@ chillout: october 2021
 chloe
 chosen
 chris brown
+chris stapleton
 chris tomlin
 christina aguilera
 christine and the queens
@@ -3187,6 +3204,7 @@ kiras (it)
 kiss me more
 kiss me more 
 koba lad
+kronomuzik
 kungs
 kwabs
 kygo
@@ -3398,6 +3416,7 @@ pebble brain
 pepas
 pet care club
 petit prince
+phoebe bridgers
 pick me up
 pink sweat$
 pinkfong
@@ -3543,6 +3562,7 @@ sour
 spaceman
 spinning
 spleen
+squeezie
 stand
 starlight
 stay
@@ -3623,6 +3643,7 @@ thunderous -japanese version-
 tiesto
 tiffany
 timal
+time time
 timeless
 tinlicker
 to me
@@ -3640,6 +3661,7 @@ toxic
 toyou
 translation
 travis scott
+trei degete
 treppenhaus
 trevor daniel
 trisha yearwood
