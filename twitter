@@ -7591,6 +7591,7 @@ DOUBLEL
 DOUBLEPEINE
 DOUBLERG
 DOUCOURE
+DPC21
 DR OCTOPUS
 DR STRANGE
 DR ZELENKO
@@ -12478,6 +12479,7 @@ HAUTSDESEINE
 HAVE A SAFE FLIGHT
 HAVE MERCY
 HAVEASAFEFLIGHT
+HAVEASAFEFLIGHTBTS
 HAVEMERCY
 HAVERTZ
 HAVRE
@@ -14724,6 +14726,7 @@ JUST FONTAINE
 JUSTEMENT
 JUSTICE
 JUSTICEPOURDINAH
+JUSTICEWORLDTOUR
 JUSTIN BIEBER
 JUSTIN TRUDEAU
 JUSTINBIEBER
@@ -15392,6 +15395,7 @@ Juso
 Just Fontaine
 Justement
 Justice
+JusticeWorldTour
 JusticepourDinah
 Justin Bieber
 Justin Trudeau
@@ -15542,6 +15546,7 @@ KASE
 KASSAV
 KASSE
 KAT KERKHOFS
+KATAR
 KATARA
 KATASTROOF
 KATASTROPHE
@@ -16081,6 +16086,7 @@ Kase
 Kassav
 Kasse
 Kat Kerkhofs
+Katar
 Katara
 Katastroof
 Katastrophe
@@ -21743,6 +21749,7 @@ NOODSITUATIE
 NOODTOESTAND
 NOOR
 NOOR VIDTS
+NOORDSTATION
 NOORDZEE
 NOORVIDTS
 NOORWEGEN
@@ -22183,6 +22190,7 @@ Noodtoestand
 Noor
 Noor Vidts
 NoorVidts
+Noordstation
 Noordzee
 Noorwegen
 Nora
@@ -22494,6 +22502,8 @@ ONEPLUSNORD2
 ONESTENDIRECT
 ONESTENFINALE
 ONESTENOCTOBRE
+ONEUS1STWIN
+ONEUS1stwin
 ONEUS_BLOOD_MOON_RISES
 ONEYEARWITHTREASURE
 ONE_IN_6_MILLION
@@ -24941,6 +24951,7 @@ RECHTSSTAAT
 RECHUTE
 RECONCILIATION
 RECONFINEMENT
+RECONFINEMENTMOIJAMAIS
 RECORD DE FRANCE
 RECRUTEMENT
 RED BULL
@@ -25587,6 +25598,7 @@ Rechnung
 Rechts
 Rechtsstaat
 Rechute
+ReconfinementMoiJamais
 Record de France
 Recrutement
 Red Bull
@@ -37220,6 +37232,7 @@ doublé de cr7
 doublédecr7
 doucoure
 doucouré
+dpc21
 dr octopus
 dr strange
 dr zelenko
@@ -39601,6 +39614,8 @@ hautsdeseine
 have a safe flight
 have mercy
 haveasafeflight
+haveasafeflightBTS
+haveasafeflightbts
 havemercy
 havertz
 havre
@@ -41069,6 +41084,7 @@ just fontaine
 justement
 justice
 justicepourdinah
+justiceworldtour
 justin bieber
 justin trudeau
 justinbieber
@@ -41228,6 +41244,7 @@ kase
 kassav
 kasse
 kat kerkhofs
+katar
 katara
 katastroof
 katastrophe
@@ -44604,6 +44621,7 @@ noodsituatie
 noodtoestand
 noor
 noor vidts
+noordstation
 noordzee
 noorvidts
 noorwegen
@@ -44944,6 +44962,7 @@ oneplusnord2
 onestendirect
 onestenfinale
 onestenoctobre
+oneus1stwin
 oneus_blood_moon_rises
 oneyearwithtreasure
 onfray
@@ -46240,6 +46259,7 @@ rechts
 rechtsstaat
 rechute
 reconfinement
+reconfinementmoijamais
 record de france
 recrutement
 red Lions
