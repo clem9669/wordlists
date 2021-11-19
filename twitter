@@ -1459,6 +1459,7 @@ ASKSONIC
 ASMASSE
 ASMFCGB
 ASMFCN
+ASMLOSC
 ASMOM
 ASMPSV
 ASMR92
@@ -9743,6 +9744,7 @@ FAKENEWS
 FAKER
 FAKT
 FAKTEN
+FAKTENCHECKER
 FAKTENSTATTGLOCKEN
 FAKTOR
 FAKTOREN
@@ -9930,6 +9932,7 @@ FELLAINI
 FENANT
 FENCING
 FENSTER
+FENÊTRE
 FERDINAND
 FERFRA
 FERGUSON
@@ -10572,6 +10575,7 @@ Felix
 Fellaini
 Fencing
 Fenster
+Fenêtre
 Ferdinand
 Ferguson
 Ferhat
@@ -12700,6 +12704,7 @@ HELDEN
 HELEMAAL
 HELENA
 HELENE
+HELLBOUND
 HELLO PETER
 HELLO01NETHELLOMOTO
 HELLOJIMTOBER
@@ -13175,6 +13180,7 @@ Helden
 Helemaal
 Helena
 Helene
+Hellbound
 Hello Peter
 Hello01netHelloMoto
 HelloJimtober
@@ -14804,6 +14810,7 @@ JOURNALISTE
 JOURNALISTS
 JOURNEEDESDEVELOPPEURS
 JOURNEEINTERNATIONALEDUCHAT
+JOURNEEMONDIALDUFREEBET
 JOURNEEMONDIALEDELAMER
 JOURNEEMONDIALEDELAPHOTO
 JOURNEEMONDIALEDESANIMAUX
@@ -15278,8 +15285,10 @@ Jesy
 Jet Set Radio
 JetSetRadio
 Jetais
+Jette
 JetteUnTitreALaPoubelle
 JetztJAStimmen
+JetztJAstimmen
 JeuOL
 Jeudi 18
 Jeudi 7
@@ -15490,6 +15499,7 @@ Journalismus
 Journalist
 Journaliste
 Journalists
+JourneeMondialduFreebet
 JourneeMondialeDeLaMer
 JourneeMondialeDeLaPhoto
 JourneeMondialeDesAnimaux
@@ -19886,6 +19896,7 @@ METOOTHEATRE
 METROID
 METROID DREAD
 METROIDDREAD
+METROPOLE
 METSDUCARBURANTDANSUNTITRE
 METSUNTITREENPANNE
 METZ
@@ -21624,6 +21635,7 @@ Méluche
 Ménard
 Mérignac
 Mérité
+Métropole
 Météo France
 MétéoFrance
 Même Twitter
@@ -24022,6 +24034,7 @@ PRESENT
 PRESIDENT
 PRESIDENT DE LA REPUBLIQUE
 PRESIDENTDELAREPUBLIQUE
+PRESIDENTE
 PRESIDENTIELLE 2022
 PRESIDENTIELLE2022
 PRESIDENTIELLES2022
@@ -24961,6 +24974,7 @@ Présent
 Président
 Président de la République
 PrésidentdelaRépublique
+Présidente
 Présidentielle 2022
 Présidentielle2022
 Prévention
@@ -25216,6 +25230,7 @@ RAOUL CAUVIN
 RAOULCAUVIN
 RAOULT
 RAOULTGATE
+RAOULTMERCI
 RAPHAEL
 RAPHAEL BEAUGILLET
 RAPHAELBEAUGILLET
@@ -25901,6 +25916,7 @@ Raoul Cauvin
 RaoulCauvin
 Raoult
 RaoultGate
+RaoultMerci
 RapVibes
 Raphael
 Raphael Beaugillet
@@ -32180,6 +32196,7 @@ WHATSAPP
 WHATSAPPDOWN
 WHATSHAPPENINGINMYANMAR
 WHEREISPENGSHUAI
+WHEREISSHUAIPENG
 WHITE HOUSE
 WHITEHOUSE
 WHITEMONEY
@@ -32562,6 +32579,7 @@ WhatsAppDown
 WhatsHappeningInMyanmar
 Whatsappdown
 WhereIsPengShuai
+WhereIsShuaiPeng
 White House
 WhiteHouse
 Whitemoney
@@ -32765,6 +32783,7 @@ XBOX20
 XBOX20XMICROMANIA
 XBOX360
 XBOXALLSTARBRAWLSWEEPSTAKES
+XBOXBATTLEFIELD2042
 XBOXMINIFRIDGE
 XBOXONE
 XBOXSERIESX
@@ -32806,6 +32825,7 @@ Xbox20
 Xbox20xMicromania
 Xbox360
 XboxAllStarBrawlsweepstakes
+XboxBattlefield2042
 XboxMiniFridge
 XboxOne
 XboxSeriesX
@@ -34528,6 +34548,7 @@ asksonic
 asmasse
 asmfcgb
 asmfcn
+asmlosc
 asmom
 asmpsv
 asmr92
@@ -38503,6 +38524,7 @@ fakenews
 faker
 fakt
 fakten
+faktenchecker
 faktenstattglocken
 faktor
 faktoren
@@ -38664,6 +38686,7 @@ fellaini
 fenant
 fencing
 fenster
+fenêtre
 ferdinand
 ferfra
 ferguson
@@ -40184,6 +40207,7 @@ helden
 helemaal
 helena
 helene
+hellbound
 hello peter
 hello01nethellomoto
 hellojimtober
@@ -41513,6 +41537,7 @@ journalist
 journaliste
 journalists
 journeeinternationaleduchat
+journeemondialdufreebet
 journeemondialedelamer
 journeemondialedelaphoto
 journeemondialedesanimaux
@@ -44816,6 +44841,7 @@ méluche
 ménard
 mérignac
 mérité
+métropole
 météo france
 météofrance
 météorite
@@ -46563,6 +46589,7 @@ présent
 président
 président de la république
 présidentdelarépublique
+présidente
 présidentielle 2022
 présidentielle2022
 prévention
@@ -46794,6 +46821,7 @@ raoul cauvin
 raoulcauvin
 raoult
 raoultgate
+raoultmerci
 raphael
 raphael beaugillet
 raphaelbeaugillet
@@ -50585,6 +50613,7 @@ whatsapp
 whatsappdown
 whatshappeninginmyanmar
 whereispengshuai
+whereisshuaipeng
 white house
 whitehouse
 whitemoney
@@ -50818,6 +50847,7 @@ xbox20
 xbox20xmicromania
 xbox360
 xboxallstarbrawlsweepstakes
+xboxbattlefield2042
 xboxminifridge
 xboxone
 xboxseriesx
