@@ -225,6 +225,7 @@ ADAMDRIVER
 ADAMO
 ADDISON RAE
 ADELE
+ADELE, 30
 ADI HÜTTER
 ADMIR MEHMEDI
 ADNAN ABOU WALID AL-SAHRAOUI
@@ -617,6 +618,7 @@ AUDREY LAMY
 AURELIE PONS
 AUSTIN BUTLER
 AUSTRALIE FRANCE
+AUSTRIA
 AUTOLOZE ZONDAG 2021
 AUTOMNE
 AUTOMNE 2021
@@ -698,6 +700,8 @@ Adamo
 Addison Rae
 AddisonRae
 Adele
+Adele, 30
+Adele,30
 Adi Hütter
 AdiHütter
 Admir Mehmedi
@@ -1289,6 +1293,7 @@ Austin Butler
 AustinButler
 Australie France
 AustralieFrance
+Austria
 Autoloze Zondag 2021
 AutolozeZondag2021
 Automne
@@ -1424,6 +1429,7 @@ BEATE ZSCHÄPE
 BEATLES
 BEATRICE EGLI
 BEAUJOLAIS NOUVEAU
+BEAUJOLAIS NOUVEAU 2021
 BEAUMES-DE-VENISE
 BEAURAING
 BEAUVAIS
@@ -1876,7 +1882,9 @@ BeateZschäpe
 Beatles
 Beatrice Egli
 BeatriceEgli
+Beaujolais Nouveau 2021
 Beaujolais nouveau
+BeaujolaisNouveau2021
 Beaujolaisnouveau
 Beaumes-de-Venise
 BeaumesdeVenise
@@ -2490,6 +2498,7 @@ CHRIS DUSAUCHOIT
 CHRIS EVANS
 CHRIS PAUL
 CHRIS PRATT
+CHRIS TALL
 CHRIS VAN DEN DURPEL
 CHRISPAUL
 CHRISTIAN BOLTANSKI
@@ -2524,6 +2533,7 @@ CIROIMMOBILE
 CIRYL GANE
 CIRYLGANE
 CISGENDER
+CIVILISATION ORELSAN
 CLAIRE BOVÉ
 CLAIRE CHAZAL
 CLAIRECHAZAL
@@ -2998,6 +3008,7 @@ Chris Dusauchoit
 Chris Evans
 Chris Paul
 Chris Pratt
+Chris Tall
 Chris Van den Durpel
 Chris de Burgh
 ChrisAnkerSørensen
@@ -3007,6 +3018,7 @@ ChrisDusauchoit
 ChrisEvans
 ChrisPaul
 ChrisPratt
+ChrisTall
 ChrisVandenDurpel
 ChrisdeBurgh
 Christian Boltanski
@@ -3054,6 +3066,8 @@ CiroImmobile
 Ciryl Gane
 CirylGane
 Cisgender
+Civilisation Orelsan
+CivilisationOrelsan
 Claire Bové
 Claire Chazal
 ClaireBové
@@ -4091,6 +4105,7 @@ EQUIPEDEFRANCE
 ERDBEBEN KRETA
 ERDBEBEN SCHWEIZ
 ERDBEBENSCHWEIZ
+ERDOGAN
 EREDIVISIE
 ERFTSTADT
 ERFTSTADT-BLESSEM
@@ -4393,6 +4408,7 @@ Erdbeben Kreta
 Erdbeben Schweiz
 ErdbebenKreta
 ErdbebenSchweiz
+Erdogan
 Eredivisie
 Erftstadt
 Erftstadt-Blessem
@@ -4883,6 +4899,7 @@ FRANCOISE HARDY
 FRANCOISEHARDY
 FRANCOISFILLON
 FRANK DE BOER
+FRANK MICHAEL
 FRANK SINATRA
 FRANK VANDENBROUCKE
 FRANKDEBOER
@@ -5249,9 +5266,11 @@ Francoise Arnoul
 Francoise Hardy
 FrancoiseArnoul
 FrancoiseHardy
+Frank Michael
 Frank Sinatra
 Frank Vandenbroucke
 Frank de Boer
+FrankMichael
 FrankSinatra
 FrankVandenbroucke
 FrankdeBoer
@@ -6247,6 +6266,7 @@ ISABELLE ADJANI
 ISABELLE BALKANY
 ISABELLE FUNARO
 ISABELLE ITHURBURU
+ISABELLE JACOBI
 ISABELLEADJANI
 ISLAMABAD
 ISLANDE
@@ -6447,10 +6467,12 @@ Isabelle Adjani
 Isabelle Balkany
 Isabelle Funaro
 Isabelle Ithurburu
+Isabelle Jacobi
 IsabelleAdjani
 IsabelleBalkany
 IsabelleFunaro
 IsabelleIthurburu
+IsabelleJacobi
 Islamabad
 Islande
 Iss doch WURSCHT
@@ -6773,6 +6795,7 @@ JULIEN ODOUL
 JULIENDORE
 JULIENDORe
 JULIENDORé
+JULIUS JONES
 JULOS BEAUCARNE
 JUNETEENTH
 JUNG HO-YEON
@@ -7196,6 +7219,8 @@ Julien Odoul
 JulienDore
 JulienDoré
 JulienOdoul
+Julius Jones
+JuliusJones
 Julos Beaucarne
 JulosBeaucarne
 Juneteenth
@@ -7638,6 +7663,8 @@ L'EQUIPE
 L'EQUIPE DU SOIR
 L'EQUIPEDUSOIR
 L'Equipe
+L'HERMINE
+L'Hermine
 L'ORIGINE DU MONDE
 L'Origine du monde
 L'Originedumonde
@@ -7682,6 +7709,7 @@ LA ROCHE-EN-ARDENNE
 LA ROCHELLE
 LA ROCHELLE TOULON
 LA ROCHELLE TOULOUSE
+LA ROUE DU TEMPS
 LA SOUPE AUX CHOUX
 LAAKSONEN
 LACHGAS
@@ -7898,10 +7926,12 @@ LOCATELLI
 LOCATELLI MANUEL
 LOCATELLIMANUEL
 LOCKDOWN NEDERLAND
+LOCKDOWN ÖSTERREICH
 LOCKE AND KEY
 LOGAN MAILLOUX
 LOGITECH
 LOGITECH-AKTIE
+LOGO BRUSSELS AIRLINES
 LOI PASS SANITAIRE
 LOIN DE CHEZ MOI
 LOKERSE FEESTEN 2021
@@ -8031,6 +8061,7 @@ La RocheenArdenne
 La Rochelle
 La Rochelle Toulon
 La Rochelle Toulouse
+La Roue du Temps
 La fine fleur
 La fleur du mal
 La lutte des classes
@@ -8051,6 +8082,7 @@ LaRoche-en-Ardenne
 LaRochelle
 LaRochelleToulon
 LaRochelleToulouse
+LaRoueduTemps
 Laaksonen
 Lachgas
 Lachlan Morton
@@ -8386,7 +8418,9 @@ Locatelli
 Locatelli Manuel
 LocatelliManuel
 Lockdown Nederland
+Lockdown Österreich
 LockdownNederland
+LockdownÖsterreich
 Locke and Key
 LockeandKey
 Logan Mailloux
@@ -8394,6 +8428,8 @@ LoganMailloux
 Logitech
 Logitech-Aktie
 LogitechAktie
+Logo Brussels Airlines
+LogoBrusselsAirlines
 Loi pass sanitaire
 Loin de chez moi
 Loindechezmoi
@@ -8571,7 +8607,10 @@ Lyon–SpartaPrague
 Lyon–Strasbourg
 Lyon–Troyes
 Lytton
+LÉA SALAMÉ
 LÖRRACH
+Léa Salamé
+LéaSalamé
 Lörrach
 M6
 MAARTEN KETELS
@@ -8850,9 +8889,11 @@ MEDAILLEN OLYMPIA 2021
 MEDAILLENSPIEGEL OLYMPIA
 MEDAILLENSPIEGEL OLYMPIA 2021
 MEDAILLES OLYMPISCHE SPELEN
+MEDIAMARKT BLACK FRIDAY
 MEDVEDEV
 MEGA
 MEGA ENERGIE
+MEGA TOBY
 MEGAN FOX
 MEGANFOX
 MEGHAN MARKLE
@@ -9003,6 +9044,7 @@ MOHORIC
 MOISE KEAN
 MOLDE
 MOLENBEEK
+MOLINA
 MOLLY CAMERON
 MOLNUPIRAVIR
 MONACO
@@ -9013,6 +9055,7 @@ MONACO – PSV EINDHOVEN
 MONACO – SAINT-ÉTIENNE
 MONACO – SPARTA PRAGUE
 MONACO – STURM GRAZ
+MONDFINSTERNIS
 MONDMASKERPLICHT
 MONFILS
 MONICA BELLUCCI
@@ -9511,9 +9554,13 @@ MedaillenspiegelOlympia
 MedaillenspiegelOlympia2021
 Medailles Olympische Spelen
 MedaillesOlympischeSpelen
+Mediamarkt Black Friday
+MediamarktBlackFriday
 Medvedev
 Mega
+Mega Toby
 Mega energie
+MegaToby
 Megaenergie
 Megan Fox
 MeganFox
@@ -9742,6 +9789,7 @@ Moise Kean
 MoiseKean
 Molde
 Molenbeek
+Molina
 Molly Cameron
 MollyCameron
 Molnupiravir
@@ -9763,6 +9811,7 @@ Monaco–PSVEindhoven
 Monaco–SpartaPrague
 Monaco–SturmGraz
 Monaco–saint-étienne
+Mondfinsternis
 Mondmaskerplicht
 Monfils
 Monica Bellucci
@@ -9924,6 +9973,7 @@ NEDERLANDTSJECHIë
 NEERAJ CHOPRA
 NELLY KORDA
 NENA
+NETFLIX ABO
 NETFLIX GAMES
 NETFLIX PRIX
 NETS  BUCKS
@@ -9952,6 +10002,7 @@ NICE – MONTPELLIER
 NICE-MARSEILLE
 NICE-MATIN
 NICK CANNON
+NICK NUYENS
 NICKCANNON
 NICKI MINAJ
 NICKY LARSON
@@ -10139,8 +10190,10 @@ NeerajChopra
 Nelly Korda
 NellyKorda
 Nena
+Netflix Abo
 Netflix Games
 Netflix Prix
+NetflixAbo
 NetflixGames
 NetflixPrix
 Nets  Bucks
@@ -10178,7 +10231,9 @@ Nice–Marseille
 Nice–Monaco
 Nice–Montpellier
 Nick Cannon
+Nick Nuyens
 NickCannon
+NickNuyens
 Nicki Minaj
 NickiMinaj
 Nicky Larson
@@ -10387,6 +10442,7 @@ ONS JABEUR
 ONSJABEUR
 ONWEER
 OOSTENDE  ANDERLECHT
+OOSTENRIJK LOCKDOWN
 OOSTKAMP
 OPEN BEDRIJVENDAG
 OPEN MONUMENTENDAG
@@ -10542,6 +10598,8 @@ OntheVerge
 Onweer
 Oostende  Anderlecht
 OostendeAnderlecht
+Oostenrijk lockdown
+Oostenrijklockdown
 Oostkamp
 Open Bedrijvendag
 Open Monumentendag
@@ -10838,6 +10896,7 @@ PMA
 PNEUMOTHORAX
 POGACAR
 POGBA
+POKEMON DIAMANT ETINCELANT
 POKEMON UNITE
 POLIZEIRUF 110
 POLIZEIRUF110
@@ -11318,7 +11377,9 @@ Plymouth
 Pneumothorax
 Pogacar
 Pogba
+Pokemon Diamant Etincelant
 Pokemon Unite
+PokemonDiamantEtincelant
 PokemonUnite
 Polizeiruf 110
 Polizeiruf110
@@ -11586,6 +11647,7 @@ REAL – MILAN
 REAL – OSASUNA
 REAL – RAYO
 REANNE EVANS
+REBECCA SERIE
 REBEL WILSON
 REBELWILSON
 RECTICEL
@@ -11882,6 +11944,8 @@ Real–Rayo
 Real–chakhtar
 Reanne Evans
 ReanneEvans
+Rebecca serie
+Rebeccaserie
 Rebel Wilson
 RebelWilson
 Recticel
@@ -12319,6 +12383,7 @@ SERVETTE FC
 SERVETTE GEGEN ZÜRICH
 SERVETTE JUVENTUS
 SEVDALIZA
+SEVEN SISTERS
 SEVILLA
 SHAKHTAR DONETSK
 SHAKIRA
@@ -12901,6 +12966,8 @@ ServetteFC
 ServetteJuventus
 ServettegegenZürich
 Sevdaliza
+Seven Sisters
+SevenSisters
 Sevilla
 Shakhtar Donetsk
 ShakhtarDonetsk
@@ -13432,6 +13499,7 @@ THECRY
 THEO
 THEO HERNANDEZ
 THEODOR WONJA MICHAEL
+THERMALBAD BADEN
 THERMO-CLEAN
 THETOMORROWWAR
 THEUX
@@ -13738,6 +13806,8 @@ TheoHernandez
 Theodor Wonja Michael
 TheodorWonjaMichael
 Thepost
+Thermalbad Baden
+ThermalbadBaden
 Thermo-Clean
 ThermoClean
 Theux
@@ -14219,6 +14289,7 @@ VALTTERI BOTTAS
 VALÉRIE PÉCRESSE
 VAN DER POEL
 VANCOUVER
+VANESSA HUDGENS
 VANESSA LAWRENS
 VANESSA PARADIS
 VAR FRANKRIJK
@@ -14352,8 +14423,10 @@ ValériePécresse
 Van der Poel
 Vancouver
 VanderPoel
+Vanessa Hudgens
 Vanessa Lawrens
 Vanessa Paradis
+VanessaHudgens
 VanessaLawrens
 VanessaParadis
 Var Frankrijk
@@ -14880,6 +14953,7 @@ YvesMontand
 YvesdeGaulle
 Z7
 ZAC EFRON
+ZAC STACY
 ZANDVOORT
 ZARA
 ZARA RUTHERFORD
@@ -14942,7 +15016,9 @@ ZWOLLE
 ZWÖLF STÄMME
 ZYPERN
 Zac Efron
+Zac Stacy
 ZacEfron
+ZacStacy
 Zandvoort
 Zara
 Zara Rutherford
@@ -15076,6 +15152,7 @@ adamdriver
 adamo
 addison rae
 adele
+adele, 30
 adi hütter
 admir mehmedi
 adnan abou walid al-sahraoui
@@ -15449,6 +15526,7 @@ audrey lamy
 aurelie pons
 austin butler
 australie france
+austria
 autoloze zondag 2021
 automne
 automne 2021
@@ -15567,6 +15645,7 @@ beate zschäpe
 beatles
 beatrice egli
 beaujolais nouveau
+beaujolais nouveau 2021
 beaumes-de-venise
 beauraing
 beauvais
@@ -16035,6 +16114,7 @@ chris dusauchoit
 chris evans
 chris paul
 chris pratt
+chris tall
 chris van den durpel
 chrispaul
 christian boltanski
@@ -16069,6 +16149,7 @@ ciroimmobile
 ciryl gane
 cirylgane
 cisgender
+civilisation orelsan
 claire bové
 claire chazal
 clairechazal
@@ -16625,6 +16706,7 @@ equipedefrance
 erdbeben kreta
 erdbeben schweiz
 erdbebenschweiz
+erdogan
 eredivisie
 erftstadt
 erftstadt-blessem
@@ -16987,6 +17069,7 @@ francoise hardy
 francoisehardy
 francoisfillon
 frank de boer
+frank michael
 frank sinatra
 frank vandenbroucke
 frankdeboer
@@ -17454,6 +17537,7 @@ isabelle adjani
 isabelle balkany
 isabelle funaro
 isabelle ithurburu
+isabelle jacobi
 isabelleadjani
 islamabad
 islande
@@ -17744,6 +17828,7 @@ julien doré
 julien odoul
 juliendore
 juliendoré
+julius jones
 julos beaucarne
 juneteenth
 jung ho-yeon
@@ -17928,6 +18013,7 @@ l'ami qui n'existe pas
 l'equipe
 l'equipe du soir
 l'equipedusoir
+l'hermine
 l'origine du monde
 l'un dans l'autre
 l'école buissonnière
@@ -17954,6 +18040,7 @@ la roche-en-ardenne
 la rochelle
 la rochelle toulon
 la rochelle toulouse
+la roue du temps
 la soupe aux choux
 laaksonen
 lachgas
@@ -18166,10 +18253,12 @@ locatelli
 locatelli manuel
 locatellimanuel
 lockdown nederland
+lockdown österreich
 locke and key
 logan mailloux
 logitech
 logitech-aktie
+logo brussels airlines
 loi pass sanitaire
 loin de chez moi
 lokerse feesten 2021
@@ -18283,6 +18372,7 @@ lyon – sparta prague
 lyon – strasbourg
 lyon – troyes
 lytton
+léa salamé
 lörrach
 m6
 maarten ketels
@@ -18560,9 +18650,11 @@ medaillen olympia 2021
 medaillenspiegel olympia
 medaillenspiegel olympia 2021
 medailles olympische spelen
+mediamarkt black friday
 medvedev
 mega
 mega energie
+mega toby
 megan fox
 meganfox
 meghan markle
@@ -18709,6 +18801,7 @@ mohoric
 moise kean
 molde
 molenbeek
+molina
 molly cameron
 molnupiravir
 monaco
@@ -18719,6 +18812,7 @@ monaco – psv eindhoven
 monaco – saint-étienne
 monaco – sparta prague
 monaco – sturm graz
+mondfinsternis
 mondmaskerplicht
 monfils
 monica bellucci
@@ -18841,6 +18935,7 @@ nederlandtsjechië
 neeraj chopra
 nelly korda
 nena
+netflix abo
 netflix games
 netflix prix
 nets  bucks
@@ -18869,6 +18964,7 @@ nice – montpellier
 nice-marseille
 nice-matin
 nick cannon
+nick nuyens
 nickcannon
 nicki minaj
 nicky larson
@@ -19019,6 +19115,7 @@ ons jabeur
 onsjabeur
 onweer
 oostende  anderlecht
+oostenrijk lockdown
 oostkamp
 open bedrijvendag
 open monumentendag
@@ -19289,6 +19386,7 @@ pma
 pneumothorax
 pogacar
 pogba
+pokemon diamant etincelant
 pokemon unite
 polizeiruf 110
 polizeiruf110
@@ -19477,6 +19575,7 @@ real – milan
 real – osasuna
 real – rayo
 reanne evans
+rebecca serie
 rebel wilson
 rebelwilson
 recticel
@@ -19827,6 +19926,7 @@ servette fc
 servette gegen zürich
 servette juventus
 sevdaliza
+seven sisters
 sevilla
 shakhtar donetsk
 shakira
@@ -20203,6 +20303,7 @@ thecry
 theo
 theo hernandez
 theodor wonja michael
+thermalbad baden
 thermo-clean
 thetomorrowwar
 theux
@@ -20484,6 +20585,7 @@ valtteri bottas
 valérie pécresse
 van der poel
 vancouver
+vanessa hudgens
 vanessa lawrens
 vanessa paradis
 var frankrijk
@@ -20724,6 +20826,7 @@ yves montand
 yvesmartin
 z7
 zac efron
+zac stacy
 zandvoort
 zara
 zara rutherford
