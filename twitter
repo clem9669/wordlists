@@ -5317,6 +5317,7 @@ CASTALDI
 CASTANER
 CASTEX
 CASTEX20H
+CASTEXPOSITIF
 CASTILLA
 CASTRES
 CASTRO
@@ -6328,6 +6329,7 @@ Castaldi
 Castaner
 Castex
 Castex20h
+CastexPositif
 Castilla
 Castres
 Castro
@@ -7894,6 +7896,7 @@ DUOSMYSTERES
 DUOSMYSTÈRES
 DUPAINDANSUNTITRE
 DUPLANTIS
+DUPONDMORETTI
 DUPONT
 DUPRAZ
 DURBUY
@@ -8654,6 +8657,7 @@ DuoImprobable
 DuosMysteres
 DuosMystères
 Duplantis
+DupondMoretti
 Dupont
 Dupraz
 Durbuy
@@ -10330,6 +10334,7 @@ FORZAMARCO
 FOUCHE
 FOURNIER
 FOUT
+FOUTAGEDEGUEULE
 FRAAFS
 FRAALL
 FRAARG
@@ -11488,6 +11493,7 @@ GESPRACH
 GESPRACHE
 GESPRÄCH
 GESTAPO
+GESTESBARRIERES
 GESTION DU COVID-19
 GESTIONDUCOVID-19
 GESTIONDUCOVID19
@@ -11773,6 +11779,8 @@ GRAB
 GRADIT
 GRAFIK
 GRAG
+GRAMMYS
+GRAMMYs
 GRAN TURISMO
 GRAN TURISMO 7
 GRANADA
@@ -14758,6 +14766,7 @@ JESSICA FOX
 JESSICAFOX
 JESUISTOUTNU
 JESUISUNCOMPTEDEMARCELSEL
+JESUISUNEFAILLE
 JESUS
 JESUS LORD
 JESUSLORD
@@ -15124,6 +15133,7 @@ JUPPE
 JURA
 JURASSIC PARK
 JURASSICPARK
+JURASSICWORLDDOMINION
 JURE
 JURGEN CONINGS
 JURGENCONINGS
@@ -15822,6 +15832,7 @@ Juppé
 Jura
 Jurassic Park
 JurassicPark
+JurassicWorldDominion
 Jure
 Jurgen Conings
 JurgenConings
@@ -18090,6 +18101,7 @@ LOSCMHSC
 LOSCOGCN
 LOSCOM
 LOSCPSG
+LOSCSAL
 LOSCSB29
 LOSCSCO
 LOSCSDR
@@ -27245,6 +27257,7 @@ SECRETPROFESSIONNEL
 SECRETSDHISTOIRE
 SECU
 SEDD2021
+SEDI2021
 SEDUCTIVE SUNDAY
 SEDUCTIVESUNDAY
 SEELE
@@ -30283,6 +30296,7 @@ TOUSANTICOVID
 TOUSART
 TOUSENCUISINE
 TOUSENFINALE
+TOUSPOURZEMMOUR
 TOUSSAINT
 TOUSSAINT2021
 TOUSSURLEPONT
@@ -31077,6 +31091,7 @@ Tours
 TousAntiCovid
 TousEnCuisine
 TousEnFinale
+TousPourZemmour
 TousSurLePont
 TousVaccines
 TousVaccinés
@@ -36781,6 +36796,7 @@ castaldi
 castaner
 castex
 castex20h
+castexpositif
 castilla
 castres
 castro
@@ -38424,6 +38440,7 @@ duosmysteres
 duosmystères
 dupaindansuntitre
 duplantis
+dupondmoretti
 dupont
 dupraz
 durbuy
@@ -39534,6 +39551,7 @@ fouche
 fouché
 fournier
 fout
+foutagedegueule
 fraafs
 fraall
 fraarg
@@ -40116,6 +40134,7 @@ gesprach
 gesprache
 gespräch
 gestapo
+gestesbarrieres
 gestion du covid-19
 gestion du covid19
 gestionducovid-19
@@ -40390,6 +40409,7 @@ grab
 gradit
 grafik
 grag
+grammys
 gran turismo
 gran turismo 7
 granada
@@ -41920,6 +41940,7 @@ jessica fox
 jessicafox
 jesuistoutnu
 jesuisuncomptedemarcelsel
+jesuisunefaille
 jesus
 jesus lord
 jesuslord
@@ -42282,6 +42303,7 @@ juppé
 jura
 jurassic park
 jurassicpark
+jurassicworlddominion
 jure
 jurgen conings
 jurgenconings
@@ -43967,6 +43989,7 @@ loscmhsc
 loscogcn
 loscom
 loscpsg
+loscsal
 loscsb29
 loscsco
 loscsdr
@@ -48602,6 +48625,7 @@ secretprofessionnel
 secretsdhistoire
 secu
 sedd2021
+sedi2021
 seductive sunday
 seductivesunday
 seele
@@ -50376,6 +50400,7 @@ tousanticovid
 tousart
 tousencuisine
 tousenfinale
+touspourzemmour
 toussaint
 toussaint2021
 toussurlepont
