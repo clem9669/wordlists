@@ -74,6 +74,7 @@ The main part of the list come from various places of internet but many thanks t
 * [decal/werdlists](https://github.com/decal/werdlists)
 * [wordlists.dev](https://www.wordlists.dev/)
 * [sous-titres.eu](https://www.sous-titres.eu/)
+* [weakpass.com](https://weakpass.com/)
 * And more github wordlists ...
 
 The keyboard walks are generated with [kwprocessor](https://github.com/hashcat/kwprocessor).
