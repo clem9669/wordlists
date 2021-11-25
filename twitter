@@ -381,6 +381,8 @@
 5,8 gw
 5000M
 5000m
+500EUROS
+500euros
 50CL
 50KM
 50cl
@@ -1083,6 +1085,7 @@ AMIS
 AMIXEM
 AMNESIE
 AMONG US
+AMONGLEGENDS
 AMONGUS
 AMOURA
 AMOURANTH
@@ -2229,6 +2232,7 @@ Amis
 Amixem
 Amnésie
 Among Us
+AmongLegends
 AmongUs
 Amoura
 Amouranth
@@ -2786,6 +2790,7 @@ B25
 B2808
 BAAL
 BABA
+BABEL
 BABETTE
 BABOLEX
 BABY KEEM
@@ -4047,6 +4052,7 @@ BYBITiPhone12Pro
 BYGMALION
 Baal
 Baba
+Babel
 Babette
 Babolex
 Baby Keem
@@ -6897,6 +6903,7 @@ Confirmed
 Confédération
 Confédérations
 Conférence
+Conférence League
 Congo
 Congo Hold-up
 Congo Holdup
@@ -20788,6 +20795,7 @@ MOUAIS
 MOUKOKO
 MOUKOUDI
 MOULIN
+MOULINEX
 MOULOUD ACHOUR
 MOULOUDACHOUR
 MOUNDIR
@@ -22005,6 +22013,7 @@ Mouais
 Moukoko
 Moukoudi
 Moulin
+Moulinex
 Mouloud Achour
 MouloudAchour
 Moundir
@@ -25807,6 +25816,7 @@ RAISITERRORIST
 RAISSA
 RAKAN
 RALENTISUNTITRE
+RALF
 RALF RANGNICK
 RAMA YADE
 RAMAN
@@ -26379,6 +26389,7 @@ RSAvNZL
 RSCA
 RSCL
 RTBF
+RTSINFRAROUGE
 RTXON
 RTXOn
 RUBEN
@@ -26508,6 +26519,7 @@ Raisi
 RaisiTerrorist
 Rakan
 RalentisUnTitre
+Ralf
 Ralf Rangnick
 Rama Yade
 RamaYade
@@ -34951,6 +34963,7 @@ amis
 amixem
 amnésie
 among us
+amonglegends
 amongus
 amoura
 amouranth
@@ -35630,6 +35643,7 @@ b2808
 bPost
 baal
 baba
+babel
 babette
 babolex
 baby keem
@@ -37657,6 +37671,7 @@ confirmed
 confédération
 confédérations
 conférence
+conférence league
 congo
 congo hold-up
 congoholdup
@@ -45769,6 +45784,7 @@ mouais
 moukoko
 moukoudi
 moulin
+moulinex
 mouloud achour
 mouloudachour
 moundir
@@ -47916,6 +47932,7 @@ raisi
 raisiterrorist
 rakan
 ralentisuntitre
+ralf
 ralf rangnick
 rama yade
 raman
@@ -48468,6 +48485,7 @@ rsavnzl
 rsca
 rscl
 rtbf
+rtsinfrarouge
 rtxon
 ruben
 ruben dias
