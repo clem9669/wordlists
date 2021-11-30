@@ -7712,6 +7712,7 @@ DERNIER CONCERT
 DERNIER DC
 DERNIER DECK
 DERNIER FF
+DERNIER JEU DB
 DERNIER TELEPHONE
 DERNIER ZELDA
 DERNIERE BD
@@ -8557,7 +8558,9 @@ Derby
 DerbyDuNord
 Dernier Concert
 Dernier DC
+Dernier Deck
 Dernier FF
+Dernier Jeu DB
 Dernier Téléphone
 Dernier Zelda
 Derniere BD
@@ -15176,6 +15179,7 @@ JETSETRADIO
 JETTE
 JETTEUNTITREALAPOUBELLE
 JETZTJASTIMMEN
+JEU POKEMON
 JEUDI 18
 JEUDI 7
 JEUDICONFESSION
@@ -15359,6 +15363,7 @@ JOSE
 JOSE ALDO
 JOSE LUIS CHILAVERT
 JOSEALDO
+JOSEF
 JOSELUISCHILAVERT
 JOSEPH
 JOSEPHINE BAKER
@@ -15943,6 +15948,7 @@ JetteUnTitreALaPoubelle
 JetztJAStimmen
 JetztJAstimmen
 JetztJaStimmen
+Jeu Pokémon
 JeuOL
 Jeudi 18
 Jeudi 7
@@ -16078,6 +16084,7 @@ Jose Aldo
 Jose Luis Chilavert
 JoseAldo
 JoseLuisChilavert
+Josef
 Joseph
 Josephine Baker
 JosephineBaker
@@ -20571,6 +20578,7 @@ MEILLEUR DECK
 MEILLEUR FF
 MEILLEUR FIFA
 MEILLEUR FRAGGER
+MEILLEUR JEU DB
 MEILLEUR TELEPHONE
 MEILLEUR VERT
 MEILLEUR ZELDA
@@ -21880,6 +21888,7 @@ Meilleur Deck
 Meilleur FF
 Meilleur FIFA
 Meilleur Fragger
+Meilleur Jeu DB
 Meilleur Téléphone
 Meilleur Vert
 Meilleur Zelda
@@ -24831,6 +24840,7 @@ PIRE BD
 PIRE CONCERT
 PIRE DECK
 PIRE FF
+PIRE JEU DB
 PIRE SEANCE
 PIRE VF
 PIRE ZELDA
@@ -25052,9 +25062,11 @@ PREISE
 PREMIER CONCERT
 PREMIER DC
 PREMIER DE CROO
+PREMIER DECK
 PREMIER FF
 PREMIER FIFA
 PREMIER LEAGUE
+PREMIER LR
 PREMIER TELEPHONE
 PREMIER ZELDA
 PREMIERDECROO
@@ -25769,6 +25781,7 @@ Pire BD
 Pire Concert
 Pire Deck
 Pire FF
+Pire Jeu DB
 Pire Séance
 Pire VF
 Pire Zelda
@@ -25948,8 +25961,10 @@ Preise
 Premier Concert
 Premier DC
 Premier De Croo
+Premier Deck
 Premier FF
 Premier FIFA
+Premier LR
 Premier League
 Premier Téléphone
 Premier Zelda
@@ -39070,6 +39085,7 @@ dernier concert
 dernier dc
 dernier deck
 dernier ff
+dernier jeu db
 dernier téléphone
 dernier zelda
 derniere bd
@@ -43065,6 +43081,7 @@ jetsetradio
 jette
 jetteuntitrealapoubelle
 jetztjastimmen
+jeu pokémon
 jeudi 18
 jeudi 7
 jeudiconfession
@@ -43240,6 +43257,7 @@ jose
 jose aldo
 jose luis chilavert
 josealdo
+josef
 joseluischilavert
 joseph
 josephine baker
@@ -46037,6 +46055,7 @@ meilleur deck
 meilleur ff
 meilleur fifa
 meilleur fragger
+meilleur jeu db
 meilleur téléphone
 meilleur vert
 meilleur zelda
@@ -48266,6 +48285,7 @@ pire bd
 pire concert
 pire deck
 pire ff
+pire jeu db
 pire séance
 pire vf
 pire zelda
@@ -48481,9 +48501,11 @@ preise
 premier concert
 premier dc
 premier de croo
+premier deck
 premier ff
 premier fifa
 premier league
+premier lr
 premier téléphone
 premier zelda
 premierdecroo
