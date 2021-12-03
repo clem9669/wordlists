@@ -293,6 +293,7 @@ AIRPODS (PRO
 AJAX
 AJAX  GRONINGEN
 AJAX  LEEDS
+AJAX  WILLEM II
 AJLA DEL PONTE
 AKAMAI
 AKHENATON
@@ -822,8 +823,10 @@ Airbus
 Ajax
 Ajax  Groningen
 Ajax  Leeds
+Ajax  Willem II
 AjaxGroningen
 AjaxLeeds
+AjaxWillemII
 Ajla Del Ponte
 AjlaDelPonte
 Akamai
@@ -7096,6 +7099,7 @@ JEAN-PAUL ROUVE
 JEAN-PAULHUCHON
 JEAN-PIERRE ADAMS
 JEAN-PIERRE PERNAUT
+JEAN-VINCENT PLACÉ
 JEAN-YVES LAMBERT
 JEAN-YVES LE DRIAN
 JEANNIE LONGO
@@ -7431,6 +7435,8 @@ Jean-Pierre Adams
 Jean-Pierre Pernaut
 Jean-PierreAdams
 Jean-PierrePernaut
+Jean-Vincent Placé
+Jean-VincentPlacé
 Jean-Yves Lambert
 Jean-Yves Le Drian
 Jean-YvesLambert
@@ -7457,6 +7463,7 @@ JeanPaulHuchon
 JeanPierre Adams
 JeanPierre Pernaut
 JeanQuiquampoix
+JeanVincent Placé
 JeanYves Lambert
 JeanYves Le Drian
 JeanfrancoisStevenin
@@ -8221,6 +8228,7 @@ LA ROCHELLE TOULON
 LA ROCHELLE TOULOUSE
 LA ROUE DU TEMPS
 LA SOUPE AUX CHOUX
+LA-LIGA
 LAAKSONEN
 LACHGAS
 LACHLAN MORTON
@@ -8609,6 +8617,7 @@ La maison au bout de la rue
 La provence
 La reserve Knokke
 La soupe aux choux
+La-Liga
 LaBaule
 LaFolleHistoiredeMaxetLéon
 LaFracture
@@ -9280,6 +9289,7 @@ MANBUN
 MANCHESTER CITY
 MANCHESTER CITY - CLUB BRUGGE
 MANCHESTER UNITED
+MANCHESTER UNITED – ARSENAL
 MANCHESTER UNITED – ASTON VILLA
 MANCHESTER UNITED – EVERTON
 MANCHESTER UNITED – LEEDS UNITED
@@ -9299,6 +9309,7 @@ MANUEL NEUER
 MANUELA FREY
 MANUELA SCHÄR
 MANUELNEUER
+MANUNITED GEGEN ARSENAL
 MANUNITED GEGEN EVERTON
 MANUNITED GEGEN LIVERPOOL
 MANUNITED GEGEN MAN CITY
@@ -9652,6 +9663,7 @@ MIMIE MATHY
 MIMIMARCHAND
 MIMMO LUCANO
 MINCE ALORS
+MIOU-MIOU
 MIREILLE DUMAS
 MIREILLE KNOLL
 MIREILLE MATHIEU
@@ -9840,6 +9852,7 @@ Manchester City
 Manchester City  Club Brugge
 Manchester City - Club Brugge
 Manchester United
+Manchester United – Arsenal
 Manchester United – Aston Villa
 Manchester United – Everton
 Manchester United – Leeds United
@@ -9849,6 +9862,7 @@ Manchester United – West Ham
 ManchesterCity
 ManchesterCity-ClubBrugge
 ManchesterUnited
+ManchesterUnited–Arsenal
 ManchesterUnited–AstonVilla
 ManchesterUnited–Everton
 ManchesterUnited–LeedsUnited
@@ -9877,9 +9891,11 @@ Manuela Frey
 Manuela Schär
 ManuelaFrey
 ManuelaSchär
+Manunited gegen Arsenal
 Manunited gegen Everton
 Manunited gegen Liverpool
 Manunited gegen Man City
+ManunitedgegenArsenal
 ManunitedgegenEverton
 ManunitedgegenLiverpool
 ManunitedgegenManCity
@@ -10445,6 +10461,8 @@ Mimmo Lucano
 MimmoLucano
 Mince alors
 Mincealors
+Miou-Miou
+MiouMiou
 Mireille Dumas
 Mireille Knoll
 Mireille Mathieu
@@ -10741,7 +10759,9 @@ NIMES
 NINA BETSCHART
 NINA CHRISTEN
 NINA DERWAEL
+NINA HAGEN
 NINA STERCKX
+NINHO
 NINO CASTELNUOVO
 NINTENDO DIRECT
 NINTENDO SWITCH
@@ -11005,11 +11025,14 @@ Nimes
 Nina Betschart
 Nina Christen
 Nina Derwael
+Nina Hagen
 Nina Sterckx
 NinaBetschart
 NinaChristen
 NinaDerwael
+NinaHagen
 NinaSterckx
+Ninho
 Nino Castelnuovo
 NinoCastelnuovo
 Nintendo Direct
@@ -12340,6 +12363,7 @@ QUEFAIRE
 QUILLAN
 QUINTANA
 QUINTEN HERMANS
+QVAX
 QVAX INSCHRIJVEN
 QVAX RESERVELIJST
 QVAX reservelijst
@@ -12397,6 +12421,7 @@ RAF CAMORA
 RAF Camora
 RAFAEL NADAL
 RAFAELNADAL
+RAFALE
 RAFCamora
 RAFFAELLA CARRA
 RAFFAELLA CARRa
@@ -12462,6 +12487,7 @@ REAL – OSASUNA
 REAL – RAYO
 REAL – SÉVILLE
 REANNE EVANS
+REBECCA REUSCH
 REBECCA SERIE
 REBEL WILSON
 REBELWILSON
@@ -12689,6 +12715,7 @@ RadjaNainggolan
 Raducanu
 Rafael Nadal
 RafaelNadal
+Rafale
 Raffaella Carra
 Raffaella Carrà
 Raffaella carra
@@ -12782,7 +12809,9 @@ Real–Séville
 Real–chakhtar
 Reanne Evans
 ReanneEvans
+Rebecca Reusch
 Rebecca serie
+RebeccaReusch
 Rebeccaserie
 Rebel Wilson
 RebelWilson
@@ -13167,6 +13196,7 @@ SCHAUSPIELER FRITZ WEPPER
 SCHLAG DEN STAR
 SCHLEITHEIM
 SCHLUSSGANG
+SCHOLEN SLUITEN
 SCHULD BEI ADENAU
 SCHUPPENTIER
 SCHWARZER PILZ
@@ -13750,6 +13780,8 @@ Schlag den Star
 SchlagdenStar
 Schleitheim
 Schlussgang
+Scholen sluiten
+Scholensluiten
 Schuld bei Adenau
 SchuldbeiAdenau
 Schuppentier
@@ -14371,6 +14403,7 @@ TED LASSO
 TEDDY RINER
 TEHEIURA
 TEICHMANN
+TELETHON 2021
 TELEVIE
 TEMPETE
 TEMPS DE CHIEN
@@ -14516,6 +14549,7 @@ TORISPELLING
 TORNADO TSCHECHIEN
 TORNADOTSCHECHIEN
 TOTTENHAM
+TOTTENHAM – BRENTFORD
 TOTTENHAM – MAN CITY
 TOTTENHAM – MANCHESTER UNITED
 TOULOUSE LA ROCHELLE
@@ -14663,6 +14697,8 @@ Teddy Riner
 TeddyRiner
 Teheiura
 Teichmann
+Telethon 2021
+Telethon2021
 Televie
 Tempete
 Temps de chien
@@ -14892,8 +14928,10 @@ Torino–Juventus
 Tornado Tschechien
 TornadoTschechien
 Tottenham
+Tottenham – Brentford
 Tottenham – Man City
 Tottenham – Manchester United
+Tottenham–Brentford
 Tottenham–ManCity
 Tottenham–ManchesterUnited
 Toulouse La Rochelle
@@ -16228,6 +16266,7 @@ airpods (pro
 ajax
 ajax  groningen
 ajax  leeds
+ajax  willem ii
 ajla del ponte
 akamai
 akhenaton
@@ -18876,6 +18915,7 @@ jean-paul rouve
 jean-paulhuchon
 jean-pierre adams
 jean-pierre pernaut
+jean-vincent placé
 jean-yves lambert
 jean-yves le drian
 jeannie longo
@@ -19246,6 +19286,7 @@ la rochelle toulon
 la rochelle toulouse
 la roue du temps
 la soupe aux choux
+la-liga
 laaksonen
 lachgas
 lachlan morton
@@ -19677,6 +19718,7 @@ manbun
 manchester city
 manchester city - club brugge
 manchester united
+manchester united – arsenal
 manchester united – aston villa
 manchester united – everton
 manchester united – leeds united
@@ -19696,6 +19738,7 @@ manuel neuer
 manuela frey
 manuela schär
 manuelneuer
+manunited gegen arsenal
 manunited gegen everton
 manunited gegen liverpool
 manunited gegen man city
@@ -20043,6 +20086,7 @@ mimie mathy
 mimimarchand
 mimmo lucano
 mince alors
+miou-miou
 mireille dumas
 mireille knoll
 mireille mathieu
@@ -20272,7 +20316,9 @@ nimes
 nina betschart
 nina christen
 nina derwael
+nina hagen
 nina sterckx
+ninho
 nino castelnuovo
 nintendo direct
 nintendo switch
@@ -20815,6 +20861,7 @@ queenelizabeth
 quillan
 quintana
 quinten hermans
+qvax
 qvax inschrijven
 qvax reservelijst
 r. kelly
@@ -20832,6 +20879,7 @@ raducanu
 raf camora
 rafael nadal
 rafaelnadal
+rafale
 raffaella carra
 raffaella carrà
 raffaellacarra
@@ -20886,6 +20934,7 @@ real – osasuna
 real – rayo
 real – séville
 reanne evans
+rebecca reusch
 rebecca serie
 rebel wilson
 rebelwilson
@@ -21182,6 +21231,7 @@ schauspieler fritz wepper
 schlag den star
 schleitheim
 schlussgang
+scholen sluiten
 schuld bei adenau
 schuppentier
 schwarzer pilz
@@ -21600,6 +21650,7 @@ ted lasso
 teddy riner
 teheiura
 teichmann
+telethon 2021
 televie
 tempete
 temps de chien
@@ -21742,6 +21793,7 @@ torispelling
 tornado tschechien
 tornadotschechien
 tottenham
+tottenham – brentford
 tottenham – man city
 tottenham – manchester united
 toulouse la rochelle
