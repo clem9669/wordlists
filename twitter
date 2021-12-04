@@ -16732,6 +16732,7 @@ KANTONBERN
 KANTONE
 KANTONEN
 KANTONSHAUPTSTADTE
+KANTONSREGIERUNGEN
 KANTONZURICH
 KANY
 KANYE
@@ -17310,6 +17311,7 @@ KantonZurich
 Kantone
 Kantonen
 Kantonshauptstadte
+Kantonsregierungen
 Kanté
 Kany
 Kanye
@@ -19057,6 +19059,7 @@ LUC FERRY
 LUC SELS
 LUC TARDIF
 LUCA
+LUCA BRECEL
 LUCABALO
 LUCARBOGAST
 LUCAS
@@ -20194,6 +20197,7 @@ LucFerry
 LucSels
 LucTardif
 Luca
+Luca Brecel
 Lucas
 Lucas Hernandez
 Lucas Mazur
@@ -25095,6 +25099,8 @@ PBLV
 PCAS
 PCAs
 PCMAEMEA
+PCR TEST
+PCR Test
 PCR-TEST
 PCR-Test
 PCR-test
@@ -32856,6 +32862,8 @@ UHaft
 UICN
 UITERAARD
 UK
+UK CHAMPIONSHIP
+UK Championship
 UKRAINE
 UKRAINIEN
 UKRAINIENS
@@ -34458,6 +34466,7 @@ WOLFGANG
 WOLFSBURG
 WOLKEN
 WOLLANTS
+WOLLIV
 WOLMUN
 WOLVERHAMPTON
 WOLVERINE
@@ -44505,6 +44514,7 @@ kantonbern
 kantone
 kantonen
 kantonshauptstadte
+kantonsregierungen
 kantonzurich
 kanté
 kany
@@ -46220,6 +46230,7 @@ luc ferry
 luc sels
 luc tardif
 luca
+luca brecel
 lucabalo
 lucarbogast
 lucas
@@ -49052,6 +49063,7 @@ payzen
 pblv
 pcas
 pcmaemea
+pcr test
 pcr-test
 pcrtest
 pcsurvivornight
@@ -53114,6 +53126,7 @@ uhren
 uicn
 uiteraard
 uk
+uk championship
 ukraine
 ukrainien
 ukrainiens
@@ -54102,6 +54115,7 @@ wolfgang
 wolfsburg
 wolken
 wollants
+wolliv
 wolmun
 wolverhampton
 wolverine
