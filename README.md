@@ -51,6 +51,9 @@ Because It might be simpler for you, I already compiled 3 differents versions of
 
 All details are there about wordlists combinaison.
 
+*Update*: The clem9669_wordlist_large is too big for Github Actions. 
+The current specs for Github Actions VM is 2-core CPU; 7 GB of RAM memory; 14 GB of SSD disk space.
+
 ### Web discovery
 
 In the folder **WEB**, you can found a wordlist for pentesting purpose wich is design to find ressources for french people too. 
@@ -74,7 +77,6 @@ The main part of the list come from various places of internet but many thanks t
 * [decal/werdlists](https://github.com/decal/werdlists)
 * [wordlists.dev](https://www.wordlists.dev/)
 * [sous-titres.eu](https://www.sous-titres.eu/)
-* [weakpass.com](https://weakpass.com/)
 * And more github wordlists ...
 
 The keyboard walks are generated with [kwprocessor](https://github.com/hashcat/kwprocessor).
@@ -103,10 +105,10 @@ This repo and the [rulelists](https://github.com/clem9669/hashcat-rule/) associa
 ## Recommanded read
 
 The following projects could interest you:
-  - [github.com/mxrch/penglab](https://github.com/mxrch/penglab): Abuse of Google Colab for Cracking
-  - [github.com/hashcat/hashcat](https://github.com/hashcat/hashcat): Hashcat
-  - [github.com/openwall/john](https://github.com/openwall/john): John (jtr)
-  - [github.com/nil0x42/duplicut](https://github.com/nil0x42/duplicut): Remove duplicates in huge lists
+  - [mxrch/penglab](https://github.com/mxrch/penglab): Abuse of Google Colab for Cracking
+  - [hashcat/hashcat](https://github.com/hashcat/hashcat): Hashcat
+  - [openwall/john](https://github.com/openwall/john): John (jtr)
+  - [nil0x42/duplicut](https://github.com/nil0x42/duplicut): Remove duplicates in huge lists
   - [scip.ch/en/?labs.20210415](https://www.scip.ch/en/?labs.20210415): Analysis of Passwords (blog)
   - [crackstation.net/crackstation-wordlist-password-cracking-dictionary](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm): CrackStation's wordlist
   - [hackingarticles.in/wordlists-for-pentester](https://www.hackingarticles.in/wordlists-for-pentester/): Wordlist guide
