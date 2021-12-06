@@ -1726,6 +1726,7 @@ BOOSTER-IMPFUNG SCHWEIZ
 BORDEAUX
 BORDEAUX – ANGERS
 BORDEAUX – CLERMONT
+BORDEAUX – LYON
 BORDEAUX – NANTES
 BORDEAUX – PARIS-SG
 BORDEAUX – REIMS
@@ -2312,6 +2313,7 @@ BoosterImpfung Schweiz
 Bordeaux
 Bordeaux – Angers
 Bordeaux – Clermont
+Bordeaux – Lyon
 Bordeaux – Nantes
 Bordeaux – Reims
 Bordeaux – Rennes
@@ -2319,6 +2321,7 @@ Bordeaux – paris-sg
 Bordeaux – parissg
 Bordeaux–Angers
 Bordeaux–Clermont
+Bordeaux–Lyon
 Bordeaux–Nantes
 Bordeaux–Reims
 Bordeaux–Rennes
@@ -2649,6 +2652,7 @@ CHARLEROI SC – ANDERLECHT
 CHARLES DE KETELAERE
 CHARLES INGRAM
 CHARLES K. KAO
+CHARLES LECLERC
 CHARLES-ANTOINE KOUAKOU
 CHARLESINGRAM
 CHARLIE MCDOWELL
@@ -2761,6 +2765,7 @@ CLAUDE FRANÇOIS
 CLAUDE LELOUCH
 CLAUDE LOMBARD
 CLAUDE MALHURET
+CLAUDE PUEL
 CLAUDIA NORBERG
 CLAUDIA OBERT
 CLAYE-SOUILLY
@@ -2832,7 +2837,9 @@ CONOR MCGREGOR
 CONORMCGREGOR
 CONSEIL CONSTITUTIONNEL
 CONSEIL D'ETAT FRIBOURG
+CONSEIL DE DEFENSE
 CONSEIL DE DÉFENSE
+CONSEIL DE DÉFENSE SANITAIRE
 CONSEIL DE L'EUROPE
 CONSEIL FÉDÉRAL COVID
 CONTROLE TECHNIQUE MOTO
@@ -2853,6 +2860,7 @@ CORONA MASSNAHMEN SCHWEIZ
 CORONA NEDERLAND
 CORONA NEWS SCHWEIZ
 CORONA ÖSTERREICH
+CORONA-MASSNAHMEN
 CORONA-MASSNAHMEN SCHWEIZ
 CORONAKAART EUROPA
 CORONAKAARTEUROPA
@@ -3178,12 +3186,14 @@ CharleroiSC–Anderlecht
 Charles De Ketelaere
 Charles Ingram
 Charles K. Kao
+Charles Leclerc
 Charles-Antoine Kouakou
 Charles-AntoineKouakou
 CharlesAntoine Kouakou
 CharlesDeKetelaere
 CharlesIngram
 CharlesK.Kao
+CharlesLeclerc
 Charlie McDowell
 Charlie Watts
 Charlie Watts overleden
@@ -3357,11 +3367,13 @@ Claude François
 Claude Lelouch
 Claude Lombard
 Claude Malhuret
+Claude Puel
 ClaudeCahun
 ClaudeFrançois
 ClaudeLelouch
 ClaudeLombard
 ClaudeMalhuret
+ClaudePuel
 Claudia Norberg
 Claudia Obert
 ClaudiaNorberg
@@ -3472,12 +3484,16 @@ Conor McGregor
 ConorMcGregor
 Conseil constitutionnel
 Conseil d'Etat fribourg
+Conseil de defense
 Conseil de défense
+Conseil de défense sanitaire
 Conseil de l'Europe
 Conseil fédéral Covid
 Conseilconstitutionnel
 Conseild'Etatfribourg
+Conseildedefense
 Conseildedéfense
+Conseildedéfensesanitaire
 Conseildel'Europe
 ConseilfédéralCovid
 Controle technique moto
@@ -3504,9 +3520,11 @@ Corona maatregelen
 Corona massnahmen schweiz
 Corona news Schweiz
 Corona Österreich
+Corona-Massnahmen
 Corona-Massnahmen Schweiz
 Corona-MassnahmenSchweiz
 CoronaImpfungNebenwirkungen
+CoronaMassnahmen
 CoronaMassnahmen Schweiz
 CoronaMassnahmenschweiz
 CoronaNederland
@@ -3732,6 +3750,7 @@ DAZN
 DDL ZAN
 DE GAULLE
 DE GEA
+DE LIJN
 DE PANNE
 DE SLAG OM DE SCHELDE
 DE SLIMSTE MENS
@@ -3804,6 +3823,7 @@ DIDIER NOTHEAUX
 DIDIER RAOULT
 DIDIERBOURDON
 DIDIERDESCHAMPS
+DIE GESCHICHTE DER PIZZA
 DIE LINKE
 DIE ZEIT
 DIEGO MARADONA
@@ -4022,6 +4042,7 @@ Ddl Zan
 DdlZan
 De Gaulle
 De Gea
+De Lijn
 De Panne
 De Slag om de Schelde
 De Slimste Mens
@@ -4032,6 +4053,7 @@ De slimste mens
 De telegraaf
 DeGaulle
 DeGea
+DeLijn
 DePanne
 DeSlagomdeSchelde
 DeSlimsteMens
@@ -4134,8 +4156,10 @@ DidierNotheaux
 DidierRaoult
 Die Linke
 Die Zeit
+Die geschichte der Pizza
 DieLinke
 DieZeit
+DiegeschichtederPizza
 Diego Maradona
 Diego Rossi
 DiegoMaradona
@@ -5110,6 +5134,7 @@ FENERBAHCE
 FENTANYL
 FERENCVAROS
 FERLAND MENDY
+FERNANDO ALONSO
 FERNANDO RAPALLINI
 FERNANDO SANTOS
 FERNANDORAPALLINI
@@ -5136,6 +5161,9 @@ FEU D'ARTIFICE RENNES
 FEUERWERK 1. AUGUST
 FEUX DE FORÊT DANS LE VAR
 FEYENOORD
+FFP2-MASKEN
+FFP2-Masken
+FFP2Masken
 FIETSEN DOOR DE HEIDE
 FIETSENDOORDEHEIDE
 FIFA
@@ -5421,8 +5449,10 @@ Fentanyl
 Ferencvaros
 Ferland Mendy
 FerlandMendy
+Fernando Alonso
 Fernando Rapallini
 Fernando Santos
+FernandoAlonso
 FernandoRapallini
 FernandoSantos
 Ferrari Roma
@@ -5964,6 +5994,7 @@ GREOLIERES
 GRETA THUNBERG
 GREUTHER FÜRTH GEGEN BAYERN
 GREUTHER FÜRTH – BAYERN
+GREVE
 GREVE 24 SEPTEMBRE 2021
 GREVE SNCF
 GREVESNCF
@@ -6264,6 +6295,7 @@ Greuther Fürth gegen Bayern
 Greuther Fürth – Bayern
 GreutherFürthgegenBayern
 GreutherFürth–Bayern
+Greve
 Greve 24 septembre 2021
 Greve SNCF
 Greve24septembre2021
@@ -7245,6 +7277,7 @@ JOHN BERCOW
 JOHN LENNON
 JOHN MCAFEE
 JOHN MEADOWS
+JOHN MILES
 JOHNBERCOW
 JOHNMCAFEE
 JOHNNY DEPP
@@ -7310,6 +7343,7 @@ JULIEN ODOUL
 JULIENDORE
 JULIENDORe
 JULIENDORé
+JULIETTE ARMANET
 JULIUS JONES
 JULOS BEAUCARNE
 JUNETEENTH
@@ -7661,10 +7695,12 @@ John Bercow
 John Lennon
 John McAfee
 John Meadows
+John Miles
 JohnBercow
 JohnLennon
 JohnMcAfee
 JohnMeadows
+JohnMiles
 Johnny Depp
 Johnny Hallyday
 Johnny Hallyday Laeticia Hallyday
@@ -7764,6 +7800,8 @@ JulienClerc
 JulienDore
 JulienDoré
 JulienOdoul
+Juliette Armanet
+JulietteArmanet
 Julius Jones
 JuliusJones
 Julos Beaucarne
@@ -7862,6 +7900,7 @@ KARIN KELLER-SUTTER
 KARIN VIARD
 KARINE FERRI
 KARINE LE MARCHAND
+KARL LAUTERBACH
 KARSTEN WARHOLM
 KAS EUPEN
 KAS Eupen
@@ -8045,6 +8084,8 @@ Karine Ferri
 Karine Le Marchand
 KarineFerri
 KarineLeMarchand
+Karl Lauterbach
+KarlLauterbach
 Karsten Warholm
 KarstenWarholm
 Kaseya
@@ -8275,6 +8316,7 @@ LA LIGA
 LA LUTTE DES CLASSES
 LA MAISON AU BOUT DE LA RUE
 LA MORT AUX TROUSSES
+LA MULE
 LA MÉTHODE WILLIAMS
 LA PALMA
 LA PALMA VULKAN
@@ -8330,6 +8372,7 @@ LAURA MULLER
 LAURA MuLLER
 LAURAMULLER
 LAURAMuLLER
+LAURE CALAMY
 LAUREL HUBBARD
 LAURELHUBBARD
 LAUREN SANCHEZ
@@ -8546,6 +8589,7 @@ LONDON MARATHON 2021
 LORE BRUGGEMAN
 LORIENT – LILLE
 LORIENT – MONACO
+LORIENT – NANTES
 LORIENT – RENNES
 LOSC
 LOST ARK
@@ -8663,6 +8707,7 @@ La Fracture
 La Fugueuse
 La Liga
 La Mort aux trousses
+La Mule
 La Méthode Williams
 La Palma
 La Palma Vulkan
@@ -8688,6 +8733,7 @@ LaFracture
 LaFugueuse
 LaLiga
 LaMortauxtrousses
+LaMule
 LaMéthodeWilliams
 LaPalma
 LaPalmaVulkan
@@ -8756,6 +8802,8 @@ Laura Laune
 Laura Muller
 LauraLaune
 LauraMuller
+Laure Calamy
+LaureCalamy
 Laurel Hubbard
 LaurelHubbard
 Lauren Sanchez
@@ -9110,9 +9158,11 @@ Lore Bruggeman
 LoreBruggeman
 Lorient – Lille
 Lorient – Monaco
+Lorient – Nantes
 Lorient – Rennes
 Lorient–Lille
 Lorient–Monaco
+Lorient–Nantes
 Lorient–Rennes
 Lost Ark
 LostArk
@@ -9365,6 +9415,7 @@ MANCHESTER CITY - CLUB BRUGGE
 MANCHESTER UNITED
 MANCHESTER UNITED – ARSENAL
 MANCHESTER UNITED – ASTON VILLA
+MANCHESTER UNITED – CRYSTAL PALACE
 MANCHESTER UNITED – EVERTON
 MANCHESTER UNITED – LEEDS UNITED
 MANCHESTER UNITED – LIVERPOOL
@@ -9512,6 +9563,8 @@ MARY
 MARYNA ZANEVSKA
 MARÍTIMO  PORTO
 MASERATI
+MASKENPFLICHT
+MASKENPFLICHT SCHWEIZ
 MASON MOUNT
 MASONMOUNT
 MASQUE ECOLE
@@ -9584,6 +9637,7 @@ MCGREGOR
 MCGREGOR VS POIRIER
 MCLAREN
 MEADOW WALKER
+MECHELEN  GENK
 MECHELEN ANTWERP
 MECHELEN-ANTWERP
 MEDAILLE FRANCE JO
@@ -9781,6 +9835,7 @@ MONICA BELLUCCI
 MONICA LEWINSKY
 MONICA VITTI
 MONSEIGNEUR AUPETIT
+MONSIEUR CUISINE SMART
 MONSIEUR JE-SAIS-TOUT
 MONSIN
 MONSTER VAN LOCH NESS
@@ -9934,6 +9989,7 @@ Manchester City - Club Brugge
 Manchester United
 Manchester United – Arsenal
 Manchester United – Aston Villa
+Manchester United – Crystal Palace
 Manchester United – Everton
 Manchester United – Leeds United
 Manchester United – Liverpool
@@ -9944,6 +10000,7 @@ ManchesterCity-ClubBrugge
 ManchesterUnited
 ManchesterUnited–Arsenal
 ManchesterUnited–AstonVilla
+ManchesterUnited–CrystalPalace
 ManchesterUnited–Everton
 ManchesterUnited–LeedsUnited
 ManchesterUnited–Liverpool
@@ -10193,6 +10250,9 @@ MarynaZanevska
 Marítimo  Porto
 MarítimoPorto
 Maserati
+Maskenpflicht
+Maskenpflicht Schweiz
+MaskenpflichtSchweiz
 Mason Mount
 MasonMount
 Masque ECOLE
@@ -10302,9 +10362,11 @@ McGregorvsPoirier
 McLaren
 Meadow Walker
 MeadowWalker
+Mechelen  Genk
 Mechelen Antwerp
 Mechelen-Antwerp
 MechelenAntwerp
+MechelenGenk
 Medaille France JO
 Medaille jo 2021
 MedailleFranceJO
@@ -10618,8 +10680,10 @@ MonicaLewinsky
 MonicaVitti
 Monseigneur Aupetit
 MonseigneurAupetit
+Monsieur Cuisine Smart
 Monsieur Je-Sais-Tout
 Monsieur JeSaisTout
+MonsieurCuisineSmart
 MonsieurJe-Sais-Tout
 Monsin
 Monster van Loch Ness
@@ -10710,6 +10774,7 @@ NAFI THIAM
 NAGUI
 NAIRO QUINTANA
 NAIROQUINTANA
+NANCY FAESER
 NANTES
 NANTES – BREST
 NANTES – CLERMONT
@@ -10810,6 +10875,7 @@ NICE – MARSEILLE
 NICE – METZ
 NICE – MONACO
 NICE – MONTPELLIER
+NICE – STRASBOURG
 NICE-MARSEILLE
 NICE-MATIN
 NICK CANNON
@@ -10843,6 +10909,7 @@ NIEUWS VANDAAG
 NIEUWZUIDANTWERPEN
 NIGHT TEETH
 NIKE
+NIKOLAUSTAG
 NIKON Z9
 NILS POLITT
 NILSPOLITT
@@ -10922,6 +10989,8 @@ NafiThiam
 Nagui
 Nairo Quintana
 NairoQuintana
+Nancy Faeser
+NancyFaeser
 Nantes
 Nantes – Brest
 Nantes – Clermont
@@ -11054,6 +11123,7 @@ Nice – Marseille
 Nice – Metz
 Nice – Monaco
 Nice – Montpellier
+Nice – Strasbourg
 Nice-Marseille
 Nice-Matin
 NiceMarseille
@@ -11065,6 +11135,7 @@ Nice–Marseille
 Nice–Metz
 Nice–Monaco
 Nice–Montpellier
+Nice–Strasbourg
 Nick Cannon
 Nick Nuyens
 NickCannon
@@ -11114,6 +11185,7 @@ Nieuwsvandaag
 Night Teeth
 NightTeeth
 Nike
+Nikolaustag
 Nikon Z9
 NikonZ9
 Nils Politt
@@ -11737,6 +11809,7 @@ PHILIPPE JUVIN
 PHILIPPE LACHEAU
 PHILIPPE MANOEUVRE
 PHILIPPE POUTOU
+PHILIPPE WARRIN
 PHILIPS SONICARE
 PHILOUSPORTS
 PICKFORD
@@ -11767,8 +11840,10 @@ PIRATES DES CARAÏBES - LE SECRET DU COFFRE MAUDIT
 PISTONS – LAKERS
 PITA TAUFATOFUA
 PIXEL 6
+PIZZA
 PJANIC
 PLAN BLANC
+PLATZSPITZBABY
 PLAY4
 PLAYSTATION
 PLEINE LUNE
@@ -12224,6 +12299,7 @@ Philippe Juvin
 Philippe Lacheau
 Philippe Manoeuvre
 Philippe Poutou
+Philippe Warrin
 PhilippeBouvard
 PhilippeChevallier
 PhilippeDeBacker
@@ -12233,6 +12309,7 @@ PhilippeJuvin
 PhilippeLacheau
 PhilippeManoeuvre
 PhilippePoutou
+PhilippeWarrin
 Philips Sonicare
 PhilipsSonicare
 Philousports
@@ -12278,9 +12355,11 @@ Pita Taufatofua
 PitaTaufatofua
 Pixel 6
 Pixel6
+Pizza
 Pjanic
 Plan blanc
 Planblanc
+Platzspitzbaby
 Play4
 PlayStation
 Pleine Lune juin 2021
@@ -13223,6 +13302,7 @@ SAINT-GAUDENS
 SAINT-JEAN
 SAINT-JEAN-DE-LUZ
 SAINT-MARIN – ANGLETERRE
+SAINT-NICOLAS
 SAINT-PIERRE D'IRUBE
 SAINT-PIERRE-ET-MIQUELON
 SAINT-ÉTIENNE – CLERMONT
@@ -13252,6 +13332,7 @@ SAMATTA
 SAMBI LOKONGA
 SAMHAIN
 SAMI VATANEN
+SAMICHLAUS
 SAMIR AIT SAID
 SAMIR NASRI
 SAMIRAITSAID
@@ -13393,6 +13474,7 @@ SERVETTE JUVENTUS
 SEVDALIZA
 SEVEN SISTERS
 SEVILLA
+SEX AND THE CITY
 SHAKHTAR DONETSK
 SHAKIRA
 SHANA TOVA
@@ -13744,6 +13826,7 @@ Saint-Jean
 Saint-Jean-de-Luz
 Saint-Marin – Angleterre
 Saint-Marin–Angleterre
+Saint-Nicolas
 Saint-Pierre d'Irube
 Saint-Pierre-et-Miquelon
 Saint-Pierred'Irube
@@ -13762,6 +13845,7 @@ SaintJean
 SaintJeandeLuz
 SaintMarin – Angleterre
 SaintMichel
+SaintNicolas
 SaintPierre d'Irube
 SaintPierreetMiquelon
 Sainte-Anne
@@ -13806,6 +13890,7 @@ SambiLokonga
 Samhain
 Sami Vatanen
 SamiVatanen
+Samichlaus
 Samir Ait Said
 Samir Nasri
 Samir ait said
@@ -14016,6 +14101,8 @@ Sevdaliza
 Seven Sisters
 SevenSisters
 Sevilla
+Sex and the City
+SexandtheCity
 Shakhtar Donetsk
 ShakhtarDonetsk
 Shakira
@@ -14517,6 +14604,7 @@ TATYANA FRANCK
 TAYC
 TAYLOR SWIFT
 TEAMS
+TEC
 TEC CHARLEROI
 TEC Charleroi
 TECCharleroi
@@ -17058,6 +17146,7 @@ booster-impfung schweiz
 bordeaux
 bordeaux – angers
 bordeaux – clermont
+bordeaux – lyon
 bordeaux – nantes
 bordeaux – paris-sg
 bordeaux – reims
@@ -17332,6 +17421,7 @@ charleroi sc – anderlecht
 charles de ketelaere
 charles ingram
 charles k. kao
+charles leclerc
 charles-antoine kouakou
 charlesingram
 charlie mcdowell
@@ -17444,6 +17534,7 @@ claude françois
 claude lelouch
 claude lombard
 claude malhuret
+claude puel
 claudia norberg
 claudia obert
 claye-souilly
@@ -17513,7 +17604,9 @@ conor mcgregor
 conormcgregor
 conseil constitutionnel
 conseil d'etat fribourg
+conseil de defense
 conseil de défense
+conseil de défense sanitaire
 conseil de l'europe
 conseil fédéral covid
 controle technique moto
@@ -17534,6 +17627,7 @@ corona massnahmen schweiz
 corona nederland
 corona news schweiz
 corona österreich
+corona-massnahmen
 corona-massnahmen schweiz
 coronakaart europa
 coronakaarteuropa
@@ -17710,6 +17804,7 @@ dazn
 ddl zan
 de gaulle
 de gea
+de lijn
 de panne
 de slag om de schelde
 de slimste mens
@@ -17780,6 +17875,7 @@ didier notheaux
 didier raoult
 didierbourdon
 didierdeschamps
+die geschichte der pizza
 die linke
 die zeit
 diego maradona
@@ -18230,6 +18326,7 @@ fenerbahce
 fentanyl
 ferencvaros
 ferland mendy
+fernando alonso
 fernando rapallini
 fernando santos
 fernandorapallini
@@ -18256,6 +18353,7 @@ feu d'artifice rennes
 feuerwerk 1. august
 feux de forêt dans le var
 feyenoord
+ffp2-masken
 fietsen door de heide
 fietsendoordeheide
 fifa
@@ -18619,6 +18717,7 @@ greolieres
 greta thunberg
 greuther fürth gegen bayern
 greuther fürth – bayern
+greve
 greve 24 septembre 2021
 greve sncf
 grevesncf
@@ -19145,6 +19244,7 @@ john bercow
 john lennon
 john mcafee
 john meadows
+john miles
 johnbercow
 johnmcafee
 johnny depp
@@ -19205,6 +19305,7 @@ julien doré
 julien odoul
 juliendore
 juliendoré
+juliette armanet
 julius jones
 julos beaucarne
 juneteenth
@@ -19278,6 +19379,7 @@ karin keller-sutter
 karin viard
 karine ferri
 karine le marchand
+karl lauterbach
 karsten warholm
 kas eupen
 kaseya
@@ -19420,6 +19522,7 @@ la liga
 la lutte des classes
 la maison au bout de la rue
 la mort aux trousses
+la mule
 la méthode williams
 la palma
 la palma vulkan
@@ -19471,6 +19574,7 @@ last night in soho
 laura laune
 laura muller
 lauramuller
+laure calamy
 laurel hubbard
 laurelhubbard
 lauren sanchez
@@ -19687,6 +19791,7 @@ london marathon 2021
 lore bruggeman
 lorient – lille
 lorient – monaco
+lorient – nantes
 lorient – rennes
 losc
 lost ark
@@ -19872,6 +19977,7 @@ manchester city - club brugge
 manchester united
 manchester united – arsenal
 manchester united – aston villa
+manchester united – crystal palace
 manchester united – everton
 manchester united – leeds united
 manchester united – liverpool
@@ -20019,6 +20125,8 @@ mary
 maryna zanevska
 marítimo  porto
 maserati
+maskenpflicht
+maskenpflicht schweiz
 mason mount
 masonmount
 masque ecole
@@ -20089,6 +20197,7 @@ mcgregor
 mcgregor vs poirier
 mclaren
 meadow walker
+mechelen  genk
 mechelen antwerp
 mechelen-antwerp
 medaille france jo
@@ -20282,6 +20391,7 @@ monica bellucci
 monica lewinsky
 monica vitti
 monseigneur aupetit
+monsieur cuisine smart
 monsieur je-sais-tout
 monsin
 monster van loch ness
@@ -20343,6 +20453,7 @@ nafi thiam
 nagui
 nairo quintana
 nairoquintana
+nancy faeser
 nantes
 nantes – brest
 nantes – clermont
@@ -20435,6 +20546,7 @@ nice – marseille
 nice – metz
 nice – monaco
 nice – montpellier
+nice – strasbourg
 nice-marseille
 nice-matin
 nick cannon
@@ -20468,6 +20580,7 @@ nieuws vandaag
 nieuwzuidantwerpen
 night teeth
 nike
+nikolaustag
 nikon z9
 nils politt
 nilspolitt
@@ -20847,6 +20960,7 @@ philippe juvin
 philippe lacheau
 philippe manoeuvre
 philippe poutou
+philippe warrin
 philips sonicare
 philousports
 pickford
@@ -20877,8 +20991,10 @@ pirates des caraïbes - le secret du coffre maudit
 pistons – lakers
 pita taufatofua
 pixel 6
+pizza
 pjanic
 plan blanc
+platzspitzbaby
 play4
 playstation
 pleine lune
@@ -21312,6 +21428,7 @@ saint-gaudens
 saint-jean
 saint-jean-de-luz
 saint-marin – angleterre
+saint-nicolas
 saint-pierre d'irube
 saint-pierre-et-miquelon
 saint-étienne – clermont
@@ -21341,6 +21458,7 @@ samatta
 sambi lokonga
 samhain
 sami vatanen
+samichlaus
 samir ait said
 samir nasri
 samiraitsaid
@@ -21474,6 +21592,7 @@ servette juventus
 sevdaliza
 seven sisters
 sevilla
+sex and the city
 shakhtar donetsk
 shakira
 shana tova
@@ -21812,6 +21931,7 @@ tatyana franck
 tayc
 taylor swift
 teams
+tec
 tec charleroi
 ted herold
 ted lasso
