@@ -166,6 +166,7 @@
 1H48
 1JEUNE1SOLUTION
 1M65
+1M70
 1M76
 1PLIKE
 1PVMAJOR
@@ -209,6 +210,7 @@
 1h48
 1jeune1solution
 1m65
+1m70
 1m76
 1plike
 1pliké
@@ -742,6 +744,7 @@ AFRIQUE DU NORD
 AFRIQUE DU SUD
 AFRIQUE-FRANCE
 AFRIQUEDUSUD
+AFRO
 AFTER 3
 AFTERSPACEMOLINA
 AFTER_MIDNIGHT
@@ -2030,6 +2033,7 @@ Afrique du Sud
 Afrique-France
 AfriqueFrance
 AfriqueduSud
+Afro
 After 3
 After_Midnight
 AfterspaceMolina
@@ -11073,6 +11077,7 @@ FLORIAN
 FLORIAN JOUANNY
 FLORIAN TELLE
 FLORIAN VERMEERSCH
+FLORIANE
 FLORIANJOUANNY
 FLORIANTELLE
 FLORIANVERMEERSCH
@@ -11731,6 +11736,7 @@ FlorianJouanny
 FlorianTELLE
 FlorianTelle
 FlorianVermeersch
+Floriane
 Florida
 Floride
 Flow
@@ -18677,6 +18683,7 @@ LANGE JOJO
 LANGE LEEMSTRAAT
 LANGELEEMSTRAAT
 LANGNAU
+LANGUEDOC ROUSSILLON
 LANGZEITFOLGEN
 LANNION
 LANTIS
@@ -19981,6 +19988,7 @@ Lange Jojo
 Lange Leemstraat
 LangeLeemstraat
 Langnau
+Languedoc Roussillon
 Langzeitfolgen
 Lannion
 Lannée
@@ -22029,16 +22037,20 @@ MISS ALSACE
 MISS AQUITAINE
 MISS AUVERGNE
 MISS BOURGOGNE
+MISS BOUZOLLES
 MISS BRETAGNE
+MISS CORSE
 MISS CÔTE
 MISS FRANCE
 MISS GUADELOUPE
 MISS GUYANE
 MISS IDF
+MISS LIMOUSIN
 MISS LORRAINE
 MISS MAYOTTE
 MISS NORMANDIE
 MISS PICARDIE
+MISS PROVENCE
 MISS REUNION
 MISS TAHITI
 MISS ÎLE DE FRANCE
@@ -23378,16 +23390,20 @@ Miss Alsace
 Miss Aquitaine
 Miss Auvergne
 Miss Bourgogne
+Miss Bouzolles
 Miss Bretagne
+Miss Corse
 Miss Côte
 Miss France
 Miss Guadeloupe
 Miss Guyane
 Miss IDF
+Miss Limousin
 Miss Lorraine
 Miss Mayotte
 Miss Normandie
 Miss Picardie
+Miss Provence
 Miss Réunion
 Miss Tahiti
 Miss Île de France
@@ -29869,6 +29885,7 @@ SIRALEXFERGUSON
 SIRENE
 SISQUI
 SISSAKO
+SISSI
 SISSOKO
 SITUATIONEN
 SITWITTER
@@ -30418,8 +30435,10 @@ STEPHANEMOLLIENS
 STEPHANEMOULIN
 STEPHANIE
 STEPHANIE MARTEAU
+STEPHANIE TUCHE
 STEPHANOIS
 STEPHEN CURRY
+STEPHEN FRY
 STEPHEN SONDHEIM
 STERK
 STERKE JAN
@@ -31386,6 +31405,7 @@ SirAlexFerguson
 Sirene
 Sisqui
 Sissako
+Sissi
 Sissoko
 Situationen
 Sitze
@@ -31809,6 +31829,7 @@ Stephan Jakob
 Stephane Guy
 StephaneGuy
 Stephen Curry
+Stephen Fry
 Stephen Sondheim
 Sterke Jan
 Sterkte
@@ -31944,6 +31965,7 @@ StéphaneMolliens
 StéphaneMoulin
 Stéphanie
 Stéphanie Marteau
+Stéphanie Tuche
 Stéphanois
 Stück
 Stück des Jahres
@@ -37133,6 +37155,7 @@ afrique du nord
 afrique du sud
 afrique-france
 afriquedusud
+afro
 after 3
 after_midnight
 afterspacemolina
@@ -42732,6 +42755,7 @@ florian
 florian jouanny
 florian telle
 florian vermeersch
+floriane
 florianjouanny
 floriantelle
 florianvermeersch
@@ -46757,6 +46781,7 @@ lange jojo
 lange leemstraat
 langeleemstraat
 langnau
+languedoc roussillon
 langzeitfolgen
 lannion
 lantis
@@ -48922,16 +48947,20 @@ miss alsace
 miss aquitaine
 miss auvergne
 miss bourgogne
+miss bouzolles
 miss bretagne
+miss corse
 miss côte
 miss france
 miss guadeloupe
 miss guyane
 miss idf
+miss limousin
 miss lorraine
 miss mayotte
 miss normandie
 miss picardie
+miss provence
 miss réunion
 miss tahiti
 miss île de france
@@ -53002,6 +53031,7 @@ siralexferguson
 sirene
 sisqui
 sissako
+sissi
 sissoko
 situationen
 sitwitter
@@ -53532,6 +53562,7 @@ stephan jakob
 stephane guy
 stephaneguy
 stephen curry
+stephen fry
 stephen sondheim
 sterk
 sterke jan
@@ -53690,6 +53721,7 @@ stéphanemolliens
 stéphanemoulin
 stéphanie
 stéphanie marteau
+stéphanie tuche
 stéphanois
 stétienne
 stück
@@ -56336,7 +56368,9 @@ zürich
 Ärger
 Ärzte
 Ärztin
+ÎLE DE FRANCE
 ÎLE-DE-FRANCE
+Île de France
 Île-de-France
 ÎledeFrance
 ØMIXSUGA
@@ -56381,6 +56415,7 @@ zürich
 été 2020
 été2020
 évidemment
+île de france
 île-de-france
 ømixsuga
 übel
