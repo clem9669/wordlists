@@ -1393,6 +1393,7 @@ ANTONIO CONTE
 ANTONY
 ANTRAG
 ANTSGE
+ANTSTA
 ANTWERP
 ANTWERP PORT EPIC
 ANTWERP10MILES
@@ -5721,6 +5722,7 @@ CASADEPAPEL
 CASE 1
 CASE 10
 CASE 11
+CASE 12
 CASE 2
 CASE 3
 CASE 4
@@ -6845,6 +6847,7 @@ CasadePapel
 Case 1
 Case 10
 Case 11
+Case 12
 Case 2
 Case 3
 Case 4
@@ -9920,6 +9923,7 @@ ESSIEN
 ESSUIE
 ESTACASM
 ESTACASSE
+ESTACFCGB
 ESTACOGCN
 ESTACPSG
 ESTACSRFC
@@ -10656,6 +10660,8 @@ ExtremeRules
 Eyraud
 Ezreal
 F-35
+F1FINALE
+F1Finale
 F1SPRINT
 F1Sprint
 F1ZANDVOORT
@@ -10854,6 +10860,7 @@ FCLYB
 FCMASSE
 FCMESTAC
 FCMFCGB
+FCMFCL
 FCMLOSC
 FCMMHSC
 FCMPSG
@@ -13945,6 +13952,7 @@ HDpros
 HDpros2
 HE-MAN
 HEALEY
+HEALTHFORALL
 HEALTHYAIRHEALTHYPLANET
 HEARTBEAT
 HEARTOFGOLDJK
@@ -14477,6 +14485,7 @@ Hdespros
 He-Man
 HeMan
 Healey
+HealthForAll
 HealthyAirHealthyPlanet
 HeartOfGoldJK
 Heartbeat
@@ -15816,6 +15825,7 @@ JATTENDS
 JAURAI
 JAURAIS
 JAURES
+JAVA
 JAVAIS
 JAVALE MCGEE
 JAVALEMCGEE
@@ -16607,6 +16617,7 @@ Jaurai
 Jaurais
 Jaures
 Jaurès
+Java
 Javais
 Javale McGee
 JavaleMcGee
@@ -19406,6 +19417,7 @@ LILDURK
 LILIA
 LILLARD
 LILLE
+LILLE - LYON
 LILLIA
 LILLOIS
 LILNAS
@@ -19590,6 +19602,7 @@ LOSCESTAC
 LOSCFCN
 LOSCMHSC
 LOSCOGCN
+LOSCOL
 LOSCOM
 LOSCPSG
 LOSCSAL
@@ -20629,6 +20642,8 @@ Lilas
 Lilia
 Lillard
 Lille
+Lille  Lyon
+Lille - Lyon
 Lillia
 Lillois
 Limburg
@@ -22091,9 +22106,11 @@ MISS BRETAGNE
 MISS CORSE
 MISS CÔTE
 MISS FRANCE
+MISS FRANCE 2022
 MISS GUADELOUPE
 MISS GUYANE
 MISS IDF
+MISS ILE-DE-FRANCE
 MISS LIMOUSIN
 MISS LORRAINE
 MISS MAYOTTE
@@ -22367,6 +22384,7 @@ MOZAMBIQUE
 MR BAYO
 MR BUQUET
 MR BURNS
+MR CIOTTI
 MR ROBOT
 MR WORLD
 MR ZEMMOUR
@@ -23452,9 +23470,12 @@ Miss Bretagne
 Miss Corse
 Miss Côte
 Miss France
+Miss France 2022
 Miss Guadeloupe
 Miss Guyane
 Miss IDF
+Miss Ile-de-France
+Miss IledeFrance
 Miss Limousin
 Miss Lorraine
 Miss Mayotte
@@ -23713,6 +23734,7 @@ Moyes
 Mozambique
 Mr Bayo
 Mr Burns
+Mr Ciotti
 Mr Robot
 Mr World
 Mr Zemmour
@@ -24318,6 +24340,7 @@ NOTLAGE
 NOTORIOUS BIG
 NOTORIOUSBIG
 NOTRE-DAME
+NOUMEA
 NOUSSAVONS
 NOUSSOMMESLES6MILLIONS
 NOUSTOUTES
@@ -24810,6 +24833,7 @@ Notorious BIG
 NotoriousBIG
 Notre-Dame
 NotreDame
+Nouméa
 NousSavons
 NousToutes
 Noussommesles6millions
@@ -26656,6 +26680,7 @@ PSG City
 PSG TV
 PSG-CITY
 PSG-City
+PSGASM
 PSGBRU
 PSGCF63
 PSGCITY
@@ -27954,6 +27979,7 @@ RCSAFCGB
 RCSAFCL
 RCSAFCM
 RCSALOSC
+RCSAOM
 RCSASB29
 RCSASDR
 RCTBO
@@ -27965,6 +27991,8 @@ RCVAB
 RCZGNT
 RCtCAB
 RDCBEN
+RDVAUDERNIERVIRAGE
+RDVauDernierVirage
 READY PLAYER ONE
 REAKTION
 REAKTIONEN
@@ -28028,6 +28056,7 @@ REELLE VIE 3.0
 REFAELOV
 REFERENDUM
 REFERENDUMIMMIGRATION
+REFERENDUMNC2021
 REFORM
 REFRACTAIRE
 REFUGEECONVENTION
@@ -28740,6 +28769,7 @@ ReeceJames
 Reel
 Refaelov
 Referendum
+ReferendumNC2021
 Reform
 Refractaire
 RefugeeConvention
@@ -30734,6 +30764,7 @@ SUPPE
 SUPPRESSIONPERMISAPOINTS
 SUPPRIME
 SUR 36000
+SUR LE CORAN
 SUR PLAYSTATION
 SURSIS
 SURVIVORSERIES
@@ -32104,6 +32135,7 @@ SuppressionPermisAPoints
 Supprime
 Sur 36000
 Sur PlayStation
+Sur le Coran
 Sursis
 SurvivorSeries
 Susan
@@ -34027,6 +34059,8 @@ UGOAT
 UGODIDIER
 UGOHUMBERT
 UGent
+UHCDAY
+UHCDay
 UHREN
 UHaft
 UICN
@@ -37899,6 +37933,7 @@ antonio conte
 antony
 antrag
 antsge
+antsta
 antwerp
 antwerp port epic
 antwerp10miles
@@ -39919,6 +39954,7 @@ casadepapel
 case 1
 case 10
 case 11
+case 12
 case 2
 case 3
 case 4
@@ -42263,6 +42299,7 @@ essien
 essuie
 estacasm
 estacasse
+estacfcgb
 estacogcn
 estacpsg
 estacsrfc
@@ -42444,6 +42481,7 @@ eye2021
 eyraud
 ezreal
 f-35
+f1finale
 f1sprint
 f1zandvoort
 f35
@@ -42625,6 +42663,7 @@ fclyb
 fcmasse
 fcmestac
 fcmfcgb
+fcmfcl
 fcmlosc
 fcmmhsc
 fcmpsg
@@ -44327,6 +44366,7 @@ hdpros
 hdpros2
 he-man
 healey
+healthforall
 healthyairhealthyplanet
 heartbeat
 heartofgoldjk
@@ -45328,6 +45368,7 @@ jaurai
 jaurais
 jaures
 jaurès
+java
 javais
 javale mcgee
 javalemcgee
@@ -47554,6 +47595,7 @@ lildurk
 lilia
 lillard
 lille
+lille - lyon
 lillia
 lillois
 lilnas
@@ -47729,6 +47771,7 @@ loscestac
 loscfcn
 loscmhsc
 loscogcn
+loscol
 loscom
 loscpsg
 loscsal
@@ -49062,9 +49105,11 @@ miss bretagne
 miss corse
 miss côte
 miss france
+miss france 2022
 miss guadeloupe
 miss guyane
 miss idf
+miss ile-de-france
 miss limousin
 miss lorraine
 miss mayotte
@@ -49344,6 +49389,7 @@ mozambique
 mr bayo
 mr buquet
 mr burns
+mr ciotti
 mr robot
 mr world
 mr zemmour
@@ -49936,6 +49982,7 @@ notlage
 notorious big
 notoriousbig
 notre-dame
+nouméa
 noussavons
 noussommesles6millions
 noustoutes
@@ -51454,6 +51501,7 @@ ps5caroju
 psg city
 psg tv
 psg-city
+psgasm
 psgbru
 psgcf63
 psgcity
@@ -51768,6 +51816,7 @@ rcsafcgb
 rcsafcl
 rcsafcm
 rcsalosc
+rcsaom
 rcsasb29
 rcsasdr
 rctbo
@@ -51778,6 +51827,7 @@ rctr92
 rcvab
 rczgnt
 rdcben
+rdvauderniervirage
 ready player one
 reaktion
 reaktionen
@@ -51840,6 +51890,7 @@ reecejames
 reel
 refaelov
 referendum
+referendumnc2021
 reform
 refractaire
 refugeeconvention
@@ -53917,6 +53968,7 @@ suppe
 suppressionpermisapoints
 supprime
 sur 36000
+sur le coran
 sur playstation
 sursis
 survivorseries
@@ -54993,6 +55045,7 @@ ugoat
 ugodidier
 ugohumbert
 uhaft
+uhcday
 uhren
 uicn
 uiteraard
