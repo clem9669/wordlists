@@ -1370,6 +1370,7 @@ ANTIFAS
 ANTIKORPER
 ANTILLES
 ANTIMICROBIALRESISTANCE
+ANTIPASS
 ANTIPASSESANITAIRE
 ANTIPASSSANITAIRE
 ANTISEMITE
@@ -5737,6 +5738,7 @@ CASE 1
 CASE 10
 CASE 11
 CASE 12
+CASE 13
 CASE 2
 CASE 3
 CASE 4
@@ -6232,6 +6234,7 @@ CLAVERIE
 CLEANAIRHOLIDAYS
 CLEM
 CLEMENCE
+CLEMENCE BOTINO
 CLEMENT
 CLEMENT BEAUNE
 CLEMENT LENGLET
@@ -6865,6 +6868,7 @@ Case 1
 Case 10
 Case 11
 Case 12
+Case 13
 Case 2
 Case 3
 Case 4
@@ -7342,6 +7346,7 @@ ClubicXNordVPN
 Clubs
 ClémenTINE
 Clémence
+Clémence Botino
 Clément
 Clément Beaune
 Clément Lenglet
@@ -8344,6 +8349,7 @@ DIOR
 DIPSET
 DIRECT
 DIRECTAN
+DIRECTIDF
 DIRECTZEMMOUR
 DIRK
 DIRK VAN ESSER
@@ -9197,6 +9203,7 @@ Dior
 Dipset
 Direct
 DirectAN
+DirectIDF
 DirectZemmour
 Dirk
 Dirk Van Esser
@@ -13910,6 +13917,7 @@ HAPPYBIRTHDAYMARKTUAN
 HAPPYBIRTHDAYMIKA
 HAPPYBIRTHDAYNAMJOON
 HAPPYBIRTHDAYSWITZERLAND
+HAPPYBIRTHDAYTAYLORSWIFT
 HAPPYDIWALI
 HAPPYHANDAY
 HAPPYMINHODAY_1209
@@ -14456,6 +14464,7 @@ HappyBirthdayLiam
 HappyBirthdayMarkTuan
 HappyBirthdayNamjoon
 HappyBirthdaySwitzerland
+HappyBirthdayTaylorSwift
 HappyDiwali
 HappyHANday
 HappyMINHODAY_1209
@@ -19608,6 +19617,7 @@ LOCKLEAR
 LODE
 LODEUR
 LOEKASJENKO
+LOG4J
 LOGAN
 LOGIK
 LOGIQUE
@@ -19848,6 +19858,7 @@ LUNA1stwin
 LUNAIRE
 LUNARIA
 LUNCH GARDEN
+LUNDI 13
 LUNDI 15
 LUNDI 16
 LUNDI 30
@@ -21014,6 +21025,7 @@ Luna
 Lunaire
 Lunaria
 Lunch Garden
+Lundi 13
 Lundi 15
 Lundi 16
 Lundi 30
@@ -26771,6 +26783,8 @@ PS5CaroJu
 PSG CITY
 PSG City
 PSG TV
+PSG UNITED
+PSG United
 PSG-CITY
 PSG-City
 PSGASM
@@ -30811,6 +30825,7 @@ SUBTOBESTGROUP
 SUBVENTIONEN
 SUCCES
 SUCCESS
+SUCCESSION
 SUD OUEST
 SUDAFRIKA
 SUDAN
@@ -32196,6 +32211,7 @@ Subrepticement
 Subventionen
 Succes
 Success
+Succession
 Sudan
 Suede
 Suedoises
@@ -38032,6 +38048,7 @@ antifas
 antikorper
 antilles
 antimicrobialresistance
+antipass
 antipassesanitaire
 antipasssanitaire
 antisemite
@@ -40088,6 +40105,7 @@ case 1
 case 10
 case 11
 case 12
+case 13
 case 2
 case 3
 case 4
@@ -40637,6 +40655,7 @@ cluser
 clusta
 cluzwa
 clémence
+clémence botino
 clément
 clément beaune
 clément lenglet
@@ -41673,6 +41692,7 @@ dior
 dipset
 direct
 directan
+directidf
 directzemmour
 dirk
 dirk van esser
@@ -44434,6 +44454,7 @@ happybirthdaymarktuan
 happybirthdaymika
 happybirthdaynamjoon
 happybirthdayswitzerland
+happybirthdaytaylorswift
 happydiwali
 happyhanday
 happyminhoday_1209
@@ -47874,6 +47895,7 @@ locklear
 lode
 lodeur
 loekasjenko
+log4j
 logan
 logik
 logique
@@ -48113,6 +48135,7 @@ luna1stwin
 lunaire
 lunaria
 lunch garden
+lundi 13
 lundi 15
 lundi 16
 lundi 30
@@ -51677,6 +51700,7 @@ ps vita
 ps5caroju
 psg city
 psg tv
+psg united
 psg-city
 psgasm
 psgbru
@@ -54097,6 +54121,7 @@ subtobestgroup
 subventionen
 succes
 success
+succession
 sud ouest
 sudan
 sudouest
