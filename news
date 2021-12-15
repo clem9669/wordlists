@@ -681,6 +681,7 @@ ATTILA FIOLA
 ATTILA HILDMANN
 ATTILAFIOLA
 AU POSTE
+AUBAMEYANG
 AUDE
 AUDREY DIWAN
 AUDREY FLEUROT
@@ -696,6 +697,7 @@ AUTOMNE
 AUTOMNE 2021
 AUTOTEST COVID
 AUTOTEST PASS SANITAIRE
+AUTOTESTCOVID
 AUTRICHE
 AUTRICHE COVID
 AUTRICHE FOOT
@@ -1431,6 +1433,7 @@ AttilaFiola
 AttilaHildmann
 Au Poste
 AuPoste
+Aubameyang
 Aude
 Audrey Diwan
 Audrey Fleurot
@@ -1536,6 +1539,7 @@ BARCELONA
 BARCELONA  VALENCIA
 BARCELONA GEGEN REAL MADRID
 BARCELONA – BETIS
+BARCELONA – BOCA JUNIORS
 BARCELONA – DYNAMO KYIV
 BARCELONA – GETAFE
 BARCELONA – JUVENTUS
@@ -1696,6 +1700,7 @@ BERNARDTAPIE
 BERND STORCK
 BERRETTINI
 BERT DE BACKER
+BERTARELLI
 BERTRAND CANTAT
 BERTRAND DE LA CHESNAIS
 BESANCON
@@ -2000,6 +2005,7 @@ Barcelona
 Barcelona  Valencia
 Barcelona gegen Real Madrid
 Barcelona – Betis
+Barcelona – Boca Juniors
 Barcelona – Dynamo kyiv
 Barcelona – Getafe
 Barcelona – Juventus
@@ -2010,6 +2016,7 @@ Barcelona – Valence
 BarcelonaValencia
 BarcelonagegenRealMadrid
 Barcelona–Betis
+Barcelona–BocaJuniors
 Barcelona–Dynamokyiv
 Barcelona–Getafe
 Barcelona–Juventus
@@ -2255,6 +2262,7 @@ BerndStorck
 Berrettini
 Bert De Backer
 BertDeBacker
+Bertarelli
 Bertrand Cantat
 Bertrand de la Chesnais
 BertrandCantat
@@ -2938,6 +2946,7 @@ CONSEIL DE DEFENSE
 CONSEIL DE DÉFENSE
 CONSEIL DE DÉFENSE SANITAIRE
 CONSEIL DE L'EUROPE
+CONSEIL FÉDÉRAL
 CONSEIL FÉDÉRAL COVID
 CONTROLE TECHNIQUE MOTO
 COOKE MARONEY
@@ -3600,6 +3609,7 @@ Conseil de defense
 Conseil de défense
 Conseil de défense sanitaire
 Conseil de l'Europe
+Conseil fédéral
 Conseil fédéral Covid
 Conseil fédéral covid
 Conseilconstitutionnel
@@ -3608,6 +3618,7 @@ Conseildedefense
 Conseildedéfense
 Conseildedéfensesanitaire
 Conseildel'Europe
+Conseilfédéral
 ConseilfédéralCovid
 Conseilfédéralcovid
 Controle technique moto
@@ -4478,6 +4489,7 @@ EIGENMIETWERT
 EIN MÄDCHEN WIRD VERMISST
 EINAR
 EINREISE DEUTSCHLAND
+EINREISE ITALIEN
 EINREISE SCHWEIZ
 EINREISE SCHWEIZ CORONA
 EINREISE ÖSTERREICH
@@ -4791,10 +4803,12 @@ Ein Mädchen wird vermisst
 EinMädchenwirdvermisst
 Einar
 Einreise Deutschland
+Einreise Italien
 Einreise Schweiz
 Einreise Schweiz Corona
 Einreise Österreich
 EinreiseDeutschland
+EinreiseItalien
 EinreiseSchweiz
 EinreiseSchweizCorona
 Einreiseformular Schweiz
@@ -5386,6 +5400,7 @@ FLAUBERT
 FLAVIE FLAMENT
 FLORA DUFFY
 FLORENCE FOSTER JENKINS
+FLORENCE PERNEL
 FLORENCE PORCEL
 FLORENCE PUGH
 FLORENCEPORCEL
@@ -5705,9 +5720,11 @@ FlavieFlament
 Flora Duffy
 FloraDuffy
 Florence Foster Jenkins
+Florence Pernel
 Florence Porcel
 Florence Pugh
 FlorenceFosterJenkins
+FlorencePernel
 FlorencePorcel
 FlorencePugh
 Florent Manaudou
@@ -7544,6 +7561,7 @@ JOURNÉE DU PATRIMOINE
 JOURNÉE DU PATRIMOINE 2021
 JOURNÉE SANS VOITURE BRUXELLES
 JOYBRÄU
+JPL
 JSK
 JUAN BRANCO
 JUBILLAR DELPHINE
@@ -7590,6 +7608,7 @@ JUNIKäFER
 JUNINHO
 JUNIOR MESSIAS
 JUPILER PRO LEAGUE
+JUPILER PRO LEAGUE 2021
 JURGEN CONINGS
 JURGENCONINGS
 JUSQU'A CE QUE LA MORT NOUS UNISSE
@@ -8069,7 +8088,9 @@ Juninho
 Junior Messias
 JuniorMessias
 Jupiler Pro League
+Jupiler Pro League 2021
 JupilerProLeague
+JupilerProLeague2021
 Jurgen Conings
 JurgenConings
 Jusqu'a ce que la mort nous unisse
@@ -9686,6 +9707,7 @@ MACRON
 MACRON FOOT
 MACRON LOURDES
 MACRON MARSEILLE
+MACRON TF1
 MACRONMARSEILLE
 MADAME BOVARY
 MADE IN ITALY
@@ -10023,6 +10045,7 @@ MEROL
 MERY SUR-OISE
 MERYL STREEP
 MERYLSTREEP
+MES TRÈS CHERS ENFANTS
 MESSI
 MESSI A PARIS
 MESSI AU PSG
@@ -10030,6 +10053,7 @@ MESSI TRANSFER
 MESSI TRANSFERT
 MESURE COVID BELGIQUE
 MESURES COVID BELGIQUE
+MESURES COVID SUISSE
 MET GALA 2021
 META
 METALLICA
@@ -10149,6 +10173,7 @@ MISSGUYANE2022
 MITROVIC
 MMA
 MO HAYDER
+MOBILE VIKINGS
 MODERNA
 MODERNA AKTIE
 MODERNA IMPFSTOFF
@@ -10251,8 +10276,10 @@ Machine Gun Kelly
 MachineGunKelly
 Macron
 Macron Lourdes
+Macron TF1
 Macron foot
 MacronLourdes
+MacronTF1
 Macronfoot
 Madame Bovary
 MadameBovary
@@ -10807,6 +10834,7 @@ Mery surOise
 Meryl Streep
 MerylStreep
 Merysur-Oise
+Mes très chers enfants
 Messi
 Messi Transfer
 Messi a Paris
@@ -10816,11 +10844,14 @@ MessiTransfer
 MessiaParis
 MessiauPSG
 Messitransfert
+Mestrèschersenfants
 Mesure covid belgique
 Mesurecovidbelgique
 Mesures Covid Belgique
+Mesures Covid Suisse
 Mesures covid belgique
 MesuresCovidBelgique
+MesuresCovidSuisse
 Mesurescovidbelgique
 Met Gala 2021
 MetGala2021
@@ -11009,6 +11040,8 @@ MissUniverse2021
 Mitrovic
 Mo Hayder
 MoHayder
+Mobile Vikings
+MobileVikings
 Moderna
 Moderna Aktie
 Moderna Impfstoff
@@ -11678,6 +11711,9 @@ Ny Corona
 NyCorona
 NÜRNBERG
 Nürnberg
+O.J. SIMPSON
+O.J. Simpson
+O.J.Simpson
 OASG
 OASIS
 OBERWALD
@@ -12079,6 +12115,7 @@ PARISJACKSON
 PARISMATCH
 PARTICIPATION ELECTION
 PARTICIPATIONELECTION
+PASCAL DUPRAZ
 PASCAL ELBE
 PASCAL OBISPO
 PASCAL PRAUD
@@ -12359,6 +12396,7 @@ PRIX GONCOURT 2021
 PRIXGONCOURT2021
 PRIYANKA CHOPRA
 PRO D2
+PRO LEAGUE
 PROMI BIG BROTHER
 PROMI BIG BROTHER 2021
 PROROGER
@@ -12521,9 +12559,11 @@ Parissg – Orléans
 Parissg – Séville
 Participation election
 Participationelection
+Pascal Dupraz
 Pascal Obispo
 Pascal Praud
 Pascal elbe
+PascalDupraz
 PascalObispo
 PascalPraud
 Pascalelbe
@@ -12934,7 +12974,9 @@ PrixcarburantLeclerc
 Priyanka Chopra
 PriyankaChopra
 Pro D2
+Pro League
 ProD2
+ProLeague
 Promi Big Brother
 Promi Big Brother 2021
 PromiBigBrother
@@ -14095,6 +14137,7 @@ SPEZIA – JUVENTUS
 SPIDER-MAN : NO WAY HOME
 SPIDER-MAN NO WAY HOME
 SPIDER-MAN: NO WAY HOME
+SPIDERMAN
 SPIESS-HEGGLIN
 SPINAZZOLA
 SPORT
@@ -14192,6 +14235,7 @@ STROMAUSFALL BURGDORF
 STUDENT KICK OFF
 STUDIO 100 REWIND PARTY
 STUTTGART
+STUTTGART – BAYERN
 STVV
 STVV CLUB BRUGGE
 STVV Club Brugge
@@ -14821,6 +14865,7 @@ Spider-ManNoWayHome
 SpiderMan : No Way Home
 SpiderMan No Way Home
 SpiderMan: No Way Home
+Spiderman
 Spiess-Hegglin
 SpiessHegglin
 Spinazzola
@@ -14965,6 +15010,8 @@ StudentKickOff
 Studio 100 Rewind Party
 Studio100RewindParty
 Stuttgart
+Stuttgart – Bayern
+Stuttgart–Bayern
 SuDDEUTSCHE
 Subingen
 Sudan
@@ -15170,6 +15217,7 @@ THE MULE
 THE POST
 THE SUICIDE SQUAD
 THE TOMORROW WAR
+THE UNDOING
 THE UNFORGIVABLE
 THE VOICE ALL STARS
 THE VOICE ALL-STARS
@@ -15186,6 +15234,7 @@ THEODOR WONJA MICHAEL
 THERMALBAD BADEN
 THERMO-CLEAN
 THETOMORROWWAR
+THEUNDOING
 THEUX
 THIAGO
 THIBAU NYS
@@ -17435,6 +17484,7 @@ attila fiola
 attila hildmann
 attilafiola
 au poste
+aubameyang
 aude
 audrey diwan
 audrey fleurot
@@ -17514,6 +17564,7 @@ barcelona
 barcelona  valencia
 barcelona gegen real madrid
 barcelona – betis
+barcelona – boca juniors
 barcelona – dynamo kyiv
 barcelona – getafe
 barcelona – juventus
@@ -17670,6 +17721,7 @@ bernardtapie
 bernd storck
 berrettini
 bert de backer
+bertarelli
 bertrand cantat
 bertrand de la chesnais
 besancon
@@ -18239,6 +18291,7 @@ conseil de defense
 conseil de défense
 conseil de défense sanitaire
 conseil de l'europe
+conseil fédéral
 conseil fédéral covid
 controle technique moto
 cooke maroney
@@ -18643,6 +18696,7 @@ eigenmietwert
 ein mädchen wird vermisst
 einar
 einreise deutschland
+einreise italien
 einreise schweiz
 einreise schweiz corona
 einreise österreich
@@ -19044,6 +19098,7 @@ flaubert
 flavie flament
 flora duffy
 florence foster jenkins
+florence pernel
 florence porcel
 florence pugh
 florenceporcel
@@ -19956,6 +20011,7 @@ journée du patrimoine
 journée du patrimoine 2021
 journée sans voiture bruxelles
 joybräu
+jpl
 jsk
 juan branco
 jubillar delphine
@@ -19997,6 +20053,7 @@ junikäfer
 juninho
 junior messias
 jupiler pro league
+jupiler pro league 2021
 jurgen conings
 jurgenconings
 jusqu'a ce que la mort nous unisse
@@ -20631,6 +20688,7 @@ macron
 macron foot
 macron lourdes
 macron marseille
+macron tf1
 madame bovary
 made in italy
 madeira
@@ -20965,6 +21023,7 @@ merol
 mery sur-oise
 meryl streep
 merylstreep
+mes très chers enfants
 messi
 messi a paris
 messi au psg
@@ -20972,6 +21031,7 @@ messi transfer
 messi transfert
 mesure covid belgique
 mesures covid belgique
+mesures covid suisse
 met gala 2021
 meta
 metallica
@@ -21086,6 +21146,7 @@ miss universe 2021
 mitrovic
 mma
 mo hayder
+mobile vikings
 moderna
 moderna aktie
 moderna impfstoff
@@ -21375,6 +21436,7 @@ nuit des étoiles filantes
 nuno mendes
 ny corona
 nürnberg
+o.j. simpson
 oasg
 oasis
 oberwald
@@ -21559,6 +21621,7 @@ parisjackson
 parismatch
 participation election
 participationelection
+pascal dupraz
 pascal elbe
 pascal obispo
 pascal praud
@@ -21828,6 +21891,7 @@ prix carburant leclerc
 prix goncourt 2021
 priyanka chopra
 pro d2
+pro league
 promi big brother
 promi big brother 2021
 proroger
@@ -22496,6 +22560,7 @@ spezia – juventus
 spider-man : no way home
 spider-man no way home
 spider-man: no way home
+spiderman
 spiess-hegglin
 spinazzola
 sport
@@ -22587,6 +22652,7 @@ stromausfall burgdorf
 student kick off
 studio 100 rewind party
 stuttgart
+stuttgart – bayern
 stvv
 stvv club brugge
 subingen
@@ -22755,6 +22821,7 @@ the mule
 the post
 the suicide squad
 the tomorrow war
+the undoing
 the unforgivable
 the voice all stars
 the voice all-stars
