@@ -5840,6 +5840,7 @@ CASE 13
 CASE 14
 CASE 15
 CASE 16
+CASE 17
 CASE 2
 CASE 3
 CASE 4
@@ -6994,6 +6995,7 @@ Case 13
 Case 14
 Case 15
 Case 16
+Case 17
 Case 2
 Case 3
 Case 4
@@ -7890,6 +7892,7 @@ DAARVOOR
 DABABY
 DABI
 DACH
+DACHSCHADEN
 DACHT
 DADJU
 DAECH
@@ -8797,6 +8800,7 @@ Daarvoor
 Dababy
 Dabi
 Dach
+Dachschaden
 Dacht
 Dadju
 Daech
@@ -10896,6 +10900,7 @@ FACEAFACE
 FACEALARUE
 FACEALINFO
 FACEAMEDIAPART
+FACEBABA
 FACEBOOKDOWN
 FACETIME
 FACH
@@ -11131,6 +11136,7 @@ FELLAINI
 FENANT
 FENCING
 FENIKS
+FENNEC
 FENSTER
 FENÊTRE
 FERDINAND
@@ -11745,6 +11751,7 @@ Face Time Bourbon
 FaceABaba
 FaceALaRue
 FaceAMediapart
+FaceBaba
 FaceTime
 FaceaBFM
 FaceaFace
@@ -11860,6 +11867,7 @@ Felix
 Fellaini
 Fencing
 Feniks
+Fennec
 Fenster
 Fenêtre
 Ferdinand
@@ -21515,6 +21523,7 @@ MAIL
 MAILLOT
 MAILLOT DU PARIS SAINT-GERMAIN
 MAILLOTNETBET
+MAILS
 MAINE
 MAIPIUFASCISMI
 MAIRE
@@ -22536,6 +22545,7 @@ MISS TAHITI
 MISS UNIVERS
 MISS USA
 MISS ÎLE DE FRANCE
+MISSBRAUCH
 MISSCI2021
 MISSFRANCE
 MISSFRANCE2022
@@ -23940,6 +23950,7 @@ MissGuadeloupe
 MissReunion
 MissUniverse
 MissUniverse2021
+Missbrauch
 Mission
 MissionAlpha
 MissionCleopatre
@@ -24725,6 +24736,7 @@ NOELATOUSLESETAGES
 NOELAVECTEUF
 NOELDEJUMBO
 NOELDELOCKLEAR
+NOELDELOCLEAR
 NOELFARCRY6
 NOELROCCAT
 NOELS
@@ -25240,6 +25252,7 @@ NoelATousLesEtages
 NoelAvecTeuf
 NoelDeJumbo
 NoelDeLocklear
+NoelDeLoclear
 NoelFarCry6
 NoelROCCAT
 Noels
@@ -27261,6 +27274,7 @@ PUIGDEMONT
 PUKKELPOP
 PUKKI
 PULISIC
+PULLDENOEL
 PULP FICTION
 PULPFICTION
 PUMA
@@ -31066,6 +31080,7 @@ STANDARD
 STANDARD - BEERSCHOT
 STANDERAT
 STANISLAS
+STANISLASRIGAULT
 STANLEY NSOKI
 STANLEYNSOKI
 STANWORLD
@@ -32514,6 +32529,7 @@ Standard  Beerschot
 Standard - Beerschot
 Standerat
 Stanislas
+StanislasRigault
 Stanley Nsoki
 StanleyNsoki
 Stany
@@ -33698,6 +33714,7 @@ TRIANGLESTRATEGY
 TRIATHLON
 TRICASTIN
 TRICK
+TRICOTEPOURUNTITRE
 TRIELL
 TRIEST
 TRIESTE
@@ -34561,6 +34578,7 @@ TriangleStrategy
 Triathlon
 Tricastin
 Trick
+TricotePourUnTitre
 Triell
 Triest
 Trieste
@@ -35086,6 +35104,7 @@ VAFCNO
 VAFCRAF
 VAFCRCSA
 VAGNER
+VAGUEVERTE
 VAHID
 VAIMALAMA
 VAKBONDEN
@@ -35593,6 +35612,7 @@ Vaccins
 Vader
 Vadot
 Vagner
+VagueVerte
 Vahid
 Vaimalama
 Vakbonden
@@ -40739,6 +40759,7 @@ case 13
 case 14
 case 15
 case 16
+case 17
 case 2
 case 3
 case 4
@@ -41760,6 +41781,7 @@ daarvoor
 dababy
 dabi
 dach
+dachschaden
 dacht
 dadju
 daech
@@ -43340,6 +43362,7 @@ faceaface
 facealarue
 facealinfo
 faceamediapart
+facebaba
 facebookdown
 facetime
 fach
@@ -43548,6 +43571,7 @@ fellaini
 fenant
 fencing
 feniks
+fennec
 fenster
 fenêtre
 ferdinand
@@ -49051,6 +49075,7 @@ mail
 maillot
 maillot du paris saint-germain
 maillotnetbet
+mails
 maine
 maipiufascismi
 maire
@@ -50074,6 +50099,7 @@ miss tahiti
 miss univers
 miss usa
 miss île de france
+missbrauch
 missci2021
 missfrance
 missfrance2022
@@ -50876,6 +50902,7 @@ noelatouslesetages
 noelavecteuf
 noeldejumbo
 noeldelocklear
+noeldeloclear
 noelfarcry6
 noelroccat
 noels
@@ -52559,6 +52586,8 @@ puigdemont
 pukkelpop
 pukki
 pulisic
+pullDeNoel
+pulldenoel
 pulp fiction
 pulpfiction
 puma
@@ -54719,6 +54748,7 @@ standard
 standard - beerschot
 standerat
 stanislas
+stanislasrigault
 stanley nsoki
 stanleynsoki
 stanworld
@@ -55950,6 +55980,7 @@ trianglestrategy
 triathlon
 tricastin
 trick
+tricotepouruntitre
 triell
 triest
 trieste
@@ -56318,6 +56349,7 @@ vafcno
 vafcraf
 vafcrcsa
 vagner
+vagueverte
 vahid
 vaimalama
 vakbonden
