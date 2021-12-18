@@ -17839,6 +17839,7 @@ KERNCENTRALES
 KERNENERGIE
 KERNKRAFT
 KERNUITSTAP
+KERR
 KERST
 KERSTMARKT
 KERSTMARKTEN
@@ -18433,6 +18434,7 @@ Kerl
 Kerncentrales
 Kernenergie
 Kernkraft
+Kerr
 Kerst
 Kerstmarkt
 Kerstmarkten
@@ -37848,12 +37850,14 @@ Zürich
 \SCHUTZMASSNAHMEN\
 \SIDEP\
 \STELLUNGNAHME\
+\STRUKTUREN\
 \STUDENTEN\
 \SUBVENTIONEN\
 \Schnupfen\
 \Schoggi\
 \Schutzmassnahmen\
 \Stellungnahme\
+\Strukturen\
 \Studenten\
 \Subventionen\
 \TALENT\
@@ -37930,6 +37934,7 @@ Zürich
 \schutzmassnahmen\
 \sidep\
 \stellungnahme\
+\strukturen\
 \studenten\
 \subventionen\
 \talent\
@@ -47286,6 +47291,7 @@ kerncentrales
 kernenergie
 kernkraft
 kernuitstap
+kerr
 kerst
 kerstmarkt
 kerstmarkten
