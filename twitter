@@ -350,9 +350,11 @@
 21France
 21H25
 21HMEDIAS
+21STE
 21h25
 21hMedias
 21hmedias
+21ste
 22NDSUMMERWITHJAEMIN
 22ndSummerWithJaemin
 22ndsummerwithjaemin
@@ -977,6 +979,7 @@ AJABVB
 AJACCIO
 AJAEAG
 AJAGF38
+AJAHAC
 AJALEE
 AJAMAISLESPREMIERS
 AJAPSV
@@ -1914,6 +1917,7 @@ ASMSparta
 ASMULS
 ASNLAJA
 ASNLASC
+ASNLDFCO
 ASNLEAG
 ASNLHAC
 ASNLTFC
@@ -3953,6 +3957,7 @@ BERLIJN
 BERLINEPRIX
 BERLUX
 BERN
+BERN SELECTION
 BERN1410
 BERN2310
 BERNA
@@ -16930,6 +16935,7 @@ IMPFVERSAGEN
 IMPFVERWEIGERER
 IMPFWILLIGEN
 IMPFWOCHE
+IMPFZENTREN
 IMPFZENTRUM
 IMPFZWANG
 IMPOSSIBLENESTPASFRANCAIS
@@ -17390,6 +17396,7 @@ Impfversagen
 Impfverweigerer
 Impfwilligen
 Impfwoche
+Impfzentren
 Impfzentrum
 Impfzwang
 ImpossibleNEstPasFrancais
@@ -27749,6 +27756,7 @@ NOSVP
 NOTE
 NOTEN
 NOTFALL
+NOTFC
 NOTHING EAR
 NOTHINGEAR
 NOTI
@@ -31577,6 +31585,7 @@ QRCode
 QRMASNL
 QRMEAG
 QRMSCB
+QRMSMC
 QRcode
 QU'ALLAH
 QU'EST
@@ -42338,6 +42347,7 @@ ajabvb
 ajaccio
 ajaeag
 ajagf38
+ajahac
 ajalee
 ajamaislespremiers
 ajapsv
@@ -43272,6 +43282,7 @@ asmsr
 asmuls
 asnlaja
 asnlasc
+asnldfco
 asnleag
 asnlhac
 asnltfc
@@ -44076,6 +44087,7 @@ berlijn
 berlineprix
 berlux
 bern
+bern selection
 bern1410
 bern2310
 berna
@@ -44108,6 +44120,7 @@ berndstorck
 berne
 berner
 bernie
+bernselection
 berrettini
 berserk
 berset
@@ -50817,6 +50830,7 @@ impfversagen
 impfverweigerer
 impfwilligen
 impfwoche
+impfzentren
 impfzentrum
 impfzwang
 impossiblenestpasfrancais
@@ -56645,6 +56659,7 @@ nosvp
 note
 noten
 notfall
+notfc
 nothing ear
 nothingear
 noti
@@ -58488,6 +58503,7 @@ qrcode
 qrmasnl
 qrmeag
 qrmscb
+qrmsmc
 qu'allah
 qu'est
 qu'est-ce
