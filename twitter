@@ -756,6 +756,7 @@ ABSICHT
 ABSMR
 ABSOLUUT
 ABST21
+ABST22
 ABSTAND
 ABSTIMMUNGEN
 ABSTIMMUNGSERGEBNIS
@@ -2237,6 +2238,7 @@ Abschluss
 Absicht
 Absoluut
 Abst21
+Abst22
 Abstand
 Abstimmungen
 Abstimmungsergebnis
@@ -20793,11 +20795,14 @@ Kyrie
 Kyubi
 KÄLTE
 KÄSE
+KÖNNEN SIE
 Kälte
 Käse
 Kévin
 Kévin Le Cunff
 KévinLeCunff
+Können Sie
+KönnenSie
 Küche
 Kühe
 Künstler
@@ -27514,6 +27519,7 @@ NICELYON
 NICEMARSEILLE
 NICEMONACO
 NICEOM
+NICHOLAS
 NICHOLSON
 NICHTMEINBUNDESRAT
 NICK CONRAD
@@ -28075,6 +28081,7 @@ NiceLyon
 NiceMarseille
 NiceMonaco
 NiceOM
+Nicholas
 Nicholson
 NichtMeinBundesrat
 Nick Conrad
@@ -37002,6 +37009,7 @@ THE FLAG
 THE FLASH
 THE FRENCH
 THE FRENCH DISPATCH
+THE GREAT RESET
 THE GUARDIAN
 THE GUILTY
 THE GUNK
@@ -37983,6 +37991,7 @@ The Flag
 The Flash
 The French
 The French Dispatch
+The Great Reset
 The Guardian
 The Guilty
 The Gunk
@@ -38033,6 +38042,7 @@ TheFrench
 TheFrenchDispatch
 TheFutureIsNOW
 TheGameAwards
+TheGreatReset
 TheGreatestSwitch
 TheGroup
 TheGuardian
@@ -41300,6 +41310,7 @@ YUJIN
 YUKI
 YUNA
 YUNJIN
+YUNUS
 YURINA
 YUTA
 YUUMI
@@ -41419,6 +41430,7 @@ YuGiOhXMicromania
 Yujin
 Yuki
 Yunjin
+Yunus
 Yurina
 Yuta
 Yuumi
@@ -42097,6 +42109,7 @@ absicht
 absmr
 absoluut
 abst21
+abst22
 abstand
 abstimmungen
 abstimmungsergebnis
@@ -52750,6 +52763,7 @@ käse
 kévin
 kévin le cunff
 kévinlecunff
+können sie
 küche
 kühe
 künstler
@@ -56387,6 +56401,7 @@ nicelyon
 nicemarseille
 nicemonaco
 niceom
+nicholas
 nicholson
 nichtmeinbundesrat
 nick conrad
@@ -61548,6 +61563,7 @@ the flag
 the flash
 the french
 the french dispatch
+the great reset
 the guardian
 the guilty
 the gunk
@@ -63717,6 +63733,7 @@ yujin
 yuki
 yuna
 yunjin
+yunus
 yurina
 yuta
 yuumi
