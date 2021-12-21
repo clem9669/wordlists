@@ -45,7 +45,7 @@ jobs:
             sed 'y/ÖöËÇÀāáǎëēěèīíǐìōóǒòūúǔǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECAaaaeeeeiiiioooouuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' twitter_quote twitter_upper twitter_lower twitter_nodash twitter_FR twitter_BE twitter_CH > twitter_noaccent;
 
       - name: Run sort and uniq
-        run: cat twitter twitter_noaccent >> pourquoit;LC_ALL=C sort -u pourquoit > twitter; ls -la; wc -l twitter*;
+        run: cat twitter twitter_nospaces twitter_noaccent >> pourquoit;LC_ALL=C sort -u pourquoit > twitter; ls -la; wc -l twitter*;
       
       # Runs a set of commands using the runners shell
       - name: Git commit and push
