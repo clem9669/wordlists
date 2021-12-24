@@ -4940,6 +4940,7 @@ BUNDUNDKANTONE
 BUON FERRAGOSTO
 BUON NATALE
 BUONA
+BUONE
 BUONE FESTE
 BUONFERRAGOSTO
 BUQUET
@@ -6273,6 +6274,7 @@ Buon Natale
 BuonFerragosto
 BuonNatale
 Buona
+Buone
 Buone Feste
 BuoneFeste
 Buquet
@@ -6545,6 +6547,7 @@ CASE 20
 CASE 21
 CASE 22
 CASE 23
+CASE 24
 CASE 3
 CASE 4
 CASE 5
@@ -7020,6 +7023,7 @@ CHRISTINE KELLY
 CHRISTINEANGOT
 CHRISTINEBOUTIN
 CHRISTINEKELLY
+CHRISTKIND
 CHRISTMAS
 CHRISTMAS EVE
 CHRISTMAS EVEL
@@ -7858,6 +7862,7 @@ Case 20
 Case 21
 Case 22
 Case 23
+Case 24
 Case 3
 Case 4
 Case 5
@@ -7881,6 +7886,7 @@ Case20
 Case21
 Case22
 Case23
+Case24
 Case3
 Case4
 Case5
@@ -12521,6 +12527,7 @@ FEBRUAR2022
 FECAFOOT
 FECAMP
 FEDE
+FEDERAAL
 FEDERATION
 FEDERATION WALLONIE-BRUXELLES
 FEDERATIONWALLONIE-BRUXELLES
@@ -13159,6 +13166,7 @@ FRISUR
 FRNOG
 FROGBAR
 FROHE WEIHNACHTEN
+FROHES FEST
 FROM SOFTWARE
 FROMHARDISKTOSSD
 FROMSOFTWARE
@@ -13890,6 +13898,8 @@ Frisur
 FrogBar
 Frohe Weihnachten
 FroheWeihnachten
+Frohes Fest
+FrohesFest
 From Software
 FromHARDISKtoSSD
 FromSoftware
@@ -14265,6 +14275,7 @@ GERTVERHULST
 GERUCHTE
 GERÄT
 GESCHAFT
+GESCHENK
 GESCHENKE
 GESCHICHTEN
 GESCHIEDENIS
@@ -15190,6 +15201,7 @@ GertVerhulst
 Geruchte
 Gerät
 Geschaft
+Geschenk
 Geschenke
 Geschichten
 Geschiedenis
@@ -17033,6 +17045,7 @@ IKOYI
 IL A 45
 IL NEIGE
 IL Y A 20
+IL Y A 3
 IL Y A 40
 IL Y A 5
 IL Y A 51
@@ -17502,6 +17515,7 @@ Ikoné
 Ikoyi
 Il a 45
 Il y a 20
+Il y a 3
 Il y a 40
 Il y a 5
 Il y a 51
@@ -17526,6 +17540,7 @@ IlsEtaient10
 Ilse Uyttersprot
 IlseUyttersprot
 Ilya20
+Ilya3
 Ilya40
 Ilya5
 Ilya51
@@ -30560,6 +30575,7 @@ PRESNEL
 PRESSE
 PRESSEKONFERENZ
 PRETRE
+PRETTIGE
 PREUVE
 PREVENTION
 PREVSPACE
@@ -31683,6 +31699,7 @@ Presko
 Presnel
 Presse
 Pressekonferenz
+Prettige
 Preuve
 Pride
 Priere
@@ -33856,6 +33873,7 @@ SANSEBASTIAN
 SANSIRO
 SANSPAYET
 SANTA
+SANTA CLAUS
 SANTAMARIA
 SANTANA
 SANTANDER
@@ -35687,6 +35705,8 @@ Sans Payet
 SansMbappé
 SansPayet
 Santa
+Santa Claus
+SantaClaus
 Santamaria
 Santana
 Santander
@@ -37026,6 +37046,7 @@ Szczesny
 Szenarien
 Szenario
 Szene
+SÉNÉGAL
 SÉVILLE
 Sète
 Sébastien
@@ -40836,6 +40857,7 @@ WICKED
 WIDERSPRUCH
 WIDERSPRUCHE
 WIDERSTAND
+WIEHNACHTE
 WIEN
 WIGGINS
 WII U
@@ -41295,6 +41317,7 @@ Wicked
 Widerspruch
 Widersprüche
 Widerstand
+Wiehnachte
 Wien
 Wiggins
 Wii U
@@ -45444,6 +45467,7 @@ bundundkantone
 buon ferragosto
 buon natale
 buona
+buone
 buone feste
 buonferragosto
 buquet
@@ -45710,6 +45734,7 @@ case 20
 case 21
 case 22
 case 23
+case 24
 case 3
 case 4
 case 5
@@ -46177,6 +46202,7 @@ christine kelly
 christineangot
 christineboutin
 christinekelly
+christkind
 christmas
 christmas eve
 christmas evel
@@ -48863,6 +48889,7 @@ feat2021
 februar 2022
 februar2022
 fecafoot
+federaal
 federation
 federer
 feedback
@@ -49499,6 +49526,7 @@ frisur
 frnog
 frogbar
 frohe weihnachten
+frohes fest
 from software
 fromhardisktossd
 fromsoftware
@@ -49866,6 +49894,7 @@ gertverhulst
 geruchte
 gerät
 geschaft
+geschenk
 geschenke
 geschichten
 geschiedenis
@@ -51236,6 +51265,7 @@ ikoyi
 il a 45
 il neige
 il y a 20
+il y a 3
 il y a 40
 il y a 5
 il y a 51
@@ -58792,6 +58822,7 @@ presnel
 presse
 pressekonferenz
 pretre
+prettige
 preuve
 prevspace
 pride
@@ -60235,6 +60266,7 @@ sansiro
 sansmbappé
 sanspayet
 santa
+santa claus
 santamaria
 santana
 santander
@@ -63959,6 +63991,7 @@ wicked
 widerspruch
 widersprüche
 widerstand
+wiehnachte
 wien
 wiggins
 wii u
