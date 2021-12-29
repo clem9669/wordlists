@@ -7631,6 +7631,7 @@ CORNET
 CORONA
 CORONA-DEMOS
 CORONA-MASSNAHMEN
+CORONA-SKEPTIKER-THEORIE
 CORONA-ZAHLEN AN SCHULEN
 CORONA-ZAHLENANSCHULEN
 CORONADEMOS
@@ -8869,10 +8870,12 @@ Corleone
 Cornet
 Corona
 Corona-Massnahmen
+Corona-Skeptiker-Theorie
 Corona-Zahlen an Schulen
 Corona-ZahlenanSchulen
 CoronaInfoCH
 CoronaMassnahmen
+CoronaSkeptikerTheorie
 CoronaZahlen an Schulen
 CoronaZahlenanSchulen
 Coronapas
@@ -12886,9 +12889,12 @@ FEYENOORD
 FF VII
 FFP2 MASKEN
 FFP2 Masken
+FFP2-MASKE
 FFP2-MASKEN
+FFP2-Maske
 FFP2-Masken
 FFP2MASKEN
+FFP2Maske
 FFP2Masken
 FFPOLITIQUE
 FFT21
@@ -43059,6 +43065,7 @@ ZULTE WAREGEM
 ZULTEWAREGEM
 ZUMBA
 ZURCHER
+ZURCHER PROFESSOR
 ZURI
 ZURICH
 ZURICHDL
@@ -43305,11 +43312,14 @@ Zwitserland
 ZyedetBouna
 Zywoo
 ZÄHNE
+ZÜRCHER PROFESSOR
 Zélande
 Zénith
 Zéro
 Züge
 Zürcher
+Zürcher Professor
+ZürcherProfessor
 Zürich
 \BELGEN\
 \Belgen\
@@ -47733,6 +47743,7 @@ cornet
 corona
 corona-demos
 corona-massnahmen
+corona-skeptiker-theorie
 corona-zahlen an schulen
 corona-zahlenanschulen
 coronademos
@@ -50085,6 +50096,7 @@ fever_part_3
 feyenoord
 ff vii
 ffp2 masken
+ffp2-maske
 ffp2-masken
 ffp2masken
 ffpolitique
@@ -63765,6 +63777,7 @@ thibau nys
 thibault
 thibaunys
 thibaut courtois
+thibautcourtois
 thibou
 thierry
 thierry burkart
@@ -66109,6 +66122,7 @@ zénith
 zéro
 züge
 zürcher
+zürcher professor
 züri
 zürich
 ÄNDERUNGEN
