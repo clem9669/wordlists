@@ -4807,6 +4807,7 @@ BREGANCON
 BREI
 BREL
 BRELIV
+BREMCI
 BRENDAN FRASER
 BRENDANFRASER
 BRENG
@@ -7027,6 +7028,7 @@ CHASUBLE
 CHAT_WITH_KEP1ER
 CHAUMET
 CHAUVIGNY
+CHEBHA
 CHECK TH1S
 CHECKMAPAIRE
 CHECKTH1S
@@ -7282,6 +7284,7 @@ CLARK
 CLARK KENT
 CLARKKENT
 CLASH
+CLASH ROYALE
 CLASICO
 CLASSICO
 CLASSICO ORGANISE
@@ -8542,6 +8545,8 @@ Clark
 Clark Kent
 ClarkKent
 Clash
+Clash Royale
+ClashRoyale
 Clasico
 Classico
 Classico Organisé
@@ -11102,6 +11107,7 @@ Dyson
 Dzeko
 DÄNEMARK
 DÉBUT 2021
+DÉTECTIVE PIKACHU
 Dänemark
 DéFI
 Débarquement
@@ -11126,7 +11132,9 @@ Démons
 Désinstalle
 Désolée
 Détective Conan
+Détective Pikachu
 DétectiveConan
+DétectivePikachu
 DévasteUnOutil
 Développement de Personnage
 DéveloppementdePersonnage
@@ -23550,6 +23558,7 @@ Langzeitfolgen
 Lanimation
 Lannion
 Lannée
+Lantis
 Lanz
 Laon
 Lapix
@@ -25345,6 +25354,7 @@ MAUD
 MAUER
 MAUERBAU
 MAUL
+MAUPAY
 MAUREEN
 MAUREEN DOR
 MAUREENDOR
@@ -27047,6 +27057,7 @@ Maud
 Mauer
 Mauerbau
 Maul
+Maupay
 Maureen
 Maureen Dor
 MaureenDor
@@ -28605,6 +28616,7 @@ NONALAVACCINATIONOBLIGATOIRE
 NONANTECINQ
 NONAUPASSDELAHONTE
 NONAUPASSEDELAHONTE
+NONAUPASSEVACCINAL
 NONAUPASSSANITAIRE
 NONAUPASSVACCINAL
 NONAUVACCINOBLIGATOIRE
@@ -38949,6 +38961,7 @@ TWITCHBLACKOUT
 TWITCHDOBETTER
 TWITCHLEAK
 TWITCHRECAP
+TWITCHSTREAMER
 TWITCHSTREAMERS
 TWITTERDOWN
 TWITTERENY
@@ -39314,6 +39327,7 @@ TheBadBatch
 TheBatman
 TheBeatles
 TheBookOfBobaFett
+TheBookofBobaFett
 TheBoys
 TheBoyz
 TheBreakers
@@ -46256,6 +46270,7 @@ bregancon
 brei
 brel
 breliv
+bremci
 brendan fraser
 brendanfraser
 breng
@@ -47078,6 +47093,7 @@ chasuble
 chat_with_kep1er
 chaumet
 chauvigny
+chebha
 check th1s
 checkmapaire
 checkth1s
@@ -47335,6 +47351,7 @@ clark
 clark kent
 clarkkent
 clash
+clash royale
 clasico
 classico
 classico organisé
@@ -56808,6 +56825,7 @@ maud
 mauer
 mauerbau
 maul
+maupay
 maureen
 maureen dor
 maureendor
@@ -58421,8 +58439,10 @@ nomme5
 non au pass vaccinal
 nonalavaccinationobligatoire
 nonantecinq
+nonauPasseVaccinal
 nonaupassdelahonte
 nonaupassedelahonte
+nonaupassevaccinal
 nonaupasssanitaire
 nonaupassvaccinal
 nonauvaccinobligatoire
@@ -64290,6 +64310,7 @@ twitchblackout
 twitchdobetter
 twitchleak
 twitchrecap
+twitchstreamer
 twitchstreamers
 twitterdown
 twittereny
