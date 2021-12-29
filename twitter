@@ -736,6 +736,7 @@
 A 12
 A NICE
 A Nice
+A'PEN
 A12
 A220
 AA GENT
@@ -2164,6 +2165,7 @@ AURELMANGA
 AURIER
 AURORE
 AURORE BERGE
+AURORE BERGÉ
 AUROREBERGE
 AUSBEL
 AUSBILDUNG
@@ -13271,6 +13273,7 @@ FRANSERGIO
 FRANSMAN
 FRANSTALIGE
 FRANSTALIGEN
+FRANZ WAGNER
 FRANZL
 FRANZOSEN
 FRANÇOIS FILLON
@@ -13997,6 +14000,8 @@ Fransergio
 Fransman
 Franstalige
 Franstaligen
+Franz Wagner
+FranzWagner
 Franzosen
 Françaises
 François
@@ -20399,6 +20404,7 @@ KERK
 KERL
 KERNCENTRALES
 KERNENERGIE
+KERNKABINET
 KERNKRAFT
 KERNUITSTAP
 KERR
@@ -21057,6 +21063,7 @@ Kerk
 Kerl
 Kerncentrales
 Kernenergie
+Kernkabinet
 Kernkraft
 Kerr
 Kerst
@@ -22449,6 +22456,7 @@ LES 2010
 LES 3
 LES 500
 LES 6
+LES 8
 LES BELGES
 LES BLEUES
 LES BUSD
@@ -24002,6 +24010,7 @@ Les 2010
 Les 3
 Les 500
 Les 6
+Les 8
 Les BUSD
 Les Belges
 Les Bleues
@@ -24038,6 +24047,7 @@ Les2010
 Les3
 Les500
 Les6
+Les8
 LesBUSD
 LesBelges
 LesBleues
@@ -43338,6 +43348,7 @@ Zürich
 \wellen\
 \woke\
 \zensur\
+a'pen
 a220
 aa gent
 aaa2021
@@ -44323,6 +44334,7 @@ apache
 apartheid
 apash
 apathie
+apen
 apex
 apexlegends
 apfelstrudel
@@ -50297,6 +50309,7 @@ fransergio
 fransman
 franstalige
 franstaligen
+franz wagner
 franzl
 franzosen
 françaises
@@ -53911,6 +53924,7 @@ kerk
 kerl
 kerncentrales
 kernenergie
+kernkabinet
 kernkraft
 kernuitstap
 kerr
@@ -55263,6 +55277,7 @@ les 2010
 les 3
 les 500
 les 6
+les 8
 les Williams
 les belges
 les bleues
@@ -65858,7 +65873,9 @@ zürich
 Ärzte
 Ärztin
 ÉGALEMENT
+ÉLISE
 Également
+Élise
 ÊTRE FRANCAIS
 ÊTREFRANCAIS
 Être Français
@@ -65893,6 +65910,7 @@ zürich
 également
 églises
 électriseuntitre
+élise
 élise lucet
 éliselucet
 émeline
