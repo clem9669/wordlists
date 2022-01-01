@@ -261,7 +261,9 @@ Access Denied
 AccessDenied
 Acoustic
 Acoustic Sessions
+Acoustic Version
 AcousticSessions
+AcousticVersion
 Act 1
 Act1
 Affirming Sounds For Dogs
@@ -496,6 +498,7 @@ COFFEE FOR YOUR HEAD
 COLD HEART
 COLD HEART 
 COLORBLAST VERSION
+COME INTO MY LIFE
 COMING FOR YOU
 CONFIDENCE IN ME
 CONNECTIVITY
@@ -580,6 +583,8 @@ Cold Heart
 ColdHeart
 Colorblast Version
 ColorblastVersion
+Come into My Life
+ComeintoMyLife
 Coming For You
 ComingForYou
 Connectivity
@@ -600,6 +605,8 @@ D$IVII
 D$iVII
 D$iVII ReMastered 2021
 D$iVII-ReMastered2021
+D'EUX
+D'Eux
 DANCE MONKEY
 DANCING ON MY OWN
 DANCING WITH STRANGERS 
@@ -617,6 +624,7 @@ DEMAIN CA IRA
 DEMONS
 DEMONS - TELYKAST REMIX
 DESTIN
+DEux
 DINGUE
 DIVINELY UNINSPIRED TO A HELLISH EXTENT
 DIVINELY UNINSPIRED TO A HELLISH EXTENT 
@@ -992,6 +1000,7 @@ GLOW
 GO IT ALONE 
 GOLD
 GOOD 4 U
+GOOD GIRL GONE BAD
 GOOD ONES
 GOOD ONES - JOEL CORRY REMIX
 GOODBYE YELLOW BRICK ROAD 
@@ -1019,9 +1028,11 @@ Glow
 Go It Alone 
 GoItAlone
 Gold
+Good Girl Gone Bad
 Good Ones
 Good Ones  Joel Corry Remix
 Good Ones - Joel Corry Remix
+GoodGirlGoneBad
 GoodOnes
 GoodOnes-JoelCorryRemix
 Goodbye Yellow Brick Road 
@@ -1963,6 +1974,7 @@ Puppet
 RAP ATTACK MIXTAPE VOL. 1
 RASMOILCUL
 RASPOUTINE
+RASPUTIN
 REAR VEIW
 RED
 RED 
@@ -1999,6 +2011,7 @@ Rap Attack Mixtape Vol. 1
 RapAttackMixtapeVol.1
 Rasmoilcul
 Raspoutine
+Rasputin
 ReMastered 2021
 ReMastered2021
 Rear Veiw
@@ -2126,6 +2139,7 @@ SOUR
 SPA AND SLEEP
 SPA MUSIC | DEEP SLEEP
 SPACEMAN
+SPACEMAN 
 SPARKLY ABS
 SPEAK NOW
 SPECIAL EDITION
@@ -2364,9 +2378,13 @@ THE COUNTRY AND THE COAST SIDE A
 THE DIFFERENCE 
 THE DREAM OF CHRISTMAS - DELUXE
 THE DREAMING
+THE E.N.D. 
+THE ENERGY NEVER DIES [DELUXE VERSION]
+THE ENERGY NEVER DIES [Deluxe Version]
 THE FEELING
 THE FEELS
 THE HATING GAME 
+THE HEIST
 THE LOCKDOWN SESSIONS
 THE MOTTO
 THE NEW ME
@@ -2383,6 +2401,8 @@ THE TAPE
 THE WEEKEND
 THE WORKS 
 THEANXIETY
+THEE.N.D.
+THEENERGYNEVERDIES[DeluxeVersion]
 THESCOTTS
 THESE SAME SKIES - LIVE
 THESE THINGS HAPPEN TOO
@@ -2464,6 +2484,7 @@ The Dreaming
 The Feeling
 The Feels
 The Hating Game 
+The Heist
 The Lockdown Sessions
 The Motto
 The New Me
@@ -2490,6 +2511,7 @@ TheDreamofChristmas-Deluxe
 TheFeeling
 TheFeels
 TheHatingGame
+TheHeist
 TheLockdownSessions
 TheMotto
 TheNewMe
@@ -2591,6 +2613,7 @@ UtopiaReimagined
 UtopiaReimagined:Euphoria
 VACATION
 VAGUE A L'ÂME
+VAI LA EM CASA HOJE
 VALENTINES DAY 2021
 VELVET / FIRE / GRACE
 VICE VERSA
@@ -2610,6 +2633,9 @@ Vague a l'âme
 Vague a lâme
 Vague à l'âme
 Vagueal'âme
+Vai La Em Casa Hoje
+Vai Lá Em Casa Hoje
+VaiLaEmCasaHoje
 Valentines Day 2021
 ValentinesDay2021
 Velvet / Fire / Grace
@@ -2650,6 +2676,7 @@ WHAT WOULD YOU DO?
 WHAT'S CHRISTMAS ANYWAY
 WHATWOULDYOUDO?
 WHEN CHRISTMAS COMES AROUND...
+WHEN I'M GONE
 WHEN IT ENDS
 WHEN WE ALL FALL ASLEEP
 WHENWEALLFALLASLEEP
@@ -2710,8 +2737,11 @@ WhatDidIDo?
 WhatIPutYouThrough
 Whats Christmas Anyway
 When Christmas Comes Around...
+When I'm Gone
+When Im Gone
 When It Ends
 WhenChristmasComesAround...
+WhenI'mGone
 WhenItEnds
 Where Are You Now
 Where the Light Is
@@ -2950,6 +2980,7 @@ coffeeforyourhead
 cold heart
 cold heart 
 colorblast version
+come into my life
 coming for you
 confidence in me
 confidenceinme
@@ -2963,6 +2994,7 @@ cross my heart
 crusher
 cœur
 d$ivii
+d'eux
 dance monkey
 dancing on my own
 dancing with strangers 
@@ -3229,6 +3261,7 @@ glow
 go it alone 
 gold
 good 4 u
+good girl gone bad
 good ones
 good ones - joel corry remix
 good4u
@@ -3586,6 +3619,7 @@ puppet
 rap attack mixtape vol. 1
 rasmoilcul
 raspoutine
+rasputin
 rear veiw
 red
 red 
@@ -3697,6 +3731,7 @@ sour
 spa and sleep
 spa music | deep sleep
 spaceman
+spaceman 
 sparkly abs
 speak now
 special edition
@@ -3757,9 +3792,12 @@ the country and the coast side a
 the difference 
 the dream of christmas - deluxe
 the dreaming
+the e.n.d. 
+the energy never dies [deluxe version]
 the feeling
 the feels
 the hating game 
+the heist
 the lockdown sessions
 the motto
 the new me
@@ -3831,6 +3869,7 @@ vague a l'âme
 vague a lâme
 vague à l'âme
 vagueal'âme
+vai la em casa hoje
 valentines day 2021
 velvet / fire / grace
 vice versa
@@ -3861,6 +3900,7 @@ what i put you through
 what would you do?
 what's christmas anyway
 when christmas comes around...
+when i'm gone
 when it ends
 when we all fall asleep
 where are you now
