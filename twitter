@@ -681,6 +681,8 @@
 7FATES_CHAKHO
 7H20
 7H45
+7JANVIER2015
+7Janvier2015
 7MILLIONS
 7YEARSOFHAPPINESSRV
 7YearsOfHappinessRV
@@ -690,6 +692,7 @@
 7fates_chakho
 7h20
 7h45
+7janvier2015
 7millions
 7yearsofhappinessrv
 8 MILLIONS
@@ -4301,6 +4304,7 @@ BESIKTASDORTMUND
 BESNEHARD
 BEST ANIME
 BEST CONCERT
+BEST FRIENDS
 BEST TTRPG
 BESTAAT
 BESTANIME
@@ -5099,6 +5103,7 @@ BRUMCI
 BRUNO DUMONT
 BRUNO FERNANDES
 BRUNO JEUDY
+BRUNO LATOUR
 BRUNO LE MAIRE
 BRUNO LEMAIRE
 BRUNO MARS
@@ -5818,9 +5823,11 @@ BesiktasDortmund
 Besnehard
 Best Anime
 Best Concert
+Best Friends
 Best TTRPG
 BestAnime
 BestConcert
+BestFriends
 BestOfZemmour
 BestTTRPG
 Bestaat
@@ -6555,6 +6562,7 @@ Bruin
 Bruno Dumont
 Bruno Fernandes
 Bruno Jeudy
+Bruno Latour
 Bruno Le Maire
 Bruno Lemaire
 Bruno Mars
@@ -6563,6 +6571,7 @@ BrunoDumont
 BrunoFernandes
 BrunoFunRadio
 BrunoJeudy
+BrunoLatour
 BrunoLeMaire
 BrunoLemaire
 BrunoMars
@@ -8113,7 +8122,9 @@ CRYWHU
 CRÈME
 CSI 93
 CSI93
+CSTEXITSTRATEGIE
 CSTO
+CSTexitstrategie
 CTUUPOTE
 CUADRADO
 CUBA
@@ -11811,6 +11822,7 @@ ELOPUMP
 ELS CLOTTEMANS
 ELS VAN DOESBURG
 ELSA
+ELSA CAYAT
 ELSALVADOR
 ELSCLOTTEMANS
 ELSENE
@@ -12538,6 +12550,8 @@ Els Clottemans
 Els van Doesburg
 ElsClottemans
 Elsa
+Elsa Cayat
+ElsaCayat
 Elsene
 Elsner
 ElsvanDoesburg
@@ -13865,6 +13879,7 @@ FREDDIE
 FREDDIE MERCURY
 FREDDIEMERCURY
 FREDDY
+FREDERIC BOISSEAU
 FREDERIK DE KLERK
 FREDERIKDEKLERK
 FREDERIQUE
@@ -13960,6 +13975,7 @@ FROSTMV
 FROZEN2
 FRUHLING
 FRUITS
+FRÉDÉRIC BOISSEAU
 FRÉDÉRIQUE VIDAL
 FRÜHLING
 FTCYB
@@ -14728,6 +14744,8 @@ Frost
 Frozen2
 Fruhling
 Fruits
+Frédéric Boisseau
+FrédéricBoisseau
 Frédérique Vidal
 FrédériqueVidal
 Fréjus
@@ -19420,6 +19438,7 @@ JESSI
 JESSICA
 JESSICA FOX
 JESSICAFOX
+JESUISCHARLIE
 JESUISTOUTNU
 JESUISUNCOMPTEDEMARCELSEL
 JESUISUNEFAILLE
@@ -20204,6 +20223,7 @@ JeJureSurlHonor
 JeRejoinsHorizons
 JeSoutiensMelenchon
 JeSoutiensZemmour
+JeSuisCharlie
 JeSuisUnCompteDeMarcelSel
 JeVoteBertrand
 JeVotePiolle
@@ -21533,6 +21553,7 @@ KOSTUM
 KOTEI
 KOTOR
 KOTZEN
+KOUACHI
 KOUAME
 KOUAMÉ
 KOUCHNER
@@ -22201,6 +22222,7 @@ Kosovo
 Kostüm
 Kotei
 Kotzen
+Kouachi
 Kouame
 Kouamé
 Kouchner
@@ -22961,6 +22983,7 @@ LE 3X3
 LE 4
 LE 5
 LE 6
+LE 7
 LE 8
 LE 9
 LE BALLON
@@ -24546,6 +24569,7 @@ Le 3x3
 Le 4
 Le 5
 Le 6
+Le 7
 Le 8
 Le 9
 Le BMX
@@ -24682,6 +24706,7 @@ Le3x3
 Le4
 Le5
 Le6
+Le7
 Le8
 Le9
 LeBMX
@@ -27344,6 +27369,7 @@ MUSHOKUTENSEI
 MUSIALA
 MUSK
 MUSLERA
+MUSTAPHA OURRAD
 MUSTER
 MUSULMANS
 MUTANTE
@@ -29038,6 +29064,8 @@ MushokuTensei
 Musiala
 Musk
 Muslera
+Mustapha Ourrad
+MustaphaOurrad
 Muster
 Musulmans
 Mutante
@@ -31636,6 +31664,8 @@ PAULQUILES
 PAULRICARD
 PAULRUDD
 PAULRUSESABAGINA
+PAUPERISATION
+PAUPÉRISATION
 PAUS
 PAUSE
 PAUWELS
@@ -32918,6 +32948,7 @@ PauletteNardal
 Pauline
 Pauline Ranvier
 PaulineRanvier
+Paupérisation
 Paus
 Pause
 Pauwels
@@ -47242,6 +47273,7 @@ besiktasdortmund
 besnehard
 best anime
 best concert
+best friends
 best ttrpg
 bestaat
 bestanime
@@ -48026,6 +48058,7 @@ brumci
 bruno dumont
 bruno fernandes
 bruno jeudy
+bruno latour
 bruno le maire
 bruno lemaire
 bruno mars
@@ -49597,6 +49630,7 @@ crépin
 créteil
 csi 93
 csi93
+cstexitstrategie
 csto
 ctuupote
 cuadrado
@@ -50986,6 +51020,7 @@ elopump
 els clottemans
 els van doesburg
 elsa
+elsa cayat
 elsalvador
 elsclottemans
 elsene
@@ -52438,6 +52473,7 @@ frostmv
 frozen2
 fruhling
 fruits
+frédéric boisseau
 frédérique vidal
 frédériquevidal
 fréjus
@@ -55170,6 +55206,7 @@ jessi
 jessica
 jessica fox
 jessicafox
+jesuischarlie
 jesuistoutnu
 jesuisuncomptedemarcelsel
 jesuisunefaille
@@ -56316,6 +56353,7 @@ kostüm
 kotei
 kotor
 kotzen
+kouachi
 kouame
 kouamé
 kouchner
@@ -57021,6 +57059,7 @@ le 3x3
 le 4
 le 5
 le 6
+le 7
 le 8
 le 9
 le ballon
@@ -59905,6 +59944,7 @@ mushokutensei
 musiala
 musk
 muslera
+mustapha ourrad
 muster
 musulmans
 mutante
@@ -61502,6 +61542,7 @@ paulquiles
 paulricard
 paulrudd
 paulrusesabagina
+paupérisation
 paus
 pause
 pauwels
