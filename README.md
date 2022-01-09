@@ -35,7 +35,7 @@
 ## About The Project
 
 
-It is easier to crack password for english people because it is le langue of internet. And there is good ressource as rockyou, hashorg2019, etc...
+It is easier to crack password for english people because it is le langue of internet. And there is good resource as rockyou, hashorg2019, etc...
 
 This project aim to provide french word list about everything a person could use as a base password.
 If you are cracking with the list above, please also **use a rule in hashcat or john**.
