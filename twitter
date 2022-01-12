@@ -7511,6 +7511,7 @@ CHEU-B
 CHEUB
 CHEVAL
 CHEVALDANSUNTITRE
+CHEVALINE
 CHEVEUDANSUNTITRE
 CHEVIL
 CHEYROU
@@ -8863,6 +8864,7 @@ Cheu-B
 CheuB
 Cheval
 ChevalDansUnTitre
+Chevaline
 CheveuDansUnTitre
 Cheyrou
 Chi Mai
@@ -15906,6 +15908,8 @@ GRATISTESTS
 GRATTEUNTITRE
 GRATULATION
 GRATULIERE
+GRAUBUNDEN
+GRAUBÜNDEN
 GRAVE
 GRAY
 GRAZ
@@ -16812,6 +16816,7 @@ Gratistests
 GratteUnTitre
 Gratulation
 Gratuliere
+Graubünden
 Grave
 Gray
 Graz
@@ -40256,6 +40261,7 @@ TEAMFRANCE
 TEAMG1
 TEAMGOKU
 TEAMJINX
+TEAMMALI
 TEAMMOROCCO
 TEAMNETFLIX
 TEAMNIGERIA
@@ -40267,6 +40273,7 @@ TEAMS
 TEAMSENEGAL
 TEAMSPOTIFY
 TEAMTREIDEGETEI
+TEAMTUNISIA
 TEAMUSA
 TEAMZERATOR
 TEBAS
@@ -41136,6 +41143,7 @@ TUNEGY
 TUNISIA
 TUNISIE
 TUNISIEN
+TUNMLI
 TUPAC
 TURBULENCE
 TURBULENCE MV IS COMING
@@ -41370,6 +41378,7 @@ TeamComoros
 TeamFrance
 TeamGoku
 TeamJinx
+TeamMali
 TeamMorocco
 TeamNetflix
 TeamNigeria
@@ -41380,6 +41389,7 @@ TeamPSG
 TeamSenegal
 TeamSpotify
 TeamTreiDegetei
+TeamTunisia
 TeamUSA
 TeamZerator
 Teams
@@ -49853,6 +49863,7 @@ cheu-b
 cheub
 cheval
 chevaldansuntitre
+chevaline
 cheveudansuntitre
 chevil
 cheyrou
@@ -54358,6 +54369,7 @@ gratistests
 gratteuntitre
 gratulation
 gratuliere
+graubünden
 grave
 gray
 graz
@@ -66967,6 +66979,7 @@ teamfrance
 teamg1
 teamgoku
 teamjinx
+teammali
 teammorocco
 teamnetflix
 teamnigeria
@@ -66978,6 +66991,7 @@ teams
 teamsenegal
 teamspotify
 teamtreidegetei
+teamtunisia
 teamusa
 teamzerator
 tebas
@@ -67854,6 +67868,7 @@ tunegy
 tunisia
 tunisie
 tunisien
+tunmli
 tupac
 turbulence
 turbulence mv is coming
