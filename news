@@ -164,6 +164,9 @@
 3.Advent
 34
 355
+37 2 LE MATIN
+37 2 le matin
+372lematin
 3M ZWIJNDRECHT
 3M Zwijndrecht
 3MZwijndrecht
@@ -257,6 +260,7 @@ AD
 AD ASTRA
 ADALINE
 ADAM DRIVER
+ADAM SANDLER
 ADAMA TRAORE
 ADAMA TRAORÉ
 ADAMATRAORE
@@ -295,6 +299,7 @@ AFGHANISTAN CARTE
 AFRIQUE AUSTRALE
 AFRIQUE DU SUD
 AFSCA
+AFTER LIFE
 AFTER WE FELL
 AGATHE AUPROUX
 AGATHEAUPROUX
@@ -433,6 +438,7 @@ ALLYSON FELIX
 ALMUDENA GRANDES
 ALOPECIA
 ALPHABET GREC
+ALPHONSO DAVIES
 ALPINE A110
 ALTA BADIA
 ALTENAHR
@@ -856,7 +862,9 @@ Ad Astra
 AdAstra
 Adaline
 Adam Driver
+Adam Sandler
 AdamDriver
+AdamSandler
 Adama Traoré
 Adama traore
 AdamaTraoré
@@ -909,7 +917,9 @@ Afrique du Sud
 Afriqueaustrale
 AfriqueduSud
 Afsca
+After Life
 After We Fell
+AfterLife
 AfterWeFell
 Agathe Auproux
 AgatheAuproux
@@ -1135,6 +1145,8 @@ AlmudenaGrandes
 Alopecia
 Alphabet grec
 Alphabetgrec
+Alphonso Davies
+AlphonsoDavies
 Alpine A110
 AlpineA110
 Alta Badia
@@ -1828,6 +1840,7 @@ BEERSCHOT
 BEERSCHOT VA.  ANDERLECHT
 BEERSEL
 BEGROTINGSAKKOORD
+BEINEIX
 BEIRUT
 BEKER VAN BELGIE
 BELARUS
@@ -1869,6 +1882,7 @@ BELMONDO OVERLEDEN
 BELMONDO TOT
 BEN AFFLECK
 BEN AFFLECK JENNIFER GARNER
+BEN ARFA
 BEN BECKER
 BEN ROELANTS
 BEN ZUCKER
@@ -2404,6 +2418,7 @@ Beerschot VA.  anderlecht
 BeerschotVA.anderlecht
 Beersel
 Begrotingsakkoord
+Beineix
 Beirut
 Beker van belgie
 Bekervanbelgie
@@ -2468,11 +2483,13 @@ Belmondooverleden
 Belmondotot
 Ben Affleck
 Ben Affleck Jennifer Garner
+Ben Arfa
 Ben Becker
 Ben Roelants
 Ben Zucker
 BenAffleck
 BenAffleckJenniferGarner
+BenArfa
 BenBecker
 BenRoelants
 BenZucker
@@ -3010,6 +3027,7 @@ CAROLE DELGA
 CAROLINE FONTENOY
 CAROLINE KENNEDY
 CAROLINE MAES
+CAROLINE ROUX
 CARRASCO
 CARREFOUR
 CARREFOUR - BLACK FRIDAY
@@ -3574,9 +3592,11 @@ CaroleDelga
 Caroline Fontenoy
 Caroline Kennedy
 Caroline Maes
+Caroline Roux
 CarolineFontenoy
 CarolineKennedy
 CarolineMaes
+CarolineRoux
 Carrasco
 Carrefour
 Carrefour  Black Friday
@@ -4520,6 +4540,7 @@ DJOKOVIC
 DJOKOVIC AUSTRALIAN OPEN
 DJOKOVIC AUSTRALIE
 DJOKOVIC MELBOURNE
+DJOKOVIC NEWS HEUTE
 DJSnake
 DOC GYNECO
 DOCTEUR JIVAGO
@@ -4548,6 +4569,7 @@ DORTMUND
 DORTMUND GEGEN AJAX
 DORTMUND GEGEN BAYERN
 DORTMUND GEGEN EINTRACHT FRANKFURT
+DORTMUND GEGEN FREIBURG
 DORTMUND GEGEN HOFFENHEIM
 DORTMUND – AJAX
 DORTMUND – BAYERN
@@ -4935,9 +4957,11 @@ Djokovic
 Djokovic Australian Open
 Djokovic Australie
 Djokovic Melbourne
+Djokovic news heute
 DjokovicAustralianOpen
 DjokovicAustralie
 DjokovicMelbourne
+Djokovicnewsheute
 Doc Gyneco
 DocGyneco
 Docteur Jivago
@@ -4979,6 +5003,7 @@ Dortmund
 Dortmund gegen Ajax
 Dortmund gegen Bayern
 Dortmund gegen Eintracht Frankfurt
+Dortmund gegen Freiburg
 Dortmund gegen Hoffenheim
 Dortmund – Ajax
 Dortmund – Bayern
@@ -4986,6 +5011,7 @@ Dortmund – Sporting
 DortmundgegenAjax
 DortmundgegenBayern
 DortmundgegenEintrachtFrankfurt
+DortmundgegenFreiburg
 DortmundgegenHoffenheim
 Dortmund–Ajax
 Dortmund–Bayern
@@ -6810,6 +6836,7 @@ FürstinCharlenevonMonaco
 FürstincharlenevonMonaco
 GABBY PETITO
 GABBY WILLIAMS
+GABON GHANA
 GABRIEL ATTAL
 GABRIEL BORIC
 GABRIEL SALAZAR
@@ -6871,6 +6898,7 @@ GENK VOETBAL
 GENSHIN IMPACT
 GENT  CHARLEROI
 GENT  GENK
+GENT  KORTRIJK
 GENT - CLUB BRUGGE
 GENT CLUB BRUGGE
 GENT JAZZ
@@ -7072,6 +7100,8 @@ Gabby Petito
 Gabby Williams
 GabbyPetito
 GabbyWilliams
+Gabon Ghana
+GabonGhana
 Gabriel Attal
 Gabriel Boric
 Gabriel Salazar
@@ -7174,6 +7204,7 @@ GenshinImpact
 Gent  Charleroi
 Gent  Club Brugge
 Gent  Genk
+Gent  Kortrijk
 Gent - Club Brugge
 Gent Club Brugge
 Gent Jazz
@@ -7182,6 +7213,7 @@ GentCharleroi
 GentClubBrugge
 GentGenk
 GentJazz
+GentKortrijk
 George Clooney
 George Michael
 George W. Bush
@@ -7965,6 +7997,7 @@ INTER – REAL
 INTER – SHERIFF
 INTERDISCOUNT
 INTERMARCHÉ
+INVISIBLE MAN
 IOS 14.8
 IOS 15
 IOS 15.1
@@ -8205,6 +8238,8 @@ Inter–Juventus
 Inter–Naples
 Inter–Real
 Inter–Sheriff
+Invisible Man
+InvisibleMan
 Iran
 Irene Schouten
 IreneSchouten
@@ -8473,6 +8508,7 @@ JEREMY DESPLANCHES
 JEREMY FREROT
 JEROEN MEUS
 JEROEN PERCEVAL
+JEROEN RIETBERGEN
 JEROME BOATENG
 JERRY DOUGLAS
 JESSICA AIDI
@@ -8644,6 +8680,7 @@ JUNIKÄFER
 JUNIKäFER
 JUNINHO
 JUNIOR MESSIAS
+JUPILER LEAGUE
 JUPILER PRO LEAGUE
 JUPILER PRO LEAGUE 2021
 JURA SUD – SAINT-ÉTIENNE
@@ -8924,8 +8961,10 @@ JeremyDesplanches
 Jeremyfrerot
 Jeroen Meus
 Jeroen Perceval
+Jeroen Rietbergen
 JeroenMeus
 JeroenPerceval
+JeroenRietbergen
 Jerome Boateng
 JeromeBoateng
 Jerry Douglas
@@ -9208,8 +9247,10 @@ Junikäfer
 Juninho
 Junior Messias
 JuniorMessias
+Jupiler League
 Jupiler Pro League
 Jupiler Pro League 2021
+JupilerLeague
 JupilerProLeague
 JupilerProLeague2021
 Jura Sud – saint-étienne
@@ -9334,6 +9375,7 @@ KATRIENVANDERLINDEN
 KATRINA KAIF
 KAZACHSTAN
 KAZAKHSTAN
+KAZOU
 KEANU REEVES
 KELLY BOCHENKO
 KELLY OSBOURNE
@@ -9556,6 +9598,7 @@ Katrina Kaif
 KatrinaKaif
 Kazachstan
 Kazakhstan
+Kazou
 Keanu Reeves
 KeanuReeves
 Kelly Bochenko
@@ -9945,6 +9988,7 @@ LEA SPRUNGER
 LEANDRO TROSSARD
 LEANDROTROSSARD
 LEBRON JAMES
+LEC
 LECASTELLET
 LECH/ZÜRS
 LEDIABLES'HABILLEENPRADA
@@ -9991,6 +10035,7 @@ LENZBURG
 LEON MARCHAND
 LEONARDO DICAPRIO
 LEONARDO SPINAZZOLA
+LEP
 LEPARISIEN
 LEQUIPE
 LERNOUT EN HAUSPIE
@@ -11146,6 +11191,7 @@ MAN CITY GEGEN LEICESTER
 MAN CITY GEGEN PSG
 MAN CITY – ARSENAL
 MAN CITY – BURNLEY
+MAN CITY – CHELSEA
 MAN CITY – CRYSTAL PALACE
 MAN CITY – EVERTON
 MAN CITY – FC BRUGES
@@ -11303,6 +11349,8 @@ MARLENE SCHIAPPA
 MAROC
 MAROC - GHANA
 MAROC ALGÉRIE
+MAROC COMORES
+MAROC – COMORES
 MARSCH FÜRS LEBEN
 MARSEILLE
 MARSEILLE SAINT-ETIENNE
@@ -11359,6 +11407,7 @@ MATHIAS COPPENS
 MATHIAS FLUCKIGER
 MATHIAS FLuCKIGER
 MATHIAS FLÜCKIGER
+MATHIAS SERCU
 MATHIAS VICHERAT
 MATHIASFLUCKIGER
 MATHIASFLuCKIGER
@@ -11619,6 +11668,7 @@ MODERNA
 MODERNA AKTIE
 MODERNA IMPFSTOFF
 MODERNER FÜNFKAMPF
+MODISSA
 MODRIC
 MOEDERDAG
 MOHAMED ALI
@@ -11798,6 +11848,7 @@ Man City gegen Leicester
 Man City gegen PSG
 Man City – Arsenal
 Man City – Burnley
+Man City – Chelsea
 Man City – Crystal Palace
 Man City – Everton
 Man City – FC Bruges
@@ -11818,6 +11869,7 @@ ManCitygegenLeicester
 ManCitygegenPSG
 ManCity–Arsenal
 ManCity–Burnley
+ManCity–Chelsea
 ManCity–CrystalPalace
 ManCity–Everton
 ManCity–FCBruges
@@ -12077,8 +12129,12 @@ Maroc
 Maroc  Ghana
 Maroc - Ghana
 Maroc Algérie
+Maroc Comores
+Maroc – Comores
 Maroc-Ghana
 MarocAlgérie
+MarocComores
+Maroc–Comores
 Marsch fürs Leben
 MarschfürsLeben
 Marseille
@@ -12174,10 +12230,12 @@ MateRimac
 Mathias Coppens
 Mathias Fluckiger
 Mathias Flückiger
+Mathias Sercu
 Mathias Vicherat
 MathiasCoppens
 MathiasFluckiger
 MathiasFlückiger
+MathiasSercu
 MathiasVicherat
 Mathieu Amalric
 Mathieu Koh-Lanta
@@ -12591,6 +12649,7 @@ ModernaAktie
 ModernaImpfstoff
 Moderner Fünfkampf
 ModernerFünfkampf
+Modissa
 Modric
 Moederdag
 Mohamed Ali
@@ -12759,6 +12818,7 @@ NAFI THIAM
 NAGUI
 NAIRO QUINTANA
 NAIROQUINTANA
+NAKISKA
 NANCY FAESER
 NANCY – RENNES
 NANTES
@@ -12878,6 +12938,7 @@ NICE – MARSEILLE
 NICE – METZ
 NICE – MONACO
 NICE – MONTPELLIER
+NICE – NANTES
 NICE – STRASBOURG
 NICE-MARSEILLE
 NICE-MATIN
@@ -13017,6 +13078,7 @@ NafiThiam
 Nagui
 Nairo Quintana
 NairoQuintana
+Nakiska
 Nancy Faeser
 Nancy – Rennes
 NancyFaeser
@@ -13177,6 +13239,7 @@ Nice – Marseille
 Nice – Metz
 Nice – Monaco
 Nice – Montpellier
+Nice – Nantes
 Nice – Strasbourg
 Nice-Marseille
 Nice-Matin
@@ -13190,6 +13253,7 @@ Nice–Marseille
 Nice–Metz
 Nice–Monaco
 Nice–Montpellier
+Nice–Nantes
 Nice–Strasbourg
 Nick Cannon
 Nick Nuyens
@@ -13771,6 +13835,7 @@ PAPE FRANCOIS
 PAPE FRANcOIS
 PAPE FRANÇOIS
 PAPE FRANçOIS
+PAPE GUEYE
 PAPEFRANCOIS
 PAPEFRANcOIS
 PAPEFRANÇOIS
@@ -14218,8 +14283,10 @@ PandoraPapersliste
 Pantelleria
 Pape Francois
 Pape François
+Pape Gueye
 PapeFrancois
 PapeFrançois
+PapeGueye
 Papst Franziskus
 PapstFranziskus
 Paradise City
@@ -15062,6 +15129,7 @@ RHODES
 RHODOS
 RIAD SATTOUF
 RIADH BAHRI
+RICARDO BOFILL
 RICHARD ANCONINA
 RICHARD BERRY
 RICHARD BOHRINGER
@@ -15120,6 +15188,7 @@ ROERMOND
 ROGER FEDERER
 ROGER MILLA
 ROGERFEDERER
+ROGIER
 ROGLIC
 ROLAND JACCARD
 ROLAND KAISER
@@ -15485,6 +15554,8 @@ Riad Sattouf
 RiadSattouf
 Riadh Bahri
 RiadhBahri
+Ricardo Bofill
+RicardoBofill
 Richard Anconina
 Richard Berry
 Richard Bohringer
@@ -15578,6 +15649,7 @@ Roger Federer
 Roger Milla
 RogerFederer
 RogerMilla
+Rogier
 Roglic
 Roland Jaccard
 Roland Kaiser
@@ -15787,6 +15859,7 @@ SANCERRE
 SANCTION OL - OM
 SAND VAN ROY
 SANDRA BULLOCK
+SANDRINE BONNAIRE
 SANDRINE MARTINET
 SANDRINE ROUSSEAU
 SANNE CANT
@@ -16443,8 +16516,10 @@ Sand Van Roy
 SandVanRoy
 Sandra Bullock
 SandraBullock
+Sandrine Bonnaire
 Sandrine Martinet
 Sandrine Rousseau
+SandrineBonnaire
 SandrineMartinet
 SandrineRousseau
 Sanne Cant
@@ -17190,10 +17265,13 @@ SyndromedeGuillain-Barré
 SyndromedeLaHavane
 Szene Openair
 SzeneOpenair
+SÉNÉGAL – GUINÉE
 SÉVILLE – ATLÉTICO MADRID
 SÉVILLE – LILLE
 SÖLDEN
 SÜDAFRIKA
+Sénégal – Guinée
+Sénégal–Guinée
 Séville – Atlético Madrid
 Séville – Lille
 Séville–AtléticoMadrid
@@ -19179,6 +19257,7 @@ ZAGREB
 ZANDVOORT
 ZARA
 ZARA RUTHERFORD
+ZAUCHENSEE
 ZAZ
 ZAZIE
 ZDF
@@ -19247,6 +19326,9 @@ ZWINGLI
 ZWOLLE
 ZWÖLF STÄMME
 ZYPERN
+ZZ TOP
+ZZ Top
+ZZTop
 Zac Efron
 Zac Stacy
 ZacEfron
@@ -19256,6 +19338,7 @@ Zandvoort
 Zara
 Zara Rutherford
 ZaraRutherford
+Zauchensee
 Zaz
 Zazie
 Zeearend
@@ -19405,6 +19488,7 @@ ad
 ad astra
 adaline
 adam driver
+adam sandler
 adama traore
 adama traoré
 adamatraore
@@ -19439,6 +19523,7 @@ afghanistan carte
 afrique australe
 afrique du sud
 afsca
+after life
 after we fell
 agathe auproux
 agatheauproux
@@ -19575,6 +19660,7 @@ allyson felix
 almudena grandes
 alopecia
 alphabet grec
+alphonso davies
 alpine a110
 alta badia
 altenahr
@@ -20050,6 +20136,7 @@ beerschot
 beerschot va.  anderlecht
 beersel
 begrotingsakkoord
+beineix
 beirut
 beker van belgie
 belarus
@@ -20091,6 +20178,7 @@ belmondo overleden
 belmondo tot
 ben affleck
 ben affleck jennifer garner
+ben arfa
 ben becker
 ben roelants
 ben zucker
@@ -20470,6 +20558,7 @@ carole delga
 caroline fontenoy
 caroline kennedy
 caroline maes
+caroline roux
 carrasco
 carrefour
 carrefour - black friday
@@ -21128,6 +21217,7 @@ djokovic
 djokovic australian open
 djokovic australie
 djokovic melbourne
+djokovic news heute
 doc gyneco
 docteur jivago
 doctolib
@@ -21155,6 +21245,7 @@ dortmund
 dortmund gegen ajax
 dortmund gegen bayern
 dortmund gegen eintracht frankfurt
+dortmund gegen freiburg
 dortmund gegen hoffenheim
 dortmund – ajax
 dortmund – bayern
@@ -21866,6 +21957,7 @@ fêtes de fin d'année
 fürstin charlene von monaco
 gabby petito
 gabby williams
+gabon ghana
 gabriel attal
 gabriel boric
 gabriel salazar
@@ -21927,6 +22019,7 @@ genk voetbal
 genshin impact
 gent  charleroi
 gent  genk
+gent  kortrijk
 gent - club brugge
 gent club brugge
 gent jazz
@@ -22374,6 +22467,7 @@ inter – real
 inter – sheriff
 interdiscount
 intermarché
+invisible man
 ios 14.8
 ios 15
 ios 15.1
@@ -22607,6 +22701,7 @@ jeremy desplanches
 jeremy frerot
 jeroen meus
 jeroen perceval
+jeroen rietbergen
 jerome boateng
 jerry douglas
 jessica aidi
@@ -22768,6 +22863,7 @@ junikafer
 junikäfer
 juninho
 junior messias
+jupiler league
 jupiler pro league
 jupiler pro league 2021
 jura sud – saint-étienne
@@ -22866,6 +22962,7 @@ katrienvanderlinden
 katrina kaif
 kazachstan
 kazakhstan
+kazou
 keanu reeves
 kelly bochenko
 kelly osbourne
@@ -23147,6 +23244,7 @@ lea sprunger
 leandro trossard
 leandrotrossard
 lebron james
+lec
 lecastellet
 lech/zürs
 lediables'habilleenprada
@@ -23193,6 +23291,7 @@ lenzburg
 leon marchand
 leonardo dicaprio
 leonardo spinazzola
+lep
 leparisien
 lequipe
 lernout en hauspie
@@ -23546,6 +23645,7 @@ man city gegen leicester
 man city gegen psg
 man city – arsenal
 man city – burnley
+man city – chelsea
 man city – crystal palace
 man city – everton
 man city – fc bruges
@@ -23703,6 +23803,8 @@ marlene schiappa
 maroc
 maroc - ghana
 maroc algérie
+maroc comores
+maroc – comores
 marsch fürs leben
 marseille
 marseille saint-etienne
@@ -23758,6 +23860,7 @@ materimac
 mathias coppens
 mathias fluckiger
 mathias flückiger
+mathias sercu
 mathias vicherat
 mathiasfluckiger
 mathieu amalric
@@ -24011,6 +24114,7 @@ moderna
 moderna aktie
 moderna impfstoff
 moderner fünfkampf
+modissa
 modric
 moederdag
 mohamed ali
@@ -24116,6 +24220,7 @@ nafi thiam
 nagui
 nairo quintana
 nairoquintana
+nakiska
 nancy faeser
 nancy – rennes
 nantes
@@ -24225,6 +24330,7 @@ nice – marseille
 nice – metz
 nice – monaco
 nice – montpellier
+nice – nantes
 nice – strasbourg
 nice-marseille
 nice-matin
@@ -24505,6 +24611,7 @@ pandora papers liste
 pantelleria
 pape francois
 pape françois
+pape gueye
 papefrancois
 papefrançois
 papst franziskus
@@ -25078,6 +25185,7 @@ rhodes
 rhodos
 riad sattouf
 riadh bahri
+ricardo bofill
 richard anconina
 richard berry
 richard bohringer
@@ -25136,6 +25244,7 @@ roermond
 roger federer
 roger milla
 rogerfederer
+rogier
 roglic
 roland jaccard
 roland kaiser
@@ -25305,6 +25414,7 @@ sancerre
 sanction ol - om
 sand van roy
 sandra bullock
+sandrine bonnaire
 sandrine martinet
 sandrine rousseau
 sanne cant
@@ -25788,6 +25898,7 @@ symptomes omicron
 syndrome de guillain-barré
 syndrome de la havane
 szene openair
+sénégal – guinée
 séville – atlético madrid
 séville – lille
 sölden
@@ -26557,6 +26668,7 @@ zagreb
 zandvoort
 zara
 zara rutherford
+zauchensee
 zaz
 zazie
 zdf
@@ -26624,6 +26736,7 @@ zwingli
 zwolle
 zwölf stämme
 zypern
+zz top
 zürich
 zürich sturm
 zürich wetter
