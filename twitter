@@ -8384,6 +8384,7 @@ CROISSANCE
 CROIX
 CROIX ROUGE
 CROIX-ROUGE
+CROIX-ROUSSE
 CROIXROUGE
 CROKY CUP
 CROKYCUP
@@ -9701,7 +9702,9 @@ CroiséeDesChemins
 Croix
 Croix Rouge
 Croix-Rouge
+Croix-Rousse
 CroixRouge
+CroixRousse
 Croky Cup
 CrokyCup
 Croo
@@ -27976,6 +27979,7 @@ MOHAMED HENNI
 MOHAMED KAMARA
 MOHAMED MBOUGAR SARR
 MOHAMED SALAH
+MOHAMED TOUJGANI
 MOHAMED-ALI CHO
 MOHAMED-ALICHO
 MOHAMEDABRINI
@@ -32611,6 +32615,7 @@ PATRICK BUISSON
 PATRICK CHESNAIS
 PATRICK COHEN
 PATRICK FIORI
+PATRICK JANSSENS
 PATRICK JARDIN
 PATRICK LEFEVERE
 PATRICK MODIANO
@@ -33934,6 +33939,7 @@ Patrick Buisson
 Patrick Chesnais
 Patrick Cohen
 Patrick Fiori
+Patrick Janssens
 Patrick Jardin
 Patrick Lefevere
 Patrick Modiano
@@ -33945,6 +33951,7 @@ PatrickBuisson
 PatrickChesnais
 PatrickCohen
 PatrickFiori
+PatrickJanssens
 PatrickJardin
 PatrickLefevere
 PatrickModiano
@@ -42847,6 +42854,7 @@ UKRAINIENS
 UKRFRA
 ULI HOENESS
 ULIHOENESS
+ULIS
 ULTIA
 ULTIM
 ULTIMATEPLAY
@@ -44917,6 +44925,7 @@ WORTEL-KOLONIE
 WORTELKOLONIE
 WORTEN
 WORTER
+WORTSCHATZ
 WOUT
 WOUT FAES
 WOUT VAN AERT
@@ -45400,6 +45409,7 @@ Wortel-Kolonie
 WortelKolonie
 Worten
 Worter
+Wortschatz
 Wout
 Wout Faes
 Wout Van Aert
@@ -51230,6 +51240,7 @@ croiséedeschemins
 croix
 croix rouge
 croix-rouge
+croix-rousse
 croixrouge
 croky cup
 crokycup
@@ -61574,6 +61585,7 @@ mohamed henni
 mohamed kamara
 mohamed mbougar sarr
 mohamed salah
+mohamed toujgani
 mohamed-ali cho
 mohamed-alicho
 mohamedabrini
@@ -61583,6 +61595,7 @@ mohamedbayo
 mohamedhenni
 mohamedmbougarsarr
 mohamedsalah
+mohamedtoujgani
 mohammed
 mohanalyse
 moin
@@ -63436,6 +63449,7 @@ patrick buisson
 patrick chesnais
 patrick cohen
 patrick fiori
+patrick janssens
 patrick jardin
 patrick lefevere
 patrick modiano
@@ -68786,6 +68800,7 @@ ukrainiens
 ukrfra
 uli hoeness
 ulihoeness
+ulis
 ultia
 ultim
 ultimateplay
@@ -70076,6 +70091,7 @@ wortel-kolonie
 wortelkolonie
 worten
 worter
+wortschatz
 wout
 wout faes
 wout van aert
