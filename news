@@ -489,6 +489,7 @@ ANDERLECHT LACI
 ANDERLECHT VITESSE
 ANDERLECHT – UNION SAINT-GILLOISE
 ANDERLECHT-CLUB BRUGGE
+ANDERLECHT-STANDARD
 ANDI ZEQIRI
 ANDIE MACDOWELL
 ANDIEMACDOWELL
@@ -598,6 +599,7 @@ ANTONIORUDIGER
 ANTONIORuDIGER
 ANTONY BLINKEN
 ANTWERP
+ANTWERP  CHARLEROI
 ANTWERP  CLUB BRUGGE
 ANTWERP  EUPEN
 ANTWERP  FENERBAHÇE
@@ -722,6 +724,7 @@ ASTERIX MISSION CLEOPATRE
 ASTERIX UND DER GREIF
 ASTON VILLA
 ASTON VILLA – CHELSEA
+ASTON VILLA – MANCHESTER UNITED
 ASTÉRIX AUX JEUX OLYMPIQUES
 ASVEL
 AStarIsBorn
@@ -1224,10 +1227,12 @@ Anderlecht – Union Saint-Gilloise
 Anderlecht – Union SaintGilloise
 Anderlecht-Club Brugge
 Anderlecht-ClubBrugge
+Anderlecht-Standard
 AnderlechtClub Brugge
 AnderlechtGent
 AnderlechtMechelen
 AnderlechtOHL
+AnderlechtStandard
 AnderlechtVitesse
 Anderlechtlaci
 Anderlecht–UnionSaint-Gilloise
@@ -1407,6 +1412,7 @@ AntonioRudiger
 Antony Blinken
 AntonyBlinken
 Antwerp
+Antwerp  Charleroi
 Antwerp  Club Brugge
 Antwerp  Eupen
 Antwerp  Fenerbahçe
@@ -1421,6 +1427,7 @@ Antwerp-Club Brugge
 Antwerp-ClubBrugge
 Antwerp-Omonia
 AntwerpAnderlecht
+AntwerpCharleroi
 AntwerpClub Brugge
 AntwerpClubBrugge
 AntwerpEupen
@@ -1575,8 +1582,10 @@ Asterixmissioncleopatre
 AsterixundderGreif
 Aston Villa
 Aston Villa – Chelsea
+Aston Villa – Manchester United
 AstonVilla
 AstonVilla–Chelsea
+AstonVilla–ManchesterUnited
 Astérix aux Jeux olympiques
 AstérixauxJeuxolympiques
 Asvel
@@ -1934,6 +1943,7 @@ BESANCON
 BESIKTAS
 BEST KEPT SECRET 2022
 BESTMILE
+BETIS SEVILLE
 BETIS – REAL
 BETTINA GAUS
 BETTY WHITE
@@ -2007,6 +2017,7 @@ BLOB
 BLOCKCHAIN
 BLOCTEL
 BLOOD RED SKY
+BLUE MONDAY
 BLUES BROTHERS
 BMW XM
 BMWXM
@@ -2070,6 +2081,7 @@ BORUSSIAMöNCHENGLADBACH
 BOSBRANDEN ZUID-FRANKRIJK
 BOTIC VAN DE ZANDSCHULP
 BOULOGNE-SUR-MER
+BOURDIN
 BOURG-EN-BRESSE
 BOURSE
 BOUSBECQUE
@@ -2202,6 +2214,7 @@ BUNDESRAT CORONA
 BUNDESRAT CORONA HEUTE
 BUNDESTAGSWAHL 2021
 BUNDESTAGSWAHL 2021 PROGNOSE
+BURDECKI
 BURGOS
 BUSHIDO
 Bac Nord
@@ -2570,7 +2583,9 @@ Besiktas
 Best Kept Secret 2022
 BestKeptSecret2022
 Bestmile
+Betis seville
 Betis – Real
+Betisseville
 Betis–Real
 Bettina Gaus
 BettinaGaus
@@ -2664,6 +2679,8 @@ Blockchain
 Bloctel
 Blood Red Sky
 BloodRedSky
+Blue Monday
+BlueMonday
 Blues Brothers
 BluesBrothers
 Boateng
@@ -2767,6 +2784,7 @@ Botic Van de Zandschulp
 BoticVandeZandschulp
 Boulogne-sur-Mer
 BoulognesurMer
+Bourdin
 Bourg-en-Bresse
 BourgenBresse
 Bourse
@@ -2945,6 +2963,7 @@ Bundestagswahl 2021
 Bundestagswahl 2021 Prognose
 Bundestagswahl2021
 Bundestagswahl2021Prognose
+Burdecki
 Burgos
 Bushido
 CAC40
@@ -3291,6 +3310,7 @@ CLUB BRUGGE  ANDERLECHT
 CLUB BRUGGE  CERCLE
 CLUB BRUGGE  KORTRIJK
 CLUB BRUGGE  STANDARD
+CLUB BRUGGE  STVV
 CLUB BRUGGE  ZULTE-WAREGEM
 CLUB BRUGGE  ZULTEWAREGEM
 CLUB BRUGGE BEERSCHOT
@@ -4025,6 +4045,7 @@ Club Brugge
 Club Brugge  Anderlecht
 Club Brugge  Cercle
 Club Brugge  Kortrijk
+Club Brugge  STVV
 Club Brugge  Standard
 Club Brugge  Zulte-Waregem
 Club Brugge  ZulteWaregem
@@ -4039,6 +4060,7 @@ ClubBruggeCercle
 ClubBruggeKortrijk
 ClubBruggeManchesterCity
 ClubBruggePSG
+ClubBruggeSTVV
 ClubBruggeStandard
 ClubBruggeZulte-Waregem
 ClubBruggeZulteWaregem
@@ -4540,6 +4562,8 @@ DJOKOVIC
 DJOKOVIC AUSTRALIAN OPEN
 DJOKOVIC AUSTRALIE
 DJOKOVIC MELBOURNE
+DJOKOVIC NEWS
+DJOKOVIC NEWS AUSTRALIA
 DJOKOVIC NEWS HEUTE
 DJSnake
 DOC GYNECO
@@ -4957,10 +4981,14 @@ Djokovic
 Djokovic Australian Open
 Djokovic Australie
 Djokovic Melbourne
+Djokovic news
+Djokovic news Australia
 Djokovic news heute
 DjokovicAustralianOpen
 DjokovicAustralie
 DjokovicMelbourne
+Djokovicnews
+DjokovicnewsAustralia
 Djokovicnewsheute
 Doc Gyneco
 DocGyneco
@@ -6149,6 +6177,7 @@ FIORENTINA – INTER
 FIRE IS GOLD
 FIREFOX
 FIRST DATES
+FLAMANVILLE
 FLAUBERT
 FLAVIE FLAMENT
 FLEVOLAND
@@ -6224,6 +6253,7 @@ FRANCE MEXIQUE JO
 FRANCE PAYS DE GALLES
 FRANCE SUEDE HANDBALL
 FRANCE UKRAINE
+FRANCE UKRAINE HANDBALL
 FRANCE USA BASKET JO
 FRANCE – SUISSE
 FRANCE-ARGENTINE RUGBY
@@ -6508,6 +6538,7 @@ Firefox
 FireisGold
 First dates
 Firstdates
+Flamanville
 Flaubert
 Flavie Flament
 FlavieFlament
@@ -6618,6 +6649,7 @@ France Pays de Galles
 France USA Basket JO
 France USA basket jo
 France Ukraine
+France Ukraine handball
 France armenie
 France etats unis basket
 France foot
@@ -6676,6 +6708,7 @@ FranceSuisse
 FranceUSABasketJO
 FranceUSAbasketjo
 FranceUkraine
+FranceUkrainehandball
 Francearmenie
 Franceetatsunisbasket
 Francefoot
@@ -8716,6 +8749,7 @@ JUVENTUS – EMPOLI
 JUVENTUS – NAPLES
 JUVENTUS – ROMA
 JUVENTUS – SAMPDORIA
+JUVENTUS – UDINESE
 JUVENTUS – ZENIT
 Jack Grealish
 Jack Hendry
@@ -9290,6 +9324,7 @@ Juventus – Empoli
 Juventus – Naples
 Juventus – Roma
 Juventus – Sampdoria
+Juventus – Udinese
 Juventus – zenit
 JuventusChelsea
 JuventusNapoli
@@ -9301,6 +9336,7 @@ Juventus–Empoli
 Juventus–Naples
 Juventus–Roma
 Juventus–Sampdoria
+Juventus–Udinese
 Juventus–zenit
 Juvezenit
 JÉRÔME SALOMON
@@ -12849,6 +12885,7 @@ NATALIE WOOD
 NATASHA ST-PIER
 NATHALIE BAYE
 NATHALIE DELON
+NATHALIE ELIMAS
 NATHALIE IANNETTA
 NATHALIE MAILLET
 NATHALIE MARQUAY
@@ -12991,6 +13028,7 @@ NINA STERCKX
 NINHO
 NINJA WARRIOR
 NINO CASTELNUOVO
+NINO CERRUTI
 NINTENDO DIRECT
 NINTENDO SWITCH
 NINTENDO SWITCH BLACK FRIDAY
@@ -13051,6 +13089,7 @@ NOUVELLE-AQUITAINE
 NOUVELLE-CALÉDONIE
 NOUVELLES MESURES COVID
 NOVAK DJOKOVIC
+NOVAK DJOKOVIC NEWS
 NOVAK ĐOKOVIĆ
 NOVARTIS
 NOVAVAX
@@ -13130,6 +13169,7 @@ Natasha StPier
 NatashaSt-Pier
 Nathalie Baye
 Nathalie Delon
+Nathalie Elimas
 Nathalie Iannetta
 Nathalie Maillet
 Nathalie Marquay
@@ -13138,6 +13178,7 @@ Nathalie Vincent
 Nathalie Volk
 NathalieBaye
 NathalieDelon
+NathalieElimas
 NathalieIannetta
 NathalieMaillet
 NathalieMarquay
@@ -13333,7 +13374,9 @@ Ninho
 Ninja Warrior
 NinjaWarrior
 Nino Castelnuovo
+Nino Cerruti
 NinoCastelnuovo
+NinoCerruti
 Nintendo Direct
 Nintendo Switch
 Nintendo Switch Black Friday
@@ -13416,8 +13459,10 @@ NouvellerestrictionCovid
 Nouvelles mesures Covid
 NouvellesmesuresCovid
 Novak Djokovic
+Novak Djokovic news
 Novak đoković
 NovakDjokovic
+NovakDjokovicnews
 Novakđoković
 Novartis
 Novavax
@@ -14037,6 +14082,7 @@ PHIL COLLINS
 PHIL VARONE
 PHILIPPE BOUVARD
 PHILIPPE CHEVALLIER
+PHILIPPE COUTINHO
 PHILIPPE DE BACKER
 PHILIPPE DE VILLIERS
 PHILIPPE DONNAY
@@ -14602,6 +14648,7 @@ PhilCollins
 PhilVarone
 Philippe Bouvard
 Philippe Chevallier
+Philippe Coutinho
 Philippe De Backer
 Philippe Donnay
 Philippe Etchebest
@@ -14613,6 +14660,7 @@ Philippe Warrin
 Philippe de Villiers
 PhilippeBouvard
 PhilippeChevallier
+PhilippeCoutinho
 PhilippeDeBacker
 PhilippeDonnay
 PhilippeEtchebest
@@ -15082,6 +15130,7 @@ RENE HOFER
 RENE MALLEVILLE
 RENNES FOOT
 RENNES TOTTENHAM
+RENNES – BORDEAUX
 RENNES – CLERMONT
 RENNES – LENS
 RENNES – LILLE
@@ -15136,6 +15185,7 @@ RICHARD BOHRINGER
 RICHARD BRANSON
 RICHARD CARAPAZ
 RICHARD DONNER
+RICHARD JEWELL
 RICHARD ROGERS
 RICHARDDONNER
 RICHARLISON
@@ -15486,6 +15536,7 @@ ReneHofer
 ReneMalleville
 Rennes Foot
 Rennes Tottenham
+Rennes – Bordeaux
 Rennes – Clermont
 Rennes – Lens
 Rennes – Lille
@@ -15501,6 +15552,7 @@ Rennes-Rosenborg
 RennesFoot
 RennesRosenborg
 RennesTottenham
+Rennes–Bordeaux
 Rennes–Clermont
 Rennes–Lens
 Rennes–Lille
@@ -15562,6 +15614,7 @@ Richard Bohringer
 Richard Branson
 Richard Carapaz
 Richard Donner
+Richard Jewell
 Richard Rogers
 RichardAnconina
 RichardBerry
@@ -15569,6 +15622,7 @@ RichardBohringer
 RichardBranson
 RichardCarapaz
 RichardDonner
+RichardJewell
 RichardRogers
 Richarlison
 Rico Verhoeven
@@ -15804,6 +15858,7 @@ SAINT-PIERRE D'IRUBE
 SAINT-PIERRE-ET-MIQUELON
 SAINT-SYLVESTRE
 SAINT-ÉTIENNE – CLERMONT
+SAINT-ÉTIENNE – LENS
 SAINT-ÉTIENNE – LILLE
 SAINT-ÉTIENNE – LYON
 SAINT-ÉTIENNE – NANTES
@@ -15977,6 +16032,7 @@ SENTINEL6
 SEPHORA
 SEPP FORCHER
 SEPSIS
+SERAING-UNION
 SERBIEN
 SERGE LAMA
 SERGEY BRIN
@@ -16072,6 +16128,7 @@ SKY BROWN
 SKY SPORT
 SKYFALL
 SLACK
+SLALOM WENGEN
 SLIMANE
 SLOVENIE
 SLOWENIEN
@@ -16401,8 +16458,10 @@ Saint-Pierre d'Irube
 Saint-Pierre-et-Miquelon
 Saint-Pierred'Irube
 Saint-Sylvestre
+Saint-Étienne – Lens
 Saint-Étienne – Lyon
 Saint-Étienne – Nantes
+Saint-Étienne–Lens
 Saint-Étienne–Lyon
 Saint-Étienne–Nantes
 Saint-étienne – Clermont
@@ -16431,6 +16490,7 @@ SainteCatherine
 Saintetiennefoot
 Saintjean
 Saintraphael
+SaintÉtienne – Lens
 SaintÉtienne – Lyon
 SaintÉtienne – Nantes
 Saintétienne – Clermont
@@ -16683,6 +16743,8 @@ Sephora
 Sepp Forcher
 SeppForcher
 Sepsis
+Seraing-Union
+SeraingUnion
 Serbien
 Serge Lama
 SergeLama
@@ -16851,6 +16913,8 @@ SkyBrown
 SkySport
 Skyfall
 Slack
+Slalom Wengen
+SlalomWengen
 Slimane
 Slovenie
 Slowenien
@@ -17482,6 +17546,7 @@ TOM HOLLAND
 TOM LEEB
 TOM LÜTHI
 TOMAS DE SOETE
+TOMASO TRUSSARDI
 TOMHOLLAND
 TOMIYASU
 TOMMY DORFMAN
@@ -17943,6 +18008,8 @@ TomLeeb
 TomLüthi
 Tomas De Soete
 TomasDeSoete
+Tomaso Trussardi
+TomasoTrussardi
 Tomiyasu
 Tommy Dorfman
 Tommy Fury
@@ -18419,6 +18486,7 @@ VETTEL
 VIALLI
 VIANNEY
 VICENTE FERNANDEZ
+VICTORIA ABRIL
 VICTORIA BECKHAM
 VIEILLES CHARRUES 2022
 VIER
@@ -18448,6 +18516,7 @@ VIRGINIE EFIRA
 VIRGINIE MASSEREY
 VIRGINIE SPIWACK
 VIRGINIEEFIRA
+VIRUS D'EPSTEIN-BARR
 VIRUS DE MARBURG
 VISITWALLONIA
 VITAA
@@ -18496,6 +18565,7 @@ VTT Jo
 VTTJO
 VTTJo
 VUELTA 2021
+VULKANAUSBRUCH
 VUURWERK
 VW TRINITY
 VW Trinity
@@ -18635,7 +18705,9 @@ Vialli
 Vianney
 Vicente Fernandez
 VicenteFernandez
+Victoria Abril
 Victoria Beckham
+VictoriaAbril
 VictoriaBeckham
 Vieilles Charrues 2022
 VieillesCharrues2022
@@ -18687,7 +18759,10 @@ Virginie Spiwack
 VirginieEfira
 VirginieMasserey
 VirginieSpiwack
+Virus d'Epstein-Barr
+Virus d'EpsteinBarr
 Virus de Marburg
+Virusd'Epstein-Barr
 VirusdeMarburg
 VisitWallonia
 Vitaa
@@ -18753,6 +18828,7 @@ Vrtnws
 Vtest
 Vuelta 2021
 Vuelta2021
+Vulkanausbruch
 Vuurwerk
 WAASLAND-BEVEREN
 WADDENZEE
@@ -18774,6 +18850,7 @@ WARGON
 WARMSTE WEEK MECHELEN
 WARMTEPOMP
 WARNUNG VOR STURMBÖEN
+WASPS – TOULOUSE
 WATER CIRCUS
 WATFORD FC GEGEN CHELSEA
 WATTENMEER
@@ -18845,6 +18922,7 @@ WILLIAMSHELLER
 WILLIE GARSON
 WILLY NAESSENS
 WILLY SOMMERS
+WILSBERG
 WIM VERSTRAETEN
 WIMBLEDON
 WIMBLEDON 2021
@@ -18951,6 +19029,8 @@ WarmsteWeekMechelen
 Warmtepomp
 Warnung vor Sturmböen
 WarnungvorSturmböen
+Wasps – Toulouse
+Wasps–Toulouse
 Water Circus
 WaterCircus
 Watford FC gegen Chelsea
@@ -19060,6 +19140,7 @@ Willy Naessens
 Willy Sommers
 WillyNaessens
 WillySommers
+Wilsberg
 Wim Verstraeten
 WimVerstraeten
 Wimbledon
@@ -19270,6 +19351,7 @@ ZEITUMSTELLUNG OKTOBER 2021
 ZELFTEST CORONA KOPEN
 ZEMMOUR
 ZEMMOUR CANDIDAT
+ZEMMOUR HANDICAP
 ZEMMOUR MARSEILLE
 ZEMMOUR PRENOM
 ZEMMOUR-ONFRAY
@@ -19355,11 +19437,13 @@ Zelftestcoronakopen
 Zemmour
 Zemmour Marseille
 Zemmour candidat
+Zemmour handicap
 Zemmour prenom
 Zemmour-Onfray
 ZemmourMarseille
 ZemmourOnfray
 Zemmourcandidat
+Zemmourhandicap
 Zemmourprenom
 Zendaya
 Zenit – Chelsea
@@ -19709,6 +19793,7 @@ anderlecht laci
 anderlecht vitesse
 anderlecht – union saint-gilloise
 anderlecht-club brugge
+anderlecht-standard
 andi zeqiri
 andie macdowell
 andiemacdowell
@@ -19816,6 +19901,7 @@ antonio rudiger
 antoniorudiger
 antony blinken
 antwerp
+antwerp  charleroi
 antwerp  club brugge
 antwerp  eupen
 antwerp  fenerbahçe
@@ -19930,6 +20016,7 @@ asterix mission cleopatre
 asterix und der greif
 aston villa
 aston villa – chelsea
+aston villa – manchester united
 astérix aux jeux olympiques
 asvel
 atalanta
@@ -20230,6 +20317,7 @@ besancon
 besiktas
 best kept secret 2022
 bestmile
+betis seville
 betis – real
 bettina gaus
 betty white
@@ -20297,6 +20385,7 @@ blob
 blockchain
 bloctel
 blood red sky
+blue monday
 blues brothers
 bmw xm
 boateng
@@ -20355,6 +20444,7 @@ borussiamönchengladbach
 bosbranden zuid-frankrijk
 botic van de zandschulp
 boulogne-sur-mer
+bourdin
 bourg-en-bresse
 bourse
 bousbecque
@@ -20477,6 +20567,7 @@ bundesrat corona
 bundesrat corona heute
 bundestagswahl 2021
 bundestagswahl 2021 prognose
+burdecki
 burgos
 bushido
 cac40
@@ -20819,6 +20910,7 @@ club brugge  anderlecht
 club brugge  cercle
 club brugge  kortrijk
 club brugge  standard
+club brugge  stvv
 club brugge  zulte-waregem
 club brugge  zultewaregem
 club brugge beerschot
@@ -21217,6 +21309,8 @@ djokovic
 djokovic australian open
 djokovic australie
 djokovic melbourne
+djokovic news
+djokovic news australia
 djokovic news heute
 doc gyneco
 docteur jivago
@@ -21776,6 +21870,7 @@ fiorentina – inter
 fire is gold
 firefox
 first dates
+flamanville
 flaubert
 flavie flament
 flevoland
@@ -21851,6 +21946,7 @@ france mexique jo
 france pays de galles
 france suede handball
 france ukraine
+france ukraine handball
 france usa basket jo
 france – suisse
 france-argentine rugby
@@ -22895,6 +22991,7 @@ juventus – empoli
 juventus – naples
 juventus – roma
 juventus – sampdoria
+juventus – udinese
 juventus – zenit
 jérôme salomon
 k3
@@ -24251,6 +24348,7 @@ natalie wood
 natasha st-pier
 nathalie baye
 nathalie delon
+nathalie elimas
 nathalie iannetta
 nathalie maillet
 nathalie marquay
@@ -24383,6 +24481,7 @@ nina sterckx
 ninho
 ninja warrior
 nino castelnuovo
+nino cerruti
 nintendo direct
 nintendo switch
 nintendo switch black friday
@@ -24435,6 +24534,7 @@ nouvelle-aquitaine
 nouvelle-calédonie
 nouvelles mesures covid
 novak djokovic
+novak djokovic news
 novak đoković
 novartis
 novavax
@@ -24807,6 +24907,7 @@ phil collins
 phil varone
 philippe bouvard
 philippe chevallier
+philippe coutinho
 philippe de backer
 philippe de villiers
 philippe donnay
@@ -25142,6 +25243,7 @@ rene hofer
 rene malleville
 rennes foot
 rennes tottenham
+rennes – bordeaux
 rennes – clermont
 rennes – lens
 rennes – lille
@@ -25192,6 +25294,7 @@ richard bohringer
 richard branson
 richard carapaz
 richard donner
+richard jewell
 richard rogers
 richarddonner
 richarlison
@@ -25359,6 +25462,7 @@ saint-pierre d'irube
 saint-pierre-et-miquelon
 saint-sylvestre
 saint-étienne – clermont
+saint-étienne – lens
 saint-étienne – lille
 saint-étienne – lyon
 saint-étienne – nantes
@@ -25524,6 +25628,7 @@ sentinel6
 sephora
 sepp forcher
 sepsis
+seraing-union
 serbien
 serge lama
 sergey brin
@@ -25619,6 +25724,7 @@ sky brown
 sky sport
 skyfall
 slack
+slalom wengen
 slimane
 slovenie
 slowenien
@@ -26101,6 +26207,7 @@ tom holland
 tom leeb
 tom lüthi
 tomas de soete
+tomaso trussardi
 tomholland
 tomiyasu
 tommy dorfman
@@ -26392,6 +26499,7 @@ vettel
 vialli
 vianney
 vicente fernandez
+victoria abril
 victoria beckham
 vieilles charrues 2022
 vier
@@ -26421,6 +26529,7 @@ virginie efira
 virginie masserey
 virginie spiwack
 virginieefira
+virus d'epstein-barr
 virus de marburg
 visitwallonia
 vitaa
@@ -26464,6 +26573,7 @@ vrtnws
 vtm
 vtt jo
 vuelta 2021
+vulkanausbruch
 vuurwerk
 vw trinity
 waasland-beveren
@@ -26486,6 +26596,7 @@ wargon
 warmste week mechelen
 warmtepomp
 warnung vor sturmböen
+wasps – toulouse
 water circus
 watford fc gegen chelsea
 wattenmeer
@@ -26556,6 +26667,7 @@ williamsheller
 willie garson
 willy naessens
 willy sommers
+wilsberg
 wim verstraeten
 wimbledon
 wimbledon 2021
@@ -26681,6 +26793,7 @@ zeitumstellung oktober 2021
 zelftest corona kopen
 zemmour
 zemmour candidat
+zemmour handicap
 zemmour marseille
 zemmour prenom
 zemmour-onfray
