@@ -2445,6 +2445,7 @@ AWIRS
 AXEL
 AXEL BOURLON
 AXEL CLERGET
+AXEL LEHMANN
 AXEL TONY
 AXELBOURLON
 AXELCLERGET
@@ -3835,8 +3836,10 @@ Awel
 Awirs
 Axel
 Axel Bourlon
+Axel Lehmann
 Axel Tony
 AxelBourlon
+AxelLehmann
 AxelTony
 Axelle Red
 AxelleRed
@@ -20162,6 +20165,7 @@ JEAN-PAUL GAULTIER
 JEAN-PAULGAULTIER
 JEAN-PIERRE
 JEAN-PIERRE ADAMS
+JEAN-PIERRE BACRI
 JEAN-PIERRE PERNAUT
 JEAN-PIERREADAMS
 JEAN-PIERREPERNAUT
@@ -21199,8 +21203,10 @@ Jean-Paul Gaultier
 Jean-PaulGaultier
 Jean-Pierre
 Jean-Pierre Adams
+Jean-Pierre Bacri
 Jean-Pierre Pernaut
 Jean-PierreAdams
+Jean-PierreBacri
 Jean-PierrePernaut
 Jean-Vincent Placé
 Jean-VincentPlacé
@@ -21289,6 +21295,7 @@ JeanPaulGaultier
 JeanPaulGauthier
 JeanPierre
 JeanPierre Adams
+JeanPierre Bacri
 JeanPierre Pernaut
 JeanPierreAdams
 JeanPierrePernaut
@@ -35991,6 +35998,7 @@ ROBERT MALONE
 ROBERT MENARD
 ROBERT PATTINSON
 ROBERT PIRES
+ROBERTA METSOLA
 ROBERTBADINTER
 ROBERTDENIRO
 ROBERTHUE
@@ -36772,6 +36780,8 @@ RobertMalone
 RobertMénard
 RobertPattinson
 RobertPires
+Roberta Metsola
+RobertaMetsola
 Roberto
 Roberto Martinez
 RobertoMartinez
@@ -42051,6 +42061,7 @@ TWITCHLEAK
 TWITCHRECAP
 TWITCHSTREAMER
 TWITCHSTREAMERS
+TWITTER FRANCE
 TWITTERBAN
 TWITTERDOWN
 TWITTERENY
@@ -43131,9 +43142,11 @@ Twitch
 TwitchDoBetter
 TwitchRecap
 TwitchStreamers
+Twitter France
 TwitterBan
 TwitterDown
 TwitterEnY
+TwitterFrance
 TwitterMaliciousDMCA
 TwitterRendJoulmusique
 Twittos
@@ -48601,6 +48614,7 @@ awirs
 axel
 axel bourlon
 axel clerget
+axel lehmann
 axel tony
 axelbourlon
 axelclerget
@@ -57410,6 +57424,7 @@ jean-paul gaultier
 jean-paulgaultier
 jean-pierre
 jean-pierre adams
+jean-pierre bacri
 jean-pierre pernaut
 jean-pierreadams
 jean-pierrepernaut
@@ -65794,6 +65809,7 @@ robert malone
 robert ménard
 robert pattinson
 robert pires
+roberta metsola
 robertbadinter
 robertdeniro
 roberthue
@@ -69328,6 +69344,7 @@ twitchleak
 twitchrecap
 twitchstreamer
 twitchstreamers
+twitter france
 twitterban
 twitterdown
 twittereny
