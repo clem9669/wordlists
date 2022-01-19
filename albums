@@ -183,6 +183,7 @@ A HEARTFELT HOLIDAY
 A JOLLY CHRISTMAS FROM FRANK SINATRA
 A Jolly Christmas From Frank Sinatra
 A LITTLE BIT PATIENT
+A LOT
 A Little Bit Patient
 A MERRY FEELING
 A Merry Feeling
@@ -242,6 +243,7 @@ ALIEN
 ALL I KNOW SO FAR: SETLIST
 ALL TOO WELL 
 ALL YOU NEED IS LOVE
+ALOT
 ALPHA
 ALREADY DEAD
 ALittleBitPatient
@@ -528,6 +530,7 @@ CATCH MY LOVE - ACOUSTIC
 CERTIFIED HITMAKER
 CERTIFIED LOVER BOY
 CHAN
+CHANNEL ORANGE
 CHEAP LOVE
 CHEERS
 CHILL
@@ -2359,6 +2362,7 @@ SONGS FROM AND INSPIRED BY THE MOTION PICTURE
 SOOTHING BABY PIANO TO SLEEP
 SOOTHING DOG MUSIC
 SOOTHING LOFI
+SOOTHING MUSIC FOR DOGS
 SORRY
 SORRY - ACOUSTIC
 SOUNDTRACK FROM THE ANIMATED SERIES
@@ -2525,9 +2529,11 @@ SongsforSam
 Soothing Baby Piano To Sleep
 Soothing Dog Music
 Soothing Lofi
+Soothing Music For Dogs
 SoothingBabyPianoToSleep
 SoothingDogMusic
 SoothingLofi
+SoothingMusicForDogs
 Sorry
 Sorry  Acoustic
 Sorry - Acoustic
@@ -2598,6 +2604,7 @@ TAKI TAKI
 TAM
 TATTLETALES
 TAYLOR'S VERSION
+TAYO'S CHRISTMAS CONCERT
 TCHALLA
 TDB
 TEARS IN THE CLUB 
@@ -2705,6 +2712,9 @@ TattleTales
 Taylor's Version
 Taylor'sVersion
 Taylors Version
+Tayo's Christmas Concert
+Tayo'sChristmasConcert
+Tayos Christmas Concert
 Tchalla
 Tears In The Club 
 TearsInTheClub
@@ -2889,6 +2899,7 @@ VAULTBOY EP
 VELVET / FIRE / GRACE
 VICE VERSA
 VICEVERSA
+VILLAIN VIBES
 VINYL #2
 VISITING HOURS
 VOL. 1
@@ -2951,6 +2962,7 @@ WHAT I PUT YOU THROUGH
 WHAT WOULD YOU DO?
 WHAT'S CHRISTMAS ANYWAY
 WHATWOULDYOUDO?
+WHEE
 WHEN CHRISTMAS COMES AROUND...
 WHEN I'M GONE
 WHEN IT ENDS
@@ -2979,6 +2991,7 @@ WITH JUSTIN BIEBER & DON TOLIVER
 WITH OZUNA
 WITH THE WEEKND
 WON’T LET YOU GO
+WON’T STAND DOWN
 WORLD OF WALKER
 WORLD WE USED TO KNOW
 WOULDN’T CHANGE A THING
@@ -3050,7 +3063,9 @@ WishesComeTrue
 WithLove
 WithLoveAlways
 Won’t Let You Go
+Won’t Stand Down
 Won’tLetYouGo
+Won’tStandDown
 World Of Walker
 World We Used To Know
 World We Used to Know
@@ -3120,6 +3135,7 @@ a different christmas
 a heartfelt holiday
 a jolly christmas from frank sinatra
 a little bit patient
+a lot
 a merry feeling
 a new beginning 
 a new generation
@@ -3252,6 +3268,9 @@ catch my love - acoustic
 certified hitmaker
 certified lover boy
 chan
+channel ORANGE
+channel orange
+channelORANGE
 cheap love
 cheers
 chill
@@ -4104,6 +4123,7 @@ songsforrosie
 soothing baby piano to sleep
 soothing dog music
 soothing lofi
+soothing music for dogs
 sorry
 sorry - acoustic
 soundtrack from the animated series
@@ -4153,6 +4173,7 @@ taki taki
 tam
 tattletales
 taylor's version
+tayo's christmas concert
 tchalla
 tdb
 tears in the club 
@@ -4271,6 +4292,8 @@ vaultboy ep
 vaultboyEP
 velvet / fire / grace
 vice versa
+villain vibes
+villainvibes
 vinyl #2
 visiting hours
 vol. 1
@@ -4300,6 +4323,7 @@ what did i do?
 what i put you through
 what would you do?
 what's christmas anyway
+whee
 when christmas comes around...
 when i'm gone
 when it ends
@@ -4344,6 +4368,7 @@ withJustinBieber&DonToliver
 withOzuna
 withTheWeeknd
 won’t let you go
+won’t stand down
 world of walker
 world we used to know
 wouldn’t change a thing
