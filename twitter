@@ -4792,6 +4792,7 @@ BLESSING OKAGBARE
 BLESSINGOKAGBARE
 BLEU
 BLEU ALPIN
+BLEU DE CHANEL
 BLEUALPIN
 BLEUES
 BLEUETDEFRANCE
@@ -4909,6 +4910,7 @@ BOIS DU CAZIER
 BOISDUCAZIER
 BOITENOIRE
 BOJACK HORSEMAN
+BOJO
 BOKETSHU
 BOLI
 BOLINGO
@@ -6370,7 +6372,9 @@ Blessing Okagbare
 BlessingOkagbare
 Bleu
 Bleu Alpin
+Bleu de Chanel
 BleuAlpin
+BleudeChanel
 Bleues
 BleuetDeFrance
 BleuetFier
@@ -6421,6 +6425,7 @@ Blut
 Blutch
 Blätter
 Blödsinn
+BoJo
 BoYata
 Boadu
 Boardwalk Empire
@@ -7973,6 +7978,7 @@ CLAIRE
 CLAIRE BOVE
 CLAIREBOVE
 CLAIREFONTAINE
+CLAMIRAL
 CLARA CLEYMANS
 CLARA DUPONT
 CLARA DUPONT-MONOD
@@ -9359,6 +9365,7 @@ Claire Bové
 ClaireBove
 ClaireBové
 Clairefontaine
+Clamiral
 Clara Cleymans
 Clara Dupont
 Clara Dupont-Monod
@@ -10691,6 +10698,7 @@ DIGITAL
 DIGITAL MARKETS ACT
 DIGITALISIERUNG
 DIGITALMARKETSACT
+DIGITALSERVICESACT
 DIGITALTC
 DIGNE
 DIGRASSI
@@ -11796,6 +11804,7 @@ Digga
 Digidix
 Digital Markets Act
 DigitalMarketsAct
+DigitalServicesAct
 DigitalTC
 Digitalisierung
 Digne
@@ -20053,6 +20062,7 @@ JACQUESROGGE
 JACQUESVENDROUX
 JACQUESVILLENEUVE
 JACQUOU
+JACQUOU LE CROQUANT
 JACTROLL
 JADA
 JADHERE
@@ -20976,6 +20986,7 @@ JUSQU'AQUAND
 JUSQUA QUAND
 JUSQUAQUAND
 JUST FONTAINE
+JUSTE LA FIN DU MONDE
 JUSTEMENT
 JUSTFONTAINE
 JUSTICE
@@ -24554,6 +24565,7 @@ LES GAFAM
 LES INDESTRUCTIBLES
 LES JL
 LES JO
+LES L
 LES LAKERS
 LES LF
 LES LR
@@ -26218,6 +26230,7 @@ Les Gafam
 Les Indestructibles
 Les JL
 Les JO
+Les L
 Les LF
 Les LR
 Les Lakers
@@ -26264,6 +26277,7 @@ LesIndestructibles
 LesJL
 LesJO
 LesJeunesAvecZemmour
+LesL
 LesLF
 LesLR
 LesLakers
@@ -35432,6 +35446,7 @@ Pyrénées
 Python
 PÂQUES
 PÉCRESSE
+PÉKIN
 PÉPÉ
 PÊCHE
 PÔLE EMPLOI
@@ -41608,6 +41623,7 @@ THE NEPTUNES
 THE NETHERLANDS
 THE OFFICE
 THE RAINY NIGHT
+THE RINGS OF POWER
 THE ROCK
 THE ROSE
 THE SHIELD
@@ -42731,6 +42747,7 @@ The Neptunes
 The Netherlands
 The Office
 The Rainy Night
+The Rings of Power
 The Rock
 The Rose
 The Shield
@@ -42811,6 +42828,7 @@ TheNorthman
 TheOffice
 TheRainyNight
 TheReal
+TheRingsofPower
 TheRock
 TheRose
 TheShield
@@ -49850,6 +49868,7 @@ blessing okagbare
 blessingokagbare
 bleu
 bleu alpin
+bleu de chanel
 bleualpin
 bleues
 bleuetdefrance
@@ -49962,6 +49981,7 @@ bois du cazier
 boisducazier
 boitenoire
 bojack horseman
+bojo
 boketshu
 boli
 bolingo
@@ -51495,6 +51515,7 @@ claire bové
 clairebove
 clairebové
 clairefontaine
+clamiral
 clara cleymans
 clara dupont
 clara dupont-monod
@@ -52871,6 +52892,7 @@ digital
 digital markets act
 digitalisierung
 digitalmarketsact
+digitalservicesact
 digitaltc
 digne
 digrassi
@@ -57531,6 +57553,8 @@ jacquesrogge
 jacquesvendroux
 jacquesvilleneuve
 jacquou
+jacquou le croquant
+jacquoulecroquant
 jactroll
 jada
 jadhere
@@ -58465,6 +58489,8 @@ jusqu'a quand
 jusqu'aquand
 jusquaquand
 just fontaine
+juste la fin du monde
+justelafindumonde
 justement
 justfontaine
 justice
@@ -60262,6 +60288,7 @@ les gafam
 les indestructibles
 les jl
 les jo
+les l
 les lakers
 les lf
 les lr
@@ -69045,6 +69072,7 @@ the neptunes
 the netherlands
 the office
 the rainy night
+the rings of power
 the rock
 the rose
 the shield
