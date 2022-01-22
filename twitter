@@ -4026,6 +4026,7 @@ BAILEY
 BAILLY
 BAJI
 BAJIC
+BAKAGOAL
 BAKAMBU
 BAKAYOKO
 BAKI
@@ -5700,6 +5701,7 @@ Bailey
 Bailly
 Baji
 Bajic
+Bakagoal
 Bakambu
 Bakayoko
 Baki
@@ -11039,6 +11041,8 @@ DORIAN CONINX
 DORIAN FOULON
 DORIANCONINX
 DORIANFOULON
+DOROTHEE
+DOROTHÉE
 DORS
 DORT
 DORTMUND
@@ -12133,6 +12137,7 @@ Dorian Coninx
 Dorian Foulon
 DorianConinx
 DorianFoulon
+Dorothée
 Dors
 Dort
 Dortmund
@@ -16561,6 +16566,7 @@ GRAUBUNDEN
 GRAUBÜNDEN
 GRAVE
 GRAY
+GRAYSON ALLEN
 GRAZ
 GRAZIEVALE
 GRBIC
@@ -17505,6 +17511,8 @@ Gratuliere
 Graubünden
 Grave
 Gray
+Grayson Allen
+GraysonAllen
 Graz
 GrazieVale
 Grbic
@@ -25050,6 +25058,7 @@ LIBAN
 LIBANON
 LIBDEMS
 LIBE
+LIBERAAL
 LIBERALISMUS
 LIBERATION
 LIBERATIONDEPARIS
@@ -26668,6 +26677,7 @@ LibDems
 Liban
 Libanon
 Libe
+Liberaal
 Liberalismus
 LiberationDeParis
 LiberezTheron
@@ -38438,6 +38448,7 @@ SELBSTVERANTWORTUNG
 SELBSTVERSTÄNDLICH
 SELEMANI
 SELENA
+SELFMADE
 SELHURST PARK
 SELHURST PARK STADIUM
 SELL
@@ -40453,6 +40464,7 @@ Sekunden
 Selbstverständlich
 Selemani
 Selena
+Selfmade
 Selhurst Park
 Selhurst Park Stadium
 SelhurstPark
@@ -44877,6 +44889,7 @@ VINCENT BOLLORE
 VINCENT BOLLORÉ
 VINCENT COLLET
 VINCENT DE PAUL
+VINCENT DEDIENNE
 VINCENT DULUC
 VINCENT GERARD
 VINCENT GÉRARD
@@ -45480,6 +45493,7 @@ Vincent Aboubakar
 Vincent Blondel
 Vincent Bolloré
 Vincent Collet
+Vincent Dedienne
 Vincent Duluc
 Vincent Gerard
 Vincent Gérard
@@ -45494,6 +45508,7 @@ VincentAboubakar
 VincentBlondel
 VincentBolloré
 VincentCollet
+VincentDedienne
 VincentDuluc
 VincentGerard
 VincentGérard
@@ -47396,6 +47411,7 @@ ZWISCHENWELLE
 ZWITSERLAND
 ZYEDETBOUNA
 ZYNGA
+ZYRA
 ZYWOO
 ZZ TOP
 ZZ Top
@@ -47616,6 +47632,7 @@ Zwischenwelle
 Zwitserland
 ZyedetBouna
 Zynga
+Zyra
 Zywoo
 ZÄHNE
 ZÉRO
@@ -47671,12 +47688,14 @@ Zürich
 \GEGENFAKTEN\
 \GENESENEN\
 \GLOCKEN\
+\GOEIEMORGEN\
 \GRATISTESTS\
 \Gatz\
 \Gaudu\
 \Gegenfakten\
 \Genesenen\
 \Glocken\
+\Goeiemorgen\
 \Gratistests\
 \HETZE\
 \Hetze\
@@ -47818,6 +47837,7 @@ Zürich
 \gegenfakten\
 \genesenen\
 \glocken\
+\goeiemorgen\
 \gratistests\
 \hetze\
 \impfdurchbrüche\
@@ -49641,6 +49661,7 @@ bailey
 bailly
 baji
 bajic
+bakagoal
 bakambu
 bakayoko
 baki
@@ -53723,6 +53744,7 @@ dorian coninx
 dorian foulon
 dorianconinx
 dorianfoulon
+dorothée
 dors
 dort
 dortmund
@@ -56561,6 +56583,7 @@ gratuliere
 graubünden
 grave
 gray
+grayson allen
 graz
 grazievale
 grbic
@@ -61172,6 +61195,7 @@ liban
 libanon
 libdems
 libe
+liberaal
 liberalismus
 liberationdeparis
 liberezlecole2022
@@ -68002,6 +68026,7 @@ selbstverantwortung
 selbstverständlich
 selemani
 selena
+selfmade
 selhurst park
 selhurst park stadium
 selhurstparkstadium
@@ -71307,6 +71332,7 @@ vincent blondel
 vincent bolloré
 vincent collet
 vincent de paul
+vincent dedienne
 vincent duluc
 vincent gerard
 vincent gérard
@@ -72542,6 +72568,7 @@ zwischenwelle
 zwitserland
 zyedetbouna
 zynga
+zyra
 zywoo
 zz top
 zztop
