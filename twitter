@@ -1530,6 +1530,7 @@ ALLEZTEDDY
 ALLEZUGO
 ALLEZVINCENT
 ALLIANCE
+ALLIANCEPOLICENATIONALE
 ALLIANZ RIVIERA
 ALLIANZRIVIERA
 ALLMIGHT
@@ -2158,6 +2159,7 @@ ARMISTICE
 ARMISTICEDAY
 ARMUT
 ARMY
+ARMYCARTOON
 ARMYS
 ARMYSELCADAY
 ARMYSelcaDay
@@ -3229,6 +3231,7 @@ AllezlesBleues
 AllezlesBleus
 AllezlesVerts
 Alliance
+AlliancePoliceNationale
 Allianz Riviera
 AllianzRiviera
 Allo Allo
@@ -3801,6 +3804,7 @@ ArminLaschet
 ArmisticeDay
 Armut
 Army
+Armycartoon
 Armées
 Arménie
 Arnaque
@@ -4884,6 +4888,7 @@ BEZUG
 BEalert
 BF2042
 BFAALG
+BFASEN
 BFATUN
 BFM TV
 BFMMENTEURS
@@ -10476,6 +10481,7 @@ Crédit du Nord
 CréditLyonnais
 CréditduNord
 Créteil
+Crêpes
 Cuadrado
 Cuba
 Cube
@@ -10687,6 +10693,7 @@ DANKEWIELER
 DANKJE
 DANKJEWEL
 DANKU
+DANKUWEL
 DANKZIJ
 DANMARTIN
 DANNDOYE
@@ -11470,6 +11477,7 @@ DOCTORSTRANGE
 DOCTORWHO
 DOCTOTHON
 DOEL
+DOFUS
 DOGE
 DOGECOIN
 DOGEORTESLA
@@ -11885,6 +11893,7 @@ DankefürdenTipp
 Dankje
 Dankjewel
 Danku
+Dankuwel
 Dankzij
 Danny
 Danny Fenster
@@ -12622,6 +12631,7 @@ DoctorStrange
 DoctorWho
 Doctothon
 Doel
+Dofus
 Doge
 Doha
 Doherty
@@ -15524,6 +15534,7 @@ FRESH
 FRESSE
 FRESSEFREIHEIT
 FREUDE
+FREUDENTAG
 FREUNDE DER VERFASSUNG
 FREUNDEDERVERFASSUNG
 FREUNDEN
@@ -16570,6 +16581,7 @@ GAMEWARD
 GAMINGCAMP2021
 GAMMLI
 GANA
+GANA GUEYE
 GANAGO
 GAND
 GANDALF
@@ -17671,6 +17683,8 @@ Gamescom
 Gameward
 GamingCamp2021
 Gana
+Gana Gueye
+GanaGueye
 Ganago
 Gand
 Gandalf
@@ -25446,6 +25460,7 @@ LE BAYERN
 LE BMX
 LE BO
 LE BRESIL
+LE BURKINA
 LE CAMEROUN
 LE CANADA
 LE CC
@@ -27170,6 +27185,7 @@ Le Barça
 Le Bayern
 Le Bresil
 Le Brésil
+Le Burkina
 Le CC
 Le CF
 Le CM
@@ -27323,6 +27339,7 @@ LeBron
 LeBron James
 LeBronJames
 LeBrésil
+LeBurkina
 LeCC
 LeCF
 LeCM
@@ -28966,6 +28983,7 @@ MASUMA
 MATA
 MATABLETTEERTE
 MATADI KIBALA
+MATANGAMATADIKIBALA
 MATAZO
 MATCH
 MATCHDESHEROS
@@ -29330,6 +29348,7 @@ MELVINVANPEEBLES
 MEMBER STATES
 MEMBERSTATES
 MEMECREDI
+MEMENTO
 MEMORIA
 MEMORIAL
 MEMORIALVANDAMME
@@ -30923,6 +30942,7 @@ Masuma
 Mata
 Matadi Kibala
 MatadiKibala
+MatangaMatadiKibala
 Matazo
 Match
 MatchDesHeros
@@ -31265,6 +31285,7 @@ MelvinRaffin
 MelvinVanPeebles
 Member States
 MemberStates
+Memento
 Memoria
 Memorial
 MemorialVanDamme
@@ -40021,6 +40042,7 @@ SEMESTER
 SEMIPARIS
 SENAAT
 SENAT
+SENBFA
 SENCAP
 SENCPV
 SENDER
@@ -40197,6 +40219,7 @@ SHAWN MENDES
 SHAWNMENDES
 SHAY
 SHAZAM
+SHAÏNA
 SHE HULK
 SHEERIZ
 SHEGUEYBETCLIC
@@ -42260,6 +42283,7 @@ Shawn Mendes
 ShawnMendes
 Shay
 Shazam
+Shaïna
 She Hulk
 SheHulk
 Sheeriz
@@ -50519,6 +50543,7 @@ allezteddy
 allezugo
 allezvincent
 alliance
+alliancepolicenationale
 allianz riviera
 allianzriviera
 allmight
@@ -51149,6 +51174,7 @@ armisticeday
 armut
 army
 army_boostday
+armycartoon
 armys
 armyselcaday
 armyvaccinatedtoo
@@ -52350,6 +52376,7 @@ bezos
 bezug
 bf2042
 bfaalg
+bfasen
 bfatun
 bfm tv
 bfmmenteurs
@@ -55111,6 +55138,7 @@ dankewieler
 dankje
 dankjewel
 danku
+dankuwel
 dankzij
 danmartin
 danndoye
@@ -55877,6 +55905,7 @@ doctorstrange
 doctorwho
 doctothon
 doel
+dofus
 doge
 dogecoin
 dogeortesla
@@ -57998,6 +58027,7 @@ fresh
 fresse
 fressefreiheit
 freude
+freudentag
 freunde der verfassung
 freundederverfassung
 freunden
@@ -58184,6 +58214,7 @@ gameward
 gamingcamp2021
 gammli
 gana
+gana gueye
 ganago
 gand
 gandalf
@@ -63039,6 +63070,7 @@ le bmx
 le bo
 le bresil
 le brésil
+le burkina
 le cameroun
 le canada
 le cc
@@ -64909,6 +64941,7 @@ masuma
 mata
 matabletteerte
 matadi kibala
+matangamatadikibala
 matazo
 match
 matchdesheros
@@ -65266,6 +65299,7 @@ melvinvanpeebles
 member states
 memberstates
 memecredi
+memento
 memoria
 memorial
 memorialvandamme
@@ -70751,6 +70785,7 @@ semester
 semiparis
 senaat
 senat
+senbfa
 sencap
 sencpv
 sender
@@ -70930,6 +70965,7 @@ shawn mendes
 shawnmendes
 shay
 shazam
+shaïna
 she hulk
 sheeriz
 shegueybetclic
