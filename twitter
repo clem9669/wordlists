@@ -615,6 +615,8 @@
 40anstgv
 44ANS
 44ans
+47TER
+47ter
 49ERS
 49ers
 4AOUT
@@ -7534,6 +7536,7 @@ C'ESTHISTORIQUE
 C'ESTHONTEUX
 C'ESTINCROYABLE
 C'ESTL'HEURE
+C'ESTLAFECAFOOT
 C'ESTMARSEILLE
 C'ESTMOZARTCAPITAINEJACKSON
 C'ESTQUICEMEC
@@ -7989,6 +7992,7 @@ CEST FAIT
 CEST HISTORIQUE
 CEST HONTEUX
 CEST INCROYABLE
+CEST LA FECAFOOT
 CEST LHEURE
 CEST QUI CE MEC
 CESTBATHENAY
@@ -8538,6 +8542,7 @@ CLINT
 CLINT EASTWOOD
 CLINTEASTWOOD
 CLINTON
+CLINTON NJIE
 CLIP OFFICIEL
 CLIPOFFICIEL
 CLIPPERS
@@ -18809,6 +18814,7 @@ HAPPY BIRTHDAY SWITZERLAND
 HAPPY CHINESE NEW YEAR
 HAPPY CHRISTMAS
 HAPPY DIWALI
+HAPPY END
 HAPPY HALLOWEEN
 HAPPY HANUKKAH
 HAPPY HOLIDAYS
@@ -19522,6 +19528,7 @@ Happy Birthday Switzerland
 Happy Chinese New Year
 Happy Christmas
 Happy Diwali
+Happy End
 Happy Halloween
 Happy Hanukkah
 Happy Holidays
@@ -19551,6 +19558,7 @@ HappyBirthdayZayn
 HappyChineseNewYear
 HappyChristmas
 HappyDiwali
+HappyEnd
 HappyHANday
 HappyHalloween
 HappyHanukkah
@@ -25227,6 +25235,7 @@ LAIEN
 LAIFIS
 LAIMOHAMMED
 LAINK
+LAISSE TOMBER
 LAISSEZVOUSGUIDER
 LAJAMAIQUE
 LAJUVE
@@ -27015,6 +27024,8 @@ LaiMohammed
 Laicite
 Laien
 Laink
+Laisse Tomber
+LaisseTomber
 LaissezVousGuider
 Laken
 Lakers
@@ -34856,6 +34867,7 @@ PANDORA PAPERS
 PANDORALEAKS
 PANDORAPAPER
 PANDORAPAPERS
+PANDÉMIE
 PANIK
 PANIKMACHE
 PANJSHIR
@@ -36266,6 +36278,7 @@ Pandora Papers
 PandoraLeaks
 PandoraPaper
 PandoraPapers
+Pandémie
 Panik
 Panikmache
 Panjshir
@@ -37972,6 +37985,7 @@ REFUGEECONVENTION
 REFUGEEFORUM
 REFUGEESWELCOME
 REGALLA
+REGARDE TOI
 REGEL
 REGELN
 REGELS
@@ -38892,6 +38906,8 @@ Refractaire
 RefugeeConvention
 RefugeesWelcome
 Regalla
+Regarde Toi
+RegardeToi
 Regel
 Regeln
 Regels
@@ -40131,6 +40147,7 @@ SEELE
 SEEN THE MOST
 SEENTHEMOST
 SEEPH2021
+SEEZY
 SEF21
 SEFEROVIC
 SEFY
@@ -42250,6 +42267,7 @@ Seen The Most
 Seen the Most
 SeenTheMost
 SeentheMost
+Seezy
 Seferovic
 Sefy
 Sega
@@ -54565,6 +54583,8 @@ clint
 clint eastwood
 clinteastwood
 clinton
+clinton njie
+clintonnjie
 clip officiel
 clipofficiel
 clippers
@@ -59584,6 +59604,7 @@ happy birthday switzerland
 happy chinese new year
 happy christmas
 happy diwali
+happy end
 happy halloween
 happy hanukkah
 happy holidays
@@ -62973,6 +62994,7 @@ laien
 laifis
 laimohammed
 laink
+laisse tomber
 laissezvousguider
 lajamaïque
 lajuve
@@ -67929,6 +67951,7 @@ pandora papers
 pandoraleaks
 pandorapaper
 pandorapapers
+pandémie
 panik
 panikmache
 panjshir
@@ -69675,6 +69698,7 @@ refugeeconvention
 refugeeforum
 refugeeswelcome
 regalla
+regarde toi
 regel
 regeln
 regels
@@ -70989,6 +71013,7 @@ seele
 seen the most
 seenthemost
 seeph2021
+seezy
 sef21
 seferovic
 sefy
