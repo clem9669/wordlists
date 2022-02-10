@@ -282,6 +282,7 @@ ADELBODEN-WELTCUP
 ADELE
 ADELE, 30
 ADI HÜTTER
+ADIDAS
 ADIEU MONSIEUR HAFFMANN
 ADMIR MEHMEDI
 ADNAN ABOU WALID AL-SAHRAOUI
@@ -347,6 +348,7 @@ AJLA DEL PONTE
 AKAMAI
 AKHENATON
 AKTENZEICHEN XY
+AL-HILAL – CHELSEA
 ALAIN BASHUNG
 ALAIN BERSET
 ALAIN CHAMFORT
@@ -401,6 +403,7 @@ ALEXANDREJARDIN
 ALEXANDREVARGA
 ALEXIA LAROCHE-JOUBERT
 ALEXIA PUTELLAS
+ALEXIS PINTURAULT
 ALEXPULLIN
 ALFA ROMEO TONALE
 ALFORTVILLE
@@ -535,6 +538,7 @@ ANDREJ MANGOLD
 ANDREW CUOMO
 ANDRI RAGETTLI
 ANDRÉ HOFFMANN
+ANDRÉ WILMS
 ANDY DELORT
 ANDY MURRAY
 ANDY PEELMAN
@@ -830,6 +834,7 @@ AURELIE FILIPPETTI
 AURELIE PONS
 AURELIO GALFETTI
 AURORE BERGÉ
+AURÉLIEN TACHÉ
 AUSTIN BUTLER
 AUSTRALIAN OPEN
 AUSTRALIE FRANCE
@@ -957,6 +962,7 @@ Adele, 30
 Adele,30
 Adi Hütter
 AdiHütter
+Adidas
 Adieu Monsieur Haffmann
 AdieuMonsieurHaffmann
 Admir Mehmedi
@@ -1059,6 +1065,9 @@ Aktenzeichen XY
 Aktenzeichen xy
 AktenzeichenXY
 Aktenzeichenxy
+Al-Hilal – Chelsea
+Al-Hilal–Chelsea
+AlHilal – Chelsea
 Alain Bashung
 Alain Berset
 Alain Chamfort
@@ -1154,6 +1163,8 @@ Alexia LarocheJoubert
 Alexia Putellas
 AlexiaLaroche-Joubert
 AlexiaPutellas
+Alexis Pinturault
+AlexisPinturault
 Alfa Romeo Tonale
 AlfaRomeoTonale
 Alfortville
@@ -1374,7 +1385,9 @@ AndrewCuomo
 Andri Ragettli
 AndriRagettli
 André Hoffmann
+André Wilms
 AndréHoffmann
+AndréWilms
 Andy Delort
 Andy Murray
 Andy Peelman
@@ -1819,6 +1832,8 @@ Aurelio Galfetti
 AurelioGalfetti
 Aurore Bergé
 AuroreBergé
+Aurélien Taché
+AurélienTaché
 Austin Butler
 AustinButler
 Australian Open
@@ -1961,6 +1976,7 @@ BASIL EIDENBENZ
 BASKET 3X3
 BASKET FEMININ JO
 BASKET JO
+BASLER FASNACHT 2022
 BASSECOURT
 BASTAREAUD
 BASTIA – NANCY
@@ -2105,7 +2121,9 @@ BENSON
 BENZEMA
 BERCHTESGADEN
 BERENICE BEJO
+BERENICE WICKI
 BERGERAC – SAINT-ÉTIENNE
+BERGERAC-VERSAILLES
 BERLIN-MARATHON 2021
 BERLUSCONI
 BERNADETTE CHIRAC
@@ -2135,6 +2153,7 @@ BESTMILE
 BETIS SEVILLE
 BETIS – REAL
 BETTINA GAUS
+BETTY DAVIS
 BETTY WHITE
 BEURS
 BEYONCE
@@ -2566,6 +2585,8 @@ Basket feminin JO
 Basket3x3
 BasketJO
 BasketfemininJO
+Basler Fasnacht 2022
+BaslerFasnacht2022
 Bassecourt
 Bastareaud
 Bastia – Nancy
@@ -2788,9 +2809,13 @@ Benson
 Benzema
 Berchtesgaden
 Berenice Bejo
+Berenice Wicki
 BereniceBejo
+BereniceWicki
 Bergerac – Saint-Étienne
 Bergerac – SaintÉtienne
+Bergerac-Versailles
+BergeracVersailles
 Bergerac–Saint-Étienne
 Berlin-Marathon 2021
 Berlin-Marathon2021
@@ -2843,7 +2868,9 @@ Betisseville
 Betis–Real
 Bettina Gaus
 BettinaGaus
+Betty Davis
 Betty White
+BettyDavis
 BettyWhite
 Beurs
 Beyonce
@@ -3540,6 +3567,7 @@ CHRISTIAN GENTNER
 CHRISTIAN GYAN
 CHRISTIAN KRACHT
 CHRISTIAN QUESADA
+CHRISTIANE F
 CHRISTIANE TAUBIRA
 CHRISTIANGENTNER
 CHRISTIN OKPARA
@@ -4285,7 +4313,9 @@ ChristianGentner
 ChristianGyan
 ChristianKracht
 ChristianQuesada
+Christiane F
 Christiane Taubira
+ChristianeF
 ChristianeTaubira
 Christin Okpara
 ChristinOkpara
@@ -5846,6 +5876,7 @@ ERIC PHILIPPI
 ERIC PIOLLE
 ERIC STEHFEST
 ERIC VASTINE
+ERIC WOERTH
 ERIC ZEMMOUR
 ERICPIOLLE
 ERICZEMMOUR
@@ -6264,6 +6295,7 @@ Eric Philippi
 Eric Piolle
 Eric Stehfest
 Eric Vastine
+Eric Woerth
 Eric Zemmour
 EricAdams
 EricCiotti
@@ -6273,6 +6305,7 @@ EricPhilippi
 EricPiolle
 EricStehfest
 EricVastine
+EricWoerth
 EricZemmour
 Erik Van Looy
 ErikVanLooy
@@ -7601,6 +7634,7 @@ GERD MULLER
 GERD MÜLLER
 GERDA TARO
 GERDATARO
+GERHARD RICHTER
 GERMINAL
 GERRY HOFSTETTER
 GERS
@@ -7974,6 +8008,8 @@ GerdMüller
 Gerda Taro
 GerdaTaro
 Gerdmuller
+Gerhard Richter
+GerhardRichter
 Germinal
 Gerry Hofstetter
 GerryHofstetter
@@ -10330,6 +10366,7 @@ KEVIN VARGA
 KEVINDEBRUYNE
 KEYNOTE APPLE
 KHEIRA HAMRAOUI
+KHÉPHREN THURAM
 KICKER
 KIEL
 KILCHBERG
@@ -10370,6 +10407,7 @@ KOEN VANMECHELEN
 KOEN WAUTERS
 KOERS BITCOIN
 KOFFI OLOMIDE
+KOH LANTA
 KOH-LANTA
 KOLASINAC
 KONG: SKULL ISLAND
@@ -10611,6 +10649,8 @@ Keynote Apple
 KeynoteApple
 Kheira Hamraoui
 KheiraHamraoui
+Khéphren Thuram
+KhéphrenThuram
 Kicker
 Kiel
 Kilchberg
@@ -10684,6 +10724,7 @@ Koers bitcoin
 Koersbitcoin
 Koffi Olomide
 KoffiOlomide
+Koh Lanta
 Koh-Lanta
 KohLanta
 Kolasinac
@@ -11047,6 +11088,7 @@ LEPARISIEN
 LEQUIPE
 LERNOUT EN HAUSPIE
 LES 12 COUPS DE MIDI
+LES BODIN'S
 LES BODIN'S EN THAÏLANDE
 LES CHORISTES
 LES CHOSES DE LA VIE
@@ -11715,6 +11757,7 @@ Leremplaçant
 Lernout en Hauspie
 LernoutenHauspie
 Les 12 coups de midi
+Les Bodin's
 Les Bodin's en Thaïlande
 Les Choristes
 Les Choses de la vie
@@ -11739,6 +11782,7 @@ Les profs 2
 Les visiteurs
 Les Éternels
 Les12coupsdemidi
+LesBodin's
 LesBodin'senThaïlande
 LesChoristes
 LesChosesdelavie
@@ -12302,6 +12346,7 @@ MALU DREYER
 MAN BUN
 MAN CITY
 MAN CITY GEGEN ARSENAL!
+MAN CITY GEGEN BRENTFORD
 MAN CITY GEGEN BURNLEY
 MAN CITY GEGEN LEICESTER
 MAN CITY GEGEN PSG
@@ -12382,6 +12427,7 @@ MARC GOBLET
 MARC HIRSCHI
 MARC LAVOINE
 MARC MACHIN
+MARC OVERMARS
 MARC ROCHAT
 MARC SIMONCINI
 MARC VAN RANST
@@ -13037,6 +13083,7 @@ MaluDreyer
 Man Bun
 Man City
 Man City gegen Arsenal!
+Man City gegen Brentford
 Man City gegen Burnley
 Man City gegen Leicester
 Man City gegen PSG
@@ -13059,6 +13106,7 @@ Man utd  Manchester City
 ManBun
 ManCity
 ManCitygegenArsenal!
+ManCitygegenBrentford
 ManCitygegenBurnley
 ManCitygegenLeicester
 ManCitygegenPSG
@@ -13182,6 +13230,7 @@ Marc Goblet
 Marc Hirschi
 Marc Lavoine
 Marc Machin
+Marc Overmars
 Marc Rochat
 Marc Simoncini
 Marc Van Ranst
@@ -13195,6 +13244,7 @@ MarcGoblet
 MarcHirschi
 MarcLavoine
 MarcMachin
+MarcOvermars
 MarcRochat
 MarcSimoncini
 MarcVanRanst
@@ -14302,6 +14352,7 @@ NIKE
 NIKO KOVAC
 NIKOLAUSTAG
 NIKON Z9
+NIKOS ALIAGAS
 NILS POLITT
 NILS VAN DER POEL
 NILSPOLITT
@@ -14666,6 +14717,8 @@ Nikokovac
 Nikolaustag
 Nikon Z9
 NikonZ9
+Nikos Aliagas
+NikosAliagas
 Nils Politt
 Nils van der Poel
 NilsPolitt
@@ -17722,6 +17775,7 @@ SKY BROWN
 SKY SPORT
 SKYFALL
 SLACK
+SLALOM FRAUEN OLYMPIA
 SLALOM WENGEN
 SLIMANE
 SLOVENIE
@@ -18574,7 +18628,9 @@ SkyBrown
 SkySport
 Skyfall
 Slack
+Slalom Frauen Olympia
 Slalom Wengen
+SlalomFrauenOlympia
 SlalomWengen
 Slimane
 Slovenie
@@ -21108,6 +21164,7 @@ YALLO
 YANINA WICKMAYER
 YANN SOMMER
 YANNICK AGNEL
+YANNICK CHABLOZ
 YANNICK JADOT
 YANNICK NOAH
 YANNICKJADOT
@@ -21146,9 +21203,11 @@ YaninaWickmayer
 Yann Sommer
 YannSommer
 Yannick Agnel
+Yannick Chabloz
 Yannick Jadot
 Yannick Noah
 YannickAgnel
+YannickChabloz
 YannickJadot
 YannickNoah
 Yaremchuk
@@ -21258,6 +21317,7 @@ ZULTE WAREGEM – STANDARD
 ZULTE-WAREGEM  ANTWERP
 ZULTE-WAREGEM  GENK
 ZULTE-WAREGEM  MECHELEN
+ZULTE-WAREGEM  OOSTENDE
 ZURICH
 ZURICH-FLUGHAFEN
 ZURICHFLUGHAFEN
@@ -21363,15 +21423,18 @@ Zulte Waregem – Standard
 Zulte-waregem  Antwerp
 Zulte-waregem  Genk
 Zulte-waregem  Mechelen
+Zulte-waregem  Oostende
 Zulte-waregemAntwerp
 Zulte-waregemGenk
 Zulte-waregemMechelen
+Zulte-waregemOostende
 ZulteWaregem
 ZulteWaregem–Charleroisc
 ZulteWaregem–Standard
 Zultewaregem  Antwerp
 Zultewaregem  Genk
 Zultewaregem  Mechelen
+Zultewaregem  Oostende
 Zurich
 Zurich-Flughafen
 ZurichFlughafen
@@ -21456,6 +21519,7 @@ adelboden-weltcup
 adele
 adele, 30
 adi hütter
+adidas
 adieu monsieur haffmann
 admir mehmedi
 adnan abou walid al-sahraoui
@@ -21517,6 +21581,7 @@ ajla del ponte
 akamai
 akhenaton
 aktenzeichen xy
+al-hilal – chelsea
 alain bashung
 alain berset
 alain chamfort
@@ -21571,6 +21636,7 @@ alexandrejardin
 alexandrevarga
 alexia laroche-joubert
 alexia putellas
+alexis pinturault
 alexpullin
 alfa romeo tonale
 alfortville
@@ -21701,6 +21767,7 @@ andrej mangold
 andrew cuomo
 andri ragettli
 andré hoffmann
+andré wilms
 andy delort
 andy murray
 andy peelman
@@ -21975,6 +22042,7 @@ aurelie filippetti
 aurelie pons
 aurelio galfetti
 aurore bergé
+aurélien taché
 austin butler
 australian open
 australie france
@@ -22091,6 +22159,7 @@ basil eidenbenz
 basket 3x3
 basket feminin jo
 basket jo
+basler fasnacht 2022
 bassecourt
 bastareaud
 bastia – nancy
@@ -22231,7 +22300,9 @@ benson
 benzema
 berchtesgaden
 berenice bejo
+berenice wicki
 bergerac – saint-étienne
+bergerac-versailles
 berlin-marathon 2021
 berlusconi
 bernadette chirac
@@ -22261,6 +22332,7 @@ bestmile
 betis seville
 betis – real
 bettina gaus
+betty davis
 betty white
 beurs
 beyonce
@@ -22807,6 +22879,7 @@ christian gentner
 christian gyan
 christian kracht
 christian quesada
+christiane f
 christiane taubira
 christiangentner
 christin okpara
@@ -23622,6 +23695,7 @@ eric philippi
 eric piolle
 eric stehfest
 eric vastine
+eric woerth
 eric zemmour
 ericpiolle
 ericzemmour
@@ -24236,6 +24310,7 @@ gerd muller
 gerd müller
 gerda taro
 gerdataro
+gerhard richter
 germinal
 gerry hofstetter
 gers
@@ -25268,6 +25343,7 @@ kevin varga
 kevindebruyne
 keynote apple
 kheira hamraoui
+khéphren thuram
 kicker
 kiel
 kilchberg
@@ -25308,6 +25384,7 @@ koen vanmechelen
 koen wauters
 koers bitcoin
 koffi olomide
+koh lanta
 koh-lanta
 kolasinac
 kong: skull island
@@ -25608,6 +25685,7 @@ leparisien
 lequipe
 lernout en hauspie
 les 12 coups de midi
+les bodin's
 les bodin's en thaïlande
 les choristes
 les choses de la vie
@@ -25983,6 +26061,7 @@ malu dreyer
 man bun
 man city
 man city gegen arsenal!
+man city gegen brentford
 man city gegen burnley
 man city gegen leicester
 man city gegen psg
@@ -26063,6 +26142,7 @@ marc goblet
 marc hirschi
 marc lavoine
 marc machin
+marc overmars
 marc rochat
 marc simoncini
 marc van ranst
@@ -26788,6 +26868,7 @@ nike
 niko kovac
 nikolaustag
 nikon z9
+nikos aliagas
 nils politt
 nils van der poel
 nilspolitt
@@ -28161,6 +28242,7 @@ sky brown
 sky sport
 skyfall
 slack
+slalom frauen olympia
 slalom wengen
 slimane
 slovenie
@@ -29259,6 +29341,7 @@ yallo
 yanina wickmayer
 yann sommer
 yannick agnel
+yannick chabloz
 yannick jadot
 yannick noah
 yannickjadot
@@ -29355,6 +29438,7 @@ zulte waregem – standard
 zulte-waregem  antwerp
 zulte-waregem  genk
 zulte-waregem  mechelen
+zulte-waregem  oostende
 zurich
 zurich-flughafen
 zurichflughafen
