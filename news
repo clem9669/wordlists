@@ -249,6 +249,7 @@ ABSTIMMUNG EHE FÜR ALLE
 ABSTIMMUNG NOVEMBER 2021
 ABSTIMMUNG SCHWEIZ
 ABSTIMMUNGEN
+ABSTIMMUNGEN SCHWEIZ
 ABSTIMMUNGEN SEPTEMBER 2021
 ABSTIMMUNGSRESULTATE
 ABSTIMMUNGSRESULTATE SCHWEIZ
@@ -435,6 +436,7 @@ ALICE TAGLIONI
 ALICIA AYLIES
 ALICIA WITT
 ALIDAEI
+ALINA PÄTZ
 ALINE
 ALINE DANIOTH
 ALISHA LEHMANN
@@ -495,6 +497,7 @@ AMC AKTIE
 AMC Aktie
 AMCAktie
 AMEL BENT
+AMEL BENT MARI
 AMELIE DE BOURBON
 AMELIE DE MONTCHALIN
 AMERICAN STAFF
@@ -754,6 +757,7 @@ AS MONACO
 AS Monaco
 AS ROMA
 AS Roma
+ASAF AVIDAN
 ASAP-ROCKY
 ASAP-Rocky
 ASAPRocky
@@ -918,7 +922,9 @@ AbstimmungEhefüralle
 AbstimmungNovember2021
 AbstimmungSchweiz
 Abstimmungen
+Abstimmungen Schweiz
 Abstimmungen september 2021
+AbstimmungenSchweiz
 Abstimmungenseptember2021
 Abstimmungschweiz
 Abstimmungsresultate
@@ -1218,6 +1224,8 @@ Alicia Aylies
 Alicia Witt
 AliciaAylies
 AliciaWitt
+Alina Pätz
+AlinaPätz
 Aline
 Aline Danioth
 AlineDanioth
@@ -1308,7 +1316,9 @@ Ambri Lugano
 AmbriLugano
 Ambroisie
 Amel Bent
+Amel bent mari
 AmelBent
+Amelbentmari
 Amelie de Bourbon
 Amelie de Montchalin
 AmeliedeBourbon
@@ -1733,6 +1743,8 @@ Ary Abittan
 AryAbittan
 As Roma
 AsRoma
+Asaf Avidan
+AsafAvidan
 Aserbaidschan
 Asghar Farhadi
 AsgharFarhadi
@@ -2253,6 +2265,7 @@ BOB MORANE
 BOB ODENKIRK
 BOB SAGET
 BOBA FETT
+BOCHUM GEGEN BAYERN
 BOCUSE D'OR 2021
 BODE MILLER
 BODO/GLIMT
@@ -3006,6 +3019,8 @@ BobSaget
 Boba Fett
 BobaFett
 Boblave-vaisselle
+Bochum gegen Bayern
+BochumgegenBayern
 Bocuse d'or 2021
 Bocused'or2021
 Bode Miller
@@ -3556,6 +3571,7 @@ CHIMENE BADI
 CHIMENEBADI
 CHINA SUAREZ
 CHINE TAÏWAN
+CHLOE MORIN
 CHLOE TRESPEUCH
 CHRIS ANKER SØRENSEN
 CHRIS CUOMO
@@ -4280,7 +4296,9 @@ China Suarez
 ChinaSuarez
 Chine Taïwan
 ChineTaïwan
+Chloe Morin
 Chloe Trespeuch
+ChloeMorin
 ChloeTrespeuch
 Chris Anker Sørensen
 Chris Anker sørensen
@@ -4909,6 +4927,7 @@ DDL ZAN
 DE GAULLE
 DE GEA
 DE LIJN
+DE MOL
 DE PANNE
 DE SLAG OM DE SCHELDE
 DE SLIMSTE MENS
@@ -5292,6 +5311,7 @@ DdlZan
 De Gaulle
 De Gea
 De Lijn
+De Mol
 De Panne
 De Slag om de Schelde
 De Slimste Mens
@@ -5307,6 +5327,7 @@ De verraders
 DeGaulle
 DeGea
 DeLijn
+DeMol
 DePanne
 DeSlagomdeSchelde
 DeSlimsteMens
@@ -9411,6 +9432,7 @@ JEROEN PERCEVAL
 JEROEN RIETBERGEN
 JEROME BOATENG
 JEROME RIVIERE
+JEROME RODRIGUES
 JERRY DOUGLAS
 JESSICA AIDI
 JESSICA CHASTAIN
@@ -9913,8 +9935,10 @@ JeroenMeus
 JeroenPerceval
 JeroenRietbergen
 Jerome Boateng
+Jerome Rodrigues
 Jerome riviere
 JeromeBoateng
+JeromeRodrigues
 Jeromeriviere
 Jerry Douglas
 JerryDouglas
@@ -10440,6 +10464,7 @@ KLOPJACHT
 KNABENSCHIESSEN
 KNOKKE
 KOBE BRYANT
+KODAK BLACK
 KOEN NAERT
 KOEN VANMECHELEN
 KOEN WAUTERS
@@ -10501,6 +10526,9 @@ KURZ
 KUSEL
 KV MECHELEN
 KV Mechelen
+KVC WESTERLO
+KVC Westerlo
+KVCWesterlo
 KVMechelen
 KVO
 KWASI KWARTENG
@@ -10752,6 +10780,8 @@ Knabenschiessen
 Knokke
 Kobe Bryant
 KobeBryant
+Kodak Black
+KodakBlack
 Koen Naert
 Koen Vanmechelen
 Koen Wauters
@@ -11423,6 +11453,7 @@ LYON – LENS
 LYON – LORIENT
 LYON – METZ
 LYON – MONACO
+LYON – NICE
 LYON – PARIS-SG
 LYON – RANGERS
 LYON – SAINT-ÉTIENNE
@@ -12285,6 +12316,7 @@ Lyon – Lens
 Lyon – Lorient
 Lyon – Metz
 Lyon – Monaco
+Lyon – Nice
 Lyon – Rangers
 Lyon – Saint-Étienne
 Lyon – SaintÉtienne
@@ -12304,6 +12336,7 @@ Lyon–Lens
 Lyon–Lorient
 Lyon–Metz
 Lyon–Monaco
+Lyon–Nice
 Lyon–Rangers
 Lyon–Saint-Étienne
 Lyon–SpartaPrague
@@ -12423,6 +12456,7 @@ MANCHESTER UNITED – EVERTON
 MANCHESTER UNITED – LEEDS UNITED
 MANCHESTER UNITED – LIVERPOOL
 MANCHESTER UNITED – MIDDLESBROUGH
+MANCHESTER UNITED – SOUTHAMPTON
 MANCHESTER UNITED – VILLARREAL
 MANCHESTER UNITED – WEST HAM
 MANCHESTER UNITED – WOLVES
@@ -12643,6 +12677,7 @@ MATHIAS VICHERAT
 MATHIASFLUCKIGER
 MATHIASFLuCKIGER
 MATHIEU AMALRIC
+MATHIEU FAIVRE
 MATHIEU KOH-LANTA
 MATHIEU VAN DER POEL
 MATHIEUVANDERPOEL
@@ -12677,6 +12712,7 @@ MAUDIE
 MAUREEN LOUYS
 MAURI VANSEVENANT
 MAURICE FILM
+MAURICE MANIFICAT
 MAUS
 MAVA CHOU
 MAVACHOU
@@ -12743,6 +12779,7 @@ MEINEIMPFUNGEN
 MEISE
 MEL THOMPSON
 MELANIE BOULANGER
+MELANIE HASLER
 MELANIE MÜLLER
 MELANIE OESCH
 MELANIE WINIGER
@@ -12953,6 +12990,7 @@ MONACO FOOT
 MONACO – AMIENS
 MONACO – LENS
 MONACO – LILLE
+MONACO – LORIENT
 MONACO – LYON
 MONACO – MARSEILLE
 MONACO – PSV EINDHOVEN
@@ -12983,6 +13021,7 @@ MONTENEGRO
 MONTEROSA
 MONTGERON
 MONTPELLIER – LENS
+MONTPELLIER – LILLE
 MONTPELLIER – LYON
 MONTPELLIER – MARSEILLE
 MONTPELLIER – SAINT-ÉTIENNE
@@ -13190,6 +13229,7 @@ Manchester United – Everton
 Manchester United – Leeds United
 Manchester United – Liverpool
 Manchester United – Middlesbrough
+Manchester United – Southampton
 Manchester United – Villarreal
 Manchester United – West Ham
 Manchester United – Wolves
@@ -13204,6 +13244,7 @@ ManchesterUnited–Everton
 ManchesterUnited–LeedsUnited
 ManchesterUnited–Liverpool
 ManchesterUnited–Middlesbrough
+ManchesterUnited–Southampton
 ManchesterUnited–Villarreal
 ManchesterUnited–WestHam
 ManchesterUnited–Wolves
@@ -13580,10 +13621,12 @@ MathiasSercu
 MathiasVergels
 MathiasVicherat
 Mathieu Amalric
+Mathieu Faivre
 Mathieu Koh-Lanta
 Mathieu KohLanta
 Mathieu van der Poel
 MathieuAmalric
+MathieuFaivre
 MathieuKoh-Lanta
 MathieuvanderPoel
 Mathilde Gremaud
@@ -13635,7 +13678,9 @@ Maureen Louys
 MaureenLouys
 Mauri Vansevenant
 MauriVansevenant
+Maurice Manificat
 Maurice film
+MauriceManificat
 Mauricefilm
 Maus
 Mava Chou
@@ -13741,10 +13786,12 @@ Meise
 Mel Thompson
 MelThompson
 Melanie Boulanger
+Melanie Hasler
 Melanie Müller
 Melanie Oesch
 Melanie Winiger
 MelanieBoulanger
+MelanieHasler
 MelanieMüller
 MelanieOesch
 MelanieWiniger
@@ -14077,6 +14124,7 @@ Monaco foot
 Monaco – Amiens
 Monaco – Lens
 Monaco – Lille
+Monaco – Lorient
 Monaco – Lyon
 Monaco – Marseille
 Monaco – PSV Eindhoven
@@ -14093,6 +14141,7 @@ Monacofoot
 Monaco–Amiens
 Monaco–Lens
 Monaco–Lille
+Monaco–Lorient
 Monaco–Lyon
 Monaco–Marseille
 Monaco–PSVEindhoven
@@ -14136,12 +14185,14 @@ Montelukast
 Montenegro
 Montgeron
 Montpellier – Lens
+Montpellier – Lille
 Montpellier – Lyon
 Montpellier – Marseille
 Montpellier – Saint-Étienne
 Montpellier – SaintÉtienne
 Montpellier – Strasbourg
 Montpellier–Lens
+Montpellier–Lille
 Montpellier–Lyon
 Montpellier–Marseille
 Montpellier–Saint-Étienne
@@ -14476,6 +14527,7 @@ NOROVIRUS
 NORVEGE
 NORWEGEN ATTENTAT
 NORWICH CITY – LIVERPOOL
+NORWICH CITY – MAN CITY
 NOS
 NOS JOURS HEUREUX
 NOTRUFNUMMERN SCHWEIZ
@@ -14866,7 +14918,9 @@ Norvege
 Norwegen Attentat
 NorwegenAttentat
 Norwich City – Liverpool
+Norwich City – Man City
 NorwichCity–Liverpool
+NorwichCity–ManCity
 Nos jours heureux
 Nosjoursheureux
 Notrufnummern Schweiz
@@ -14989,6 +15043,7 @@ OLYMPIA 2021
 OLYMPIA 2022
 OLYMPIA 2022 PROGRAMM
 OLYMPIA PROGRAMM
+OLYMPIA SKI ALPIN
 OLYMPIQUE DE MARSEILLE
 OLYMPIQUE LYONNAIS
 OLYMPISCHE SPELEN
@@ -15205,10 +15260,12 @@ Olympia 2021
 Olympia 2022
 Olympia 2022 Programm
 Olympia Programm
+Olympia Ski alpin
 Olympia2021
 Olympia2022
 Olympia2022Programm
 OlympiaProgramm
+OlympiaSkialpin
 Olympique de Marseille
 Olympique lyonnais
 OlympiquedeMarseille
@@ -15376,6 +15433,7 @@ PANDEV
 PANDORA PAPERS
 PANDORA PAPERS LISTE
 PANTELLERIA
+PAPADAKIS CIZERON
 PAPE FRANCOIS
 PAPE FRANcOIS
 PAPE FRANÇOIS
@@ -15862,6 +15920,8 @@ Pandora Papers liste
 PandoraPapers
 PandoraPapersliste
 Pantelleria
+Papadakis Cizeron
+PapadakisCizeron
 Pape Francois
 Pape François
 Pape Gueye
@@ -18031,8 +18091,10 @@ STEFAN KÜNG
 STEFAN REICHMUTH
 STEFANIE HEINZMANN
 STEFFI BUCHLI
+STEMPELSTEUER
 STEPHANE BERN
 STEPHANE PLAZA
+STEPHANE RAVIER
 STEPHEN CURRY
 STEPHEN HAWKING
 STEPHEN SONDHEIM
@@ -18119,6 +18181,7 @@ SUNSCLIPPERS
 SUNS–BUCKS
 SUNS–CLIPPERS
 SUPER BOWL
+SUPER BOWL 2022
 SUPER LEAGUE
 SUPER NANNY
 SUPER-G BORMIO
@@ -18956,10 +19019,13 @@ Stefanie Heinzmann
 StefanieHeinzmann
 Steffi Buchli
 SteffiBuchli
+Stempelsteuer
 Stephane Bern
 Stephane Plaza
+Stephane Ravier
 StephaneBern
 StephanePlaza
+StephaneRavier
 Stephen Curry
 Stephen Hawking
 Stephen Sondheim
@@ -19082,12 +19148,14 @@ SunsClippers
 Suns–Bucks
 Suns–Clippers
 Super Bowl
+Super Bowl 2022
 Super League
 Super Nanny
 Super-G St. Moritz
 Super-GSt.Moritz
 Super-League
 SuperBowl
+SuperBowl2022
 SuperG St. Moritz
 SuperLeague
 SuperNanny
@@ -20152,11 +20220,13 @@ UFC 266
 UFC 267
 UFC 268
 UFC 269
+UFC 271
 UFC265
 UFC266
 UFC267
 UFC268
 UFC269
+UFC271
 UFL
 UGO HUMBERT
 UGOHUMBERT
@@ -20445,6 +20515,7 @@ VILLARREAL
 VILLARREAL – ATLÉTICO MADRID
 VILLARREAL – BARCELONA
 VILLARREAL – MANCHESTER UNITED
+VILLARREAL – REAL
 VILLARS
 VINCENT CASSEL
 VINCENT GERARD
@@ -20493,9 +20564,11 @@ VOLLMOND
 VOLLMOND 2022
 VOLLMOND AUGUST 2021
 VONDROUSOVA
+VOTATION 13 FÉVRIER
 VOTATION 26 SEPTEMBRE
 VOTATION 28 NOVEMBRE
 VOTATION 28 NOVEMBRE 2021
+VOTATIONS 13 FÉVRIER 2022
 VPN
 VRENZ BLEIJENBERGH
 VRIENDIN JURGEN CONINGS
@@ -20693,9 +20766,11 @@ Villarreal
 Villarreal – Atlético Madrid
 Villarreal – Barcelona
 Villarreal – Manchester United
+Villarreal – Real
 Villarreal–AtléticoMadrid
 Villarreal–Barcelona
 Villarreal–ManchesterUnited
+Villarreal–Real
 Villars
 Vincent Cassel
 Vincent Gross
@@ -20780,12 +20855,16 @@ Vollmond August 2021
 Vollmond2022
 VollmondAugust2021
 Vondrousova
+Votation 13 février
 Votation 26 septembre
 Votation 28 novembre
 Votation 28 novembre 2021
+Votation13février
 Votation26septembre
 Votation28novembre
 Votation28novembre2021
+Votations 13 février 2022
+Votations13février2022
 Vrenz Bleijenbergh
 VrenzBleijenbergh
 Vriendin jurgen Conings
@@ -20816,6 +20895,7 @@ WARGON
 WARMSTE WEEK MECHELEN
 WARMTEPOMP
 WARNUNG VOR STURMBÖEN
+WARRIORS – LAKERS
 WASPS – TOULOUSE
 WATER CIRCUS
 WATFORD FC GEGEN CHELSEA
@@ -21012,6 +21092,8 @@ WarmsteWeekMechelen
 Warmtepomp
 Warnung vor Sturmböen
 WarnungvorSturmböen
+Warriors – Lakers
+Warriors–Lakers
 Wasps – Toulouse
 Wasps–Toulouse
 Water Circus
@@ -21295,6 +21377,7 @@ YOURIMULDER
 YOUTUBE JOUEUR DU GRENIER
 YUZURU HANYU
 YVAN ATTAL
+YVERDON-SPORT
 YVES BENOIT
 YVES DE GAULLE
 YVES MARTIN
@@ -21344,6 +21427,8 @@ Yuzuru Hanyu
 YuzuruHanyu
 Yvan Attal
 YvanAttal
+Yverdon-Sport
+YverdonSport
 Yves Benoit
 Yves Martin
 Yves Montand
@@ -21592,6 +21677,7 @@ abstimmung ehe für alle
 abstimmung november 2021
 abstimmung schweiz
 abstimmungen
+abstimmungen schweiz
 abstimmungen september 2021
 abstimmungsresultate
 abstimmungsresultate schweiz
@@ -21770,6 +21856,7 @@ alice taglioni
 alicia aylies
 alicia witt
 alidaei
+alina pätz
 aline
 aline danioth
 alisha lehmann
@@ -21828,6 +21915,7 @@ ambri lugano
 ambroisie
 amc aktie
 amel bent
+amel bent mari
 amelie de bourbon
 amelie de montchalin
 american staff
@@ -22085,6 +22173,7 @@ arved birnbaum
 ary abittan
 as monaco
 as roma
+asaf avidan
 asap-rocky
 aserbaidschan
 asghar farhadi
@@ -22526,6 +22615,7 @@ bob morane
 bob odenkirk
 bob saget
 boba fett
+bochum gegen bayern
 bocuse d'or 2021
 bode miller
 bodo/glimt
@@ -22965,6 +23055,7 @@ chimene badi
 chimenebadi
 china suarez
 chine taïwan
+chloe morin
 chloe trespeuch
 chris anker sørensen
 chris cuomo
@@ -23387,6 +23478,7 @@ ddl zan
 de gaulle
 de gea
 de lijn
+de mol
 de panne
 de slag om de schelde
 de slimste mens
@@ -25144,6 +25236,7 @@ jeroen perceval
 jeroen rietbergen
 jerome boateng
 jerome riviere
+jerome rodrigues
 jerry douglas
 jessica aidi
 jessica chastain
@@ -25497,6 +25590,7 @@ klopjacht
 knabenschiessen
 knokke
 kobe bryant
+kodak black
 koen naert
 koen vanmechelen
 koen wauters
@@ -25555,6 +25649,7 @@ kurt zouma
 kurz
 kusel
 kv mechelen
+kvc westerlo
 kvo
 kwasi kwarteng
 kyle anderson
@@ -26098,6 +26193,7 @@ lyon – lens
 lyon – lorient
 lyon – metz
 lyon – monaco
+lyon – nice
 lyon – paris-sg
 lyon – rangers
 lyon – saint-étienne
@@ -26214,6 +26310,7 @@ manchester united – everton
 manchester united – leeds united
 manchester united – liverpool
 manchester united – middlesbrough
+manchester united – southampton
 manchester united – villarreal
 manchester united – west ham
 manchester united – wolves
@@ -26432,6 +26529,7 @@ mathias vergels
 mathias vicherat
 mathiasfluckiger
 mathieu amalric
+mathieu faivre
 mathieu koh-lanta
 mathieu van der poel
 mathieuvanderpoel
@@ -26466,6 +26564,7 @@ maudie
 maureen louys
 mauri vansevenant
 maurice film
+maurice manificat
 maus
 mava chou
 mavachou
@@ -26532,6 +26631,7 @@ meineimpfungen
 meise
 mel thompson
 melanie boulanger
+melanie hasler
 melanie müller
 melanie oesch
 melanie winiger
@@ -26736,6 +26836,7 @@ monaco foot
 monaco – amiens
 monaco – lens
 monaco – lille
+monaco – lorient
 monaco – lyon
 monaco – marseille
 monaco – psv eindhoven
@@ -26766,6 +26867,7 @@ montenegro
 monterosa
 montgeron
 montpellier – lens
+montpellier – lille
 montpellier – lyon
 montpellier – marseille
 montpellier – saint-étienne
@@ -27049,6 +27151,7 @@ norovirus
 norvege
 norwegen attentat
 norwich city – liverpool
+norwich city – man city
 nos
 nos jours heureux
 notrufnummern schweiz
@@ -27137,6 +27240,7 @@ olympia 2021
 olympia 2022
 olympia 2022 programm
 olympia programm
+olympia ski alpin
 olympique de marseille
 olympique lyonnais
 olympische spelen
@@ -27265,6 +27369,7 @@ pandev
 pandora papers
 pandora papers liste
 pantelleria
+papadakis cizeron
 pape francois
 pape françois
 pape gueye
@@ -28536,8 +28641,10 @@ stefan küng
 stefan reichmuth
 stefanie heinzmann
 steffi buchli
+stempelsteuer
 stephane bern
 stephane plaza
+stephane ravier
 stephen curry
 stephen hawking
 stephen sondheim
@@ -28622,6 +28729,7 @@ sunsclippers
 suns–bucks
 suns–clippers
 super bowl
+super bowl 2022
 super league
 super nanny
 super-G Bormio
@@ -29061,6 +29169,7 @@ ufc 266
 ufc 267
 ufc 268
 ufc 269
+ufc 271
 ufl
 ugo humbert
 ugohumbert
@@ -29232,6 +29341,7 @@ villarreal
 villarreal – atlético madrid
 villarreal – barcelona
 villarreal – manchester united
+villarreal – real
 villars
 vincent cassel
 vincent gerard
@@ -29280,9 +29390,11 @@ vollmond
 vollmond 2022
 vollmond august 2021
 vondrousova
+votation 13 février
 votation 26 septembre
 votation 28 novembre
 votation 28 novembre 2021
+votations 13 février 2022
 vpn
 vrenz bleijenbergh
 vriendin jurgen conings
@@ -29316,6 +29428,7 @@ wargon
 warmste week mechelen
 warmtepomp
 warnung vor sturmböen
+warriors – lakers
 wasps – toulouse
 water circus
 watford fc gegen chelsea
@@ -29507,6 +29620,7 @@ yourimulder
 youtube joueur du grenier
 yuzuru hanyu
 yvan attal
+yverdon-sport
 yves benoit
 yves de gaulle
 yves martin
