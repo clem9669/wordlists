@@ -263,6 +263,7 @@ AC MILAN
 AC Milan
 ACAB
 ACCIDENT AUTOROUTE
+ACCIDENT DE CHASSE
 ACCIDENT JURA
 ACHTELFINALE EM 2021
 ACHTELFINALEEM2021
@@ -670,6 +671,7 @@ ANTWERP  EUPEN
 ANTWERP  FENERBAHÇE
 ANTWERP  GENK
 ANTWERP  GENT
+ANTWERP  MECHELEN
 ANTWERP - OMONIA
 ANTWERP FC
 ANTWERP PORT EPIC
@@ -947,8 +949,10 @@ Abu Dhabi
 AbuDhabi
 Accident Jura
 Accident autoroute
+Accident de chasse
 AccidentJura
 Accidentautoroute
+Accidentdechasse
 Achtelfinale EM 2021
 AchtelfinaleEM2021
 Acid
@@ -1615,6 +1619,7 @@ Antwerp  Eupen
 Antwerp  Fenerbahçe
 Antwerp  Genk
 Antwerp  Gent
+Antwerp  Mechelen
 Antwerp  Omonia
 Antwerp - Omonia
 Antwerp FC
@@ -1632,6 +1637,7 @@ AntwerpFC
 AntwerpFenerbahçe
 AntwerpGenk
 AntwerpGent
+AntwerpMechelen
 AntwerpPortEpic
 Anuna De Wever
 AnunaDeWever
@@ -3566,6 +3572,7 @@ CHARLENE MONACO
 CHARLEROI  ANTWERP
 CHARLEROI  GENK
 CHARLEROI SC – ANDERLECHT
+CHARLEROI SC – UNION SAINT-GILLOISE
 CHARLES AZNAVOUR
 CHARLES DE KETELAERE
 CHARLES INGRAM
@@ -3652,6 +3659,7 @@ CHRISTIAN GENTNER
 CHRISTIAN GYAN
 CHRISTIAN KRACHT
 CHRISTIAN QUESADA
+CHRISTIAN SIEVERS
 CHRISTIANE F
 CHRISTIANE TAUBIRA
 CHRISTIANGENTNER
@@ -3947,6 +3955,7 @@ CRYPTO NEWS
 CRYPTO STAMP
 CRYPTONEWS
 CRYSTAL PALACE
+CRYSTAL PALACE – CHELSEA
 CRYSTAL PALACE – LIVERPOOL
 CRYSTALPALACE
 CUBA
@@ -4258,9 +4267,12 @@ CharlenedeMonaco
 Charleroi  Antwerp
 Charleroi  Genk
 Charleroi SC – Anderlecht
+Charleroi sc – Union Saint-Gilloise
+Charleroi sc – Union SaintGilloise
 CharleroiAntwerp
 CharleroiGenk
 CharleroiSC–Anderlecht
+Charleroisc–UnionSaint-Gilloise
 Charles Aznavour
 Charles De Ketelaere
 Charles Ingram
@@ -4412,12 +4424,14 @@ Christian Gentner
 Christian Gyan
 Christian Kracht
 Christian Quesada
+Christian Sievers
 ChristianBoltanski
 ChristianEriksen
 ChristianGentner
 ChristianGyan
 ChristianKracht
 ChristianQuesada
+ChristianSievers
 Christiane F
 Christiane Taubira
 ChristianeF
@@ -4884,8 +4898,10 @@ Crypto news
 CryptoStamp
 Cryptonews
 Crystal Palace
+Crystal Palace – Chelsea
 Crystal Palace – Liverpool
 CrystalPalace
+CrystalPalace–Chelsea
 CrystalPalace–Liverpool
 Cuba
 Cullera
@@ -4958,6 +4974,7 @@ DANIEL AUTEUIL
 DANIEL CARR
 DANIEL CRAIG
 DANIEL DAY-LEWIS
+DANIEL DEFILIPI
 DANIEL GUICHARD
 DANIEL HUMM
 DANIEL MICKELSON
@@ -5076,6 +5093,7 @@ DENIZ UNDAV
 DENN SIE WISSEN NICHT, WAS PASSIERT
 DENNIS PRAET
 DEPAKINE
+DEPARDIEU
 DEPAY
 DER KOMMISSAR UND DAS MEER
 DER PALAST
@@ -5305,6 +5323,7 @@ Daniel Carr
 Daniel Craig
 Daniel Day-Lewis
 Daniel DayLewis
+Daniel Defilipi
 Daniel Guichard
 Daniel Humm
 Daniel Mickelson
@@ -5316,6 +5335,7 @@ DanielAuteuil
 DanielCarr
 DanielCraig
 DanielDay-Lewis
+DanielDefilipi
 DanielGuichard
 DanielHumm
 DanielMickelson
@@ -5502,6 +5522,7 @@ Dennis Praet
 DennisPraet
 Dennsiewissennicht,waspassiert
 Depakine
+Depardieu
 Depay
 Der Kommissar und das Meer
 Der Palast
@@ -6140,8 +6161,10 @@ EVA LONGORIA
 EVA-JANE
 EVAN RACHEL WOOD
 EVANDER KANE
+EVE ANGELI
 EVELYNE
 EVELYNE BOUIX
+EVENEPOEL
 EVEREST
 EVERGRANDE
 EVERGRANDE AKTIE
@@ -6632,9 +6655,12 @@ Evan Rachel Wood
 EvanRachelWood
 Evander Kane
 EvanderKane
+Eve Angeli
+EveAngeli
 Evelyne
 Evelyne Bouix
 EvelyneBouix
+Evenepoel
 Everest
 Evergrande
 Evergrande Aktie
@@ -7033,6 +7059,7 @@ FRANCE SUEDE HANDBALL
 FRANCE UKRAINE
 FRANCE UKRAINE HANDBALL
 FRANCE USA BASKET JO
+FRANCE – BRÉSIL
 FRANCE – SUISSE
 FRANCE-ARGENTINE RUGBY
 FRANCE-BELGIQUE
@@ -7477,6 +7504,7 @@ France etats unis basket
 France foot
 France georgie rugby
 France suede handball
+France – Brésil
 France – Suisse
 France-AfriqueduSud
 France-Argentine Rugby
@@ -7543,6 +7571,7 @@ Franceinfo
 Francesco Facchinetti
 FrancescoFacchinetti
 Francesuedehandball
+France–Brésil
 France–Suisse
 Francine Jordi
 FrancineJordi
@@ -7721,6 +7750,7 @@ GABRIEL BORIC
 GABRIEL SALAZAR
 GABY KÖSTER
 GAD ELMALEH
+GAELLE PIETRI
 GAETAN MATIS
 GAGNANT EUROMILLIONS
 GAGNANT MEILLEUR PATISSIER 2021
@@ -8031,6 +8061,8 @@ Gaby Köster
 GabyKöster
 Gad Elmaleh
 GadElmaleh
+Gaelle Pietri
+GaellePietri
 Gaetan Matis
 GaetanMatis
 Gagnant EuroMillions
@@ -8528,6 +8560,7 @@ HAMILTON
 HAMMARBY
 HAMZA RAFIA
 HAN-SUR-LESSE
+HANAU
 HANDBALL
 HANDBALL FEMININ
 HANDBALL FEMININ JO
@@ -8717,6 +8750,7 @@ Hammarby
 Hamza Rafia
 HamzaRafia
 Han-sur-Lesse
+Hanau
 Handball
 Handball feminin
 Handball feminin jo
@@ -10698,6 +10732,7 @@ KORIAN
 KORTRIJK
 KORTRIJK  CLUB BRUGGE
 KORTRIJK  GENK
+KORTRIJK  ZULTE-WAREGEM
 KORTRIJK-ANTWERP
 KOSOVO
 KOURTNEY KARDASHIAN
@@ -11031,10 +11066,13 @@ Korian
 Kortrijk
 Kortrijk  Club Brugge
 Kortrijk  Genk
+Kortrijk  zulte-waregem
+Kortrijk  zultewaregem
 Kortrijk-Antwerp
 KortrijkAntwerp
 KortrijkClubBrugge
 KortrijkGenk
+Kortrijkzulte-waregem
 Kosovo
 Kourtney Kardashian
 KourtneyKardashian
@@ -11363,6 +11401,7 @@ LENS – ANGERS
 LENS – BORDEAUX
 LENS – LILLE
 LENS – LORIENT
+LENS – LYON
 LENS – MARSEILLE
 LENS – MONACO
 LENS – PARIS-SG
@@ -11650,6 +11689,7 @@ LUCY
 LUDGER BEERBAUM
 LUDIVINE DEDONDER
 LUDOVIC GAL
+LUGANO GEGEN ST. GALLEN
 LUISA NEUBAUER
 LUKA DONCIC
 LUKA ELSNER
@@ -12028,6 +12068,7 @@ Lens – Angers
 Lens – Bordeaux
 Lens – Lille
 Lens – Lorient
+Lens – Lyon
 Lens – Marseille
 Lens – Monaco
 Lens – Reims
@@ -12045,6 +12086,7 @@ Lens–Angers
 Lens–Bordeaux
 Lens–Lille
 Lens–Lorient
+Lens–Lyon
 Lens–Marseille
 Lens–Monaco
 Lens–Reims
@@ -12525,6 +12567,8 @@ Ludivine Dedonder
 LudivineDedonder
 Ludovic Gal
 LudovicGal
+Lugano gegen St. Gallen
+LuganogegenSt.Gallen
 Luisa Neubauer
 LuisaNeubauer
 Luka Doncic
@@ -12700,6 +12744,7 @@ MAN CITY – FULHAM
 MAN CITY – LEICESTER
 MAN CITY – NORWICH CITY
 MAN CITY – SOUTHAMPTON
+MAN CITY – TOTTENHAM
 MAN CITY – WEST HAM
 MAN CITY – WOLVES
 MAN CITY – WYCOMBE
@@ -12768,6 +12813,7 @@ MARC DUTROUX
 MARC GOBLET
 MARC HIRSCHI
 MARC LAVOINE
+MARC LAVOINE LINE PAPIN
 MARC MACHIN
 MARC OVERMARS
 MARC ROCHAT
@@ -13466,6 +13512,7 @@ Man City – Fulham
 Man City – Leicester
 Man City – Norwich City
 Man City – Southampton
+Man City – Tottenham
 Man City – West Ham
 Man City – Wolves
 Man City – Wycombe
@@ -13489,6 +13536,7 @@ ManCity–Fulham
 ManCity–Leicester
 ManCity–NorwichCity
 ManCity–Southampton
+ManCity–Tottenham
 ManCity–WestHam
 ManCity–Wolves
 ManCity–Wycombe
@@ -13602,6 +13650,7 @@ Marc Dutroux
 Marc Goblet
 Marc Hirschi
 Marc Lavoine
+Marc Lavoine Line Papin
 Marc Machin
 Marc Overmars
 Marc Rochat
@@ -13616,6 +13665,7 @@ MarcDutroux
 MarcGoblet
 MarcHirschi
 MarcLavoine
+MarcLavoineLinePapin
 MarcMachin
 MarcOvermars
 MarcRochat
@@ -14603,6 +14653,7 @@ NAKISKA
 NANCY FAESER
 NANCY – RENNES
 NANTES
+NANTES GEGEN PSG
 NANTES – BREST
 NANTES – CLERMONT
 NANTES – LENS
@@ -14723,6 +14774,7 @@ NFT
 NGAPETH
 NHL
 NICE MATIN
+NICE – ANGERS
 NICE – BREST
 NICE – LENS
 NICE – LYON
@@ -14829,6 +14881,7 @@ NOORDMACEDONIËNEDERLAND
 NOORDMACEDONIë  NEDERLAND
 NOORDMACEDONIëNEDERLAND
 NORA GHARIB
+NORA TSCHIRNER
 NORD STREAM 2
 NORDAHL LELANDAIS
 NORDMAZEDONIEN
@@ -14895,6 +14948,7 @@ Nancy – Rennes
 NancyFaeser
 Nancy–Rennes
 Nantes
+Nantes gegen PSG
 Nantes – Brest
 Nantes – Clermont
 Nantes – Lens
@@ -14907,6 +14961,7 @@ Nantes – Strasbourg
 Nantes – Troyes
 Nantes-Bastia
 NantesBastia
+NantesgegenPSG
 Nantes–Brest
 Nantes–Clermont
 Nantes–Lens
@@ -15063,6 +15118,7 @@ Newcastle–ManchesterUnited
 Neymar
 Ngapeth
 Nice matin
+Nice – Angers
 Nice – Brest
 Nice – Lens
 Nice – Lyon
@@ -15077,6 +15133,7 @@ Nice-Matin
 NiceMarseille
 NiceMatin
 Nicematin
+Nice–Angers
 Nice–Brest
 Nice–Lens
 Nice–Lyon
@@ -15221,7 +15278,9 @@ NoordMacedonië  Nederland
 NoordMacedoniëNederland
 Noorderlicht
 Nora Gharib
+Nora Tschirner
 NoraGharib
+NoraTschirner
 Nord Stream 2
 NordStream2
 Nordahl Lelandais
@@ -15360,6 +15419,7 @@ OLIVIERVERDON
 OLYMPIA 2021
 OLYMPIA 2022
 OLYMPIA 2022 PROGRAMM
+OLYMPIA 2026
 OLYMPIA PROGRAMM
 OLYMPIA SKI ALPIN
 OLYMPIQUE DE MARSEILLE
@@ -15428,6 +15488,7 @@ ONSJABEUR
 ONWEER
 OOSTENDE  ANDERLECHT
 OOSTENDE  ANTWERP
+OOSTENDE – STANDARD
 OOSTENRIJK LOCKDOWN
 OOSTKAMP
 OPEN AUSTRALIE
@@ -15577,11 +15638,13 @@ Olivierveran
 Olympia 2021
 Olympia 2022
 Olympia 2022 Programm
+Olympia 2026
 Olympia Programm
 Olympia Ski alpin
 Olympia2021
 Olympia2022
 Olympia2022Programm
+Olympia2026
 OlympiaProgramm
 OlympiaSkialpin
 Olympique de Marseille
@@ -15646,8 +15709,10 @@ OntheVerge
 Onweer
 Oostende  Anderlecht
 Oostende  Antwerp
+Oostende – Standard
 OostendeAnderlecht
 OostendeAntwerp
+Oostende–Standard
 Oostenrijk lockdown
 Oostenrijklockdown
 Oostkamp
@@ -17110,6 +17175,7 @@ REAL – ATH BILBAO
 REAL – ATLÉTICO MADRID
 REAL – CADIX
 REAL – CHAKHTAR
+REAL – DEPORTIVO ALAVÉS
 REAL – ELCHE
 REAL – INTER
 REAL – MAJORQUE
@@ -17530,6 +17596,7 @@ Real Sociedad – Real
 Real – Ath Bilbao
 Real – Atlético Madrid
 Real – Cadix
+Real – Deportivo Alavés
 Real – Elche
 Real – Inter
 Real – Majorque
@@ -17549,6 +17616,7 @@ RealValencia
 Real–AthBilbao
 Real–AtléticoMadrid
 Real–Cadix
+Real–DeportivoAlavés
 Real–Elche
 Real–Inter
 Real–Majorque
@@ -20898,6 +20966,7 @@ VALENTINSTAG BEDEUTUNG
 VALENTINSTAG 2022
 VALERIAN
 VALERIE BACOT
+VALERIE BONNETON
 VALERIE LEMERCIER
 VALERIE PECRESSE
 VALERIEBACOT
@@ -21108,9 +21177,11 @@ ValentinstagBedeutung
 Valentinstag 2022
 Valerian
 Valerie Bacot
+Valerie Bonneton
 Valerie Lemercier
 Valerie pecresse
 ValerieBacot
+ValerieBonneton
 ValerieLemercier
 Valeriepecresse
 Validé saison 2
@@ -22176,6 +22247,7 @@ abu dhabi
 ac milan
 acab
 accident autoroute
+accident de chasse
 accident jura
 achtelfinale em 2021
 achtelfinaleem2021
@@ -22572,6 +22644,7 @@ antwerp  eupen
 antwerp  fenerbahçe
 antwerp  genk
 antwerp  gent
+antwerp  mechelen
 antwerp - omonia
 antwerp fc
 antwerp port epic
@@ -23503,6 +23576,7 @@ charlene monaco
 charleroi  antwerp
 charleroi  genk
 charleroi sc – anderlecht
+charleroi sc – union saint-gilloise
 charles aznavour
 charles de ketelaere
 charles ingram
@@ -23589,6 +23663,7 @@ christian gentner
 christian gyan
 christian kracht
 christian quesada
+christian sievers
 christiane f
 christiane taubira
 christiangentner
@@ -23882,6 +23957,7 @@ crypto news
 crypto stamp
 cryptonews
 crystal palace
+crystal palace – chelsea
 crystal palace – liverpool
 crystalpalace
 cuba
@@ -23935,6 +24011,7 @@ daniel auteuil
 daniel carr
 daniel craig
 daniel day-lewis
+daniel defilipi
 daniel guichard
 daniel humm
 daniel mickelson
@@ -24051,6 +24128,7 @@ deniz undav
 denn sie wissen nicht, was passiert
 dennis praet
 depakine
+depardieu
 depay
 der kommissar und das meer
 der palast
@@ -24537,8 +24615,10 @@ eva longoria
 eva-jane
 evan rachel wood
 evander kane
+eve angeli
 evelyne
 evelyne bouix
+evenepoel
 everest
 evergrande
 evergrande aktie
@@ -24833,6 +24913,7 @@ france suede handball
 france ukraine
 france ukraine handball
 france usa basket jo
+france – brésil
 france – suisse
 france-argentine rugby
 france-belgique
@@ -24955,6 +25036,7 @@ gabriel boric
 gabriel salazar
 gaby köster
 gad elmaleh
+gaelle pietri
 gaetan matis
 gagnant euromillions
 gagnant meilleur patissier 2021
@@ -25269,6 +25351,7 @@ hamilton
 hammarby
 hamza rafia
 han-sur-lesse
+hanau
 handball
 handball feminin
 handball feminin jo
@@ -26174,6 +26257,7 @@ korian
 kortrijk
 kortrijk  club brugge
 kortrijk  genk
+kortrijk  zulte-waregem
 kortrijk-antwerp
 kosovo
 kourtney kardashian
@@ -26448,6 +26532,7 @@ lens – angers
 lens – bordeaux
 lens – lille
 lens – lorient
+lens – lyon
 lens – marseille
 lens – monaco
 lens – paris-sg
@@ -26733,6 +26818,7 @@ lucy
 ludger beerbaum
 ludivine dedonder
 ludovic gal
+lugano gegen st. gallen
 luisa neubauer
 luka doncic
 luka elsner
@@ -26870,6 +26956,7 @@ man city – fulham
 man city – leicester
 man city – norwich city
 man city – southampton
+man city – tottenham
 man city – west ham
 man city – wolves
 man city – wycombe
@@ -26938,6 +27025,7 @@ marc dutroux
 marc goblet
 marc hirschi
 marc lavoine
+marc lavoine line papin
 marc machin
 marc overmars
 marc rochat
@@ -27531,6 +27619,7 @@ nakiska
 nancy faeser
 nancy – rennes
 nantes
+nantes gegen psg
 nantes – brest
 nantes – clermont
 nantes – lens
@@ -27641,6 +27730,7 @@ nft
 ngapeth
 nhl
 nice matin
+nice – angers
 nice – brest
 nice – lens
 nice – lyon
@@ -27739,6 +27829,7 @@ noordmacedonienederland
 noordmacedonië  nederland
 noordmacedoniënederland
 nora gharib
+nora tschirner
 nord stream 2
 nordahl lelandais
 nordmazedonien
@@ -27836,6 +27927,7 @@ olivierverdon
 olympia 2021
 olympia 2022
 olympia 2022 programm
+olympia 2026
 olympia programm
 olympia ski alpin
 olympique de marseille
@@ -27886,6 +27978,7 @@ onsjabeur
 onweer
 oostende  anderlecht
 oostende  antwerp
+oostende – standard
 oostenrijk lockdown
 oostkamp
 open australie
@@ -28515,6 +28608,7 @@ real – ath bilbao
 real – atlético madrid
 real – cadix
 real – chakhtar
+real – deportivo alavés
 real – elche
 real – inter
 real – majorque
@@ -29912,6 +30006,7 @@ valentinstag bedeutung
 valentinstag 2022
 valerian
 valerie bacot
+valerie bonneton
 valerie lemercier
 valerie pecresse
 valeriebacot
