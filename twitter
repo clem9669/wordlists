@@ -15567,6 +15567,7 @@ FCLASM
 FCLFCB
 FCLFCN
 FCLLOSC
+FCLMHSC
 FCLMOM
 FCLOGCN
 FCLPSG
@@ -27864,6 +27865,7 @@ LOSUNG
 LOSUNGEN
 LOSVERFAHREN
 LOT-ET-GARONNE
+LOTAN
 LOTERIEGENSHINIMPACT
 LOTR
 LOTRONPRIME
@@ -30940,6 +30942,7 @@ MELENCHONNANTES
 MELENCHONPARIS
 MELENCHONPEUTGAGNER
 MELENCHONPRESIDENT
+MELENCHONPRESIDENT2022
 MELENCHONSORBONNE
 MELENCHONSTRASBOURG
 MELENCHONTF1
@@ -32973,6 +32976,7 @@ MelenchonNantes
 MelenchonParis
 MelenchonPeutGagner
 MelenchonPresident
+MelenchonPresident2022
 MelenchonSorbonne
 MelenchonStrasbourg
 MelenchonTF1
@@ -42154,6 +42158,7 @@ SDRFCM
 SDRFCN
 SDRMHSC
 SDRPSG
+SDRSB29
 SDRSCB
 SDRSCO
 SEA OF STARS
@@ -43165,6 +43170,7 @@ SRCO
 SRFARENA
 SRFArena
 SRFCCF63
+SRFCESTAC
 SRFCFCGB
 SRFCFCL
 SRFCFCN
@@ -60463,6 +60469,7 @@ fclasm
 fclfcb
 fclfcn
 fcllosc
+fclmhsc
 fclmom
 fclogcn
 fclpsg
@@ -68885,6 +68892,7 @@ melenchonnantes
 melenchonparis
 melenchonpeutgagner
 melenchonpresident
+melenchonpresident2022
 melenchonsorbonne
 melenchonstrasbourg
 melenchontf1
@@ -74589,6 +74597,7 @@ sdrfcm
 sdrfcn
 sdrmhsc
 sdrpsg
+sdrsb29
 sdrscb
 sdrsco
 sea of stars
@@ -75594,6 +75603,7 @@ srfCLUB
 srfRundschau
 srfarena
 srfccf63
+srfcestac
 srfcfcgb
 srfcfcl
 srfcfcn
