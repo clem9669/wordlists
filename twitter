@@ -1991,6 +1991,7 @@ ANNE RICE
 ANNE SILA
 ANNE SOPHIE
 ANNE-CLAIRE COUDRAY
+ANNE-LAURE BONNEL
 ANNE-LISE
 ANNE-SOPHIE LAPIX
 ANNE-SOPHIELAPIX
@@ -3811,6 +3812,8 @@ Anne Sila
 Anne Sophie
 Anne-Claire Coudray
 Anne-ClaireCoudray
+Anne-Laure Bonnel
+Anne-LaureBonnel
 Anne-Lise
 Anne-Sophie Lapix
 Anne-SophieLapix
@@ -3819,6 +3822,7 @@ AnneDurez
 AnneFrank
 AnneHidalgo
 AnneLaure
+AnneLaure Bonnel
 AnneLise
 AnneMorelli
 AnneNivat
@@ -14658,7 +14662,9 @@ EU-BEITRITT
 EU-Beitritt
 EU-COMMISSARIS BRETON
 EU-LIDMAATSCHAP
+EU-SANKTIONEN
 EU-SANKTIONEN GEGEN RUSSLAND
+EU-Sanktionen
 EU-Sanktionen gegen Russland
 EU-SanktionengegenRussland
 EU-commissaris Breton
@@ -14766,6 +14772,7 @@ EURegionsWeek
 EUSEW2021
 EUSTACHE
 EUSTRATEGY
+EUSanktionen
 EUSanktionen gegen Russland
 EUTAXONOMY
 EUTaxonomy
@@ -25709,6 +25716,7 @@ KOTZEN
 KOUACHI
 KOUAME
 KOUAMÉ
+KOUASSI
 KOUCHNER
 KOULIBALY
 KOUNDE
@@ -26497,6 +26505,7 @@ Kotzen
 Kouachi
 Kouame
 Kouamé
+Kouassi
 Kouchner
 Koulibaly
 Kounde
@@ -38309,6 +38318,7 @@ PLAYSTATIONSHOWCASE
 PLAYSTATIONVR2
 PLEASANT
 PLEINS
+PLEKVRIJ
 PLENEL
 PLEURE
 PLEURECAFAITDUBIEN
@@ -47870,6 +47880,7 @@ TOSHIRO
 TOT 168
 TOT168
 TOTAAL
+TOTALENERGIES
 TOTALITARISMUS
 TOTALLY SPIES
 TOTALMENT
@@ -49146,6 +49157,7 @@ Toshiro
 Tot 168
 Tot168
 Totaal
+TotalEnergies
 TotalMent
 Totalitarismus
 Totally Spies
@@ -49592,6 +49604,8 @@ UN 24
 UN 31
 UN AFGHAN
 UN DRAGON
+UN HUMAN RIGHTS COUNCIL
+UN Human Rights Council
 UN ITALIEN
 UN NOEL
 UN NOËL
@@ -49652,6 +49666,7 @@ UNGA76
 UNGEIMPFTE
 UNGEIMPFTEN
 UNGLAUBLICH
+UNHumanRightsCouncil
 UNIA
 UNIBET13
 UNIBET24
@@ -54973,6 +54988,7 @@ anne rice
 anne sila
 anne sophie
 anne-claire coudray
+anne-laure bonnel
 anne-lise
 anne-sophie lapix
 anne-sophielapix
@@ -61438,6 +61454,7 @@ eu-beitritt
 eu-commissaris breton
 eu-commissarisbreton
 eu-lidmaatschap
+eu-sanktionen
 eu-sanktionen gegen russland
 eu-sanktionengegenrussland
 eu4animalwelfare
@@ -67211,6 +67228,7 @@ kotzen
 kouachi
 kouame
 kouamé
+kouassi
 kouchner
 koulibaly
 kounde
@@ -73867,6 +73885,7 @@ playstationshowcase
 playstationvr2
 pleasant
 pleins
+plekvrij
 plenel
 pleure
 pleurecafaitdubien
@@ -78993,6 +79012,7 @@ toshiro
 tot 168
 tot168
 totaal
+totalenergies
 totalitarismus
 totally spies
 totalment
@@ -79449,6 +79469,7 @@ un 24
 un 31
 un afghan
 un dragon
+un human rights council
 un italien
 un noel
 un noël
