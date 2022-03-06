@@ -1918,6 +1918,7 @@ ANDGNT
 ANDJUSTLIKETHAT
 ANDKVK
 ANDKVM
+ANDKVO
 ANDLAC
 ANDMORE
 ANDOHL
@@ -2094,6 +2095,7 @@ ANSUFATI
 ANTAND
 ANTARCTICA
 ANTARCTIQUE
+ANTBEE
 ANTCHA
 ANTCLU
 ANTEIL
@@ -22215,7 +22217,9 @@ INFLATION
 INFLUENCEMARKETING
 INFLUENCEURS
 INFO
+INFO JDD
 INFOFORFRENCHSTAY
+INFOJDD
 INFORMATIONEN
 INFP
 INFRABEL
@@ -26173,6 +26177,7 @@ KRYSTSINATSIMANOUSKAYA
 KRZH
 KRÄFTE
 KSW65
+KU KLUX KLAN
 KU LEUVEN
 KU Leuven
 KU leuven
@@ -26967,6 +26972,8 @@ Krunic
 Krystsina Tsimanouskaya
 KrystsinaTsimanouskaya
 Kräfte
+Ku Klux Klan
+KuKluxKlan
 Kubica
 Kubo
 Kucam
@@ -27499,6 +27506,7 @@ LAGUINÉE
 LAHAINE
 LAHM
 LAHONGRIE
+LAHONTETOTAL
 LAI MOHAMMED
 LAICITE
 LAIEN
@@ -29338,6 +29346,7 @@ LaGuinée
 LaGéorgie
 LaHaine
 LaHongrie
+LaHonteTotal
 LaJamaïque
 LaJuve
 LaJuventus
@@ -31300,6 +31309,7 @@ MAMADY DOUMBOUYA
 MAMADYDOUMBOUYA
 MAMANSETCELEBRES
 MAMBAFOREVER
+MAMIES
 MAMMA
 MAMMOUTH
 MAMORU HOSODA
@@ -33416,6 +33426,7 @@ Mamady Doumbouya
 MamadyDoumbouya
 MamansEtCelebres
 MambaForever
+Mamies
 Mamma
 Mammouth
 Mamoru Hosoda
@@ -44627,6 +44638,7 @@ SOUTOT
 SOUVENIRDEYARA
 SOUVERÄNITÄT
 SOVIET
+SOVIET UNION
 SOWAH
 SOWHAT
 SOWIESO
@@ -46831,6 +46843,8 @@ SoutienRtFrance
 SouvenirDeYara
 Souveränität
 Soviet
+Soviet Union
+SovietUnion
 Sowah
 Sowieso
 Sozialhilfe
@@ -48052,6 +48066,8 @@ THAILAND
 THAIS
 THALES
 THALYS
+THANKS FOR THE SUPPORT
+THANKSFORTHESUPPORT
 THANKSGIVING
 THANKYOUBOICHINAGAKI
 THANKYOUOHKUBO
@@ -50348,6 +50364,7 @@ UKRAINERUSSIE
 UKRAINEUNDERATTACK
 UKRAINEUNDERATTAСK
 UKRAINEWAR
+UKRAINE️
 UKRAINIAN
 UKRAINIANS
 UKRAINIEN
@@ -50650,6 +50667,7 @@ UkraineRussie
 UkraineUnderAttack
 UkraineUnderAttaсk
 UkraineWar
+Ukraine️
 Ukrainian
 Ukrainians
 Ukrainien
@@ -53986,6 +54004,7 @@ ZEMMOURSONDAGE
 ZEMMOURSPACE
 ZEMMOURSURVA
 ZEMMOURTF1
+ZEMMOURTOULON
 ZEMMOURTRUMP
 ZEMMOURVILLEPINTE
 ZEMMOURVSMELENCHON
@@ -54285,6 +54304,7 @@ ZemmourSondage
 ZemmourSpace
 ZemmourSurVA
 ZemmourTF1
+ZemmourToulon
 ZemmourTrump
 ZemmourVSMelenchon
 ZemmourVillepinte
@@ -55752,6 +55772,7 @@ andgnt
 andjustlikethat
 andkvk
 andkvm
+andkvo
 andlac
 andmore
 andohl
@@ -55928,6 +55949,7 @@ ansufati
 antand
 antarctica
 antarctique
+antbee
 antcha
 antclu
 anteil
@@ -64646,6 +64668,8 @@ grandrex
 grands-meres
 grands-mères
 grandsahara
+grandsmeres
+grandsmères
 granturismo
 granturismo7
 grappig
@@ -66081,6 +66105,7 @@ inflation
 influencemarketing
 influenceurs
 info
+info jdd
 infoforfrenchstay
 informationen
 infp
@@ -68343,6 +68368,7 @@ krystsinatsimanouskaya
 krzh
 kräfte
 ksw65
+ku klux klan
 ku leuven
 kubica
 kubo
@@ -68786,6 +68812,7 @@ laguinée
 lahaine
 lahm
 lahongrie
+lahontetotal
 lai mohammed
 laicite
 laien
@@ -70734,6 +70761,7 @@ mamady doumbouya
 mamadydoumbouya
 mamansetcelebres
 mambaforever
+mamies
 mamma
 mammouth
 mamoru hosoda
@@ -78334,6 +78362,7 @@ soutot
 souvenirdeyara
 souveränität
 soviet
+soviet union
 sowah
 sowhat
 sowieso
@@ -79656,6 +79685,7 @@ thailand
 thais
 thales
 thalys
+thanks for the support
 thanksgiving
 thankyou_txt
 thankyouboichinagaki
@@ -80682,6 +80712,7 @@ ukrainerussie
 ukraineunderattack
 ukraineunderattaсk
 ukrainewar
+ukraine️
 ukrainian
 ukrainians
 ukrainien
@@ -82599,6 +82630,7 @@ zemmoursondage
 zemmourspace
 zemmoursurva
 zemmourtf1
+zemmourtoulon
 zemmourtrump
 zemmourvillepinte
 zemmourvsmelenchon
