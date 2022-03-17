@@ -14748,6 +14748,7 @@ ELDENRING
 ELDENRINGNIGHT
 ELDEN_RING
 ELECTION2022
+ELECTIONPRESIDENTIELLE2022
 ELECTIONS2022
 ELECTRABEL
 ELECTRISEUNTITRE
@@ -16542,6 +16543,7 @@ FCBGC
 FCBLS
 FCBNAP
 FCBOL
+FCBOM
 FCBPSG
 FCBRBS
 FCBRMA
@@ -19454,6 +19456,7 @@ GRANDFESTIVALGG
 GRANDJOJO
 GRANDMONSIEUR
 GRANDORALPLACEDELASANTE
+GRANDORALSANTE
 GRANDPRIX
 GRANDPRIXDEHONGRIE
 GRANDREMPLACEMENT
@@ -19524,6 +19527,7 @@ GRETA THUNBERG
 GRETATHUNBERG
 GREVE
 GREVE13JANVIER
+GREVE17MARS
 GREVE18FEVRIER
 GREVE20JANVIER
 GREVE23SEPTEMBRE
@@ -33449,6 +33453,7 @@ MINISTER-PRESIDENTJANJAMBON
 MINISTERE
 MINISTERIE
 MINISTERPRESIDENTJANJAMBON
+MINISTERS
 MINISTERVANDENBROUCKE
 MINISTÈRE
 MINITEL
@@ -35619,6 +35624,7 @@ Ministere
 Ministerie
 Ministerpresident Jan Jambon
 MinisterpresidentJanJambon
+Ministers
 Ministère
 Minitel
 Minnesota
@@ -38025,6 +38031,7 @@ OLESTAC
 OLFCB
 OLFCL
 OLFCM
+OLFCP
 OLFP
 OLGA
 OLIGARCHEN
@@ -44505,6 +44512,7 @@ SAINTMARTIN
 SAINTMAXIMIN
 SAINTMICHEL
 SAINTNICOLAS
+SAINTPATRICK
 SAINTS
 SAINTS INNOCENTS
 SAINTS ROW
@@ -46137,6 +46145,7 @@ SRFCESTAC
 SRFCFCGB
 SRFCFCL
 SRFCFCN
+SRFCLEI
 SRFCLOSC
 SRFCLUB
 SRFCMHSC
@@ -63678,6 +63687,7 @@ elden_ring
 eldenring
 eldenringnight
 election2022
+electionpresidentielle2022
 elections2022
 electrabel
 electro
@@ -64589,6 +64599,7 @@ fcbgc
 fcbls
 fcbnap
 fcbol
+fcbom
 fcbpsg
 fcbrbs
 fcbrma
@@ -66463,6 +66474,7 @@ grandfestivalgg
 grandjojo
 grandmonsieur
 grandoralplacedelasante
+grandoralsante
 grandprix
 grandprixdehongrie
 grandremplacement
@@ -66535,6 +66547,7 @@ greta thunberg
 gretathunberg
 greve
 greve13janvier
+greve17mars
 greve18fevrier
 greve20janvier
 greve23septembre
@@ -74059,6 +74072,7 @@ ministere
 ministerie
 ministerpresident jan jambon
 ministerpresidentjanjambon
+ministers
 ministervandenbroucke
 ministère
 minitel
@@ -75732,6 +75746,7 @@ olestac
 olfcb
 olfcl
 olfcm
+olfcp
 olfp
 olga
 oligarchen
@@ -79166,6 +79181,7 @@ saintmartin
 saintmaximin
 saintmichel
 saintnicolas
+saintpatrick
 saints
 saints innocents
 saints row
@@ -80807,6 +80823,7 @@ srfcestac
 srfcfcgb
 srfcfcl
 srfcfcn
+srfclei
 srfclosc
 srfclub
 srfcmhsc
