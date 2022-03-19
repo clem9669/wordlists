@@ -2610,6 +2610,7 @@ ASNLTFC
 ASOS
 ASPAS
 ASPEKTE
+ASPINALL
 ASSA TRAORE
 ASSA TRAORÉ
 ASSAD
@@ -4430,6 +4431,7 @@ Asmar
 Asos
 Aspas
 Aspekte
+Aspinall
 Assa Traore
 Assa Traoré
 AssaTraore
@@ -5050,6 +5052,7 @@ BAVASSER
 BAVIERE
 BAYAT
 BAYBAR
+BAYC
 BAYERN
 BAYERN MUNICH
 BAYERNBARCA
@@ -12021,6 +12024,7 @@ DAMIENTAREL
 DAMPKAP
 DAMSO
 DAMWON
+DAN HOOKER
 DAN JAMES
 DAN MARTIN
 DAN NDOYE
@@ -13338,9 +13342,11 @@ DamienRieu
 DamienTarel
 Damso
 Damwon
+Dan Hooker
 Dan James
 Dan Martin
 Dan Ndoye
+DanHooker
 DanJames
 DanMartin
 DanNdoye
@@ -16437,6 +16443,8 @@ FABIANSKI
 FABIEN
 FABIEN AZOULAY
 FABIEN CLAUDE
+FABIEN GALTHIE
+FABIEN GALTHIÉ
 FABIEN LAMIRAULT
 FABIEN ROUSSEL
 FABIENAZOULAY
@@ -17664,10 +17672,12 @@ Fabianski
 Fabien
 Fabien Azoulay
 Fabien Claude
+Fabien Galthié
 Fabien Lamirault
 Fabien Roussel
 FabienAzoulay
 FabienClaude
+FabienGalthié
 FabienLamirault
 FabienRoussel
 Fabinho
@@ -28215,6 +28225,7 @@ L'ÉPISODE 5
 L'ÉPISODE DE POWER
 L'ÉPISODE DE SNK
 L'ÉQUIPE 21
+L'ÉQUIPE DE FRANCE
 L'âge
 L'école
 L'épisode
@@ -29239,6 +29250,7 @@ LES 500
 LES 6
 LES 8
 LES ALLEMANDS
+LES ANGLAIS
 LES ANIMAUX FANTASTIQUES
 LES BELGES
 LES BLEUES
@@ -31231,6 +31243,7 @@ Les 500
 Les 6
 Les 8
 Les Allemands
+Les Anglais
 Les Animaux Fantastiques
 Les BUSD
 Les Belges
@@ -31292,6 +31305,7 @@ Les500
 Les6
 Les8
 LesAllemands
+LesAnglais
 LesAnimauxFantastiques
 LesBUSD
 LesBelges
@@ -33890,6 +33904,7 @@ MODELL
 MODELLE
 MODEM
 MODERATION
+MODERATOR
 MODERATOREN
 MODERNA
 MODESTE
@@ -36066,6 +36081,7 @@ Modell
 Modelle
 Modem
 Moderation
+Moderator
 Moderatoren
 Moderna
 Modeste
@@ -45537,6 +45553,8 @@ SERUSG
 SERV
 SERVER
 SERVETTE
+SERVETTE FC
+SERVETTEFC
 SERVETTEJUVE
 SERVICEVOLE
 SERVIE
@@ -58409,6 +58427,7 @@ asnltfc
 asos
 aspas
 aspekte
+aspinall
 assa traore
 assa traoré
 assad
@@ -59113,6 +59132,7 @@ bavasser
 baviere
 bayat
 baybar
+bayc
 bayern
 bayern munich
 bayernbarca
@@ -62630,6 +62650,7 @@ damientarel
 dampkap
 damso
 damwon
+dan hooker
 dan james
 dan martin
 dan ndoye
@@ -64860,6 +64881,7 @@ fabianski
 fabien
 fabien azoulay
 fabien claude
+fabien galthié
 fabien lamirault
 fabien roussel
 fabienazoulay
@@ -72053,6 +72075,7 @@ les 6
 les 8
 les Williams
 les allemands
+les anglais
 les animaux fantastiques
 les belges
 les bleues
@@ -74797,6 +74820,7 @@ modell
 modelle
 modem
 moderation
+moderator
 moderatoren
 moderna
 modeste
@@ -80474,6 +80498,7 @@ serusg
 serv
 server
 servette
+servette fc
 servettejuve
 servicevole
 servicevolé
