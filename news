@@ -479,6 +479,7 @@ ALFRED SCHREUDER
 ALGERIE
 ALGERIE BURKINA FASO
 ALGERIE Burkina Faso
+ALGERIE CAMEROUN
 ALGERIE COTE D'IVOIRE
 ALGERIE FEU
 ALGERIE FOOT
@@ -1352,6 +1353,7 @@ AlfredBiolek
 AlfredSchreuder
 Algerie
 Algerie Burkina Faso
+Algerie Cameroun
 Algerie Maroc
 Algerie Niger
 Algerie Qatar
@@ -1360,6 +1362,7 @@ Algerie cote d'Ivoire
 Algerie feu
 Algerie foot
 AlgerieBurkinaFaso
+AlgerieCameroun
 AlgerieMaroc
 AlgerieNiger
 AlgerieQatar
@@ -2749,6 +2752,7 @@ BReSIL-CHILI
 BReSIL-EQUATEUR
 BReSIL-PeROU
 BReSILPeROU
+BRÉSIL – CHILI
 BRÉSIL – PARAGUAY
 BRÉSIL – URUGUAY
 BRØNDBY – LYON
@@ -5800,6 +5804,7 @@ DRAGOVIC
 DRAKE
 DRAKEO THE RULER
 DRAME CARNAVAL STREPY BRACQUEGNIES
+DRAME MONTREUX
 DRAPEAU TOUR EIFFEL
 DRAPEAU UKRAINE
 DREE PEREMANS
@@ -6369,7 +6374,9 @@ Drakeo The Ruler
 Drakeo the Ruler
 DrakeoTheRuler
 DrakeotheRuler
+Drame Montreux
 Drame carnaval strepy Bracquegnies
+DrameMontreux
 DramecarnavalstrepyBracquegnies
 Drapeau Tour Eiffel
 Drapeau Ukraine
@@ -6450,10 +6457,13 @@ E-BOX
 E-box
 E3 HARELBEKE
 E3 Harelbeke
+E3 PRIJS HARELBEKE
 E3 SAXO BANK CLASSIC 2022
 E3 Saxo Bank Classic 2022
+E3 prijs Harelbeke
 E3Harelbeke
 E3SaxoBankClassic2022
+E3prijsHarelbeke
 EBOLA
 ECOPOWER
 ECUADOR
@@ -6549,6 +6559,7 @@ ELECTIONSRéGIONALES2021CANDIDATS
 ELENA MIRAS
 ELENA QUIRICI
 ELI ISERBYT
+ELIANE MÜLLER
 ELIE DOMOTA
 ELIF AKTUG
 ELIFAKTUG
@@ -6952,6 +6963,8 @@ ElenaMiras
 ElenaQuirici
 Eli Iserbyt
 EliIserbyt
+Eliane Müller
+ElianeMüller
 Elie Domota
 ElieDomota
 Elif Aktug
@@ -7444,6 +7457,7 @@ FABIENNE SCHLUMPF
 FABIO JAKOBSEN
 FABIO QUARTARARO
 FABRICE COLLIGNON
+FABRICE DI VIZIO
 FABRICE EBOUÉ
 FABRICE LUCHINI
 FABRICE N'SAKALA
@@ -7771,6 +7785,7 @@ FRANCE ARMENIE
 FRANCE AUSTRALIE
 FRANCE AUX JEUX OLYMPIQUES D'HIVER
 FRANCE CORÉE DU SUD
+FRANCE COTE D'IVOIRE
 FRANCE COVID
 FRANCE CROATIE HANDBALL
 FRANCE ESPAGNE
@@ -7930,10 +7945,12 @@ Fabio Quartararo
 FabioJakobsen
 FabioQuartararo
 Fabrice Collignon
+Fabrice Di Vizio
 Fabrice Eboué
 Fabrice Luchini
 Fabrice N'Sakala
 FabriceCollignon
+FabriceDiVizio
 FabriceEboué
 FabriceLuchini
 FabriceN'Sakala
@@ -8280,6 +8297,7 @@ France Ukraine
 France Ukraine handball
 France armenie
 France aux jeux olympiques d'hiver
+France cote d'Ivoire
 France etats unis basket
 France foot
 France georgie rugby
@@ -8351,6 +8369,7 @@ FranceUkraine
 FranceUkrainehandball
 Francearmenie
 Franceauxjeuxolympiquesd'hiver
+Francecoted'Ivoire
 Franceetatsunisbasket
 Francefoot
 Francegeorgierugby
@@ -9527,6 +9546,7 @@ HEILIGABEND
 HEINZ FREI
 HEISTSE PIJL
 HEL VAN KASTERLEE
+HELENA NOGUERRA
 HELENE CARRERE D'ENCAUSSE
 HELENE DARROZE
 HELENE FISCHER
@@ -9782,6 +9802,8 @@ HeinzFrei
 Heistse Pijl
 HeistsePijl
 Hel van Kasterlee
+Helena Noguerra
+HelenaNoguerra
 Helene Darroze
 Helene Fischer
 Helene Mannarino
@@ -10108,10 +10130,12 @@ ITALIE COVID
 ITALIE ESPAGNE
 ITALIE FOOT
 ITALIE LITUANIE
+ITALIE MACEDOINE
 ITALIE OOSTENRIJK
 ITALIE PAYS DE GALLES
 ITALIE SPANJE
 ITALIE SUISSE
+ITALIE VOETBAL
 ITALIE ZWITSERLAND
 ITALIE – ESPAGNE
 ITALIE – SUISSE
@@ -10133,6 +10157,7 @@ ITALIEN FLAGGE
 ITALIEN GEGEN BELGIEN
 ITALIEN GEGEN LITAUEN
 ITALIEN GEGEN SPANIEN
+ITALIEN NORDMAZEDONIEN
 ITALIEN OLYMPIA
 ITALIEN OSTERREICH
 ITALIEN SPANIEN
@@ -10424,6 +10449,8 @@ Italie Spanje
 Italie Suisse
 Italie Zwitserland
 Italie foot
+Italie macedoine
+Italie voetbal
 Italie – Espagne
 Italie – Suisse
 Italie-Angleterre
@@ -10448,6 +10475,7 @@ ItalieSuisse
 ItalieWales
 ItalieZwitserland
 Italiefoot
+Italiemacedoine
 Italien
 Italien  Spanien
 Italien - Spanien
@@ -10455,6 +10483,7 @@ Italien Belgien
 Italien Bulgarien
 Italien England
 Italien Gegen Litauen
+Italien Nordmazedonien
 Italien Olympia
 Italien Osterreich
 Italien Spanien
@@ -10470,6 +10499,7 @@ ItalienBelgien
 ItalienBulgarien
 ItalienEngland
 ItalienGegenLitauen
+ItalienNordmazedonien
 ItalienOlympia
 ItalienOsterreich
 ItalienSpanien
@@ -10479,6 +10509,7 @@ Italienflagge
 ItaliengegenBelgien
 ItaliengegenSpanien
 ItalienÖsterreich
+Italievoetbal
 Italie–Espagne
 Italie–Suisse
 Italië  Wales
@@ -12591,6 +12622,7 @@ LES BODIN'S EN THAÏLANDE
 LES BRONZÉS FONT DU SKI
 LES CHORISTES
 LES CHOSES DE LA VIE
+LES CHRONIQUES DE BRIDGERTON
 LES DESTINÉES SENTIMENTALES
 LES DIABLES ROUGES
 LES DIX COMMANDEMENTS
@@ -13367,6 +13399,7 @@ Les Sousdoués
 Les Tontons flingueurs
 Les Tuche 4
 Les Vedettes
+Les chroniques de Bridgerton
 Les enfañts des Justes
 Les fantasmes
 Les particules élémentaires
@@ -13396,6 +13429,7 @@ LesSous-doués
 LesTontonsflingueurs
 LesTuche4
 LesVedettes
+LeschroniquesdeBridgerton
 LesenfañtsdesJustes
 Lesensdelafamille
 Lesfantasmes
@@ -14218,6 +14252,7 @@ MAROC
 MAROC - GHANA
 MAROC ALGÉRIE
 MAROC COMORES
+MAROC CONGO
 MAROC EGYPTE
 MAROC FOOT
 MAROC GABON
@@ -14706,6 +14741,7 @@ MONTPELLIER – RENNES
 MONTPELLIER – SAINT-ÉTIENNE
 MONTPELLIER – STRASBOURG
 MONTREUX
+MONTREUX 5 MORTS
 MONTREUX JAZZ
 MONTREUX JAZZ FESTIVAL
 MONTREUXJAZZ
@@ -14714,6 +14750,7 @@ MONUMENT PRÉFÉRÉ DES FRANÇAIS
 MOON KNIGHT
 MOONFALL
 MORATA
+MORBIUS
 MORD IN DER FAMILIE
 MORGENSTREICH BASEL
 MORGES
@@ -15230,6 +15267,7 @@ Maroc  Ghana
 Maroc - Ghana
 Maroc Algérie
 Maroc Comores
+Maroc Congo
 Maroc Egypte
 Maroc Gabon
 Maroc foot
@@ -15239,6 +15277,7 @@ Maroc-Ghana
 Maroc-Malawi
 MarocAlgérie
 MarocComores
+MarocCongo
 MarocEgypte
 MarocGabon
 MarocMalawi
@@ -16057,8 +16096,10 @@ Montpellier–Rennes
 Montpellier–Saint-Étienne
 Montpellier–Strasbourg
 Montreux
+Montreux 5 morts
 Montreux Jazz
 Montreux Jazz Festival
+Montreux5morts
 MontreuxJazz
 MontreuxJazzFestival
 Monument préféré des Français
@@ -16067,6 +16108,7 @@ Moon Knight
 MoonKnight
 Moonfall
 Morata
+Morbius
 Mord in der Familie
 MordinderFamilie
 Morgenstreich basel
@@ -16342,6 +16384,7 @@ NICOLAS PUSCHMANN
 NICOLAS SARKOZY
 NICOLAS VAN DER MAREN
 NICOLASSARKOZY
+NICOLE BERCHTOLD
 NICOLE CROISILLE
 NICOLE EN HUGO
 NICOLE KIDMAN
@@ -16760,10 +16803,12 @@ NicolasHulot
 NicolasPuschmann
 NicolasSarkozy
 NicolasVanderMaren
+Nicole Berchtold
 Nicole Croisille
 Nicole Kidman
 Nicole Schmidhofer
 Nicole en Hugo
+NicoleBerchtold
 NicoleCroisille
 NicoleKidman
 NicoleSchmidhofer
@@ -17843,6 +17888,7 @@ PORTUGAL  SERVIË
 PORTUGAL - ALLEMAGNE
 PORTUGAL - FRANKREICH
 PORTUGAL - FRANKRIJK
+PORTUGAL - TURQUIE
 PORTUGAL ALLEMAGNE
 PORTUGAL BELGIQUE
 PORTUGAL CORONA
@@ -17851,6 +17897,7 @@ PORTUGAL FOOT
 PORTUGAL FUTSAL
 PORTUGAL IRLANDE
 PORTUGAL SERBIEN
+PORTUGAL TURQUIE
 PORTUGAL TÜRKEI
 PORTUGAL – QATAR
 PORTUGAL-ALLEMAGNE
@@ -17879,6 +17926,7 @@ PREMIER LEAGUE DARTS
 PREMIER-LEAGUE
 PRESIDENTS
 PRESSEKONFERENZ BUNDESRAT
+PRETE MOI TA MAIN
 PRETRE ASSASSINÉ
 PRETTY WOMAN
 PRIDE ZÜRICH
@@ -18612,9 +18660,11 @@ Portugal  Allemagne
 Portugal  Frankreich
 Portugal  Frankrijk
 Portugal  Servië
+Portugal  Turquie
 Portugal - Allemagne
 Portugal - Frankreich
 Portugal - Frankrijk
+Portugal - Turquie
 Portugal Allemagne
 Portugal Belgique
 Portugal COVID
@@ -18624,6 +18674,7 @@ Portugal Foot
 Portugal Futsal
 Portugal Irlande
 Portugal Serbien
+Portugal Turquie
 Portugal Türkei
 Portugal corona
 Portugal foot
@@ -18631,6 +18682,7 @@ Portugal – Qatar
 Portugal-Allemagne
 Portugal-Frankreich
 Portugal-Frankrijk
+Portugal-Turquie
 PortugalAllemagne
 PortugalBelgique
 PortugalCOVID
@@ -18643,6 +18695,7 @@ PortugalFutsal
 PortugalIrlande
 PortugalSerbien
 PortugalServië
+PortugalTurquie
 PortugalTürkei
 Portugalcorona
 Portugalfoot
@@ -18675,6 +18728,8 @@ Premierleague
 Presidents
 Pressekonferenz Bundesrat
 PressekonferenzBundesrat
+Prete moi ta main
+Pretemoitamain
 Pretre assassiné
 Pretreassassiné
 Pretty Woman
@@ -18797,6 +18852,7 @@ QUALIFICATION COUPE DU MONDE 2022
 QUALIFICATION COUPE DU MONDE 2022 AFRIQUE
 QUALIFICATION COUPE DU MONDE 2022 EUROPE
 QUALIFICATION F1
+QUALIFIKATION WM 2022
 QUAN HONGCHAN
 QUANTBIORES
 QUARANTAINE REGELS
@@ -18829,16 +18885,20 @@ Qonto
 Qu'est-ce qu'on a fait au Bon Dieu
 Qu'est-cequ'onafaitauBonDieu
 Qu'estce qu'on a fait au Bon Dieu
+Qualification COUPE DU MONDE 2022
 Qualification Coupe du Monde 2022
 Qualification Coupe du monde 2022
 Qualification Coupe du monde 2022 Afrique
 Qualification Coupe du monde 2022 Europe
 Qualification F1
+QualificationCOUPEDUMONDE2022
 QualificationCoupeduMonde2022
 QualificationCoupedumonde2022
 QualificationCoupedumonde2022Afrique
 QualificationCoupedumonde2022Europe
 QualificationF1
+Qualifikation WM 2022
+QualifikationWM2022
 Quan Hongchan
 QuanHongchan
 QuantBioRes
@@ -20221,6 +20281,7 @@ SEFEROVIC
 SEGOLENE ROYAL
 SEGWAY
 SEISME CRETE
+SELAH SUE
 SELECT GROUP
 SELENA GOMEZ
 SELENAGOMEZ
@@ -20369,6 +20430,7 @@ SMI INDEX
 SMI Index
 SMIC 2021
 SMIIndex
+SMOG
 SMi Index
 SMiIndex
 SNAKE
@@ -20416,6 +20478,7 @@ SOPHIA THOMALLA
 SOPHIA URISTA
 SOPHIE CROSS
 SOPHIE DAVANT
+SOPHIE DE CLOSETS
 SOPHIE MARCEAU
 SOPHIE PETRONIN
 SOPHIE TAPIE
@@ -20690,6 +20753,7 @@ SURYA BONALY
 SUSANNA OHLEN
 SUSANNE THIER
 SUSTENPASS
+SUTOM
 SUeDE  SLOVAQUIE
 SUeDE - SLOVAQUIE
 SUeDE-SLOVAQUIE
@@ -21123,6 +21187,8 @@ SegoleneRoyal
 Segway
 Seisme crete
 Seismecrete
+Selah Sue
+SelahSue
 Select Group
 SelectGroup
 Selena Gomez
@@ -21434,12 +21500,14 @@ Sophie Cross
 Sophie Davant
 Sophie Marceau
 Sophie Tapie
+Sophie de Closets
 Sophie petronin
 Sophie wilmes
 SophieCross
 SophieDavant
 SophieMarceau
 SophieTapie
+SophiedeClosets
 Sophiepetronin
 Sophiewilmes
 Soprano
@@ -22240,6 +22308,7 @@ TOY BOY
 TPMP
 TRABZONSPOR
 TRACI BRAXTON
+TRAJKOVSKI
 TRANSAT JACQUES VABRE
 TRANSDEV
 TRANSFERMARKT
@@ -22843,6 +22912,7 @@ ToyBoy
 Trabzonspor
 Traci Braxton
 TraciBraxton
+Trajkovski
 Transat Jacques Vabre
 TransatJacquesVabre
 Transdev
@@ -23307,6 +23377,7 @@ VENEZIA – MILAN
 VENEZUELA – ARGENTINE
 VENOM
 VENOM : LET THERE BE CARNAGE
+VERDASIO
 VERONA POOTH
 VERONAPOOTH
 VERONICA FORQUE
@@ -23565,6 +23636,7 @@ Venezuela–Argentine
 Venom
 Venom : Let There Be Carnage
 Venom:LetThereBeCarnage
+Verdasio
 Verona Pooth
 VeronaPooth
 Veronica forque
@@ -23755,6 +23827,7 @@ WALDBRÄNDE TÜRKEI
 WALES
 WALES  BELGIË
 WALES DENEMARKEN
+WALES ÖSTERREICH
 WALESDENEMARKEN
 WALLISERKANNE
 WANDA NARA
@@ -23957,8 +24030,10 @@ Waldbrändetürkei
 Wales
 Wales  België
 Wales Denemarken
+Wales Österreich
 WalesBelgië
 WalesDenemarken
+WalesÖsterreich
 Walliserkanne
 Wanda Nara
 WandaNara
@@ -24807,6 +24882,7 @@ alfred biolek
 alfred schreuder
 algerie
 algerie burkina faso
+algerie cameroun
 algerie cote d'ivoire
 algerie feu
 algerie foot
@@ -26861,6 +26937,7 @@ dragovic
 drake
 drakeo the ruler
 drame carnaval strepy bracquegnies
+drame montreux
 drapeau tour eiffel
 drapeau ukraine
 dree peremans
@@ -26909,6 +26986,7 @@ défilé 14 juillet
 désigné coupable
 e-box
 e3 harelbeke
+e3 prijs harelbeke
 e3 saxo bank classic 2022
 eFootball 2022
 eFootball2022
@@ -26985,6 +27063,7 @@ electionsregionales2021candidats
 elena miras
 elena quirici
 eli iserbyt
+eliane müller
 elie domota
 elif aktug
 elifaktug
@@ -27294,6 +27373,7 @@ fabienne schlumpf
 fabio jakobsen
 fabio quartararo
 fabrice collignon
+fabrice di vizio
 fabrice eboué
 fabrice luchini
 fabrice n'sakala
@@ -27546,6 +27626,7 @@ france armenie
 france australie
 france aux jeux olympiques d'hiver
 france corée du sud
+france cote d'ivoire
 france covid
 france croatie handball
 france espagne
@@ -28118,6 +28199,7 @@ heiligabend
 heinz frei
 heistse pijl
 hel van kasterlee
+helena noguerra
 helene carrere d'encausse
 helene darroze
 helene fischer
@@ -28408,10 +28490,12 @@ italie covid
 italie espagne
 italie foot
 italie lituanie
+italie macedoine
 italie oostenrijk
 italie pays de galles
 italie spanje
 italie suisse
+italie voetbal
 italie zwitserland
 italie – espagne
 italie – suisse
@@ -28434,6 +28518,7 @@ italien flagge
 italien gegen belgien
 italien gegen litauen
 italien gegen spanien
+italien nordmazedonien
 italien olympia
 italien osterreich
 italien spanien
@@ -29371,6 +29456,7 @@ les bodin's en thaïlande
 les bronzés font du ski
 les choristes
 les choses de la vie
+les chroniques de bridgerton
 les destinées sentimentales
 les diables rouges
 les dix commandements
@@ -29987,6 +30073,7 @@ maroc
 maroc - ghana
 maroc algérie
 maroc comores
+maroc congo
 maroc egypte
 maroc foot
 maroc gabon
@@ -30465,6 +30552,7 @@ montpellier – rennes
 montpellier – saint-étienne
 montpellier – strasbourg
 montreux
+montreux 5 morts
 montreux jazz
 montreux jazz festival
 montreuxjazz
@@ -30473,6 +30561,7 @@ monument préféré des français
 moon knight
 moonfall
 morata
+morbius
 mord in der familie
 morgenstreich basel
 morges
@@ -30700,6 +30789,7 @@ nicolas puschmann
 nicolas sarkozy
 nicolas van der maren
 nicolassarkozy
+nicole berchtold
 nicole croisille
 nicole en hugo
 nicole kidman
@@ -31385,6 +31475,7 @@ portugal  servië
 portugal - allemagne
 portugal - frankreich
 portugal - frankrijk
+portugal - turquie
 portugal allemagne
 portugal belgique
 portugal corona
@@ -31393,6 +31484,7 @@ portugal foot
 portugal futsal
 portugal irlande
 portugal serbien
+portugal turquie
 portugal türkei
 portugal – qatar
 portugal-allemagne
@@ -31421,6 +31513,7 @@ premier league darts
 premier-league
 presidents
 pressekonferenz bundesrat
+prete moi ta main
 pretre assassiné
 pretty woman
 pride zürich
@@ -31518,6 +31611,7 @@ qualification coupe du monde 2022
 qualification coupe du monde 2022 afrique
 qualification coupe du monde 2022 europe
 qualification f1
+qualifikation wm 2022
 quan hongchan
 quantbiores
 quarantaine regels
@@ -32177,6 +32271,7 @@ seferovic
 segolene royal
 segway
 seisme crete
+selah sue
 select group
 selena gomez
 selenagomez
@@ -32322,6 +32417,7 @@ slumdogmillionaire
 smi
 smi index
 smic 2021
+smog
 snake
 snapchat
 snapchat down
@@ -32365,6 +32461,7 @@ sophia thomalla
 sophia urista
 sophie cross
 sophie davant
+sophie de closets
 sophie marceau
 sophie petronin
 sophie tapie
@@ -32626,6 +32723,7 @@ surya bonaly
 susanna ohlen
 susanne thier
 sustenpass
+sutom
 suède  slovaquie
 suède - slovaquie
 suède – espagne
@@ -32990,6 +33088,7 @@ toy boy
 tpmp
 trabzonspor
 traci braxton
+trajkovski
 transat jacques vabre
 transdev
 transfermarkt
@@ -33251,6 +33350,7 @@ venezia – milan
 venezuela – argentine
 venom
 venom : let there be carnage
+verdasio
 verona pooth
 veronapooth
 veronica forque
@@ -33374,6 +33474,7 @@ waldbrände türkei
 wales
 wales  belgië
 wales denemarken
+wales österreich
 walesdenemarken
 walliserkanne
 wanda nara
