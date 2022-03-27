@@ -526,6 +526,7 @@ ALL-STAR GAME 2022
 ALLEMAGNE
 ALLEMAGNE ANGLETERRE
 ALLEMAGNE ROUMANIE
+ALLEMAGNE – ISRAËL
 ALLEMAGNE – LIECHTENSTEIN
 ALLEMAGNE-HONGRIE
 ALLEMAGNEANGLETERRE
@@ -656,6 +657,7 @@ ANGLETERRE DANEMARK
 ANGLETERRE ECOSSE
 ANGLETERRE IRLANDE
 ANGLETERRE REPUBLIQUE TCHEQUE
+ANGLETERRE – SUISSE
 ANGLETERRE-ALLEMAGNE
 ANGLETERRE-DANEMARK
 ANGLETERRE-ECOSSE
@@ -1439,11 +1441,13 @@ AllTooWell
 Allemagne
 Allemagne Angleterre
 Allemagne Roumanie
+Allemagne – Israël
 Allemagne – Liechtenstein
 Allemagne-Hongrie
 AllemagneAngleterre
 AllemagneHongrie
 AllemagneRoumanie
+Allemagne–Israël
 Allemagne–Liechtenstein
 Allerheiligen
 Allerheiligen 2021
@@ -1657,6 +1661,7 @@ Angleterre Danemark
 Angleterre Ecosse
 Angleterre Irlande
 Angleterre republique tcheque
+Angleterre – Suisse
 Angleterre-Allemagne
 Angleterre-Danemark
 Angleterre-Ecosse
@@ -1666,6 +1671,7 @@ AngleterreDanemark
 AngleterreEcosse
 AngleterreIrlande
 Angleterrerepubliquetcheque
+Angleterre–Suisse
 Angèle
 Anisimova
 Anita Hugi
@@ -3969,6 +3975,7 @@ CHAMPIONS LEAGUE LOTING
 CHAMPIONSLEAGUE
 CHANDELEUR
 CHANGEMENT D'HEURE
+CHANGEMENT D'HEURE BELGIQUE
 CHANGEMENT D'HEURE HIVER
 CHANGEMENT D'HEURE HIVER 2021
 CHANGEMENT HEURE 2022
@@ -4042,6 +4049,7 @@ CHERNOBYL
 CHERSON
 CHESLIE KRYST
 CHEVALINE
+CHEVENEMENT
 CHEYENNE OCHSENKNECHT
 CHEZ LEON
 CHIARA FERRAGNI
@@ -4735,10 +4743,12 @@ Championsleague
 Championsleague2021
 Chandeleur
 Changement d'heure
+Changement d'heure Belgique
 Changement d'heure hiver
 Changement d'heure hiver 2021
 Changement heure 2022
 Changementd'heure
+Changementd'heureBelgique
 Changementd'heurehiver
 Changementd'heurehiver2021
 Changementheure2022
@@ -4872,6 +4882,7 @@ Cherson
 Cheslie Kryst
 CheslieKryst
 Chevaline
+Chevenement
 Cheyenne Ochsenknecht
 CheyenneOchsenknecht
 Chez leon
@@ -6573,6 +6584,7 @@ ELCHE – BARCELONA
 ELCHE – REAL
 ELDEN RING
 ELDORADO KADEWE
+ELECTION PRESIDENTIELLE 2022
 ELECTION REGIONALE
 ELECTIONREGIONALE
 ELECTIONS DEPARTEMENTALES 2021 BRETAGNE
@@ -6975,7 +6987,9 @@ Elden Ring
 EldenRing
 Eldorado KaDeWe
 EldoradoKaDeWe
+Election presidentielle 2022
 Election regionale
+Electionpresidentielle2022
 Electionregionale
 Elections Departementales 2021 Bretagne
 Elections Départementales 2021 Bretagne
@@ -7632,6 +7646,7 @@ FELIX ALEN
 FELIX AUGER-ALIASSIME
 FELIX AUGERALIASSIME
 FELIX FISCHER
+FELIX STURM
 FELIXAUGER-ALIASSIME
 FELIXAUGERALIASSIME
 FEMINICIDE
@@ -8070,10 +8085,12 @@ Felix Alen
 Felix Auger-Aliassime
 Felix AugerAliassime
 Felix Fischer
+Felix Sturm
 FelixAlen
 FelixAuger-Aliassime
 FelixAugerAliassime
 FelixFischer
+FelixSturm
 Feminicide
 Femizid
 Fenerbahce
@@ -8699,6 +8716,7 @@ GENT CLUB BRUGGE
 GENT JAZZ
 GENT WEVELGEM 2022
 GENT-PAOK
+GENT-WEVELGEM
 GEORGE CLOONEY
 GEORGE MICHAEL
 GEORGE W. BUSH
@@ -9100,6 +9118,7 @@ Gent Jazz
 Gent Wevelgem 2022
 Gent-ClubBrugge
 Gent-PAOK
+Gent-Wevelgem
 GentAnderlecht
 GentAntwerp
 GentCharleroi
@@ -9109,6 +9128,7 @@ GentJazz
 GentKortrijk
 GentOostende
 GentPAOK
+GentWevelgem
 GentWevelgem2022
 Gentzulte-waregem
 George Clooney
@@ -9639,6 +9659,7 @@ HOF VAN CLEVE
 HOFFENHEIM – DORTMUND
 HOFSTETTEN
 HOGWARTS LEGACY
+HOHTENN
 HOLCIM AKTIE
 HOLDENER
 HOLGER BADSTUBER
@@ -9931,6 +9952,7 @@ Hoffenheim–Dortmund
 Hofstetten
 Hogwarts Legacy
 HogwartsLegacy
+Hohtenn
 Holcim Aktie
 HolcimAktie
 Holdener
@@ -10017,6 +10039,7 @@ ICE ROAD
 IDORSIA
 IDRIS ELBA
 IEL
+IERLAND - BELGIË
 IGNACIO RAMIREZ
 IGNAZIO CASSIS
 IGOR BOGDANOFF
@@ -10135,6 +10158,7 @@ IRINASHAYK
 IRIS MITTENAERE
 IRLANDE - NOUVELLE ZELANDE
 IRLANDE ECOSSE
+IRLANDE – BELGIQUE
 IRLANDE – PORTUGAL
 IRMGARD FURCHNER
 IRONMAN RAPPERSWIL
@@ -10253,6 +10277,9 @@ Idorsia
 Idris Elba
 IdrisElba
 Iel
+Ierland  België
+Ierland - België
+Ierland-België
 Ignacio Ramirez
 IgnacioRamirez
 Ignazio Cassis
@@ -10426,9 +10453,11 @@ IrisMittenaere
 Irlande  Nouvelle zelande
 Irlande - Nouvelle zelande
 Irlande Ecosse
+Irlande – Belgique
 Irlande – Portugal
 Irlande-Nouvellezelande
 IrlandeEcosse
+Irlande–Belgique
 Irlande–Portugal
 Irmgard Furchner
 IrmgardFurchner
@@ -10699,6 +10728,7 @@ JEAN-PAUL HUCHON
 JEAN-PAUL ROUVE
 JEAN-PAULHUCHON
 JEAN-PIERRE ADAMS
+JEAN-PIERRE CHEVENEMENT
 JEAN-PIERRE PERNAUT
 JEAN-VINCENT PLACÉ
 JEAN-YVES LAMBERT
@@ -11194,8 +11224,10 @@ Jean-PaulHuchon
 Jean-PaulRouve
 Jean-Pierre Adams
 Jean-Pierre Pernaut
+Jean-Pierre chevenement
 Jean-PierreAdams
 Jean-PierrePernaut
+Jean-Pierrechevenement
 Jean-Vincent Placé
 Jean-VincentPlacé
 Jean-Yves Lambert
@@ -11235,6 +11267,7 @@ JeanPaulGaultier
 JeanPaulHuchon
 JeanPierre Adams
 JeanPierre Pernaut
+JeanPierre chevenement
 JeanQuiquampoix
 JeanVincent Placé
 JeanYves Lambert
@@ -12973,6 +13006,7 @@ LUTZPFANNENSTIEL
 LUUK DE JONG
 LUZERN
 LUZERN MARATHON 2021
+LVIV
 LWIW
 LYCEE MONTAIGNE
 LYDIA
@@ -13954,6 +13988,7 @@ LuukdeJong
 Luzern
 Luzern Marathon 2021
 LuzernMarathon2021
+Lviv
 Lwiw
 Lycee Montaigne
 LyceeMontaigne
@@ -14604,6 +14639,7 @@ MICHEL LEGRAND
 MICHEL ONFRAY
 MICHEL POLNAREFF
 MICHEL SARDOU
+MICHEL SARRAN
 MICHEL VAN DOUSSELAERE
 MICHELE CUVELIER
 MICHELE GEORGE
@@ -14696,6 +14732,8 @@ MIREILLE KNOLL
 MIREILLE MATHIEU
 MIS-C
 MISC
+MISS BELGIQUE 2022
+MISS BELGIË 2022
 MISS CORSE 2022
 MISS DOMINIQUE
 MISS FRANCE 2022
@@ -15831,6 +15869,7 @@ Michel Legrand
 Michel Onfray
 Michel Polnareff
 Michel Sardou
+Michel Sarran
 Michel Van Dousselaere
 MichelAebischer
 MichelBarnier
@@ -15843,6 +15882,7 @@ MichelLegrand
 MichelOnfray
 MichelPolnareff
 MichelSardou
+MichelSarran
 MichelVanDousselaere
 Michele Cuvelier
 Michele George
@@ -15990,6 +16030,8 @@ Mireille Mathieu
 MireilleDumas
 MireilleKnoll
 MireilleMathieu
+Miss Belgique 2022
+Miss België 2022
 Miss Corse 2022
 Miss Dominique
 Miss France 2022
@@ -15999,6 +16041,8 @@ Miss USA 2019
 Miss Univers 2021
 Miss Univers 2022
 Miss Universe 2021
+MissBelgique2022
+MissBelgië2022
 MissCorse2022
 MissDominique
 MissFrance2022
@@ -16315,6 +16359,7 @@ NATHALIE LOISEAU
 NATHALIE MAILLET
 NATHALIE MARQUAY
 NATHALIE MESKENS
+NATHALIE RHEIMS
 NATHALIE VINCENT
 NATHALIE VOLK
 NATHALIEIANNETTA
@@ -16675,6 +16720,7 @@ Nathalie Loiseau
 Nathalie Maillet
 Nathalie Marquay
 Nathalie Meskens
+Nathalie Rheims
 Nathalie Vincent
 Nathalie Volk
 NathalieAndreani
@@ -16688,6 +16734,7 @@ NathalieLoiseau
 NathalieMaillet
 NathalieMarquay
 NathalieMeskens
+NathalieRheims
 NathalieVincent
 NathalieVolk
 Nathan Van Hooydonck
@@ -17074,6 +17121,7 @@ O.J.Simpson
 OASG
 OASIS
 OBERHELFENSCHWIL
+OBERKIRCH
 OBERWALD
 OBERWIL-LIELI
 OBI-WAN KENOBI
@@ -17254,8 +17302,10 @@ ORNELLA MUTI
 ORPEA
 OSAMA BIN LADEN
 OSASUNA – BARCELONA
+OSCAR 2022
 OSCAR OTTE
 OSCAR PISTORIUS
+OSCARS 2022
 OSMAN KAVALA
 OSMANS TÖCHTER
 OSS 117
@@ -17288,6 +17338,7 @@ OYONNAX
 OZARK
 Oasis
 Oberhelfenschwil
+Oberkirch
 Oberwald
 Oberwil-Lieli
 OberwilLieli
@@ -17526,10 +17577,14 @@ Osama bin Laden
 OsamabinLaden
 Osasuna – Barcelona
 Osasuna–Barcelona
+Oscar 2022
 Oscar Otte
 Oscar Pistorius
+Oscar2022
 OscarOtte
 OscarPistorius
+Oscars 2022
+Oscars2022
 Osman Kavala
 OsmanKavala
 Osmans Töchter
@@ -17606,6 +17661,7 @@ PARALYMPICS 2021
 PARALYMPISCHE SPELEN
 PARALYMPISCHE SPIELE
 PARASITE
+PARCOURS GENT WEVELGEM
 PARCOURS TOUR DE FRANCE 2021
 PARCOURS WK LEUVEN
 PARCOURS WK WIELRENNEN
@@ -18171,9 +18227,11 @@ Parasite
 Parcours Tour de France 2021
 Parcours WK Leuven
 Parcours WK Wielrennen
+Parcours gent wevelgem
 ParcoursTourdeFrance2021
 ParcoursWKLeuven
 ParcoursWKWielrennen
+Parcoursgentwevelgem
 Parcoursup
 Parijs Nice 2022
 Parijs-Nice
@@ -18394,11 +18452,14 @@ Pays de Galles – Belgique
 Pays de Galles – Danemark
 Pays-Bas
 Pays-Bas FOOT
+Pays-Bas foot
 Pays-Bas republique tcheque
 Pays-BasFOOT
+Pays-Basfoot
 Pays-Basrepubliquetcheque
 PaysBas
 PaysBas FOOT
+PaysBas foot
 PaysBas republique tcheque
 PaysBasFOOT
 PaysBasrepubliquetcheque
@@ -18908,6 +18969,7 @@ QUALIFICATION COUPE DU MONDE 2022 AFRIQUE
 QUALIFICATION COUPE DU MONDE 2022 EUROPE
 QUALIFICATION F1
 QUALIFIKATION WM 2022
+QUALIFYING F1
 QUAN HONGCHAN
 QUANTBIORES
 QUARANTAINE REGELS
@@ -18954,6 +19016,8 @@ QualificationCoupedumonde2022Europe
 QualificationF1
 Qualifikation WM 2022
 QualifikationWM2022
+Qualifying f1
+Qualifyingf1
 Quan Hongchan
 QuanHongchan
 QuantBioRes
@@ -20385,6 +20449,7 @@ SEVDALIZA
 SEVEN SISTERS
 SEVILLA
 SEVILLA  BARCELONA
+SEVRAN
 SEX AND THE CITY
 SHAKHTAR DONETSK
 SHAKIRA
@@ -20477,6 +20542,7 @@ SKOV OLSEN
 SKY BROWN
 SKY SPORT
 SKYFALL
+SKYSCRAPER
 SLACK
 SLALOM FRAUEN OLYMPIA
 SLALOM MÄNNER OLYMPIA
@@ -21318,6 +21384,7 @@ SevenSisters
 Sevilla
 Sevilla  Barcelona
 SevillaBarcelona
+Sevran
 Sex and the City
 SexandtheCity
 Shakhtar Donetsk
@@ -21482,6 +21549,7 @@ Sky Sport
 SkyBrown
 SkySport
 Skyfall
+Skyscraper
 Slack
 Slalom Frauen Olympia
 Slalom Männer Olympia
@@ -23231,6 +23299,7 @@ UTE LEMPER
 UTEFREUDENBERG
 UTMB
 UTOYA
+UUR
 UWE SEELER
 Udo Lindenberg
 UdoLindenberg
@@ -23360,6 +23429,7 @@ UsainBolt
 Ute Lemper
 UteLemper
 Utoya
+Uur
 Uwe Seeler
 UweSeeler
 V-TEST
@@ -24581,6 +24651,7 @@ ZULTE-WAREGEM  GENK
 ZULTE-WAREGEM  MECHELEN
 ZULTE-WAREGEM  OOSTENDE
 ZURICH
+ZURICH VERSICHERUNG
 ZURICH-FLUGHAFEN
 ZURICHFLUGHAFEN
 ZVEREV
@@ -24715,8 +24786,10 @@ Zultewaregem  Genk
 Zultewaregem  Mechelen
 Zultewaregem  Oostende
 Zurich
+Zurich Versicherung
 Zurich-Flughafen
 ZurichFlughafen
+ZurichVersicherung
 Zverev
 Zverev Djokovic
 ZverevDjokovic
@@ -25002,6 +25075,7 @@ all-star game 2022
 allemagne
 allemagne angleterre
 allemagne roumanie
+allemagne – israël
 allemagne – liechtenstein
 allemagne-hongrie
 allemagneangleterre
@@ -25130,6 +25204,7 @@ angleterre danemark
 angleterre ecosse
 angleterre irlande
 angleterre republique tcheque
+angleterre – suisse
 angleterre-allemagne
 angleterre-danemark
 angleterre-ecosse
@@ -26247,6 +26322,7 @@ champions league loting
 championsleague
 chandeleur
 changement d'heure
+changement d'heure belgique
 changement d'heure hiver
 changement d'heure hiver 2021
 changement heure 2022
@@ -26320,6 +26396,7 @@ chernobyl
 cherson
 cheslie kryst
 chevaline
+chevenement
 cheyenne ochsenknecht
 chez leon
 chiara ferragni
@@ -27138,6 +27215,7 @@ elche – barcelona
 elche – real
 elden ring
 eldorado kadewe
+election presidentielle 2022
 election regionale
 electionregionale
 elections departementales 2021 bretagne
@@ -27545,6 +27623,7 @@ felix alen
 felix auger-aliassime
 felix augeraliassime
 felix fischer
+felix sturm
 felixauger-aliassime
 felixaugeraliassime
 feminicide
@@ -27953,6 +28032,7 @@ gent club brugge
 gent jazz
 gent wevelgem 2022
 gent-paok
+gent-wevelgem
 george clooney
 george michael
 george w. bush
@@ -28338,6 +28418,7 @@ hof van cleve
 hoffenheim – dortmund
 hofstetten
 hogwarts legacy
+hohtenn
 holcim aktie
 holdener
 holger badstuber
@@ -28425,6 +28506,7 @@ ice road
 idorsia
 idris elba
 iel
+ierland - belgië
 ignacio ramirez
 ignazio cassis
 igor bogdanoff
@@ -28541,6 +28623,7 @@ irinashayk
 iris mittenaere
 irlande - nouvelle zelande
 irlande ecosse
+irlande – belgique
 irlande – portugal
 irmgard furchner
 ironman rapperswil
@@ -28765,6 +28848,7 @@ jean-paul huchon
 jean-paul rouve
 jean-paulhuchon
 jean-pierre adams
+jean-pierre chevenement
 jean-pierre pernaut
 jean-vincent placé
 jean-yves lambert
@@ -29849,6 +29933,7 @@ lutzpfannenstiel
 luuk de jong
 luzern
 luzern marathon 2021
+lviv
 lwiw
 lycee montaigne
 lydia
@@ -30467,6 +30552,7 @@ michel legrand
 michel onfray
 michel polnareff
 michel sardou
+michel sarran
 michel van dousselaere
 michele cuvelier
 michele george
@@ -30552,6 +30638,8 @@ mireille dumas
 mireille knoll
 mireille mathieu
 mis-c
+miss belgique 2022
+miss belgië 2022
 miss corse 2022
 miss dominique
 miss france 2022
@@ -30769,6 +30857,7 @@ nathalie loiseau
 nathalie maillet
 nathalie marquay
 nathalie meskens
+nathalie rheims
 nathalie vincent
 nathalie volk
 nathalieiannetta
@@ -31012,6 +31101,7 @@ o.j. simpson
 oasg
 oasis
 oberhelfenschwil
+oberkirch
 oberwald
 oberwil-lieli
 obi-wan kenobi
@@ -31170,8 +31260,10 @@ ornella muti
 orpea
 osama bin laden
 osasuna – barcelona
+oscar 2022
 oscar otte
 oscar pistorius
+oscars 2022
 osman kavala
 osmans töchter
 oss 117
@@ -31236,6 +31328,7 @@ paralympics 2021
 paralympische spelen
 paralympische spiele
 parasite
+parcours gent wevelgem
 parcours tour de france 2021
 parcours wk leuven
 parcours wk wielrennen
@@ -31704,6 +31797,7 @@ qualification coupe du monde 2022 afrique
 qualification coupe du monde 2022 europe
 qualification f1
 qualifikation wm 2022
+qualifying f1
 quan hongchan
 quantbiores
 quarantaine regels
@@ -32407,6 +32501,7 @@ sevdaliza
 seven sisters
 sevilla
 sevilla  barcelona
+sevran
 sex and the city
 shakhtar donetsk
 shakira
@@ -32499,6 +32594,7 @@ skov olsen
 sky brown
 sky sport
 skyfall
+skyscraper
 slack
 slalom frauen olympia
 slalom männer olympia
@@ -33365,6 +33461,7 @@ ute freudenberg
 ute lemper
 utmb
 utoya
+uur
 uwe seeler
 v-test
 vaccin covid
@@ -33876,6 +33973,7 @@ zulte-waregem  genk
 zulte-waregem  mechelen
 zulte-waregem  oostende
 zurich
+zurich versicherung
 zurich-flughafen
 zurichflughafen
 zverev
