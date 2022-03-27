@@ -13299,6 +13299,7 @@ DOSEN
 DOSIERUNG
 DOSIS
 DOSSEH
+DOSSIERKENNIS
 DOSSIERTABOU
 DOST
 DOUBLE
@@ -24407,6 +24408,8 @@ J'vais
 J'ÉTAIS
 J'écoute
 J'étais
+J-14
+J14
 JA MORANT
 JA-SAGER
 JA-STIMMEN
@@ -24432,6 +24435,7 @@ JACKDORSEY
 JACKGREALISH
 JACKHENDRY
 JACKIE B
+JACKIE BROWN
 JACKIEB
 JACKKIRBY
 JACKLANG
@@ -24717,6 +24721,7 @@ JEAN-JACQUES GOLDMAN
 JEAN-JACQUES SAVIN
 JEAN-JACQUESDEGUCHT
 JEAN-JACQUESGOLDMAN
+JEAN-LOUIS FAURE
 JEAN-LUC
 JEAN-LUC BRUNEL
 JEAN-LUC CRUCKE
@@ -25654,7 +25659,9 @@ JackHendry
 JackKirby
 JackLang
 Jackie B
+Jackie Brown
 JackieB
+JackieBrown
 Jacknoel
 JacksonWang
 Jackspectra
@@ -25970,6 +25977,8 @@ Jean-JacquesDeGucht
 Jean-JacquesDebout
 Jean-JacquesGoldman
 Jean-JacquesSavin
+Jean-Louis Faure
+Jean-LouisFaure
 Jean-Luc
 Jean-Luc Brunel
 Jean-Luc Crucke
@@ -26068,6 +26077,7 @@ JeanJaures
 JeanJaurès
 JeanLassalle
 JeanLouis
+JeanLouis Faure
 JeanLuc
 JeanLuc Brunel
 JeanLuc Crucke
@@ -55131,12 +55141,14 @@ VÉDRINE
 VÉHICULESDANSUNTITRE
 VÉLODROME
 VÉRAN
+VÖGEL
 VÖLKERRECHT
 Védrine
 VéhiculesDansUnTitre
 Vélodrome
 Véran
 Vésubie
+Vögel
 Völkerrecht
 VŒUX
 W2011
@@ -57099,6 +57111,7 @@ ZOHRA
 ZOIETS
 ZOLA
 ZOLANG
+ZOMERTIJD
 ZOMERUUR
 ZONDAG
 ZONDER GROEN
@@ -64817,6 +64830,7 @@ dosen
 dosierung
 dosis
 dosseh
+dossierkennis
 dossiertabou
 dost
 double
@@ -70115,6 +70129,7 @@ j'yfus
 j'yétais
 j'écoute
 j'étais
+j-14
 ja morant
 ja-sager
 ja-stimmen
@@ -70139,6 +70154,7 @@ jackdorsey
 jackgrealish
 jackhendry
 jackie b
+jackie brown
 jackieb
 jackkirby
 jacklang
@@ -70444,6 +70460,7 @@ jean-jacques savin
 jean-jacquesannaud
 jean-jacquesdegucht
 jean-jacquesgoldman
+jean-louis faure
 jean-luc
 jean-luc brunel
 jean-luc crucke
@@ -86132,6 +86149,7 @@ véhiculesdansuntitre
 vélodrome
 véran
 vésubie
+vögel
 völkerrecht
 vœux
 w2011
@@ -87254,6 +87272,7 @@ zohra
 zoiets
 zola
 zolang
+zomertijd
 zomeruur
 zondag
 zonder groen
