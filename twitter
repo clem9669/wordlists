@@ -1283,6 +1283,7 @@ AFFAIRE KOHLER
 AFFAIRECONCLUE
 AFFAIREEPSTEIN
 AFFAIREKOHLER
+AFFAIREMCKINSEY
 AFFAIREP
 AFFAIRES
 AFFARE
@@ -3270,6 +3271,7 @@ Affaire Kohler
 AffaireConclue
 AffaireEpstein
 AffaireKohler
+AffaireMcKinsey
 AffaireP
 Affaires
 Affare
@@ -5218,6 +5220,7 @@ BE-ALERT
 BE-Alert
 BE-alert
 BE1410
+BE2022
 BE2310
 BEACH SOCCER WORLD CUP
 BEACHSOCCERWORLDCUP
@@ -27162,6 +27165,7 @@ KELSEYCAKE
 KEMBA
 KEMISEBASPACE
 KEMMEL
+KEMMELBERG
 KEMPEN
 KEN LOACH
 KENA
@@ -27999,6 +28003,7 @@ Kelseycake
 Kemba
 KemiSebaSpace
 Kemmel
+Kemmelberg
 Kempen
 Ken Loach
 KenLoach
@@ -37378,6 +37383,7 @@ NAINGGOLAN
 NAIROBI
 NAJLA BOUDEN
 NAJLABOUDEN
+NAKAMURANCE
 NAKED EYE PROJECT BIENNE
 NAKEDEYEPROJECTBIENNE
 NAMADIA
@@ -38218,6 +38224,7 @@ Nainggolan
 Nairobi
 Najla Bouden
 NajlaBouden
+Nakamurance
 NamJin
 Namadia
 Nami
@@ -54251,6 +54258,7 @@ VIVE LA REPUBLIQUE
 VIVE LA RÉPUBLIQUE
 VIVE LE CATCH
 VIVE LE ROI
+VIVE ZEMMOUR
 VIVELAFRANCE
 VIVELAREPUBLIQUE
 VIVELECATCH
@@ -54984,6 +54992,7 @@ VivaTech
 Vivaldi
 Vivante
 Vive Le Catch
+Vive Zemmour
 Vive la Bretagne
 Vive la FRANCE
 Vive la France
@@ -54992,6 +55001,7 @@ Vive le Catch
 Vive le Roi
 ViveLeCatch
 ViveLeVelo
+ViveZemmour
 VivelaBretagne
 VivelaFRANCE
 VivelaFrance
@@ -58122,6 +58132,7 @@ affaire kohler
 affaireconclue
 affaireepstein
 affairekohler
+affairemckinsey
 affairep
 affaires
 affare
@@ -60291,6 +60302,7 @@ be alive
 be honest
 be-alert
 be1410
+be2022
 be2310
 beINLIGUE2
 beINLigue2
@@ -71693,6 +71705,7 @@ kelseycake
 kemba
 kemisebaspace
 kemmel
+kemmelberg
 kempen
 ken loach
 kena
@@ -76818,6 +76831,7 @@ nainggolan
 nairobi
 najla bouden
 najlabouden
+nakamurance
 naked eye project bienne
 nakedeyeprojectbienne
 namadia
@@ -85998,6 +86012,7 @@ vive la france
 vive la république
 vive le catch
 vive le roi
+vive zemmour
 vivelafrance
 vivelarépublique
 vivelecatch
@@ -87476,6 +87491,7 @@ zürich
 ÉRIC
 ÉRIC GARCIA
 ÉRIC ROY
+ÉRIC ZEMMOUR
 ÉTATS
 ÉTATS UNIS
 ÉTATS-UNIS
@@ -87512,8 +87528,10 @@ zürich
 Éric
 Éric Garcia
 Éric Roy
+Éric Zemmour
 ÉricGarcia
 ÉricRoy
+ÉricZemmour
 États
 États Unis
 États-Unis
