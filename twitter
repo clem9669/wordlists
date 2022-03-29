@@ -483,6 +483,7 @@
 21 GC
 21 PSG
 21 RUSSISCHE
+21 Russische
 21 décembre
 21 gc
 21 russische
@@ -499,6 +500,7 @@
 21H25
 21HMEDIAS
 21JANVIER
+21Russische
 21STE
 21décembre
 21h25
@@ -1639,6 +1641,7 @@ ALGEQG
 ALGER
 ALGERIA
 ALGERIE
+ALGERIE CAMEROUN
 ALGERIE MAROC
 ALGERIEDANSUNTITRE
 ALGERIEMAROC
@@ -1651,6 +1654,7 @@ ALGQAT
 ALGSLE
 ALGTUN
 ALGÉRIE
+ALGÉRIE CAMEROUN
 ALGÉRIENS
 ALHADHUR
 ALHADUR
@@ -3642,7 +3646,9 @@ Algerie
 AlgerieDansUnTitre
 Algeriens
 Algérie
+Algérie Cameroun
 Algérie Maroc
+AlgérieCameroun
 AlgérieMaroc
 Algériens
 Alhadhur
@@ -5368,6 +5374,7 @@ BELASTUNG
 BELATTAR
 BELBEL
 BELBFA
+BELBUR
 BELCZE
 BELEGE
 BELEIDIGUNG
@@ -5642,6 +5649,7 @@ BERTRANDTRAORÉ
 BERTSCHY
 BERUF
 BERX
+BESANCENOT
 BESANCON
 BESANÇON
 BESCHEID
@@ -7550,6 +7558,7 @@ BertrandTraoré
 Bertschy
 Beruf
 Berx
+Besancenot
 Besancon
 Besançon
 Bescheid
@@ -17662,6 +17671,7 @@ FOUTAGEDEGUEULE
 FOUZI
 FOX NEWS
 FOXNEWS
+FRAADS
 FRAAFS
 FRAALL
 FRAANG
@@ -58864,6 +58874,7 @@ algqat
 algsle
 algtun
 algérie
+algérie cameroun
 algérie maroc
 algériemaroc
 algériens
@@ -60787,6 +60798,7 @@ belattar
 belaïli
 belbel
 belbfa
+belbur
 belcze
 belege
 beleidigung
@@ -61070,6 +61082,7 @@ bertrandtraoré
 bertschy
 beruf
 berx
+besancenot
 besancon
 besançon
 bescheid
@@ -67286,6 +67299,7 @@ foutagedegueule
 fouzi
 fox news
 foxnews
+fraads
 fraafs
 fraall
 fraang
