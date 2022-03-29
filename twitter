@@ -149,10 +149,12 @@
 128go
 12ANS
 12JARIGE
+12MIN
 12MINUTES
 12Minutes
 12ans
 12jarige
+12min
 12minutes
 13 HEURES
 13 Heures
@@ -16903,6 +16905,7 @@ FACUP
 FACup
 FAEROER-EILANDEN
 FAEROEREILANDEN
+FAES
 FAHRER
 FAHRRAD
 FAHRT
@@ -18157,6 +18160,7 @@ Facile
 Facon
 Faeroer-eilanden
 Faeroereilanden
+Faes
 Fahrer
 Fahrrad
 Fahrt
@@ -24726,6 +24730,7 @@ JANSSEN
 JANTJE
 JANUAR 2022
 JANUAR2022
+JANUZAJ
 JANVANHECKE
 JANVIER 2022
 JANVIER2022
@@ -25964,6 +25969,7 @@ Janssen
 Jantje
 Januar 2022
 Januar2022
+Januzaj
 JanvanHecke
 Japan
 Japan Expo
@@ -30922,6 +30928,7 @@ LUXE
 LUXEMBOURG
 LUXEMBURG
 LUXUS
+LUYINDAMA
 LUZERN
 LUkraine
 LVCDC
@@ -32847,6 +32854,7 @@ Luxe
 Luxembourg
 Luxemburg
 Luxus
+Luyindama
 Luzern
 Lviv
 Lybie
@@ -41492,6 +41500,7 @@ POPYRIN
 PORATM
 PORIRL
 PORLUX
+PORMAC
 POROL
 PORSCHE
 PORSER
@@ -54917,6 +54926,7 @@ Van aert
 Van de Beek
 Van de Ven
 Van der Brempt
+Van der Heyden
 Van der Paal
 Van der Poel
 Van der Straeten
@@ -54966,6 +54976,7 @@ VandenBroucke
 Vandenbroucke
 Vander
 VanderBrempt
+VanderHeyden
 VanderPaal
 VanderPoel
 VanderStraeten
@@ -66572,6 +66583,7 @@ factchecking
 facup
 faeroer-eilanden
 faeroereilanden
+faes
 fahrer
 fahrrad
 fahrt
@@ -70789,6 +70801,7 @@ janssen
 jantje
 januar 2022
 januar2022
+januzaj
 janvanhecke
 janvier 2022
 janvier2022
@@ -74812,6 +74825,7 @@ luxe
 luxembourg
 luxemburg
 luxus
+luyindama
 luzern
 lvcdc
 lvdcb
@@ -79881,6 +79895,7 @@ popyrin
 poratm
 porirl
 porlux
+pormac
 porol
 porsche
 porser
