@@ -2717,6 +2717,7 @@ BORDEAUX – ANGERS
 BORDEAUX – CLERMONT
 BORDEAUX – LILLE
 BORDEAUX – LYON
+BORDEAUX – METZ
 BORDEAUX – MONACO
 BORDEAUX – MONTPELLIER
 BORDEAUX – NANTES
@@ -3609,6 +3610,7 @@ Bordeaux – Angers
 Bordeaux – Clermont
 Bordeaux – Lille
 Bordeaux – Lyon
+Bordeaux – Metz
 Bordeaux – Monaco
 Bordeaux – Montpellier
 Bordeaux – Nantes
@@ -3623,6 +3625,7 @@ Bordeaux–Angers
 Bordeaux–Clermont
 Bordeaux–Lille
 Bordeaux–Lyon
+Bordeaux–Metz
 Bordeaux–Monaco
 Bordeaux–Montpellier
 Bordeaux–Nantes
@@ -4106,6 +4109,7 @@ CHAINE DU BONHEUR
 CHAINSAW MAN
 CHAINSAWMAN
 CHALANDAMARZ
+CHALLENGE CUP
 CHALLENGE LEAGUE
 CHAMBOULTOUT
 CHAMPAGNE
@@ -4342,9 +4346,11 @@ CLERMONT – LILLE
 CLERMONT – MARSEILLE
 CLERMONT – MONACO
 CLERMONT – NICE
+CLERMONT – PARIS-SG
 CLERMONT – SAINT-ÉTIENNE
 CLERMONT – STRASBOURG
 CLERMONT – TOULON
+CLERMONT,  PSG
 CLERMONT-STRASBOURG
 CLINT EASTWOOD
 CLIPPERS  JAZZ
@@ -4404,6 +4410,7 @@ COMITE DE CONCERTATION 26 NOVEMBRE 2021
 COMITÉ DE CONCERTATION
 COMMANDANT MASSOUD
 COMMENT JE SUIS DEVENU SUPER-HÉROS
+COMMENT VOTER À L'ÉLECTION PRÉSIDENTIELLE
 COMMISSION PARITAIRE 200
 COMOMEER
 COMORES
@@ -4423,6 +4430,7 @@ CONFÉRENCE DE PRESSE CONSEIL FÉDÉRAL
 CONGO  MAROC
 CONGO - MAROC
 CONGO-MAROC
+CONNAITRE SON BUREAU DE VOTE
 CONNER ROUSSEAU
 CONOR MCGREGOR
 CONORMCGREGOR
@@ -4891,7 +4899,9 @@ ChaineduBonheur
 Chainsaw Man
 ChainsawMan
 Chalandamarz
+Challenge Cup
 Challenge League
+ChallengeCup
 ChallengeLeague
 Chamboultout
 Champagne
@@ -5303,8 +5313,12 @@ Clermont – Monaco
 Clermont – Nice
 Clermont – Strasbourg
 Clermont – Toulon
+Clermont – paris-sg
+Clermont – parissg
 Clermont – saint-étienne
 Clermont – saintétienne
+Clermont,  psg
+Clermont,psg
 Clermont-Strasbourg
 ClermontStrasbourg
 Clermont–Lens
@@ -5314,6 +5328,7 @@ Clermont–Monaco
 Clermont–Nice
 Clermont–Strasbourg
 Clermont–Toulon
+Clermont–paris-sg
 Clermont–saint-étienne
 Clint Eastwood
 ClintEastwood
@@ -5401,7 +5416,9 @@ Commandant Massoud
 CommandantMassoud
 Comment je suis devenu super-héros
 Comment je suis devenu superhéros
+Comment voter à l'élection présidentielle
 Commentjesuisdevenusuper-héros
+Commentvoteràl'électionprésidentielle
 Commission paritaire 200
 Commissionparitaire200
 Comomeer
@@ -5428,6 +5445,8 @@ Confinement PaysBas
 ConfinementPays-Bas
 Conférence de presse Conseil fédéral
 ConférencedepresseConseilfédéral
+Connaitre son bureau de vote
+Connaitresonbureaudevote
 Conner Rousseau
 ConnerRousseau
 Conor McGregor
@@ -5929,6 +5948,7 @@ DIANA
 DIANA DI MEO
 DIANA ROSS
 DIANE KRUGER
+DICK MARTY
 DICK RIVERS
 DIDIER BOURDON
 DIDIER DESCHAMPS
@@ -5951,6 +5971,7 @@ DIEUDONNE
 DIEUDONNe
 DIEUDONNé
 DIGITEC
+DIMANCHE DES RAMEAUX
 DIMITRI BONTINCK
 DIMITRI PAYET
 DIMITRI VAN DEN BERGH
@@ -6444,7 +6465,9 @@ DianaDiMeo
 DianaRoss
 Diane Kruger
 DianeKruger
+Dick Marty
 Dick Rivers
+DickMarty
 DickRivers
 Didier Bourdon
 Didier Deschamps
@@ -6477,6 +6500,8 @@ DieterBrummer
 Dieudonne
 Dieudonné
 Digitec
+Dimanche des Rameaux
+DimanchedesRameaux
 Dimitri Bontinck
 Dimitri Payet
 Dimitri Van den Bergh
@@ -6834,8 +6859,11 @@ ELCHE – BARCELONA
 ELCHE – REAL
 ELDEN RING
 ELDORADO KADEWE
+ELECTION PRESIDENTIELLE
 ELECTION PRESIDENTIELLE 2022
+ELECTION PRÉSIDENTIELLE 2022
 ELECTION REGIONALE
+ELECTION VAUD 2022
 ELECTIONREGIONALE
 ELECTIONS DEPARTEMENTALES 2021 BRETAGNE
 ELECTIONS DePARTEMENTALES 2021 BRETAGNE
@@ -7253,9 +7281,14 @@ Elden Ring
 EldenRing
 Eldorado KaDeWe
 EldoradoKaDeWe
+Election presidentielle
 Election presidentielle 2022
+Election présidentielle 2022
 Election regionale
+Election vaud 2022
+Electionpresidentielle
 Electionpresidentielle2022
+Electionprésidentielle2022
 Electionregionale
 Elections Departementales 2021 Bretagne
 Elections Départementales 2021 Bretagne
@@ -7271,6 +7304,7 @@ Electionsdépartementales2021bretagne
 Electionsregionales2021candidats
 Electionsrégionales2021candidats
 Electionsvaud
+Electionvaud2022
 Elena Miras
 Elena Quirici
 ElenaMiras
@@ -8103,6 +8137,7 @@ FORMULA 1
 FORMULAIRE ENTREE SUISSE
 FORMULE 1
 FORMULE 1 2022
+FORMULE E
 FORREST GUMP
 FORT BOYARD
 FORT BOYARD EN DEUIL
@@ -8593,8 +8628,10 @@ Formulaire entree Suisse
 FormulaireentreeSuisse
 Formule 1
 Formule 1 2022
+Formule E
 Formule1
 Formule12022
+FormuleE
 Forrest Gump
 ForrestGump
 Fort Boyard
@@ -9048,6 +9085,7 @@ GENT-WEVELGEM
 GENT-WEVELGEM 2022
 GEORGE CLOONEY
 GEORGE MICHAEL
+GEORGE RUSSELL
 GEORGE W. BUSH
 GEORGES BRASSENS
 GEORGES PEREC
@@ -9477,9 +9515,11 @@ GentWevelgem2022
 Gentzulte-waregem
 George Clooney
 George Michael
+George Russell
 George W. Bush
 GeorgeClooney
 GeorgeMichael
+GeorgeRussell
 GeorgeW.Bush
 Georges Brassens
 Georges Perec
@@ -10449,6 +10489,7 @@ ILONA SMET
 ILS ETAIENT 10
 ILS SONT PARTOUT
 ILSE DE MEULEMEESTER
+ILSE DELANGE
 IM NETZ DER CAMORRA
 IM NETZ DER VERSUCHUNG
 IMAGINE DRAGONS
@@ -10713,6 +10754,8 @@ IlonaSmet
 Ils etaient 10
 Ils sont partout
 Ilse De Meulemeester
+Ilse DeLange
+IlseDeLange
 IlseDeMeulemeester
 Ilsetaient10
 Ilssontpartout
@@ -11016,6 +11059,7 @@ JA MORANT
 JACINDA ARDERN
 JACK GREALISH
 JACK HENDRY
+JACK WHITE
 JACKFRUIT
 JACKGREALISH
 JACKIE CHAN
@@ -11031,6 +11075,7 @@ JACQUES DUTRONC
 JACQUES LEGROS
 JACQUES PRADEL
 JACQUES ROGGE
+JADA PINKETT SMITH
 JADE CAREY
 JADON SANCHO
 JADONSANCHO
@@ -11223,6 +11268,7 @@ JO2021
 JOACHIM GERARD
 JOAN DIDION
 JOANA HEIDRICH
+JOANA ZIMMER
 JOANNE HANNAFORD
 JOANNEHANNAFORD
 JOAO FELIX
@@ -11437,8 +11483,10 @@ Jacinda Ardern
 JacindaArdern
 Jack Grealish
 Jack Hendry
+Jack White
 JackGrealish
 JackHendry
+JackWhite
 Jackfruit
 Jackie Chan
 JackieChan
@@ -11468,6 +11516,8 @@ JacquesPradel
 JacquesRogge
 Jacquesboel
 Jacquespradel
+Jada Pinkett Smith
+JadaPinkettSmith
 Jade Carey
 JadeCarey
 Jadon Sancho
@@ -11843,7 +11893,9 @@ Joachimgerard
 Joan Didion
 JoanDidion
 Joana Heidrich
+Joana Zimmer
 JoanaHeidrich
+JoanaZimmer
 Joanne Hannaford
 JoanneHannaford
 Joao Felix
@@ -13219,6 +13271,7 @@ LET'S DANCE
 LET'S DANCE 2022
 LETEMPS
 LETROZOLE METABOLITE
+LETTLAND
 LETZIGRUND
 LEUVEN
 LEUZIGEN
@@ -14053,6 +14106,7 @@ Letrain
 Letraitreetleneant
 Letrozole metabolite
 Letrozolemetabolite
+Lettland
 Letzigrund
 Leuven
 Leuzigen
@@ -18289,6 +18343,7 @@ PALEO PROGRAMME
 PALHINHA
 PALINDROME
 PALINDROOM
+PALMSONNTAG 2022
 PAM ET TOMMY
 PAMELA ANDERSON
 PAMIERS
@@ -18702,6 +18757,7 @@ PORTUGALFRANKRIJK
 POST MITARBEITER
 POSTCODELOTERIJ
 POSTNL
+POUR QUI VOTER
 POUR TE RETROUVER
 POUTINE
 POUTINE NUCLÉAIRE
@@ -18715,6 +18771,7 @@ PREMIER LEAGUE
 PREMIER LEAGUE DARTS
 PREMIER-LEAGUE
 PRESIDENTIELLE 2022
+PRESIDENTIELLE FRANCE
 PRESIDENTS
 PRESSEKONFERENZ BUNDESRAT
 PRETE MOI TA MAIN
@@ -18766,6 +18823,8 @@ PRO D2
 PRO LEAGUE
 PROCOL HARUM
 PROGRAMME MACRON 2022
+PROGRAMME ZEMMOUR
+PROGRAMMEZEMMOUR
 PROMI BIG BROTHER
 PROMI BIG BROTHER 2021
 PROMINENT GETRENNT
@@ -18870,6 +18929,8 @@ Paleoprogramme
 Palhinha
 Palindrome
 Palindroom
+Palmsonntag 2022
+Palmsonntag2022
 Pam et Tommy
 Pamela Anderson
 PamelaAnderson
@@ -19540,7 +19601,9 @@ Post Mitarbeiter
 PostMitarbeiter
 PostNL
 Postcodeloterij
+Pour qui voter
 Pour te retrouver
+Pourquivoter
 Pourteretrouver
 Poutine
 Poutine nucléaire
@@ -19562,7 +19625,9 @@ PremierLeague
 PremierLeagueDarts
 Premierleague
 Presidentielle 2022
+Presidentielle France
 Presidentielle2022
+PresidentielleFrance
 Presidents
 Pressekonferenz Bundesrat
 PressekonferenzBundesrat
@@ -19907,6 +19972,7 @@ REAL – CADIX
 REAL – CHAKHTAR
 REAL – DEPORTIVO ALAVÉS
 REAL – ELCHE
+REAL – GETAFE
 REAL – INTER
 REAL – MAJORQUE
 REAL – MILAN
@@ -20007,6 +20073,7 @@ RESTRICTION COVID SUISSE
 RESULTAT BAC 2021
 RESULTAT BAC FRANCAIS 2021
 RESULTAT ELECTION
+RESULTAT ELECTION PRESIDENTIELLE 2022
 RESULTAT LIGUE 1
 RESULTAT RUGBY
 RESULTATBAC2021
@@ -20412,6 +20479,7 @@ Real – Barcelona
 Real – Cadix
 Real – Deportivo Alavés
 Real – Elche
+Real – Getafe
 Real – Inter
 Real – Majorque
 Real – Milan
@@ -20436,6 +20504,7 @@ Real–Barcelona
 Real–Cadix
 Real–DeportivoAlavés
 Real–Elche
+Real–Getafe
 Real–Inter
 Real–Majorque
 Real–Milan
@@ -20598,12 +20667,14 @@ Resultat Rugby
 Resultat bac 2021
 Resultat bac francais 2021
 Resultat election
+Resultat election presidentielle 2022
 ResultatBac2021
 ResultatLigue1
 ResultatRugby
 Resultatbac2021
 Resultatbacfrancais2021
 Resultatelection
+Resultatelectionpresidentielle2022
 Resultats brevet 2021
 Resultats departementales 2021 par commune
 Resultatsbrevet2021
@@ -21409,6 +21480,7 @@ SOUDAN – MAROC
 SOUS-MARIN AUSTRALIE
 SOUTH BELGIAN RALLY
 SOUTHAMPTON  MANCHESTER CITY
+SOUTHAMPTON – CHELSEA
 SOUTHAMPTON – TOTTENHAM
 SOUTHBELGIANRALLY
 SPA
@@ -22477,8 +22549,10 @@ Sousmarin Australie
 South Belgian Rally
 SouthBelgianRally
 Southampton  Manchester City
+Southampton – Chelsea
 Southampton – Tottenham
 SouthamptonManchesterCity
+Southampton–Chelsea
 Southampton–Tottenham
 Spa
 Spa-Francorchamps
@@ -23267,6 +23341,7 @@ TOUR DES FLANDRES
 TOUR DES STATIONS
 TOUR DU LIMOUSIN
 TOUR DU LIMOUSIN 2021
+TOUR DU PAYS BASQUE 2022
 TOUR EIFFEL
 TOUR EIFFEL UKRAINE
 TOUR OF BRITAIN 2021
@@ -23320,6 +23395,7 @@ TROMPERIE
 TROPACK
 TROPHÉE DES CHAMPIONS
 TROSSARD
+TROUVER SON BUREAU DE VOTE
 TROY KOTSUR
 TROYES – LYON
 TROYES – MARSEILLE
@@ -23887,6 +23963,7 @@ Tour des Flandres
 Tour des stations
 Tour du Limousin
 Tour du Limousin 2021
+Tour du Pays basque 2022
 Tour of Britain 2021
 TourEiffel
 TourEiffelUkraine
@@ -23908,6 +23985,7 @@ TourdesFlandres
 Tourdesstations
 TourduLimousin
 TourduLimousin2021
+TourduPaysbasque2022
 Tourmalet
 Tournoi des 6 Nations
 Tournoi des 6 Nations 2022
@@ -23971,6 +24049,8 @@ Tropack
 Trophée des champions
 Trophéedeschampions
 Trossard
+Trouver son bureau de vote
+Trouversonbureaudevote
 Troy Kotsur
 TroyKotsur
 Troyes – Lyon
@@ -24203,6 +24283,7 @@ UTEFREUDENBERG
 UTMB
 UTOYA
 UUR
+UWE BOHM
 UWE SEELER
 Udo Lindenberg
 UdoLindenberg
@@ -24333,7 +24414,9 @@ Ute Lemper
 UteLemper
 Utoya
 Uur
+Uwe Bohm
 Uwe Seeler
+UweBohm
 UweSeeler
 V-TEST
 V-test
@@ -24878,6 +24961,7 @@ WAGNER GROUP
 WAHL-O-MAT
 WAHL-O-MAT BUNDESTAGSWAHL 2021
 WAHLEN DEUTSCHLAND
+WAHLEN FRANKREICH
 WAHLEN SCHWEIZ
 WAHLEN UNGARN
 WALDBRAND MEIRINGEN
@@ -25093,9 +25177,11 @@ Wahl-O-MatBundestagswahl2021
 WahlOMat
 WahlOMat Bundestagswahl 2021
 Wahlen Deutschland
+Wahlen Frankreich
 Wahlen Schweiz
 Wahlen Ungarn
 WahlenDeutschland
+WahlenFrankreich
 WahlenSchweiz
 WahlenUngarn
 Waldbrand Meiringen
@@ -26937,6 +27023,7 @@ bordeaux – angers
 bordeaux – clermont
 bordeaux – lille
 bordeaux – lyon
+bordeaux – metz
 bordeaux – monaco
 bordeaux – montpellier
 bordeaux – nantes
@@ -27316,6 +27403,7 @@ chaine du bonheur
 chainsaw man
 chainsawman
 chalandamarz
+challenge cup
 challenge league
 chamboultout
 champagne
@@ -27551,9 +27639,11 @@ clermont – lille
 clermont – marseille
 clermont – monaco
 clermont – nice
+clermont – paris-sg
 clermont – saint-étienne
 clermont – strasbourg
 clermont – toulon
+clermont,  psg
 clermont-strasbourg
 clint eastwood
 clippers  jazz
@@ -27611,6 +27701,7 @@ comite de concertation 26 novembre 2021
 comité de concertation
 commandant massoud
 comment je suis devenu super-héros
+comment voter à l'élection présidentielle
 commission paritaire 200
 comomeer
 comores
@@ -27628,6 +27719,7 @@ confinement
 confinement pays-bas
 conférence de presse conseil fédéral
 congo - maroc
+connaitre son bureau de vote
 conner rousseau
 conor mcgregor
 conormcgregor
@@ -28010,6 +28102,7 @@ diana
 diana di meo
 diana ross
 diane kruger
+dick marty
 dick rivers
 didier bourdon
 didier deschamps
@@ -28031,6 +28124,7 @@ dieter brummer
 dieudonne
 dieudonné
 digitec
+dimanche des rameaux
 dimitri bontinck
 dimitri payet
 dimitri van den bergh
@@ -28258,8 +28352,11 @@ elche – barcelona
 elche – real
 elden ring
 eldorado kadewe
+election presidentielle
 election presidentielle 2022
+election présidentielle 2022
 election regionale
+election vaud 2022
 electionregionale
 elections departementales 2021 bretagne
 elections regionales 2021 candidats
@@ -28821,6 +28918,7 @@ formula 1
 formulaire entree suisse
 formule 1
 formule 1 2022
+formule e
 forrest gump
 fort boyard
 fort boyard en deuil
@@ -29106,6 +29204,7 @@ gent-wevelgem
 gent-wevelgem 2022
 george clooney
 george michael
+george russell
 george w. bush
 georges brassens
 georges perec
@@ -29616,6 +29715,7 @@ ilona smet
 ils etaient 10
 ils sont partout
 ilse de meulemeester
+ilse delange
 im netz der camorra
 im netz der versuchung
 imagine dragons
@@ -29828,6 +29928,7 @@ ja morant
 jacinda ardern
 jack grealish
 jack hendry
+jack white
 jackfruit
 jackgrealish
 jackie chan
@@ -29843,6 +29944,7 @@ jacques dutronc
 jacques legros
 jacques pradel
 jacques rogge
+jada pinkett smith
 jade carey
 jadon sancho
 jadonsancho
@@ -30031,6 +30133,7 @@ jo vergeat
 joachim gerard
 joan didion
 joana heidrich
+joana zimmer
 joanne hannaford
 joannehannaford
 joao felix
@@ -30791,6 +30894,7 @@ let's dance
 let's dance 2022
 letemps
 letrozole metabolite
+lettland
 letzigrund
 leuven
 leuzigen
@@ -32484,6 +32588,7 @@ paleo programme
 palhinha
 palindrome
 palindroom
+palmsonntag 2022
 pam et tommy
 pamela anderson
 pamiers
@@ -32885,6 +32990,7 @@ portugalfrankrijk
 post mitarbeiter
 postcodeloterij
 postnl
+pour qui voter
 pour te retrouver
 poutine
 poutine nucléaire
@@ -32898,6 +33004,7 @@ premier league
 premier league darts
 premier-league
 presidentielle 2022
+presidentielle france
 presidents
 pressekonferenz bundesrat
 prete moi ta main
@@ -32944,6 +33051,7 @@ pro d2
 pro league
 procol harum
 programme macron 2022
+programme zemmour
 promi big brother
 promi big brother 2021
 prominent getrennt
@@ -33134,6 +33242,7 @@ real – cadix
 real – chakhtar
 real – deportivo alavés
 real – elche
+real – getafe
 real – inter
 real – majorque
 real – milan
@@ -33230,6 +33339,7 @@ restriction covid suisse
 resultat bac 2021
 resultat bac francais 2021
 resultat election
+resultat election presidentielle 2022
 resultat ligue 1
 resultat rugby
 resultatbac2021
@@ -33906,6 +34016,7 @@ soudan – maroc
 sous-marin australie
 south belgian rally
 southampton  manchester city
+southampton – chelsea
 southampton – tottenham
 southbelgianrally
 spa
@@ -34515,6 +34626,7 @@ tour des flandres
 tour des stations
 tour du limousin
 tour du limousin 2021
+tour du pays basque 2022
 tour eiffel
 tour eiffel ukraine
 tour of britain 2021
@@ -34567,6 +34679,7 @@ tromperie
 tropack
 trophée des champions
 trossard
+trouver son bureau de vote
 troy kotsur
 troyes – lyon
 troyes – marseille
@@ -34733,6 +34846,7 @@ ute lemper
 utmb
 utoya
 uur
+uwe bohm
 uwe seeler
 v-test
 vaccin covid
@@ -34939,6 +35053,7 @@ wagner group
 wahl-o-mat
 wahl-o-mat bundestagswahl 2021
 wahlen deutschland
+wahlen frankreich
 wahlen schweiz
 wahlen ungarn
 waldbrand meiringen
