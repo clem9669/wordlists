@@ -2975,6 +2975,7 @@ ATLANTIC
 ATLETIBARCA
 ATLETICO
 ATLETICO MADRID
+ATLETIMANCITY
 ATLUS
 ATMBAR
 ATMLIV
@@ -4851,6 +4852,7 @@ Atkinson
 Atlanta
 Atlantic
 AtletiBarca
+AtletiManCity
 Atletico
 Atletico Madrid
 AtleticoMadrid
@@ -5978,6 +5980,7 @@ BFAALG
 BFASEN
 BFATUN
 BFM TV
+BFMDEBAT
 BFMMENTEURS
 BFMPOLITIQUE
 BFMPolitique
@@ -12939,6 +12942,7 @@ DARSTELLUNG
 DARTIGOLLES
 DARTSWM
 DARWIN
+DARWIN NUNEZ
 DARYL
 DARYL MOREY
 DASILVA
@@ -13579,6 +13583,7 @@ DIENG
 DIENST
 DIENSTE
 DIENSTPFLICHT
+DIEPASSION
 DIEPENDAELE
 DIEPPE
 DIESEL
@@ -14348,6 +14353,8 @@ Darstellung
 Dartigolles
 DartsWM
 Darwin
+Darwin Nunez
+DarwinNunez
 Daryl
 Daryl Morey
 DarylMorey
@@ -14980,6 +14987,7 @@ Die Linke
 Die100
 DieHard
 DieLinke
+DiePassion
 Diede
 Diegem
 Diego Costa
@@ -29967,6 +29975,7 @@ L'institutPasteur
 L'inter
 L'islam
 L'islamisme
+L'obs
 L'odeur
 L'oeil de la Joconde
 L'oeildelaJoconde
@@ -31601,6 +31610,7 @@ LIVNEW
 LIVNOR
 LIVRETA
 LIVREZMOIUNSAPIN
+LIVSLB
 LIVSOU
 LIVWAT
 LIVWHU
@@ -33684,6 +33694,7 @@ Loana
 Loana Lecomte
 LoanaLecomte
 Loat
+Lobs
 Local
 Locarno74
 Locatelli
@@ -36565,6 +36576,7 @@ MYRIAM
 MYRIAM LEROY
 MYRIAM MONSONEGO
 MYRIAM MONSONÉGO
+MYRIAM PALOMBA
 MYRON
 MYRON BOADU
 MYRONBOADU
@@ -42246,6 +42258,7 @@ PAUL GAULTIER
 PAUL GEORGE
 PAUL GHEYSENS
 PAUL GRAY
+PAUL JACQUES CHARENTON
 PAUL JOHNSON
 PAUL LANNOYE
 PAUL LEMBRECHTS
@@ -43927,6 +43940,7 @@ Paul Gaultier
 Paul George
 Paul Gheysens
 Paul Gray
+Paul Jacques Charenton
 Paul Johnson
 Paul Lannoye
 Paul Lembrechts
@@ -43949,6 +43963,7 @@ PaulGeorge
 PaulGheysens
 PaulGray
 PaulJacques Charenton
+PaulJacquesCharenton
 PaulJohnson
 PaulLannoye
 PaulLembrechts
@@ -62227,6 +62242,7 @@ atlantic
 atletibarca
 atletico
 atletico madrid
+atletimancity
 atlus
 atmbar
 atmliv
@@ -63381,6 +63397,7 @@ bfaalg
 bfasen
 bfatun
 bfm tv
+bfmdebat
 bfmmenteurs
 bfmpolitique
 bfmtv
@@ -66693,6 +66710,7 @@ darstellung
 dartigolles
 dartswm
 darwin
+darwin nunez
 daryl
 daryl morey
 dasilva
@@ -67333,6 +67351,7 @@ dieng
 dienst
 dienste
 dienstpflicht
+diepassion
 diependaele
 dieppe
 diesel
@@ -77064,6 +77083,7 @@ livnor
 livretA
 livreta
 livrezmoiunsapin
+livslb
 livsou
 livwat
 livwhu
@@ -80004,7 +80024,9 @@ myrank
 myriam
 myriam leroy
 myriam monsonégo
+myriam palomba
 myriamleroy
+myriampalomba
 myron
 myron boadu
 myronboadu
@@ -82004,6 +82026,7 @@ paul gaultier
 paul george
 paul gheysens
 paul gray
+paul jacques charenton
 paul johnson
 paul lannoye
 paul lembrechts
