@@ -1210,6 +1210,7 @@ ABST21
 ABST22
 ABSTAND
 ABSTENTION
+ABSTENTIONLE24
 ABSTIMMUNGEN
 ABSTIMMUNGSERGEBNIS
 ABSTIMMUNGSKAMPF
@@ -3322,6 +3323,7 @@ Abst21
 Abst22
 Abstand
 Abstention
+AbstentionLe24
 Abstimmungen
 Abstimmungsergebnis
 Abstimmungskampf
@@ -29866,6 +29868,7 @@ L'InstitutPasteur
 L'Inter
 L'Islande
 L'Italie
+L'OBS
 L'ODEUR
 L'OEIL DE LA JOCONDE
 L'OFFRE
@@ -29875,6 +29878,7 @@ L'OMS
 L'OPENING
 L'ORDRE
 L'OTAN
+L'Obs
 L'UE
 L'UEFA
 L'UKRAINE
@@ -31871,6 +31875,7 @@ LOVROMAJER
 LOWLOW
 LOWRY
 LOZERE
+LObs
 LOÏC
 LOÏC RÉMY
 LOÏC VERGNAUD
@@ -34451,6 +34456,7 @@ MALHERBE
 MALHEUREUSEMENT
 MALHURET
 MALI
+MALICIA
 MALIENS
 MALIK
 MALIK MONK
@@ -35865,6 +35871,7 @@ MINGUEZA
 MINGYU
 MINGYUMAKEMYSPRING
 MINHO
+MINISODE2
 MINISTER
 MINISTER VANDENBROUCKE
 MINISTER-PRESIDENT JAN JAMBON
@@ -36828,6 +36835,7 @@ Malherbe
 Malheureusement
 Malhuret
 Mali
+Malicia
 Maliens
 Malik
 Malik Monk
@@ -39362,6 +39370,7 @@ NGapeth
 NGolo Kanté
 NGoloKanté
 NHA TERRA
+NI MACRON
 NIA JAX
 NIAJAX
 NIANE
@@ -40156,6 +40165,8 @@ Ngolo
 Nguette
 Nha Terra
 NhaTerra
+Ni Macron
+NiMacron
 NiMacronNiLePen
 NiMineursNiIsolés
 NiOubliNiPardon
@@ -41949,6 +41960,7 @@ PANZASELEKELE
 PANZER
 PAOK
 PAOKGNT
+PAOKOM
 PAOLA
 PAOLO
 PAOLO F.
@@ -42296,6 +42308,7 @@ PAYWALL
 PAYZEN
 PAZIFIST
 PBLV
+PBWS2022
 PC PORTABLE
 PC Portable
 PCAS
@@ -53228,6 +53241,7 @@ THUNDEROUSW1NBYSKZ
 THUNDEROUS_D3
 THURAM
 THURGAU
+THURSDAYS_CHILD
 THYBULLE
 THÉO
 THÉO HERNANDEZ
@@ -53917,6 +53931,7 @@ TXTFOECOMEBACK
 TXT_FROST
 TXT_Frost
 TXT_IS_COMING
+TXT_NEW_LOGO
 TYGO
 TYLER
 TYLER HERRO
@@ -54645,6 +54660,7 @@ ThunderousOutNow
 Thunderous_D3
 Thuram
 Thurgau
+Thursdays_Child
 Thybulle
 Théo
 Théo Hernandez
@@ -60431,6 +60447,7 @@ abst21
 abst22
 abstand
 abstention
+abstentionle24
 abstimmungen
 abstimmungsergebnis
 abstimmungskampf
@@ -75414,6 +75431,7 @@ l'islam
 l'islamisme
 l'islande
 l'italie
+l'obs
 l'odeur
 l'oeil de la joconde
 l'offre
@@ -77838,6 +77856,7 @@ malherbe
 malheureusement
 malhuret
 mali
+malicia
 maliens
 malik
 malik monk
@@ -79278,6 +79297,7 @@ mingueza
 mingyu
 mingyumakemyspring
 minho
+minisode2
 minister
 minister vandenbroucke
 minister-president jan jambon
@@ -80403,6 +80423,7 @@ ngolokanté
 ngos
 nguette
 nha terra
+ni macron
 nia jax
 niajax
 niane
@@ -81682,6 +81703,7 @@ panzaselekele
 panzer
 paok
 paokgnt
+paokom
 paola
 paolo
 paolo f.
@@ -82043,6 +82065,7 @@ paywall
 payzen
 pazifist
 pblv
+pbws2022
 pc portable
 pcas
 pcfarcry
@@ -87965,6 +87988,7 @@ thunderoussossix
 thunderousw1nbyskz
 thuram
 thurgau
+thursdays_child
 thybulle
 théo
 théo hernandez
@@ -88660,6 +88684,7 @@ txt1stsoloconcert
 txt7 coming soon
 txt_frost
 txt_is_coming
+txt_new_logo
 txtfoecomeback
 tygo
 tyler
