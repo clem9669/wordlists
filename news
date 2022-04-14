@@ -962,6 +962,7 @@ ATLETICO MADRID
 ATLÉTICO MADRID – BARCELONA
 ATLÉTICO MADRID – CELTA VIGO
 ATLÉTICO MADRID – LIVERPOOL
+ATLÉTICO MADRID – MAN CITY
 ATLÉTICO MADRID – MILAN
 ATLÉTICO MADRID – RAYO
 ATLÉTICO MADRID – VILLARREAL
@@ -2159,6 +2160,7 @@ AtleticoMadrid
 Atlético Madrid – Barcelona
 Atlético Madrid – Celta Vigo
 Atlético Madrid – Liverpool
+Atlético Madrid – Man City
 Atlético Madrid – Milan
 Atlético Madrid – Rayo
 Atlético Madrid – Villarreal
@@ -2166,6 +2168,7 @@ Atlético Madrid – barcelona
 AtléticoMadrid–Barcelona
 AtléticoMadrid–CeltaVigo
 AtléticoMadrid–Liverpool
+AtléticoMadrid–ManCity
 AtléticoMadrid–Milan
 AtléticoMadrid–Rayo
 AtléticoMadrid–Villarreal
@@ -2528,6 +2531,7 @@ BENFICA – SPORTING
 BENIN
 BENITO RAMAN
 BENJAMIN CASTALDI
+BENJAMIN DUHAMEL
 BENJAMIN GRIVEAUX
 BENJAMIN LIST
 BENJAMIN MARÉCHAL
@@ -2843,6 +2847,7 @@ BRIGHTON – LIVERPOOL
 BRIGHTON – MAN CITY
 BRIGITTE BARDOT
 BRIGITTE CHAMARANDE
+BRIGITTE LAHAIE
 BRIGITTE MACRON
 BRIGITTEBARDOT
 BRISBANE
@@ -3321,11 +3326,13 @@ Benin
 Benito Raman
 BenitoRaman
 Benjamin Castaldi
+Benjamin Duhamel
 Benjamin Griveaux
 Benjamin List
 Benjamin Maréchal
 Benjamin Mendy
 BenjaminCastaldi
+BenjaminDuhamel
 BenjaminGriveaux
 BenjaminList
 BenjaminMaréchal
@@ -3811,9 +3818,11 @@ Brighton–Liverpool
 Brighton–ManCity
 Brigitte Bardot
 Brigitte Chamarande
+Brigitte Lahaie
 Brigitte Macron
 BrigitteBardot
 BrigitteChamarande
+BrigitteLahaie
 BrigitteMacron
 Brisbane
 Bristen
@@ -5894,6 +5903,7 @@ DBSGroup
 DCD
 DDL ZAN
 DE BENDE
+DE BRUYNE
 DE GAULLE
 DE GEA
 DE LIJN
@@ -6349,6 +6359,7 @@ Dax
 Ddl Zan
 DdlZan
 De Bende
+De Bruyne
 De Gaulle
 De Gea
 De Lijn
@@ -6367,6 +6378,7 @@ De slimste mens
 De telegraaf
 De verraders
 DeBende
+DeBruyne
 DeGaulle
 DeGea
 DeLijn
@@ -8156,6 +8168,7 @@ FLACHAU
 FLAMANVILLE
 FLAUBERT
 FLAVIE FLAMENT
+FLECHE BRABANCONNE 2022
 FLEURISTE
 FLEUVE NOIR
 FLEVOLAND
@@ -8362,6 +8375,7 @@ FRIEDEN
 FRIEDRICH MERZ
 FRIENDS
 FRITZ WEPPER
+FROHE OSTERN
 FROHE WEIHNACHTEN
 FROHE WEIHNACHTEN!
 FROMAGE LISTERIA
@@ -8621,6 +8635,8 @@ Flamanville
 Flaubert
 Flavie Flament
 FlavieFlament
+Fleche brabanconne 2022
+Flechebrabanconne2022
 Fleuriste
 Fleuve noir
 Fleuvenoir
@@ -8979,8 +8995,10 @@ FriedrichMerz
 Friends
 Fritz Wepper
 FritzWepper
+Frohe Ostern
 Frohe Weihnachten
 Frohe Weihnachten!
+FroheOstern
 FroheWeihnachten
 FroheWeihnachten!
 Fromage Listeria
@@ -9135,6 +9153,7 @@ GENK CERCLE BRUGGE
 GENK CHARLEROI
 GENK KRC
 GENK VOETBAL
+GENOCIDE
 GENSHIN IMPACT
 GENT  ANDERLECHT
 GENT  ANTWERP
@@ -9254,6 +9273,7 @@ GLORY 78
 GLÜCKSKETTE SCHWEIZ
 GNTM 2022
 GNTM2022
+GOAT
 GOD OF WAR: RAGNAROK
 GODZILLA VS KONG
 GODZILLAVSKONG
@@ -9359,6 +9379,7 @@ GROUPIES
 GRÈCE – ESPAGNE
 GRÉGOIRE LYONNET
 GRÖDEN
+GRÜNDONNERSTAG
 GRÜNER PASS ITALIEN
 GTA 6
 GTA TRILOGY
@@ -9549,6 +9570,7 @@ GenkOostende
 GenkWestHam
 Genkvoetbal
 Genkzulte-waregem
+Genocide
 Genshin Impact
 GenshinImpact
 Gent  Anderlecht
@@ -9899,6 +9921,7 @@ Grèce–Espagne
 Grégoire Lyonnet
 GrégoireLyonnet
 Gröden
+Gründonnerstag
 Grüner Pass Italien
 GrünerPassItalien
 Guadeloupe
@@ -12368,6 +12391,7 @@ KANŌ JIGORŌ
 KARABATIC
 KARCHER
 KAREL PINXTEN
+KAREL SABBE
 KAREN DAMEN
 KARFREITAG
 KARIEM HUSSEIN
@@ -12647,7 +12671,9 @@ KanōJigorō
 Karabatic
 Karcher
 Karel Pinxten
+Karel Sabbe
 KarelPinxten
+KarelSabbe
 Karen Damen
 KarenDamen
 Karfreitag
@@ -13349,6 +13375,7 @@ LES PROFS 2
 LES SORCIÈRES D'EASTWICK
 LES SOUS-DOUÉS
 LES TONTONS FLINGUEURS
+LES TUCHE
 LES TUCHE 4
 LES VEDETTES
 LES VISITEURS
@@ -13412,6 +13439,7 @@ LIL NAS X
 LIL UZI VERT
 LIL' KLEINE
 LILA BOUADMA
+LILIAN TOP CHEF
 LILLE - SALZBOURG
 LILLE FOOT
 LILLE SEVILLE
@@ -13455,6 +13483,7 @@ LIONEL MESSI
 LISA AZUELOS
 LISA BONET
 LISA KUDROW
+LISA PAUS
 LISAKUDROW
 LISANDRO LOPEZ
 LISBETH IMBO
@@ -13663,6 +13692,7 @@ LYNX
 LYON
 LYON  JUVENTUS
 LYON - JUVENTUS
+LYON - WEST HAM
 LYON CLERMONT FOOT
 LYON FOOT
 LYON MARSEILLE
@@ -14156,6 +14186,7 @@ Les Sorcières d'Eastwick
 Les Sous-doués
 Les Sousdoués
 Les Tontons flingueurs
+Les Tuche
 Les Tuche 4
 Les Vedettes
 Les animaux fantastiques
@@ -14189,6 +14220,7 @@ LesPouilles
 LesSorcièresd'Eastwick
 LesSous-doués
 LesTontonsflingueurs
+LesTuche
 LesTuche4
 LesVedettes
 Lesanimauxfantastiques
@@ -14293,6 +14325,8 @@ LilNasX
 LilUziVert
 Lila Bouadma
 LilaBouadma
+Lilian Top Chef
+LilianTopChef
 Lille  Salzbourg
 Lille - Salzbourg
 Lille Foot
@@ -14376,9 +14410,11 @@ LionelMessi
 Lisa Azuelos
 Lisa Bonet
 Lisa Kudrow
+Lisa Paus
 LisaAzuelos
 LisaBonet
 LisaKudrow
+LisaPaus
 Lisandro Lopez
 LisandroLopez
 Lisbeth Imbo
@@ -14711,6 +14747,8 @@ Lynk &amp; Co
 Lynk&amp;Co
 Lynx
 Lyon
+Lyon  West Ham
+Lyon - West Ham
 Lyon Clermont Foot
 Lyon Marseille
 Lyon foot
@@ -14735,6 +14773,7 @@ Lyon – Troyes
 Lyon – paris-sg
 Lyon – parissg
 Lyon-Marseille
+Lyon-WestHam
 LyonClermontFoot
 LyonMarseille
 Lyonfoot
@@ -15590,6 +15629,8 @@ MORITZ LEITNER
 MORT SUR LE NIL
 MORT À VENISE
 MOSES J. MOSELEY
+MOSKVA
+MOSKWA
 MOTHER/ANDROID
 MOTOGP
 MOTSI MABUSE
@@ -17030,6 +17071,8 @@ MortsurleNil
 MortàVenise
 Moses J. Moseley
 MosesJ.Moseley
+Moskva
+Moskwa
 Mother/Android
 MotoGP
 Motsi Mabuse
@@ -21641,6 +21684,7 @@ SOPHIE WILMES
 SOPHIEMARCEAU
 SOPRANO
 SORARE
+SORBONNE
 SOUDAN
 SOUDAN – MAROC
 SOUS-MARIN AUSTRALIE
@@ -22716,6 +22760,7 @@ Sophiepetronin
 Sophiewilmes
 Soprano
 Sorare
+Sorbonne
 Soudan
 Soudan – Maroc
 Soudan–Maroc
@@ -23289,6 +23334,7 @@ TESLA BOT
 TESLA MODEL 3
 TESLA MODEL Y
 TESLA-AKTIE
+TESSA BERGMEIER
 TESSA WORLEY
 TESSENDERLO
 TESSIN WETTER
@@ -23318,6 +23364,7 @@ THE GIANTS GENEVA
 THE GRINCH
 THE GUILTY
 THE IN BETWEEN
+THE KARDASHIANS
 THE KISSING BOOTH 3
 THE LAST DUEL
 THE MASKED SINGER
@@ -23764,7 +23811,9 @@ TeslaAktie
 TeslaBot
 TeslaModel3
 TeslaModelY
+Tessa Bergmeier
 Tessa Worley
+TessaBergmeier
 TessaWorley
 Tessenderlo
 Tessin Wetter
@@ -23789,6 +23838,7 @@ The Giants Geneva
 The Grinch
 The Guilty
 The In Between
+The Kardashians
 The Kissing Booth 3
 The Last Duel
 The Masked Singer
@@ -23828,6 +23878,7 @@ TheGiantsGeneva
 TheGrinch
 TheGuilty
 TheInBetween
+TheKardashians
 TheKissingBooth3
 TheLastDuel
 TheMaskedSinger
@@ -24394,6 +24445,7 @@ UKRAINE EU
 UKRAINE GESCHICHTE
 UKRAINE KONFLIKT NEWS
 UKRAINE RUSSIE
+UKRAINE RUSSIE GUERRE
 UKRAINE-AUTRICHE
 UKRAINEAUTRICHE
 ULI FORTE
@@ -24440,6 +24492,7 @@ UNPLANNED
 UNWETTER DEUTSCHLAND
 UNWETTER SCHWEIZ
 UNWETTER SCHWEIZ HEUTE
+UNWETTER SÜDAFRIKA
 UNWETTER ZÜRICH
 UNWETTERSCHWEIZ
 UNWETTERWARNUNG
@@ -24494,12 +24547,14 @@ Ukraine - Autriche
 Ukraine EU
 Ukraine Geschichte
 Ukraine Russie
+Ukraine Russie guerre
 Ukraine konflikt news
 Ukraine-Autriche
 UkraineAutriche
 UkraineEU
 UkraineGeschichte
 UkraineRussie
+UkraineRussieguerre
 Ukrainekonfliktnews
 Uli Forte
 UliForte
@@ -24576,10 +24631,12 @@ Unsingeenhiver
 Unwetter Deutschland
 Unwetter Schweiz
 Unwetter Schweiz heute
+Unwetter Südafrika
 Unwetter Zürich
 UnwetterDeutschland
 UnwetterSchweiz
 UnwetterSchweizheute
+UnwetterSüdafrika
 UnwetterZürich
 Unwetterwarnung
 Urbanus
@@ -25285,6 +25342,7 @@ WISCONSIN
 WISH
 WIT-RUSLAND
 WITSEL
+WITTE DONDERDAG
 WK
 WK 2022
 WK DARTS
@@ -25579,6 +25637,8 @@ Wish
 Wit-Rusland
 WitRusland
 Witsel
+Witte Donderdag
+WitteDonderdag
 Wk Parcours 2021
 WkParcours2021
 Wohlensee
@@ -26720,6 +26780,7 @@ atletico madrid
 atlético madrid – barcelona
 atlético madrid – celta vigo
 atlético madrid – liverpool
+atlético madrid – man city
 atlético madrid – milan
 atlético madrid – rayo
 atlético madrid – villarreal
@@ -27031,6 +27092,7 @@ benfica – sporting
 benin
 benito raman
 benjamin castaldi
+benjamin duhamel
 benjamin griveaux
 benjamin list
 benjamin maréchal
@@ -27331,6 +27393,7 @@ brighton – liverpool
 brighton – man city
 brigitte bardot
 brigitte chamarande
+brigitte lahaie
 brigitte macron
 brigittebardot
 brisbane
@@ -28215,6 +28278,7 @@ dbs group
 dcd
 ddl zan
 de bende
+de bruyne
 de gaulle
 de gea
 de lijn
@@ -29093,6 +29157,7 @@ flachau
 flamanville
 flaubert
 flavie flament
+fleche brabanconne 2022
 fleuriste
 fleuve noir
 flevoland
@@ -29292,6 +29357,7 @@ frieden
 friedrich merz
 friends
 fritz wepper
+frohe ostern
 frohe weihnachten
 frohe weihnachten!
 fromage listeria
@@ -29405,6 +29471,7 @@ genk cercle brugge
 genk charleroi
 genk krc
 genk voetbal
+genocide
 genshin impact
 gent  anderlecht
 gent  antwerp
@@ -29521,6 +29588,7 @@ gloria monserez
 glory 78
 glückskette schweiz
 gntm 2022
+goat
 god of war: ragnarok
 godzilla vs kong
 godzillavskong
@@ -29617,6 +29685,7 @@ groupies
 grèce – espagne
 grégoire lyonnet
 gröden
+gründonnerstag
 grüner pass italien
 gta 6
 gta trilogy
@@ -30591,6 +30660,7 @@ kanō jigorō
 karabatic
 karcher
 karel pinxten
+karel sabbe
 karen damen
 karfreitag
 kariem hussein
@@ -31112,6 +31182,7 @@ les profs 2
 les sorcières d'eastwick
 les sous-doués
 les tontons flingueurs
+les tuche
 les tuche 4
 les vedettes
 les visiteurs
@@ -31175,6 +31246,7 @@ lil nas x
 lil uzi vert
 lil' kleine
 lila bouadma
+lilian top chef
 lille - salzbourg
 lille foot
 lille seville
@@ -31218,6 +31290,7 @@ lionel messi
 lisa azuelos
 lisa bonet
 lisa kudrow
+lisa paus
 lisakudrow
 lisandro lopez
 lisbeth imbo
@@ -31423,6 +31496,7 @@ lynk &amp; co
 lynx
 lyon
 lyon - juventus
+lyon - west ham
 lyon clermont foot
 lyon foot
 lyon marseille
@@ -32264,6 +32338,8 @@ moritz leitner
 mort sur le nil
 mort à venise
 moses j. moseley
+moskva
+moskwa
 mother/android
 motogp
 motsi mabuse
@@ -34266,6 +34342,7 @@ sophie wilmes
 sophiemarceau
 soprano
 sorare
+sorbonne
 soudan
 soudan – maroc
 sous-marin australie
@@ -34656,6 +34733,7 @@ tesla bot
 tesla model 3
 tesla model y
 tesla-aktie
+tessa bergmeier
 tessa worley
 tessenderlo
 tessin wetter
@@ -34682,6 +34760,7 @@ the giants geneva
 the grinch
 the guilty
 the in between
+the kardashians
 the kissing booth 3
 the last duel
 the masked singer
@@ -35038,6 +35117,7 @@ ukraine eu
 ukraine geschichte
 ukraine konflikt news
 ukraine russie
+ukraine russie guerre
 ukraine-autriche
 ukraineautriche
 uli forte
@@ -35084,6 +35164,7 @@ unplanned
 unwetter deutschland
 unwetter schweiz
 unwetter schweiz heute
+unwetter südafrika
 unwetter zürich
 unwetterschweiz
 unwetterwarnung
@@ -35445,6 +35526,7 @@ wisconsin
 wish
 wit-rusland
 witsel
+witte donderdag
 wk
 wk 2022
 wk darts
