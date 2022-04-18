@@ -279,6 +279,7 @@ AAGent
 AALIYAH
 AALST
 AANSLAGEN ZAVENTEM
+AARAU
 AARDBEVING KRETA
 AARDVERSCHUIVING DUITSLAND
 AARON BLOMMAERT
@@ -873,6 +874,7 @@ ARLES
 ARMAGEDDON
 ARMAND DUPLANTIS
 ARMENIEN GEGEN DEUTSCHLAND
+ARMINIA GEGEN BAYERN
 ARMISTICE
 ARMY OF THIEVES
 ARN MESSAGER
@@ -1052,6 +1054,7 @@ Aaliyah
 Aalst
 Aanslagen Zaventem
 AanslagenZaventem
+Aarau
 Aardbeving Kreta
 AardbevingKreta
 Aardverschuiving Duitsland
@@ -2043,6 +2046,8 @@ Armand Duplantis
 ArmandDuplantis
 Armenien gegen Deutschland
 ArmeniengegenDeutschland
+Arminia gegen Bayern
+ArminiagegenBayern
 Armistice
 Army of Thieves
 ArmyofThieves
@@ -4115,6 +4120,7 @@ CATHERINE HIEGEL
 CATHERINE MATAUSCH
 CATHERINE NAY
 CATHERINE RINGER
+CATHERINE SPAAK
 CATHERINE ZETA-JONES
 CATHY GUETTA
 CATHY HUMMELS
@@ -4891,6 +4897,7 @@ Catherine Hiegel
 Catherine Matausch
 Catherine Nay
 Catherine Ringer
+Catherine Spaak
 Catherine Zeta-Jones
 Catherine ZetaJones
 CatherineDeneuve
@@ -4898,6 +4905,7 @@ CatherineHiegel
 CatherineMatausch
 CatherineNay
 CatherineRinger
+CatherineSpaak
 CatherineZeta-Jones
 Cathy Guetta
 Cathy Hummels
@@ -8184,6 +8192,7 @@ FILS DE JOIE STROMAE
 FIN PASS VACCINAL
 FINAL EURO 2021
 FINALE BASKET JO 2021
+FINALE COUPE DE BELGIQUE
 FINALE EURO
 FINALE EURO 2021
 FINALE LIGUE DES CHAMPIONS 2022
@@ -8646,12 +8655,14 @@ Finale Ligue des champions 2022
 Finale Open d'Australie 2022
 Finale WK darts
 Finale basket JO 2021
+Finale coupe de belgique
 FinaleEuro
 FinaleEuro2021
 FinaleLiguedeschampions2022
 FinaleOpend'Australie2022
 FinaleWKdarts
 FinalebasketJO2021
+Finalecoupedebelgique
 Finance
 Finch
 Finland
@@ -9431,6 +9442,7 @@ GRICHKA BOGDANOFF
 GRIEZMANN
 GRILLITSCH
 GRIMES
+GRIMPER.CH SATIGNY
 GRIPPE ESPAGNOLE
 GRISHKA
 GRITTIBÄNZ TEIG
@@ -9971,6 +9983,8 @@ GrichkaBogdanoff
 Griezmann
 Grillitsch
 Grimes
+Grimper.ch satigny
+Grimper.chsatigny
 Grippe espagnole
 Grippeespagnole
 Grishka
@@ -10268,6 +10282,7 @@ HUBERT GERMAIN
 HUBRIS
 HUGH GRANT
 HUGO BOUCHERON
+HUGO CLEMENT
 HUGO GASTON
 HUGO LLORIS
 HUGO MARADONA
@@ -10594,11 +10609,13 @@ Hugo Gaston
 Hugo Lloris
 Hugo Maradona
 Hugo Millan
+Hugo clement
 HugoBoucheron
 HugoGaston
 HugoLloris
 HugoMaradona
 HugoMillan
+Hugoclement
 Hugues Aufray
 HuguesAufray
 Huis Gemaakt
@@ -10669,6 +10686,7 @@ IMPOTS2022
 IMRAN KHAN
 INA AOGO
 INCENDIE BRUXELLES
+INCENDIE GENÈVE
 INCENDIE LANDES
 INCENDIE MARSEILLE
 INCENDIE NEW YORK
@@ -10944,11 +10962,13 @@ ImranKhan
 Ina Aogo
 InaAogo
 Incendie Bruxelles
+Incendie Genève
 Incendie Landes
 Incendie Marseille
 Incendie New York
 Incendie Var
 IncendieBruxelles
+IncendieGenève
 IncendieLandes
 IncendieMarseille
 IncendieNewYork
@@ -11223,6 +11243,7 @@ JA MORANT
 JACINDA ARDERN
 JACK GREALISH
 JACK HENDRY
+JACK NICHOLSON
 JACK WHITE
 JACKFRUIT
 JACKGREALISH
@@ -11654,9 +11675,11 @@ Jacinda Ardern
 JacindaArdern
 Jack Grealish
 Jack Hendry
+Jack Nicholson
 Jack White
 JackGrealish
 JackHendry
+JackNicholson
 JackWhite
 Jackfruit
 Jackie Chan
@@ -13190,6 +13213,7 @@ LA FRANCE A UN INCROYABLE TALENT
 LA FRANCE INSOUMISE
 LA FUGUEUSE
 LA GANTOISE
+LA GRANDE VADROUILLE
 LA HORDE SAUVAGE
 LA LA LAND
 LA LIGA
@@ -13256,6 +13280,7 @@ LALIGA
 LAMBORGHINI COUNTACH
 LAMKEL ZE
 LAMONT JACOBS
+LAMPAERT
 LAMPENBERG
 LANA WACHOWSKI
 LANDFRAUENKÜCHE 2021
@@ -13768,6 +13793,7 @@ LUKE PROKOP
 LUKE SHAW
 LUKESHAW
 LUNA SCHWEIGER
+LUNDI DE PAQUES
 LUNE BLEUE
 LUNE ROSE
 LUNETTES POUR TOUS
@@ -13776,6 +13802,7 @@ LUTZ PFANNENSTIEL
 LUTZPFANNENSTIEL
 LUUK DE JONG
 LUZERN
+LUZERN GEGEN ST. GALLEN
 LUZERN MARATHON 2021
 LVIV
 LWIW
@@ -13794,6 +13821,7 @@ LYON FOOT
 LYON MARSEILLE
 LYON WEST HAM
 LYON – ANGERS
+LYON – BORDEAUX
 LYON – BREST
 LYON – BRØNDBY
 LYON – CLERMONT
@@ -13825,6 +13853,7 @@ La France Insoumise
 La France a un incroyable talent
 La Fugueuse
 La Gantoise
+La Grande Vadrouille
 La Horde sauvage
 La La Land
 La Liga
@@ -13876,6 +13905,7 @@ LaFranceInsoumise
 LaFranceaunincroyabletalent
 LaFugueuse
 LaGantoise
+LaGrandeVadrouille
 LaHordesauvage
 LaLaLand
 LaLiga
@@ -13951,6 +13981,7 @@ Lamkel ze
 Lamkelze
 Lamont Jacobs
 LamontJacobs
+Lampaert
 Lampenberg
 Lana Wachowski
 LanaWachowski
@@ -14263,6 +14294,8 @@ LernoutenHauspie
 Leroy Merlin Angers
 LeroyMerlinAngers
 Les 12 coups de midi
+Les Animaux Fantastiques
+Les Animaux fantastiques
 Les Aventuriers
 Les Bad Guys
 Les Bodin's
@@ -14298,6 +14331,8 @@ Les profs 2
 Les visiteurs
 Les Éternels
 Les12coupsdemidi
+LesAnimauxFantastiques
+LesAnimauxfantastiques
 LesAventuriers
 LesBadGuys
 LesBodin's
@@ -14832,6 +14867,8 @@ LukeProkop
 LukeShaw
 Luna Schweiger
 LunaSchweiger
+Lundi de paques
+Lundidepaques
 Lune bleue
 Lune rose
 Lunebleue
@@ -14845,7 +14882,9 @@ Luuk de Jong
 LuukdeJong
 Luzern
 Luzern Marathon 2021
+Luzern gegen St. Gallen
 LuzernMarathon2021
+LuzerngegenSt.Gallen
 Lviv
 Lwiw
 Lycee Montaigne
@@ -14866,6 +14905,7 @@ Lyon Marseille
 Lyon West Ham
 Lyon foot
 Lyon – Angers
+Lyon – Bordeaux
 Lyon – Brest
 Lyon – Brøndby
 Lyon – Clermont
@@ -14893,6 +14933,7 @@ LyonMarseille
 LyonWestHam
 Lyonfoot
 Lyon–Angers
+Lyon–Bordeaux
 Lyon–Brest
 Lyon–Brøndby
 Lyon–Clermont
@@ -14968,6 +15009,7 @@ MAGALI BERDAH
 MAGALI BLANDIN
 MAGALI RIPOLL
 MAGASIN OUVERT LE 11 NOVEMBRE
+MAGASIN OUVERT LUNDI DE PAQUES
 MAGDALENA ANDERSSON
 MAGIC PASS
 MAGNUS CARLSEN
@@ -15352,6 +15394,7 @@ MAUREEN LOUYS
 MAURI VANSEVENANT
 MAURICE FILM
 MAURICE MANIFICAT
+MAURITIUS
 MAUS
 MAVA CHOU
 MAVACHOU
@@ -15760,6 +15803,7 @@ MOTOGP
 MOTSI MABUSE
 MOUFIDE BOUCHIBI
 MOURAD ALIEV
+MOURAD BOUDJELLAL
 MOURIR PEUT ATTENDRE
 MOUSSA DEMBELE
 MOVEMBER
@@ -15857,7 +15901,9 @@ MagaliBerdah
 MagaliBlandin
 MagaliRipoll
 Magasin ouvert le 11 novembre
+Magasin ouvert lundi de paques
 Magasinouvertle11novembre
+Magasinouvertlundidepaques
 Magdalena Andersson
 MagdalenaAndersson
 Magic Pass
@@ -16538,6 +16584,7 @@ Maurice Manificat
 Maurice film
 MauriceManificat
 Mauricefilm
+Mauritius
 Maus
 Mava Chou
 MavaChou
@@ -17220,7 +17267,9 @@ MotsiMabuse
 Moufide Bouchibi
 MoufideBouchibi
 Mourad Aliev
+Mourad Boudjellal
 MouradAliev
+MouradBoudjellal
 Mourir peut attendre
 Mourirpeutattendre
 Moussa dembele
@@ -17311,6 +17360,7 @@ NANNY MCPHEE
 NANTES
 NANTES - MONACO
 NANTES GEGEN PSG
+NANTES – ANGERS
 NANTES – BREST
 NANTES – CLERMONT
 NANTES – LENS
@@ -17651,6 +17701,7 @@ Nantes
 Nantes  Monaco
 Nantes - Monaco
 Nantes gegen PSG
+Nantes – Angers
 Nantes – Brest
 Nantes – Clermont
 Nantes – Lens
@@ -17667,6 +17718,7 @@ Nantes-Bastia
 Nantes-Monaco
 NantesBastia
 NantesgegenPSG
+Nantes–Angers
 Nantes–Brest
 Nantes–Clermont
 Nantes–Lens
@@ -18350,6 +18402,7 @@ OSS 117 : RIO NE RÉPOND PLUS
 OSS 117 : Rio ne répond plus
 OSS117
 OSS117:Rionerépondplus
+OSTERMONTAG
 OSTERN
 OSTERSONNTAG
 OTAN
@@ -18637,6 +18690,7 @@ Osman Kavala
 OsmanKavala
 Osmans Töchter
 OsmansTöchter
+Ostermontag
 Ostern
 Ostersonntag
 Otan
@@ -18743,12 +18797,14 @@ PARIS-NICE 2022
 PARIS-ROUBAIX
 PARIS-ROUBAIX 2021
 PARIS-ROUBAIX 2022
+PARIS-SG CONTRE MARSEILLE
 PARIS-SG – ANGERS
 PARIS-SG – AUGSBOURG
 PARIS-SG – BORDEAUX
 PARIS-SG – CHAMBLY
 PARIS-SG – LE MANS
 PARIS-SG – LILLE
+PARIS-SG – MARSEILLE
 PARIS-SG – MONACO
 PARIS-SG – MONTPELLIER
 PARIS-SG – NICE
@@ -18824,6 +18880,7 @@ PATRIZIA LAERI
 PATTI SMITH
 PAU GASOL
 PAU LOPEZ
+PAUL AUSTER
 PAUL EL KHARRAT
 PAUL JOHNSON
 PAUL KOULAK
@@ -19366,8 +19423,11 @@ Paris-Roubaix 2021
 Paris-Roubaix 2022
 Paris-Roubaix2021
 Paris-Roubaix2022
+Paris-SG – Marseille
+Paris-SG–Marseille
 Paris-Tours 2021
 Paris-Tours2021
+Paris-sg contre Marseille
 Paris-sg – Angers
 Paris-sg – Augsbourg
 Paris-sg – Bordeaux
@@ -19381,6 +19441,7 @@ Paris-sg – Orléans
 Paris-sg – Reims
 Paris-sg – Séville
 Paris-sg – saint-étienne
+Paris-sgcontreMarseille
 Paris-sg–Angers
 Paris-sg–Augsbourg
 Paris-sg–Bordeaux
@@ -19403,9 +19464,11 @@ ParisNice 2022
 ParisRoubaix
 ParisRoubaix 2021
 ParisRoubaix 2022
+ParisSG – Marseille
 ParisSaint-Germain
 ParisTours 2021
 Parissansvoiture
+Parissg contre Marseille
 Parissg – Angers
 Parissg – Augsbourg
 Parissg – Bordeaux
@@ -19531,6 +19594,7 @@ Pau Gasol
 Pau Lopez
 PauGasol
 PauLopez
+Paul Auster
 Paul El Kharrat
 Paul Johnson
 Paul Koulak
@@ -19544,6 +19608,7 @@ Paul Simon
 Paul Stoffels
 Paul Walker
 Paul quiles
+PaulAuster
 PaulElKharrat
 PaulJohnson
 PaulKoulak
@@ -20297,6 +20362,7 @@ RAPHAËL GLUCKSMANN
 RAPPEL PRODUIT
 RAPPELPRODUIT
 RAPPORT SAUVÉ
+RASMUS PALUDAN
 RASTA ROCKETT
 RATP
 RAUHNÄCHTE 2021
@@ -20816,6 +20882,8 @@ Rappel produit
 Rappelproduit
 Rapport Sauvé
 RapportSauvé
+Rasmus Paludan
+RasmusPaludan
 Rasta Rockett
 RastaRockett
 Rauhnächte 2021
@@ -22038,6 +22106,7 @@ STEMPELSTEUER
 STEPHANE BERN
 STEPHANE PLAZA
 STEPHANE RAVIER
+STEPHANIE BERGER
 STEPHEN CURRY
 STEPHEN HAWKING
 STEPHEN SONDHEIM
@@ -23182,6 +23251,8 @@ Stephane Ravier
 StephaneBern
 StephanePlaza
 StephaneRavier
+Stephanie Berger
+StephanieBerger
 Stephen Curry
 Stephen Hawking
 Stephen Sondheim
@@ -23454,6 +23525,7 @@ SÉNÉGAL – GUINÉE
 SÉNÉGAL – GUINÉE ÉQUATORIALE
 SÉVILLE – ATLÉTICO MADRID
 SÉVILLE – LILLE
+SÉVILLE – REAL
 SÖLDEN
 SÜDAFRIKA
 Sénégal – Guinée
@@ -23462,8 +23534,10 @@ Sénégal–Guinée
 Sénégal–Guinéeéquatoriale
 Séville – Atlético Madrid
 Séville – Lille
+Séville – Real
 Séville–AtléticoMadrid
 Séville–Lille
+Séville–Real
 Sölden
 Südafrika
 TABLEAU EURO 2021
@@ -26361,6 +26435,7 @@ aad 10
 aaliyah
 aalst
 aanslagen zaventem
+aarau
 aardbeving kreta
 aardverschuiving duitsland
 aaron blommaert
@@ -26943,6 +27018,7 @@ arles
 armageddon
 armand duplantis
 armenien gegen deutschland
+arminia gegen bayern
 armistice
 army of thieves
 arn messager
@@ -27864,6 +27940,7 @@ catherine hiegel
 catherine matausch
 catherine nay
 catherine ringer
+catherine spaak
 catherine zeta-jones
 cathy guetta
 cathy hummels
@@ -29378,6 +29455,7 @@ fils de joie stromae
 fin pass vaccinal
 final euro 2021
 finale basket jo 2021
+finale coupe de belgique
 finale euro
 finale euro 2021
 finale ligue des champions 2022
@@ -29936,6 +30014,7 @@ grichka bogdanoff
 griezmann
 grillitsch
 grimes
+grimper.ch satigny
 grippe espagnole
 grishka
 grittibänz teig
@@ -30191,6 +30270,7 @@ hubert germain
 hubris
 hugh grant
 hugo boucheron
+hugo clement
 hugo gaston
 hugo lloris
 hugo maradona
@@ -30282,6 +30362,7 @@ impots 2022
 imran khan
 ina aogo
 incendie bruxelles
+incendie genève
 incendie landes
 incendie marseille
 incendie new york
@@ -30479,6 +30560,7 @@ ja morant
 jacinda ardern
 jack grealish
 jack hendry
+jack nicholson
 jack white
 jackfruit
 jackgrealish
@@ -31183,6 +31265,7 @@ la france a un incroyable talent
 la france insoumise
 la fugueuse
 la gantoise
+la grande vadrouille
 la horde sauvage
 la la land
 la liga
@@ -31247,6 +31330,7 @@ laliga
 lamborghini countach
 lamkel ze
 lamont jacobs
+lampaert
 lampenberg
 lana wachowski
 landfrauenküche 2021
@@ -31753,6 +31837,7 @@ luke prokop
 luke shaw
 lukeshaw
 luna schweiger
+lundi de paques
 lune bleue
 lune rose
 lunettes pour tous
@@ -31761,6 +31846,7 @@ lutz pfannenstiel
 lutzpfannenstiel
 luuk de jong
 luzern
+luzern gegen st. gallen
 luzern marathon 2021
 lviv
 lwiw
@@ -31778,6 +31864,7 @@ lyon foot
 lyon marseille
 lyon west ham
 lyon – angers
+lyon – bordeaux
 lyon – brest
 lyon – brøndby
 lyon – clermont
@@ -31849,6 +31936,7 @@ magali berdah
 magali blandin
 magali ripoll
 magasin ouvert le 11 novembre
+magasin ouvert lundi de paques
 magdalena andersson
 magic pass
 magnus carlsen
@@ -32231,6 +32319,7 @@ maureen louys
 mauri vansevenant
 maurice film
 maurice manificat
+mauritius
 maus
 mava chou
 mavachou
@@ -32631,6 +32720,7 @@ motogp
 motsi mabuse
 moufide bouchibi
 mourad aliev
+mourad boudjellal
 mourir peut attendre
 moussa dembele
 movember
@@ -32690,6 +32780,7 @@ nanny mcphee
 nantes
 nantes - monaco
 nantes gegen psg
+nantes – angers
 nantes – brest
 nantes – clermont
 nantes – lens
@@ -33164,6 +33255,7 @@ osman kavala
 osmans töchter
 oss 117
 oss 117 : rio ne répond plus
+ostermontag
 ostern
 ostersonntag
 otan
@@ -33255,12 +33347,14 @@ paris-nice 2022
 paris-roubaix
 paris-roubaix 2021
 paris-roubaix 2022
+paris-sg contre marseille
 paris-sg – angers
 paris-sg – augsbourg
 paris-sg – bordeaux
 paris-sg – chambly
 paris-sg – le mans
 paris-sg – lille
+paris-sg – marseille
 paris-sg – monaco
 paris-sg – montpellier
 paris-sg – nice
@@ -33336,6 +33430,7 @@ patrizia laeri
 patti smith
 pau gasol
 pau lopez
+paul auster
 paul el kharrat
 paul johnson
 paul koulak
@@ -33825,6 +33920,7 @@ raphaël glucksmann
 rappel produit
 rappelproduit
 rapport sauvé
+rasmus paludan
 rasta rockett
 ratp
 rauhnächte 2021
@@ -34787,6 +34883,7 @@ stempelsteuer
 stephane bern
 stephane plaza
 stephane ravier
+stephanie berger
 stephen curry
 stephen hawking
 stephen sondheim
@@ -34966,6 +35063,7 @@ sénégal – guinée
 sénégal – guinée équatoriale
 séville – atlético madrid
 séville – lille
+séville – real
 sölden
 südafrika
 tableau euro 2021
