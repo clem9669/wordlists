@@ -9206,6 +9206,7 @@ Büro
 C'EST BATHENAY
 C'EST BREST
 C'EST FAIT
+C'EST FAUX
 C'EST HISTORIQUE
 C'EST HONTEUX
 C'EST INCROYABLE
@@ -9221,6 +9222,7 @@ C'EST UNE BLAGUE
 C'ESTBATHENAY
 C'ESTBREST
 C'ESTFAIT
+C'ESTFAUX
 C'ESTHISTORIQUE
 C'ESTHONTEUX
 C'ESTINCROYABLE
@@ -9777,6 +9779,7 @@ CESERAMELENCHON
 CESERAMÉLENCHON
 CESLA AMARELLE
 CEST FAIT
+CEST FAUX
 CEST HISTORIQUE
 CEST HONTEUX
 CEST INCROYABLE
@@ -10012,6 +10015,7 @@ CHAUMET
 CHAUSG
 CHAUVIGNY
 CHAVEZ
+CHEARS
 CHEBHA
 CHEBRE
 CHECK TH1S
@@ -10032,6 +10036,7 @@ CHELIV
 CHELOSC
 CHELSEA
 CHELSEA - LIVERPOOL
+CHELSEA ARSENAL
 CHELSEA LILLE
 CHELSEA LIVERPOOL
 CHELSEAJUVE
@@ -11841,8 +11846,10 @@ Cheh
 Chelsea
 Chelsea  Liverpool
 Chelsea - Liverpool
+Chelsea Arsenal
 Chelsea Liverpool
 Chelsea-Liverpool
+ChelseaArsenal
 ChelseaJuve
 ChelseaLiverpool
 ChelseaRealMadrid
@@ -45844,6 +45851,7 @@ QUARANTANEFURKINDER
 QUARANTÄNE
 QUARESMA
 QUARTARARO
+QUARTERON
 QUARTIER
 QUATAR
 QUATENNENS
@@ -45946,6 +45954,7 @@ QuarantanefurKinder
 Quarantäne
 Quaresma
 Quartararo
+Quarteron
 Quartier
 Quatar
 Quatennens
@@ -65504,6 +65513,7 @@ büro
 c'est bathenay
 c'est brest
 c'est fait
+c'est faux
 c'est historique
 c'est honteux
 c'est incroyable
@@ -66274,6 +66284,7 @@ chaumet
 chausg
 chauvigny
 chavez
+chears
 chebha
 chebre
 check th1s
@@ -66294,6 +66305,7 @@ cheliv
 chelosc
 chelsea
 chelsea - liverpool
+chelsea arsenal
 chelsea lille
 chelsea liverpool
 chelseajuve
@@ -68848,6 +68860,7 @@ dylan teuns
 dylan van baarle
 dylano'brien
 dylanobrien
+dylanteuns
 dynamik
 dynamiquemarine
 dynamiquemelenchon
@@ -84574,6 +84587,7 @@ quarantanefurkinder
 quarantäne
 quaresma
 quartararo
+quarteron
 quartier
 quatar
 quatennens
