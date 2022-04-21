@@ -5403,6 +5403,7 @@ BARDOCK
 BARELLA
 BARFRA
 BARGANTUA
+BARJAVEL
 BARKHANE
 BARKLEY
 BARKOK
@@ -6609,6 +6610,7 @@ BOOMER
 BOON
 BOORTMEERBEEK
 BOOS
+BOOSKA-P
 BOOSKAPROUT
 BOOSTER
 BOOSTER-IMPFUNG
@@ -7468,6 +7470,7 @@ Bardet
 Bardock
 Barella
 Bargantua
+Barjavel
 Barkhane
 Barkley
 Barkok
@@ -8593,6 +8596,8 @@ Boom
 Boomen
 Boomer
 Boortmeerbeek
+Booska-P
+BooskaP
 BooskaProut
 Booster
 Booster-Impfung
@@ -10326,11 +10331,13 @@ CINCO
 CINDERELLA
 CINDY
 CINEMA
+CINEMA PARADISO
 CINKROF
 CINQUANTENAIRE
 CINVSTEN
 CINvsTEN
 CINÉMA
+CINÉMA PARADISO
 CIOTTI
 CIPRESSA
 CIRCUITSARTHE
@@ -11018,6 +11025,7 @@ CR7aMU
 CR7aUnited
 CR7𓃵
 CRAB
+CRABE-TAMBOUR
 CRACK
 CRAIG
 CRAMMEROCK
@@ -12137,6 +12145,8 @@ Cindy
 Cinkrof
 Cinquantenaire
 Cinéma
+Cinéma Paradiso
+CinémaParadiso
 Ciotti
 Cipressa
 CircuitSarthe
@@ -12763,6 +12773,8 @@ CowboyBebop
 Cowboys
 Cozza
 Cpas
+Crabe-Tambour
+CrabeTambour
 Craig
 Crammerock
 Crash
@@ -30481,6 +30493,7 @@ L214
 L7BNOEL
 LA 1
 LA 3
+LA 317E
 LA 3D
 LA 3E
 LA 4
@@ -31572,6 +31585,7 @@ LES BELGES
 LES BLEUES
 LES BUSD
 LES CFF
+LES CHORISTES
 LES CLIPPERS
 LES COMORES
 LES DEMOISELLES DE ROCHEFORT
@@ -32479,6 +32493,7 @@ LUIGI'S MANSION
 LUIGI'SMANSION
 LUIGISMANSION
 LUIK
+LUIS CAMPOS
 LUIS DIAZ
 LUIS ENRIQUE
 LUIS HENRIQUE
@@ -32580,6 +32595,7 @@ LYON
 LYONNAIS
 La 1
 La 3
+La 317e
 La 3D
 La 3e
 La 4
@@ -32706,6 +32722,7 @@ La ps5
 La rocca
 La1
 La3
+La317e
 La3D
 La3e
 La4
@@ -33762,6 +33779,7 @@ Les BUSD
 Les Belges
 Les Bleues
 Les CFF
+Les Choristes
 Les Clippers
 Les Comores
 Les DZ
@@ -34522,10 +34540,12 @@ Luigi'sMansion
 Luigis Mansion
 LuigisMansion
 Luik
+Luis Campos
 Luis Diaz
 Luis Enrique
 Luis Henrique
 Luis diaz
+LuisCampos
 LuisDiaz
 LuisEnrique
 LuisHenrique
@@ -36304,6 +36324,7 @@ MICKYVANDEVEN
 MICOUD
 MICRO
 MICRO-ONDES
+MICROCOSMOS
 MICROIDS
 MICROMANIA
 MICROONDES
@@ -38697,6 +38718,7 @@ MickyVandeVen
 Micoud
 Micro
 Micro-ondes
+Microcosmos
 Microids
 Micromania
 Microondes
@@ -43284,6 +43306,7 @@ PETRU GUELFUCCI
 PETRUGUELFUCCI
 PETRYAN
 PEUGEOT
+PEUPLE DE FRANCE
 PEUT-ETRE
 PEUT-ON
 PEUT-ÊTRE
@@ -44979,6 +45002,8 @@ Petronin
 Petru Guelfucci
 PetruGuelfucci
 Peugeot
+Peuple de France
+PeupledeFrance
 Peut-etre
 Peut-on
 Peut-être
@@ -53538,6 +53563,7 @@ TARN
 TARRAGO
 TARTA
 TARTAGLIA
+TARTARES
 TARTE
 TARTERETS
 TARTUFFE
@@ -54455,6 +54481,7 @@ TOROJUVE
 TORONTO
 TORQUATOR TASSO
 TORQUATORTASSO
+TORRENS
 TORRES
 TORTIPOUSS
 TORTU
@@ -54992,6 +55019,7 @@ Tarn
 Tarrago
 Tarta
 Tartaglia
+Tartares
 Tarte
 Tarterets
 Tartuffe
@@ -55914,6 +55942,7 @@ ToroJuve
 Toronto
 Torquator Tasso
 TorquatorTasso
+Torrens
 Torres
 Tortipouss
 Tortu
@@ -63763,6 +63792,7 @@ bardock
 barella
 barfra
 bargantua
+barjavel
 barkhane
 barkley
 barkok
@@ -64964,6 +64994,7 @@ boomer
 boon
 boortmeerbeek
 boos
+booska-p
 booskaprout
 booster
 booster-impfung
@@ -66711,6 +66742,7 @@ cinkrof
 cinquantenaire
 cinvsten
 cinéma
+cinéma paradiso
 ciotti
 cipressa
 circuitsarthe
@@ -67404,6 +67436,7 @@ cr7amu
 cr7aunited
 cr7𓃵
 crab
+crabe-tambour
 crack
 craig
 crammerock
@@ -76723,6 +76756,7 @@ l214
 l7bnoel
 la 1
 la 3
+la 317e
 la 3d
 la 3e
 la 4
@@ -77840,6 +77874,7 @@ les belges
 les bleues
 les busd
 les cff
+les choristes
 les clippers
 les comores
 les demoiselles de rochefort
@@ -78710,6 +78745,7 @@ luigi'smansion
 luigismansion
 luik
 luis Henrique
+luis campos
 luis diaz
 luis enrique
 luis henrique
@@ -80464,6 +80500,7 @@ mickyvandeven
 micoud
 micro
 micro-ondes
+microcosmos
 microids
 micromania
 microondes
@@ -83680,6 +83717,7 @@ petru guelfucci
 petruguelfucci
 petryan
 peugeot
+peuple de france
 peut-etre
 peut-on
 peut-être
@@ -88858,6 +88896,7 @@ tarn
 tarrago
 tarta
 tartaglia
+tartares
 tarte
 tarterets
 tartuffe
@@ -89799,6 +89838,7 @@ torojuve
 toronto
 torquator tasso
 torquatortasso
+torrens
 torres
 tortipouss
 tortu
