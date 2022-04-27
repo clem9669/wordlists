@@ -2932,10 +2932,12 @@ ASSEFCM
 ASSEFCN
 ASSELINEAU
 ASSELOSC
+ASSEMBLEE GENERALE
 ASSEMBLEE NATIONALE
 ASSEMBLEENATIOANLE
 ASSEMBLEENATIONAL
 ASSEMBLEENATIONALE
+ASSEMBLÉE GÉNÉRALE
 ASSEMBLÉE NATIONALE
 ASSEMBLÉENATIONALE
 ASSEMHSC
@@ -4933,7 +4935,9 @@ Asselineau
 AssembleeNatioanle
 AssembleeNational
 AssembleeNationale
+Assemblée Générale
 Assemblée Nationale
+AssembléeGénérale
 AssembléeNationale
 Assia
 Assignon
@@ -9505,6 +9509,7 @@ CANAL 10
 CANAL10
 CANALDOR2021
 CANAP2002
+CANARD
 CANARIES
 CANARIS
 CANBERRA
@@ -9531,6 +9536,7 @@ CANNET
 CANNONIER
 CANOE
 CANOPEE
+CANOSSA
 CANOË
 CANTAL
 CANTELEU
@@ -11434,6 +11440,7 @@ Canal10
 CanalDor2021
 Canaldor2021
 Canap2002
+Canard
 Canaries
 Canaris
 Canberra
@@ -16443,6 +16450,7 @@ EN 1994
 EN 2010
 EN 2012
 EN 2017
+EN 2018
 EN 2020
 EN 2022
 EN 2027
@@ -18773,6 +18781,7 @@ FNCWIN
 FNCs
 FNCwin
 FNSEA
+FOCH
 FOCUS ON CHAERYEONG
 FOCUSONCHAERYEONG
 FODEN
@@ -26853,6 +26862,7 @@ JKRowling
 JKVSP7
 JKofBTS
 JKvsP7
+JLES
 JLM2022
 JLMREIMS
 JLMReims
@@ -28191,6 +28201,7 @@ Jiren
 Jisoo
 Jjk 0
 Jjk0
+Jles
 Jo Cox
 Jo MICOUD
 Jo Micoud
@@ -37330,6 +37341,7 @@ MOODY
 MOOI
 MOOIE
 MOON KNIGHT
+MOONBIN
 MOONBIRDS
 MOONFALL
 MOONKNIGHT
@@ -44853,6 +44865,7 @@ PYJAMADAG
 PYRENEES
 PYRO
 PYRÉNÉES
+PYTHAGORE
 PYTHON
 Paarden
 Paare
@@ -46422,6 +46435,7 @@ Pvda
 Pyatov
 Pyro
 Pyrénées
+Pythagore
 Python
 PÂQUES
 PÉCRESSE
@@ -58151,6 +58165,7 @@ VILLIERS
 VILMUN
 VILVOORDE
 VILYB
+VIN DIESEL
 VINAIGRE
 VINALES
 VINCE
@@ -58938,6 +58953,8 @@ Villette
 Villeurbanne
 Villiers
 Vilvoorde
+Vin Diesel
+VinDiesel
 Vinaigre
 Vinales
 Vince
@@ -59367,6 +59384,7 @@ WARIO
 WARM
 WARMSTE WEEK
 WARNER
+WARNER BROS
 WARRIORS
 WARTE
 WARTEK
@@ -60049,6 +60067,8 @@ Warm
 Warmste Week
 WarmsteWeek
 Warner
+Warner Bros
+WarnerBros
 Warriors
 Warte
 Wartek
@@ -63974,6 +63994,7 @@ asselosc
 assembleenatioanle
 assembleenational
 assembleenationale
+assemblée générale
 assemblée nationale
 assembléenationale
 assemhsc
@@ -66638,6 +66659,7 @@ canal 10
 canal10
 canaldor2021
 canap2002
+canard
 canaries
 canaris
 canberra
@@ -66664,6 +66686,7 @@ cannet
 cannonier
 canoe
 canopée
+canossa
 cantal
 canteleu
 canteloup
@@ -70358,6 +70381,7 @@ en 1994
 en 2010
 en 2012
 en 2017
+en 2018
 en 2020
 en 2022
 en 2027
@@ -70381,6 +70405,7 @@ en10
 en2010
 en2012
 en2017
+en2018
 en2020
 en2022
 enaira
@@ -71691,6 +71716,7 @@ fncs day
 fncsday
 fncwin
 fnsea
+foch
 focus on chaeryeong
 focusonchaeryeong
 foden
@@ -76008,6 +76034,7 @@ jklive
 jkofbts
 jkrowling
 jkvsp7
+jles
 jlm2022
 jlmreims
 jlmsciencespo
@@ -82051,6 +82078,7 @@ moody
 mooi
 mooie
 moon knight
+moonbin
 moonbirds
 moonfall
 moonknight
@@ -85750,6 +85778,7 @@ pyatov
 pyjamadag
 pyro
 pyrénées
+pythagore
 python
 pâques
 pécresse
@@ -92188,6 +92217,7 @@ villiers
 vilmun
 vilvoorde
 vilyb
+vin diesel
 vinaigre
 vinales
 vince
@@ -92617,6 +92647,7 @@ wario
 warm
 warmste week
 warner
+warner bros
 warriors
 warte
 wartek
