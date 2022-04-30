@@ -2904,6 +2904,7 @@ ASMRCT
 ASMREAL
 ASMSCB
 ASMSDR
+ASMSFP
 ASMSHAKHTAR
 ASMSHK
 ASMSP
@@ -32955,6 +32956,7 @@ LOUISVUITTON
 LOUISXV
 LOUISXVI
 LOUKACHENKO
+LOUMHR
 LOUP
 LOURCT
 LOURDES
@@ -40481,6 +40483,7 @@ NAPOLIINTER
 NAPOLIJUVE
 NAPOLIMILAN
 NAPOLIROMA
+NAPOLISASSUOLO
 NAPOLIVERONA
 NAPOLÉON
 NAPS
@@ -41374,6 +41377,7 @@ NapoliInter
 NapoliJuve
 NapoliMilan
 NapoliRoma
+NapoliSassuolo
 NapoliVerona
 Napoléon
 Naps
@@ -47322,6 +47326,7 @@ REALMADRID
 REALMADRIDATLETI
 REALMADRIDBARCA
 REALMADRIDCHELSEA
+REALMADRIDESPANYOL
 REALMADRIDINTER
 REALMADRIDREALSOCIEDAD
 REALMADRIDSEVILLAFC
@@ -47816,6 +47821,7 @@ RMAATM
 RMACEL
 RMACHE
 RMACHEL
+RMAESP
 RMAFCB
 RMAINT
 RMAMCI
@@ -48482,6 +48488,7 @@ RealMadrid
 RealMadridAtleti
 RealMadridBarca
 RealMadridChelsea
+RealMadridEspanyol
 RealMadridInter
 RealMadridRealSociedad
 RealMadridSevillaFC
@@ -57734,6 +57741,7 @@ USAGP
 USAIN BOLT
 USAINBOLT
 USAPASM
+USAPCAB
 USAPMHR
 USAPRCT
 USAPST
@@ -64349,6 +64357,7 @@ asmrct
 asmreal
 asmscb
 asmsdr
+asmsfp
 asmshakhtar
 asmshk
 asmsp
@@ -80092,6 +80101,7 @@ louisvuitton
 louisxv
 louisxvi
 loukachenko
+loumhr
 loup
 lourct
 lourdes
@@ -83058,6 +83068,7 @@ napoliinter
 napolijuve
 napolimilan
 napoliroma
+napolisassuolo
 napoliverona
 napoléon
 naps
@@ -86774,6 +86785,7 @@ realmadrid
 realmadridatleti
 realmadridbarca
 realmadridchelsea
+realmadridespanyol
 realmadridinter
 realmadridrealsociedad
 realmadridsevillafc
@@ -87235,6 +87247,7 @@ rmaatm
 rmacel
 rmache
 rmachel
+rmaesp
 rmafcb
 rmaint
 rmamci
@@ -92270,6 +92283,7 @@ usagp
 usain bolt
 usainbolt
 usapasm
+usapcab
 usapmhr
 usaprct
 usapst
