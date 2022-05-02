@@ -312,6 +312,7 @@
 1MEI
 1MILLION
 1Mai
+1Mei
 1Million
 1PLIKE
 1PLIKÉ
@@ -1547,6 +1548,7 @@ AIDEK
 AIDELFITR
 AIDKOUM
 AIDKOUM MOUBARAK
+AIDMOUBARAK
 AIDS
 AIME CESAIRE
 AIME JACQUET
@@ -3700,7 +3702,10 @@ Ahmedsylla
 Ahri
 Ahsoka
 Aickel
+Aid Mabrouk
 AidElFitr
+AidMabrouk
+AidMoubarak
 Aidek
 Aidkoum
 Aidkoum Moubarak
@@ -14409,6 +14414,7 @@ DONTLIE
 DONTLOOKUP
 DONTOLIVER
 DONTPUSHHUMANITYBACK
+DONTWORRYDARLING
 DOODGEZWEGEN
 DOOHAN
 DOOM GUY
@@ -15852,6 +15858,7 @@ Dont Look Up
 DontLie
 DontLookUp
 DontPushHUMANITYBack
+DontWorryDarling
 Doodgezwegen
 Doohan
 Doom Guy
@@ -36535,6 +36542,7 @@ MAXWELL
 MAY ALLAH
 MAY GOD
 MAYA
+MAYDAY
 MAYENNE
 MAYER
 MAYKE
@@ -39039,6 +39047,7 @@ Maxwell
 May Allah
 May God
 MayAllah
+MayDay
 MayGod
 Maya
 Mayenne
@@ -54717,6 +54726,7 @@ TAKEMEHOME
 TAKEMICHI
 TAKEMYBREATH
 TAKEMYHANDBRUSSELS
+TAKEMYHANDZURICH
 TAKER
 TAKUBA
 TALBI
@@ -56206,6 +56216,7 @@ Take My Breath
 Take Two
 TakeMyBreath
 TakeMyHandBrussels
+TakeMyHandZurich
 TakeTwo
 Takemichi
 Taker
@@ -63183,11 +63194,13 @@ ahsoka
 ahv21
 ahv21nein
 aickel
+aid mabrouk
 aidants
 aidek
 aidelfitr
 aidkoum
 aidkoum moubarak
+aidmoubarak
 aids
 aimesanshaine
 aimé césaire
@@ -70328,6 +70341,7 @@ dontlie
 dontlookup
 dontoliver
 dontpushhumanityback
+dontworrydarling
 doodgezwegen
 doohan
 doom guy
@@ -81704,6 +81718,7 @@ maxwell
 may allah
 may god
 maya
+mayday
 mayenne
 mayer
 mayke
@@ -90841,6 +90856,7 @@ takemehome
 takemichi
 takemybreath
 takemyhandbrussels
+takemyhandzurich
 taker
 takuba
 talbi
