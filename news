@@ -146,7 +146,9 @@
 2. BUNDESLIGA
 2. Bundesliga
 2. bundesliga
+2.BUNDESLIGA
 2.Bundesliga
+2.bundesliga
 20
 20 KM BRUSSEL
 20 KM DE BRUXELLES
@@ -273,9 +275,13 @@
 777 partners
 777Partners
 8 MAART
+8 MAI 1945
+8 MAI 2022
 8 MARS
 8 MARS 2022
 8 maart
+8 mai 1945
+8 mai 2022
 8 mars
 8 mars 2022
 8. DEZEMBER FEIERTAG
@@ -295,6 +301,8 @@
 8.MärzFeiertag
 8.MärzFrauentag
 8maart
+8mai1945
+8mai2022
 8mars
 8mars2022
 9/11
@@ -792,6 +800,7 @@ ANNE SINCLAIR
 ANNE WILL
 ANNE WÜNSCHE
 ANNE-CLAIRE COUDRAY
+ANNE-CLAIRE COUDRAY TF1
 ANNE-ELISABETH BLATEAU
 ANNE-ELISABETH LEMOINE
 ANNE-ELISABETHBLATEAU
@@ -1914,7 +1923,9 @@ Anne Sinclair
 Anne Will
 Anne Wünsche
 Anne-Claire Coudray
+Anne-Claire Coudray TF1
 Anne-ClaireCoudray
+Anne-ClaireCoudrayTF1
 Anne-Elisabeth Blateau
 Anne-Elisabeth Lemoine
 Anne-ElisabethBlateau
@@ -1924,6 +1935,7 @@ Anne-Sophie Lapix
 Anne-SophieLapix
 AnneBoleyn
 AnneClaire Coudray
+AnneClaire Coudray TF1
 AnneElisabeth Blateau
 AnneElisabeth Lemoine
 AnneElisabethBlateau
@@ -2701,6 +2713,7 @@ BENEDETTA
 BENELUX TOUR
 BENELUX TOUR 2021
 BENFICA
+BENFICA  PORTO
 BENFICA GEGEN LIVERPOOL
 BENFICA – BARCELONA
 BENFICA – BAYERN
@@ -2767,6 +2780,7 @@ BESTMILE
 BESTSMILE
 BETIS SEVILLE
 BETIS – ATLÉTICO MADRID
+BETIS – BARCELONA
 BETIS – REAL
 BETTINA GAUS
 BETTY DAVIS
@@ -3032,6 +3046,7 @@ BREST – MARSEILLE
 BREST – METZ
 BREST – NICE
 BREST – PARIS-SG
+BREST – STRASBOURG
 BREST-PSG
 BRETAGNE
 BRIAN AUSTIN GREEN
@@ -3046,6 +3061,7 @@ BRIGHT BRUSSELS
 BRIGHTON – CHELSEA
 BRIGHTON – LIVERPOOL
 BRIGHTON – MAN CITY
+BRIGHTON – MANCHESTER UNITED
 BRIGITTE BARDOT
 BRIGITTE CHAMARANDE
 BRIGITTE LAHAIE
@@ -3538,11 +3554,13 @@ Benelux Tour 2021
 BeneluxTour
 BeneluxTour2021
 Benfica
+Benfica  Porto
 Benfica gegen Liverpool
 Benfica – Barcelona
 Benfica – Bayern
 Benfica – Liverpool
 Benfica – Sporting
+BenficaPorto
 BenficagegenLiverpool
 Benfica–Barcelona
 Benfica–Bayern
@@ -3652,9 +3670,11 @@ Bestmile
 Bestsmile
 Betis seville
 Betis – Atlético Madrid
+Betis – Barcelona
 Betis – Real
 Betisseville
 Betis–AtléticoMadrid
+Betis–Barcelona
 Betis–Real
 Bettina Gaus
 BettinaGaus
@@ -4043,6 +4063,7 @@ Brest – Lens
 Brest – Marseille
 Brest – Metz
 Brest – Nice
+Brest – Strasbourg
 Brest – paris-sg
 Brest – parissg
 Brest-Monaco
@@ -4054,6 +4075,7 @@ Brest–Lens
 Brest–Marseille
 Brest–Metz
 Brest–Nice
+Brest–Strasbourg
 Brest–paris-sg
 Bretagne
 Brian Austin Green
@@ -4076,9 +4098,11 @@ BrightBrussels
 Brighton – Chelsea
 Brighton – Liverpool
 Brighton – Man City
+Brighton – Manchester United
 Brighton–Chelsea
 Brighton–Liverpool
 Brighton–ManCity
+Brighton–ManchesterUnited
 Brigitte Bardot
 Brigitte Chamarande
 Brigitte Lahaie
@@ -4497,6 +4521,7 @@ CHELSEA GEGEN LIVERPOOL
 CHELSEA GEGEN REAL MADRID
 CHELSEA GEGEN VILLARREAL
 CHELSEA LILLE
+CHELSEA VS WOLVES
 CHELSEA – ARSENAL
 CHELSEA – BRENTFORD
 CHELSEA – BRIGHTON
@@ -4514,6 +4539,7 @@ CHELSEA – REAL
 CHELSEA – SOUTHAMPTON
 CHELSEA – TOTTENHAM
 CHELSEA – VILLARREAL
+CHELSEA – WOLVES
 CHELSEA-LILLE
 CHELSEA-REAL MADRID
 CHENILLE PROCESSIONNAIRE
@@ -5400,6 +5426,7 @@ Chelsea gegen Aston Villa
 Chelsea gegen Liverpool
 Chelsea gegen Real Madrid
 Chelsea gegen Villarreal
+Chelsea vs wolves
 Chelsea – Arsenal
 Chelsea – Brentford
 Chelsea – Brighton
@@ -5417,6 +5444,7 @@ Chelsea – Real
 Chelsea – Southampton
 Chelsea – Tottenham
 Chelsea – Villarreal
+Chelsea – Wolves
 Chelsea-Lille
 Chelsea-Real Madrid
 Chelsea-RealMadrid
@@ -5427,6 +5455,7 @@ ChelseagegenAstonVilla
 ChelseagegenLiverpool
 ChelseagegenRealMadrid
 ChelseagegenVillarreal
+Chelseavswolves
 Chelsea–Arsenal
 Chelsea–Brentford
 Chelsea–Brighton
@@ -5444,6 +5473,7 @@ Chelsea–Real
 Chelsea–Southampton
 Chelsea–Tottenham
 Chelsea–Villarreal
+Chelsea–Wolves
 Chenille processionnaire
 Chenilleprocessionnaire
 Cheque carburant
@@ -7550,6 +7580,7 @@ ERIC CLAPTON
 ERIC PERROT
 ERIC PHILIPPI
 ERIC PIOLLE
+ERIC ROY
 ERIC STEHFEST
 ERIC VASTINE
 ERIC VIDAUD
@@ -8081,6 +8112,7 @@ Eric Clapton
 Eric Perrot
 Eric Philippi
 Eric Piolle
+Eric Roy
 Eric Stehfest
 Eric Vastine
 Eric Vidaud
@@ -8092,6 +8124,7 @@ EricClapton
 EricPerrot
 EricPhilippi
 EricPiolle
+EricRoy
 EricStehfest
 EricVastine
 EricVidaud
@@ -9614,6 +9647,7 @@ FynnKliemann
 FÄRÖER
 FÊTE DE LA MUSIQUE 2021 PARIS
 FÊTE DES GRANDS-MÈRES
+FÊTE DES MÈRES
 FÊTE DES MÈRES 2022
 FÊTE DES PÈRES
 FÊTE DU TRAVAIL
@@ -9634,6 +9668,7 @@ FêTEDESPèRES
 Fête de la musique 2021 Paris
 Fête des grands-mères
 Fête des grandsmères
+Fête des mères
 Fête des mères 2022
 Fête des pères
 Fête du Travail
@@ -9644,6 +9679,7 @@ Fête nationale belge
 Fête nationale française
 Fêtedelamusique2021Paris
 Fêtedesgrands-mères
+Fêtedesmères
 Fêtedesmères2022
 Fêtedespères
 FêteduTravail
@@ -13051,9 +13087,11 @@ JuraSud–saint-étienne
 Jurassic Park
 Jurassic World
 Jurassic World 3
+Jurassic world
 JurassicPark
 JurassicWorld
 JurassicWorld3
+Jurassicworld
 Jurgen Conings
 JurgenConings
 Jusqu'a ce que la mort nous unisse
@@ -13217,6 +13255,7 @@ KAZAKHSTAN
 KAZOU
 KEANU REEVES
 KELLY BOCHENKO
+KELLY MEAFUA
 KELLY OSBOURNE
 KELLY PIQUET
 KELLY SLATER
@@ -13545,12 +13584,14 @@ Kazou
 Keanu Reeves
 KeanuReeves
 Kelly Bochenko
+Kelly Meafua
 Kelly Osbourne
 Kelly Piquet
 Kelly Slater
 Kelly Vedovelli
 Kelly Vedovelli, Cyril Hanouna
 KellyBochenko
+KellyMeafua
 KellyOsbourne
 KellyPiquet
 KellySlater
@@ -14346,6 +14387,7 @@ LIVERPOOL – CHELSEA
 LIVERPOOL – LEICESTER
 LIVERPOOL – NEWCASTLE
 LIVERPOOL – SOUTHAMPTON
+LIVERPOOL – TOTTENHAM
 LIVERPOOL – WATFORD
 LIVERPOOL – WEST HAM
 LIZ SHERIDAN
@@ -14401,6 +14443,7 @@ LORIENT – NANTES
 LORIENT – RENNES
 LORIENT – SAINT-ÉTIENNE
 LORIN PARYS
+LORIS THE VOICE
 LOSC
 LOST ARK
 LOST ARK STEAM
@@ -15343,6 +15386,7 @@ Liverpool – Chelsea
 Liverpool – Leicester
 Liverpool – Newcastle
 Liverpool – Southampton
+Liverpool – Tottenham
 Liverpool – Watford
 Liverpool – West Ham
 LiverpoolVillarreal
@@ -15358,6 +15402,7 @@ Liverpool–Chelsea
 Liverpool–Leicester
 Liverpool–Newcastle
 Liverpool–Southampton
+Liverpool–Tottenham
 Liverpool–Watford
 Liverpool–WestHam
 Liz Sheridan
@@ -15446,6 +15491,8 @@ Lorient–Rennes
 Lorient–Saint-Étienne
 Lorin Parys
 LorinParys
+Loris The Voice
+LorisTheVoice
 Lost Ark
 Lost Ark Steam
 LostArk
@@ -16331,6 +16378,7 @@ METEOSCHWEIZ
 METZ – BORDEAUX
 METZ – LENS
 METZ – LILLE
+METZ – LYON
 METZ – MARSEILLE
 METZ – MONACO
 METZ – NICE
@@ -16635,6 +16683,7 @@ MURIEL ROBIN
 MUSELIER
 MUSEUM NIGHT FEVER
 MUSEUMSNACHT BERN
+MUTTERTAG
 MVP
 MXGP
 MYANMAR
@@ -17657,6 +17706,7 @@ Meteoschweiz
 Metz – Bordeaux
 Metz – Lens
 Metz – Lille
+Metz – Lyon
 Metz – Marseille
 Metz – Monaco
 Metz – Nice
@@ -17668,6 +17718,7 @@ Metz – parissg
 Metz–Bordeaux
 Metz–Lens
 Metz–Lille
+Metz–Lyon
 Metz–Marseille
 Metz–Monaco
 Metz–Nice
@@ -18169,6 +18220,7 @@ Museum Night Fever
 MuseumNightFever
 Museumsnacht Bern
 MuseumsnachtBern
+Muttertag
 Myanmar
 Mykonos
 Mykonos Corona
@@ -22732,6 +22784,7 @@ SCARLETT JOHANSSON
 SCARLETTJOHANSSON
 SCCham
 SCEWO
+SCHALKE 04
 SCHANGNAU
 SCHARIA
 SCHAUSPIELER FRITZ WEPPER
@@ -22942,6 +22995,7 @@ SING STREET
 SINGLE DAY
 SINGLE DAY 2021
 SINGLES DAY
+SINN FEIN
 SINNER
 SINT-GILLIS-WAAS
 SINT-MAARTEN
@@ -23700,6 +23754,8 @@ Scandale
 Scarlett Johansson
 ScarlettJohansson
 Scewo
+Schalke 04
+Schalke04
 Schangnau
 Scharia
 Schauspieler Fritz Wepper
@@ -24039,6 +24095,8 @@ Singles Day
 SinglesDay
 SingmeinenSong
 SingmeinenSongSchweiz
+Sinn Fein
+SinnFein
 Sinner
 Sint-Gillis-Waas
 Sint-Maarten
@@ -24837,6 +24895,7 @@ THE POST
 THE POWER OF THE DOG
 THE ROOKIE
 THE SOCIAL NETWORK
+THE STAIRCASE
 THE SUICIDE SQUAD
 THE TOMORROW WAR
 THE UNDOING
@@ -24844,6 +24903,7 @@ THE UNFORGIVABLE
 THE VOICE ALL STARS
 THE VOICE ALL-STARS
 THE VOICE BELGIQUE
+THE VOICE FLORENT PAGNY
 THE VOICE KIDS 2022
 THE VOICE OF GERMANY 2021
 THE WAVE
@@ -25018,6 +25078,7 @@ TOTY FIFA 22
 TOTYFIFA22
 TOULOUSE
 TOULOUSE LA ROCHELLE
+TOULOUSE MUNSTER
 TOULOUSE – CAEN
 TOULOUSE – CLERMONT
 TOULOUSE – LE HAVRE
@@ -25347,6 +25408,7 @@ The Voice All Stars
 The Voice All-Stars
 The Voice AllStars
 The Voice Belgique
+The Voice Florent Pagny
 The Voice Kids 2022
 The Voice of Germany 2021
 The Wave
@@ -25355,6 +25417,7 @@ The Weeknd Sportpaleis
 The White Lotus
 The Witcher
 The post
+The staircase
 TheAdamProject
 TheArtist
 TheAscent
@@ -25390,6 +25453,7 @@ TheUnforgivable
 TheVoiceAll-Stars
 TheVoiceAllStars
 TheVoiceBelgique
+TheVoiceFlorentPagny
 TheVoiceKids2022
 TheVoiceofGermany2021
 TheWave
@@ -25418,6 +25482,7 @@ Therme Vals
 ThermeVals
 Thermo-Clean
 ThermoClean
+Thestaircase
 Theux
 Thiago
 Thibau Nys
@@ -25684,11 +25749,13 @@ Tottenham–ManchesterUnited
 Tottenham–Newcastle
 Toulouse
 Toulouse La Rochelle
+Toulouse Munster
 Toulouse – Caen
 Toulouse – Clermont
 Toulouse – Le Havre
 Toulouse – Montpellier
 ToulouseLaRochelle
+ToulouseMunster
 Toulouse–Caen
 Toulouse–Clermont
 Toulouse–LeHavre
@@ -26009,6 +26076,7 @@ UNIA
 UNIHOCKEY
 UNION
 UNION  ANDERLECHT
+UNION  CLUB BRUGGE
 UNION BERLIN
 UNION BERLIN GEGEN BAYERN
 UNION SAINT-GILLOISE
@@ -26140,6 +26208,7 @@ Unia
 Unihockey
 Union
 Union  Anderlecht
+Union  Club Brugge
 Union Berlin
 Union Berlin gegen Bayern
 Union Saint-Gilloise
@@ -26153,6 +26222,7 @@ Union SaintGilloise – oostende
 UnionAnderlecht
 UnionBerlin
 UnionBerlingegenBayern
+UnionClubBrugge
 UnionSaint-Gilloise
 UnionSaint-Gilloise–Anderlecht
 UnionSaint-Gilloise–Standard
@@ -26907,6 +26977,7 @@ WINDOWS 11
 WINDOWS 11 DOWNLOAD
 WINDOWS11
 WINGO
+WINGS FOR LIFE
 WINONA RYDER
 WINTER SEASON
 WINTERSONNENWENDE
@@ -27205,6 +27276,8 @@ Windows 11 Download
 Windows11
 Windows11Download
 Wingo
+Wings for Life
+WingsforLife
 Winona Ryder
 WinonaRyder
 Winter Season
@@ -27547,6 +27620,7 @@ ZULTE-WAREGEM  GENK
 ZULTE-WAREGEM  MECHELEN
 ZULTE-WAREGEM  OOSTENDE
 ZULTE-WAREGEM  STVV
+ZUM MUTTERTAG
 ZURICH
 ZURICH VERSICHERUNG
 ZURICH-FLUGHAFEN
@@ -27691,6 +27765,8 @@ Zultewaregem  Genk
 Zultewaregem  Mechelen
 Zultewaregem  Oostende
 Zultewaregem  STVV
+Zum Muttertag
+ZumMuttertag
 Zurich
 Zurich Versicherung
 Zurich-Flughafen
@@ -28188,6 +28264,7 @@ anne sinclair
 anne will
 anne wünsche
 anne-claire coudray
+anne-claire coudray tf1
 anne-elisabeth blateau
 anne-elisabeth lemoine
 anne-elisabethblateau
@@ -28743,6 +28820,7 @@ benedetta
 benelux tour
 benelux tour 2021
 benfica
+benfica  porto
 benfica gegen liverpool
 benfica – barcelona
 benfica – bayern
@@ -28809,6 +28887,7 @@ bestmile
 bestsmile
 betis seville
 betis – atlético madrid
+betis – barcelona
 betis – real
 bettina gaus
 betty davis
@@ -29057,6 +29136,7 @@ brest – marseille
 brest – metz
 brest – nice
 brest – paris-sg
+brest – strasbourg
 brest-psg
 bretagne
 brian austin green
@@ -29071,6 +29151,7 @@ bright brussels
 brighton – chelsea
 brighton – liverpool
 brighton – man city
+brighton – manchester united
 brigitte bardot
 brigitte chamarande
 brigitte lahaie
@@ -29439,6 +29520,7 @@ chelsea gegen liverpool
 chelsea gegen real madrid
 chelsea gegen villarreal
 chelsea lille
+chelsea vs wolves
 chelsea – arsenal
 chelsea – brentford
 chelsea – brighton
@@ -29456,6 +29538,7 @@ chelsea – real
 chelsea – southampton
 chelsea – tottenham
 chelsea – villarreal
+chelsea – wolves
 chelsea-lille
 chelsea-real madrid
 chenille processionnaire
@@ -30537,6 +30620,7 @@ eric clapton
 eric perrot
 eric philippi
 eric piolle
+eric roy
 eric stehfest
 eric vastine
 eric vidaud
@@ -31170,6 +31254,7 @@ fynn kliemann
 färöer
 fête de la musique 2021 paris
 fête des grands-mères
+fête des mères
 fête des mères 2022
 fête des pères
 fête du travail
@@ -32570,6 +32655,7 @@ kazakhstan
 kazou
 keanu reeves
 kelly bochenko
+kelly meafua
 kelly osbourne
 kelly piquet
 kelly slater
@@ -33208,6 +33294,7 @@ liverpool – chelsea
 liverpool – leicester
 liverpool – newcastle
 liverpool – southampton
+liverpool – tottenham
 liverpool – watford
 liverpool – west ham
 liz sheridan
@@ -33263,6 +33350,7 @@ lorient – nantes
 lorient – rennes
 lorient – saint-étienne
 lorin parys
+loris the voice
 losc
 lost ark
 lost ark steam
@@ -34021,6 +34109,7 @@ meteoschweiz
 metz – bordeaux
 metz – lens
 metz – lille
+metz – lyon
 metz – marseille
 metz – monaco
 metz – nice
@@ -34316,6 +34405,7 @@ muriel robin
 muselier
 museum night fever
 museumsnacht bern
+muttertag
 mvp
 mxgp
 myanmar
@@ -36117,6 +36207,7 @@ scandale
 scarlett johansson
 scarlettjohansson
 scewo
+schalke 04
 schangnau
 scharia
 schauspieler fritz wepper
@@ -36320,6 +36411,7 @@ sing street
 single day
 single day 2021
 singles day
+sinn fein
 sinner
 sint-gillis-waas
 sint-maarten
@@ -36872,6 +36964,7 @@ the post
 the power of the dog
 the rookie
 the social network
+the staircase
 the suicide squad
 the tomorrow war
 the undoing
@@ -36879,6 +36972,7 @@ the unforgivable
 the voice all stars
 the voice all-stars
 the voice belgique
+the voice florent pagny
 the voice kids 2022
 the voice of germany 2021
 the wave
@@ -37051,6 +37145,7 @@ tottenham-rennes
 toty fifa 22
 toulouse
 toulouse la rochelle
+toulouse munster
 toulouse – caen
 toulouse – clermont
 toulouse – le havre
@@ -37275,6 +37370,7 @@ unia
 unihockey
 union
 union  anderlecht
+union  club brugge
 union berlin
 union berlin gegen bayern
 union saint-gilloise
@@ -37653,6 +37749,7 @@ windows 11
 windows 11 download
 windows11
 wingo
+wings for life
 winona ryder
 winter season
 wintersonnenwende
@@ -37871,6 +37968,7 @@ zulte-waregem  genk
 zulte-waregem  mechelen
 zulte-waregem  oostende
 zulte-waregem  stvv
+zum muttertag
 zurich
 zurich versicherung
 zurich-flughafen
