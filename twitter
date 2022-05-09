@@ -42077,8 +42077,10 @@ NationalFFF
 NationalGirlfriendsDay
 NationalLeague
 Nationale Bank
+Nationale Loterij
 NationaleBank
 NationaleImpfwoche
+NationaleLoterij
 Nationalestraat
 Nationalfeiertag
 Nationalitié
@@ -50706,6 +50708,7 @@ SCHULTAG
 SCHULTER
 SCHUMACHER
 SCHUMAN
+SCHUMAN DECLARATION
 SCHUSS
 SCHUTZ
 SCHUTZKONZEPTE
@@ -53402,6 +53405,8 @@ Schultag
 Schulter
 Schumacher
 Schuman
+Schuman Declaration
+SchumanDeclaration
 Schuss
 Schutz
 Schutzkonzepte
@@ -63191,9 +63196,11 @@ Züri
 Zürich
 \AYMEN\
 \Aymen\
+\BELEGE\
 \BELGEN\
 \BIOWAFFEN\
 \BUEZER\
+\Belege\
 \Belgen\
 \Biowaffen\
 \BÜEZER\
@@ -63432,6 +63439,7 @@ Zürich
 \ZENSUR\
 \Zensur\
 \aymen\
+\belege\
 \belgen\
 \biowaffen\
 \büezer\
@@ -89672,6 +89680,7 @@ schultag
 schulter
 schumacher
 schuman
+schuman declaration
 schuss
 schutz
 schutzkonzepte
