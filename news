@@ -369,6 +369,7 @@ AC MILAN
 AC Milan
 ACAB
 ACCIDENT AUTOROUTE
+ACCIDENT BUS PNL
 ACCIDENT DE CHASSE
 ACCIDENT E42
 ACCIDENT JURA
@@ -507,6 +508,7 @@ ALBANIE POLOGNE
 ALBANIEN POLEN
 ALBANO ROMINA POWER
 ALBERT BOURLA
+ALBSTADT
 ALCARAZ
 ALCATRAZ
 ALDERWEIRELD
@@ -740,6 +742,7 @@ ANGELINA JOLIE
 ANGELINAJOLIE
 ANGERS
 ANGERS NICE
+ANGERS – BORDEAUX
 ANGERS – LENS
 ANGERS – LYON
 ANGERS – NICE
@@ -862,6 +865,7 @@ ANTONOV 225
 ANTONOV AN-225
 ANTONY BLINKEN
 ANTWERP
+ANTWERP  ANDERLECHT
 ANTWERP  CHARLEROI
 ANTWERP  CLUB BRUGGE
 ANTWERP  EUPEN
@@ -1054,6 +1058,7 @@ ATLÉTICO MADRID – LIVERPOOL
 ATLÉTICO MADRID – MAN CITY
 ATLÉTICO MADRID – MILAN
 ATLÉTICO MADRID – RAYO
+ATLÉTICO MADRID – REAL
 ATLÉTICO MADRID – VILLARREAL
 ATOMKRIEG
 ATP  Finals
@@ -1203,10 +1208,12 @@ AbuDhabi
 Accident E42
 Accident Jura
 Accident autoroute
+Accident bus PNL
 Accident de chasse
 AccidentE42
 AccidentJura
 Accidentautoroute
+AccidentbusPNL
 Accidentdechasse
 Achtelfinale EM 2021
 AchtelfinaleEM2021
@@ -1435,6 +1442,7 @@ Albano Romina Power
 AlbanoRominaPower
 Albert Bourla
 AlbertBourla
+Albstadt
 Alcaraz
 Alcatraz
 Alderweireld
@@ -1831,6 +1839,7 @@ Angelina Jolie
 AngelinaJolie
 Angers
 Angers Nice
+Angers – Bordeaux
 Angers – Lens
 Angers – Lyon
 Angers – Nice
@@ -1840,6 +1849,7 @@ Angers – parissg
 Angers – saint-étienne
 Angers – saintétienne
 AngersNice
+Angers–Bordeaux
 Angers–Lens
 Angers–Lyon
 Angers–Nice
@@ -2048,6 +2058,7 @@ AntonovAN-225
 Antony Blinken
 AntonyBlinken
 Antwerp
+Antwerp  Anderlecht
 Antwerp  Charleroi
 Antwerp  Club Brugge
 Antwerp  Eupen
@@ -2331,6 +2342,7 @@ Atlético Madrid – Liverpool
 Atlético Madrid – Man City
 Atlético Madrid – Milan
 Atlético Madrid – Rayo
+Atlético Madrid – Real
 Atlético Madrid – Villarreal
 Atlético Madrid – barcelona
 AtléticoMadrid–Barcelona
@@ -2339,6 +2351,7 @@ AtléticoMadrid–Liverpool
 AtléticoMadrid–ManCity
 AtléticoMadrid–Milan
 AtléticoMadrid–Rayo
+AtléticoMadrid–Real
 AtléticoMadrid–Villarreal
 AtléticoMadrid–barcelona
 Atomkrieg
@@ -2599,6 +2612,7 @@ BAYERN GEGEN LEVERKUSEN
 BAYERN GEGEN MÖNCHENGLADBACH
 BAYERN GEGEN RB LEIPZIG
 BAYERN GEGEN UNION BERLIN
+BAYERN GEGEN VFB STUTTGART
 BAYERN GEGEN WOLFSBURG
 BAYERN MUNCHEN
 BAYERN MUNICH
@@ -2919,6 +2933,7 @@ BONNE ANNEE 2022
 BONNE ANNÉE
 BONNE SAINT-VALENTIN
 BONNEUIL-EN-FRANCE
+BONO
 BONUCCI
 BOOBA
 BOOBA STADE DE FRANCE
@@ -3141,6 +3156,7 @@ BUKAYO SAKA
 BULGARIE
 BUMBLEBEE
 BUNDESLIGA
+BUNDESLIGA 2
 BUNDESLIGA HEUTE
 BUNDESRAT
 BUNDESRAT CORONA
@@ -3374,6 +3390,7 @@ Bayern gegen Leverkusen
 Bayern gegen Mönchengladbach
 Bayern gegen RB Leipzig
 Bayern gegen Union Berlin
+Bayern gegen VfB Stuttgart
 Bayern gegen Wolfsburg
 Bayern munchen
 Bayern – Benfica
@@ -3399,6 +3416,7 @@ BayerngegenLeverkusen
 BayerngegenMönchengladbach
 BayerngegenRBLeipzig
 BayerngegenUnionBerlin
+BayerngegenVfBStuttgart
 BayerngegenWolfsburg
 Bayernmunchen
 Bayern–Benfica
@@ -3876,6 +3894,7 @@ Bonneannee2022
 Bonneannée
 Bonneuil-en-France
 BonneuilenFrance
+Bono
 Bonucci
 Booba
 Booba Stade de France
@@ -4207,7 +4226,9 @@ BukayoSaka
 Bulgarie
 Bumblebee
 Bundesliga
+Bundesliga 2
 Bundesliga heute
+Bundesliga2
 Bundesligaheute
 Bundesrat
 Bundesrat Corona
@@ -4381,6 +4402,7 @@ CATANIA
 CATE BLANCHETT
 CATHERINE DENEUVE
 CATHERINE HIEGEL
+CATHERINE LABORDE
 CATHERINE MATAUSCH
 CATHERINE NAY
 CATHERINE RINGER
@@ -5190,6 +5212,7 @@ Cate Blanchett
 CateBlanchett
 Catherine Deneuve
 Catherine Hiegel
+Catherine Laborde
 Catherine Matausch
 Catherine Nay
 Catherine Ringer
@@ -5198,6 +5221,7 @@ Catherine Zeta-Jones
 Catherine ZetaJones
 CatherineDeneuve
 CatherineHiegel
+CatherineLaborde
 CatherineMatausch
 CatherineNay
 CatherineRinger
@@ -6307,6 +6331,7 @@ DE GEA
 DE IDEALE WERELD
 DE LIJN
 DE MOL
+DE MOL FINALE
 DE MOL PHILIPPE
 DE PANNE
 DE SLAG OM DE SCHELDE
@@ -6800,7 +6825,9 @@ De Verraders
 De Villepin
 De Warmste Week
 De ideale wereld
+De mol
 De mol Philippe
+De mol finale
 De slimste mens
 De telegraaf
 De verraders
@@ -6882,7 +6909,9 @@ Demo Zürich
 DemoBern
 DemoWinterthur
 DemoZürich
+Demol
 DemolPhilippe
+Demolfinale
 Demon Slayer
 DemonSlayer
 Demonstration Zürich
@@ -8395,6 +8424,7 @@ F1 IMOLA 2022
 F1 Imola 2022
 F1 LIVE
 F1 MEXIQUE
+F1 MIAMI
 F1 MONZA
 F1 MONZA 2021
 F1 Mexique
@@ -8415,6 +8445,7 @@ F1 Zandvoort
 F1 bahrein 2022
 F1 classement
 F1 live
+F1 miami
 F1 news
 F1 nieuws
 F12021
@@ -8433,6 +8464,7 @@ F1Zandvoort
 F1bahrein2022
 F1classement
 F1live
+F1miami
 F1news
 F1nieuws
 F35
@@ -8868,6 +8900,7 @@ FRANCESCO FACCHINETTI
 FRANCESUISSE
 FRANCE–SUISSE
 FRANCINE JORDI
+FRANCIS AMUZU
 FRANCIS DANNEMARK
 FRANCIS HUSTER
 FRANCIS KERE
@@ -9475,11 +9508,13 @@ France–Pays-Bas
 France–Suisse
 Francine Jordi
 FrancineJordi
+Francis Amuzu
 Francis Dannemark
 Francis Huster
 Francis Ngannou
 Francis Perrin
 Francis kere
+FrancisAmuzu
 FrancisDannemark
 FrancisHuster
 FrancisNgannou
@@ -12123,6 +12158,7 @@ JODIEFOSTER
 JODIUM
 JODIUMTABLETTEN
 JODTABLETTEN
+JODY LUKOKI
 JOE
 JOE BIDEN
 JOE BURROW
@@ -12795,6 +12831,8 @@ JodieFoster
 Jodium
 Jodiumtabletten
 Jodtabletten
+Jody Lukoki
+JodyLukoki
 Joe
 Joe Biden
 Joe Burrow
@@ -14437,6 +14475,7 @@ LORIE
 LORIENT – LENS
 LORIENT – LILLE
 LORIENT – LYON
+LORIENT – MARSEILLE
 LORIENT – METZ
 LORIENT – MONACO
 LORIENT – NANTES
@@ -15475,6 +15514,7 @@ Lorie
 Lorient – Lens
 Lorient – Lille
 Lorient – Lyon
+Lorient – Marseille
 Lorient – Metz
 Lorient – Monaco
 Lorient – Nantes
@@ -15484,6 +15524,7 @@ Lorient – SaintÉtienne
 Lorient–Lens
 Lorient–Lille
 Lorient–Lyon
+Lorient–Marseille
 Lorient–Metz
 Lorient–Monaco
 Lorient–Nantes
@@ -15893,6 +15934,7 @@ MAN CITY – FULHAM
 MAN CITY – LEICESTER
 MAN CITY – LIVERPOOL
 MAN CITY – MANCHESTER UNITED
+MAN CITY – NEWCASTLE
 MAN CITY – NORWICH CITY
 MAN CITY – SOUTHAMPTON
 MAN CITY – SPORTING
@@ -16684,6 +16726,7 @@ MUSELIER
 MUSEUM NIGHT FEVER
 MUSEUMSNACHT BERN
 MUTTERTAG
+MUTTERTAG SPRÜCHE
 MVP
 MXGP
 MYANMAR
@@ -16844,6 +16887,7 @@ Man City – Fulham
 Man City – Leicester
 Man City – Liverpool
 Man City – Manchester United
+Man City – Newcastle
 Man City – Norwich City
 Man City – Southampton
 Man City – Sporting
@@ -16879,6 +16923,7 @@ ManCity–Fulham
 ManCity–Leicester
 ManCity–Liverpool
 ManCity–ManchesterUnited
+ManCity–Newcastle
 ManCity–NorwichCity
 ManCity–Southampton
 ManCity–Sporting
@@ -18221,6 +18266,8 @@ MuseumNightFever
 Museumsnacht Bern
 MuseumsnachtBern
 Muttertag
+Muttertag Sprüche
+MuttertagSprüche
 Myanmar
 Mykonos
 Mykonos Corona
@@ -18372,6 +18419,7 @@ NBA Finals
 NBADraft2021
 NBAFinals
 NCIS
+NCUTI GATWA
 NE LE DIS À PERSONNE
 NECKERTAL
 NEDERLAND
@@ -18788,6 +18836,8 @@ Nazanin ZaghariRatcliffe
 NazaninZaghari-Ratcliffe
 Nazmiye Oral
 NazmiyeOral
+Ncuti Gatwa
+NcutiGatwa
 Ne le dis à personne
 Neckertal
 Nederland
@@ -19219,6 +19269,7 @@ OLIVIER COUSI
 OLIVIER GIROUD
 OLIVIER LEONHARDT
 OLIVIER MAIRE
+OLIVIER MARCHAL
 OLIVIER MINNE
 OLIVIER ROUSTEING
 OLIVIER UBEDA
@@ -19478,6 +19529,7 @@ Oliviagregoire
 Olivier Cousi
 Olivier Giroud
 Olivier Maire
+Olivier Marchal
 Olivier Minne
 Olivier Rousteing
 Olivier Verdon
@@ -19487,6 +19539,7 @@ Olivier veran
 OlivierCousi
 OlivierGiroud
 OlivierMaire
+OlivierMarchal
 OlivierMinne
 OlivierRousteing
 OlivierVerdon
@@ -19792,6 +19845,7 @@ PARIS-SG – ORLÉANS
 PARIS-SG – REIMS
 PARIS-SG – SAINT-ÉTIENNE
 PARIS-SG – SÉVILLE
+PARIS-SG – TROYES
 PARIS-TOURS 2021
 PARISJACKSON
 PARISMATCH
@@ -19914,6 +19968,7 @@ PCRtestaanvragen
 PEARL HARBOR
 PECRESSE
 PEDRI
+PEDRO ALMODOVAR
 PEGASUS
 PEGASUS SPYWARE
 PEKIN EXPRESS
@@ -19978,6 +20033,9 @@ PETRU GUELFUCCI
 PEUR PRIMALE
 PFADI WINTERTHUR
 PFADIWINTERTHUR
+PFAPA-SYNDROM
+PFAPA-Syndrom
+PFAPASyndrom
 PFEIFFERSCHES DRÜSENFIEBER
 PFIZER
 PFIZER AKTIE
@@ -20007,6 +20065,7 @@ PHILIPPE LELLOUCHE
 PHILIPPE MANOEUVRE
 PHILIPPE POUTOU
 PHILIPPE WARRIN
+PHILIPPINES
 PHILIPS SONICARE
 PHILOUSPORTS
 PHOSPHORE
@@ -20446,6 +20505,7 @@ Paris-sg – Nice
 Paris-sg – Orléans
 Paris-sg – Reims
 Paris-sg – Séville
+Paris-sg – Troyes
 Paris-sg – saint-étienne
 Paris-sgcontreMarseille
 Paris-sg–Angers
@@ -20461,6 +20521,7 @@ Paris-sg–Nice
 Paris-sg–Orléans
 Paris-sg–Reims
 Paris-sg–Séville
+Paris-sg–Troyes
 Paris-sg–saint-étienne
 ParisFC
 ParisFC–Caen
@@ -20490,6 +20551,7 @@ Parissg – Nice
 Parissg – Orléans
 Parissg – Reims
 Parissg – Séville
+Parissg – Troyes
 Parissg – saintétienne
 Parrainage
 Parrainage présidentielle
@@ -20675,6 +20737,8 @@ Pearl Harbor
 PearlHarbor
 Pecresse
 Pedri
+Pedro Almodovar
+PedroAlmodovar
 Pegasus
 Pegasus Spyware
 PegasusSpyware
@@ -20834,6 +20898,7 @@ PhilippeManoeuvre
 PhilippePoutou
 PhilippeWarrin
 PhilippedeVilliers
+Philippines
 Philips Sonicare
 PhilipsSonicare
 Philousports
@@ -21497,6 +21562,7 @@ REGULA RYTZ
 REIMS
 REIMS PSG
 REIMS – BORDEAUX
+REIMS – LENS
 REIMS – LYON
 REIMS – MARSEILLE
 REIMS – SAINT-ÉTIENNE
@@ -21823,6 +21889,7 @@ RUSSLAND DäNEMARK
 RUSSLAND UKRAINE KRIEG
 RUSSLAND UKRAINE-KONFLIKT
 RUSSLAND UKRAINE-KRIEG
+RUSSLAND UKRAINE-KRIEG PUTIN
 RUSSLAND-UKRAINE
 RUSSLANDDANEMARK
 RUSSLANDDaNEMARK
@@ -22099,12 +22166,14 @@ RegulaRytz
 Reims
 Reims PSG
 Reims – Bordeaux
+Reims – Lens
 Reims – Lyon
 Reims – Marseille
 Reims – saint-étienne
 Reims – saintétienne
 ReimsPSG
 Reims–Bordeaux
+Reims–Lens
 Reims–Lyon
 Reims–Marseille
 Reims–saint-étienne
@@ -22556,14 +22625,17 @@ Russland Dänemark
 Russland Ukraine Krieg
 Russland Ukraine-Konflikt
 Russland Ukraine-Krieg
+Russland Ukraine-Krieg Putin
 Russland UkraineKonflikt
 Russland UkraineKrieg
+Russland UkraineKrieg Putin
 Russland-Ukraine
 RusslandDanemark
 RusslandDänemark
 RusslandUkraine
 RusslandUkraine-Konflikt
 RusslandUkraine-Krieg
+RusslandUkraine-KriegPutin
 RusslandUkraineKrieg
 Ruth Beeckmans
 Ruth Moschner
@@ -22795,6 +22867,7 @@ SCHLAG DEN STAR
 SCHLAGER
 SCHLANGENINSEL
 SCHLEITHEIM
+SCHLESWIG-HOLSTEIN
 SCHLUSSGANG
 SCHOLEN SLUITEN
 SCHOLEN SLUITEN STORM
@@ -23769,6 +23842,8 @@ SchlagdenStar
 Schlager
 Schlangeninsel
 Schleitheim
+Schleswig-Holstein
+SchleswigHolstein
 Schlussgang
 Scholen sluiten
 Scholen sluiten storm
@@ -24772,6 +24847,7 @@ TAG HEUER
 TAG Heuer
 TAGESSCHAU
 TAGHeuer
+TAHA BOUHAFS
 TAHAR RAHIM
 TAIWAN
 TAJON BUCHANAN
@@ -25240,6 +25316,8 @@ Tag der Deutschen Einheit
 TagderArbeit
 TagderDeutschenEinheit
 Tagesschau
+Taha Bouhafs
+TahaBouhafs
 Tahar Rahim
 TaharRahim
 Taiwan
@@ -26393,6 +26471,7 @@ VIGILANCEORANGEORAGES
 VIGNETTE 2022
 VIKINGS : VALHALLA
 VIKINGS: VALHALLA
+VIKTOR VERHULST
 VILLA CAPRICE
 VILLARREAL
 VILLARREAL GEGEN JUVENTUS
@@ -26701,6 +26780,8 @@ Vignette2022
 Vikings : Valhalla
 Vikings: Valhalla
 Vikings:Valhalla
+Viktor Verhulst
+ViktorVerhulst
 Villa Caprice
 VillaCaprice
 Villarreal
@@ -27423,6 +27504,7 @@ YANDEX
 YANINA WICKMAYER
 YANN SOMMER
 YANNICK AGNEL
+YANNICK ALLÉNO
 YANNICK CHABLOZ
 YANNICK JADOT
 YANNICK NOAH
@@ -27471,10 +27553,12 @@ YaninaWickmayer
 Yann Sommer
 YannSommer
 Yannick Agnel
+Yannick Alléno
 Yannick Chabloz
 Yannick Jadot
 Yannick Noah
 YannickAgnel
+YannickAlléno
 YannickChabloz
 YannickJadot
 YannickNoah
@@ -27844,6 +27928,7 @@ abu dhabi
 ac milan
 acab
 accident autoroute
+accident bus pnl
 accident de chasse
 accident e42
 accident jura
@@ -27977,6 +28062,7 @@ albanie pologne
 albanien polen
 albano romina power
 albert bourla
+albstadt
 alcaraz
 alcatraz
 alderweireld
@@ -28204,6 +28290,7 @@ angelina jolie
 angelinajolie
 angers
 angers nice
+angers – bordeaux
 angers – lens
 angers – lyon
 angers – nice
@@ -28324,6 +28411,7 @@ antonov 225
 antonov an-225
 antony blinken
 antwerp
+antwerp  anderlecht
 antwerp  charleroi
 antwerp  club brugge
 antwerp  eupen
@@ -28504,6 +28592,7 @@ atlético madrid – liverpool
 atlético madrid – man city
 atlético madrid – milan
 atlético madrid – rayo
+atlético madrid – real
 atlético madrid – villarreal
 atomkrieg
 atp - finals
@@ -28710,6 +28799,7 @@ bayern gegen leverkusen
 bayern gegen mönchengladbach
 bayern gegen rb leipzig
 bayern gegen union berlin
+bayern gegen vfb stuttgart
 bayern gegen wolfsburg
 bayern munchen
 bayern munich
@@ -29017,6 +29107,7 @@ bonne annee 2022
 bonne année
 bonne saint-valentin
 bonneuil-en-france
+bono
 bonucci
 booba
 booba stade de france
@@ -29224,6 +29315,7 @@ bukayo saka
 bulgarie
 bumblebee
 bundesliga
+bundesliga 2
 bundesliga heute
 bundesrat
 bundesrat corona
@@ -29382,6 +29474,7 @@ catania
 cate blanchett
 catherine deneuve
 catherine hiegel
+catherine laborde
 catherine matausch
 catherine nay
 catherine ringer
@@ -30086,6 +30179,7 @@ de gea
 de ideale wereld
 de lijn
 de mol
+de mol finale
 de mol philippe
 de panne
 de slag om de schelde
@@ -30797,6 +30891,7 @@ f1 classement
 f1 imola 2022
 f1 live
 f1 mexique
+f1 miami
 f1 monza
 f1 monza 2021
 f1 news
@@ -31152,6 +31247,7 @@ francesco facchinetti
 francesuisse
 france–suisse
 francine jordi
+francis amuzu
 francis dannemark
 francis huster
 francis kere
@@ -32365,6 +32461,7 @@ jodiefoster
 jodium
 jodiumtabletten
 jodtabletten
+jody lukoki
 joe
 joe biden
 joe burrow
@@ -33344,6 +33441,7 @@ lorie
 lorient – lens
 lorient – lille
 lorient – lyon
+lorient – marseille
 lorient – metz
 lorient – monaco
 lorient – nantes
@@ -33626,6 +33724,7 @@ man city – fulham
 man city – leicester
 man city – liverpool
 man city – manchester united
+man city – newcastle
 man city – norwich city
 man city – southampton
 man city – sporting
@@ -34406,6 +34505,7 @@ muselier
 museum night fever
 museumsnacht bern
 muttertag
+muttertag sprüche
 mvp
 mxgp
 myanmar
@@ -34530,6 +34630,7 @@ nba
 nba draft 2021
 nba finals
 ncis
+ncuti gatwa
 ne le dis à personne
 neckertal
 nederland
@@ -34815,6 +34916,7 @@ olivier cousi
 olivier giroud
 olivier leonhardt
 olivier maire
+olivier marchal
 olivier minne
 olivier rousteing
 olivier ubeda
@@ -35051,6 +35153,7 @@ paris-sg – orléans
 paris-sg – reims
 paris-sg – saint-étienne
 paris-sg – séville
+paris-sg – troyes
 paris-tours 2021
 parisjackson
 parismatch
@@ -35169,6 +35272,7 @@ pcrtestaanvragen
 pearl harbor
 pecresse
 pedri
+pedro almodovar
 pegasus
 pegasus spyware
 pekin express
@@ -35233,6 +35337,7 @@ petru guelfucci
 peur primale
 pfadi winterthur
 pfadiwinterthur
+pfapa-syndrom
 pfeiffersches drüsenfieber
 pfizer
 pfizer aktie
@@ -35262,6 +35367,7 @@ philippe lellouche
 philippe manoeuvre
 philippe poutou
 philippe warrin
+philippines
 philips sonicare
 philousports
 phosphore
@@ -35718,6 +35824,7 @@ regula rytz
 reims
 reims psg
 reims – bordeaux
+reims – lens
 reims – lyon
 reims – marseille
 reims – saint-étienne
@@ -36013,6 +36120,7 @@ russland dänemark
 russland ukraine krieg
 russland ukraine-konflikt
 russland ukraine-krieg
+russland ukraine-krieg putin
 russland-ukraine
 russlanddanemark
 russlanddänemark
@@ -36218,6 +36326,7 @@ schlag den star
 schlager
 schlangeninsel
 schleitheim
+schleswig-holstein
 schlussgang
 scholen sluiten
 scholen sluiten storm
@@ -36848,6 +36957,7 @@ tag der arbeit
 tag der deutschen einheit
 tag heuer
 tagesschau
+taha bouhafs
 tahar rahim
 taiwan
 tajon buchanan
@@ -37529,6 +37639,7 @@ vigilanceorangeorages
 vignette 2022
 vikings : valhalla
 vikings: valhalla
+viktor verhulst
 villa caprice
 villarreal
 villarreal gegen juventus
@@ -37844,6 +37955,7 @@ yandex
 yanina wickmayer
 yann sommer
 yannick agnel
+yannick alléno
 yannick chabloz
 yannick jadot
 yannick noah
