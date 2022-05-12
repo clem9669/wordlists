@@ -145,8 +145,10 @@
 120H
 120HZ
 120Hz
+120M
 120h
 120hz
+120m
 123 PARE-BRISE
 123 Pare-Brise
 123 PareBrise
@@ -10598,6 +10600,7 @@ CHLÄMMERLI
 CHOCHODILE
 CHOCOBOXMICROMANIA
 CHOCOLAT
+CHOCOLAT BANANE
 CHOCOLATINE
 CHOCONOEL
 CHOCOSOLDES
@@ -12478,6 +12481,8 @@ ChocoNoel
 ChocoSoldes
 ChocoboXMicromania
 Chocolat
+Chocolat Banane
+ChocolatBanane
 Chocolatine
 Chokri
 Cholet
@@ -32482,6 +32487,7 @@ LE PETIT ROBERT
 LE PFC
 LE PIB
 LE PNF
+LE POINT
 LE PORTUGAL
 LE PREMIER
 LE PRESIDENT
@@ -34727,6 +34733,7 @@ Le Parlement
 Le Pass
 Le Pen
 Le Petit Robert
+Le Point
 Le Portugal
 Le Premier
 Le Priol
@@ -34946,6 +34953,7 @@ LePireGendre
 LePlanA
 LePlusBeauPanier
 LePocoEstAMoi
+LePoint
 LePortugal
 LePremier
 LePriol
@@ -69344,6 +69352,7 @@ chlämmerli
 chochodile
 chocoboxmicromania
 chocolat
+chocolat banane
 chocolatine
 choconoel
 chocosoldes
@@ -80671,6 +80680,7 @@ le petit robert
 le pfc
 le pib
 le pnf
+le point
 le portugal
 le premier
 le prg
