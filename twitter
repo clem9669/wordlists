@@ -2999,6 +2999,7 @@ ASMRCL
 ASMRCSA
 ASMRCT
 ASMREAL
+ASMSB29
 ASMSCB
 ASMSCO
 ASMSDR
@@ -3067,6 +3068,7 @@ ASSERCL
 ASSERCSA
 ASSESB29
 ASSESCO
+ASSESDR
 ASSESRFC
 ASSIA
 ASSIGNON
@@ -43392,6 +43394,7 @@ OLFCB
 OLFCGB
 OLFCL
 OLFCM
+OLFCN
 OLFCP
 OLFP
 OLGA
@@ -66078,6 +66081,7 @@ asmrcl
 asmrcsa
 asmrct
 asmreal
+asmsb29
 asmscb
 asmsco
 asmsdr
@@ -66143,6 +66147,7 @@ assercl
 assercsa
 assesb29
 assesco
+assesdr
 assesrfc
 assia
 assignon
@@ -86271,6 +86276,7 @@ olfcb
 olfcgb
 olfcl
 olfcm
+olfcn
 olfcp
 olfp
 olga
