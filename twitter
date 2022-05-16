@@ -289,6 +289,7 @@ $twtr
 1ERE CAN
 1ERE CIGARETTE
 1ERE DAUPHINE
+1ERE MINISTRE
 1ERECIGARETTE
 1EREDAUPHINE
 1ERJANVIER
@@ -388,9 +389,11 @@ $twtr
 1ere CAN
 1ere Cigarette
 1ere Dauphine
+1ere Ministre
 1ere can
 1ere cigarette
 1ere dauphine
+1ere ministre
 1ereCigarette
 1ereDauphine
 1erecigarette
@@ -448,13 +451,17 @@ $twtr
 1yearwithp1h
 1ÈRE CAN
 1ÈRE CIGARETTE
+1ÈRE MINISTRE
 1ÈRECIGARETTE
 1ère CAN
 1ère Cigarette
+1ère Ministre
 1ère can
 1ère cigarette
+1ère ministre
 1èreCAN
 1èreCigarette
+1èreMinistre
 1èrecigarette
 2 AVRIL
 2 Avril
@@ -9843,6 +9850,7 @@ CAMILLECOTTIN
 CAMILLEETIMAGES
 CAMILLELECOINTRE
 CAMILLELELLOUCHE
+CAMINONIKE
 CAMP NOU
 CAMP ROCK
 CAMP STAR
@@ -41949,6 +41957,7 @@ NEW YORK
 NEW YORK TIMES
 NEW ZEALAND
 NEWAMSTERDAM
+NEWARS
 NEWATH
 NEWAXIS
 NEWB
@@ -46057,6 +46066,7 @@ PREMIERDECROO
 PREMIERDF
 PREMIERE BD
 PREMIERE GUERRE
+PREMIERE MINISTRE
 PREMIERE SEANCE
 PREMIEREBD
 PREMIEREGUERRE
@@ -46075,6 +46085,7 @@ PREMIERTALES
 PREMIERTELEPHONE
 PREMIERZELDA
 PREMIUM
+PREMIÈRE MINISTRE
 PRENEZ
 PREORDERLIVE
 PREPARATEUR
@@ -47805,11 +47816,14 @@ PremierTéléphone
 PremierZelda
 Premiere BD
 Premiere Guerre
+Premiere Ministre
 Premiere Séance
 PremiereBD
 PremiereGuerre
 PremiereSéance
 Premium
+Première Ministre
+PremièreMinistre
 Prenez
 Pres de 50
 Presde50
@@ -51452,6 +51466,7 @@ SCHÜLER
 SCIADVICE22
 SCIENCE
 SCIENCECOMM21
+SCIENCEDIPLOMACY
 SCIENCES PO
 SCIENCES PO GRENOBLE
 SCIENCESPO
@@ -54194,6 +54209,7 @@ Schüler
 SciYou2021
 Science
 ScienceComm21
+ScienceDiplomacy
 Sciences Po
 Sciences Po Grenoble
 SciencesPo
@@ -69070,6 +69086,7 @@ camillecottin
 camilleetimages
 camillelecointre
 camillelellouche
+caminonike
 camp nou
 camp rock
 camp star
@@ -85790,6 +85807,7 @@ new york
 new york times
 new zealand
 newamsterdam
+newars
 newath
 newaxis
 newb
@@ -88493,6 +88511,7 @@ premierdf
 premierdisney
 premiere bd
 premiere guerre
+premiere ministre
 premiere séance
 premierebd
 premiereguerre
@@ -88511,6 +88530,7 @@ premiertales
 premiertéléphone
 premierzelda
 premium
+première ministre
 prenez
 preorderlive
 pres de 50
@@ -91012,6 +91032,7 @@ schüler
 sciadvice22
 science
 sciencecomm21
+sciencediplomacy
 sciences po
 sciences po grenoble
 sciencespo
