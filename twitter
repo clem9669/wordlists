@@ -3143,6 +3143,7 @@ ASSISESDUCOMMERCE
 ASSITA
 ASSOISUNTITRE
 ASSOMPTION
+ASSU 2000
 ASSURANCECHOMAGE
 ASSURANCEMARQUEURUNIBET
 ASTARISBORN
@@ -5245,6 +5246,8 @@ AssisesDuCommerce
 Assita
 AssoisUnTitre
 Assomption
+Assu 2000
+Assu2000
 AssuranceChomage
 AssuranceMarqueurUnibet
 Aster
@@ -5783,6 +5786,7 @@ BARBES
 BARBIA
 BARBIE
 BARBIER
+BARBORA KREJCIKOVA
 BARBOZA
 BARCA
 BARCAATHLETIC
@@ -7193,6 +7197,7 @@ BOURNEMOUTH
 BOURSEILLER
 BOURSORAMA
 BOURVIL
+BOURY
 BOUSAP
 BOUSQUET
 BOUTAIB
@@ -7960,6 +7965,8 @@ Barbero
 Barbes
 Barbie
 Barbier
+Barbora Krejcikova
+BarboraKrejcikova
 Barboza
 Barca
 BarcaAthletic
@@ -9293,6 +9300,7 @@ Bournemouth
 Bourseiller
 Boursorama
 Bourvil
+Boury
 Bousquet
 Boutaib
 Boutcha
@@ -27601,6 +27609,7 @@ JACQUEMUS
 JACQUES
 JACQUES AUXIETTE
 JACQUES BOURDIN
+JACQUES BOUTHIER
 JACQUES BREL
 JACQUES CARDOZE
 JACQUES CHIRAC
@@ -28046,6 +28055,7 @@ JENNIFER LAWRENCE
 JENNIFERLAWRENCE
 JENO
 JENS
+JENSEN
 JENY
 JEON JUNGKOOK
 JEONGHAN
@@ -28382,6 +28392,7 @@ JOHNNY HALLYDAY
 JOHNNY LOGAN
 JOHNNYBLANC
 JOHNNYDEPP
+JOHNNYDEPPVSAMBERHEARD
 JOHNNYHALLYDAY
 JOHNSON
 JOHNSON & JOHNSON
@@ -28963,6 +28974,7 @@ Jacquemus
 Jacques
 Jacques Auxiette
 Jacques Bourdin
+Jacques Bouthier
 Jacques Brel
 Jacques Cardoze
 Jacques Chirac
@@ -28976,6 +28988,7 @@ Jacques Vendroux
 Jacques Villeneuve
 JacquesAuxiette
 JacquesBourdin
+JacquesBouthier
 JacquesBrel
 JacquesCardoze
 JacquesChirac
@@ -29529,6 +29542,7 @@ Jennifer Lawrence
 JenniferLawrence
 Jeno
 Jens
+Jensen
 Jeny
 Jeongin
 Jeongyeon
@@ -29773,6 +29787,7 @@ Johnny Hallyday
 Johnny Logan
 JohnnyBlanc
 JohnnyDepp
+JohnnyDeppVsAmberHeard
 JohnnyHallyday
 JohnnyLogan
 Johnson
@@ -33197,6 +33212,7 @@ LE PARISIEN
 LE PARLEMENT
 LE PASS
 LE PCF
+LE PDG
 LE PEN
 LE PETIT ROBERT
 LE PFC
@@ -35488,6 +35504,7 @@ Le Nigeria
 Le Nord
 Le O
 Le PCF
+Le PDG
 Le PFC
 Le PIB
 Le PNF
@@ -35700,6 +35717,7 @@ LeNoelUbaldi
 LeNord
 LeO
 LePCF
+LePDG
 LePFC
 LePIB
 LePNF
@@ -38943,6 +38961,7 @@ MISSIONALPHA
 MISSIONCITIES
 MISSIONCLEOPATRE
 MISSIONCONVAINCRELCI
+MISSIONIMPOSSIBLE
 MISSIONIMPOSSIBLE7
 MISSIONLUNE
 MISSIONTRAVAUX
@@ -41524,6 +41543,7 @@ MissionAlpha
 MissionCities
 MissionCleopatre
 MissionConvaincreLCI
+MissionImpossible
 MissionImpossible7
 MissionLune
 MissionTravaux
@@ -57024,6 +57044,7 @@ TAVAIS
 TAVARES
 TAVERNIER
 TAX THE RICH
+TAXERLESRICHES
 TAXI
 TAXONOMIE
 TAXONOMY
@@ -58597,6 +58618,7 @@ Tavais
 Tavares
 Tavernier
 Tax the Rich
+TaxerLesRiches
 Taxi
 Taxonomie
 Taxonomy
@@ -67358,6 +67380,7 @@ assisesducommerce
 assita
 assoisuntitre
 assomption
+assu 2000
 assurancechomage
 assurancemarqueurunibet
 astarisborn
@@ -67962,6 +67985,7 @@ barbes
 barbia
 barbie
 barbier
+barbora krejcikova
 barboza
 barca
 barcaathletic
@@ -69373,6 +69397,7 @@ bournemouth
 bourseiller
 boursorama
 bourvil
+boury
 bousap
 bousquet
 boutaib
@@ -79306,6 +79331,7 @@ jacquemus
 jacques
 jacques auxiette
 jacques bourdin
+jacques bouthier
 jacques brel
 jacques cardoze
 jacques chirac
@@ -79798,6 +79824,7 @@ jennifer lawrence
 jenniferlawrence
 jeno
 jens
+jensen
 jeny
 jeon jungkook
 jeonghan
@@ -80112,6 +80139,7 @@ johnny hallyday
 johnny logan
 johnnyblanc
 johnnydepp
+johnnydeppvsamberheard
 johnnyhallyday
 johnnylogan
 johnson
@@ -82507,6 +82535,7 @@ le parisien
 le parlement
 le pass
 le pcf
+le pdg
 le pen
 le petit robert
 le pfc
@@ -86037,6 +86066,7 @@ missionalpha
 missioncities
 missioncleopatre
 missionconvaincrelci
+missionimpossible
 missionimpossible7
 missionlune
 missiontravaux
@@ -94699,6 +94729,7 @@ tavais
 tavares
 tavernier
 tax the rich
+taxerlesriches
 taxi
 taxonomie
 taxonomy
