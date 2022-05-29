@@ -421,6 +421,7 @@ ADELE EXARCHOPOULOS
 ADELE VAN REETH
 ADELE, 30
 ADEMOLA OKULAJA
+ADHS
 ADI HÜTTER
 ADIDAS
 ADIEU MONSIEUR HAFFMANN
@@ -988,6 +989,7 @@ ARIANE 5
 ARIANE BURRI
 ARIANE SEGUILLON
 ARIEGE
+ARIELLE DOMBASLE
 ARJEN LUBACH
 ARLES
 ARMA REFORGER
@@ -1174,6 +1176,7 @@ AVATAR 2
 AVENGERS : INFINITY WAR
 AVICII
 AVION AFGHANISTAN
+AVION DISPARU NÉPAL
 AVIRON JEUX OLYMPIQUES DE TOKYO 2020
 AVRIL LAVIGNE
 AVRILLAVIGNE
@@ -2296,6 +2299,8 @@ Ariane5
 ArianeBurri
 Arianeseguillon
 Ariege
+Arielle Dombasle
+ArielleDombasle
 Arjen Lubach
 ArjenLubach
 Arles
@@ -2569,7 +2574,9 @@ Avengers : Infinity War
 Avengers:InfinityWar
 Avicii
 Avion Afghanistan
+Avion disparu Népal
 AvionAfghanistan
+AviondisparuNépal
 Aviron jeux olympiques de Tokyo 2020
 AvironjeuxolympiquesdeTokyo2020
 Avril Lavigne
@@ -2641,6 +2648,7 @@ BAKAMBU
 BAKE OFF VLAANDEREN
 BAKOU
 BAKU
+BALE
 BALEXERT
 BALIKWISHA
 BALKANY
@@ -3387,6 +3395,7 @@ Bake off Vlaanderen
 BakeoffVlaanderen
 Bakou
 Baku
+Bale
 Balexert
 Balikwisha
 Balkany
@@ -4986,6 +4995,7 @@ CLIPPERS-SUNS
 CLIPPERSJAZZ
 CLIPPERS–SUNS
 CLOCLO
+CLOSE
 CLUB BRUGGE
 CLUB BRUGGE  ANDERLECHT
 CLUB BRUGGE  ANTWERP
@@ -6089,6 +6099,7 @@ ClippersJazz
 Clippers–Suns
 Clippers–Warriors
 Cloclo
+Close
 Club Brugge
 Club Brugge  Anderlecht
 Club Brugge  Antwerp
@@ -9079,7 +9090,10 @@ FCWinterthur
 FCZ
 FCZ BASEL
 FCZ Basel
+FCZ FRAUEN
+FCZ Frauen
 FCZBasel
+FCZFrauen
 FCZürich
 FCzurich
 FDP
@@ -10456,6 +10470,7 @@ GIORGIO PARISI
 GIOVANNI ANGIOLINI
 GIOVANNI FALCONE
 GIOVANNI ZARRELLA
+GIRL
 GIRMAY
 GIRO 2022
 GIRO D'ITALIA
@@ -10552,6 +10567,7 @@ GRAND ORAL BAC 2021
 GRAND PALAIS ÉPHÉMÈRE
 GRAND PRIX BERN
 GRAND PRIX F1
+GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
 GRAND-PRIX BERN
 GRANDORALBAC2021
@@ -11005,6 +11021,7 @@ Giovanni Zarrella
 GiovanniAngiolini
 GiovanniFalcone
 GiovanniZarrella
+Girl
 Girmay
 Giro 2022
 Giro d'Italia
@@ -11121,6 +11138,7 @@ Grand Corps Malade
 Grand Palais éphémère
 Grand Prix Bern
 Grand Prix F1
+Grand Prix Monaco
 Grand Prix Pays-Bas
 Grand Prix PaysBas
 Grand oral Bac 2021
@@ -11132,6 +11150,7 @@ GrandPalaiséphémère
 GrandPrix Bern
 GrandPrixBern
 GrandPrixF1
+GrandPrixMonaco
 GrandPrixPays-Bas
 GrandoralBac2021
 Granit Xhaka
@@ -11298,6 +11317,7 @@ GyranoKerk
 GÉRALDINE MAILLET
 GÉRARD LANVIN
 GÖTZ WERNER
+GÖTZIS!
 GÜNTHER JAUCH
 GéRARD DEPARDIEU
 GéRARDDEPARDIEU
@@ -11309,6 +11329,7 @@ GérardDepardieu
 GérardLanvin
 Götz Werner
 GötzWerner
+Götzis!
 Günther Jauch
 GüntherJauch
 H&AMP;M
@@ -11385,6 +11406,7 @@ HARRYMAGUIRE
 HARRYPOTTER
 HARRYPOTTER2
 HART ABER FAIR
+HATIK
 HAUPTSTADT
 HAUS DES GELDES
 HAUS DES GELDES STAFFEL 5
@@ -11662,6 +11684,7 @@ HarryRoselmack
 HarryStyles
 Hart aber Fair
 HartaberFair
+Hatik
 Hauptstadt
 Haus des Geldes
 Haus des Geldes Staffel 5
@@ -12709,6 +12732,7 @@ JEF CLEEREN
 JEF VERMASSEN
 JEFF BEZOS
 JEFF HOEYBERGHS
+JEFF PANACLOC
 JEFFBEZOS
 JEFFREY EPSTEIN
 JELLE GEENS
@@ -13341,8 +13365,10 @@ JefCleeren
 JefVermassen
 Jeff Bezos
 Jeff Hoeyberghs
+Jeff Panacloc
 JeffBezos
 JeffHoeyberghs
+JeffPanacloc
 Jeffrey Epstein
 JeffreyEpstein
 Jelle Geens
@@ -15336,6 +15362,7 @@ LUKA DONCIC
 LUKA ELSNER
 LUKA MKHEIDZE
 LUKA MODRIC
+LUKA MODRIĆ
 LUKAKU
 LUKAMODRIC
 LUKAS BÄRFUSS
@@ -15360,6 +15387,7 @@ LUUK DE JONG
 LUZERN
 LUZERN GEGEN ST. GALLEN
 LUZERN MARATHON 2021
+LUZERN SCHAFFHAUSEN
 LUZERNER STADTLAUF
 LVIV
 LWIW
@@ -16514,11 +16542,13 @@ Luka Doncic
 Luka Elsner
 Luka Mkheidze
 Luka Modric
+Luka modrić
 LukaDoncic
 LukaElsner
 LukaMkheidze
 LukaModric
 Lukaku
+Lukamodrić
 Lukas Bärfuss
 Lukas Dhont
 LukasBärfuss
@@ -16548,8 +16578,10 @@ Luuk de Jong
 LuukdeJong
 Luzern
 Luzern Marathon 2021
+Luzern Schaffhausen
 Luzern gegen St. Gallen
 LuzernMarathon2021
+LuzernSchaffhausen
 Luzerner Stadtlauf
 LuzernerStadtlauf
 LuzerngegenSt.Gallen
@@ -16841,6 +16873,7 @@ MARC SIMONCINI
 MARC VAN RANST
 MARC WILMOTS
 MARC-ANTOINE OLIVIER
+MARCA
 MARCEL AMONT
 MARCEL HIRSCHER
 MARCEL HUG
@@ -16858,6 +16891,7 @@ MARCO BELLOCCHIO
 MARCO BORRADORI
 MARCO BORSATO
 MARCO ODERMATT
+MARCO RIMA
 MARCO ROSSI
 MARCO VERRATTI
 MARCOROSSI
@@ -17937,6 +17971,7 @@ MarcRochat
 MarcSimoncini
 MarcVanRanst
 MarcWilmots
+Marca
 Marcel Amont
 Marcel Hirscher
 Marcel Hug
@@ -17962,12 +17997,14 @@ Marco Bellocchio
 Marco Borradori
 Marco Borsato
 Marco Odermatt
+Marco Rima
 Marco Rossi
 Marco Verratti
 MarcoBellocchio
 MarcoBorradori
 MarcoBorsato
 MarcoOdermatt
+MarcoRima
 MarcoRossi
 MarcoVerratti
 Marcus Thuram
@@ -22780,6 +22817,7 @@ RODE KRUIS
 RODE NEUZEN DAG
 RODEZ – TOULOUSE
 RODNEY ALCALA
+RODRYGO
 ROE V. WADE
 ROEBEL
 ROERMOND
@@ -23520,6 +23558,7 @@ Rodez – Toulouse
 Rodez–Toulouse
 Rodney Alcala
 RodneyAlcala
+Rodrygo
 Roe v. Wade
 Roebel
 Roermond
@@ -23800,6 +23839,7 @@ SAINT JEAN
 SAINT MICHEL
 SAINT RAPHAEL
 SAINT-ETIENNE
+SAINT-ETIENNE AUXERRE
 SAINT-ETIENNE MARSEILLE
 SAINT-GAUDENS
 SAINT-JEAN
@@ -24686,7 +24726,9 @@ Saint etienne foot
 Saint jean
 Saint raphael
 Saint-Etienne
+Saint-Etienne Auxerre
 Saint-Etienne Marseille
+Saint-EtienneAuxerre
 Saint-EtienneMarseille
 Saint-Gaudens
 Saint-Jean
@@ -24732,6 +24774,7 @@ Saint-étienne–Monaco
 Saint-étienne–Nice
 Saint-étienne–paris-sg
 SaintEtienne
+SaintEtienne Auxerre
 SaintEtienne Marseille
 SaintGaudens
 SaintJean
@@ -26445,8 +26488,10 @@ TRAVIS SCOTT KONZERT
 TREMBLEMENT DE TERRE
 TREMBLEMENT DE TERRE STRASBOURG
 TREMBLEMENTDETERRESTRASBOURG
+TREVISAN
 TREVOR NOAH
 TREVOR STRNAD
+TRIANGLE OF SADNESS
 TRIATHLON
 TRIATHLON GENEVE
 TRIATHLON JO
@@ -27198,10 +27243,13 @@ Tremblement de terre
 Tremblement de terre Strasbourg
 Tremblementdeterre
 TremblementdeterreStrasbourg
+Trevisan
 Trevor Noah
 Trevor Strnad
 TrevorNoah
 TrevorStrnad
+Triangle of Sadness
+TriangleofSadness
 Triathlon
 Triathlon JO
 Triathlon Olympia
@@ -29314,6 +29362,7 @@ adele exarchopoulos
 adele van reeth
 adele, 30
 ademola okulaja
+adhs
 adi hütter
 adidas
 adieu monsieur haffmann
@@ -29873,6 +29922,7 @@ ariane 5
 ariane burri
 ariane seguillon
 ariege
+arielle dombasle
 arjen lubach
 arles
 arma reforger
@@ -30032,6 +30082,7 @@ avatar 2
 avengers : infinity war
 avicii
 avion afghanistan
+avion disparu népal
 aviron jeux olympiques de tokyo 2020
 avril lavigne
 avrillavigne
@@ -30086,6 +30137,7 @@ bakambu
 bake off vlaanderen
 bakou
 baku
+bale
 balexert
 balikwisha
 balkany
@@ -31254,6 +31306,7 @@ clippers-suns
 clippersjazz
 clippers–suns
 cloclo
+close
 club brugge
 club brugge  anderlecht
 club brugge  antwerp
@@ -32495,6 +32548,7 @@ fcsion
 fcw
 fcz
 fcz basel
+fcz frauen
 fdp
 fear street
 fearstreet
@@ -33086,6 +33140,7 @@ giorgio parisi
 giovanni angiolini
 giovanni falcone
 giovanni zarrella
+girl
 girmay
 giro 2022
 giro d'italia
@@ -33167,6 +33222,7 @@ grand oral bac 2021
 grand palais éphémère
 grand prix bern
 grand prix f1
+grand prix monaco
 grand prix pays-bas
 grand-prix bern
 grandoralbac2021
@@ -33278,6 +33334,7 @@ gérard depardieu
 gérard lanvin
 gérarddepardieu
 götz werner
+götzis!
 günther jauch
 h&amp;m
 haaland
@@ -33352,6 +33409,7 @@ harrymaguire
 harrypotter
 harrypotter2
 hart aber fair
+hatik
 hauptstadt
 haus des geldes
 haus des geldes staffel 5
@@ -33955,6 +34013,7 @@ jef cleeren
 jef vermassen
 jeff bezos
 jeff hoeyberghs
+jeff panacloc
 jeffbezos
 jeffrey epstein
 jelle geens
@@ -35184,6 +35243,7 @@ luka doncic
 luka elsner
 luka mkheidze
 luka modric
+luka modrić
 lukaku
 lukamodric
 lukas bärfuss
@@ -35206,6 +35266,7 @@ luuk de jong
 luzern
 luzern gegen st. gallen
 luzern marathon 2021
+luzern schaffhausen
 luzerner stadtlauf
 lviv
 lwiw
@@ -35456,6 +35517,7 @@ marc simoncini
 marc van ranst
 marc wilmots
 marc-antoine olivier
+marca
 marcel amont
 marcel hirscher
 marcel hug
@@ -35473,6 +35535,7 @@ marco bellocchio
 marco borradori
 marco borsato
 marco odermatt
+marco rima
 marco rossi
 marco verratti
 marcorossi
@@ -37713,6 +37776,7 @@ rode kruis
 rode neuzen dag
 rodez – toulouse
 rodney alcala
+rodrygo
 roe v. wade
 roebel
 roermond
@@ -37900,6 +37964,7 @@ saint jean
 saint michel
 saint raphael
 saint-etienne
+saint-etienne auxerre
 saint-etienne marseille
 saint-gaudens
 saint-jean
@@ -39114,8 +39179,10 @@ travis scott konzert
 tremblement de terre
 tremblement de terre strasbourg
 tremblementdeterrestrasbourg
+trevisan
 trevor noah
 trevor strnad
+triangle of sadness
 triathlon
 triathlon geneve
 triathlon jo
