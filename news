@@ -1182,6 +1182,7 @@ AUTOTESTCOVID
 AUTRICHE
 AUTRICHE COVID
 AUTRICHE FOOT
+AUTRICHE-DANEMARK
 AUTRICHEFOOT
 AUXERRE SAINT-ETIENNE
 AUXERRE – GUINGAMP
@@ -2594,7 +2595,9 @@ Autotestpasssanitaire
 Autriche
 Autriche Covid
 Autriche foot
+Autriche-Danemark
 AutricheCovid
+AutricheDanemark
 Autrichefoot
 Auxerre Saint-Etienne
 Auxerre SaintEtienne
@@ -2778,6 +2781,7 @@ BATMAN BEGINS
 BATSHUAYI
 BATTLEFIELD 2042
 BATTLEFIELD 2042 BETA
+BAUER SUCHT FRAU
 BAUER, LEDIG, SUCHT
 BAUKE MOLLEMA
 BAUMWIPFELPFAD LAAX
@@ -2862,6 +2866,7 @@ BELGIQUE
 BELGIQUE  DANEMARK
 BELGIQUE - DANEMARK
 BELGIQUE - ESTONIE
+BELGIQUE - POLOGNE
 BELGIQUE DANEMARK
 BELGIQUE EURO 2021
 BELGIQUE FINLANDE
@@ -3593,8 +3598,10 @@ Battlefield 2042
 Battlefield 2042 Beta
 Battlefield2042
 Battlefield2042Beta
+Bauer sucht Frau
 Bauer, ledig, sucht
 Bauer,ledig,sucht
+BauersuchtFrau
 Bauke Mollema
 BaukeMollema
 Baumwipfelpfad Laax
@@ -3720,8 +3727,10 @@ BelgieOlympischeSpelen
 Belgique
 Belgique  Danemark
 Belgique  Estonie
+Belgique  Pologne
 Belgique - Danemark
 Belgique - Estonie
+Belgique - Pologne
 Belgique Danemark
 Belgique Euro 2021
 Belgique Finlande
@@ -3740,6 +3749,7 @@ Belgique – Pays-Bas
 Belgique – PaysBas
 Belgique-Danemark
 Belgique-Estonie
+Belgique-Pologne
 BelgiqueDanemark
 BelgiqueEuro2021
 BelgiqueFinlande
@@ -4609,6 +4619,7 @@ CAN2022
 CANADA
 CANADAIR
 CANAL
+CANCER ISABELLE BALKANY
 CANCER, FLORENT PAGNY
 CANDICE PASCAL
 CANDICE RENOIR
@@ -4669,6 +4680,7 @@ CAROLINE ROUX
 CARRASCO
 CARREFOUR
 CARREFOUR - BLACK FRIDAY
+CARREFOUR MARKET
 CARRO-BEL
 CARTE BELGIQUE
 CARTE COVID FRANCE
@@ -5278,6 +5290,7 @@ CROATIE ESPAGNE
 CROATIE FOOT
 CROATIE REPUBLIQUE TCHEQUE
 CROATIE – ECOSSE
+CROATIE – FRANCE
 CROATIE-ECOSSE
 CROATIEECOSSE
 CROATIEESPAGNE
@@ -5408,8 +5421,10 @@ CampomarinoLido
 Canada
 Canadair
 Canal
+Cancer Isabelle Balkany
 Cancer, Florent Pagny
 Cancer,FlorentPagny
+CancerIsabelleBalkany
 Candice Pascal
 Candice Renoir
 CandicePascal
@@ -5507,7 +5522,9 @@ Carrasco
 Carrefour
 Carrefour  Black Friday
 Carrefour - Black Friday
+Carrefour Market
 Carrefour-BlackFriday
+CarrefourMarket
 Carro-Bel
 CarroBel
 Carte belgique
@@ -6535,12 +6552,14 @@ Croatie Espagne
 Croatie Foot
 Croatie republique tcheque
 Croatie – Ecosse
+Croatie – France
 Croatie-Ecosse
 CroatieEcosse
 CroatieEspagne
 CroatieFoot
 Croatierepubliquetcheque
 Croatie–Ecosse
+Croatie–France
 Croix-Rouge
 Croix-Rouge Belgique
 Croix-RougeBelgique
@@ -6801,6 +6820,7 @@ DELTAVARIANTE
 DEM HORIZONT SO NAH
 DEMAIN NE MEURT JAMAIS
 DEMAIN NOUS APPARTIENT (SPOILER
+DEMANDE EN MARIAGE DISNEYLAND PARIS
 DEMARYIUS THOMAS
 DEMBA BA
 DEMBABA
@@ -7357,6 +7377,8 @@ Demain ne meurt jamais
 Demain nous appartient (spoiler
 Demainnemeurtjamais
 Demainnousappartient(spoiler
+Demande en mariage Disneyland Paris
+DemandeenmariageDisneylandParis
 Demaryius Thomas
 DemaryiusThomas
 Demba Ba
@@ -9214,6 +9236,8 @@ FCZ BASEL
 FCZ Basel
 FCZ FRAUEN
 FCZ Frauen
+FCZ-FRAUEN
+FCZ-Frauen
 FCZBasel
 FCZFrauen
 FCZürich
@@ -9467,6 +9491,7 @@ FRANCE AUX JEUX OLYMPIQUES D'HIVER
 FRANCE CORÉE DU SUD
 FRANCE COTE D'IVOIRE
 FRANCE COVID
+FRANCE CROATIE
 FRANCE CROATIE HANDBALL
 FRANCE ESPAGNE
 FRANCE ESTONIE
@@ -10063,6 +10088,7 @@ France Angleterre
 France Australie
 France Corée du Sud
 France Covid
+France Croatie
 France Croatie handball
 France Espagne
 France Estonie
@@ -10136,6 +10162,7 @@ FranceBelgique
 FranceBelgique 2021
 FranceCoréeduSud
 FranceCovid
+FranceCroatie
 FranceCroatiehandball
 FranceDanemark
 FranceEgypte handball
@@ -12274,6 +12301,7 @@ IOS 15.2
 IOS 15.3
 IOS 15.4
 IOS 15.5
+IOS 16 BETA
 IPAD BLACK FRIDAY
 IPCC
 IPCC REPORT 2021
@@ -13252,6 +13280,7 @@ JURA SUD – SAINT-ÉTIENNE
 JURASSIC PARK
 JURASSIC WORLD
 JURASSIC WORLD 3
+JURASSIC WORLD : LE MONDE D'APRÈS
 JURGEN CONINGS
 JURGENCONINGS
 JUSQU'A CE QUE LA MORT NOUS UNISSE
@@ -14110,10 +14139,12 @@ JuraSud–saint-étienne
 Jurassic Park
 Jurassic World
 Jurassic World 3
+Jurassic World : Le Monde d'après
 Jurassic world
 JurassicPark
 JurassicWorld
 JurassicWorld3
+JurassicWorld:LeMonded'après
 Jurassicworld
 Jurgen Conings
 JurgenConings
@@ -14371,6 +14402,7 @@ KINGSMAN
 KIRCHENGLOCKEN LÄUTEN UKRAINE
 KIRIBATI
 KIRSTY BERTARELLI
+KISS
 KISS A GINGER DAY
 KISSING BOOTH 3
 KISSING BOOTH 4
@@ -14447,6 +14479,7 @@ KRISTOFFER OLSSON
 KROATIE
 KROATIEN  TSCHECHIEN
 KROATIEN - TSCHECHIEN
+KROATIEN FRANKREICH
 KROATIEN GEGEN ÖSTERREICH
 KROATIEN SCHOTTLAND
 KROATIEN SPANIEN
@@ -14782,6 +14815,7 @@ KirchenglockenläutenUkraine
 Kiribati
 Kirsty Bertarelli
 KirstyBertarelli
+Kiss
 Kiss a Ginger Day
 KissaGingerDay
 Kissing Booth 3
@@ -14901,11 +14935,13 @@ KristofferOlsson
 Kroatie
 Kroatien  Tschechien
 Kroatien - Tschechien
+Kroatien Frankreich
 Kroatien Schottland
 Kroatien Spanien
 Kroatien Tschechien
 Kroatien gegen Österreich
 Kroatien-Tschechien
+KroatienFrankreich
 KroatienSchottland
 KroatienSpanien
 KroatienTschechien
@@ -15204,6 +15240,7 @@ LE GRINCH
 LE GRÊLÉ
 LE HAVRE
 LE JOUR D'APRÈS
+LE JOUR LE PLUS LONG
 LE LOCLE
 LE MANS
 LE MANS 2021
@@ -15217,6 +15254,7 @@ LE PARISIEN
 LE PHOCEEN
 LE PRENOM
 LE PRINCE ANDREW
+LE PRINCE LOUIS
 LE PRIX DE LA TRAHISON
 LE REMPLAÇANT
 LE SAMYN
@@ -15425,6 +15463,7 @@ LIL' KLEINE
 LILA BOUADMA
 LILIAN TOP CHEF
 LILIANE SAINT-PIERRE
+LILIBET
 LILLE - SALZBOURG
 LILLE FOOT
 LILLE SEVILLE
@@ -16053,11 +16092,13 @@ Le diable s'habille en Prada
 Le figaro
 Le flambeau streaming
 Le gendre de ma vie
+Le jour le plus long
 Le monde
 Le parisien
 Le phoceen
 Le prenom
 Le prince Andrew
+Le prince Louis
 Le prix de la trahison
 Le remplaçant
 Le sens de la famille
@@ -16157,6 +16198,7 @@ Leila Kaddour
 LeilaBekhti
 LeilaKaddour
 Leipzig
+Lejourlepluslong
 Leki
 Lemberg
 Lemonde
@@ -16231,6 +16273,7 @@ Leparisien
 Lephoceen
 Leprenom
 LeprinceAndrew
+LeprinceLouis
 Leprixdelatrahison
 Lequipe
 Leremplaçant
@@ -16435,6 +16478,7 @@ LilianTopChef
 Liliane Saint-Pierre
 Liliane SaintPierre
 LilianeSaint-Pierre
+Lilibet
 Lille  Salzbourg
 Lille - Salzbourg
 Lille Foot
@@ -17622,6 +17666,7 @@ MHD
 MIA'S
 MIA's
 MIAMI
+MICHAEL B. JORDAN
 MICHAEL BALLACK
 MICHAEL BAY
 MICHAEL CAINE
@@ -19051,6 +19096,7 @@ MeyremAlmaci
 MiG-29
 MiG29
 Miami
+Michael B. Jordan
 Michael Ballack
 Michael Bay
 Michael Caine
@@ -19074,6 +19120,7 @@ Michael Van Peel
 Michael Wendler
 Michael Wendler Laura Müller
 Michael Williams
+MichaelB.Jordan
 MichaelBallack
 MichaelBay
 MichaelCaine
@@ -19912,7 +19959,9 @@ NINTENDO SWITCH
 NINTENDO SWITCH BLACK FRIDAY
 NINTENDOSWITCH
 NIQAB
+NKUNKU
 NMBS
+NO ANGELS
 NO TIME TO DIE
 NOA LANG
 NOAH GESSER
@@ -20003,6 +20052,7 @@ NUIT BLANCHE 2021
 NUIT BLANCHE PARIS
 NUIT DES ÉTOILES FILANTES
 NUNO MENDES
+NUPES
 NURIA GORRITE
 NVIDIA-AKTIE
 NY CORONA
@@ -20430,7 +20480,10 @@ NintendoDirect
 NintendoSwitch
 NintendoSwitchBlackFriday
 Niqab
+Nkunku
+No Angels
 No Time To Die
+NoAngels
 NoTimeToDie
 Noa Lang
 NoaLang
@@ -20596,6 +20649,7 @@ OBSEQUES BOGDANOFF
 OBSEQUES GASPARD ULLIEL
 OBSEQUES REGINE
 OBSÈQUES DE JEAN-PIERRE PERNAUT TÉLÉVISÉ
+OBUS
 OBWALDEN
 OCCITANIE
 OCDE
@@ -20738,6 +20792,7 @@ OOSTENDE  ANDERLECHT
 OOSTENDE  ANTWERP
 OOSTENDE - CLUB BRUGGE
 OOSTENDE – STANDARD
+OOSTENRIJK DENEMARKEN
 OOSTENRIJK LOCKDOWN
 OOSTKAMP
 OPEN AUSTRALIE
@@ -20858,6 +20913,7 @@ Obsequesregine
 Obsèques de Jean-Pierre Pernaut télévisé
 Obsèques de JeanPierre Pernaut télévisé
 ObsèquesdeJean-PierrePernauttélévisé
+Obus
 Obwalden
 Occitanie
 Octobre Rose
@@ -21035,7 +21091,9 @@ Oostende-ClubBrugge
 OostendeAnderlecht
 OostendeAntwerp
 Oostende–Standard
+Oostenrijk Denemarken
 Oostenrijk lockdown
+OostenrijkDenemarken
 Oostenrijklockdown
 Oostkamp
 Open Australie
@@ -26798,6 +26856,7 @@ THUIS
 THUISBATTERIJ
 THYLANE BLONDEAU
 THÉRAPIE DE CONVERSION
+TIBO INSHAPE
 TIBO PERSYN
 TIELEMANS
 TIELT
@@ -26864,6 +26923,7 @@ TOM LEEB
 TOM LÜTHI
 TOM PARKER
 TOM PELPHREY
+TOM WAES
 TOMAS DE SOETE
 TOMASO TRUSSARDI
 TOMER SISLEY
@@ -27440,7 +27500,9 @@ Thylane Blondeau
 ThylaneBlondeau
 Thérapie de conversion
 Thérapiedeconversion
+Tibo Inshape
 Tibo Persyn
+TiboInshape
 TiboPersyn
 Tielemans
 Tielt
@@ -27552,6 +27614,7 @@ Tom Leeb
 Tom Lüthi
 Tom Parker
 Tom Pelphrey
+Tom Waes
 TomBrady
 TomBrusse
 TomCruise
@@ -27567,6 +27630,7 @@ TomLeeb
 TomLüthi
 TomParker
 TomPelphrey
+TomWaes
 Tomas De Soete
 TomasDeSoete
 Tomaso Trussardi
@@ -28039,6 +28103,8 @@ US Open 2021
 US Open Golf
 USAIN BOLT
 USAP
+USB-C
+USBC
 USDT
 USOPEN2021
 USOPENGOLF
@@ -30660,6 +30726,7 @@ autotest pass sanitaire
 autriche
 autriche covid
 autriche foot
+autriche-danemark
 autrichefoot
 auxerre saint-etienne
 auxerre – guingamp
@@ -30814,6 +30881,7 @@ batman begins
 batshuayi
 battlefield 2042
 battlefield 2042 beta
+bauer sucht frau
 bauer, ledig, sucht
 bauke mollema
 baumwipfelpfad laax
@@ -30894,6 +30962,7 @@ belgique
 belgique  danemark
 belgique - danemark
 belgique - estonie
+belgique - pologne
 belgique danemark
 belgique euro 2021
 belgique finlande
@@ -31462,6 +31531,7 @@ can 2022
 canada
 canadair
 canal
+cancer isabelle balkany
 cancer, florent pagny
 candice pascal
 candice renoir
@@ -31522,6 +31592,7 @@ caroline roux
 carrasco
 carrefour
 carrefour - black friday
+carrefour market
 carro-bel
 carte belgique
 carte covid france
@@ -32122,6 +32193,7 @@ croatie espagne
 croatie foot
 croatie republique tcheque
 croatie – Ecosse
+croatie – france
 croatie – écosse
 croatie-Ecosse
 croatie-ecosse
@@ -32347,6 +32419,7 @@ deltavariante
 dem horizont so nah
 demain ne meurt jamais
 demain nous appartient (spoiler
+demande en mariage disneyland paris
 demaryius thomas
 demba ba
 dembaba
@@ -33165,6 +33238,7 @@ fcw
 fcz
 fcz basel
 fcz frauen
+fcz-frauen
 fdp
 fear street
 fearstreet
@@ -33393,6 +33467,7 @@ france aux jeux olympiques d'hiver
 france corée du sud
 france cote d'ivoire
 france covid
+france croatie
 france croatie handball
 france espagne
 france estonie
@@ -34221,6 +34296,7 @@ iOS 15.2
 iOS 15.3
 iOS 15.4
 iOS 15.5
+iOS 16 beta
 iOS14.8
 iOS15
 iOS15.1
@@ -34228,6 +34304,7 @@ iOS15.2
 iOS15.3
 iOS15.4
 iOS15.5
+iOS16beta
 iPad Black Friday
 iPadBlackFriday
 iPhone 11 Pro
@@ -34369,6 +34446,7 @@ ios 15.2
 ios 15.3
 ios 15.4
 ios 15.5
+ios 16 beta
 ipad black friday
 ipcc
 ipcc report 2021
@@ -34937,6 +35015,7 @@ jura sud – saint-étienne
 jurassic park
 jurassic world
 jurassic world 3
+jurassic world : le monde d'après
 jurgen conings
 jurgenconings
 jusqu'a ce que la mort nous unisse
@@ -35150,6 +35229,7 @@ kingsman
 kirchenglocken läuten ukraine
 kiribati
 kirsty bertarelli
+kiss
 kiss a ginger day
 kissing booth 3
 kissing booth 4
@@ -35224,6 +35304,7 @@ kristoffer olsson
 kroatie
 kroatien  tschechien
 kroatien - tschechien
+kroatien frankreich
 kroatien gegen österreich
 kroatien schottland
 kroatien spanien
@@ -35464,6 +35545,7 @@ le grinch
 le grêlé
 le havre
 le jour d'après
+le jour le plus long
 le locle
 le mans
 le mans 2021
@@ -35477,6 +35559,7 @@ le parisien
 le phoceen
 le prenom
 le prince andrew
+le prince louis
 le prix de la trahison
 le remplaçant
 le samyn
@@ -35680,6 +35763,7 @@ lil' kleine
 lila bouadma
 lilian top chef
 liliane saint-pierre
+lilibet
 lille - salzbourg
 lille foot
 lille seville
@@ -36627,6 +36711,7 @@ mh370
 mhd
 mia's
 miami
+michael b. jordan
 michael ballack
 michael bay
 michael caine
@@ -37221,7 +37306,9 @@ nintendo switch
 nintendo switch black friday
 nintendoswitch
 niqab
+nkunku
 nmbs
+no angels
 no time to die
 noa lang
 noah gesser
@@ -37301,6 +37388,7 @@ nuit blanche 2021
 nuit blanche paris
 nuit des étoiles filantes
 nuno mendes
+nupes
 nuria gorrite
 nvidia-aktie
 ny corona
@@ -37322,6 +37410,7 @@ obseques bogdanoff
 obseques gaspard ulliel
 obseques regine
 obsèques de jean-pierre pernaut télévisé
+obus
 obwalden
 occitanie
 ocde
@@ -37441,6 +37530,7 @@ oostende  anderlecht
 oostende  antwerp
 oostende - club brugge
 oostende – standard
+oostenrijk denemarken
 oostenrijk lockdown
 oostkamp
 open australie
@@ -39742,6 +39832,7 @@ thuis
 thuisbatterij
 thylane blondeau
 thérapie de conversion
+tibo inshape
 tibo persyn
 tielemans
 tielt
@@ -39808,6 +39899,7 @@ tom leeb
 tom lüthi
 tom parker
 tom pelphrey
+tom waes
 tomas de soete
 tomaso trussardi
 tomer sisley
@@ -40132,6 +40224,7 @@ us open 2021
 us open golf
 usain bolt
 usap
+usb-c
 usdt
 usopengolf
 ute freudenberg
@@ -40817,10 +40910,13 @@ zürich wetter
 ÖLPREIS
 ÖSTERREICH
 ÖSTERREICH CORONA
+ÖSTERREICH DÄNEMARK
 Ölpreis
 Österreich
 Österreich Corona
+Österreich Dänemark
 ÖsterreichCorona
+ÖsterreichDänemark
 édouard philippe
 édouard philippe premier ministre
 édouardphilippe
@@ -40846,3 +40942,4 @@ zürich wetter
 ölpreis
 österreich
 österreich corona
+österreich dänemark
