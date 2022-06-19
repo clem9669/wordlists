@@ -1313,7 +1313,10 @@ $twtr
 82ème
 85EME
 85eme
+89 RN
+89 rn
 89EME
+89RN
 89eme
 8Avril
 8H 18H
@@ -3366,11 +3369,13 @@ ASSEFCM
 ASSEFCN
 ASSELINEAU
 ASSELOSC
+ASSEMBLEE
 ASSEMBLEE GENERALE
 ASSEMBLEE NATIONALE
 ASSEMBLEENATIOANLE
 ASSEMBLEENATIONAL
 ASSEMBLEENATIONALE
+ASSEMBLÉE
 ASSEMBLÉE GÉNÉRALE
 ASSEMBLÉE NATIONALE
 ASSEMBLÉENATIONALE
@@ -5580,6 +5585,7 @@ Asselineau
 AssembleeNatioanle
 AssembleeNational
 AssembleeNationale
+Assemblée
 Assemblée Générale
 Assemblée Nationale
 AssembléeGénérale
@@ -7742,6 +7748,7 @@ BRAVO LES FILLES
 BRAVO LES GARS
 BRAVO LES GONES
 BRAVO LES LESBIENNES
+BRAVO MACRON
 BRAVO MADAME
 BRAVO MARION
 BRAVO MAX
@@ -9922,6 +9929,7 @@ Bravo Champion
 Bravo Championne
 Bravo Clarisse
 Bravo Delphine
+Bravo Macron
 Bravo Madame
 Bravo Marion
 Bravo Max
@@ -9942,6 +9950,7 @@ BravoChampion
 BravoChampionne
 BravoClarisse
 BravoDelphine
+BravoMacron
 BravoMadame
 BravoMarion
 BravoMax
@@ -15645,6 +15654,7 @@ DISPATCH
 DISPENDIEUX
 DISQUE
 DISRUPTEDTIMES22
+DISSOLUTION
 DISTANZ
 DISTRICTZ
 DISTURBED
@@ -17240,6 +17250,7 @@ Disons
 Dispatch
 Dispendieux
 Disque
+Dissolution
 Distanz
 DistrictZ
 Disturbed
@@ -34374,6 +34385,7 @@ LA HAAS
 LA HAINE
 LA HAS
 LA HONGRIE
+LA HONTE
 LA JAMAIQUE
 LA JOCONDE
 LA JUVE
@@ -34996,6 +35008,7 @@ LE FEE
 LE FFP2
 LE FIGARO
 LE FLN
+LE FN
 LE FOLL
 LE FOOTBALL
 LE FOOTBALL IL A CHANGE
@@ -37392,6 +37405,7 @@ Le Drian
 Le FC Barcelone
 Le FFP2
 Le FLN
+Le FN
 Le Figaro
 Le Foll
 Le Football
@@ -37591,6 +37605,7 @@ LeFCBarcelone
 LeFCNantesEstAVendre
 LeFFP2
 LeFLN
+LeFN
 LeFigaro
 LeFlambeau
 LeFoll
@@ -39295,8 +39310,10 @@ MAJOR
 MAJORA'S MASK
 MAJORA'SMASK
 MAJORASMASK
+MAJORITE
 MAJORITEPRESIDENTIELLE
 MAJORITESILENCIEUSEVACCINEE
+MAJORITÉ
 MAJORQUE
 MAJTWITTER
 MAJTwitter
@@ -41978,6 +41995,7 @@ Majora'sMask
 Majoras Mask
 MajorasMask
 MajoritePresidentielle
+Majorité
 Majorque
 MajujuGospel
 Makala
@@ -52561,6 +52579,8 @@ RMCStory
 RMCUFC
 RMIRACLEDAY
 RMiracleDay
+RN 89
+RN89
 RNCP
 RNTP2021
 ROAD 96
@@ -56589,6 +56609,7 @@ STEPHANE LE FOLL
 STEPHANE MOLLIENS
 STEPHANE MOULIN
 STEPHANE PLAZA
+STEPHANE RAVACLEY
 STEPHANE RAVIER
 STEPHANE RICHARD
 STEPHANEBANCEL
@@ -56881,6 +56902,7 @@ STÉPHANE CLAIREAUX
 STÉPHANE GUY
 STÉPHANE LE FOLL
 STÉPHANE PLAZA
+STÉPHANE RAVACLEY
 STÉPHANE RAVIER
 STÉPHANEBLET
 STÉPHANIE
@@ -59470,6 +59492,7 @@ Stéphane Le Foll
 Stéphane Molliens
 Stéphane Moulin
 Stéphane Plaza
+Stéphane Ravacley
 Stéphane Ravier
 Stéphane Richard
 StéphaneBancel
@@ -59481,6 +59504,7 @@ StéphaneLeFoll
 StéphaneMolliens
 StéphaneMoulin
 StéphanePlaza
+StéphaneRavacley
 StéphaneRavier
 StéphaneRichard
 Stéphanie
@@ -70860,6 +70884,7 @@ asselosc
 assembleenatioanle
 assembleenational
 assembleenationale
+assemblée
 assemblée générale
 assemblée nationale
 assembléenationale
@@ -73105,6 +73130,7 @@ bravo les filles
 bravo les gars
 bravo les gones
 bravo les lesbiennes
+bravo macron
 bravo madame
 bravo marion
 bravo max
@@ -76907,6 +76933,7 @@ dispatch
 dispendieux
 disque
 disruptedtimes22
+dissolution
 distanz
 districtz
 disturbed
@@ -86120,6 +86147,7 @@ la haas
 la haine
 la has
 la hongrie
+la honte
 la jamaïque
 la joconde
 la juve
@@ -86777,6 +86805,7 @@ le fc barcelone
 le ffp2
 le figaro
 le fln
+le fn
 le foll
 le football
 le football il a changé
@@ -88726,6 +88755,7 @@ majora'smask
 majorasmask
 majoritepresidentielle
 majoritesilencieusevaccinee
+majorité
 majoritésilencieusevaccinée
 majorque
 majtwitter
@@ -95910,6 +95940,7 @@ rmcsport
 rmcstory
 rmcufc
 rmiracleday
+rn 89
 rncp
 rntp2021
 road 96
@@ -99053,6 +99084,7 @@ stéphane le foll
 stéphane molliens
 stéphane moulin
 stéphane plaza
+stéphane ravacley
 stéphane ravier
 stéphane richard
 stéphanebancel
@@ -103726,6 +103758,7 @@ zivilisten
 ziyech
 zizou
 zizou bergs
+zizoubergs
 zlan
 zlan2022
 zlatan
