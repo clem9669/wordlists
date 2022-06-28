@@ -2147,6 +2147,7 @@ ALGER
 ALGERIA
 ALGERIE
 ALGERIE CAMEROUN
+ALGERIE FRANCAISE
 ALGERIE MAROC
 ALGERIEDANSUNTITRE
 ALGERIEMAROC
@@ -2164,6 +2165,7 @@ ALGTUN
 ALGUGA
 ALGÉRIE
 ALGÉRIE CAMEROUN
+ALGÉRIE FRANÇAISE
 ALGÉRIENS
 ALHADHUR
 ALHADUR
@@ -4549,8 +4551,10 @@ Algeriens
 Algerije
 Algérie
 Algérie Cameroun
+Algérie Française
 Algérie Maroc
 AlgérieCameroun
+AlgérieFrançaise
 AlgérieMaroc
 Algériens
 Alhadhur
@@ -49561,6 +49565,7 @@ PIPA
 PIPO
 PIPPEN
 PIQUE
+PIQUET
 PIQUÉ
 PIRATES
 PIRE BD
@@ -51494,6 +51499,7 @@ Pipa
 Pipo
 Pippen
 Pique
+Piquet
 Piqué
 Pirates
 Pire BD
@@ -55966,6 +55972,7 @@ SEBASTIAN KURZ
 SEBASTIAN VETTEL
 SEBASTIANKURZ
 SEBASTIEN
+SEBASTIEN CHENU
 SEBASTIEN LECORNU
 SEBASTIEN LOEB
 SEBASTIEN OGIER
@@ -58973,6 +58980,7 @@ Sender
 Sending
 Sendung
 Sendungen
+Senechal
 Senegal
 Senf
 Sengun
@@ -60733,6 +60741,7 @@ Szene
 Szoboszlai
 SÄTZE
 SÉBASTIEN
+SÉBASTIEN CHENU
 SÉBASTIEN LECORNU
 SÉBASTIEN LOEB
 SÉCHERESSE
@@ -60752,9 +60761,11 @@ SÜLE
 Sätze
 Sète
 Sébastien
+Sébastien Chenu
 Sébastien Lecornu
 Sébastien Loeb
 Sébastien Ogier
+SébastienChenu
 SébastienLecornu
 SébastienLoeb
 SébastienOgier
@@ -70794,6 +70805,7 @@ algtun
 alguga
 algérie
 algérie cameroun
+algérie française
 algérie maroc
 algériemaroc
 algériens
@@ -95608,6 +95620,7 @@ pipa
 pipo
 pippen
 pique
+piquet
 piqué
 pirates
 pire bd
@@ -98972,6 +98985,7 @@ sender
 sending
 sendung
 sendungen
+senechal
 senegal
 senegambia
 senegy
@@ -100997,6 +101011,7 @@ szr2001
 sätze
 sète
 sébastien
+sébastien chenu
 sébastien lecornu
 sébastien loeb
 sébastien ogier
