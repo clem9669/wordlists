@@ -519,6 +519,7 @@ AID EL-FITR 2022
 AID EL-KEBIR
 AID MOUBARAK
 AIDE INFLATION RENTRÉE
+AIGLE
 AINBO PRINCESSE D'AMAZONIE
 AIR ALGERIE
 AIRBUS
@@ -1548,6 +1549,7 @@ Aidel-Fitr2022
 Aidel-Kebir
 Aidel-kebir
 Aidmoubarak
+Aigle
 Ainbo princesse d'amazonie
 Ainboprincessed'amazonie
 Air algerie
@@ -3407,6 +3409,7 @@ BOURG-EN-BRESSE
 BOURSE
 BOURSE CAC 40
 BOURSE DIRECT
+BOURVIL
 BOURY
 BOUSBECQUE
 BOUTCHA
@@ -3536,6 +3539,7 @@ BRUNO 12 COUPS DE MIDI
 BRUNO DE GROOTE
 BRUNO DUMONT
 BRUNO FERNANDES
+BRUNO GUILLON
 BRUNO LE MAIRE
 BRUNO NUYTTEN
 BRUNO RODRIGUEZ
@@ -4543,6 +4547,7 @@ Bourse Direct
 Bourse cac 40
 BourseDirect
 Boursecac40
+Bourvil
 Boury
 Bousbecque
 Boutcha
@@ -4745,6 +4750,7 @@ Bruno 12 coups de midi
 Bruno De Groote
 Bruno Dumont
 Bruno Fernandes
+Bruno Guillon
 Bruno Le Maire
 Bruno Nuytten
 Bruno Rodriguez
@@ -4752,6 +4758,7 @@ Bruno12coupsdemidi
 BrunoDeGroote
 BrunoDumont
 BrunoFernandes
+BrunoGuillon
 BrunoLeMaire
 BrunoNuytten
 BrunoRodriguez
@@ -4929,6 +4936,7 @@ CANDIDATS PRÉSIDENTIELLE 2022
 CANDYMAN
 CANELO
 CANELO ALVAREZ
+CANICULE
 CANJUERS
 CANNES
 CANNET-ROCHEVILLE
@@ -5040,6 +5048,7 @@ CEB2022
 CECILE HERNANDEZ
 CEDRIC BAEKELAND
 CEDRIC CHOUVIAT
+CEDRIC DOUMBE
 CEDRIC ITTEN
 CEDRIC JUBILLAR
 CEDRIC MCMILLAN
@@ -5793,6 +5802,7 @@ Candyman
 Canelo
 Canelo Alvarez
 CaneloAlvarez
+Canicule
 Canjuers
 Cannes
 Cannet-Rocheville
@@ -5970,12 +5980,14 @@ Cedric Itten
 Cedric Jubillar
 Cedric McMillan
 Cedric Villani
+Cedric doumbe
 CedricBaekeland
 CedricChouviat
 CedricItten
 CedricJubillar
 CedricMcMillan
 CedricVillani
+Cedricdoumbe
 Celine Bethmann
 Celine Dion
 CelineBethmann
@@ -7571,6 +7583,7 @@ DYLAN TEUNS
 DYLANN ROOF
 DYLANTEUNS
 DYNAMO DRESDEN
+DYNAMO GEGEN DORTMUND
 DYNAMO KIEW GEGEN BAYERN
 DYNAMO KYIV – BARCELONA
 DYNAMO KYIV – BAYERN
@@ -8357,11 +8370,13 @@ Dylann Roof
 DylannRoof
 Dynamo Dresden
 Dynamo Kiew gegen Bayern
+Dynamo gegen Dortmund
 Dynamo kyiv – Barcelona
 Dynamo kyiv – Bayern
 Dynamo kyiv – barcelona
 DynamoDresden
 DynamoKiewgegenBayern
+DynamogegenDortmund
 Dynamokyiv–Barcelona
 Dynamokyiv–Bayern
 Dynamokyiv–barcelona
@@ -8758,6 +8773,7 @@ ETAPE 10 TOUR DE FRANCE 2021
 ETAPE 15 TOUR DE FRANCE 2021
 ETAPE 2 TOUR DE FRANCE 2021
 ETAPE 8 TOUR DE FRANCE 2021
+ETAPE DU JOUR TOUR DE FRANCE 2022
 ETAPE TOUR DE FRANCE 15 JUILLET 2021
 ETAPE10TOURDEFRANCE2021
 ETAPE2TOURDEFRANCE2021
@@ -9394,11 +9410,13 @@ Etape 15 Tour de France 2021
 Etape 2 Tour de France 2021
 Etape 8 Tour de France 2021
 Etape Tour de France 15 juillet 2021
+Etape du jour Tour de France 2022
 Etape10TourdeFrance2021
 Etape15TourdeFrance2021
 Etape2TourdeFrance2021
 Etape8TourdeFrance2021
 EtapeTourdeFrance15juillet2021
+EtapedujourTourdeFrance2022
 Etats-Unis
 EtatsUnis
 Ete
@@ -9724,6 +9742,7 @@ FANNY ARDANT
 FANNY HENSEL
 FANNY LECLUYSE
 FANNY SMITH
+FANTASIA FESTIVAL
 FARMING SIMULATOR 22
 FARRAH EL-DIBANY
 FASIA JANSEN
@@ -9980,6 +9999,7 @@ FINALE LIGUE DES CHAMPIONS
 FINALE LIGUE DES CHAMPIONS 2022
 FINALE OPEN D'AUSTRALIE 2022
 FINALE TOP 14
+FINALE WIMBLEDON 2022
 FINALE WK DARTS
 FINALEEURO2021
 FINALISSIMA
@@ -10367,6 +10387,8 @@ FannyArdant
 FannyHensel
 FannyLecluyse
 FannySmith
+Fantasia Festival
+FantasiaFestival
 Farming Simulator 22
 FarmingSimulator22
 Farrah El-Dibany
@@ -10549,6 +10571,7 @@ Finale Ligue des champions 2022
 Finale Open d'Australie 2022
 Finale Top 14
 Finale WK darts
+Finale Wimbledon 2022
 Finale basket JO 2021
 Finale coupe de belgique
 FinaleChampionsLeague2022
@@ -10560,6 +10583,7 @@ FinaleLiguedeschampions2022
 FinaleOpend'Australie2022
 FinaleTop14
 FinaleWKdarts
+FinaleWimbledon2022
 FinalebasketJO2021
 Finalecoupedebelgique
 Finalissima
@@ -13230,6 +13254,7 @@ IRLANDE – PORTUGAL
 IRMGARD FURCHNER
 IRON MAIDEN
 IRONMAN RAPPERSWIL
+IRONMAN THUN
 IRPIN
 IRRÉDUCTIBLE
 ISAAC MBENZA
@@ -13604,7 +13629,9 @@ IrmgardFurchner
 Iron Maiden
 IronMaiden
 Ironman Rapperswil
+Ironman Thun
 IronmanRapperswil
+IronmanThun
 Irpin
 Irréductible
 Isaac Mbenza
@@ -14004,6 +14031,7 @@ JEROME RODRIGUES
 JERRY DOUGLAS
 JERRY HALL
 JESPER SKIBBY
+JESSE PLEMONS
 JESSICA AIDI
 JESSICA CHASTAIN
 JESSICA SIMPSON
@@ -14201,6 +14229,7 @@ JULIA VIGNALI
 JULIAN ALAPHILIPPE
 JULIAN ASSANGE
 JULIAN REICHELT
+JULIAN REIM
 JULIANAKANAAL
 JULIAROBERTS
 JULIE ANDRIEU
@@ -14744,6 +14773,8 @@ JerryDouglas
 JerryHall
 Jesper Skibby
 JesperSkibby
+Jesse Plemons
+JessePlemons
 Jessica Aidi
 Jessica Chastain
 Jessica Simpson
@@ -15092,9 +15123,11 @@ JuliaVignali
 Julian Alaphilippe
 Julian Assange
 Julian Reichelt
+Julian Reim
 JulianAlaphilippe
 JulianAssange
 JulianReichelt
+JulianReim
 Julianakanaal
 Julie Andrieu
 Julie Berthollet
@@ -16227,6 +16260,7 @@ LAAX
 LAB9
 LABRADOODLE
 LAC DE CHALAIN
+LAC LEMAN
 LACAZETTE
 LACHGAS
 LACHLAN MORTON
@@ -16319,6 +16353,7 @@ LAURENTBIGNOLAS
 LAURENTDELAHOUSSE
 LAURENTGBAGBO
 LAURY THILLEMAN
+LAUSANNE
 LAUSANNE-SPORT
 LAVAL
 LAVER CUP
@@ -16547,6 +16582,7 @@ LIA THOMAS
 LIA WÄLTI
 LIAM CHIPPERFIELD
 LIAM DELAP
+LIAM GALLAGHER
 LIAM MILLAR
 LIAMMILLAR
 LIAN BICHSEL
@@ -16618,6 +16654,7 @@ LILLE – TROYES
 LILLY BECKER
 LILY COLLINS
 LILY JAMES
+LILY SAFRA
 LILY-ROSE DEPP
 LIMBURG UNITED
 LINA WERTMULLER
@@ -16625,14 +16662,17 @@ LINAS-MONTLHÉRY
 LINDA DE MOL
 LINDA DE WIN
 LINDA EVANGELISTA
+LINDA FÄH
 LINDA NOBAT
 LINDADEWIN
+LINDNER HOCHZEIT
 LINDSAY LOHAN
 LINDSEY JACOBELLIS
 LINDSEY PEARLMAN
 LINE PAPIN
 LINE RENAUD
 LINKEDIN
+LINKERWOOFER
 LINO VENTURA
 LINOY ASHRAM
 LIO
@@ -17029,11 +17069,13 @@ Lab9
 Labonneepouse
 Labradoodle
 Lac de Chalain
+Lac leman
 Lacazette
 LacdeChalain
 Lachgas
 Lachlan Morton
 LachlanMorton
+Lacleman
 Lacorde
 Ladji Doucoure
 Ladji Doucouré
@@ -17188,6 +17230,7 @@ LaurentVimont
 LaurentdelaClergerie
 Laury Thilleman
 LauryThilleman
+Lausanne
 Lausanne-Sport
 LausanneSport
 Laval
@@ -17590,9 +17633,11 @@ LiaThomas
 LiaWälti
 Liam Chipperfield
 Liam Delap
+Liam Gallagher
 Liam Millar
 LiamChipperfield
 LiamDelap
+LiamGallagher
 LiamMillar
 Lian Bichsel
 LianBichsel
@@ -17718,11 +17763,13 @@ Lilly Becker
 LillyBecker
 Lily Collins
 Lily James
+Lily Safra
 Lily-Rose Depp
 Lily-RoseDepp
 LilyCollins
 LilyJames
 LilyRose Depp
+LilySafra
 Limburg United
 LimburgUnited
 Lina wertmuller
@@ -17731,12 +17778,16 @@ LinasMontlhéry
 Linawertmuller
 Linda De Win
 Linda Evangelista
+Linda Fäh
 Linda Nobat
 Linda de Mol
 LindaDeWin
 LindaEvangelista
+LindaFäh
 LindaNobat
 LindadeMol
+Lindner Hochzeit
+LindnerHochzeit
 Lindsay Lohan
 LindsayLohan
 Lindsey Jacobellis
@@ -17748,6 +17799,7 @@ Line Renaud
 LinePapin
 LineRenaud
 LinkedIn
+Linkerwoofer
 Lino Ventura
 LinoVentura
 Linoy Ashram
@@ -18389,6 +18441,7 @@ MANIFESTATION CONTRE LE PASS SANITAIRE
 MANIFESTATION GENEVE
 MANIFESTATION PASS SANITAIRE
 MANNARINO
+MANNEKEN PIS
 MANNY PACQUIAO
 MANON BRUNET
 MANON CLAEYS
@@ -18895,6 +18948,7 @@ MEXIQUE
 MEYREM ALMACI
 MH370
 MHD
+MIA FRYE
 MIA'S
 MIA's
 MIAMI
@@ -19512,6 +19566,8 @@ Manifestationcontrelepasssanitaire
 Manifestationgeneve
 Manifestationpasssanitaire
 Mannarino
+Manneken Pis
+MannekenPis
 Manny Pacquiao
 MannyPacquiao
 Manon Brunet
@@ -20404,6 +20460,8 @@ Meyrem Almaci
 MeyremAlmaci
 MiG-29
 MiG29
+Mia Frye
+MiaFrye
 Miami
 Michael B. Jordan
 Michael Ballack
@@ -22451,8 +22509,10 @@ Olympia2022Programm
 Olympia2026
 OlympiaProgramm
 OlympiaSkialpin
+Olympique Lyonnais
 Olympique de Marseille
 Olympique lyonnais
+OlympiqueLyonnais
 OlympiquedeMarseille
 Olympiquelyonnais
 Olympische Spelen
@@ -23182,6 +23242,7 @@ PORTUGAL TURQUIE
 PORTUGAL TÜRKEI
 PORTUGAL – QATAR
 PORTUGAL – RÉPUBLIQUE TCHÈQUE
+PORTUGAL – SUISSE
 PORTUGAL-ALLEMAGNE
 PORTUGAL-FRANKREICH
 PORTUGAL-FRANKRIJK
@@ -23226,6 +23287,7 @@ PRIMAIRE POPULAIRE
 PRIME ASSURANCE MALADIE 2022
 PRIME GAMING
 PRIMUS CLASSIC
+PRINCE
 PRINCE ANDREW
 PRINCE CHARLES
 PRINCE HARRY
@@ -23371,6 +23433,7 @@ PUKKELPOP 2021 LINE UP
 PUKKELPOP 2022
 PUKKELPOP2021
 PUKKELPOP2021LINEUP
+PULA
 PULP FICTION
 PUMA
 PUNEETH RAJKUMAR
@@ -24190,6 +24253,7 @@ Portugal macedoine
 Portugal – Qatar
 Portugal – République Tchèque
 Portugal – République tchèque
+Portugal – Suisse
 Portugal-Allemagne
 Portugal-Frankreich
 Portugal-Frankrijk
@@ -24216,6 +24280,7 @@ Portugalmacedoine
 Portugal–Qatar
 Portugal–RépubliqueTchèque
 Portugal–Républiquetchèque
+Portugal–Suisse
 Post
 Post Mitarbeiter
 PostMitarbeiter
@@ -24277,6 +24342,7 @@ PrimeGaming
 Primeassurancemaladie2022
 Primus Classic
 PrimusClassic
+Prince
 Prince Andrew
 Prince Charles
 Prince Harry
@@ -24384,6 +24450,7 @@ Pukkelpop 2022
 Pukkelpop2021
 Pukkelpop2021lineup
 Pukkelpop2022
+Pula
 Pulp Fiction
 PulpFiction
 Puma
@@ -26016,6 +26083,7 @@ SAINT-GAUDENS
 SAINT-JEAN
 SAINT-JEAN-DE-LUZ
 SAINT-LAURENT-DE-LA-SALANQUE
+SAINT-MALO
 SAINT-MARIN – ANGLETERRE
 SAINT-NICOLAS
 SAINT-PATRICK
@@ -26989,6 +27057,7 @@ Saint-Gaudens
 Saint-Jean
 Saint-Jean-de-Luz
 Saint-Laurent-de-la-Salanque
+Saint-Malo
 Saint-Marin – Angleterre
 Saint-Marin–Angleterre
 Saint-Nicolas
@@ -27036,6 +27105,7 @@ SaintGaudens
 SaintJean
 SaintJeandeLuz
 SaintLaurentdelaSalanque
+SaintMalo
 SaintMarin – Angleterre
 SaintMichel
 SaintNicolas
@@ -28574,6 +28644,7 @@ THE ARTIST
 THE ASCENT
 THE BATMAN
 THE BAY
+THE BEACH
 THE BOOK OF BOBA FETT
 THE BOYS
 THE CRY
@@ -28840,6 +28911,7 @@ TOUR DE FRANCE DIRECT
 TOUR DE FRANCE ETAPE DU JOUR
 TOUR DE FRANCE LAUSANNE
 TOUR DE FRANCE LIBOURNE
+TOUR DE FRANCE LIVE
 TOUR DE FRANCE VANDAAG
 TOUR DE LOMBARDIE 2021
 TOUR DE PROVENCE 2022
@@ -29232,6 +29304,7 @@ The Weeknd
 The Weeknd Sportpaleis
 The White Lotus
 The Witcher
+The beach
 The post
 The staircase
 The tourist
@@ -29289,6 +29362,7 @@ TheWhiteLotus
 TheWitcher
 Theaterplein Antwerpen
 TheaterpleinAntwerpen
+Thebeach
 Theo
 Theo Curin
 Theo Hernandez
@@ -29658,6 +29732,7 @@ Tour de France Lausanne
 Tour de France Libourne
 Tour de France direct
 Tour de France etape du jour
+Tour de France live
 Tour de France vandaag
 Tour de Lombardie 2021
 Tour de Provence 2022
@@ -29693,6 +29768,7 @@ TourdeFranceLausanne
 TourdeFranceLibourne
 TourdeFrancedirect
 TourdeFranceetapedujour
+TourdeFrancelive
 TourdeFrancevandaag
 TourdeLombardie2021
 TourdeProvence2022
@@ -30404,7 +30480,9 @@ VINCENT KRIECHMAYR
 VINCENT NICLO
 VINCENT VAN TRIER
 VINCENZ
+VINGEGAARD
 VIOLA AMHERD
+VIOLA CALLIGARIS
 VIRGIL ABLOH
 VIRGIN RIVER
 VIRGINIA GIUFFRE
@@ -30777,8 +30855,11 @@ VincentNiclo
 VincentVanTrier
 Vincentgerard
 Vincenz
+Vingegaard
 Viola Amherd
+Viola Calligaris
 ViolaAmherd
+ViolaCalligaris
 Virgil Abloh
 VirgilAbloh
 Virgin River
@@ -32189,6 +32270,7 @@ aid el-fitr 2022
 aid el-kebir
 aid moubarak
 aide inflation rentrée
+aigle
 ainbo princesse d'amazonie
 air algerie
 airbus
@@ -33484,6 +33566,7 @@ bourg-en-bresse
 bourse
 bourse cac 40
 bourse direct
+bourvil
 boury
 bousbecque
 boutcha
@@ -33609,6 +33692,7 @@ bruno 12 coups de midi
 bruno de groote
 bruno dumont
 bruno fernandes
+bruno guillon
 bruno le maire
 bruno nuytten
 bruno rodriguez
@@ -33754,6 +33838,7 @@ candidats présidentielle 2022
 candyman
 canelo
 canelo alvarez
+canicule
 canjuers
 cannes
 cannet-rocheville
@@ -33863,6 +33948,7 @@ ceb 2022
 cecile hernandez
 cedric baekeland
 cedric chouviat
+cedric doumbe
 cedric itten
 cedric jubillar
 cedric mcmillan
@@ -34974,6 +35060,7 @@ dylan teuns
 dylann roof
 dylanteuns
 dynamo dresden
+dynamo gegen dortmund
 dynamo kiew gegen bayern
 dynamo kyiv – barcelona
 dynamo kyiv – bayern
@@ -35312,6 +35399,7 @@ etape 10 tour de france 2021
 etape 15 tour de france 2021
 etape 2 tour de france 2021
 etape 8 tour de france 2021
+etape du jour tour de france 2022
 etape tour de france 15 juillet 2021
 etape10tourdefrance2021
 etape2tourdefrance2021
@@ -35507,6 +35595,7 @@ fanny ardant
 fanny hensel
 fanny lecluyse
 fanny smith
+fantasia festival
 farming simulator 22
 farrah el-dibany
 fasia jansen
@@ -35678,6 +35767,7 @@ finale ligue des champions
 finale ligue des champions 2022
 finale open d'australie 2022
 finale top 14
+finale wimbledon 2022
 finale wk darts
 finaleeuro2021
 finalissima
@@ -36904,6 +36994,7 @@ irlande – portugal
 irmgard furchner
 iron maiden
 ironman rapperswil
+ironman thun
 irpin
 irréductible
 isaac mbenza
@@ -37243,6 +37334,7 @@ jerome rodrigues
 jerry douglas
 jerry hall
 jesper skibby
+jesse plemons
 jessica aidi
 jessica chastain
 jessica simpson
@@ -37435,6 +37527,7 @@ julia vignali
 julian alaphilippe
 julian assange
 julian reichelt
+julian reim
 julianakanaal
 juliaroberts
 julie andrieu
@@ -37925,6 +38018,7 @@ laax
 lab9
 labradoodle
 lac de chalain
+lac leman
 lacazette
 lachgas
 lachlan morton
@@ -38013,6 +38107,7 @@ laurentbignolas
 laurentdelahousse
 laurentgbagbo
 laury thilleman
+lausanne
 lausanne-sport
 laval
 laver cup
@@ -38238,6 +38333,7 @@ lia thomas
 lia wälti
 liam chipperfield
 liam delap
+liam gallagher
 liam millar
 liammillar
 lian bichsel
@@ -38307,6 +38403,7 @@ lille – troyes
 lilly becker
 lily collins
 lily james
+lily safra
 lily-rose depp
 limburg united
 lina wertmuller
@@ -38314,14 +38411,17 @@ linas-montlhéry
 linda de mol
 linda de win
 linda evangelista
+linda fäh
 linda nobat
 lindadewin
+lindner hochzeit
 lindsay lohan
 lindsey jacobellis
 lindsey pearlman
 line papin
 line renaud
 linkedin
+linkerwoofer
 lino ventura
 linoy ashram
 lio
@@ -38762,6 +38862,7 @@ manifestation contre le pass sanitaire
 manifestation geneve
 manifestation pass sanitaire
 mannarino
+manneken pis
 manny pacquiao
 manon brunet
 manon claeys
@@ -39266,6 +39367,7 @@ mexique
 meyrem almaci
 mh370
 mhd
+mia frye
 mia's
 miami
 michael b. jordan
@@ -40721,6 +40823,7 @@ portugal turquie
 portugal türkei
 portugal – qatar
 portugal – république tchèque
+portugal – suisse
 portugal-allemagne
 portugal-frankreich
 portugal-frankrijk
@@ -40765,6 +40868,7 @@ primaire populaire
 prime assurance maladie 2022
 prime gaming
 primus classic
+prince
 prince andrew
 prince charles
 prince harry
@@ -40856,6 +40960,7 @@ pukkelpop 2021 line up
 pukkelpop 2022
 pukkelpop2021
 pukkelpop2021lineup
+pula
 pulp fiction
 puma
 puneeth rajkumar
@@ -41477,6 +41582,7 @@ saint-gaudens
 saint-jean
 saint-jean-de-luz
 saint-laurent-de-la-salanque
+saint-malo
 saint-marin – angleterre
 saint-nicolas
 saint-patrick
@@ -42476,6 +42582,7 @@ the artist
 the ascent
 the batman
 the bay
+the beach
 the book of boba fett
 the boys
 the cry
@@ -42740,6 +42847,7 @@ tour de france direct
 tour de france etape du jour
 tour de france lausanne
 tour de france libourne
+tour de france live
 tour de france vandaag
 tour de lombardie 2021
 tour de provence 2022
@@ -43188,7 +43296,9 @@ vincent kriechmayr
 vincent niclo
 vincent van trier
 vincenz
+vingegaard
 viola amherd
+viola calligaris
 virgil abloh
 virgin river
 virginia giuffre
