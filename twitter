@@ -7117,6 +7117,7 @@ BESTE
 BESTE JOHN
 BESTELLUNG
 BESTER NEUZUGANG
+BESTER SPIELER
 BESTERNEUZUGANG
 BESTFANARMY
 BESTIE
@@ -9446,7 +9447,9 @@ Beste John
 BesteJohn
 Bestellung
 Bester Neuzugang
+Bester Spieler
 BesterNeuzugang
+BesterSpieler
 Bestie
 Besuch
 BetWishesParionsSport
@@ -47086,6 +47089,7 @@ NO WAY HOME
 NOA LANG
 NOAH
 NOAH LUNSI
+NOAH OHIO
 NOAH'S ARK
 NOAH'SARK
 NOAHLUNSI
@@ -55135,6 +55139,7 @@ ROUCHES
 ROUEN
 ROUENNAIS
 ROUGE
+ROUGE BAISER
 ROUKY
 ROUMANIE
 ROUSSEAU
@@ -56344,6 +56349,8 @@ Rouble
 Rouen
 Rouennais
 Rouge
+Rouge Baiser
+RougeBaiser
 Rouky
 Roumanie
 Rousseau
@@ -63198,6 +63205,7 @@ THOMASVAN
 THOMASVANDERPLAETSEN
 THOMPSON
 THOR
+THOR 4
 THORFINN
 THORGAN
 THORIN
@@ -63562,6 +63570,7 @@ TOP CHEF
 TOP GUN
 TOP GUN MAVERICK
 TOP SCORER
+TOP TRANSFER
 TOP10
 TOP100SSU
 TOP14
@@ -64927,6 +64936,8 @@ Thomasson
 ThomasvanderPlaetsen
 Thompson
 Thor
+Thor 4
+Thor4
 ThorLoveAndThunder
 ThorRagnarok
 Thorfinn
@@ -65297,6 +65308,7 @@ Top Chef
 Top Gun
 Top Gun Maverick
 Top Scorer
+Top Transfer
 Top10
 Top14
 Top2
@@ -65313,6 +65325,7 @@ TopGun
 TopGunMaverick
 TopKDOTopAchat
 TopScorer
+TopTransfer
 Topchef
 Topf
 Topito
@@ -75283,6 +75296,7 @@ beste
 beste john
 bestellung
 bester neuzugang
+bester spieler
 besterneuzugang
 bestfanarmy
 bestie
@@ -95831,9 +95845,11 @@ noSVP
 noa lang
 noah
 noah lunsi
+noah ohio
 noah's ark
 noah'sark
 noahlunsi
+noahohio
 noahs ark
 noahsark
 noaja
@@ -100315,6 +100331,7 @@ rouches
 rouen
 rouennais
 rouge
+rouge baiser
 rouky
 roumanie
 rousseau
@@ -104473,6 +104490,7 @@ thomasvanderplaetsen
 thomasvermaelen
 thompson
 thor
+thor 4
 thorfinn
 thorgan
 thorin
@@ -104856,6 +104874,7 @@ top chef
 top gun
 top gun maverick
 top scorer
+top transfer
 top10
 top100ssu
 top14
