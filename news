@@ -412,6 +412,7 @@ ABiggerSplash
 AC MILAN
 AC Milan
 ACAB
+ACCIDENT A16
 ACCIDENT A7
 ACCIDENT AUTOROUTE
 ACCIDENT BUS PNL
@@ -800,6 +801,7 @@ ANDERLECHT GENT
 ANDERLECHT LACI
 ANDERLECHT VITESSE
 ANDERLECHT – CHARLEROI SC
+ANDERLECHT – LYON
 ANDERLECHT – STANDARD
 ANDERLECHT – UNION SAINT-GILLOISE
 ANDERLECHT-ANTWERP
@@ -1374,6 +1376,7 @@ Abtreibung Schweiz
 AbtreibungSchweiz
 Abu Dhabi
 AbuDhabi
+Accident A16
 Accident A7
 Accident E42
 Accident Jura
@@ -1382,6 +1385,7 @@ Accident MarcPhilippe Daubresse
 Accident autoroute
 Accident bus PNL
 Accident de chasse
+AccidentA16
 AccidentA7
 AccidentE42
 AccidentJura
@@ -2029,6 +2033,7 @@ Anderlecht Gent
 Anderlecht Vitesse
 Anderlecht laci
 Anderlecht – Charleroi sc
+Anderlecht – Lyon
 Anderlecht – Standard
 Anderlecht – Union Saint-Gilloise
 Anderlecht – Union SaintGilloise
@@ -2049,6 +2054,7 @@ AnderlechtStandard
 AnderlechtVitesse
 Anderlechtlaci
 Anderlecht–Charleroisc
+Anderlecht–Lyon
 Anderlecht–Standard
 Anderlecht–UnionSaint-Gilloise
 Andi Zeqiri
@@ -3446,6 +3452,7 @@ BOULI LANNERS
 BOULOGNE-SUR-MER
 BOURDIN
 BOURG-EN-BRESSE
+BOURGES
 BOURSE
 BOURSE CAC 40
 BOURSE DIRECT
@@ -4591,6 +4598,7 @@ BoulognesurMer
 Bourdin
 Bourg-en-Bresse
 BourgenBresse
+Bourges
 Bourse
 Bourse Direct
 Bourse cac 40
@@ -4925,6 +4933,7 @@ CAC 40
 CAC40
 CACTUSFESTIVAL
 CADIX – BARCELONA
+CAEN – NANTES
 CAF
 CAIN VELASQUEZ
 CAISSE DE COMPENSATION VAUD
@@ -5008,6 +5017,7 @@ CARA DELEVINGNE
 CARA ROUGE
 CARBURANT
 CARCASSE
+CARCASSONNE
 CARD STOP
 CARD STOP NUMMER
 CARDANO
@@ -5710,6 +5720,7 @@ CRITERIUM JURASSIEN
 CRITERIUM JURASSIEN 2022
 CRITICAL MASS
 CRITICALMASS
+CROATIE
 CROATIE - ECOSSE
 CROATIE ECOSSE
 CROATIE ESPAGNE
@@ -5774,6 +5785,8 @@ CYRILHANOUNA
 Cactusfestival
 Cadix – barcelona
 Cadix–barcelona
+Caen – Nantes
+Caen–Nantes
 Cain Velasquez
 CainVelasquez
 Caisse de compensation Vaud
@@ -5900,6 +5913,7 @@ CaraDelevingne
 CaraRouge
 Carburant
 Carcasse
+Carcassonne
 Card Stop
 Card Stop nummer
 CardStop
@@ -7086,6 +7100,7 @@ Criteriumjurassien
 Criteriumjurassien2022
 Critical Mass
 CriticalMass
+Croatie
 Croatie - Ecosse
 Croatie Ecosse
 Croatie Espagne
@@ -7236,6 +7251,7 @@ DANCING WITH THE STARS
 DANCING WITH THE STARS 2022
 DANEMARK REPUBLIQUE TCHEQUE
 DANEMARK – AUTRICHE
+DANEMARK – ESPAGNE
 DANEMARKREPUBLIQUETCHEQUE
 DANI ALVES
 DANIEL AUTEUIL
@@ -7751,8 +7767,10 @@ Dancingwiththestars
 Dancingwiththestars2022
 Danemark republique tcheque
 Danemark – Autriche
+Danemark – Espagne
 Danemarkrepubliquetcheque
 Danemark–Autriche
+Danemark–Espagne
 Dani Alves
 DaniAlves
 Daniel Auteuil
@@ -13387,6 +13405,7 @@ INSUFFISANCECARDIAQUE
 INTEMPÉRIES MARSEILLE
 INTER
 INTER  EMPOLI
+INTER  MONACO
 INTER  SHERIFF
 INTER GEGEN SALERNITANA
 INTER JUVE
@@ -13397,6 +13416,7 @@ INTER NAPOLI
 INTER – BOLOGNE
 INTER – JUVENTUS
 INTER – MILAN
+INTER – MONACO
 INTER – NAPLES
 INTER – REAL
 INTER – ROMA
@@ -13568,6 +13588,7 @@ IVAN PATZAICHIN
 IVAN REITMAN
 IVAN SANTINI
 IVANA TRUMP
+IVANA TRUMPS
 IVG
 IVRY-SUR-SEINE
 IWEIN SEGERS
@@ -13755,6 +13776,7 @@ Intempéries Marseille
 IntempériesMarseille
 Inter
 Inter  Empoli
+Inter  Monaco
 Inter  Sheriff
 Inter Juve
 Inter Liverpool
@@ -13765,6 +13787,7 @@ Inter gegen Salernitana
 Inter – Bologne
 Inter – Juventus
 Inter – Milan
+Inter – Monaco
 Inter – Naples
 Inter – Real
 Inter – Roma
@@ -13775,6 +13798,7 @@ InterJuve
 InterLiverpool
 InterMailand
 InterMilan
+InterMonaco
 InterNapoli
 InterSheriff
 Interceptor
@@ -13794,6 +13818,7 @@ InternetExplorer
 Inter–Bologne
 Inter–Juventus
 Inter–Milan
+Inter–Monaco
 Inter–Naples
 Inter–Real
 Inter–Roma
@@ -14011,7 +14036,9 @@ IvanPatzaichin
 IvanReitman
 IvanSantini
 Ivana Trump
+Ivana Trumps
 IvanaTrump
+IvanaTrumps
 Ivry-sur-Seine
 IvrysurSeine
 Iwein Segers
@@ -14200,6 +14227,7 @@ JEAN-YVES LAMBERT
 JEAN-YVES LE DRIAN
 JEANJEAN
 JEANJEAN TENNIS
+JEANNE BALIBAR
 JEANNE MAS
 JEANNIE LONGO
 JEANPAUL HUCHON
@@ -14919,7 +14947,9 @@ Jeanfrancoisstevenin
 Jeanjean
 Jeanjean tennis
 Jeanjeantennis
+Jeanne Balibar
 Jeanne Mas
+JeanneBalibar
 JeanneMas
 Jeannie Longo
 JeannieLongo
@@ -16453,6 +16483,7 @@ LA BAULE
 LA BONNE EPOUSE
 LA CAN
 LA CHANSON SECRETE
+LA CHEVRE
 LA CHUTE DU PRÉSIDENT
 LA CORDE
 LA DUCHÈRE LYON
@@ -17261,6 +17292,7 @@ La Vie est un long fleuve tranquille
 La Vie et rien d'autre
 La Voix du Nord
 La bonne epouse
+La chevre
 La corde
 La fille coupée en deux
 La fine fleur
@@ -17330,6 +17362,7 @@ Lac de Chalain
 Lac leman
 Lacazette
 LacdeChalain
+Lachevre
 Lachgas
 Lachlan Morton
 LachlanMorton
@@ -22525,6 +22558,8 @@ OM Benfica
 OM Braga
 OM MARTIGUES
 OM Martigues
+OM NORWICH
+OM Norwich
 OM SERVETTE
 OM STRASBOURG
 OM Servette
@@ -22556,6 +22591,7 @@ OMLOOP VAN VLAANDEREN
 OMMARTIGUES
 OMMartigues
 OMNIUM
+OMNorwich
 OMPAOK
 OMPSG
 OMPSG chaine
@@ -23082,6 +23118,7 @@ PANDORA PAPERS LISTE
 PANNE INTERNET FIBRE
 PANNE ÉLECTRICITÉ SCHAERBEEK
 PANO
+PANOT
 PANTELLERIA
 PANZERHAUBITZE 2000
 PAOK
@@ -23378,6 +23415,7 @@ PFIZER AKTIE
 PFIZERGATE
 PFLEGEINITIATIVE
 PFOS
+PFÄFFIKERSEE
 PGA CHAMPIONSHIP
 PGA Championship
 PGAChampionship
@@ -23815,6 +23853,7 @@ Panne électricité Schaerbeek
 Panneinternetfibre
 PanneélectricitéSchaerbeek
 Pano
+Panot
 Pantelleria
 Panzerhaubitze 2000
 Panzerhaubitze2000
@@ -24306,6 +24345,7 @@ Pfizer Aktie
 PfizerAktie
 Pfizergate
 Pflegeinitiative
+Pfäffikersee
 Phaedra Hoste
 PhaedraHoste
 Phantastische Tierwesen
@@ -24857,6 +24897,7 @@ QUEVILLY – CAEN
 QUI A TUÉ SARA
 QUI VEUT ETRE MON ASSOCIÉ
 QUILLAN
+QUINO
 QUINTANA
 QUINTEN HERMANS
 QUIZ OHNE GRENZEN
@@ -24920,6 +24961,7 @@ Qui a tué Sara
 Qui veut etre mon associé
 QuiatuéSara
 Quillan
+Quino
 Quintana
 Quinten Hermans
 QuintenHermans
@@ -24967,6 +25009,7 @@ RAFFAELLACARRa
 RAFFAELLACARRÀ
 RAFFAELLACARRà
 RAFFARIN
+RAFLE DU VEL D'HIV
 RAGE AGAINST THE MACHINE
 RAHEEM STERLING
 RAHEEMSTERLING
@@ -25323,6 +25366,7 @@ ROD LAVER
 RODE DUIVELS
 RODE KRUIS
 RODE NEUZEN DAG
+RODEZ
 RODEZ – TOULOUSE
 RODNEY ALCALA
 RODRIGUEZ
@@ -25562,6 +25606,8 @@ RaffaellaCarra
 RaffaellaCarrà
 Raffaellacarra
 Raffarin
+Rafle du Vel d'Hiv
+RafleduVeld'Hiv
 Rage Against The Machine
 Rage against the machine
 RageAgainstTheMachine
@@ -26130,6 +26176,7 @@ Rode Neuzen Dag
 RodeDuivels
 RodeKruis
 RodeNeuzenDag
+Rodez
 Rodez – Toulouse
 Rodez–Toulouse
 Rodney Alcala
@@ -26679,6 +26726,7 @@ SCHWERER UNFALL AM BERNINAPASS
 SCHWIMMBAD
 SCHWINGEN
 SCHWINGEN LIVE
+SCHWINGFEST THUN
 SCHWÄGALP-SCHWINGET
 SCHÖNE BESCHERUNG
 SCHÖNENGRUND
@@ -26840,6 +26888,7 @@ SIMON AND GARFUNKEL
 SIMON CASTALDI
 SIMON COLEMAN
 SIMON DESTHIEUX
+SIMON EHAMMER
 SIMON LEVIEV
 SIMONA HALEP
 SIMONE BALLACK
@@ -27142,6 +27191,7 @@ START RONDE VAN VLAANDEREN
 STATE OF PLAY
 STATE STREET
 STAU GOTTHARD
+STAU GOTTHARDTUNNEL
 STAVELOT
 STEAL THE DEAL
 STEAM DECK
@@ -27820,6 +27870,8 @@ Schwimmbad
 Schwingen
 Schwingen live
 Schwingenlive
+Schwingfest Thun
+SchwingfestThun
 Schwägalp-Schwinget
 SchwägalpSchwinget
 Schöne Bescherung
@@ -28085,12 +28137,14 @@ Simon Ammann
 Simon Castaldi
 Simon Coleman
 Simon Desthieux
+Simon Ehammer
 Simon Leviev
 Simon and Garfunkel
 SimonAmmann
 SimonCastaldi
 SimonColeman
 SimonDesthieux
+SimonEhammer
 SimonLeviev
 Simona Halep
 SimonaHalep
@@ -28509,7 +28563,9 @@ State of Play
 StateStreet
 StateofPlay
 Stau Gotthard
+Stau Gotthardtunnel
 StauGotthard
+StauGotthardtunnel
 Stavelot
 Steal The Deal
 StealTheDeal
@@ -29240,6 +29296,7 @@ TOMMY FURY
 TOMMY LEE
 TOMORROWLAND
 TOMORROWLAND 2022
+TOMORROWLAND TICKETS
 TONGA
 TONHALLE ZÜRICH
 TONI BRUNNER
@@ -29272,6 +29329,7 @@ TORNADO TSCHECHIEN
 TORNADOTSCHECHIEN
 TOTALE MONDFINSTERNIS
 TOTALENERGIES
+TOTEN HOSEN
 TOTO WOLFF
 TOTTENHAM
 TOTTENHAM – ARSENAL
@@ -30037,7 +30095,9 @@ TommyFury
 TommyLee
 Tomorrowland
 Tomorrowland 2022
+Tomorrowland tickets
 Tomorrowland2022
+Tomorrowlandtickets
 Tonga
 Tonhalle Zürich
 TonhalleZürich
@@ -30093,6 +30153,8 @@ TornadoTschechien
 TotalEnergies
 Totale Mondfinsternis
 TotaleMondfinsternis
+Toten Hosen
+TotenHosen
 Toto Wolff
 TotoWolff
 Tottenham
@@ -31993,8 +32055,10 @@ WonderoftheSeas
 Woodkid
 Wordle
 World Matchplay Darts
+World Matchplay darts
 World Trade Center
 WorldMatchplayDarts
+WorldMatchplaydarts
 WorldTradeCenter
 Worldline
 Wortel-Kolonie
@@ -32602,6 +32666,7 @@ abtreibung schweiz
 abu dhabi
 ac milan
 acab
+accident a16
 accident a7
 accident autoroute
 accident bus pnl
@@ -32979,6 +33044,7 @@ anderlecht gent
 anderlecht laci
 anderlecht vitesse
 anderlecht – charleroi sc
+anderlecht – lyon
 anderlecht – standard
 anderlecht – union saint-gilloise
 anderlecht-antwerp
@@ -34019,6 +34085,7 @@ bouli lanners
 boulogne-sur-mer
 bourdin
 bourg-en-bresse
+bourges
 bourse
 bourse cac 40
 bourse direct
@@ -34234,6 +34301,7 @@ cac 40
 cac40
 cactusfestival
 cadix – barcelona
+caen – nantes
 caf
 cain velasquez
 caisse de compensation vaud
@@ -34316,6 +34384,7 @@ cara delevingne
 cara rouge
 carburant
 carcasse
+carcassonne
 card stop
 card stop nummer
 cardano
@@ -35006,6 +35075,7 @@ criterium jurassien
 criterium jurassien 2022
 critical mass
 criticalmass
+croatie
 croatie - Ecosse
 croatie - ecosse
 croatie ecosse
@@ -35111,6 +35181,7 @@ dancing with the stars
 dancing with the stars 2022
 danemark republique tcheque
 danemark – autriche
+danemark – espagne
 danemarkrepubliquetcheque
 dani alves
 daniel auteuil
@@ -37445,6 +37516,7 @@ insuffisancecardiaque
 intempéries marseille
 inter
 inter  empoli
+inter  monaco
 inter  sheriff
 inter gegen salernitana
 inter juve
@@ -37455,6 +37527,7 @@ inter napoli
 inter – bologne
 inter – juventus
 inter – milan
+inter – monaco
 inter – naples
 inter – real
 inter – roma
@@ -37624,6 +37697,7 @@ ivan patzaichin
 ivan reitman
 ivan santini
 ivana trump
+ivana trumps
 ivg
 ivry-sur-seine
 iwein segers
@@ -37807,6 +37881,7 @@ jean-yves lambert
 jean-yves le drian
 jeanjean
 jeanjean tennis
+jeanne balibar
 jeanne mas
 jeannie longo
 jeanpaul huchon
@@ -38489,6 +38564,7 @@ la baule
 la bonne epouse
 la can
 la chanson secrete
+la chevre
 la chute du président
 la corde
 la duchère lyon
@@ -40748,6 +40824,7 @@ om - psg chaine
 om benfica
 om braga
 om martigues
+om norwich
 om servette
 om strasbourg
 om-bordeaux
@@ -40919,6 +40996,7 @@ pandora papers liste
 panne internet fibre
 panne électricité schaerbeek
 pano
+panot
 pantelleria
 panzerhaubitze 2000
 paok
@@ -41201,6 +41279,7 @@ pfizer aktie
 pfizergate
 pflegeinitiative
 pfos
+pfäffikersee
 pga championship
 phaedra hoste
 phantastische tierwesen
@@ -41567,6 +41646,7 @@ quevilly – caen
 qui a tué sara
 qui veut etre mon associé
 quillan
+quino
 quintana
 quinten hermans
 quiz ohne grenzen
@@ -41603,6 +41683,7 @@ raffaella carrà
 raffaellacarra
 raffaellacarrà
 raffarin
+rafle du vel d'hiv
 rage against the machine
 raheem sterling
 raheemsterling
@@ -41936,6 +42017,7 @@ rod laver
 rode duivels
 rode kruis
 rode neuzen dag
+rodez
 rodez – toulouse
 rodney alcala
 rodriguez
@@ -42369,6 +42451,7 @@ schwerer unfall am berninapass
 schwimmbad
 schwingen
 schwingen live
+schwingfest thun
 schwägalp-schwinget
 schöne bescherung
 schönengrund
@@ -42526,6 +42609,7 @@ simon and garfunkel
 simon castaldi
 simon coleman
 simon desthieux
+simon ehammer
 simon leviev
 simona halep
 simone ballack
@@ -42798,6 +42882,7 @@ start ronde van vlaanderen
 state of play
 state street
 stau gotthard
+stau gotthardtunnel
 stavelot
 steal the deal
 steam deck
@@ -43365,6 +43450,7 @@ tommy fury
 tommy lee
 tomorrowland
 tomorrowland 2022
+tomorrowland tickets
 tonga
 tonhalle zürich
 toni brunner
@@ -43397,6 +43483,7 @@ tornado tschechien
 tornadotschechien
 totale mondfinsternis
 totalenergies
+toten hosen
 toto wolff
 tottenham
 tottenham – arsenal
