@@ -426,6 +426,7 @@ ACID
 ACIDE LACTIQUE
 ACMilan
 ACTION
+ACTION EDF
 ACTION FACEBOOK
 AD
 AD ASTRA
@@ -724,6 +725,7 @@ ALPHONSO DAVIES
 ALPINE A110
 ALPINE F1
 ALPNACH
+ALPSTEIN
 ALS SYMPTOME
 ALTA BADIA
 ALTENAHR
@@ -830,6 +832,7 @@ ANDRÉ HOFFMANN
 ANDRÉ WILMS
 ANDY CARROLL
 ANDY DELORT
+ANDY DIOUF
 ANDY FLETCHER
 ANDY MURRAY
 ANDY PEELMAN
@@ -1400,7 +1403,9 @@ Acide lactique
 Acidelactique
 Acouteauxtirés
 Action
+Action EDF
 Action Facebook
+ActionEDF
 ActionFacebook
 Ad Astra
 AdAstra
@@ -1913,6 +1918,7 @@ Alpine F1
 AlpineA110
 AlpineF1
 Alpnach
+Alpstein
 Als Symptome
 AlsSymptome
 Alta Badia
@@ -2096,12 +2102,14 @@ AndréHoffmann
 AndréWilms
 Andy Carroll
 Andy Delort
+Andy Diouf
 Andy Fletcher
 Andy Murray
 Andy Peelman
 Andy Warhol
 AndyCarroll
 AndyDelort
+AndyDiouf
 AndyFletcher
 AndyMurray
 AndyPeelman
@@ -2910,6 +2918,7 @@ BALTHAZAR
 BANANE MASK SINGER
 BANGLADESH
 BANKSY
+BAPTISTE GERMAIN
 BAPTISTE GIABICONI
 BARBADE
 BARBADOS
@@ -2923,6 +2932,7 @@ BARBARALUTHI
 BARBARALuTHI
 BARBARIANS
 BARBARIANS TONGA
+BARBENTANE
 BARBRA STREISAND
 BARBY KELLY
 BARBYKELLY
@@ -3300,6 +3310,7 @@ BKW
 BKveldrijden
 BKveldrijden2022
 BKwielrennen
+BLAARMEERSEN
 BLACK ADAM
 BLACK FRIDAY
 BLACK FRIDAY DEALS
@@ -3743,7 +3754,9 @@ Banane Mask Singer
 BananeMaskSinger
 Bangladesh
 Banksy
+Baptiste Germain
 Baptiste Giabiconi
+BaptisteGermain
 BaptisteGiabiconi
 Barbade
 Barbados
@@ -3759,6 +3772,7 @@ BarbaraSarafian
 Barbarians
 Barbarians Tonga
 BarbariansTonga
+Barbentane
 Barbra Streisand
 BarbraStreisand
 Barby Kelly
@@ -4357,6 +4371,7 @@ Björn Ulvaeus
 Björn andresen
 BjörnUlvaeus
 Björnandresen
+Blaarmeersen
 Black Adam
 Black Friday
 Black Friday Deals
@@ -5407,6 +5422,7 @@ CIRYLGANE
 CISGENDER
 CITYMESH
 CIVILISATION ORELSAN
+CLAES OLDENBURG
 CLAIRE BOROTRA
 CLAIRE BOVÉ
 CLAIRE CHAZAL
@@ -6579,6 +6595,8 @@ Cisgender
 Citymesh
 Civilisation Orelsan
 CivilisationOrelsan
+Claes Oldenburg
+ClaesOldenburg
 Claire Borotra
 Claire Bové
 Claire Chazal
@@ -7263,6 +7281,7 @@ DANEMARK REPUBLIQUE TCHEQUE
 DANEMARK – AUTRICHE
 DANEMARK – ESPAGNE
 DANEMARKREPUBLIQUETCHEQUE
+DANI
 DANI ALVES
 DANIEL AUTEUIL
 DANIEL CARR
@@ -7361,6 +7380,7 @@ DE BENDE
 DE BRUYNE
 DE GAULLE
 DE GEA
+DE HAAN
 DE IDEALE WERELD
 DE LIGT
 DE LIJN
@@ -7782,6 +7802,7 @@ Danemark – Espagne
 Danemarkrepubliquetcheque
 Danemark–Autriche
 Danemark–Espagne
+Dani
 Dani Alves
 DaniAlves
 Daniel Auteuil
@@ -7939,6 +7960,7 @@ De Bende
 De Bruyne
 De Gaulle
 De Gea
+De Haan
 De Ligt
 De Lijn
 De Mol
@@ -7964,6 +7986,7 @@ DeBende
 DeBruyne
 DeGaulle
 DeGea
+DeHaan
 DeLigt
 DeLijn
 DeMol
@@ -9948,6 +9971,8 @@ FAST AND FURIOUS
 FAST AND FURIOUS 7
 FAST AND FURIOUS 9
 FASTANDFURIOUS
+FATA MORGANA
+FATALE
 FATMA GIRIK
 FAUSTINE BOLLAERT
 FAUSTINE NOGHEROTTO
@@ -10139,6 +10164,7 @@ FEU D'ARTIFICE 15 AOUT
 FEU D'ARTIFICE 2021
 FEU D'ARTIFICE NOUVEL AN
 FEU D'ARTIFICE RENNES
+FEU DE FORET
 FEUERLAUF
 FEUERWERK 1. AUGUST
 FEUSISBERG
@@ -10168,6 +10194,7 @@ FIFA 22 Ultimate Edition
 FIFA 22 WEB APP
 FIFA 22 Web App
 FIFA 22 ratings
+FIFA 23
 FIFA-RANKING
 FIFA-WELTRANGLISTE
 FIFA-Weltrangliste
@@ -10176,6 +10203,7 @@ FIFA22
 FIFA22UltimateEdition
 FIFA22WebApp
 FIFA22ratings
+FIFA23
 FIFAWeltrangliste
 FIFAranking
 FIGEAC
@@ -10277,6 +10305,7 @@ FLUVIUS
 FLUVOXAMIN
 FNAC BLACK FRIDAY
 FOIRE DU TRONE
+FOIX
 FOMO FILM
 FONTAINEBLEAU
 FOOT
@@ -10514,6 +10543,7 @@ FUNAMBULE ROUEN
 FURIANI
 FURY VS WILDER 3
 FUSILLADE LYON
+FUSILLADE PARIS
 FUSSBALL OLYMPIA
 FUSSBALL SCHWEIZ
 FUSSBALL SCHWEIZ ITALIEN
@@ -10612,6 +10642,9 @@ Fast&amp;Furious9
 FastandFurious
 FastandFurious7
 FastandFurious9
+Fata morgana
+Fatale
+Fatamorgana
 Fatma Girik
 FatmaGirik
 Faustine Bollaert
@@ -10736,6 +10769,7 @@ Feu d'artifice 15 aout
 Feu d'artifice 2021
 Feu d'artifice Nouvel an
 Feu d'artifice Rennes
+Feu de foret
 Feud'artifice
 Feud'artifice14juillet2021
 Feud'artifice14juillet2021Toulouse
@@ -10744,6 +10778,7 @@ Feud'artifice15aout
 Feud'artifice2021
 Feud'artificeNouvelan
 Feud'artificeRennes
+Feudeforet
 Feuerlauf
 Feuerwerk 1. August
 Feuerwerk1.August
@@ -10910,6 +10945,7 @@ Fnac Black Friday
 FnacBlackFriday
 Foire du trone
 Foiredutrone
+Foix
 Fomo film
 Fomofilm
 Fontainebleau
@@ -11335,7 +11371,9 @@ Furiani
 Fury vs Wilder 3
 FuryvsWilder3
 Fusillade Lyon
+Fusillade Paris
 FusilladeLyon
+FusilladeParis
 Fussball Olympia
 Fussball Schweiz
 Fussball Schweiz Italien
@@ -13384,6 +13422,7 @@ INCENDIE BINCHE
 INCENDIE BRUXELLES
 INCENDIE EN COURS
 INCENDIE GENÈVE
+INCENDIE GIRONDE
 INCENDIE GRAU-DU-ROI
 INCENDIE LANDES
 INCENDIE LE ROEULX
@@ -13525,11 +13564,13 @@ ISHAQ ABDULRAZAK
 ISLAM MAKHACHEV
 ISLAMABAD
 ISLANDE
+ISLANDE – FRANCE
 ISLETEN
 ISOLEMENT COVID
 ISRAEL
 ISS
 ISS DOCH WURSCHT
+ISSA DOUMBIA
 ISTANBUL
 IT
 IT'S COMING HOME
@@ -13558,6 +13599,7 @@ ITALIE SUISSE
 ITALIE VOETBAL
 ITALIE ZWITSERLAND
 ITALIE – ALLEMAGNE
+ITALIE – BELGIQUE
 ITALIE – ESPAGNE
 ITALIE – SUISSE
 ITALIE-ANGLETERRE
@@ -13720,6 +13762,7 @@ InaAogo
 Incendie Binche
 Incendie Bruxelles
 Incendie Genève
+Incendie Gironde
 Incendie Grau-du-Roi
 Incendie GrauduRoi
 Incendie Landes
@@ -13733,6 +13776,7 @@ Incendie neuchatel
 IncendieBinche
 IncendieBruxelles
 IncendieGenève
+IncendieGironde
 IncendieGrau-du-Roi
 IncendieLandes
 IncendieMarseille
@@ -13937,11 +13981,15 @@ Islam Makhachev
 IslamMakhachev
 Islamabad
 Islande
+Islande – France
+Islande–France
 Isleten
 Isolement Covid
 IsolementCovid
 Israel
 Iss doch WURSCHT
+Issa Doumbia
+IssaDoumbia
 IssdochWURSCHT
 Istanbul
 It's coming home
@@ -13978,6 +14026,7 @@ Italie foot
 Italie macedoine
 Italie voetbal
 Italie – Allemagne
+Italie – Belgique
 Italie – Espagne
 Italie – Suisse
 Italie-Allemagne
@@ -14047,6 +14096,7 @@ ItaliengegenUngarn
 ItalienÖsterreich
 Italievoetbal
 Italie–Allemagne
+Italie–Belgique
 Italie–Espagne
 Italie–Suisse
 Italië  Wales
@@ -14513,6 +14563,7 @@ JULIANAKANAAL
 JULIAROBERTS
 JULIE ANDRIEU
 JULIE BERTHOLLET
+JULIE BERTIN
 JULIE DE BONA
 JULIE DOUCET
 JULIE GAYET
@@ -15433,6 +15484,7 @@ JulianReim
 Julianakanaal
 Julie Andrieu
 Julie Berthollet
+Julie Bertin
 Julie Doucet
 Julie Gayet
 Julie Hantson
@@ -15446,6 +15498,7 @@ Julie de Bona
 Julie pietri
 JulieAndrieu
 JulieBerthollet
+JulieBertin
 JulieDoucet
 JulieGayet
 JulieHantson
@@ -15829,6 +15882,7 @@ KNIVES OUT
 KNOKKE
 KOBE BRYANT
 KODAK BLACK
+KOEKELARE
 KOEN BOUWMAN
 KOEN CASTEELS
 KOEN DE BOUW
@@ -16293,6 +16347,7 @@ Kobe Bryant
 KobeBryant
 Kodak Black
 KodakBlack
+Koekelare
 Koen Bouwman
 Koen Casteels
 Koen De Bouw
@@ -16669,6 +16724,7 @@ LAURENT FONTAINE
 LAURENT GBAGBO
 LAURENT GERRA
 LAURENT LUYAT
+LAURENT NUNEZ
 LAURENT OURNAC
 LAURENT RUQUIER
 LAURENT VIMONT
@@ -17162,6 +17218,7 @@ LOUIS GARREL
 LOUIS TALPE
 LOUIS TOMLINSON
 LOUIS VAN GAAL
+LOUIS VUITTON
 LOUISIANA
 LOUISIANE
 LOURDES LEON
@@ -17550,6 +17607,7 @@ Laurent Fontaine
 Laurent Gbagbo
 Laurent Gerra
 Laurent Luyat
+Laurent Nunez
 Laurent Ournac
 Laurent Ruquier
 Laurent Vimont
@@ -17563,6 +17621,7 @@ LaurentFontaine
 LaurentGbagbo
 LaurentGerra
 LaurentLuyat
+LaurentNunez
 LaurentOurnac
 LaurentRuquier
 LaurentVimont
@@ -18403,6 +18462,7 @@ Louis Delort
 Louis Garrel
 Louis Talpe
 Louis Tomlinson
+Louis Vuitton
 Louis de funes
 Louis van Gaal
 LouisBertignac
@@ -18412,6 +18472,7 @@ LouisDelort
 LouisGarrel
 LouisTalpe
 LouisTomlinson
+LouisVuitton
 Louisdefunes
 Louisiana
 Louisiane
@@ -19565,6 +19626,7 @@ MONSIEUR CUISINE SMART
 MONSIEUR JE-SAIS-TOUT
 MONSIN
 MONSTER VAN LOCH NESS
+MONT D'ARRÉE
 MONT VALÉRIEN
 MONT-BLANC
 MONT-SAINT-MICHEL
@@ -21286,6 +21348,7 @@ Monsin
 Monster van Loch Ness
 MonstervanLochNess
 Mont Valérien
+Mont d'Arrée
 Mont-Blanc
 Mont-Saint-Michel
 MontBlanc
@@ -21295,6 +21358,7 @@ MontanaBlack
 Montauban
 Montchalin
 Montcuq
+Montd'Arrée
 Monte Rosa
 MonteRosa
 Montelukast
@@ -21687,10 +21751,13 @@ NFL DRAFT
 NFL DRAFT 2022
 NFL Draft
 NFL Draft 2022
+NFL MÜNCHEN TICKETS
+NFL München Tickets
 NFL-PLAYOFFS
 NFL-Playoffs
 NFLDraft
 NFLDraft2022
+NFLMünchenTickets
 NFLPlayoffs
 NFT
 NGAPETH
@@ -23414,6 +23481,7 @@ PENELOPE CRUZ
 PENG SHUAI
 PENN BADGLEY
 PENNY MORDAUNT
+PENSIOENHERVORMING
 PENTAGON
 PENTATHLON MODERNE
 PENTECOTE
@@ -24307,6 +24375,7 @@ Penn Badgley
 PennBadgley
 Penny Mordaunt
 PennyMordaunt
+Pensioenhervorming
 Pentagon
 Pentathlon moderne
 Pentathlonmoderne
@@ -26818,6 +26887,7 @@ SEATTLE KRAKEN
 SEBASTIAN KURZ
 SEBASTIAN VETTEL
 SEBASTIEN CHABAL
+SEBASTIEN HALLER
 SEBASTIEN LECORNU
 SEBASTIEN LOEB
 SECHSELÄUTEN
@@ -27333,6 +27403,7 @@ STRASBOURG – PARIS-SG
 STRASBOURG – RENNES
 STRASBOURG – SAINT-ÉTIENNE
 STRASSENVERKEHRSAMT ZÜRICH
+STRAY
 STREAM DECK
 STRELA
 STREPY
@@ -27975,9 +28046,11 @@ Sebastian Vettel
 SebastianKurz
 SebastianVettel
 Sebastien Chabal
+Sebastien Haller
 Sebastien Lecornu
 Sebastien Loeb
 SebastienChabal
+SebastienHaller
 SebastienLecornu
 SebastienLoeb
 Sechseläuten
@@ -28767,6 +28840,7 @@ Strasbourg–Saint-Étienne
 Strasbourg–paris-sg
 Strassenverkehrsamt zürich
 Strassenverkehrsamtzürich
+Stray
 Stream Deck
 StreamDeck
 Strela
@@ -29110,12 +29184,14 @@ TELETRAVAIL OBLIGATOIRE
 TELEVIE
 TELLEMENT PROCHES
 TEMATAI LE GAYIC
+TEMPERATUR
 TEMPERATUUR
 TEMPETE
 TEMPETE BELGIQUE
 TEMPETE DIEGO
 TEMPETE EUNICE
 TEMPETE FRANKLIN
+TEMPETE SOLAIRE JUILLET 2022
 TEMPS DE CHIEN
 TEN MILES
 TENERIFE
@@ -29722,16 +29798,19 @@ Tellement proches
 Tellementproches
 Tematai Le Gayic
 TemataiLeGayic
+Temperatur
 Temperatuur
 Tempete
 Tempete Belgique
 Tempete Diego
 Tempete Eunice
 Tempete Franklin
+Tempete solaire juillet 2022
 TempeteBelgique
 TempeteDiego
 TempeteEunice
 TempeteFranklin
+Tempetesolairejuillet2022
 Temps de chien
 Tempsdechien
 Ten Miles
@@ -32759,6 +32838,7 @@ achtelfinaleem2021
 acid
 acide lactique
 action
+action edf
 action facebook
 ad
 ad astra
@@ -33049,6 +33129,7 @@ alphonso davies
 alpine a110
 alpine f1
 alpnach
+alpstein
 als symptome
 alta badia
 altenahr
@@ -33153,6 +33234,7 @@ andré hoffmann
 andré wilms
 andy carroll
 andy delort
+andy diouf
 andy fletcher
 andy murray
 andy peelman
@@ -33647,6 +33729,7 @@ balthazar
 banane mask singer
 bangladesh
 banksy
+baptiste germain
 baptiste giabiconi
 barbade
 barbados
@@ -33658,6 +33741,7 @@ barbara sarafian
 barbaraluthi
 barbarians
 barbarians tonga
+barbentane
 barbra streisand
 barby kelly
 barbykelly
@@ -34022,6 +34106,7 @@ bk veldrijden
 bk veldrijden 2022
 bk wielrennen
 bkw
+blaarmeersen
 black adam
 black friday
 black friday deals
@@ -34848,6 +34933,7 @@ cirylgane
 cisgender
 citymesh
 civilisation orelsan
+claes oldenburg
 claire borotra
 claire bové
 claire chazal
@@ -35267,6 +35353,7 @@ danemark republique tcheque
 danemark – autriche
 danemark – espagne
 danemarkrepubliquetcheque
+dani
 dani alves
 daniel auteuil
 daniel carr
@@ -35360,6 +35447,7 @@ de bende
 de bruyne
 de gaulle
 de gea
+de haan
 de ideale wereld
 de ligt
 de lijn
@@ -36262,6 +36350,8 @@ fast and furious
 fast and furious 7
 fast and furious 9
 fastandfurious
+fata morgana
+fatale
 fatma girik
 faustine bollaert
 faustine nogherotto
@@ -36385,6 +36475,7 @@ feu d'artifice 15 aout
 feu d'artifice 2021
 feu d'artifice nouvel an
 feu d'artifice rennes
+feu de foret
 feuerlauf
 feuerwerk 1. august
 feusisberg
@@ -36405,6 +36496,7 @@ fifa 22
 fifa 22 ratings
 fifa 22 ultimate edition
 fifa 22 web app
+fifa 23
 fifa-ranking
 fifa-weltrangliste
 figeac
@@ -36502,6 +36594,7 @@ fluvius
 fluvoxamin
 fnac black friday
 foire du trone
+foix
 fomo film
 fontainebleau
 foot
@@ -36731,6 +36824,7 @@ funambule rouen
 furiani
 fury vs wilder 3
 fusillade lyon
+fusillade paris
 fussball olympia
 fussball schweiz
 fussball schweiz italien
@@ -37557,6 +37651,7 @@ incendie binche
 incendie bruxelles
 incendie en cours
 incendie genève
+incendie gironde
 incendie grau-du-roi
 incendie landes
 incendie le roeulx
@@ -37696,11 +37791,13 @@ ishaq abdulrazak
 islam makhachev
 islamabad
 islande
+islande – france
 isleten
 isolement covid
 israel
 iss
 iss doch wurscht
+issa doumbia
 istanbul
 it
 it's coming home
@@ -37729,6 +37826,7 @@ italie suisse
 italie voetbal
 italie zwitserland
 italie – allemagne
+italie – belgique
 italie – espagne
 italie – suisse
 italie-angleterre
@@ -38222,6 +38320,7 @@ julianakanaal
 juliaroberts
 julie andrieu
 julie berthollet
+julie bertin
 julie de bona
 julie doucet
 julie gayet
@@ -38527,6 +38626,7 @@ knives out
 knokke
 kobe bryant
 kodak black
+koekelare
 koen bouwman
 koen casteels
 koen de bouw
@@ -38802,6 +38902,7 @@ laurent fontaine
 laurent gbagbo
 laurent gerra
 laurent luyat
+laurent nunez
 laurent ournac
 laurent ruquier
 laurent vimont
@@ -39287,6 +39388,7 @@ louis garrel
 louis talpe
 louis tomlinson
 louis van gaal
+louis vuitton
 louisiana
 louisiane
 lourdes leon
@@ -40334,6 +40436,7 @@ monsieur cuisine smart
 monsieur je-sais-tout
 monsin
 monster van loch ness
+mont d'arrée
 mont valérien
 mont-blanc
 mont-saint-michel
@@ -40631,6 +40734,7 @@ neymar
 nfl
 nfl draft
 nfl draft 2022
+nfl münchen tickets
 nfl-playoffs
 nft
 ngapeth
@@ -41314,6 +41418,7 @@ penelope cruz
 peng shuai
 penn badgley
 penny mordaunt
+pensioenhervorming
 pentagon
 pentathlon moderne
 pentecote
@@ -42574,6 +42679,7 @@ seattle kraken
 sebastian kurz
 sebastian vettel
 sebastien chabal
+sebastien haller
 sebastien lecornu
 sebastien loeb
 sechseläuten
@@ -43057,6 +43163,7 @@ strasbourg – paris-sg
 strasbourg – rennes
 strasbourg – saint-étienne
 strassenverkehrsamt zürich
+stray
 stream deck
 strela
 strepy
@@ -43303,12 +43410,14 @@ teletravail obligatoire
 televie
 tellement proches
 tematai le gayic
+temperatur
 temperatuur
 tempete
 tempete belgique
 tempete diego
 tempete eunice
 tempete franklin
+tempete solaire juillet 2022
 temps de chien
 ten miles
 tenerife
