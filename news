@@ -2981,6 +2981,7 @@ BARRAGE COUPE DU MONDE
 BARRAGE COUPE DU MONDE 2022
 BARRAGE EUPEN
 BARRY CALLEBAUT
+BARRY WHITE
 BART CANNAERTS
 BART DE PAUW
 BART DE WEVER
@@ -3347,6 +3348,7 @@ BLESSUREEDENHAZARD
 BLIND GEKOCHT
 BLIND GESPRONGEN
 BLOB
+BLOCAGE PAYS BASQUE
 BLOCKCHAIN
 BLOCTEL
 BLOEDPROCESSIE BRUGGE
@@ -3859,7 +3861,9 @@ BarrageCoupedumonde
 BarrageCoupedumonde2022
 BarrageEupen
 Barry Callebaut
+Barry White
 BarryCallebaut
+BarryWhite
 Bart Cannaerts
 Bart De Pauw
 Bart De Wever
@@ -4428,6 +4432,8 @@ Blind gesprongen
 BlindGekocht
 Blindgesprongen
 Blob
+Blocage Pays basque
+BlocagePaysbasque
 Blockchain
 Bloctel
 Bloedprocessie Brugge
@@ -5118,6 +5124,7 @@ CASSANDRE FRISTOT
 CASSIDY HUTCHINSON
 CASTAGNE
 CASTANER
+CASTELNAU MAGNOAC
 CASTELNAU-MAGNOAC
 CASTEX
 CASTEX ANNONCE
@@ -6071,8 +6078,10 @@ Cassidy Hutchinson
 CassidyHutchinson
 Castagne
 Castaner
+Castelnau magnoac
 Castelnau-Magnoac
 CastelnauMagnoac
+Castelnaumagnoac
 Castex
 Castex annonce
 Castexannonce
@@ -7702,6 +7711,7 @@ DORTMUND GEGEN EINTRACHT FRANKFURT
 DORTMUND GEGEN FREIBURG
 DORTMUND GEGEN HOFFENHEIM
 DORTMUND GEGEN MÖNCHENGLADBACH
+DORTMUND GEGEN VILLARREAL
 DORTMUND GEGEN WOLFSBURG
 DORTMUND – AJAX
 DORTMUND – BAYERN
@@ -8469,6 +8479,7 @@ Dortmund gegen Eintracht Frankfurt
 Dortmund gegen Freiburg
 Dortmund gegen Hoffenheim
 Dortmund gegen Mönchengladbach
+Dortmund gegen Villarreal
 Dortmund gegen Wolfsburg
 Dortmund – Ajax
 Dortmund – Bayern
@@ -8482,6 +8493,7 @@ DortmundgegenEintrachtFrankfurt
 DortmundgegenFreiburg
 DortmundgegenHoffenheim
 DortmundgegenMönchengladbach
+DortmundgegenVillarreal
 DortmundgegenWolfsburg
 Dortmund–Ajax
 Dortmund–Bayern
@@ -10350,6 +10362,7 @@ FLORENCEPORCEL
 FLORENCEPUGH
 FLORENT MANAUDOU
 FLORENT PAGNY
+FLORENT PAGNY CHANTEUR
 FLORENT PEYRE
 FLORIAN PHILIPPOT
 FLORIAN ROSSI
@@ -10373,6 +10386,7 @@ FOIX
 FOMO FILM
 FONTAINEBLEAU
 FOOT
+FOOT FEMININ EURO
 FOOT LIGUE 1
 FOOTBALL
 FOOTBALL BELGIQUE
@@ -10446,6 +10460,7 @@ FRANCE KAZAKHSTAN
 FRANCE MEXIQUE
 FRANCE MEXIQUE JO
 FRANCE PAYS DE GALLES
+FRANCE PAYS-BAS
 FRANCE SLOVÉNIE
 FRANCE SUEDE HANDBALL
 FRANCE UKRAINE
@@ -10975,9 +10990,11 @@ FlorencePorcel
 FlorencePugh
 Florent Manaudou
 Florent Pagny
+Florent Pagny chanteur
 Florent Peyre
 FlorentManaudou
 FlorentPagny
+FlorentPagnychanteur
 FlorentPeyre
 Florian Philippot
 Florian Rossi
@@ -11018,12 +11035,14 @@ Fomofilm
 Fontainebleau
 Foot
 Foot Ligue 1
+Foot feminin Euro
 FootLigue1
 Football
 Football Belgique
 Football Jeux Olympiques de Tokyo 2020
 FootballBelgique
 FootballJeuxOlympiquesdeTokyo2020
+FootfemininEuro
 Formel 1
 Formel 1 Monza
 Formel 1 live
@@ -11124,6 +11143,8 @@ France Kazakhstan
 France Mexique
 France Mexique JO
 France Pays de Galles
+France Pays-Bas
+France PaysBas
 France Slovénie
 France USA Basket JO
 France USA basket jo
@@ -11210,6 +11231,7 @@ FranceKazakhstan
 FranceMexique
 FranceMexiqueJO
 FranceNouvelle zelande
+FrancePays-Bas
 FrancePaysdeGalles
 FrancePortugal
 FranceSlovénie
@@ -11647,6 +11669,7 @@ GEORGES BRASSENS
 GEORGES PEREC
 GEORGES SEURAT
 GEORGES TRON
+GEORGES-ALAIN (STAR ACADEMY
 GEORGES-LOUIS BOUCHEZ
 GEORGIA GUIDESTONES
 GEORGIE
@@ -11849,6 +11872,7 @@ GRAND CORPS MALADE
 GRAND ORAL BAC 2021
 GRAND PALAIS ÉPHÉMÈRE
 GRAND PRIX BERN
+GRAND PRIX DE FRANCE
 GRAND PRIX F1
 GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
@@ -11964,6 +11988,7 @@ GUINÉE-BISSAU
 GUIRADO
 GULF STREAM
 GULLEGEM
+GUNNA
 GUNTHER LEVI
 GURTENFESTIVAL
 GURTENFESTIVAL 2022
@@ -12214,8 +12239,11 @@ Georges Brassens
 Georges Perec
 Georges Seurat
 Georges Tron
+Georges-Alain (Star Academy
+Georges-Alain(StarAcademy
 Georges-Louis Bouchez
 Georges-LouisBouchez
+GeorgesAlain (Star Academy
 GeorgesBrassens
 GeorgesLouis Bouchez
 GeorgesPerec
@@ -12503,6 +12531,7 @@ Grand Prix Monaco
 Grand Prix Pays-Bas
 Grand Prix PaysBas
 Grand Prix Silverstone
+Grand Prix de France
 Grand Prix f1
 Grand oral Bac 2021
 Grand-Prix Bern
@@ -12516,6 +12545,7 @@ GrandPrixF1
 GrandPrixMonaco
 GrandPrixPays-Bas
 GrandPrixSilverstone
+GrandPrixdeFrance
 GrandPrixf1
 GrandoralBac2021
 Granit Xhaka
@@ -12694,6 +12724,7 @@ Guirado
 Gulf Stream
 GulfStream
 Gullegem
+Gunna
 Gunther Levi
 GuntherLevi
 Gurtenfestival
@@ -14232,6 +14263,7 @@ JACKGREALISH
 JACKIE CHAN
 JACKSON HOLE
 JACKY DONATZ
+JACOB BARRETT LAURSEN
 JACOB CHANSLEY
 JACOB DESVARIEUX
 JACQUELINE BADRAN
@@ -14701,6 +14733,7 @@ JUNIOR PLANCKAERT
 JUPILER LEAGUE
 JUPILER PRO LEAGUE
 JUPILER PRO LEAGUE 2021
+JUPILER PRO LEAGUE 2022
 JURA SUD – SAINT-ÉTIENNE
 JURASSIC PARK
 JURASSIC WORLD
@@ -14773,8 +14806,10 @@ Jackson Hole
 JacksonHole
 Jacky Donatz
 JackyDonatz
+Jacob Barrett Laursen
 Jacob Chansley
 Jacob Desvarieux
+JacobBarrettLaursen
 JacobChansley
 JacobDesvarieux
 Jacqueline Badran
@@ -15652,10 +15687,12 @@ JuniorPlanckaert
 Jupiler League
 Jupiler Pro League
 Jupiler Pro League 2021
+Jupiler Pro League 2022
 Jupiler pro League
 JupilerLeague
 JupilerProLeague
 JupilerProLeague2021
+JupilerProLeague2022
 JupilerproLeague
 Jura Sud – saint-étienne
 Jura Sud – saintétienne
@@ -19455,6 +19492,7 @@ METAVERSE
 METEJOOR
 METEO FRANCE
 METEO NIMES
+METEO SCHWEIZ
 METEORITE BREST
 METEOROLOGISCHER FRÜHLINGSANFANG
 METEOSCHWEIZ
@@ -20977,8 +21015,10 @@ Metavers
 Metaverse
 Metejoor
 Meteo France
+Meteo Schweiz
 Meteo nimes
 MeteoFrance
+MeteoSchweiz
 Meteonimes
 Meteorite Brest
 MeteoriteBrest
@@ -21989,6 +22029,7 @@ NO ANGELS
 NO TIME TO DIE
 NOA LANG
 NOAH GESSER
+NOAH LYLES
 NOAH OKAFOR
 NOE PONTI
 NOEL
@@ -22553,8 +22594,10 @@ NoTimeToDie
 Noa Lang
 NoaLang
 Noah Gesser
+Noah Lyles
 Noah Okafor
 NoahGesser
+NoahLyles
 NoahOkafor
 Noe Ponti
 NoePonti
@@ -22813,7 +22856,9 @@ OM BRAGA
 OM Benfica
 OM Braga
 OM MARTIGUES
+OM MIDDLESBROUGH
 OM Martigues
+OM Middlesbrough
 OM NORWICH
 OM Norwich
 OM SERVETTE
@@ -22836,6 +22881,7 @@ OMARRADDAD
 OMBenfica
 OMBordeaux
 OMBraga
+OMD
 OMEGA X SWATCH
 OMICRON
 OMICRON VARIANT
@@ -22846,6 +22892,7 @@ OMLOOP HET NIEUWSBLAD! 2022 PARCOURS
 OMLOOP VAN VLAANDEREN
 OMMARTIGUES
 OMMartigues
+OMMiddlesbrough
 OMNIUM
 OMNorwich
 OMPAOK
@@ -23460,6 +23507,7 @@ PARIS-SG – REIMS
 PARIS-SG – SAINT-ÉTIENNE
 PARIS-SG – SÉVILLE
 PARIS-SG – TROYES
+PARIS-SG – URAWA REDS
 PARIS-TOURS 2021
 PARISJACKSON
 PARISMATCH
@@ -24223,6 +24271,8 @@ Paris-sg – Orléans
 Paris-sg – Reims
 Paris-sg – Séville
 Paris-sg – Troyes
+Paris-sg – Urawa Reds
+Paris-sg – Urawa reds
 Paris-sg – saint-étienne
 Paris-sgcontreMarseille
 Paris-sg–Angers
@@ -24241,6 +24291,8 @@ Paris-sg–Orléans
 Paris-sg–Reims
 Paris-sg–Séville
 Paris-sg–Troyes
+Paris-sg–UrawaReds
+Paris-sg–Urawareds
 Paris-sg–saint-étienne
 ParisFC
 ParisFC–Caen
@@ -24274,6 +24326,8 @@ Parissg – Orléans
 Parissg – Reims
 Parissg – Séville
 Parissg – Troyes
+Parissg – Urawa Reds
+Parissg – Urawa reds
 Parissg – saintétienne
 Parkinson
 Parrainage
@@ -26956,6 +27010,7 @@ SCARLETT JOHANSSON
 SCARLETTJOHANSSON
 SCCham
 SCEWO
+SCH
 SCHAFFHAUSEN LUZERN
 SCHALKE 04
 SCHANGNAU
@@ -27688,6 +27743,7 @@ SUeDE-SLOVAQUIE
 SUeDESLOVAQUIE
 SUÈDE  SLOVAQUIE
 SUÈDE - SLOVAQUIE
+SUÈDE – BELGIQUE
 SUÈDE – ESPAGNE
 SUÈDE-SLOVAQUIE
 SUÈDESLOVAQUIE
@@ -28087,6 +28143,7 @@ Scandale
 Scarlett Johansson
 ScarlettJohansson
 Scewo
+Sch
 Schaffhausen Luzern
 SchaffhausenLuzern
 Schalke 04
@@ -29183,9 +29240,11 @@ SusanneWille
 Sustenpass
 Suède  Slovaquie
 Suède - Slovaquie
+Suède – Belgique
 Suède – Espagne
 Suède-Slovaquie
 SuèdeSlovaquie
+Suède–Belgique
 Suède–Espagne
 Sven De Leijer
 Sven Epiney
@@ -31910,6 +31969,7 @@ WEIHNACHTSMARKT KONSTANZ
 WEINSBERG
 WEISSENSTEIN
 WEISSENSTEIN SCHWINGET
+WEISSENSTEIN-SCHWINGET
 WEJDENE
 WELS
 WELTWOCHE
@@ -32201,6 +32261,8 @@ WeihnachtsmarktKonstanz
 Weinsberg
 Weissenstein
 Weissenstein schwinget
+Weissenstein-Schwinget
+WeissensteinSchwinget
 Weissensteinschwinget
 Wejdene
 Wels
@@ -32455,6 +32517,7 @@ XAVIER DUPONT DE LIGONNèS
 XAVIER MALISSE
 XAVIER MUSK
 XAVIER NAIDOO
+XAVIER RICHEFORT
 XAVIER TAVEIRNE
 XAVIER VAN DAM
 XAVIERBERTRAND
@@ -32491,6 +32554,7 @@ Xavier Dupont de Ligonnès
 Xavier Malisse
 Xavier Musk
 Xavier Naidoo
+Xavier Richefort
 Xavier Taveirne
 Xavier Van Dam
 Xavier de Moulins
@@ -32503,6 +32567,7 @@ XavierDupontdeLigonnès
 XavierMalisse
 XavierMusk
 XavierNaidoo
+XavierRichefort
 XavierTaveirne
 XavierVanDam
 XavierdeMoulins
@@ -33979,6 +34044,7 @@ barrage coupe du monde
 barrage coupe du monde 2022
 barrage eupen
 barry callebaut
+barry white
 bart cannaerts
 bart de pauw
 bart de wever
@@ -34332,6 +34398,7 @@ blessureedenhazard
 blind gekocht
 blind gesprongen
 blob
+blocage pays basque
 blockchain
 bloctel
 bloedprocessie brugge
@@ -34817,6 +34884,7 @@ cassandre fristot
 cassidy hutchinson
 castagne
 castaner
+castelnau magnoac
 castelnau-magnoac
 castex
 castex annonce
@@ -35928,6 +35996,7 @@ dortmund gegen eintracht frankfurt
 dortmund gegen freiburg
 dortmund gegen hoffenheim
 dortmund gegen mönchengladbach
+dortmund gegen villarreal
 dortmund gegen wolfsburg
 dortmund – ajax
 dortmund – bayern
@@ -36794,6 +36863,7 @@ florenceporcel
 florencepugh
 florent manaudou
 florent pagny
+florent pagny chanteur
 florent peyre
 florian philippot
 florian rossi
@@ -36817,6 +36887,7 @@ foix
 fomo film
 fontainebleau
 foot
+foot feminin euro
 foot ligue 1
 football
 football belgique
@@ -36890,6 +36961,7 @@ france kazakhstan
 france mexique
 france mexique jo
 france pays de galles
+france pays-bas
 france slovénie
 france suede handball
 france ukraine
@@ -37201,6 +37273,7 @@ georges brassens
 georges perec
 georges seurat
 georges tron
+georges-alain (star academy
 georges-louis bouchez
 georgia guidestones
 georgie
@@ -37382,6 +37455,7 @@ grand corps malade
 grand oral bac 2021
 grand palais éphémère
 grand prix bern
+grand prix de france
 grand prix f1
 grand prix monaco
 grand prix pays-bas
@@ -37494,6 +37568,7 @@ guinée-bissau
 guirado
 gulf stream
 gullegem
+gunna
 gunther levi
 gurtenfestival
 gurtenfestival 2022
@@ -38133,6 +38208,7 @@ jackgrealish
 jackie chan
 jackson hole
 jacky donatz
+jacob barrett laursen
 jacob chansley
 jacob desvarieux
 jacqueline badran
@@ -38590,6 +38666,7 @@ junior planckaert
 jupiler league
 jupiler pro league
 jupiler pro league 2021
+jupiler pro league 2022
 jura sud – saint-étienne
 jurassic park
 jurassic world
@@ -40402,6 +40479,7 @@ metaverse
 metejoor
 meteo france
 meteo nimes
+meteo schweiz
 meteorite brest
 meteorologischer frühlingsanfang
 meteoschweiz
@@ -41083,6 +41161,7 @@ no angels
 no time to die
 noa lang
 noah gesser
+noah lyles
 noah okafor
 noe ponti
 noel
@@ -41271,6 +41350,7 @@ om - psg chaine
 om benfica
 om braga
 om martigues
+om middlesbrough
 om norwich
 om servette
 om strasbourg
@@ -41283,6 +41363,7 @@ oman
 omar raddad
 omar sy
 omarraddad
+omd
 omega x swatch
 omicron
 omicron variant
@@ -41516,6 +41597,7 @@ paris-sg – reims
 paris-sg – saint-étienne
 paris-sg – séville
 paris-sg – troyes
+paris-sg – urawa reds
 paris-tours 2021
 parisjackson
 parismatch
@@ -42849,6 +42931,7 @@ scandale
 scarlett johansson
 scarlettjohansson
 scewo
+sch
 schaffhausen luzern
 schalke 04
 schangnau
@@ -43539,6 +43622,7 @@ sustenpass
 sutom
 suède  slovaquie
 suède - slovaquie
+suède – belgique
 suède – espagne
 suède-slovaquie
 suèdeslovaquie
@@ -44608,6 +44692,7 @@ weihnachtsmarkt konstanz
 weinsberg
 weissenstein
 weissenstein schwinget
+weissenstein-schwinget
 wejdene
 wels
 weltwoche
@@ -44786,6 +44871,7 @@ xavier dupont de ligonnès
 xavier malisse
 xavier musk
 xavier naidoo
+xavier richefort
 xavier taveirne
 xavier van dam
 xavierbertrand
