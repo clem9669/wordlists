@@ -2919,6 +2919,7 @@ BAG Quarantäne
 BAGCorona
 BAGQuarantäne
 BAHNHOF LUZERN
+BAHNHOF OLTEN UNFALL
 BAHRAIN VICTORIOUS
 BAKAMBU
 BAKE OFF VLAANDEREN
@@ -3528,6 +3529,7 @@ BRAGA – MONACO
 BRAHIM
 BRAITHWAITE
 BRAND EGERKINGEN
+BRAND HERENTALS
 BRAND LANGSTRASSE
 BRAND MEILEN
 BRAND SOLOTHURN
@@ -3540,6 +3542,7 @@ BRAQUAGE CHANEL
 BRASILIEN - ARGENTINIEN
 BRASS AGAINST
 BRASSENS
+BRASSERIE LORRAINE
 BRAZILIE ARGENTINIE
 BREAKFAST CLUB
 BREEL EMBOLO
@@ -3757,7 +3760,9 @@ Badosa
 Badr Hari
 BadrHari
 Bahnhof Luzern
+Bahnhof Olten Unfall
 BahnhofLuzern
+BahnhofOltenUnfall
 Bahrain Victorious
 BahrainVictorious
 Bakambu
@@ -4716,6 +4721,7 @@ Braga–Monaco
 Brahim
 Braithwaite
 Brand Egerkingen
+Brand Herentals
 Brand Langstrasse
 Brand Meilen
 Brand Solothurn
@@ -4723,6 +4729,7 @@ Brand Universiteit Antwerpen
 Brand Wattwil
 Brand Wiler bei Utzenstorf
 BrandEgerkingen
+BrandHerentals
 BrandLangstrasse
 BrandMeilen
 BrandSolothurn
@@ -4740,6 +4747,8 @@ Brasilien-Argentinien
 Brass Against
 BrassAgainst
 Brassens
+Brasserie Lorraine
+BrasserieLorraine
 Brazilie argentinie
 Brazilieargentinie
 Breakfast Club
@@ -5321,6 +5330,7 @@ CHARLOTTE ARNOULD
 CHARLOTTE DE WITTE
 CHARLOTTE GAINSBOURG
 CHARLOTTE GAINSBOURG JANE BIRKIN
+CHARLOTTE HABERSACK
 CHARLOTTE LEWIS
 CHARLOTTE VALANDREY
 CHARLOTTE WÜRDIG
@@ -6385,6 +6395,7 @@ Charlotte Angie
 Charlotte Arnould
 Charlotte Gainsbourg
 Charlotte Gainsbourg Jane Birkin
+Charlotte Habersack
 Charlotte Lewis
 Charlotte Valandrey
 Charlotte Würdig
@@ -6393,6 +6404,7 @@ CharlotteAngie
 CharlotteArnould
 CharlotteGainsbourg
 CharlotteGainsbourgJaneBirkin
+CharlotteHabersack
 CharlotteLewis
 CharlotteValandrey
 CharlotteWürdig
@@ -7450,6 +7462,7 @@ DAVID JULIUS
 DAVID LISNARD
 DAVID SASSOLI
 DAVID WAGNER
+DAVID WARNER
 DAVIDALABA
 DAVIDBECKHAM
 DAVIDE D'ANGELO
@@ -7557,6 +7570,7 @@ DER ALTE
 DER BERGDOKTOR
 DER KOMMISSAR UND DAS MEER
 DER PALAST
+DER VORNAME
 DERBY COUNTY
 DEREK CHAUVIN
 DEREKCHAUVIN
@@ -7727,6 +7741,7 @@ DOMINIQUE PERSOONE
 DOMINIQUE VAN MALDER
 DOMINIQUE WARLUZEL
 DON DU SANG
+DON'T LEAVE ME
 DON'T LOOK UP
 DON'T WORRY BE HAPPY
 DON'T WORRY DARLING
@@ -8035,6 +8050,7 @@ David Julius
 David Lisnard
 David Sassoli
 David Wagner
+David Warner
 DavidAlaba
 DavidAmess
 DavidBeckham
@@ -8051,6 +8067,7 @@ DavidJulius
 DavidLisnard
 DavidSassoli
 DavidWagner
+DavidWarner
 Davide D'Angelo
 DavideD'Angelo
 Davina Michelle
@@ -8210,10 +8227,12 @@ Der Alte
 Der Bergdoktor
 Der Kommissar und das Meer
 Der Palast
+Der Vorname
 DerAlte
 DerBergdoktor
 DerKommissarunddasMeer
 DerPalast
+DerVorname
 Derby County
 DerbyCounty
 Derek Chauvin
@@ -8483,9 +8502,11 @@ DominiquePersoone
 DominiqueVanMalder
 DominiqueWarluzel
 Don du sang
+Don't Leave Me
 Don't Look Up
 Don't Worry Darling
 Don't worry be happy
+Don'tLeaveMe
 Don'tLookUp
 Don'tWorryDarling
 Don'tworrybehappy
@@ -9204,6 +9225,7 @@ EVI HANSSEN
 EVI VANDERSMISSEN
 EVY GRUYAERT
 EVZ
+EX ON THE BEACH: DOUBLE DUTCH
 EXCEL MOUSCRON
 EXPENDABLES 2
 EXTINCTION REBELLION
@@ -9951,6 +9973,8 @@ EviVandersmissen
 Evy Gruyaert
 EvyGruyaert
 Evz
+Ex On The Beach: Double Dutch
+ExOnTheBeach:DoubleDutch
 Excel Mouscron
 ExcelMouscron
 Expendables 2
@@ -10127,6 +10151,8 @@ FC Bruges – Man City
 FC Bruges – Union Saint-Gilloise
 FC Bruges – Union SaintGilloise
 FC Bulle
+FC DE KAMPIOENEN
+FC De Kampioenen
 FC EVERTON
 FC Everton
 FC LIVERPOOL
@@ -10182,6 +10208,7 @@ FCBruges–Anderlecht
 FCBruges–ManCity
 FCBruges–UnionSaint-Gilloise
 FCBulle
+FCDeKampioenen
 FCEverton
 FCL
 FCLiverpool
@@ -13314,12 +13341,14 @@ Helene Fischer News
 Helene Mannarino
 Helene Segara
 Helene carrere d'Encausse
+Helene segara
 HeleneDarroze
 HeleneFischer
 HeleneFischerNews
 HeleneMannarino
 HeleneSegara
 Helenecarrered'Encausse
+Helenesegara
 Helge Schneider
 HelgeSchneider
 Helikopterabsturz Wiriehorn
@@ -17313,6 +17342,7 @@ LIVERPOOL – WATFORD
 LIVERPOOL – WEST HAM
 LIVRET A
 LIZ SHERIDAN
+LIZ TRUSS
 LIZZO
 LLOYD HARRIS
 LN24
@@ -18497,7 +18527,9 @@ Liverpool–WestHam
 Livret A
 LivretA
 Liz Sheridan
+Liz Truss
 LizSheridan
+LizTruss
 Lizzo
 Lloyd Harris
 LloydHarris
@@ -19294,6 +19326,7 @@ MARSEILLE – RENNES
 MARSEILLE – SAINT-ÉTIENNE
 MARSEILLE – STRASBOURG
 MARSEILLE – TROYES
+MARTA CAVALLI
 MARTA ORTEGA
 MARTEN VAN RIEL
 MARTHE DE PILLECYN
@@ -19442,6 +19475,7 @@ MAXIME DEREYMEZ
 MAXIME DEREYMEZ DANSE AVEC LES STARS
 MAY THE 4TH BE WITH YOU!
 MAYADA BOULOS
+MAYER
 MAYFIELD
 MAYOTTE
 MAZDA CX-60
@@ -19688,6 +19722,7 @@ MICROSOFT
 MICROSOFT-AKTIE
 MIDNIGHT RUN
 MIDWAY
+MIEKE DOCX
 MIEKE GORISSEN
 MIEKE VERLINDEN
 MIG-29
@@ -19757,6 +19792,7 @@ MINO RAIOLA
 MINO RAIOLA TODESURSACHE
 MIOU-MIOU
 MIRA CALIX
+MIRA SORVINO
 MIRANDA FRYER
 MIRCO NONTSCHEW
 MIRCO NONTSCHEW TOT
@@ -19783,6 +19819,7 @@ MISS UNIVERSE 2021
 MISS USA 2019
 MISSGUYANE2022
 MISSILE HYPERSONIQUE
+MISTER YOU
 MITCHELL RYAN
 MITHOLZ
 MITROVIC
@@ -20627,7 +20664,9 @@ Marseille–Rennes
 Marseille–Saint-Étienne
 Marseille–Strasbourg
 Marseille–Troyes
+Marta Cavalli
 Marta Ortega
+MartaCavalli
 MartaOrtega
 Marten Van Riel
 MartenVanRiel
@@ -20890,6 +20929,7 @@ MaximeDereymezDanseaveclesstars
 May the 4th be with you!
 Mayada Boulos
 MayadaBoulos
+Mayer
 Mayfield
 Mayotte
 Maythe4thbewithyou!
@@ -21294,8 +21334,10 @@ MicrosoftAktie
 Midnight Run
 MidnightRun
 Midway
+Mieke Docx
 Mieke Gorissen
 Mieke Verlinden
+MiekeDocx
 MiekeGorissen
 MiekeVerlinden
 Mig-29
@@ -21419,7 +21461,9 @@ MinoRaiolatodesursache
 Miou-Miou
 MiouMiou
 Mira Calix
+Mira Sorvino
 MiraCalix
+MiraSorvino
 Miranda Fryer
 MirandaFryer
 Mirco Nontschew
@@ -21464,6 +21508,8 @@ MissUnivers2022
 MissUniverse2021
 Missile hypersonique
 Missilehypersonique
+Mister You
+MisterYou
 Mitchell Ryan
 MitchellRyan
 Mitholz
@@ -22150,6 +22196,7 @@ NORBERT TARAYRE
 NORD STREAM 1
 NORD STREAM 2
 NORDAHL LELANDAIS
+NORDI MUKIELE
 NORDMAZEDONIEN
 NORM MACDONALD
 NORMAL PEOPLE
@@ -22726,6 +22773,8 @@ NordStream1
 NordStream2
 Nordahl Lelandais
 NordahlLelandais
+Nordi Mukiele
+NordiMukiele
 Nordmazedonien
 Norm Macdonald
 NormMacdonald
@@ -22864,6 +22913,7 @@ ODETTE PARIS
 ODOO
 OEKRAINE
 OERLIKON
+OFENPASS
 OFFENER BRIEF AN OLAF SCHOLZ
 OFFERFEEST
 OFFICE 365
@@ -23163,6 +23213,7 @@ OdetteParis
 Odoo
 Oekraine
 Oerlikon
+Ofenpass
 Offener Brief an Olaf Scholz
 OffenerBriefanOlafScholz
 Offerfeest
@@ -23686,6 +23737,7 @@ PAUL QUILES
 PAUL RICARD
 PAUL RUDD
 PAUL SIMON
+PAUL SORVINO
 PAUL STOFFELS
 PAUL UREY
 PAUL WALKER
@@ -24561,6 +24613,7 @@ Paul Potts
 Paul Ricard
 Paul Rudd
 Paul Simon
+Paul Sorvino
 Paul Stoffels
 Paul Urey
 Paul Walker
@@ -24578,6 +24631,7 @@ PaulPotts
 PaulRicard
 PaulRudd
 PaulSimon
+PaulSorvino
 PaulStoffels
 PaulUrey
 PaulWalker
@@ -25473,6 +25527,7 @@ RAMADAN 2022
 RAMAN
 RAMI MALEK
 RAMMSTEIN
+RAMMSTEIN OOSTENDE
 RAMMSTEIN ZICK ZACK
 RAMONA BACHMANN
 RAMONABACHMANN
@@ -25726,6 +25781,7 @@ RICHARD CLAYDERMAN
 RICHARD DONNER
 RICHARD FERRAND
 RICHARD GASQUET
+RICHARD HARRIS
 RICHARD JEWELL
 RICHARD ROGERS
 RICHARDDONNER
@@ -26106,7 +26162,9 @@ Raman
 Rami Malek
 RamiMalek
 Rammstein
+Rammstein Oostende
 Rammstein Zick Zack
+RammsteinOostende
 RammsteinZickZack
 Ramona Bachmann
 RamonaBachmann
@@ -26486,6 +26544,7 @@ Richard Clayderman
 Richard Donner
 Richard Ferrand
 Richard Gasquet
+Richard Harris
 Richard Jewell
 Richard Rogers
 RichardAnconina
@@ -26497,6 +26556,7 @@ RichardClayderman
 RichardDonner
 RichardFerrand
 RichardGasquet
+RichardHarris
 RichardJewell
 RichardRogers
 Richarlison
@@ -26884,6 +26944,7 @@ Rybakina
 Ryder Cup 2021
 RyderCup2021
 RÉMI SANS FAMILLE
+RÉMY REBEYROTTE
 RÉPUBLIQUE TCHÈQUE – SUISSE
 RÉSULTATS DE L'ÉLECTION #PRÉSIDENTIELLE2022
 RÉVEILLON DU NOUVEL AN
@@ -26895,6 +26956,8 @@ RéSULTATS BREVET 2021
 RéSULTATSBREVET2021
 Rémi sans famille
 Rémisansfamille
+Rémy Rebeyrotte
+RémyRebeyrotte
 République tchèque – Danemark
 République tchèque – Suisse
 Républiquetchèque–Danemark
@@ -27452,6 +27515,7 @@ SOLDES 2022
 SOLDES BELGIQUE
 SOLESMES
 SOLIDAYS
+SOLO LEVELING
 SOLOTHURNER ZEITUNG
 SOLSTICE
 SOLSTICE D'HIVER
@@ -27653,6 +27717,7 @@ STAU GOTTHARDTUNNEL
 STAVELOT
 STEAL THE DEAL
 STEAM DECK
+STEEL PAN
 STEF VANLEE
 STEFAAN DEGAND
 STEFAAN FERNANDE
@@ -28761,6 +28826,8 @@ Soldes2022
 SoldesBelgique
 Solesmes
 Solidays
+Solo Leveling
+SoloLeveling
 Solothurner Zeitung
 SolothurnerZeitung
 Solstice
@@ -29046,6 +29113,8 @@ Steal The Deal
 StealTheDeal
 Steam Deck
 SteamDeck
+Steel Pan
+SteelPan
 Stef Vanlee
 StefVanlee
 Stefaan Degand
@@ -29808,6 +29877,7 @@ TOP GUN
 TOP GUN 2
 TOP GUN : MAVERICK
 TOPGUN
+TOPKAPI FILM
 TORGON
 TORI SPELLING
 TORINO – INTER
@@ -30639,6 +30709,8 @@ TopGun
 TopGun2
 TopGun:Maverick
 Topchef
+Topkapi film
+Topkapifilm
 Torgon
 Tori Spelling
 ToriSpelling
@@ -31117,6 +31189,7 @@ URS BAUMANN
 URS KRYENBÜHL
 URS WIETLISBACH
 URSINA LARDI
+URSKA ZIGART
 URSS
 URSULA VON DER LEYEN
 URUGUAY – ARGENTINE
@@ -31300,6 +31373,8 @@ UrsKryenbühl
 UrsWietlisbach
 Ursina Lardi
 UrsinaLardi
+Urska Zigart
+UrskaZigart
 Ursula von der Leyen
 UrsulavonderLeyen
 Uruguay – Argentine
@@ -34094,6 +34169,7 @@ bag
 bag corona
 bag quarantäne
 bahnhof luzern
+bahnhof olten unfall
 bahrain victorious
 bakambu
 bake off vlaanderen
@@ -34679,6 +34755,7 @@ braga – monaco
 brahim
 braithwaite
 brand egerkingen
+brand herentals
 brand langstrasse
 brand meilen
 brand solothurn
@@ -34691,6 +34768,7 @@ braquage chanel
 brasilien - argentinien
 brass against
 brassens
+brasserie lorraine
 brazilie argentinie
 breakfast club
 breel embolo
@@ -35174,6 +35252,7 @@ charlotte arnould
 charlotte de witte
 charlotte gainsbourg
 charlotte gainsbourg jane birkin
+charlotte habersack
 charlotte lewis
 charlotte valandrey
 charlotte würdig
@@ -35843,6 +35922,7 @@ david julius
 david lisnard
 david sassoli
 david wagner
+david warner
 davidalaba
 davidbeckham
 davide d'angelo
@@ -35943,6 +36023,7 @@ der alte
 der bergdoktor
 der kommissar und das meer
 der palast
+der vorname
 derby county
 derek chauvin
 derekchauvin
@@ -36100,6 +36181,7 @@ dominique persoone
 dominique van malder
 dominique warluzel
 don du sang
+don't leave me
 don't look up
 don't worry be happy
 don't worry darling
@@ -36680,6 +36762,7 @@ evi hanssen
 evi vandersmissen
 evy gruyaert
 evz
+ex on the beach: double dutch
 excel mouscron
 expendables 2
 extinction rebellion
@@ -36790,6 +36873,7 @@ fc bruges – anderlecht
 fc bruges – man city
 fc bruges – union saint-gilloise
 fc bulle
+fc de kampioenen
 fc everton
 fc liverpool
 fc luzern
@@ -39725,6 +39809,7 @@ liverpool – watford
 liverpool – west ham
 livret a
 liz sheridan
+liz truss
 lizzo
 lloyd harris
 ln24
@@ -40348,6 +40433,7 @@ marseille – rennes
 marseille – saint-étienne
 marseille – strasbourg
 marseille – troyes
+marta cavalli
 marta ortega
 marten van riel
 marthe de pillecyn
@@ -40494,6 +40580,7 @@ maxime dereymez
 maxime dereymez danse avec les stars
 may the 4th be with you!
 mayada boulos
+mayer
 mayfield
 mayotte
 mazda cx-60
@@ -40735,6 +40822,7 @@ microsoft
 microsoft-aktie
 midnight run
 midway
+mieke docx
 mieke gorissen
 mieke verlinden
 mig-29
@@ -40802,6 +40890,7 @@ mino raiola
 mino raiola todesursache
 miou-miou
 mira calix
+mira sorvino
 miranda fryer
 mirco nontschew
 mirco nontschew tot
@@ -40826,6 +40915,7 @@ miss univers 2022
 miss universe 2021
 miss usa 2019
 missile hypersonique
+mister you
 mitchell ryan
 mitholz
 mitrovic
@@ -41338,6 +41428,7 @@ norbert tarayre
 nord stream 1
 nord stream 2
 nordahl lelandais
+nordi mukiele
 nordmazedonien
 norm macdonald
 normal people
@@ -41426,6 +41517,7 @@ odette paris
 odoo
 oekraine
 oerlikon
+ofenpass
 offener brief an olaf scholz
 offerfeest
 office 365
@@ -41837,6 +41929,7 @@ paul quiles
 paul ricard
 paul rudd
 paul simon
+paul sorvino
 paul stoffels
 paul urey
 paul walker
@@ -42403,6 +42496,7 @@ ramadan 2022
 raman
 rami malek
 rammstein
+rammstein oostende
 rammstein zick zack
 ramona bachmann
 ramonabachmann
@@ -42632,6 +42726,7 @@ richard clayderman
 richard donner
 richard ferrand
 richard gasquet
+richard harris
 richard jewell
 richard rogers
 richarddonner
@@ -42884,6 +42979,7 @@ ryanair
 rybakina
 ryder cup 2021
 rémi sans famille
+rémy rebeyrotte
 république tchèque – danemark
 république tchèque – suisse
 républiquetchèque–danemark
@@ -43409,6 +43505,7 @@ soldes 2022
 soldes belgique
 solesmes
 solidays
+solo leveling
 solothurner zeitung
 solstice
 solstice d'hiver
@@ -43589,6 +43686,7 @@ stau gotthardtunnel
 stavelot
 steal the deal
 steam deck
+steel pan
 stef vanlee
 stefaan degand
 stefaan fernande
@@ -44186,6 +44284,7 @@ top gun
 top gun 2
 top gun : maverick
 topgun
+topkapi film
 torgon
 tori spelling
 torino – inter
@@ -44510,6 +44609,7 @@ urs baumann
 urs kryenbühl
 urs wietlisbach
 ursina lardi
+urska zigart
 urss
 ursula von der leyen
 uruguay – argentine
