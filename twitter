@@ -6682,6 +6682,7 @@ BATMANDAY
 BATSHUAYI
 BATSIRAI
 BATTERIE
+BATTERIE FAIBLE
 BATTLE4
 BATTLEFIELD
 BATTLEFIELD 2042
@@ -9112,6 +9113,8 @@ BatmanDay
 Batshuayi
 Batsirai
 Batterie
+Batterie Faible
+BatterieFaible
 Battle4
 BattlePhoto
 Battlefield
@@ -15725,6 +15728,8 @@ DANOIS
 DANS 1
 DANS 2H
 DANS 5
+DANS LA LEGENDE
+DANS LA LÉGENDE
 DANS LES 18
 DANS1
 DANSEAVECLESSTARS
@@ -17377,11 +17382,13 @@ Danois
 Dans 1
 Dans 2h
 Dans 5
+Dans La Légende
 Dans les 18
 Dans1
 Dans2h
 Dans5
 DansLaListe
+DansLaLégende
 DanseAvecLesStars
 Dansefolklo
 Dansles18
@@ -37387,6 +37394,7 @@ LE MEILLEUR JOUEUR DU MONDE
 LE MEILLEUR MUGIWARA
 LE MILLION
 LE MONDE
+LE MONDE CHICO
 LE MOT
 LE MOT BELGE
 LE MOTIF
@@ -39917,6 +39925,7 @@ Le Maroc
 Le Mbappé
 Le Meilleur Mugiwara
 Le Monde
+Le Monde Chico
 Le Mot
 Le Motif
 Le Mr
@@ -40145,6 +40154,7 @@ LeMbappé
 LeMeilleurMugiwara
 LeMeilleurPatissier
 LeMonde
+LeMondeChico
 LeMot
 LeMotLeJeu
 LeMotif
@@ -42449,6 +42459,7 @@ MARTHE MERCADIER
 MARTHE VILLALONGA
 MARTHEMERCADIER
 MARTIAL
+MARTIAL MORIN
 MARTIGUES
 MARTIN BALMER
 MARTIN BLACHIER
@@ -65945,6 +65956,7 @@ Terrain
 Terremoto
 Terrence Clarke
 TerrenceClarke
+Terreur
 Terrible
 Terrier
 Terrifiant
@@ -76427,6 +76439,7 @@ batmanday
 batshuayi
 batsirai
 batterie
+batterie faible
 battle4
 battlefield
 battlefield 2042
@@ -81043,6 +81056,7 @@ danois
 dans 1
 dans 2h
 dans 5
+dans la légende
 dans les 18
 dans1
 dans5
@@ -92623,6 +92637,7 @@ le meilleur joueur du monde
 le meilleur mugiwara
 le million
 le monde
+le monde chico
 le mot
 le mot belge
 le motif
@@ -95217,6 +95232,8 @@ marthe mercadier
 marthe villalonga
 marthemercadier
 martial
+martial morin
+martialmorin
 martigues
 martin balmer
 martin blachier
