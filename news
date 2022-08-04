@@ -434,6 +434,7 @@ ACAB
 ACCIDENT A16
 ACCIDENT A7
 ACCIDENT AUTOROUTE
+ACCIDENT AUTOROUTE A1
 ACCIDENT BUS PNL
 ACCIDENT CENTRE ÉQUESTRE
 ACCIDENT DE CHASSE
@@ -625,6 +626,7 @@ ALEX COLLADO
 ALEX DOWSETT
 ALEX FIVA
 ALEX HUGO
+ALEX JONES
 ALEX KAPRANOS
 ALEX LUTZ
 ALEX PULLIN
@@ -1301,6 +1303,7 @@ AURELIO GALFETTI
 AURIGNY
 AURORA RAMAZZOTTI
 AURORE BERGÉ
+AURÉLIEN PRADIÉ
 AURÉLIEN TACHÉ
 AUSTIN BUTLER
 AUSTRALIAN OPEN
@@ -1437,6 +1440,7 @@ Accident Jura
 Accident Marc-Philippe Daubresse
 Accident MarcPhilippe Daubresse
 Accident autoroute
+Accident autoroute A1
 Accident bus PNL
 Accident centre équestre
 Accident de chasse
@@ -1446,6 +1450,7 @@ AccidentE42
 AccidentJura
 AccidentMarc-PhilippeDaubresse
 Accidentautoroute
+AccidentautorouteA1
 AccidentbusPNL
 Accidentcentreéquestre
 Accidentdechasse
@@ -1760,6 +1765,7 @@ Alex Collado
 Alex Dowsett
 Alex Fiva
 Alex Hugo
+Alex Jones
 Alex Kapranos
 Alex Lutz
 Alex Pullin
@@ -1770,6 +1776,7 @@ AlexCollado
 AlexDowsett
 AlexFiva
 AlexHugo
+AlexJones
 AlexKapranos
 AlexLutz
 AlexPullin
@@ -2874,7 +2881,9 @@ Aurore Bergé
 Aurore bergé
 AuroreBergé
 Aurorebergé
+Aurélien Pradié
 Aurélien Taché
+AurélienPradié
 AurélienTaché
 Austin Butler
 AustinButler
@@ -3251,6 +3260,7 @@ BELLINGCAT
 BELMADI
 BELMONDO OVERLEDEN
 BELMONDO TOT
+BELUGA
 BEN AFFLECK
 BEN AFFLECK JENNIFER GARNER
 BEN ARFA
@@ -3300,6 +3310,7 @@ BENZINPREISE SCHWEIZ
 BERCHTESGADEN
 BERENICE BEJO
 BERENICE WICKI
+BERGERAC
 BERGERAC – SAINT-ÉTIENNE
 BERGERAC-VERSAILLES
 BERGHEIM
@@ -3326,6 +3337,7 @@ BERNARD PONS
 BERNARD TAPIE
 BERNARD TIPHAINE
 BERNARD-HENRI LEVY
+BERNARDO SILVA
 BERNARDTAPIE
 BERND GRIMMER
 BERND STORCK
@@ -3695,6 +3707,7 @@ BREVET 2022
 BRIAN AUSTIN GREEN
 BRIAN LAUNDRIE
 BRIAN MAY
+BRICE LOUGE
 BRICE LOUGE DISPARITION
 BRIDES-LES-BAINS
 BRIDGERTON
@@ -3720,6 +3733,7 @@ BRIT AWARDS 2022
 BRITISH AIRWAYS
 BRITNEY SPEARS
 BRITNEYSPEARS
+BRITT VAN HEES
 BRITTA ERNST
 BRITTNEY GRINER
 BROCANTE
@@ -4262,6 +4276,7 @@ Belmondo overleden
 Belmondo tot
 Belmondooverleden
 Belmondotot
+Beluga
 Ben Affleck
 Ben Affleck Jennifer Garner
 Ben Arfa
@@ -4345,6 +4360,7 @@ Berenice Bejo
 Berenice Wicki
 BereniceBejo
 BereniceWicki
+Bergerac
 Bergerac – Saint-Étienne
 Bergerac – SaintÉtienne
 Bergerac-Versailles
@@ -4396,6 +4412,8 @@ BernardPons
 BernardTapie
 BernardTiphaine
 BernarddelaVillardière
+Bernardo Silva
+BernardoSilva
 Bernd Grimmer
 Bernd Storck
 BerndGrimmer
@@ -4949,7 +4967,9 @@ Brian May
 BrianAustinGreen
 BrianLaundrie
 BrianMay
+Brice Louge
 Brice Louge disparition
+BriceLouge
 BriceLougedisparition
 Brides-les-Bains
 BrideslesBains
@@ -4992,6 +5012,8 @@ British Airways
 BritishAirways
 Britney Spears
 BritneySpears
+Britt Van Hees
+BrittVanHees
 Britta Ernst
 BrittaErnst
 Brittney Griner
@@ -5562,6 +5584,7 @@ CHRIS VAN DEN ABEELE
 CHRIS VAN DEN DURPEL
 CHRIS(TOPHER) STONE
 CHRISPAUL
+CHRISSY TEIGEN
 CHRISTEL HEYDEMANN
 CHRISTI HIMMELFAHRT
 CHRISTIAN BOLTANSKI
@@ -6721,6 +6744,8 @@ ChrisVandenAbeele
 ChrisVandenDurpel
 ChrisdeBurgh
 Chrishemsworth
+Chrissy Teigen
+ChrissyTeigen
 Christel Heydemann
 ChristelHeydemann
 Christi Himmelfahrt
@@ -8999,6 +9024,7 @@ EK2021
 EK2021WEDSTRIJDEN
 EK2021wedstrijden
 EKITIKE
+EKKELENKAMP
 EKVrouwen
 EKdarts
 EKfinale
@@ -9553,6 +9579,7 @@ EishockeyWM 2022
 EishockeyWM 2023
 EishockeyWM Schweiz
 Ekitike
+Ekkelenkamp
 Elaine Thompson
 ElaineThompson
 Elche – Atlético Madrid
@@ -12171,6 +12198,7 @@ GOTTHARD STAU
 GOTTHARDSTAU
 GOTTHARDTUNNEL
 GOTTSCHALK
+GOUFFRE AU CHILI
 GOUVERNEMENT
 GOUVERNEMENT COVID
 GOUVERNEMENT FRANÇAIS
@@ -12239,6 +12267,7 @@ GREG LEMOND
 GREG VAN AVERMAET
 GREGOR SCHLIERENZAUER
 GREGORY HOFMANN
+GREGORY KARLEN
 GREGORY LEMARCHAL
 GRELE BORDEAUX
 GRELE VOSGES
@@ -12851,6 +12880,8 @@ GotthardStau
 Gotthardstau
 Gotthardtunnel
 Gottschalk
+Gouffre au Chili
+GouffreauChili
 Gouvernement
 Gouvernement Covid
 Gouvernement français
@@ -12932,8 +12963,10 @@ GregVanAvermaet
 Gregor Schlierenzauer
 GregorSchlierenzauer
 Gregory Hofmann
+Gregory Karlen
 Gregory Lemarchal
 GregoryHofmann
+GregoryKarlen
 GregoryLemarchal
 Grele Bordeaux
 Grele Vosges
@@ -14065,6 +14098,7 @@ ISALA VAN DIEST
 ISHAQ ABDULRAZAK
 ISLAM MAKHACHEV
 ISLAMABAD
+ISLAND VULKANAUSBRUCH
 ISLANDE
 ISLANDE – FRANCE
 ISLETEN
@@ -14494,6 +14528,8 @@ IshaqAbdulrazak
 Islam Makhachev
 IslamMakhachev
 Islamabad
+Island Vulkanausbruch
+IslandVulkanausbruch
 Islande
 Islande – France
 Islande–France
@@ -14848,6 +14884,7 @@ JENIFER
 JENKE-EXPERIMENT
 JENNIFER
 JENNIFER ANISTON
+JENNIFER COOLIDGE
 JENNIFER GARNER
 JENNIFER GREY
 JENNIFER LAWRENCE
@@ -15012,6 +15049,7 @@ JORAN WYSEURE
 JORDAN BARDELLA
 JORDAN CASHMYER
 JORDAN MICHALLET
+JORDAN OZUNA
 JORDAN VERETOUT
 JORDANBARDELLA
 JORDI BONGARD
@@ -15598,6 +15636,7 @@ Jenke-Experiment
 JenkeExperiment
 Jennifer
 Jennifer Aniston
+Jennifer Coolidge
 Jennifer Garner
 Jennifer Grey
 Jennifer Lawrence
@@ -15605,6 +15644,7 @@ Jennifer Lawrence Cooke Maroney
 Jennifer Lopez
 Jennifer lopez
 JenniferAniston
+JenniferCoolidge
 JenniferGarner
 JenniferGrey
 JenniferLawrence
@@ -15892,11 +15932,13 @@ JoranWyseure
 Jordan Bardella
 Jordan Cashmyer
 Jordan Michallet
+Jordan Ozuna
 Jordan Veretout
 Jordan bardella
 JordanBardella
 JordanCashmyer
 JordanMichallet
+JordanOzuna
 JordanVeretout
 Jordanbardella
 Jordi Bongard
@@ -17074,6 +17116,7 @@ L'ABSENTE
 L'AMI QUI N'EXISTE PAS
 L'AMOUR C'EST MIEUX QUE LA VIE
 L'AMOUR EST DANS LE PRÉ LES PORTRAITS
+L'ANNÉE DU REQUIN
 L'ARMÉE DES OMBRES
 L'AVENTURE DU POSÉIDON
 L'Absente
@@ -17100,6 +17143,8 @@ L'amour c'est mieux que la vie
 L'amour est dans le pré les portraits
 L'amourc'estmieuxquelavie
 L'amourestdansleprélesportraits
+L'année du requin
+L'annéedurequin
 L'aventure du Poséidon
 L'aventureduPoséidon
 L'eQUIPE
@@ -17497,6 +17542,7 @@ LESCHOSESDELAVIE
 LESDIABLESROUGES
 LESENSDELAFAMILLE
 LESGETS
+LESLIE GRACE
 LET'S DANCE
 LET'S DANCE 2022
 LET'S DANCE PROFI CHALLENGE
@@ -18579,6 +18625,8 @@ LeschroniquesdeBridgerton
 LesenfañtsdesJustes
 Lesensdelafamille
 Lesfantasmes
+Leslie Grace
+LeslieGrace
 Lesparticulesélémentaires
 Lesprofs2
 Lesvisiteurs
@@ -19379,6 +19427,7 @@ MAIKE BOERDAM
 MAIRE DE REZÉ
 MAISON DE RETRAITE
 MAISON M
+MAITE KELLY
 MAIWENN
 MAJOR LAZER
 MAJORQUE
@@ -19620,6 +19669,7 @@ MARINE DELTERME
 MARINE LE PEN
 MARINE LORPHELIN
 MARINELEPEN
+MARIO ADORF
 MARIO BALOTELLI
 MARIO DRAGHI
 MARIO FEHR
@@ -20307,6 +20357,7 @@ MONZA
 MOON AND STARS
 MOON KNIGHT
 MOONFALL
+MOONSWATCH
 MOOSALP
 MORATA
 MORBIUS
@@ -20467,6 +20518,8 @@ Maison M
 Maison de retraite
 MaisonM
 Maisonderetraite
+Maite Kelly
+MaiteKelly
 Maiwenn
 Major Lazer
 MajorLazer
@@ -20906,11 +20959,13 @@ MarineDelterme
 MarineLePen
 MarineLorphelin
 Marinčilić
+Mario Adorf
 Mario Balotelli
 Mario Draghi
 Mario Fehr
 Mario Mandzukic
 Mario Strikers
+MarioAdorf
 MarioBalotelli
 MarioDraghi
 MarioFehr
@@ -22090,6 +22145,7 @@ Monza
 Moon Knight
 Moon and Stars
 MoonKnight
+MoonSwatch
 MoonandStars
 Moonfall
 Moosalp
@@ -23377,6 +23433,7 @@ OLIVIA GREGOIRE
 OLIVIA PODMORE
 OLIVIA RODRIGO
 OLIVIA RUIZ
+OLIVIA TRAPPENIERS
 OLIVIA WILDE
 OLIVIAWILDE
 OLIVIER COUSI
@@ -23693,12 +23750,14 @@ OliverWnuk
 Olivia Podmore
 Olivia Rodrigo
 Olivia Ruiz
+Olivia Trappeniers
 Olivia Wilde
 Olivia de Havilland
 Olivia gregoire
 OliviaPodmore
 OliviaRodrigo
 OliviaRuiz
+OliviaTrappeniers
 OliviaWilde
 OliviadeHavilland
 Oliviagregoire
@@ -23992,6 +24051,7 @@ PACO STEINBECK
 PADDY PIMBLETT
 PADEL
 PADERBORN
+PAIDE LINNAMEESKOND
 PAKISTAN
 PALANTIR
 PALANTIR-AKTIE
@@ -24456,6 +24516,7 @@ POISSY
 POKEMON
 POKEMON ARCEUS
 POKEMON DIAMANT ETINCELANT
+POKEMON ECARLATE
 POKEMON SCARLET
 POKEMON UNITE
 POLE EMPLOI
@@ -24736,6 +24797,8 @@ Paddy Pimblett
 PaddyPimblett
 Padel
 Paderborn
+Paide Linnameeskond
+PaideLinnameeskond
 Pakistan
 Palantir
 Palantir-Aktie
@@ -25504,10 +25567,12 @@ Pokemon Arceus
 Pokemon Diamant Etincelant
 Pokemon Scarlet
 Pokemon Unite
+Pokemon ecarlate
 PokemonArceus
 PokemonDiamantEtincelant
 PokemonScarlet
 PokemonUnite
+Pokemonecarlate
 Pole Emploi
 Pole emploi
 PoleEmploi
@@ -25822,6 +25887,7 @@ QANON
 QARABAG
 QATAR
 QAnon
+QIXI
 QMUSIC
 QONTO
 QOQA
@@ -25867,6 +25933,7 @@ QVAX reservelijst
 QVAXreservelijst
 Qarabag
 Qatar
+Qixi
 Qmusic
 QoQa
 Qonto
@@ -26280,6 +26347,7 @@ RICO VERHOEVEN
 RICOLA
 RIDOUAN TAGHI
 RIESENSLALOM ADELBODEN
+RIESIGES LOCH: IN CHILE
 RIGI
 RIHANNA
 RIHANNA SCHWANGER
@@ -27078,6 +27146,8 @@ Ridouan Taghi
 RidouanTaghi
 Riesenslalom Adelboden
 RiesenslalomAdelboden
+Riesiges Loch: In Chile
+RiesigesLoch:InChile
 Rigi
 Rihanna
 Rihanna schwanger
@@ -30069,6 +30139,7 @@ TAG DER DEUTSCHEN EINHEIT
 TAG HEUER
 TAG Heuer
 TAGESSCHAU
+TAGESSCHAU SRF
 TAGHeuer
 TAHA BOUHAFS
 TAHAR RAHIM
@@ -30414,6 +30485,7 @@ TONI BRUNNER
 TONI KROOS
 TONI VESCOLI
 TONIKROOS
+TONY HAWK
 TONY PARKER
 TONY SIRICO
 TONY VAIRELLES
@@ -30661,6 +30733,8 @@ Tag der Deutschen Einheit
 TagderArbeit
 TagderDeutschenEinheit
 Tagesschau
+Tagesschau SRF
+TagesschauSRF
 Taha Bouhafs
 TahaBouhafs
 Tahar Rahim
@@ -31244,10 +31318,12 @@ Toni Vescoli
 ToniBrunner
 ToniKroos
 ToniVescoli
+Tony Hawk
 Tony Parker
 Tony Sirico
 Tony Vairelles
 Tony Yoka
+TonyHawk
 TonyParker
 TonySirico
 TonyVairelles
@@ -33899,6 +33975,7 @@ acab
 accident a16
 accident a7
 accident autoroute
+accident autoroute a1
 accident bus pnl
 accident centre équestre
 accident de chasse
@@ -34087,6 +34164,7 @@ alex collado
 alex dowsett
 alex fiva
 alex hugo
+alex jones
 alex kapranos
 alex lutz
 alex pullin
@@ -34729,6 +34807,7 @@ aurelio galfetti
 aurigny
 aurora ramazzotti
 aurore bergé
+aurélien pradié
 aurélien taché
 austin butler
 australian open
@@ -35052,6 +35131,7 @@ bellingcat
 belmadi
 belmondo overleden
 belmondo tot
+beluga
 ben affleck
 ben affleck jennifer garner
 ben arfa
@@ -35101,6 +35181,7 @@ benzinpreise schweiz
 berchtesgaden
 berenice bejo
 berenice wicki
+bergerac
 bergerac – saint-étienne
 bergerac-versailles
 bergheim
@@ -35127,6 +35208,7 @@ bernard pons
 bernard tapie
 bernard tiphaine
 bernard-henri levy
+bernardo silva
 bernardtapie
 bernd grimmer
 bernd storck
@@ -35474,6 +35556,7 @@ brevet 2022
 brian austin green
 brian laundrie
 brian may
+brice louge
 brice louge disparition
 brides-les-bains
 bridgerton
@@ -35499,6 +35582,7 @@ brit awards 2022
 british airways
 britney spears
 britneyspears
+britt van hees
 britta ernst
 brittney griner
 brocante
@@ -36014,6 +36098,7 @@ chris van den abeele
 chris van den durpel
 chris(topher) stone
 chrispaul
+chrissy teigen
 christel heydemann
 christi himmelfahrt
 christian boltanski
@@ -37064,6 +37149,7 @@ ek-finale
 ek2021
 ek2021wedstrijden
 ekitike
+ekkelenkamp
 elaine thompson
 elche – atlético madrid
 elche – barcelona
@@ -38357,6 +38443,7 @@ gotthard stau
 gotthardstau
 gotthardtunnel
 gottschalk
+gouffre au chili
 gouvernement
 gouvernement covid
 gouvernement français
@@ -38408,6 +38495,7 @@ greg lemond
 greg van avermaet
 gregor schlierenzauer
 gregory hofmann
+gregory karlen
 gregory lemarchal
 grele bordeaux
 grele vosges
@@ -39033,6 +39121,7 @@ isala van diest
 ishaq abdulrazak
 islam makhachev
 islamabad
+island vulkanausbruch
 islande
 islande – france
 isleten
@@ -39338,6 +39427,7 @@ jenifer
 jenke-experiment
 jennifer
 jennifer aniston
+jennifer coolidge
 jennifer garner
 jennifer grey
 jennifer lawrence
@@ -39499,6 +39589,7 @@ joran wyseure
 jordan bardella
 jordan cashmyer
 jordan michallet
+jordan ozuna
 jordan veretout
 jordanbardella
 jordi bongard
@@ -39994,6 +40085,7 @@ l'absente
 l'ami qui n'existe pas
 l'amour c'est mieux que la vie
 l'amour est dans le pré les portraits
+l'année du requin
 l'armée des ombres
 l'aventure du poséidon
 l'equipe
@@ -40374,6 +40466,7 @@ leschosesdelavie
 lesdiablesrouges
 lesensdelafamille
 lesgets
+leslie grace
 let's dance
 let's dance 2022
 let's dance profi challenge
@@ -40858,6 +40951,7 @@ maike boerdam
 maire de rezé
 maison de retraite
 maison m
+maite kelly
 maiwenn
 major lazer
 majorque
@@ -41099,6 +41193,7 @@ marine delterme
 marine le pen
 marine lorphelin
 marinelepen
+mario adorf
 mario balotelli
 mario draghi
 mario fehr
@@ -41775,6 +41870,7 @@ monza
 moon and stars
 moon knight
 moonfall
+moonswatch
 moosalp
 morata
 morbius
@@ -42313,6 +42409,7 @@ olivia gregoire
 olivia podmore
 olivia rodrigo
 olivia ruiz
+olivia trappeniers
 olivia wilde
 oliviawilde
 olivier cousi
@@ -42513,6 +42610,7 @@ paco steinbeck
 paddy pimblett
 padel
 paderborn
+paide linnameeskond
 pakistan
 palantir
 palantir-aktie
@@ -42959,6 +43057,7 @@ poissy
 pokemon
 pokemon arceus
 pokemon diamant etincelant
+pokemon ecarlate
 pokemon scarlet
 pokemon unite
 pole emploi
@@ -43175,6 +43274,7 @@ pétanque
 qanon
 qarabag
 qatar
+qixi
 qmusic
 qonto
 qoqa
@@ -43525,6 +43625,7 @@ rico verhoeven
 ricola
 ridouan taghi
 riesenslalom adelboden
+riesiges loch: in chile
 rigi
 rihanna
 rihanna schwanger
@@ -44743,6 +44844,7 @@ tag der arbeit
 tag der deutschen einheit
 tag heuer
 tagesschau
+tagesschau srf
 taha bouhafs
 tahar rahim
 taiwan
@@ -45079,6 +45181,7 @@ toni brunner
 toni kroos
 toni vescoli
 tonikroos
+tony hawk
 tony parker
 tony sirico
 tony vairelles
@@ -46166,6 +46269,7 @@ zürich wetter
 ÉQUIPE JEUX OLYMPIQUES DE TOKYO 2020
 ÉRIC ABIDAL
 ÉRIC ZEMMOUR
+ÉRUPTION VOLCANIQUE ISLANDE
 ÉTATS-UNIS – MAROC
 ÉVELYNE DHÉLIAT
 Édouard Philippe
@@ -46200,6 +46304,8 @@ zürich wetter
 Éric Zemmour
 ÉricAbidal
 ÉricZemmour
+Éruption volcanique Islande
+ÉruptionvolcaniqueIslande
 États-Unis – Maroc
 États-Unis–Maroc
 ÉtatsUnis – Maroc
@@ -46236,6 +46342,7 @@ zürich wetter
 équipe jeux olympiques de tokyo 2020
 éric abidal
 éric zemmour
+éruption volcanique islande
 états-unis – maroc
 été
 évelyne dhéliat
