@@ -835,6 +835,7 @@ ANDERLECHT  EUPEN
 ANDERLECHT  MECHELEN
 ANDERLECHT  OHL
 ANDERLECHT  OOSTENDE
+ANDERLECHT  PAIDE
 ANDERLECHT - GENK
 ANDERLECHT CLUB BRUGGE
 ANDERLECHT GENT
@@ -1037,6 +1038,7 @@ ANTWERP  EUPEN
 ANTWERP  FENERBAHÇE
 ANTWERP  GENK
 ANTWERP  GENT
+ANTWERP  LILLESTRØM
 ANTWERP  MECHELEN
 ANTWERP  ZULTE-WAREGEM
 ANTWERP - OMONIA
@@ -2132,6 +2134,7 @@ Anderlecht  Genk
 Anderlecht  Mechelen
 Anderlecht  OHL
 Anderlecht  Oostende
+Anderlecht  Paide
 Anderlecht - Genk
 Anderlecht Club Brugge
 Anderlecht Gent
@@ -2157,6 +2160,7 @@ AnderlechtGent
 AnderlechtMechelen
 AnderlechtOHL
 AnderlechtOostende
+AnderlechtPaide
 AnderlechtStandard
 AnderlechtVitesse
 Anderlechtlaci
@@ -2495,6 +2499,7 @@ Antwerp  Eupen
 Antwerp  Fenerbahçe
 Antwerp  Genk
 Antwerp  Gent
+Antwerp  Lillestrøm
 Antwerp  Mechelen
 Antwerp  Omonia
 Antwerp  Union
@@ -2520,6 +2525,7 @@ AntwerpFC
 AntwerpFenerbahçe
 AntwerpGenk
 AntwerpGent
+AntwerpLillestrøm
 AntwerpMechelen
 AntwerpPortEpic
 AntwerpUnion
@@ -3139,6 +3145,7 @@ BART VERSLUYS
 BARTHEZ
 BARTVANLANCKER
 BAS SMETS
+BASAKSEHIR
 BASCHI
 BASHIR ABDI
 BASIL EIDENBENZ
@@ -3875,6 +3882,7 @@ BURNLEY
 BURNLEY – CHELSEA
 BURNLEY – MANCHESTER UNITED
 BUSHIDO
+BUSKERS BERN
 BUSSARD
 BUTSCHA
 BUZZ L'ÉCLAIR
@@ -4073,6 +4081,7 @@ BartVersluys
 Barthez
 Bas Smets
 BasSmets
+Basaksehir
 Baschi
 Bashir Abdi
 BashirAbdi
@@ -5207,6 +5216,8 @@ Burnley – Manchester United
 Burnley–Chelsea
 Burnley–ManchesterUnited
 Bushido
+Buskers Bern
+BuskersBern
 Bussard
 Butscha
 Buzz L'éclair
@@ -5385,6 +5396,7 @@ CASTELNAU MAGNOAC
 CASTELNAU-MAGNOAC
 CASTEX
 CASTEX ANNONCE
+CAT
 CAT STEVENS
 CATALOGNE
 CATANIA
@@ -5450,6 +5462,7 @@ CERCLE  ZULTE-WAREGEM
 CERCLE BRUGES – ANDERLECHT
 CERCLE BRUGGE
 CEREMONIE OUVERTURE JO 2021
+CERNON
 CERTIFICAT COVID
 CERTIFICAT COVID EUROPEEN
 CERTIFICAT COVID EUROPeEN
@@ -6379,6 +6392,7 @@ Castelnaumagnoac
 Castex
 Castex annonce
 Castexannonce
+Cat
 Cat Stevens
 CatStevens
 Catalogne
@@ -6477,6 +6491,7 @@ CercleClubBrugge
 Cerclezulte-waregem
 Ceremonie ouverture JO 2021
 CeremonieouvertureJO2021
+Cernon
 Certificat Covid
 Certificat Covid Suisse
 Certificat Covid europeen
@@ -7865,6 +7880,7 @@ DEPARDIEU
 DEPAY
 DER ALTE
 DER BERGDOKTOR
+DER KLEINE NICK
 DER KOMMISSAR UND DAS MEER
 DER PALAST
 DER VORNAME
@@ -8057,6 +8073,7 @@ DONIS AVDIJAJ
 DONNA D'ERRICO
 DONNARUMMA
 DONNE-MOI DES AILES
+DONNSCHTIG-JASS BASSERSDORF
 DONOVANOSE
 DONOVANOSIS
 DORIA TILLIER
@@ -8550,6 +8567,7 @@ Der Bergdoktor
 Der Kommissar und das Meer
 Der Palast
 Der Vorname
+Der kleine Nick
 DerAlte
 DerBergdoktor
 DerKommissarunddasMeer
@@ -8559,6 +8577,7 @@ Derby County
 DerbyCounty
 Derek Chauvin
 DerekChauvin
+DerkleineNick
 Dernier sondage Présidentielle 2022
 DerniersondagePrésidentielle2022
 Descente homme pekin
@@ -8855,6 +8874,9 @@ Donnarumma
 Donne-moi des ailes
 Donne-moidesailes
 Donnemoi des ailes
+Donnschtig-Jass Bassersdorf
+Donnschtig-JassBassersdorf
+DonnschtigJass Bassersdorf
 Donovanose
 Donovanosis
 Doria Tillier
@@ -9357,6 +9379,7 @@ EPC-waarde
 EPCwaarde
 EPIC GAMES
 EPINAL
+EPIPEN
 EPIPHANIE
 EPSTEIN-BARR
 EQUALIZER 2
@@ -9998,6 +10021,7 @@ Enzo Scifo
 Enzo Zidane
 EnzoScifo
 EnzoZidane
+EpiPen
 Epic Games
 EpicGames
 Epinal
@@ -10559,6 +10583,8 @@ FC Thun
 FC Thun gegen Winterthur
 FC URNÄSCH
 FC Urnäsch
+FC VADUZ
+FC Vaduz
 FC WIL
 FC WINTERTHUR
 FC Wil
@@ -10607,6 +10633,7 @@ FCSt.Gallen
 FCThun
 FCThungegenWinterthur
 FCUrnäsch
+FCVaduz
 FCW
 FCWil
 FCWinterthur
@@ -10755,6 +10782,7 @@ FILIP PAVLOVIC
 FILIP UGRINIC
 FILLON
 FILM D'HORREUR
+FILMS AVEC ANNE HECHE
 FILS DE JOIE STROMAE
 FIN PASS VACCINAL
 FINAL EURO 2021
@@ -10862,6 +10890,7 @@ FOOTBALL
 FOOTBALL BELGIQUE
 FOOTBALL FÉMININ
 FOOTBALL JEUX OLYMPIQUES DE TOKYO 2020
+FORET DE BROCELIANDE
 FORMEL 1
 FORMEL 1 LIVE
 FORMEL 1 MONZA
@@ -11380,6 +11409,8 @@ FilipUgrinic
 Fillon
 Film d'horreur
 Filmd'horreur
+Films avec Anne Heche
+FilmsavecAnneHeche
 Fils de joie Stromae
 FilsdejoieStromae
 Fin pass vaccinal
@@ -11546,6 +11577,8 @@ FootballBelgique
 FootballJeuxOlympiquesdeTokyo2020
 Footballféminin
 FootfemininEuro
+Foret de broceliande
+Foretdebroceliande
 Formel 1
 Formel 1 Monza
 Formel 1 live
@@ -12436,6 +12469,7 @@ GREGOR SCHLIERENZAUER
 GREGORY HOFMANN
 GREGORY KARLEN
 GREGORY LEMARCHAL
+GREGORY SCHNEIDER
 GRELE BORDEAUX
 GRELE VOSGES
 GRELEVOSGES
@@ -13143,9 +13177,11 @@ GregorSchlierenzauer
 Gregory Hofmann
 Gregory Karlen
 Gregory Lemarchal
+Gregory Schneider
 GregoryHofmann
 GregoryKarlen
 GregoryLemarchal
+GregorySchneider
 Grele Bordeaux
 Grele Vosges
 GreleBordeaux
@@ -17693,6 +17729,7 @@ LEGO DISCOVERY CENTER
 LEGO STAR WARS LA SAGA SKYWALKER
 LEGO Star Wars La Saga Skywalker
 LEGO-TITANIC
+LEGOLAND
 LEGOStarWarsLaSagaSkywalker
 LEICESTER
 LEICESTER CITY ( LIVERPOOL
@@ -17915,6 +17952,7 @@ LILLE – SAINT-ÉTIENNE
 LILLE – TROYES
 LILLESTRØM  ANTWERP
 LILLY BECKER
+LILSE BERGEN
 LILY COLLINS
 LILY JAMES
 LILY SAFRA
@@ -18698,6 +18736,7 @@ Lego Discovery center
 Lego-Titanic
 LegoDiscoverycenter
 LegoTitanic
+Legoland
 Leicester
 Leicester City ( Liverpool
 Leicester – Chelsea
@@ -19105,6 +19144,8 @@ Lille–paris-sg
 Lille–saint-étienne
 Lilly Becker
 LillyBecker
+Lilse Bergen
+LilseBergen
 Lily Collins
 Lily James
 Lily Safra
@@ -22772,6 +22813,7 @@ NEERAJ CHOPRA
 NEHAMMER
 NEIGE
 NEIL YOUNG
+NELE BAUWENS
 NELLY KORDA
 NELSON PIQUET
 NENA
@@ -23281,6 +23323,8 @@ Nehammer
 Neige
 Neil Young
 NeilYoung
+Nele Bauwens
+NeleBauwens
 Neledisàpersonne
 Nelly Korda
 NellyKorda
@@ -24457,6 +24501,7 @@ PARALYMPICS 2021
 PARALYMPISCHE SPELEN
 PARALYMPISCHE SPIELE
 PARASITE
+PARC ATTRACTION ALLEMAGNE ACCIDENT
 PARCOUR DWARS DOOR VLAANDEREN 2022
 PARCOURS GENT WEVELGEM
 PARCOURS TOUR DE FRANCE 2021
@@ -25225,6 +25270,8 @@ Paralympische Spiele
 ParalympischeSpelen
 ParalympischeSpiele
 Parasite
+Parc attraction Allemagne accident
+ParcattractionAllemagneaccident
 Parcour Dwars door Vlaanderen 2022
 ParcourDwarsdoorVlaanderen2022
 Parcours Tour de France 2021
@@ -26458,6 +26505,7 @@ RAPPEL PRODUIT
 RAPPELPRODUIT
 RAPPORT SAUVÉ
 RAQUEL GARRIDO
+RASHFORD
 RASMUS PALUDAN
 RASTA ROCKETT
 RATP
@@ -26812,6 +26860,7 @@ ROGER SCHAWINSKI
 ROGERFEDERER
 ROGIER
 ROGLIC
+ROHFF
 ROLAND JACCARD
 ROLAND KAISER
 ROLAND-GARROS
@@ -27144,6 +27193,7 @@ Rapport Sauvé
 RapportSauvé
 Raquel Garrido
 RaquelGarrido
+Rashford
 Rasmus Paludan
 RasmusPaludan
 Rasta Rockett
@@ -27683,6 +27733,7 @@ RogerMilla
 RogerSchawinski
 Rogier
 Roglic
+Rohff
 Roland Jaccard
 Roland Kaiser
 Roland-Garros
@@ -28076,6 +28127,7 @@ SAMSONOVA LIUDMILA
 SAMSUNG
 SAMSUNG GALAXY S21 FE
 SAMSUNG GALAXY S21 ULTRA
+SAMSUNG Z FLIP 4
 SAMUEL ETIENNE
 SAMUEL GIGER
 SAMUEL KALU
@@ -28269,6 +28321,7 @@ SELENAGOMEZ
 SELENIUM
 SELMA BLAIR
 SEMI-MARATHON PARIS 2021
+SEMPÉ
 SENAT PASS SANITAIRE
 SENEGAL
 SENEGAL EGYPTE
@@ -28791,6 +28844,8 @@ STRASSENVERKEHRSAMT ZÜRICH
 STRAY
 STREAM DECK
 STREET PARADE
+STREET PARADE 2022
+STREET PARADE ZÜRICH
 STRELA
 STREPY
 STREPY BRACQUEGNIES DRAME
@@ -29187,8 +29242,10 @@ SamsonovaLiudmila
 Samsung
 Samsung Galaxy S21 FE
 Samsung Galaxy S21 Ultra
+Samsung Z Flip 4
 SamsungGalaxyS21FE
 SamsungGalaxyS21Ultra
+SamsungZFlip4
 Samuel Etienne
 Samuel Giger
 Samuel Kalu
@@ -29487,6 +29544,7 @@ SelmaBlair
 Semi-marathon Paris 2021
 Semi-marathonParis2021
 Semimarathon Paris 2021
+Sempé
 Senat pass sanitaire
 Senatpasssanitaire
 Senegal
@@ -30294,7 +30352,11 @@ Stray
 Stream Deck
 StreamDeck
 Street Parade
+Street Parade 2022
+Street Parade Zürich
 StreetParade
+StreetParade2022
+StreetParadeZürich
 Strela
 Strepy
 Strepy Bracquegnies Drame
@@ -34173,6 +34235,7 @@ ZOE KRAVITZ
 ZOFINGEN
 ZOFINGER TAGBLATT
 ZOFINGERTAGBLATT
+ZOLGENSMA
 ZOLLIKOFEN
 ZOMER
 ZOMERTIJD
@@ -34324,6 +34387,7 @@ ZoeKravitz
 Zofingen
 Zofinger tagblatt
 Zofingertagblatt
+Zolgensma
 Zollikofen
 Zomer
 Zomertijd
@@ -34855,6 +34919,7 @@ anderlecht  eupen
 anderlecht  mechelen
 anderlecht  ohl
 anderlecht  oostende
+anderlecht  paide
 anderlecht - genk
 anderlecht club brugge
 anderlecht gent
@@ -35055,6 +35120,7 @@ antwerp  eupen
 antwerp  fenerbahçe
 antwerp  genk
 antwerp  gent
+antwerp  lillestrøm
 antwerp  mechelen
 antwerp  zulte-waregem
 antwerp - omonia
@@ -35481,6 +35547,7 @@ bart versluys
 barthez
 bartvanlancker
 bas smets
+basaksehir
 baschi
 bashir abdi
 basil eidenbenz
@@ -36184,6 +36251,7 @@ burnley
 burnley – chelsea
 burnley – manchester united
 bushido
+buskers bern
 bussard
 butscha
 buzz l'éclair
@@ -36356,6 +36424,7 @@ castelnau magnoac
 castelnau-magnoac
 castex
 castex annonce
+cat
 cat stevens
 catalogne
 catania
@@ -36421,6 +36490,7 @@ cercle  zulte-waregem
 cercle bruges – anderlecht
 cercle brugge
 ceremonie ouverture jo 2021
+cernon
 certificat covid
 certificat covid europeen
 certificat covid européen
@@ -37309,6 +37379,7 @@ depardieu
 depay
 der alte
 der bergdoktor
+der kleine nick
 der kommissar und das meer
 der palast
 der vorname
@@ -37488,6 +37559,7 @@ donis avdijaj
 donna d'errico
 donnarumma
 donne-moi des ailes
+donnschtig-jass bassersdorf
 donovanose
 donovanosis
 doria tillier
@@ -37855,6 +37927,7 @@ enzoscifo
 epc-waarde
 epic games
 epinal
+epipen
 epiphanie
 epstein-barr
 equalizer 2
@@ -38199,6 +38272,7 @@ fc st. gallen
 fc thun
 fc thun gegen winterthur
 fc urnäsch
+fc vaduz
 fc wil
 fc winterthur
 fc zurich
@@ -38332,6 +38406,7 @@ filip pavlovic
 filip ugrinic
 fillon
 film d'horreur
+films avec anne heche
 fils de joie stromae
 fin pass vaccinal
 final euro 2021
@@ -38435,6 +38510,7 @@ football
 football belgique
 football féminin
 football jeux olympiques de tokyo 2020
+foret de broceliande
 formel 1
 formel 1 live
 formel 1 monza
@@ -39047,6 +39123,7 @@ gregor schlierenzauer
 gregory hofmann
 gregory karlen
 gregory lemarchal
+gregory schneider
 grele bordeaux
 grele vosges
 grelevosges
@@ -40942,6 +41019,7 @@ legislatives france
 lego discovery center
 lego star wars la saga skywalker
 lego-titanic
+legoland
 leicester
 leicester city ( liverpool
 leicester – chelsea
@@ -41161,6 +41239,7 @@ lille – saint-étienne
 lille – troyes
 lillestrøm  antwerp
 lilly becker
+lilse bergen
 lily collins
 lily james
 lily safra
@@ -42699,6 +42778,7 @@ neeraj chopra
 nehammer
 neige
 neil young
+nele bauwens
 nelly korda
 nelson piquet
 nena
@@ -43272,6 +43352,7 @@ paralympics 2021
 paralympische spelen
 paralympische spiele
 parasite
+parc attraction allemagne accident
 parcour dwars door vlaanderen 2022
 parcours gent wevelgem
 parcours tour de france 2021
@@ -44017,6 +44098,7 @@ rappel produit
 rappelproduit
 rapport sauvé
 raquel garrido
+rashford
 rasmus paludan
 rasta rockett
 ratp
@@ -44340,6 +44422,7 @@ roger schawinski
 rogerfederer
 rogier
 roglic
+rohff
 roland jaccard
 roland kaiser
 roland-garros
@@ -44626,6 +44709,7 @@ samsonova liudmila
 samsung
 samsung galaxy s21 fe
 samsung galaxy s21 ultra
+samsung z flip 4
 samuel etienne
 samuel giger
 samuel kalu
@@ -44810,6 +44894,7 @@ selenagomez
 selenium
 selma blair
 semi-marathon paris 2021
+sempé
 senat pass sanitaire
 senegal
 senegal egypte
@@ -45300,6 +45385,8 @@ strassenverkehrsamt zürich
 stray
 stream deck
 street parade
+street parade 2022
+street parade zürich
 strela
 strepy
 strepy bracquegnies drame
@@ -46862,6 +46949,7 @@ zoe kravitz
 zofingen
 zofinger tagblatt
 zofingertagblatt
+zolgensma
 zollikofen
 zomer
 zomertijd
