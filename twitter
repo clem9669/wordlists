@@ -1452,7 +1452,9 @@ $twtr
 82ÈME
 82ème
 85EME
+85X10
 85eme
+85x10
 89 RN
 89 rn
 89EME
@@ -13314,6 +13316,7 @@ CONSORTIUM 12-12
 CONSTANCE
 CONSTANT
 CONSTANTIN
+CONSTANTINOPLE
 CONSTITUTION
 CONTACT TRACING
 CONTACTTRACING
@@ -15510,6 +15513,7 @@ Consortium12-12
 Constance
 Constant
 Constantin
+Constantinople
 Constitution
 Contact Tracing
 ContactTracing
@@ -40049,6 +40053,7 @@ LUCIFER
 LUCIFERSEASON6
 LUCILE
 LUCINDA BRAND
+LUCIOLE
 LUCKY
 LUCKY LUKE
 LUCKY SHAW
@@ -40199,6 +40204,7 @@ LYLA
 LYNCH
 LYNETTE
 LYON
+LYON - TROYES
 LYON 3
 LYONNAIS
 LYONNAISES
@@ -42576,6 +42582,7 @@ LuciferSeason6
 Lucile
 Lucinda Brand
 LucindaBrand
+Luciole
 Lucky
 Lucky Luke
 Lucky Shaw
@@ -42729,7 +42736,10 @@ Lyla
 Lynch
 Lynette
 Lyon
+Lyon  Troyes
+Lyon - Troyes
 Lyon 3
+Lyon-Troyes
 Lyon3
 Lyonnais
 Lyonnaises
@@ -66544,6 +66554,7 @@ THIERRY LAUREY
 THIERRY MARX
 THIERRY MOREAU
 THIERRY MUGLER
+THIERRY NEUVILLE
 THIERRY ROLAND
 THIERRY SOLERE
 THIERRY SOLÈRE
@@ -68371,6 +68382,7 @@ Thierry Laurey
 Thierry Marx
 Thierry Moreau
 Thierry Mugler
+Thierry Neuville
 Thierry Roland
 Thierry Solere
 Thierry Solère
@@ -68386,6 +68398,7 @@ ThierryLaurey
 ThierryMarx
 ThierryMoreau
 ThierryMugler
+ThierryNeuville
 ThierryRoland
 ThierrySolère
 ThierrylaFronde
@@ -70653,6 +70666,7 @@ VICTOIRE DU 8
 VICTOIRES2022
 VICTOIRESDELAMUSIQUE
 VICTOR
+VICTOR CAMPENAERTS
 VICTOR MARTINS
 VICTORIA
 VICTORIA NULAND
@@ -82800,6 +82814,7 @@ consortium12-12
 constance
 constant
 constantin
+constantinople
 constitution
 contact tracing
 contacttracing
@@ -97007,6 +97022,7 @@ luciferseason6
 lucile
 lucinda brand
 lucindabrand
+luciole
 lucky
 lucky luke
 lucky shaw
@@ -97165,6 +97181,7 @@ lyla
 lynch
 lynette
 lyon
+lyon - troyes
 lyon 3
 lyonnais
 lyonnaises
@@ -110074,6 +110091,7 @@ thierry laurey
 thierry marx
 thierry moreau
 thierry mugler
+thierry neuville
 thierry roland
 thierry solere
 thierry solère
@@ -112046,7 +112064,9 @@ victoiredu8
 victoires2022
 victoiresdelamusique
 victor
+victor campenaerts
 victor martins
+victorcampenaerts
 victoria
 victoria nuland
 victorien
