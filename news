@@ -441,6 +441,7 @@ ACAB
 ACCIDENT A16
 ACCIDENT A7
 ACCIDENT A9
+ACCIDENT ARIEGE
 ACCIDENT AUTOROUTE
 ACCIDENT AUTOROUTE A1
 ACCIDENT BUS PNL
@@ -1473,6 +1474,7 @@ Accident E42
 Accident Jura
 Accident Marc-Philippe Daubresse
 Accident MarcPhilippe Daubresse
+Accident ariege
 Accident autoroute
 Accident autoroute A1
 Accident bus PNL
@@ -1484,6 +1486,7 @@ AccidentA9
 AccidentE42
 AccidentJura
 AccidentMarc-PhilippeDaubresse
+Accidentariege
 Accidentautoroute
 AccidentautorouteA1
 AccidentbusPNL
@@ -3103,6 +3106,7 @@ BAGQuarantäne
 BAHNHOF LUZERN
 BAHNHOF OLTEN UNFALL
 BAHRAIN VICTORIOUS
+BAINES
 BAKAMBU
 BAKE OFF VLAANDEREN
 BAKOU
@@ -3442,6 +3446,7 @@ BERTARELLI
 BERTRAND BELIN
 BERTRAND CANTAT
 BERTRAND DE LA CHESNAIS
+BERTRAND RENARD
 BESANCON
 BESIKTAS
 BESKO
@@ -3992,6 +3997,7 @@ BahnhofLuzern
 BahnhofOltenUnfall
 Bahrain Victorious
 BahrainVictorious
+Baines
 Bakambu
 Bake off Vlaanderen
 BakeoffVlaanderen
@@ -4548,9 +4554,11 @@ BertDeBacker
 Bertarelli
 Bertrand Belin
 Bertrand Cantat
+Bertrand Renard
 Bertrand de la Chesnais
 BertrandBelin
 BertrandCantat
+BertrandRenard
 BertranddelaChesnais
 Besancon
 Besiktas
@@ -5769,6 +5777,7 @@ CHRISTINA LIEBHERR
 CHRISTINA LUFT
 CHRISTINA MILIAN
 CHRISTINA RICCI
+CHRISTINE AND THE QUEENS
 CHRISTINE ANGOT
 CHRISTINE KELLY
 CHRISTINE LAGARDE
@@ -6992,10 +7001,12 @@ Christine Angot
 Christine Kelly
 Christine Lagarde
 Christine Lambrecht
+Christine and the Queens
 ChristineAngot
 ChristineKelly
 ChristineLagarde
 ChristineLambrecht
+ChristineandtheQueens
 Christmas
 Christo
 Christoph Berger
@@ -10834,6 +10845,7 @@ FELIXAUGER-ALIASSIME
 FELIXAUGERALIASSIME
 FEMINICIDE
 FEMIZID
+FEMKE BOL
 FEMSA
 FENERBAHCE
 FENTANYL
@@ -11452,6 +11464,8 @@ FelixFischer
 FelixSturm
 Feminicide
 Femizid
+Femke Bol
+FemkeBol
 Femsa
 Fenerbahce
 Fentanyl
@@ -12629,6 +12643,7 @@ GRAND PRIX F1
 GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
 GRAND PRIX SILVERSTONE
+GRAND RAID 2022
 GRAND REQUIN BLANC
 GRAND-PRIX BERN
 GRANDORALBAC2021
@@ -13310,6 +13325,7 @@ Grand Prix PaysBas
 Grand Prix Silverstone
 Grand Prix de France
 Grand Prix f1
+Grand Raid 2022
 Grand oral Bac 2021
 Grand requin blanc
 Grand-Prix Bern
@@ -13325,6 +13341,7 @@ GrandPrixPays-Bas
 GrandPrixSilverstone
 GrandPrixdeFrance
 GrandPrixf1
+GrandRaid2022
 GrandoralBac2021
 Grandrequinblanc
 Granit Xhaka
@@ -13546,6 +13563,7 @@ GyranoKerk
 GÉRALDINE MAILLET
 GÉRARD DEPARDIEU
 GÉRARD LANVIN
+GÖLÄ
 GÖTZ WERNER
 GÖTZIS!
 GÜLSHA ADILJI
@@ -13558,6 +13576,7 @@ Gérard Depardieu
 Gérard Lanvin
 GérardDepardieu
 GérardLanvin
+Gölä
 Götz Werner
 GötzWerner
 Götzis!
@@ -13567,6 +13586,7 @@ Günther Jauch
 GüntherJauch
 H&AMP;M
 H&amp;M
+H2U
 HAAGEN DAZS
 HAALAND
 HADJA LAHBIB
@@ -15248,6 +15268,7 @@ JANSRUD
 JANULLRICH
 JAOUAD ACHAB
 JAPAN
+JAPAN IMPACT
 JAPANSE DUIZENDKNOOP
 JAPANSE TUIN HASSELT
 JAPON
@@ -15306,6 +15327,7 @@ JEAN-LOUIS TRINTIGNANT
 JEAN-LUC
 JEAN-LUC BRUNEL
 JEAN-LUC CRUCKE
+JEAN-LUC DELARUE
 JEAN-LUC LAHAYE
 JEAN-LUC MÉLENCHON
 JEAN-LUC NANCY
@@ -15540,6 +15562,7 @@ JOSEF FRITZL
 JOSEPH GATT
 JOSEPHINE BAKER
 JOSEPHINE BAKER PANTHEON
+JOSEPHINE TEWSON
 JOSEPHINEBAKER
 JOSH CAVALLO
 JOSH DUGGAR
@@ -15641,6 +15664,7 @@ JUNG HO-YEON
 JUNG HOYEON
 JUNGFRAU-MARATHON
 JUNGLE CRUISE
+JUNGLE STREET GROOVE
 JUNIKAFER
 JUNIKaFER
 JUNIKÄFER
@@ -15886,6 +15910,8 @@ Jansrud
 Jaouad Achab
 JaouadAchab
 Japan
+Japan Impact
+JapanImpact
 Japanse Tuin Hasselt
 Japanse duizendknoop
 JapanseTuinHasselt
@@ -15974,6 +16000,7 @@ Jean-LouisTrintignant
 Jean-Luc
 Jean-Luc Brunel
 Jean-Luc Crucke
+Jean-Luc Delarue
 Jean-Luc Lahaye
 Jean-Luc Mélenchon
 Jean-Luc Nancy
@@ -15981,6 +16008,7 @@ Jean-Luc Reichmann
 Jean-Luc Ribar
 Jean-LucBrunel
 Jean-LucCrucke
+Jean-LucDelarue
 Jean-LucLahaye
 Jean-LucMélenchon
 Jean-LucNancy
@@ -16053,6 +16081,7 @@ JeanLouis Trintignant
 JeanLuc
 JeanLuc Brunel
 JeanLuc Crucke
+JeanLuc Delarue
 JeanLuc Lahaye
 JeanLuc Mélenchon
 JeanLuc Nancy
@@ -16455,8 +16484,10 @@ Joseph Gatt
 JosephGatt
 Josephine Baker
 Josephine Baker pantheon
+Josephine Tewson
 JosephineBaker
 JosephineBakerpantheon
+JosephineTewson
 Josh Cavallo
 Josh Duggar
 Josh Hartnett
@@ -16632,7 +16663,9 @@ JungHoYeon
 Jungfrau-Marathon
 JungfrauMarathon
 Jungle Cruise
+Jungle Street Groove
 JungleCruise
+JungleStreetGroove
 Junikafer
 Junikäfer
 Juninho
@@ -17781,6 +17814,7 @@ LADJIDOUCOURe
 LADJIDOUCOURé
 LADY DIANA
 LADY GAGA
+LADY LOUISE WINDSOR
 LADY TRUCKERS
 LADYDIANA
 LAETICIA HALLYDAY
@@ -18668,9 +18702,11 @@ LadjiDoucoure
 LadjiDoucouré
 Lady Diana
 Lady Gaga
+Lady Louise Windsor
 Lady Truckers
 LadyDiana
 LadyGaga
+LadyLouiseWindsor
 LadyTruckers
 Laeticia Hallyday
 LaeticiaHallyday
@@ -25000,6 +25036,7 @@ PAUL UREY
 PAUL WALKER
 PAULA BADOSA
 PAULETTE NARDAL
+PAULINE FERRAND PREVOT
 PAULKOULAK
 PAULRICARD
 PAUS FRANCISCUS
@@ -25355,6 +25392,7 @@ POVERELLO
 POWER OF THE DOG
 PPDA
 PRAGA KHAN
+PRATTELN
 PREDATOR
 PREDATOR - UPGRADE
 PREMIER LEAGUE
@@ -25539,6 +25577,7 @@ PUKKELPOP
 PUKKELPOP 2021
 PUKKELPOP 2021 LINE UP
 PUKKELPOP 2022
+PUKKELPOP LIVE
 PUKKELPOP2021
 PUKKELPOP2021LINEUP
 PULA
@@ -25935,6 +25974,8 @@ Paula Badosa
 PaulaBadosa
 Paulette Nardal
 PauletteNardal
+Pauline Ferrand prevot
+PaulineFerrandprevot
 Paulquiles
 Paus Franciscus
 PausFranciscus
@@ -26495,6 +26536,7 @@ Power of the Dog
 PoweroftheDog
 Praga Khan
 PragaKhan
+Pratteln
 Predator
 Predator  Upgrade
 Predator - Upgrade
@@ -26659,9 +26701,11 @@ Pukkelpop
 Pukkelpop 2021
 Pukkelpop 2021 line up
 Pukkelpop 2022
+Pukkelpop live
 Pukkelpop2021
 Pukkelpop2021lineup
 Pukkelpop2022
+Pukkelpoplive
 Pula
 Pulp Fiction
 PulpFiction
@@ -27305,6 +27349,7 @@ RONDE VAN FRANKRIJK 2021
 RONDE VAN HET BASKENLAND
 RONDE VAN LOMBARDIJE
 RONDE VAN LOMBARDIJE 2021
+RONDE VAN SPANJE 2022
 RONDE VAN VLAAMS-BRABANT
 RONDE VAN VLAANDEREN
 RONDE VAN VLAANDEREN PARCOURS
@@ -28227,6 +28272,7 @@ Ronde van Frankrijk
 Ronde van Frankrijk 2021
 Ronde van Lombardije
 Ronde van Lombardije 2021
+Ronde van Spanje 2022
 Ronde van Vlaams-Brabant
 Ronde van VlaamsBrabant
 Ronde van Vlaanderen
@@ -28239,6 +28285,7 @@ RondevanFrankrijk
 RondevanFrankrijk2021
 RondevanLombardije
 RondevanLombardije2021
+RondevanSpanje2022
 RondevanVlaams-Brabant
 RondevanVlaanderen
 RondevanVlaanderenparcours
@@ -31065,6 +31112,7 @@ SÉNÉGAL – GUINÉE ÉQUATORIALE
 SÉVILLE – ATLÉTICO MADRID
 SÉVILLE – LILLE
 SÉVILLE – REAL
+SÉVILLE – VALLADOLID
 SÖLDEN
 SÜDAFRIKA
 Sébastien Raoult Maroc
@@ -31078,9 +31126,11 @@ Sénégal–Guinéeéquatoriale
 Séville – Atlético Madrid
 Séville – Lille
 Séville – Real
+Séville – Valladolid
 Séville–AtléticoMadrid
 Séville–Lille
 Séville–Real
+Séville–Valladolid
 Sölden
 Südafrika
 TABLEAU EURO 2021
@@ -31486,6 +31536,7 @@ TOTTENHAM – MAN CITY
 TOTTENHAM – MANCHESTER UNITED
 TOTTENHAM – NEWCASTLE
 TOTTENHAM – SOUTHAMPTON
+TOTTENHAM – WOLVES
 TOTTENHAM-RENNES
 TOTY FIFA 22
 TOTYFIFA22
@@ -32363,6 +32414,7 @@ Tottenham – Man City
 Tottenham – Manchester United
 Tottenham – Newcastle
 Tottenham – Southampton
+Tottenham – Wolves
 Tottenham-Rennes
 TottenhamRennes
 Tottenham–Arsenal
@@ -32373,6 +32425,7 @@ Tottenham–ManCity
 Tottenham–ManchesterUnited
 Tottenham–Newcastle
 Tottenham–Southampton
+Tottenham–Wolves
 Toulouse
 Toulouse  La Rochelle
 Toulouse - La Rochelle
@@ -32850,6 +32903,7 @@ URSKA ZIGART
 URSS
 URSULA ANDERMATT
 URSULA VON DER LEYEN
+URSUS UND NADESCHKIN
 URUGUAY
 URUGUAY – ARGENTINE
 US OPEN
@@ -33048,6 +33102,8 @@ Ursula Andermatt
 Ursula von der Leyen
 UrsulaAndermatt
 UrsulavonderLeyen
+Ursus und Nadeschkin
+UrsusundNadeschkin
 Uruguay
 Uruguay – Argentine
 Uruguay–Argentine
@@ -33335,6 +33391,7 @@ VTT Jo
 VTTJO
 VTTJo
 VUELTA 2021
+VUELTA 2022
 VULKANAUSBRUCH
 VUURWERK
 VW TRINITY
@@ -33783,7 +33840,9 @@ VrolijkPasen
 Vrtnws
 Vtest
 Vuelta 2021
+Vuelta 2022
 Vuelta2021
+Vuelta2022
 Vulkanausbruch
 Vuurwerk
 VÉRONIQUE GENEST
@@ -35035,6 +35094,7 @@ acab
 accident a16
 accident a7
 accident a9
+accident ariege
 accident autoroute
 accident autoroute a1
 accident bus pnl
@@ -35983,6 +36043,7 @@ bag quarantäne
 bahnhof luzern
 bahnhof olten unfall
 bahrain victorious
+baines
 bakambu
 bake off vlaanderen
 bakou
@@ -36316,6 +36377,7 @@ bertarelli
 bertrand belin
 bertrand cantat
 bertrand de la chesnais
+bertrand renard
 besancon
 besiktas
 besko
@@ -37247,6 +37309,7 @@ christina liebherr
 christina luft
 christina milian
 christina ricci
+christine and the queens
 christine angot
 christine kelly
 christine lagarde
@@ -38877,6 +38940,7 @@ felixauger-aliassime
 felixaugeraliassime
 feminicide
 femizid
+femke bol
 femsa
 fenerbahce
 fentanyl
@@ -39667,6 +39731,7 @@ grand prix f1
 grand prix monaco
 grand prix pays-bas
 grand prix silverstone
+grand raid 2022
 grand requin blanc
 grand-prix bern
 grandoralbac2021
@@ -39807,11 +39872,13 @@ géraldine maillet
 gérard depardieu
 gérard lanvin
 gérarddepardieu
+gölä
 götz werner
 götzis!
 gülsha adilji
 günther jauch
 h&amp;m
+h2u
 haagen dazs
 haaland
 hadja lahbib
@@ -40547,6 +40614,7 @@ jansrud
 janullrich
 jaouad achab
 japan
+japan impact
 japanse duizendknoop
 japanse tuin hasselt
 japon
@@ -40603,6 +40671,7 @@ jean-louis trintignant
 jean-luc
 jean-luc brunel
 jean-luc crucke
+jean-luc delarue
 jean-luc lahaye
 jean-luc mélenchon
 jean-luc nancy
@@ -40834,6 +40903,7 @@ josef fritzl
 joseph gatt
 josephine baker
 josephine baker pantheon
+josephine tewson
 josh cavallo
 josh duggar
 josh hartnett
@@ -40930,6 +41000,7 @@ jung ho-yeon
 jung hoyeon
 jungfrau-marathon
 jungle cruise
+jungle street groove
 junikafer
 junikäfer
 juninho
@@ -41428,6 +41499,7 @@ ladjidoucoure
 ladjidoucouré
 lady diana
 lady gaga
+lady louise windsor
 lady truckers
 ladydiana
 laeticia hallyday
@@ -44130,6 +44202,7 @@ paul urey
 paul walker
 paula badosa
 paulette nardal
+pauline ferrand prevot
 paulkoulak
 paulricard
 paus franciscus
@@ -44475,6 +44548,7 @@ poverello
 power of the dog
 ppda
 praga khan
+pratteln
 predator
 predator - upgrade
 premier league
@@ -44598,6 +44672,7 @@ pukkelpop
 pukkelpop 2021
 pukkelpop 2021 line up
 pukkelpop 2022
+pukkelpop live
 pukkelpop2021
 pukkelpop2021lineup
 pula
@@ -45120,6 +45195,7 @@ ronde van frankrijk 2021
 ronde van het baskenland
 ronde van lombardije
 ronde van lombardije 2021
+ronde van spanje 2022
 ronde van vlaams-brabant
 ronde van vlaanderen
 ronde van vlaanderen parcours
@@ -46226,6 +46302,7 @@ sénégal – guinée équatoriale
 séville – atlético madrid
 séville – lille
 séville – real
+séville – valladolid
 sölden
 südafrika
 tableau euro 2021
@@ -46621,6 +46698,7 @@ tottenham – man city
 tottenham – manchester united
 tottenham – newcastle
 tottenham – southampton
+tottenham – wolves
 tottenham-rennes
 toty fifa 22
 toulouse
@@ -46945,6 +47023,7 @@ urska zigart
 urss
 ursula andermatt
 ursula von der leyen
+ursus und nadeschkin
 uruguay
 uruguay – argentine
 us open
@@ -47225,6 +47304,7 @@ vtc
 vtm
 vtt jo
 vuelta 2021
+vuelta 2022
 vulkanausbruch
 vuurwerk
 vw trinity
