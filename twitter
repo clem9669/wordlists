@@ -12060,6 +12060,7 @@ CELINENUMERO
 CELINEPINA
 CELL
 CELL LF
+CELL MAX
 CELLLF
 CELLO2022
 CELSIUS
@@ -14360,7 +14361,9 @@ Celik
 Celine
 Cell
 Cell LF
+Cell Max
 CellLF
+CellMax
 Celsius
 Celta
 CeltaBarça
@@ -81613,6 +81616,7 @@ celine
 celinenumero
 cell
 cell lf
+cell max
 celllf
 cello2022
 celsius
