@@ -450,6 +450,7 @@ ACCIDENT DE CHASSE
 ACCIDENT E42
 ACCIDENT JURA
 ACCIDENT MARC-PHILIPPE DAUBRESSE
+ACCIDENT TROTTINETTE LYON
 ACHTELFINALE EM 2021
 ACHTELFINALEEM2021
 ACID
@@ -1303,6 +1304,7 @@ ATPFinals
 ATPRanking
 ATPRome
 ATPStuttgart
+ATTAQUE FRELONS CYCLISTES
 ATTENTAT 13-NOVEMBRE
 ATTENTAT BATACLAN
 ATTENTAT ZUG
@@ -1483,6 +1485,7 @@ Accident autoroute A1
 Accident bus PNL
 Accident centre équestre
 Accident de chasse
+Accident trottinette Lyon
 AccidentA16
 AccidentA7
 AccidentA9
@@ -1495,6 +1498,7 @@ AccidentautorouteA1
 AccidentbusPNL
 Accidentcentreéquestre
 Accidentdechasse
+AccidenttrottinetteLyon
 Achtelfinale EM 2021
 AchtelfinaleEM2021
 Acid
@@ -2903,6 +2907,8 @@ AtléticoMadrid–Villarreal
 AtléticoMadrid–barcelona
 Atomkrieg
 Atos
+Attaque frelons cyclistes
+Attaquefrelonscyclistes
 Attentat 13-Novembre
 Attentat 13Novembre
 Attentat Bataclan
@@ -6159,6 +6165,7 @@ COVIDSAFEAPP
 COVIDSAFEBE
 COVIDZERTIFIKAT
 COWBOY BEBOP
+CPAM
 CRAMMEROCK
 CRANS-MONTANA
 CRASH AVION CHINE
@@ -8096,6 +8103,7 @@ DICTON SAINT MEDARD
 DIDIER BOURDON
 DIDIER DESCHAMPS
 DIDIER DROGBA
+DIDIER LAMKEL ZÉ
 DIDIER NOTHEAUX
 DIDIER OLLÉ-NICOLLE
 DIDIER RAOULT
@@ -8838,6 +8846,7 @@ DictonSaintmedard
 Didier Bourdon
 Didier Deschamps
 Didier Drogba
+Didier Lamkel Zé
 Didier Notheaux
 Didier Ollé-Nicolle
 Didier OlléNicolle
@@ -8845,6 +8854,7 @@ Didier Raoult
 DidierBourdon
 DidierDeschamps
 DidierDrogba
+DidierLamkelZé
 DidierNotheaux
 DidierOllé-Nicolle
 DidierRaoult
@@ -9616,6 +9626,7 @@ ERNESTO BERTARELLI
 EROS RAMAZZOTTI
 ERROL MUSK
 ERWIN KESSLER
+ESAF
 ESC 2022
 ESC 2022 FINALE
 ESC 2022 Finale
@@ -9722,6 +9733,7 @@ EURO MILLIONS
 EURO TO DOLLAR
 EURO U17
 EURO U19
+EURO-DOLLAR
 EURO2020
 EURO2021
 EUROCKÉENNES
@@ -10294,6 +10306,7 @@ Errol Musk
 ErrolMusk
 Erwin Kessler
 ErwinKessler
+Esaf
 Esc 2022 Finale
 Esc2022Finale
 Escalade jo
@@ -10427,6 +10440,7 @@ Euro féminin 2022
 Euro in CHF
 Euro lira
 Euro to dollar
+Euro-dollar
 Euro2020
 Euro2021
 EuroFranken
@@ -12716,6 +12730,7 @@ GRELEVOSGES
 GREMAUD
 GRENADE – REAL
 GRENOBLE
+GRENOBLE – BORDEAUX
 GREOLIERES
 GRETA THUNBERG
 GRETA VAN FLEET
@@ -13435,6 +13450,8 @@ Gremaud
 Grenade – Real
 Grenade–Real
 Grenoble
+Grenoble – Bordeaux
+Grenoble–Bordeaux
 Greolieres
 Greta Thunberg
 Greta Van Fleet
@@ -14472,6 +14489,7 @@ INCENDIE VAR
 INCENDIEARDECHE
 INCEPTION
 INCROYABLE MAIS VRAI
+INDEED
 INDEMNITÉ CARBURANT TRAVAILLEURS
 INDEPENDENCE DAY
 INDEPENDENCEDAY
@@ -14859,6 +14877,7 @@ Incendieneuchatel
 Inception
 Incroyable mais vrai
 Incroyablemaisvrai
+Indeed
 Indemnité carburant travailleurs
 Indemnitécarburanttravailleurs
 Independence Day
@@ -15233,8 +15252,10 @@ JACOB BARRETT LAURSEN
 JACOB CHANSLEY
 JACOB DESVARIEUX
 JACQUELINE BADRAN
+JACQUELINE CHARLOTTE DUFRESNOY
 JACQUELINE GOURAULT
 JACQUELINE JENCQUEL
+JACQUELINE-CHARLOTTE DUFRESNOY
 JACQUEMUS
 JACQUES ATTALI
 JACQUES BOEL
@@ -15280,6 +15301,7 @@ JAMES-BOND
 JAMES-WEBB-TELESKOP
 JAMES-WEBB-WELTRAUMTELESKOP
 JAMESHARDEN
+JAMIE CARRAGHER
 JAMIE CULLUM
 JAMIE LEE CURTIS
 JAMIE LYNN SPEARS
@@ -15589,6 +15611,7 @@ JONAS LÜSCHER
 JONAS VINGEGAARD
 JONATHAN CLAUSS
 JONATHAN COHEN
+JONATHAN DESTIN
 JORAN VLIEGEN
 JORAN WYSEURE
 JORDAN BARDELLA
@@ -15806,9 +15829,14 @@ JacobBarrettLaursen
 JacobChansley
 JacobDesvarieux
 Jacqueline Badran
+Jacqueline Charlotte Dufresnoy
 Jacqueline Gourault
 Jacqueline Jencquel
+Jacqueline-Charlotte Dufresnoy
+Jacqueline-CharlotteDufresnoy
 JacquelineBadran
+JacquelineCharlotte Dufresnoy
+JacquelineCharlotteDufresnoy
 JacquelineGourault
 JacquelineJencquel
 Jacquemus
@@ -15899,9 +15927,11 @@ JamesWebbTelescope
 JamesWebbTeleskop
 JamesWebbWeltraumteleskop
 JamesWebbtelescope
+Jamie Carragher
 Jamie Cullum
 Jamie Lee Curtis
 Jamie Lynn Spears
+JamieCarragher
 JamieCullum
 JamieLeeCurtis
 JamieLynnSpears
@@ -16496,8 +16526,10 @@ JonasLüscher
 JonasVingegaard
 Jonathan Clauss
 Jonathan Cohen
+Jonathan Destin
 JonathanClauss
 JonathanCohen
+JonathanDestin
 Joran Vliegen
 Joran Wyseure
 JoranVliegen
@@ -18182,6 +18214,7 @@ LESCHOSESDELAVIE
 LESDIABLESROUGES
 LESENSDELAFAMILLE
 LESGETS
+LESLEY-ANN POPPE
 LESLIE GRACE
 LET'S DANCE
 LET'S DANCE 2022
@@ -19320,6 +19353,9 @@ LeschroniquesdeBridgerton
 LesenfañtsdesJustes
 Lesensdelafamille
 Lesfantasmes
+Lesley-Ann Poppe
+Lesley-AnnPoppe
+LesleyAnn Poppe
 Leslie Grace
 LeslieGrace
 Lesparticulesélémentaires
@@ -20821,6 +20857,7 @@ MICHAEL MASI
 MICHAEL MITTERMEIER
 MICHAEL NADER
 MICHAEL PEETERS
+MICHAEL SCHACHT
 MICHAEL SCHUMACHER
 MICHAEL TYLO
 MICHAEL VAN PEEL
@@ -21386,7 +21423,9 @@ ManCity–WestHam
 ManCity–Wolves
 ManCity–Wycombe
 ManUnited
+ManUnited gegen Liverpool
 ManUnited gegen Middlesbrough
+ManUnitedgegenLiverpool
 ManUnitedgegenMiddlesbrough
 ManUnitedvsAstonVilla
 Manchester City
@@ -22438,6 +22477,7 @@ Michael Masi
 Michael Mittermeier
 Michael Nader
 Michael Peeters
+Michael Schacht
 Michael Schumacher
 Michael Tylo
 Michael Van Peel
@@ -22462,6 +22502,7 @@ MichaelMasi
 MichaelMittermeier
 MichaelNader
 MichaelPeeters
+MichaelSchacht
 MichaelSchumacher
 MichaelTylo
 MichaelVanPeel
@@ -28675,6 +28716,7 @@ SAMIR NASRI
 SAMIRAITSAID
 SAMMY MAHDI
 SAMPAOLI
+SAMPDORIA  JUVENTUS
 SAMPDORIA – JUVENTUS
 SAMPDORIA – MILAN
 SAMPDORIA – NAPLES
@@ -28853,6 +28895,7 @@ SCOTT MILLER
 SCrew
 SEAL
 SEAL TEAM
+SEAN CONNERY
 SEAN DHONDT
 SEAN LOCK
 SEAN PENN
@@ -29321,6 +29364,7 @@ STANDARD – UNION SAINT-GILLOISE
 STANDARD-BEERSCHOT
 STANDARD-SERAING
 STANLEY NSOKI
+STAPELPLEIN GENT
 STAR ACADEMY
 STAR IS BORN
 STAR WARS
@@ -29802,9 +29846,11 @@ Samiraitsaid
 Sammy Mahdi
 SammyMahdi
 Sampaoli
+Sampdoria  Juventus
 Sampdoria – Juventus
 Sampdoria – Milan
 Sampdoria – Naples
+SampdoriaJuventus
 Sampdoria–Juventus
 Sampdoria–Milan
 Sampdoria–Naples
@@ -30074,10 +30120,12 @@ ScottMiller
 Seal
 Seal Team
 SealTeam
+Sean Connery
 Sean Dhondt
 Sean Lock
 Sean Penn
 Sean Wainui
+SeanConnery
 SeanDhondt
 SeanLock
 SeanPenn
@@ -30776,6 +30824,8 @@ Standard–Oostende
 Standard–UnionSaint-Gilloise
 Stanley Nsoki
 StanleyNsoki
+Stapelplein Gent
+StapelpleinGent
 Star Academy
 Star Wars
 Star Wars Day
@@ -31270,6 +31320,7 @@ TARASCON
 TARAWIH
 TARBES
 TARIQ RAMADAN
+TASH SULTANA
 TASMAANSE TIJGER
 TASSILI AIRLINES
 TATIANA SILVA
@@ -31547,6 +31598,7 @@ TIRRENO-ADRIATICO 2022
 TITANE
 TITANE FILM
 TITANIC
+TIZIANA GULINO
 TOBEY MAGUIRE
 TOBIAS MORETTI QUAD-UNFALL
 TOBY ALDERWEIRELD
@@ -31900,6 +31952,8 @@ Tarawih
 Tarbes
 Tariq Ramadan
 TariqRamadan
+Tash Sultana
+TashSultana
 Tasmaanse tijger
 Tasmaansetijger
 Tassili Airlines
@@ -32364,6 +32418,8 @@ Titane
 Titane film
 Titanefilm
 Titanic
+Tiziana Gulino
+TizianaGulino
 Tobey Maguire
 TobeyMaguire
 Tobias Moretti Quad-Unfall
@@ -33000,6 +33056,7 @@ URS WIETLISBACH
 URSINA LARDI
 URSKA ZIGART
 URSS
+URSSAF
 URSULA ANDERMATT
 URSULA VON DER LEYEN
 URSUS &AMP; NADESCHKIN
@@ -34606,6 +34663,7 @@ XHERDANSHAQIRI
 XI JINPING
 XIAOMI
 XIAOMI 11T PRO
+XIAOMI 12
 XIAOMI REDMI NOTE 11 PRO 5G
 XISCA PERELLO
 XRP
@@ -34651,8 +34709,10 @@ Xi Jinping
 XiJinping
 Xiaomi
 Xiaomi 11T Pro
+Xiaomi 12
 Xiaomi Redmi Note 11 Pro 5G
 Xiaomi11TPro
+Xiaomi12
 XiaomiRedmiNote11Pro5G
 Xisca Perello
 XiscaPerello
@@ -34908,6 +34968,7 @@ ZOMERTIJD
 ZONE INTERDITE
 ZONE-TELECHARGEMENT
 ZONNEBLOEMOLIE
+ZONNEPANELEN
 ZOO DE LA FLECHE
 ZOOM
 ZORG EN GEZONDHEID
@@ -34928,6 +34989,7 @@ ZULTE-WAREGEM  MECHELEN
 ZULTE-WAREGEM  OOSTENDE
 ZULTE-WAREGEM  STVV
 ZUM MUTTERTAG
+ZUR ROSE
 ZURICH
 ZURICH AIRPORT
 ZURICH VERSICHERUNG
@@ -35068,6 +35130,7 @@ Zone-Telechargement
 ZoneInterdite
 ZoneTelechargement
 Zonnebloemolie
+Zonnepanelen
 Zoo de La fleche
 ZoodeLafleche
 Zoom
@@ -35105,6 +35168,8 @@ Zultewaregem  Oostende
 Zultewaregem  STVV
 Zum Muttertag
 ZumMuttertag
+Zur Rose
+ZurRose
 Zurich
 Zurich Airport
 Zurich Versicherung
@@ -35210,6 +35275,7 @@ accident de chasse
 accident e42
 accident jura
 accident marc-philippe daubresse
+accident trottinette lyon
 achtelfinale em 2021
 achtelfinaleem2021
 acid
@@ -36026,6 +36092,7 @@ atp finals
 atp rome
 atp stuttgart
 atp-ranking
+attaque frelons cyclistes
 attentat 13-novembre
 attentat bataclan
 attentat zug
@@ -37780,6 +37847,7 @@ covidsafeapp
 covidsafebe
 covidzertifikat
 cowboy bebop
+cpam
 crammerock
 crans-montana
 crash avion chine
@@ -38165,6 +38233,7 @@ dicton saint medard
 didier bourdon
 didier deschamps
 didier drogba
+didier lamkel zé
 didier notheaux
 didier ollé-nicolle
 didier raoult
@@ -38713,6 +38782,7 @@ ernesto bertarelli
 eros ramazzotti
 errol musk
 erwin kessler
+esaf
 esc 2022
 esc 2022 finale
 esc gewinner 2022
@@ -38810,6 +38880,7 @@ euro millions
 euro to dollar
 euro u17
 euro u19
+euro-dollar
 euro2020
 euro2021
 eurockéennes
@@ -39886,6 +39957,7 @@ grelevosges
 gremaud
 grenade – real
 grenoble
+grenoble – bordeaux
 greolieres
 greta thunberg
 greta van fleet
@@ -40400,6 +40472,7 @@ incendie paris
 incendie var
 inception
 incroyable mais vrai
+indeed
 indemnité carburant travailleurs
 independence day
 independenceday
@@ -40657,8 +40730,10 @@ jacob barrett laursen
 jacob chansley
 jacob desvarieux
 jacqueline badran
+jacqueline charlotte dufresnoy
 jacqueline gourault
 jacqueline jencquel
+jacqueline-charlotte dufresnoy
 jacquemus
 jacques attali
 jacques boel
@@ -40704,6 +40779,7 @@ james-bond
 james-webb-teleskop
 james-webb-weltraumteleskop
 jamesharden
+jamie carragher
 jamie cullum
 jamie lee curtis
 jamie lynn spears
@@ -41008,6 +41084,7 @@ jonas lüscher
 jonas vingegaard
 jonathan clauss
 jonathan cohen
+jonathan destin
 joran vliegen
 joran wyseure
 jordan bardella
@@ -41933,6 +42010,7 @@ leschosesdelavie
 lesdiablesrouges
 lesensdelafamille
 lesgets
+lesley-ann poppe
 leslie grace
 let's dance
 let's dance 2022
@@ -43100,6 +43178,7 @@ michael masi
 michael mittermeier
 michael nader
 michael peeters
+michael schacht
 michael schumacher
 michael tylo
 michael van peel
@@ -45569,6 +45648,7 @@ samir nasri
 samiraitsaid
 sammy mahdi
 sampaoli
+sampdoria  juventus
 sampdoria – juventus
 sampdoria – milan
 sampdoria – naples
@@ -45738,6 +45818,7 @@ scott hall
 scott miller
 seal
 seal team
+sean connery
 sean dhondt
 sean lock
 sean penn
@@ -46174,6 +46255,7 @@ standard – union saint-gilloise
 standard-beerschot
 standard-seraing
 stanley nsoki
+stapelplein gent
 star academy
 star is born
 star wars
@@ -46484,6 +46566,7 @@ tarascon
 tarawih
 tarbes
 tariq ramadan
+tash sultana
 tasmaanse tijger
 tassili airlines
 tatiana silva
@@ -46753,6 +46836,7 @@ tirreno-adriatico 2022
 titane
 titane film
 titanic
+tiziana gulino
 tobey maguire
 tobias moretti quad-unfall
 toby alderweireld
@@ -47163,6 +47247,7 @@ urs wietlisbach
 ursina lardi
 urska zigart
 urss
+urssaf
 ursula andermatt
 ursula von der leyen
 ursus &amp; nadeschkin
@@ -47716,6 +47801,7 @@ xherdanshaqiri
 xi jinping
 xiaomi
 xiaomi 11t pro
+xiaomi 12
 xiaomi redmi note 11 pro 5g
 xisca perello
 xrp
@@ -47865,6 +47951,7 @@ zomertijd
 zone interdite
 zone-telechargement
 zonnebloemolie
+zonnepanelen
 zoo de la fleche
 zoom
 zorg en gezondheid
@@ -47883,6 +47970,7 @@ zulte-waregem  mechelen
 zulte-waregem  oostende
 zulte-waregem  stvv
 zum muttertag
+zur rose
 zurich
 zurich airport
 zurich versicherung
