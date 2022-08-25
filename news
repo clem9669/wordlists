@@ -416,6 +416,7 @@ ABDULRAZAK GURNAH
 ABFAHRT KITZBÜHEL
 ABFAHRT OLYMPIA 2022
 ABInBevkoers
+ABONDANCE
 ABRAMOVICH
 ABRAMOVITCH
 ABSTIMMUNG
@@ -668,6 +669,7 @@ ALEXANDRE JARDIN
 ALEXANDRE JOLLIEN
 ALEXANDRE LEAUTE
 ALEXANDRE MARTIN
+ALEXANDRE TEXIER
 ALEXANDRE VARGA
 ALEXANDREJARDIN
 ALEXANDREVARGA
@@ -818,6 +820,7 @@ AMELIE DE MONTCHALIN
 AMENRA
 AMERICAN ASSASSIN
 AMERICAN STAFF
+AMIBE MANGEUSE DE CERVEAU
 AMINA MUADDI
 AMINATA DIALLO
 AMINE HARIT
@@ -1440,6 +1443,7 @@ Abfahrt Kitzbühel
 Abfahrt Olympia 2022
 AbfahrtKitzbühel
 AbfahrtOlympia2022
+Abondance
 Abramovich
 Abramovitch
 Abstimmung
@@ -1874,6 +1878,7 @@ Alexandre Jankewitz
 Alexandre Jardin
 Alexandre Jollien
 Alexandre Martin
+Alexandre Texier
 Alexandre Varga
 Alexandre leaute
 AlexandreAstier
@@ -1882,6 +1887,7 @@ AlexandreJankewitz
 AlexandreJardin
 AlexandreJollien
 AlexandreMartin
+AlexandreTexier
 AlexandreVarga
 Alexandreleaute
 Alexei Navalny
@@ -2125,6 +2131,8 @@ American Assassin
 American Staff
 AmericanAssassin
 AmericanStaff
+Amibe mangeuse de cerveau
+Amibemangeusedecerveau
 Amina Muaddi
 AminaMuaddi
 Aminata Diallo
@@ -3171,12 +3179,14 @@ BARBRA STREISAND
 BARBY KELLY
 BARBYKELLY
 BARCA
+BARCA CITY
 BARCA JUVENTUS
 BARCA REAL
 BARCELONA
 BARCELONA  CÁDIZ
 BARCELONA  EINTRACHT FRANKFURT
 BARCELONA  MALLORCA
+BARCELONA  MANCHESTER CITY
 BARCELONA  SEVILLA
 BARCELONA  VALENCIA
 BARCELONA GEGEN EINTRACHT FRANKFURT
@@ -3193,6 +3203,7 @@ BARCELONA – ELCHE
 BARCELONA – GETAFE
 BARCELONA – JUVENTUS
 BARCELONA – LEVANTE
+BARCELONA – MANCITY
 BARCELONA – NAPLES
 BARCELONA – OSASUNA
 BARCELONA – PUMAS UNAM
@@ -3300,6 +3311,7 @@ BEAT FEUZ
 BEATE ZSCHÄPE
 BEATLES
 BEATRICE EGLI
+BEATRICE EGLI FLORIAN SILBEREISEN
 BEAUFORT
 BEAUJOLAIS NOUVEAU
 BEAUJOLAIS NOUVEAU 2021
@@ -4083,14 +4095,17 @@ BarbraStreisand
 Barby Kelly
 BarbyKelly
 Barca
+Barca City
 Barca Juventus
 Barca Real
+BarcaCity
 BarcaJuventus
 BarcaReal
 Barcelona
 Barcelona  Cádiz
 Barcelona  Eintracht Frankfurt
 Barcelona  Mallorca
+Barcelona  Manchester City
 Barcelona  Sevilla
 Barcelona  Valencia
 Barcelona  cádiz
@@ -4108,6 +4123,7 @@ Barcelona – Elche
 Barcelona – Getafe
 Barcelona – Juventus
 Barcelona – Levante
+Barcelona – ManCity
 Barcelona – Naples
 Barcelona – Osasuna
 Barcelona – Pumas UNAM
@@ -4118,6 +4134,7 @@ Barcelona – Valence
 BarcelonaCádiz
 BarcelonaEintrachtFrankfurt
 BarcelonaMallorca
+BarcelonaManchesterCity
 BarcelonaSevilla
 BarcelonaValencia
 Barcelonacádiz
@@ -4135,6 +4152,7 @@ Barcelona–Elche
 Barcelona–Getafe
 Barcelona–Juventus
 Barcelona–Levante
+Barcelona–ManCity
 Barcelona–Naples
 Barcelona–Osasuna
 Barcelona–PumasUNAM
@@ -4307,7 +4325,9 @@ Beate Zschäpe
 BeateZschäpe
 Beatles
 Beatrice Egli
+Beatrice Egli Florian Silbereisen
 BeatriceEgli
+BeatriceEgliFlorianSilbereisen
 Beaufort
 Beaujolais Nouveau 2021
 Beaujolais nouveau
@@ -8016,6 +8036,7 @@ DEEPL
 DEGEA
 DEINZE  WESTERLO
 DEL POTRO
+DELARUE
 DELE ALLI
 DELFRAISSY
 DELIJN
@@ -8335,6 +8356,7 @@ DUB INC
 DUBAI
 DUFRY-AKTIE
 DUGIN
+DUGONG
 DUITSLAND - ENGELAND
 DUITSLAND HONGARIJE
 DUITSLANDHONGARIJE
@@ -8690,6 +8712,7 @@ Deinze  Westerlo
 DeinzeWesterlo
 Del Potro
 DelPotro
+Delarue
 Dele Alli
 DeleAlli
 Delfraissy
@@ -9214,6 +9237,7 @@ Dubai
 Dufry-Aktie
 DufryAktie
 Dugin
+Dugong
 Duitsland  Engeland
 Duitsland - Engeland
 Duitsland Hongarije
@@ -10751,6 +10775,7 @@ FAISAL KAWUSI
 FALL GUYS
 FALL MADDIE MCCANN
 FALLON SHERROCK
+FALSTAFF
 FAMILIE
 FAMILY BUSINESS
 FAMKE LOUISE
@@ -11460,6 +11485,7 @@ FallGuys
 FallMaddieMcCann
 Fallon Sherrock
 FallonSherrock
+Falstaff
 Familie
 Family Business
 FamilyBusiness
@@ -13852,6 +13878,7 @@ HERBSTANFANG 2021
 HERBSTZEIT!
 HERMAN BRUSSELMANS
 HERMAN GOOSSENS
+HERMAN VAN SPRINGEL
 HERMANN RORSCHACH
 HERNE
 HERR DER RINGE
@@ -14245,8 +14272,10 @@ Herbstanfang2021
 Herbstzeit!
 Herman Brusselmans
 Herman Goossens
+Herman Van Springel
 HermanBrusselmans
 HermanGoossens
+HermanVanSpringel
 Hermann Rorschach
 HermannRorschach
 Herne
@@ -15665,7 +15694,9 @@ JORDANBARDELLA
 JORDI BONGARD
 JORDYN HUITEMA
 JOREN DOM
+JORGE MENDES
 JORGE SAMPAIO
+JORGEMENDES
 JORGINHO
 JORRE VERSTRAETEN
 JOSEE DAYAN
@@ -18248,9 +18279,11 @@ LES PROFS 2
 LES SEGPA
 LES SORCIÈRES D'EASTWICK
 LES SOUS-DOUÉS
+LES SOUS-DOUÉS EN VACANCES
 LES TONTONS FLINGUEURS
 LES TOURISTES
 LES TRAITRES
+LES TRAITRES DELPHINE WESPISER
 LES TUCHE
 LES TUCHE 4
 LES VEDETTES
@@ -19345,7 +19378,9 @@ Les Pouilles
 Les SEGPA
 Les Sorcières d'Eastwick
 Les Sous-doués
+Les Sous-doués en vacances
 Les Sousdoués
+Les Sousdoués en vacances
 Les Tontons flingueurs
 Les Touristes
 Les Tuche
@@ -19360,6 +19395,7 @@ Les fantasmes
 Les particules élémentaires
 Les profs 2
 Les traitres
+Les traitres Delphine Wespiser
 Les visiteurs
 Les Éternels
 Les12coupsdemidi
@@ -19393,6 +19429,7 @@ LesPouilles
 LesSEGPA
 LesSorcièresd'Eastwick
 LesSous-doués
+LesSous-douésenvacances
 LesTontonsflingueurs
 LesTouristes
 LesTuche
@@ -19413,6 +19450,7 @@ LeslieGrace
 Lesparticulesélémentaires
 Lesprofs2
 Lestraitres
+LestraitresDelphineWespiser
 Lesvisiteurs
 LesÉternels
 Let's Dance
@@ -21036,6 +21074,7 @@ MILAN – VENEZIA
 MILAN-SAN REMO
 MILAN-SAN REMO 2022
 MILEY CYRUS
+MILIK
 MILLA JASMINE
 MILLAJASMINE
 MILLIE BOBBY BROWN
@@ -21053,6 +21092,7 @@ MINISTRE DES SPORTS
 MINISTRES NOUVEAU GOUVERNEMENT
 MINO RAIOLA
 MINO RAIOLA TODESURSACHE
+MINOXIDIL
 MIOU-MIOU
 MIRA CALIX
 MIRA SORVINO
@@ -21222,6 +21262,7 @@ MOURAD ALIEV
 MOURAD BOUDJELLAL
 MOURIR PEUT ATTENDRE
 MOUSSA DEMBELE
+MOUSSA N'DIAYE
 MOUSSA SISSOKO
 MOUSTIQUE TIGRE
 MOVEMBER
@@ -22766,6 +22807,7 @@ Milan–Udinese
 Milan–Venezia
 Miley Cyrus
 MileyCyrus
+Milik
 Milla Jasmine
 MillaJasmine
 Millie Bobby Brown
@@ -22796,6 +22838,7 @@ Mino Raiola
 Mino Raiola todesursache
 MinoRaiola
 MinoRaiolatodesursache
+Minoxidil
 Miou-Miou
 MiouMiou
 Mira Calix
@@ -23079,8 +23122,10 @@ MouradAliev
 MouradBoudjellal
 Mourir peut attendre
 Mourirpeutattendre
+Moussa N'Diaye
 Moussa Sissoko
 Moussa dembele
+MoussaN'Diaye
 MoussaSissoko
 Moussadembele
 Moustique tigre
@@ -26025,6 +26070,7 @@ PascalSmet
 Pascalelbe
 Pasen
 Pass Culture
+Pass culture
 Pass sanitaire
 Pass sanitaire 12 17 ans
 Pass sanitaire 21 juillet
@@ -26038,6 +26084,7 @@ Pass sanitaire terrasse
 Pass vaccinal
 Pass vaccinal France
 PassCulture
+Passculture
 Passe vaccinal
 Passeport Covid
 PasseportCovid
@@ -27290,6 +27337,7 @@ RENAUD EMOND
 RENAUD LAVILLENIE
 RENAUD MUSELIER
 RENAULT AUSTRAL
+RENDEUX
 RENE CASSELLY
 RENE HOFER
 RENE MALLEVILLE
@@ -27636,6 +27684,7 @@ RUBY NIKARA
 RUDI VÖLLER
 RUDOLF WEIGL
 RUDY GOBERT
+RUDY MOLARD
 RUGBY
 RUGBY 6 NATIONS
 RUGBY A 7 JO
@@ -28062,6 +28111,7 @@ RenaudLavillenie
 RenaudMuselier
 Renault Austral
 RenaultAustral
+Rendeux
 Rene Casselly
 Rene Hofer
 Rene Malleville
@@ -28562,7 +28612,9 @@ RudiVöller
 Rudolf Weigl
 RudolfWeigl
 Rudy Gobert
+Rudy Molard
 RudyGobert
+RudyMolard
 Rugby
 Rugby 6 NATIONS
 Rugby FEMININ
@@ -28716,6 +28768,7 @@ SAINT AMOUR
 SAINT ANTOINE
 SAINT ETIENNE FOOT
 SAINT JEAN
+SAINT LOUIS
 SAINT MICHEL
 SAINT RAPHAEL
 SAINT-ANTOINE
@@ -29762,6 +29815,7 @@ Sailor et Lula
 SailoretLula
 Saint Amour
 Saint Antoine
+Saint Louis
 Saint Michel
 Saint etienne foot
 Saint jean
@@ -29829,6 +29883,7 @@ SaintGaudens
 SaintJean
 SaintJeandeLuz
 SaintLaurentdelaSalanque
+SaintLouis
 SaintMalo
 SaintMarin – Angleterre
 SaintMichel
@@ -32465,6 +32520,7 @@ Tirage EuroMillion
 Tirage EuroMillions
 Tirage Euromillions
 Tirage Europa League
+Tirage Ligue des Champions
 Tirage Ligue des champions
 Tirage au sort CAN-2022
 Tirage au sort CAN2022
@@ -32483,6 +32539,7 @@ TirageEuroMillion
 TirageEuroMillions
 TirageEuromillions
 TirageEuropaLeague
+TirageLiguedesChampions
 TirageLiguedeschampions
 TirageausortCAN-2022
 TirageausortChampionsLeague
@@ -35328,6 +35385,7 @@ abdou diallo
 abdulrazak gurnah
 abfahrt kitzbühel
 abfahrt olympia 2022
+abondance
 abramovich
 abramovitch
 abstimmung
@@ -35575,6 +35633,7 @@ alexandre jardin
 alexandre jollien
 alexandre leaute
 alexandre martin
+alexandre texier
 alexandre varga
 alexandrejardin
 alexandrevarga
@@ -35719,6 +35778,7 @@ amelie de montchalin
 amenra
 american assassin
 american staff
+amibe mangeuse de cerveau
 amina muaddi
 aminata diallo
 amine harit
@@ -36347,12 +36407,14 @@ barbra streisand
 barby kelly
 barbykelly
 barca
+barca city
 barca juventus
 barca real
 barcelona
 barcelona  cádiz
 barcelona  eintracht frankfurt
 barcelona  mallorca
+barcelona  manchester city
 barcelona  sevilla
 barcelona  valencia
 barcelona gegen eintracht frankfurt
@@ -36369,6 +36431,7 @@ barcelona – elche
 barcelona – getafe
 barcelona – juventus
 barcelona – levante
+barcelona – mancity
 barcelona – naples
 barcelona – osasuna
 barcelona – pumas unam
@@ -36473,6 +36536,7 @@ beat feuz
 beate zschäpe
 beatles
 beatrice egli
+beatrice egli florian silbereisen
 beaufort
 beaujolais nouveau
 beaujolais nouveau 2021
@@ -38220,6 +38284,7 @@ deepl
 degea
 deinze  westerlo
 del potro
+delarue
 dele alli
 delfraissy
 delijn
@@ -38525,6 +38590,7 @@ dub inc
 dubai
 dufry-aktie
 dugin
+dugong
 duitsland - engeland
 duitsland hongarije
 duitslandhongarije
@@ -39130,6 +39196,7 @@ faisal kawusi
 fall guys
 fall maddie mccann
 fallon sherrock
+falstaff
 familie
 family business
 famke louise
@@ -40337,6 +40404,7 @@ herbstanfang 2021
 herbstzeit!
 herman brusselmans
 herman goossens
+herman van springel
 hermann rorschach
 herne
 herr der ringe
@@ -41197,6 +41265,7 @@ jordanbardella
 jordi bongard
 jordyn huitema
 joren dom
+jorge mendes
 jorge sampaio
 jorginho
 jorre verstraeten
@@ -42099,9 +42168,11 @@ les profs 2
 les segpa
 les sorcières d'eastwick
 les sous-doués
+les sous-doués en vacances
 les tontons flingueurs
 les touristes
 les traitres
+les traitres delphine wespiser
 les tuche
 les tuche 4
 les vedettes
@@ -43402,6 +43473,7 @@ milan – venezia
 milan-san remo
 milan-san remo 2022
 miley cyrus
+milik
 milla jasmine
 millajasmine
 millie bobby brown
@@ -43419,6 +43491,7 @@ ministre des sports
 ministres nouveau gouvernement
 mino raiola
 mino raiola todesursache
+minoxidil
 miou-miou
 mira calix
 mira sorvino
@@ -43586,6 +43659,7 @@ mourad aliev
 mourad boudjellal
 mourir peut attendre
 moussa dembele
+moussa n'diaye
 moussa sissoko
 moustique tigre
 movember
@@ -45273,6 +45347,7 @@ renaud emond
 renaud lavillenie
 renaud muselier
 renault austral
+rendeux
 rene casselly
 rene hofer
 rene malleville
@@ -45587,6 +45662,7 @@ ruby nikara
 rudi völler
 rudolf weigl
 rudy gobert
+rudy molard
 rugby
 rugby 6 nations
 rugby a 7 jo
@@ -45681,6 +45757,7 @@ saint amour
 saint antoine
 saint etienne foot
 saint jean
+saint louis
 saint michel
 saint raphael
 saint-antoine
