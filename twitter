@@ -3755,6 +3755,7 @@ ASSEPSG
 ASSERCL
 ASSERCSA
 ASSESB29
+ASSESCB
 ASSESCO
 ASSESDR
 ASSESRFC
@@ -19736,6 +19737,7 @@ EACOP
 EADEBATES
 EAGASC
 EAGDFCO
+EAGFCSM
 EAGLES
 EAGNO
 EAGPAUFC
@@ -22518,6 +22520,7 @@ FCGBOL
 FCGBOM
 FCGBPFC
 FCGBPSG
+FCGBQRM
 FCGBRCL
 FCGBRCSA
 FCGBSB29
@@ -25897,6 +25900,7 @@ GF38DFCO
 GF38FCGB
 GF38FCSM
 GF38HAC
+GF38NO
 GF38TFC
 GF38VAFC
 GFVIP
@@ -57603,6 +57607,7 @@ RAFCSGE
 RAFEAG
 RAFFARIN
 RAFFCGB
+RAFFCM
 RAFGF38
 RAFIA
 RAFINHA
@@ -62073,6 +62078,7 @@ SMCFCSM
 SMCL
 SMCL2021
 SMCL21
+SMCPAUFC
 SMCRAF
 SMCSCB
 SMCSRFC
@@ -68384,6 +68390,7 @@ TWITCHRECAP
 TWITCHRIVALS
 TWITCHSTREAMER
 TWITCHSTREAMERS
+TWITTER CIRCLE
 TWITTER FRANCE
 TWITTERBAN
 TWITTERDOWN
@@ -70232,8 +70239,10 @@ TwitchRecap
 TwitchRivals
 TwitchStreamers
 Twitchcon
+Twitter Circle
 Twitter France
 TwitterBan
+TwitterCircle
 TwitterDown
 TwitterEnY
 TwitterFrance
@@ -71804,6 +71813,7 @@ VITA
 VITAA
 VITAASLIMANETMC
 VITALE
+VITALIK
 VITALITY
 VITAMIN D
 VITAND
@@ -72791,6 +72801,7 @@ Vita
 Vitaa
 VitaaSlimaneTMC
 Vitale
+Vitalik
 Vitality
 Vitamin D
 VitaminD
@@ -74059,6 +74070,8 @@ Wappies
 Warcraft
 Ward
 Waregem
+Waregem Koerse
+WaregemKoerse
 Wargon
 Warhol
 Warholm
@@ -78984,6 +78997,7 @@ assepsg
 assercl
 assercsa
 assesb29
+assescb
 assesco
 assesdr
 assesrfc
@@ -86263,6 +86277,7 @@ eacop
 eadebates
 eagasc
 eagdfco
+eagfcsm
 eagles
 eagno
 eagpaufc
@@ -87845,6 +87860,7 @@ fcgbol
 fcgbom
 fcgbpfc
 fcgbpsg
+fcgbqrm
 fcgbrcl
 fcgbrcsa
 fcgbsb29
@@ -89817,6 +89833,7 @@ gf38dfco
 gf38fcgb
 gf38fcsm
 gf38hac
+gf38no
 gf38tfc
 gf38vafc
 gfvip
@@ -105990,6 +106007,7 @@ rafcsge
 rafeag
 raffarin
 raffcgb
+raffcm
 rafgf38
 rafia
 rafinha
@@ -109122,6 +109140,7 @@ smcfcsm
 smcl
 smcl2021
 smcl21
+smcpaufc
 smcraf
 smcscb
 smcsrfc
@@ -112559,6 +112578,7 @@ twitchrecap
 twitchrivals
 twitchstreamer
 twitchstreamers
+twitter circle
 twitter france
 twitterban
 twitterdown
@@ -113780,6 +113800,7 @@ vita
 vitaa
 vitaaslimanetmc
 vitale
+vitalik
 vitality
 vitamin d
 vitand
