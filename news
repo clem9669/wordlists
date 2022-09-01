@@ -1069,6 +1069,7 @@ ANTWERP  GENK
 ANTWERP  GENT
 ANTWERP  LILLESTRØM
 ANTWERP  MECHELEN
+ANTWERP  UNION
 ANTWERP  ZULTE-WAREGEM
 ANTWERP - OMONIA
 ANTWERP - UNION
@@ -1216,6 +1217,7 @@ ARTHUR BAUCHET
 ARTHUR CABRAL
 ARTHUR ET LES MINIMOYS
 ARTHUR GERMAIN
+ARTHUR MELO
 ARTHUR THEATE
 ARTHURGERMAIN
 ARTUUR PETERS
@@ -2831,11 +2833,13 @@ Arthur
 Arthur Bauchet
 Arthur Cabral
 Arthur Germain
+Arthur Melo
 Arthur Theate
 Arthur et les Minimoys
 ArthurBauchet
 ArthurCabral
 ArthurGermain
+ArthurMelo
 ArthurTheate
 ArthuretlesMinimoys
 Artuur Peters
@@ -5832,6 +5836,7 @@ CHENILLEPROCESSIONNAIRE
 CHEQUE ALIMENTAIRE
 CHEQUE CARBURANT
 CHEQUE ENERGIE
+CHEQUE MAZOUT
 CHEQUEALIMENTAIRE
 CHER
 CHERBOURG
@@ -7017,9 +7022,11 @@ Chenilleprocessionnaire
 Cheque alimentaire
 Cheque carburant
 Cheque energie
+Cheque mazout
 Chequealimentaire
 Chequecarburant
 Chequeenergie
+Chequemazout
 Cher
 Cherbourg
 Chernobyl
@@ -8425,6 +8432,7 @@ DOUWE BOB
 DOW JONES
 DOWNTON ABBEY
 DR STRANGE
+DR. DRE
 DR. LISA-MARIA KELLERMAYR
 DRACHENLORD
 DRAFT NBA 2021
@@ -9293,8 +9301,10 @@ DowJones
 Downton Abbey
 DowntonAbbey
 Dr Strange
+Dr. Dre
 Dr. Lisa-Maria Kellermayr
 Dr. LisaMaria Kellermayr
+Dr.Dre
 Dr.Lisa-MariaKellermayr
 DrStrange
 Drachenlord
@@ -11147,6 +11157,7 @@ FETEDELAMUSIQUE2021
 FETEDELAMUSIQUE2021PARIS
 FETEDESPERES
 FETEDUCINEMA
+FETTES BROT
 FETTY WAP
 FEU D'ARTIFICE
 FEU D'ARTIFICE 14 JUILLET 2021
@@ -11212,6 +11223,7 @@ FILM D'HORREUR
 FILME VON ANNE HECHE
 FILMS AVEC ANNE HECHE
 FILS DE JOIE STROMAE
+FIN DU MERCATO
 FIN PASS VACCINAL
 FINAL EURO 2021
 FINALE BASKET JO 2021
@@ -11800,6 +11812,8 @@ Feteducinema
 Fetedutravail
 Fetenationalefeuxd'artifice
 Fetenationalesuisse
+Fettes Brot
+FettesBrot
 Fetty Wap
 FettyWap
 Feu Jura
@@ -11858,6 +11872,7 @@ Films avec Anne Heche
 FilmsavecAnneHeche
 Fils de joie Stromae
 FilsdejoieStromae
+Fin du mercato
 Fin pass vaccinal
 Final Euro 2021
 FinalEuro2021
@@ -11892,6 +11907,7 @@ Finalissima 2022
 Finalissima2022
 Finance
 Finch
+Findumercato
 Finland
 Finland Rusland
 Finland-Belgie
@@ -15558,6 +15574,7 @@ JAMIE LYNN SPEARS
 JAMIELEECURTIS
 JAMILLA BAIDOU
 JAN BAKELANTS
+JAN CALLEBAUT
 JAN CALLEWAERT
 JAN DE LICHTE
 JAN FABRE
@@ -15873,6 +15890,7 @@ JORDAN MICHALLET
 JORDAN OZUNA
 JORDAN VERETOUT
 JORDANBARDELLA
+JORDI ALBA
 JORDI BONGARD
 JORDYN HUITEMA
 JOREN DOM
@@ -15945,6 +15963,7 @@ JULIA FOX
 JULIA PEREIRA DE SOUSA
 JULIA PIATON
 JULIA ROBERTS
+JULIA SCHÜTZE
 JULIA VIGNALI
 JULIAN ALAPHILIPPE
 JULIAN ASSANGE
@@ -16042,6 +16061,7 @@ JUVENTUS  BOLOGNA
 JUVENTUS  CHELSEA
 JUVENTUS  NAPOLI
 JUVENTUS  SASSUOLO
+JUVENTUS  SPEZIA
 JUVENTUS GEGEN LAZIO
 JUVENTUS STADIUM
 JUVENTUS – ATALANTA
@@ -16195,6 +16215,7 @@ JamieLynnSpears
 Jamilla Baidou
 JamillaBaidou
 Jan Bakelants
+Jan Callebaut
 Jan Callewaert
 Jan Fabre
 Jan Hecker
@@ -16209,6 +16230,7 @@ Jan Ullrich
 Jan Van Hecke
 Jan de Lichte
 JanBakelants
+JanCallebaut
 JanCallewaert
 JanFabre
 JanHecker
@@ -16809,7 +16831,9 @@ JordanMichallet
 JordanOzuna
 JordanVeretout
 Jordanbardella
+Jordi Alba
 Jordi Bongard
+JordiAlba
 JordiBongard
 Jordyn Huitema
 JordynHuitema
@@ -16931,11 +16955,13 @@ Julia Fox
 Julia Pereira de Sousa
 Julia Piaton
 Julia Roberts
+Julia Schütze
 Julia Vignali
 JuliaFox
 JuliaPereiradeSousa
 JuliaPiaton
 JuliaRoberts
+JuliaSchütze
 JuliaVignali
 Julian Alaphilippe
 Julian Assange
@@ -17089,6 +17115,7 @@ Juventus  Bologna
 Juventus  Chelsea
 Juventus  Napoli
 Juventus  Sassuolo
+Juventus  Spezia
 Juventus Stadium
 Juventus gegen Lazio
 Juventus – Atalanta
@@ -17109,6 +17136,7 @@ JuventusBologna
 JuventusChelsea
 JuventusNapoli
 JuventusSassuolo
+JuventusSpezia
 JuventusStadium
 JuventusgegenLazio
 Juventus–Atalanta
@@ -18452,6 +18480,7 @@ LES 12 COUPS DE MIDI
 LES 4 FANTASTIQUES
 LES ANIMAUX FANTASTIQUES
 LES ANIMAUX FANTASTIQUES 3
+LES ANNEAUX DE POUVOIR
 LES AVENTURIERS
 LES BAD GUYS
 LES BODIN'S
@@ -18880,6 +18909,7 @@ LUKE MOCKRIDGE
 LUKE PROKOP
 LUKE SHAW
 LUKESHAW
+LUKOIL
 LUNA
 LUNA CRYPTO
 LUNA SCHWEIGER
@@ -18919,6 +18949,7 @@ LYON PSG FÉMININE
 LYON WEST HAM
 LYON – AJACCIO
 LYON – ANGERS
+LYON – AUXERRE
 LYON – BORDEAUX
 LYON – BREST
 LYON – BRØNDBY
@@ -19574,6 +19605,7 @@ Les 4 Fantastiques
 Les Animaux Fantastiques
 Les Animaux Fantastiques 3
 Les Animaux fantastiques
+Les Anneaux de Pouvoir
 Les Aventuriers
 Les Bad Guys
 Les Bodin's
@@ -19626,6 +19658,7 @@ Les4Fantastiques
 LesAnimauxFantastiques
 LesAnimauxFantastiques3
 LesAnimauxfantastiques
+LesAnneauxdePouvoir
 LesAventuriers
 LesBadGuys
 LesBodin's
@@ -20327,6 +20360,7 @@ Luke Shaw
 LukeMockridge
 LukeProkop
 LukeShaw
+Lukoil
 Luna Schweiger
 Luna crypto
 LunaSchweiger
@@ -20378,6 +20412,7 @@ Lyon West Ham
 Lyon foot
 Lyon – Ajaccio
 Lyon – Angers
+Lyon – Auxerre
 Lyon – Bordeaux
 Lyon – Brest
 Lyon – Brøndby
@@ -20410,6 +20445,7 @@ LyonWestHam
 Lyonfoot
 Lyon–Ajaccio
 Lyon–Angers
+Lyon–Auxerre
 Lyon–Bordeaux
 Lyon–Brest
 Lyon–Brøndby
@@ -20566,6 +20602,7 @@ MAN CITY – LIVERPOOL
 MAN CITY – MANCHESTER UNITED
 MAN CITY – NEWCASTLE
 MAN CITY – NORWICH CITY
+MAN CITY – NOTTM FOREST
 MAN CITY – SOUTHAMPTON
 MAN CITY – SPORTING
 MAN CITY – TOTTENHAM
@@ -21424,6 +21461,7 @@ MONACO – RENNES
 MONACO – SAINT-ÉTIENNE
 MONACO – SPARTA PRAGUE
 MONACO – STURM GRAZ
+MONACO – TROYES
 MONACO-REAL SOCIEDAD
 MOND-NEUJAHR
 MONDFINSTERNIS
@@ -21727,6 +21765,7 @@ Man City – Tottenham
 Man City – West Ham
 Man City – Wolves
 Man City – Wycombe
+Man City – nottm Forest
 Man United
 Man United vs Aston Villa
 Man u
@@ -21767,6 +21806,7 @@ ManCity–Tottenham
 ManCity–WestHam
 ManCity–Wolves
 ManCity–Wycombe
+ManCity–nottmForest
 ManUnited
 ManUnited gegen Liverpool
 ManUnited gegen Middlesbrough
@@ -23228,6 +23268,7 @@ Monaco – Reims
 Monaco – Rennes
 Monaco – Sparta Prague
 Monaco – Sturm Graz
+Monaco – Troyes
 Monaco – paris-sg
 Monaco – parissg
 Monaco – saint-étienne
@@ -23251,6 +23292,7 @@ Monaco–Reims
 Monaco–Rennes
 Monaco–SpartaPrague
 Monaco–SturmGraz
+Monaco–Troyes
 Monaco–paris-sg
 Monaco–saint-étienne
 Mond-Neujahr
@@ -25666,6 +25708,7 @@ PETER R. DE VRIES
 PETER SAGAN
 PETER SCOLARI
 PETER SELLERS
+PETER SPUHLER STADLER RAIL
 PETER THIEL
 PETER UND PAUL
 PETER VAN ASBROECK
@@ -25853,6 +25896,7 @@ POKEMON SCARLET
 POKEMON UNITE
 POLE EMPLOI
 POLEN
+POLESTAR
 POLESTAR 3
 POLIZEIRUF 110
 POLIZEIRUF110
@@ -26647,6 +26691,7 @@ Peter R. de Vries
 Peter Sagan
 Peter Scolari
 Peter Sellers
+Peter Spuhler Stadler Rail
 Peter Thiel
 Peter Van Asbroeck
 Peter Van de Veire
@@ -26672,6 +26717,7 @@ PeterR.deVries
 PeterSagan
 PeterScolari
 PeterSellers
+PeterSpuhlerStadlerRail
 PeterThiel
 PeterVanAsbroeck
 PeterVandeVeire
@@ -26960,6 +27006,7 @@ Pole emploi
 PoleEmploi
 Poleemploi
 Polen
+Polestar
 Polestar 3
 Polestar3
 Polizeiruf 110
@@ -27329,6 +27376,7 @@ QUENTIN MOSIMANN
 QUEVILLY – CAEN
 QUI A TUÉ SARA
 QUI VEUT ETRE MON ASSOCIÉ
+QUIET QUITTING
 QUILLAN
 QUINO
 QUINTANA
@@ -27396,6 +27444,8 @@ Quevilly–Caen
 Qui a tué Sara
 Qui veut etre mon associé
 QuiatuéSara
+Quiet quitting
+Quietquitting
 Quillan
 Quino
 Quintana
@@ -27507,6 +27557,7 @@ RATP
 RAUHNÄCHTE 2021
 RAVANUSA
 RAVE PARTY
+RAVIL MAGANOV
 RAY LIOTTA
 RAYAN
 RAYAN MAROC
@@ -27665,6 +27716,7 @@ RENNES – AJACCIO
 RENNES – ANGERS
 RENNES – ASTON VILLA
 RENNES – BORDEAUX
+RENNES – BREST
 RENNES – CLERMONT
 RENNES – LENS
 RENNES – LILLE
@@ -28220,6 +28272,8 @@ Rauhnächte2021
 Ravanusa
 Rave party
 Raveparty
+Ravil Maganov
+RavilMaganov
 Ray Liotta
 RayLiotta
 Rayan
@@ -28449,6 +28503,7 @@ Rennes – Ajaccio
 Rennes – Angers
 Rennes – Aston Villa
 Rennes – Bordeaux
+Rennes – Brest
 Rennes – Clermont
 Rennes – Lens
 Rennes – Lille
@@ -28478,6 +28533,7 @@ Rennes–Ajaccio
 Rennes–Angers
 Rennes–AstonVilla
 Rennes–Bordeaux
+Rennes–Brest
 Rennes–Clermont
 Rennes–Lens
 Rennes–Lille
@@ -29225,6 +29281,7 @@ SANSUNBRUIT2
 SANTA TRACKER
 SANTI MINA
 SAPORISCHSCHJA
+SARA BEJLEK
 SARA CARREIRA
 SARA DE PADUWA
 SARA GIRAUDEAU
@@ -29412,6 +29469,7 @@ SEPHORA
 SEPP BLATTER
 SEPP FORCHER
 SEPSIS
+SEPTEMBER
 SERAING FOOT
 SERAING-UNION
 SERBIE
@@ -29573,6 +29631,7 @@ SKBeveren
 SKIATHLON
 SKICROSS OLYMPIA
 SKOV OLSEN
+SKRINIAR
 SKULL AND BONES
 SKY
 SKY BROWN
@@ -30410,10 +30469,12 @@ SantaTracker
 Santi Mina
 SantiMina
 Saporischschja
+Sara Bejlek
 Sara Carreira
 Sara Giraudeau
 Sara Hector
 Sara de Paduwa
+SaraBejlek
 SaraCarreira
 SaraGiraudeau
 SaraHector
@@ -30685,6 +30746,7 @@ Sepp Forcher
 SeppBlatter
 SeppForcher
 Sepsis
+September
 Seraing foot
 Seraing-Union
 SeraingUnion
@@ -30960,6 +31022,7 @@ Skicross Olympia
 SkicrossOlympia
 Skov Olsen
 SkovOlsen
+Skriniar
 Skull and Bones
 SkullandBones
 Sky
@@ -31768,6 +31831,7 @@ SÉVILLE – LILLE
 SÉVILLE – REAL
 SÉVILLE – VALLADOLID
 SÖLDEN
+SÖRENBERG
 SÜDAFRIKA
 Sébastien Raoult Maroc
 SébastienRaoultMaroc
@@ -31786,6 +31850,7 @@ Séville–Lille
 Séville–Real
 Séville–Valladolid
 Sölden
+Sörenberg
 Südafrika
 TABLEAU EURO 2021
 TABLEAUEURO2021
@@ -32056,6 +32121,7 @@ THYLANE BLONDEAU
 THÉRAPIE DE CONVERSION
 TIBO INSHAPE
 TIBO PERSYN
+TICKETMASTER
 TICKETS-RESTAURANTS
 TIELEMANS
 TIELT
@@ -32182,6 +32248,7 @@ TORNADE ALLEMAGNE
 TORNADE PAYS-BAS
 TORNADO TSCHECHIEN
 TORNADOTSCHECHIEN
+TOTAL
 TOTALE MONDFINSTERNIS
 TOTALENERGIES
 TOTEN HOSEN
@@ -32209,6 +32276,7 @@ TOULOUSE – CLERMONT
 TOULOUSE – LE HAVRE
 TOULOUSE – MONTPELLIER
 TOULOUSE – NICE
+TOULOUSE – PARIS-SG
 TOULOUSELAROCHELLE
 TOUR DE BELGIQUE 2022
 TOUR DE FRANCE
@@ -32323,6 +32391,7 @@ TROSSARD
 TROU NOIR
 TROUVER SON BUREAU DE VOTE
 TROY KOTSUR
+TROYES
 TROYES – ANGERS
 TROYES – LILLE
 TROYES – LYON
@@ -32836,6 +32905,7 @@ Tibo Inshape
 Tibo Persyn
 TiboInshape
 TiboPersyn
+Ticketmaster
 Tickets-restaurants
 Ticketsrestaurants
 Tielemans
@@ -33069,6 +33139,7 @@ TornadeAllemagne
 TornadePays-Bas
 Tornado Tschechien
 TornadoTschechien
+Total
 TotalEnergies
 Totale Mondfinsternis
 TotaleMondfinsternis
@@ -33108,6 +33179,8 @@ Toulouse – Clermont
 Toulouse – Le Havre
 Toulouse – Montpellier
 Toulouse – Nice
+Toulouse – paris-sg
+Toulouse – parissg
 Toulouse-LaRochelle
 ToulouseLaRochelle
 ToulouseLeinster
@@ -33117,6 +33190,7 @@ Toulouse–Clermont
 Toulouse–LeHavre
 Toulouse–Montpellier
 Toulouse–Nice
+Toulouse–paris-sg
 Tour Eiffel
 Tour Eiffel Ukraine
 Tour de Belgique 2022
@@ -33297,6 +33371,7 @@ Trouver son bureau de vote
 Trouversonbureaudevote
 Troy Kotsur
 TroyKotsur
+Troyes
 Troyes – Angers
 Troyes – Lille
 Troyes – Lyon
@@ -36445,6 +36520,7 @@ antwerp  genk
 antwerp  gent
 antwerp  lillestrøm
 antwerp  mechelen
+antwerp  union
 antwerp  zulte-waregem
 antwerp - omonia
 antwerp - union
@@ -36594,6 +36670,7 @@ arthur bauchet
 arthur cabral
 arthur et les minimoys
 arthur germain
+arthur melo
 arthur theate
 arthurgermain
 artuur peters
@@ -38018,6 +38095,7 @@ chenilleprocessionnaire
 cheque alimentaire
 cheque carburant
 cheque energie
+cheque mazout
 cher
 cherbourg
 chernobyl
@@ -39015,6 +39093,7 @@ douwe bob
 dow jones
 downton abbey
 dr strange
+dr. dre
 dr. lisa-maria kellermayr
 drachenlord
 draft nba 2021
@@ -39816,6 +39895,7 @@ fetedelamusique2021
 fetedelamusique2021paris
 fetedesperes
 feteducinema
+fettes brot
 fetty wap
 feu d'artifice
 feu d'artifice 14 juillet 2021
@@ -39863,6 +39943,7 @@ film d'horreur
 filme von anne heche
 films avec anne heche
 fils de joie stromae
+fin du mercato
 fin pass vaccinal
 final euro 2021
 finale basket jo 2021
@@ -41440,6 +41521,7 @@ jamie lynn spears
 jamieleecurtis
 jamilla baidou
 jan bakelants
+jan callebaut
 jan callewaert
 jan de lichte
 jan fabre
@@ -41750,6 +41832,7 @@ jordan michallet
 jordan ozuna
 jordan veretout
 jordanbardella
+jordi alba
 jordi bongard
 jordyn huitema
 joren dom
@@ -41819,6 +41902,7 @@ julia fox
 julia pereira de sousa
 julia piaton
 julia roberts
+julia schütze
 julia vignali
 julian alaphilippe
 julian assange
@@ -41907,6 +41991,7 @@ juventus  bologna
 juventus  chelsea
 juventus  napoli
 juventus  sassuolo
+juventus  spezia
 juventus gegen lazio
 juventus stadium
 juventus – atalanta
@@ -42636,6 +42721,7 @@ les 12 coups de midi
 les 4 fantastiques
 les animaux fantastiques
 les animaux fantastiques 3
+les anneaux de pouvoir
 les aventuriers
 les bad guys
 les bodin's
@@ -43059,6 +43145,7 @@ luke mockridge
 luke prokop
 luke shaw
 lukeshaw
+lukoil
 luna
 luna crypto
 luna schweiger
@@ -43095,6 +43182,7 @@ lyon psg féminine
 lyon west ham
 lyon – ajaccio
 lyon – angers
+lyon – auxerre
 lyon – bordeaux
 lyon – brest
 lyon – brøndby
@@ -43243,6 +43331,7 @@ man city – liverpool
 man city – manchester united
 man city – newcastle
 man city – norwich city
+man city – nottm forest
 man city – southampton
 man city – sporting
 man city – tottenham
@@ -44090,6 +44179,7 @@ monaco – rennes
 monaco – saint-étienne
 monaco – sparta prague
 monaco – sturm graz
+monaco – troyes
 monaco-real sociedad
 mond-neujahr
 mondfinsternis
@@ -45215,6 +45305,7 @@ peter r. de vries
 peter sagan
 peter scolari
 peter sellers
+peter spuhler stadler rail
 peter thiel
 peter und paul
 peter van asbroeck
@@ -45396,6 +45487,7 @@ pokemon scarlet
 pokemon unite
 pole emploi
 polen
+polestar
 polestar 3
 polizeiruf 110
 polizeiruf110
@@ -45654,6 +45746,7 @@ quentin mosimann
 quevilly – caen
 qui a tué sara
 qui veut etre mon associé
+quiet quitting
 quillan
 quino
 quintana
@@ -45754,6 +45847,7 @@ ratp
 rauhnächte 2021
 ravanusa
 rave party
+ravil maganov
 ray liotta
 rayan
 rayan maroc
@@ -45892,6 +45986,7 @@ rennes – ajaccio
 rennes – angers
 rennes – aston villa
 rennes – bordeaux
+rennes – brest
 rennes – clermont
 rennes – lens
 rennes – lille
@@ -46419,6 +46514,7 @@ sansunbruit2
 santa tracker
 santi mina
 saporischschja
+sara bejlek
 sara carreira
 sara de paduwa
 sara giraudeau
@@ -46596,6 +46692,7 @@ sephora
 sepp blatter
 sepp forcher
 sepsis
+september
 seraing foot
 seraing-union
 serbie
@@ -46755,6 +46852,7 @@ skateboard olympia
 skiathlon
 skicross olympia
 skov olsen
+skriniar
 skull and bones
 sky
 sky brown
@@ -47270,6 +47368,7 @@ séville – lille
 séville – real
 séville – valladolid
 sölden
+sörenberg
 südafrika
 tableau euro 2021
 tableaueuro2021
@@ -47530,6 +47629,7 @@ thylane blondeau
 thérapie de conversion
 tibo inshape
 tibo persyn
+ticketmaster
 tickets-restaurants
 tielemans
 tielt
@@ -47656,6 +47756,7 @@ tornade allemagne
 tornade pays-bas
 tornado tschechien
 tornadotschechien
+total
 totale mondfinsternis
 totalenergies
 toten hosen
@@ -47682,6 +47783,7 @@ toulouse – clermont
 toulouse – le havre
 toulouse – montpellier
 toulouse – nice
+toulouse – paris-sg
 toulouselarochelle
 tour de belgique 2022
 tour de france
@@ -47793,6 +47895,7 @@ trossard
 trou noir
 trouver son bureau de vote
 troy kotsur
+troyes
 troyes – angers
 troyes – lille
 troyes – lyon
