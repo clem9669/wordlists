@@ -583,6 +583,7 @@ AJAX  LEEDS
 AJAX  WILLEM II
 AJLA DEL PONTE
 AKAMAI
+AKANJI
 AKHENATON
 AKTENZEICHEN XY
 AL QAIDA
@@ -869,6 +870,7 @@ ANDERLECHT MATCH
 ANDERLECHT VITESSE
 ANDERLECHT YOUNG BERN
 ANDERLECHT – CHARLEROI SC
+ANDERLECHT – KAA GENT
 ANDERLECHT – LYON
 ANDERLECHT – OOSTENDE
 ANDERLECHT – STANDARD
@@ -1742,6 +1744,7 @@ AjaxWillemII
 Ajla Del Ponte
 AjlaDelPonte
 Akamai
+Akanji
 Akhenaton
 Aktenzeichen XY
 Aktenzeichen xy
@@ -2230,6 +2233,7 @@ Anderlecht – Oostende
 Anderlecht – Standard
 Anderlecht – Union Saint-Gilloise
 Anderlecht – Union SaintGilloise
+Anderlecht – kaa Gent
 Anderlecht-Antwerp
 Anderlecht-Club Brugge
 Anderlecht-ClubBrugge
@@ -2254,6 +2258,7 @@ Anderlecht–Lyon
 Anderlecht–Oostende
 Anderlecht–Standard
 Anderlecht–UnionSaint-Gilloise
+Anderlecht–kaaGent
 Andi Zeqiri
 AndiZeqiri
 Andie MacDowell
@@ -3171,6 +3176,7 @@ BADER SHAMMAS
 BADINTER
 BADOSA
 BADR HARI
+BAERBOCK
 BAFTA 2022
 BAFTA2022
 BAG
@@ -3189,6 +3195,7 @@ BAKE OFF VLAANDEREN
 BAKOU
 BAKU
 BALE
+BALEN
 BALEXERT
 BALIKWISHA
 BALKANY
@@ -4088,6 +4095,7 @@ Badinter
 Badosa
 Badr Hari
 BadrHari
+Baerbock
 Bahnhof Luzern
 Bahnhof Olten Unfall
 BahnhofLuzern
@@ -4101,6 +4109,7 @@ BakeoffVlaanderen
 Bakou
 Baku
 Bale
+Balen
 Balexert
 Balikwisha
 Balkany
@@ -6302,6 +6311,7 @@ CRETE
 CREUX-DU-VAN
 CRINGE
 CRISTIANO RONALDO
+CRISTINA KIRCHNER
 CRITERIUM JURASSIEN
 CRITERIUM JURASSIEN 2022
 CRITICAL MASS
@@ -7812,6 +7822,8 @@ CreuxduVan
 Cringe
 Cristiano Ronaldo
 CristianoRonaldo
+Cristina Kirchner
+CristinaKirchner
 Criterium jurassien
 Criterium jurassien 2022
 Criteriumjurassien
@@ -8377,6 +8389,7 @@ DOMINIQUE FARRUGIA
 DOMINIQUE LAGROU-SEMPERE
 DOMINIQUE PATUREL
 DOMINIQUE PERSOONE
+DOMINIQUE RINDERKNECHT
 DOMINIQUE VAN MALDER
 DOMINIQUE WARLUZEL
 DON DU SANG
@@ -9196,6 +9209,7 @@ Dominique Lagrou-Sempere
 Dominique LagrouSempere
 Dominique Paturel
 Dominique Persoone
+Dominique Rinderknecht
 Dominique Van Malder
 Dominique Warluzel
 DominiqueAegerter
@@ -9205,6 +9219,7 @@ DominiqueFarrugia
 DominiqueLagrou-Sempere
 DominiquePaturel
 DominiquePersoone
+DominiqueRinderknecht
 DominiqueVanMalder
 DominiqueWarluzel
 Don du sang
@@ -9851,6 +9866,7 @@ ESTELLE MOSSELY
 ESTER LEDECKA
 ESTHER 2
 ESTHER BENBASSA
+ESTHER DUFLO
 ESTHER FRIEDLI
 ESTHER PEREL
 ESTHERBENBASSA
@@ -10553,10 +10569,12 @@ Ester Ledecka
 EsterLedecka
 Esther 2
 Esther Benbassa
+Esther Duflo
 Esther Friedli
 Esther Perel
 Esther2
 EstherBenbassa
+EstherDuflo
 EstherFriedli
 EstherPerel
 Estimation vote
@@ -11370,6 +11388,7 @@ FRANCA LEHFELDT
 FRANCE
 FRANCE  SUISSE
 FRANCE - AFRIQUE DU SUD
+FRANCE - ALLEMAGNE BASKET
 FRANCE - ESPAGNE
 FRANCE - JAPON FOOT
 FRANCE - SERBIE HAND
@@ -12115,12 +12134,14 @@ Franca Lehfeldt
 FrancaLehfeldt
 France
 France  Afrique du Sud
+France  Allemagne Basket
 France  Espagne
 France  Japon foot
 France  Serbie hand
 France  Suisse
 France  Vietnam
 France - Afrique du Sud
+France - Allemagne Basket
 France - Espagne
 France - Japon foot
 France - Serbie hand
@@ -12177,6 +12198,7 @@ France – PaysBas
 France – Suisse
 France-Afrique du Sud
 France-AfriqueduSud
+France-AllemagneBasket
 France-Angleterre
 France-Argentine Rugby
 France-Argentine rugby
@@ -13894,6 +13916,7 @@ HAAGEN DAZS
 HAALAND
 HADJA LAHBIB
 HAGEL SCHWEIZ
+HAGELKÖRNER IN SPANIEN
 HAGELSCHWEIZ
 HAI ANGRIFFE ÄGYPTEN
 HAILEY BIEBER
@@ -14013,6 +14036,7 @@ HEAT – CELTICS
 HEATH FREEMAN
 HEATHER PENNEY
 HECHT
+HECTOR BELLERIN
 HEERENVEEN  AJAX
 HEIDE KELLER
 HEIDELBERG
@@ -14188,6 +14212,8 @@ Hadja Lahbib
 HadjaLahbib
 Hagel Schweiz
 HagelSchweiz
+Hagelkörner in Spanien
+HagelkörnerinSpanien
 Hai Angriffe Ägypten
 Hai angriffe Ägypten
 HaiAngriffeÄgypten
@@ -14373,6 +14399,8 @@ Heather Penney
 HeatherPenney
 Heat–Celtics
 Hecht
+Hector Bellerin
+HectorBellerin
 Heerenveen  Ajax
 HeerenveenAjax
 Heide Keller
@@ -18289,6 +18317,7 @@ LAURENT BIGORGNE
 LAURENT BOUVET
 LAURENT DE LA CLERGERIE
 LAURENT DELAHOUSSE
+LAURENT FABIUS
 LAURENT FONTAINE
 LAURENT GBAGBO
 LAURENT GERRA
@@ -18847,6 +18876,7 @@ LOURDES
 LOURDES LEON
 LOUVAIN-LA-NEUVE
 LOVE HARD
+LOVE IN THE VILLA
 LOVE ISLAND
 LOVE ISLAND 2021
 LOVE ISLAND 2022
@@ -19268,6 +19298,7 @@ Laurent Bignolas
 Laurent Bigorgne
 Laurent Bouvet
 Laurent Delahousse
+Laurent Fabius
 Laurent Fontaine
 Laurent Gbagbo
 Laurent Gerra
@@ -19282,6 +19313,7 @@ LaurentBignolas
 LaurentBigorgne
 LaurentBouvet
 LaurentDelahousse
+LaurentFabius
 LaurentFontaine
 LaurentGbagbo
 LaurentGerra
@@ -19644,6 +19676,7 @@ Les Vedettes
 Les Veuves
 Les Vieux Fourneaux
 Les animaux fantastiques
+Les anneaux de pouvoir
 Les chroniques de Bridgerton
 Les enfañts des Justes
 Les fantasmes
@@ -19695,6 +19728,7 @@ LesVedettes
 LesVeuves
 LesVieuxFourneaux
 Lesanimauxfantastiques
+Lesanneauxdepouvoir
 LeschroniquesdeBridgerton
 LesenfañtsdesJustes
 Lesensdelafamille
@@ -20258,11 +20292,13 @@ Love Island
 Love Island 2021
 Love Island 2022
 Love Story
+Love in the Villa
 LoveHard
 LoveIsland
 LoveIsland2021
 LoveIsland2022
 LoveStory
+LoveintheVilla
 Loïk Le Priol
 LoïkLePriol
 Luan Peres
@@ -20554,6 +20590,7 @@ MAIWENN
 MAJOR LAZER
 MAJORQUE
 MAJORQUE – REAL
+MAKRO
 MALADIE DE CHARCOT
 MALADIE DE LYME
 MALANS
@@ -21099,6 +21136,7 @@ MEGA MILLIONS
 MEGA TOBY
 MEGALODON
 MEGAN FOX
+MEGAN THEE STALLION
 MEGANFOX
 MEGASCOLIA MACULATA
 MEGEVE
@@ -21428,6 +21466,7 @@ MOHAMED BOUHAFSI
 MOHAMMED BEN SALMANE
 MOHORIC
 MOISE KEAN
+MOLAY-LITTRY
 MOLDAVIE
 MOLDE
 MOLECULAR PARTNERS AKTIE
@@ -21696,6 +21735,7 @@ MajorLazer
 Majorque
 Majorque – Real
 Majorque–Real
+Makro
 Maladie de Charcot
 Maladie de Lyme
 MaladiedeCharcot
@@ -22673,7 +22713,9 @@ MegaToby
 Megaenergie
 Megalodon
 Megan Fox
+Megan Thee Stallion
 MeganFox
+MeganTheeStallion
 Megascolia maculata
 Megascoliamaculata
 Megeve
@@ -23230,6 +23272,8 @@ MohammedbenSalmane
 Mohoric
 Moise Kean
 MoiseKean
+Molay-Littry
+MolayLittry
 Moldavie
 Molde
 Molecular Partners Aktie
@@ -23936,6 +23980,7 @@ NORWICH CITY – LIVERPOOL
 NORWICH CITY – MAN CITY
 NOS
 NOS JOURS HEUREUX
+NOSFERATU-SPINNE
 NOSTALGIE BEACH FESTIVAL
 NOTHING PHONE
 NOTRE-DAME BRULE
@@ -24570,6 +24615,8 @@ NorwichCity–Liverpool
 NorwichCity–ManCity
 Nos
 Nos jours heureux
+Nosferatu-Spinne
+NosferatuSpinne
 Nosjoursheureux
 Nostalgie Beach Festival
 NostalgieBeachFestival
@@ -24972,6 +25019,7 @@ OUDEJAARSAVOND
 OUDERSCHAPSVERLOF
 OUDSBERGEN
 OURA RING
+OURAGAN FRANCE
 OUSMANE DEMBELE
 OUSMANE DIENG
 OUSSAMA AMMAR
@@ -25373,6 +25421,8 @@ Ouderschapsverlof
 Oudsbergen
 Oura Ring
 OuraRing
+Ouragan France
+OuraganFrance
 Ousmane Dieng
 Ousmane dembele
 OusmaneDieng
@@ -25879,6 +25929,7 @@ PLUS BELLE LA VIE
 PLYMOUTH
 PLÖTZLICHER KINDSTOD FORSCHERIN
 PMA
+PNEUMONIE ARGENTINE
 PNEUMOTHORAX
 PNL
 POETIN
@@ -25990,6 +26041,7 @@ PRESIDENTIELLE 2022
 PRESIDENTIELLE FRANCE
 PRESIDENTS
 PRESSEKONFERENZ BUNDESRAT
+PRET A MANGER
 PRETE MOI TA MAIN
 PRETRE ASSASSINÉ
 PRETTY WOMAN
@@ -26980,6 +27032,8 @@ Plusbellelavie
 Plymouth
 Plötzlicher Kindstod Forscherin
 PlötzlicherKindstodForscherin
+Pneumonie Argentine
+PneumonieArgentine
 Pneumothorax
 Poetin
 Pogacar
@@ -27164,6 +27218,8 @@ PresidentielleFrance
 Presidents
 Pressekonferenz Bundesrat
 PressekonferenzBundesrat
+Pret A Manger
+PretAManger
 Prete moi ta main
 Pretemoitamain
 Pretre assassiné
@@ -27507,6 +27563,7 @@ RAINBOW SIX EXTRACTION
 RAISON D'ÉTAT FILM
 RAISONS D'ÉTAT
 RAJA CASABLANCA
+RAJAE MAOUANE
 RALF DÜMMEL
 RALF RANGNICK
 RALLY IEPER
@@ -28182,6 +28239,8 @@ Raisons d'État
 Raisonsd'État
 Raja Casablanca
 RajaCasablanca
+Rajae Maouane
+RajaeMaouane
 Ralf Dümmel
 Ralf Rangnick
 RalfDümmel
@@ -34080,6 +34139,7 @@ VIRGINIEEFIRA
 VIRUS D'EPSTEIN-BARR
 VIRUS DE MARBURG
 VIRUS LA VARIOLE DU SINGE
+VISE LE COEUR
 VISIONS TF1
 VISITWALLONIA
 VISUAL SUSPECT
@@ -34500,6 +34560,8 @@ Virus la variole du singe
 Virusd'Epstein-Barr
 VirusdeMarburg
 Viruslavarioledusinge
+Vise le coeur
+Viselecoeur
 Visions TF1
 VisionsTF1
 VisitWallonia
@@ -36040,6 +36102,7 @@ ajax  leeds
 ajax  willem ii
 ajla del ponte
 akamai
+akanji
 akhenaton
 aktenzeichen xy
 al qaida
@@ -36322,6 +36385,7 @@ anderlecht match
 anderlecht vitesse
 anderlecht young bern
 anderlecht – charleroi sc
+anderlecht – kaa gent
 anderlecht – lyon
 anderlecht – oostende
 anderlecht – standard
@@ -36872,6 +36936,7 @@ bader shammas
 badinter
 badosa
 badr hari
+baerbock
 bafta 2022
 bag
 bag corona
@@ -36885,6 +36950,7 @@ bake off vlaanderen
 bakou
 baku
 bale
+balen
 balexert
 balikwisha
 balkany
@@ -38552,6 +38618,7 @@ crete
 creux-du-van
 cringe
 cristiano ronaldo
+cristina kirchner
 criterium jurassien
 criterium jurassien 2022
 critical mass
@@ -39038,6 +39105,7 @@ dominique farrugia
 dominique lagrou-sempere
 dominique paturel
 dominique persoone
+dominique rinderknecht
 dominique van malder
 dominique warluzel
 don du sang
@@ -39523,6 +39591,7 @@ estelle mossely
 ester ledecka
 esther 2
 esther benbassa
+esther duflo
 esther friedli
 esther perel
 estherbenbassa
@@ -40086,6 +40155,7 @@ franca lehfeldt
 france
 france  suisse
 france - afrique du sud
+france - allemagne basket
 france - espagne
 france - japon foot
 france - serbie hand
@@ -40803,6 +40873,7 @@ haagen dazs
 haaland
 hadja lahbib
 hagel schweiz
+hagelkörner in spanien
 hagelschweiz
 hai angriffe ägypten
 hailey bieber
@@ -40917,6 +40988,7 @@ heat – celtics
 heath freeman
 heather penney
 hecht
+hector bellerin
 heerenveen  ajax
 heide keller
 heidelberg
@@ -42533,6 +42605,7 @@ laurent bigorgne
 laurent bouvet
 laurent de la clergerie
 laurent delahousse
+laurent fabius
 laurent fontaine
 laurent gbagbo
 laurent gerra
@@ -43083,6 +43156,7 @@ lourdes
 lourdes leon
 louvain-la-neuve
 love hard
+love in the villa
 love island
 love island 2021
 love island 2022
@@ -43283,6 +43357,7 @@ maiwenn
 major lazer
 majorque
 majorque – real
+makro
 maladie de charcot
 maladie de lyme
 malans
@@ -43826,6 +43901,7 @@ mega millions
 mega toby
 megalodon
 megan fox
+megan thee stallion
 meganfox
 megascolia maculata
 megeve
@@ -44146,6 +44222,7 @@ mohamed bouhafsi
 mohammed ben salmane
 mohoric
 moise kean
+molay-littry
 moldavie
 molde
 molecular partners aktie
@@ -44681,6 +44758,7 @@ norwich city – liverpool
 norwich city – man city
 nos
 nos jours heureux
+nosferatu-spinne
 nostalgie beach festival
 nothing phone
 notre-dame brule
@@ -44990,6 +45068,7 @@ oudejaarsavond
 ouderschapsverlof
 oudsbergen
 oura ring
+ouragan france
 ousmane dembele
 ousmane dieng
 oussama ammar
@@ -45470,6 +45549,7 @@ plus belle la vie
 plymouth
 plötzlicher kindstod forscherin
 pma
+pneumonie argentine
 pneumothorax
 pnl
 poetin
@@ -45581,6 +45661,7 @@ presidentielle 2022
 presidentielle france
 presidents
 pressekonferenz bundesrat
+pret a manger
 prete moi ta main
 pretre assassiné
 pretty woman
@@ -45797,6 +45878,7 @@ rainbow six extraction
 raison d'état film
 raisons d'état
 raja casablanca
+rajae maouane
 ralf dümmel
 ralf rangnick
 rally ieper
@@ -48317,6 +48399,7 @@ virginieefira
 virus d'epstein-barr
 virus de marburg
 virus la variole du singe
+vise le coeur
 visions tf1
 visitwallonia
 visual suspect
