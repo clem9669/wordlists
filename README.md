@@ -100,8 +100,8 @@ LC_ALL=C.UTF-8; sort -u wordlist >> wordlist_uniq_sorted
 ### Cracking contest
 
 This repo and the [rulelists](https://github.com/clem9669/hashcat-rule/) associated have been used for :
-- [Korelogic Password Cracking contest](https://contest-2021.korelogic.com/) at Defcon 2021
-- Cracking [haveibeenpwned.com](https://haveibeenpwned.com) by Troy Hunt NTLM releases 
+- [Korelogic Password Cracking contest](https://contest.korelogic.com/) at Defcon
+- Cracking [haveibeenpwned.com](https://haveibeenpwned.com) hashes releases by Troy Hunt 
 - [CrackTheCon contest](https://crackthecon.com/)
 
 ## Recommanded read
