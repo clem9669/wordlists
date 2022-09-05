@@ -3967,6 +3967,7 @@ ATTALBARDELLATF1
 ATTALI
 ATTENDONS
 ATTENTAT
+ATTENTATDENICE
 ATTENTATS
 ATTENTATS DE PARIS
 ATTENTATSDEPARIS
@@ -6356,6 +6357,7 @@ Attal
 AttalBardellaTF1
 Attali
 Attendons
+AttentatDeNice
 Attentats de Paris
 AttentatsDu13Novembre
 AttentatsdeParis
@@ -39854,6 +39856,7 @@ LES20
 LES2010
 LES3
 LES48HDELARECONQUETE
+LES50
 LES500
 LES500CHANSONS
 LES50EMISSIONS
@@ -39872,6 +39875,7 @@ LESCANDALEQUIMENACEMACRON
 LESCFF
 LESCHIENSAVECPECRESSE
 LESCHORISTES
+LESCINQUANTE
 LESCOUILLESDESABRI
 LESECOLOSAVECMELENCHON
 LESEIGNEUR
@@ -42577,6 +42581,7 @@ Les36%
 Les42%
 Les48HdelaReconquete
 Les5
+Les50
 Les500
 Les500Chansons
 Les50Emissions
@@ -42605,6 +42610,7 @@ LesCFF
 LesCharlots
 LesChiensAvecPecresse
 LesChoristes
+LesCinquante
 LesClippers
 LesComores
 LesCordier
@@ -44871,6 +44877,7 @@ MAXENCE
 MAXENCE CAQUERET
 MAXEY
 MAXI LOPEZ
+MAXIDENT
 MAXILOPEZ
 MAXIME
 MAXIME BELTRA
@@ -52479,6 +52486,7 @@ ONEPIECE1055
 ONEPIECE1056
 ONEPIECE1057
 ONEPIECE1058
+ONEPIECE1059
 ONEPIECE99
 ONEPIECE995
 ONEPIECEFILMRED
@@ -55515,6 +55523,7 @@ PSGFCL
 PSGFCM
 PSGFCN
 PSGJAPANTOUR2022
+PSGJUVE
 PSGJapanTour2022
 PSGLILLE
 PSGLOSC
@@ -60946,6 +60955,7 @@ SABRINA
 SACAI
 SACCAGEAPARIS
 SACCAGELAFRANCE
+SACCAGEOUINOUIN
 SACCAGEPARIS
 SACEM
 SACHA
@@ -64139,6 +64149,7 @@ Sabonis
 Sabri
 Sabrina
 Sacai
+SaccageOuinOuin
 Sacem
 Sacha
 Sacha Houlié
@@ -79765,6 +79776,7 @@ attalbardellatf1
 attali
 attendons
 attentat
+attentatdenice
 attentats
 attentats de paris
 attentatsdeparis
@@ -98090,6 +98102,7 @@ les36%
 les42%
 les48hdelareconquete
 les5
+les50
 les500
 les500chansons
 les50emissions
@@ -98115,6 +98128,7 @@ lesceltics
 lescff
 leschiensavecpecresse
 leschoristes
+lescinquante
 lescomores
 lescouillesdesabri
 lesdemoisellesderochefort
@@ -100500,6 +100514,7 @@ maxencecaqueret
 maxey
 maxgallo
 maxi lopez
+maxident
 maxilopez
 maxime
 maxime beltra
@@ -104043,6 +104058,7 @@ onepiece1055
 onepiece1056
 onepiece1057
 onepiece1058
+onepiece1059
 onepiece99
 onepiece995
 onepiecefilmred
@@ -106399,6 +106415,7 @@ psgfcl
 psgfcm
 psgfcn
 psgjapantour2022
+psgjuve
 psglille
 psglosc
 psgmci
@@ -108315,6 +108332,7 @@ sacai
 saccageaparis
 saccagelaFrance
 saccagelafrance
+saccageouinouin
 saccageparis
 sacem
 sacha
@@ -109677,6 +109695,7 @@ siena
 sierra leone
 sierra nevada
 sierraleone
+sierranevada
 sierre
 sifacebook
 sifan hassan
