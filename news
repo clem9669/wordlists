@@ -576,6 +576,7 @@ AIRPODS (PRO
 AIRPODS PRO
 AJACCIO – LENS
 AJACCIO – LILLE
+AJACCIO – LORIENT
 AJAX
 AJAX  BARENDRECHT
 AJAX  GRONINGEN
@@ -1734,8 +1735,10 @@ Airbus
 Airco
 Ajaccio – Lens
 Ajaccio – Lille
+Ajaccio – Lorient
 Ajaccio–Lens
 Ajaccio–Lille
+Ajaccio–Lorient
 Ajax
 Ajax  Barendrecht
 Ajax  Groningen
@@ -3680,6 +3683,7 @@ BLANCHE-NEIGE
 BLANKA VLASIC
 BLANQUER
 BLAUALGEN
+BLENIOTAL
 BLESSURE DE BRUYNE
 BLESSURE EDEN HAZARD
 BLESSUREDEBRUYNE
@@ -3936,6 +3940,7 @@ BRIDGET JONES
 BRIGADIER BROCCOLI
 BRIGHT BRUSSELS
 BRIGHTON – CHELSEA
+BRIGHTON – LEICESTER
 BRIGHTON – LIVERPOOL
 BRIGHTON – MAN CITY
 BRIGHTON – MANCHESTER UNITED
@@ -4871,6 +4876,7 @@ Blanka Vlasic
 BlankaVlasic
 Blanquer
 Blaualgen
+Bleniotal
 Blessure Eden Hazard
 Blessure de bruyne
 BlessureEdenHazard
@@ -5272,10 +5278,12 @@ BrigadierBroccoli
 Bright Brussels
 BrightBrussels
 Brighton – Chelsea
+Brighton – Leicester
 Brighton – Liverpool
 Brighton – Man City
 Brighton – Manchester United
 Brighton–Chelsea
+Brighton–Leicester
 Brighton–Liverpool
 Brighton–ManCity
 Brighton–ManchesterUnited
@@ -5765,6 +5773,7 @@ CHANNING TATUM
 CHANSON DE L'ANNÉE 2022
 CHANT DU GROS
 CHANT DU GROS 2022
+CHANTAL
 CHANTAL GALLIA
 CHANTAL GOYA
 CHANTAL LADESOU
@@ -5778,6 +5787,7 @@ CHARLENE MONACO
 CHARLEROI  ANTWERP
 CHARLEROI  CLUB BRUGGE
 CHARLEROI  GENK
+CHARLEROI  GENT
 CHARLEROI SC – ANDERLECHT
 CHARLEROI SC – GENK
 CHARLEROI SC – UNION SAINT-GILLOISE
@@ -6064,6 +6074,7 @@ CLERMONT – PARIS-SG
 CLERMONT – SAINT-ÉTIENNE
 CLERMONT – STRASBOURG
 CLERMONT – TOULON
+CLERMONT – TOULOUSE
 CLERMONT,  PSG
 CLERMONT-STRASBOURG
 CLESSE
@@ -6875,6 +6886,7 @@ Chanson de l'année 2022
 Chansondel'année2022
 Chant du Gros
 Chant du Gros 2022
+Chantal
 Chantal Gallia
 Chantal Goya
 Chantal Ladesou
@@ -6898,6 +6910,7 @@ CharlenedeMonaco
 Charleroi  Antwerp
 Charleroi  Club Brugge
 Charleroi  Genk
+Charleroi  Gent
 Charleroi SC – Anderlecht
 Charleroi SC – Genk
 Charleroi Standard
@@ -6906,6 +6919,7 @@ Charleroi sc – Union SaintGilloise
 CharleroiAntwerp
 CharleroiClubBrugge
 CharleroiGenk
+CharleroiGent
 CharleroiSC–Anderlecht
 CharleroiSC–Genk
 CharleroiStandard
@@ -7405,6 +7419,7 @@ Clermont – Paris-SG
 Clermont – ParisSG
 Clermont – Strasbourg
 Clermont – Toulon
+Clermont – Toulouse
 Clermont – paris-sg
 Clermont – parissg
 Clermont – saint-étienne
@@ -7421,6 +7436,7 @@ Clermont–Nice
 Clermont–Paris-SG
 Clermont–Strasbourg
 Clermont–Toulon
+Clermont–Toulouse
 Clermont–paris-sg
 Clermont–saint-étienne
 Clesse
@@ -10893,6 +10909,9 @@ F1 Monza
 F1 Monza 2021
 F1 NEWS
 F1 NIEUWS
+F1 PAYS-BAS
+F1 Pays-Bas
+F1 PaysBas
 F1 QATAR
 F1 QUALIFYING
 F1 Qatar
@@ -10922,6 +10941,7 @@ F1Mexique
 F1Monaco
 F1Monza
 F1Monza2021
+F1Pays-Bas
 F1Qatar
 F1Qualifying
 F1Saudiarabia
@@ -11523,6 +11543,7 @@ FRANCOFOLIES
 FRANCOIS ALU
 FRANCOIS BRAUN
 FRANCOIS CLUZET
+FRANCOIS DURPAIRE
 FRANCOIS FILLON
 FRANCOIS HOLLANDE
 FRANCOIS VEROVE
@@ -12371,12 +12392,14 @@ Francofolies
 Francois Alu
 Francois Braun
 Francois Cluzet
+Francois Durpaire
 Francois Fillon
 Francois Hollande
 Francois Verove
 FrancoisAlu
 FrancoisBraun
 FrancoisCluzet
+FrancoisDurpaire
 FrancoisFillon
 FrancoisHollande
 FrancoisVerove
@@ -13121,6 +13144,7 @@ GUNNA
 GUNTHER LEVI
 GURTENFESTIVAL
 GURTENFESTIVAL 2022
+GUSTAVO ARNAL
 GUSTAVO PETRO
 GUTE ZEITEN, SCHLECHTE ZEITEN
 GUTES NEUES JAHR 2022
@@ -13910,7 +13934,9 @@ GuntherLevi
 Gurtenfestival
 Gurtenfestival 2022
 Gurtenfestival2022
+Gustavo Arnal
 Gustavo Petro
+GustavoArnal
 GustavoPetro
 Gute Zeiten, schlechte Zeiten
 GuteZeiten,schlechteZeiten
@@ -16075,6 +16101,7 @@ JULIEN DORE
 JULIEN DORe
 JULIEN DORÉ
 JULIEN DORé
+JULIEN DURANVILLE
 JULIEN ODOUL
 JULIEN TANTI
 JULIENDORE
@@ -17093,6 +17120,7 @@ Julien Cohen
 Julien Denormandie
 Julien Dore
 Julien Doré
+Julien Duranville
 Julien Odoul
 Julien Tanti
 JulienBam
@@ -17101,6 +17129,7 @@ JulienCohen
 JulienDenormandie
 JulienDore
 JulienDoré
+JulienDuranville
 JulienOdoul
 JulienTanti
 Juliepietri
@@ -18276,6 +18305,7 @@ LA-LIGA
 LAAKSONEN
 LAAX
 LAB9
+LABOR DAY
 LABRADOODLE
 LAC DE CHALAIN
 LAC DE MONTBEL
@@ -18845,6 +18875,7 @@ LOLA DEWAERE
 LOLA DUBINI
 LOMBARDIJE
 LOMEPAL
+LOMMEL SK
 LONDON
 LONDON MARATHON 2021
 LONGO BORGHINI
@@ -18928,6 +18959,7 @@ LOUIS LAFORGE JOURNALISTE
 LOUIS TALPE
 LOUIS TOMLINSON
 LOUIS VAN GAAL
+LOUIS VERVAEKE
 LOUIS VUITTON
 LOUISE CAMUTO
 LOUISIANA
@@ -19191,6 +19223,8 @@ Laaksonen
 Laax
 Lab9
 Labonneepouse
+Labor Day
+LaborDay
 Labradoodle
 Lac de Chalain
 Lac de Montbel
@@ -20205,6 +20239,8 @@ LolaDewaere
 LolaDubini
 Lombardije
 Lomepal
+Lommel SK
+LommelSK
 London
 London Marathon 2021
 LondonMarathon2021
@@ -20336,6 +20372,7 @@ Louis Garrel
 Louis Laforge journaliste
 Louis Talpe
 Louis Tomlinson
+Louis Vervaeke
 Louis Vuitton
 Louis de funes
 Louis van Gaal
@@ -20347,6 +20384,7 @@ LouisGarrel
 LouisLaforgejournaliste
 LouisTalpe
 LouisTomlinson
+LouisVervaeke
 LouisVuitton
 Louisdefunes
 Louise Camuto
@@ -20656,6 +20694,7 @@ MAIGRET
 MAIKE BOERDAM
 MAIRE DE REZÉ
 MAISON DE RETRAITE
+MAISON HORREUR
 MAISON M
 MAITE KELLY
 MAIWENN
@@ -21675,6 +21714,7 @@ MULTIPLE SCLEROSE
 MULTIVERSUS
 MUNCH
 MUNICH
+MUNICH FILM
 MUNIRA MIRZA
 MUR DE BRETAGNE
 MURAT YAKIN
@@ -21801,8 +21841,10 @@ Maire de Rezé
 MairedeRezé
 Maison M
 Maison de retraite
+Maison horreur
 MaisonM
 Maisonderetraite
+Maisonhorreur
 Maite Kelly
 MaiteKelly
 Maiwenn
@@ -23580,6 +23622,8 @@ Multiple sclerose
 Multiplesclerose
 Munch
 Munich
+Munich film
+Munichfilm
 Munira Mirza
 MuniraMirza
 Mur de Bretagne
@@ -29472,6 +29516,7 @@ SASAKALAJDZIC
 SASEK
 SASHA OBAMA
 SASHA ZHOYA
+SASKATCHEWAN
 SASSUOLO
 SASSUOLO – JUVENTUS
 SATAN 2
@@ -30687,6 +30732,7 @@ Sasha Obama
 Sasha Zhoya
 SashaObama
 SashaZhoya
+Saskatchewan
 Sassuolo
 Sassuolo – Juventus
 Sassuolo–Juventus
@@ -32040,6 +32086,7 @@ TAGESSCHAU SRF
 TAGHeuer
 TAHA BOUHAFS
 TAHAR RAHIM
+TAI EMERY
 TAIWAN
 TAJON BUCHANAN
 TAKEN
@@ -32574,6 +32621,7 @@ TROYES – MONACO
 TROYES – NANTES
 TROYES – NICE
 TROYES – PARIS-SG
+TROYES – RENNES
 TRUMP
 TRUSOVA
 TRUTH SOCIAL
@@ -32666,6 +32714,8 @@ Taha Bouhafs
 TahaBouhafs
 Tahar Rahim
 TaharRahim
+Tai Emery
+TaiEmery
 Taiwan
 Tajon Buchanan
 TajonBuchanan
@@ -33556,6 +33606,7 @@ Troyes – Marseille
 Troyes – Monaco
 Troyes – Nantes
 Troyes – Nice
+Troyes – Rennes
 Troyes – paris-sg
 Troyes – parissg
 Troyes–Angers
@@ -33565,6 +33616,7 @@ Troyes–Marseille
 Troyes–Monaco
 Troyes–Nantes
 Troyes–Nice
+Troyes–Rennes
 Troyes–paris-sg
 Trump
 Trusova
@@ -33684,7 +33736,9 @@ UBS-AKTIE
 UBS-Aktie
 UBSAktie
 UCB
+UDINESE  ROMA
 UDINESE – CHELSEA
+UDINESE – ROMA
 UDO LINDENBERG
 UEFA
 UEFA 2020
@@ -33871,8 +33925,12 @@ UUR
 UWE BOHM
 UWE SEELER
 Uber
+Udinese  Roma
 Udinese – Chelsea
+Udinese – Roma
+UdineseRoma
 Udinese–Chelsea
+Udinese–Roma
 Udo Lindenberg
 UdoLindenberg
 Uefa Champions League
@@ -34307,6 +34365,7 @@ VOLLMOND
 VOLLMOND 2022
 VOLLMOND 2022 JUNI
 VOLLMOND AUGUST 2021
+VOLLMOND SEPTEMBER
 VOLODYMYR ZELENSKY
 VOLOTEA
 VOLS ANNULÉS BRUSSELS AIRLINES
@@ -34708,8 +34767,10 @@ Viva for Life
 VivaForLife
 VivaforLife
 Vive Le velo
+Vive le Velo
 Vive le velo
 ViveLevelo
+ViveleVelo
 Vivelevelo
 Vives Kortrijk
 VivesKortrijk
@@ -34766,9 +34827,11 @@ Vollmond
 Vollmond 2022
 Vollmond 2022 Juni
 Vollmond August 2021
+Vollmond September
 Vollmond2022
 Vollmond2022Juni
 VollmondAugust2021
+VollmondSeptember
 Volodymyr Zelensky
 VolodymyrZelensky
 Volotea
@@ -36216,6 +36279,7 @@ airpods (pro
 airpods pro
 ajaccio – lens
 ajaccio – lille
+ajaccio – lorient
 ajax
 ajax  barendrecht
 ajax  groningen
@@ -37532,6 +37596,7 @@ blanche-neige
 blanka vlasic
 blanquer
 blaualgen
+bleniotal
 blessure de bruyne
 blessure eden hazard
 blessuredebruyne
@@ -37775,6 +37840,7 @@ bridget jones
 brigadier broccoli
 bright brussels
 brighton – chelsea
+brighton – leicester
 brighton – liverpool
 brighton – man city
 brighton – manchester united
@@ -38195,6 +38261,7 @@ channing tatum
 chanson de l'année 2022
 chant du gros
 chant du gros 2022
+chantal
 chantal gallia
 chantal goya
 chantal ladesou
@@ -38208,6 +38275,7 @@ charlene monaco
 charleroi  antwerp
 charleroi  club brugge
 charleroi  genk
+charleroi  gent
 charleroi sc – anderlecht
 charleroi sc – genk
 charleroi sc – union saint-gilloise
@@ -38492,6 +38560,7 @@ clermont – paris-sg
 clermont – saint-étienne
 clermont – strasbourg
 clermont – toulon
+clermont – toulouse
 clermont,  psg
 clermont-strasbourg
 clesse
@@ -39904,6 +39973,7 @@ f1 monza
 f1 monza 2021
 f1 news
 f1 nieuws
+f1 pays-bas
 f1 qatar
 f1 qualifying
 f1 saudi arabia
@@ -40390,6 +40460,7 @@ francofolies
 francois alu
 francois braun
 francois cluzet
+francois durpaire
 francois fillon
 francois hollande
 francois verove
@@ -40979,6 +41050,7 @@ gunna
 gunther levi
 gurtenfestival
 gurtenfestival 2022
+gustavo arnal
 gustavo petro
 gute zeiten, schlechte zeiten
 gutes neues jahr 2022
@@ -42144,6 +42216,7 @@ julien cohen
 julien denormandie
 julien dore
 julien doré
+julien duranville
 julien odoul
 julien tanti
 juliendore
@@ -42654,6 +42727,7 @@ la-liga
 laaksonen
 laax
 lab9
+labor day
 labradoodle
 lac de chalain
 lac de montbel
@@ -43213,6 +43287,7 @@ lola dewaere
 lola dubini
 lombardije
 lomepal
+lommel sk
 london
 london marathon 2021
 longo borghini
@@ -43294,6 +43369,7 @@ louis laforge journaliste
 louis talpe
 louis tomlinson
 louis van gaal
+louis vervaeke
 louis vuitton
 louise camuto
 louisiana
@@ -43497,6 +43573,7 @@ maigret
 maike boerdam
 maire de rezé
 maison de retraite
+maison horreur
 maison m
 maite kelly
 maiwenn
@@ -44505,6 +44582,7 @@ multiple sclerose
 multiversus
 munch
 munich
+munich film
 munira mirza
 mur de bretagne
 murat yakin
@@ -46783,6 +46861,7 @@ sasakalajdzic
 sasek
 sasha obama
 sasha zhoya
+saskatchewan
 sassuolo
 sassuolo – juventus
 satan 2
@@ -47626,6 +47705,7 @@ tagesschau
 tagesschau srf
 taha bouhafs
 tahar rahim
+tai emery
 taiwan
 tajon buchanan
 taken
@@ -48148,6 +48228,7 @@ troyes – monaco
 troyes – nantes
 troyes – nice
 troyes – paris-sg
+troyes – rennes
 trump
 trusova
 truth social
@@ -48223,7 +48304,9 @@ ubs
 ubs aktie
 ubs-aktie
 ucb
+udinese  roma
 udinese – chelsea
+udinese – roma
 udo lindenberg
 uefa
 uefa 2020
@@ -48609,6 +48692,7 @@ vollmond
 vollmond 2022
 vollmond 2022 juni
 vollmond august 2021
+vollmond september
 volodymyr zelensky
 volotea
 vols annulés brussels airlines
