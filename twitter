@@ -12593,6 +12593,7 @@ CHAMPIONS CUP
 CHAMPIONS LEAGUE
 CHAMPIONS OLYMPIQUES
 CHAMPIONSCUP
+CHAMPIONSGOBEYOND
 CHAMPIONSHIP
 CHAMPIONSLEAGUE
 CHAMPIONSLEAGUEFINAL
@@ -14860,6 +14861,7 @@ Champions Cup
 Champions League
 Champions Olympiques
 ChampionsCup
+ChampionsGoBeyond
 ChampionsLeague
 ChampionsLeagueFinal
 ChampionsOlympiques
@@ -22902,6 +22904,7 @@ FCNLOSC
 FCNMHSC
 FCNOGCN
 FCNOL
+FCNOLY
 FCNOLYMPIAKOS
 FCNOM
 FCNOlympiakos
@@ -23351,6 +23354,7 @@ FIVIO
 FIXONMINGITODAY
 FIZIEV
 FIÈRE
+FKCZASM
 FLAGEY
 FLAGGE
 FLAHAUT
@@ -46902,6 +46906,7 @@ MUNLIV
 MUNMCI
 MUNNEW
 MUNNOR
+MUNRSO
 MUNSOU
 MUNST
 MUNSTER
@@ -71579,6 +71584,7 @@ UNIS
 UNISPOURLUKRAINE
 UNITALIEN
 UNITED IN GRIEF
+UNITED KINGDOM
 UNITED NATIONS
 UNITEDNATIONS
 UNITY
@@ -71981,8 +71987,10 @@ Unirex
 Unis
 UnisPourlUkraine
 United In Grief
+United Kingdom
 United Nations
 UnitedInGrief
+UnitedKingdom
 UnitedNations
 Unity
 UniversDansUnTitre
@@ -83982,6 +83990,7 @@ champions cup
 champions league
 champions olympiques
 championscup
+championsgobeyond
 championship
 championsleague
 championsleaguefinal
@@ -89094,6 +89103,7 @@ fcnlosc
 fcnmhsc
 fcnogcn
 fcnol
+fcnoly
 fcnolympiakos
 fcnom
 fcnpsg
@@ -89514,6 +89524,7 @@ fivio
 fixonmingitoday
 fiziev
 fière
+fkczasm
 flagey
 flagge
 flahaut
@@ -102847,6 +102858,7 @@ munliv
 munmci
 munnew
 munnor
+munrso
 munsou
 munst
 munster
@@ -114407,6 +114419,7 @@ unis
 unispourlukraine
 unitalien
 united in grief
+united kingdom
 united nations
 unitednations
 unity
