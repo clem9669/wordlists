@@ -936,6 +936,7 @@ ANGERS – BORDEAUX
 ANGERS – BREST
 ANGERS – LENS
 ANGERS – LYON
+ANGERS – MONTPELLIER
 ANGERS – NICE
 ANGERS – PARIS-SG
 ANGERS – RENNES
@@ -2376,6 +2377,7 @@ Angers – Bordeaux
 Angers – Brest
 Angers – Lens
 Angers – Lyon
+Angers – Montpellier
 Angers – Nice
 Angers – Rennes
 Angers – paris-sg
@@ -2387,6 +2389,7 @@ Angers–Bordeaux
 Angers–Brest
 Angers–Lens
 Angers–Lyon
+Angers–Montpellier
 Angers–Nice
 Angers–Rennes
 Angers–paris-sg
@@ -3268,6 +3271,7 @@ BALLON D'OR 2021
 BALLON D'OR 2021 GEWINNER
 BALLON D'OR 2022
 BALLOTAGE
+BALMORAL
 BALOCCO
 BALOISE BELGIUM TOUR
 BALOISE LADIES TOUR
@@ -4197,6 +4201,7 @@ Ballond'Or2021Gewinner
 Ballond'Or2022
 Ballond'or2021
 Ballotage
+Balmoral
 Balocco
 Baloise Belgium Tour
 Baloise Ladies Tour
@@ -5675,6 +5680,7 @@ CARLOS TAVARES
 CARLOSREUTEMANN
 CARMELO ANTHONY
 CARMEN MOLA
+CAROL ARNAULD
 CAROLE BOUQUET
 CAROLE DELGA
 CAROLINE CAYEUX
@@ -5781,6 +5787,7 @@ CENTRALE NUCLÉAIRE UKRAINE
 CENTRALE SUPELEC
 CENTRE DE VACCINATION
 CERCLE  ANDERLECHT
+CERCLE  ANTWERP
 CERCLE  CLUB BRUGGE
 CERCLE  ZULTE-WAREGEM
 CERCLE BRUGES – ANDERLECHT
@@ -6247,6 +6254,8 @@ COMOMEER
 COMORES
 COMPARIS
 COMPIÈGNE
+COMPLEMENT D'ENQUETE
+COMPLEMENT D'ENQUETE INFLUENCEUR
 COMPLIMENT
 CONAN O'BRIEN
 CONANO'BRIEN
@@ -6312,6 +6321,7 @@ COREE DU NORD
 COREFestival
 CORENTIN MOUTET
 CORGI
+CORGIS
 CORINNA KOPF
 CORINNE SUTER
 CORONA
@@ -6697,6 +6707,8 @@ Carmelo Anthony
 CarmeloAnthony
 Carmen Mola
 CarmenMola
+Carol Arnauld
+CarolArnauld
 Carole Bouquet
 Carole Delga
 CaroleBouquet
@@ -6866,12 +6878,14 @@ Centre de vaccination
 Centredevaccination
 CequePaulinenevousditpas
 Cercle  Anderlecht
+Cercle  Antwerp
 Cercle  Club Brugge
 Cercle  zulte-waregem
 Cercle  zultewaregem
 Cercle Bruges – Anderlecht
 Cercle Brugge
 CercleAnderlecht
+CercleAntwerp
 CercleBruges–Anderlecht
 CercleBrugge
 CercleClubBrugge
@@ -7679,6 +7693,10 @@ Comomeer
 Comores
 Comparis
 Compiègne
+Complement d'enquete
+Complement d'enquete influenceur
+Complementd'enquete
+Complementd'enqueteinfluenceur
 Compliment
 Conan O'Brien
 ConanO'Brien
@@ -7782,6 +7800,7 @@ CoreeduNord
 Corentin Moutet
 CorentinMoutet
 Corgi
+Corgis
 Corinna Kopf
 CorinnaKopf
 Corinne Suter
@@ -10069,6 +10088,7 @@ ETHANMBAPPe
 ETHANMBAPPé
 ETHEREUM
 ETHEREUM KURS
+ETHEREUM MERGE
 ETHIAS CROSS ESSEN
 ETHIOPIE
 ETHYLEENOXIDE
@@ -10793,7 +10813,9 @@ EthanMbappe
 EthanMbappé
 Ethereum
 Ethereum Kurs
+Ethereum Merge
 EthereumKurs
+EthereumMerge
 Ethias Cross Essen
 EthiasCrossEssen
 Ethiopie
@@ -14413,6 +14435,7 @@ HOUELLEBECQ
 HOUFFALIZE
 HOUSE OF GUCCI
 HOUSE OF THE DRAGON
+HOUSE OF THE DRAGON EPISODE 4
 HOUTPELLETS
 HOW I MET YOUR FATHER
 HPI
@@ -14866,8 +14889,10 @@ Houellebecq
 Houffalize
 House of Gucci
 House of the Dragon
+House of the Dragon episode 4
 HouseofGucci
 HouseoftheDragon
+HouseoftheDragonepisode4
 Houtpellets
 How I Met Your Father
 HowIMetYourFather
@@ -15108,6 +15133,7 @@ IOS 15.2
 IOS 15.3
 IOS 15.4
 IOS 15.5
+IOS 16
 IOS 16 BETA
 IPAD BLACK FRIDAY
 IPCC
@@ -15876,6 +15902,7 @@ JAN SMIT
 JAN ULLRICH
 JAN VAN HECKE
 JANA INA
+JANCOVICI
 JANE BIRKIN
 JANE FONDA
 JANE FONDA CANCERS
@@ -16350,6 +16377,7 @@ JUVENTUS
 JUVENTUS  BOLOGNA
 JUVENTUS  CHELSEA
 JUVENTUS  NAPOLI
+JUVENTUS  SALERNITANA
 JUVENTUS  SASSUOLO
 JUVENTUS  SPEZIA
 JUVENTUS GEGEN LAZIO
@@ -16537,6 +16565,7 @@ JanUllrich
 JanVanHecke
 Jana Ina
 JanaIna
+Jancovici
 JandeLichte
 Jane Birkin
 Jane Fonda
@@ -17412,6 +17441,7 @@ Juventus
 Juventus  Bologna
 Juventus  Chelsea
 Juventus  Napoli
+Juventus  Salernitana
 Juventus  Sassuolo
 Juventus  Spezia
 Juventus Stadium
@@ -17433,6 +17463,7 @@ Juventus – zenit
 JuventusBologna
 JuventusChelsea
 JuventusNapoli
+JuventusSalernitana
 JuventusSassuolo
 JuventusSpezia
 JuventusStadium
@@ -18370,6 +18401,7 @@ L equipe
 L'ABSENTE
 L'AMI QUI N'EXISTE PAS
 L'AMOUR C'EST MIEUX QUE LA VIE
+L'AMOUR EST DANS LE PRÉ
 L'AMOUR EST DANS LE PRÉ LES PORTRAITS
 L'ANNÉE DU REQUIN
 L'ARMÉE DES OMBRES
@@ -18395,8 +18427,10 @@ L'UN DANS L'AUTRE
 L'ami qui n'existe pas
 L'amiquin'existepas
 L'amour c'est mieux que la vie
+L'amour est dans le pré
 L'amour est dans le pré les portraits
 L'amourc'estmieuxquelavie
+L'amourestdanslepré
 L'amourestdansleprélesportraits
 L'année du requin
 L'annéedurequin
@@ -18569,6 +18603,7 @@ LAST CHRISTMAS
 LAST NIGHT IN SOHO
 LATA MANGESHKAR
 LAUBERHORNRENNEN 2022
+LAURA DE WECK
 LAURA LAUNE
 LAURA MULLER
 LAURA MuLLER
@@ -19561,11 +19596,13 @@ Laura Muller
 Laura Müller
 Laura Müller Schwanger
 Laura Pausini
+Laura de Weck
 LauraLaune
 LauraMuller
 LauraMüller
 LauraMüllerSchwanger
 LauraPausini
+LauradeWeck
 Laure Adler
 Laure Calamy
 LaureAdler
@@ -21097,6 +21134,7 @@ MARCO PANTANI
 MARCO RIMA
 MARCO ROSSI
 MARCO VERRATTI
+MARCO WÖLFLI
 MARCOROSSI
 MARCUS THURAM
 MARCUSTHURAM
@@ -22404,6 +22442,7 @@ Marco Pantani
 Marco Rima
 Marco Rossi
 Marco Verratti
+Marco Wölfli
 MarcoBellocchio
 MarcoBorradori
 MarcoBorsato
@@ -22412,6 +22451,7 @@ MarcoPantani
 MarcoRima
 MarcoRossi
 MarcoVerratti
+MarcoWölfli
 Marcus Thuram
 MarcusThuram
 Mardi Gras
@@ -24026,6 +24066,7 @@ NATALIE RICKLI
 NATALIE WOOD
 NATASHA BASSETT
 NATASHA ST-PIER
+NATE DIAZ
 NATHALIE ANDREANI
 NATHALIE ARTHAUD
 NATHALIE BAYE
@@ -24547,6 +24588,8 @@ Natasha St-Pier
 Natasha StPier
 NatashaBassett
 NatashaSt-Pier
+Nate Diaz
+NateDiaz
 Nathalie Andreani
 Nathalie Arthaud
 Nathalie Baye
@@ -25415,6 +25458,7 @@ OUDEA CASTERA
 OUDEJAARSAVOND
 OUDERSCHAPSVERLOF
 OUDSBERGEN
+OUMI
 OURA RING
 OURAGAN FRANCE
 OUSMANE DEMBELE
@@ -25820,6 +25864,7 @@ Oudeacastera
 Oudejaarsavond
 Ouderschapsverlof
 Oudsbergen
+Oumi
 Oura Ring
 OuraRing
 Ouragan France
@@ -26620,12 +26665,14 @@ PSGgegenRealMadrid
 PSG–BayernMunich
 PSG–Quevilly-RouenMétropole
 PSV
+PSV  RKC
 PSV EINDHOVEN – MONACO
 PSV Eindhoven – Monaco
 PSV GALATASARAY
 PSV Galatasaray
 PSVEindhoven–Monaco
 PSVGalatasaray
+PSVRKC
 PSYCHIATRIEZENTRUM MÜNSINGEN
 PTB
 PUBLIBIKE
@@ -28204,6 +28251,7 @@ RENNES TOTTENHAM
 RENNES – AJACCIO
 RENNES – ANGERS
 RENNES – ASTON VILLA
+RENNES – AUXERRE
 RENNES – BORDEAUX
 RENNES – BREST
 RENNES – CLERMONT
@@ -28285,6 +28333,7 @@ RHODES
 RHODOS
 RIAD SATTOUF
 RIADH BAHRI
+RIBERY
 RICARDA DEMARMELS
 RICARDO BOFILL
 RICHARD ANCONINA
@@ -28997,6 +29046,7 @@ Rennes Tottenham
 Rennes – Ajaccio
 Rennes – Angers
 Rennes – Aston Villa
+Rennes – Auxerre
 Rennes – Bordeaux
 Rennes – Brest
 Rennes – Clermont
@@ -29027,6 +29077,7 @@ RennesTottenham
 Rennes–Ajaccio
 Rennes–Angers
 Rennes–AstonVilla
+Rennes–Auxerre
 Rennes–Bordeaux
 Rennes–Brest
 Rennes–Clermont
@@ -29122,6 +29173,7 @@ Riad Sattouf
 RiadSattouf
 Riadh Bahri
 RiadhBahri
+Ribery
 Ricarda Demarmels
 RicardaDemarmels
 Ricardo Bofill
@@ -29926,6 +29978,7 @@ SCOTT HALL
 SCOTT MILLER
 SCOTT PARKER
 SCrew
+SEA SHEPHERD
 SEAL
 SEAL TEAM
 SEAN CONNERY
@@ -30539,6 +30592,7 @@ SUCCESSION
 SUDAN
 SUDDEUTSCHE
 SUDOKU
+SUEDE
 SUEDE  SLOVAQUIE
 SUEDE - SLOVAQUIE
 SUEDE POLOGNE
@@ -31190,6 +31244,8 @@ Scott Parker
 ScottHall
 ScottMiller
 ScottParker
+Sea Shepherd
+SeaShepherd
 Seal
 Seal Team
 SealTeam
@@ -32142,6 +32198,7 @@ Succession
 Sudan
 Suddeutsche
 Sudoku
+Suede
 Suede  Slovaquie
 Suede - Slovaquie
 Suede Pologne
@@ -32446,6 +32503,7 @@ TATJANA MARIA
 TATORT DORTMUND
 TATORT GIER UND ANGST
 TATORT HEUTE
+TATORT ZÜRICH
 TATORT: MASKEN
 TATYANA FRANCK
 TAUBIRA
@@ -32815,6 +32873,7 @@ TOTTENHAM – NEWCASTLE
 TOTTENHAM – SOUTHAMPTON
 TOTTENHAM – WOLVES
 TOTTENHAM-RENNES
+TOTTI
 TOTY FIFA 22
 TOTYFIFA22
 TOULOUSE
@@ -33100,11 +33159,13 @@ Tatjana Maria
 TatjanaMaria
 Tatort Dortmund
 Tatort Gier und Angst
+Tatort Zürich
 Tatort heute
 Tatort: Masken
 Tatort:Masken
 TatortDortmund
 TatortGierundAngst
+TatortZürich
 Tatortheute
 Tatyana Franck
 TatyanaFranck
@@ -33732,6 +33793,7 @@ Tottenham–ManchesterUnited
 Tottenham–Newcastle
 Tottenham–Southampton
 Tottenham–Wolves
+Totti
 Toulouse
 Toulouse  La Rochelle
 Toulouse - La Rochelle
@@ -34199,6 +34261,7 @@ UNIHOCKEY
 UNION
 UNION  ANDERLECHT
 UNION  CLUB BRUGGE
+UNION  GENK
 UNION BERLIN
 UNION BERLIN GEGEN BAYERN
 UNION SAINT-GILLOISE
@@ -34222,6 +34285,7 @@ UNWETTERWARNUNG
 URBANUS
 URBI ET ORBI
 URS BAUMANN
+URS FISCHER
 URS KRYENBÜHL
 URS WIETLISBACH
 URSINA LARDI
@@ -34385,6 +34449,7 @@ Unihockey
 Union
 Union  Anderlecht
 Union  Club Brugge
+Union  Genk
 Union Berlin
 Union Berlin gegen Bayern
 Union Saint-Gilloise
@@ -34401,6 +34466,7 @@ UnionAnderlecht
 UnionBerlin
 UnionBerlingegenBayern
 UnionClubBrugge
+UnionGenk
 UnionSaint-Gilloise
 UnionSaint-Gilloise–Anderlecht
 UnionSaint-Gilloise–Rangers
@@ -34429,9 +34495,11 @@ Urbanus
 Urbi et Orbi
 UrbietOrbi
 Urs Baumann
+Urs Fischer
 Urs Kryenbühl
 Urs Wietlisbach
 UrsBaumann
+UrsFischer
 UrsKryenbühl
 UrsWietlisbach
 Ursina Lardi
@@ -36009,6 +36077,7 @@ YOU SAISON 3
 YOUNG BO
 YOUNG BOYS
 YOUNG BOYS GEGEN LIEPĀJA
+YOUNG BOYS GEGEN LUGANO
 YOUNG BOYS – ANDERLECHT
 YOUNG DOLPH
 YOUNOUSSE SANKHARÉ
@@ -36092,11 +36161,13 @@ YouTube Joueur du Grenier
 YouTubeJoueurduGrenier
 Young Bo
 Young Boys
+Young Boys gegen Lugano
 Young Boys gegen liepāja
 Young Boys – Anderlecht
 Young Dolph
 YoungBo
 YoungBoys
+YoungBoysgegenLugano
 YoungBoysgegenliepāja
 YoungBoys–Anderlecht
 YoungDolph
@@ -37019,6 +37090,7 @@ angers – bordeaux
 angers – brest
 angers – lens
 angers – lyon
+angers – montpellier
 angers – nice
 angers – paris-sg
 angers – rennes
@@ -37552,6 +37624,7 @@ ballon d'or 2021
 ballon d'or 2021 gewinner
 ballon d'or 2022
 ballotage
+balmoral
 balocco
 baloise belgium tour
 baloise ladies tour
@@ -38507,6 +38580,7 @@ carlos tavares
 carlosreutemann
 carmelo anthony
 carmen mola
+carol arnauld
 carole bouquet
 carole delga
 caroline cayeux
@@ -38613,6 +38687,7 @@ centrale nucléaire ukraine
 centrale supelec
 centre de vaccination
 cercle  anderlecht
+cercle  antwerp
 cercle  club brugge
 cercle  zulte-waregem
 cercle bruges – anderlecht
@@ -39072,6 +39147,8 @@ comomeer
 comores
 comparis
 compiègne
+complement d'enquete
+complement d'enquete influenceur
 compliment
 conan o'brien
 conano'brien
@@ -39133,6 +39210,7 @@ core festival
 coree du nord
 corentin moutet
 corgi
+corgis
 corinna kopf
 corinne suter
 corona
@@ -40258,6 +40336,7 @@ ethanmbappe
 ethanmbappé
 ethereum
 ethereum kurs
+ethereum merge
 ethias cross essen
 ethiopie
 ethyleenoxide
@@ -41778,6 +41857,7 @@ houellebecq
 houffalize
 house of gucci
 house of the dragon
+house of the dragon episode 4
 houtpellets
 how i met your father
 hpi
@@ -41824,6 +41904,7 @@ iOS 15.2
 iOS 15.3
 iOS 15.4
 iOS 15.5
+iOS 16
 iOS 16 beta
 iOS14.8
 iOS15
@@ -41832,6 +41913,7 @@ iOS15.2
 iOS15.3
 iOS15.4
 iOS15.5
+iOS16
 iOS16beta
 iPad Black Friday
 iPadBlackFriday
@@ -42027,6 +42109,7 @@ ios 15.2
 ios 15.3
 ios 15.4
 ios 15.5
+ios 16
 ios 16 beta
 ipad black friday
 ipcc
@@ -42278,6 +42361,7 @@ jan smit
 jan ullrich
 jan van hecke
 jana ina
+jancovici
 jane birkin
 jane fonda
 jane fonda cancers
@@ -42735,6 +42819,7 @@ juventus
 juventus  bologna
 juventus  chelsea
 juventus  napoli
+juventus  salernitana
 juventus  sassuolo
 juventus  spezia
 juventus gegen lazio
@@ -43100,6 +43185,7 @@ l'Equipe
 l'absente
 l'ami qui n'existe pas
 l'amour c'est mieux que la vie
+l'amour est dans le pré
 l'amour est dans le pré les portraits
 l'année du requin
 l'armée des ombres
@@ -43259,6 +43345,7 @@ last christmas
 last night in soho
 lata mangeshkar
 lauberhornrennen 2022
+laura de weck
 laura laune
 laura muller
 laura müller
@@ -44236,6 +44323,7 @@ marco pantani
 marco rima
 marco rossi
 marco verratti
+marco wölfli
 marcorossi
 marcus thuram
 marcusthuram
@@ -45182,6 +45270,7 @@ natalie rickli
 natalie wood
 natasha bassett
 natasha st-pier
+nate diaz
 nathalie andreani
 nathalie arthaud
 nathalie baye
@@ -45784,6 +45873,7 @@ oudea castera
 oudejaarsavond
 ouderschapsverlof
 oudsbergen
+oumi
 oura ring
 ouragan france
 ousmane dembele
@@ -46493,6 +46583,7 @@ psg-monaco
 psg-om
 psg-strasbourg
 psv
+psv  rkc
 psv eindhoven – monaco
 psv galatasaray
 psychiatriezentrum münsingen
@@ -46796,6 +46887,7 @@ rennes tottenham
 rennes – ajaccio
 rennes – angers
 rennes – aston villa
+rennes – auxerre
 rennes – bordeaux
 rennes – brest
 rennes – clermont
@@ -46869,6 +46961,7 @@ rhodes
 rhodos
 riad sattouf
 riadh bahri
+ribery
 ricarda demarmels
 ricardo bofill
 richard anconina
@@ -47462,6 +47555,7 @@ score election 2022
 scott hall
 scott miller
 scott parker
+sea shepherd
 seal
 seal team
 sean connery
@@ -48041,6 +48135,7 @@ succession
 sudan
 suddeutsche
 sudoku
+suede
 suede  slovaquie
 suede - slovaquie
 suede pologne
@@ -48246,6 +48341,7 @@ tatjana maria
 tatort dortmund
 tatort gier und angst
 tatort heute
+tatort zürich
 tatort: masken
 tatyana franck
 taubira
@@ -48607,6 +48703,7 @@ tottenham – newcastle
 tottenham – southampton
 tottenham – wolves
 tottenham-rennes
+totti
 toty fifa 22
 toulouse
 toulouse - la rochelle
@@ -48912,6 +49009,7 @@ unihockey
 union
 union  anderlecht
 union  club brugge
+union  genk
 union berlin
 union berlin gegen bayern
 union saint-gilloise
@@ -48933,6 +49031,7 @@ unwetterwarnung
 urbanus
 urbi et orbi
 urs baumann
+urs fischer
 urs kryenbühl
 urs wietlisbach
 ursina lardi
@@ -49561,6 +49660,7 @@ you saison 3
 young bo
 young boys
 young boys gegen liepāja
+young boys gegen lugano
 young boys – anderlecht
 young dolph
 younousse sankharé
