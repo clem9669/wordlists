@@ -144,6 +144,7 @@
 1722
 17octobre1961
 18
+1899
 1917
 1ER AOUT
 1ER AOUT 2021
@@ -556,6 +557,7 @@ AGNES PANNIER-RUNACHER
 AGNES TIROP
 AGORIA
 AGRESSION HOMOPHOBE
+AGRESSION LYCÉE MALHERBE CAEN
 AGROPARISTECH
 AGUERO
 AHMAUD ARBERY
@@ -678,6 +680,7 @@ ALEXANDRE BENALLA
 ALEXANDRE JANKEWITZ
 ALEXANDRE JARDIN
 ALEXANDRE JOLLIEN
+ALEXANDRE KOMINEK
 ALEXANDRE LEAUTE
 ALEXANDRE MARTIN
 ALEXANDRE TEXIER
@@ -1713,7 +1716,9 @@ AgnesPannier-Runacher
 AgnesTirop
 Agoria
 Agression homophobe
+Agression lycée Malherbe Caen
 Agressionhomophobe
+AgressionlycéeMalherbeCaen
 AgroParisTech
 Aguero
 Aha
@@ -1940,6 +1945,7 @@ Alexandre Benalla
 Alexandre Jankewitz
 Alexandre Jardin
 Alexandre Jollien
+Alexandre Kominek
 Alexandre Martin
 Alexandre Texier
 Alexandre Varga
@@ -1949,6 +1955,7 @@ AlexandreBenalla
 AlexandreJankewitz
 AlexandreJardin
 AlexandreJollien
+AlexandreKominek
 AlexandreMartin
 AlexandreTexier
 AlexandreVarga
@@ -3402,6 +3409,7 @@ BAYERN
 BAYERN  AJAX
 BAYERN BARCA
 BAYERN BARCELONA
+BAYERN GEGEN BARCELONA
 BAYERN GEGEN BOCHUM
 BAYERN GEGEN DORTMUND
 BAYERN GEGEN DYNAMO KIEW
@@ -3420,6 +3428,7 @@ BAYERN MUNCHEN
 BAYERN MUNICH
 BAYERN MUNICH – PSG
 BAYERN MÜNCHEN
+BAYERN – BARCELONA
 BAYERN – BENFICA
 BAYERN – COLOGNE
 BAYERN – DYNAMO KYIV
@@ -4044,6 +4053,7 @@ BRUCE TOUSSAINT
 BRUCE WILLIS
 BRUGES LEIPZIG
 BRUGGE MAN CITY
+BRUGGE VOETBAL
 BRUINVIS
 BRUNEI
 BRUNO 12 COUPS DE MIDI
@@ -4421,6 +4431,7 @@ Bayern Munich
 Bayern Munich – PSG
 Bayern München
 Bayern barca
+Bayern gegen Barcelona
 Bayern gegen Bochum
 Bayern gegen Dortmund
 Bayern gegen Dynamo Kiew
@@ -4436,6 +4447,7 @@ Bayern gegen Union Berlin
 Bayern gegen VfB Stuttgart
 Bayern gegen Wolfsburg
 Bayern munchen
+Bayern – Barcelona
 Bayern – Benfica
 Bayern – Cologne
 Bayern – Dynamo kyiv
@@ -4453,6 +4465,7 @@ BayernMunich
 BayernMunich–PSG
 BayernMünchen
 Bayernbarca
+BayerngegenBarcelona
 BayerngegenBochum
 BayerngegenDortmund
 BayerngegenDynamoKiew
@@ -4468,6 +4481,7 @@ BayerngegenUnionBerlin
 BayerngegenVfBStuttgart
 BayerngegenWolfsburg
 Bayernmunchen
+Bayern–Barcelona
 Bayern–Benfica
 Bayern–Cologne
 Bayern–Dynamokyiv
@@ -5425,7 +5439,9 @@ BruceWillis
 Bruges Leipzig
 BrugesLeipzig
 Brugge Man City
+Brugge voetbal
 BruggeManCity
+Bruggevoetbal
 Bruinvis
 Brunei
 Bruno 12 coups de midi
@@ -8234,6 +8250,7 @@ DANYBOON
 DAPHNE WELLENS
 DARIO COLOGNA
 DARIUS ROCHEBIN
+DARK PATTERNS
 DARK STORE
 DARKLANDS
 DARKO CHURLINOV
@@ -8868,7 +8885,9 @@ Dario Cologna
 DarioCologna
 Darius Rochebin
 DariusRochebin
+Dark Patterns
 Dark store
+DarkPatterns
 Darklands
 Darko Churlinov
 Darko Lazovic
@@ -11385,6 +11404,7 @@ FERRAN JUTGLA
 FERRAN TORRES
 FERRARI F1 2022
 FERRARI F40
+FERRARI PUROSANGUE
 FERRARI ROMA
 FERRERO
 FESTIVAL DE CANNES 2022
@@ -12036,9 +12056,11 @@ FerranJutgla
 FerranTorres
 Ferrari F1 2022
 Ferrari F40
+Ferrari Purosangue
 Ferrari Roma
 FerrariF12022
 FerrariF40
+FerrariPurosangue
 FerrariRoma
 Ferrero
 Festival Venoge
@@ -12911,6 +12933,7 @@ GALETTE FRANGIPANE RECETTE
 GALGADOT
 GALTIER
 GAMBAROGNO
+GAMBE
 GAME AWARDS
 GAME AWARDS 2021
 GAMEIRO
@@ -13040,6 +13063,7 @@ GERD MULLER
 GERD MÜLLER
 GERDA TARO
 GERDATARO
+GEREMY CREDEVILLE
 GERHARD RICHTER
 GERHARD SCHRÖDER
 GERMANY'S NEXT TOPMODEL 2022
@@ -13279,6 +13303,7 @@ GREVE 27 JANVIER 2022
 GREVE 31 MAI
 GREVE 8 MARS 2022
 GREVE AEROPORT
+GREVE CONTROLEUR AERIEN
 GREVE DES FEMMES 2022
 GREVE ENSEIGNEMENT
 GREVE JEUDI
@@ -13448,6 +13473,7 @@ Galettedesrois
 Galettefrangipanerecette
 Galtier
 Gambarogno
+Gambe
 Game Awards
 Game Awards 2021
 GameAwards
@@ -13531,7 +13557,9 @@ GeminiMan
 General Electric
 GeneralElectric
 Generation Z
+Generation z
 GenerationZ
+Generationz
 Genesis
 GeneveRolleGeneve
 Geneviève Darrieussecq
@@ -13680,6 +13708,8 @@ GerdMüller
 Gerda Taro
 GerdaTaro
 Gerdmuller
+Geremy Credeville
+GeremyCredeville
 Gerhard Richter
 Gerhard Schröder
 GerhardRichter
@@ -14027,6 +14057,7 @@ Greve 8 mars 2022
 Greve RATP
 Greve SNCF
 Greve aeroport
+Greve controleur aerien
 Greve des femmes 2022
 Greve enseignement
 Greve jeudi
@@ -14039,6 +14070,7 @@ Greve8mars2022
 GreveRATP
 GreveSNCF
 Greveaeroport
+Grevecontroleuraerien
 Grevedesfemmes2022
 Greveenseignement
 Grevejeudi
@@ -15098,6 +15130,7 @@ INFERNO
 INFINITI
 INFLATION
 INFLATION SCHWEIZ
+INFLATION USA
 INFO
 INFO BELGIQUE
 INFO TRAFIC
@@ -15194,6 +15227,7 @@ IRAN
 IREEN SHEER
 IREEN WUST
 IRENE CADURISCH
+IRENE PAPAS
 IRENE SCHOUTEN
 IRINA BELLER
 IRINA SHAYK
@@ -15502,7 +15536,9 @@ Inferno
 Infiniti
 Inflation
 Inflation Schweiz
+Inflation usa
 InflationSchweiz
+Inflationusa
 Info
 Info Belgique
 Info Ukraine
@@ -15627,8 +15663,10 @@ Ireen wust
 IreenSheer
 Ireenwust
 Irene Cadurisch
+Irene Papas
 Irene Schouten
 IreneCadurisch
+IrenePapas
 IreneSchouten
 Irina Beller
 Irina Shayk
@@ -15848,7 +15886,10 @@ IvrysurSeine
 Iwein Segers
 IweinSegers
 J'ACCUSE
+J'IRAI AU BOUT DE MES RÊVES
 J'accuse
+J'irai au bout de mes rêves
+J'iraiauboutdemesrêves
 J.K. ROWLING
 J.K. Rowling
 J.K.Rowling
@@ -18737,6 +18778,7 @@ LE MANS 2022
 LE MANS 66
 LE MARMITON BRUXELLES
 LE MEILLEUR PATISSIER
+LE MEPRIS
 LE MONDE
 LE MONDE NE SUFFIT PAS
 LE MYSTÈRE KENDRICK
@@ -18934,7 +18976,9 @@ LEUZIGEN
 LEVANTE – ATLÉTICO MADRID
 LEVANTE – REAL
 LEVERKUSEN
+LEVERKUSEN GEGEN ATLÉTICO MADRID
 LEVERKUSEN GEGEN BAYERN
+LEVERKUSEN – ATLÉTICO MADRID
 LEVERKUSEN – BAYERN
 LEVI
 LEWANDOWSKI
@@ -19086,6 +19130,7 @@ LIVERPOOL GEGEN LEICESTER
 LIVERPOOL GEGEN MAN CITY
 LIVERPOOL GEGEN NEWCASTLE
 LIVERPOOL VILLARREAL
+LIVERPOOL – AJAX
 LIVERPOOL – ARSENAL
 LIVERPOOL – ASTON VILLA
 LIVERPOOL – ATLÉTICO MADRID
@@ -19779,6 +19824,7 @@ Le gendre de ma vie
 Le jardin des Finzi-Contini
 Le jardin des FinziContini
 Le jour le plus long
+Le mepris
 Le monde
 Le parisien
 Le phoceen
@@ -19915,6 +19961,7 @@ LejardindesFinzi-Contini
 Lejourlepluslong
 Leki
 Lemberg
+Lemepris
 Lemonde
 Lena Dürr
 Lena Gercke
@@ -20158,9 +20205,13 @@ Levante – Real
 Levante–AtléticoMadrid
 Levante–Real
 Leverkusen
+Leverkusen gegen Atlético Madrid
 Leverkusen gegen Bayern
+Leverkusen – Atlético Madrid
 Leverkusen – Bayern
+LeverkusengegenAtléticoMadrid
 LeverkusengegenBayern
+Leverkusen–AtléticoMadrid
 Leverkusen–Bayern
 Levi
 Levoyageur
@@ -20415,6 +20466,7 @@ Liverpool Villarreal
 Liverpool gegen Leicester
 Liverpool gegen Man City
 Liverpool gegen Newcastle
+Liverpool – Ajax
 Liverpool – Arsenal
 Liverpool – Aston Villa
 Liverpool – Atlético Madrid
@@ -20437,6 +20489,7 @@ LiverpoolVillarreal
 LiverpoolgegenLeicester
 LiverpoolgegenManCity
 LiverpoolgegenNewcastle
+Liverpool–Ajax
 Liverpool–Arsenal
 Liverpool–AstonVilla
 Liverpool–AtléticoMadrid
@@ -21078,6 +21131,7 @@ MANCHESTER UNITED – WATFORD
 MANCHESTER UNITED – WEST HAM
 MANCHESTER UNITED – WOLVES
 MANCITY GEGEN ATLÉTICO MADRID
+MANCITY GEGEN DORTMUND
 MANCITY GEGEN LIVERPOOL
 MANCITY – BRIGHTON
 MANCITY – MANCHESTER UNITED
@@ -21306,6 +21360,7 @@ MARQUEE
 MARSCH FÜRS LEBEN
 MARSEILLE
 MARSEILLE FEYENOORD
+MARSEILLE GEGEN EINTRACHT FRANKFURT
 MARSEILLE SAINT-ETIENNE
 MARSEILLE VS PSG
 MARSEILLE – ANGERS
@@ -21715,6 +21770,7 @@ MICHEL SARDOU
 MICHEL SARDOU MÉLENCHON
 MICHEL SARRAN
 MICHEL VAN DOUSSELAERE
+MICHEL VERSCHUEREN
 MICHELE CUVELIER
 MICHELE GEORGE
 MICHELE LAROQUE
@@ -21837,6 +21893,7 @@ MIREILLE DARC ALAIN DELON
 MIREILLE DUMAS
 MIREILLE KNOLL
 MIREILLE MATHIEU
+MIRJANA ZUBER
 MIS-C
 MISC
 MISS BELGIQUE 2022
@@ -22239,6 +22296,7 @@ Man utd  Manchester City
 ManBun
 ManCity
 ManCity gegen Atlético Madrid
+ManCity gegen Dortmund
 ManCity gegen Liverpool
 ManCity – Brighton
 ManCity – Manchester United
@@ -22246,6 +22304,7 @@ ManCitygegenArsenal!
 ManCitygegenAtléticoMadrid
 ManCitygegenBrentford
 ManCitygegenBurnley
+ManCitygegenDortmund
 ManCitygegenLeicester
 ManCitygegenLiverpool
 ManCitygegenPSG
@@ -22733,6 +22792,7 @@ Marseille
 Marseille Feyenoord
 Marseille Saint-Etienne
 Marseille SaintEtienne
+Marseille gegen Eintracht Frankfurt
 Marseille vs PSG
 Marseille – Angers
 Marseille – Brest
@@ -22758,6 +22818,7 @@ Marseille – Strasbourg
 Marseille – Troyes
 MarseilleFeyenoord
 MarseilleSaint-Etienne
+MarseillegegenEintrachtFrankfurt
 MarseillevsPSG
 Marseille–Angers
 Marseille–Brest
@@ -23423,6 +23484,7 @@ Michel Sardou
 Michel Sardou Mélenchon
 Michel Sarran
 Michel Van Dousselaere
+Michel Verschueren
 MichelAebischer
 MichelBarnier
 MichelBerger
@@ -23447,6 +23509,7 @@ MichelSardou
 MichelSardouMélenchon
 MichelSarran
 MichelVanDousselaere
+MichelVerschueren
 Michele Cuvelier
 Michele George
 Michele Laroque
@@ -23656,6 +23719,8 @@ MireilleDarcAlainDelon
 MireilleDumas
 MireilleKnoll
 MireilleMathieu
+Mirjana Zuber
+MirjanaZuber
 Miss Belgique 2022
 Miss België 2022
 Miss Corse 2022
@@ -26479,12 +26544,14 @@ PORT DU MASQUE
 PORT-D'ENVAUX
 PORTE-PAROLE SAPEURS-POMPIERS
 PORTO
+PORTO  CLUB BRUGGE
 PORTO  LYON
 PORTO  PORTIMONENSE
 PORTO - MILAN
 PORTO - SPORTING
 PORTO BENFICA
 PORTO – ATLÉTICO MADRID
+PORTO – FC BRUGES
 PORTO – MILAN
 PORTO – MONACO
 PORTUGAL
@@ -27628,6 +27695,7 @@ Porte-parole sapeurs-pompiers
 Porte-parolesapeurs-pompiers
 Porteparole sapeurspompiers
 Porto
+Porto  Club Brugge
 Porto  Lyon
 Porto  Milan
 Porto  Portimonense
@@ -27636,14 +27704,17 @@ Porto - Milan
 Porto - Sporting
 Porto Benfica
 Porto – Atlético Madrid
+Porto – FC Bruges
 Porto – Milan
 Porto – Monaco
 Porto-Milan
 Porto-Sporting
 PortoBenfica
+PortoClubBrugge
 PortoLyon
 PortoPortimonense
 Porto–AtléticoMadrid
+Porto–FCBruges
 Porto–Milan
 Porto–Monaco
 Portugal
@@ -28236,6 +28307,7 @@ REAL – MAJORQUE
 REAL – MILAN
 REAL – OSASUNA
 REAL – RAYO
+REAL – RB LEIPZIG
 REAL – REAL SOCIEDAD
 REAL – SÉVILLE
 REAL – VALENCE
@@ -28946,6 +29018,7 @@ Real – Levante
 Real – Majorque
 Real – Milan
 Real – Osasuna
+Real – RB Leipzig
 Real – Rayo
 Real – Real Sociedad
 Real – Séville
@@ -28983,6 +29056,7 @@ Real–Levante
 Real–Majorque
 Real–Milan
 Real–Osasuna
+Real–RBLeipzig
 Real–Rayo
 Real–RealSociedad
 Real–Séville
@@ -30425,6 +30499,7 @@ SPORTING
 SPORTING  BOAVISTA
 SPORTING CHARLEROI
 SPORTING – MAN CITY
+SPORTING – TOTTENHAM
 SPORTPALEIS
 SPORTS
 SPORTS AWARDS 2021
@@ -31907,9 +31982,11 @@ Sporting
 Sporting  Boavista
 Sporting Charleroi
 Sporting – Man City
+Sporting – Tottenham
 SportingBoavista
 SportingCharleroi
 Sporting–ManCity
+Sporting–Tottenham
 Sportpaleis
 Sports
 Sports Awards 2021
@@ -34752,6 +34829,7 @@ VIGNETTE CRIT'AIR
 VIKINGS : VALHALLA
 VIKINGS: VALHALLA
 VIKTOR VERHULST
+VIKTORIA PLZEŇ  INTER
 VILLA CAPRICE
 VILLARREAL
 VILLARREAL GEGEN JUVENTUS
@@ -35148,6 +35226,8 @@ Vikings: Valhalla
 Vikings:Valhalla
 Viktor Verhulst
 ViktorVerhulst
+Viktoria Plzeň  Inter
+ViktoriaPlzeňInter
 Villa Caprice
 VillaCaprice
 Villarreal
@@ -35474,6 +35554,7 @@ WESTERLO
 WESTERLO – ANDERLECHT
 WESTERLO – CERCLE BRUGES
 WESTERLO – STANDARD
+WESTMINSTER HALL
 WESTWORLD
 WETTEN, DASS
 WETTER
@@ -35814,6 +35895,8 @@ Westerlo – Standard
 Westerlo–Anderlecht
 Westerlo–Cerclebruges
 Westerlo–Standard
+Westminster Hall
+WestminsterHall
 Westworld
 Wetten, dass
 Wetten,dass
@@ -36302,6 +36385,7 @@ ZEITUMSTELLUNG 2021
 ZEITUMSTELLUNG 2022
 ZEITUMSTELLUNG OKTOBER 2021
 ZEKI AMDOUNI
+ZELDA: TEARS OF THE KINGDOM
 ZELENSKY
 ZELFTEST CORONA KOPEN
 ZEMMOUR
@@ -36444,6 +36528,8 @@ Zeitumstellung2022
 ZeitumstellungOktober2021
 Zeki Amdouni
 ZekiAmdouni
+Zelda: Tears of the Kingdom
+Zelda:TearsoftheKingdom
 Zelensky
 Zelftest corona kopen
 Zelftestcoronakopen
@@ -36779,6 +36865,7 @@ agnes pannier-runacher
 agnes tirop
 agoria
 agression homophobe
+agression lycée malherbe caen
 agroparistech
 aguero
 ahmaud arbery
@@ -36903,6 +36990,7 @@ alexandre benalla
 alexandre jankewitz
 alexandre jardin
 alexandre jollien
+alexandre kominek
 alexandre leaute
 alexandre martin
 alexandre texier
@@ -37813,6 +37901,7 @@ bayern
 bayern  ajax
 bayern barca
 bayern barcelona
+bayern gegen barcelona
 bayern gegen bochum
 bayern gegen dortmund
 bayern gegen dynamo kiew
@@ -37831,6 +37920,7 @@ bayern munchen
 bayern munich
 bayern munich – psg
 bayern münchen
+bayern – barcelona
 bayern – benfica
 bayern – cologne
 bayern – dynamo kyiv
@@ -38427,6 +38517,7 @@ bruce toussaint
 bruce willis
 bruges leipzig
 brugge man city
+brugge voetbal
 bruinvis
 brunei
 bruno 12 coups de midi
@@ -39561,6 +39652,7 @@ danyboon
 daphne wellens
 dario cologna
 darius rochebin
+dark patterns
 dark store
 darklands
 darko churlinov
@@ -40728,6 +40820,7 @@ ferran jutgla
 ferran torres
 ferrari f1 2022
 ferrari f40
+ferrari purosangue
 ferrari roma
 ferrero
 festival de cannes 2022
@@ -41230,6 +41323,7 @@ galette frangipane recette
 galgadot
 galtier
 gambarogno
+gambe
 game awards
 game awards 2021
 gameiro
@@ -41357,6 +41451,7 @@ gerd muller
 gerd müller
 gerda taro
 gerdataro
+geremy credeville
 gerhard richter
 gerhard schröder
 germany's next topmodel 2022
@@ -41574,6 +41669,7 @@ greve 27 janvier 2022
 greve 31 mai
 greve 8 mars 2022
 greve aeroport
+greve controleur aerien
 greve des femmes 2022
 greve enseignement
 greve jeudi
@@ -42116,6 +42212,7 @@ inferno
 infiniti
 inflation
 inflation schweiz
+inflation usa
 info
 info belgique
 info trafic
@@ -42210,6 +42307,7 @@ iran
 ireen sheer
 ireen wust
 irene cadurisch
+irene papas
 irene schouten
 irina beller
 irina shayk
@@ -42352,6 +42450,7 @@ ivry-sur-seine
 iwein segers
 izy
 j'accuse
+j'irai au bout de mes rêves
 j.k. rowling
 ja morant
 jacinda ardern
@@ -43517,6 +43616,7 @@ le mans 2022
 le mans 66
 le marmiton bruxelles
 le meilleur patissier
+le mepris
 le monde
 le monde ne suffit pas
 le mystère kendrick
@@ -43711,7 +43811,9 @@ leuzigen
 levante – atlético madrid
 levante – real
 leverkusen
+leverkusen gegen atlético madrid
 leverkusen gegen bayern
+leverkusen – atlético madrid
 leverkusen – bayern
 levi
 lewandowski
@@ -43860,6 +43962,7 @@ liverpool gegen leicester
 liverpool gegen man city
 liverpool gegen newcastle
 liverpool villarreal
+liverpool – ajax
 liverpool – arsenal
 liverpool – aston villa
 liverpool – atlético madrid
@@ -44305,6 +44408,7 @@ manchester united – watford
 manchester united – west ham
 manchester united – wolves
 mancity gegen atlético madrid
+mancity gegen dortmund
 mancity gegen liverpool
 mancity – brighton
 mancity – manchester united
@@ -44533,6 +44637,7 @@ marquee
 marsch fürs leben
 marseille
 marseille feyenoord
+marseille gegen eintracht frankfurt
 marseille saint-etienne
 marseille vs psg
 marseille – angers
@@ -44939,6 +45044,7 @@ michel sardou
 michel sardou mélenchon
 michel sarran
 michel van dousselaere
+michel verschueren
 michele cuvelier
 michele george
 michele laroque
@@ -45055,6 +45161,7 @@ mireille darc alain delon
 mireille dumas
 mireille knoll
 mireille mathieu
+mirjana zuber
 mis-c
 miss belgique 2022
 miss belgië 2022
@@ -46490,12 +46597,14 @@ port du masque
 port-d'envaux
 porte-parole sapeurs-pompiers
 porto
+porto  club brugge
 porto  lyon
 porto  portimonense
 porto - milan
 porto - sporting
 porto benfica
 porto – atlético madrid
+porto – fc bruges
 porto – milan
 porto – monaco
 portugal
@@ -46899,6 +47008,7 @@ real – majorque
 real – milan
 real – osasuna
 real – rayo
+real – rb leipzig
 real – real sociedad
 real – séville
 real – valence
@@ -48014,6 +48124,7 @@ sporting
 sporting  boavista
 sporting charleroi
 sporting – man city
+sporting – tottenham
 sportpaleis
 sports
 sports awards 2021
@@ -49307,6 +49418,7 @@ vignette crit'air
 vikings : valhalla
 vikings: valhalla
 viktor verhulst
+viktoria plzeň  inter
 villa caprice
 villarreal
 villarreal gegen juventus
@@ -49539,6 +49651,7 @@ westerlo
 westerlo – anderlecht
 westerlo – cercle bruges
 westerlo – standard
+westminster hall
 westworld
 wetten, dass
 wetter
@@ -49800,6 +49913,7 @@ zeitumstellung 2021
 zeitumstellung 2022
 zeitumstellung oktober 2021
 zeki amdouni
+zelda: tears of the kingdom
 zelensky
 zelftest corona kopen
 zemmour
