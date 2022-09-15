@@ -26724,6 +26724,7 @@ GNTPAOK
 GNTPAR
 GNTRCZ
 GNTRFS
+GNTROV
 GNTSER
 GNTSTA
 GNTSTV
@@ -58481,6 +58482,7 @@ QATAR2022
 QATARAIRWAYS
 QATARGP
 QATARIS
+QFKFCN
 QFKOM
 QOTMII
 QPAT
@@ -62960,6 +62962,7 @@ SHAMAN KING
 SHAMANKING
 SHAMAR NICHOLSON
 SHAME
+SHAMROCK ROVERS
 SHAMS
 SHANA TOVA
 SHANATOVA
@@ -66106,6 +66109,8 @@ ShamanKing
 Shamar Nicholson
 ShamarNicholson
 Shame
+Shamrock Rovers
+ShamrockRovers
 Shams
 Shana Tova
 ShanaTova
@@ -92024,6 +92029,7 @@ gntpaok
 gntpar
 gntrcz
 gntrfs
+gntrov
 gntser
 gntsta
 gntstv
@@ -108031,6 +108037,7 @@ qatar2022
 qatarairways
 qatargp
 qataris
+qfkfcn
 qfkom
 qotmii
 qpat
@@ -111001,6 +111008,7 @@ shamanking
 shamar nicholson
 shamarnicholson
 shame
+shamrock rovers
 shams
 shana tova
 shanatova
@@ -118316,8 +118324,10 @@ zürich
 Équateur
 Équipe 1
 Équipe 2
+Équipe de France
 Équipe1
 Équipe2
+ÉquipedeFrance
 Éric
 Éric Antoine
 Éric Garcia
