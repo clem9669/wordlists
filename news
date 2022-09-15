@@ -834,6 +834,7 @@ AMEL BENT MARI
 AMELIE DE BOURBON
 AMELIE DE MONTCHALIN
 AMENRA
+AMERICA'S GOT TALENT
 AMERICAN ASSASSIN
 AMERICAN SNIPER
 AMERICAN STAFF
@@ -1050,6 +1051,7 @@ ANTHONY KAVANAGH
 ANTHONY MARTIAL
 ANTHONY MOUNIER
 ANTHONY NTI
+ANTHONY PASSERON
 ANTI COVID
 ANTIGEN-SCHNELLTEST
 ANTIKÖRPER-TEST CORONA
@@ -2201,6 +2203,8 @@ Amelie de Montchalin
 AmeliedeBourbon
 AmeliedeMontchalin
 Amenra
+America's Got Talent
+America'sGotTalent
 American Assassin
 American Sniper
 American Staff
@@ -2588,6 +2592,7 @@ Anthony Kavanagh
 Anthony Martial
 Anthony Mounier
 Anthony Nti
+Anthony Passeron
 AnthonyBarajas
 AnthonyDelon
 AnthonyJoshua
@@ -2595,6 +2600,7 @@ AnthonyKavanagh
 AnthonyMartial
 AnthonyMounier
 AnthonyNti
+AnthonyPasseron
 Anti Covid
 AntiCovid
 Antigen-Schnelltest
@@ -5954,6 +5960,7 @@ CHELSEA
 CHELSEA  LEEDS
 CHELSEA GEGEN ASTON VILLA
 CHELSEA GEGEN LIVERPOOL
+CHELSEA GEGEN RB SALZBURG
 CHELSEA GEGEN REAL MADRID
 CHELSEA GEGEN VILLARREAL
 CHELSEA LILLE
@@ -5972,6 +5979,7 @@ CHELSEA – MANCHESTER UNITED
 CHELSEA – NEWCASTLE
 CHELSEA – NORWICH CITY
 CHELSEA – PLYMOUTH ARGYLE
+CHELSEA – RB SALZBURG
 CHELSEA – REAL
 CHELSEA – SOUTHAMPTON
 CHELSEA – TOTTENHAM
@@ -7150,6 +7158,7 @@ Chelsea  Leeds
 Chelsea Lille
 Chelsea gegen Aston Villa
 Chelsea gegen Liverpool
+Chelsea gegen RB Salzburg
 Chelsea gegen Real Madrid
 Chelsea gegen Villarreal
 Chelsea vs wolves
@@ -7167,6 +7176,7 @@ Chelsea – Manchester United
 Chelsea – Newcastle
 Chelsea – Norwich City
 Chelsea – Plymouth Argyle
+Chelsea – RB Salzburg
 Chelsea – Real
 Chelsea – Southampton
 Chelsea – Tottenham
@@ -7181,6 +7191,7 @@ ChelseaLille
 ChelseaReal Madrid
 ChelseagegenAstonVilla
 ChelseagegenLiverpool
+ChelseagegenRBSalzburg
 ChelseagegenRealMadrid
 ChelseagegenVillarreal
 Chelseavswolves
@@ -7198,6 +7209,7 @@ Chelsea–ManchesterUnited
 Chelsea–Newcastle
 Chelsea–NorwichCity
 Chelsea–PlymouthArgyle
+Chelsea–RBSalzburg
 Chelsea–Real
 Chelsea–Southampton
 Chelsea–Tottenham
@@ -11615,6 +11627,7 @@ FOOTBALL
 FOOTBALL BELGIQUE
 FOOTBALL FÉMININ
 FOOTBALL JEUX OLYMPIQUES DE TOKYO 2020
+FORD MUSTANG 2023
 FORET DE BROCELIANDE
 FORMEL 1
 FORMEL 1 LIVE
@@ -12345,6 +12358,8 @@ FootballBelgique
 FootballJeuxOlympiquesdeTokyo2020
 Footballféminin
 FootfemininEuro
+Ford Mustang 2023
+FordMustang2023
 Foret de broceliande
 Foretdebroceliande
 Formel 1
@@ -13252,6 +13267,7 @@ GRAND ORAL BAC 2021
 GRAND PALAIS ÉPHÉMÈRE
 GRAND PRIX BERN
 GRAND PRIX DE FRANCE
+GRAND PRIX DE WALLONIE 2022
 GRAND PRIX F1
 GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
@@ -13966,6 +13982,7 @@ Grand Prix Pays-Bas
 Grand Prix PaysBas
 Grand Prix Silverstone
 Grand Prix de France
+Grand Prix de Wallonie 2022
 Grand Prix f1
 Grand Raid 2022
 Grand oral Bac 2021
@@ -13982,6 +13999,7 @@ GrandPrixMonaco
 GrandPrixPays-Bas
 GrandPrixSilverstone
 GrandPrixdeFrance
+GrandPrixdeWallonie2022
 GrandPrixf1
 GrandRaid2022
 GrandoralBac2021
@@ -16454,6 +16472,7 @@ JUVE CHELSEA
 JUVE EMPOLI
 JUVE ZENIT
 JUVENTUS
+JUVENTUS  BENFICA
 JUVENTUS  BOLOGNA
 JUVENTUS  CHELSEA
 JUVENTUS  NAPOLI
@@ -16463,6 +16482,7 @@ JUVENTUS  SPEZIA
 JUVENTUS GEGEN LAZIO
 JUVENTUS STADIUM
 JUVENTUS – ATALANTA
+JUVENTUS – BENFICA
 JUVENTUS – BOLOGNE
 JUVENTUS – CAGLIARI
 JUVENTUS – CHELSEA
@@ -17520,6 +17540,7 @@ Juve zenit
 JuveChelsea
 JuveEmpoli
 Juventus
+Juventus  Benfica
 Juventus  Bologna
 Juventus  Chelsea
 Juventus  Napoli
@@ -17529,6 +17550,7 @@ Juventus  Spezia
 Juventus Stadium
 Juventus gegen Lazio
 Juventus – Atalanta
+Juventus – Benfica
 Juventus – Bologne
 Juventus – Cagliari
 Juventus – Chelsea
@@ -17542,6 +17564,7 @@ Juventus – Sampdoria
 Juventus – Sassuolo
 Juventus – Udinese
 Juventus – zenit
+JuventusBenfica
 JuventusBologna
 JuventusChelsea
 JuventusNapoli
@@ -17551,6 +17574,7 @@ JuventusSpezia
 JuventusStadium
 JuventusgegenLazio
 Juventus–Atalanta
+Juventus–Benfica
 Juventus–Bologne
 Juventus–Cagliari
 Juventus–Chelsea
@@ -18469,12 +18493,15 @@ Kyrie Irving
 KyrieIrving
 KÄLIN IRENE
 KÖLN GEGEN BAYERN
+KÖNIG CHARLES III
 KÖNIGIN LETIZIA
 KÖNIGSSEE
 Kälin Irene
 KälinIrene
 Köln gegen Bayern
 KölngegenBayern
+König Charles III
+KönigCharlesIII
 Königin Letizia
 KöniginLetizia
 Königssee
@@ -21076,6 +21103,7 @@ MAN CITY
 MAN CITY GEGEN ARSENAL!
 MAN CITY GEGEN BRENTFORD
 MAN CITY GEGEN BURNLEY
+MAN CITY GEGEN DORTMUND
 MAN CITY GEGEN LEICESTER
 MAN CITY GEGEN PSG
 MAN CITY – ARSENAL
@@ -21085,6 +21113,7 @@ MAN CITY – BRIGHTON
 MAN CITY – BURNLEY
 MAN CITY – CHELSEA
 MAN CITY – CRYSTAL PALACE
+MAN CITY – DORTMUND
 MAN CITY – EVERTON
 MAN CITY – FC BRUGES
 MAN CITY – FULHAM
@@ -21844,6 +21873,7 @@ MILAN  VENEZIA
 MILAN - LIVERPOOL
 MILAN - TORINO
 MILAN AC
+MILAN GEGEN DINAMO
 MILAN INTER
 MILAN NAPOLI
 MILAN SAN REMO 2022
@@ -21851,6 +21881,7 @@ MILAN – ATALANTA
 MILAN – ATLÉTICO MADRID
 MILAN – BOLOGNE
 MILAN – CAGLIARI
+MILAN – DINAMO
 MILAN – FIORENTINA
 MILAN – GENOA
 MILAN – HELLAS VÉRONE
@@ -22263,6 +22294,7 @@ Man City
 Man City gegen Arsenal!
 Man City gegen Brentford
 Man City gegen Burnley
+Man City gegen Dortmund
 Man City gegen Leicester
 Man City gegen PSG
 Man City – Arsenal
@@ -22272,6 +22304,7 @@ Man City – Brighton
 Man City – Burnley
 Man City – Chelsea
 Man City – Crystal Palace
+Man City – Dortmund
 Man City – Everton
 Man City – FC Bruges
 Man City – Fulham
@@ -22315,6 +22348,7 @@ ManCity–Brighton
 ManCity–Burnley
 ManCity–Chelsea
 ManCity–CrystalPalace
+ManCity–Dortmund
 ManCity–Everton
 ManCity–FCBruges
 ManCity–Fulham
@@ -23620,11 +23654,13 @@ Milan - Torino
 Milan AC
 Milan Inter
 Milan Napoli
+Milan gegen Dinamo
 Milan san remo 2022
 Milan – Atalanta
 Milan – Atlético Madrid
 Milan – Bologne
 Milan – Cagliari
+Milan – Dinamo
 Milan – Fiorentina
 Milan – Genoa
 Milan – Hellas Vérone
@@ -23650,11 +23686,13 @@ MilanRoma
 MilanSan Remo
 MilanSan Remo 2022
 MilanVenezia
+MilangegenDinamo
 Milansanremo2022
 Milan–Atalanta
 Milan–AtléticoMadrid
 Milan–Bologne
 Milan–Cagliari
+Milan–Dinamo
 Milan–Fiorentina
 Milan–Genoa
 Milan–HellasVérone
@@ -26176,6 +26214,7 @@ PASSION SIMPLE
 PASSSANITAIRE
 PASTILLE D'IODE
 PAT BURGENER
+PATAGONIA
 PATENT OCHSNER
 PATENTOCHSNER
 PATINAGE ARTISTIQUE
@@ -26629,6 +26668,7 @@ PRIJS DIESEL
 PRIMAIRE POPULAIRE
 PRIME ASSURANCE MALADIE 2022
 PRIME DAY
+PRIME DE RENTREE
 PRIME GAMING
 PRIME VIDEO
 PRIMOŽ ROGLIČ
@@ -27104,6 +27144,7 @@ Pastille d'iode
 Pastilled'iode
 Pat Burgener
 PatBurgener
+Patagonia
 Patent Ochsner
 PatentOchsner
 Patinage artistique
@@ -27844,10 +27885,12 @@ Prime Day
 Prime Gaming
 Prime Video
 Prime assurance maladie 2022
+Prime de rentree
 PrimeDay
 PrimeGaming
 PrimeVideo
 Primeassurancemaladie2022
+Primederentree
 Primož Roglič
 PrimožRoglič
 Primus Classic
@@ -28204,6 +28247,7 @@ RAN NFL
 RANDY SCHNEIDER
 RANGE ROVER
 RANGERS
+RANGERS  NAPOLI
 RANGERS FC
 RANGERS – REAL
 RANGERS – UNION SAINT-GILLOISE
@@ -28283,6 +28327,7 @@ REAL MADRID  JUVENTUS
 REAL MADRID GEGEN CHELSEA
 REAL MADRID GEGEN EINTRACHT FRANKFURT
 REAL MADRID GEGEN PSG
+REAL MADRID GEGEN RB LEIPZIG
 REAL MADRID MATCH
 REAL SOCIEDAD
 REAL SOCIEDAD – ATLÉTICO MADRID
@@ -28913,11 +28958,13 @@ RandySchneider
 Range Rover
 RangeRover
 Rangers
+Rangers  Napoli
 Rangers FC
 Rangers – Real
 Rangers – Union Saint-Gilloise
 Rangers – Union SaintGilloise
 RangersFC
+RangersNapoli
 Rangers–Real
 Rangers–UnionSaint-Gilloise
 Rani De Coninck
@@ -28995,6 +29042,7 @@ Real Madrid  Juventus
 Real Madrid gegen Chelsea
 Real Madrid gegen Eintracht Frankfurt
 Real Madrid gegen PSG
+Real Madrid gegen RB Leipzig
 Real Madrid match
 Real Sociedad
 Real Sociedad – Atlético Madrid
@@ -29032,6 +29080,7 @@ RealMadridJuventus
 RealMadridgegenChelsea
 RealMadridgegenEintrachtFrankfurt
 RealMadridgegenPSG
+RealMadridgegenRBLeipzig
 RealMadridmatch
 RealSociedad
 RealSociedad–AtléticoMadrid
@@ -30203,6 +30252,7 @@ SHAGGY
 SHAKHTAR DONETSK
 SHAKIRA
 SHAMAR NICHOLSON
+SHAMROCK ROVERS
 SHANA TOVA
 SHANE WARNE
 SHANG-CHI
@@ -31526,6 +31576,8 @@ ShakhtarDonetsk
 Shakira
 Shamar Nicholson
 ShamarNicholson
+Shamrock Rovers
+ShamrockRovers
 Shana tova
 Shanatova
 Shane Warne
@@ -32761,6 +32813,7 @@ THE MASKED SINGER
 THE MASKED SINGER SWITZERLAND
 THE MATRIX
 THE MATRIX RESURRECTIONS
+THE MERGE
 THE MONKEES
 THE MULE
 THE NATIONAL
@@ -33452,6 +33505,7 @@ The Masked Singer
 The Masked Singer Switzerland
 The Matrix
 The Matrix Resurrections
+The Merge
 The Monkees
 The Mule
 The National
@@ -33514,6 +33568,7 @@ TheMaskedSinger
 TheMaskedSingerSwitzerland
 TheMatrix
 TheMatrixResurrections
+TheMerge
 TheMonkees
 TheMule
 TheNational
@@ -34351,6 +34406,7 @@ UKRAINE RUSSIE
 UKRAINE RUSSIE GUERRE
 UKRAINE RUSSIE TROISIÈME GUERRE MONDIALE
 UKRAINE-AUTRICHE
+UKRAINE-KRIEG - RUSSLAND
 UKRAINEAUTRICHE
 ULI FORTE
 ULRICH KÖRNER
@@ -34505,9 +34561,12 @@ Ukraine Russie troisième guerre mondiale
 Ukraine foot
 Ukraine konflikt news
 Ukraine-Autriche
+Ukraine-Krieg - Russland
+Ukraine-Krieg-Russland
 UkraineAutriche
 UkraineEU
 UkraineGeschichte
+UkraineKrieg  Russland
 UkraineRussie
 UkraineRussieguerre
 UkraineRussietroisièmeguerremondiale
@@ -37138,6 +37197,7 @@ amel bent mari
 amelie de bourbon
 amelie de montchalin
 amenra
+america's got talent
 american assassin
 american sniper
 american staff
@@ -37354,6 +37414,7 @@ anthony kavanagh
 anthony martial
 anthony mounier
 anthony nti
+anthony passeron
 anti covid
 antigen-schnelltest
 antikörper-test corona
@@ -38980,6 +39041,7 @@ chelsea
 chelsea  leeds
 chelsea gegen aston villa
 chelsea gegen liverpool
+chelsea gegen rb salzburg
 chelsea gegen real madrid
 chelsea gegen villarreal
 chelsea lille
@@ -38998,6 +39060,7 @@ chelsea – manchester united
 chelsea – newcastle
 chelsea – norwich city
 chelsea – plymouth argyle
+chelsea – rb salzburg
 chelsea – real
 chelsea – southampton
 chelsea – tottenham
@@ -41007,6 +41070,7 @@ football
 football belgique
 football féminin
 football jeux olympiques de tokyo 2020
+ford mustang 2023
 foret de broceliande
 formel 1
 formel 1 live
@@ -41618,6 +41682,7 @@ grand oral bac 2021
 grand palais éphémère
 grand prix bern
 grand prix de france
+grand prix de wallonie 2022
 grand prix f1
 grand prix monaco
 grand prix pays-bas
@@ -42996,6 +43061,7 @@ juve chelsea
 juve empoli
 juve zenit
 juventus
+juventus  benfica
 juventus  bologna
 juventus  chelsea
 juventus  napoli
@@ -43005,6 +43071,7 @@ juventus  spezia
 juventus gegen lazio
 juventus stadium
 juventus – atalanta
+juventus – benfica
 juventus – bologne
 juventus – cagliari
 juventus – chelsea
@@ -43358,6 +43425,7 @@ kyrgios
 kyrie irving
 kälin irene
 köln gegen bayern
+könig charles iii
 königin letizia
 königssee
 l equipe
@@ -44353,6 +44421,7 @@ man city
 man city gegen arsenal!
 man city gegen brentford
 man city gegen burnley
+man city gegen dortmund
 man city gegen leicester
 man city gegen psg
 man city – arsenal
@@ -44362,6 +44431,7 @@ man city – brighton
 man city – burnley
 man city – chelsea
 man city – crystal palace
+man city – dortmund
 man city – everton
 man city – fc bruges
 man city – fulham
@@ -45112,6 +45182,7 @@ milan  venezia
 milan - liverpool
 milan - torino
 milan ac
+milan gegen dinamo
 milan inter
 milan napoli
 milan san remo 2022
@@ -45119,6 +45190,7 @@ milan – atalanta
 milan – atlético madrid
 milan – bologne
 milan – cagliari
+milan – dinamo
 milan – fiorentina
 milan – genoa
 milan – hellas vérone
@@ -46239,6 +46311,7 @@ passion simple
 passsanitaire
 pastille d'iode
 pat burgener
+patagonia
 patent ochsner
 patentochsner
 patinage artistique
@@ -46682,6 +46755,7 @@ prijs diesel
 primaire populaire
 prime assurance maladie 2022
 prime day
+prime de rentree
 prime gaming
 prime video
 primož roglič
@@ -46925,6 +46999,7 @@ ran nfl
 randy schneider
 range rover
 rangers
+rangers  napoli
 rangers fc
 rangers – real
 rangers – union saint-gilloise
@@ -46984,6 +47059,7 @@ real madrid  juventus
 real madrid gegen chelsea
 real madrid gegen eintracht frankfurt
 real madrid gegen psg
+real madrid gegen rb leipzig
 real madrid match
 real sociedad
 real sociedad – atlético madrid
@@ -47842,6 +47918,7 @@ shaggy
 shakhtar donetsk
 shakira
 shamar nicholson
+shamrock rovers
 shana tova
 shane warne
 shang-chi
@@ -48652,6 +48729,7 @@ the masked singer
 the masked singer switzerland
 the matrix
 the matrix resurrections
+the merge
 the monkees
 the mule
 the national
@@ -49159,6 +49237,7 @@ ukraine russie
 ukraine russie guerre
 ukraine russie troisième guerre mondiale
 ukraine-autriche
+ukraine-krieg - russland
 ukraineautriche
 uli forte
 ulrich körner
