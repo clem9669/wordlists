@@ -20178,6 +20178,7 @@ EAAP2021
 EACOP
 EADEBATES
 EAGASC
+EAGASSE
 EAGDFCO
 EAGFCSM
 EAGLES
@@ -23018,6 +23019,7 @@ FCGBASM
 FCGBASSE
 FCGBCF63
 FCGBCNFC
+FCGBDFCO
 FCGBEAG
 FCGBESTAC
 FCGBFCL
@@ -25900,6 +25902,7 @@ GACP
 GAEL
 GAEL MONFILS
 GAEL PERDRIAU
+GAELLE
 GAELMONFILS
 GAELPERDRIAU
 GAETAN
@@ -26100,6 +26103,7 @@ GAZPROMBANK
 GAËL
 GAËL MONFILS
 GAËL PERDRIAU
+GAËLLE
 GAËTAN
 GAËTAN PERRIN
 GBBO
@@ -27565,6 +27569,7 @@ Gael
 Gael Monfils
 Gael Perdriau
 GaelMonfils
+Gaelle
 Gaetan
 Gaetan Matis
 Gaetan Perrin
@@ -27776,6 +27781,7 @@ Gaël Monfils
 Gaël Perdriau
 GaëlMonfils
 GaëlPerdriau
+Gaëlle
 Gaëtan
 Gaëtan Perrin
 GaëtanPerrin
@@ -76912,6 +76918,7 @@ YOUTHLEAGUE
 YOUTHSTORIES
 YOUTHTODAY
 YOUTUBE MUSIC
+YOUTUBE PREMIUM
 YOUTUBE VANCED
 YOUTUBER
 YOUTUBEUR
@@ -77121,8 +77128,10 @@ YouMakeStrayKidsStay
 YouNetflix
 YouS3
 YouTube Music
+YouTube Premium
 YouTube Vanced
 YouTubeMusic
+YouTubePremium
 YouTubeVanced
 YouTuber
 YouTubeur
@@ -88275,6 +88284,7 @@ eaap2021
 eacop
 eadebates
 eagasc
+eagasse
 eagdfco
 eagfcsm
 eagles
@@ -89886,6 +89896,7 @@ fcgbasm
 fcgbasse
 fcgbcf63
 fcgbcnfc
+fcgbdfco
 fcgbeag
 fcgbestac
 fcgbfcl
@@ -91325,6 +91336,7 @@ gacp
 gael
 gael monfils
 gael perdriau
+gaelle
 gaelmonfils
 gaelperdriau
 gaetan
@@ -91534,6 +91546,7 @@ gazprombank
 gaël
 gaël monfils
 gaël perdriau
+gaëlle
 gaëlperdriau
 gaëtan
 gaëtan perrin
@@ -117952,6 +117965,7 @@ youthstories
 youthsummit
 youthtoday
 youtube music
+youtube premium
 youtube vanced
 youtuber
 youtubeur
