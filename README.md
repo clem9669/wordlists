@@ -27,7 +27,7 @@
   * [Built with](#built-with)
 * [Usage](#usage)
   * [Cracking contest](#cracking-contest)
-* [Recommanded read](#recommanded-read)
+* [Recommended read](#recommanded-read)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 
@@ -47,16 +47,16 @@ I have already removed `œ,ï,ö,ä,ü,û,ô,î,â,ë` which are difficult to ty
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/clem9669/wordlists?label=Release)](https://github.com/clem9669/wordlists/releases/)
 ![Github Repo size](https://img.shields.io/github/repo-size/clem9669/wordlists?label=Repo%20Size)
 
-Because It might be simpler for you, I already compiled 3 differents versions of wordlists in the [Release](https://github.com/clem9669/wordlists/releases) section of Github
+Because It might be simpler for you, I already compiled 3 different versions of wordlists in the [Release](https://github.com/clem9669/wordlists/releases) section of Github
 
-All details are there about wordlists combinaison.
+All details are there about wordlists combinations.
 
 *Update*: The clem9669_wordlist_large is too big for Github Actions. 
 The current specs for Github Actions VM is 2-core CPU; 7 GB of RAM memory; 14 GB of SSD disk space.
 
 ### Web discovery
 
-In the folder **WEB**, you can found a wordlist for pentesting purpose wich is design to find ressources for french people too. 
+In the folder **WEB**, you can found a wordlist for pentesting purpose which is design to find resources for french people too. 
 
 Read more at [WEB_readme](https://github.com/clem9669/wordlists/blob/master/Web/README.md)
 
@@ -85,7 +85,7 @@ The keyboard walks are generated with [kwprocessor](https://github.com/hashcat/k
 ## Usage
 
 I let the end user use at their will the lists. 
-You could use only certains or all lists depending on your scope.
+You could use only certain or all lists depending on your scope.
 See the release section in github for a uniq version compiled.
 
 ```bash
@@ -104,7 +104,7 @@ This repo and the [rulelists](https://github.com/clem9669/hashcat-rule/) associa
 - Cracking [haveibeenpwned.com](https://haveibeenpwned.com) hashes releases by Troy Hunt 
 - [CrackTheCon contest](https://crackthecon.com/)
 
-## Recommanded read
+## Recommended read
 
 The following projects could interest you:
   - [mxrch/penglab](https://github.com/mxrch/penglab): Abuse of Google Colab for Cracking
