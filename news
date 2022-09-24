@@ -526,6 +526,7 @@ AEK Larnaca – Rennes
 AEKLarnaca–Rennes
 AEROFLOT
 AEROPORT GENEVE
+AEROPORT MONTPELLIER
 AFASIE
 AFC RICHMOND
 AFC Richmond
@@ -778,6 +779,7 @@ ALLEMAGNE ROUMANIE
 ALLEMAGNE – ANGLETERRE
 ALLEMAGNE – ESPAGNE
 ALLEMAGNE – FRANCE
+ALLEMAGNE – HONGRIE
 ALLEMAGNE – ISRAËL
 ALLEMAGNE – ITALIE
 ALLEMAGNE – LIECHTENSTEIN
@@ -1184,6 +1186,7 @@ ARGENTINE – BOLIVIE
 ARGENTINE – BRÉSIL
 ARGENTINE – COLOMBIE
 ARGENTINE – EQUATEUR
+ARGENTINE – HONDURAS
 ARGENTINE – PARAGUAY
 ARGENTINE – PÉROU
 ARGENTINE – URUGUAY
@@ -1697,7 +1700,9 @@ AdventskalenderOnline
 Adventskranz
 Adventszeit
 Aeroflot
+Aeroport Montpellier
 Aeroport geneve
+AeroportMontpellier
 Aeroportgeneve
 Afasie
 Affaire Conclue
@@ -2128,6 +2133,7 @@ Allemagne foot
 Allemagne – Angleterre
 Allemagne – Espagne
 Allemagne – France
+Allemagne – Hongrie
 Allemagne – Israël
 Allemagne – Italie
 Allemagne – Liechtenstein
@@ -2140,6 +2146,7 @@ Allemagnefoot
 Allemagne–Angleterre
 Allemagne–Espagne
 Allemagne–France
+Allemagne–Hongrie
 Allemagne–Israël
 Allemagne–Italie
 Allemagne–Liechtenstein
@@ -2832,6 +2839,7 @@ Argentine – Bolivie
 Argentine – Brésil
 Argentine – Colombie
 Argentine – Equateur
+Argentine – Honduras
 Argentine – Paraguay
 Argentine – Pérou
 Argentine – Uruguay
@@ -2847,6 +2855,7 @@ Argentine–Bolivie
 Argentine–Brésil
 Argentine–Colombie
 Argentine–Equateur
+Argentine–Honduras
 Argentine–Paraguay
 Argentine–Pérou
 Argentine–Uruguay
@@ -3563,6 +3572,7 @@ BEKER VAN BELGIE
 BELARUS
 BELFAST
 BELGIAN CATS
+BELGIAN DARTS OPEN
 BELGIAN PRIDE 2022
 BELGIAN TORNADOS
 BELGIANCATS
@@ -3709,6 +3719,7 @@ BERTARELLI
 BERTRAND BELIN
 BERTRAND CANTAT
 BERTRAND DE LA CHESNAIS
+BERTRAND PICCARD
 BERTRAND RENARD
 BESANCON
 BESIKTAS
@@ -4162,6 +4173,7 @@ BReSIL-EQUATEUR
 BReSIL-PeROU
 BReSILPeROU
 BRÉSIL – CHILI
+BRÉSIL – GHANA
 BRÉSIL – PARAGUAY
 BRÉSIL – URUGUAY
 BRØNDBY – LYON
@@ -4636,9 +4648,11 @@ Bekervanbelgie
 Belarus
 Belfast
 Belgian Cats
+Belgian Darts Open
 Belgian Pride 2022
 Belgian Tornados
 BelgianCats
+BelgianDartsOpen
 BelgianPride2022
 BelgianTornados
 Belgie
@@ -4883,10 +4897,12 @@ BertDeBacker
 Bertarelli
 Bertrand Belin
 Bertrand Cantat
+Bertrand Piccard
 Bertrand Renard
 Bertrand de la Chesnais
 BertrandBelin
 BertrandCantat
+BertrandPiccard
 BertrandRenard
 BertranddelaChesnais
 Besancon
@@ -5577,6 +5593,7 @@ Brésil  Pérou
 Brésil - Pérou
 Brésil – Chili
 Brésil – Equateur
+Brésil – Ghana
 Brésil – Paraguay
 Brésil – Pérou
 Brésil – Uruguay
@@ -5584,6 +5601,7 @@ Brésil-Pérou
 BrésilPérou
 Brésil–Chili
 Brésil–Equateur
+Brésil–Ghana
 Brésil–Paraguay
 Brésil–Pérou
 Brésil–Uruguay
@@ -8472,6 +8490,7 @@ DE IDEALE WERELD
 DE KETELAERE
 DE LIGT
 DE LIJN
+DE MINAUR
 DE MOL
 DE MOL FINALE
 DE MOL PHILIPPE
@@ -8682,6 +8701,7 @@ DISCOURS MACRON
 DISCOVEREU
 DISNEYLAND PARIS
 DISPARITION DE DELPHINE JUBILLAR
+DISPARITION DELPHINE JUBILLAR
 DISPARITION MAYENNE
 DISPARU À JAMAIS
 DISTRICT Z
@@ -9141,6 +9161,7 @@ De Haan
 De Ketelaere
 De Ligt
 De Lijn
+De Minaur
 De Mol
 De Panne
 De Patrick
@@ -9169,6 +9190,7 @@ DeHaan
 DeKetelaere
 DeLigt
 DeLijn
+DeMinaur
 DeMol
 DePanne
 DePatrick
@@ -9505,8 +9527,10 @@ DiscoursMacron
 DiscoverEU
 Disneyland Paris
 DisneylandParis
+Disparition Delphine Jubillar
 Disparition Mayenne
 Disparition de Delphine Jubillar
+DisparitionDelphineJubillar
 DisparitionMayenne
 DisparitiondeDelphineJubillar
 Disparu à jamais
@@ -11401,6 +11425,7 @@ FANNY ARDANT
 FANNY HENSEL
 FANNY LECLUYSE
 FANNY SMITH
+FANSLY
 FANTASIA FESTIVAL
 FARMING SIMULATOR 22
 FARRAH EL-DIBANY
@@ -11622,6 +11647,7 @@ FETE DES LUMIERES LYON
 FETE DES MERES
 FETE DES PERES
 FETE DES VENDANGES
+FETE DES VENDANGES NEUCHATEL
 FETE DES VOISINS
 FETE DU 15 AOUT
 FETE DU CINEMA
@@ -12162,6 +12188,7 @@ FannyArdant
 FannyHensel
 FannyLecluyse
 FannySmith
+Fansly
 Fantasia Festival
 FantasiaFestival
 Farming Simulator 22
@@ -12297,6 +12324,7 @@ Fete des lumieres Lyon
 Fete des meres
 Fete des peres
 Fete des vendanges
+Fete des vendanges neuchatel
 Fete des voisins
 Fete du 15 aout
 Fete du cinema
@@ -12317,6 +12345,7 @@ FetedeslumieresLyon
 Fetedesmeres
 Fetedesperes
 Fetedesvendanges
+Fetedesvendangesneuchatel
 Fetedesvoisins
 Fetedu15aout
 Feteducinema
@@ -15582,6 +15611,7 @@ ITALIE SUISSE
 ITALIE VOETBAL
 ITALIE ZWITSERLAND
 ITALIE – ALLEMAGNE
+ITALIE – ANGLETERRE
 ITALIE – BELGIQUE
 ITALIE – ESPAGNE
 ITALIE – SUISSE
@@ -16069,6 +16099,7 @@ Italie inondations
 Italie macedoine
 Italie voetbal
 Italie – Allemagne
+Italie – Angleterre
 Italie – Belgique
 Italie – Espagne
 Italie – Suisse
@@ -16140,6 +16171,7 @@ ItaliengegenUngarn
 ItalienÖsterreich
 Italievoetbal
 Italie–Allemagne
+Italie–Angleterre
 Italie–Belgique
 Italie–Espagne
 Italie–Suisse
@@ -16542,6 +16574,7 @@ JOHNBERCOW
 JOHNMCAFEE
 JOHNNY DE MOL
 JOHNNY DEPP
+JOHNNY DEPP JOELLE RICH
 JOHNNY DEPP VERDICT
 JOHNNY DEPP/AMBER HEARD
 JOHNNY HALLYDAY
@@ -16737,6 +16770,7 @@ JUSTIN BIEBER
 JUSTIN BIEBER ZÜRICH
 JUSTINBIEBER
 JUSTINE BENIN
+JUSTINE GHEKIERE
 JUSTINE HENIN
 JUSTINE HUYSMAN
 JUSTINE MUSK
@@ -17472,6 +17506,7 @@ JohnTravolta
 JohnWick4
 JohndeMol
 Johnny Depp
+Johnny Depp Joelle Rich
 Johnny Depp verdict
 Johnny Depp/Amber Heard
 Johnny Hallyday
@@ -17480,6 +17515,7 @@ Johnny Logan
 Johnny de Mol
 JohnnyDepp
 JohnnyDepp/AmberHeard
+JohnnyDeppJoelleRich
 JohnnyDeppverdict
 JohnnyHallyday
 JohnnyHallydayLaeticiaHallyday
@@ -17812,10 +17848,12 @@ Justin Bieber Zürich
 JustinBieber
 JustinBieberZürich
 Justine Benin
+Justine Ghekiere
 Justine Henin
 Justine Huysman
 Justine Musk
 JustineBenin
+JustineGhekiere
 JustineHenin
 JustineHuysman
 JustineMusk
@@ -18906,6 +18944,7 @@ LA MORT AUX TROUSSES
 LA MULE
 LA MÉTHODE WILLIAMS
 LA NUIT DES GÉNÉRAUX
+LA NUIT EST BELLE 2022
 LA PALMA
 LA PALMA VULKAN
 LA PASSANTE DU SANS-SOUCI
@@ -19618,6 +19657,7 @@ LOUIS VAN GAAL
 LOUIS VERVAEKE
 LOUIS VUITTON
 LOUISE CAMUTO
+LOUISE FLETCHER
 LOUISIANA
 LOUISIANE
 LOURDES
@@ -19781,6 +19821,7 @@ La Mort aux trousses
 La Mule
 La Méthode Williams
 La Nuit des généraux
+La Nuit est belle 2022
 La Palma
 La Palma Vulkan
 La Passante du Sans-Souci
@@ -19860,6 +19901,7 @@ LaMortauxtrousses
 LaMule
 LaMéthodeWilliams
 LaNuitdesgénéraux
+LaNuitestbelle2022
 LaPalma
 LaPalmaVulkan
 LaPassanteduSans-Souci
@@ -21093,7 +21135,9 @@ LouisVervaeke
 LouisVuitton
 Louisdefunes
 Louise Camuto
+Louise Fletcher
 LouiseCamuto
+LouiseFletcher
 Louisiana
 Louisiane
 LouisvanGaal
@@ -21373,6 +21417,7 @@ MADAM BAKSTER
 MADAME BOVARY
 MADDIE MCCANN
 MADDY BURCIAGA
+MADE IN ASIA
 MADE IN ITALY
 MADEIRA
 MADELEINE ALBRIGHT
@@ -21647,6 +21692,7 @@ MARIE VERHULST
 MARIE-CHARLOTTE GARIN
 MARIE-FRANCINE
 MARIE-GALANTE
+MARIE-LOUISE FORT
 MARIE-SOPHIE LACARRAU
 MARIE-SOPHIELACARRAU
 MARIE-THÉRÈSE BONFANTI DISPARITION
@@ -21726,6 +21772,7 @@ MAROC EGYPTE
 MAROC FOOT
 MAROC GABON
 MAROC – AFRIQUE DU SUD
+MAROC – CHILI
 MAROC – COMORES
 MAROC – MALAWI
 MAROC-MALAWI
@@ -22277,6 +22324,7 @@ MIREILLE DUMAS
 MIREILLE KNOLL
 MIREILLE MATHIEU
 MIRJANA ZUBER
+MIRKA FEDERER
 MIS-C
 MISC
 MISS BELGIQUE 2022
@@ -22539,7 +22587,9 @@ Maddie McCann
 MaddieMcCann
 Maddy Burciaga
 MaddyBurciaga
+Made in Asia
 Made in Italy
+MadeinAsia
 MadeinItaly
 Madeira
 Madeleine Albright
@@ -23029,6 +23079,8 @@ Marie-Charlotte Garin
 Marie-CharlotteGarin
 Marie-Francine
 Marie-Galante
+Marie-Louise Fort
+Marie-LouiseFort
 Marie-Sophie Lacarrau
 Marie-SophieLacarrau
 Marie-Thérèse Bonfanti disparition
@@ -23036,6 +23088,7 @@ Marie-ThérèseBonfantidisparition
 MarieCharlotte Garin
 MarieFrancine
 MarieGalante
+MarieLouise Fort
 MariePatouillet
 MariePortolano
 MarieS'infiltre
@@ -23170,6 +23223,7 @@ Maroc Egypte
 Maroc Gabon
 Maroc foot
 Maroc – Afrique du Sud
+Maroc – Chili
 Maroc – Comores
 Maroc – Malawi
 Maroc-Ghana
@@ -23182,6 +23236,7 @@ MarocGabon
 MarocMalawi
 Marocfoot
 Maroc–AfriqueduSud
+Maroc–Chili
 Maroc–Comores
 Maroc–Malawi
 Marquee
@@ -24136,6 +24191,8 @@ MireilleKnoll
 MireilleMathieu
 Mirjana Zuber
 MirjanaZuber
+Mirka federer
+Mirkafederer
 Miss Belgique 2022
 Miss België 2022
 Miss Corse 2022
@@ -29181,7 +29238,10 @@ ROYAL AIR MAROC
 ROYAL BLOOD
 ROYAL RUMBLE 2022
 ROYAUME-UNI
+RSC ANDERLECHT
+RSC Anderlecht
 RSCA
+RSCAnderlecht
 RT
 RT DEUTSCH
 RT Deutsch
@@ -30953,6 +31013,7 @@ SONY WH-1000XM4
 SOPHIA BUSH
 SOPHIA THIEL
 SOPHIA THOMALLA
+SOPHIA THOMALLA KRANKHEIT
 SOPHIA URISTA
 SOPHIE CROSS
 SOPHIE DAVANT
@@ -31010,6 +31071,7 @@ SPEZIA – JUVENTUS
 SPF ECONOMIE
 SPF Economie
 SPFEconomie
+SPICE GIRLS
 SPIDER-MAN
 SPIDER-MAN : NO WAY HOME
 SPIDER-MAN NO WAY HOME
@@ -32415,10 +32477,12 @@ SonyWH-1000XM4
 Sophia Bush
 Sophia Thiel
 Sophia Thomalla
+Sophia Thomalla Krankheit
 Sophia Urista
 SophiaBush
 SophiaThiel
 SophiaThomalla
+SophiaThomallaKrankheit
 SophiaUrista
 Sophie Cross
 Sophie Davant
@@ -32501,6 +32565,8 @@ Spezia  Lazio
 Spezia – Juventus
 SpeziaLazio
 Spezia–Juventus
+Spice Girls
+SpiceGirls
 Spider-Man
 Spider-Man : No Way Home
 Spider-Man No Way Home
@@ -37452,6 +37518,7 @@ adventszeit
 aek larnaca – rennes
 aeroflot
 aeroport geneve
+aeroport montpellier
 afasie
 afc richmond
 affaire conclue
@@ -37696,6 +37763,7 @@ allemagne roumanie
 allemagne – angleterre
 allemagne – espagne
 allemagne – france
+allemagne – hongrie
 allemagne – israël
 allemagne – italie
 allemagne – liechtenstein
@@ -38099,6 +38167,7 @@ argentine – Equateur
 argentine – bolivie
 argentine – brésil
 argentine – colombie
+argentine – honduras
 argentine – paraguay
 argentine – pérou
 argentine – uruguay
@@ -38621,6 +38690,7 @@ beker van belgie
 belarus
 belfast
 belgian cats
+belgian darts open
 belgian pride 2022
 belgian tornados
 belgiancats
@@ -38767,6 +38837,7 @@ bertarelli
 bertrand belin
 bertrand cantat
 bertrand de la chesnais
+bertrand piccard
 bertrand renard
 besancon
 besiktas
@@ -39193,6 +39264,7 @@ brésil  pérou
 brésil - pérou
 brésil – Equateur
 brésil – chili
+brésil – ghana
 brésil – paraguay
 brésil – pérou
 brésil – uruguay
@@ -40390,6 +40462,7 @@ de ideale wereld
 de ketelaere
 de ligt
 de lijn
+de minaur
 de mol
 de mol finale
 de mol philippe
@@ -40595,6 +40668,7 @@ discours macron
 discovereu
 disneyland paris
 disparition de delphine jubillar
+disparition delphine jubillar
 disparition mayenne
 disparu à jamais
 district z
@@ -41392,6 +41466,7 @@ fanny ardant
 fanny hensel
 fanny lecluyse
 fanny smith
+fansly
 fantasia festival
 farming simulator 22
 farrah el-dibany
@@ -41528,6 +41603,7 @@ fete des lumieres lyon
 fete des meres
 fete des peres
 fete des vendanges
+fete des vendanges neuchatel
 fete des voisins
 fete du 15 aout
 fete du cinema
@@ -43099,6 +43175,7 @@ italie suisse
 italie voetbal
 italie zwitserland
 italie – allemagne
+italie – angleterre
 italie – belgique
 italie – espagne
 italie – suisse
@@ -43526,6 +43603,7 @@ johnbercow
 johnmcafee
 johnny de mol
 johnny depp
+johnny depp joelle rich
 johnny depp verdict
 johnny depp/amber heard
 johnny hallyday
@@ -43709,6 +43787,7 @@ justin bieber
 justin bieber zürich
 justinbieber
 justine benin
+justine ghekiere
 justine henin
 justine huysman
 justine musk
@@ -44154,6 +44233,7 @@ la mort aux trousses
 la mule
 la méthode williams
 la nuit des généraux
+la nuit est belle 2022
 la palma
 la palma vulkan
 la passante du sans-souci
@@ -44854,6 +44934,7 @@ louis van gaal
 louis vervaeke
 louis vuitton
 louise camuto
+louise fletcher
 louisiana
 louisiane
 lourdes
@@ -45028,6 +45109,7 @@ madam bakster
 madame bovary
 maddie mccann
 maddy burciaga
+made in asia
 made in italy
 madeira
 madeleine albright
@@ -45302,6 +45384,7 @@ marie verhulst
 marie-charlotte garin
 marie-francine
 marie-galante
+marie-louise fort
 marie-sophie lacarrau
 marie-sophielacarrau
 marie-thérèse bonfanti disparition
@@ -45381,6 +45464,7 @@ maroc egypte
 maroc foot
 maroc gabon
 maroc – afrique du sud
+maroc – chili
 maroc – comores
 maroc – malawi
 maroc-malawi
@@ -45923,6 +46007,7 @@ mireille dumas
 mireille knoll
 mireille mathieu
 mirjana zuber
+mirka federer
 mis-c
 miss belgique 2022
 miss belgië 2022
@@ -48169,6 +48254,7 @@ royal air maroc
 royal blood
 royal rumble 2022
 royaume-uni
+rsc anderlecht
 rsca
 rt
 rt deutsch
@@ -48861,6 +48947,7 @@ sony wh-1000xm4
 sophia bush
 sophia thiel
 sophia thomalla
+sophia thomalla krankheit
 sophia urista
 sophie cross
 sophie davant
@@ -48914,6 +49001,7 @@ spengler cup 2021
 spezia  lazio
 spezia – juventus
 spf economie
+spice girls
 spider-man
 spider-man : no way home
 spider-man no way home
@@ -50865,6 +50953,7 @@ zürich wetter
 ÉLECTIONS LÉGISLATIVES 2022 DEUXIÈME TOUR
 ÉLECTIONS PRÉSIDENTIELLES 2022 SONDAGE
 ÉLECTIONS PRÉSIDENTIELLES SONDAGES
+ÉLIZABETH MARTICHOUX, SANDRINE ROUSSEAU
 ÉLODIE GOSSUIN
 ÉMILIE DU CHÂTELET
 ÉMMANUEL MACRON
@@ -50895,6 +50984,8 @@ zürich wetter
 Électionslégislatives2022deuxièmetour
 Électionsprésidentielles2022sondage
 Électionsprésidentiellessondages
+Élizabeth Martichoux, Sandrine Rousseau
+ÉlizabethMartichoux,SandrineRousseau
 Élodie Gossuin
 ÉlodieGossuin
 Émilie du Châtelet
@@ -50944,6 +51035,7 @@ zürich wetter
 élections régionales 2021 candidats
 électionsdépartementales2021bretagne
 électionsrégionales2021candidats
+élizabeth martichoux, sandrine rousseau
 élodie gossuin
 émilie du châtelet
 émmanuel macron
