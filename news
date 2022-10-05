@@ -609,6 +609,7 @@ AJAX  BARENDRECHT
 AJAX  GRONINGEN
 AJAX  LEEDS
 AJAX  WILLEM II
+AJAX – NAPLES
 AJAX – RANGERS
 AJLA DEL PONTE
 AKAMAI
@@ -1374,6 +1375,7 @@ ATHENA
 ATHLETISSIMA 2021
 ATHLETISSIMA 2022
 ATHLÉTISME JEUX OLYMPIQUES DE TOKYO 2020
+ATLAS COPCO
 ATLETICO MADRID
 ATLÉTICO MADRID – BARCELONA
 ATLÉTICO MADRID – CELTA VIGO
@@ -1852,11 +1854,13 @@ Ajax  Barendrecht
 Ajax  Groningen
 Ajax  Leeds
 Ajax  Willem II
+Ajax – Naples
 Ajax – Rangers
 AjaxBarendrecht
 AjaxGroningen
 AjaxLeeds
 AjaxWillemII
+Ajax–Naples
 Ajax–Rangers
 Ajla Del Ponte
 AjlaDelPonte
@@ -3150,6 +3154,8 @@ Athletissima2021
 Athletissima2022
 Athlétisme jeux olympiques de Tokyo 2020
 AthlétismejeuxolympiquesdeTokyo2020
+Atlas Copco
+AtlasCopco
 Atletico Madrid
 AtleticoMadrid
 Atlético Madrid – Barcelona
@@ -3394,6 +3400,7 @@ BACHELOR IN PARADISE
 BACHELOR SCHWEIZ
 BACHELORETTE 2021
 BACHELORETTE 2022
+BACHEM
 BACK 4 BLOOD
 BACKSTREET BOYS
 BACNord
@@ -3508,6 +3515,7 @@ BARRAGE COUPE DU MONDE
 BARRAGE COUPE DU MONDE 2022
 BARRAGE EUPEN
 BARRY CALLEBAUT
+BARRY SHARPLESS
 BARRY WHITE
 BART CANNAERTS
 BART DE PAUW
@@ -3721,6 +3729,7 @@ BENFICA – BARCELONA
 BENFICA – BAYERN
 BENFICA – LIVERPOOL
 BENFICA – MIDTJYLLAND
+BENFICA – PARIS-SG
 BENFICA – SPORTING
 BENIN
 BENITO RAMAN
@@ -4225,6 +4234,7 @@ BRUCE SPRINGSTEEN
 BRUCE TOUSSAINT
 BRUCE WILLIS
 BRUGES LEIPZIG
+BRUGGE FC
 BRUGGE MAN CITY
 BRUGGE VOETBAL
 BRUINVIS
@@ -4357,6 +4367,7 @@ Bachelorette 2022
 Bachelorette2021
 Bachelorette2022
 BachelorinParadise
+Bachem
 Back 4 Blood
 Back4Blood
 Backstreet Boys
@@ -4532,8 +4543,10 @@ BarrageCoupedumonde
 BarrageCoupedumonde2022
 BarrageEupen
 Barry Callebaut
+Barry Sharpless
 Barry White
 BarryCallebaut
+BarrySharpless
 BarryWhite
 Bart Cannaerts
 Bart De Pauw
@@ -4871,6 +4884,8 @@ Benfica – Bayern
 Benfica – Liverpool
 Benfica – Midtjylland
 Benfica – Sporting
+Benfica – paris-sg
+Benfica – parissg
 BenficaPorto
 BenficagegenLiverpool
 Benfica–Barcelona
@@ -4878,6 +4893,7 @@ Benfica–Bayern
 Benfica–Liverpool
 Benfica–Midtjylland
 Benfica–Sporting
+Benfica–paris-sg
 Benin
 Benito Raman
 BenitoRaman
@@ -5672,8 +5688,10 @@ BruceToussaint
 BruceWillis
 Bruges Leipzig
 BrugesLeipzig
+Brugge FC
 Brugge Man City
 Brugge voetbal
+BruggeFC
 BruggeManCity
 Bruggevoetbal
 Bruinvis
@@ -6218,6 +6236,7 @@ CHELSEA – LEICESTER
 CHELSEA – LIVERPOOL
 CHELSEA – MALMÖ
 CHELSEA – MANCHESTER UNITED
+CHELSEA – MILAN
 CHELSEA – NEWCASTLE
 CHELSEA – NORWICH CITY
 CHELSEA – PLYMOUTH ARGYLE
@@ -7445,6 +7464,7 @@ Chelsea – Leicester
 Chelsea – Liverpool
 Chelsea – Malmö
 Chelsea – Manchester United
+Chelsea – Milan
 Chelsea – Newcastle
 Chelsea – Norwich City
 Chelsea – Plymouth Argyle
@@ -7478,6 +7498,7 @@ Chelsea–Leicester
 Chelsea–Liverpool
 Chelsea–Malmö
 Chelsea–ManchesterUnited
+Chelsea–Milan
 Chelsea–Newcastle
 Chelsea–NorwichCity
 Chelsea–PlymouthArgyle
@@ -8494,6 +8515,7 @@ DAG VAN DE AMBACHTEN
 DAG VAN DE ARBEID
 DAG VAN DE LANDBOUW
 DAG VAN DE LEERKRACHT
+DAG VAN DE LERAAR
 DAG VAN DE WETENSCHAP
 DAG VAN DE ZORG
 DAG VAN NATIONALE ROUW
@@ -9085,6 +9107,7 @@ Dag van de Ambachten
 Dag van de Arbeid
 Dag van de Landbouw
 Dag van de Leerkracht
+Dag van de Leraar
 Dag van de Wetenschap
 Dag van de leerkracht
 Dag van de zorg
@@ -9096,6 +9119,7 @@ DagvandeAmbachten
 DagvandeArbeid
 DagvandeLandbouw
 DagvandeLeerkracht
+DagvandeLeraar
 DagvandeWetenschap
 Dagvandeleerkracht
 Dagvandezorg
@@ -10244,6 +10268,7 @@ ELIUD KIPCHOGE
 ELIZA FLETCHER
 ELIZABETH 2
 ELIZABETH HOLMES
+ELIZABETH KENNY
 ELKE DECRUYNAERE
 ELKE HEIDENREICH
 ELKE VANHOOF BMX
@@ -10898,8 +10923,10 @@ Eliza Fletcher
 ElizaFletcher
 Elizabeth 2
 Elizabeth Holmes
+Elizabeth Kenny
 Elizabeth2
 ElizabethHolmes
+ElizabethKenny
 Elke Decruynaere
 Elke Heidenreich
 Elke Vanhoof BMX
@@ -11670,6 +11697,7 @@ FC BASEL HEUTE
 FC BAYERN
 FC BREITENRAIN
 FC BRUGES – ANDERLECHT
+FC BRUGES – ATLÉTICO MADRID
 FC BRUGES – LEVERKUSEN
 FC BRUGES – MAN CITY
 FC BRUGES – UNION SAINT-GILLOISE
@@ -11682,6 +11710,7 @@ FC Basel heute
 FC Bayern
 FC Breitenrain
 FC Bruges – Anderlecht
+FC Bruges – Atlético Madrid
 FC Bruges – Leverkusen
 FC Bruges – Man City
 FC Bruges – Union Saint-Gilloise
@@ -11701,6 +11730,8 @@ FC MÜNSINGEN
 FC Münsingen
 FC NANTES
 FC Nantes
+FC PORTO
+FC Porto
 FC SCHAFFHAUSEN
 FC SION
 FC SION GEGEN ST. GALLEN
@@ -11752,6 +11783,7 @@ FCBgegenServette
 FCBgegenSt.Gallen
 FCBreitenrain
 FCBruges–Anderlecht
+FCBruges–AtléticoMadrid
 FCBruges–Leverkusen
 FCBruges–ManCity
 FCBruges–UnionSaint-Gilloise
@@ -11765,6 +11797,7 @@ FCMetz
 FCMünsingen
 FCN
 FCNantes
+FCPorto
 FCSG
 FCSION
 FCSchaffhausen
@@ -12012,6 +12045,7 @@ FLEUVE NOIR
 FLEVOLAND
 FLEXI-JOB
 FLIGHTRADAR24
+FLITSMARATHON
 FLIXTRAIN
 FLOR BRESSERS
 FLORA DUFFY
@@ -12729,6 +12763,7 @@ Flexi-job
 Flexijob
 FlightRadar24
 Flightradar24
+Flitsmarathon
 Flixtrain
 Flor Bressers
 FlorBressers
@@ -13854,6 +13889,7 @@ GUERRE RUSSIE UKRAINE CENTRALE NUCLÉAIRE
 GUERRE RUSSIE UKRAINE KIEV
 GUERRE RUSSIE UKRAINE KIEV DIRECT
 GUERRE UKRAINE
+GUERRE UKRAINE ARMÉE RUSSE
 GUERRE UKRAINE RUSSIE CENTRALE NUCLÉAIRE
 GUERRE UKRAINE RUSSIE KIEV
 GUERRE UKRAINE RUSSIE VLADIMIR POUTINE
@@ -14671,6 +14707,7 @@ Guerre Ukraine Russie centrale nucléaire
 Guerre Ukraine russie Vladimir Poutine
 Guerre en Ukraine russie
 Guerre froide
+Guerre ukraine armée russe
 GuerreRussieUkraineKiev
 GuerreRussieUkraineKievdirect
 GuerreRussieUkrainecentralenucléaire
@@ -14681,6 +14718,7 @@ GuerreUkraineRussiecentralenucléaire
 GuerreUkrainerussieVladimirPoutine
 GuerreenUkrainerussie
 Guerrefroide
+Guerreukrainearméerusse
 Guide Michelin
 Guide Michelin 2022
 GuideMichelin
@@ -15703,6 +15741,7 @@ INDONÉSIE
 INE BEYEN
 INEOS
 INES RAU
+INES REG
 INEZ WESKI
 INFERNO
 INFINITI
@@ -16121,7 +16160,9 @@ Ine Beyen
 IneBeyen
 Ineos
 Ines Rau
+Ines Reg
 InesRau
+InesReg
 Inez Weski
 InezWeski
 Inferno
@@ -16846,6 +16887,7 @@ JOHANNES OERDING
 JOHANNES STROLZ
 JOHANNES VERMEER
 JOHN BERCOW
+JOHN CLAUSER
 JOHN DE MOL
 JOHN EASTERLING
 JOHN HUIBERTS
@@ -17782,6 +17824,7 @@ JohannesStrolz
 JohannesVermeer
 JohanvanderHeyden
 John Bercow
+John Clauser
 John Easterling
 John Huiberts
 John Lennon
@@ -17795,6 +17838,7 @@ John Travolta
 John Wick 4
 John de Mol
 JohnBercow
+JohnClauser
 JohnEasterling
 JohnHuiberts
 JohnLennon
@@ -18230,6 +18274,7 @@ Juventus–Udinese
 Juventus–zenit
 Juvezenit
 JÉRÉMIE MAKIESE
+JÉRÉMY CHATELAIN
 JÉRÔME CAHUZAC
 JÉRÔME SALOMON
 JÖRG KACHELMANN
@@ -18238,6 +18283,8 @@ JÜRGEN DREWS
 JÜRGEN VOGEL
 Jérémie Makiese
 JérémieMakiese
+Jérémy Chatelain
+JérémyChatelain
 Jérôme Cahuzac
 Jérôme Salomon
 JérômeCahuzac
@@ -18435,6 +18482,7 @@ KIM GLOW
 KIM HUYBRECHTS
 KIM JONG UN
 KIM JONG-UN
+KIM JUNG GI
 KIM KARDASHIAN
 KIM KAY
 KIM MESTDAGH
@@ -18898,6 +18946,7 @@ Kim Huybrechts
 Kim Jong Un
 Kim Jong-un
 Kim Jongun
+Kim Jung Gi
 Kim Kardashian
 Kim Kay
 Kim Mestdagh
@@ -18910,6 +18959,7 @@ KimGlow
 KimHuybrechts
 KimJong-un
 KimJongUn
+KimJungGi
 KimKardashian
 KimKay
 KimMestdagh
@@ -19850,6 +19900,7 @@ LIVERPOOL – CRYSTAL PALACE
 LIVERPOOL – LEICESTER
 LIVERPOOL – MAN CITY
 LIVERPOOL – NEWCASTLE
+LIVERPOOL – RANGERS
 LIVERPOOL – SOUTHAMPTON
 LIVERPOOL – STRASBOURG
 LIVERPOOL – TOTTENHAM
@@ -21237,6 +21288,7 @@ Liverpool – Crystal Palace
 Liverpool – Leicester
 Liverpool – Man City
 Liverpool – Newcastle
+Liverpool – Rangers
 Liverpool – Southampton
 Liverpool – Strasbourg
 Liverpool – Tottenham
@@ -21261,6 +21313,7 @@ Liverpool–CrystalPalace
 Liverpool–Leicester
 Liverpool–ManCity
 Liverpool–Newcastle
+Liverpool–Rangers
 Liverpool–Southampton
 Liverpool–Strasbourg
 Liverpool–Tottenham
@@ -24637,9 +24690,12 @@ MissUnivers2022
 MissUniverse2021
 Missile hypersonique
 Missile nord-coréen Japon
+Missile nord-coréen japon
 Missile nordcoréen Japon
+Missile nordcoréen japon
 Missilehypersonique
 Missilenord-coréenJapon
+Missilenord-coréenjapon
 Mission Dart
 MissionDart
 Mister You
@@ -25229,6 +25285,7 @@ NEW WORLD
 NEW YORK
 NEW YORK RB – BARCELONA
 NEW YORK TIMES
+NEWB
 NEWCASTLE
 NEWCASTLE UNITED
 NEWCASTLE – LIVERPOOL
@@ -25804,6 +25861,7 @@ New World
 New York
 New York Times
 New York rb – barcelona
+NewB
 NewWorld
 NewYork
 NewYorkTimes
@@ -29046,12 +29104,15 @@ Pyrenees Orientales
 PyreneesOrientales
 PÂQUES
 PÉKIN EXPRESS VALÉRIE TRIERWEILER
+PÉNURIE CARBURANT
 PÉNURIE DE MOUTARDE
 PÉTANQUE
 Pâques
 Pékin Express Valérie Trierweiler
 PékinExpressValérieTrierweiler
+Pénurie carburant
 Pénurie de moutarde
+Pénuriecarburant
 Pénuriedemoutarde
 Pétanque
 QANON
@@ -29376,6 +29437,7 @@ REBECCA BALDING
 REBECCA REUSCH
 REBECCA SERIE
 REBEKAH VARDY
+REBEL
 REBEL WILSON
 REBELWILSON
 RECESSIE
@@ -30158,6 +30220,7 @@ RebeccaReusch
 Rebeccaserie
 Rebekah Vardy
 RebekahVardy
+Rebel
 Rebel Wilson
 Rebel wilson
 RebelWilson
@@ -35703,6 +35766,7 @@ URSKA ZIGART
 URSS
 URSSAF
 URSULA ANDERMATT
+URSULA ANDRESS
 URSULA VON DER LEYEN
 URSUS &AMP; NADESCHKIN
 URSUS UND NADESCHKIN
@@ -35935,8 +35999,10 @@ UrsinaLardi
 Urska Zigart
 UrskaZigart
 Ursula Andermatt
+Ursula Andress
 Ursula von der Leyen
 UrsulaAndermatt
+UrsulaAndress
 UrsulavonderLeyen
 Ursus &amp; Nadeschkin
 Ursus und Nadeschkin
@@ -36102,6 +36168,7 @@ VIANNEY
 VICENTE FERNANDEZ
 VICKY KRIEPS
 VICTOR BONIFACE
+VICTOR WEMBANYAMA
 VICTORIA ABRIL
 VICTORIA BECKHAM
 VIDE GRENIER
@@ -36491,7 +36558,9 @@ VicenteFernandez
 Vicky Krieps
 VickyKrieps
 Victor Boniface
+Victor Wembanyama
 VictorBoniface
+VictorWembanyama
 Victoria Abril
 Victoria Beckham
 VictoriaAbril
@@ -37480,6 +37549,7 @@ XI JINPING
 XIAOMI
 XIAOMI 11T PRO
 XIAOMI 12
+XIAOMI 12T PRO
 XIAOMI REDMI NOTE 11 PRO 5G
 XISCA PERELLO
 XRP
@@ -37528,9 +37598,11 @@ XiJinping
 Xiaomi
 Xiaomi 11T Pro
 Xiaomi 12
+Xiaomi 12T Pro
 Xiaomi Redmi Note 11 Pro 5G
 Xiaomi11TPro
 Xiaomi12
+Xiaomi12TPro
 XiaomiRedmiNote11Pro5G
 Xisca Perello
 XiscaPerello
@@ -38275,6 +38347,7 @@ ajax  barendrecht
 ajax  groningen
 ajax  leeds
 ajax  willem ii
+ajax – naples
 ajax – rangers
 ajla del ponte
 akamai
@@ -39020,6 +39093,7 @@ athena
 athletissima 2021
 athletissima 2022
 athlétisme jeux olympiques de tokyo 2020
+atlas copco
 atletico madrid
 atlético madrid – barcelona
 atlético madrid – celta vigo
@@ -39166,6 +39240,7 @@ bachelor in paradise
 bachelor schweiz
 bachelorette 2021
 bachelorette 2022
+bachem
 back 4 blood
 backstreet boys
 bacri
@@ -39272,6 +39347,7 @@ barrage coupe du monde
 barrage coupe du monde 2022
 barrage eupen
 barry callebaut
+barry sharpless
 barry white
 bart cannaerts
 bart de pauw
@@ -39479,6 +39555,7 @@ benfica – barcelona
 benfica – bayern
 benfica – liverpool
 benfica – midtjylland
+benfica – paris-sg
 benfica – sporting
 benin
 benito raman
@@ -39961,6 +40038,7 @@ bruce springsteen
 bruce toussaint
 bruce willis
 bruges leipzig
+brugge fc
 brugge man city
 brugge voetbal
 bruinvis
@@ -40453,6 +40531,7 @@ chelsea – leicester
 chelsea – liverpool
 chelsea – malmö
 chelsea – manchester united
+chelsea – milan
 chelsea – newcastle
 chelsea – norwich city
 chelsea – plymouth argyle
@@ -41057,6 +41136,7 @@ dag van de ambachten
 dag van de arbeid
 dag van de landbouw
 dag van de leerkracht
+dag van de leraar
 dag van de wetenschap
 dag van de zorg
 dag van nationale rouw
@@ -41767,6 +41847,7 @@ eliud kipchoge
 eliza fletcher
 elizabeth 2
 elizabeth holmes
+elizabeth kenny
 elke decruynaere
 elke heidenreich
 elke vanhoof bmx
@@ -42253,6 +42334,7 @@ fc basel heute
 fc bayern
 fc breitenrain
 fc bruges – anderlecht
+fc bruges – atlético madrid
 fc bruges – leverkusen
 fc bruges – man city
 fc bruges – union saint-gilloise
@@ -42264,6 +42346,7 @@ fc luzern
 fc metz
 fc münsingen
 fc nantes
+fc porto
 fc schaffhausen
 fc sion
 fc sion gegen st. gallen
@@ -42485,6 +42568,7 @@ fleuve noir
 flevoland
 flexi-job
 flightradar24
+flitsmarathon
 flixtrain
 flor bressers
 flora duffy
@@ -43271,6 +43355,7 @@ guerre russie ukraine centrale nucléaire
 guerre russie ukraine kiev
 guerre russie ukraine kiev direct
 guerre ukraine
+guerre ukraine armée russe
 guerre ukraine russie centrale nucléaire
 guerre ukraine russie kiev
 guerre ukraine russie vladimir poutine
@@ -43778,6 +43863,7 @@ indonésie
 ine beyen
 ineos
 ines rau
+ines reg
 inez weski
 inferno
 infiniti
@@ -44375,6 +44461,7 @@ johannes oerding
 johannes strolz
 johannes vermeer
 john bercow
+john clauser
 john de mol
 john easterling
 john huiberts
@@ -44616,6 +44703,7 @@ juventus – sassuolo
 juventus – udinese
 juventus – zenit
 jérémie makiese
+jérémy chatelain
 jérôme cahuzac
 jérôme salomon
 jörg kachelmann
@@ -44801,6 +44889,7 @@ kim glow
 kim huybrechts
 kim jong un
 kim jong-un
+kim jung gi
 kim kardashian
 kim kay
 kim mestdagh
@@ -45601,6 +45690,7 @@ liverpool – crystal palace
 liverpool – leicester
 liverpool – man city
 liverpool – newcastle
+liverpool – rangers
 liverpool – southampton
 liverpool – strasbourg
 liverpool – tottenham
@@ -47262,6 +47352,7 @@ new world
 new york
 new york rb – barcelona
 new york times
+newb
 newcastle
 newcastle united
 newcastle – liverpool
@@ -48540,6 +48631,7 @@ putin
 pyrenees orientales
 pâques
 pékin express valérie trierweiler
+pénurie carburant
 pénurie de moutarde
 pétanque
 qanon
@@ -48759,6 +48851,7 @@ rebecca balding
 rebecca reusch
 rebecca serie
 rebekah vardy
+rebel
 rebel wilson
 rebelwilson
 recessie
@@ -51055,6 +51148,7 @@ urska zigart
 urss
 urssaf
 ursula andermatt
+ursula andress
 ursula von der leyen
 ursus &amp; nadeschkin
 ursus und nadeschkin
@@ -51219,6 +51313,7 @@ vianney
 vicente fernandez
 vicky krieps
 victor boniface
+victor wembanyama
 victoria abril
 victoria beckham
 vide grenier
@@ -51661,6 +51756,7 @@ xi jinping
 xiaomi
 xiaomi 11t pro
 xiaomi 12
+xiaomi 12t pro
 xiaomi redmi note 11 pro 5g
 xisca perello
 xrp
