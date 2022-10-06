@@ -3049,6 +3049,7 @@ ANDUNI
 ANDUSG
 ANDVIT
 ANDWES
+ANDWHU
 ANDY
 ANDY CARROLL
 ANDY DELORT
@@ -8168,6 +8169,7 @@ BIO-ETHIEK
 BIODIVERSITE
 BIODIVERSITYDAY
 BIODIVERSITÉ
+BIOECONOMY
 BIOGROUP
 BIOLOGIE
 BIOMUTANTXRAKUTEN
@@ -13897,6 +13899,8 @@ COMMITTEE
 COMMON AGRICULTURAL POLICY
 COMMONAGRICULTURALPOLICY
 COMMONWEALTH
+COMMUNAUTE
+COMMUNAUTÉ
 COMMUNICATION
 COMMUNIQUE
 COMMUNIQUÉ
@@ -16230,6 +16234,7 @@ Committee
 Common Agricultural Policy
 CommonAgriculturalPolicy
 Commonwealth
+Communauté
 Communication
 Communiqué
 Communisme
@@ -18218,6 +18223,7 @@ DODENTOCHT
 DODIE
 DOE MAAR
 DOEL
+DOEL 2
 DOEL 3
 DOEL 4
 DOEL3
@@ -20036,8 +20042,10 @@ Dodentocht
 Doe Maar
 DoeMaar
 Doel
+Doel 2
 Doel 3
 Doel 4
+Doel2
 Doel3
 Doel4
 Dofus
@@ -34571,6 +34579,7 @@ JMLP
 JMO2022
 JMORAN2022
 JMZH2022
+JNA2022
 JNI22
 JNQA
 JNSP2021
@@ -39865,6 +39874,7 @@ LA NUIT DU 12
 LA NUPES
 LA PALMA
 LA PL
+LA PLACE
 LA PLANCHE
 LA PLANETE
 LA PLUS SECRETE MEMOIRE
@@ -41737,6 +41747,7 @@ LITHUANIA
 LITHUANIAN
 LITOUWEN
 LITSUI
+LITTERATURE
 LITTLE DEVIL INSIDE
 LITTLE FREAK
 LITTLE MAC
@@ -42535,6 +42546,7 @@ La Nupes
 La PL
 La PS5
 La Palma
+La Place
 La Planche
 La Planete
 La Plus Secrete Mémoire
@@ -42732,6 +42744,7 @@ LaPS5
 LaPS5surDealabs
 LaPaixAvecMelenchon
 LaPalma
+LaPlace
 LaPlanche
 LaPlanete
 LaPlusSecreteMémoire
@@ -55775,6 +55788,7 @@ PARISSOUSTUTELLE
 PARISTEXAS
 PARISTOURS
 PARISVERSAILLES
+PARISWEB
 PARITE
 PARITÉ
 PARJUPITER
@@ -57948,6 +57962,7 @@ ParisSousTutelle
 ParisTexas
 ParisTours
 ParisVersailles
+ParisWeb
 Parisien
 ParisienOuRien
 Parisiens
@@ -81593,6 +81608,7 @@ anduni
 andusg
 andvit
 andwes
+andwhu
 andy
 andy carroll
 andy delort
@@ -84250,6 +84266,7 @@ bio-ethiek
 biodiversite
 biodiversityday
 biodiversité
+bioeconomy
 bioethiek
 biogroup
 biologie
@@ -87468,6 +87485,7 @@ committee
 common agricultural policy
 commonagriculturalpolicy
 commonwealth
+communauté
 communication
 communiqué
 communisme
@@ -89510,6 +89528,7 @@ dodentocht
 dodie
 doe maar
 doel
+doel 2
 doel 3
 doel 4
 doel3
@@ -97893,6 +97912,7 @@ jmlp
 jmo2022
 jmoran2022
 jmzh2022
+jna2022
 jni22
 jnqa
 jnsp2021
@@ -100157,6 +100177,7 @@ la nuit du 12
 la nupes
 la palma
 la pl
+la place
 la planche
 la planete
 la plus secrete mémoire
@@ -102069,6 +102090,7 @@ lithuania
 lithuanian
 litouwen
 litsui
+litterature
 little devil inside
 little freak
 little mac
@@ -108449,6 +108471,7 @@ parissoustutelle
 paristexas
 paristours
 parisversailles
+parisweb
 parité
 parjupiter
 park chan-wook
