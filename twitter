@@ -12497,6 +12497,7 @@ CASE 11
 CASE 12
 CASE 13
 CASE 14
+CASE 143
 CASE 15
 CASE 16
 CASE 17
@@ -24478,6 +24479,8 @@ FRANCK LEBOEUF
 FRANCK MONTAGNY
 FRANCK PASSI
 FRANCK PROVOST
+FRANCK RIBERY
+FRANCK RIBÉRY
 FRANCK RIESTER
 FRANCKAZEMA
 FRANCKBERRIER
@@ -25906,6 +25909,7 @@ Franck Leboeuf
 Franck Montagny
 Franck Passi
 Franck Provost
+Franck Ribéry
 Franck Riester
 FranckAzéma
 FranckBerrier
@@ -25920,6 +25924,7 @@ FranckLeboeuf
 FranckMontagny
 FranckPassi
 FranckProvost
+FranckRibéry
 FranckRiester
 Francken
 Francky Dury
@@ -79817,7 +79822,9 @@ Zürich
 \Groen\
 \Grüezi\
 \HETZE\
+\HUMOR\
 \Hetze\
+\Humor\
 \IMPFDURCHBRUCHE\
 \IMPFGEGNER\
 \IMPFPFLICHT\
@@ -80131,6 +80138,7 @@ Zürich
 \groen\
 \grüezi\
 \hetze\
+\humor\
 \impfdurchbrüche\
 \impfgegner\
 \impfpflicht\
@@ -86180,6 +86188,7 @@ case 11
 case 12
 case 13
 case 14
+case 143
 case 15
 case 16
 case 17
@@ -92756,6 +92765,7 @@ franck leboeuf
 franck montagny
 franck passi
 franck provost
+franck ribéry
 franck riester
 franckazéma
 franckberrier
