@@ -832,6 +832,7 @@ ALPHABET GREC
 ALPHABET-AKTIE
 ALPHAVILLE
 ALPHONSO DAVIES
+ALPINE
 ALPINE A110
 ALPINE F1
 ALPNACH
@@ -856,6 +857,7 @@ AMANDINE PETIT
 AMANTS
 AMAURY VASSILI
 AMAZON AKTIE
+AMAZON BELGIE
 AMAZON BLACK FRIDAY
 AMAZON PRIME
 AMAZON PRIME DAY
@@ -1300,6 +1302,7 @@ ARSENAL – MANCHESTER UNITED
 ARSENAL – SUNDERLAND
 ARSENAL – TOTTENHAM
 ARSENE WENGER
+ARSENIO PURO
 ART BASEL
 ARTEMIS
 ARTEMIS 1
@@ -2264,6 +2267,7 @@ Alphabetgrec
 Alphaville
 Alphonso Davies
 AlphonsoDavies
+Alpine
 Alpine A110
 Alpine F1
 AlpineA110
@@ -2309,11 +2313,13 @@ Amazon Aktie
 Amazon Black Friday
 Amazon Prime
 Amazon Prime Day
+Amazon belgie
 Amazon-Aktie
 AmazonAktie
 AmazonBlackFriday
 AmazonPrime
 AmazonPrimeDay
+Amazonbelgie
 Amber Heard
 Amber Heard Johnny Depp
 AmberHeard
@@ -3068,6 +3074,8 @@ Arsenal–Sunderland
 Arsenal–Tottenham
 Arsene Wenger
 ArseneWenger
+Arsenio Puro
+ArsenioPuro
 Art Basel
 ArtBasel
 Artemis
@@ -3600,6 +3608,7 @@ BASLER ZEITUNG
 BASSECOURT
 BASSERSDORF
 BASTAREAUD
+BASTIA – BORDEAUX
 BASTIA – NANCY
 BASTIAN BAKER
 BASTIAN BIELENDORFER
@@ -4676,6 +4685,7 @@ BaslerZeitung
 Bassecourt
 Bassersdorf
 Bastareaud
+Bastia – Bordeaux
 Bastia – Nancy
 Bastian Baker
 Bastian Bielendorfer
@@ -4683,6 +4693,7 @@ Bastian Schweinsteiger
 BastianBaker
 BastianBielendorfer
 BastianSchweinsteiger
+Bastia–Bordeaux
 Bastia–Nancy
 Bastille Day
 BastilleDay
@@ -6547,6 +6558,7 @@ CLARIANT-AKTIE
 CLARISSE AGBEGNENOU
 CLASICA SAN SEBASTIAN
 CLASSEMENT ATP
+CLASSEMENT BALLON D'OR
 CLASSEMENT EURO
 CLASSEMENT EURO 2020
 CLASSEMENT EURO 2021
@@ -7947,6 +7959,7 @@ ClarisseAgbegnenou
 Clasica San Sebastian
 ClasicaSanSebastian
 Classement ATP
+Classement Ballon d'Or
 Classement Euro
 Classement Euro 2020
 Classement Euro 2021
@@ -7961,6 +7974,7 @@ Classement ligue 1
 Classement medaille jo 2020
 Classement présidentielle 2022
 ClassementATP
+ClassementBallond'Or
 ClassementEuro
 ClassementEuro2020
 ClassementEuro2021
@@ -10493,6 +10507,7 @@ ELLEN TEN DAMME
 ELLEN VAN DIJK
 ELLIOT PAGE
 ELLY MATTIUZZO
+ELNAZ REKABI
 ELODIE
 ELODIE CONSTANTIN
 ELODIE FREGE
@@ -11175,6 +11190,8 @@ Elliot Page
 ElliotPage
 Elly Mattiuzzo
 EllyMattiuzzo
+Elnaz Rekabi
+ElnazRekabi
 Elodie
 Elodie Constantin
 Elodie Gossuin
@@ -12486,6 +12503,7 @@ FRANCKRIBéRY
 FRANCKY DURY
 FRANCO DRAGONE
 FRANCO FODA
+FRANCO GATTI
 FRANCOFOLIES
 FRANCOIS ALU
 FRANCOIS BRAUN
@@ -13386,8 +13404,10 @@ Francky Dury
 FranckyDury
 Franco Dragone
 Franco Foda
+Franco Gatti
 FrancoDragone
 FrancoFoda
+FrancoGatti
 Francofolies
 Francois Alu
 Francois Braun
@@ -13732,6 +13752,7 @@ GARMISCH-PARTENKIRCHEN
 GAROU
 GARTENSCHLÄFER
 GARY BROOKER
+GASLY
 GASONTPLOFFING DEERLIJK
 GASPARD KOENIG
 GASPARD PROUST
@@ -14113,6 +14134,7 @@ GREVE NATIONALE
 GREVE RATP
 GREVE SNCB
 GREVE SNCF
+GREVE TCL
 GREVEAEROPORT
 GREVESNCF
 GREY'S ANATOMY
@@ -14320,6 +14342,7 @@ Garou
 Gartenschläfer
 Gary Brooker
 GaryBrooker
+Gasly
 Gasontploffing Deerlijk
 GasontploffingDeerlijk
 Gaspard Koenig
@@ -14902,6 +14925,7 @@ Greve 8 mars 2022
 Greve RATP
 Greve SNCB
 Greve SNCF
+Greve TCL
 Greve aeroport
 Greve controleur aerien
 Greve des femmes 2022
@@ -14921,6 +14945,7 @@ Greve8mars2022
 GreveRATP
 GreveSNCB
 GreveSNCF
+GreveTCL
 Greveaeroport
 Grevecontroleuraerien
 Grevedesfemmes2022
@@ -16002,6 +16027,7 @@ IL A DEJA TES YEUX
 IL DIVO
 IL EST ELLE
 IL EST TROP BIEN
+IL ETAIT UNE FOIS DANS L'OUEST
 IL ETAIT UNE FOIS EN AMERIQUE
 IL FAUT SAUVER LE SOLDAT RYAN
 ILARY BLASI
@@ -16379,6 +16405,7 @@ Il Divo
 Il a deja tes yeux
 Il est elle
 Il est trop bien
+Il etait une fois dans l'Ouest
 Il etait une fois en amerique
 Il faut sauver le soldat Ryan
 IlDivo
@@ -16395,6 +16422,7 @@ IlesLavezzi
 IlesTonga
 Ilestelle
 Ilesttropbien
+Iletaitunefoisdansl'Ouest
 Iletaitunefoisenamerique
 IlfautsauverlesoldatRyan
 Ilka Van de Vyver
@@ -18654,6 +18682,7 @@ JÖRG KACHELMANN
 JÖRG PILAWA
 JÜRGEN DREWS
 JÜRGEN VOGEL
+JÜRGENDREWS
 Jérémie Makiese
 JérémieMakiese
 Jérémy Chatelain
@@ -18856,6 +18885,7 @@ KILIAN WENGER
 KILLIAN MOTTET
 KIM CLIJSTERS
 KIM DE BAAT
+KIM DE L'HORIZON
 KIM GLOW
 KIM HUYBRECHTS
 KIM JONG UN
@@ -19341,6 +19371,7 @@ Kim Meylemans
 Kim Mi-soo
 Kim Misoo
 Kim de Baat
+Kim de l'Horizon
 KimClijsters
 KimGlow
 KimHuybrechts
@@ -19353,6 +19384,7 @@ KimMestdagh
 KimMeylemans
 KimMi-soo
 KimdeBaat
+Kimdel'Horizon
 Kimi Raikkonen
 Kimi Räikkönen
 Kimi raikkonen
@@ -19827,6 +19859,7 @@ LAURA MuLLER
 LAURA MÜLLER
 LAURA MÜLLER SCHWANGER
 LAURA PAUSINI
+LAURA TESORO
 LAURAMULLER
 LAURAMuLLER
 LAURE ADLER
@@ -20876,12 +20909,14 @@ Laura Muller
 Laura Müller
 Laura Müller Schwanger
 Laura Pausini
+Laura Tesoro
 Laura de Weck
 LauraLaune
 LauraMuller
 LauraMüller
 LauraMüllerSchwanger
 LauraPausini
+LauraTesoro
 LauradeWeck
 Laure Adler
 Laure Balon
@@ -27767,6 +27802,7 @@ PASSSANITAIRE
 PASTILLE D'IODE
 PAT BURGENER
 PATAGONIA
+PATEK PHILIPPE
 PATENT OCHSNER
 PATENTOCHSNER
 PATINAGE ARTISTIQUE
@@ -28771,6 +28807,8 @@ Pastilled'iode
 Pat Burgener
 PatBurgener
 Patagonia
+Patek Philippe
+PatekPhilippe
 Patent Ochsner
 PatentOchsner
 Patinage artistique
@@ -30441,6 +30479,7 @@ RONJAFURRER
 RONNIE O'SULLIVAN
 RONNIE SPECTOR
 RONNY DEILA
+ROOMIES
 RORQUAL
 ROSA BONHEUR PEINTRE
 ROSALIA
@@ -31472,6 +31511,7 @@ RonnieO'Sullivan
 RonnieSpector
 Ronny Deila
 RonnyDeila
+Roomies
 Rorqual
 Rosa Bonheur peintre
 RosaBonheurpeintre
@@ -32162,6 +32202,7 @@ SIMONE THOMALLA
 SIMONE VEIL
 SIMONETTA SOMMARUGA
 SIMPLE MINDS
+SIMS 4
 SINA FREI
 SINAN BOLAT
 SINEAD O'CONNOR
@@ -32233,6 +32274,7 @@ SMIC HORAIRE
 SMIC horaire
 SMIChoraire
 SMIIndex
+SMILE FILM
 SMOG
 SMi Index
 SMiIndex
@@ -32257,6 +32299,7 @@ SOCHAUX – NANTES
 SOCHAUX – PARIS FC
 SOCHAUX – SAINT-ÉTIENNE
 SOCIAAL TARIEF
+SOCRATES AWARD
 SOEUR ANDRÉ
 SOEUR SOURIRE
 SOEUR XAVIER DUPONT DE LIGONNÈS
@@ -33639,6 +33682,8 @@ Simonetta Sommaruga
 SimonettaSommaruga
 Simple Minds
 SimpleMinds
+Sims 4
+Sims4
 Sina Frei
 SinaFrei
 Sinan Bolat
@@ -33734,6 +33779,8 @@ SmiIndex
 Smic
 Smic 2021
 Smic2021
+Smile Film
+SmileFilm
 Snake
 Snap-Aktie
 SnapAktie
@@ -33760,6 +33807,8 @@ Sochaux–ParisFC
 Sochaux–Saint-Étienne
 Sociaal tarief
 Sociaaltarief
+Socrates Award
+SocratesAward
 Soeur André
 Soeur Sourire
 Soeur Xavier Dupont de Ligonnès
@@ -34689,6 +34738,7 @@ TAYLOR SWIFT
 TCHERNOBYL
 TCHOUAMENI
 TCHÉTCHÉNIE
+TCL
 TEAL SWAN
 TEAM WALLRAFF BURGER KING
 TEAMS
@@ -35170,6 +35220,7 @@ TRAMADOL
 TRANSAT JACQUES VABRE
 TRANSDEV
 TRANSFERMARKT
+TRANSILIEN
 TRANSNISTRIE
 TRANSNISTRIEN
 TRAUMSCHIFF
@@ -35192,6 +35243,7 @@ TRIATHLON JO
 TRIATHLON OLYMPIA
 TRIESTE
 TRIMETAZIDINE
+TRINITY RODMAN
 TRIPLE ALLIANCE FILM
 TRISOMIE 21
 TRISTAN THOMPSON
@@ -36212,6 +36264,7 @@ Transat Jacques Vabre
 TransatJacquesVabre
 Transdev
 Transfermarkt
+Transilien
 Transnistrie
 Transnistrien
 Traumschiff
@@ -36245,6 +36298,8 @@ TriathlonOlympia
 Triathlongeneve
 Trieste
 Trimetazidine
+Trinity Rodman
+TrinityRodman
 Triple Alliance film
 TripleAlliancefilm
 Trisomie 21
@@ -39451,6 +39506,7 @@ alphabet grec
 alphabet-aktie
 alphaville
 alphonso davies
+alpine
 alpine a110
 alpine f1
 alpnach
@@ -39475,6 +39531,7 @@ amandine petit
 amants
 amaury vassili
 amazon aktie
+amazon belgie
 amazon black friday
 amazon prime
 amazon prime day
@@ -39917,6 +39974,7 @@ arsenal – manchester united
 arsenal – sunderland
 arsenal – tottenham
 arsene wenger
+arsenio puro
 art basel
 artemis
 artemis 1
@@ -40285,6 +40343,7 @@ basler zeitung
 bassecourt
 bassersdorf
 bastareaud
+bastia – bordeaux
 bastia – nancy
 bastian baker
 bastian bielendorfer
@@ -41648,6 +41707,7 @@ clariant-aktie
 clarisse agbegnenou
 clasica san sebastian
 classement atp
+classement ballon d'or
 classement euro
 classement euro 2020
 classement euro 2021
@@ -42826,6 +42886,7 @@ ellen ten damme
 ellen van dijk
 elliot page
 elly mattiuzzo
+elnaz rekabi
 elodie
 elodie constantin
 elodie frege
@@ -43737,6 +43798,7 @@ franckribéry
 francky dury
 franco dragone
 franco foda
+franco gatti
 francofolies
 francois alu
 francois braun
@@ -43942,6 +44004,7 @@ garmisch-partenkirchen
 garou
 gartenschläfer
 gary brooker
+gasly
 gasontploffing deerlijk
 gaspard koenig
 gaspard proust
@@ -44297,6 +44360,7 @@ greve nationale
 greve ratp
 greve sncb
 greve sncf
+greve tcl
 grevesncf
 grey's anatomy
 grichka bogdanoff
@@ -44798,6 +44862,7 @@ il a deja tes yeux
 il divo
 il est elle
 il est trop bien
+il etait une fois dans l'ouest
 il etait une fois en amerique
 il faut sauver le soldat ryan
 ilary blasi
@@ -45906,6 +45971,7 @@ kilian wenger
 killian mottet
 kim clijsters
 kim de baat
+kim de l'horizon
 kim glow
 kim huybrechts
 kim jong un
@@ -46256,6 +46322,7 @@ laura muller
 laura müller
 laura müller schwanger
 laura pausini
+laura tesoro
 lauramuller
 laure adler
 laure balon
@@ -49123,6 +49190,7 @@ passsanitaire
 pastille d'iode
 pat burgener
 patagonia
+patek philippe
 patent ochsner
 patentochsner
 patinage artistique
@@ -50308,6 +50376,7 @@ ronjafurrer
 ronnie o'sullivan
 ronnie spector
 ronny deila
+roomies
 rorqual
 rosa bonheur peintre
 rosalia
@@ -50921,6 +50990,7 @@ simone thomalla
 simone veil
 simonetta sommaruga
 simple minds
+sims 4
 sina frei
 sinan bolat
 sinead o'connor
@@ -50986,6 +51056,7 @@ smi index
 smic
 smic 2021
 smic horaire
+smile film
 smog
 snake
 snap-aktie
@@ -51006,6 +51077,7 @@ sochaux – nantes
 sochaux – paris fc
 sochaux – saint-étienne
 sociaal tarief
+socrates award
 soeur andré
 soeur sourire
 soeur xavier dupont de ligonnès
@@ -51590,6 +51662,7 @@ taylor swift
 tchernobyl
 tchouameni
 tchétchénie
+tcl
 teal swan
 team wallraff burger king
 teams
@@ -52059,6 +52132,7 @@ tramadol
 transat jacques vabre
 transdev
 transfermarkt
+transilien
 transnistrie
 transnistrien
 traumschiff
@@ -52081,6 +52155,7 @@ triathlon jo
 triathlon olympia
 trieste
 trimetazidine
+trinity rodman
 triple alliance film
 trisomie 21
 tristan thompson
