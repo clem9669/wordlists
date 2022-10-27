@@ -480,6 +480,7 @@ ACIDE LACTIQUE
 ACMilan
 ACMilan–Monza
 ACTION
+ACTION CREDIT SUISSE
 ACTION EDF
 ACTION FACEBOOK
 ACTRICE ANNE HECHE
@@ -626,6 +627,7 @@ AJAX  BARENDRECHT
 AJAX  GRONINGEN
 AJAX  LEEDS
 AJAX  WILLEM II
+AJAX – LIVERPOOL
 AJAX – NAPLES
 AJAX – RANGERS
 AJLA DEL PONTE
@@ -863,6 +865,7 @@ AMANDINE BUCHARD
 AMANDINE CORNETTE DE SAINT-CYR
 AMANDINE HENRY
 AMANDINE PELLISSARD
+AMANDINE PELLISSARD FAMILLE NOMBREUSE
 AMANDINE PETIT
 AMANTS
 AMAURY VASSILI
@@ -1419,6 +1422,7 @@ ATLETICO MADRID
 ATLÉTICO MADRID – BARCELONA
 ATLÉTICO MADRID – CELTA VIGO
 ATLÉTICO MADRID – FC BRUGES
+ATLÉTICO MADRID – LEVERKUSEN
 ATLÉTICO MADRID – LIVERPOOL
 ATLÉTICO MADRID – MAN CITY
 ATLÉTICO MADRID – MILAN
@@ -1687,8 +1691,10 @@ Acide lactique
 Acidelactique
 Acouteauxtirés
 Action
+Action Credit Suisse
 Action EDF
 Action Facebook
+ActionCreditSuisse
 ActionEDF
 ActionFacebook
 Actrice Anne Heche
@@ -1912,12 +1918,14 @@ Ajax  Barendrecht
 Ajax  Groningen
 Ajax  Leeds
 Ajax  Willem II
+Ajax – Liverpool
 Ajax – Naples
 Ajax – Rangers
 AjaxBarendrecht
 AjaxGroningen
 AjaxLeeds
 AjaxWillemII
+Ajax–Liverpool
 Ajax–Naples
 Ajax–Rangers
 Ajla Del Ponte
@@ -2330,11 +2338,13 @@ Amandine Cornette de Saint-Cyr
 Amandine Cornette de SaintCyr
 Amandine Henry
 Amandine Pellissard
+Amandine Pellissard Famille nombreuse
 Amandine Petit
 AmandineBuchard
 AmandineCornettedeSaint-Cyr
 AmandineHenry
 AmandinePellissard
+AmandinePellissardFamillenombreuse
 AmandinePetit
 Amants
 Amaury Vassili
@@ -3257,6 +3267,7 @@ AtleticoMadrid
 Atlético Madrid – Barcelona
 Atlético Madrid – Celta Vigo
 Atlético Madrid – FC Bruges
+Atlético Madrid – Leverkusen
 Atlético Madrid – Liverpool
 Atlético Madrid – Man City
 Atlético Madrid – Milan
@@ -3268,6 +3279,7 @@ Atlético Madrid – barcelona
 AtléticoMadrid–Barcelona
 AtléticoMadrid–CeltaVigo
 AtléticoMadrid–FCBruges
+AtléticoMadrid–Leverkusen
 AtléticoMadrid–Liverpool
 AtléticoMadrid–ManCity
 AtléticoMadrid–Milan
@@ -3593,6 +3605,7 @@ BARCELONA  MANCHESTER CITY
 BARCELONA  SEVILLA
 BARCELONA  VALENCIA
 BARCELONA  VILLARREAL
+BARCELONA - BAYERN
 BARCELONA - INTER
 BARCELONA GEGEN EINTRACHT FRANKFURT
 BARCELONA GEGEN GALATASARAY
@@ -3624,6 +3637,7 @@ BARCELONA – VALLADOLID
 BARCELONE
 BARCELONE - FRANCFORT
 BARCELONE – ATH BILBAO
+BARCELONE – BAYERN
 BARCELONE – VILLARREAL
 BARES FÜR RARES
 BAROMETER CORONA
@@ -4616,6 +4630,7 @@ BarcaCity
 BarcaJuventus
 BarcaReal
 Barcelona
+Barcelona  Bayern
 Barcelona  Celta
 Barcelona  Cádiz
 Barcelona  Eintracht Frankfurt
@@ -4626,6 +4641,7 @@ Barcelona  Sevilla
 Barcelona  Valencia
 Barcelona  Villarreal
 Barcelona  cádiz
+Barcelona - Bayern
 Barcelona - Inter
 Barcelona gegen Eintracht Frankfurt
 Barcelona gegen Galatasaray
@@ -4654,6 +4670,7 @@ Barcelona – Real
 Barcelona – Real Sociedad
 Barcelona – Valence
 Barcelona – Valladolid
+Barcelona-Bayern
 Barcelona-Inter
 BarcelonaCelta
 BarcelonaCádiz
@@ -4695,9 +4712,11 @@ Barcelone
 Barcelone  Francfort
 Barcelone - Francfort
 Barcelone – Ath Bilbao
+Barcelone – Bayern
 Barcelone – Villarreal
 Barcelone-Francfort
 Barcelone–AthBilbao
+Barcelone–Bayern
 Barcelone–Villarreal
 Bares für Rares
 BaresfürRares
@@ -10551,6 +10570,7 @@ EINREISE SCHWEIZ CORONA
 EINREISE ÖSTERREICH
 EINREISEFORMULAR SCHWEIZ
 EINSIEDELN
+EINTRACHT FRANCFORT – MARSEILLE
 EINTRACHT FRANKFURT
 EINTRACHT FRANKFURT GEGEN BAYERN
 EINTRACHT FRANKFURT GEGEN DORTMUND
@@ -10679,6 +10699,7 @@ ELODIEFREGE
 ELOHIM PRANDI
 ELON MUSK
 ELON MUSK TESLA
+ELON MUSK TWITTER
 ELOY DE JONG
 ELS CLOTTEMANS
 ELS VAN DOESBURG
@@ -11194,12 +11215,14 @@ Einreiseformular Schweiz
 EinreiseformularSchweiz
 EinreiseÖsterreich
 Einsiedeln
+Eintracht Francfort – Marseille
 Eintracht Frankfurt
 Eintracht Frankfurt gegen Bayern
 Eintracht Frankfurt gegen Dortmund
 Eintracht Frankfurt gegen Leverkusen
 Eintracht Frankfurt gegen Wolfsburg
 Eintracht – Bayern
+EintrachtFrancfort–Marseille
 EintrachtFrankfurt
 EintrachtFrankfurtgegenBayern
 EintrachtFrankfurtgegenDortmund
@@ -11376,8 +11399,10 @@ Elohim Prandi
 ElohimPrandi
 Elon Musk
 Elon Musk Tesla
+Elon Musk Twitter
 ElonMusk
 ElonMuskTesla
+ElonMuskTwitter
 Eloy de Jong
 EloydeJong
 Els Clottemans
@@ -12298,6 +12323,7 @@ FEMKE BOL
 FEMSA
 FENERBAHCE
 FENERBAHÇE – AEK LARNACA
+FENERBAHÇE – RENNES
 FENTANYL
 FERDINAND MARCOS
 FERENCVAROS
@@ -12986,7 +13012,9 @@ FemkeBol
 Femsa
 Fenerbahce
 Fenerbahçe – AEK Larnaca
+Fenerbahçe – Rennes
 Fenerbahçe–AEKLarnaca
+Fenerbahçe–Rennes
 Fentanyl
 Ferdinand Marcos
 FerdinandMarcos
@@ -14329,6 +14357,7 @@ GREVE 18 OCTOBRE 2022
 GREVE 22 AVRIL 2022
 GREVE 24 SEPTEMBRE 2021
 GREVE 27 JANVIER 2022
+GREVE 27 OCTOBRE 2022
 GREVE 29 SEPTEMBRE
 GREVE 31 MAI
 GREVE 8 MARS 2022
@@ -15140,6 +15169,7 @@ Greve 18 octobre 2022
 Greve 22 avril 2022
 Greve 24 septembre 2021
 Greve 27 janvier 2022
+Greve 27 octobre 2022
 Greve 29 septembre
 Greve 31 mai
 Greve 8 mars 2022
@@ -15160,6 +15190,7 @@ Greve18octobre2022
 Greve22avril2022
 Greve24septembre2021
 Greve27janvier2022
+Greve27octobre2022
 Greve29septembre
 Greve31mai
 Greve8mars2022
@@ -16396,6 +16427,7 @@ INTER  SALERNITANA
 INTER  SHERIFF
 INTER  SPEZIA
 INTER GEGEN SALERNITANA
+INTER GEGEN VIKTORIA PILSEN
 INTER JUVE
 INTER LIVERPOOL
 INTER MAILAND
@@ -16865,6 +16897,7 @@ Inter Miami – Barcelona
 Inter Milan
 Inter Napoli
 Inter gegen Salernitana
+Inter gegen Viktoria Pilsen
 Inter – Bayern
 Inter – Bologne
 Inter – Juventus
@@ -16893,6 +16926,7 @@ Interdire les piscines privees
 Interdirelespiscinesprivees
 Interdiscount
 IntergegenSalernitana
+IntergegenViktoriaPilsen
 Intermarché
 Intermittent fasting
 Intermittent living
@@ -17434,6 +17468,7 @@ JEROME RIVIERE
 JEROME RODRIGUES
 JERRY DOUGLAS
 JERRY HALL
+JERRY LEE LEWIS
 JESPER SKIBBY
 JESSE PLEMONS
 JESSICA AIDI
@@ -17752,6 +17787,7 @@ JUSTINE GHEKIERE
 JUSTINE HENIN
 JUSTINE HUYSMAN
 JUSTINE MUSK
+JUSTINE VAYRAC
 JUTTA LEERDAM
 JUTTA SPEIDEL
 JUUL KABAS
@@ -18316,8 +18352,10 @@ JeromeRodrigues
 Jeromeriviere
 Jerry Douglas
 Jerry Hall
+Jerry Lee Lewis
 JerryDouglas
 JerryHall
+JerryLeeLewis
 Jesper Skibby
 JesperSkibby
 Jesse Plemons
@@ -18870,11 +18908,13 @@ Justine Ghekiere
 Justine Henin
 Justine Huysman
 Justine Musk
+Justine Vayrac
 JustineBenin
 JustineGhekiere
 JustineHenin
 JustineHuysman
 JustineMusk
+JustineVayrac
 Jutta Leerdam
 Jutta Speidel
 JuttaLeerdam
@@ -20102,6 +20142,7 @@ LAMPAERT
 LAMPENBERG
 LANA PUDAR
 LANA WACHOWSKI
+LANAKEN
 LANCE ARMSTRONG
 LAND ROVER
 LANDFRAUENKÜCHE
@@ -20782,6 +20823,7 @@ LOVE ISLAND
 LOVE ISLAND 2021
 LOVE ISLAND 2022
 LOVE STORY
+LOZERE
 LOÏK LE PRIOL
 LUAN PERES
 LUANA BELMONDO
@@ -21138,6 +21180,7 @@ Lana Pudar
 Lana Wachowski
 LanaPudar
 LanaWachowski
+Lanaken
 Lance Armstrong
 LanceArmstrong
 Land Rover
@@ -22357,6 +22400,7 @@ LoveIsland2021
 LoveIsland2022
 LoveStory
 LoveintheVilla
+Lozere
 Loïk Le Priol
 LoïkLePriol
 Luan Peres
@@ -22664,6 +22708,7 @@ MAGNUS CARLSEN
 MAGRITTE
 MAHMOOD
 MAHRA AL-MAKTOUM
+MAHSA AMINI
 MAHSA AMINI IRAN
 MAIA SANDU
 MAIENZUG AARAU
@@ -23377,6 +23422,7 @@ METZ – PARIS-SG
 METZ – RENNES
 METZ – SAINT-ÉTIENNE
 MEURTRES AU PARADIS
+MEURTRES SANS ORDONNANCE
 MEUSE
 MEVROUW LEEMANS
 MEXIQUE
@@ -23918,7 +23964,9 @@ Mahmood
 Mahra al-Maktoum
 Mahra alMaktoum
 Mahraal-Maktoum
+Mahsa Amini
 Mahsa Amini Iran
+MahsaAmini
 MahsaAminiIran
 Maia SANDU
 MaiaSANDU
@@ -25193,7 +25241,9 @@ Metz–Rennes
 Metz–Saint-Étienne
 Metz–paris-sg
 Meurtres au paradis
+Meurtres sans ordonnance
 Meurtresauparadis
+Meurtressansordonnance
 Meuse
 Mevrouw Leemans
 MevrouwLeemans
@@ -26202,6 +26252,7 @@ NETWORK
 NEUE CORONA REGELN
 NEUE CORONA-REGELN
 NEUE CORONA-VARIANTE
+NEUE CORONAVARIANTE
 NEUES VIRUS IN CHINA
 NEUJAHR
 NEUJAHR 2022
@@ -26328,6 +26379,7 @@ NIGERIA EGYPTE
 NIGHT TEETH
 NIGHTBIRDE
 NIGHTMARE ALLEY
+NIGLOLAND
 NIKE
 NIKKI JANSSENS
 NIKLAS KAUL
@@ -26793,9 +26845,11 @@ Neue Corona-Regeln
 Neue Corona-Variante
 Neue CoronaRegeln
 Neue CoronaVariante
+Neue Coronavariante
 Neue corona Regeln
 NeueCorona-Regeln
 NeueCorona-Variante
+NeueCoronavariante
 NeuecoronaRegeln
 Neues virus in China
 NeuesvirusinChina
@@ -26984,6 +27038,7 @@ NightTeeth
 Nightbirde
 Nightmare Alley
 NightmareAlley
+Nigloland
 Nike
 Nikki Janssens
 NikkiJanssens
@@ -28454,6 +28509,7 @@ PIERRE PERRET
 PIERRE RABHI
 PIERRE RAPSAT
 PIERRE RICHARD
+PIERRE SOULAGES
 PIERRE ZAKRZEWSKI
 PIERRE-FRANÇOIS LATERRE
 PIERRECROCE
@@ -29631,6 +29687,7 @@ Pierre Perret
 Pierre Rabhi
 Pierre Rapsat
 Pierre Richard
+Pierre Soulages
 Pierre Zakrzewski
 Pierre menes
 Pierre-François Laterre
@@ -29655,6 +29712,7 @@ PierrePerret
 PierreRabhi
 PierreRapsat
 PierreRichard
+PierreSoulages
 PierreZakrzewski
 Pierremenes
 Pieter Loridon
@@ -32351,6 +32409,7 @@ SASKATCHEWAN
 SASSUOLO
 SASSUOLO – JUVENTUS
 SATAN 2
+SAUBER
 SAUL NIGUEZ
 SAUMOS
 SAURON
@@ -32749,6 +32808,7 @@ SNOW PATROL
 SNOWPIERCER
 SNOWPIERCER STAFFEL 4
 SNU
+SNUS
 SOCHAUX
 SOCHAUX – NANTES
 SOCHAUX – PARIS FC
@@ -33037,6 +33097,7 @@ STEPHANE RAVIER
 STEPHANIE BERGER
 STEPHEN CURRY
 STEPHEN HAWKING
+STEPHEN KING
 STEPHEN SONDHEIM
 STERCHELE
 STERLING
@@ -33674,6 +33735,7 @@ Sassuolo – Juventus
 Sassuolo–Juventus
 Satan 2
 Satan2
+Sauber
 Saul Niguez
 SaulNiguez
 Saumos
@@ -34267,6 +34329,7 @@ SnowPatrol
 Snowpiercer
 Snowpiercer Staffel 4
 SnowpiercerStaffel4
+Snus
 Sochaux
 Sochaux – Nantes
 Sochaux – Paris FC
@@ -34707,9 +34770,11 @@ Stephanie Berger
 StephanieBerger
 Stephen Curry
 Stephen Hawking
+Stephen King
 Stephen Sondheim
 StephenCurry
 StephenHawking
+StephenKing
 StephenSondheim
 Sterchele
 Sterling
@@ -35615,6 +35680,7 @@ TOTTENHAM – MAN CITY
 TOTTENHAM – MANCHESTER UNITED
 TOTTENHAM – NEWCASTLE
 TOTTENHAM – SOUTHAMPTON
+TOTTENHAM – SPORTING
 TOTTENHAM – WOLVES
 TOTTENHAM-RENNES
 TOTTI
@@ -35644,6 +35710,7 @@ TOUR DE FRANCE 2021 ETAPE DU JOUR
 TOUR DE FRANCE 2022
 TOUR DE FRANCE 2022 ETAPPES
 TOUR DE FRANCE 2022, LILLE
+TOUR DE FRANCE 2023
 TOUR DE FRANCE CLASSEMENT
 TOUR DE FRANCE DIRECT
 TOUR DE FRANCE ETAPE DU JOUR
@@ -36593,6 +36660,7 @@ Tottenham – Man City
 Tottenham – Manchester United
 Tottenham – Newcastle
 Tottenham – Southampton
+Tottenham – Sporting
 Tottenham – Wolves
 Tottenham-Rennes
 TottenhamRennes
@@ -36608,6 +36676,7 @@ Tottenham–ManCity
 Tottenham–ManchesterUnited
 Tottenham–Newcastle
 Tottenham–Southampton
+Tottenham–Sporting
 Tottenham–Wolves
 Totti
 Touchées
@@ -36650,6 +36719,7 @@ Tour de France 2021 etape du jour
 Tour de France 2022
 Tour de France 2022 etappes
 Tour de France 2022, Lille
+Tour de France 2023
 Tour de France Femmes
 Tour de France Frauen
 Tour de France Lausanne
@@ -36696,6 +36766,7 @@ TourdeFrance2021etapedujour
 TourdeFrance2022
 TourdeFrance2022,Lille
 TourdeFrance2022etappes
+TourdeFrance2023
 TourdeFranceFemmes
 TourdeFranceFrauen
 TourdeFranceLausanne
@@ -38307,6 +38378,7 @@ WAREGEM KOERSE
 WARGON
 WARMSTE WEEK MECHELEN
 WARMTEPOMP
+WARMTEPOMPBOILER
 WARNUNG VOR STURMBÖEN
 WARREN JEFFS
 WARRIORS – CELTICS
@@ -38642,6 +38714,7 @@ Wargon
 Warmste Week Mechelen
 WarmsteWeekMechelen
 Warmtepomp
+Warmtepompboiler
 Warnung vor Sturmböen
 WarnungvorSturmböen
 Warren Jeffs
@@ -39343,6 +39416,7 @@ ZIEKTE VAN LYME
 ZIEKTEVANLYME
 ZIERIKZEE
 ZILLION
+ZILLION FILM
 ZILVERMEER MOL
 ZINEDINE ZIDANE
 ZINHO VANHEUSDEN
@@ -39510,6 +39584,8 @@ ZiektevanKahler
 ZiektevanLyme
 Zierikzee
 Zillion
+Zillion film
+Zillionfilm
 Zilvermeer Mol
 ZilvermeerMol
 Zinedine Zidane
@@ -39731,6 +39807,7 @@ achtelfinaleem2021
 acid
 acide lactique
 action
+action credit suisse
 action edf
 action facebook
 actrice anne heche
@@ -39865,6 +39942,7 @@ ajax  barendrecht
 ajax  groningen
 ajax  leeds
 ajax  willem ii
+ajax – liverpool
 ajax – naples
 ajax – rangers
 ajla del ponte
@@ -40100,6 +40178,7 @@ amandine buchard
 amandine cornette de saint-cyr
 amandine henry
 amandine pellissard
+amandine pellissard famille nombreuse
 amandine petit
 amants
 amaury vassili
@@ -40638,6 +40717,7 @@ atletico madrid
 atlético madrid – barcelona
 atlético madrid – celta vigo
 atlético madrid – fc bruges
+atlético madrid – leverkusen
 atlético madrid – liverpool
 atlético madrid – man city
 atlético madrid – milan
@@ -40864,6 +40944,7 @@ barcelona  manchester city
 barcelona  sevilla
 barcelona  valencia
 barcelona  villarreal
+barcelona - bayern
 barcelona - inter
 barcelona gegen eintracht frankfurt
 barcelona gegen galatasaray
@@ -40895,6 +40976,7 @@ barcelona – valladolid
 barcelone
 barcelone - francfort
 barcelone – ath bilbao
+barcelone – bayern
 barcelone – villarreal
 bares für rares
 barometer corona
@@ -43414,6 +43496,7 @@ einreise schweiz corona
 einreise österreich
 einreiseformular schweiz
 einsiedeln
+eintracht francfort – marseille
 eintracht frankfurt
 eintracht frankfurt gegen bayern
 eintracht frankfurt gegen dortmund
@@ -43520,6 +43603,7 @@ elodiefrege
 elohim prandi
 elon musk
 elon musk tesla
+elon musk twitter
 eloy de jong
 els clottemans
 els van doesburg
@@ -44070,6 +44154,7 @@ femke bol
 femsa
 fenerbahce
 fenerbahçe – aek larnaca
+fenerbahçe – rennes
 fentanyl
 ferdinand marcos
 ferencvaros
@@ -44987,6 +45072,7 @@ greve 18 octobre 2022
 greve 22 avril 2022
 greve 24 septembre 2021
 greve 27 janvier 2022
+greve 27 octobre 2022
 greve 29 septembre
 greve 31 mai
 greve 8 mars 2022
@@ -45634,6 +45720,7 @@ inter  salernitana
 inter  sheriff
 inter  spezia
 inter gegen salernitana
+inter gegen viktoria pilsen
 inter juve
 inter liverpool
 inter mailand
@@ -46105,6 +46192,7 @@ jerome riviere
 jerome rodrigues
 jerry douglas
 jerry hall
+jerry lee lewis
 jesper skibby
 jesse plemons
 jessica aidi
@@ -46408,6 +46496,7 @@ justine ghekiere
 justine henin
 justine huysman
 justine musk
+justine vayrac
 jutta leerdam
 jutta speidel
 juul kabas
@@ -46953,6 +47042,7 @@ lampaert
 lampenberg
 lana pudar
 lana wachowski
+lanaken
 lance armstrong
 land rover
 landfrauenküche
@@ -47623,6 +47713,7 @@ love island
 love island 2021
 love island 2022
 love story
+lozere
 loïk le priol
 luan peres
 luana belmondo
@@ -47828,6 +47919,7 @@ magnus carlsen
 magritte
 mahmood
 mahra al-maktoum
+mahsa amini
 mahsa amini iran
 maia sandu
 maienzug aarau
@@ -48539,6 +48631,7 @@ metz – paris-sg
 metz – rennes
 metz – saint-étienne
 meurtres au paradis
+meurtres sans ordonnance
 meuse
 mevrouw leemans
 mexique
@@ -49177,6 +49270,7 @@ network
 neue corona regeln
 neue corona-regeln
 neue corona-variante
+neue coronavariante
 neues virus in china
 neujahr
 neujahr 2022
@@ -49292,6 +49386,7 @@ nigeria egypte
 night teeth
 nightbirde
 nightmare alley
+nigloland
 nike
 nikki janssens
 niklas kaul
@@ -50158,6 +50253,7 @@ pierre perret
 pierre rabhi
 pierre rapsat
 pierre richard
+pierre soulages
 pierre zakrzewski
 pierre-françois laterre
 pierrecroce
@@ -51425,6 +51521,7 @@ saskatchewan
 sassuolo
 sassuolo – juventus
 satan 2
+sauber
 saul niguez
 saumos
 sauron
@@ -51801,6 +51898,7 @@ snow patrol
 snowpiercer
 snowpiercer staffel 4
 snu
+snus
 sochaux
 sochaux – nantes
 sochaux – paris fc
@@ -52068,6 +52166,7 @@ stephane ravier
 stephanie berger
 stephen curry
 stephen hawking
+stephen king
 stephen sondheim
 sterchele
 sterling
@@ -52776,6 +52875,7 @@ tottenham – man city
 tottenham – manchester united
 tottenham – newcastle
 tottenham – southampton
+tottenham – sporting
 tottenham – wolves
 tottenham-rennes
 totti
@@ -52804,6 +52904,7 @@ tour de france 2021 etape du jour
 tour de france 2022
 tour de france 2022 etappes
 tour de france 2022, lille
+tour de france 2023
 tour de france classement
 tour de france direct
 tour de france etape du jour
@@ -53515,6 +53616,7 @@ waregem koerse
 wargon
 warmste week mechelen
 warmtepomp
+warmtepompboiler
 warnung vor sturmböen
 warren jeffs
 warriors – celtics
@@ -53916,6 +54018,7 @@ ziekte van lyme
 ziektevanlyme
 zierikzee
 zillion
+zillion film
 zilvermeer mol
 zinedine zidane
 zinho vanheusden
