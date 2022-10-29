@@ -3696,6 +3696,7 @@ BAUER, LEDIG, SUCHT
 BAUKE MOLLEMA
 BAUMA MÜNCHEN
 BAUMWIPFELPFAD LAAX
+BAUTISTA AGUT
 BAYER
 BAYERN
 BAYERN  AJAX
@@ -4814,6 +4815,8 @@ Bauma München
 BaumaMünchen
 Baumwipfelpfad Laax
 BaumwipfelpfadLaax
+Bautista Agut
+BautistaAgut
 Bayer
 Bayern
 Bayern  Ajax
@@ -6417,6 +6420,7 @@ CHANGEMENT D'HEURE
 CHANGEMENT D'HEURE BELGIQUE
 CHANGEMENT D'HEURE HIVER
 CHANGEMENT D'HEURE HIVER 2021
+CHANGEMENT D'HEURE HIVER 2022
 CHANGEMENT HEURE
 CHANGEMENT HEURE 2022
 CHANNING TATUM
@@ -7627,6 +7631,7 @@ Changement d'heure
 Changement d'heure Belgique
 Changement d'heure hiver
 Changement d'heure hiver 2021
+Changement d'heure hiver 2022
 Changement heure
 Changement heure 2022
 Changementclimatique
@@ -7634,6 +7639,7 @@ Changementd'heure
 Changementd'heureBelgique
 Changementd'heurehiver
 Changementd'heurehiver2021
+Changementd'heurehiver2022
 Changementheure
 Changementheure2022
 Channing Tatum
@@ -14351,6 +14357,7 @@ GRATTE-CIEL CHINE INCENDIE
 GRAVEL
 GRAVESON
 GREALISH
+GREAT BALLS OF FIRE
 GREEN BAY PACKERS
 GREEN BOOK
 GREEN DAY
@@ -15140,6 +15147,8 @@ Gratteciel Chine incendie
 Gravel
 Graveson
 Grealish
+Great Balls of Fire
+GreatBallsofFire
 Green Bay Packers
 Green Book
 Green Day
@@ -15524,6 +15533,7 @@ HARRYPOTTER
 HARRYPOTTER2
 HART ABER FAIR
 HARVEY WEINSTEIN
+HASBULLA
 HASSAN IQUIOUSSEN
 HASSELT
 HASTA LA VISTA, BABY
@@ -15928,6 +15938,7 @@ Hart aber Fair
 HartaberFair
 Harvey Weinstein
 HarveyWeinstein
+Hasbulla
 Hassan Iquioussen
 HassanIquioussen
 Hasselt
@@ -16354,6 +16365,7 @@ ILES LAVEZZI
 ILES TONGA
 ILKA VAN DE VYVER
 ILLAN
+ILLAN CASTRONOVO
 ILLUSIONS PERDUES
 ILONA SMET
 ILS ETAIENT 10
@@ -16365,6 +16377,7 @@ ILSE DELANGE
 IM ACADEMY
 IM NETZ DER CAMORRA
 IM NETZ DER VERSUCHUNG
+IM WESTEN NICHTS NEUES
 IMAGES
 IMAGINE DRAGONS
 IMAM HASSAN IQUIOUSSEN
@@ -16751,6 +16764,8 @@ IlfautsauverlesoldatRyan
 Ilka Van de Vyver
 IlkaVandeVyver
 Illan
+Illan Castronovo
+IllanCastronovo
 Illusions perdues
 Illusionsperdues
 Ilona Smet
@@ -16770,9 +16785,11 @@ Ilssontpartout
 Im Academy
 Im Netz der Camorra
 Im Netz der Versuchung
+Im Westen nichts Neues
 ImAcademy
 ImNetzderCamorra
 ImNetzderVersuchung
+ImWestennichtsNeues
 Images
 Imagine Dragons
 ImagineDragons
@@ -17318,6 +17335,7 @@ JAMIE CARRAGHER
 JAMIE CULLUM
 JAMIE LEE CURTIS
 JAMIE LYNN SPEARS
+JAMIE-LEE CURTIS
 JAMIELEECURTIS
 JAMILLA BAIDOU
 JAN BAKELANTS
@@ -18000,8 +18018,11 @@ Jamie Carragher
 Jamie Cullum
 Jamie Lee Curtis
 Jamie Lynn Spears
+Jamie-Lee Curtis
+Jamie-LeeCurtis
 JamieCarragher
 JamieCullum
+JamieLee Curtis
 JamieLeeCurtis
 JamieLynnSpears
 Jamilla Baidou
@@ -20384,6 +20405,7 @@ LEICESTER – CHELSEA
 LEICESTER – CRYSTAL PALACE
 LEICESTER – LIVERPOOL
 LEICESTER – MAN CITY
+LEICESTER – MANCHESTER CITY
 LEICESTER – MANCHESTER UNITED
 LEICESTER – NAPLES
 LEICESTER – RENNES
@@ -20430,6 +20452,7 @@ LENS – PARIS-SG
 LENS – REIMS
 LENS – SAINT-ÉTIENNE
 LENS – STRASBOURG
+LENS – TOULOUSE
 LENS – TROYES
 LENS – WEST HAM
 LENS-LILLE
@@ -20497,6 +20520,7 @@ LES TRAITRES DELPHINE WESPISER
 LES TUCHE
 LES TUCHE 4
 LES VEDETTES
+LES VESTIGES DU JOUR
 LES VEUVES
 LES VIEUX FOURNEAUX
 LES VISITEURS
@@ -21567,6 +21591,7 @@ Leicester – Chelsea
 Leicester – Crystal Palace
 Leicester – Liverpool
 Leicester – Man City
+Leicester – Manchester City
 Leicester – Manchester United
 Leicester – Naples
 Leicester – Rennes
@@ -21578,6 +21603,7 @@ Leicester–Chelsea
 Leicester–CrystalPalace
 Leicester–Liverpool
 Leicester–ManCity
+Leicester–ManchesterCity
 Leicester–ManchesterUnited
 Leicester–Naples
 Leicester–Rennes
@@ -21637,6 +21663,7 @@ Lens – Nantes
 Lens – Nice
 Lens – Reims
 Lens – Strasbourg
+Lens – Toulouse
 Lens – Troyes
 Lens – West Ham
 Lens – paris-sg
@@ -21663,6 +21690,7 @@ Lens–Nantes
 Lens–Nice
 Lens–Reims
 Lens–Strasbourg
+Lens–Toulouse
 Lens–Troyes
 Lens–WestHam
 Lens–paris-sg
@@ -21743,6 +21771,7 @@ Les Touristes
 Les Tuche
 Les Tuche 4
 Les Vedettes
+Les Vestiges du jour
 Les Veuves
 Les Vieux Fourneaux
 Les animaux fantastiques
@@ -21800,6 +21829,7 @@ LesTouristes
 LesTuche
 LesTuche4
 LesVedettes
+LesVestigesdujour
 LesVeuves
 LesVieuxFourneaux
 Lesanimauxfantastiques
@@ -23023,6 +23053,7 @@ MARIEKE VERVOORT
 MARIES AU PREMIER REGARD
 MARIESOPHIE LACARRAU
 MARIESOPHIELACARRAU
+MARIJN COERTJENS
 MARIJN DE VRIES
 MARILIA MENDONÇA
 MARILOU BERRY
@@ -23708,6 +23739,7 @@ MIVB
 MLADENOVIC
 MLRS
 MMA
+MNM
 MO FARAH
 MO HAYDER
 MOBILE VIKINGS
@@ -24517,7 +24549,9 @@ MariekeVervoort
 Maries au premier regard
 Maries'infiltre
 Mariesaupremierregard
+Marijn Coertjens
 Marijn de Vries
+MarijnCoertjens
 MarijndeVries
 Marilia Mendonça
 MariliaMendonça
@@ -28354,6 +28388,7 @@ PAUL JOHNSON
 PAUL KOULAK
 PAUL MAGNETTE
 PAUL MCCARTNEY
+PAUL PELOSI
 PAUL POGBA
 PAUL POTTS
 PAUL QUILES
@@ -29412,6 +29447,7 @@ Paul Johnson
 Paul Koulak
 Paul Magnette
 Paul McCartney
+Paul Pelosi
 Paul Pogba
 Paul Potts
 Paul Rechsteiner
@@ -29433,6 +29469,7 @@ PaulJohnson
 PaulKoulak
 PaulMagnette
 PaulMcCartney
+PaulPelosi
 PaulPogba
 PaulPotts
 PaulRechsteiner
@@ -30821,6 +30858,7 @@ RFC LIEGE
 RFC liege
 RFCliege
 RFJ
+RHB WELTREKORD
 RHEINGOLD
 RHEINLAND-PFALZ
 RHEINMETALL-AKTIE
@@ -31725,6 +31763,8 @@ Revalorisation des retraites
 Revalorisationdesretraites
 Reveillon noel
 Reveillonnoel
+RhB Weltrekord
+RhBWeltrekord
 Rheingold
 Rheinland-Pfalz
 RheinlandPfalz
@@ -32348,6 +32388,7 @@ SAINT-ÉTIENNE – TROYES
 SAINTE-ANNE
 SAINTE-BARBE
 SAINTE-CATHERINE
+SAINTE-SOLINE
 SAINTJEAN
 SAKA
 SALAH ABDESLAM
@@ -33562,9 +33603,11 @@ SaintValentin 2022
 Sainte-Anne
 Sainte-Barbe
 Sainte-Catherine
+Sainte-Soline
 SainteAnne
 SainteBarbe
 SainteCatherine
+SainteSoline
 Saintetiennefoot
 Saintjean
 Saintraphael
@@ -35399,6 +35442,7 @@ TELEZÜRI
 TELLEMENT PROCHES
 TEMATAI LE GAYIC
 TEMENOS
+TEMPEH
 TEMPERATUR
 TEMPERATUUR
 TEMPETE
@@ -35514,6 +35558,7 @@ THE VOICE FRANCE 2022
 THE VOICE KIDS
 THE VOICE KIDS 2022
 THE VOICE OF GERMANY 2021
+THE VOICE OF GERMANY 2022
 THE WATCHER
 THE WAVE
 THE WEEKND
@@ -35565,6 +35610,7 @@ THOMAS AESCHI
 THOMAS BACH
 THOMAS BRIELS
 THOMAS CHISHOLM
+THOMAS DA COSTA
 THOMAS DÜRR
 THOMAS GOTTSCHALK
 THOMAS HAYO
@@ -36128,6 +36174,7 @@ Tellementproches
 Tematai Le Gayic
 TemataiLeGayic
 Temenos
+Tempeh
 Temperatur
 Temperatuur
 Tempete
@@ -36256,6 +36303,7 @@ The Voice France 2022
 The Voice Kids
 The Voice Kids 2022
 The Voice of Germany 2021
+The Voice of Germany 2022
 The Watcher
 The Wave
 The Weeknd
@@ -36323,6 +36371,7 @@ TheVoiceFrance2022
 TheVoiceKids
 TheVoiceKids2022
 TheVoiceofGermany2021
+TheVoiceofGermany2022
 TheWatcher
 TheWave
 TheWeeknd
@@ -36405,6 +36454,7 @@ Thomas Aeschi
 Thomas Bach
 Thomas Briels
 Thomas Chisholm
+Thomas Da Costa
 Thomas Dürr
 Thomas Gottschalk
 Thomas Hayo
@@ -36425,6 +36475,7 @@ ThomasAeschi
 ThomasBach
 ThomasBriels
 ThomasChisholm
+ThomasDaCosta
 ThomasDürr
 ThomasGottschalk
 ThomasHayo
@@ -38622,6 +38673,7 @@ WINTERSONNENWENDE
 WINTERSPIELE 2022
 WINTERTHUR
 WINTERTIJD
+WINTERZEIT ZEITUMSTELLUNG
 WINX
 WIR IMPFEN
 WISCONSIN
@@ -39064,6 +39116,8 @@ Winterspiele 2022
 Winterspiele2022
 Winterthur
 Wintertijd
+Winterzeit Zeitumstellung
+WinterzeitZeitumstellung
 Winx
 Wir impfen
 Wirimpfen
@@ -39455,6 +39509,7 @@ ZEITUMSTELLUNG
 ZEITUMSTELLUNG 2021
 ZEITUMSTELLUNG 2022
 ZEITUMSTELLUNG OKTOBER 2021
+ZEITUMSTELLUNG SCHWEIZ
 ZEKI AMDOUNI
 ZELDA: TEARS OF THE KINGDOM
 ZELENSKY
@@ -39605,9 +39660,11 @@ Zeitumstellung
 Zeitumstellung 2021
 Zeitumstellung 2022
 Zeitumstellung Oktober 2021
+Zeitumstellung Schweiz
 Zeitumstellung2021
 Zeitumstellung2022
 ZeitumstellungOktober2021
+ZeitumstellungSchweiz
 Zeki Amdouni
 ZekiAmdouni
 Zelda: Tears of the Kingdom
@@ -41108,6 +41165,7 @@ bauer, ledig, sucht
 bauke mollema
 bauma münchen
 baumwipfelpfad laax
+bautista agut
 bayer
 bayern
 bayern  ajax
@@ -42204,6 +42262,7 @@ changement d'heure
 changement d'heure belgique
 changement d'heure hiver
 changement d'heure hiver 2021
+changement d'heure hiver 2022
 changement heure
 changement heure 2022
 channing tatum
@@ -45122,6 +45181,7 @@ gratte-ciel chine incendie
 gravel
 graveson
 grealish
+great balls of fire
 green bay packers
 green book
 green day
@@ -45383,6 +45443,7 @@ harrypotter
 harrypotter2
 hart aber fair
 harvey weinstein
+hasbulla
 hassan iquioussen
 hasselt
 hasta la vista, baby
@@ -45701,6 +45762,7 @@ iles lavezzi
 iles tonga
 ilka van de vyver
 illan
+illan castronovo
 illusions perdues
 ilona smet
 ils etaient 10
@@ -45712,6 +45774,7 @@ ilse delange
 im academy
 im netz der camorra
 im netz der versuchung
+im westen nichts neues
 images
 imagine dragons
 imam hassan iquioussen
@@ -46095,6 +46158,7 @@ jamie carragher
 jamie cullum
 jamie lee curtis
 jamie lynn spears
+jamie-lee curtis
 jamieleecurtis
 jamilla baidou
 jan bakelants
@@ -47330,6 +47394,7 @@ leicester – chelsea
 leicester – crystal palace
 leicester – liverpool
 leicester – man city
+leicester – manchester city
 leicester – manchester united
 leicester – naples
 leicester – rennes
@@ -47376,6 +47441,7 @@ lens – paris-sg
 lens – reims
 lens – saint-étienne
 lens – strasbourg
+lens – toulouse
 lens – troyes
 lens – west ham
 lens-lille
@@ -47443,6 +47509,7 @@ les traitres delphine wespiser
 les tuche
 les tuche 4
 les vedettes
+les vestiges du jour
 les veuves
 les vieux fourneaux
 les visiteurs
@@ -48285,6 +48352,7 @@ marieke vervoort
 maries au premier regard
 mariesophie lacarrau
 mariesophielacarrau
+marijn coertjens
 marijn de vries
 marilia mendonça
 marilou berry
@@ -48959,6 +49027,7 @@ mivb
 mladenovic
 mlrs
 mma
+mnm
 mo farah
 mo hayder
 mobile vikings
@@ -50142,6 +50211,7 @@ paul johnson
 paul koulak
 paul magnette
 paul mccartney
+paul pelosi
 paul pogba
 paul potts
 paul quiles
@@ -51088,6 +51158,7 @@ revalorisation des retraites
 reveillon noel
 rfc liege
 rfj
+rhb weltrekord
 rheingold
 rheinland-pfalz
 rheinmetall-aktie
@@ -51493,6 +51564,7 @@ saint-étienne – troyes
 sainte-anne
 sainte-barbe
 sainte-catherine
+sainte-soline
 saintjean
 saka
 salah abdeslam
@@ -52631,6 +52703,7 @@ telezüri
 tellement proches
 tematai le gayic
 temenos
+tempeh
 temperatur
 temperatuur
 tempete
@@ -52741,6 +52814,7 @@ the voice france 2022
 the voice kids
 the voice kids 2022
 the voice of germany 2021
+the voice of germany 2022
 the watcher
 the wave
 the weeknd
@@ -52791,6 +52865,7 @@ thomas aeschi
 thomas bach
 thomas briels
 thomas chisholm
+thomas da costa
 thomas dürr
 thomas gottschalk
 thomas hayo
@@ -53886,6 +53961,7 @@ wintersonnenwende
 winterspiele 2022
 winterthur
 wintertijd
+winterzeit zeitumstellung
 winx
 wir impfen
 wisconsin
@@ -54087,6 +54163,7 @@ zeitumstellung
 zeitumstellung 2021
 zeitumstellung 2022
 zeitumstellung oktober 2021
+zeitumstellung schweiz
 zeki amdouni
 zelda: tears of the kingdom
 zelensky
