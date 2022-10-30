@@ -941,6 +941,7 @@ ANDERLECHT  OHL
 ANDERLECHT  OOSTENDE
 ANDERLECHT  PAIDE
 ANDERLECHT - CLUB BRUGGE
+ANDERLECHT - EUPEN
 ANDERLECHT - GENK
 ANDERLECHT CLUB BRUGGE
 ANDERLECHT GENT
@@ -952,6 +953,7 @@ ANDERLECHT YOUNG BERN
 ANDERLECHT – CHARLEROI SC
 ANDERLECHT – FCSB
 ANDERLECHT – KAA GENT
+ANDERLECHT – KAS EUPEN
 ANDERLECHT – LYON
 ANDERLECHT – OOSTENDE
 ANDERLECHT – STANDARD
@@ -1286,6 +1288,7 @@ ARMENIE
 ARMENIEN
 ARMENIEN GEGEN DEUTSCHLAND
 ARMIE HAMMER
+ARMIN ROHDE
 ARMINIA GEGEN BAYERN
 ARMISTICE
 ARMON ORLIK
@@ -1309,6 +1312,7 @@ ARNSTAD
 ARNmessager
 ARON PIPER
 AROSA BÄRENLAND
+AROUCA – SPORTING
 ARRETE MOI SI TU PEUX
 ARROSTICINI
 ARSENAL
@@ -1524,6 +1528,7 @@ AUTRICHE-DANEMARK
 AUTRICHEFOOT
 AUXERRE
 AUXERRE SAINT-ETIENNE
+AUXERRE – AJACCIO
 AUXERRE – BREST
 AUXERRE – GUINGAMP
 AUXERRE – LORIENT
@@ -2463,6 +2468,7 @@ Anderlecht  OHL
 Anderlecht  Oostende
 Anderlecht  Paide
 Anderlecht - Club Brugge
+Anderlecht - Eupen
 Anderlecht - Genk
 Anderlecht Club Brugge
 Anderlecht Gent
@@ -2474,6 +2480,7 @@ Anderlecht match
 Anderlecht – Charleroi SC
 Anderlecht – Charleroi sc
 Anderlecht – FCSB
+Anderlecht – KAS Eupen
 Anderlecht – Lyon
 Anderlecht – Oostende
 Anderlecht – Standard
@@ -2483,6 +2490,7 @@ Anderlecht – kaa Gent
 Anderlecht-Antwerp
 Anderlecht-Club Brugge
 Anderlecht-ClubBrugge
+Anderlecht-Eupen
 Anderlecht-Genk
 Anderlecht-Standard
 AnderlechtAntwerp
@@ -2505,6 +2513,7 @@ Anderlechtmatch
 Anderlecht–CharleroiSC
 Anderlecht–Charleroisc
 Anderlecht–FCSB
+Anderlecht–KASEupen
 Anderlecht–Lyon
 Anderlecht–Oostende
 Anderlecht–Standard
@@ -3069,6 +3078,8 @@ Armenien gegen Deutschland
 ArmeniengegenDeutschland
 Armie Hammer
 ArmieHammer
+Armin Rohde
+ArminRohde
 Arminia gegen Bayern
 ArminiagegenBayern
 Armistice
@@ -3103,6 +3114,8 @@ Aron Piper
 AronPiper
 Arosa Bärenland
 ArosaBärenland
+Arouca – Sporting
+Arouca–Sporting
 Arrete moi si tu peux
 Arretemoisitupeux
 Arrosticini
@@ -3426,6 +3439,7 @@ Auvide-grenier
 Auxerre
 Auxerre Saint-Etienne
 Auxerre SaintEtienne
+Auxerre – Ajaccio
 Auxerre – Brest
 Auxerre – Guingamp
 Auxerre – Lorient
@@ -3435,6 +3449,7 @@ Auxerre – Saint-Étienne
 Auxerre – SaintÉtienne
 Auxerre – Strasbourg
 AuxerreSaint-Etienne
+Auxerre–Ajaccio
 Auxerre–Brest
 Auxerre–Guingamp
 Auxerre–Lorient
@@ -3711,6 +3726,7 @@ BAYERN GEGEN FREIBURG
 BAYERN GEGEN HERTHA
 BAYERN GEGEN KÖLN
 BAYERN GEGEN LEVERKUSEN
+BAYERN GEGEN MAINZ
 BAYERN GEGEN MAN CITY
 BAYERN GEGEN MÖNCHENGLADBACH
 BAYERN GEGEN RB LEIPZIG
@@ -4834,6 +4850,7 @@ Bayern gegen Freiburg
 Bayern gegen Hertha
 Bayern gegen Köln
 Bayern gegen Leverkusen
+Bayern gegen Mainz
 Bayern gegen Man City
 Bayern gegen Mönchengladbach
 Bayern gegen RB Leipzig
@@ -4869,6 +4886,7 @@ BayerngegenFreiburg
 BayerngegenHertha
 BayerngegenKöln
 BayerngegenLeverkusen
+BayerngegenMainz
 BayerngegenManCity
 BayerngegenMönchengladbach
 BayerngegenRBLeipzig
@@ -6105,6 +6123,7 @@ Börse
 CAC 40
 CAC40
 CACTUSFESTIVAL
+CADIX – ATLÉTICO MADRID
 CADIX – BARCELONA
 CAEN
 CAEN – GUINGAMP
@@ -6789,6 +6808,7 @@ CLUB BRUGGE  GENK
 CLUB BRUGGE  GENT
 CLUB BRUGGE  KORTRIJK
 CLUB BRUGGE  MECHELEN
+CLUB BRUGGE  OOSTENDE
 CLUB BRUGGE  STANDARD
 CLUB BRUGGE  STVV
 CLUB BRUGGE  WESTERLO
@@ -7120,7 +7140,9 @@ CYRIL LIGNAC
 CYRIL NGONGE
 CYRILHANOUNA
 Cactusfestival
+Cadix – Atlético Madrid
 Cadix – barcelona
+Cadix–AtléticoMadrid
 Cadix–barcelona
 Caen
 Caen – Guingamp
@@ -8290,6 +8312,7 @@ Club Brugge  Genk
 Club Brugge  Gent
 Club Brugge  Kortrijk
 Club Brugge  Mechelen
+Club Brugge  Oostende
 Club Brugge  STVV
 Club Brugge  Standard
 Club Brugge  Westerlo
@@ -8318,6 +8341,7 @@ ClubBruggeGent
 ClubBruggeKortrijk
 ClubBruggeManchesterCity
 ClubBruggeMechelen
+ClubBruggeOostende
 ClubBruggePSG
 ClubBruggeSTVV
 ClubBruggeStandard
@@ -12033,11 +12057,13 @@ F1 Imola 2022
 F1 JAPAN
 F1 Japan
 F1 LIVE
+F1 MEXICO
 F1 MEXIQUE
 F1 MIAMI
 F1 MONACO
 F1 MONZA
 F1 MONZA 2021
+F1 Mexico
 F1 Mexique
 F1 Monaco
 F1 Monza
@@ -12074,6 +12100,7 @@ F1Canada
 F1France
 F1Imola2022
 F1Japan
+F1Mexico
 F1Mexique
 F1Monaco
 F1Monza
@@ -12110,6 +12137,7 @@ FABIEN ROUSSEL
 FABIENNE CARAT
 FABIENNE HUMM
 FABIENNE KOCHER
+FABIENNE LOUVES
 FABIENNE SCHLUMPF
 FABIO JAKOBSEN
 FABIO QUARTARARO
@@ -12543,6 +12571,7 @@ FK Qarabag – Nantes
 FKQarabag–Nantes
 FLACHAU
 FLAMANVILLE
+FLAMENGO
 FLAUBERT
 FLAVIE FLAMENT
 FLECHE BRABANCONNE 2022
@@ -12898,10 +12927,12 @@ FabienRoussel
 Fabienne Carat
 Fabienne Humm
 Fabienne Kocher
+Fabienne Louves
 Fabienne Schlumpf
 FabienneCarat
 FabienneHumm
 FabienneKocher
+FabienneLouves
 FabienneSchlumpf
 Fabio Jakobsen
 Fabio Quartararo
@@ -13281,6 +13312,7 @@ FirstKill
 Firstdates
 Flachau
 Flamanville
+Flamengo
 Flaubert
 Flavie Flament
 FlavieFlament
@@ -14310,8 +14342,10 @@ GP F1
 GP HONGRIE
 GP Hongrie
 GP JAPON
+GP MEXIQUE
 GP MONACO
 GP MOTO
+GP Mexique
 GP Monaco
 GP Moto
 GP moto
@@ -14323,6 +14357,7 @@ GPCanada
 GPExplorer
 GPF1
 GPHongrie
+GPMexique
 GPMonaco
 GPMoto
 GPmoto
@@ -17487,6 +17522,7 @@ JEFF SAIBENE
 JEFFBEZOS
 JEFFREY DAHMER
 JEFFREY EPSTEIN
+JELLE CLEYMANS
 JELLE GEENS
 JENIFER
 JENKE-EXPERIMENT
@@ -18342,7 +18378,9 @@ Jeffrey Dahmer
 Jeffrey Epstein
 JeffreyDahmer
 JeffreyEpstein
+Jelle Cleymans
 Jelle Geens
+JelleCleymans
 JelleGeens
 Jenifer
 Jenke-Experiment
@@ -23158,6 +23196,8 @@ MARSEILLE – RENNES
 MARSEILLE – SAINT-ÉTIENNE
 MARSEILLE – STRASBOURG
 MARSEILLE – TROYES
+MARSEILLE-CASSIS
+MARSEILLE-CASSIS 2022
 MARTA CAVALLI
 MARTA ORTEGA
 MARTEN VAN RIEL
@@ -24719,6 +24759,11 @@ Marseille – Saint-Étienne
 Marseille – SaintÉtienne
 Marseille – Strasbourg
 Marseille – Troyes
+Marseille-Cassis
+Marseille-Cassis 2022
+Marseille-Cassis2022
+MarseilleCassis
+MarseilleCassis 2022
 MarseilleFeyenoord
 MarseilleSaint-Etienne
 MarseillegegenEintrachtFrankfurt
@@ -26358,6 +26403,7 @@ NEW YORK TIMES
 NEWB
 NEWCASTLE
 NEWCASTLE UNITED
+NEWCASTLE – ASTON VILLA
 NEWCASTLE – LIVERPOOL
 NEWCASTLE – MAN CITY
 NEWCASTLE – MANCHESTER UNITED
@@ -26965,10 +27011,12 @@ NewYorkTimes
 NewYorkrb–barcelona
 Newcastle
 Newcastle United
+Newcastle – Aston Villa
 Newcastle – Liverpool
 Newcastle – Man City
 Newcastle – Manchester United
 NewcastleUnited
+Newcastle–AstonVilla
 Newcastle–Liverpool
 Newcastle–ManCity
 Newcastle–ManchesterUnited
@@ -32684,6 +32732,7 @@ SENEGALCAPVERT
 SENS COMMUN
 SENTINEL 6
 SENTINEL6
+SEOUL
 SEPARATORENFLEISCH
 SEPHORA
 SEPP BLATTER
@@ -34080,6 +34129,7 @@ Sens commun
 Senscommun
 Sentinel 6
 Sentinel6
+Seoul
 Separatorenfleisch
 Sephora
 Sepp Blatter
@@ -35722,6 +35772,7 @@ TOM DE COCK
 TOM DUMOULIN
 TOM FELTON
 TOM FORD
+TOM GREGORY
 TOM HANKS
 TOM HARDY
 TOM HIDDLESTON
@@ -36652,6 +36703,7 @@ Tom De Cock
 Tom Dumoulin
 Tom Felton
 Tom Ford
+Tom Gregory
 Tom Hanks
 Tom Hardy
 Tom Hiddleston
@@ -36672,6 +36724,7 @@ TomDeCock
 TomDumoulin
 TomFelton
 TomFord
+TomGregory
 TomHanks
 TomHardy
 TomHiddleston
@@ -37851,6 +37904,7 @@ VITE MON PRENOM
 VITESSE
 VITESSE ANDERLECHT
 VITINHA
+VITTORIO BOIOCCHI
 VIVA FOR LIFE
 VIVE LE VELO
 VIVES KORTRIJK
@@ -38328,6 +38382,8 @@ Vitesse
 Vitesse Anderlecht
 VitesseAnderlecht
 Vitinha
+Vittorio Boiocchi
+VittorioBoiocchi
 Viva For Life
 Viva for Life
 VivaForLife
@@ -39594,6 +39650,7 @@ ZSC Lions
 ZSCLions
 ZUHAL DEMIR
 ZUID-AFRIKA
+ZUID-KOREA
 ZUKUNFTSTAG
 ZULTE WAREGEM
 ZULTE WAREGEM VS ANDERLECHT
@@ -39786,7 +39843,9 @@ ZuRICHFLUGHAFEN
 Zuhal Demir
 ZuhalDemir
 Zuid-Afrika
+Zuid-Korea
 ZuidAfrika
+ZuidKorea
 Zukunftstag
 Zulte Waregem
 Zulte Waregem vs Anderlecht
@@ -40385,6 +40444,7 @@ anderlecht  ohl
 anderlecht  oostende
 anderlecht  paide
 anderlecht - club brugge
+anderlecht - eupen
 anderlecht - genk
 anderlecht club brugge
 anderlecht gent
@@ -40396,6 +40456,7 @@ anderlecht young bern
 anderlecht – charleroi sc
 anderlecht – fcsb
 anderlecht – kaa gent
+anderlecht – kas eupen
 anderlecht – lyon
 anderlecht – oostende
 anderlecht – standard
@@ -40732,6 +40793,7 @@ armenie
 armenien
 armenien gegen deutschland
 armie hammer
+armin rohde
 arminia gegen bayern
 armistice
 armon orlik
@@ -40753,6 +40815,7 @@ arnoldodermatt
 arnstad
 aron piper
 arosa bärenland
+arouca – sporting
 arrete moi si tu peux
 arrosticini
 arsenal
@@ -40937,6 +41000,7 @@ autriche-danemark
 autrichefoot
 auxerre
 auxerre saint-etienne
+auxerre – ajaccio
 auxerre – brest
 auxerre – guingamp
 auxerre – lorient
@@ -41180,6 +41244,7 @@ bayern gegen freiburg
 bayern gegen hertha
 bayern gegen köln
 bayern gegen leverkusen
+bayern gegen mainz
 bayern gegen man city
 bayern gegen mönchengladbach
 bayern gegen rb leipzig
@@ -41951,6 +42016,7 @@ börse
 cac 40
 cac40
 cactusfestival
+cadix – atlético madrid
 cadix – barcelona
 caen
 caen – guingamp
@@ -42629,6 +42695,7 @@ club brugge  genk
 club brugge  gent
 club brugge  kortrijk
 club brugge  mechelen
+club brugge  oostende
 club brugge  standard
 club brugge  stvv
 club brugge  westerlo
@@ -44125,6 +44192,7 @@ f1 france
 f1 imola 2022
 f1 japan
 f1 live
+f1 mexico
 f1 mexique
 f1 miami
 f1 monaco
@@ -44154,6 +44222,7 @@ fabien roussel
 fabienne carat
 fabienne humm
 fabienne kocher
+fabienne louves
 fabienne schlumpf
 fabio jakobsen
 fabio quartararo
@@ -44457,6 +44526,7 @@ first kill
 fk qarabag – nantes
 flachau
 flamanville
+flamengo
 flaubert
 flavie flament
 fleche brabanconne 2022
@@ -45147,6 +45217,7 @@ gp explorer
 gp f1
 gp hongrie
 gp japon
+gp mexique
 gp monaco
 gp moto
 gpautriche
@@ -46308,6 +46379,7 @@ jeff saibene
 jeffbezos
 jeffrey dahmer
 jeffrey epstein
+jelle cleymans
 jelle geens
 jenifer
 jenke-experiment
@@ -48457,6 +48529,8 @@ marseille – rennes
 marseille – saint-étienne
 marseille – strasbourg
 marseille – troyes
+marseille-cassis
+marseille-cassis 2022
 marta cavalli
 marta ortega
 marten van riel
@@ -49451,6 +49525,7 @@ new york times
 newb
 newcastle
 newcastle united
+newcastle – aston villa
 newcastle – liverpool
 newcastle – man city
 newcastle – manchester united
@@ -51848,6 +51923,7 @@ senegal-cap-vert
 sens commun
 sentinel 6
 sentinel6
+seoul
 separatorenfleisch
 sephora
 sepp blatter
@@ -52977,6 +53053,7 @@ tom de cock
 tom dumoulin
 tom felton
 tom ford
+tom gregory
 tom hanks
 tom hardy
 tom hiddleston
@@ -53676,6 +53753,7 @@ vite mon prenom
 vitesse
 vitesse anderlecht
 vitinha
+vittorio boiocchi
 viva for life
 vive le velo
 vives kortrijk
@@ -54245,6 +54323,7 @@ zsc
 zsc lions
 zuhal demir
 zuid-afrika
+zuid-korea
 zukunftstag
 zulte waregem
 zulte waregem vs anderlecht
