@@ -13355,6 +13355,7 @@ CHASER
 CHASSE
 CHASSEURS
 CHASSEURS DE TORNADES
+CHASSEZ
 CHASTA
 CHASTV
 CHASUBLE
@@ -15760,6 +15761,7 @@ Chasse
 Chasseurs
 Chasseurs de Tornades
 ChasseursdeTornades
+Chassez
 Chasuble
 Chat
 Chat Noir
@@ -17403,6 +17405,7 @@ DANS 5
 DANS LA LEGENDE
 DANS LA LÉGENDE
 DANS LES 18
+DANS LES 2
 DANS1
 DANSAERT
 DANSE
@@ -19243,6 +19246,7 @@ Dans 5
 Dans La Légende
 Dans la Légende
 Dans les 18
+Dans les 2
 Dans1
 Dans2h
 Dans5
@@ -19254,6 +19258,7 @@ DanseAvecLesStars
 Dansefolklo
 DanslaLégende
 Dansles18
+Dansles2
 Danso
 Dante
 Dante Rigo
@@ -66619,12 +66624,16 @@ SORTONSLESPOUBELLES
 SOS FANTÔMES
 SOS Fantômes
 SOS MEDECINS
+SOS MEDITERRANEE
+SOS MÉDITERRANÉE
 SOS Médecins
+SOS Méditerranée
 SOS RACISME
 SOS Racisme
 SOSFantômes
 SOSMEDECINS
 SOSMédecins
+SOSMéditerranée
 SOSO MANESS
 SOSOMANESS
 SOSRACISME
@@ -78155,6 +78164,7 @@ WAPENSTILSTAND
 WAPPIE
 WAPPIES
 WARCRAFT
+WARCRAFTSTORY
 WARD
 WAREGEM
 WAREGEM KOERSE
@@ -79083,6 +79093,7 @@ Waouw
 Wapenstilstand
 Wappies
 Warcraft
+WarcraftStory
 Ward
 Waregem
 Waregem Koerse
@@ -88654,6 +88665,7 @@ chasse
 chasseurs
 chasseurs de tornades
 chasseursdetornades
+chassez
 chasta
 chastv
 chasuble
@@ -90383,6 +90395,7 @@ dans 2h
 dans 5
 dans la légende
 dans les 18
+dans les 2
 dans1
 dans5
 dansaert
@@ -116799,6 +116812,7 @@ sortievf
 sortonslespoubelles
 sos fantômes
 sos médecins
+sos méditerranée
 sos racisme
 sosfantômes
 sosmédecins
@@ -121875,6 +121889,7 @@ wapenstilstand
 wappie
 wappies
 warcraft
+warcraftstory
 ward
 waregem
 waregem koerse
