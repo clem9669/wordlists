@@ -12958,6 +12958,7 @@ CDISCOUNTCADEAUMYSTERE
 CDISCOUNTFRENCHDAYS
 CDISCOUNTOCTOBREFOU
 CDISCOUNTREGALENOUS
+CDISCOUNTSINGLESDAY
 CDISCOUNTSOLDES
 CDISCOUNTSURCLASSEMOI
 CDM 2018
@@ -15454,6 +15455,7 @@ CdiscountCadeauMystere
 CdiscountFrenchDays
 CdiscountOctobreFou
 CdiscountRegaleNous
+CdiscountSinglesDay
 CdiscountSoldes
 CdiscountSurClasseMoi
 Cdv
@@ -25850,7 +25852,9 @@ Ferencvaros
 Ferguson
 Ferhat
 Ferland
+Ferland MENDY
 Ferland Mendy
+FerlandMENDY
 FerlandMendy
 Fermeture
 Fernand
@@ -88620,6 +88624,7 @@ cdiscountcadeaumystere
 cdiscountfrenchdays
 cdiscountoctobrefou
 cdiscountregalenous
+cdiscountsinglesday
 cdiscountsoldes
 cdiscountsurclassemoi
 cdm 2018
