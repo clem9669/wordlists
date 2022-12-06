@@ -687,6 +687,7 @@ AKTENZEICHEN XY
 AL CAPONE
 AL QAIDA
 AL-HILAL – CHELSEA
+AL-NASSR
 AL-ZAWAHIRI
 ALAIN ASPECT
 ALAIN BASHUNG
@@ -2076,8 +2077,10 @@ Al Capone
 Al Qaida
 Al-Hilal – Chelsea
 Al-Hilal–Chelsea
+Al-Nassr
 AlCapone
 AlHilal – Chelsea
+AlNassr
 AlQaida
 Alain Aspect
 Alain Bashung
@@ -4591,6 +4594,7 @@ BRAQUAGE CHANEL
 BRASILIEN - ARGENTINIEN
 BRASILIEN GEGEN SCHWEIZ
 BRASILIEN GEGEN SERBIEN
+BRASILIEN GEGEN SÜDKOREA
 BRASILIEN WAHLEN
 BRASILIEN WAHLEN 2022
 BRASS AGAINST
@@ -4599,6 +4603,7 @@ BRASSERIE LORRAINE
 BRAZIL
 BRAZILIE ARGENTINIE
 BRAZILIË  SERVIË
+BRAZILIË  ZUID-KOREA
 BREAKFAST CLUB
 BREEL EMBOLO
 BREELEMBOLO
@@ -6153,11 +6158,13 @@ Brasilien Wahlen
 Brasilien Wahlen 2022
 Brasilien gegen Schweiz
 Brasilien gegen Serbien
+Brasilien gegen Südkorea
 Brasilien-Argentinien
 BrasilienWahlen
 BrasilienWahlen2022
 BrasiliengegenSchweiz
 BrasiliengegenSerbien
+BrasiliengegenSüdkorea
 Brass Against
 BrassAgainst
 Brassens
@@ -6167,7 +6174,10 @@ Brazil
 Brazilie argentinie
 Brazilieargentinie
 Brazilië  Servië
+Brazilië  Zuid-Korea
+Brazilië  ZuidKorea
 BraziliëServië
+BraziliëZuid-Korea
 Breakfast Club
 BreakfastClub
 Breel Embolo
@@ -6934,6 +6944,7 @@ CHASSEUR BLANC COEUR NOIR
 CHAT
 CHATEAUROUX
 CHATEL
+CHATGPT
 CHE GUEVARA
 CHEF ETOILE YANNICK ALLENO
 CHEICK KONGO
@@ -7520,6 +7531,7 @@ CRESSIER
 CRETE
 CREUX-DU-VAN
 CRINGE
+CRISE ÉNERGÉTIQUE
 CRISTIANO RONALDO
 CRISTINA KIRCHNER
 CRITERIUM JURASSIEN
@@ -8296,6 +8308,7 @@ Charmed
 Chasseur blanc coeur noir
 Chasseurblanccoeurnoir
 Chat
+ChatGPT
 Chateauroux
 Chatel
 Che Guevara
@@ -9303,6 +9316,8 @@ Crete
 Creux-du-Van
 CreuxduVan
 Cringe
+Crise énergétique
+Criseénergétique
 Cristiano Ronaldo
 CristianoRonaldo
 Cristina Kirchner
@@ -13568,6 +13583,7 @@ FRANCKRIBERY
 FRANCKRIBeRY
 FRANCKRIBéRY
 FRANCKY DURY
+FRANCKY VINCENT
 FRANCO DRAGONE
 FRANCO FODA
 FRANCO GATTI
@@ -14536,7 +14552,9 @@ FranckProvost
 FranckRibery
 FranckRibéry
 Francky Dury
+Francky Vincent
 FranckyDury
+FranckyVincent
 Franco Dragone
 Franco Foda
 Franco Gatti
@@ -15330,6 +15348,7 @@ GREVE NATIONALE
 GREVE RATP
 GREVE SNCB
 GREVE SNCF
+GREVE SNCF 7 DECEMBRE 2022
 GREVE TCL
 GREVEAEROPORT
 GREVESNCF
@@ -15428,6 +15447,7 @@ GUY LAPORTE
 GUY MARCHAND
 GUY SAVOY
 GUY VERHOFSTADT
+GVARDIOL
 GWEN STEFANI
 GWENDOLINE CHRISTIE
 GWENSTEFANI
@@ -16177,6 +16197,7 @@ Greve 9 novembre
 Greve RATP
 Greve SNCB
 Greve SNCF
+Greve SNCF 7 decembre 2022
 Greve TCL
 Greve aeroport
 Greve controleur aerien
@@ -16202,6 +16223,7 @@ Greve9novembre
 GreveRATP
 GreveSNCB
 GreveSNCF
+GreveSNCF7decembre2022
 GreveTCL
 Greveaeroport
 Grevecontroleuraerien
@@ -16371,6 +16393,7 @@ GuyLaporte
 GuyMarchand
 GuySavoy
 GuyVerhofstadt
+Gvardiol
 Gwen Stefani
 GwenStefani
 Gwendoline Christie
@@ -20486,6 +20509,7 @@ KIRCHENGLOCKEN LÄUTEN UKRAINE
 KIRGISTAN
 KIRIBATI
 KIRK HAMMETT
+KIRSTIE ALLEY
 KIRSTY BERTARELLI
 KISS
 KISS A GINGER DAY
@@ -21027,6 +21051,8 @@ Kirgistan
 Kiribati
 Kirk Hammett
 KirkHammett
+Kirstie Alley
+KirstieAlley
 Kirsty Bertarelli
 KirstyBertarelli
 Kiss
@@ -24537,6 +24563,7 @@ MAROKKO  KROATIË
 MAROKKO BELGIE
 MAROKKO CANADA
 MAROKKO GEGEN KROATIEN
+MAROKKO SPANIEN
 MARQUEE
 MARSCH FÜRS LEBEN
 MARSEILLE
@@ -25203,6 +25230,7 @@ MODISSA
 MODRIC
 MOEDERDAG
 MOHA LA SQUALE
+MOHAMED ABRINI
 MOHAMED ALI
 MOHAMED BOUHAFSI
 MOHAMMED BEN SALMANE
@@ -26188,10 +26216,12 @@ Maroc–Espagne
 Maroc–Malawi
 Marokko  Kroatië
 Marokko Canada
+Marokko Spanien
 Marokko belgie
 Marokko gegen Kroatien
 MarokkoCanada
 MarokkoKroatië
+MarokkoSpanien
 Marokkobelgie
 MarokkogegenKroatien
 Marquee
@@ -27357,8 +27387,10 @@ Modric
 Moederdag
 Moha La Squale
 MohaLaSquale
+Mohamed Abrini
 Mohamed Ali
 Mohamed Bouhafsi
+MohamedAbrini
 MohamedAli
 MohamedBouhafsi
 Mohammed ben Salmane
@@ -28044,6 +28076,7 @@ NICE-MARSEILLE
 NICE-MATIN
 NICHELLE NICHOLS
 NICHOLAS ANGELICH
+NICK BOLLETTIERI
 NICK CANNON
 NICK CAVE
 NICK CAVE WERCHTER
@@ -28195,6 +28228,7 @@ NORDI MUKIELE
 NORDMAZEDONIEN
 NORM MACDONALD
 NORMAL PEOPLE
+NORMAN
 NORMANDIE
 NOROVIRUS
 NORVEGE
@@ -28702,11 +28736,13 @@ Nichelle Nichols
 NichelleNichols
 Nicholas Angelich
 NicholasAngelich
+Nick Bollettieri
 Nick Cannon
 Nick Cave
 Nick Cave Werchter
 Nick Kyrgios
 Nick Nuyens
+NickBollettieri
 NickCannon
 NickCave
 NickCaveWerchter
@@ -28937,6 +28973,7 @@ Norm Macdonald
 NormMacdonald
 Normal People
 NormalPeople
+Norman
 Normandie
 Norovirus
 Norvege
@@ -29143,6 +29180,7 @@ OLIGARCHEN
 OLIGARCHEN RUSSLAND
 OLIGARCHEN SCHWEIZ
 OLIGARQUE
+OLIVER BIERHOFF
 OLIVER DAEMEN
 OLIVER FRANK
 OLIVER POCHER
@@ -29516,10 +29554,12 @@ Oligarchen Schweiz
 OligarchenRussland
 OligarchenSchweiz
 Oligarque
+Oliver Bierhoff
 Oliver Daemen
 Oliver Frank
 Oliver Pocher
 Oliver Wnuk
+OliverBierhoff
 OliverDaemen
 OliverFrank
 OliverPocher
@@ -30137,6 +30177,7 @@ PAULA BADOSA
 PAULETTE NARDAL
 PAULINE FERRAND PREVOT
 PAULKOULAK
+PAULO BENTO
 PAULRICARD
 PAUS FRANCISCUS
 PAVARD
@@ -30319,6 +30360,7 @@ PHILIPPE MARTINEZ
 PHILIPPE POUTOU
 PHILIPPE SONNET
 PHILIPPE WARRIN
+PHILIPPINE LEROY-BEAULIEU
 PHILIPPINES
 PHILIPS SONICARE
 PHILOUSPORTS
@@ -30514,6 +30556,7 @@ PORTUGAL COVID
 PORTUGAL FOOT
 PORTUGAL FUTSAL
 PORTUGAL GEGEN GHANA
+PORTUGAL GEGEN SCHWEIZ
 PORTUGAL GEGEN SPANIEN
 PORTUGAL GEGEN TSCHECHIEN
 PORTUGAL IRLANDE
@@ -31271,6 +31314,8 @@ Paulette Nardal
 PauletteNardal
 Pauline Ferrand prevot
 PaulineFerrandprevot
+Paulo Bento
+PauloBento
 Paulquiles
 Paus Franciscus
 PausFranciscus
@@ -31564,6 +31609,9 @@ PhilippePoutou
 PhilippeSonnet
 PhilippeWarrin
 PhilippedeVilliers
+Philippine Leroy-Beaulieu
+Philippine LeroyBeaulieu
+PhilippineLeroy-Beaulieu
 Philippines
 Philips Sonicare
 PhilipsSonicare
@@ -31887,6 +31935,7 @@ Portugal Türkei
 Portugal corona
 Portugal foot
 Portugal gegen Ghana
+Portugal gegen Schweiz
 Portugal gegen Spanien
 Portugal gegen Tschechien
 Portugal macedoine
@@ -31923,6 +31972,7 @@ PortugalTürkei
 Portugalcorona
 Portugalfoot
 PortugalgegenGhana
+PortugalgegenSchweiz
 PortugalgegenSpanien
 PortugalgegenTschechien
 Portugalmacedoine
@@ -34327,6 +34377,7 @@ SAINT-MALO
 SAINT-MARIN – ANGLETERRE
 SAINT-MICHEL
 SAINT-NICOLAS
+SAINT-NICOLAS!
 SAINT-PATRICK
 SAINT-PIERRE D'IRUBE
 SAINT-PIERRE-ET-MIQUELON
@@ -34413,6 +34464,7 @@ SAMSUNG GALAXY S21 ULTRA
 SAMSUNG GALAXY S22
 SAMSUNG Z FLIP 4
 SAMUEL ETIENNE
+SAMUEL ETO'O
 SAMUEL GIGER
 SAMUEL KALU
 SAMUEL KOCH
@@ -35116,8 +35168,10 @@ SRFbideLüt
 SRFlive
 SRI LANKA
 SSW
+ST NICOLAS
 ST PATRICK'S DAY 2022
 ST VALENTIN
+ST-NICOLAS
 ST. ETIENNE
 ST. GALLEN GEGEN LUZERN
 ST. GALLEN – SION
@@ -35559,6 +35613,7 @@ Saint-Marin – Angleterre
 Saint-Marin–Angleterre
 Saint-Michel
 Saint-Nicolas
+Saint-Nicolas!
 Saint-Patrick
 Saint-Pierre d'Irube
 Saint-Pierre-et-Miquelon
@@ -35617,6 +35672,7 @@ SaintMalo
 SaintMarin – Angleterre
 SaintMichel
 SaintNicolas
+SaintNicolas!
 SaintPatrick
 SaintPierre d'Irube
 SaintPierreetMiquelon
@@ -35748,12 +35804,14 @@ SamsungGalaxyS21Ultra
 SamsungGalaxyS22
 SamsungZFlip4
 Samuel Etienne
+Samuel Eto'o
 Samuel Giger
 Samuel Kalu
 Samuel Koch
 Samuel Le Bihan
 Samuel Paty
 SamuelEtienne
+SamuelEto'o
 SamuelGiger
 SamuelKalu
 SamuelKoch
@@ -36798,8 +36856,10 @@ SrfSport
 SrfSportLive
 Sri Lanka
 SriLanka
+St Nicolas
 St Patrick's Day 2022
 St Valentin
+St-Nicolas
 St. Etienne
 St. Gallen gegen Luzern
 St. Gallen – Sion
@@ -36813,6 +36873,7 @@ St.GallengegenLugano
 St.GallengegenLuzern
 St.Gallen–Sion
 St.Patrick'sDay
+StNicolas
 StPatrick'sDay2022
 StValentin
 Staatsloterij
@@ -37505,6 +37566,7 @@ TAMARA FALCO
 TAMARA FUNICIELLO
 TAMBAY
 TAMBERI
+TAMINO
 TAMME HANKEN
 TANGUY
 TANGUY NEF
@@ -37653,6 +37715,7 @@ THE DARK KNIGHT
 THE DARKEST MINDS
 THE DEMON HOUSE
 THE DOORS
+THE DUCHESS
 THE FRENCH DISPATCH
 THE GIANTS GENEVA
 THE GRAY MAN
@@ -38244,6 +38307,7 @@ TamaraFuniciello
 Tamarafalco
 Tambay
 Tamberi
+Tamino
 Tamme Hanken
 TammeHanken
 Tanguy
@@ -38449,6 +38513,7 @@ The Dark Knight
 The Darkest Minds
 The Demon House
 The Doors
+The Duchess
 The French Dispatch
 The Giants Geneva
 The Gray Man
@@ -38527,6 +38592,7 @@ TheDarkKnight
 TheDarkestMinds
 TheDemonHouse
 TheDoors
+TheDuchess
 TheFrenchDispatch
 TheGiantsGeneva
 TheGrayMan
@@ -40157,6 +40223,7 @@ VLAAMSE ENERGIELEVERANCIER
 VLAAMSE FEESTDAG
 VLAAMSE OVERHEID
 VLAANDEREN FEEST
+VLADIMIR POETIN
 VLADIMIR POUTINE
 VLADISLAV DORONIN
 VLADIVOSTOK
@@ -40690,7 +40757,9 @@ Vlaanderen Feest
 Vlaanderen feest
 VlaanderenFeest
 Vlaanderenfeest
+Vladimir Poetin
 Vladimir Poutine
+VladimirPoetin
 VladimirPoutine
 Vladislav Doronin
 VladislavDoronin
@@ -40903,6 +40972,7 @@ WENDY VAN WANTEN
 WER STIEHLT MIR DIE SHOW
 WER WEISS DENN SOWAS
 WER WIRD MILLIONÄR
+WERCHTER
 WERCHTER 2022
 WERCHTER BOUTIQUE
 WERCHTER BOUTIQUE 2022
@@ -41303,6 +41373,7 @@ WendyVanWanten
 Wer stiehlt mir die Show
 Wer weiss denn sowas
 Wer wird Millionär
+Werchter
 Werchter 2022
 Werchter Boutique
 Werchter Boutique 2022
@@ -42564,6 +42635,7 @@ al capone
 al qaida
 al-Zawahiri
 al-hilal – chelsea
+al-nassr
 al-zawahiri
 alZawahiri
 alain aspect
@@ -44318,6 +44390,7 @@ braquage chanel
 brasilien - argentinien
 brasilien gegen schweiz
 brasilien gegen serbien
+brasilien gegen südkorea
 brasilien wahlen
 brasilien wahlen 2022
 brass against
@@ -44326,6 +44399,7 @@ brasserie lorraine
 brazil
 brazilie argentinie
 brazilië  servië
+brazilië  zuid-korea
 breakfast club
 breel embolo
 breelembolo
@@ -44955,6 +45029,7 @@ chasseur blanc coeur noir
 chat
 chateauroux
 chatel
+chatgpt
 che guevara
 chef etoile yannick alleno
 cheick kongo
@@ -45531,6 +45606,7 @@ cressier
 crete
 creux-du-van
 cringe
+crise énergétique
 cristiano ronaldo
 cristina kirchner
 criterium jurassien
@@ -47411,6 +47487,7 @@ franck ribéry
 franckribery
 franckribéry
 francky dury
+francky vincent
 franco dragone
 franco foda
 franco gatti
@@ -48020,6 +48097,7 @@ greve nationale
 greve ratp
 greve sncb
 greve sncf
+greve sncf 7 decembre 2022
 greve tcl
 grevesncf
 grey's anatomy
@@ -48115,6 +48193,7 @@ guy laporte
 guy marchand
 guy savoy
 guy verhofstadt
+gvardiol
 gwen stefani
 gwendoline christie
 gwenstefani
@@ -49780,6 +49859,7 @@ kirchenglocken läuten ukraine
 kirgistan
 kiribati
 kirk hammett
+kirstie alley
 kirsty bertarelli
 kiss
 kiss a ginger day
@@ -51381,6 +51461,7 @@ marokko  kroatië
 marokko belgie
 marokko canada
 marokko gegen kroatien
+marokko spanien
 marquee
 marsch fürs leben
 marseille
@@ -52036,6 +52117,7 @@ modissa
 modric
 moederdag
 moha la squale
+mohamed abrini
 mohamed ali
 mohamed bouhafsi
 mohammed ben salmane
@@ -52515,6 +52597,7 @@ nice-marseille
 nice-matin
 nichelle nichols
 nicholas angelich
+nick bollettieri
 nick cannon
 nick cave
 nick cave werchter
@@ -52658,6 +52741,7 @@ nordi mukiele
 nordmazedonien
 norm macdonald
 normal people
+norman
 normandie
 norovirus
 norvege
@@ -52798,6 +52882,7 @@ oligarchen
 oligarchen russland
 oligarchen schweiz
 oligarque
+oliver bierhoff
 oliver daemen
 oliver frank
 oliver pocher
@@ -53285,6 +53370,7 @@ paula badosa
 paulette nardal
 pauline ferrand prevot
 paulkoulak
+paulo bento
 paulricard
 paus franciscus
 pavard
@@ -53459,6 +53545,7 @@ philippe martinez
 philippe poutou
 philippe sonnet
 philippe warrin
+philippine leroy-beaulieu
 philippines
 philips sonicare
 philousports
@@ -53652,6 +53739,7 @@ portugal covid
 portugal foot
 portugal futsal
 portugal gegen ghana
+portugal gegen schweiz
 portugal gegen spanien
 portugal gegen tschechien
 portugal irlande
@@ -54669,6 +54757,7 @@ saint-malo
 saint-marin – angleterre
 saint-michel
 saint-nicolas
+saint-nicolas!
 saint-patrick
 saint-pierre d'irube
 saint-pierre-et-miquelon
@@ -54755,6 +54844,7 @@ samsung galaxy s21 ultra
 samsung galaxy s22
 samsung z flip 4
 samuel etienne
+samuel eto'o
 samuel giger
 samuel kalu
 samuel koch
@@ -55414,8 +55504,10 @@ srflive
 srfsport
 sri lanka
 ssw
+st nicolas
 st patrick's day 2022
 st valentin
+st-nicolas
 st. etienne
 st. gallen gegen luzern
 st. gallen – sion
@@ -55828,6 +55920,7 @@ tamara falco
 tamara funiciello
 tambay
 tamberi
+tamino
 tamme hanken
 tanguy
 tanguy nef
@@ -55969,6 +56062,7 @@ the dark knight
 the darkest minds
 the demon house
 the doors
+the duchess
 the french dispatch
 the giants geneva
 the gray man
@@ -56948,6 +57042,7 @@ vlaamse energieleverancier
 vlaamse feestdag
 vlaamse overheid
 vlaanderen feest
+vladimir poetin
 vladimir poutine
 vladislav doronin
 vladivostok
@@ -57119,6 +57214,7 @@ wendy van wanten
 wer stiehlt mir die show
 wer weiss denn sowas
 wer wird millionär
+werchter
 werchter 2022
 werchter boutique
 werchter boutique 2022
