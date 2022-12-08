@@ -1102,6 +1102,7 @@ ANGLETERRE SENEGAL
 ANGLETERRE SUEDE
 ANGLETERRE – ALLEMAGNE
 ANGLETERRE – ESPAGNE
+ANGLETERRE – FRANCE
 ANGLETERRE – ITALIE
 ANGLETERRE – NORVÈGE
 ANGLETERRE – SUISSE
@@ -2804,6 +2805,7 @@ Angleterre senegal
 Angleterre suede
 Angleterre – Allemagne
 Angleterre – Espagne
+Angleterre – France
 Angleterre – Italie
 Angleterre – Norvège
 Angleterre – Suisse
@@ -2827,6 +2829,7 @@ Angleterresenegal
 Angleterresuede
 Angleterre–Allemagne
 Angleterre–Espagne
+Angleterre–France
 Angleterre–Italie
 Angleterre–Norvège
 Angleterre–Suisse
@@ -4802,6 +4805,7 @@ BUNDESLIGA HEUTE
 BUNDESRAT
 BUNDESRAT CORONA
 BUNDESRAT CORONA HEUTE
+BUNDESRAT ELISABETH BAUME-SCHNEIDER
 BUNDESRATSWAHLEN 2022
 BUNDESTAGSWAHL 2021
 BUNDESTAGSWAHL 2021 PROGNOSE
@@ -6479,8 +6483,11 @@ Bundesligaheute
 Bundesrat
 Bundesrat Corona
 Bundesrat Corona heute
+Bundesrat Elisabeth Baume-Schneider
+Bundesrat Elisabeth BaumeSchneider
 BundesratCorona
 BundesratCoronaheute
+BundesratElisabethBaume-Schneider
 Bundesratswahlen 2022
 Bundesratswahlen2022
 Bundestagswahl 2021
@@ -9793,6 +9800,7 @@ DEUTSCHLAND. ITALIEN
 DEUTSCHLANDPORTUGAL
 DEUTSCHLANDUNGARN
 DEUX FEMMES
+DEUX-SÈVRES
 DEVA CASSEL
 DEVILLE
 DEXTER
@@ -10650,7 +10658,9 @@ Deutschlandspanien
 DeutschlandsuchtdenSuperstar
 DeutschlandÖsterreich
 Deux femmes
+Deux-sèvres
 Deuxfemmes
+Deuxsèvres
 Deva Cassel
 DevaCassel
 Deverraders
@@ -17472,6 +17482,7 @@ INCROYABLE MAIS VRAI
 INCROYABLE TALENT FLUTE
 INDEED
 INDEMNITÉ CARBURANT
+INDEMNITÉ CARBURANT : 100 EUROS
 INDEMNITÉ CARBURANT TRAVAILLEURS
 INDEPENDENCE DAY
 INDEPENDENCEDAY
@@ -17934,8 +17945,10 @@ Incroyablemaisvrai
 Incroyabletalentflute
 Indeed
 Indemnité carburant
+Indemnité carburant : 100 euros
 Indemnité carburant travailleurs
 Indemnitécarburant
+Indemnitécarburant:100euros
 Indemnitécarburanttravailleurs
 Independence Day
 IndependenceDay
@@ -18423,6 +18436,7 @@ JAMEL DEBBOUZE
 JAMES BLUNT
 JAMES BOND
 JAMES CAAN
+JAMES CAMERON
 JAMES DEAN
 JAMES FOLEY
 JAMES FRANCO
@@ -19128,6 +19142,7 @@ JamelDebbouze
 James Blunt
 James Bond
 James Caan
+James Cameron
 James Dean
 James Foley
 James Franco
@@ -19145,6 +19160,7 @@ James-Webb-Weltraumteleskop
 JamesBlunt
 JamesBond
 JamesCaan
+JamesCameron
 JamesDean
 JamesFoley
 JamesFranco
@@ -21666,6 +21682,7 @@ LE MONDE NE SUFFIT PAS
 LE MYSTÈRE KENDRICK
 LE PARISIEN
 LE PARRAIN
+LE PATIENT ANGLAIS
 LE PHOCEEN
 LE PRENOM
 LE PRINCE ANDREW
@@ -22325,6 +22342,7 @@ LUZERN SCHAFFHAUSEN
 LUZERNER STADTLAUF
 LUZIA TSCHIRKY SRF
 LVIV
+LVMH
 LWIW
 LYCEE MONTAIGNE
 LYDIA
@@ -22825,6 +22843,7 @@ Le Monde
 Le Monde ne suffit pas
 Le Mystère Kendrick
 Le Parisien
+Le Patient anglais
 Le Remplaçant
 Le Samaritain
 Le Samyn
@@ -22898,6 +22917,7 @@ LeMonde
 LeMondenesuffitpas
 LeMystèreKendrick
 LeParisien
+LePatientanglais
 LeRemplaçant
 LeSamaritain
 LeSamyn
@@ -24461,6 +24481,7 @@ MARIA ANUNCIATA DE LIECHTENSTEIN
 MARIA CASARES
 MARIA DEL RIO
 MARIA EMPFÄNGNIS
+MARIA EMPFÄNGNIS FEIERTAG
 MARIA FURTWÄNGLER
 MARIA FURTWÄNGLER HUBERT BURDA
 MARIA HIMMELFAHRT
@@ -24578,6 +24599,7 @@ MAROC – COMORES
 MAROC – CROATIE
 MAROC – ESPAGNE
 MAROC – MALAWI
+MAROC – PORTUGAL
 MAROC-CROATIE
 MAROC-MALAWI
 MAROKKO  KROATIË
@@ -24872,6 +24894,7 @@ MEGHANMARKLE
 MEHDI MEKLAT
 MEHRAN KARIMI NASSERI
 MEILLEUR BUTEUR EURO
+MEILLEUR PATISSIER
 MEILLEURS VOEUX 2022
 MEINEIMPFUNGEN
 MEISE
@@ -26011,6 +26034,7 @@ Maria Andrejczyk
 Maria Anunciata de Liechtenstein
 Maria Del Rio
 Maria Empfängnis
+Maria Empfängnis Feiertag
 Maria Furtwängler
 Maria Furtwängler Hubert Burda
 Maria Himmelfahrt
@@ -26030,6 +26054,7 @@ MariaAndrejczyk
 MariaAnunciatadeLiechtenstein
 MariaDelRio
 MariaEmpfängnis
+MariaEmpfängnisFeiertag
 MariaFurtwängler
 MariaFurtwänglerHubertBurda
 MariaHimmelfahrt
@@ -26223,6 +26248,7 @@ Maroc – Comores
 Maroc – Croatie
 Maroc – Espagne
 Maroc – Malawi
+Maroc – Portugal
 Maroc-Ghana
 Maroc-Malawi
 MarocAlgérie
@@ -26238,6 +26264,7 @@ Maroc–Comores
 Maroc–Croatie
 Maroc–Espagne
 Maroc–Malawi
+Maroc–Portugal
 Marokko  Kroatië
 Marokko Canada
 Marokko Spanien
@@ -26756,7 +26783,9 @@ MehdiMeklat
 Mehran Karimi Nasseri
 MehranKarimiNasseri
 Meilleur buteur Euro
+Meilleur patissier
 MeilleurbuteurEuro
+Meilleurpatissier
 Meilleurs voeux 2022
 Meilleursvoeux2022
 Meineimpfungen
@@ -27980,6 +28009,7 @@ NCUTI GATWA
 NE LE DIS À PERSONNE
 NECKERTAL
 NEDERLAND
+NEDERLAND  ARGENTINIË
 NEDERLAND  VERENIGDE STATEN
 NEDERLAND CORONA
 NEDERLAND OLYMPISCHE SPELEN
@@ -28144,6 +28174,7 @@ NICOLE REIST
 NICOLE SCHMIDHOFER
 NICOLE SHANAHAN
 NICOLETTA
+NIEDERLANDE GEGEN ARGENTINIEN
 NIEDERLANDE TSCHECHIEN
 NIEDERLANDETSCHECHIEN
 NIEDERUZWIL
@@ -28590,6 +28621,7 @@ NcutiGatwa
 Ne le dis à personne
 Neckertal
 Nederland
+Nederland  Argentinië
 Nederland  Verenigde Staten
 Nederland Olympische Spelen
 Nederland Polen
@@ -28600,6 +28632,7 @@ Nederland-Noorwegen
 Nederland-Tsjechie
 Nederland-Tsjechië
 Nederland-Turkije
+NederlandArgentinië
 NederlandNoorwegen
 NederlandOlympischeSpelen
 NederlandPolen
@@ -28842,7 +28875,9 @@ NicoleenHugo
 Nicoleoverleden
 Nicoletta
 Niederlande Tschechien
+Niederlande gegen Argentinien
 NiederlandeTschechien
+NiederlandegegenArgentinien
 Niederuzwil
 Niel
 Niels Destadsbader
@@ -30093,6 +30128,7 @@ PARISMATCH
 PARKINSON
 PARKINSON MICHAEL J. FOX
 PARKWAY DRIVE
+PARODONTITIS
 PARRAINAGE
 PARRAINAGE PRÉSIDENTIELLE
 PARRAINAGES PRÉSIDENTIELLE
@@ -30256,6 +30292,7 @@ PEARL JAM
 PECRESSE
 PEDRI
 PEDRO ALMODOVAR
+PEDRO CASTILLO
 PEDRO ELIAS
 PEGASUS
 PEGASUS SPYWARE
@@ -30284,6 +30321,7 @@ PERISIC
 PERRINE LAFFONT
 PERSCONFERENTIE NEDERLAND
 PERSEIDEN 2022
+PERU
 PES
 PESCARA
 PESTE NOIRE
@@ -31137,6 +31175,7 @@ Parkinson Michael J. Fox
 ParkinsonMichaelJ.Fox
 Parkway drive
 Parkwaydrive
+Parodontitis
 Parrainage
 Parrainage présidentielle
 Parrainageprésidentielle
@@ -31423,8 +31462,10 @@ PearlJam
 Pecresse
 Pedri
 Pedro Almodovar
+Pedro Castillo
 Pedro Elias
 PedroAlmodovar
+PedroCastillo
 PedroElias
 Pegasus
 Pegasus Spyware
@@ -31469,6 +31510,7 @@ Persconferentie Nederland
 PersconferentieNederland
 Perseiden 2022
 Perseiden2022
+Peru
 Pescara
 Peste noire
 Pestenoire
@@ -32326,6 +32368,7 @@ QUANTBIORES
 QUARANTAINE REGELS
 QUARANTAINE SUISSE
 QUARANTÄNE-REGELN
+QUART DE FINALE COUPE DU MONDE 2022
 QUAVO
 QUE FAIRE
 QUEBEC
@@ -32399,6 +32442,8 @@ QuarantaineSuisse
 Quarantaineregels
 Quarantäne-Regeln
 QuarantäneRegeln
+Quart de finale Coupe du monde 2022
+QuartdefinaleCoupedumonde2022
 Quavo
 Que faire
 Quebec
@@ -34595,6 +34640,8 @@ SC CHAM
 SC Cham
 SC FREIBURG
 SC Freiburg
+SC LANGENTHAL
+SC Langenthal
 SCALPING
 SCANDALE
 SCARLETT JOHANSSON
@@ -34700,6 +34747,7 @@ SCHÜTZENGARTEN
 SCL TIGERS
 SCL Tigers
 SCLTigers
+SCLangenthal
 SCOLOPENDRE
 SCOOBY-DOO VERA
 SCORBUT
@@ -35222,6 +35270,7 @@ ST. PATRICK'S DAY
 ST.GALLEN GEGEN FC SION
 ST.GALLEN GEGEN LUGANO
 ST.GALLEN GEGEN LUZERN
+STAATSGREEP DUITSLAND
 STAATSLOTERIJ
 STADE DE FRANCE
 STADE DE GENEVE
@@ -36921,6 +36970,8 @@ St.Patrick'sDay
 StNicolas
 StPatrick'sDay2022
 StValentin
+Staatsgreep Duitsland
+StaatsgreepDuitsland
 Staatsloterij
 Stade Lavallois
 Stade Rennais
@@ -42035,6 +42086,7 @@ ZACHARY HORWITZ
 ZAGREB
 ZAHIA DEHAR
 ZAKARIA
+ZAKARIA ABOUKHLAL
 ZALGIRIS
 ZANDVOORT
 ZANZIBAR
@@ -42200,6 +42252,8 @@ Zagreb
 Zahia Dehar
 ZahiaDehar
 Zakaria
+Zakaria Aboukhlal
+ZakariaAboukhlal
 Zalgiris
 Zandvoort
 Zanzibar
@@ -43095,6 +43149,7 @@ angleterre senegal
 angleterre suede
 angleterre – allemagne
 angleterre – espagne
+angleterre – france
 angleterre – italie
 angleterre – norvège
 angleterre – suisse
@@ -44637,6 +44692,7 @@ bundesliga heute
 bundesrat
 bundesrat corona
 bundesrat corona heute
+bundesrat elisabeth baume-schneider
 bundesratswahlen 2022
 bundestagswahl 2021
 bundestagswahl 2021 prognose
@@ -46053,6 +46109,7 @@ deutschland. italien
 deutschlandportugal
 deutschlandungarn
 deux femmes
+deux-sèvres
 deva cassel
 deville
 dexter
@@ -48757,6 +48814,7 @@ incroyable mais vrai
 incroyable talent flute
 indeed
 indemnité carburant
+indemnité carburant : 100 euros
 indemnité carburant travailleurs
 independence day
 independenceday
@@ -49097,6 +49155,7 @@ jamel debbouze
 james blunt
 james bond
 james caan
+james cameron
 james dean
 james foley
 james franco
@@ -50372,6 +50431,7 @@ le monde ne suffit pas
 le mystère kendrick
 le parisien
 le parrain
+le patient anglais
 le phoceen
 le prenom
 le prince andrew
@@ -51019,6 +51079,7 @@ luzern schaffhausen
 luzerner stadtlauf
 luzia tschirky srf
 lviv
+lvmh
 lwiw
 lycee montaigne
 lydia
@@ -51398,6 +51459,7 @@ maria anunciata de liechtenstein
 maria casares
 maria del rio
 maria empfängnis
+maria empfängnis feiertag
 maria furtwängler
 maria furtwängler hubert burda
 maria himmelfahrt
@@ -51514,6 +51576,7 @@ maroc – comores
 maroc – croatie
 maroc – espagne
 maroc – malawi
+maroc – portugal
 maroc-malawi
 marokko  kroatië
 marokko belgie
@@ -51805,6 +51868,7 @@ meghanmarkle
 mehdi meklat
 mehran karimi nasseri
 meilleur buteur euro
+meilleur patissier
 meilleurs voeux 2022
 meineimpfungen
 meise
@@ -52549,6 +52613,7 @@ ncuti gatwa
 ne le dis à personne
 neckertal
 nederland
+nederland  argentinië
 nederland  verenigde staten
 nederland corona
 nederland olympische spelen
@@ -52698,6 +52763,7 @@ nicole reist
 nicole schmidhofer
 nicole shanahan
 nicoletta
+niederlande gegen argentinien
 niederlande tschechien
 niederlandetschechien
 niederuzwil
@@ -53317,6 +53383,7 @@ parismatch
 parkinson
 parkinson michael j. fox
 parkway drive
+parodontitis
 parrainage
 parrainage présidentielle
 parrainages présidentielle
@@ -53476,6 +53543,7 @@ pearl jam
 pecresse
 pedri
 pedro almodovar
+pedro castillo
 pedro elias
 pegasus
 pegasus spyware
@@ -53504,6 +53572,7 @@ perisic
 perrine laffont
 persconferentie nederland
 perseiden 2022
+peru
 pes
 pescara
 peste noire
@@ -54050,6 +54119,7 @@ quantbiores
 quarantaine regels
 quarantaine suisse
 quarantäne-regeln
+quart de finale coupe du monde 2022
 quavo
 que faire
 quebec
@@ -54995,6 +55065,7 @@ savigny-le-temple
 sberbank
 sc cham
 sc freiburg
+sc langenthal
 scalping
 scandale
 scarlett johansson
@@ -55580,6 +55651,7 @@ st. patrick's day
 st.gallen gegen fc sion
 st.gallen gegen lugano
 st.gallen gegen luzern
+staatsgreep duitsland
 staatsloterij
 stade de france
 stade de geneve
@@ -57603,6 +57675,7 @@ zachary horwitz
 zagreb
 zahia dehar
 zakaria
+zakaria aboukhlal
 zalgiris
 zandvoort
 zanzibar
