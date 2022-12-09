@@ -1414,6 +1414,7 @@ ARSENAL – CHELSEA
 ARSENAL – FULHAM
 ARSENAL – LEICESTER
 ARSENAL – LIVERPOOL
+ARSENAL – LYON
 ARSENAL – MAN CITY
 ARSENAL – MANCHESTER UNITED
 ARSENAL – NOTTM FOREST
@@ -3336,6 +3337,7 @@ Arsenal – Chelsea
 Arsenal – Fulham
 Arsenal – Leicester
 Arsenal – Liverpool
+Arsenal – Lyon
 Arsenal – Man City
 Arsenal – Manchester United
 Arsenal – PSV Eindhoven
@@ -3350,6 +3352,7 @@ Arsenal–Chelsea
 Arsenal–Fulham
 Arsenal–Leicester
 Arsenal–Liverpool
+Arsenal–Lyon
 Arsenal–ManCity
 Arsenal–ManchesterUnited
 Arsenal–PSVEindhoven
@@ -6644,6 +6647,7 @@ CANICULE
 CANJUERS
 CANNES
 CANNET-ROCHEVILLE
+CAP-VERT
 CAP-VERT – CAMEROUN
 CAPACITEITSTARIEF
 CAPITAINE MARLEAU
@@ -7007,6 +7011,7 @@ CHEQUE MAZOUT
 CHEQUEALIMENTAIRE
 CHER
 CHERBOURG
+CHERELLE GRINER
 CHERNOBYL
 CHERSON
 CHESLIE KRYST
@@ -7482,6 +7487,7 @@ COUPEDUMONDE
 COUPEDUMONDE2022
 COUPURE ELECTRICITE
 COUPURE ELECTRICITE ANGERS
+COUPURE ELECTRICITE PARIS
 COUPURES COMPTEUR LINKY
 COURCHEVEL
 COURIR
@@ -7556,6 +7562,7 @@ CROATIE ESPAGNE
 CROATIE FOOT
 CROATIE REPUBLIQUE TCHEQUE
 CROATIE – BELGIQUE
+CROATIE – BRÉSIL
 CROATIE – CANADA
 CROATIE – DANEMARK
 CROATIE – ECOSSE
@@ -7785,8 +7792,10 @@ Canjuers
 Cannes
 Cannet-Rocheville
 CannetRocheville
+Cap-Vert
 Cap-Vert – Cameroun
 Cap-Vert–Cameroun
+CapVert
 CapVert – Cameroun
 Capaciteitstarief
 Capitaine marleau
@@ -8419,6 +8428,8 @@ Chequeenergie
 Chequemazout
 Cher
 Cherbourg
+Cherelle Griner
+CherelleGriner
 Chernobyl
 Cherson
 Cheslie Kryst
@@ -9233,8 +9244,10 @@ Coupedumonde
 Coupedumonde2022
 Coupure electricite
 Coupure electricite Angers
+Coupure electricite Paris
 Coupureelectricite
 CoupureelectriciteAngers
+CoupureelectriciteParis
 Coupures compteur Linky
 CoupurescompteurLinky
 Courchevel
@@ -9348,6 +9361,7 @@ Croatie Espagne
 Croatie Foot
 Croatie republique tcheque
 Croatie – Belgique
+Croatie – Brésil
 Croatie – Canada
 Croatie – Danemark
 Croatie – Ecosse
@@ -9358,6 +9372,7 @@ CroatieEspagne
 CroatieFoot
 Croatierepubliquetcheque
 Croatie–Belgique
+Croatie–Brésil
 Croatie–Canada
 Croatie–Danemark
 Croatie–Ecosse
@@ -9763,6 +9778,7 @@ DENNIS PRAET
 DEONTAY WILDER
 DEPAKINE
 DEPARDIEU
+DEPARTEMENTSVERTEILUNG BUNDESRAT
 DEPAY
 DEPECHE MODE
 DER ALTE
@@ -10592,6 +10608,8 @@ Deontay Wilder
 DeontayWilder
 Depakine
 Depardieu
+Departementsverteilung Bundesrat
+DepartementsverteilungBundesrat
 Depay
 Depeche Mode
 DepecheMode
@@ -11550,8 +11568,10 @@ ENDEMIE
 ENDO ANACONDA
 ENDOMETRIOSE
 ENDOMÉTRIOSE
+ENDRICK
 ENDURANCE
 ENECO
+ENEDIS COUPURES D'ÉLECTRICITÉ
 ENERGIEPRIJZEN
 ENERGY
 ENERGY AIR
@@ -11579,6 +11599,7 @@ ENGLANDSCHOTTLAND
 ENNETBÜRGEN
 ENOLA HOLMES
 ENOLA HOLMES 2
+ENQUETE A COEUR OUVERT
 ENRAGÉ
 ENRICO MACIAS
 ENRIQUE IGLESIAS
@@ -12326,8 +12347,11 @@ Endo Anaconda
 EndoAnaconda
 Endometriose
 Endométriose
+Endrick
 Endurance
 Eneco
+Enedis coupures d'électricité
+Enediscoupuresd'électricité
 Energieprijzen
 Energy
 Energy Air
@@ -12372,6 +12396,8 @@ Enola Holmes
 Enola Holmes 2
 EnolaHolmes
 EnolaHolmes2
+Enquete a coeur ouvert
+Enqueteacoeurouvert
 Enragé
 Enrico Macias
 EnricoMacias
@@ -13625,6 +13651,7 @@ FRANCS BORAINS
 FRANK DE BOER
 FRANK DEBOOSERE
 FRANK ELSTNER
+FRANK HEPPNER
 FRANK MASMEIJER
 FRANK MICHAEL
 FRANK OTTO NATHALIE VOLK
@@ -14608,6 +14635,7 @@ Francs Borains
 FrancsBorains
 Frank Deboosere
 Frank Elstner
+Frank Heppner
 Frank Masmeijer
 Frank Michael
 Frank Otto Nathalie Volk
@@ -14619,6 +14647,7 @@ Frank Williams
 Frank de Boer
 FrankDeboosere
 FrankElstner
+FrankHeppner
 FrankMasmeijer
 FrankMichael
 FrankOttoNathalieVolk
@@ -14935,6 +14964,7 @@ GAMBAROGNO
 GAMBE
 GAME AWARDS
 GAME AWARDS 2021
+GAME AWARDS 2022
 GAMEIRO
 GAMEKULT
 GAMESCOM
@@ -15553,8 +15583,10 @@ Gambarogno
 Gambe
 Game Awards
 Game Awards 2021
+Game Awards 2022
 GameAwards
 GameAwards2021
+GameAwards2022
 Gameiro
 Gamekult
 Gamescom
@@ -20649,6 +20681,7 @@ KRISTOFFER OLSSON
 KROATIE
 KROATIEN  TSCHECHIEN
 KROATIEN - TSCHECHIEN
+KROATIEN BRASILIEN
 KROATIEN FRANKREICH
 KROATIEN GEGEN ÖSTERREICH
 KROATIEN SCHOTTLAND
@@ -21250,12 +21283,14 @@ KristofferOlsson
 Kroatie
 Kroatien  Tschechien
 Kroatien - Tschechien
+Kroatien Brasilien
 Kroatien Frankreich
 Kroatien Schottland
 Kroatien Spanien
 Kroatien Tschechien
 Kroatien gegen Österreich
 Kroatien-Tschechien
+KroatienBrasilien
 KroatienFrankreich
 KroatienSchottland
 KroatienSpanien
@@ -21421,6 +21456,7 @@ LA CHINE TAIWAN
 LA CHUTE DU PRÉSIDENT
 LA CORDE
 LA DUCHÈRE LYON
+LA DÉPÊCHE
 LA FAMILLE ADDAMS
 LA FILLE COUPÉE EN DEUX
 LA FINE FLEUR
@@ -21824,6 +21860,7 @@ LES AMANDIERS
 LES ANIMAUX FANTASTIQUES
 LES ANIMAUX FANTASTIQUES 3
 LES ANNEAUX DE POUVOIR
+LES ARDENTES
 LES AVENTURIERS
 LES BAD GUYS
 LES BODIN'S
@@ -22046,6 +22083,7 @@ LISA-MARIA KELLERMAYR
 LISAKUDROW
 LISANDRO LOPEZ
 LISBETH IMBO
+LISBONNE
 LISE VIDAL
 LISEVIDAL
 LISSABON CORONA
@@ -22146,6 +22184,7 @@ LONDON MARATHON 2021
 LONGO BORGHINI
 LOOK BOTH WAYS
 LORD LUCAN
+LORD OF WAR
 LORE BRUGGEMAN
 LOREDANA
 LORENZ ERNI
@@ -22297,6 +22336,7 @@ LUFTHANSA-STREIK
 LUGANO GEGEN ST. GALLEN
 LUGANO – SION
 LUINO
+LUIS DE LA FUENTE
 LUIS SUAREZ
 LUISA NEUBAUER
 LUKA DONCIC
@@ -22399,6 +22439,7 @@ La ChauxdeFonds
 La Chine taiwan
 La Chute du président
 La Duchère Lyon
+La Dépêche
 La Famille Addams
 La Folle Histoire de Max et Léon
 La Fracture
@@ -22486,6 +22527,7 @@ LaChaux-de-Fonds
 LaChinetaiwan
 LaChuteduprésident
 LaDuchèreLyon
+LaDépêche
 LaFamilleAddams
 LaFolleHistoiredeMaxetLéon
 LaFracture
@@ -23133,6 +23175,7 @@ Les Animaux Fantastiques
 Les Animaux Fantastiques 3
 Les Animaux fantastiques
 Les Anneaux de Pouvoir
+Les Ardentes
 Les Aventuriers
 Les Bad Guys
 Les Bodin's
@@ -23196,6 +23239,7 @@ LesAnimauxFantastiques
 LesAnimauxFantastiques3
 LesAnimauxfantastiques
 LesAnneauxdePouvoir
+LesArdentes
 LesAventuriers
 LesBadGuys
 LesBodin's
@@ -23549,6 +23593,7 @@ Lisandro Lopez
 LisandroLopez
 Lisbeth Imbo
 LisbethImbo
+Lisbonne
 Lise Vidal
 LiseVidal
 Lissabon Corona
@@ -23719,7 +23764,9 @@ LongoBorghini
 Look Both Ways
 LookBothWays
 Lord Lucan
+Lord of war
 LordLucan
+Lordofwar
 Lore Bruggeman
 LoreBruggeman
 Loredana
@@ -23986,9 +24033,11 @@ LuganogegenSt.Gallen
 Lugano–Sion
 Luino
 Luis Suarez
+Luis de la Fuente
 LuisSuarez
 Luisa Neubauer
 LuisaNeubauer
+LuisdelaFuente
 Luka Doncic
 Luka Elsner
 Luka Mkheidze
@@ -28134,6 +28183,7 @@ NICHELLE NICHOLS
 NICHOLAS ANGELICH
 NICK BOLLETTIERI
 NICK CANNON
+NICK CARTER
 NICK CAVE
 NICK CAVE WERCHTER
 NICK KYRGIOS
@@ -28798,12 +28848,14 @@ Nicholas Angelich
 NicholasAngelich
 Nick Bollettieri
 Nick Cannon
+Nick Carter
 Nick Cave
 Nick Cave Werchter
 Nick Kyrgios
 Nick Nuyens
 NickBollettieri
 NickCannon
+NickCarter
 NickCave
 NickCaveWerchter
 NickKyrgios
@@ -34608,6 +34660,7 @@ SARAH PALIN
 SARAH PUTTEMANS
 SARAH STORK
 SARAH VAN SOELEN
+SARAH WYSS
 SARAH YOUNGWOOD
 SARAH-JANE
 SARAHENGELS
@@ -35387,6 +35440,8 @@ STEVEN VAN GUCHT
 STEVEN VAN HERREWEGHE
 STEVEN ZUBER
 STIB
+STIFF-PERSON SYNDROME
+STIFF-PERSON-SYNDROM
 STIJN DE PAEPE
 STILLWATER
 STING
@@ -35990,6 +36045,7 @@ Sarah Melis
 Sarah Palin
 Sarah Puttemans
 Sarah Stork
+Sarah Wyss
 Sarah Youngwood
 Sarah leonie
 Sarah van Soelen
@@ -36007,6 +36063,7 @@ SarahMelis
 SarahPalin
 SarahPuttemans
 SarahStork
+SarahWyss
 SarahYoungwood
 Sarahleonie
 SarahvanSoelen
@@ -37189,6 +37246,11 @@ StevenVanGucht
 StevenVanHerreweghe
 StevenZuber
 Stib
+Stiff-Person syndrome
+Stiff-Person-Syndrom
+Stiff-Personsyndrome
+StiffPerson syndrome
+StiffPersonSyndrom
 Stijn De Paepe
 StijnDePaepe
 Stillwater
@@ -38069,6 +38131,7 @@ TOMORROWLAND TICKETS
 TONGA
 TONHALLE ZÜRICH
 TONI BRUNNER
+TONI COLLETTE
 TONI KROOS
 TONI VESCOLI
 TONIKROOS
@@ -39096,9 +39159,11 @@ Tonga
 Tonhalle Zürich
 TonhalleZürich
 Toni Brunner
+Toni Collette
 Toni Kroos
 Toni Vescoli
 ToniBrunner
+ToniCollette
 ToniKroos
 ToniVescoli
 Tonneins
@@ -40342,6 +40407,7 @@ VOETBALUITSLAGEN
 VOEUX 2022
 VOITURE ELECTRIQUE
 VOL AU-DESSUS D'UN NID DE COUCOU
+VOLBEAT
 VOLCAN CANARIES
 VOLCAN LA PALMA
 VOLKAN OEZDEMIR
@@ -40887,6 +40953,7 @@ Voitureelectrique
 Vol au-dessus d'un nid de coucou
 Vol audessus d'un nid de coucou
 Volau-dessusd'unniddecoucou
+Volbeat
 Volcan Canaries
 Volcan La Palma
 VolcanCanaries
@@ -43461,6 +43528,7 @@ arsenal – chelsea
 arsenal – fulham
 arsenal – leicester
 arsenal – liverpool
+arsenal – lyon
 arsenal – man city
 arsenal – manchester united
 arsenal – nottm forest
@@ -44829,6 +44897,7 @@ canicule
 canjuers
 cannes
 cannet-rocheville
+cap-vert
 cap-vert – cameroun
 capaciteitstarief
 capitaine marleau
@@ -45188,6 +45257,7 @@ cheque energie
 cheque mazout
 cher
 cherbourg
+cherelle griner
 chernobyl
 cherson
 cheslie kryst
@@ -45654,6 +45724,7 @@ couped'europe2021
 coupedumonde
 coupure electricite
 coupure electricite angers
+coupure electricite paris
 coupures compteur linky
 courchevel
 courir
@@ -45730,6 +45801,7 @@ croatie foot
 croatie republique tcheque
 croatie – Ecosse
 croatie – belgique
+croatie – brésil
 croatie – canada
 croatie – danemark
 croatie – france
@@ -46072,6 +46144,7 @@ dennis praet
 deontay wilder
 depakine
 depardieu
+departementsverteilung bundesrat
 depay
 depeche mode
 der alte
@@ -46709,8 +46782,10 @@ endemie
 endo anaconda
 endometriose
 endométriose
+endrick
 endurance
 eneco
+enedis coupures d'électricité
 energieprijzen
 energy
 energy air
@@ -46738,6 +46813,7 @@ englandschottland
 ennetbürgen
 enola holmes
 enola holmes 2
+enquete a coeur ouvert
 enragé
 enrico macias
 enrique iglesias
@@ -47619,6 +47695,7 @@ francs borains
 frank de boer
 frank deboosere
 frank elstner
+frank heppner
 frank masmeijer
 frank michael
 frank otto nathalie volk
@@ -47802,6 +47879,7 @@ gambarogno
 gambe
 game awards
 game awards 2021
+game awards 2022
 gameiro
 gamekult
 gamescom
@@ -50079,6 +50157,7 @@ kristoffer olsson
 kroatie
 kroatien  tschechien
 kroatien - tschechien
+kroatien brasilien
 kroatien frankreich
 kroatien gegen österreich
 kroatien schottland
@@ -50174,6 +50253,7 @@ la chine taiwan
 la chute du président
 la corde
 la duchère lyon
+la dépêche
 la famille addams
 la fille coupée en deux
 la fine fleur
@@ -50568,6 +50648,7 @@ les amandiers
 les animaux fantastiques
 les animaux fantastiques 3
 les anneaux de pouvoir
+les ardentes
 les aventuriers
 les bad guys
 les bodin's
@@ -50787,6 +50868,7 @@ lisa-maria kellermayr
 lisakudrow
 lisandro lopez
 lisbeth imbo
+lisbonne
 lise vidal
 lisevidal
 lissabon corona
@@ -50887,6 +50969,7 @@ london marathon 2021
 longo borghini
 look both ways
 lord lucan
+lord of war
 lore bruggeman
 loredana
 lorenz erni
@@ -51036,6 +51119,7 @@ lufthansa-streik
 lugano gegen st. gallen
 lugano – sion
 luino
+luis de la fuente
 luis suarez
 luisa neubauer
 luka doncic
@@ -52723,6 +52807,7 @@ nichelle nichols
 nicholas angelich
 nick bollettieri
 nick cannon
+nick carter
 nick cave
 nick cave werchter
 nick kyrgios
@@ -55035,6 +55120,7 @@ sarah palin
 sarah puttemans
 sarah stork
 sarah van soelen
+sarah wyss
 sarah youngwood
 sarah-jane
 sarahengels
@@ -55768,6 +55854,8 @@ steven van gucht
 steven van herreweghe
 steven zuber
 stib
+stiff-person syndrome
+stiff-person-syndrom
 stijn de paepe
 stillwater
 sting
@@ -56455,6 +56543,7 @@ tomorrowland tickets
 tonga
 tonhalle zürich
 toni brunner
+toni collette
 toni kroos
 toni vescoli
 tonikroos
@@ -57199,6 +57288,7 @@ voetbaluitslagen
 voeux 2022
 voiture electrique
 vol au-dessus d'un nid de coucou
+volbeat
 volcan canaries
 volcan la palma
 volkan oezdemir
