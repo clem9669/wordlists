@@ -3744,6 +3744,7 @@ ARGBOL
 ARGBRE
 ARGENTDANSUNTITRE
 ARGENTEUIL
+ARGENTIJNEN
 ARGENTIN
 ARGENTINA
 ARGENTINAGP
@@ -6569,6 +6570,7 @@ ArethaFranklin
 ArgAus
 ArgentDansUnTitre
 Argenteuil
+Argentijnen
 Argentin
 Argentina
 ArgentinaGP
@@ -18473,8 +18475,10 @@ DEMBÉLÉ
 DEMDEM
 DEMECO
 DEMETER
+DEMI FINALE
 DEMI MOORE
 DEMIESTOP14
+DEMIFINALE
 DEMIR
 DEMIRAL
 DEMIS ROUSSOS
@@ -25643,6 +25647,7 @@ FRAJAP
 FRAJPN
 FRAKAZ
 FRAKTION
+FRAMAR
 FRAMBOISE
 FRAME IT
 FRAMING
@@ -25656,6 +25661,7 @@ FRANCAISES
 FRANCE - ANGLETERRE
 FRANCE - AUSTRALIE
 FRANCE - ESPAGNE
+FRANCE - MAROC
 FRANCE - POLOGNE
 FRANCE 2
 FRANCE 2030
@@ -27164,10 +27170,12 @@ Francaises
 France  Angleterre
 France  Australie
 France  Espagne
+France  Maroc
 France  Pologne
 France - Angleterre
 France - Australie
 France - Espagne
+France - Maroc
 France - Pologne
 France 2
 France 2030
@@ -27210,6 +27218,7 @@ France-Angleterre
 France-Australie
 France-Danemark
 France-Espagne
+France-Maroc
 France-Pologne
 France-USA
 France2
@@ -34528,8 +34537,10 @@ ISvideo
 ISvrouwen
 IT PAYS TO WALK
 IT TAKES TWO
+IT'S COMING HOME
 IT'S RACE WEEK
 IT'S SNOWING
+IT'SCOMINGHOME
 IT'SRACEWEEK
 IT'SSNOWING
 ITAARG
@@ -34582,6 +34593,7 @@ ITAvSCO
 ITEM
 ITINERA
 ITINERAIRE
+ITS COMING HOME
 ITS RACE WEEK
 ITS SNOWING
 ITSME
@@ -57198,6 +57210,7 @@ OMxParionsSport
 ON A GAGNE
 ON A GAGNÉ
 ON EST CHEZ NOUS
+ON EST EN DEMI
 ON EST EN FINALE
 ON EST EN OCTOBRE
 ON VOUS AIME
@@ -57309,6 +57322,7 @@ ONEPLUSNORD2
 ONEPUNCHMAN166
 ONER
 ONESTCHEZNOUS
+ONESTENDEMI
 ONESTENDIRECT
 ONESTENFINALE
 ONESTENOCTOBRE
@@ -86511,6 +86525,7 @@ argbol
 argbre
 argentdansuntitre
 argenteuil
+argentijnen
 argentin
 argentina
 argentinagp
@@ -93601,6 +93616,7 @@ dembélé
 demdem
 demeco
 demeter
+demi finale
 demi moore
 demiestop14
 deminaur
@@ -97491,6 +97507,7 @@ frajap
 frajpn
 frakaz
 fraktion
+framar
 framboise
 frame it
 framing
@@ -97503,6 +97520,7 @@ francaises
 france - angleterre
 france - australie
 france - espagne
+france - maroc
 france - pologne
 france 2
 france 2030
@@ -102017,6 +102035,7 @@ isvideo
 isvrouwen
 it pays to walk
 it takes two
+it's coming home
 it's race week
 it's snowing
 itaarg
@@ -113411,6 +113430,7 @@ omvspsg
 omxparionssport
 on a gagné
 on est chez nous
+on est en demi
 on est en finale
 on est en octobre
 on vous aime
