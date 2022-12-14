@@ -464,6 +464,7 @@ ABFAHRT OLYMPIA 2022
 ABInBevkoers
 ABONDANCE
 ABOU
+ABOUT YOU
 ABRAMOVICH
 ABRAMOVITCH
 ABSTIMMUNG
@@ -593,6 +594,7 @@ AFC Richmond
 AFCRichmond
 AFFAIRE CONCLUE
 AFFAIRE GREGORY
+AFFAIRE JUBILLAR
 AFFAIRE LOLA
 AFFAIRE MADDIE MCCANN
 AFFAIRE TROADEC
@@ -964,6 +966,7 @@ AMINATA DIALLO
 AMINE HARIT
 AMIR
 AMIR BACHROURI
+AMIR NASR-AZADANI
 AMIRA POCHER
 AMMEN-DORNFINGER
 AMNESTIE
@@ -1322,6 +1325,7 @@ ARE
 ARES
 ARGENT COLLOIDAL
 ARGENTINE  URUGUAY
+ARGENTINE - CROATIE
 ARGENTINE - EQUATEUR
 ARGENTINE - PARAGUAY
 ARGENTINE - URUGUAY
@@ -1414,6 +1418,7 @@ ARSENAL GEGEN ASTON VILLA
 ARSENAL GEGEN TOTTENHAM
 ARSENAL GEGEN WOLVERHAMPTON
 ARSENAL GEGEN ZÜRICH
+ARSENAL – AC MILAN
 ARSENAL – CHELSEA
 ARSENAL – FULHAM
 ARSENAL – LEICESTER
@@ -1425,6 +1430,7 @@ ARSENAL – NOTTM FOREST
 ARSENAL – PSV EINDHOVEN
 ARSENAL – SUNDERLAND
 ARSENAL – TOTTENHAM
+ARSENAL,  MILAN
 ARSENE WENGER
 ARSENIO PURO
 ART BASEL
@@ -1644,6 +1650,7 @@ AUXERRE – STRASBOURG
 AVA GARDNER
 AVATAR
 AVATAR 2
+AVATAR FILM
 AVENGERS : ENDGAME
 AVENGERS : INFINITY WAR
 AVEYRON
@@ -1740,7 +1747,9 @@ AbfahrtKitzbühel
 AbfahrtOlympia2022
 Abondance
 Abou
+About you
 Aboutdesouffle
+Aboutyou
 Abramovich
 Abramovitch
 Abstimmung
@@ -1930,12 +1939,14 @@ AeroportMontpellier
 Aeroportgeneve
 Afasie
 Affaire Conclue
+Affaire Jubillar
 Affaire Lola
 Affaire Maddie McCann
 Affaire Troadec
 Affaire conclue
 Affaire gregory
 AffaireConclue
+AffaireJubillar
 AffaireLola
 AffaireMaddieMcCann
 AffaireTroadec
@@ -2565,7 +2576,10 @@ Amine Harit
 AmineHarit
 Amir
 Amir Bachrouri
+Amir Nasr-Azadani
+Amir NasrAzadani
 AmirBachrouri
+AmirNasr-Azadani
 Amira Pocher
 AmiraPocher
 Ammen-Dornfinger
@@ -3199,7 +3213,9 @@ Are
 Ares
 Argent colloidal
 Argentcolloidal
+Argentine  Croatie
 Argentine  Uruguay
+Argentine - Croatie
 Argentine - Equateur
 Argentine - Paraguay
 Argentine - Uruguay
@@ -3219,6 +3235,7 @@ Argentine – Paraguay
 Argentine – Pérou
 Argentine – Uruguay
 Argentine – Venezuela
+Argentine-Croatie
 Argentine-Equateur
 Argentine-Paraguay
 Argentine-Uruguay
@@ -3345,6 +3362,7 @@ Arsenal gegen Aston Villa
 Arsenal gegen Tottenham
 Arsenal gegen Wolverhampton
 Arsenal gegen Zürich
+Arsenal – AC Milan
 Arsenal – Chelsea
 Arsenal – Fulham
 Arsenal – Leicester
@@ -3356,10 +3374,13 @@ Arsenal – PSV Eindhoven
 Arsenal – Sunderland
 Arsenal – Tottenham
 Arsenal – nottm Forest
+Arsenal,  Milan
+Arsenal,Milan
 ArsenalgegenAstonVilla
 ArsenalgegenTottenham
 ArsenalgegenWolverhampton
 ArsenalgegenZürich
+Arsenal–ACMilan
 Arsenal–Chelsea
 Arsenal–Fulham
 Arsenal–Leicester
@@ -3704,7 +3725,9 @@ Ava Gardner
 AvaGardner
 Avatar
 Avatar 2
+Avatar Film
 Avatar2
+AvatarFilm
 Avengers : Endgame
 Avengers : Infinity War
 Avengers:Endgame
@@ -4223,6 +4246,7 @@ BERNARD DE LA VILLARDIÈRE
 BERNARD DEWULF
 BERNARD HAITINK
 BERNARD KOUCHNER
+BERNARD LAPORTE
 BERNARD LAVILLIERS
 BERNARD MENDY
 BERNARD MINET
@@ -4407,6 +4431,7 @@ BLIND GEKOCHT
 BLIND GESPRONGEN
 BLIND GETROUWD
 BLINK-182
+BLITZEIS
 BLIZZARD
 BLOB
 BLOCAGE PAYS BASQUE
@@ -4633,6 +4658,7 @@ BREAKFAST CLUB
 BREEL EMBOLO
 BREELEMBOLO
 BREIVIK
+BREIZHGO
 BREMER
 BREMER SV GEGEN BAYERN
 BREMER SV – BAYERN
@@ -5585,6 +5611,7 @@ Bernard Cribbins
 Bernard Dewulf
 Bernard Haitink
 Bernard Kouchner
+Bernard Laporte
 Bernard Lavilliers
 Bernard Mendy
 Bernard Minet
@@ -5605,6 +5632,7 @@ BernardDewulf
 BernardHaitink
 BernardHenri Levy
 BernardKouchner
+BernardLaporte
 BernardLavilliers
 BernardMendy
 BernardMinet
@@ -5861,6 +5889,7 @@ BlindGetrouwd
 Blindgesprongen
 Blink-182
 Blink182
+Blitzeis
 Blizzard
 Blob
 Blocage Pays basque
@@ -6222,6 +6251,7 @@ BreakfastClub
 Breel Embolo
 BreelEmbolo
 Breivik
+BreizhGo
 Bremer
 Bremer SV gegen Bayern
 Bremer SV – Bayern
@@ -11621,6 +11651,7 @@ ENDRICK
 ENDURANCE
 ENECO
 ENEDIS COUPURES D'ÉLECTRICITÉ
+ENERGIE FUSION NUCLÉAIRE
 ENERGIEPRIJZEN
 ENERGY
 ENERGY AIR
@@ -12411,6 +12442,8 @@ Endurance
 Eneco
 Enedis coupures d'électricité
 Enediscoupuresd'électricité
+Energie fusion nucléaire
+Energiefusionnucléaire
 Energieprijzen
 Energy
 Energy Air
@@ -13643,6 +13676,7 @@ FRANCE – CAMEROUN
 FRANCE – CROATIE
 FRANCE – CÔTE D'IVOIRE
 FRANCE – DANEMARK
+FRANCE – MAROC
 FRANCE – PAYS-BAS
 FRANCE – POLOGNE
 FRANCE – SUISSE
@@ -14527,6 +14561,7 @@ France – Cameroun
 France – Croatie
 France – Côte d'Ivoire
 France – Danemark
+France – Maroc
 France – Pays-Bas
 France – PaysBas
 France – Pologne
@@ -14641,6 +14676,7 @@ France–Cameroun
 France–Croatie
 France–Côted'Ivoire
 France–Danemark
+France–Maroc
 France–Pays-Bas
 France–Pologne
 France–Suisse
@@ -16794,6 +16830,7 @@ HEURE
 HEURE D'HIVER
 HEUTE
 HEY! ORANGE
+HIGH ON LIFE
 HIGHLAND PARK
 HIGHLAND PARK CHICAGO
 HIGUAIN
@@ -17283,10 +17320,12 @@ Heured'hiver
 Heute
 Hey! Orange
 Hey!Orange
+High on Life
 Highland Park
 Highland Park Chicago
 HighlandPark
 HighlandParkChicago
+HighonLife
 Higuain
 Hilaree Nelson
 HilareeNelson
@@ -18992,6 +19031,7 @@ JOYEUSES FÊTES
 JOYEUX NOEL
 JOYEUX NOEL IMAGE
 JOYEUX NOËL
+JOŠKO GVARDIOL
 JPL
 JSK
 JUAN BRANCO
@@ -20124,6 +20164,8 @@ Joyeux noel image
 JoyeuxNoël
 Joyeuxnoel
 Joyeuxnoelimage
+Joško Gvardiol
+JoškoGvardiol
 Juan Branco
 Juan Mata
 JuanBranco
@@ -20691,6 +20733,7 @@ KLOPJACHT
 KMI
 KMSKA
 KNABENSCHIESSEN
+KNACK
 KNIVES OUT
 KNOKKE
 KOBE BRYANT
@@ -21254,6 +21297,7 @@ Klok verzetten
 Klokverzetten
 Klopjacht
 Knabenschiessen
+Knack
 Knives Out
 KnivesOut
 Knokke
@@ -22208,6 +22252,7 @@ LITAUEN GEGEN TÜRKEI
 LITECOIN
 LITUANIE
 LITUANIE – FRANCE
+LIVAKOVIC
 LIVE IS LIVE
 LIVERPOOL
 LIVERPOOL - REAL MADRID
@@ -22399,6 +22444,7 @@ LOVE ISLAND
 LOVE ISLAND 2021
 LOVE ISLAND 2022
 LOVE STORY
+LOVREN
 LOZERE
 LOÏC NOTTET MÉLODRAME
 LOÏK LE PRIOL
@@ -23733,6 +23779,7 @@ Litecoin
 Lituanie
 Lituanie – France
 Lituanie–France
+Livakovic
 Live Is Live
 LiveIsLive
 Liverpool
@@ -24072,6 +24119,7 @@ LoveIsland2021
 LoveIsland2022
 LoveStory
 LoveintheVilla
+Lovren
 Lozere
 Loïc Nottet Mélodrame
 LoïcNottetMélodrame
@@ -24342,6 +24390,7 @@ MAASEIK
 MAATREGELEN CORONA
 MAATREGELEN NEDERLAND
 MAC
+MAC ALLISTER
 MAC STUDIO
 MACALOU
 MACAULAY CULKIN
@@ -24611,6 +24660,7 @@ MARC ROCHAT
 MARC SERGEANT
 MARC SIMONCINI
 MARC TARABELLA
+MARC THIERCELIN
 MARC VAN RANST
 MARC WILMOTS
 MARC-ANTOINE OLIVIER
@@ -25674,7 +25724,9 @@ Maatregelen corona
 MaatregelenNederland
 Maatregelencorona
 Mac
+Mac Allister
 Mac Studio
+MacAllister
 MacStudio
 Macalou
 Macaulay Culkin
@@ -26130,6 +26182,7 @@ Marc Rochat
 Marc Sergeant
 Marc Simoncini
 Marc Tarabella
+Marc Thiercelin
 Marc Van Ranst
 Marc Wilmots
 Marc-Antoine Olivier
@@ -26153,6 +26206,7 @@ MarcRochat
 MarcSergeant
 MarcSimoncini
 MarcTarabella
+MarcThiercelin
 MarcVanRanst
 MarcWilmots
 Marca
@@ -29723,6 +29777,7 @@ OSTENDE
 OSTERMONTAG
 OSTERN
 OSTERSONNTAG
+OTAMENDI
 OTAN
 OTEZ MOI D'UN DOUTE
 OTONIEL
@@ -30164,6 +30219,7 @@ Ostende
 Ostermontag
 Ostern
 Ostersonntag
+Otamendi
 Otan
 Otez moi d'un doute
 Otezmoid'undoute
@@ -30694,6 +30750,7 @@ PIERRE PERRET
 PIERRE RABHI
 PIERRE RAPSAT
 PIERRE RICHARD
+PIERRE ROLLAND
 PIERRE SOULAGES
 PIERRE ZAKRZEWSKI
 PIERRE-FRANÇOIS LATERRE
@@ -30738,6 +30795,7 @@ PLANCHA
 PLANCHE DES BELLES FILLES
 PLANETEN
 PLANTED
+PLANZER
 PLASTIC BERTRAND
 PLATINI
 PLATZSPITZBABY
@@ -31958,6 +32016,7 @@ Pierre Perret
 Pierre Rabhi
 Pierre Rapsat
 Pierre Richard
+Pierre Rolland
 Pierre Soulages
 Pierre Zakrzewski
 Pierre menes
@@ -31983,6 +32042,7 @@ PierrePerret
 PierreRabhi
 PierreRapsat
 PierreRichard
+PierreRolland
 PierreSoulages
 PierreZakrzewski
 Pierremenes
@@ -32045,6 +32105,7 @@ Planche des Belles Filles
 PlanchedesBellesFilles
 Planeten
 Planted
+Planzer
 Plastic Bertrand
 PlasticBertrand
 Platini
@@ -32624,6 +32685,7 @@ QUENTIN MOSIMANN
 QUEVILLY – CAEN
 QUI A TUÉ SARA
 QUI VEUT ETRE MON ASSOCIÉ
+QUICKBOOKS
 QUICKLINE
 QUIET QUITTING
 QUILLAN
@@ -32707,6 +32769,7 @@ Quevilly–Caen
 Qui a tué Sara
 Qui veut etre mon associé
 QuiatuéSara
+QuickBooks
 Quickline
 Quiet quitting
 Quietquitting
@@ -34770,6 +34833,7 @@ SALVADOR RAMOS
 SALVATORE ADAMO
 SAM
 SAM ASGHARI
+SAM BANKMAN-FRIED
 SAM BETTENS
 SAM GOORIS
 SAM RYDER
@@ -36102,12 +36166,15 @@ Salvatore Adamo
 SalvatoreAdamo
 Sam
 Sam Asghari
+Sam Bankman-Fried
+Sam BankmanFried
 Sam Bettens
 Sam Gooris
 Sam Ryder
 Sam Szafran
 Sam saison 7
 SamAsghari
+SamBankman-Fried
 SamBettens
 SamGooris
 SamRyder
@@ -40515,6 +40582,7 @@ VICTOR WEMBANYAMA
 VICTORIA ABRIL
 VICTORIA BECKHAM
 VIDE GRENIER
+VIEILLES CHARRUES
 VIEILLES CHARRUES 2022
 VIER
 VIES
@@ -40968,7 +41036,9 @@ VictoriaAbril
 VictoriaBeckham
 Vide grenier
 Videgrenier
+Vieilles Charrues
 Vieilles Charrues 2022
+VieillesCharrues
 VieillesCharrues2022
 Vier
 Vies
@@ -42838,6 +42908,7 @@ abfahrt kitzbühel
 abfahrt olympia 2022
 abondance
 abou
+about you
 abramovich
 abramovitch
 abstimmung
@@ -42952,6 +43023,7 @@ afasie
 afc richmond
 affaire conclue
 affaire gregory
+affaire jubillar
 affaire lola
 affaire maddie mccann
 affaire troadec
@@ -43311,6 +43383,7 @@ aminata diallo
 amine harit
 amir
 amir bachrouri
+amir nasr-azadani
 amira pocher
 ammen-dornfinger
 amnestie
@@ -43668,6 +43741,7 @@ ares
 argent colloidal
 argentine  uruguay
 argentine - Equateur
+argentine - croatie
 argentine - equateur
 argentine - paraguay
 argentine - uruguay
@@ -43761,6 +43835,7 @@ arsenal gegen aston villa
 arsenal gegen tottenham
 arsenal gegen wolverhampton
 arsenal gegen zürich
+arsenal – ac milan
 arsenal – chelsea
 arsenal – fulham
 arsenal – leicester
@@ -43772,6 +43847,7 @@ arsenal – nottm forest
 arsenal – psv eindhoven
 arsenal – sunderland
 arsenal – tottenham
+arsenal,  milan
 arsene wenger
 arsenio puro
 art basel
@@ -43960,6 +44036,7 @@ auxerre – strasbourg
 ava gardner
 avatar
 avatar 2
+avatar film
 avengers : endgame
 avengers : infinity war
 aveyron
@@ -44434,6 +44511,7 @@ bernard de la villardière
 bernard dewulf
 bernard haitink
 bernard kouchner
+bernard laporte
 bernard lavilliers
 bernard mendy
 bernard minet
@@ -44606,6 +44684,7 @@ blind gekocht
 blind gesprongen
 blind getrouwd
 blink-182
+blitzeis
 blizzard
 blob
 blocage pays basque
@@ -44821,6 +44900,7 @@ breakfast club
 breel embolo
 breelembolo
 breivik
+breizhgo
 bremer
 bremer sv gegen bayern
 bremer sv – bayern
@@ -47037,6 +47117,7 @@ endrick
 endurance
 eneco
 enedis coupures d'électricité
+energie fusion nucléaire
 energieprijzen
 energy
 energy air
@@ -47880,6 +47961,7 @@ france – cameroun
 france – croatie
 france – côte d'ivoire
 france – danemark
+france – maroc
 france – pays-bas
 france – pologne
 france – suisse
@@ -48881,6 +48963,7 @@ heure
 heure d'hiver
 heute
 hey! orange
+high on life
 highland park
 highland park chicago
 higuain
@@ -49929,6 +50012,7 @@ joyeuses fêtes
 joyeux noel
 joyeux noel image
 joyeux noël
+joško gvardiol
 jpl
 jsk
 juan branco
@@ -50343,6 +50427,7 @@ klopjacht
 kmi
 kmska
 knabenschiessen
+knack
 knives out
 knokke
 kobe bryant
@@ -51155,6 +51240,7 @@ litauen gegen türkei
 litecoin
 lituanie
 lituanie – france
+livakovic
 live is live
 liverpool
 liverpool - real madrid
@@ -51344,6 +51430,7 @@ love island
 love island 2021
 love island 2022
 love story
+lovren
 lozere
 loïc nottet mélodrame
 loïk le priol
@@ -51503,6 +51590,7 @@ maaseik
 maatregelen corona
 maatregelen nederland
 mac
+mac allister
 mac studio
 macOS Monterey
 macOS Ventura
@@ -51773,6 +51861,7 @@ marc rochat
 marc sergeant
 marc simoncini
 marc tarabella
+marc thiercelin
 marc van ranst
 marc wilmots
 marc-antoine olivier
@@ -53592,6 +53681,7 @@ ostende
 ostermontag
 ostern
 ostersonntag
+otamendi
 otan
 otez moi d'un doute
 otoniel
@@ -54088,6 +54178,7 @@ pierre perret
 pierre rabhi
 pierre rapsat
 pierre richard
+pierre rolland
 pierre soulages
 pierre zakrzewski
 pierre-françois laterre
@@ -54132,6 +54223,7 @@ plancha
 planche des belles filles
 planeten
 planted
+planzer
 plastic bertrand
 platini
 platzspitzbaby
@@ -54517,6 +54609,7 @@ quentin mosimann
 quevilly – caen
 qui a tué sara
 qui veut etre mon associé
+quickbooks
 quickline
 quiet quitting
 quillan
@@ -55334,6 +55427,7 @@ salvador ramos
 salvatore adamo
 sam
 sam asghari
+sam bankman-fried
 sam bettens
 sam gooris
 sam ryder
@@ -57487,6 +57581,7 @@ victor wembanyama
 victoria abril
 victoria beckham
 vide grenier
+vieilles charrues
 vieilles charrues 2022
 vier
 vies
@@ -58243,6 +58338,7 @@ zürich wetter
 ÉLECTIONS LÉGISLATIVES 2022 DEUXIÈME TOUR
 ÉLECTIONS PRÉSIDENTIELLES 2022 SONDAGE
 ÉLECTIONS PRÉSIDENTIELLES SONDAGES
+ÉLISABETH BORNE
 ÉLIZABETH MARTICHOUX, SANDRINE ROUSSEAU
 ÉLODIE GOSSUIN
 ÉMILIE DU CHÂTELET
@@ -58281,6 +58377,8 @@ zürich wetter
 Électionslégislatives2022deuxièmetour
 Électionsprésidentielles2022sondage
 Électionsprésidentiellessondages
+Élisabeth Borne
+ÉlisabethBorne
 Élizabeth Martichoux, Sandrine Rousseau
 ÉlizabethMartichoux,SandrineRousseau
 Élodie Gossuin
@@ -58347,6 +58445,7 @@ zürich wetter
 élections régionales 2021 candidats
 électionsdépartementales2021bretagne
 électionsrégionales2021candidats
+élisabeth borne
 élizabeth martichoux, sandrine rousseau
 élodie gossuin
 émilie du châtelet
