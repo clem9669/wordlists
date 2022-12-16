@@ -7476,6 +7476,7 @@ BAGARRE
 BAGDAD
 BAGGY
 BAGHERA
+BAGHERAXSAMSUNGODYSSEY
 BAGIOLI
 BAGLEY
 BAGNAIA
@@ -9510,6 +9511,7 @@ BRAVO CHAMPIONNE
 BRAVO CLARISSE
 BRAVO DELPHINE
 BRAVO KEVIN
+BRAVO LE MAROC
 BRAVO LES BLEUES
 BRAVO LES BLEUS
 BRAVO LES FILLES
@@ -10096,6 +10098,7 @@ BUSQUETSENELBANQUILLO
 BUSSE
 BUSSIN
 BUT DE GIROUD
+BUT DE MESSI
 BUTCH
 BUTEZ
 BUTLER
@@ -10229,6 +10232,7 @@ Bagarre
 Bagdad
 Baggy
 Baghera
+BagheraxSamsungOdyssey
 Bagioli
 Bagley
 Bagnaia
@@ -12690,8 +12694,10 @@ BusquetsEnElBanquillo
 Busse
 Bussin
 But de Giroud
+But de Messi
 Butch
 ButdeGiroud
+ButdeMessi
 Butez
 Butler
 Butscha
@@ -28123,6 +28129,7 @@ GAELLE
 GAELMONFILS
 GAELPERDRIAU
 GAETAN
+GAETAN CHARBONNIER
 GAETAN MATIS
 GAETAN PERRIN
 GAETANMATHIS
@@ -28336,6 +28343,7 @@ GAËL MONFILS
 GAËL PERDRIAU
 GAËLLE
 GAËTAN
+GAËTAN CHARBONNIER
 GAËTAN PERRIN
 GBBO
 GBD5
@@ -29903,6 +29911,7 @@ Gael Perdriau
 GaelMonfils
 Gaelle
 Gaetan
+Gaetan Charbonnier
 Gaetan Matis
 Gaetan Perrin
 GaetanMatis
@@ -30133,7 +30142,9 @@ GaëlMonfils
 GaëlPerdriau
 Gaëlle
 Gaëtan
+Gaëtan Charbonnier
 Gaëtan Perrin
+GaëtanCharbonnier
 GaëtanPerrin
 GeForceSQUADS
 Geachte
@@ -88145,6 +88156,7 @@ bagarre
 bagdad
 baggy
 baghera
+bagheraxsamsungodyssey
 bagioli
 bagley
 bagnaia
@@ -90213,6 +90225,7 @@ bravo championne
 bravo clarisse
 bravo delphine
 bravo kevin
+bravo le maroc
 bravo les bleues
 bravo les bleus
 bravo les filles
@@ -90235,6 +90248,7 @@ bravo ugo
 bravochampion
 bravochampionne
 bravoclarisse
+bravolemaroc
 bravolesbleues
 bravolesbleus
 bravolesfilles
@@ -90777,6 +90791,7 @@ busquetsenelbanquillo
 busse
 bussin
 but de giroud
+but de messi
 butch
 butez
 butler
@@ -98858,6 +98873,7 @@ gaelle
 gaelmonfils
 gaelperdriau
 gaetan
+gaetan charbonnier
 gaetan matis
 gaetan perrin
 gaetanmathis
@@ -99083,6 +99099,7 @@ gaël perdriau
 gaëlle
 gaëlperdriau
 gaëtan
+gaëtan charbonnier
 gaëtan perrin
 gbbo
 gbd5
