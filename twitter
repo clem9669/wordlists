@@ -491,6 +491,7 @@ $twtr
 1M76
 1M80
 1M85
+1M86
 1M88
 1M90
 1M91
@@ -621,6 +622,7 @@ $twtr
 1m76
 1m80
 1m85
+1m86
 1m88
 1m90
 1m91
@@ -36365,6 +36367,7 @@ JEAN-PHILIPPE
 JEAN-PIERRE
 JEAN-PIERRE ADAMS
 JEAN-PIERRE BACRI
+JEAN-PIERRE FOUCAULT
 JEAN-PIERRE PERNAUT
 JEAN-PIERRE VIDAL
 JEAN-PIERREADAMS
@@ -38191,10 +38194,12 @@ Jean-Philippe
 Jean-Pierre
 Jean-Pierre Adams
 Jean-Pierre Bacri
+Jean-Pierre Foucault
 Jean-Pierre Pernaut
 Jean-Pierre Vidal
 Jean-PierreAdams
 Jean-PierreBacri
+Jean-PierreFoucault
 Jean-PierrePernaut
 Jean-PierreVidal
 Jean-Pizza
@@ -38323,6 +38328,7 @@ JeanPhilippe
 JeanPierre
 JeanPierre Adams
 JeanPierre Bacri
+JeanPierre Foucault
 JeanPierre Pernaut
 JeanPierre Vidal
 JeanPierreAdams
@@ -50340,6 +50346,7 @@ MIDDLESBROUGH
 MIDDLETON
 MIDI LIBRE
 MIDI PYRENEES
+MIDI PYRÉNÉES
 MIDILIBRE
 MIDINEWS
 MIDIPYRENEES
@@ -50606,12 +50613,15 @@ MISS CORSE
 MISS CÔTE
 MISS FRANCE
 MISS FRANCE 2022
+MISS FRANCHE-COMTE
+MISS FRANCHE-COMTÉ
 MISS GUADELOUPE
 MISS GUYANE
 MISS IDF
 MISS ILE-DE-FRANCE
 MISS INDE
 MISS INDIA
+MISS LANGUEDOC
 MISS LIMOUSIN
 MISS LORRAINE
 MISS MARVEL
@@ -50626,6 +50636,7 @@ MISS PROVENCE
 MISS REUNION
 MISS RHÔNE ALPES
 MISS RHÔNE-ALPES
+MISS ROUSSILLON
 MISS RÉUNION
 MISS TAHITI
 MISS TIC
@@ -53976,6 +53987,8 @@ Miss Corse
 Miss Côte
 Miss France
 Miss France 2022
+Miss Franche-Comté
+Miss FrancheComté
 Miss Guadeloupe
 Miss Guyane
 Miss IDF
@@ -53983,12 +53996,14 @@ Miss Ile-de-France
 Miss IledeFrance
 Miss Inde
 Miss India
+Miss Languedoc
 Miss Limousin
 Miss Lorraine
 Miss Marvel
 Miss Mayotte
 Miss Monde
 Miss Nord Pas De Calais
+Miss Nord Pas de Calais
 Miss Normandie
 Miss Picardie
 Miss Poes
@@ -53996,6 +54011,7 @@ Miss Pologne
 Miss Provence
 Miss Rhône-Alpes
 Miss RhôneAlpes
+Miss Roussillon
 Miss Réunion
 Miss Tahiti
 Miss Tic
@@ -54020,6 +54036,7 @@ MissCôte
 MissFrance
 MissFrance2022
 MissFrance2023
+MissFranche-Comté
 MissGuadeloupe
 MissGuyane
 MissIDF
@@ -54027,12 +54044,14 @@ MissIle-de-France
 MissIledeFrance
 MissInde
 MissIndia
+MissLanguedoc
 MissLimousin
 MissLorraine
 MissMarvel
 MissMayotte
 MissMonde
 MissNordPasDeCalais
+MissNordPasdeCalais
 MissNormandie
 MissPicardie
 MissPoes
@@ -54041,6 +54060,7 @@ MissProvence
 MissReunion
 MissRhône-Alpes
 MissRhôneAlpes
+MissRoussillon
 MissRéunion
 MissTahiti
 MissTic
@@ -69644,6 +69664,7 @@ ST ETIENNE
 ST GALLEN
 ST GEORGE
 ST MANDE
+ST MARTIN
 ST NICOLAS
 ST PATRICK
 ST PAULI
@@ -72878,6 +72899,7 @@ St Etienne
 St Gallen
 St George
 St Mandé
+St Martin
 St Nicolas
 St Patrick
 St Pauli
@@ -72901,6 +72923,7 @@ StGall
 StGallen
 StGeorge
 StMandé
+StMartin
 StNicolas
 StPatrick
 StPatricksDay
@@ -103563,6 +103586,7 @@ jean-philippe
 jean-pierre
 jean-pierre adams
 jean-pierre bacri
+jean-pierre foucault
 jean-pierre pernaut
 jean-pierre vidal
 jean-pierreadams
@@ -111777,12 +111801,14 @@ miss corse
 miss côte
 miss france
 miss france 2022
+miss franche-comté
 miss guadeloupe
 miss guyane
 miss idf
 miss ile-de-france
 miss inde
 miss india
+miss languedoc
 miss limousin
 miss lorraine
 miss marvel
@@ -111797,6 +111823,7 @@ miss provence
 miss rhône alpes
 miss rhône-alpes
 miss rhônealpes
+miss roussillon
 miss réunion
 miss tahiti
 miss tic
@@ -121676,6 +121703,7 @@ st denis
 st gallen
 st george
 st mandé
+st martin
 st nicolas
 st patrick
 st pauli
