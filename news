@@ -528,6 +528,7 @@ ACTION CREDIT SUISSE
 ACTION EDF
 ACTION FACEBOOK
 ACTRICE ANNE HECHE
+ACTRICE IRANIENNE TARANEH ALIDOOSTI
 AD
 AD ASTRA
 ADALINE
@@ -615,6 +616,7 @@ AFGHANISTAN
 AFGHANISTAN ACTUALITÉ
 AFGHANISTAN CARTE
 AFIDA TURNER
+AFRICAN QUEEN
 AFRIKA CUP
 AFRIQUE AUSTRALE
 AFRIQUE DU SUD
@@ -1849,7 +1851,9 @@ ActionCreditSuisse
 ActionEDF
 ActionFacebook
 Actrice Anne Heche
+Actrice iranienne Taraneh Alidoosti
 ActriceAnneHeche
+ActriceiranienneTaranehAlidoosti
 Ad Astra
 AdAstra
 Adaline
@@ -1978,6 +1982,8 @@ Afghanistanactualité
 Afghanistancarte
 Afida Turner
 AfidaTurner
+African Queen
+AfricanQueen
 Afrika Cup
 AfrikaCup
 Afrique australe
@@ -9840,6 +9846,7 @@ DEAD TO ME
 DEADPOOL
 DEADPOOL 3
 DEAN KUKAN
+DEAN MARTIN
 DEAN STOCKWELL
 DEATH VALLEY
 DEATHLOOP
@@ -10630,8 +10637,10 @@ Deadpool 3
 Deadpool3
 DeadtoMe
 Dean Kukan
+Dean Martin
 Dean Stockwell
 DeanKukan
+DeanMartin
 DeanStockwell
 Death Valley
 DeathValley
@@ -11675,6 +11684,7 @@ EMGRUPPEB
 EMIL FREY
 EMILE DARAI GYNÉCOLOGUE
 EMILIA CLARKE
+EMILIANO MARTINEZ
 EMILY IN PARIS
 EMILY RATAJKOWSKI
 EMINEM
@@ -11694,6 +11704,7 @@ EMMA WATSON
 EMMANUEL DE LA TAILLE
 EMMANUEL MACRON
 EMMANUEL MACRON PREMIER MINISTRE
+EMMANUEL PETIT
 EMMANUELLE
 EMMANUELLE SEIGNER
 EMMARADUCANU
@@ -12439,6 +12450,8 @@ Emile darai gynécologue
 Emiledaraigynécologue
 Emilia Clarke
 EmiliaClarke
+Emiliano Martinez
+EmilianoMartinez
 Emily Ratajkowski
 Emily in Paris
 EmilyRatajkowski
@@ -12472,9 +12485,11 @@ EmmaWatson
 EmmadeCaunes
 Emmanuel Macron
 Emmanuel Macron Premier ministre
+Emmanuel Petit
 Emmanuel de La Taille
 EmmanuelMacron
 EmmanuelMacronPremierministre
+EmmanuelPetit
 EmmanueldeLaTaille
 Emmanuelle
 Emmanuelle Seigner
@@ -12586,10 +12601,12 @@ Enzo Crivelli
 Enzo Fernandez
 Enzo Scifo
 Enzo Zidane
+Enzo fernandez
 EnzoCrivelli
 EnzoFernandez
 EnzoScifo
 EnzoZidane
+Enzofernandez
 EpiPen
 Epic Games
 EpicGames
@@ -16674,6 +16691,7 @@ GwynethPaltrow
 Gyrano Kerk
 GyranoKerk
 GÉRALD DARMANIN
+GÉRALD DARMANIN ALGÉRIEN
 GÉRALDINE MAILLET
 GÉRARD COLLOMB MACRON
 GÉRARD DEPARDIEU
@@ -16687,7 +16705,9 @@ GÜNTHER JAUCH
 GéRARD DEPARDIEU
 GéRARDDEPARDIEU
 Gérald Darmanin
+Gérald Darmanin algérien
 GéraldDarmanin
+GéraldDarmaninalgérien
 Géraldine Maillet
 GéraldineMaillet
 Gérard Collomb Macron
@@ -18779,6 +18799,7 @@ JAPON – COSTA RICA
 JAPON – CROATIE
 JAPON – ESPAGNE
 JARED ISAACMAN
+JARED KUSHNER
 JARED LETO
 JARRY
 JASMIN HERREN
@@ -18830,6 +18851,7 @@ JEAN-DANIEL FLAYSAKIER
 JEAN-JACQUES BOURDIN
 JEAN-JACQUES BOURDIN RMC
 JEAN-JACQUES CASSIMAN
+JEAN-JACQUES DEBOUT
 JEAN-JACQUES GOLDMAN
 JEAN-JACQUES SAVIN
 JEAN-LOUIS AUBERT
@@ -18914,6 +18936,7 @@ JENS LEHMANN
 JENS RIEWA
 JENS STOLTENBERG
 JEREMIE MAKIESE
+JEREMY CLARKSON
 JEREMY COHEN
 JEREMY DESPLANCHES
 JEREMY FERRARI
@@ -18950,6 +18973,7 @@ JEUDI DE L'ASCENSION
 JEUMONT
 JEUNE FEDERAL SUISSE
 JEUNE LOUP
+JEUX INTERDITS
 JEUX OLYMPIQUES
 JEUX OLYMPIQUES 2021
 JEUX OLYMPIQUES D'HIVER
@@ -19560,8 +19584,10 @@ Japon–CostaRica
 Japon–Croatie
 Japon–Espagne
 Jared Isaacman
+Jared Kushner
 Jared Leto
 JaredIsaacman
+JaredKushner
 JaredLeto
 Jarry
 Jasmin Herren
@@ -19632,11 +19658,13 @@ Jean-DanielFlaysakier
 Jean-Jacques Bourdin
 Jean-Jacques Bourdin RMC
 Jean-Jacques Cassiman
+Jean-Jacques Debout
 Jean-Jacques Goldman
 Jean-Jacques Savin
 Jean-JacquesBourdin
 Jean-JacquesBourdinRMC
 Jean-JacquesCassiman
+Jean-JacquesDebout
 Jean-JacquesGoldman
 Jean-JacquesSavin
 Jean-Louis Aubert
@@ -19724,6 +19752,7 @@ JeanGabin
 JeanJacques Bourdin
 JeanJacques Bourdin RMC
 JeanJacques Cassiman
+JeanJacques Debout
 JeanJacques Goldman
 JeanJacques Savin
 JeanJanssens
@@ -19854,11 +19883,13 @@ JensRiewa
 JensStoltenberg
 Jeremie Makiese
 JeremieMakiese
+Jeremy Clarkson
 Jeremy Cohen
 Jeremy Desplanches
 Jeremy Ferrari
 Jeremy Hunt
 Jeremy frerot
+JeremyClarkson
 JeremyCohen
 JeremyDesplanches
 JeremyFerrari
@@ -19928,6 +19959,7 @@ Jeunefederalsuisse
 Jeux Olympiques 2021
 Jeux Olympiques de Tokyo 2020
 Jeux Paralympiques 2020
+Jeux interdits
 Jeux olympiques
 Jeux olympiques 2021
 Jeux olympiques d'hiver
@@ -19939,6 +19971,7 @@ Jeux paralympiques 2021
 JeuxOlympiques2021
 JeuxOlympiquesdeTokyo2020
 JeuxParalympiques2020
+Jeuxinterdits
 Jeuxolympiques
 Jeuxolympiques2021
 Jeuxolympiquesd'hiver
@@ -20876,6 +20909,7 @@ KOH-LANTA
 KOH-LANTA 2022
 KOHLANTESS
 KOLASINAC
+KOLO MUANI
 KOM OP TEGEN KANKER
 KOMBINATION FRAUEN OLYMPIA
 KOMPANY
@@ -21461,6 +21495,8 @@ KohLanta 2022
 KohLanta2022
 Kohlantess
 Kolasinac
+Kolo Muani
+KoloMuani
 Kom op tegen Kanker
 Kombination Frauen Olympia
 KombinationFrauenOlympia
@@ -22422,6 +22458,7 @@ LIZ TRUSS
 LIZ TRUSS' RÜCKTRITT
 LIZY
 LIZZO
+LLORIS
 LLOYD HARRIS
 LN24
 LOANA
@@ -23986,6 +24023,7 @@ LizTruss
 LizTruss'Rücktritt
 Lizy
 Lizzo
+Lloris
 Lloyd Harris
 LloydHarris
 Loana
@@ -24547,6 +24585,7 @@ MACRON DISSOLUTION ASSEMBLÉE NATIONALE
 MACRON FOOT
 MACRON LOURDES
 MACRON MARSEILLE
+MACRON MBAPPE
 MACRON PUTIN
 MACRON QATAR
 MACRON TF1
@@ -24829,6 +24868,7 @@ MARCO ROSSI
 MARCO VERRATTI
 MARCO WÖLFLI
 MARCOROSSI
+MARCOS ACUÑA
 MARCUS RASHFORD
 MARCUS THURAM
 MARCUSTHURAM
@@ -25899,12 +25939,14 @@ Macron Qatar
 Macron TF1
 Macron dissolution Assemblée nationale
 Macron foot
+Macron mbappe
 MacronLourdes
 MacronPutin
 MacronQatar
 MacronTF1
 MacrondissolutionAssembléenationale
 Macronfoot
+Macronmbappe
 Mad Heidi
 Mad Heidi Film
 MadHeidi
@@ -26402,6 +26444,8 @@ MarcoRima
 MarcoRossi
 MarcoVerratti
 MarcoWölfli
+Marcos acuña
+Marcosacuña
 Marcus Rashford
 Marcus Thuram
 MarcusRashford
@@ -30687,6 +30731,7 @@ PAUL VEYNE
 PAUL WALKER
 PAULA BADOSA
 PAULETTE NARDAL
+PAULINE ESTER
 PAULINE FERRAND PREVOT
 PAULKOULAK
 PAULO BENTO
@@ -31237,6 +31282,7 @@ PROUST
 PROZESS JOHNNY DEPP AMBER HEARD
 PReSIDENTS
 PRÄTTIGAU
+PRÉSIDENT
 PRÉSUMÉ INNOCENT
 PRéSIDENTS
 PS
@@ -31840,7 +31886,9 @@ Paula Badosa
 PaulaBadosa
 Paulette Nardal
 PauletteNardal
+Pauline Ester
 Pauline Ferrand prevot
+PaulineEster
 PaulineFerrandprevot
 Paulo Bento
 PauloBento
@@ -32756,6 +32804,7 @@ Proust
 Prozess Johnny Depp Amber Heard
 ProzessJohnnyDeppAmberHeard
 Prättigau
+Président
 Présidents
 Présumé innocent
 Présuméinnocent
@@ -33042,6 +33091,7 @@ RAMPAGE
 RAMSAY-HUNT-SYNDROM
 RAMZY BEDIA
 RAN NFL
+RANDAL KOLO MUANI
 RANDY SCHNEIDER
 RANGE ROVER
 RANGERS
@@ -33861,6 +33911,8 @@ RamzyBedia
 Ran NFL
 Ran nfl
 RanNFL
+Randal Kolo Muani
+RandalKoloMuani
 Randy Schneider
 RandySchneider
 Range Rover
@@ -38216,6 +38268,7 @@ TATORT ZÜRICH
 TATORT: MASKEN
 TATYANA FRANCK
 TAUBIRA
+TAUCHUNFALL WALENSEE
 TAUX D'USURE
 TAUX DE PARTICIPATION
 TAUX DIRECTEURS BCE
@@ -38991,6 +39044,8 @@ Tatortheute
 Tatyana Franck
 TatyanaFranck
 Taubira
+Tauchunfall Walensee
+TauchunfallWalensee
 Taux d'usure
 Taux de participation
 Taux directeurs BCE
@@ -41738,6 +41793,7 @@ WILLY NAESSENS
 WILLY SOMMERS
 WILSBERG
 WIM HELSEN
+WIM HENDERICKX
 WIM LYBAERT
 WIM RAVELL
 WIM VERSTRAETEN
@@ -42215,10 +42271,12 @@ WillyNaessens
 WillySommers
 Wilsberg
 Wim Helsen
+Wim Henderickx
 Wim Lybaert
 Wim Ravell
 Wim Verstraeten
 WimHelsen
+WimHenderickx
 WimLybaert
 WimRavell
 WimVerstraeten
@@ -43175,6 +43233,7 @@ action credit suisse
 action edf
 action facebook
 actrice anne heche
+actrice iranienne taraneh alidoosti
 ad
 ad astra
 adaline
@@ -43254,6 +43313,7 @@ afghanistan
 afghanistan actualité
 afghanistan carte
 afida turner
+african queen
 afrika cup
 afrique australe
 afrique du sud
@@ -46635,6 +46695,7 @@ dead to me
 deadpool
 deadpool 3
 dean kukan
+dean martin
 dean stockwell
 death valley
 deathloop
@@ -47310,6 +47371,7 @@ emgruppeb
 emil frey
 emile darai gynécologue
 emilia clarke
+emiliano martinez
 emily in paris
 emily ratajkowski
 eminem
@@ -47329,6 +47391,7 @@ emma watson
 emmanuel de la taille
 emmanuel macron
 emmanuel macron premier ministre
+emmanuel petit
 emmanuelle
 emmanuelle seigner
 emmaraducanu
@@ -48982,6 +49045,7 @@ gzsz
 gzsz-vorschau
 gzszvorschau
 gérald darmanin
+gérald darmanin algérien
 géraldine maillet
 gérard collomb macron
 gérard depardieu
@@ -49904,6 +49968,7 @@ japon – costa rica
 japon – croatie
 japon – espagne
 jared isaacman
+jared kushner
 jared leto
 jarry
 jasmin herren
@@ -49953,6 +50018,7 @@ jean-daniel flaysakier
 jean-jacques bourdin
 jean-jacques bourdin rmc
 jean-jacques cassiman
+jean-jacques debout
 jean-jacques goldman
 jean-jacques savin
 jean-louis aubert
@@ -50037,6 +50103,7 @@ jens lehmann
 jens riewa
 jens stoltenberg
 jeremie makiese
+jeremy clarkson
 jeremy cohen
 jeremy desplanches
 jeremy ferrari
@@ -50073,6 +50140,7 @@ jeudi de l'ascension
 jeumont
 jeune federal suisse
 jeune loup
+jeux interdits
 jeux olympiques
 jeux olympiques 2021
 jeux olympiques d'hiver
@@ -50704,6 +50772,7 @@ koh-lanta
 koh-lanta 2022
 kohlantess
 kolasinac
+kolo muani
 kom op tegen kanker
 kombination frauen olympia
 kompany
@@ -51537,6 +51606,7 @@ liz truss
 liz truss' rücktritt
 lizy
 lizzo
+lloris
 lloyd harris
 ln24
 loana
@@ -51876,6 +51946,7 @@ macron dissolution assemblée nationale
 macron foot
 macron lourdes
 macron marseille
+macron mbappe
 macron putin
 macron qatar
 macron tf1
@@ -52155,6 +52226,7 @@ marco rossi
 marco verratti
 marco wölfli
 marcorossi
+marcos acuña
 marcus rashford
 marcus thuram
 marcusthuram
@@ -54233,6 +54305,7 @@ paul veyne
 paul walker
 paula badosa
 paulette nardal
+pauline ester
 pauline ferrand prevot
 paulkoulak
 paulo bento
@@ -54766,6 +54839,7 @@ protocole sanitaire ecole
 proust
 prozess johnny depp amber heard
 prättigau
+président
 présidents
 présumé innocent
 ps
@@ -54969,6 +55043,7 @@ rampage
 ramsay-hunt-syndrom
 ramzy bedia
 ran nfl
+randal kolo muani
 randy schneider
 range rover
 rangers
@@ -56852,6 +56927,7 @@ tatort zürich
 tatort: masken
 tatyana franck
 taubira
+tauchunfall walensee
 taux d'usure
 taux de participation
 taux directeurs bce
@@ -58230,6 +58306,7 @@ willy naessens
 willy sommers
 wilsberg
 wim helsen
+wim henderickx
 wim lybaert
 wim ravell
 wim verstraeten
