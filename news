@@ -3938,6 +3938,7 @@ BAD SÄCKINGEN
 BADEN
 BADEN-WÜRTTEMBERG
 BADER SHAMMAS
+BADIASHILE
 BADINTER
 BADOSA
 BADR HARI
@@ -4316,6 +4317,7 @@ BENISSIMO
 BENITO RAMAN
 BENJAMIN AZOULAY
 BENJAMIN BIOLAY
+BENJAMIN BIOLAY ROSELYNE BACHELOT
 BENJAMIN CASTALDI
 BENJAMIN DUHAMEL
 BENJAMIN GRIVEAUX
@@ -5066,6 +5068,7 @@ Baden-Württemberg
 BadenWürttemberg
 Bader Shammas
 BaderShammas
+Badiashile
 Badinter
 Badosa
 Badr Hari
@@ -5686,6 +5689,7 @@ Benito Raman
 BenitoRaman
 Benjamin Azoulay
 Benjamin Biolay
+Benjamin Biolay Roselyne Bachelot
 Benjamin Castaldi
 Benjamin Duhamel
 Benjamin Griveaux
@@ -5697,6 +5701,7 @@ Benjamin Pavard
 Benjamin Voisin
 BenjaminAzoulay
 BenjaminBiolay
+BenjaminBiolayRoselyneBachelot
 BenjaminCastaldi
 BenjaminDuhamel
 BenjaminGriveaux
@@ -7233,6 +7238,7 @@ CHELSEA  MILAN
 CHELSEA GEGEN ARSENAL
 CHELSEA GEGEN ASTON VILLA
 CHELSEA GEGEN LIVERPOOL
+CHELSEA GEGEN MANCITY
 CHELSEA GEGEN MILAN
 CHELSEA GEGEN RB SALZBURG
 CHELSEA GEGEN REAL MADRID
@@ -7254,6 +7260,7 @@ CHELSEA – JUVENTUS
 CHELSEA – LEICESTER
 CHELSEA – LIVERPOOL
 CHELSEA – MALMÖ
+CHELSEA – MANCHESTER CITY
 CHELSEA – MANCHESTER UNITED
 CHELSEA – MILAN
 CHELSEA – NEWCASTLE
@@ -7724,6 +7731,7 @@ CORONAPASPOORT
 CORONAVIRUS
 CORONAVIRUS BELGIQUE
 CORONAVIRUS SCHWEIZ
+CORONAVIRUS VARIANTE XBB.1.5
 CORREA
 CORRIERE DELLO SPORT
 CORRUPTION QATAR PARLEMENT EUROPÉEN
@@ -8666,6 +8674,7 @@ Chelsea Sodaro
 Chelsea gegen Arsenal
 Chelsea gegen Aston Villa
 Chelsea gegen Liverpool
+Chelsea gegen ManCity
 Chelsea gegen Milan
 Chelsea gegen RB Salzburg
 Chelsea gegen Real Madrid
@@ -8684,6 +8693,7 @@ Chelsea – Juventus
 Chelsea – Leicester
 Chelsea – Liverpool
 Chelsea – Malmö
+Chelsea – Manchester City
 Chelsea – Manchester United
 Chelsea – Milan
 Chelsea – Newcastle
@@ -8709,6 +8719,7 @@ ChelseaSodaro
 ChelseagegenArsenal
 ChelseagegenAstonVilla
 ChelseagegenLiverpool
+ChelseagegenManCity
 ChelseagegenMilan
 ChelseagegenRBSalzburg
 ChelseagegenRealMadrid
@@ -8727,6 +8738,7 @@ Chelsea–Juventus
 Chelsea–Leicester
 Chelsea–Liverpool
 Chelsea–Malmö
+Chelsea–ManchesterCity
 Chelsea–ManchesterUnited
 Chelsea–Milan
 Chelsea–Newcastle
@@ -9506,9 +9518,11 @@ Coronapaspoort
 Coronavirus
 Coronavirus Belgique
 Coronavirus Schweiz
+Coronavirus Variante XBB.1.5
 Coronavirus schweiz
 CoronavirusBelgique
 CoronavirusSchweiz
+CoronavirusVarianteXBB.1.5
 Coronavirusschweiz
 CoronaÖsterreich
 Correa
@@ -10456,8 +10470,10 @@ DRAPEAU UKRAINE
 DREAM
 DREE PEREMANS
 DREI HASELNÜSSE FÜR ASCHENBRÖDEL
+DREI KÖNIGE
 DREIKÖNIGSKUCHEN
 DRESDEN
+DRIEKONINGEN
 DRIEKONINGENTAART
 DRIES MERTENS
 DRIES VAN GESTEL
@@ -11516,9 +11532,12 @@ Dream
 Dree Peremans
 DreePeremans
 Drei Haselnüsse für Aschenbrödel
+Drei Könige
 DreiHaselnüssefürAschenbrödel
+DreiKönige
 Dreikönigskuchen
 Dresden
+Driekoningen
 Driekoningentaart
 Dries Mertens
 Dries Van Gestel
@@ -11764,6 +11783,7 @@ EINREISE SCHWEIZ CORONA
 EINREISE ÖSTERREICH
 EINREISEFORMULAR SCHWEIZ
 EINSIEDELN
+EINSTEIN
 EINTRACHT FRANCFORT – MARSEILLE
 EINTRACHT FRANKFURT
 EINTRACHT FRANKFURT GEGEN BAYERN
@@ -11806,6 +11826,7 @@ EKfinale
 EKveldrijden2021
 EKvrouwen
 EKwielrennen
+EL CHAPO
 EL SALVADOR
 ELAINE THOMPSON
 ELCHE – ATLÉTICO MADRID
@@ -12475,6 +12496,7 @@ Einreiseformular Schweiz
 EinreiseformularSchweiz
 EinreiseÖsterreich
 Einsiedeln
+Einstein
 Eintracht Francfort – Marseille
 Eintracht Frankfurt
 Eintracht Frankfurt gegen Bayern
@@ -12512,7 +12534,9 @@ Eishockeyschweiz
 Ekitike
 Ekkelenkamp
 Eksaarde
+El Chapo
 El Salvador
+ElChapo
 ElSalvador
 Elaine Thompson
 ElaineThompson
@@ -13576,8 +13600,10 @@ FC St. Gallen
 FC St.Gallen 1879
 FC THUN
 FC THUN GEGEN WINTERTHUR
+FC TWENTE
 FC Thun
 FC Thun gegen Winterthur
+FC Twente
 FC URNÄSCH
 FC Urnäsch
 FC VADUZ
@@ -13648,6 +13674,7 @@ FCSt.Gallen
 FCSt.Gallen1879
 FCThun
 FCThungegenWinterthur
+FCTwente
 FCUrnäsch
 FCVaduz
 FCW
@@ -17448,6 +17475,7 @@ HUMA ABEDIN
 HUMANKIND
 HUMO'S COMEDY CUP
 HUMO'S ROCK RALLY
+HUNGER GAMES
 HUNTER X HUNTER
 HUSTLE
 HYMNE ITALIEN
@@ -18036,6 +18064,8 @@ Humo's Comedy Cup
 Humo's Rock Rally
 Humo'sComedyCup
 Humo'sRockRally
+Hunger Games
+HungerGames
 Hunter x Hunter
 HunterxHunter
 Hustle
@@ -19516,6 +19546,7 @@ JOLANDA NEFF
 JOLANDA SPIESS-HEGGLIN
 JOLIEN VERSCHUEREN
 JOLIENVERSCHUEREN
+JON BATISTE
 JON BON JOVI
 JONAH HILL
 JONAS LÜSCHER
@@ -20625,7 +20656,9 @@ JolandaNeff
 JolandaSpiess-Hegglin
 Jolien Verschueren
 JolienVerschueren
+Jon Batiste
 Jon Bon Jovi
+JonBatiste
 JonBonJovi
 Jonah Hill
 JonahHill
@@ -22690,6 +22723,7 @@ LES COMBATTANTES
 LES DEMOISELLES DE ROCHEFORT
 LES DESTINÉES SENTIMENTALES
 LES DIABLES ROUGES
+LES DISPARUS DE LA FORÊT NOIRE
 LES DIX COMMANDEMENTS
 LES ENFANTS DES AUTRES
 LES ENFAÑTS DES JUSTES
@@ -24084,6 +24118,7 @@ Les animaux fantastiques
 Les anneaux de pouvoir
 Les choses qu'on dit, les choses qu'on fait
 Les chroniques de Bridgerton
+Les disparus de la Forêt Noire
 Les enfañts des Justes
 Les fantasmes
 Les galettes de Pont-Aven
@@ -24148,6 +24183,7 @@ Lesanneauxdepouvoir
 Lesautdudiable
 Leschosesqu'ondit,leschosesqu'onfait
 LeschroniquesdeBridgerton
+LesdisparusdelaForêtNoire
 LesenfañtsdesJustes
 Lesensdelafamille
 Lesfantasmes
@@ -25410,6 +25446,7 @@ MARCHE DE NOEL
 MARCHE POUR LE CLIMAT
 MARCHIRSCHI
 MARCHÉ DE NOËL
+MARCIO FREIRE
 MARCO ASENSIO
 MARCO BELLOCCHIO
 MARCO BORRADORI
@@ -27006,6 +27043,8 @@ Marchedenoel
 Marchepourleclimat
 Marché de Noël
 MarchédeNoël
+Marcio Freire
+MarcioFreire
 Marco Asensio
 Marco Bellocchio
 Marco Borradori
@@ -29335,6 +29374,7 @@ NOA LANG
 NOAH GESSER
 NOAH LYLES
 NOAH OKAFOR
+NOAH SCHNAPP
 NOE PONTI
 NOEL
 NOEL 2021
@@ -30089,9 +30129,11 @@ NoaLang
 Noah Gesser
 Noah Lyles
 Noah Okafor
+Noah Schnapp
 NoahGesser
 NoahLyles
 NoahOkafor
+NoahSchnapp
 Noe Ponti
 NoePonti
 Noel
@@ -31636,6 +31678,7 @@ PIPPI LANGKOUS
 PIPPILANGKOUS
 PIQUE
 PIRATES DES CARAÏBES - LE SECRET DU COFFRE MAUDIT
+PIRATES OF THE CARIBBEAN
 PIRMIN WERNER
 PISCINE
 PISTONS – LAKERS
@@ -32969,7 +33012,9 @@ PippiLangkous
 Pique
 Pirates des Caraïbes  le secret du coffre maudit
 Pirates des Caraïbes - le secret du coffre maudit
+Pirates of the Caribbean
 PiratesdesCaraïbes-lesecretducoffremaudit
+PiratesoftheCaribbean
 Pirmin Werner
 PirminWerner
 Piscine
@@ -35187,6 +35232,7 @@ Robert Durst
 Robert Hendy-Freegard
 Robert HendyFreegard
 Robert Maudsley
+Robert Plant
 Robert Redford
 Robert Suber
 Robert menard
@@ -35196,6 +35242,7 @@ RobertDeNiro
 RobertDurst
 RobertHendy-Freegard
 RobertMaudsley
+RobertPlant
 RobertRedford
 RobertSuber
 Roberta Metsola
@@ -45305,6 +45352,7 @@ bad säckingen
 baden
 baden-württemberg
 bader shammas
+badiashile
 badinter
 badosa
 badr hari
@@ -45670,6 +45718,7 @@ benissimo
 benito raman
 benjamin azoulay
 benjamin biolay
+benjamin biolay roselyne bachelot
 benjamin castaldi
 benjamin duhamel
 benjamin griveaux
@@ -46780,6 +46829,7 @@ chelsea  milan
 chelsea gegen arsenal
 chelsea gegen aston villa
 chelsea gegen liverpool
+chelsea gegen mancity
 chelsea gegen milan
 chelsea gegen rb salzburg
 chelsea gegen real madrid
@@ -46801,6 +46851,7 @@ chelsea – juventus
 chelsea – leicester
 chelsea – liverpool
 chelsea – malmö
+chelsea – manchester city
 chelsea – manchester united
 chelsea – milan
 chelsea – newcastle
@@ -47259,6 +47310,7 @@ coronapaspoort
 coronavirus
 coronavirus belgique
 coronavirus schweiz
+coronavirus variante xbb.1.5
 correa
 corriere dello sport
 corruption qatar parlement européen
@@ -48027,8 +48079,10 @@ drapeau ukraine
 dream
 dree peremans
 drei haselnüsse für aschenbrödel
+drei könige
 dreikönigskuchen
 dresden
+driekoningen
 driekoningentaart
 dries mertens
 dries van gestel
@@ -48198,6 +48252,7 @@ einreise schweiz corona
 einreise österreich
 einreiseformular schweiz
 einsiedeln
+einstein
 eintracht francfort – marseille
 eintracht frankfurt
 eintracht frankfurt gegen bayern
@@ -48226,6 +48281,7 @@ ek2021wedstrijden
 ekitike
 ekkelenkamp
 eksaarde
+el chapo
 el salvador
 elaine thompson
 elche – atlético madrid
@@ -48862,6 +48918,7 @@ fc st. gallen
 fc st.gallen 1879
 fc thun
 fc thun gegen winterthur
+fc twente
 fc urnäsch
 fc vaduz
 fc wil
@@ -50415,6 +50472,7 @@ huma abedin
 humankind
 humo's comedy cup
 humo's rock rally
+hunger games
 hunter x hunter
 hustle
 hymne italien
@@ -51301,6 +51359,7 @@ jolanda neff
 jolanda spiess-hegglin
 jolien verschueren
 jolienverschueren
+jon batiste
 jon bon jovi
 jonah hill
 jonas lüscher
@@ -52411,6 +52470,7 @@ les combattantes
 les demoiselles de rochefort
 les destinées sentimentales
 les diables rouges
+les disparus de la forêt noire
 les dix commandements
 les enfants des autres
 les enfañts des justes
@@ -53295,6 +53355,7 @@ marche de noel
 marche pour le climat
 marchirschi
 marché de noël
+marcio freire
 marco asensio
 marco bellocchio
 marco borradori
@@ -54735,6 +54796,7 @@ noa lang
 noah gesser
 noah lyles
 noah okafor
+noah schnapp
 noe ponti
 noel
 noel 2021
@@ -55662,6 +55724,7 @@ pippi langkous
 pippilangkous
 pique
 pirates des caraïbes - le secret du coffre maudit
+pirates of the caribbean
 pirmin werner
 piscine
 pistons – lakers
@@ -59896,6 +59959,7 @@ zürich wetter
 ÉMIRATS ARABES UNIS – ARGENTINE
 ÉMMANUEL MACRON
 ÉNERGIE
+ÉPIPHANIE
 ÉQUATEUR – ARGENTINE
 ÉQUATEUR – BRÉSIL
 ÉQUATEUR – SÉNÉGAL
@@ -59943,6 +60007,7 @@ zürich wetter
 Émmanuel Macron
 ÉmmanuelMacron
 Énergie
+Épiphanie
 Équateur – Argentine
 Équateur – Brésil
 Équateur – Sénégal
@@ -60005,6 +60070,7 @@ zürich wetter
 émirats arabes unis – argentine
 émmanuel macron
 énergie
+épiphanie
 équateur – argentine
 équateur – brésil
 équateur – sénégal
