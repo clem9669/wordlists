@@ -4180,6 +4180,7 @@ ASMSparta
 ASMTS
 ASMUBB
 ASMULS
+ASMUSAP
 ASMVSTO
 ASMvSTO
 ASNIERES
@@ -70245,6 +70246,7 @@ SOLDESDEALABS
 SOLDESENEBA
 SOLDESTOPACHAT
 SOLDOUT
+SOLEDAR
 SOLEIL
 SOLEIL VERT
 SOLEILVERT
@@ -73676,6 +73678,7 @@ Soldes
 SoldesDealabs
 SoldesEneba
 SoldesTopAchat
+Soledar
 Soleil
 Soleil Vert
 SoleilVert
@@ -89110,6 +89113,7 @@ asmst
 asmts
 asmubb
 asmuls
+asmusap
 asmvsto
 asnieres
 asnières
@@ -123156,6 +123160,7 @@ soldesdealabs
 soldeseneba
 soldestopachat
 soldout
+soledar
 soleil
 soleil vert
 solene
