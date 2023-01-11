@@ -606,6 +606,7 @@ AFC RICHMOND
 AFC Richmond
 AFCRichmond
 AFFAIRE CONCLUE
+AFFAIRE D'OUTREAU
 AFFAIRE GREGORY
 AFFAIRE JUBILLAR
 AFFAIRE LOLA
@@ -2013,6 +2014,7 @@ Affaire Lola
 Affaire Maddie McCann
 Affaire Troadec
 Affaire conclue
+Affaire d'Outreau
 Affaire gregory
 AffaireConclue
 AffaireJubillar
@@ -2020,6 +2022,7 @@ AffaireLola
 AffaireMaddieMcCann
 AffaireTroadec
 Affaireconclue
+Affaired'Outreau
 Affairegregory
 Affaires etrangeres
 Affaires étrangères
@@ -4993,6 +4996,7 @@ BUCAREST
 BUCHE DE NOEL
 BUCKS – SUNS
 BUCKS – WARRIORS
+BUD SPENCER
 BUDAPEST
 BUDWEISER
 BUFFALO
@@ -6733,6 +6737,8 @@ Bucks – Suns
 Bucks – Warriors
 Bucks–Suns
 Bucks–Warriors
+Bud Spencer
+BudSpencer
 Budapest
 Budweiser
 Buffalo
@@ -7094,6 +7100,7 @@ CELINE BETHMANN
 CELINE DION
 CELINE QUATENNENS
 CELINE VAN OUYTSEL
+CELIO
 CELTA VIGO – BARCELONA
 CELTA VIGO – REAL
 CELTIC
@@ -8387,6 +8394,7 @@ CelineBethmann
 CelineDion
 CelineQuatennens
 CelineVanOuytsel
+Celio
 Celta Vigo – Barcelona
 Celta Vigo – Real
 CeltaVigo–Barcelona
@@ -10315,6 +10323,7 @@ DIETHER KREBS
 DIETRICH MATESCHITZ
 DIEUDONNE
 DIEUDONNe
+DIEUDONNÉ
 DIEUDONNé
 DIEUMERCI MBOKANI
 DIGITEC
@@ -10470,6 +10479,7 @@ DORTMUND GEGEN ARMINIA
 DORTMUND GEGEN BAYERN
 DORTMUND GEGEN BOCHUM
 DORTMUND GEGEN DYNAMO KIEW
+DORTMUND GEGEN DÜSSELDORF
 DORTMUND GEGEN EINTRACHT FRANKFURT
 DORTMUND GEGEN FREIBURG
 DORTMUND GEGEN HOFFENHEIM
@@ -11491,6 +11501,7 @@ Dortmund gegen Arminia
 Dortmund gegen Bayern
 Dortmund gegen Bochum
 Dortmund gegen Dynamo Kiew
+Dortmund gegen Düsseldorf
 Dortmund gegen Eintracht Frankfurt
 Dortmund gegen Freiburg
 Dortmund gegen Hoffenheim
@@ -11512,6 +11523,7 @@ DortmundgegenArminia
 DortmundgegenBayern
 DortmundgegenBochum
 DortmundgegenDynamoKiew
+DortmundgegenDüsseldorf
 DortmundgegenEintrachtFrankfurt
 DortmundgegenFreiburg
 DortmundgegenHoffenheim
@@ -15887,6 +15899,7 @@ GOLDBACH
 GOLDBAND
 GOLDEN GIRLS
 GOLDEN GLOBES 2022
+GOLDEN GLOBES 2023
 GOLDEN STATE WARRIORS
 GOLDMAN
 GOLDPREIS
@@ -16031,6 +16044,7 @@ GREUTHER FÜRTH – BAYERN
 GREVE
 GREVE 10 NOVEMBRE
 GREVE 18 OCTOBRE 2022
+GREVE 19 JANVIER 2023
 GREVE 22 AVRIL 2022
 GREVE 24 SEPTEMBRE 2021
 GREVE 27 JANVIER 2022
@@ -16725,9 +16739,11 @@ Goldbach
 Goldband
 Golden Girls
 Golden Globes 2022
+Golden Globes 2023
 Golden State Warriors
 GoldenGirls
 GoldenGlobes2022
+GoldenGlobes2023
 GoldenStateWarriors
 Goldman
 Goldpreis
@@ -16926,6 +16942,7 @@ GreutherFürth–Bayern
 Greve
 Greve 10 novembre
 Greve 18 octobre 2022
+Greve 19 janvier 2023
 Greve 22 avril 2022
 Greve 24 septembre 2021
 Greve 27 janvier 2022
@@ -16952,6 +16969,7 @@ Greve medecin
 Greve nationale
 Greve10novembre
 Greve18octobre2022
+Greve19janvier2023
 Greve22avril2022
 Greve24septembre2021
 Greve27janvier2022
@@ -18328,6 +18346,7 @@ INTER
 INTER  EMPOLI
 INTER  MONACO
 INTER  NAPOLI
+INTER  PARMA
 INTER  SALERNITANA
 INTER  SHERIFF
 INTER  SPEZIA
@@ -18398,6 +18417,7 @@ IPTV
 IQBAL KHAN
 IRAN
 IRAN  VERENIGDE STATEN
+IRAN OLIVIER VANDECASTEELE
 IRAN VS USA
 IRAN – ÉTATS-UNIS
 IREEN SHEER
@@ -18837,6 +18857,7 @@ Inter
 Inter  Empoli
 Inter  Monaco
 Inter  Napoli
+Inter  Parma
 Inter  Salernitana
 Inter  Sheriff
 Inter  Spezia
@@ -18868,6 +18889,7 @@ InterMiami–Barcelona
 InterMilan
 InterMonaco
 InterNapoli
+InterParma
 InterSalernitana
 InterSheriff
 InterSpezia
@@ -18917,11 +18939,13 @@ Iqbal Khan
 IqbalKhan
 Iran
 Iran  Verenigde Staten
+Iran Olivier Vandecasteele
 Iran vs USA
 Iran – États-Unis
 Iran – ÉtatsUnis
 Iran – états-unis
 Iran – étatsunis
+IranOlivierVandecasteele
 IranVerenigdeStaten
 IranvsUSA
 Iran–États-Unis
@@ -19343,6 +19367,7 @@ JAY ADAMS
 JAY LENO
 JAZZ
 JAZZ MIDDELHEIM
+JD
 JE TE PROMETS
 JE TE PROMETS SAISON 3
 JE VOUDRAIS QUE QUELQU'UN M'ATTENDE QUELQUE PART
@@ -21553,6 +21578,7 @@ KRISTEN STEWART
 KRISTIAN BLUMMENFELT
 KRISTIEN HEMMERECHTS
 KRISTIN DAVIS
+KRISTIN SCOTT THOMAS
 KRISTOFFER OLSSON
 KROATIE
 KROATIEN  TSCHECHIEN
@@ -22185,7 +22211,9 @@ KristianBlummenfelt
 Kristien Hemmerechts
 KristienHemmerechts
 Kristin Davis
+Kristin Scott Thomas
 KristinDavis
+KristinScottThomas
 Kristoffer Olsson
 KristofferOlsson
 Kroatie
@@ -22534,6 +22562,7 @@ LASCHET
 LAST CHRISTMAS
 LAST NIGHT IN SOHO
 LATA MANGESHKAR
+LAUBERHORNRENNEN
 LAUBERHORNRENNEN 2022
 LAUCHHAMMER
 LAURA DE WECK
@@ -23701,6 +23730,7 @@ LastChristmas
 LastNightinSoho
 Lata Mangeshkar
 LataMangeshkar
+Lauberhornrennen
 Lauberhornrennen 2022
 Lauberhornrennen2022
 Lauchhammer
@@ -25432,6 +25462,7 @@ MANCHESTER UNITED – BOURNEMOUTH
 MANCHESTER UNITED – BRENTFORD
 MANCHESTER UNITED – BRIGHTON
 MANCHESTER UNITED – BURNLEY
+MANCHESTER UNITED – CHARLTON
 MANCHESTER UNITED – CHELSEA
 MANCHESTER UNITED – CRYSTAL PALACE
 MANCHESTER UNITED – EVERTON
@@ -25928,6 +25959,7 @@ MAURI VANSEVENANT
 MAURICE FILM
 MAURICE MANIFICAT
 MAURITIUS
+MAURO CAVIEZEL
 MAURO CAVIEZEL STURZ
 MAURO ICARDI WANDA NARA
 MAUS
@@ -26237,6 +26269,7 @@ MICHELLE HUNZIKER
 MICHELLE HUNZIKER NEWS
 MICHELLE MARTIN
 MICHELLE WILLIAMS
+MICHELLE YEOH
 MICHELLEHUNZIKER
 MICHELPOLNAREFF
 MICHIEL DE MEYER
@@ -26927,6 +26960,7 @@ Manchester United – Bournemouth
 Manchester United – Brentford
 Manchester United – Brighton
 Manchester United – Burnley
+Manchester United – Charlton
 Manchester United – Chelsea
 Manchester United – Crystal Palace
 Manchester United – Everton
@@ -26964,6 +26998,7 @@ ManchesterUnited–Bournemouth
 ManchesterUnited–Brentford
 ManchesterUnited–Brighton
 ManchesterUnited–Burnley
+ManchesterUnited–Charlton
 ManchesterUnited–Chelsea
 ManchesterUnited–CrystalPalace
 ManchesterUnited–Everton
@@ -27841,8 +27876,10 @@ Maurice film
 MauriceManificat
 Mauricefilm
 Mauritius
+Mauro Caviezel
 Mauro Caviezel Sturz
 Mauro Icardi Wanda Nara
+MauroCaviezel
 MauroCaviezelSturz
 MauroIcardiWandaNara
 Maus
@@ -28375,12 +28412,14 @@ Michelle Hunziker
 Michelle Hunziker news
 Michelle Martin
 Michelle Williams
+Michelle Yeoh
 MichelleGisin
 MichelleHeimberg
 MichelleHunziker
 MichelleHunzikernews
 MichelleMartin
 MichelleWilliams
+MichelleYeoh
 MichelÉdouard Leclerc
 Michiel De Meyer
 MichielDeMeyer
@@ -32142,11 +32181,14 @@ PRÉSUMÉ INNOCENT
 PRéSIDENTS
 PS
 PSG
+PSG  Angers
 PSG  Brest
 PSG  Lorient
 PSG  OM
 PSG  QUEVILLY
 PSG  Quevilly
+PSG - ANGERS
+PSG - Angers
 PSG - BREST
 PSG - Brest
 PSG - LORIENT
@@ -32190,6 +32232,7 @@ PSG – Bayern Munich
 PSG – QUEVILLY-ROUEN MÉTROPOLE
 PSG – Quevilly-Rouen Métropole
 PSG – QuevillyRouen Métropole
+PSG-Angers
 PSG-BREST
 PSG-Brest
 PSG-LILLE
@@ -33797,6 +33840,7 @@ QUICKBOOKS
 QUICKLINE
 QUIET QUITTING
 QUILLAN
+QUINN REDEKER
 QUINO
 QUINTANA
 QUINTEN HERMANS
@@ -33882,6 +33926,8 @@ Quickline
 Quiet quitting
 Quietquitting
 Quillan
+Quinn Redeker
+QuinnRedeker
 Quino
 Quintana
 Quinten Hermans
@@ -39353,6 +39399,7 @@ TERENCE TELLE
 TERESA BERGANZA
 TERI HATCHER
 TERRENCE CLARKE
+TERRIFIER
 TERRIFIER 2
 TERRORISME GARE MONTPARNASSE
 TERRY HALL
@@ -39402,6 +39449,7 @@ THE BOYS
 THE CROWN SAISON 5
 THE CRY
 THE CURE
+THE DANCER
 THE DARK KNIGHT
 THE DARKEST MINDS
 THE DEMON HOUSE
@@ -40188,6 +40236,7 @@ Teri Hatcher
 TeriHatcher
 Terrence Clarke
 TerrenceClarke
+Terrifier
 Terrifier 2
 Terrifier2
 Terrorisme gare Montparnasse
@@ -40242,6 +40291,7 @@ The Boys
 The Crown saison 5
 The Cry
 The Cure
+The Dancer
 The Dark Knight
 The Darkest Minds
 The Demon House
@@ -40332,6 +40382,7 @@ TheBoys
 TheCrownsaison5
 TheCry
 TheCure
+TheDancer
 TheDarkKnight
 TheDarkestMinds
 TheDemonHouse
@@ -44464,6 +44515,7 @@ aeroport montpellier
 afasie
 afc richmond
 affaire conclue
+affaire d'outreau
 affaire gregory
 affaire jubillar
 affaire lola
@@ -46566,6 +46618,7 @@ bucarest
 buche de noel
 bucks – suns
 bucks – warriors
+bud spencer
 budapest
 budweiser
 buffalo
@@ -46888,6 +46941,7 @@ celine bethmann
 celine dion
 celine quatennens
 celine van ouytsel
+celio
 celta vigo – barcelona
 celta vigo – real
 celtic
@@ -48275,6 +48329,7 @@ dortmund gegen arminia
 dortmund gegen bayern
 dortmund gegen bochum
 dortmund gegen dynamo kiew
+dortmund gegen düsseldorf
 dortmund gegen eintracht frankfurt
 dortmund gegen freiburg
 dortmund gegen hoffenheim
@@ -50103,6 +50158,7 @@ goldbach
 goldband
 golden girls
 golden globes 2022
+golden globes 2023
 golden state warriors
 goldman
 goldpreis
@@ -50226,6 +50282,7 @@ greuther fürth – bayern
 greve
 greve 10 novembre
 greve 18 octobre 2022
+greve 19 janvier 2023
 greve 22 avril 2022
 greve 24 septembre 2021
 greve 27 janvier 2022
@@ -50941,6 +50998,7 @@ inter
 inter  empoli
 inter  monaco
 inter  napoli
+inter  parma
 inter  salernitana
 inter  sheriff
 inter  spezia
@@ -51009,6 +51067,7 @@ iptv
 iqbal khan
 iran
 iran  verenigde staten
+iran olivier vandecasteele
 iran vs usa
 iran – états-unis
 ireen sheer
@@ -51328,6 +51387,7 @@ jay adams
 jay leno
 jazz
 jazz middelheim
+jd
 je te promets
 je te promets saison 3
 je voudrais que quelqu'un m'attende quelque part
@@ -52193,6 +52253,7 @@ kristen stewart
 kristian blummenfelt
 kristien hemmerechts
 kristin davis
+kristin scott thomas
 kristoffer olsson
 kroatie
 kroatien  tschechien
@@ -52449,6 +52510,7 @@ laschet
 last christmas
 last night in soho
 lata mangeshkar
+lauberhornrennen
 lauberhornrennen 2022
 lauchhammer
 laura de weck
@@ -53487,6 +53549,7 @@ manchester united – bournemouth
 manchester united – brentford
 manchester united – brighton
 manchester united – burnley
+manchester united – charlton
 manchester united – chelsea
 manchester united – crystal palace
 manchester united – everton
@@ -53979,6 +54042,7 @@ mauri vansevenant
 maurice film
 maurice manificat
 mauritius
+mauro caviezel
 mauro caviezel sturz
 mauro icardi wanda nara
 maus
@@ -54287,6 +54351,7 @@ michelle hunziker
 michelle hunziker news
 michelle martin
 michelle williams
+michelle yeoh
 michellehunziker
 michelpolnareff
 michiel de meyer
@@ -56304,6 +56369,7 @@ présumé innocent
 ps
 psg
 psg  quevilly
+psg - angers
 psg - brest
 psg - lorient
 psg - om
@@ -56416,6 +56482,7 @@ quickbooks
 quickline
 quiet quitting
 quillan
+quinn redeker
 quino
 quintana
 quinten hermans
@@ -58502,6 +58569,7 @@ terence telle
 teresa berganza
 teri hatcher
 terrence clarke
+terrifier
 terrifier 2
 terrorisme gare montparnasse
 terry hall
@@ -58546,6 +58614,7 @@ the boys
 the crown saison 5
 the cry
 the cure
+the dancer
 the dark knight
 the darkest minds
 the demon house
