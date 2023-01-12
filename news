@@ -495,11 +495,13 @@ AC MILAN – FIORENTINA
 AC MILAN – MONZA
 AC MILAN – RB SALZBURG
 AC MILAN – SPEZIA
+AC MILAN – TORINO
 AC Milan
 AC Milan – Fiorentina
 AC Milan – Monza
 AC Milan – RB Salzburg
 AC Milan – Spezia
+AC Milan – Torino
 ACAB
 ACCIDENT
 ACCIDENT A13 GENDARME TUÉ
@@ -531,6 +533,7 @@ ACMilan–Fiorentina
 ACMilan–Monza
 ACMilan–RBSalzburg
 ACMilan–Spezia
+ACMilan–Torino
 ACTEUR JEAN-CLAUDE PAUTOT
 ACTION
 ACTION CREDIT SUISSE
@@ -4746,6 +4749,7 @@ BOSWIL
 BOTANIC SANCTUARY ANTWERP
 BOTIC VAN DE ZANDSCHULP
 BOUBACAR KAMARA
+BOULANGER
 BOULI LANNERS
 BOULOGNE-SUR-MER
 BOURDIN
@@ -6341,6 +6345,7 @@ Botic Van de Zandschulp
 BoticVandeZandschulp
 Boubacar Kamara
 BoubacarKamara
+Boulanger
 Bouli Lanners
 BouliLanners
 Boulogne-sur-Mer
@@ -7555,6 +7560,7 @@ CLERMONT – MARSEILLE
 CLERMONT – MONACO
 CLERMONT – NICE
 CLERMONT – PARIS-SG
+CLERMONT – RENNES
 CLERMONT – SAINT-ÉTIENNE
 CLERMONT – STRASBOURG
 CLERMONT – TOULON
@@ -9204,6 +9210,7 @@ Clermont – Monaco
 Clermont – Nice
 Clermont – Paris-SG
 Clermont – ParisSG
+Clermont – Rennes
 Clermont – Strasbourg
 Clermont – Toulon
 Clermont – Toulouse
@@ -9225,6 +9232,7 @@ Clermont–Marseille
 Clermont–Monaco
 Clermont–Nice
 Clermont–Paris-SG
+Clermont–Rennes
 Clermont–Strasbourg
 Clermont–Toulon
 Clermont–Toulouse
@@ -12397,6 +12405,7 @@ EVERTON – CHELSEA
 EVERTON – LIVERPOOL
 EVERTON – MANCHESTER UNITED
 EVERYBODY KNOWS
+EVERYTHING EVERYWHERE ALL AT ONCE
 EVI HANSSEN
 EVI VANDERSMISSEN
 EVY GRUYAERT
@@ -13397,6 +13406,8 @@ Everton–Liverpool
 Everton–ManchesterUnited
 Everybody Knows
 EverybodyKnows
+Everything Everywhere All at Once
+EverythingEverywhereAllatOnce
 Evi Hanssen
 Evi Vandersmissen
 EviHanssen
@@ -14109,6 +14120,7 @@ FRANCE - ALLEMAGNE BASKET
 FRANCE - ESPAGNE
 FRANCE - JAPON
 FRANCE - JAPON FOOT
+FRANCE - POLOGNE HANDBALL
 FRANCE - SERBIE HAND
 FRANCE - SUISSE
 FRANCE - VIETNAM
@@ -15009,6 +15021,7 @@ France  Allemagne Basket
 France  Espagne
 France  Japon
 France  Japon foot
+France  Pologne handball
 France  Serbie hand
 France  Suisse
 France  Vietnam
@@ -15017,6 +15030,7 @@ France - Allemagne Basket
 France - Espagne
 France - Japon
 France - Japon foot
+France - Pologne handball
 France - Serbie hand
 France - Suisse
 France - Vietnam
@@ -15112,6 +15126,7 @@ France-Kazakhstan
 France-Nouvelle zelande
 France-Nouvellezelande
 France-Pays-Bas
+France-Polognehandball
 France-Portugal
 France-Serbiehand
 France-Slovénie
@@ -17179,6 +17194,7 @@ GÖTZIS!
 GÜLSHA ADILJI
 GÜNTER LAMPRECHT
 GÜNTHER JAUCH
+GÜNTHER JAUCH WER WIRD MILLIONÄR
 GéRARD DEPARDIEU
 GéRARDDEPARDIEU
 Gérald Darmanin
@@ -17203,7 +17219,9 @@ GülshaAdilji
 Günter Lamprecht
 GünterLamprecht
 Günther Jauch
+Günther Jauch Wer wird Millionär
 GüntherJauch
+GüntherJauchWerwirdMillionär
 H&AMP;M
 H&amp;M
 H2U
@@ -19451,6 +19469,8 @@ JEF CLEEREN
 JEF ELBERS
 JEF VERMASSEN
 JEFF BECK
+JEFF BECK BAND
+JEFF BECK GESTORBEN
 JEFF BEZOS
 JEFF GLADNEY
 JEFF HOEYBERGHS
@@ -20397,12 +20417,16 @@ JefCleeren
 JefElbers
 JefVermassen
 Jeff Beck
+Jeff Beck band
+Jeff Beck gestorben
 Jeff Bezos
 Jeff Gladney
 Jeff Hoeyberghs
 Jeff Panacloc
 Jeff Saibene
 JeffBeck
+JeffBeckband
+JeffBeckgestorben
 JeffBezos
 JeffGladney
 JeffHoeyberghs
@@ -21360,6 +21384,7 @@ KAZACHSTAN
 KAZAKHSTAN
 KAZOU
 KAZUKI TAKAHASHI
+KE HUY QUAN
 KEANU REEVES
 KEEGO
 KEENAN CAHILL
@@ -21428,6 +21453,7 @@ KHLOE KARDASHIAN
 KHÉPHREN THURAM
 KIA EV6
 KIA NIRO
+KIABI
 KICKBOARD
 KICKER
 KIEL
@@ -21548,6 +21574,7 @@ KORTRIJK  ANTWERP
 KORTRIJK  CLUB BRUGGE
 KORTRIJK  GENK
 KORTRIJK  GENT
+KORTRIJK  MECHELEN
 KORTRIJK  ZULTE-WAREGEM
 KORTRIJK-ANTWERP
 KOSMOS ZÜRICH
@@ -21849,6 +21876,8 @@ Kazakhstan
 Kazou
 Kazuki Takahashi
 KazukiTakahashi
+Ke Huy Quan
+KeHuyQuan
 Keanu Reeves
 KeanuReeves
 Keego
@@ -21973,6 +22002,7 @@ Kia EV6
 Kia Niro
 KiaEV6
 KiaNiro
+Kiabi
 Kickboard
 Kicker
 Kiel
@@ -22165,6 +22195,7 @@ Kortrijk  Antwerp
 Kortrijk  Club Brugge
 Kortrijk  Genk
 Kortrijk  Gent
+Kortrijk  Mechelen
 Kortrijk  zulte-waregem
 Kortrijk  zultewaregem
 Kortrijk-Antwerp
@@ -22172,6 +22203,7 @@ KortrijkAntwerp
 KortrijkClubBrugge
 KortrijkGenk
 KortrijkGent
+KortrijkMechelen
 Kortrijkzulte-waregem
 Kosmos Zürich
 KosmosZürich
@@ -25368,6 +25400,7 @@ MAIN
 MAIRE DE REZÉ
 MAISON DE L'HORREUR
 MAISON DE RETRAITE
+MAISON DU MONDE
 MAISON HORREUR
 MAISON M
 MAITE KELLY
@@ -26338,6 +26371,7 @@ MILAN  NAPOLI
 MILAN  PORTO
 MILAN  ROMA
 MILAN  SPEZIA
+MILAN  TORINO
 MILAN  VENEZIA
 MILAN - LIVERPOOL
 MILAN - TORINO
@@ -26793,10 +26827,12 @@ MairedeRezé
 Maison M
 Maison de l'horreur
 Maison de retraite
+Maison du Monde
 Maison horreur
 MaisonM
 Maisondel'horreur
 Maisonderetraite
+MaisonduMonde
 Maisonhorreur
 Maite Kelly
 MaiteKelly
@@ -28563,6 +28599,7 @@ MilanRoma
 MilanSan Remo
 MilanSan Remo 2022
 MilanSpezia
+MilanTorino
 MilanVenezia
 MilangegenDinamo
 MilangegenRBSalzburg
@@ -29557,6 +29594,7 @@ NOAH GESSER
 NOAH LYLES
 NOAH OKAFOR
 NOAH SCHNAPP
+NOCIBE
 NOE PONTI
 NOEL
 NOEL 2021
@@ -30317,6 +30355,7 @@ NoahGesser
 NoahLyles
 NoahOkafor
 NoahSchnapp
+Nocibe
 Noe Ponti
 NoePonti
 Noel
@@ -30599,6 +30638,7 @@ OLIVER FRANK
 OLIVER POCHER
 OLIVER WNUK
 OLIVIA DE HAVILLAND
+OLIVIA DUNNE
 OLIVIA GREGOIRE
 OLIVIA HUSSEY
 OLIVIA NEWTON
@@ -30986,6 +31026,7 @@ OliverDaemen
 OliverFrank
 OliverPocher
 OliverWnuk
+Olivia Dunne
 Olivia Hussey
 Olivia Newton
 Olivia Podmore
@@ -30995,6 +31036,7 @@ Olivia Trappeniers
 Olivia Wilde
 Olivia de Havilland
 Olivia gregoire
+OliviaDunne
 OliviaHussey
 OliviaNewton
 OliviaPodmore
@@ -31795,6 +31837,7 @@ PHILIPPE CLEMENT
 PHILIPPE COUTINHO
 PHILIPPE DE BACKER
 PHILIPPE DE VILLIERS
+PHILIPPE DIALLO
 PHILIPPE DONNAY
 PHILIPPE ETCHEBEST
 PHILIPPE GILBERT
@@ -33073,6 +33116,7 @@ Philippe Chevallier
 Philippe Clement
 Philippe Coutinho
 Philippe De Backer
+Philippe Diallo
 Philippe Donnay
 Philippe Etchebest
 Philippe Gilbert
@@ -33098,6 +33142,7 @@ PhilippeChevallier
 PhilippeClement
 PhilippeCoutinho
 PhilippeDeBacker
+PhilippeDiallo
 PhilippeDonnay
 PhilippeEtchebest
 PhilippeGilbert
@@ -34127,6 +34172,7 @@ REAL CHELSEA
 REAL MADRID
 REAL MADRID  BARCELONA
 REAL MADRID  JUVENTUS
+REAL MADRID  VALENCIA
 REAL MADRID GEGEN CHELSEA
 REAL MADRID GEGEN EINTRACHT FRANKFURT
 REAL MADRID GEGEN PSG
@@ -34136,6 +34182,7 @@ REAL MADRID – CADIX
 REAL MADRID – CELTIC GLASGOW
 REAL MADRID – GIRONA
 REAL MADRID – SÉVILLE
+REAL MADRID – VALENCE
 REAL SOCIEDAD
 REAL SOCIEDAD – ATLÉTICO MADRID
 REAL SOCIEDAD – BARCELONA
@@ -34697,6 +34744,7 @@ RUSSIE DANEMARK
 RUSSIE UKRAINE TROISIÈME GUERRE MONDIALE
 RUSSIE-DANEMARK
 RUSSIEDANEMARK
+RUSSISCHE STRIJDKRACHTEN
 RUSSLAND
 RUSSLAND DANEMARK
 RUSSLAND DaNEMARK
@@ -34974,6 +35022,7 @@ Real Chelsea
 Real Madrid
 Real Madrid  Barcelona
 Real Madrid  Juventus
+Real Madrid  Valencia
 Real Madrid gegen Chelsea
 Real Madrid gegen Eintracht Frankfurt
 Real Madrid gegen PSG
@@ -34983,6 +35032,7 @@ Real Madrid – Cadix
 Real Madrid – Celtic Glasgow
 Real Madrid – Girona
 Real Madrid – Séville
+Real Madrid – Valence
 Real Sociedad
 Real Sociedad – Atlético Madrid
 Real Sociedad – Barcelona
@@ -35018,6 +35068,7 @@ RealEintrachtFrankfurt
 RealMadrid
 RealMadridBarcelona
 RealMadridJuventus
+RealMadridValencia
 RealMadridgegenChelsea
 RealMadridgegenEintrachtFrankfurt
 RealMadridgegenPSG
@@ -35027,6 +35078,7 @@ RealMadrid–Cadix
 RealMadrid–CelticGlasgow
 RealMadrid–Girona
 RealMadrid–Séville
+RealMadrid–Valence
 RealSociedad
 RealSociedad–AtléticoMadrid
 RealSociedad–Barcelona
@@ -35848,6 +35900,8 @@ Russie Danemark
 Russie Ukraine troisième guerre mondiale
 RussieDanemark
 RussieUkrainetroisièmeguerremondiale
+Russische strijdkrachten
+Russischestrijdkrachten
 Russland
 Russland Danemark
 Russland Dänemark
@@ -36688,6 +36742,7 @@ SOUTH BELGIAN RALLY
 SOUTHAMPTON  MANCHESTER CITY
 SOUTHAMPTON – CHELSEA
 SOUTHAMPTON – LIVERPOOL
+SOUTHAMPTON – MANCHESTER CITY
 SOUTHAMPTON – MANCHESTER UNITED
 SOUTHAMPTON – TOTTENHAM
 SOUTHBELGIANRALLY
@@ -37109,6 +37164,7 @@ SUPER-G BORMIO
 SUPER-G ST. MORITZ
 SUPER-LEAGUE
 SUPERBOWL
+SUPERCOPA
 SUPERCOUPE DE BELGIQUE
 SUPERCUP
 SUPERLEAGUE
@@ -38415,11 +38471,13 @@ SouthBelgianRally
 Southampton  Manchester City
 Southampton – Chelsea
 Southampton – Liverpool
+Southampton – Manchester City
 Southampton – Manchester United
 Southampton – Tottenham
 SouthamptonManchesterCity
 Southampton–Chelsea
 Southampton–Liverpool
+Southampton–ManchesterCity
 Southampton–ManchesterUnited
 Southampton–Tottenham
 Spa
@@ -39063,6 +39121,7 @@ SuperLune
 SuperNanny
 SuperULaTranche-sur-Mer
 Superbowl
+Supercopa
 Supercoupe de Belgique
 SupercoupedeBelgique
 Supercup
@@ -39320,6 +39379,8 @@ TATIANA DE ROSNAY
 TATIANA SILVA
 TATJANA GSELL
 TATJANA MARIA
+TATJANA PATITZ
+TATJANA PATIZ
 TATORT DORTMUND
 TATORT GIER UND ANGST
 TATORT HEUTE
@@ -40114,8 +40175,12 @@ TatianaSilva
 TatianadeRosnay
 Tatjana Gsell
 Tatjana Maria
+Tatjana Patitz
+Tatjana patiz
 TatjanaGsell
 TatjanaMaria
+TatjanaPatitz
+Tatjanapatiz
 Tatort Dortmund
 Tatort Gier und Angst
 Tatort Zürich
@@ -41444,6 +41509,7 @@ UNE MERE PARFAITE
 UNE MERVEILLEUSE HISTOIRE DU TEMPS
 UNE SI LONGUE NUIT
 UNE VIE
+UNFALL
 UNFALL A1
 UNFALL A8
 UNFALL AUTOBAHN A1
@@ -41665,6 +41731,7 @@ Unemerveilleusehistoiredutemps
 Unesilonguenuit
 Unespiontrèsrecherché
 Unevie
+Unfall
 Unfall A1
 Unfall A8
 Unfall Autobahn A1
@@ -44418,6 +44485,7 @@ ac milan – fiorentina
 ac milan – monza
 ac milan – rb salzburg
 ac milan – spezia
+ac milan – torino
 acab
 accident
 accident a13 gendarme tué
@@ -46379,6 +46447,7 @@ boswil
 botanic sanctuary antwerp
 botic van de zandschulp
 boubacar kamara
+boulanger
 bouli lanners
 boulogne-sur-mer
 bourdin
@@ -47391,6 +47460,7 @@ clermont – marseille
 clermont – monaco
 clermont – nice
 clermont – paris-sg
+clermont – rennes
 clermont – saint-étienne
 clermont – strasbourg
 clermont – toulon
@@ -49052,6 +49122,7 @@ everton – chelsea
 everton – liverpool
 everton – manchester united
 everybody knows
+everything everywhere all at once
 evi hanssen
 evi vandersmissen
 evy gruyaert
@@ -49555,6 +49626,7 @@ france - allemagne basket
 france - espagne
 france - japon
 france - japon foot
+france - pologne handball
 france - serbie hand
 france - suisse
 france - vietnam
@@ -50428,6 +50500,7 @@ götzis!
 gülsha adilji
 günter lamprecht
 günther jauch
+günther jauch wer wird millionär
 h&amp;m
 h2u
 haagen dazs
@@ -51471,6 +51544,8 @@ jef cleeren
 jef elbers
 jef vermassen
 jeff beck
+jeff beck band
+jeff beck gestorben
 jeff bezos
 jeff gladney
 jeff hoeyberghs
@@ -52038,6 +52113,7 @@ kazachstan
 kazakhstan
 kazou
 kazuki takahashi
+ke huy quan
 keanu reeves
 keego
 keenan cahill
@@ -52105,6 +52181,7 @@ khloe kardashian
 khéphren thuram
 kia ev6
 kia niro
+kiabi
 kickboard
 kicker
 kiel
@@ -52225,6 +52302,7 @@ kortrijk  antwerp
 kortrijk  club brugge
 kortrijk  genk
 kortrijk  gent
+kortrijk  mechelen
 kortrijk  zulte-waregem
 kortrijk-antwerp
 kosmos zürich
@@ -53455,6 +53533,7 @@ main
 maire de rezé
 maison de l'horreur
 maison de retraite
+maison du monde
 maison horreur
 maison m
 maite kelly
@@ -54414,6 +54493,7 @@ milan  napoli
 milan  porto
 milan  roma
 milan  spezia
+milan  torino
 milan  venezia
 milan - liverpool
 milan - torino
@@ -55134,6 +55214,7 @@ noah gesser
 noah lyles
 noah okafor
 noah schnapp
+nocibe
 noe ponti
 noel
 noel 2021
@@ -55325,6 +55406,7 @@ oliver frank
 oliver pocher
 oliver wnuk
 olivia de havilland
+olivia dunne
 olivia gregoire
 olivia hussey
 olivia newton
@@ -55991,6 +56073,7 @@ philippe clement
 philippe coutinho
 philippe de backer
 philippe de villiers
+philippe diallo
 philippe donnay
 philippe etchebest
 philippe gilbert
@@ -56645,6 +56728,7 @@ real chelsea
 real madrid
 real madrid  barcelona
 real madrid  juventus
+real madrid  valencia
 real madrid gegen chelsea
 real madrid gegen eintracht frankfurt
 real madrid gegen psg
@@ -56654,6 +56738,7 @@ real madrid – cadix
 real madrid – celtic glasgow
 real madrid – girona
 real madrid – séville
+real madrid – valence
 real sociedad
 real sociedad – atlético madrid
 real sociedad – barcelona
@@ -57170,6 +57255,7 @@ russie danemark
 russie ukraine troisième guerre mondiale
 russie-danemark
 russiedanemark
+russische strijdkrachten
 russland
 russland danemark
 russland dänemark
@@ -57932,6 +58018,7 @@ south belgian rally
 southampton  manchester city
 southampton – chelsea
 southampton – liverpool
+southampton – manchester city
 southampton – manchester united
 southampton – tottenham
 southbelgianrally
@@ -58329,6 +58416,7 @@ super-g st. moritz
 super-league
 superG Bormio
 superbowl
+supercopa
 supercoupe de belgique
 supercup
 superleague
@@ -58492,6 +58580,8 @@ tatiana de rosnay
 tatiana silva
 tatjana gsell
 tatjana maria
+tatjana patitz
+tatjana patiz
 tatort dortmund
 tatort gier und angst
 tatort heute
@@ -59282,6 +59372,7 @@ une mere parfaite
 une merveilleuse histoire du temps
 une si longue nuit
 une vie
+unfall
 unfall a1
 unfall a8
 unfall autobahn a1
