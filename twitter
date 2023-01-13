@@ -4211,7 +4211,9 @@ ASMTS
 ASMUBB
 ASMULS
 ASMUSAP
+ASMVLEI
 ASMVSTO
+ASMvLEI
 ASMvSTO
 ASNIERES
 ASNIÈRES
@@ -14078,6 +14080,7 @@ CHAMPS-ELYSÉES
 CHAMPS-ÉLYSÉES
 CHAMPSELYSEES
 CHAN
+CHAN2022
 CHANCEL
 CHANCEL MBEMBA
 CHANCELLOR
@@ -22371,6 +22374,7 @@ EAGASC
 EAGASSE
 EAGDFCO
 EAGFCSM
+EAGGF38
 EAGHAC
 EAGLES
 EAGNO
@@ -25635,6 +25639,7 @@ FCMOGCN
 FCMOL
 FCMOM
 FCMPSG
+FCMQRM
 FCMRCL
 FCMRCSA
 FCMSRFC
@@ -30309,6 +30314,7 @@ GREVEDESECOLES
 GREVEDU13JANVIER
 GREVEFEMINISTE
 GREVEGENERALE
+GREVEGENERALE19JANVIER
 GREVESNCF
 GREVIN
 GREY
@@ -32007,6 +32013,7 @@ Greve29Septembre
 GreveDesEcoles
 GreveFeministe
 GreveGenerale
+GreveGenerale19Janvier
 Grevedu13janvier
 Grey
 Grey's Anatomy
@@ -32460,6 +32467,7 @@ HACHETTE
 HACHOIR
 HACKERSCOLLECTIEF PLAY
 HACKING2021
+HACNO
 HACSCB
 HACSMC
 HACTFC
@@ -45960,6 +45968,7 @@ LOÏCVERGNAUD
 LOÏK LE PRIOL
 LOÏS OPENDA
 LPDLA9
+LPF43ASNL
 LPF43OGCN
 LRAVECZEMMOUR
 LRDM
@@ -56403,6 +56412,7 @@ NAPOLI
 NAPOLIBARCA
 NAPOLIINTER
 NAPOLIJUVE
+NAPOLIJUVENTUS
 NAPOLIMILAN
 NAPOLIROMA
 NAPOLISASSUOLO
@@ -57625,6 +57635,7 @@ Napoli
 NapoliBarca
 NapoliInter
 NapoliJuve
+NapoliJuventus
 NapoliMilan
 NapoliRoma
 NapoliSassuolo
@@ -83956,6 +83967,7 @@ WOTLK
 WOUT
 WOUT FAES
 WOUT VAN AERT
+WOUT WEGHORST
 WOUTER
 WOUTER BEKE
 WOUTER DE GEEST
@@ -84899,9 +84911,11 @@ Wortschatz
 Wout
 Wout Faes
 Wout Van Aert
+Wout Weghorst
 Wout van Aert
 WoutFaes
 WoutVanAert
+WoutWeghorst
 Wouter
 Wouter Beke
 Wouter De Geest
@@ -89649,6 +89663,7 @@ asmts
 asmubb
 asmuls
 asmusap
+asmvlei
 asmvsto
 asnieres
 asnières
@@ -94091,6 +94106,7 @@ champs-élysées
 champselysees
 champselysées
 chan
+chan2022
 chancel
 chancel mbemba
 chancellor
@@ -97925,6 +97941,7 @@ eagasc
 eagasse
 eagdfco
 eagfcsm
+eaggf38
 eaghac
 eagles
 eagno
@@ -99799,6 +99816,7 @@ fcmogcn
 fcmol
 fcmom
 fcmpsg
+fcmqrm
 fcmrcl
 fcmrcsa
 fcmsrfc
@@ -102773,6 +102791,7 @@ grevedesecoles
 grevedu13janvier
 grevefeministe
 grevegenerale
+grevegenerale19janvier
 grevesncf
 grey
 grey's anatomy
@@ -103202,6 +103221,7 @@ hachoir
 hackerscollectief play
 hackerscollectiefplay
 hacking2021
+hacno
 hacscb
 hacsmc
 hactfc
@@ -111466,6 +111486,7 @@ loïklepriol
 loïs openda
 loïsopenda
 lpdla9
+lpf43asnl
 lpf43ogcn
 lraveczemmour
 lrdm
@@ -115494,6 +115515,7 @@ napoli
 napolibarca
 napoliinter
 napolijuve
+napolijuventus
 napolimilan
 napoliroma
 napolisassuolo
@@ -130282,6 +130304,7 @@ wotlk
 wout
 wout faes
 wout van aert
+wout weghorst
 wouter
 wouter Deprez
 wouter beke
