@@ -19108,6 +19108,7 @@ DEFINITION
 DEFINITIV
 DEFORESTATION
 DEFORMEUNEEMISSION
+DEFORMEUNFAITHISTORIQUE
 DEFT
 DEGAGE
 DEGAINE
@@ -22409,6 +22410,7 @@ DÉFENSE
 DÉFENSEEXCUSABLE
 DÉFENSIVEMENT
 DÉFI
+DÉFORMEUNFAITHISTORIQUE
 DÉGAINE
 DÉGEL
 DÉGOÛTÉE
@@ -22453,6 +22455,7 @@ DéfenseExcusable
 Défenseure
 Défensivement
 Défi
+DéformeUnFaitHistorique
 DéformeUneEmission
 Dégage
 Dégaine
@@ -35244,6 +35247,7 @@ IL Y A 17
 IL Y A 2
 IL Y A 20
 IL Y A 21
+IL Y A 230
 IL Y A 29
 IL Y A 3
 IL Y A 30
@@ -35430,6 +35434,7 @@ INAKI
 INAMI
 INANTWERPEN
 INAPTITUDE
+INATTENDU
 INAUDIBLE
 INAYA
 INAZUMA
@@ -36171,6 +36176,7 @@ Il y a 16
 Il y a 2
 Il y a 20
 Il y a 21
+Il y a 230
 Il y a 29
 Il y a 3
 Il y a 30
@@ -36235,6 +36241,7 @@ Ilya16
 Ilya2
 Ilya20
 Ilya21
+Ilya230
 Ilya29
 Ilya3
 Ilya30
@@ -36366,6 +36373,7 @@ InThePanda
 Inaki
 Inami
 Inaptitude
+Inattendu
 Inaudible
 Inaya
 Inazuma
@@ -98544,6 +98552,7 @@ défenseure
 défensivement
 défi
 déformeuneemission
+déformeunfaithistorique
 dégage
 dégaine
 dégel
@@ -105338,6 +105347,7 @@ il y a 17
 il y a 2
 il y a 20
 il y a 21
+il y a 230
 il y a 29
 il y a 3
 il y a 30
@@ -105532,6 +105542,7 @@ inaki
 inami
 inantwerpen
 inaptitude
+inattendu
 inaudible
 inaya
 inazuma
