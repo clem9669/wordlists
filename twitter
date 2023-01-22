@@ -72540,6 +72540,7 @@ STVKVM
 STVSTA
 STVUSG
 STVV
+STVVGNT
 STVZWA
 STYBAR
 STYDIA
@@ -126128,6 +126129,7 @@ stvkvm
 stvsta
 stvusg
 stvv
+stvvgnt
 stvzwa
 stybar
 stydia
