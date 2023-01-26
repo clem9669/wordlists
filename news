@@ -4104,6 +4104,7 @@ BARCELONA  EINTRACHT FRANKFURT
 BARCELONA  GETAFE
 BARCELONA  MALLORCA
 BARCELONA  MANCHESTER CITY
+BARCELONA  REAL SOCIEDAD
 BARCELONA  SEVILLA
 BARCELONA  VALENCIA
 BARCELONA  VILLARREAL
@@ -5283,6 +5284,7 @@ Barcelona  Getafe
 Barcelona  Inter
 Barcelona  Mallorca
 Barcelona  Manchester City
+Barcelona  Real Sociedad
 Barcelona  Sevilla
 Barcelona  Valencia
 Barcelona  Villarreal
@@ -5326,6 +5328,7 @@ BarcelonaEintrachtFrankfurt
 BarcelonaGetafe
 BarcelonaMallorca
 BarcelonaManchesterCity
+BarcelonaRealSociedad
 BarcelonaSevilla
 BarcelonaValencia
 BarcelonaVillarreal
@@ -7383,6 +7386,7 @@ CHAT
 CHATEAUROUX
 CHATEL
 CHATGPT
+CHAYENNE VAN AARLE
 CHE GUEVARA
 CHEF ETOILE YANNICK ALLENO
 CHEICK KONGO
@@ -7441,6 +7445,7 @@ CHEQUEALIMENTAIRE
 CHER
 CHERBOURG
 CHERELLE GRINER
+CHERKI
 CHERNOBYL
 CHERSON
 CHESLIE KRYST
@@ -8825,6 +8830,8 @@ Chat
 ChatGPT
 Chateauroux
 Chatel
+Chayenne Van Aarle
+ChayenneVanAarle
 Che Guevara
 CheGuevara
 Chef etoile Yannick alleno
@@ -8934,6 +8941,7 @@ Cher
 Cherbourg
 Cherelle Griner
 CherelleGriner
+Cherki
 Chernobyl
 Cherson
 Cheslie Kryst
@@ -12356,7 +12364,9 @@ ESCAPE PLAN 2
 ESCHER-WYSS-PLATZ UNFALL
 ESCROQUERIE
 ESCgewinner2022
+ESME BIANCO
 ESNEUX
+ESPAGNE
 ESPAGNE COVID
 ESPAGNE CROATIE
 ESPAGNE FOOT
@@ -13259,7 +13269,10 @@ Escher-Wyss-Platz unfall
 Escher-Wyss-Platzunfall
 EscherWyssPlatz unfall
 Escroquerie
+Esme Bianco
+EsmeBianco
 Esneux
+Espagne
 Espagne Covid
 Espagne Croatie
 Espagne Pologne
@@ -14300,6 +14313,7 @@ FRANCE
 FRANCE  SUISSE
 FRANCE - AFRIQUE DU SUD
 FRANCE - ALLEMAGNE BASKET
+FRANCE - ALLEMAGNE HANDBALL
 FRANCE - ESPAGNE
 FRANCE - JAPON
 FRANCE - JAPON FOOT
@@ -14505,6 +14519,7 @@ FREE GUY
 FREE SOUFFRIAU
 FREEDOM DAY
 FREIBURG GEGEN DORTMUND
+FREIBURG GEGEN EINTRACHT FRANKFURT
 FREIBURG GEGEN ST. PAULI
 FREIHEITSTRYCHLER
 FREITAG DER 13
@@ -15220,6 +15235,7 @@ FrancaLehfeldt
 France
 France  Afrique du Sud
 France  Allemagne Basket
+France  Allemagne handball
 France  Espagne
 France  Japon
 France  Japon foot
@@ -15229,6 +15245,7 @@ France  Suisse
 France  Vietnam
 France - Afrique du Sud
 France - Allemagne Basket
+France - Allemagne handball
 France - Espagne
 France - Japon
 France - Japon foot
@@ -15304,6 +15321,7 @@ France – Suisse
 France-Afrique du Sud
 France-AfriqueduSud
 France-AllemagneBasket
+France-Allemagnehandball
 France-Angleterre
 France-Argentine Rugby
 France-Argentine rugby
@@ -15600,8 +15618,10 @@ FreeSouffriau
 Freedom Day
 FreedomDay
 Freiburg gegen Dortmund
+Freiburg gegen Eintracht Frankfurt
 Freiburg gegen St. Pauli
 FreiburggegenDortmund
+FreiburggegenEintrachtFrankfurt
 FreiburggegenSt.Pauli
 Freiheitstrychler
 Freitag der 13
@@ -17518,6 +17538,7 @@ HANDBALL FEMININ
 HANDBALL FEMININ JO
 HANDBALL FRANCE
 HANDBALL-EM
+HANDBALL-WM
 HANDELSZEITUNG
 HANDMAID'S TALE
 HANNA SCHYGULLA
@@ -17908,8 +17929,10 @@ Handball France
 Handball feminin
 Handball feminin jo
 Handball-EM
+Handball-WM
 HandballEM
 HandballFrance
+HandballWM
 Handballfeminin
 Handballfemininjo
 Handelszeitung
@@ -19797,6 +19820,7 @@ JEREMY FERRARI
 JEREMY FREROT
 JEREMY HUNT
 JEREMY RENNER
+JEREMY RENNER ACCIDENT
 JEREMY RENNER UNFALL
 JEROEN BROUWERS
 JEROEN MEUS
@@ -20786,6 +20810,7 @@ Jeremy Ferrari
 Jeremy Hunt
 Jeremy Renner
 Jeremy Renner Unfall
+Jeremy Renner accident
 Jeremy frerot
 JeremyClarkson
 JeremyCohen
@@ -20794,6 +20819,7 @@ JeremyFerrari
 JeremyHunt
 JeremyRenner
 JeremyRennerUnfall
+JeremyRenneraccident
 Jeremyfrerot
 Jeroen Brouwers
 Jeroen Meus
@@ -21757,6 +21783,7 @@ KEVINDEBRUYNE
 KEYLOR NAVAS
 KEYNOTE APPLE
 KHABY LAME
+KHADIJA ASSAD
 KHAMZAT CHIMAEV
 KHARKIV
 KHEIRA HAMRAOUI
@@ -22306,6 +22333,8 @@ Keynote Apple
 KeynoteApple
 Khaby Lame
 KhabyLame
+Khadija Assad
+KhadijaAssad
 Khamzat Chimaev
 KhamzatChimaev
 Kharkiv
@@ -22699,6 +22728,7 @@ L'EQUIPEDUSOIR
 L'Emmerdeur
 L'Equipe
 L'HERMINE
+L'HISTOIRE D'ANNETTE ZELMAN
 L'HOMME QUE J'AI CONDAMNÉ
 L'HOMME QUI MURMURAIT À L'OREILLE DES CHEVAUX
 L'HORLOGE APOCALYPSE
@@ -22736,6 +22766,8 @@ L'eQUIPEDUSOIR
 L'equipe
 L'equipe du soir
 L'equipedusoir
+L'histoire d'Annette Zelman
+L'histoired'AnnetteZelman
 L'homme que j'ai condamné
 L'hommequej'aicondamné
 L'horloge apocalypse
@@ -23085,6 +23117,7 @@ LEA ELUI
 LEA SALAME
 LEA SEYDOUX
 LEA SPRUNGER
+LEAGUE CUP
 LEAH THYS
 LEANDER DENDONCKER
 LEANDRO TROSSARD
@@ -23198,6 +23231,7 @@ LEONTIEN VAN MOORSEL
 LEONTINE BORSATO
 LEOPARD
 LEOPARD 2
+LEOPARD 2-TANK
 LEP
 LEPARISIEN
 LEQUIPE
@@ -24400,6 +24434,8 @@ Lea salame
 LeaElui
 LeaSeydoux
 LeaSprunger
+League Cup
+LeagueCup
 Leah Thys
 LeahThys
 Leander Dendoncker
@@ -24596,7 +24632,10 @@ Leontine Borsato
 LeontineBorsato
 Leopard
 Leopard 2
+Leopard 2-tank
+Leopard 2tank
 Leopard2
+Leopard2-tank
 LepapeBenoîtXVI
 Leparisien
 Leparrain
@@ -25781,6 +25820,7 @@ MAGALI BLANDIN
 MAGALI RIPOLL
 MAGASIN OUVERT LE 11 NOVEMBRE
 MAGASIN OUVERT LUNDI DE PAQUES
+MAGDA LINETTE
 MAGDALENA ANDERSSON
 MAGGIE SMITH
 MAGIC PASS
@@ -25796,6 +25836,7 @@ MAIGRET
 MAIKE BOERDAM
 MAILLOT EQUIPE DE FRANCE
 MAIN
+MAINZ GEGEN DORTMUND
 MAIRE DE REZÉ
 MAISON DE L'HORREUR
 MAISON DE RETRAITE
@@ -26041,6 +26082,7 @@ MARCO ODERMATT
 MARCO PANTANI
 MARCO RIMA
 MARCO ROSSI
+MARCO SCHWARZ
 MARCO VERRATTI
 MARCO WÖLFLI
 MARCOROSSI
@@ -26703,6 +26745,7 @@ MICHELE CUVELIER
 MICHELE GEORGE
 MICHELE LAROQUE
 MICHELE MORRONE
+MICHELE TORR
 MICHELECUVELIER
 MICHELIN
 MICHELINE BOUDET
@@ -27225,6 +27268,8 @@ Magasin ouvert le 11 novembre
 Magasin ouvert lundi de paques
 Magasinouvertle11novembre
 Magasinouvertlundidepaques
+Magda Linette
+MagdaLinette
 Magdalena Andersson
 MagdalenaAndersson
 Maggie Smith
@@ -27252,6 +27297,8 @@ MaikeBoerdam
 Maillot Equipe de France
 MaillotEquipedeFrance
 Main
+Mainz gegen Dortmund
+MainzgegenDortmund
 Maire de Rezé
 MairedeRezé
 Maison M
@@ -27696,6 +27743,7 @@ Marco Odermatt
 Marco Pantani
 Marco Rima
 Marco Rossi
+Marco Schwarz
 Marco Verratti
 Marco Wölfli
 MarcoAsensio
@@ -27706,6 +27754,7 @@ MarcoOdermatt
 MarcoPantani
 MarcoRima
 MarcoRossi
+MarcoSchwarz
 MarcoVerratti
 MarcoWölfli
 Marcos acuña
@@ -28854,6 +28903,8 @@ Michel Verschueren
 Michel buhler
 Michel-Édouard Leclerc
 Michel-ÉdouardLeclerc
+Michel-édouard Leclerc
+Michel-édouardLeclerc
 MichelAebischer
 MichelBarnier
 MichelBerger
@@ -28888,11 +28939,13 @@ Michele Cuvelier
 Michele George
 Michele Laroque
 Michele Morrone
+Michele Torr
 MicheleBlöchliger
 MicheleCuvelier
 MicheleGeorge
 MicheleLaroque
 MicheleMorrone
+MicheleTorr
 Michelin
 Micheline Boudet
 Micheline Calmy-Rey
@@ -28919,6 +28972,7 @@ MichellePerrot
 MichelleWilliams
 MichelleYeoh
 MichelÉdouard Leclerc
+Michelédouard Leclerc
 Michiel De Meyer
 MichielDeMeyer
 Michou
@@ -30151,6 +30205,7 @@ NOTTINGHAM GEGEN ARSENAL
 NOTTINGHAM GEGEN CHELSEA
 NOTTM FOREST – CHELSEA
 NOTTM FOREST – LIVERPOOL
+NOTTM FOREST – MANCHESTER UNITED
 NOTTM FOREST – TOTTENHAM
 NOTVORRAT SCHWEIZ
 NOUREDDINE FARIHI
@@ -30167,6 +30222,7 @@ NOUVEL AN CHINOIS
 NOUVEL AN CHINOIS 2022
 NOUVEL AN LUNAIRE
 NOUVELLE CARTE D'IDENTITÉ
+NOUVELLE DÉCLARATION IMPOTS PROPRIÉTAIRE
 NOUVELLE MESURE COVID SUISSE
 NOUVELLE PEUGEOT 408
 NOUVELLE RESTRICTION COVID
@@ -30949,9 +31005,11 @@ NottinghamgegenArsenal
 NottinghamgegenChelsea
 Nottm Forest – Chelsea
 Nottm Forest – Liverpool
+Nottm Forest – Manchester United
 Nottm Forest – Tottenham
 NottmForest–Chelsea
 NottmForest–Liverpool
+NottmForest–ManchesterUnited
 NottmForest–Tottenham
 Notvorrat Schweiz
 NotvorratSchweiz
@@ -30989,6 +31047,7 @@ NouvelanChinois
 Nouvelanlunaire
 Nouvelle Peugeot 408
 Nouvelle carte d'identité
+Nouvelle déclaration impots propriétaire
 Nouvelle mesure Covid suisse
 Nouvelle restriction Covid
 Nouvelle-Aquitaine
@@ -30997,6 +31056,7 @@ NouvelleAquitaine
 NouvelleCalédonie
 NouvellePeugeot408
 Nouvellecarted'identité
+Nouvelledéclarationimpotspropriétaire
 NouvellemesureCovidsuisse
 NouvellerestrictionCovid
 Nouvelles mesures Covid
@@ -34797,6 +34857,7 @@ REFORMATIONSTAG
 REFORME RETRAITE
 REFORME RETRAITES 64 ANS
 REFORMHAUS
+REGAIP KANDILI
 REGI ACADEMY
 REGINE
 REGISTRATIERECHTEN
@@ -35039,6 +35100,7 @@ ROBERTOMANCINI
 ROBERTOMARTINEZ
 ROBERTPLANT
 ROBIN CUCHE
+ROBIN DOWELL
 ROBIN FRANSMAN
 ROBIN GODEL
 ROBIN GOSENS
@@ -35096,6 +35158,7 @@ ROGER FEDERER
 ROGER FEDERER RÜCKTRITT
 ROGER KÖPPEL
 ROGER LAMBRECHT
+ROGER LOURET
 ROGER MILLA
 ROGER SCHAWINSKI
 ROGER WATERS
@@ -35735,6 +35798,8 @@ Reforme retraites 64 ans
 Reformeretraite
 Reformeretraites64ans
 Reformhaus
+Regaip kandili
+Regaipkandili
 Regi Academy
 RegiAcademy
 Regine
@@ -36110,6 +36175,7 @@ RobertoMaroni
 RobertoMartinez
 RobertoMartínez
 Robin Cuche
+Robin Dowell
 Robin Fransman
 Robin Godel
 Robin Gosens
@@ -36120,6 +36186,7 @@ Robin Pront
 Robin Thicke
 Robin Williams
 RobinCuche
+RobinDowell
 RobinFransman
 RobinGodel
 RobinGosens
@@ -36206,6 +36273,7 @@ Roger Federer
 Roger Federer Rücktritt
 Roger Köppel
 Roger Lambrecht
+Roger Louret
 Roger Milla
 Roger Schawinski
 Roger Waters
@@ -36215,6 +36283,7 @@ RogerFederer
 RogerFedererRücktritt
 RogerKöppel
 RogerLambrecht
+RogerLouret
 RogerMilla
 RogerSchawinski
 RogerWaters
@@ -37140,6 +37209,7 @@ SIMON COLEMAN
 SIMON DESTHIEUX
 SIMON EHAMMER
 SIMON LEVIEV
+SIMON MIGNOLET
 SIMONA HALEP
 SIMONE BALLACK
 SIMONE BILES
@@ -38788,6 +38858,7 @@ Simon Coleman
 Simon Desthieux
 Simon Ehammer
 Simon Leviev
+Simon Mignolet
 Simon and Garfunkel
 SimonAmmann
 SimonCastaldi
@@ -38795,6 +38866,7 @@ SimonColeman
 SimonDesthieux
 SimonEhammer
 SimonLeviev
+SimonMignolet
 Simona Halep
 SimonaHalep
 SimonandGarfunkel
@@ -42779,6 +42851,7 @@ VINCENT KRIECHMAYR
 VINCENT LACOSTE
 VINCENT LINDON
 VINCENT NICLO
+VINCENT VAN PETEGHEM
 VINCENT VAN QUICKENBORNE
 VINCENT VAN TRIER
 VINCENZ
@@ -43299,6 +43372,7 @@ Vincent Kriechmayr
 Vincent Lacoste
 Vincent Lindon
 Vincent Niclo
+Vincent Van Peteghem
 Vincent Van Quickenborne
 Vincent Van Trier
 Vincent banic
@@ -43314,6 +43388,7 @@ VincentKriechmayr
 VincentLacoste
 VincentLindon
 VincentNiclo
+VincentVanPeteghem
 VincentVanQuickenborne
 VincentVanTrier
 Vincentbanic
@@ -46517,6 +46592,7 @@ barcelona  eintracht frankfurt
 barcelona  getafe
 barcelona  mallorca
 barcelona  manchester city
+barcelona  real sociedad
 barcelona  sevilla
 barcelona  valencia
 barcelona  villarreal
@@ -47935,6 +48011,7 @@ chat
 chateauroux
 chatel
 chatgpt
+chayenne van aarle
 che guevara
 chef etoile yannick alleno
 cheick kongo
@@ -47992,6 +48069,7 @@ cheque mazout
 cher
 cherbourg
 cherelle griner
+cherki
 chernobyl
 cherson
 cheslie kryst
@@ -49705,7 +49783,9 @@ escape plan
 escape plan 2
 escher-wyss-platz unfall
 escroquerie
+esme bianco
 esneux
+espagne
 espagne covid
 espagne croatie
 espagne foot
@@ -50410,6 +50490,7 @@ france
 france  suisse
 france - afrique du sud
 france - allemagne basket
+france - allemagne handball
 france - espagne
 france - japon
 france - japon foot
@@ -50607,6 +50688,7 @@ free guy
 free souffriau
 freedom day
 freiburg gegen dortmund
+freiburg gegen eintracht frankfurt
 freiburg gegen st. pauli
 freiheitstrychler
 freitag der 13
@@ -51353,6 +51435,7 @@ handball feminin
 handball feminin jo
 handball france
 handball-em
+handball-wm
 handelszeitung
 handmaid's tale
 hanna schygulla
@@ -52409,6 +52492,7 @@ jeremy ferrari
 jeremy frerot
 jeremy hunt
 jeremy renner
+jeremy renner accident
 jeremy renner unfall
 jeroen brouwers
 jeroen meus
@@ -53004,6 +53088,7 @@ kevindebruyne
 keylor navas
 keynote apple
 khaby lame
+khadija assad
 khamzat chimaev
 kharkiv
 kheira hamraoui
@@ -53250,6 +53335,7 @@ l'equipe
 l'equipe du soir
 l'equipedusoir
 l'hermine
+l'histoire d'annette zelman
 l'homme que j'ai condamné
 l'homme qui murmurait à l'oreille des chevaux
 l'horloge apocalypse
@@ -53586,6 +53672,7 @@ lea elui
 lea salame
 lea seydoux
 lea sprunger
+league cup
 leah thys
 leander dendoncker
 leandro trossard
@@ -53694,6 +53781,7 @@ leontien van moorsel
 leontine borsato
 leopard
 leopard 2
+leopard 2-tank
 lep
 leparisien
 lequipe
@@ -54379,6 +54467,7 @@ magali blandin
 magali ripoll
 magasin ouvert le 11 novembre
 magasin ouvert lundi de paques
+magda linette
 magdalena andersson
 maggie smith
 magic pass
@@ -54394,6 +54483,7 @@ maigret
 maike boerdam
 maillot equipe de france
 main
+mainz gegen dortmund
 maire de rezé
 maison de l'horreur
 maison de retraite
@@ -54639,6 +54729,7 @@ marco odermatt
 marco pantani
 marco rima
 marco rossi
+marco schwarz
 marco verratti
 marco wölfli
 marcorossi
@@ -55296,6 +55387,7 @@ michele cuvelier
 michele george
 michele laroque
 michele morrone
+michele torr
 michelecuvelier
 michelin
 micheline boudet
@@ -56172,6 +56264,7 @@ nottingham gegen arsenal
 nottingham gegen chelsea
 nottm forest – chelsea
 nottm forest – liverpool
+nottm forest – manchester united
 nottm forest – tottenham
 notvorrat schweiz
 noureddine farihi
@@ -56188,6 +56281,7 @@ nouvel an chinois
 nouvel an chinois 2022
 nouvel an lunaire
 nouvelle carte d'identité
+nouvelle déclaration impots propriétaire
 nouvelle mesure covid suisse
 nouvelle peugeot 408
 nouvelle restriction covid
@@ -57715,6 +57809,7 @@ reformationstag
 reforme retraite
 reforme retraites 64 ans
 reformhaus
+regaip kandili
 regi academy
 regine
 registratierechten
@@ -57940,6 +58035,7 @@ roberto martínez
 robertomancini
 robertomartinez
 robin cuche
+robin dowell
 robin fransman
 robin godel
 robin gosens
@@ -57997,6 +58093,7 @@ roger federer
 roger federer rücktritt
 roger köppel
 roger lambrecht
+roger louret
 roger milla
 roger schawinski
 roger waters
@@ -58764,6 +58861,7 @@ simon coleman
 simon desthieux
 simon ehammer
 simon leviev
+simon mignolet
 simona halep
 simone ballack
 simone biles
@@ -60646,6 +60744,7 @@ vincent kriechmayr
 vincent lacoste
 vincent lindon
 vincent niclo
+vincent van peteghem
 vincent van quickenborne
 vincent van trier
 vincenz
