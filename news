@@ -162,6 +162,7 @@
 1ER AOUT 2021
 1ER AOUT FETE
 1ER AOUT SUISSE
+1ER FÉVRIER
 1ER MAI
 1ER MINISTRE FRANCE
 1ER NOVEMBRE
@@ -175,6 +176,7 @@
 1er aout 2021
 1er aout fete
 1er aout suisse
+1er février
 1er mai
 1er ministre France
 1er ministre france
@@ -187,6 +189,7 @@
 1eraout2021
 1eraoutfete
 1eraoutsuisse
+1erfévrier
 1ermai
 1erministreFrance
 1ernovembre
@@ -865,6 +868,7 @@ ALGÉRIE - DJIBOUTI
 ALGÉRIE – CÔTE D'IVOIRE
 ALGÉRIE – GHANA
 ALGÉRIE – MALI
+ALGÉRIE – NIGER
 ALGÉRIE – OUGANDA
 ALGÉRIE – SIERRA LEONE
 ALGÉRIE – ÉTHIOPIE
@@ -1098,6 +1102,7 @@ ANDREA FURET
 ANDREA JAEGER
 ANDREA KIEWEL
 ANDREA PIRLO
+ANDREA RISEBOROUGH
 ANDREA SCHLAGER
 ANDREAS GABALIER
 ANDREAS SKOV OLSEN
@@ -1479,6 +1484,7 @@ AROMAT
 ARON PIPER
 AROSA
 AROSA BÄRENLAND
+AROUCA  BENFICA
 AROUCA – SPORTING
 ARRETE MOI SI TU PEUX
 ARROSTICINI
@@ -2472,6 +2478,7 @@ Algérie - Djibouti
 Algérie – Côte d'Ivoire
 Algérie – Ghana
 Algérie – Mali
+Algérie – Niger
 Algérie – Ouganda
 Algérie – Sierra Leone
 Algérie – éthiopie
@@ -2479,6 +2486,7 @@ Algérie-Djibouti
 Algérie–Côted'Ivoire
 Algérie–Ghana
 Algérie–Mali
+Algérie–Niger
 Algérie–Ouganda
 Algérie–SierraLeone
 Algérie–éthiopie
@@ -2879,6 +2887,7 @@ Andrea Furet
 Andrea Jaeger
 Andrea Kiewel
 Andrea Pirlo
+Andrea Riseborough
 Andrea Schlager
 AndreaBerg
 AndreaBocelli
@@ -2886,6 +2895,7 @@ AndreaFuret
 AndreaJaeger
 AndreaKiewel
 AndreaPirlo
+AndreaRiseborough
 AndreaSchlager
 Andreas Gabalier
 Andreas Skov Olsen
@@ -3540,7 +3550,9 @@ AronPiper
 Arosa
 Arosa Bärenland
 ArosaBärenland
+Arouca  Benfica
 Arouca – Sporting
+AroucaBenfica
 Arouca–Sporting
 Arrete moi si tu peux
 Arretemoisitupeux
@@ -13959,9 +13971,11 @@ FC St. Gallen
 FC St.Gallen
 FC St.Gallen 1879
 FC THUN
+FC THUN GEGEN LUZERN
 FC THUN GEGEN WINTERTHUR
 FC TWENTE
 FC Thun
+FC Thun gegen Luzern
 FC Thun gegen Winterthur
 FC Twente
 FC URNÄSCH
@@ -14039,6 +14053,7 @@ FCSiongegenSt.Gallen
 FCSt.Gallen
 FCSt.Gallen1879
 FCThun
+FCThungegenLuzern
 FCThungegenWinterthur
 FCTwente
 FCUrnäsch
@@ -14659,6 +14674,7 @@ FUGUEUSE
 FUGUEUSE TF1
 FUITE SUJET BREVET 2022
 FUKUSHIMA
+FULGINI
 FULHAM – ASTON VILLA
 FULHAM – CHELSEA
 FULHAM – LIVERPOOL
@@ -15794,6 +15810,7 @@ FugueuseTF1
 Fuite sujet brevet 2022
 Fuitesujetbrevet2022
 Fukushima
+Fulgini
 Fulham – Aston Villa
 Fulham – Chelsea
 Fulham – Liverpool
@@ -18767,6 +18784,7 @@ INSUFFISANCE CARDIAQUE
 INSUFFISANCECARDIAQUE
 INTEMPÉRIES MARSEILLE
 INTER
+INTER  ATALANTA
 INTER  EMPOLI
 INTER  MONACO
 INTER  NAPOLI
@@ -18782,6 +18800,7 @@ INTER MAILAND
 INTER MIAMI – BARCELONA
 INTER MILAN
 INTER NAPOLI
+INTER – ATALANTA
 INTER – BAYERN
 INTER – BOLOGNE
 INTER – EMPOLI
@@ -18891,6 +18910,7 @@ ISCHIA
 ISCO
 ISHAQ ABDULRAZAK
 ISLAM MAKHACHEV
+ISLAM SLIMANI
 ISLAMABAD
 ISLAND VULKANAUSBRUCH
 ISLANDE
@@ -19292,6 +19312,7 @@ Insuffisancecardiaque
 Intempéries Marseille
 IntempériesMarseille
 Inter
+Inter  Atalanta
 Inter  Empoli
 Inter  Monaco
 Inter  Napoli
@@ -19307,6 +19328,7 @@ Inter Milan
 Inter Napoli
 Inter gegen Salernitana
 Inter gegen Viktoria Pilsen
+Inter – Atalanta
 Inter – Bayern
 Inter – Bologne
 Inter – Empoli
@@ -19320,6 +19342,7 @@ Inter – Roma
 Inter – Salernitana
 Inter – Sassuolo
 Inter – Sheriff
+InterAtalanta
 InterEmpoli
 InterJuve
 InterLiverpool
@@ -19355,6 +19378,7 @@ Internet Explorer
 InternetExplorer
 Interview prince Harry
 InterviewprinceHarry
+Inter–Atalanta
 Inter–Bayern
 Inter–Bologne
 Inter–Empoli
@@ -19472,7 +19496,9 @@ Isco
 Ishaq Abdulrazak
 IshaqAbdulrazak
 Islam Makhachev
+Islam Slimani
 IslamMakhachev
+IslamSlimani
 Islamabad
 Island Vulkanausbruch
 IslandVulkanausbruch
@@ -21996,6 +22022,7 @@ KMI
 KMSKA
 KNABENSCHIESSEN
 KNACK
+KNELPUNTBEROEPEN
 KNIVES OUT
 KNOKKE
 KOBE BRYANT
@@ -22601,6 +22628,7 @@ Klokverzetten
 Klopjacht
 Knabenschiessen
 Knack
+Knelpuntberoepen
 Knives Out
 KnivesOut
 Knokke
@@ -23016,6 +23044,7 @@ LA TESTE-DE-BUCH
 LA VERITE SI JE MENS
 LA VIE EST UN LONG FLEUVE TRANQUILLE
 LA VIE ET RIEN D'AUTRE
+LA VIE, L'AMOUR, TOUT DE SUITE
 LA VILLA DES COEURS BRISÉS
 LA VOIX DU NORD
 LA VUELTA
@@ -24091,6 +24120,7 @@ La reine Mathilde
 La reserve Knokke
 La soupe aux choux
 La verite si je mens
+La vie, l'amour, tout de suite
 La villa des coeurs brisés
 La-Liga
 LaBaule
@@ -24426,6 +24456,7 @@ LaverCup
 LaverCup2021
 LaverCup2022
 Laveritesijemens
+Lavie,l'amour,toutdesuite
 Lavilladescoeursbrisés
 Lavinia Wollny
 LaviniaWollny
@@ -26130,6 +26161,7 @@ MANHUNT
 MANIFEST
 MANIFESTATION
 MANIFESTATION 1ER-MAI
+MANIFESTATION 31 JANVIER
 MANIFESTATION 8 JANVIER
 MANIFESTATION BRUXELLES
 MANIFESTATION BRUXELLES 23 JANVIER
@@ -27723,6 +27755,7 @@ Manifest
 Manifestation
 Manifestation 1er-Mai
 Manifestation 1erMai
+Manifestation 31 janvier
 Manifestation 8 janvier
 Manifestation Bruxelles
 Manifestation Bruxelles 23 janvier
@@ -27735,6 +27768,7 @@ Manifestation nationale belgique
 Manifestation paris
 Manifestation pass sanitaire
 Manifestation1er-Mai
+Manifestation31janvier
 Manifestation8janvier
 ManifestationBruxelles
 ManifestationBruxelles23janvier
@@ -30167,6 +30201,7 @@ NEWCASTLE – CHELSEA
 NEWCASTLE – LIVERPOOL
 NEWCASTLE – MAN CITY
 NEWCASTLE – MANCHESTER UNITED
+NEWCASTLE – SOUTHAMPTON
 NEWS
 NEWS HEUTE
 NEYMAR
@@ -30849,12 +30884,14 @@ Newcastle – Chelsea
 Newcastle – Liverpool
 Newcastle – Man City
 Newcastle – Manchester United
+Newcastle – Southampton
 NewcastleUnited
 Newcastle–AstonVilla
 Newcastle–Chelsea
 Newcastle–Liverpool
 Newcastle–ManCity
 Newcastle–ManchesterUnited
+Newcastle–Southampton
 News
 News heute
 Newsheute
@@ -32374,6 +32411,7 @@ PATAGONIA
 PATEK PHILIPPE
 PATENT OCHSNER
 PATENTOCHSNER
+PATHE CISS
 PATINAGE ARTISTIQUE
 PATRICE DUHAMEL
 PATRICE EVRA
@@ -33525,6 +33563,8 @@ Patek Philippe
 PatekPhilippe
 Patent Ochsner
 PatentOchsner
+Pathe Ciss
+PatheCiss
 Patinage artistique
 Patinageartistique
 Patrice Duhamel
@@ -34664,6 +34704,7 @@ PÉKIN EXPRESS VALÉRIE TRIERWEILER
 PÉNURIE CARBURANT
 PÉNURIE DE MOUTARDE
 PÉNURIE DE RIZ
+PÉRITONITE
 PÉTANQUE
 Pâques
 Pékin Express Valérie Trierweiler
@@ -34674,6 +34715,7 @@ Pénurie de riz
 Pénuriecarburant
 Pénuriedemoutarde
 Pénuriederiz
+Péritonite
 Pétanque
 QANON
 QARABAG
@@ -40249,6 +40291,7 @@ SÉISME MEXIQUE TSUNAMI
 SÉNÉGAL – BÉNIN
 SÉNÉGAL – GUINÉE
 SÉNÉGAL – GUINÉE ÉQUATORIALE
+SÉNÉGAL – MADAGASCAR
 SÉNÉGAL – PAYS-BAS
 SÉVILLE – ATLÉTICO MADRID
 SÉVILLE – BARCELONA
@@ -40262,6 +40305,7 @@ SÉVILLE – VALLADOLID
 SÖLDEN
 SÖRENBERG
 SÜDAFRIKA
+SÜPER LIG
 SÜPER LIG!
 Sébastien Raoult Maroc
 SébastienRaoultMaroc
@@ -40271,11 +40315,13 @@ SéismeMexiquetsunami
 Sénégal – Bénin
 Sénégal – Guinée
 Sénégal – Guinée équatoriale
+Sénégal – Madagascar
 Sénégal – Pays-Bas
 Sénégal – PaysBas
 Sénégal–Bénin
 Sénégal–Guinée
 Sénégal–Guinéeéquatoriale
+Sénégal–Madagascar
 Sénégal–Pays-Bas
 Séville – Atlético Madrid
 Séville – Copenhague
@@ -40298,7 +40344,9 @@ Séville–barcelona
 Sölden
 Sörenberg
 Südafrika
+Süper Lig
 Süper Lig!
+SüperLig
 SüperLig!
 TABLEAU EURO 2021
 TABLEAUEURO2021
@@ -40741,6 +40789,7 @@ TOKYO 2020
 TOKYO 2021
 TOLISSO
 TOLKIEN
+TOLU AROKODARE
 TOM BRADY
 TOM BRUSSE
 TOM CRUISE
@@ -41839,6 +41888,8 @@ Tokyo2020
 Tokyo2021
 Tolisso
 Tolkien
+Tolu Arokodare
+ToluArokodare
 Tom Brady
 Tom Brusse
 Tom Cruise
@@ -42577,6 +42628,7 @@ UNION BERLIN
 UNION BERLIN GEGEN BAYERN
 UNION BERLIN GEGEN DORTMUND
 UNION BERLIN GEGEN MALMÖ
+UNION BERLIN GEGEN WOLFSBURG
 UNION CLUB BRUGGE
 UNION SAINT-GILLOISE
 UNION SAINT-GILLOISE – ANDERLECHT
@@ -42813,6 +42865,7 @@ Union Berlin
 Union Berlin gegen Bayern
 Union Berlin gegen Dortmund
 Union Berlin gegen Malmö
+Union Berlin gegen Wolfsburg
 Union Club Brugge
 Union Saint-Gilloise
 Union Saint-Gilloise – Anderlecht
@@ -42839,6 +42892,7 @@ UnionBerlin
 UnionBerlingegenBayern
 UnionBerlingegenDortmund
 UnionBerlingegenMalmö
+UnionBerlingegenWolfsburg
 UnionBraga
 UnionClubBrugge
 UnionGenk
@@ -43171,6 +43225,7 @@ VIRGIN ORBIT
 VIRGIN RIVER
 VIRGINIA GIUFFRE
 VIRGINIA RAGGI
+VIRGINIE DE CLAUSADE
 VIRGINIE DESPENTES
 VIRGINIE EFIRA
 VIRGINIE GRIMALDI
@@ -43723,11 +43778,13 @@ Virginie Efira
 Virginie Grimaldi
 Virginie Masserey
 Virginie Spiwack
+Virginie de Clausade
 VirginieDespentes
 VirginieEfira
 VirginieGrimaldi
 VirginieMasserey
 VirginieSpiwack
+VirginiedeClausade
 Virus d'Epstein-Barr
 Virus d'EpsteinBarr
 Virus de Marburg
@@ -44242,6 +44299,7 @@ WOHLENSEE
 WOIPPY
 WOJCIECH SZCZĘSNY
 WOKE
+WOKENESS
 WOKISME
 WOLF
 WOLF SCHNEIDER
@@ -44700,6 +44758,7 @@ Wojciech szczęsny
 WojciechSzczęsny
 Wojciechszczęsny
 Woke
+Wokeness
 Wokisme
 Wolf
 Wolf Schneider
@@ -45929,6 +45988,7 @@ algérie - djibouti
 algérie – côte d'ivoire
 algérie – ghana
 algérie – mali
+algérie – niger
 algérie – ouganda
 algérie – sierra leone
 algérie – éthiopie
@@ -46158,6 +46218,7 @@ andrea furet
 andrea jaeger
 andrea kiewel
 andrea pirlo
+andrea riseborough
 andrea schlager
 andreas gabalier
 andreas skov olsen
@@ -46539,6 +46600,7 @@ aromat
 aron piper
 arosa
 arosa bärenland
+arouca  benfica
 arouca – sporting
 arrete moi si tu peux
 arrosticini
@@ -50492,6 +50554,7 @@ fc st. gallen
 fc st.gallen
 fc st.gallen 1879
 fc thun
+fc thun gegen luzern
 fc thun gegen winterthur
 fc twente
 fc urnäsch
@@ -51080,6 +51143,7 @@ fugueuse
 fugueuse tf1
 fuite sujet brevet 2022
 fukushima
+fulgini
 fulham – aston villa
 fulham – chelsea
 fulham – liverpool
@@ -52321,6 +52385,7 @@ insuffisance cardiaque
 insuffisancecardiaque
 intempéries marseille
 inter
+inter  atalanta
 inter  empoli
 inter  monaco
 inter  napoli
@@ -52336,6 +52401,7 @@ inter mailand
 inter miami – barcelona
 inter milan
 inter napoli
+inter – atalanta
 inter – bayern
 inter – bologne
 inter – empoli
@@ -52443,6 +52509,7 @@ ischia
 isco
 ishaq abdulrazak
 islam makhachev
+islam slimani
 islamabad
 island vulkanausbruch
 islande
@@ -53529,6 +53596,7 @@ kmi
 kmska
 knabenschiessen
 knack
+knelpuntberoepen
 knives out
 knokke
 kobe bryant
@@ -53796,6 +53864,7 @@ la teste-de-buch
 la verite si je mens
 la vie est un long fleuve tranquille
 la vie et rien d'autre
+la vie, l'amour, tout de suite
 la villa des coeurs brisés
 la voix du nord
 la vuelta
@@ -54988,6 +55057,7 @@ manhunt
 manifest
 manifestation
 manifestation 1er-mai
+manifestation 31 janvier
 manifestation 8 janvier
 manifestation bruxelles
 manifestation bruxelles 23 janvier
@@ -56429,6 +56499,7 @@ newcastle – chelsea
 newcastle – liverpool
 newcastle – man city
 newcastle – manchester united
+newcastle – southampton
 news
 news heute
 neymar
@@ -57217,6 +57288,7 @@ patagonia
 patek philippe
 patent ochsner
 patentochsner
+pathe ciss
 patinage artistique
 patrice duhamel
 patrice evra
@@ -57917,6 +57989,7 @@ pékin express valérie trierweiler
 pénurie carburant
 pénurie de moutarde
 pénurie de riz
+péritonite
 pétanque
 qanon
 qarabag
@@ -59956,6 +60029,7 @@ séisme mexique tsunami
 sénégal – bénin
 sénégal – guinée
 sénégal – guinée équatoriale
+sénégal – madagascar
 sénégal – pays-bas
 séville – atlético madrid
 séville – barcelona
@@ -59969,6 +60043,7 @@ séville – valladolid
 sölden
 sörenberg
 südafrika
+süper lig
 süper lig!
 tWitch
 tableau euro 2021
@@ -60402,6 +60477,7 @@ tokyo 2020
 tokyo 2021
 tolisso
 tolkien
+tolu arokodare
 tom brady
 tom brusse
 tom cruise
@@ -60868,6 +60944,7 @@ union berlin
 union berlin gegen bayern
 union berlin gegen dortmund
 union berlin gegen malmö
+union berlin gegen wolfsburg
 union club brugge
 union saint-gilloise
 union saint-gilloise – anderlecht
@@ -61177,6 +61254,7 @@ virgin orbit
 virgin river
 virginia giuffre
 virginia raggi
+virginie de clausade
 virginie despentes
 virginie efira
 virginie grimaldi
@@ -61567,6 +61645,7 @@ wohlensee
 woippy
 wojciech szczęsny
 woke
+wokeness
 wokisme
 wolf
 wolf schneider
