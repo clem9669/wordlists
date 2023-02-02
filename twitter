@@ -7878,6 +7878,7 @@ BANKRUNCANADA
 BANKS
 BANOUN
 BANQUE DE FRANCE
+BANQUE POPULAIRE
 BANQUEALIMENTAIRE
 BANSHEE
 BANSPIDER
@@ -91868,8 +91869,10 @@ bankruncanada
 banks
 banoun
 banque de france
+banque populaire
 banquealimentaire
 banquedefrance
+banquepopulaire
 banshee
 banspider
 bansteve
