@@ -449,6 +449,7 @@ AANSLAG ISTANBUL
 AANSLAGEN ZAVENTEM
 AARAU
 AARDBEVING KRETA
+AARDBEVING TURKIJE
 AARDVERSCHUIVING DUITSLAND
 AARON BLOMMAERT
 AARON CARTER
@@ -896,6 +897,7 @@ ALICE TAGLIONI
 ALICIA AYLIES
 ALICIA KEYS
 ALICIA SILVERSTONE
+ALICIA VIKANDER
 ALICIA WITT
 ALIDAEI
 ALIGNEMENT DES PLANÈTES
@@ -1815,7 +1817,9 @@ Aanslagen Zaventem
 AanslagenZaventem
 Aarau
 Aardbeving Kreta
+Aardbeving Turkije
 AardbevingKreta
+AardbevingTurkije
 Aardverschuiving Duitsland
 AardverschuivingDuitsland
 Aaron Blommaert
@@ -2535,10 +2539,12 @@ AliceinBorderland
 Alicia Aylies
 Alicia Keys
 Alicia Silverstone
+Alicia Vikander
 Alicia Witt
 AliciaAylies
 AliciaKeys
 AliciaSilverstone
+AliciaVikander
 AliciaWitt
 Alignement des planètes
 Alignementdesplanètes
@@ -4224,6 +4230,7 @@ BARCELONE – ALMERÍA
 BARCELONE – ATH BILBAO
 BARCELONE – BAYERN
 BARCELONE – ESPANYOL
+BARCELONE – SÉVILLE
 BARCELONE – VILLARREAL
 BARES FÜR RARES
 BAROMETER CORONA
@@ -4971,6 +4978,7 @@ BRAZILIË  ZUID-KOREA
 BREAKFAST CLUB
 BREEL EMBOLO
 BREELEMBOLO
+BREITENREITER
 BREIVIK
 BREIZHGO
 BREMER
@@ -5459,12 +5467,14 @@ Barcelone – Almería
 Barcelone – Ath Bilbao
 Barcelone – Bayern
 Barcelone – Espanyol
+Barcelone – Séville
 Barcelone – Villarreal
 Barcelone-Francfort
 Barcelone–Almería
 Barcelone–AthBilbao
 Barcelone–Bayern
 Barcelone–Espanyol
+Barcelone–Séville
 Barcelone–Villarreal
 Bares für Rares
 BaresfürRares
@@ -6660,6 +6670,7 @@ Breakfast Club
 BreakfastClub
 Breel Embolo
 BreelEmbolo
+Breitenreiter
 Breivik
 BreizhGo
 Bremer
@@ -12391,6 +12402,7 @@ EMMARADUCANU
 EMMY AWARDS 2021
 EMMY AWARDS 2022
 EMMY NOMINATIONS 2022
+EMPLOI
 EMPLOI FICTIF CANARD ENCHAÎNÉ
 EMPOLI – JUVENTUS
 EMPOLI – MILAN
@@ -12478,6 +12490,7 @@ ERDBEBEN KRETA
 ERDBEBEN MEXIKO
 ERDBEBEN MEXIKO-STADT
 ERDBEBEN SCHWEIZ
+ERDBEBEN TÜRKEI
 ERDBEBENSCHWEIZ
 ERDOGAN
 EREDIVISIE
@@ -13226,6 +13239,7 @@ Emmy nominations 2022
 EmmyAwards2021
 EmmyAwards2022
 Emmynominations2022
+Emploi
 Emploi fictif Canard enchaîné
 EmploifictifCanardenchaîné
 Empoli – Juventus
@@ -13357,11 +13371,13 @@ Erdbeben Mexiko
 Erdbeben Mexiko-Stadt
 Erdbeben MexikoStadt
 Erdbeben Schweiz
+Erdbeben Türkei
 ErdbebenItalien
 ErdbebenKreta
 ErdbebenMexiko
 ErdbebenMexiko-Stadt
 ErdbebenSchweiz
+ErdbebenTürkei
 Erdogan
 Eredivisie
 Erftstadt
@@ -14274,6 +14290,7 @@ FEUX D'ARTIFICE
 FEUX D'ARTIFICE 14 JUILLET
 FEUX DE FORÊT DANS LE VAR
 FEYENOORD
+FEYENOORD  PSV
 FEYENOORD GEGEN STURM GRAZ
 FFP2
 FFP2-MASKE
@@ -15111,7 +15128,9 @@ Feuxd'artifice
 Feuxd'artifice14juillet
 FeuxdeforêtdansleVar
 Feyenoord
+Feyenoord  PSV
 Feyenoord gegen Sturm Graz
+FeyenoordPSV
 FeyenoordgegenSturmGraz
 Fibromyalgie
 Fien Germijns
@@ -15983,6 +16002,7 @@ FêTE DES PèRES
 FêTEDELAMUSIQUE2021PARIS
 FêTEDESPèRES
 Fête de la musique 2021 Paris
+Fête des Lanternes
 Fête des grands-mères
 Fête des grandsmères
 Fête des lanternes
@@ -15998,6 +16018,7 @@ Fête nationale belge 2022
 Fête nationale française
 Fête nationale suisse
 Fêtedelamusique2021Paris
+FêtedesLanternes
 Fêtedesgrands-mères
 Fêtedeslanternes
 Fêtedesmères
@@ -16118,6 +16139,7 @@ GAVIN NEWSOM
 GAVRANOVIC
 GAYA BECAUD
 GAZ RUSSE
+GAZIANTEP
 GAZPROM
 GAZPROM AKTIE
 GAËL MONFILS
@@ -16439,8 +16461,10 @@ GRACELAND
 GRAHAM ARNOLD
 GRAMMY 2022
 GRAMMY AWARDS 2022
+GRAMMY AWARDS 2023
 GRAMMY NOMINATIONS 2023
 GRAMMYS 2022
+GRAMMYS 2023
 GRAN TURISMO 7
 GRANADA  BARCELONA
 GRAND COMBIN
@@ -16811,6 +16835,7 @@ Gavranovic
 Gaya Becaud
 GayaBecaud
 Gaz russe
+Gaziantep
 Gazprom
 Gazprom Aktie
 GazpromAktie
@@ -17306,12 +17331,16 @@ Graham Arnold
 GrahamArnold
 Grammy 2022
 Grammy Awards 2022
+Grammy Awards 2023
 Grammy nominations 2023
 Grammy2022
 GrammyAwards2022
+GrammyAwards2023
 Grammynominations2023
 Grammys 2022
+Grammys 2023
 Grammys2022
+Grammys2023
 Gran Turismo 7
 GranTurismo7
 Granada  Barcelona
@@ -17817,6 +17846,7 @@ HARRY POTTER 2
 HARRY POTTER 2022
 HARRY POTTER 4
 HARRY POTTER ET LE PRISONNIER D'AZKABAN
+HARRY POTTER HOGWARTS LEGACY
 HARRY POTTER RETURN TO HOGWARTS
 HARRY POTTER REUNION
 HARRY ROSELMACK
@@ -17895,6 +17925,7 @@ HEISTSE PIJL
 HEL VAN KASTERLEE
 HELENA BONHAM CARTER JOHNNY DEPP
 HELENA CHRISTENSEN
+HELENA CLUYOU
 HELENA NOGUERRA
 HELENE CARRERE D'ENCAUSSE
 HELENE DARROZE
@@ -18260,6 +18291,7 @@ Harry Potter
 Harry Potter 2
 Harry Potter 2022
 Harry Potter 4
+Harry Potter Hogwarts Legacy
 Harry Potter Return to Hogwarts
 Harry Potter Reunion
 Harry Potter et le prisonnier d'Azkaban
@@ -18276,6 +18308,7 @@ HarryPotter
 HarryPotter2
 HarryPotter2022
 HarryPotter4
+HarryPotterHogwartsLegacy
 HarryPotterReturntoHogwarts
 HarryPotterReunion
 HarryPotteretleprisonnierd'Azkaban
@@ -18375,9 +18408,11 @@ HeistsePijl
 Hel van Kasterlee
 Helena Bonham Carter Johnny Depp
 Helena Christensen
+Helena Cluyou
 Helena Noguerra
 HelenaBonhamCarterJohnnyDepp
 HelenaChristensen
+HelenaCluyou
 HelenaNoguerra
 Helene Darroze
 Helene Devynck
@@ -18909,6 +18944,7 @@ INTER MAILAND
 INTER MIAMI – BARCELONA
 INTER MILAN
 INTER NAPOLI
+INTER – AC MILAN
 INTER – ATALANTA
 INTER – BAYERN
 INTER – BOLOGNE
@@ -19440,6 +19476,7 @@ Inter Milan
 Inter Napoli
 Inter gegen Salernitana
 Inter gegen Viktoria Pilsen
+Inter – AC Milan
 Inter – Atalanta
 Inter – Bayern
 Inter – Bologne
@@ -19490,6 +19527,7 @@ Internet Explorer
 InternetExplorer
 Interview prince Harry
 InterviewprinceHarry
+Inter–ACMilan
 Inter–Atalanta
 Inter–Bayern
 Inter–Bologne
@@ -20054,6 +20092,7 @@ JEFFREY EPSTEIN
 JELENA DOKIC
 JELLE CLEYMANS
 JELLE GEENS
+JELMOLI ZÜRICH
 JENIFER
 JENKE-EXPERIMENT
 JENNA ORTEGA
@@ -21034,6 +21073,8 @@ Jelle Cleymans
 Jelle Geens
 JelleCleymans
 JelleGeens
+Jelmoli Zürich
+JelmoliZürich
 Jenifer
 Jenke-Experiment
 JenkeExperiment
@@ -23896,6 +23937,7 @@ LORENZ ERNI
 LORENZO BROWN
 LORIE
 LORIE PESTER
+LORIENT – ANGERS
 LORIENT – CLERMONT
 LORIENT – LENS
 LORIENT – LILLE
@@ -25622,6 +25664,7 @@ LorenzoBrown
 Lorie
 Lorie Pester
 LoriePester
+Lorient – Angers
 Lorient – Clermont
 Lorient – Lens
 Lorient – Lille
@@ -25640,6 +25683,7 @@ Lorient – Saint-Étienne
 Lorient – SaintÉtienne
 Lorient – paris-sg
 Lorient – parissg
+Lorient–Angers
 Lorient–Clermont
 Lorient–Lens
 Lorient–Lille
@@ -32442,6 +32486,7 @@ PAOLO BANCHERO
 PAOLO NUTINI
 PAP NDIAYE
 PAPA BOUBA DIOP
+PAPA OU MAMAN
 PAPADAKIS CIZERON
 PAPE BENOÎT XVI
 PAPE FRANCOIS
@@ -33452,9 +33497,11 @@ PaoloNutini
 Pap Ndiaye
 PapNdiaye
 Papa Bouba Diop
+Papa ou Maman
 PapaBoubaDiop
 Papadakis Cizeron
 PapadakisCizeron
+PapaouMaman
 Pape Benoît XVI
 Pape Francois
 Pape François
@@ -41102,6 +41149,7 @@ TOTO WOLFF
 TOTTENHAM
 TOTTENHAM GEGEN EINTRACHT FRANKFURT
 TOTTENHAM GEGEN LEICESTER
+TOTTENHAM GEGEN MAN CITY
 TOTTENHAM – ARSENAL
 TOTTENHAM – ASTON VILLA
 TOTTENHAM – BRENTFORD
@@ -41110,6 +41158,7 @@ TOTTENHAM – EINTRACHT
 TOTTENHAM – LEICESTER
 TOTTENHAM – LIVERPOOL
 TOTTENHAM – MAN CITY
+TOTTENHAM – MANCHESTER CITY
 TOTTENHAM – MANCHESTER UNITED
 TOTTENHAM – NEWCASTLE
 TOTTENHAM – SOUTHAMPTON
@@ -42267,6 +42316,7 @@ TotoWolff
 Tottenham
 Tottenham gegen Eintracht Frankfurt
 Tottenham gegen Leicester
+Tottenham gegen Man City
 Tottenham – Arsenal
 Tottenham – Aston Villa
 Tottenham – Brentford
@@ -42275,6 +42325,7 @@ Tottenham – Eintracht
 Tottenham – Leicester
 Tottenham – Liverpool
 Tottenham – Man City
+Tottenham – Manchester City
 Tottenham – Manchester United
 Tottenham – Newcastle
 Tottenham – Southampton
@@ -42284,6 +42335,7 @@ Tottenham-Rennes
 TottenhamRennes
 TottenhamgegenEintrachtFrankfurt
 TottenhamgegenLeicester
+TottenhamgegenManCity
 Tottenham–Arsenal
 Tottenham–AstonVilla
 Tottenham–Brentford
@@ -42292,6 +42344,7 @@ Tottenham–Eintracht
 Tottenham–Leicester
 Tottenham–Liverpool
 Tottenham–ManCity
+Tottenham–ManchesterCity
 Tottenham–ManchesterUnited
 Tottenham–Newcastle
 Tottenham–Southampton
@@ -42854,6 +42907,7 @@ UNION  BRAGA
 UNION  CLUB BRUGGE
 UNION  GENK
 UNION  MALMÖ
+UNION  ZULTE-WAREGEM
 UNION BERLIN
 UNION BERLIN GEGEN BAYERN
 UNION BERLIN GEGEN DORTMUND
@@ -42871,6 +42925,7 @@ UNION SAINT-GILLOISE – RANGERS
 UNION SAINT-GILLOISE – STANDARD
 UNION SAINT-GILLOISE – UNION BERLIN
 UNION SAINT-GILLOISE – WESTERLO
+UNION SAINT-GILLOISE – ZULTE WAREGEM
 UNIPER
 UNO-SICHERHEITSRAT
 UNO-Sicherheitsrat
@@ -43092,6 +43147,8 @@ Union  Braga
 Union  Club Brugge
 Union  Genk
 Union  Malmö
+Union  zulte-waregem
+Union  zultewaregem
 Union Berlin
 Union Berlin gegen Bayern
 Union Berlin gegen Dortmund
@@ -43108,6 +43165,7 @@ Union Saint-Gilloise – Rangers
 Union Saint-Gilloise – Standard
 Union Saint-Gilloise – Union Berlin
 Union Saint-Gilloise – Westerlo
+Union Saint-Gilloise – Zulte Waregem
 Union Saint-Gilloise – oostende
 Union SaintGilloise
 Union SaintGilloise – Anderlecht
@@ -43118,6 +43176,7 @@ Union SaintGilloise – Rangers
 Union SaintGilloise – Standard
 Union SaintGilloise – Union Berlin
 Union SaintGilloise – Westerlo
+Union SaintGilloise – Zulte Waregem
 Union SaintGilloise – oostende
 UnionAnderlecht
 UnionBerlin
@@ -43139,7 +43198,9 @@ UnionSaint-Gilloise–Rangers
 UnionSaint-Gilloise–Standard
 UnionSaint-Gilloise–UnionBerlin
 UnionSaint-Gilloise–Westerlo
+UnionSaint-Gilloise–ZulteWaregem
 UnionSaint-Gilloise–oostende
+Unionzulte-waregem
 Uniper
 Unlongdimanchedefiançailles
 Unmomentd'égarement
@@ -44466,6 +44527,7 @@ WK TIJDRIJDEN
 WK TIJDRIJDEN 2021
 WK TIJDRIJDEN 2022
 WK VELDRIJDEN
+WK VELDRIJDEN 2023
 WK VOETBAL 2022
 WK WIELRENNEN
 WK WIELRENNEN 2022
@@ -44477,6 +44539,7 @@ WK tijdrijden
 WK tijdrijden 2021
 WK tijdrijden 2022
 WK veldrijden
+WK veldrijden 2023
 WK voetbal 2022
 WK wielrennen
 WK wielrennen 2022
@@ -44493,6 +44556,7 @@ WKtijdrijden
 WKtijdrijden2021
 WKtijdrijden2022
 WKveldrijden
+WKveldrijden2023
 WKvoetbal2022
 WKwielrennen
 WKwielrennen2022
@@ -44542,6 +44606,8 @@ WOLFENSCHIESSEN
 WOLFGANG JOOP
 WOLFGANG PETERSEN
 WOLFGANG SCHÄUBLE
+WOLFSBOURG – BAYERN
+WOLFSBURG GEGEN BAYERN
 WOLFSPIN
 WOLHUSEN
 WOLKE HEGENBARTH
@@ -45008,6 +45074,10 @@ Wolfgang Schäuble
 WolfgangJoop
 WolfgangPetersen
 WolfgangSchäuble
+Wolfsbourg – Bayern
+Wolfsbourg–Bayern
+Wolfsburg gegen Bayern
+WolfsburggegenBayern
 Wolfspin
 Wolhusen
 Wolke Hegenbarth
@@ -45834,6 +45904,7 @@ aanslag istanbul
 aanslagen zaventem
 aarau
 aardbeving kreta
+aardbeving turkije
 aardverschuiving duitsland
 aaron blommaert
 aaron carter
@@ -46246,6 +46317,7 @@ alice taglioni
 alicia aylies
 alicia keys
 alicia silverstone
+alicia vikander
 alicia witt
 alidaei
 alignement des planètes
@@ -47264,6 +47336,7 @@ barcelone – almería
 barcelone – ath bilbao
 barcelone – bayern
 barcelone – espanyol
+barcelone – séville
 barcelone – villarreal
 bares für rares
 barometer corona
@@ -47979,6 +48052,7 @@ brazilië  zuid-korea
 breakfast club
 breel embolo
 breelembolo
+breitenreiter
 breivik
 breizhgo
 bremer
@@ -50312,6 +50386,7 @@ emmaraducanu
 emmy awards 2021
 emmy awards 2022
 emmy nominations 2022
+emploi
 emploi fictif canard enchaîné
 empoli – juventus
 empoli – milan
@@ -50395,6 +50470,7 @@ erdbeben kreta
 erdbeben mexiko
 erdbeben mexiko-stadt
 erdbeben schweiz
+erdbeben türkei
 erdbebenschweiz
 erdogan
 eredivisie
@@ -50957,6 +51033,7 @@ feux d'artifice
 feux d'artifice 14 juillet
 feux de forêt dans le var
 feyenoord
+feyenoord  psv
 feyenoord gegen sturm graz
 ffp2
 ffp2-maske
@@ -51554,6 +51631,7 @@ gavin newsom
 gavranovic
 gaya becaud
 gaz russe
+gaziantep
 gazprom
 gazprom aktie
 gaël monfils
@@ -51846,8 +51924,10 @@ graceland
 graham arnold
 grammy 2022
 grammy awards 2022
+grammy awards 2023
 grammy nominations 2023
 grammys 2022
+grammys 2023
 gran turismo 7
 granada  barcelona
 grand combin
@@ -52169,6 +52249,7 @@ harry potter 2
 harry potter 2022
 harry potter 4
 harry potter et le prisonnier d'azkaban
+harry potter hogwarts legacy
 harry potter return to hogwarts
 harry potter reunion
 harry roselmack
@@ -52240,6 +52321,7 @@ heistse pijl
 hel van kasterlee
 helena bonham carter johnny depp
 helena christensen
+helena cluyou
 helena noguerra
 helene carrere d'encausse
 helene darroze
@@ -52672,6 +52754,7 @@ inter mailand
 inter miami – barcelona
 inter milan
 inter napoli
+inter – ac milan
 inter – atalanta
 inter – bayern
 inter – bologne
@@ -53159,6 +53242,7 @@ jeffrey epstein
 jelena dokic
 jelle cleymans
 jelle geens
+jelmoli zürich
 jenifer
 jenke-experiment
 jenna ortega
@@ -54856,6 +54940,7 @@ lorenz erni
 lorenzo brown
 lorie
 lorie pester
+lorient – angers
 lorient – clermont
 lorient – lens
 lorient – lille
@@ -57444,6 +57529,7 @@ paolo banchero
 paolo nutini
 pap ndiaye
 papa bouba diop
+papa ou maman
 papadakis cizeron
 pape benoît xvi
 pape francois
@@ -60872,6 +60958,7 @@ toto wolff
 tottenham
 tottenham gegen eintracht frankfurt
 tottenham gegen leicester
+tottenham gegen man city
 tottenham – arsenal
 tottenham – aston villa
 tottenham – brentford
@@ -60880,6 +60967,7 @@ tottenham – eintracht
 tottenham – leicester
 tottenham – liverpool
 tottenham – man city
+tottenham – manchester city
 tottenham – manchester united
 tottenham – newcastle
 tottenham – southampton
@@ -61251,6 +61339,7 @@ union  braga
 union  club brugge
 union  genk
 union  malmö
+union  zulte-waregem
 union berlin
 union berlin gegen bayern
 union berlin gegen dortmund
@@ -61268,6 +61357,7 @@ union saint-gilloise – rangers
 union saint-gilloise – standard
 union saint-gilloise – union berlin
 union saint-gilloise – westerlo
+union saint-gilloise – zulte waregem
 uniper
 uno-sicherheitsrat
 unplanned
@@ -61937,6 +62027,7 @@ wk tijdrijden
 wk tijdrijden 2021
 wk tijdrijden 2022
 wk veldrijden
+wk veldrijden 2023
 wk voetbal 2022
 wk wielrennen
 wk wielrennen 2022
@@ -61967,6 +62058,8 @@ wolfenschiessen
 wolfgang joop
 wolfgang petersen
 wolfgang schäuble
+wolfsbourg – bayern
+wolfsburg gegen bayern
 wolfspin
 wolhusen
 wolke hegenbarth
