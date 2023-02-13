@@ -85467,6 +85467,7 @@ WAHLERGEBNIS
 WAHLFR21
 WAHLGANG
 WAHLKAMPF
+WAHLKREIS
 WAHLLOKAL
 WAHLOMAT
 WAHLOW22
@@ -86502,6 +86503,7 @@ WahlenBL
 Wahlergebnis
 Wahlgang
 Wahlkampf
+Wahlkreis
 Wahllokal
 Wahlzettel
 Wahnsinn
@@ -133056,6 +133058,7 @@ wahlergebnis
 wahlfr21
 wahlgang
 wahlkampf
+wahlkreis
 wahllokal
 wahlomat
 wahlow22
