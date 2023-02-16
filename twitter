@@ -8121,6 +8121,7 @@ BARKHANE
 BARKLEY
 BARKOK
 BARMAN
+BARMUN
 BARNABE
 BARNABÉ
 BARNAP
@@ -26335,6 +26336,7 @@ FCBINT
 FCBJUV
 FCBLS
 FCBLUG
+FCBMUN
 FCBNAP
 FCBOL
 FCBOM
@@ -39698,6 +39700,7 @@ JUVEUDINESE
 JUVEVERONA
 JUVEVILLARREAL
 JUVEZENIT
+JUVFCN
 JUVIN
 JUVISY
 JUVPSG
@@ -46528,6 +46531,8 @@ LFIAntisemite
 LFILAHONTE
 LFINUPES
 LFIlahonte
+LFLCICDAY
+LFLCICDay
 LFLDAYS
 LFLDays
 LFLPRIXTELDAY
@@ -51362,6 +51367,7 @@ MANIF11SEPTEMBRE
 MANIF13JANVIER
 MANIF14AOUT
 MANIF14AOÛT
+MANIF16FEVRIER
 MANIF18SEPTEMBRE
 MANIF19JANVIER
 MANIF21AOUT
@@ -53170,6 +53176,7 @@ MICROMANIAGOTY
 MICROMANIALIVESHOPPING
 MICROMANIAONEPIECE
 MICROMANIATALESOF
+MICROMANIAWILDHEARTS
 MICROMANIAXSPLATOON
 MICROONDES
 MICROPHONE CHECK
@@ -56759,6 +56766,7 @@ MicromaniaGOTY
 MicromaniaLiveShopping
 MicromaniaOnePiece
 MicromaniaTalesOf
+MicromaniaWildHearts
 MicromaniaXSplatoon
 Microondes
 Microphone Check
@@ -72358,6 +72366,7 @@ SHARM
 SHARON TATE
 SHARP OBJECTS
 SHARPE
+SHASRFC
 SHATTA WALE
 SHAUNA EVENTS
 SHAW
@@ -93514,6 +93523,7 @@ barkhane
 barkley
 barkok
 barman
+barmun
 barnabé
 barnap
 barnes
@@ -102905,6 +102915,7 @@ fcbint
 fcbjuv
 fcbls
 fcblug
+fcbmun
 fcbnap
 fcbol
 fcbom
@@ -110730,6 +110741,7 @@ juveudinese
 juveverona
 juvevillarreal
 juvezenit
+juvfcn
 juvin
 juvisy
 juvpsg
@@ -114182,6 +114194,7 @@ lfctfc
 lfi-nupes
 lfiantisemite
 lfilahonte
+lflcicday
 lfldays
 lflprixtelday
 lgbt
@@ -115881,6 +115894,7 @@ manif11septembre
 manif13janvier
 manif14aout
 manif14août
+manif16fevrier
 manif18Septembre
 manif18septembre
 manif19janvier
@@ -117753,6 +117767,7 @@ micromaniagoty
 micromanialiveshopping
 micromaniaonepiece
 micromaniatalesof
+micromaniawildhearts
 micromaniaxsplatoon
 microondes
 microphone check
@@ -127234,6 +127249,7 @@ sharontate
 sharp objects
 sharpe
 sharpobjects
+shasrfc
 shatta wale
 shattawale
 shauna events
