@@ -3995,6 +3995,7 @@ AREOLA
 ARES
 ARES10
 ARES11
+ARES12
 ARES3
 ARES4
 ARES6
@@ -10957,8 +10958,10 @@ Banken
 BankofEngland
 Banks
 Banoun
+Banque Populaire
 Banque de France
 BanqueAlimentaire
+BanquePopulaire
 BanquedeFrance
 Banshee
 Banza
@@ -62495,6 +62498,8 @@ PALLOIS
 PALM SPRINGS
 PALMADE
 PALMADEACCIDENT
+PALMADEASSASSIN
+PALMADEENPRISON
 PALMARES DE LA BELGIQUE
 PALMARESDELABELGIQUE
 PALME
@@ -64918,6 +64923,7 @@ Pallois
 Palm Springs
 PalmSprings
 Palmade
+PalmadeAssassin
 Palmares de la Belgique
 PalmaresdelaBelgique
 Palme
@@ -83944,6 +83950,7 @@ VENOM2
 VENOMLETTHEREBECARNAGE
 VENTAVIA
 VENTEOM
+VENTESFLASHXIAOMI
 VENTI
 VENTIL
 VENTILUS
@@ -85101,6 +85108,7 @@ Venom3
 VenomLetThereBeCarnage
 Ventavia
 VenteOM
+VentesFlashXiaomi
 Venti
 Ventil
 Ventilus
@@ -92311,6 +92319,7 @@ areola
 ares
 ares10
 ares11
+ares12
 ares3
 ares4
 ares6
@@ -121563,6 +121572,8 @@ pallois
 palm springs
 palmade
 palmadeaccident
+palmadeassassin
+palmadeenprison
 palmares de la belgique
 palmaresdelabelgique
 palme
@@ -132886,6 +132897,7 @@ venomlettherebecarnage
 ventavia
 venteOM
 venteom
+ventesflashxiaomi
 venti
 ventil
 ventilus
