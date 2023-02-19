@@ -24252,6 +24252,7 @@ ESTACFCGB
 ESTACFCL
 ESTACFCN
 ESTACLOSC
+ESTACMHSC
 ESTACOGCN
 ESTACOL
 ESTACOM
@@ -26573,6 +26574,7 @@ FCSB
 FCSBAND
 FCSG
 FCSGFCB
+FCSGFCL
 FCSGFCW
 FCSGFCZ
 FCSGLS
@@ -30841,6 +30843,7 @@ GNTKVO
 GNTM
 GNTMID
 GNTMOL
+GNTOHL
 GNTOMO
 GNTPAOK
 GNTPAR
@@ -102455,6 +102458,7 @@ estacfcgb
 estacfcl
 estacfcn
 estaclosc
+estacmhsc
 estacogcn
 estacol
 estacom
@@ -103375,6 +103379,7 @@ fcsb
 fcsband
 fcsg
 fcsgfcb
+fcsgfcl
 fcsgfcw
 fcsgfcz
 fcsgls
@@ -105907,6 +105912,7 @@ gntkvo
 gntm
 gntmid
 gntmol
+gntohl
 gntomo
 gntpaok
 gntpar
