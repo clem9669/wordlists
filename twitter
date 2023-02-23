@@ -30943,6 +30943,7 @@ GNTOHL
 GNTOMO
 GNTPAOK
 GNTPAR
+GNTQAR
 GNTRCZ
 GNTRFS
 GNTROV
@@ -54562,6 +54563,7 @@ MUNATA
 MUNATL
 MUNATM
 MUNAVL
+MUNBAR
 MUNBHA
 MUNBOU
 MUNBRE
@@ -106283,6 +106285,7 @@ gntohl
 gntomo
 gntpaok
 gntpar
+gntqar
 gntrcz
 gntrfs
 gntrov
@@ -119594,6 +119597,7 @@ munata
 munatl
 munatm
 munavl
+munbar
 munbha
 munbou
 munbre
