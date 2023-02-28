@@ -14484,6 +14484,7 @@ CEOs
 CEOvanMedista
 CEPOSTAPERTE
 CEPSLAB22
+CEPSLAB23
 CEPSlab22
 CERAND
 CERANT
@@ -23615,6 +23616,8 @@ EIGEIndex
 EIGENBEDARF
 EIGENMIETWERT
 EIGENTUM
+EIGENTUMER
+EIGENTÜMER
 EIGENVERANTWORTUNG
 EIGHTYSIX
 EIICHIRO ODA
@@ -25146,6 +25149,7 @@ Eiffeltoren
 Eigenbedarf
 Eigenmietwert
 Eigentum
+Eigentümer
 Eigenverantwortung
 EightySix
 Eiichiro Oda
@@ -26362,6 +26366,7 @@ FACETIME
 FACETIMEBOURBON
 FACH
 FACHKRÄFTE
+FACHKRÄFTEMANGEL
 FACHLEUTE
 FACILE
 FACON
@@ -28392,6 +28397,7 @@ FacebookNews
 FacetheSun
 Fach
 Fachkräfte
+Fachkräftemangel
 Fachleute
 Facile
 Facon
@@ -31033,6 +31039,7 @@ GLIK
 GLITCH
 GLOBAL GATEWAY
 GLOBAL REVIEW
+GLOBAL SOUTH
 GLOBALCITIZENLIVE
 GLOBALCUP
 GLOBALGATEWAY
@@ -32894,12 +32901,14 @@ Gletscherinitiative
 Glik
 Glitch
 Global Gateway
+Global South
 GlobalCitizenLive
 GlobalCup
 GlobalGateway
 GlobalHandwashingDay
 GlobalInnovationIndex
 GlobalRecyclingDay
+GlobalSouth
 Glocken
 Gloin
 Gloria
@@ -69105,6 +69114,7 @@ RESCAPÉ
 RESEAUXSOCIAUXDANSUNTITRE
 RESERVATION
 RESERVEN
+RESERVOIR DOGS
 RESIDENT EVIL
 RESIDENT EVIL 4
 RESIDENTEVIL
@@ -70754,6 +70764,8 @@ RerumNovarum
 Rescapé
 Reservation
 Reserven
+Reservoir Dogs
+ReservoirDogs
 Resident Evil
 Resident Evil 4
 ResidentEvil
@@ -72477,6 +72489,7 @@ SCHAUVLIEGE
 SCHAWINSKI
 SCHEIBE
 SCHEIBEN
+SCHEIDING
 SCHELDE
 SCHELDEPRIJS
 SCHELDT
@@ -76270,6 +76283,7 @@ Schauvliege
 Schawinski
 Scheibe
 Scheiben
+Scheiding
 Schelde
 Scheldeprijs
 Scheldt
@@ -98054,6 +98068,7 @@ ceovanmedista
 cepostaperte
 cepsg
 cepslab22
+cepslab23
 cerAND
 cerand
 cerant
@@ -102517,6 +102532,7 @@ eigeindex
 eigenbedarf
 eigenmietwert
 eigentum
+eigentümer
 eigenverantwortung
 eightysix
 eiichiro oda
@@ -103856,6 +103872,7 @@ facetime
 facetimebourbon
 fach
 fachkräfte
+fachkräftemangel
 fachleute
 facile
 facon
@@ -106746,6 +106763,7 @@ glik
 glitch
 global gateway
 global review
+global south
 globalcitizenlive
 globalcup
 globalgateway
@@ -126225,6 +126243,7 @@ rerumnovarum
 rescapé
 reservation
 reserven
+reservoir dogs
 resident evil
 resident evil 4
 residentevil
@@ -127982,6 +128001,7 @@ schauvliege
 schawinski
 scheibe
 scheiben
+scheiding
 schelde
 scheldeprijs
 scheldt
