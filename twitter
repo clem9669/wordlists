@@ -14,6 +14,7 @@ $KKMA
 $LUNA
 $POWER
 $SFUND
+$SIVB
 $SNFTS
 $SOL
 $Sfund
@@ -34,6 +35,7 @@ $kkma
 $luna
 $power
 $sfund
+$sivb
 $snfts
 $sol
 $tsla
@@ -8364,6 +8366,7 @@ BART DE PAUW
 BART DE WEVER
 BART EECKHOUT
 BART LAEREMANS
+BART MADDENS
 BART PEETERS
 BART SCHOLS
 BART SOMERS
@@ -10129,6 +10132,7 @@ BOULEAU
 BOULEVARD VOLTAIRE
 BOULEVERSANT
 BOULI LANNERS
+BOULIV
 BOULOGNE
 BOULOT
 BOULTER
@@ -11321,6 +11325,7 @@ Bart De Pauw
 Bart De Wever
 Bart Eeckhout
 Bart Laeremans
+Bart Maddens
 Bart Peeters
 Bart Schols
 Bart Somers
@@ -11336,6 +11341,7 @@ BartDePauw
 BartDeWever
 BartEeckhout
 BartLaeremans
+BartMaddens
 BartPeeters
 BartSchols
 BartSomers
@@ -15809,6 +15815,7 @@ COCA
 COCAB
 COCHIN
 COCHONNEDANSUNTITRE
+COCHRANE
 COCKTAIL
 COCO
 COCO EMILIA
@@ -18493,6 +18500,7 @@ CobraKai
 Coca
 Cochin
 CochonneDansUnTitre
+Cochrane
 Cocktail
 Coco
 Coco Emilia
@@ -27127,6 +27135,7 @@ FCSMASSE
 FCSMCNFC
 FCSMDFCO
 FCSMEAG
+FCSMFCGB
 FCSMFCN
 FCSMLAVAL
 FCSMNO
@@ -40553,6 +40562,7 @@ JUSQU'AU
 JUSQU'À
 JUSQUA QUAND
 JUSQUAQUAND
+JUSQUAURETRAIT
 JUSS
 JUST FONTAINE
 JUST JAECKIN
@@ -42547,6 +42557,7 @@ Juristen
 Juso
 Jusqu'au
 Jusqu'à
+JusquAuRetrait
 Jusquau
 Jusquà
 Juss
@@ -48254,8 +48265,10 @@ LOLO WHITE
 LOLOWHITE
 LOLQUIRITSORT
 LOLQUIRITSORT2
+LOLQUIRITSORT3
 LOLQuiRitSort
 LOLQuiRitSort2
+LOLQuiRitSort3
 LOLYMPIENNE
 LOLquiritsort
 LOLquiritsort2
@@ -90859,6 +90872,7 @@ ZES VRT-GEZICHTEN
 ZETTEL
 ZEUG
 ZEUGEN
+ZEUGEN JEHOVAS
 ZEUGS
 ZEUS
 ZEVENKAMP
@@ -91309,6 +91323,8 @@ ZesVRT-gezichten
 Zettel
 Zeug
 Zeugen
+Zeugen Jehovas
+ZeugenJehovas
 Zeugs
 Zeus
 Zevent
@@ -95755,6 +95771,7 @@ bart de pauw
 bart de wever
 bart eeckhout
 bart laeremans
+bart maddens
 bart peeters
 bart schols
 bart somers
@@ -97546,6 +97563,7 @@ boulevard voltaire
 bouleversant
 bouli lanners
 boulilanners
+bouliv
 boulogne
 boulot
 boulter
@@ -100345,6 +100363,7 @@ coca
 cocab
 cochin
 cochonnedansuntitre
+cochrane
 cocktail
 coco
 coco gauff
@@ -105477,6 +105496,7 @@ fcsmasse
 fcsmcnfc
 fcsmdfco
 fcsmeag
+fcsmfcgb
 fcsmfcn
 fcsmlaval
 fcsmno
@@ -113220,6 +113240,7 @@ jusqu'au
 jusqu'à
 jusquaquand
 jusquau
+jusquauretrait
 juss
 just fontaine
 just jaeckin
@@ -117413,6 +117434,7 @@ lolo white
 lolowhite
 lolquiritsort
 lolquiritsort2
+lolquiritsort3
 lolympienne
 lom
 lomachenko
@@ -138306,6 +138328,7 @@ zesvrt-gezichten
 zettel
 zeug
 zeugen
+zeugen jehovas
 zeugs
 zeus
 zevenkamp
