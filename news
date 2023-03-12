@@ -4511,6 +4511,7 @@ BAYERN
 BAYERN  AJAX
 BAYERN BARCA
 BAYERN BARCELONA
+BAYERN GEGEN AUGSBURG
 BAYERN GEGEN BARCELONA
 BAYERN GEGEN BOCHUM
 BAYERN GEGEN DORTMUND
@@ -5150,6 +5151,7 @@ BOURDIN
 BOURG-EN-BRESSE
 BOURGES
 BOURNEMOUTH – ARSENAL
+BOURNEMOUTH – LIVERPOOL
 BOURNEMOUTH – MANCHESTER CITY
 BOURSE
 BOURSE CAC 40
@@ -5340,6 +5342,7 @@ BRUGGE FC
 BRUGGE MAN CITY
 BRUGGE VOETBAL
 BRUINVIS
+BRUIT
 BRUNEAU
 BRUNEI
 BRUNO 12 COUPS DE MIDI
@@ -5360,6 +5363,7 @@ BRUNO NUYTTEN
 BRUNO PUTZULU
 BRUNO RODRIGUEZ
 BRUNOFERNANDES
+BRUSON
 BRUSSEL
 BRUSSEL BROST
 BRUSSELS
@@ -5857,6 +5861,7 @@ Bayern Munich
 Bayern Munich – PSG
 Bayern München
 Bayern barca
+Bayern gegen Augsburg
 Bayern gegen Barcelona
 Bayern gegen Bochum
 Bayern gegen Dortmund
@@ -5899,6 +5904,7 @@ BayernMunich
 BayernMunich–PSG
 BayernMünchen
 Bayernbarca
+BayerngegenAugsburg
 BayerngegenBarcelona
 BayerngegenBochum
 BayerngegenDortmund
@@ -6869,8 +6875,10 @@ Bourg-en-Bresse
 BourgenBresse
 Bourges
 Bournemouth – Arsenal
+Bournemouth – Liverpool
 Bournemouth – Manchester City
 Bournemouth–Arsenal
+Bournemouth–Liverpool
 Bournemouth–ManchesterCity
 Bourse
 Bourse Direct
@@ -7190,6 +7198,7 @@ BruggeFC
 BruggeManCity
 Bruggevoetbal
 Bruinvis
+Bruit
 Bruneau
 Brunei
 Bruno 12 coups de midi
@@ -7226,6 +7235,7 @@ BrunoMartini
 BrunoNuytten
 BrunoPutzulu
 BrunoRodriguez
+Bruson
 Brussel
 Brussel Brost
 BrusselBrost
@@ -8018,6 +8028,7 @@ CHRISTOPHE BEAUGRAND
 CHRISTOPHE BECHU
 CHRISTOPHE DECHAVANNE
 CHRISTOPHE GALTIER
+CHRISTOPHE GALTIER PSG
 CHRISTOPHE IZARD
 CHRISTOPHE LAMBERT
 CHRISTOPHE LAMBRECHT
@@ -8411,6 +8422,7 @@ COSTA CONCORDIA
 COSTA RICA
 COSTA RICA GEGEN DEUTSCHLAND
 COSTA RICA – ALLEMAGNE
+COSTA TITCH
 COTE D'IVOIRE EGYPTE
 COTE D'IVOIRE FOOT
 COTE LANDAISE
@@ -8558,6 +8570,7 @@ CRYSTAL PALACE – ARSENAL
 CRYSTAL PALACE – CHELSEA
 CRYSTAL PALACE – LIVERPOOL
 CRYSTAL PALACE – MAN CITY
+CRYSTAL PALACE – MANCHESTER CITY
 CRYSTAL PALACE – MANCHESTER UNITED
 CRYSTAL PALACE – TOTTENHAM
 CRYSTAL PALACE – WOLVES
@@ -9679,6 +9692,7 @@ ChristophKramer
 Christophe Beaugrand
 Christophe Dechavanne
 Christophe Galtier
+Christophe Galtier PSG
 Christophe Izard
 Christophe Lambert
 Christophe Lambrecht
@@ -9690,6 +9704,7 @@ Christophe mae
 ChristopheBeaugrand
 ChristopheDechavanne
 ChristopheGaltier
+ChristopheGaltierPSG
 ChristopheIzard
 ChristopheLambert
 ChristopheLambrecht
@@ -10346,10 +10361,12 @@ Costa Concordia
 Costa Rica
 Costa Rica gegen Deutschland
 Costa Rica – Allemagne
+Costa Titch
 CostaConcordia
 CostaRica
 CostaRicagegenDeutschland
 CostaRica–Allemagne
+CostaTitch
 Cote d'Ivoire Egypte
 Cote d'Ivoire Foot
 Cote d'Ivoire foot
@@ -10591,6 +10608,7 @@ Crystal Palace – Arsenal
 Crystal Palace – Chelsea
 Crystal Palace – Liverpool
 Crystal Palace – Man City
+Crystal Palace – Manchester City
 Crystal Palace – Manchester United
 Crystal Palace – Tottenham
 Crystal Palace – Wolves
@@ -10600,6 +10618,7 @@ CrystalPalace–Arsenal
 CrystalPalace–Chelsea
 CrystalPalace–Liverpool
 CrystalPalace–ManCity
+CrystalPalace–ManchesterCity
 CrystalPalace–ManchesterUnited
 CrystalPalace–Tottenham
 CrystalPalace–Wolves
@@ -12667,6 +12686,7 @@ ECLIPSE OCTOBRE 2022
 ECLIPSE SOLAIRE
 ECOPOWER
 ECOSSE
+ECOSSE IRLANDE
 ECUADOR
 ECUADOR - SENEGAL
 ED ASNER
@@ -13383,6 +13403,8 @@ Eclipseoctobre2022
 Eclipsesolaire
 Ecopower
 Ecosse
+Ecosse Irlande
+EcosseIrlande
 Ecuador
 Ecuador  Senegal
 Ecuador - Senegal
@@ -20598,6 +20620,7 @@ Italie argentinie
 Italie foot
 Italie inondations
 Italie macedoine
+Italie pays de Galles
 Italie voetbal
 Italie – Allemagne
 Italie – Angleterre
@@ -20672,6 +20695,7 @@ ItaliengegenDeutschland
 ItaliengegenSpanien
 ItaliengegenUngarn
 ItalienÖsterreich
+ItaliepaysdeGalles
 Italievoetbal
 Italie–Allemagne
 Italie–Angleterre
@@ -25005,6 +25029,7 @@ LORD OF THE LOST
 LORD OF WAR
 LORE BRUGGEMAN
 LOREDANA
+LOREEN
 LORENZ ERNI
 LORENZO BROWN
 LORIE
@@ -26788,6 +26813,7 @@ Lordofwar
 Lore Bruggeman
 LoreBruggeman
 Loredana
+Loreen
 Lorenz Erni
 LorenzErni
 Lorenzo Brown
@@ -28151,6 +28177,7 @@ MENSONGES
 MENSONGES TF1
 MENTISSA
 MER NOIRE
+MERAPI
 MERCATO
 MERCI LES BLEUS
 MERCK
@@ -30328,6 +30355,7 @@ MensongesTF1
 Mentissa
 Mer Noire
 MerNoire
+Merapi
 Mercato
 Merci les Bleus
 MercilesBleus
@@ -33246,13 +33274,16 @@ OSASUNA – BARCELONE
 OSASUNA – REAL
 OSASUNA – REAL MADRID
 OSCAR 2022
+OSCAR 2023
 OSCAR AND THE WOLF
 OSCAR NOMINATIONS 2022
 OSCAR OTTE
 OSCAR PIASTRI
 OSCAR PISTORIUS
+OSCARS
 OSCARS 2022
 OSCARS 2022 GEWINNER
+OSCARS 2023
 OSHER DAVIDA
 OSKAR SALA
 OSLO
@@ -33715,21 +33746,26 @@ Osasuna–Barcelone
 Osasuna–Real
 Osasuna–RealMadrid
 Oscar 2022
+Oscar 2023
 Oscar Otte
 Oscar Piastri
 Oscar Pistorius
 Oscar and the Wolf
 Oscar nominations 2022
 Oscar2022
+Oscar2023
 OscarOtte
 OscarPiastri
 OscarPistorius
 OscarandtheWolf
 Oscarnominations2022
+Oscars
 Oscars 2022
 Oscars 2022 Gewinner
+Oscars 2023
 Oscars2022
 Oscars2022Gewinner
+Oscars2023
 Osher Davida
 OsherDavida
 Oskar Sala
@@ -34723,8 +34759,10 @@ PSG AlNassr
 PSG Angers
 PSG BAYERN
 PSG BILLETTERIE
+PSG BREST
 PSG BRUGES
 PSG Bayern
+PSG Brest
 PSG Bruges
 PSG GEGEN LILLE
 PSG GEGEN METZ
@@ -39083,6 +39121,7 @@ SCHAERBEEK
 SCHAFFHAUSEN LUZERN
 SCHALKE 04
 SCHALKE GEGEN BAYERN
+SCHALKE GEGEN DORTMUND
 SCHALKE GEGEN HOFFENHEIM
 SCHALKE GEGEN VFB STUTTGART
 SCHALKE GEGEN WOLFSBURG
@@ -40642,12 +40681,14 @@ Schaffhausen Luzern
 SchaffhausenLuzern
 Schalke 04
 Schalke gegen Bayern
+Schalke gegen Dortmund
 Schalke gegen Hoffenheim
 Schalke gegen VfB Stuttgart
 Schalke gegen Wolfsburg
 Schalke – Bayern
 Schalke04
 SchalkegegenBayern
+SchalkegegenDortmund
 SchalkegegenHoffenheim
 SchalkegegenVfBStuttgart
 SchalkegegenWolfsburg
@@ -42808,6 +42849,7 @@ TIMEA BACSINSZKY
 TIMO MEIER
 TIMOTHÉE CHALAMET
 TIMUR ÜLKER
+TINA ARENA
 TINA RULAND
 TINA TURNER
 TINA WEIRATHER
@@ -42833,6 +42875,7 @@ TIRAGE EUROPA LEAGUE
 TIRAGE LIGUE DES CHAMPIONS
 TIRRENO-ADRIATICO
 TIRRENO-ADRIATICO 2022
+TIRRENO-ADRIATICO LIVE
 TITANE
 TITANE FILM
 TITANIC
@@ -43927,9 +43970,11 @@ TimothéeChalamet
 Timur Ülker
 TimurÜlker
 TimvanRijthoven
+Tina Arena
 Tina Ruland
 Tina Turner
 Tina Weirather
+TinaArena
 TinaRuland
 TinaTurner
 TinaWeirather
@@ -43982,9 +44027,12 @@ Tirageausortchampionsleague
 Tirageausortldc
 Tirreno-Adriatico
 Tirreno-Adriatico 2022
+Tirreno-Adriatico LIVE
 Tirreno-Adriatico2022
+Tirreno-AdriaticoLIVE
 TirrenoAdriatico
 TirrenoAdriatico 2022
+TirrenoAdriatico LIVE
 Titane
 Titane film
 Titanefilm
@@ -45365,6 +45413,7 @@ VESPA
 VESPER CHRONICLES
 VETLE SJÅSTAD CHRISTIANSEN
 VETTEL
+VEYSONNAZ
 VFB STUTTGART GEGEN BAYERN
 VFB STUTTGART GEGEN DORTMUND
 VFB STUTTGART GEGEN LUZERN
@@ -45866,6 +45915,7 @@ VesperChronicles
 Vetle Sjåstad Christiansen
 VetleSjåstadChristiansen
 Vettel
+Veysonnaz
 VfB Stuttgart gegen Bayern
 VfB Stuttgart gegen Dortmund
 VfB Stuttgart gegen Luzern
@@ -46376,6 +46426,7 @@ WEST-NIL-VIRUS
 WESTBROOK
 WESTERLO
 WESTERLO  GENT
+WESTERLO  KORTRIJK
 WESTERLO  MECHELEN
 WESTERLO  ZULTE-WAREGEM
 WESTERLO - GENK
@@ -46850,6 +46901,7 @@ Westbrook
 Westerlo
 Westerlo  Genk
 Westerlo  Gent
+Westerlo  Kortrijk
 Westerlo  Mechelen
 Westerlo  zulte-waregem
 Westerlo  zultewaregem
@@ -46860,6 +46912,7 @@ Westerlo – Cercle bruges
 Westerlo – Standard
 Westerlo-Genk
 WesterloGent
+WesterloKortrijk
 WesterloMechelen
 WesterloSeraingutd
 Westerlozulte-waregem
@@ -49501,6 +49554,7 @@ bayern
 bayern  ajax
 bayern barca
 bayern barcelona
+bayern gegen augsburg
 bayern gegen barcelona
 bayern gegen bochum
 bayern gegen dortmund
@@ -50108,6 +50162,7 @@ bourdin
 bourg-en-bresse
 bourges
 bournemouth – arsenal
+bournemouth – liverpool
 bournemouth – manchester city
 bourse
 bourse cac 40
@@ -50294,6 +50349,7 @@ brugge fc
 brugge man city
 brugge voetbal
 bruinvis
+bruit
 bruneau
 brunei
 bruno 12 coups de midi
@@ -50314,6 +50370,7 @@ bruno nuytten
 bruno putzulu
 bruno rodriguez
 brunofernandes
+bruson
 brussel
 brussel brost
 brussels
@@ -51044,6 +51101,7 @@ christophe beaugrand
 christophe bechu
 christophe dechavanne
 christophe galtier
+christophe galtier psg
 christophe izard
 christophe lambert
 christophe lambrecht
@@ -51425,6 +51483,7 @@ costa concordia
 costa rica
 costa rica gegen deutschland
 costa rica – allemagne
+costa titch
 cote d'ivoire egypte
 cote d'ivoire foot
 cote landaise
@@ -51575,6 +51634,7 @@ crystal palace – arsenal
 crystal palace – chelsea
 crystal palace – liverpool
 crystal palace – man city
+crystal palace – manchester city
 crystal palace – manchester united
 crystal palace – tottenham
 crystal palace – wolves
@@ -52336,6 +52396,7 @@ eclipse octobre 2022
 eclipse solaire
 ecopower
 ecosse
+ecosse irlande
 ecuador
 ecuador - senegal
 ed asner
@@ -57334,6 +57395,7 @@ lord of the lost
 lord of war
 lore bruggeman
 loredana
+loreen
 lorenz erni
 lorenzo brown
 lorie
@@ -58482,6 +58544,7 @@ mensonges
 mensonges tf1
 mentissa
 mer noire
+merapi
 mercato
 merci les bleus
 merck
@@ -59899,13 +59962,16 @@ osasuna – barcelone
 osasuna – real
 osasuna – real madrid
 oscar 2022
+oscar 2023
 oscar and the wolf
 oscar nominations 2022
 oscar otte
 oscar piastri
 oscar pistorius
+oscars
 oscars 2022
 oscars 2022 gewinner
+oscars 2023
 osher davida
 oskar sala
 oslo
@@ -60836,6 +60902,7 @@ psg al-nassr
 psg angers
 psg bayern
 psg billetterie
+psg brest
 psg bruges
 psg gegen lille
 psg gegen metz
@@ -62007,6 +62074,7 @@ schaerbeek
 schaffhausen luzern
 schalke 04
 schalke gegen bayern
+schalke gegen dortmund
 schalke gegen hoffenheim
 schalke gegen vfb stuttgart
 schalke gegen wolfsburg
@@ -63465,6 +63533,7 @@ timea bacsinszky
 timo meier
 timothée chalamet
 timur ülker
+tina arena
 tina ruland
 tina turner
 tina weirather
@@ -63490,6 +63559,7 @@ tirage europa league
 tirage ligue des champions
 tirreno-adriatico
 tirreno-adriatico 2022
+tirreno-adriatico live
 titane
 titane film
 titanic
@@ -64248,6 +64318,7 @@ vespa
 vesper chronicles
 vetle sjåstad christiansen
 vettel
+veysonnaz
 vfb stuttgart gegen bayern
 vfb stuttgart gegen dortmund
 vfb stuttgart gegen luzern
@@ -64600,6 +64671,7 @@ west-nil-virus
 westbrook
 westerlo
 westerlo  gent
+westerlo  kortrijk
 westerlo  mechelen
 westerlo  zulte-waregem
 westerlo - genk
