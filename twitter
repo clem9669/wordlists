@@ -8060,6 +8060,7 @@ BAC NORD
 BAC Nord
 BAC S
 BAC2022
+BAC2023
 BACCALAUREAT
 BACCALAUREAT2022
 BACCHA
@@ -11038,6 +11039,7 @@ Bac L
 Bac Nord
 Bac S
 Bac2022
+Bac2023
 BacL
 BacNord
 BacS
@@ -31862,6 +31864,8 @@ GPSAMYN
 GPSVENNYS
 GPSamyn
 GPSvenNys
+GPT-4
+GPT4
 GPTURQUIE
 GPTurquie
 GPUSA
@@ -39825,6 +39829,7 @@ JIMINOSTISCOMING
 JIMINOSTisComing
 JIMINS
 JIMIN_FACE
+JIMIN_FACE_IS_COMING
 JIMIYKE
 JIMMY BRIAND
 JIMMY BUCKET
@@ -41821,6 +41826,7 @@ JiminBestIdol2021
 JiminDay2021
 JiminOSTIsComing
 Jimin_FACE
+Jimin_FACE_Is_Coming
 Jiminie
 Jimmy Briand
 Jimmy Bucket
@@ -64236,6 +64242,7 @@ PARISNICE2022
 PARISNICE2023
 PARISNORD
 PARISPEACEFORUM2021
+PARISPOUBELLE
 PARISPREMIERE
 PARISRESPIRE
 PARISRETAILWEEK
@@ -66752,6 +66759,7 @@ Parise
 Parisien
 ParisienOuRien
 Parisiens
+Parispoubelle
 Parisse
 ParissousTutelle
 Parität
@@ -95642,6 +95650,7 @@ bac l
 bac nord
 bac s
 bac2022
+bac2023
 baccalaureat
 baccalaureat2022
 baccha
@@ -108587,6 +108596,7 @@ gpmonza
 gpmorbihan
 gpsamyn
 gpsvennys
+gpt-4
 gpturquie
 gpusa
 gpw21
@@ -112633,6 +112643,7 @@ jimin is coming
 jimin jimin
 jimin live
 jimin_face
+jimin_face_is_coming
 jiminbestidol2021
 jiminbirthday
 jiminday
@@ -124727,6 +124738,7 @@ parisnice2022
 parisnice2023
 parisnord
 parispeaceforum2021
+parispoubelle
 parispremiere
 parisrespire
 parisretailweek
