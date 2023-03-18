@@ -1299,6 +1299,7 @@ $usdc
 3GP
 3H00
 3H10
+3H15
 3H24
 3H25
 3JISBACK
@@ -1346,6 +1347,7 @@ $usdc
 3français
 3h00
 3h10
+3h15
 3h24
 3h25
 3jisback
@@ -2040,6 +2042,8 @@ ABKÜHLUNG
 ABLEHNUNG
 ABLENKUNG
 ABLINE
+ABNEGATION
+ABNÉGATION
 ABOLISHTHEMONARCHY
 ABOLISSONSLARMEE
 ABOLISSONSLARMÉE
@@ -5239,6 +5243,7 @@ Abkühlung
 Ablehnung
 Ablenkung
 Abline
+Abnégation
 AbolishTheMonarchy
 AbolissonsLArmee
 AbolissonsLArmée
@@ -16080,6 +16085,7 @@ COMMONAGRICULTURALPOLICY
 COMMONWEALTH
 COMMUNAUTE
 COMMUNAUTÉ
+COMMUNE DE PARIS
 COMMUNICATION
 COMMUNIQUE
 COMMUNIQUÉ
@@ -18764,6 +18770,8 @@ Common Agricultural Policy
 CommonAgriculturalPolicy
 Commonwealth
 Communauté
+Commune de Paris
+CommunedeParis
 Communication
 Communiqué
 Communisme
@@ -54638,6 +54646,8 @@ MICHEL CLAISE
 MICHEL CONSTANTIN
 MICHEL CYMES
 MICHEL DE HERDE
+MICHEL DEBRE
+MICHEL DEBRÉ
 MICHEL DELEBARRE
 MICHEL DER ZAKARIAN
 MICHEL DEVILLE
@@ -58311,6 +58321,7 @@ Michel Claise
 Michel Constantin
 Michel Cymes
 Michel De Herde
+Michel Debré
 Michel Delebarre
 Michel Der Zakarian
 Michel Deville
@@ -58345,6 +58356,7 @@ MichelClaise
 MichelConstantin
 MichelCymes
 MichelDeHerde
+MichelDebré
 MichelDelebarre
 MichelDerZakarian
 MichelDeville
@@ -92785,6 +92797,7 @@ abkühlung
 ablehnung
 ablenkung
 abline
+abnégation
 abolishthemonarchy
 abolissonslarmee
 abolissonslarmée
@@ -101089,6 +101102,7 @@ common agricultural policy
 commonagriculturalpolicy
 commonwealth
 communauté
+commune de paris
 communication
 communiqué
 communisme
@@ -121050,6 +121064,7 @@ michel claise
 michel constantin
 michel cymes
 michel de herde
+michel debré
 michel delebarre
 michel der zakarian
 michel deville
