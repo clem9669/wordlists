@@ -1956,6 +1956,8 @@ A 12
 A 12H
 A 12h
 A 13
+A 13H
+A 13h
 A 17H
 A 17h
 A NICE
@@ -1968,6 +1970,7 @@ A-Train
 A-attest
 A11YPARIS
 A12
+A13h
 A220
 A522
 AA GENT
@@ -92986,6 +92989,7 @@ Zürich
 \ÜBERSTERBLICHKEIT\
 \Übersterblichkeit\
 \übersterblichkeit\
+a 13h
 a'pen
 a-attest
 a-train
