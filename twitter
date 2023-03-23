@@ -9720,6 +9720,7 @@ BLITZER
 BLIXT
 BLIZZARD
 BLOC
+BLOCAGE
 BLOCAGE7MARS
 BLOCAGEDELAFRANCE
 BLOCAGETOTAL
@@ -15824,6 +15825,7 @@ CLEOPATRE DARLEUX
 CLEOPATREDARLEUX
 CLEOPÂTRE
 CLERMONT
+CLERMONTFERRAND
 CLESSE
 CLESSÉ
 CLEVELAND
@@ -15938,6 +15940,7 @@ CMA-CGM
 CMACGM
 CMEC
 CMGF2022
+CMGF2023
 CMGRENOBLE
 CMGrenoble
 CMPUNK
@@ -18574,6 +18577,7 @@ Cleopatre
 Cleopatre Darleux
 CleopatreDarleux
 Clermont
+ClermontFerrand
 Clessé
 Cleveland
 Clichy
@@ -73739,6 +73743,7 @@ SALON
 SALONAMIF
 SALONDELAGRICULTURE
 SALONDESMAIRES
+SALT
 SALT BAE
 SALTO
 SALTY
@@ -77628,6 +77633,7 @@ Salon
 SalonAMIF
 SalonDesMaires
 Salondelagriculture
+Salt
 Salt Bae
 SaltBae
 Salto
@@ -98135,6 +98141,7 @@ blitzer
 blixt
 blizzard
 bloc
+blocage
 blocage7mars
 blocagedelafrance
 blocagetotal
@@ -101324,6 +101331,7 @@ cleopatre
 cleopatre darleux
 cleopatredarleux
 clermont
+clermontferrand
 clessé
 cleveland
 clichy
@@ -101452,6 +101460,7 @@ cma-cgm
 cmacgm
 cmec
 cmgf2022
+cmgf2023
 cmgrenoble
 cmpunk
 cmralg
@@ -130452,6 +130461,7 @@ salon
 salonamif
 salondelagriculture
 salondesmaires
+salt
 salt bae
 salto
 salty
