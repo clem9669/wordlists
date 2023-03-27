@@ -20462,6 +20462,8 @@ DELETEFACEBOOK
 DELFRAISSY
 DELGA
 DELHAIZE
+DELHAIZE BELGIE
+DELHAIZE BELGIË
 DELI
 DELIA
 DELIE
@@ -87004,6 +87006,7 @@ VAN GUCHT
 VAN HALEN
 VAN HOOYDONCK
 VAN IMPE
+VAN KOOTEN
 VAN LANGENHOVE
 VAN NECK
 VAN PEEL
@@ -88169,6 +88172,7 @@ Van Gucht
 Van Halen
 Van Hooydonck
 Van Impe
+Van Kooten
 Van Langenhove
 Van Neck
 Van Peel
@@ -88226,6 +88230,7 @@ VanHalen
 VanHamel
 VanHooydonck
 VanImpe
+VanKooten
 VanLangenhove
 VanNeck
 VanPeel
@@ -103653,6 +103658,9 @@ deletefacebook
 delfraissy
 delga
 delhaize
+delhaize belgie
+delhaize belgië
+delhaizebelgië
 deli
 delia
 delie
@@ -137743,6 +137751,7 @@ van gucht
 van halen
 van hooydonck
 van impe
+van kooten
 van langenhove
 van neck
 van peel
