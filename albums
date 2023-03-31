@@ -1130,6 +1130,7 @@ ANDOR MAIN THEME
 ANGEL
 ANGEL BABY
 ANGEL BABY ACOUSTIC
+ANGEL OF FORTUNE AND CRIME
 ANGELIC ROSE & BRANCH
 ANGELS 
 ANGELS LANDING
@@ -1492,10 +1493,12 @@ AndorMainTheme
 Angel
 Angel Baby
 Angel Baby Acoustic
+Angel of Fortune and Crime
 AngelBaby
 AngelBabyAcoustic
 Angelic Rose & Branch
 AngelicRose&Branch
+AngelofFortuneandCrime
 Angels
 Angels 
 Angels Landing
@@ -1945,6 +1948,7 @@ BROADWAY GIRLS
 BROKEN
 BROKEN HEARTS CLUB
 BROKEN MEMORIES
+BROKENBOYS&BITTERBITCHES
 BROWN EYES BABY
 BRUXELLES JE T'AIME
 BUBBLE TEA
@@ -3576,6 +3580,7 @@ DOCTOR LAWYER
 DOCTORLAWYER
 DOE MIJ MAAR EEN WIJNTJE
 DOESN'T MATTER
+DOGTOOTH
 DOJA
 DOLLS
 DOLLS EP
@@ -6802,6 +6807,7 @@ IT'S GOING DOWN
 IT'S GONNA BE OKAY
 IT'S HAPPENING NOW
 IT'S NOT SO BAD
+IT'S OK
 IT'S ONLY ME
 IT'S PERSONAL
 IT'S PERSONAL THE ALBUM
@@ -7010,6 +7016,7 @@ It's Going Down
 It's Gonna Be Okay
 It's Happening Now
 It's Not So Bad
+It's OK
 It's Only Me
 It's Personal
 It's Personal The Album
@@ -7022,6 +7029,7 @@ It'sGoingDown
 It'sGonnaBeOkay
 It'sHappeningNow
 It'sNotSoBad
+It'sOK
 It'sOnlyMe
 It'sPersonal
 It'sPersonalTheAlbum
@@ -7041,6 +7049,7 @@ Its Going Down
 Its Gonna Be Okay
 Its Happening Now
 Its Not So Bad
+Its OK
 Its Only Me
 Its Personal
 Its Personal The Album
@@ -9874,6 +9883,7 @@ PAPEL
 PAPER AIRPLANES - FROM THE NETFLIX FILM A JAZZMAN'S BLUES
 PAPER CROWN
 PAPER PLANE
+PARA DANZAR DE A DOS
 PARACHUTES
 PARADA LOUCA
 PARADISE
@@ -10070,6 +10080,7 @@ PUPPET
 PURPLE HEARTS 
 PURPLE HEARTS - ORIGINAL SOUNDTRACK
 PUSS IN BOOTS: THE LAST WISH 
+PYJAMAS FEAT. REMI WOLF
 Pa Mis Muchachas
 PaMisMuchachas
 Pablo
@@ -10097,9 +10108,11 @@ Paper Plane
 PaperAirplanes-fromtheNetflixFilmAJazzman'sBlues
 PaperCrown
 PaperPlane
+Para danzar de a dos
 Parachutes
 Parada Louca
 ParadaLouca
+Paradanzardeados
 Paradise
 Paradise Again
 Paradise In My Head
@@ -10399,6 +10412,8 @@ PurpleHearts
 PurpleHearts-OriginalSoundtrack
 Puss in Boots: The Last Wish 
 PussinBoots:TheLastWish
+Pyjamas feat. Remi Wolf
+Pyjamasfeat.RemiWolf
 QUALITY CONSCIENCE DOING THE RIGHT THING
 QUANDO QUANDO
 QUARTIERS NORD
@@ -11031,6 +11046,7 @@ SHE'S ALL I WANNA BE
 SHE'S NOT A GIRL
 SHE'S NOT YOU
 SHELL
+SHELTER
 SHELUVME
 SHIKO
 SHINE A LIGHT
@@ -11685,6 +11701,7 @@ She'sNotYou
 SheHadMeAtHeadsCarolina-Acoustic
 SheSaid…
 Shell
+Shelter
 Shes Not A Girl
 Shes Not You
 Shiko
@@ -12470,6 +12487,7 @@ THE OUTSIDER EP
 THE PEOPLE'S CHAMP
 THE PIANO MAN
 THE PINK ALBUM
+THE PLATTERS
 THE POWER OF THE CROSS
 THE PROBLEM SONG
 THE RACE
@@ -12958,6 +12976,7 @@ The People's Champ
 The Peoples Champ
 The Piano Man
 The Pink Album
+The Platters
 The Power of the Cross
 The Problem Song
 The Race
@@ -13094,6 +13113,7 @@ TheOutsiderEP
 ThePeople'sChamp
 ThePianoMan
 ThePinkAlbum
+ThePlatters
 ThePoweroftheCross
 TheProblemSong
 TheRace
@@ -13271,10 +13291,12 @@ To All The Boys I’ve Loved Before
 To Be Alive
 To My Beat
 To My Ex
+To be honest
 ToAllTheBoysI’veLovedBefore
 ToBeAlive
 ToMyBeat
 ToMyEx
+Tobehonest
 Together Again 兔给的
 TogetherAgain兔给的
 Toko Toko
@@ -13674,6 +13696,7 @@ VISTA AL MAR
 VIVA LAS VENGEANCE
 VIVANTE
 VOICES 
+VOID
 VOL. 1
 VOL. 1 LIVE
 VOL. 1-4
@@ -14903,6 +14926,7 @@ andor main theme
 angel
 angel baby
 angel baby acoustic
+angel of fortune and crime
 angelic rose & branch
 angels 
 angels landing
@@ -15286,6 +15310,7 @@ broadway girls
 broken
 broken hearts club
 broken memories
+brokenboys&bitterbitches
 brown eyes baby
 bruxelles je t'aime
 bubble tea
@@ -15872,6 +15897,7 @@ docteur
 doctor lawyer
 doe mij maar een wijntje
 doesn't matter
+dogtooth
 doitall
 doja
 dolls
@@ -17550,6 +17576,7 @@ it's going down
 it's gonna be okay
 it's happening now
 it's not so bad
+it's ok
 it's only me
 it's personal
 it's personal the album
@@ -18660,6 +18687,7 @@ papel
 paper airplanes - from the netflix film a jazzman's blues
 paper crown
 paper plane
+para danzar de a dos
 parachutes
 parada louca
 paradise
@@ -18855,6 +18883,7 @@ puppet
 purple hearts 
 purple hearts - original soundtrack
 puss in boots: the last wish 
+pyjamas feat. remi wolf
 quality conscience doing the right thing
 quando quando
 quartiers nord
@@ -19184,6 +19213,7 @@ she's not a girl
 she's not you
 she'salliwannabe
 shell
+shelter
 sheluvme
 shes all i wanna be
 shiko
@@ -19797,6 +19827,7 @@ the outsider ep
 the people's champ
 the piano man
 the pink album
+the platters
 the power of the cross
 the problem song
 the race
@@ -20172,6 +20203,7 @@ vista al mar
 viva las vengeance
 vivante
 voices 
+void
 vol. 1
 vol. 1 live
 vol. 1-4
