@@ -322,12 +322,14 @@
 37 2 LE MATIN
 37 2 le matin
 372lematin
+3CX
 3M ZWIJNDRECHT
 3M Zwijndrecht
 3MMC
 3MZwijndrecht
 3X3 ANTWERPEN
 3X3 BASKET
+3cx
 3m zwijndrecht
 3x3 Antwerpen
 3x3 antwerpen
@@ -556,6 +558,7 @@ ACCIDENT DE CHASSE
 ACCIDENT DE LA ROUTE
 ACCIDENT E42
 ACCIDENT FERROVIAIRE EN GRÈCE
+ACCIDENT FLEMALLE
 ACCIDENT JURA
 ACCIDENT LAUSANNE
 ACCIDENT MARC-PHILIPPE DAUBRESSE
@@ -566,6 +569,7 @@ ACHTELFINALE EM 2021
 ACHTELFINALE WM 2022
 ACHTELFINALEEM2021
 ACID
+ACIDE HYALURONIQUE
 ACIDE LACTIQUE
 ACMilan
 ACMilan–Atalanta
@@ -1833,6 +1837,7 @@ AUSTRALIE FRANCE
 AUSTRALIE PEROU
 AUSTRALIE – DANEMARK
 AUSTRIA
+AUTISMUS
 AUTO UNFALL AXENSTRASSE
 AUTOFÄHRE SCHWEDEN BRAND
 AUTOLOZE ZONDAG 2021
@@ -2052,6 +2057,7 @@ Accident centre équestre
 Accident de chasse
 Accident de la route
 Accident ferroviaire en Grèce
+Accident flemalle
 Accident trottinette Lyon
 AccidentA13gendarmetué
 AccidentA16
@@ -2071,6 +2077,7 @@ Accidentcentreéquestre
 Accidentdechasse
 Accidentdelaroute
 AccidentferroviaireenGrèce
+Accidentflemalle
 Accidents au Sénégal
 AccidentsauSénégal
 AccidenttrottinetteLyon
@@ -2081,7 +2088,9 @@ Achtelfinale WM 2022
 AchtelfinaleEM2021
 AchtelfinaleWM2022
 Acid
+Acide hyaluronique
 Acide lactique
+Acidehyaluronique
 Acidelactique
 Acompte
 Acouteauxtirés
@@ -4210,6 +4219,7 @@ AustralieFrance
 Australieperou
 Australie–Danemark
 Austria
+Autismus
 Auto Unfall Axenstrasse
 AutoUnfallAxenstrasse
 Autofähre Schweden Brand
@@ -4834,6 +4844,7 @@ BENOIT PAIRE
 BENOIT POELVOORDE
 BENOIT16
 BENOITPAIRE
+BENOÎT POELVOORDE
 BENSON
 BENTEKE
 BENZEMA
@@ -5016,6 +5027,7 @@ BIÉLORUSSIE
 BIÉLORUSSIE – SUISSE
 BJORK
 BJORN MEIJER
+BJORN SOENENS
 BJÖRN ANDRESEN
 BJÖRN ULVAEUS
 BK TIJDRIJDEN 2022
@@ -5389,6 +5401,7 @@ BRIAN
 BRIAN AUSTIN GREEN
 BRIAN LAUNDRIE
 BRIAN MAY
+BRIAN WILSON
 BRICE LOUGE
 BRICE LOUGE DISPARITION
 BRICE SAMBA
@@ -6359,6 +6372,8 @@ BenoitMagimel
 BenoitPaire
 BenoitPoelvoorde
 Benoitpaire
+Benoît Poelvoorde
+BenoîtPoelvoorde
 Benson
 Benteke
 Benzema
@@ -6647,7 +6662,9 @@ Biélorussie – Suisse
 Biélorussie–Suisse
 Bjork
 Bjorn Meijer
+Bjorn Soenens
 BjornMeijer
+BjornSoenens
 Björn Ulvaeus
 Björn andresen
 BjörnUlvaeus
@@ -7221,9 +7238,11 @@ Brian
 Brian Austin Green
 Brian Laundrie
 Brian May
+Brian Wilson
 BrianAustinGreen
 BrianLaundrie
 BrianMay
+BrianWilson
 Brice Louge
 Brice Louge disparition
 Brice Samba
@@ -8007,6 +8026,7 @@ CHELSEA
 CHELSEA  LEEDS
 CHELSEA  MAN UTD
 CHELSEA  MILAN
+CHELSEA - LYON
 CHELSEA GEGEN ARSENAL
 CHELSEA GEGEN ASTON VILLA
 CHELSEA GEGEN DORTMUND
@@ -9563,8 +9583,10 @@ Cheick Kongo
 CheickKongo
 Chelsea
 Chelsea  Leeds
+Chelsea  Lyon
 Chelsea  Man utd
 Chelsea  Milan
+Chelsea - Lyon
 Chelsea Lille
 Chelsea Manning
 Chelsea Sodaro
@@ -9608,6 +9630,7 @@ Chelsea – Villarreal
 Chelsea – West Ham
 Chelsea – Wolves
 Chelsea-Lille
+Chelsea-Lyon
 Chelsea-Real Madrid
 Chelsea-RealMadrid
 ChelseaLeeds
@@ -11227,6 +11250,7 @@ DERBY COUNTY – WEST HAM
 DEREK CHAUVIN
 DEREKCHAUVIN
 DERNIER SONDAGE PRÉSIDENTIELLE 2022
+DERNIER TRAIN POUR BUSAN
 DES CHIFFRES ET DES LETTRES
 DESCENTE CRANS-MONTANA
 DESCENTE HOMME PEKIN
@@ -12210,7 +12234,9 @@ DerekChauvin
 DerkleineLord
 DerkleineNick
 Dernier sondage Présidentielle 2022
+Dernier train pour Busan
 DerniersondagePrésidentielle2022
+DerniertrainpourBusan
 Des chiffres et des lettres
 Descente Crans-Montana
 Descente CransMontana
@@ -12989,7 +13015,9 @@ EGYPTE FOOT
 EGYPTE SENEGAL
 EGYPTE VS SENEGAL
 EHC BASEL
+EHC BIEL
 EHC Basel
+EHC Biel
 EHC CHUR
 EHC Chur
 EHC KLOTEN
@@ -12997,6 +13025,7 @@ EHC Kloten
 EHC OLTEN
 EHC Olten
 EHCBasel
+EHCBiel
 EHCChur
 EHCKloten
 EHCOlten
@@ -13272,6 +13301,7 @@ ENDEMIE
 ENDLESS SUMMER VACATION
 ENDO ANACONDA
 ENDOMETRIOSE
+ENDOMETRIOSE WAS IST DAS
 ENDOMÉTRIOSE
 ENDRICK
 ENDURANCE
@@ -13601,6 +13631,7 @@ EVA LONGORIA
 EVA LYS
 EVA MENDES
 EVA-JANE
+EVAN GERSHKOVICH
 EVAN RACHEL WOOD
 EVANDER KANE
 EVE ANGELI
@@ -14167,6 +14198,8 @@ EndlessSummerVacation
 Endo Anaconda
 EndoAnaconda
 Endometriose
+Endometriose was ist das
+Endometriosewasistdas
 Endométriose
 Endrick
 Endurance
@@ -14676,7 +14709,9 @@ EvaKailiParlementeuropéen
 EvaLongoria
 EvaLys
 EvaMendes
+Evan Gershkovich
 Evan Rachel Wood
+EvanGershkovich
 EvanRachelWood
 Evander Kane
 EvanderKane
@@ -15418,6 +15453,7 @@ FOD ECONOMIE
 FOD Economie
 FODEconomie
 FOIRE AGRICOLE BATTICE
+FOIRE DU LIVRE
 FOIRE DU TRONE
 FOIX
 FOMO FILM
@@ -16345,8 +16381,10 @@ Flüge
 Fnac Black Friday
 FnacBlackFriday
 Foire agricole battice
+Foire du Livre
 Foire du trone
 Foireagricolebattice
+FoireduLivre
 Foiredutrone
 Foix
 Fomo film
@@ -17322,6 +17360,7 @@ GERHARD SCHRÖDER
 GERMANY'S NEXT TOPMODEL
 GERMANY'S NEXT TOPMODEL 2022
 GERMANY'S NEXT TOPMODEL HEIDI KLUM
+GERMANYS NEXT TOPMODEL
 GERMANYS NEXT TOPMODEL HEIDI KLUM
 GERMINAL
 GERRY HOFSTETTER
@@ -17710,6 +17749,7 @@ GUCCI
 GUENDOUZI
 GUERRE EN UKRAINE RUSSIE
 GUERRE FROIDE
+GUERRE RUSSIE UKRAINE
 GUERRE RUSSIE UKRAINE CENTRALE NUCLÉAIRE
 GUERRE RUSSIE UKRAINE KIEV
 GUERRE RUSSIE UKRAINE KIEV DIRECT
@@ -18188,7 +18228,9 @@ Germany's Next Topmodel Heidi Klum
 Germany'sNextTopmodel
 Germany'sNextTopmodel2022
 Germany'sNextTopmodelHeidiKlum
+Germanys next topmodel
 Germanys next topmodel Heidi Klum
+Germanysnexttopmodel
 GermanysnexttopmodelHeidiKlum
 Germinal
 Gerry Hofstetter
@@ -18777,6 +18819,7 @@ GuanyuZhou
 Gubristtunnel
 Gucci
 Guendouzi
+Guerre Russie Ukraine
 Guerre Russie Ukraine Kiev
 Guerre Russie Ukraine Kiev direct
 Guerre Russie Ukraine centrale nucléaire
@@ -18791,6 +18834,7 @@ Guerre en Ukraine russie
 Guerre froide
 Guerre ukraine Russie Vladimir Poutine
 Guerre ukraine armée russe
+GuerreRussieUkraine
 GuerreRussieUkraineKiev
 GuerreRussieUkraineKievdirect
 GuerreRussieUkrainecentralenucléaire
@@ -19097,6 +19141,7 @@ HC LUGANO
 HC Lugano
 HC THURGAU
 HC Thurgau
+HCC
 HCD
 HCDavos
 HCLugano
@@ -20105,6 +20150,7 @@ IMPFUNG
 IMPFWOCHE
 IMPFWOCHE SCHWEIZ
 IMPFZENTRUM
+IMPLENIA
 IMPOTS
 IMPOTS 2022
 IMPOTS2022
@@ -20595,6 +20641,7 @@ Impfwoche
 Impfwoche Schweiz
 ImpfwocheSchweiz
 Impfzentrum
+Implenia
 Impots
 Imran Khan
 ImranKhan
@@ -21580,6 +21627,7 @@ JOHAN CLAREY
 JOHAN DERKSEN
 JOHAN DRIESEN
 JOHAN HAMEL
+JOHAN LEYSEN
 JOHAN MUSEEUW
 JOHAN VAN DER HEYDEN
 JOHANNA FARBER
@@ -22731,6 +22779,7 @@ Johan Clarey
 Johan Derksen
 Johan Driesen
 Johan Hamel
+Johan Leysen
 Johan Museeuw
 Johan van der Heyden
 JohanBakayoko
@@ -22738,6 +22787,7 @@ JohanClarey
 JohanDerksen
 JohanDriesen
 JohanHamel
+JohanLeysen
 JohanMuseeuw
 Johanna Färber
 Johanna farber
@@ -28551,6 +28601,7 @@ MATTHIEU BAILET
 MATTHIEU BELLIARD
 MATTHIEU CHEDID
 MATTHIEU DELORMEAU
+MATTHIEU DELORMEAU TPMP
 MATTHIEU ORPHELIN
 MATTHIEUBELLIARD
 MATTHIJS DE LIGT
@@ -30693,11 +30744,13 @@ Matthieu Bailet
 Matthieu Belliard
 Matthieu Chedid
 Matthieu Delormeau
+Matthieu Delormeau TPMP
 Matthieu Orphelin
 MatthieuBailet
 MatthieuBelliard
 MatthieuChedid
 MatthieuDelormeau
+MatthieuDelormeauTPMP
 MatthieuOrphelin
 Matthijs de Ligt
 Matthijs van Nieuwkerk
@@ -35767,12 +35820,14 @@ ParcdesPrinces
 Parcour Dwars door Vlaanderen 2022
 ParcourDwarsdoorVlaanderen2022
 Parcours Ronde van Vlaanderen
+Parcours Ronde van vlaanderen
 Parcours Tour de France 2021
 Parcours WK Leuven
 Parcours WK Wielrennen
 Parcours gent wevelgem
 Parcours manifestation Paris 7 mars 2023
 ParcoursRondevanVlaanderen
+ParcoursRondevanvlaanderen
 ParcoursTourdeFrance2021
 ParcoursWKLeuven
 ParcoursWKWielrennen
@@ -40175,6 +40230,7 @@ SERGE LAMA
 SERGE REGGIANI
 SERGEY BRIN
 SERGIO ERMOTTI
+SERGIO ERMOTTI UBS
 SERGIO GOMEZ
 SERGIO HERMAN
 SERGIO MATTARELLA
@@ -40386,6 +40442,7 @@ SLALOM HERREN
 SLALOM MÄNNER OLYMPIA
 SLALOM WENGEN
 SLAPENDE REKENINGEN
+SLEEPERS
 SLEEPWORLD
 SLIMANE
 SLIMSTE MENS
@@ -40505,6 +40562,7 @@ SOPHIA THOMALLA
 SOPHIA THOMALLA KRANKHEIT
 SOPHIA URISTA
 SOPHIE ADENOT
+SOPHIE BINET CGT
 SOPHIE CROSS
 SOPHIE DAVANT
 SOPHIE DE CLOSETS
@@ -41864,11 +41922,13 @@ SergeReggiani
 Sergey Brin
 SergeyBrin
 Sergio Ermotti
+Sergio Ermotti UBS
 Sergio Gomez
 Sergio Herman
 Sergio Mattarella
 Sergio Ramos
 SergioErmotti
+SergioErmottiUBS
 SergioGomez
 SergioHerman
 SergioMattarella
@@ -42224,6 +42284,7 @@ SlalomMännerOlympia
 SlalomWengen
 Slapende rekeningen
 Slapenderekeningen
+Sleepers
 Sleepworld
 Slimane
 Slimste mens
@@ -42394,6 +42455,7 @@ SophiaThomalla
 SophiaThomallaKrankheit
 SophiaUrista
 Sophie Adenot
+Sophie Binet CGT
 Sophie Cross
 Sophie Davant
 Sophie Marceau
@@ -42405,6 +42467,7 @@ Sophie marceau
 Sophie petronin
 Sophie wilmes
 SophieAdenot
+SophieBinetCGT
 SophieCross
 SophieDavant
 SophieMarceau
@@ -43488,6 +43551,7 @@ TEMPETE DIEGO
 TEMPETE ETATS-UNIS
 TEMPETE EUNICE
 TEMPETE FRANKLIN
+TEMPETE MATHIS
 TEMPETE OURAGAN DANIELLE
 TEMPETE SOLAIRE JUILLET 2022
 TEMPS DE CHIEN
@@ -43572,6 +43636,7 @@ THE DUCHESS
 THE FABELMANS
 THE FOREIGNER
 THE FRENCH DISPATCH
+THE GENTLEMEN
 THE GHOST WRITER
 THE GIANTS GENEVA
 THE GLORY
@@ -44392,6 +44457,7 @@ Tempete Etats-Unis
 Tempete EtatsUnis
 Tempete Eunice
 Tempete Franklin
+Tempete Mathis
 Tempete ouragan Danielle
 Tempete solaire juillet 2022
 TempeteBelgique
@@ -44400,6 +44466,7 @@ TempeteDiego
 TempeteEtats-Unis
 TempeteEunice
 TempeteFranklin
+TempeteMathis
 TempeteouraganDanielle
 Tempetesolairejuillet2022
 Temps de chien
@@ -44504,6 +44571,7 @@ The Duchess
 The Fabelmans
 The Foreigner
 The French Dispatch
+The Gentlemen
 The Ghost Writer
 The Giants Geneva
 The Glory
@@ -44614,6 +44682,7 @@ TheDuchess
 TheFabelmans
 TheForeigner
 TheFrenchDispatch
+TheGentlemen
 TheGhostWriter
 TheGiantsGeneva
 TheGlory
@@ -45124,8 +45193,10 @@ TonyVairelles
 TonyYoka
 Too Good To Go
 Too Good to Go
+Too good to go
 TooGoodToGo
 TooGoodtoGo
+Toogoodtogo
 Tool
 Toon Aerts
 ToonAerts
@@ -49075,6 +49146,7 @@ accident de chasse
 accident de la route
 accident e42
 accident ferroviaire en grèce
+accident flemalle
 accident jura
 accident lausanne
 accident marc-philippe daubresse
@@ -49085,6 +49157,7 @@ achtelfinale em 2021
 achtelfinale wm 2022
 achtelfinaleem2021
 acid
+acide hyaluronique
 acide lactique
 acompte
 acteur jean-claude pautot
@@ -50287,6 +50360,7 @@ australie france
 australie perou
 australie – danemark
 austria
+autismus
 auto unfall axenstrasse
 autofähre schweden brand
 autoloze zondag 2021
@@ -50829,6 +50903,7 @@ benoit magimel
 benoit paire
 benoit poelvoorde
 benoitpaire
+benoît poelvoorde
 benson
 benteke
 benzema
@@ -51006,6 +51081,7 @@ biélorussie
 biélorussie – suisse
 bjork
 bjorn meijer
+bjorn soenens
 björn andresen
 björn ulvaeus
 bk tijdrijden 2022
@@ -51355,6 +51431,7 @@ brian
 brian austin green
 brian laundrie
 brian may
+brian wilson
 brice louge
 brice louge disparition
 brice samba
@@ -52011,6 +52088,7 @@ chelsea
 chelsea  leeds
 chelsea  man utd
 chelsea  milan
+chelsea - lyon
 chelsea gegen arsenal
 chelsea gegen aston villa
 chelsea gegen dortmund
@@ -53085,6 +53163,7 @@ derby county – west ham
 derek chauvin
 derekchauvin
 dernier sondage présidentielle 2022
+dernier train pour busan
 des chiffres et des lettres
 descente crans-montana
 descente homme pekin
@@ -53556,6 +53635,7 @@ egypte foot
 egypte senegal
 egypte vs senegal
 ehc basel
+ehc biel
 ehc chur
 ehc kloten
 ehc olten
@@ -53796,6 +53876,7 @@ endemie
 endless summer vacation
 endo anaconda
 endometriose
+endometriose was ist das
 endométriose
 endrick
 endurance
@@ -54108,6 +54189,7 @@ eva longoria
 eva lys
 eva mendes
 eva-jane
+evan gershkovich
 evan rachel wood
 evander kane
 eve angeli
@@ -54606,6 +54688,7 @@ flüge
 fnac black friday
 fod economie
 foire agricole battice
+foire du livre
 foire du trone
 foix
 fomo film
@@ -55210,6 +55293,7 @@ gerhard schröder
 germany's next topmodel
 germany's next topmodel 2022
 germany's next topmodel heidi klum
+germanys next topmodel
 germanys next topmodel heidi klum
 germinal
 gerry hofstetter
@@ -55566,6 +55650,7 @@ gucci
 guendouzi
 guerre en ukraine russie
 guerre froide
+guerre russie ukraine
 guerre russie ukraine centrale nucléaire
 guerre russie ukraine kiev
 guerre russie ukraine kiev direct
@@ -55800,6 +55885,7 @@ hazy osterwald
 hc davos
 hc lugano
 hc thurgau
+hcc
 hcd
 hear hear!
 heat
@@ -56175,6 +56261,7 @@ impfung
 impfwoche
 impfwoche schweiz
 impfzentrum
+implenia
 impots
 impots 2022
 imran khan
@@ -56949,6 +57036,7 @@ johan clarey
 johan derksen
 johan driesen
 johan hamel
+johan leysen
 johan museeuw
 johan van der heyden
 johanna farber
@@ -59607,6 +59695,7 @@ matthieu bailet
 matthieu belliard
 matthieu chedid
 matthieu delormeau
+matthieu delormeau tpmp
 matthieu orphelin
 matthieubelliard
 matthijs de ligt
@@ -63579,6 +63668,7 @@ serge lama
 serge reggiani
 sergey brin
 sergio ermotti
+sergio ermotti ubs
 sergio gomez
 sergio herman
 sergio mattarella
@@ -63788,6 +63878,7 @@ slalom herren
 slalom männer olympia
 slalom wengen
 slapende rekeningen
+sleepers
 sleepworld
 slimane
 slimste mens
@@ -63899,6 +63990,7 @@ sophia thomalla
 sophia thomalla krankheit
 sophia urista
 sophie adenot
+sophie binet cgt
 sophie cross
 sophie davant
 sophie de closets
@@ -64591,6 +64683,7 @@ tempete diego
 tempete etats-unis
 tempete eunice
 tempete franklin
+tempete mathis
 tempete ouragan danielle
 tempete solaire juillet 2022
 temps de chien
@@ -64670,6 +64763,7 @@ the duchess
 the fabelmans
 the foreigner
 the french dispatch
+the gentlemen
 the ghost writer
 the giants geneva
 the glory
