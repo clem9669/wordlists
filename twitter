@@ -75563,6 +75563,8 @@ SFPSR
 SFPST
 SFPUBB
 SFPUSAP
+SFPVLOU
+SFPvLOU
 SFSP2021
 SGDFCK
 SGEANT
@@ -132856,6 +132858,7 @@ sfpsr
 sfpst
 sfpubb
 sfpusap
+sfpvlou
 sfsp2021
 sgdfck
 sgeant
