@@ -529,6 +529,7 @@ AC MILAN – EMPOLI
 AC MILAN – FIORENTINA
 AC MILAN – INTER
 AC MILAN – MONZA
+AC MILAN – NAPLES
 AC MILAN – RB SALZBURG
 AC MILAN – SALERNITANA
 AC MILAN – SASSUOLO
@@ -541,6 +542,7 @@ AC Milan – Empoli
 AC Milan – Fiorentina
 AC Milan – Inter
 AC Milan – Monza
+AC Milan – Naples
 AC Milan – RB Salzburg
 AC Milan – Salernitana
 AC Milan – Sassuolo
@@ -584,6 +586,7 @@ ACMilan–Empoli
 ACMilan–Fiorentina
 ACMilan–Inter
 ACMilan–Monza
+ACMilan–Naples
 ACMilan–RBSalzburg
 ACMilan–Salernitana
 ACMilan–Sassuolo
@@ -888,6 +891,7 @@ ALEXANDER ZVEREV
 ALEXANDRA CALMY
 ALEXANDRA GRANT
 ALEXANDRA HUNT
+ALEXANDRA IANCULESCU
 ALEXANDRA LAMY
 ALEXANDRA NELDEL
 ALEXANDRA PIZZAGALLI
@@ -1672,6 +1676,7 @@ ASML
 ASMR
 ASMonaco
 ASPEN
+ASPERGER-SYNDROM
 ASRoma
 ASS
 ASSASSIN'S CREED
@@ -2613,6 +2618,7 @@ AlexanderZverev
 Alexandra Calmy
 Alexandra Grant
 Alexandra Hunt
+Alexandra Ianculescu
 Alexandra Lamy
 Alexandra Neldel
 Alexandra Pizzagalli
@@ -2622,6 +2628,7 @@ Alexandra Trusova
 AlexandraCalmy
 AlexandraGrant
 AlexandraHunt
+AlexandraIanculescu
 AlexandraLamy
 AlexandraNeldel
 AlexandraPizzagalli
@@ -3971,6 +3978,8 @@ AshtonKutcher
 Asia Argento
 AsiaArgento
 Aspen
+Asperger-Syndrom
+AspergerSyndrom
 Assassin's Creed
 Assassin's Creed Mirage
 Assassin's Creed film
@@ -11273,6 +11282,7 @@ DECALAGE HORAIRE
 DECATHLON CHANGE NOM
 DECENTRALAND
 DECLARATION IMPOT 2022
+DECLARATION IMPOTS 2023
 DECRET PASS SANITAIRE
 DEDRYCK BOYATA
 DEDRYCKBOYATA
@@ -12202,7 +12212,9 @@ Decathlon change nom
 Decathlonchangenom
 Decentraland
 Declaration impot 2022
+Declaration impots 2023
 Declarationimpot2022
+Declarationimpots2023
 Decret pass sanitaire
 Decretpasssanitaire
 Dedryck Boyata
@@ -13084,6 +13096,7 @@ EA
 EAGLES
 EARTH DAY
 EAU DU ROBINET PESTICIDES
+EAZ
 EBANIE BRIDGES
 EBOLA
 EBanking Raiffeisen
@@ -15361,6 +15374,7 @@ FERRARI ROMA
 FERRERO
 FESTI'NEUCH
 FESTIVAL DE CANNES 2022
+FESTIVAL DE CANNES 2023
 FESTIVAL DE DOUR
 FESTIVAL RONQUIERES
 FESTIVAL VENOGE
@@ -15551,6 +15565,7 @@ FLANDERN-RUNDFAHRT
 FLAUBERT
 FLAVIA WASSERFALLEN
 FLAVIE FLAMENT
+FLECHE BRABANCONNE
 FLECHE BRABANCONNE 2022
 FLECHE WALLONNE 2022
 FLEETWOOD MAC
@@ -16218,10 +16233,12 @@ Ferrero
 Festi'neuch
 Festival Venoge
 Festival de Cannes 2022
+Festival de Cannes 2023
 Festival de Dour
 Festival ronquieres
 FestivalVenoge
 FestivaldeCannes2022
+FestivaldeCannes2023
 FestivaldeDour
 Festivalronquieres
 Fete de Bayonne
@@ -16457,8 +16474,10 @@ FlaviaWasserfallen
 Flavie Flament
 FlavieFlament
 Fleche Wallonne 2022
+Fleche brabanconne
 Fleche brabanconne 2022
 FlecheWallonne2022
+Flechebrabanconne
 Flechebrabanconne2022
 Fleetwood Mac
 FleetwoodMac
@@ -17875,6 +17894,7 @@ GREVE ENSEIGNEMENT
 GREVE ESSENCE
 GREVE FRANCE
 GREVE JEUDI
+GREVE JEUDI 13 AVRIL
 GREVE JEUDI 13 JANVIER
 GREVE JEUDI 6 AVRIL
 GREVE LABORATOIRE
@@ -18903,6 +18923,7 @@ Greve enseignement
 Greve essence
 Greve france
 Greve jeudi
+Greve jeudi 13 avril
 Greve jeudi 13 janvier
 Greve jeudi 6 avril
 Greve laboratoire
@@ -18946,6 +18967,7 @@ Greveenseignement
 Greveessence
 Grevefrance
 Grevejeudi
+Grevejeudi13avril
 Grevejeudi13janvier
 Grevejeudi6avril
 Grevelaboratoire
@@ -21478,6 +21500,7 @@ JADE CAREY
 JADON SANCHO
 JADONSANCHO
 JAGUAR
+JAH SHAKA
 JAHRESHOROSKOP 2023
 JAIR BOLSONARO
 JAKE BONGIOVI
@@ -22027,6 +22050,7 @@ JULES BIANCHI
 JULES KOUNDÉ
 JULES POMMERY
 JULIA FOX
+JULIA ITUMA
 JULIA PEREIRA DE SOUSA
 JULIA PIATON
 JULIA ROBERTS
@@ -22274,6 +22298,8 @@ JadeCarey
 Jadon Sancho
 JadonSancho
 Jaguar
+Jah Shaka
+JahShaka
 Jahreshoroskop 2023
 Jahreshoroskop2023
 Jair Bolsonaro
@@ -22968,8 +22994,10 @@ Joanne Hannaford
 JoanneHannaford
 Joao Cancelo
 Joao Felix
+Joao felix
 JoaoCancelo
 JoaoFelix
+Joaofelix
 Joaquin Phoenix
 JoaquinPhoenix
 Jobbonus
@@ -23340,12 +23368,14 @@ JulesBianchi
 JulesKoundé
 JulesPommery
 Julia Fox
+Julia Ituma
 Julia Pereira de Sousa
 Julia Piaton
 Julia Roberts
 Julia Schütze
 Julia Vignali
 JuliaFox
+JuliaItuma
 JuliaPereiradeSousa
 JuliaPiaton
 JuliaRoberts
@@ -23706,6 +23736,7 @@ KAMERUN GEGEN SERBIEN
 KAMIEL SPIESSENS
 KAMILA VALIEVA
 KAMP WAES
+KAMPF DER REALITYSTARS
 KAMPF DER REALITYSTARS 2021
 KAMPF DER REALITYSTARS 2022
 KAMPING KITSCH
@@ -24026,6 +24057,7 @@ KOSTIC
 KOUCHNER
 KOUDE OORLOG
 KOULIBALY
+KOUROU
 KOURTNEY KARDASHIAN
 KOWEIT
 KRAANVOGEL
@@ -24180,8 +24212,10 @@ Kamila Valieva
 KamilaValieva
 Kamp Waes
 KampWaes
+Kampf der Realitystars
 Kampf der Realitystars 2021
 Kampf der Realitystars 2022
+KampfderRealitystars
 KampfderRealitystars2021
 KampfderRealitystars2022
 Kamping Kitsch
@@ -24718,6 +24752,7 @@ Kouchner
 Koude Oorlog
 KoudeOorlog
 Koulibaly
+Kourou
 Kourtney Kardashian
 KourtneyKardashian
 Koweit
@@ -25137,6 +25172,7 @@ LARGIE RAMAZANI
 LARIAM
 LARRY NASSAR
 LARS JANSSENS
+LARS STINDL
 LARS VAN DER HAAR
 LARS VILKS
 LARS VOGT
@@ -26431,10 +26467,12 @@ Lariam
 Larry Nassar
 LarryNassar
 Lars Janssens
+Lars Stindl
 Lars Vilks
 Lars Vogt
 Lars van der Haar
 LarsJanssens
+LarsStindl
 LarsVilks
 LarsVogt
 LarsvanderHaar
@@ -28323,6 +28361,7 @@ MALMÖ – JUVENTUS
 MALMÖ – UNION SAINT-GILLOISE
 MALTA
 MALTE
+MALTRAITANCE CRÈCHES
 MALU DREYER
 MAMA CAX
 MAMMA MIA!
@@ -28428,6 +28467,7 @@ MANCITY GEGEN MANUNITED
 MANCITY – BRIGHTON
 MANCITY – MANCHESTER UNITED
 MANDALORIAN
+MANE
 MANESKIN
 MANGA
 MANGO
@@ -28597,6 +28637,7 @@ MARIA LICHTMESS
 MARIA MENDIOLA
 MARIA MIDDELARES
 MARIA RESSA
+MARIA SEBALDT
 MARIA SHARAPOVA
 MARIA VORONTSOVA
 MARIA-LAURA DE BELGIQUE
@@ -29577,6 +29618,7 @@ MONICA VITTI
 MONIKA SCHÄRER
 MONKEYPOX
 MONSEIGNEUR AUPETIT
+MONSEIGNEUR GAILLOT
 MONSIEUR CUISINE SMART
 MONSIEUR JE-SAIS-TOUT
 MONSIEUR KLEIN
@@ -29972,6 +30014,8 @@ Malmö–Juventus
 Malmö–UnionSaint-Gilloise
 Malta
 Malte
+Maltraitance crèches
+Maltraitancecrèches
 Malu Dreyer
 MaluDreyer
 Mama Cax
@@ -30183,6 +30227,7 @@ ManchesterUnited–WestHam
 ManchesterUnited–Wolves
 ManchesterUnited–nottmForest
 Mandalorian
+Mane
 Maneskin
 Manga
 Mango
@@ -30471,6 +30516,7 @@ Maria Lichtmess
 Maria Mendiola
 Maria Middelares
 Maria Ressa
+Maria Sebaldt
 Maria Sharapova
 Maria Vorontsova
 Maria casares
@@ -30492,6 +30538,7 @@ MariaLichtmess
 MariaMendiola
 MariaMiddelares
 MariaRessa
+MariaSebaldt
 MariaSharapova
 MariaVorontsova
 Mariacasares
@@ -32253,7 +32300,9 @@ Monika Schärer
 MonikaSchärer
 Monkeypox
 Monseigneur Aupetit
+Monseigneur Gaillot
 MonseigneurAupetit
+MonseigneurGaillot
 Monsieur Cuisine Smart
 Monsieur Je-Sais-Tout
 Monsieur JeSaisTout
@@ -38167,6 +38216,7 @@ REAL MADRID – ATLÉTICO MADRID
 REAL MADRID – BARCELONE
 REAL MADRID – CADIX
 REAL MADRID – CELTIC GLASGOW
+REAL MADRID – CHELSEA
 REAL MADRID – ELCHE
 REAL MADRID – ESPANYOL
 REAL MADRID – GIRONA
@@ -38751,9 +38801,11 @@ RTV OOST
 RTV Oost
 RTVOost
 RTX 3050
+RTX 4070
 RTX 4080
 RTX 4090
 RTX3050
+RTX4070
 RTX4080
 RTX4090
 RUAG
@@ -39118,6 +39170,7 @@ Real Madrid – Atlético Madrid
 Real Madrid – Barcelone
 Real Madrid – Cadix
 Real Madrid – Celtic Glasgow
+Real Madrid – Chelsea
 Real Madrid – Elche
 Real Madrid – Espanyol
 Real Madrid – Girona
@@ -39180,6 +39233,7 @@ RealMadrid–AtléticoMadrid
 RealMadrid–Barcelone
 RealMadrid–Cadix
 RealMadrid–CelticGlasgow
+RealMadrid–Chelsea
 RealMadrid–Elche
 RealMadrid–Espanyol
 RealMadrid–Girona
@@ -44554,6 +44608,7 @@ TOUR DE LOMBARDIE 2021
 TOUR DE LOMBARDIE 2022
 TOUR DE PROVENCE 2022
 TOUR DE ROMANDIE 2022
+TOUR DE ROMANDIE 2023
 TOUR DE SKI LENZERHEIDE
 TOUR DE SUISSE 2022
 TOUR DE SUISSE 2022 ETAPPEN
@@ -45875,6 +45930,7 @@ Tour de Lombardie 2021
 Tour de Lombardie 2022
 Tour de Provence 2022
 Tour de Romandie 2022
+Tour de Romandie 2023
 Tour de Ski Lenzerheide
 Tour de Suisse 2022
 Tour de Suisse 2022 Etappen
@@ -45922,6 +45978,7 @@ TourdeLombardie2021
 TourdeLombardie2022
 TourdeProvence2022
 TourdeRomandie2022
+TourdeRomandie2023
 TourdeSkiLenzerheide
 TourdeSuisse Brunnen
 TourdeSuisse2022
@@ -47006,6 +47063,7 @@ VICKY KRIEPS
 VICKY LEANDROS
 VICTIME
 VICTOR BONIFACE
+VICTOR OSIMHEN
 VICTOR RASK
 VICTOR STEEMAN
 VICTOR WEMBANYAMA
@@ -47529,10 +47587,12 @@ VickyKrieps
 VickyLeandros
 Victime
 Victor Boniface
+Victor Osimhen
 Victor Rask
 Victor Steeman
 Victor Wembanyama
 VictorBoniface
+VictorOsimhen
 VictorRask
 VictorSteeman
 VictorWembanyama
@@ -49675,6 +49735,7 @@ ac milan – empoli
 ac milan – fiorentina
 ac milan – inter
 ac milan – monza
+ac milan – naples
 ac milan – rb salzburg
 ac milan – salernitana
 ac milan – sassuolo
@@ -49998,6 +50059,7 @@ alexander zverev
 alexandra calmy
 alexandra grant
 alexandra hunt
+alexandra ianculescu
 alexandra lamy
 alexandra neldel
 alexandra pizzagalli
@@ -50766,6 +50828,7 @@ asia argento
 asml
 asmr
 aspen
+asperger-syndrom
 ass
 assassin's creed
 assassin's creed film
@@ -53665,6 +53728,7 @@ decalage horaire
 decathlon change nom
 decentraland
 declaration impot 2022
+declaration impots 2023
 decret pass sanitaire
 dedryck boyata
 dedryckboyata
@@ -54166,6 +54230,7 @@ ea
 eagles
 earth day
 eau du robinet pesticides
+eaz
 ebanie bridges
 ebola
 eclips
@@ -55078,6 +55143,7 @@ ferrari roma
 ferrero
 festi'neuch
 festival de cannes 2022
+festival de cannes 2023
 festival de dour
 festival ronquieres
 festival venoge
@@ -55238,6 +55304,7 @@ flandern-rundfahrt
 flaubert
 flavia wasserfallen
 flavie flament
+fleche brabanconne
 fleche brabanconne 2022
 fleche wallonne 2022
 fleetwood mac
@@ -56209,6 +56276,7 @@ greve enseignement
 greve essence
 greve france
 greve jeudi
+greve jeudi 13 avril
 greve jeudi 13 janvier
 greve jeudi 6 avril
 greve laboratoire
@@ -57292,6 +57360,7 @@ jade carey
 jadon sancho
 jadonsancho
 jaguar
+jah shaka
 jahreshoroskop 2023
 jair bolsonaro
 jake bongiovi
@@ -57833,6 +57902,7 @@ jules bianchi
 jules koundé
 jules pommery
 julia fox
+julia ituma
 julia pereira de sousa
 julia piaton
 julia roberts
@@ -58037,6 +58107,7 @@ kamerun gegen serbien
 kamiel spiessens
 kamila valieva
 kamp waes
+kampf der realitystars
 kampf der realitystars 2021
 kampf der realitystars 2022
 kamping kitsch
@@ -58353,6 +58424,7 @@ kostic
 kouchner
 koude oorlog
 koulibaly
+kourou
 kourtney kardashian
 koweit
 kraanvogel
@@ -58655,6 +58727,7 @@ largie ramazani
 lariam
 larry nassar
 lars janssens
+lars stindl
 lars van der haar
 lars vilks
 lars vogt
@@ -59760,6 +59833,7 @@ malmö – juventus
 malmö – union saint-gilloise
 malta
 malte
+maltraitance crèches
 malu dreyer
 mama cax
 mamma mia!
@@ -59865,6 +59939,7 @@ mancity gegen manunited
 mancity – brighton
 mancity – manchester united
 mandalorian
+mane
 maneskin
 manga
 mango
@@ -60034,6 +60109,7 @@ maria lichtmess
 maria mendiola
 maria middelares
 maria ressa
+maria sebaldt
 maria sharapova
 maria vorontsova
 maria-laura de belgique
@@ -61000,6 +61076,7 @@ monica vitti
 monika schärer
 monkeypox
 monseigneur aupetit
+monseigneur gaillot
 monsieur cuisine smart
 monsieur je-sais-tout
 monsieur klein
@@ -63294,6 +63371,7 @@ real madrid – atlético madrid
 real madrid – barcelone
 real madrid – cadix
 real madrid – celtic glasgow
+real madrid – chelsea
 real madrid – elche
 real madrid – espanyol
 real madrid – girona
@@ -63832,6 +63910,7 @@ rtssport
 rtt
 rtv oost
 rtx 3050
+rtx 4070
 rtx 4080
 rtx 4090
 ruag
@@ -65910,6 +65989,7 @@ tour de lombardie 2021
 tour de lombardie 2022
 tour de provence 2022
 tour de romandie 2022
+tour de romandie 2023
 tour de ski lenzerheide
 tour de suisse 2022
 tour de suisse 2022 etappen
@@ -66523,6 +66603,7 @@ vicky krieps
 vicky leandros
 victime
 victor boniface
+victor osimhen
 victor rask
 victor steeman
 victor wembanyama
@@ -67370,6 +67451,7 @@ zürich wetter
 ÉCOSSE – UKRAINE
 ÉDOUARD PHILIPPE
 ÉDOUARD PHILIPPE PREMIER MINISTRE
+ÉGLANTINE ÉMÉYÉ
 ÉGYPTE – SÉNÉGAL
 ÉLECTION AMÉRICAINE 2022
 ÉLECTION PRÉSIDENTIELLE FRANÇAISE
@@ -67408,6 +67490,8 @@ zürich wetter
 Édouard Philippe Premier ministre
 ÉdouardPhilippe
 ÉdouardPhilippePremierministre
+Églantine Éméyé
+ÉglantineÉméyé
 Égypte – Sénégal
 Égypte–Sénégal
 Élection américaine 2022
@@ -67487,6 +67571,7 @@ zürich wetter
 édouard philippe
 édouard philippe premier ministre
 édouardphilippe
+églantine éméyé
 égypte – sénégal
 élection américaine 2022
 élection présidentielle française
