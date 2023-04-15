@@ -2128,6 +2128,7 @@ ABRUSTUNG
 ABRÜSTUNG
 ABSAGE
 ABSCHAFFUNG
+ABSCHALTUNG
 ABSCHLUSS
 ABSCHRECKUNG
 ABSENDER
@@ -5397,6 +5398,7 @@ Abrini
 Abrüstung
 Absage
 Abschaffung
+Abschaltung
 Abschluss
 Abschreckung
 Absender
@@ -29280,6 +29282,7 @@ FRAU BIRCHER
 FRAU FRANC
 FRAU GARCIA
 FRAU GOLDI
+FRAU IM BUNDESRAT
 FRAU KÄLIN
 FRAU MARTULLO
 FRAU RICKLI
@@ -41605,6 +41608,7 @@ JOURJ
 JOURMEILLEUR
 JOURNAL
 JOURNAL DE MICKEY
+JOURNAL OFFICIEL
 JOURNALISMEDANSUNTITRE
 JOURNALISMUS
 JOURNALIST
@@ -43657,7 +43661,9 @@ Jourdematch
 Jourdren
 Jourdudepassement
 Journal
+Journal Officiel
 Journal de Mickey
+JournalOfficiel
 JournaldeMickey
 JournalismeDansUnTitre
 Journalismus
@@ -48221,6 +48227,7 @@ LE HEAT
 LE J
 LE JAPON
 LE JDD
+LE JO
 LE JOUEUR
 LE JOUR DE GLOIRE EST ARRIVE
 LE JOUR DE GLOIRE EST ARRIVÉ
@@ -51475,6 +51482,7 @@ Le Havre
 Le Heat
 Le J
 Le JDD
+Le JO
 Le Japon
 Le Joueur
 Le Juiice
@@ -51755,6 +51763,7 @@ LeHavre
 LeHeat
 LeJ
 LeJDD
+LeJO
 LeJapon
 LeJoueur
 LeJuiice
@@ -95404,6 +95413,7 @@ abrini
 abrüstung
 absage
 abschaffung
+abschaltung
 abschluss
 abschreckung
 absender
@@ -110210,6 +110220,7 @@ frau bircher
 frau franc
 frau garcia
 frau goldi
+frau im bundesrat
 frau kälin
 frau martullo
 frau rickli
@@ -110235,6 +110246,7 @@ frauenundmadchen
 fraufranc
 fraugarcia
 fraugoldi
+frauimbundesrat
 fraukr
 fraukälin
 fraumartullo
@@ -116663,6 +116675,7 @@ jourj
 jourmeilleur
 journal
 journal de mickey
+journal officiel
 journalismedansuntitre
 journalismus
 journalist
@@ -119698,6 +119711,7 @@ le heat
 le j
 le japon
 le jdd
+le jo
 le joueur
 le jour de gloire est arrivé
 le juiice
