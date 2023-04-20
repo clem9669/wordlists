@@ -152,6 +152,8 @@ $usdc
 100EUR
 100EUROS
 100JOURS
+100JOURSDAPAISEMENT
+100JoursDApaisement
 100KASESPARIONSSPORT
 100KasesParionsSport
 100LOGIQUE
@@ -161,6 +163,7 @@ $usdc
 100eur
 100euros
 100jours
+100joursdapaisement
 100kasesparionssport
 100logique
 100m
@@ -33293,6 +33296,7 @@ GREVE17MARS
 GREVE18FEVRIER
 GREVE18OCTOBRE
 GREVE19JANVIER
+GREVE20AVRIL
 GREVE20JANVIER
 GREVE20MARS
 GREVE22MARS
@@ -37578,6 +37582,7 @@ Her Loss
 Her Majesty
 HerLoss
 HerMajesty
+Herault
 Herausforderung
 Herausforderungen
 Herb Jones
@@ -44420,6 +44425,8 @@ KAAG
 KAAGENT
 KAAGent
 KAAMELOTT
+KAAPVERDIE
+KAAPVERDIË
 KAARIS
 KABEL
 KABILA
@@ -45743,6 +45750,8 @@ KYUNGSOO
 KaPItaLIsmUs
 Kaag
 Kaamelott
+Kaapverdie
+Kaapverdië
 Kaaris
 Kabel
 Kabila
@@ -54621,6 +54630,7 @@ MANIF17AVRIL
 MANIF18MARS
 MANIF18SEPTEMBRE
 MANIF19JANVIER
+MANIF20AVRIL
 MANIF21AOUT
 MANIF21MARS
 MANIF23MARS
@@ -56533,6 +56543,7 @@ MICRO-ONDES
 MICROCOSMOS
 MICROIDS
 MICROMANIA
+MICROMANIAADVANCEWARS
 MICROMANIAATOMICHEART
 MICROMANIADEVIL
 MICROMANIAGOTY
@@ -60365,6 +60376,7 @@ Micro-ondes
 Microcosmos
 Microids
 Micromania
+MicromaniaAdvanceWars
 MicromaniaAtomicHeart
 MicromaniaDevil
 MicromaniaGOTY
@@ -64501,6 +64513,7 @@ OGCNASM
 OGCNASSE
 OGCNCF63
 OGCNESTAC
+OGCNFCB
 OGCNFCGB
 OGCNFCL
 OGCNFCM
@@ -106098,6 +106111,7 @@ deminaur
 demir
 demiral
 demis roussos
+demivollering
 demo
 democracy
 democracy index
@@ -112774,6 +112788,7 @@ greve17mars
 greve18fevrier
 greve18octobre
 greve19janvier
+greve20avril
 greve20janvier
 greve20mars
 greve22mars
@@ -113872,6 +113887,7 @@ hera
 hera1year
 herald of free enterprise
 heraldoffreeenterprise
+herault
 herausforderung
 herausforderungen
 herb jones
@@ -117772,6 +117788,8 @@ kaa gent
 kaag
 kaagent
 kaamelott
+kaapverdie
+kaapverdië
 kaaris
 kabel
 kabila
@@ -123162,6 +123180,7 @@ manif18Septembre
 manif18mars
 manif18septembre
 manif19janvier
+manif20avril
 manif21aout
 manif21mars
 manif23mars
@@ -125144,6 +125163,7 @@ micro-ondes
 microcosmos
 microids
 micromania
+micromaniaadvancewars
 micromaniaatomicheart
 micromaniadevil
 micromaniagoty
@@ -127989,6 +128009,7 @@ ogcnasm
 ogcnasse
 ogcncf63
 ogcnestac
+ogcnfcb
 ogcnfcgb
 ogcnfcl
 ogcnfcm
