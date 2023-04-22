@@ -16446,6 +16446,7 @@ CNFCFCGB
 CNFCFCSM
 CNFCPFC
 CNFCSCB
+CNFCSMC
 CNFCTFC
 CNGE2021
 CNGE2022
@@ -21362,6 +21363,7 @@ DFCOFCSM
 DFCOHAC
 DFCONO
 DFCORAF
+DFCOSCB
 DFCOSMC
 DFCOTFC
 DFCOVAFC
@@ -35790,6 +35792,7 @@ HACKING2021
 HACKTÄTSCHLI
 HACNO
 HACPFC
+HACQRM
 HACSCB
 HACSMC
 HACTFC
@@ -48418,6 +48421,7 @@ LAVAL
 LAVALEAG
 LAVALETTE
 LAVALFCGB
+LAVALFCSM
 LAVALLMFC
 LAVAR
 LAVENDER HAZE
@@ -104478,6 +104482,7 @@ cnfcfcgb
 cnfcfcsm
 cnfcpfc
 cnfcscb
+cnfcsmc
 cnfctfc
 cnge2021
 cnge2022
@@ -106649,6 +106654,7 @@ dfcofcsm
 dfcohac
 dfcono
 dfcoraf
+dfcoscb
 dfcosmc
 dfcotfc
 dfcovafc
@@ -113545,6 +113551,7 @@ hacking2021
 hacktätschli
 hacno
 hacpfc
+hacqrm
 hacscb
 hacsmc
 hactfc
@@ -120419,6 +120426,7 @@ laval
 lavaleag
 lavalette
 lavalfcgb
+lavalfcsm
 lavallmfc
 lavar
 lavender haze
