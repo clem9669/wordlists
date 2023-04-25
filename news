@@ -1756,6 +1756,7 @@ ATALANTA  MILAN
 ATALANTA  ROMA
 ATALANTA  SALERNITANA
 ATALANTA BERGAMO
+ATALANTA GEGEN ROMA
 ATALANTA VILLARREAL
 ATALANTA – INTER
 ATALANTA – MILAN
@@ -4105,6 +4106,7 @@ Atalanta  Roma
 Atalanta  Salernitana
 Atalanta Bergamo
 Atalanta Villarreal
+Atalanta gegen Roma
 Atalanta – Inter
 Atalanta – Milan
 Atalanta – Naples
@@ -4115,6 +4117,7 @@ AtalantaMilan
 AtalantaRoma
 AtalantaSalernitana
 AtalantaVillarreal
+AtalantagegenRoma
 Atalanta–Inter
 Atalanta–Milan
 Atalanta–Naples
@@ -4482,6 +4485,7 @@ B-21 RAIDER
 B-21 Raider
 B-21Raider
 B.1.1.529
+B.R.I
 B21 Raider
 BABA VANGA
 BABY DRIVER
@@ -5325,6 +5329,7 @@ BORDEAUX
 BORDEAUX - OM
 BORDEAUX – ANGERS
 BORDEAUX – CLERMONT
+BORDEAUX – GRENOBLE
 BORDEAUX – GUINGAMP
 BORDEAUX – LILLE
 BORDEAUX – LYON
@@ -7072,6 +7077,7 @@ Bordeaux  OM
 Bordeaux - OM
 Bordeaux – Angers
 Bordeaux – Clermont
+Bordeaux – Grenoble
 Bordeaux – Guingamp
 Bordeaux – Lille
 Bordeaux – Lyon
@@ -7095,6 +7101,7 @@ Bordeaux – saintétienne
 Bordeaux-OM
 Bordeaux–Angers
 Bordeaux–Clermont
+Bordeaux–Grenoble
 Bordeaux–Guingamp
 Bordeaux–Lille
 Bordeaux–Lyon
@@ -8114,6 +8121,7 @@ CHANNING TATUM
 CHANSON DE L'ANNÉE 2022
 CHANT DU GROS
 CHANT DU GROS 2022
+CHANT DU GROS 2023
 CHANTAL
 CHANTAL AKERMAN
 CHANTAL GALLIA
@@ -9621,6 +9629,7 @@ Chanson de l'année 2022
 Chansondel'année2022
 Chant du Gros
 Chant du Gros 2022
+Chant du Gros 2023
 Chantal
 Chantal Akerman
 Chantal Gallia
@@ -9632,6 +9641,7 @@ ChantalGoya
 ChantalLadesou
 ChantduGros
 ChantduGros2022
+ChantduGros2023
 Chanteur Marcel Amont
 Chanteur, Marcel Amont
 Chanteur,MarcelAmont
@@ -11580,6 +11590,7 @@ DIE AMIGOS
 DIE ANTWOORD
 DIE BACHELORETTE
 DIE GESCHICHTE DER PIZZA
+DIE GIOVANNI ZARRELLA SHOW
 DIE LINKE
 DIE MILITANTE VEGANERIN
 DIE SATANISCHEN VERSE
@@ -11745,6 +11756,7 @@ DOMINIQUE TAPIE
 DOMINIQUE VAN MALDER
 DOMINIQUE WARLUZEL
 DON DU SANG
+DON LEMON
 DON'T LEAVE ME
 DON'T LOOK UP
 DON'T WORRY BE HAPPY
@@ -12660,6 +12672,7 @@ Die Amigos
 Die Antwoord
 Die Bachelorette
 Die Geschichte der Pizza
+Die Giovanni Zarrella Show
 Die Linke
 Die Militante Veganerin
 Die Zeit
@@ -12671,6 +12684,7 @@ DieAmigos
 DieAntwoord
 DieBachelorette
 DieGeschichtederPizza
+DieGiovanniZarrellaShow
 DieLinke
 DieMilitanteVeganerin
 DieZeit
@@ -12914,6 +12928,7 @@ DominiqueTapie
 DominiqueVanMalder
 DominiqueWarluzel
 DominiquedeVillepin
+Don Lemon
 Don du sang
 Don't Leave Me
 Don't Look Up
@@ -12923,6 +12938,7 @@ Don'tLeaveMe
 Don'tLookUp
 Don'tWorryDarling
 Don'tworrybehappy
+DonLemon
 Donald Rumsfeld
 Donald Trump
 DonaldRumsfeld
@@ -13389,6 +13405,7 @@ EK-kwalificatie
 EK2021
 EK2021WEDSTRIJDEN
 EK2021wedstrijden
+EKATERINA LEONOVA
 EKITIKE
 EKKELENKAMP
 EKSAARDE
@@ -13575,6 +13592,7 @@ EMMANUEL MACRON PREMIER MINISTRE
 EMMANUEL MACRON SANTÉ
 EMMANUEL PETIT
 EMMANUELLE
+EMMANUELLE DEVOS
 EMMANUELLE MOTTAZ
 EMMANUELLE SEIGNER
 EMMARADUCANU
@@ -14189,6 +14207,8 @@ EishockeyWM 2022
 EishockeyWM 2023
 EishockeyWM Schweiz
 Eishockeyschweiz
+Ekaterina Leonova
+EkaterinaLeonova
 Ekitike
 Ekkelenkamp
 Eksaarde
@@ -14479,8 +14499,10 @@ EmmanuelMacronsanté
 EmmanuelPetit
 EmmanueldeLaTaille
 Emmanuelle
+Emmanuelle Devos
 Emmanuelle Mottaz
 Emmanuelle Seigner
+EmmanuelleDevos
 EmmanuelleMottaz
 EmmanuelleSeigner
 Emmy Awards 2021
@@ -16060,6 +16082,7 @@ FRANÇOIS CLUZET
 FRANÇOIS FILLON
 FRANÇOIS HADJI-LAZARO
 FRANÇOIS HOLLANDE
+FRANÇOIS LÉOTARD
 FRANÇOIS RUFFIN
 FRANÇOIS STERCHELE
 FRANÇOISE DELORD
@@ -17245,6 +17268,7 @@ François Fillon
 François Hadji-Lazaro
 François HadjiLazaro
 François Hollande
+François Léotard
 François Ruffin
 François Sterchele
 FrançoisAlu
@@ -17252,6 +17276,7 @@ FrançoisCluzet
 FrançoisFillon
 FrançoisHadji-Lazaro
 FrançoisHollande
+FrançoisLéotard
 FrançoisRuffin
 FrançoisSterchele
 Françoise Delord
@@ -18169,6 +18194,7 @@ GUADELOUPE
 GUANYU ZHOU
 GUBRISTTUNNEL
 GUCCI
+GUEDELON
 GUENDOUZI
 GUERRE EN UKRAINE RUSSIE
 GUERRE FROIDE
@@ -19271,6 +19297,7 @@ Guanyu Zhou
 GuanyuZhou
 Gubristtunnel
 Gucci
+Guedelon
 Guendouzi
 Guerre Russie Ukraine
 Guerre Russie Ukraine Kiev
@@ -21712,6 +21739,7 @@ JACINDA ARDERN
 JACK GREALISH
 JACK HENDRY
 JACK LANG
+JACK LEMMON
 JACK MIMOUN
 JACK NICHOLSON
 JACK REACHER
@@ -22070,6 +22098,7 @@ JIM CARREY
 JIM MORRISON
 JIMI BLUE OCHSENKNECHT
 JIMMORRISON
+JIMMY BUTLER
 JIMMY CARTER
 JIMMY FALLON
 JIMMY GRESSIER
@@ -22481,6 +22510,7 @@ JacindaArdern
 Jack Grealish
 Jack Hendry
 Jack Lang
+Jack Lemmon
 Jack Mimoun
 Jack Nicholson
 Jack Reacher
@@ -22490,6 +22520,7 @@ Jack White
 JackGrealish
 JackHendry
 JackLang
+JackLemmon
 JackMimoun
 JackNicholson
 JackReacher
@@ -23216,6 +23247,7 @@ JimCarrey
 JimMorrison
 Jimi Blue Ochsenknecht
 JimiBlueOchsenknecht
+Jimmy Butler
 Jimmy Carter
 Jimmy Fallon
 Jimmy Gressier
@@ -23224,6 +23256,7 @@ Jimmy Savile
 Jimmy Vicaut
 Jimmy's Hall
 Jimmy'sHall
+JimmyButler
 JimmyCarter
 JimmyFallon
 JimmyGressier
@@ -25596,6 +25629,7 @@ LE PARISIEN
 LE PARRAIN
 LE PATIENT ANGLAIS
 LE PHOCEEN
+LE PIC SAINT LOUP
 LE PRENOM
 LE PRINCE ANDREW
 LE PRINCE LOUIS
@@ -25650,6 +25684,7 @@ LEGALLY BLONDE
 LEGALLYBLONDE
 LEGEND BOUCLES BASTOGNE 2023
 LEGIONELLA
+LEGIONÄRSKRANKHEIT
 LEGISLATIVE 2022
 LEGISLATIVES 2022
 LEGISLATIVES FRANCE
@@ -26274,6 +26309,7 @@ LUC BEAUCOURT
 LUC BESSON
 LUC DE VOS
 LUC NILIS
+LUC PLAMONDON
 LUC REMONT
 LUCA
 LUCA AERNI
@@ -26318,6 +26354,7 @@ LUFTHANSA-FLUG TURBULENZEN
 LUFTHANSA-STREIK
 LUGANO GEGEN ST. GALLEN
 LUGANO – SION
+LUIK-BASTENAKEN-LUIK
 LUIK-BASTENAKEN-LUIK 2023
 LUINO
 LUIS DE LA FUENTE
@@ -26970,6 +27007,7 @@ Le Monde ne suffit pas
 Le Mystère Kendrick
 Le Parisien
 Le Patient anglais
+Le Pic Saint Loup
 Le Remplaçant
 Le Samaritain
 Le Samyn
@@ -27052,6 +27090,7 @@ LeMondenesuffitpas
 LeMystèreKendrick
 LeParisien
 LePatientanglais
+LePicSaintLoup
 LeRemplaçant
 LeSamaritain
 LeSamyn
@@ -27115,6 +27154,7 @@ Legend Boucles Bastogne 2023
 LegendBouclesBastogne2023
 Legendredemavie
 Legionella
+Legionärskrankheit
 Legislative 2022
 Legislative2022
 Legislatives 2022
@@ -28249,11 +28289,13 @@ Luc Beaucourt
 Luc Besson
 Luc De Vos
 Luc Nilis
+Luc Plamondon
 Luc remont
 LucBeaucourt
 LucBesson
 LucDeVos
 LucNilis
+LucPlamondon
 Luca
 Luca Aerni
 Luca Brecel
@@ -28330,8 +28372,10 @@ Lugano gegen St. Gallen
 Lugano – Sion
 LuganogegenSt.Gallen
 Lugano–Sion
+Luik-Bastenaken-Luik
 Luik-Bastenaken-Luik 2023
 Luik-Bastenaken-Luik2023
+LuikBastenakenLuik
 LuikBastenakenLuik 2023
 Luino
 Luis Enrique
@@ -29894,6 +29938,7 @@ MOLECULE
 MOLENBEEK
 MOLESON
 MOLIERE
+MOLIERES 2023
 MOLINA
 MOLLY CAMERON
 MOLNUPIRAVIR
@@ -30056,6 +30101,7 @@ MOUSSA SISSOKO
 MOUSTIQUE TIGRE
 MOUTHE
 MOVEMBER
+MOVEZ
 MOZART
 MQ-9 REAPER
 MQ-9 Reaper
@@ -32542,6 +32588,8 @@ Molecule
 Molenbeek
 Moleson
 Moliere
+Molieres 2023
+Molieres2023
 Molina
 Molly Cameron
 MollyCameron
@@ -32833,6 +32881,7 @@ Moussadembele
 Moustique tigre
 Moustiquetigre
 Mouthe
+MoveZ
 Movember
 Mozart
 Mr. Harrigan's Phone
@@ -36129,6 +36178,7 @@ POINT D'INDICE
 POISSON
 POISSON D'AVRIL
 POISSY
+POITIERS
 POKEMON
 POKEMON ARCEUS
 POKEMON DIAMANT ETINCELANT
@@ -36563,6 +36613,7 @@ PULA
 PULP FICTION
 PUMA
 PUNEETH RAJKUMAR
+PURE C
 PURPLE HEARTS
 PUSKAS ARENA
 PUSKASARENA
@@ -37729,6 +37780,7 @@ Poisson
 Poisson d'avril
 Poissond'avril
 Poissy
+Poitiers
 Pokemon
 Pokemon Arceus
 Pokemon Diamant Etincelant
@@ -38226,6 +38278,8 @@ PulpFiction
 Puma
 Puneeth Rajkumar
 PuneethRajkumar
+Pure C
+PureC
 Purple Hearts
 PurpleHearts
 Puskas Arena
@@ -41779,6 +41833,7 @@ STAR IS BORN
 STAR WARS
 STAR WARS DAY
 STAR WARS ECLIPSE
+STAR WARS JEDI: SURVIVOR
 STARBUCKS LEUVEN
 STARFIELD
 STARLINGS
@@ -43812,6 +43867,7 @@ Star Academy éliminé
 Star Wars
 Star Wars Day
 Star Wars Eclipse
+Star Wars Jedi: Survivor
 Star académy Anisha
 Star is Born
 StarAcademy
@@ -43820,6 +43876,7 @@ StarAcademyéliminé
 StarWars
 StarWarsDay
 StarWarsEclipse
+StarWarsJedi:Survivor
 StaracadémyAnisha
 Starbucks Leuven
 StarbucksLeuven
@@ -45258,6 +45315,7 @@ TU NE TUERAS POINT
 TUA TAGOVAILOA
 TUBERCULOSE
 TUBERKULOSE
+TUCKER CARLSON
 TUDOR
 TUERIE DE CHEVALINE
 TULPEN UIT ANTWERPEN
@@ -46690,6 +46748,8 @@ Tua Tagovailoa
 TuaTagovailoa
 Tuberculose
 Tuberkulose
+Tucker Carlson
+TuckerCarlson
 Tudor
 Tuerie de Chevaline
 TueriedeChevaline
@@ -51436,6 +51496,7 @@ atalanta  milan
 atalanta  roma
 atalanta  salernitana
 atalanta bergamo
+atalanta gegen roma
 atalanta villarreal
 atalanta – inter
 atalanta – milan
@@ -51645,6 +51706,7 @@ açcident pierre palmade
 aïssa maïga
 b-21 raider
 b.1.1.529
+b.r.i
 baba vanga
 baby driver
 babyn yar
@@ -52449,6 +52511,7 @@ bordeaux
 bordeaux - om
 bordeaux – angers
 bordeaux – clermont
+bordeaux – grenoble
 bordeaux – guingamp
 bordeaux – lille
 bordeaux – lyon
@@ -53220,6 +53283,7 @@ channing tatum
 chanson de l'année 2022
 chant du gros
 chant du gros 2022
+chant du gros 2023
 chantal
 chantal akerman
 chantal gallia
@@ -54492,6 +54556,7 @@ die amigos
 die antwoord
 die bachelorette
 die geschichte der pizza
+die giovanni zarrella show
 die linke
 die militante veganerin
 die satanischen verse
@@ -54639,6 +54704,7 @@ dominique tapie
 dominique van malder
 dominique warluzel
 don du sang
+don lemon
 don't leave me
 don't look up
 don't worry be happy
@@ -54953,6 +55019,7 @@ ek-finale
 ek-kwalificatie
 ek2021
 ek2021wedstrijden
+ekaterina leonova
 ekitike
 ekkelenkamp
 eksaarde
@@ -55115,6 +55182,7 @@ emmanuel macron premier ministre
 emmanuel macron santé
 emmanuel petit
 emmanuelle
+emmanuelle devos
 emmanuelle mottaz
 emmanuelle seigner
 emmaraducanu
@@ -56224,6 +56292,7 @@ françois cluzet
 françois fillon
 françois hadji-lazaro
 françois hollande
+françois léotard
 françois ruffin
 françois sterchele
 françoise delord
@@ -56961,6 +57030,7 @@ guadeloupe
 guanyu zhou
 gubristtunnel
 gucci
+guedelon
 guendouzi
 guerre en ukraine russie
 guerre froide
@@ -57956,6 +58026,7 @@ jacinda ardern
 jack grealish
 jack hendry
 jack lang
+jack lemmon
 jack mimoun
 jack nicholson
 jack reacher
@@ -58312,6 +58383,7 @@ jim carrey
 jim morrison
 jimi blue ochsenknecht
 jimmorrison
+jimmy butler
 jimmy carter
 jimmy fallon
 jimmy gressier
@@ -59517,6 +59589,7 @@ le parisien
 le parrain
 le patient anglais
 le phoceen
+le pic saint loup
 le prenom
 le prince andrew
 le prince louis
@@ -59571,6 +59644,7 @@ legally blonde
 legallyblonde
 legend boucles bastogne 2023
 legionella
+legionärskrankheit
 legislative 2022
 legislatives 2022
 legislatives france
@@ -60183,6 +60257,7 @@ luc beaucourt
 luc besson
 luc de vos
 luc nilis
+luc plamondon
 luc remont
 luca
 luca aerni
@@ -60227,6 +60302,7 @@ lufthansa-flug turbulenzen
 lufthansa-streik
 lugano gegen st. gallen
 lugano – sion
+luik-bastenaken-luik
 luik-bastenaken-luik 2023
 luino
 luis de la fuente
@@ -61685,6 +61761,7 @@ molecule
 molenbeek
 moleson
 moliere
+molieres 2023
 molina
 molly cameron
 molnupiravir
@@ -61847,6 +61924,7 @@ moussa sissoko
 moustique tigre
 mouthe
 movember
+movez
 mozart
 mq-9 reaper
 mr. harrigan's phone
@@ -63476,6 +63554,7 @@ point d'indice
 poisson
 poisson d'avril
 poissy
+poitiers
 pokemon
 pokemon arceus
 pokemon diamant etincelant
@@ -63808,6 +63887,7 @@ pula
 pulp fiction
 puma
 puneeth rajkumar
+pure c
 purple hearts
 puskas arena
 puskasarena
@@ -65711,6 +65791,7 @@ star is born
 star wars
 star wars day
 star wars eclipse
+star wars jedi: survivor
 starbucks leuven
 starfield
 starlings
@@ -66853,6 +66934,7 @@ tu ne tueras point
 tua tagovailoa
 tuberculose
 tuberkulose
+tucker carlson
 tudor
 tuerie de chevaline
 tulpen uit antwerpen
