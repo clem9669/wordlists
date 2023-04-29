@@ -583,6 +583,7 @@ ACCIDENT FLEMALLE
 ACCIDENT JURA
 ACCIDENT LAUSANNE
 ACCIDENT MARC-PHILIPPE DAUBRESSE
+ACCIDENT METRO PARISIEN
 ACCIDENT TROTTINETTE LYON
 ACCIDENT VOITURE SOFIAN KIYINE
 ACCIDENTS AU SÉNÉGAL
@@ -1980,6 +1981,7 @@ AZ Alkmaar
 AZATBEK OMURBEKOV
 AZAlkmaar
 AZERBAIJAN
+AZERBAÏDJAN
 AZERBAÏDJAN – PORTUGAL
 AZF
 AZFeyenoord
@@ -2111,6 +2113,7 @@ Accident de chasse
 Accident de la route
 Accident ferroviaire en Grèce
 Accident flemalle
+Accident metro parisien
 Accident trottinette Lyon
 Accident voiture Sofian Kiyine
 AccidentA13gendarmetué
@@ -2132,6 +2135,7 @@ Accidentdechasse
 Accidentdelaroute
 AccidentferroviaireenGrèce
 Accidentflemalle
+Accidentmetroparisien
 Accidents au Sénégal
 AccidentsauSénégal
 AccidenttrottinetteLyon
@@ -4471,6 +4475,7 @@ AymericLaporte
 Azatbek Omurbekov
 AzatbekOmurbekov
 Azerbaijan
+Azerbaïdjan
 Azerbaïdjan – Portugal
 Azerbaïdjan–Portugal
 Aziatische hoornaar
@@ -5313,6 +5318,7 @@ BONNE ANNÉE 2023
 BONNE SAINT-VALENTIN
 BONNEUIL-EN-FRANCE
 BONNIE TYLER
+BONNIE WRIGHT
 BONO
 BONOBO
 BONUCCI
@@ -7057,7 +7063,9 @@ Bonneannée2023
 Bonneuil-en-France
 BonneuilenFrance
 Bonnie Tyler
+Bonnie Wright
 BonnieTyler
+BonnieWright
 Bono
 Bonobo
 Bonucci
@@ -11250,6 +11258,7 @@ DANI
 DANI ALVES
 DANI CHANTEUSE
 DANI KLEIN
+DANI PEDROSA
 DANIEL AUTEUIL
 DANIEL BALAVOINE
 DANIEL BARENBOIM
@@ -12068,9 +12077,11 @@ Danemark–Tunisie
 Dani
 Dani Alves
 Dani Klein
+Dani Pedrosa
 Dani chanteuse
 DaniAlves
 DaniKlein
+DaniPedrosa
 Danichanteuse
 Daniel Auteuil
 Daniel Balavoine
@@ -21879,6 +21890,7 @@ JAMES BOND
 JAMES CAAN
 JAMES CAMERON
 JAMES COOKE
+JAMES CORDEN
 JAMES DEAN
 JAMES FOLEY
 JAMES FRANCO
@@ -22711,6 +22723,7 @@ James Bond
 James Caan
 James Cameron
 James Cooke
+James Corden
 James Dean
 James Foley
 James Franco
@@ -22731,6 +22744,7 @@ JamesBond
 JamesCaan
 JamesCameron
 JamesCooke
+JamesCorden
 JamesDean
 JamesFoley
 JamesFranco
@@ -29585,6 +29599,7 @@ MEILLEURS VOEUX 2023
 MEINEIMPFUNGEN
 MEISE
 MEISJE MET DE PAREL
+MEL B
 MEL GIBSON
 MEL THOMPSON
 MELANIE BOULANGER
@@ -31890,8 +31905,10 @@ Meineimpfungen
 Meise
 Meisje met de parel
 Meisjemetdeparel
+Mel B
 Mel Gibson
 Mel Thompson
+MelB
 MelGibson
 MelThompson
 Melanie Boulanger
@@ -35811,6 +35828,7 @@ PARIS-VERSAILLES
 PARISJACKSON
 PARISMATCH
 PARKER, FILM
+PARKEREN ANTWERPEN
 PARKINSON
 PARKINSON MICHAEL J. FOX
 PARKWAY DRIVE
@@ -37075,6 +37093,8 @@ Parissg – Urawa reds
 Parissg – saintétienne
 Parker, film
 Parker,film
+Parkeren Antwerpen
+ParkerenAntwerpen
 Parkinson
 Parkinson Michael J. Fox
 ParkinsonMichaelJ.Fox
@@ -41857,6 +41877,7 @@ SPOTLIGHT
 SPREADSHIRT
 SPREE
 SPRING
+SPRINT SHOOTOUT F1
 SPROOKJESBOS VALKENBURG
 SPUTNIK
 SPUTNIK NEWS
@@ -41939,6 +41960,7 @@ STADLER RAIL
 STADLER RAIL AKTIE
 STADT LAND TALENT
 STADT ZÜRICH
+STADTLAUF LUZERN
 STAFFORD
 STAFFORDSHIRE TERRIER
 STAINS
@@ -43862,6 +43884,8 @@ Spotlight
 Spreadshirt
 Spree
 Spring
+Sprint shootout F1
+SprintshootoutF1
 Sprookjesbos Valkenburg
 SprookjesbosValkenburg
 Sputnik
@@ -43952,6 +43976,8 @@ Stadt Land Talent
 Stadt Zürich
 StadtLandTalent
 StadtZürich
+Stadtlauf Luzern
+StadtlaufLuzern
 Stafford
 Staffordshire terrier
 Staffordshireterrier
@@ -44914,6 +44940,7 @@ THE MANDALORIAN
 THE MARVELS
 THE MASKED SINGER
 THE MASKED SINGER SWITZERLAND
+THE MASKED SINGER' 2023
 THE MATRIX
 THE MATRIX RESURRECTIONS
 THE MENU
@@ -45873,6 +45900,7 @@ The Mandalorian
 The Marvels
 The Masked Singer
 The Masked Singer Switzerland
+The Masked Singer' 2023
 The Matrix
 The Matrix Resurrections
 The Menu
@@ -45987,6 +46015,7 @@ TheLionWoman
 TheMandalorian
 TheMarvels
 TheMaskedSinger
+TheMaskedSinger'2023
 TheMaskedSingerSwitzerland
 TheMatrix
 TheMatrixResurrections
@@ -50550,6 +50579,7 @@ accident flemalle
 accident jura
 accident lausanne
 accident marc-philippe daubresse
+accident metro parisien
 accident trottinette lyon
 accident voiture sofian kiyine
 accidents au sénégal
@@ -51873,6 +51903,7 @@ az  feyenoord
 az alkmaar
 azatbek omurbekov
 azerbaijan
+azerbaïdjan
 azerbaïdjan – portugal
 azf
 aziatische hoornaar
@@ -52669,6 +52700,7 @@ bonne année 2023
 bonne saint-valentin
 bonneuil-en-france
 bonnie tyler
+bonnie wright
 bono
 bonobo
 bonucci
@@ -54389,6 +54421,7 @@ dani
 dani alves
 dani chanteuse
 dani klein
+dani pedrosa
 daniel auteuil
 daniel balavoine
 daniel barenboim
@@ -58294,6 +58327,7 @@ james bond
 james caan
 james cameron
 james cooke
+james corden
 james dean
 james foley
 james franco
@@ -61527,6 +61561,7 @@ meilleurs voeux 2023
 meineimpfungen
 meise
 meisje met de parel
+mel b
 mel gibson
 mel thompson
 melanie boulanger
@@ -63297,6 +63332,7 @@ paris-versailles
 parisjackson
 parismatch
 parker, film
+parkeren antwerpen
 parkinson
 parkinson michael j. fox
 parkway drive
@@ -65918,6 +65954,7 @@ spotlight
 spreadshirt
 spree
 spring
+sprint shootout f1
 sprookjesbos valkenburg
 sputnik
 sputnik news
@@ -65982,6 +66019,7 @@ stadler rail
 stadler rail aktie
 stadt land talent
 stadt zürich
+stadtlauf luzern
 stafford
 staffordshire terrier
 stains
@@ -66623,6 +66661,7 @@ the mandalorian
 the marvels
 the masked singer
 the masked singer switzerland
+the masked singer' 2023
 the matrix
 the matrix resurrections
 the menu
