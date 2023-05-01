@@ -24,7 +24,9 @@
 1. August 2021
 1. August 2022
 1. August Schweiz
+1. MAI DEUTSCHLAND
 1. MAI-DEMO ZÜRICH
+1. Mai Deutschland
 1. Mai-Demo Zürich
 1. MaiDemo Zürich
 1. NOVEMBER FEIERTAG
@@ -33,6 +35,7 @@
 1. august 2021
 1. august 2022
 1. august schweiz
+1. mai deutschland
 1. mai-demo zürich
 1. november Feiertag
 1. november feiertag
@@ -52,6 +55,7 @@
 1.August2022
 1.AugustSchweiz
 1.Mai-DemoZürich
+1.MaiDeutschland
 1.advent
 1.advent 2022
 1.advent2022
@@ -170,6 +174,7 @@
 1ER AOUT SUISSE
 1ER FÉVRIER
 1ER MAI
+1ER MAI FÉRIÉ
 1ER MINISTRE FRANCE
 1ER NOVEMBRE
 1ER NOVEMBRE FÉRIÉ
@@ -185,6 +190,7 @@
 1er aout suisse
 1er février
 1er mai
+1er mai férié
 1er ministre France
 1er ministre france
 1er novembre
@@ -198,6 +204,7 @@
 1eraoutsuisse
 1erfévrier
 1ermai
+1ermaiférié
 1erministreFrance
 1ernovembre
 1ernovembreférié
@@ -5455,6 +5462,7 @@ BRAND EGERKINGEN
 BRAND HERENTALS
 BRAND KEHRSATZ
 BRAND LANGSTRASSE
+BRAND LUZERN
 BRAND MEILEN
 BRAND SOLOTHURN
 BRAND UNIVERSITEIT ANTWERPEN
@@ -7287,6 +7295,7 @@ Brand Egerkingen
 Brand Herentals
 Brand Kehrsatz
 Brand Langstrasse
+Brand Luzern
 Brand Meilen
 Brand Solothurn
 Brand Universiteit Antwerpen
@@ -7296,6 +7305,7 @@ BrandEgerkingen
 BrandHerentals
 BrandKehrsatz
 BrandLangstrasse
+BrandLuzern
 BrandMeilen
 BrandSolothurn
 BrandUniversiteitAntwerpen
@@ -7821,6 +7831,7 @@ CAMILA CABELLO
 CAMILA GIORGI
 CAMILA KENDRA
 CAMILA MORRONE
+CAMILLA
 CAMILLA PARKER BOWLES
 CAMILLE
 CAMILLE BALANCHE
@@ -7976,6 +7987,7 @@ CASEMIRO
 CASH
 CASH INVESTIGATION
 CASH TRUCK
+CASINO
 CASIO
 CASOAR
 CASPER NIELSEN
@@ -8850,6 +8862,7 @@ COUPURES COMPTEUR LINKY
 COURCHEVEL
 COURCHEVEL MERIBEL
 COURIR
+COURONNEMENT ROI CHARLES
 COURS DE L'OR
 COURSE DE L'ESCALADE 2022
 COURTENEY COX
@@ -9120,6 +9133,7 @@ CamilaCabello
 CamilaGiorgi
 CamilaKendra
 CamilaMorrone
+Camilla
 Camilla Parker Bowles
 CamillaParkerBowles
 Camille
@@ -9383,6 +9397,7 @@ Cash Investigation
 Cash Truck
 CashInvestigation
 CashTruck
+Casino
 Casio
 Casoar
 Casper Nielsen
@@ -10897,6 +10912,8 @@ Courchevel
 Courchevel Meribel
 CourchevelMeribel
 Courir
+Couronnement roi Charles
+CouronnementroiCharles
 Cours de l'or
 Coursdel'or
 Course de l'Escalade 2022
@@ -11686,6 +11703,7 @@ DINAMO ZAGREB – AC MILAN
 DINAMO – CHELSEA
 DINANT
 DINARD
+DING LIREN
 DINNER FOR ONE
 DINO SCALA
 DION COOLS
@@ -11700,6 +11718,7 @@ DIRK DE WACHTER
 DIRK DE WOLF
 DIRK FRIMOUT
 DIRK NOWITZKI
+DIRK VAN DUIJVENBODE
 DIRTY DANCING
 DISCLOSURE
 DISCORD
@@ -12814,6 +12833,8 @@ DinamoZagreb–ACMilan
 Dinamo–Chelsea
 Dinant
 Dinard
+Ding Liren
+DingLiren
 Dinner for One
 DinnerforOne
 Dino Scala
@@ -12831,11 +12852,13 @@ Dirk De Wolf
 Dirk Frimout
 Dirk Nowitzki
 Dirk de Wachter
+Dirk van Duijvenbode
 DirkBach
 DirkDeWolf
 DirkFrimout
 DirkNowitzki
 DirkdeWachter
+DirkvanDuijvenbode
 Dirty Dancing
 DirtyDancing
 Disclosure
@@ -16548,6 +16571,7 @@ Fete des vendanges neuchatel
 Fete des voisins
 Fete du 15 aout
 Fete du Roi
+Fete du Travail
 Fete du cinema
 Fete du travail
 Fete nationale feux d'artifice
@@ -16572,6 +16596,7 @@ Fetedesvendangesneuchatel
 Fetedesvoisins
 Fetedu15aout
 FeteduRoi
+FeteduTravail
 Feteducinema
 Fetedutravail
 Fetenationalefeuxd'artifice
@@ -17748,6 +17773,7 @@ GAZIANTEP
 GAZPROM
 GAZPROM AKTIE
 GAËL MONFILS
+GAËLLE PIETRI GASPARD ULLIEL
 GAËLLE ROYER
 GBP/USD
 GC
@@ -18534,7 +18560,9 @@ GazpromAktie
 Gazrusse
 Gaël Monfils
 GaëlMonfils
+Gaëlle Pietri Gaspard Ulliel
 Gaëlle Royer
+GaëllePietriGaspardUlliel
 GaëlleRoyer
 GeForce Now
 GeForceNow
@@ -19402,6 +19430,7 @@ Guerre Ukraine Russie centrale nucléaire
 Guerre Ukraine russie Vladimir Poutine
 Guerre en Ukraine russie
 Guerre froide
+Guerre russie Ukraine
 Guerre ukraine Russie Vladimir Poutine
 Guerre ukraine armée russe
 GuerreRussieUkraine
@@ -19416,6 +19445,7 @@ GuerreUkraineRussiecentralenucléaire
 GuerreUkrainerussieVladimirPoutine
 GuerreenUkrainerussie
 Guerrefroide
+GuerrerussieUkraine
 GuerreukraineRussieVladimirPoutine
 Guerreukrainearméerusse
 Guide Michelin
@@ -20804,6 +20834,7 @@ INDIANA JONES 5
 INDOCHINE
 INDONESIEN
 INDONÉSIE
+INDYCAR
 INE BEYEN
 INEOS
 INES DE RAMON
@@ -21337,6 +21368,7 @@ IndianaJones5
 Indochine
 Indonesien
 Indonésie
+IndyCar
 Ine Beyen
 IneBeyen
 Ineos
@@ -22232,6 +22264,7 @@ JOAOFELIX
 JOAQUIN PHOENIX
 JOBBONUS
 JOBS
+JOCK ZONFRILLO
 JOCONDE
 JODIE COMER
 JODIE FOSTER
@@ -23403,6 +23436,8 @@ Joaquin Phoenix
 JoaquinPhoenix
 Jobbonus
 Jobs
+Jock Zonfrillo
+JockZonfrillo
 Joconde
 Jodie Comer
 Jodie Foster
@@ -29231,6 +29266,7 @@ MARK HOPPUS
 MARK KELLER
 MARK LANEGAN
 MARK UYTTERHOEVEN
+MARK VAN BOMMEL
 MARK WAHLBERG
 MARKCAVENDISH
 MARKIE POST
@@ -29293,6 +29329,7 @@ MARSEILLE GEGEN PSG
 MARSEILLE SAINT-ETIENNE
 MARSEILLE VS PSG
 MARSEILLE – ANGERS
+MARSEILLE – AUXERRE
 MARSEILLE – BREST
 MARSEILLE – CLERMONT
 MARSEILLE – EINTRACHT
@@ -31231,6 +31268,7 @@ Mark Keller
 Mark Lanegan
 Mark Uytterhoeven
 Mark Wahlberg
+Mark van Bommel
 MarkBlum
 MarkCavendish
 MarkForster
@@ -31249,6 +31287,7 @@ Markus Lanz
 Markus Söder
 MarkusLanz
 MarkusSöder
+MarkvanBommel
 Marleen Boonen Sterchele
 MarleenBoonenSterchele
 Marlen Reusser
@@ -31342,6 +31381,7 @@ Marseille gegen Eintracht Frankfurt
 Marseille gegen PSG
 Marseille vs PSG
 Marseille – Angers
+Marseille – Auxerre
 Marseille – Brest
 Marseille – Clermont
 Marseille – Eintracht
@@ -31378,6 +31418,7 @@ MarseillegegenEintrachtFrankfurt
 MarseillegegenPSG
 MarseillevsPSG
 Marseille–Angers
+Marseille–Auxerre
 Marseille–Brest
 Marseille–Clermont
 Marseille–Eintracht
@@ -35828,6 +35869,7 @@ PARIS-SG – KAWASAKI FRONTALE
 PARIS-SG – LE MANS
 PARIS-SG – LENS
 PARIS-SG – LILLE
+PARIS-SG – LORIENT
 PARIS-SG – MACCABI HAÏFA
 PARIS-SG – MARSEILLE
 PARIS-SG – METZ
@@ -36192,6 +36234,7 @@ PHILIPPE LELLOUCHE
 PHILIPPE MANOEUVRE
 PHILIPPE MARTINEZ
 PHILIPPE MARTINEZ CGT
+PHILIPPE MOREL
 PHILIPPE POUTOU
 PHILIPPE SONNET
 PHILIPPE STREIFF
@@ -36466,6 +36509,7 @@ POSTE
 POSTFINANCE
 POSTFINANCE STÖRUNG
 POSTNL
+POUNDBURY
 POUR QUI VOTER
 POUR TE RETROUVER
 POURQUOI 21 COUPS DE CANON
@@ -37007,6 +37051,7 @@ Paris-sg – Kawasaki Frontale
 Paris-sg – Le Mans
 Paris-sg – Lens
 Paris-sg – Lille
+Paris-sg – Lorient
 Paris-sg – Maccabi Haïfa
 Paris-sg – Marseille
 Paris-sg – Metz
@@ -37038,6 +37083,7 @@ Paris-sg–KawasakiFrontale
 Paris-sg–LeMans
 Paris-sg–Lens
 Paris-sg–Lille
+Paris-sg–Lorient
 Paris-sg–MaccabiHaïfa
 Paris-sg–Marseille
 Paris-sg–Metz
@@ -37097,6 +37143,7 @@ Parissg – Kawasaki Frontale
 Parissg – Le Mans
 Parissg – Lens
 Parissg – Lille
+Parissg – Lorient
 Parissg – Maccabi Haïfa
 Parissg – Marseille
 Parissg – Metz
@@ -37682,6 +37729,7 @@ Philippe Lellouche
 Philippe Manoeuvre
 Philippe Martinez
 Philippe Martinez CGT
+Philippe Morel
 Philippe Poutou
 Philippe Sonnet
 Philippe Streiff
@@ -37712,6 +37760,7 @@ PhilippeLellouche
 PhilippeManoeuvre
 PhilippeMartinez
 PhilippeMartinezCGT
+PhilippeMorel
 PhilippePoutou
 PhilippeSonnet
 PhilippeStreiff
@@ -38179,6 +38228,7 @@ Poste
 Postfinance
 Postfinance Störung
 PostfinanceStörung
+Poundbury
 Pour qui voter
 Pour te retrouver
 Pourquivoter
@@ -44748,6 +44798,7 @@ TADEJ POGACAR
 TADEJ POGAČAR
 TADESSE ABRAHAM
 TAG DER ARBEIT
+TAG DER ARBEIT DEUTSCHLAND
 TAG DER DEUTSCHEN EINHEIT
 TAG HEUER
 TAG Heuer
@@ -45625,8 +45676,10 @@ Tadejpogačar
 Tadesse Abraham
 TadesseAbraham
 Tag der Arbeit
+Tag der Arbeit deutschland
 Tag der Deutschen Einheit
 TagderArbeit
+TagderArbeitdeutschland
 TagderDeutschenEinheit
 Tagesschau
 Tagesschau SRF
@@ -48987,6 +49040,7 @@ WIJNALDUM
 WILBUR SMITH
 WILDER
 WILDHAUS
+WILFRIED FLORENTIN
 WILFRIED HAPPIO
 WILFRIED VAN MOER
 WILHELM TELL
@@ -49508,8 +49562,10 @@ Wilbur Smith
 WilburSmith
 Wilder
 Wildhaus
+Wilfried Florentin
 Wilfried Happio
 Wilfried Van Moer
+WilfriedFlorentin
 WilfriedHappio
 WilfriedVanMoer
 Wilhelm Tell
@@ -52881,6 +52937,7 @@ brand egerkingen
 brand herentals
 brand kehrsatz
 brand langstrasse
+brand luzern
 brand meilen
 brand solothurn
 brand universiteit antwerpen
@@ -53224,6 +53281,7 @@ camila cabello
 camila giorgi
 camila kendra
 camila morrone
+camilla
 camilla parker bowles
 camille
 camille balanche
@@ -53378,6 +53436,7 @@ casemiro
 cash
 cash investigation
 cash truck
+casino
 casio
 casoar
 casper nielsen
@@ -54233,6 +54292,7 @@ coupures compteur linky
 courchevel
 courchevel meribel
 courir
+couronnement roi charles
 cours de l'or
 course de l'escalade 2022
 courteney cox
@@ -54876,6 +54936,7 @@ dinamo zagreb – ac milan
 dinamo – chelsea
 dinant
 dinard
+ding liren
 dinner for one
 dino scala
 dion cools
@@ -54890,6 +54951,7 @@ dirk de wachter
 dirk de wolf
 dirk frimout
 dirk nowitzki
+dirk van duijvenbode
 dirty dancing
 disclosure
 discord
@@ -56823,6 +56885,7 @@ gaziantep
 gazprom
 gazprom aktie
 gaël monfils
+gaëlle pietri gaspard ulliel
 gaëlle royer
 gbp/usd
 gc
@@ -57993,6 +58056,7 @@ indiana jones 5
 indochine
 indonesien
 indonésie
+indycar
 ine beyen
 ineos
 ines de ramon
@@ -58707,6 +58771,7 @@ joaofelix
 joaquin phoenix
 jobbonus
 jobs
+jock zonfrillo
 joconde
 jodie comer
 jodie foster
@@ -61237,6 +61302,7 @@ mark hoppus
 mark keller
 mark lanegan
 mark uytterhoeven
+mark van bommel
 mark wahlberg
 markcavendish
 markie post
@@ -61297,6 +61363,7 @@ marseille gegen psg
 marseille saint-etienne
 marseille vs psg
 marseille – angers
+marseille – auxerre
 marseille – brest
 marseille – clermont
 marseille – eintracht
@@ -63368,6 +63435,7 @@ paris-sg – kawasaki frontale
 paris-sg – le mans
 paris-sg – lens
 paris-sg – lille
+paris-sg – lorient
 paris-sg – maccabi haïfa
 paris-sg – marseille
 paris-sg – metz
@@ -63722,6 +63790,7 @@ philippe lellouche
 philippe manoeuvre
 philippe martinez
 philippe martinez cgt
+philippe morel
 philippe poutou
 philippe sonnet
 philippe streiff
@@ -63994,6 +64063,7 @@ poste
 postfinance
 postfinance störung
 postnl
+poundbury
 pour qui voter
 pour te retrouver
 pourquoi 21 coups de canon
@@ -66502,6 +66572,7 @@ tadej pogacar
 tadej pogačar
 tadesse abraham
 tag der arbeit
+tag der arbeit deutschland
 tag der deutschen einheit
 tag heuer
 tagesschau
@@ -68156,6 +68227,7 @@ wijnaldum
 wilbur smith
 wilder
 wildhaus
+wilfried florentin
 wilfried happio
 wilfried van moer
 wilhelm tell
