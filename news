@@ -549,6 +549,7 @@ AC MILAN – ATALANTA
 AC MILAN – EMPOLI
 AC MILAN – FIORENTINA
 AC MILAN – INTER
+AC MILAN – LAZIO
 AC MILAN – MONZA
 AC MILAN – NAPLES
 AC MILAN – RB SALZBURG
@@ -562,6 +563,7 @@ AC Milan – Atalanta
 AC Milan – Empoli
 AC Milan – Fiorentina
 AC Milan – Inter
+AC Milan – Lazio
 AC Milan – Monza
 AC Milan – Naples
 AC Milan – RB Salzburg
@@ -607,6 +609,7 @@ ACMilan–Atalanta
 ACMilan–Empoli
 ACMilan–Fiorentina
 ACMilan–Inter
+ACMilan–Lazio
 ACMilan–Monza
 ACMilan–Naples
 ACMilan–RBSalzburg
@@ -1277,6 +1280,7 @@ ANGERS – BREST
 ANGERS – LENS
 ANGERS – LYON
 ANGERS – MARSEILLE
+ANGERS – MONACO
 ANGERS – MONTPELLIER
 ANGERS – NICE
 ANGERS – PARIS-SG
@@ -1466,6 +1470,7 @@ ANTWERP  ZULTE-WAREGEM
 ANTWERP - OMONIA
 ANTWERP - UNION
 ANTWERP FC
+ANTWERP GENK
 ANTWERP PORT EPIC
 ANTWERP – GENK
 ANTWERP – KAS EUPEN
@@ -1767,6 +1772,7 @@ AStarisBorn
 ATAKAN KARAZOR
 ATALANTA
 ATALANTA  CREMONESE
+ATALANTA  JUVENTUS
 ATALANTA  MILAN
 ATALANTA  ROMA
 ATALANTA  SALERNITANA
@@ -3309,6 +3315,7 @@ Angers – Brest
 Angers – Lens
 Angers – Lyon
 Angers – Marseille
+Angers – Monaco
 Angers – Montpellier
 Angers – Nice
 Angers – Rennes
@@ -3323,6 +3330,7 @@ Angers–Brest
 Angers–Lens
 Angers–Lyon
 Angers–Marseille
+Angers–Monaco
 Angers–Montpellier
 Angers–Nice
 Angers–Rennes
@@ -3643,6 +3651,7 @@ Antwerp  zultewaregem
 Antwerp - Omonia
 Antwerp - Union
 Antwerp FC
+Antwerp Genk
 Antwerp Port Epic
 Antwerp – Genk
 Antwerp – Standard
@@ -4133,6 +4142,7 @@ Atakan Karazor
 AtakanKarazor
 Atalanta
 Atalanta  Cremonese
+Atalanta  Juventus
 Atalanta  Milan
 Atalanta  Roma
 Atalanta  Salernitana
@@ -4145,6 +4155,7 @@ Atalanta – Naples
 Atalanta-Villarreal
 AtalantaBergamo
 AtalantaCremonese
+AtalantaJuventus
 AtalantaMilan
 AtalantaRoma
 AtalantaSalernitana
@@ -15558,12 +15569,14 @@ FC Porto gegen Inter
 FC SCHAFFHAUSEN
 FC SION
 FC SION GEGEN ST. GALLEN
+FC SION GEGEN WINTERTHUR
 FC ST. GALLEN
 FC ST.GALLEN
 FC ST.GALLEN 1879
 FC Schaffhausen
 FC Sion
 FC Sion gegen St. Gallen
+FC Sion gegen Winterthur
 FC St. Gallen
 FC St.Gallen
 FC St.Gallen 1879
@@ -15650,6 +15663,7 @@ FCSION
 FCSchaffhausen
 FCSion
 FCSiongegenSt.Gallen
+FCSiongegenWinterthur
 FCSt.Gallen
 FCSt.Gallen1879
 FCThun
@@ -18237,6 +18251,7 @@ GRAND PRIX DE FRANCE
 GRAND PRIX DE WALLONIE 2022
 GRAND PRIX DES ETATS UNIS
 GRAND PRIX F1
+GRAND PRIX F1 MIAMI
 GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
 GRAND PRIX SILVERSTONE
@@ -19230,6 +19245,7 @@ Grand Corps Malade
 Grand Palais éphémère
 Grand Prix Bern
 Grand Prix F1
+Grand Prix F1 Miami
 Grand Prix Monaco
 Grand Prix Pays-Bas
 Grand Prix PaysBas
@@ -19251,6 +19267,7 @@ GrandPalaiséphémère
 GrandPrix Bern
 GrandPrixBern
 GrandPrixF1
+GrandPrixF1Miami
 GrandPrixMonaco
 GrandPrixPays-Bas
 GrandPrixSilverstone
@@ -22413,6 +22430,7 @@ JOHAN MUSEEUW
 JOHAN VAN DER HEYDEN
 JOHANNA FARBER
 JOHANNA FÄRBER
+JOHANNES BRAHMS
 JOHANNES OERDING
 JOHANNES STROLZ
 JOHANNES VERMEER
@@ -23613,9 +23631,11 @@ Johanna Färber
 Johanna farber
 JohannaFärber
 Johannafarber
+Johannes Brahms
 Johannes Oerding
 Johannes Strolz
 Johannes Vermeer
+JohannesBrahms
 JohannesOerding
 JohannesStrolz
 JohannesVermeer
@@ -26320,6 +26340,7 @@ LIONEL JOSPIN
 LIONEL MESSI
 LIONEL MESSI PSG
 LIONEL MESSI WELTFUßBALLER
+LIONEL RICHIE
 LIONFILM
 LIOR REFAELOV
 LISA
@@ -28118,10 +28139,12 @@ Lionel Jospin
 Lionel Messi
 Lionel Messi PSG
 Lionel Messi Weltfußballer
+Lionel Richie
 LionelJospin
 LionelMessi
 LionelMessiPSG
 LionelMessiWeltfußballer
+LionelRichie
 Lior Refaelov
 LiorRefaelov
 Lisa
@@ -29559,6 +29582,7 @@ MASERATI GRECALE
 MASK SINGER
 MASK SINGER SAISON 3
 MASKED SINGER
+MASKED SINGER 2023
 MASKENPFLICHT
 MASKENPFLICHT SCHWEIZ
 MASKENPFLICHT ÖV
@@ -29794,6 +29818,7 @@ MEGAN THEE STALLION
 MEGANFOX
 MEGASCOLIA MACULATA
 MEGEVE
+MEGHAN
 MEGHAN MARKLE
 MEGHANMARKLE
 MEHDI MEKLAT
@@ -31713,7 +31738,9 @@ Mask Singer saison 3
 MaskSinger
 MaskSingersaison3
 Masked Singer
+Masked Singer 2023
 MaskedSinger
+MaskedSinger2023
 Maskenpflicht
 Maskenpflicht Schweiz
 Maskenpflicht ÖV Schweiz
@@ -32119,6 +32146,7 @@ MeganTheeStallion
 Megascolia maculata
 Megascoliamaculata
 Megeve
+Meghan
 Meghan Markle
 MeghanMarkle
 Mehdi Meklat
@@ -37723,7 +37751,9 @@ PengShuai
 Penn Badgley
 PennBadgley
 Penny Mordaunt
+Penny mordaunt
 PennyMordaunt
+Pennymordaunt
 Pensioenhervorming
 Pentagon
 Pentathlon moderne
@@ -39131,6 +39161,7 @@ REAL MADRID – ELCHE
 REAL MADRID – ESPANYOL
 REAL MADRID – GIRONA
 REAL MADRID – LIVERPOOL
+REAL MADRID – OSASUNA
 REAL MADRID – REAL SOCIEDAD
 REAL MADRID – SÉVILLE
 REAL MADRID – VALENCE
@@ -39219,6 +39250,7 @@ REIMS – AUXERRE
 REIMS – BORDEAUX
 REIMS – CLERMONT
 REIMS – LENS
+REIMS – LILLE
 REIMS – LORIENT
 REIMS – LYON
 REIMS – MARSEILLE
@@ -40107,6 +40139,7 @@ Real Madrid – Elche
 Real Madrid – Espanyol
 Real Madrid – Girona
 Real Madrid – Liverpool
+Real Madrid – Osasuna
 Real Madrid – Real Sociedad
 Real Madrid – Séville
 Real Madrid – Valence
@@ -40176,6 +40209,7 @@ RealMadrid–Elche
 RealMadrid–Espanyol
 RealMadrid–Girona
 RealMadrid–Liverpool
+RealMadrid–Osasuna
 RealMadrid–RealSociedad
 RealMadrid–Séville
 RealMadrid–Valence
@@ -40297,6 +40331,7 @@ Reims – Auxerre
 Reims – Bordeaux
 Reims – Clermont
 Reims – Lens
+Reims – Lille
 Reims – Lorient
 Reims – Lyon
 Reims – Marseille
@@ -40311,6 +40346,7 @@ Reims–Auxerre
 Reims–Bordeaux
 Reims–Clermont
 Reims–Lens
+Reims–Lille
 Reims–Lorient
 Reims–Lyon
 Reims–Marseille
@@ -41672,6 +41708,7 @@ SEGOLENE ROYAL
 SEGWAY
 SEISME CRETE
 SEISMES
+SEKO FOFANA
 SELAH SUE
 SELECT GROUP
 SELECTIE RODE DUIVELS
@@ -42022,6 +42059,7 @@ SOLDEU
 SOLEDAR
 SOLESMES
 SOLIDAYS
+SOLLERS
 SOLO LEVELING
 SOLOTHURNER ZEITUNG
 SOLSTICE
@@ -42277,6 +42315,7 @@ STAN LEE
 STAN WAWRINKA
 STANDARD
 STANDARD  CLUB BRUGGE
+STANDARD  GENT
 STANDARD - ANDERLECHT
 STANDARD BRUGES
 STANDARD CLUB BRUGGE
@@ -43382,6 +43421,8 @@ Segway
 Seisme crete
 Seismecrete
 Seismes
+Seko Fofana
+SekoFofana
 Selah Sue
 SelahSue
 Select Group
@@ -43939,6 +43980,7 @@ Soldeu
 Soledar
 Solesmes
 Solidays
+Sollers
 Solo Leveling
 SoloLeveling
 Solothurner Zeitung
@@ -44310,6 +44352,7 @@ StanWawrinka
 Standard
 Standard  Anderlecht
 Standard  Club Brugge
+Standard  Gent
 Standard - Anderlecht
 Standard Bruges
 Standard Club Brugge
@@ -44331,6 +44374,7 @@ Standard-Seraing
 StandardBeerschot
 StandardBruges
 StandardClubBrugge
+StandardGent
 StandardSeraing
 StandarddeLiège
 Standarddeliege
@@ -47469,6 +47513,7 @@ UFC 283
 UFC 284
 UFC 285
 UFC 286
+UFC 288
 UFC LONDON
 UFC London
 UFC PARIS
@@ -47489,6 +47534,7 @@ UFC283
 UFC284
 UFC285
 UFC286
+UFC288
 UFCLondon
 UFCParis
 UFL
@@ -49217,6 +49263,7 @@ WERCHTER PARKLIFE
 WERCHTERPARKLIFE
 WERDER BREMEN
 WERDER BREMEN GEGEN AUGSBURG
+WERDER BREMEN GEGEN BAYERN
 WERDER BREMEN GEGEN DORTMUND
 WERELD AUTISME DAG
 WERELDBEKER VELDRIJDEN
@@ -49244,6 +49291,7 @@ WEST SIDE STORY
 WEST-NIL-VIRUS
 WESTBROOK
 WESTERLO
+WESTERLO  CERCLE
 WESTERLO  GENT
 WESTERLO  KORTRIJK
 WESTERLO  MECHELEN
@@ -49687,9 +49735,11 @@ WerchterClassic2022
 WerchterParklife
 Werder Bremen
 Werder Bremen gegen Augsburg
+Werder Bremen gegen Bayern
 Werder Bremen gegen Dortmund
 WerderBremen
 WerderBremengegenAugsburg
+WerderBremengegenBayern
 WerderBremengegenDortmund
 Wereld Autisme Dag
 WereldAutismeDag
@@ -49738,6 +49788,7 @@ WestNilVirus
 WestSideStory
 Westbrook
 Westerlo
+Westerlo  Cercle
 Westerlo  Genk
 Westerlo  Gent
 Westerlo  Kortrijk
@@ -49750,6 +49801,7 @@ Westerlo – Anderlecht
 Westerlo – Cercle bruges
 Westerlo – Standard
 Westerlo-Genk
+WesterloCercle
 WesterloGent
 WesterloKortrijk
 WesterloMechelen
@@ -50501,6 +50553,7 @@ ZSC LIONS
 ZSC Lions
 ZSCLions
 ZUG
+ZUGER KANTONALES SCHWINGFEST 2023
 ZUGUNGLÜCK GRIECHENLAND
 ZUHAL DEMIR
 ZUID-AFRIKA
@@ -50732,6 +50785,8 @@ ZsaZsaGabor
 ZuRICH-FLUGHAFEN
 ZuRICHFLUGHAFEN
 Zug
+Zuger kantonales schwingfest 2023
+Zugerkantonalesschwingfest2023
 Zugunglück Griechenland
 ZugunglückGriechenland
 Zuhal Demir
@@ -50912,6 +50967,7 @@ ac milan – atalanta
 ac milan – empoli
 ac milan – fiorentina
 ac milan – inter
+ac milan – lazio
 ac milan – monza
 ac milan – naples
 ac milan – rb salzburg
@@ -51594,6 +51650,7 @@ angers – brest
 angers – lens
 angers – lyon
 angers – marseille
+angers – monaco
 angers – montpellier
 angers – nice
 angers – paris-sg
@@ -51781,6 +51838,7 @@ antwerp  zulte-waregem
 antwerp - omonia
 antwerp - union
 antwerp fc
+antwerp genk
 antwerp port epic
 antwerp – genk
 antwerp – kas eupen
@@ -52066,6 +52124,7 @@ asvel monaco
 atakan karazor
 atalanta
 atalanta  cremonese
+atalanta  juventus
 atalanta  milan
 atalanta  roma
 atalanta  salernitana
@@ -56349,6 +56408,7 @@ fc porto gegen inter
 fc schaffhausen
 fc sion
 fc sion gegen st. gallen
+fc sion gegen winterthur
 fc st. gallen
 fc st.gallen
 fc st.gallen 1879
@@ -57517,6 +57577,7 @@ grand prix de france
 grand prix de wallonie 2022
 grand prix des etats unis
 grand prix f1
+grand prix f1 miami
 grand prix monaco
 grand prix pays-bas
 grand prix silverstone
@@ -59104,6 +59165,7 @@ johan museeuw
 johan van der heyden
 johanna farber
 johanna färber
+johannes brahms
 johannes oerding
 johannes strolz
 johannes vermeer
@@ -60658,6 +60720,7 @@ lionel jospin
 lionel messi
 lionel messi psg
 lionel messi weltfußballer
+lionel richie
 lior refaelov
 lisa
 lisa azuelos
@@ -61754,6 +61817,7 @@ maserati grecale
 mask singer
 mask singer saison 3
 masked singer
+masked singer 2023
 maskenpflicht
 maskenpflicht schweiz
 maskenpflicht öv
@@ -61987,6 +62051,7 @@ megan thee stallion
 meganfox
 megascolia maculata
 megeve
+meghan
 meghan markle
 meghanmarkle
 mehdi meklat
@@ -64866,6 +64931,7 @@ real madrid – elche
 real madrid – espanyol
 real madrid – girona
 real madrid – liverpool
+real madrid – osasuna
 real madrid – real sociedad
 real madrid – séville
 real madrid – valence
@@ -64954,6 +65020,7 @@ reims – auxerre
 reims – bordeaux
 reims – clermont
 reims – lens
+reims – lille
 reims – lorient
 reims – lyon
 reims – marseille
@@ -65926,6 +65993,7 @@ segolene royal
 segway
 seisme crete
 seismes
+seko fofana
 selah sue
 select group
 selectie rode duivels
@@ -66265,6 +66333,7 @@ soldeu
 soledar
 solesmes
 solidays
+sollers
 solo leveling
 solothurner zeitung
 solstice
@@ -66498,6 +66567,7 @@ stan lee
 stan wawrinka
 standard
 standard  club brugge
+standard  gent
 standard - anderlecht
 standard bruges
 standard club brugge
@@ -67802,6 +67872,7 @@ ufc 283
 ufc 284
 ufc 285
 ufc 286
+ufc 288
 ufc london
 ufc paris
 ufl
@@ -68500,6 +68571,7 @@ werchter parklife
 werchterparklife
 werder bremen
 werder bremen gegen augsburg
+werder bremen gegen bayern
 werder bremen gegen dortmund
 wereld autisme dag
 wereldbeker veldrijden
@@ -68527,6 +68599,7 @@ west side story
 west-nil-virus
 westbrook
 westerlo
+westerlo  cercle
 westerlo  gent
 westerlo  kortrijk
 westerlo  mechelen
@@ -68975,6 +69048,7 @@ zsa zsa gabor
 zsc
 zsc lions
 zug
+zuger kantonales schwingfest 2023
 zugunglück griechenland
 zuhal demir
 zuid-afrika
