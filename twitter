@@ -1923,6 +1923,7 @@ $usdc
 8H40
 8JANVIERTOUSDANSLARUE
 8MAEUSE
+8MAI
 8MAI1945
 8MARCH
 8MARS
@@ -1948,6 +1949,7 @@ $usdc
 8h40
 8janviertousdanslarue
 8maeuse
+8mai
 8mai1945
 8march
 8mars
@@ -10319,6 +10321,7 @@ BON 14
 BON 15
 BON 1ER
 BON 31
+BON 8
 BON ANNIVERSAIRE
 BON CARÊME
 BON DIMANCHE
@@ -13338,6 +13341,7 @@ Bon 14
 Bon 15
 Bon 1er
 Bon 31
+Bon 8
 Bon Anniversaire
 Bon Carême
 Bon Dimanche
@@ -13359,6 +13363,7 @@ Bon14
 Bon15
 Bon1er
 Bon31
+Bon8
 BonAnniversaire
 BonAnniversaireSimon
 BonCarême
@@ -16152,6 +16157,7 @@ CHRISTOPHE LICATA
 CHRISTOPHE MAE
 CHRISTOPHE MAÉ
 CHRISTOPHE MOLMY
+CHRISTOPHE PRUDHOMME
 CHRISTOPHE URIOS
 CHRISTOPHE WILLEM
 CHRISTOPHEBAY
@@ -18999,6 +19005,7 @@ Christophe Licata
 Christophe Mae
 Christophe Maé
 Christophe Molmy
+Christophe Prudhomme
 Christophe Urios
 Christophe Willem
 ChristopheBarbier
@@ -19021,6 +19028,7 @@ ChristopheLicata
 ChristopheMae
 ChristopheMaé
 ChristopheMolmy
+ChristophePrudhomme
 ChristopheUrios
 ChristopheWillem
 Christopher
@@ -56617,7 +56625,9 @@ MERCI OMEN & MARIE
 MERCI PABLO
 MERCI PARIS
 MERCI PAU
+MERCI PRESIDENT
 MERCI PROFESSEUR
+MERCI PRÉSIDENT
 MERCI RAFA
 MERCI SEIGNEUR
 MERCI THIERRY
@@ -60464,6 +60474,7 @@ Merci Pablo
 Merci Paris
 Merci Pau
 Merci Professeur
+Merci Président
 Merci Rafa
 Merci Seigneur
 Merci Thierry
@@ -60516,6 +60527,7 @@ MerciParis
 MerciPau
 MerciPolak
 MerciProfesseur
+MerciPrésident
 MerciROG
 MerciRafa
 MerciRayanEtGoq
@@ -66996,6 +67008,7 @@ PALACE
 PALAIS
 PALAIS BOURBON
 PALAIS DE JUSTICE
+PALAIS DE TOKYO
 PALAIS ROYAL
 PALAISDEJUSTICE
 PALAVAS
@@ -69608,9 +69621,11 @@ Palais
 Palais Bourbon
 Palais Royal
 Palais de Justice
+Palais de Tokyo
 PalaisBourbon
 PalaisRoyal
 PalaisdeJustice
+PalaisdeTokyo
 Palavas
 Paleis
 Paleis 12
@@ -102007,6 +102022,7 @@ bon 14
 bon 15
 bon 1er
 bon 31
+bon 8
 bon anniversaire
 bon carême
 bon dimanche
@@ -104822,6 +104838,7 @@ christophe licata
 christophe mae
 christophe maé
 christophe molmy
+christophe prudhomme
 christophe urios
 christophe willem
 christophebarbier
@@ -125855,6 +125872,7 @@ merci pablo
 merci paris
 merci pau
 merci professeur
+merci président
 merci rafa
 merci seigneur
 merci thierry
@@ -130259,6 +130277,7 @@ palace
 palais
 palais bourbon
 palais de justice
+palais de tokyo
 palais royal
 palaisdejustice
 palavas
