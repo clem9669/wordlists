@@ -17,6 +17,7 @@ $KDA
 $KKMA
 $LUNA
 $MONG
+$NPC
 $PEPE
 $POWER
 $SFUND
@@ -47,6 +48,7 @@ $kda
 $kkma
 $luna
 $mong
+$npc
 $pepe
 $power
 $sfund
@@ -4350,6 +4352,7 @@ ARES11
 ARES12
 ARES13
 ARES14
+ARES15
 ARES3
 ARES4
 ARES6
@@ -49568,6 +49571,7 @@ LEHRE
 LEHRER
 LEHRERIN
 LEHRPERSONEN
+LEHRPLAN
 LEIA
 LEIARS
 LEIBCHEN
@@ -53071,6 +53075,7 @@ Lehre
 Lehrer
 Lehrerin
 Lehrpersonen
+Lehrplan
 LeiChe
 Leia
 Leibchen
@@ -99413,6 +99418,7 @@ ares11
 ares12
 ares13
 ares14
+ares15
 ares3
 ares4
 ares6
@@ -122339,6 +122345,7 @@ lehre
 lehrer
 lehrerin
 lehrpersonen
+lehrplan
 leia
 leiars
 leibchen
