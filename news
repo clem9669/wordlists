@@ -594,6 +594,7 @@ ACCIDENT FLEMALLE
 ACCIDENT JURA
 ACCIDENT LAUSANNE
 ACCIDENT MARC-PHILIPPE DAUBRESSE
+ACCIDENT MARCINELLE
 ACCIDENT METRO PARISIEN
 ACCIDENT TROTTINETTE LYON
 ACCIDENT VOITURE SOFIAN KIYINE
@@ -660,6 +661,7 @@ ADELE HAENEL
 ADELE MILLOZ
 ADELE VAN REETH
 ADELE, 30
+ADELINE TONIUTTI
 ADEMOLA OKULAJA
 ADESANYA
 ADHS
@@ -1820,10 +1822,13 @@ ATOMKRIEG
 ATOS
 ATP  Finals
 ATP  Marseille
+ATP  Rome
 ATP - FINALS
 ATP - Finals
 ATP - MARSEILLE
 ATP - Marseille
+ATP - ROME
+ATP - Rome
 ATP CUP
 ATP Cup
 ATP FINALS
@@ -1838,6 +1843,7 @@ ATP-Finals
 ATP-Marseille
 ATP-RANKING
 ATP-Ranking
+ATP-Rome
 ATPCup
 ATPFinals
 ATPRanking
@@ -2131,6 +2137,7 @@ Accident Jura
 Accident Lausanne
 Accident Marc-Philippe Daubresse
 Accident MarcPhilippe Daubresse
+Accident Marcinelle
 Accident acteur jérémy Renner
 Accident ariege
 Accident autoroute
@@ -2153,6 +2160,7 @@ AccidentE42
 AccidentJura
 AccidentLausanne
 AccidentMarc-PhilippeDaubresse
+AccidentMarcinelle
 AccidentacteurjérémyRenner
 Accidentariege
 Accidentautoroute
@@ -2247,6 +2255,8 @@ AdeleExarchopoulos
 AdeleHaenel
 AdeleMilloz
 AdeleVanReeth
+Adeline Toniutti
+AdelineToniutti
 Ademola Okulaja
 AdemolaOkulaja
 Adesanya
@@ -4605,6 +4615,7 @@ BAKOU
 BAKU
 BAKURIANI
 BALE
+BALELEC
 BALEN
 BALENCIAGA
 BALEXERT
@@ -4967,6 +4978,7 @@ BELOEGA
 BELUGA
 BEN AFFLECK
 BEN AFFLECK JENNIFER GARNER
+BEN AFFLECK JENNIFER LOPEZ
 BEN ARFA
 BEN BECKER
 BEN BERNANKE
@@ -5010,6 +5022,7 @@ BENITO RAMAN
 BENJAMIN AZOULAY
 BENJAMIN BIOLAY
 BENJAMIN BIOLAY ROSELYNE BACHELOT
+BENJAMIN BRIERE
 BENJAMIN CASTALDI
 BENJAMIN DUHAMEL
 BENJAMIN GRIVEAUX
@@ -5076,6 +5089,7 @@ BERNARDO SILVA
 BERNARDTAPIE
 BERND GRIMMER
 BERND STORCK
+BERNER RUNDFAHRT
 BERNERHOF
 BERNIE ECCLESTONE
 BERNINAPASS
@@ -5610,6 +5624,7 @@ BRIDGET FONDA
 BRIDGET JONES
 BRIE LARSON
 BRIENZ
+BRIENZ GRAUBÜNDEN
 BRIGADIER BROCCOLI
 BRIGHT BRUSSELS
 BRIGHTON – ARSENAL
@@ -5875,6 +5890,7 @@ Bakou
 Baku
 Bakuriani
 Bale
+Balelec
 Balen
 Balenciaga
 Balexert
@@ -6494,6 +6510,7 @@ Beloega
 Beluga
 Ben Affleck
 Ben Affleck Jennifer Garner
+Ben Affleck Jennifer Lopez
 Ben Arfa
 Ben Becker
 Ben Bernanke
@@ -6506,6 +6523,7 @@ Ben White
 Ben Zucker
 BenAffleck
 BenAffleckJenniferGarner
+BenAffleckJenniferLopez
 BenArfa
 BenBecker
 BenBernanke
@@ -6580,6 +6598,7 @@ Benjamin Maréchal
 Benjamin Mendy
 Benjamin Pavard
 Benjamin Voisin
+Benjamin briere
 BenjaminAzoulay
 BenjaminBiolay
 BenjaminBiolayRoselyneBachelot
@@ -6592,6 +6611,7 @@ BenjaminMaréchal
 BenjaminMendy
 BenjaminPavard
 BenjaminVoisin
+Benjaminbriere
 Benny Claessens
 BennyClaessens
 Benoit 16
@@ -6693,6 +6713,8 @@ Bernd Grimmer
 Bernd Storck
 BerndGrimmer
 BerndStorck
+Berner Rundfahrt
+BernerRundfahrt
 Bernerhof
 Bernie Ecclestone
 BernieEcclestone
@@ -7519,6 +7541,8 @@ BridgetJones
 Brie Larson
 BrieLarson
 Brienz
+Brienz Graubünden
+BrienzGraubünden
 Brigadier Broccoli
 BrigadierBroccoli
 Bright Brussels
@@ -8302,6 +8326,7 @@ CHARLOTTE VALANDREY
 CHARLOTTE VANDERMEERSCH
 CHARLOTTE WÜRDIG
 CHARLY MUSONDA
+CHARLÈNE DE MONACO
 CHARMED
 CHASSE AUX OEUFS
 CHASSEUR BLANC COEUR NOIR
@@ -9915,6 +9940,8 @@ CharlotteWürdig
 CharlottedeWitte
 Charly Musonda
 CharlyMusonda
+Charlène de Monaco
+CharlènedeMonaco
 Charmed
 Chasse aux oeufs
 Chasseauxoeufs
@@ -13780,6 +13807,7 @@ EMMA THOMPSON
 EMMA WATSON
 EMMANUEL DE LA TAILLE
 EMMANUEL MACRON
+EMMANUEL MACRON DUNKERQUE
 EMMANUEL MACRON PREMIER MINISTRE
 EMMANUEL MACRON SANTÉ
 EMMANUEL MACRON VENDÔME
@@ -13948,6 +13976,9 @@ ESC FINALE 2023
 ESC GEWINNER 2022
 ESC finale 2023
 ESC gewinner 2022
+ESC-FINALE 2023
+ESC-Finale 2023
+ESC-Finale2023
 ESC2022
 ESC2022Finale
 ESC2023
@@ -13957,6 +13988,7 @@ ESCALADE JO
 ESCAPE FROM TARKOV
 ESCAPE PLAN
 ESCAPE PLAN 2
+ESCFinale 2023
 ESCHER-WYSS-PLATZ UNFALL
 ESCROQUERIE
 ESCfinale2023
@@ -14134,6 +14166,7 @@ EUROTUNNEL
 EUROVISIE
 EUROVISIE SONGFESTIVAL 2023
 EUROVISIESONGFESTIVAL 2022
+EUROVISION
 EUROVISION 2022
 EUROVISION 2022 BELGIQUE
 EUROVISION 2023
@@ -14706,12 +14739,14 @@ EmmaThompson
 EmmaWatson
 EmmadeCaunes
 Emmanuel Macron
+Emmanuel Macron Dunkerque
 Emmanuel Macron Premier ministre
 Emmanuel Macron Vendôme
 Emmanuel Macron santé
 Emmanuel Petit
 Emmanuel de La Taille
 EmmanuelMacron
+EmmanuelMacronDunkerque
 EmmanuelMacronPremierministre
 EmmanuelMacronVendôme
 EmmanuelMacronsanté
@@ -15248,6 +15283,7 @@ Eurovisie Songfestival 2023
 EurovisieSongfestival2023
 Eurovisiesongfestival 2022
 Eurovisiesongfestival2022
+Eurovision
 Eurovision 2022
 Eurovision 2022 Belgique
 Eurovision 2023
@@ -16247,6 +16283,7 @@ FRANCESUISSE
 FRANCE–SUISSE
 FRANCINE JORDI
 FRANCIS AMUZU
+FRANCIS CABREL
 FRANCIS DANNEMARK
 FRANCIS HUSTER
 FRANCIS KERE
@@ -17399,6 +17436,7 @@ Francis Huster
 Francis Lalanne
 Francis Ngannou
 Francis Perrin
+Francis cabrel
 Francis kere
 FrancisAmuzu
 FrancisDannemark
@@ -17406,6 +17444,7 @@ FrancisHuster
 FrancisLalanne
 FrancisNgannou
 FrancisPerrin
+Franciscabrel
 Franciskere
 Franck Berrier
 Franck Dubosc
@@ -18148,6 +18187,7 @@ GIRO 2022
 GIRO 2023
 GIRO D'ITALIA
 GIRO D'ITALIA 2022
+GIRO LIVE
 GIRONA – REAL MADRID
 GIRONDE
 GIRONDINS DE BORDEAUX
@@ -18306,6 +18346,7 @@ GRAMMY NOMINATIONS 2023
 GRAMMYS 2022
 GRAMMYS 2023
 GRAN SASSO
+GRAN SASSO D'ITALIA
 GRAN TURISMO 7
 GRANADA  BARCELONA
 GRAND COMBIN
@@ -19113,10 +19154,12 @@ Girmay
 Giro
 Giro 2022
 Giro 2023
+Giro LIVE
 Giro d'Italia
 Giro d'Italia 2022
 Giro2022
 Giro2023
+GiroLIVE
 Girod'Italia
 Girod'Italia2022
 Girona – Real Madrid
@@ -19306,8 +19349,10 @@ Grammys 2023
 Grammys2022
 Grammys2023
 Gran Sasso
+Gran Sasso d'Italia
 Gran Turismo 7
 GranSasso
+GranSassod'Italia
 GranTurismo7
 Granada  Barcelona
 GranadaBarcelona
@@ -24828,6 +24873,7 @@ KYLIANMBAPPE
 KYLIANMBAPPe
 KYLIANMBAPPé
 KYLIE JENNER
+KYLIE MINOGUE
 KYRGIOS
 KYRIE IRVING
 Kaa Gent – Standard
@@ -25571,7 +25617,9 @@ KylianMbappéPSG
 Kylianmbappe
 Kylianmbappépsg
 Kylie Jenner
+Kylie Minogue
 KylieJenner
+KylieMinogue
 Kyrgios
 Kyrie Irving
 KyrieIrving
@@ -25967,6 +26015,7 @@ LAZIO  SPEZIA
 LAZIO GEGEN INTER
 LAZIO – AC MILAN
 LAZIO – INTER
+LAZIO – LECCE
 LAZIO – NAPLES
 LAZIO – STURM GRAZ
 LDC
@@ -27372,6 +27421,7 @@ Lazio  Spezia
 Lazio gegen Inter
 Lazio – AC Milan
 Lazio – Inter
+Lazio – Lecce
 Lazio – Naples
 Lazio – Sturm Graz
 LazioJuventus
@@ -27382,6 +27432,7 @@ LazioSpezia
 LaziogegenInter
 Lazio–ACMilan
 Lazio–Inter
+Lazio–Lecce
 Lazio–Naples
 Lazio–SturmGraz
 LdC
@@ -29320,6 +29371,7 @@ MANO (LANDES
 MANON BRUNET
 MANON CLAEYS
 MANON ÉLIMINÉE N'OUBLIEZ PAS LES PAROLES
+MANSOUR BARNAOUI
 MANTA MANTA 2
 MANU
 MANUEL AKANJI
@@ -29471,6 +29523,7 @@ MARIANNE VOS
 MARIANNE WILLIAMSON
 MARIE AGNES GILLOT
 MARIE KONDO
+MARIE LAFORET
 MARIE MYRIAM
 MARIE PATOUILLET
 MARIE PORTOLANO
@@ -31159,6 +31212,8 @@ Manon éliminée N'oubliez pas les paroles
 ManonBrunet
 ManonClaeys
 ManonéliminéeN'oubliezpaslesparoles
+Mansour Barnaoui
+MansourBarnaoui
 Manta Manta 2
 MantaManta2
 Manu
@@ -31440,6 +31495,7 @@ Marie Trintignant
 Marie Verhulst
 Marie Wegener
 Marie agnes Gillot
+Marie laforet
 Marie s'infiltre
 Marie-Antoinette
 Marie-Charlotte Garin
@@ -31474,6 +31530,7 @@ Marieke Blomme
 Marieke Vervoort
 MariekeBlomme
 MariekeVervoort
+Marielaforet
 Maries au premier regard
 Maries'infiltre
 Mariesaupremierregard
@@ -34151,6 +34208,7 @@ NUIT BLANCHE 2021
 NUIT BLANCHE 2022
 NUIT BLANCHE PARIS
 NUIT DES ETOILES 2022
+NUIT DES MUSÉES 2023
 NUIT DES ÉTOILES FILANTES
 NUITS DE FOURVIERE
 NUNO MENDES
@@ -35075,11 +35133,13 @@ Nuit Blanche 2021
 Nuit Blanche Paris
 Nuit blanche 2022
 Nuit des etoiles 2022
+Nuit des musées 2023
 Nuit des étoiles filantes
 NuitBlanche2021
 NuitBlancheParis
 Nuitblanche2022
 Nuitdesetoiles2022
+Nuitdesmusées2023
 Nuitdesétoilesfilantes
 Nuits de fourviere
 Nuitsdefourviere
@@ -37071,6 +37131,8 @@ PSG – VfL Wolfsburg
 PSG, NEYMAR
 PSG, Neymar
 PSG,Neymar
+PSG-AJACCIO
+PSG-Ajaccio
 PSG-Angers
 PSG-BAYERN
 PSG-BREST
@@ -37090,6 +37152,7 @@ PSG-Monaco
 PSG-OM
 PSG-STRASBOURG
 PSG-Strasbourg
+PSGAjaccio
 PSGAl-Nassr
 PSGAngers
 PSGBayern
@@ -45276,6 +45339,7 @@ TATJANA GSELL
 TATJANA MARIA
 TATJANA PATITZ
 TATJANA PATIZ
+TATJANA SIMIC
 TATORT DORTMUND
 TATORT GIER UND ANGST
 TATORT HEUTE
@@ -45463,6 +45527,7 @@ THE MATRIX RESURRECTIONS
 THE MENU
 THE MERGE
 THE MONKEES
+THE MOTHER
 THE MULE
 THE NATIONAL
 THE NORTHMAN
@@ -45505,6 +45570,7 @@ THE VOICE FLORENT PAGNY
 THE VOICE FRANCE 2022
 THE VOICE KIDS
 THE VOICE KIDS 2022
+THE VOICE KIDS 2023
 THE VOICE OF GERMANY 2021
 THE VOICE OF GERMANY 2022
 THE VOICE VAN VLAANDEREN
@@ -45930,8 +45996,11 @@ TPG
 TPMP
 TPMP CYRIL HANOUNA
 TPMP Cyril Hanouna
+TPMP MATTHIEU DELORMEAU
+TPMP Matthieu Delormeau
 TPMP cyril hanouna
 TPMPCyrilHanouna
+TPMPMatthieuDelormeau
 TPMPcyrilhanouna
 TRABZONSPOR
 TRABZONSPOR  FENERBAHÇE
@@ -46196,10 +46265,12 @@ TatianadeRosnay
 Tatjana Gsell
 Tatjana Maria
 Tatjana Patitz
+Tatjana Simic
 Tatjana patiz
 TatjanaGsell
 TatjanaMaria
 TatjanaPatitz
+TatjanaSimic
 Tatjanapatiz
 Tatort Dortmund
 Tatort Gier und Angst
@@ -46437,6 +46508,7 @@ The Matrix Resurrections
 The Menu
 The Merge
 The Monkees
+The Mother
 The Mule
 The National
 The Northman
@@ -46475,6 +46547,7 @@ The Voice Florent Pagny
 The Voice France 2022
 The Voice Kids
 The Voice Kids 2022
+The Voice Kids 2023
 The Voice of Germany 2021
 The Voice of Germany 2022
 The Walking Dead
@@ -46555,6 +46628,7 @@ TheMatrixResurrections
 TheMenu
 TheMerge
 TheMonkees
+TheMother
 TheMule
 TheNational
 TheNorthman
@@ -46592,6 +46666,7 @@ TheVoiceFlorentPagny
 TheVoiceFrance2022
 TheVoiceKids
 TheVoiceKids2022
+TheVoiceKids2023
 TheVoiceofGermany2021
 TheVoiceofGermany2022
 TheWalkingDead
@@ -49328,6 +49403,7 @@ WAHLEN KANTON ZÜRICH
 WAHLEN LUZERN
 WAHLEN LUZERN 2023
 WAHLEN SCHWEIZ
+WAHLEN TÜRKEI
 WAHLEN UNGARN
 WAHLEN ZUG
 WALDBRAND MEIRINGEN
@@ -49742,6 +49818,7 @@ Wahlen Kanton Zürich
 Wahlen Luzern
 Wahlen Luzern 2023
 Wahlen Schweiz
+Wahlen Türkei
 Wahlen Ungarn
 Wahlen Zug
 WahlenDeutschland
@@ -49752,6 +49829,7 @@ WahlenKantonZürich
 WahlenLuzern
 WahlenLuzern2023
 WahlenSchweiz
+WahlenTürkei
 WahlenUngarn
 WahlenZug
 Waldbrand Meiringen
@@ -51182,6 +51260,7 @@ accident flemalle
 accident jura
 accident lausanne
 accident marc-philippe daubresse
+accident marcinelle
 accident metro parisien
 accident trottinette lyon
 accident voiture sofian kiyine
@@ -51234,6 +51313,7 @@ adele haenel
 adele milloz
 adele van reeth
 adele, 30
+adeline toniutti
 ademola okulaja
 adesanya
 adhs
@@ -52356,6 +52436,7 @@ atomkrieg
 atos
 atp - finals
 atp - marseille
+atp - rome
 atp cup
 atp finals
 atp ranking
@@ -52581,6 +52662,7 @@ bakou
 baku
 bakuriani
 bale
+balelec
 balen
 balenciaga
 balexert
@@ -52935,6 +53017,7 @@ beloega
 beluga
 ben affleck
 ben affleck jennifer garner
+ben affleck jennifer lopez
 ben arfa
 ben becker
 ben bernanke
@@ -52978,6 +53061,7 @@ benito raman
 benjamin azoulay
 benjamin biolay
 benjamin biolay roselyne bachelot
+benjamin briere
 benjamin castaldi
 benjamin duhamel
 benjamin griveaux
@@ -53043,6 +53127,7 @@ bernardo silva
 bernardtapie
 bernd grimmer
 bernd storck
+berner rundfahrt
 bernerhof
 bernie ecclestone
 berninapass
@@ -53548,6 +53633,7 @@ bridget fonda
 bridget jones
 brie larson
 brienz
+brienz graubünden
 brigadier broccoli
 bright brussels
 brighton – arsenal
@@ -54208,6 +54294,7 @@ charlotte valandrey
 charlotte vandermeersch
 charlotte würdig
 charly musonda
+charlène de monaco
 charmed
 chasse aux oeufs
 chasseur blanc coeur noir
@@ -56055,6 +56142,7 @@ emma thompson
 emma watson
 emmanuel de la taille
 emmanuel macron
+emmanuel macron dunkerque
 emmanuel macron premier ministre
 emmanuel macron santé
 emmanuel macron vendôme
@@ -56215,6 +56303,7 @@ esc 2022 finale
 esc 2023
 esc finale 2023
 esc gewinner 2022
+esc-finale 2023
 escalade
 escalade 2022
 escalade jo
@@ -56388,6 +56477,7 @@ eurotunnel
 eurovisie
 eurovisie songfestival 2023
 eurovisiesongfestival 2022
+eurovision
 eurovision 2022
 eurovision 2022 belgique
 eurovision 2023
@@ -57110,6 +57200,7 @@ francesuisse
 france–suisse
 francine jordi
 francis amuzu
+francis cabrel
 francis dannemark
 francis huster
 francis kere
@@ -57648,6 +57739,7 @@ giro 2022
 giro 2023
 giro d'italia
 giro d'italia 2022
+giro live
 girona – real madrid
 gironde
 girondins de bordeaux
@@ -57775,6 +57867,7 @@ grammy nominations 2023
 grammys 2022
 grammys 2023
 gran sasso
+gran sasso d'italia
 gran turismo 7
 granada  barcelona
 grand combin
@@ -60162,6 +60255,7 @@ kylian mbappé psg
 kylianmbappe
 kylianmbappé
 kylie jenner
+kylie minogue
 kyrgios
 kyrie irving
 kälin irene
@@ -60479,6 +60573,7 @@ lazio  spezia
 lazio gegen inter
 lazio – ac milan
 lazio – inter
+lazio – lecce
 lazio – naples
 lazio – sturm graz
 ldc
@@ -61671,6 +61766,7 @@ mano (landes
 manon brunet
 manon claeys
 manon éliminée n'oubliez pas les paroles
+mansour barnaoui
 manta manta 2
 manu
 manuel akanji
@@ -61822,6 +61918,7 @@ marianne vos
 marianne williamson
 marie agnes gillot
 marie kondo
+marie laforet
 marie myriam
 marie patouillet
 marie portolano
@@ -63534,6 +63631,7 @@ nuit blanche 2021
 nuit blanche 2022
 nuit blanche paris
 nuit des etoiles 2022
+nuit des musées 2023
 nuit des étoiles filantes
 nuits de fourviere
 nuno mendes
@@ -64857,6 +64955,7 @@ psg – bayern munich
 psg – quevilly-rouen métropole
 psg – vfl wolfsburg
 psg, neymar
+psg-ajaccio
 psg-bayern
 psg-brest
 psg-lille
@@ -67269,6 +67368,7 @@ tatjana gsell
 tatjana maria
 tatjana patitz
 tatjana patiz
+tatjana simic
 tatort dortmund
 tatort gier und angst
 tatort heute
@@ -67446,6 +67546,7 @@ the matrix resurrections
 the menu
 the merge
 the monkees
+the mother
 the mule
 the national
 the northman
@@ -67488,6 +67589,7 @@ the voice florent pagny
 the voice france 2022
 the voice kids
 the voice kids 2022
+the voice kids 2023
 the voice of germany 2021
 the voice of germany 2022
 the voice van vlaanderen
@@ -67907,6 +68009,7 @@ toyota gr corolla
 tpg
 tpmp
 tpmp cyril hanouna
+tpmp matthieu delormeau
 trabzonspor
 trabzonspor  fenerbahçe
 trabzonspor – monaco
@@ -68712,6 +68815,7 @@ wahlen kanton zürich
 wahlen luzern
 wahlen luzern 2023
 wahlen schweiz
+wahlen türkei
 wahlen ungarn
 wahlen zug
 waldbrand meiringen
