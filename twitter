@@ -10188,6 +10188,8 @@ BLASPHEMOUS 2
 BLAST
 BLASTPREMIER
 BLASTPremier
+BLASTTVMAJOR
+BLASTTVMajor
 BLATARNAQUE
 BLATT
 BLATTER
@@ -15054,6 +15056,7 @@ CANNES2022
 CANNES2023
 CANNESCOMEDYSHOW
 CANNESFILMFESTIVAL2022
+CANNESFILMFESTIVAL2023
 CANNESLIONS
 CANNESLIONS2022
 CANNET
@@ -18004,6 +18007,7 @@ Cannes2023
 CannesClassics
 CannesComedyShow
 CannesFilmFestival2022
+CannesFilmFestival2023
 CannesLions
 CannesLions2022
 Cannet
@@ -45946,6 +45950,7 @@ KILIMANJARO
 KILL BILL
 KILLER
 KILLERS OF THE FLOWER MOON
+KILLERSOFTHEFLOWERMOON
 KILLIAN
 KILLIAN HAYES
 KILLIANHAYES
@@ -47330,6 +47335,7 @@ Kill Bill
 KillBill
 Killer
 Killers of the Flower Moon
+KillersOfTheFlowerMoon
 KillersoftheFlowerMoon
 Killian
 Killian Hayes
@@ -58650,6 +58656,7 @@ MORTALITE & VACCINATION
 MORTALITE&VACCINATION
 MORTALITEVACCINATION
 MORTALKOMBAT
+MORTALKOMBAT1
 MORTAZA BEHBOUDI
 MORTDEJEAN-PAULBELMONDO
 MORTDEJEANPAULBELMONDO
@@ -63382,6 +63389,7 @@ NAUGHTY DOG
 NAUKA
 NAULLEAU
 NAULLEAUGROSCON
+NAUTILUS
 NAVAL GROUP
 NAVALGROUP
 NAVALNY
@@ -64321,6 +64329,7 @@ NOUVELLECALEDONIE
 NOUVELLECOLE
 NOUVELLEECOLE
 NOUVELLEECOLE2
+NOUVELLEECOLESAISON2
 NOUVELLEFRANCE
 NOUVELLEPHOTODEPROFIL
 NOUVELLESTAR
@@ -64744,6 +64753,7 @@ NaughtyDog
 Nauka
 Naulleau
 NaulleauGrosCon
+Nautilus
 Naval Group
 NavalGroup
 Navalny
@@ -65577,6 +65587,7 @@ Nouvelle-Zélande
 NouvelleAquitaine
 NouvelleCalédonie
 NouvelleEcole2
+NouvelleEcoleSaison2
 NouvelleFrance
 NouvellePhotoDeProfil
 NouvelleStar
@@ -75049,6 +75060,7 @@ RTLTURMSPRINGEN
 RTLTurmspringen
 RTNC
 RTSINFRAROUGE
+RTX4060
 RTXON
 RTXOn
 RUBEL
@@ -102837,6 +102849,7 @@ blase
 blasphemous 2
 blast
 blastpremier
+blasttvmajor
 blatarnaque
 blatt
 blatter
@@ -104646,6 +104659,7 @@ cannes2022
 cannes2023
 cannescomedyshow
 cannesfilmfestival2022
+cannesfilmfestival2023
 canneslions
 canneslions2022
 cannet
@@ -120761,6 +120775,7 @@ kilimanjaro
 kill bill
 killer
 killers of the flower moon
+killersoftheflowermoon
 killian
 killian hayes
 killianhayes
@@ -128609,6 +128624,7 @@ mortalité & vaccination
 mortalité&vaccination
 mortalitévaccination
 mortalkombat
+mortalkombat1
 mortaza behboudi
 mortazabehboudi
 mortdejean-paulbelmondo
@@ -129373,6 +129389,7 @@ naughty dog
 nauka
 naulleau
 naulleaugroscon
+nautilus
 naval group
 navalgroup
 navalny
@@ -130269,6 +130286,7 @@ nouvellecalédonie
 nouvellecole
 nouvelleecole
 nouvelleecole2
+nouvelleecolesaison2
 nouvellefrance
 nouvellephotodeprofil
 nouvellestar
@@ -136097,6 +136115,7 @@ rtlmatin
 rtlturmspringen
 rtnc
 rtsinfrarouge
+rtx4060
 rtxon
 rubel
 ruben
