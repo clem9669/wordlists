@@ -4859,6 +4859,7 @@ ASSEPAU
 ASSEPAUFC
 ASSEPFC
 ASSEPSG
+ASSEQRM
 ASSERAF
 ASSERCL
 ASSERCSA
@@ -15858,6 +15859,7 @@ CHAMPIONS DU MONDE
 CHAMPIONS LEAGUE
 CHAMPIONS OLYMPIQUES
 CHAMPIONSCUP
+CHAMPIONSCUPFINAL
 CHAMPIONSDUMONDE
 CHAMPIONSGOBEYOND
 CHAMPIONSHIP
@@ -18692,6 +18694,7 @@ ChampionsGoBeyond
 ChampionsLeague
 ChampionsLeagueFinal
 ChampionsOlympiques
+Championscupfinal
 Championship
 Champomy
 Champoussin
@@ -68830,6 +68833,7 @@ PEUT-ÊTRE
 PEUTETRE
 PEUTIE
 PEUTÊTRE
+PEYPER
 PEYRAGUDES
 PEYRAT
 PEYZ
@@ -71500,6 +71504,7 @@ Peutetre
 Peutie
 Peuton
 Peutêtre
+Peyper
 Peyragudes
 Peyrat
 Peyz
@@ -74375,6 +74380,7 @@ RETRAITEA60ANS
 RETRAITEE
 RETRO2021
 RETRODECOUVERTE
+RETROUVONSLABDHFLAMANDE
 RETTUNG
 RETTUNGSGASSE
 RETTUNGSKRÄFTE
@@ -76141,6 +76147,7 @@ Retourne
 Retrait
 RetraiteA60Ans
 Retraitée
+RetrouvonsLaBDHFlamande
 Rettung
 Rettungsgasse
 Rettungskräfte
@@ -100754,6 +100761,7 @@ assepau
 assepaufc
 assepfc
 assepsg
+asseqrm
 asseraf
 assercl
 assercsa
@@ -105600,6 +105608,7 @@ champions du monde
 champions league
 champions olympiques
 championscup
+championscupfinal
 championsgobeyond
 championship
 championsleague
@@ -132844,6 +132853,7 @@ peut-être
 peutetre
 peutie
 peutêtre
+peyper
 peyragudes
 peyrat
 peyz
@@ -135579,6 +135589,7 @@ retraitea60ans
 retraitée
 retro2021
 retrodecouverte
+retrouvonslabdhflamande
 rettung
 rettungsgasse
 rettungskräfte
