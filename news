@@ -1372,6 +1372,7 @@ ANN WAUTERS
 ANNA
 ANNA CABANA
 ANNA GASSER
+ANNA HALL
 ANNA KIESENHOFER
 ANNA LOOS
 ANNA MAIER
@@ -1757,6 +1758,7 @@ ASHLEY GRAHAM
 ASHLEY JUDD
 ASHTON KUTCHER
 ASIA ARGENTO
+ASM
 ASML
 ASMR
 ASMonaco
@@ -3499,6 +3501,7 @@ AnnWauters
 Anna
 Anna Cabana
 Anna Gasser
+Anna Hall
 Anna Kiesenhofer
 Anna Loos
 Anna Maier
@@ -3513,6 +3516,7 @@ Anna-Maria Ferchichi
 Anna-MariaFerchichi
 AnnaCabana
 AnnaGasser
+AnnaHall
 AnnaKiesenhofer
 AnnaLoos
 AnnaMaier
@@ -5138,6 +5142,7 @@ BERGERAC
 BERGERAC – SAINT-ÉTIENNE
 BERGERAC-VERSAILLES
 BERGHEIM
+BERGHUIS
 BERGRENNEN HEMBERG
 BERLIN
 BERLIN-MARATHON 2021
@@ -5653,6 +5658,7 @@ BRENTFORD – BRIGHTON
 BRENTFORD – FULHAM
 BRENTFORD – LIVERPOOL
 BRENTFORD – MAN CITY
+BRENTFORD – MANCHESTER CITY
 BRENTFORD – MANCHESTER UNITED
 BRENTFORD – TOTTENHAM
 BRENTVANMOER
@@ -5900,6 +5906,9 @@ BUT JAPON-ESPAGNE
 BUTSCHA
 BUZZ L'ÉCLAIR
 BVB
+BVB (BORUSSIA DORTMUND
+BVB (Borussia Dortmund
+BVB(BorussiaDortmund
 BWT
 BXL TOUR
 BXL Tour
@@ -6746,6 +6755,7 @@ Bergerac-Versailles
 BergeracVersailles
 Bergerac–Saint-Étienne
 Bergheim
+Berghuis
 Bergrennen Hemberg
 BergrennenHemberg
 Berlin
@@ -7548,6 +7558,7 @@ Brentford – Brighton
 Brentford – Fulham
 Brentford – Liverpool
 Brentford – Man City
+Brentford – Manchester City
 Brentford – Manchester United
 Brentford – Tottenham
 BrentfordgegenLiverpool
@@ -7557,6 +7568,7 @@ Brentford–Brighton
 Brentford–Fulham
 Brentford–Liverpool
 Brentford–ManCity
+Brentford–ManchesterCity
 Brentford–ManchesterUnited
 Brentford–Tottenham
 Bresil
@@ -21387,6 +21399,7 @@ INDOCHINE
 INDONESIEN
 INDONÉSIE
 INDRE
+INDY 500
 INDYCAR
 INE BEYEN
 INEOS
@@ -21939,6 +21952,8 @@ Indochine
 Indonesien
 Indonésie
 Indre
+Indy 500
+Indy500
 IndyCar
 Ine Beyen
 IneBeyen
@@ -23210,6 +23225,7 @@ JUVENTUS  EMPOLI
 JUVENTUS  INTER
 JUVENTUS  LAZIO
 JUVENTUS  MACCABI HAIFA
+JUVENTUS  MILAN
 JUVENTUS  MONZA
 JUVENTUS  NAPOLI
 JUVENTUS  SALERNITANA
@@ -23220,6 +23236,7 @@ JUVENTUS  TORINO
 JUVENTUS GEGEN LAZIO
 JUVENTUS STADIUM
 JUVENTUS TURIN
+JUVENTUS – AC MILAN
 JUVENTUS – ATALANTA
 JUVENTUS – BENFICA
 JUVENTUS – BOLOGNE
@@ -24678,6 +24695,7 @@ Juventus  Empoli
 Juventus  Inter
 Juventus  Lazio
 Juventus  Maccabi Haifa
+Juventus  Milan
 Juventus  Monza
 Juventus  Napoli
 Juventus  Salernitana
@@ -24688,6 +24706,7 @@ Juventus  Torino
 Juventus Stadium
 Juventus Turin
 Juventus gegen Lazio
+Juventus – AC Milan
 Juventus – Atalanta
 Juventus – Benfica
 Juventus – Bologne
@@ -24721,6 +24740,7 @@ JuventusEmpoli
 JuventusInter
 JuventusLazio
 JuventusMaccabiHaifa
+JuventusMilan
 JuventusMonza
 JuventusNapoli
 JuventusSalernitana
@@ -24731,6 +24751,7 @@ JuventusStandard
 JuventusTorino
 JuventusTurin
 JuventusgegenLazio
+Juventus–ACMilan
 Juventus–Atalanta
 Juventus–Benfica
 Juventus–Bologne
@@ -26314,6 +26335,7 @@ LAFESSE
 LAFINEFLEUR
 LAFLEURDUMAL
 LAGE LANDENLIJST
+LAGO MAGGIORE
 LAGOS DE COVADONGA
 LAHAYE
 LAISSEZ-PASSER FILM
@@ -26344,6 +26366,7 @@ LANDIRAS
 LANDO NORRIS
 LANDONORRIS
 LANDSGEMEINDE GLARUS
+LANESTER
 LANGE LEEMSTRAAT ANTWERPEN
 LANGYA-HENIPAVIRUS
 LANZAROTE
@@ -27297,6 +27320,7 @@ LUNA crypto
 LUNAcrypto
 LUNDI 15 AOUT
 LUNDI DE PAQUES
+LUNDI DE PENTECOTE
 LUNE
 LUNE BLEUE
 LUNE ROSE
@@ -27627,6 +27651,8 @@ LaflecheWallonne2022
 Lafleurdumal
 Lage Landenlijst
 LageLandenlijst
+Lago Maggiore
+LagoMaggiore
 Lagos de Covadonga
 LagosdeCovadonga
 Lagrandelibrairie
@@ -27684,6 +27710,7 @@ Lando Norris
 LandoNorris
 Landsgemeinde Glarus
 LandsgemeindeGlarus
+Lanester
 Lange Leemstraat Antwerpen
 LangeLeemstraatAntwerpen
 Langya-Henipavirus
@@ -29401,8 +29428,10 @@ LunaSchweiger
 Lunacrypto
 Lundi 15 aout
 Lundi de paques
+Lundi de pentecote
 Lundi15aout
 Lundidepaques
+Lundidepentecote
 Lune
 Lune bleue
 Lune rose
@@ -39942,6 +39971,7 @@ RBLeipzig–ManchesterCity
 RBLeipzig–RealMadrid
 RBS
 RBsalzburg–Lille
+RCT
 RDC MAROC
 REA GARVEY
 READY OR NOT
@@ -40088,6 +40118,7 @@ REINHILDE DECLEIR
 REINHOLD MESSNER
 REITERALM
 REKKLES
+RELEGATION BUNDESLIGA
 REMBOURSEMENT NAVIGO
 REMBOURSEMENT PSYCHOLOGUE
 REMCO CAMPERT
@@ -40453,6 +40484,7 @@ ROMAN RAFREIDER
 ROMAN YAREMCHUK
 ROMANDE ENERGIE
 ROMANE BOHRINGER
+ROME
 ROMELU LUKAKU
 ROMELULUKAKU
 ROMEO BECKHAM
@@ -41215,6 +41247,8 @@ Reinhold Messner
 ReinholdMessner
 Reiteralm
 Rekkles
+Relegation Bundesliga
+RelegationBundesliga
 Remboursement Navigo
 Remboursement psychologue
 RemboursementNavigo
@@ -41811,6 +41845,7 @@ Roma–Genoa
 Roma–Juventus
 Roma–Leicester
 Roma–Milan
+Rome
 Romelu Lukaku
 RomeluLukaku
 Romeo Beckham
@@ -42085,6 +42120,7 @@ Ryuichi Sakamoto
 Ryuichi Sakamoto mort
 RyuichiSakamoto
 RyuichiSakamotomort
+RÄUBER HOTZENPLOTZ
 RÉAL MADRID
 RÉFORME RETRAITES
 RÉFORME RETRAITES MACRON
@@ -42097,6 +42133,8 @@ RÉPUBLIQUE TCHÈQUE – SUISSE
 RÉSULTATS DE L'ÉLECTION #PRÉSIDENTIELLE2022
 RÉVEILLON DE LA SAINT-SYLVESTRE
 RÉVEILLON DU NOUVEL AN
+Räuber Hotzenplotz
+RäuberHotzenplotz
 RéPUBLIQUE TCHèQUE – DANEMARK
 RéPUBLIQUETCHèQUE–DANEMARK
 RéSULTAT ELECTION
@@ -42635,6 +42673,7 @@ SERGIO GOMEZ
 SERGIO HERMAN
 SERGIO MATTARELLA
 SERGIO RAMOS
+SERGIO RICO
 SERGIOGOMEZ
 SERGIORAMOS
 SERIE A
@@ -44402,12 +44441,14 @@ Sergio Gomez
 Sergio Herman
 Sergio Mattarella
 Sergio Ramos
+Sergio Rico
 SergioErmotti
 SergioErmottiUBS
 SergioGomez
 SergioHerman
 SergioMattarella
 SergioRamos
+SergioRico
 Serie A
 Serie B
 Serie a
@@ -46438,6 +46479,7 @@ TINA ARENA
 TINA MAZE
 TINA RULAND
 TINA TURNER
+TINA TURNER BEERDIGUNG
 TINA TURNER ERWIN BACH
 TINA TURNER OVERLEDEN
 TINA TURNER TOD
@@ -47663,6 +47705,7 @@ Tina Arena
 Tina Maze
 Tina Ruland
 Tina Turner
+Tina Turner Beerdigung
 Tina Turner Erwin Bach
 Tina Turner Tod
 Tina Turner overleden
@@ -47672,6 +47715,7 @@ TinaArena
 TinaMaze
 TinaRuland
 TinaTurner
+TinaTurnerBeerdigung
 TinaTurnerErwinBach
 TinaTurnerTod
 TinaTurneroverleden
@@ -48416,6 +48460,7 @@ TÉLÉMATIN JULIA VIGNALI
 TÉLÉTRAVAIL OBLIGATOIRE
 TÜRKEI
 TÜRKEI KROATIEN
+TÜRKEI WAHLEN
 Télescope spatial James Webb
 TélescopespatialJamesWebb
 Télématin Julia Vignali
@@ -48424,7 +48469,9 @@ Télétravail obligatoire
 Télétravailobligatoire
 Türkei
 Türkei Kroatien
+Türkei Wahlen
 TürkeiKroatien
+TürkeiWahlen
 U18 EISHOCKEY WM
 U18 Eishockey WM
 U18EishockeyWM
@@ -49728,11 +49775,13 @@ Verkiezingen Nederland
 Verkiezingen Turkije
 Verkiezingen VS
 Verkiezingen brazilie
+Verkiezingen turkije
 VerkiezingenFrankrijk
 VerkiezingenNederland
 VerkiezingenTurkije
 VerkiezingenVS
 Verkiezingenbrazilie
+Verkiezingenturkije
 Vermaelen
 Vermeer
 Vernon
@@ -52792,6 +52841,7 @@ ann wauters
 anna
 anna cabana
 anna gasser
+anna hall
 anna kiesenhofer
 anna loos
 anna maier
@@ -53170,6 +53220,7 @@ ashley graham
 ashley judd
 ashton kutcher
 asia argento
+asm
 asml
 asmr
 aspen
@@ -53926,6 +53977,7 @@ bergerac
 bergerac – saint-étienne
 bergerac-versailles
 bergheim
+berghuis
 bergrennen hemberg
 berlin
 berlin-marathon 2021
@@ -54416,6 +54468,7 @@ brentford – brighton
 brentford – fulham
 brentford – liverpool
 brentford – man city
+brentford – manchester city
 brentford – manchester united
 brentford – tottenham
 brentvanmoer
@@ -54652,6 +54705,7 @@ but japon-espagne
 butscha
 buzz l'éclair
 bvb
+bvb (borussia dortmund
 bwt
 bxl tour
 byd
@@ -59626,6 +59680,7 @@ indochine
 indonesien
 indonésie
 indre
+indy 500
 indycar
 ine beyen
 ineos
@@ -60693,6 +60748,7 @@ juventus  empoli
 juventus  inter
 juventus  lazio
 juventus  maccabi haifa
+juventus  milan
 juventus  monza
 juventus  napoli
 juventus  salernitana
@@ -60703,6 +60759,7 @@ juventus  torino
 juventus gegen lazio
 juventus stadium
 juventus turin
+juventus – ac milan
 juventus – atalanta
 juventus – benfica
 juventus – bologne
@@ -61392,6 +61449,7 @@ lafesse
 lafinefleur
 lafleurdumal
 lage landenlijst
+lago maggiore
 lagos de covadonga
 lahaye
 laissez-passer film
@@ -61422,6 +61480,7 @@ landiras
 lando norris
 landonorris
 landsgemeinde glarus
+lanester
 lange leemstraat antwerpen
 langya-henipavirus
 lanzarote
@@ -62357,6 +62416,7 @@ luna crypto
 luna schweiger
 lundi 15 aout
 lundi de paques
+lundi de pentecote
 lune
 lune bleue
 lune rose
@@ -66244,6 +66304,7 @@ rb salzburg gegen barcelona
 rb salzburg gegen chelsea
 rb salzburg – lille
 rbs
+rct
 rdc maroc
 rea garvey
 ready or not
@@ -66390,6 +66451,7 @@ reinhilde decleir
 reinhold messner
 reiteralm
 rekkles
+relegation bundesliga
 remboursement navigo
 remboursement psychologue
 remco campert
@@ -66736,6 +66798,7 @@ roman rafreider
 roman yaremchuk
 romande energie
 romane bohringer
+rome
 romelu lukaku
 romelulukaku
 romeo beckham
@@ -66923,6 +66986,7 @@ rybakina
 ryder cup 2021
 ryuichi sakamoto
 ryuichi sakamoto mort
+räuber hotzenplotz
 réal madrid
 réforme retraites
 réforme retraites macron
@@ -67417,6 +67481,7 @@ sergio gomez
 sergio herman
 sergio mattarella
 sergio ramos
+sergio rico
 sergiogomez
 sergioramos
 serie a
@@ -68796,6 +68861,7 @@ tina arena
 tina maze
 tina ruland
 tina turner
+tina turner beerdigung
 tina turner erwin bach
 tina turner overleden
 tina turner tod
@@ -69227,6 +69293,7 @@ télématin julia vignali
 télétravail obligatoire
 türkei
 türkei kroatien
+türkei wahlen
 u18 eishockey wm
 u20 wm eishockey
 u20-wm eishockey
