@@ -825,6 +825,7 @@ AJ Ginnis
 AJACCIO – LENS
 AJACCIO – LILLE
 AJACCIO – LORIENT
+AJACCIO – MARSEILLE
 AJACCIO – MONACO
 AJACCIO – PARIS-SG
 AJACCIO – RENNES
@@ -1990,6 +1991,7 @@ AUXERRE SAINT-ETIENNE
 AUXERRE – AJACCIO
 AUXERRE – BREST
 AUXERRE – GUINGAMP
+AUXERRE – LENS
 AUXERRE – LILLE
 AUXERRE – LORIENT
 AUXERRE – LYON
@@ -2524,6 +2526,7 @@ Airtag
 Ajaccio – Lens
 Ajaccio – Lille
 Ajaccio – Lorient
+Ajaccio – Marseille
 Ajaccio – Monaco
 Ajaccio – Rennes
 Ajaccio – Strasbourg
@@ -2532,6 +2535,7 @@ Ajaccio – parissg
 Ajaccio–Lens
 Ajaccio–Lille
 Ajaccio–Lorient
+Ajaccio–Marseille
 Ajaccio–Monaco
 Ajaccio–Rennes
 Ajaccio–Strasbourg
@@ -4519,6 +4523,7 @@ Auxerre SaintEtienne
 Auxerre – Ajaccio
 Auxerre – Brest
 Auxerre – Guingamp
+Auxerre – Lens
 Auxerre – Lille
 Auxerre – Lorient
 Auxerre – Lyon
@@ -4535,6 +4540,7 @@ AuxerreSaint-Etienne
 Auxerre–Ajaccio
 Auxerre–Brest
 Auxerre–Guingamp
+Auxerre–Lens
 Auxerre–Lille
 Auxerre–Lorient
 Auxerre–Lyon
@@ -5192,6 +5198,7 @@ BERND STORCK
 BERNER RUNDFAHRT
 BERNERHOF
 BERNIE ECCLESTONE
+BERNINA EXPRESS
 BERNINAPASS
 BERRE
 BERRETTINI
@@ -5814,6 +5821,7 @@ BRUSSEL BROST
 BRUSSELS
 BRUSSELS AIRPORT
 BRUSSELS CYCLING CLASSIC
+BRUSSELS CYCLING CLASSIC 2023
 BRUSSELS NEWS
 BRUXELLES
 BRYAN ADAMS
@@ -6842,6 +6850,8 @@ BernerRundfahrt
 Bernerhof
 Bernie Ecclestone
 BernieEcclestone
+Bernina Express
+BerninaExpress
 Berninapass
 Berre
 Berrettini
@@ -7825,9 +7835,11 @@ BrusselBrost
 Brussels
 Brussels Airport
 Brussels Cycling Classic
+Brussels Cycling Classic 2023
 Brussels news
 BrusselsAirport
 BrusselsCyclingClassic
+BrusselsCyclingClassic2023
 Brusselsnews
 Bruxelles
 Bryan Adams
@@ -9204,6 +9216,7 @@ CRISTIANO RONALDO AL-NASSR
 CRISTIANO RONALDO GEORGINA
 CRISTINA KIRCHNER
 CRIT'AIR
+CRITERIUM DAUPHINE
 CRITERIUM JURASSIEN
 CRITERIUM JURASSIEN 2022
 CRITICAL MASS
@@ -11369,8 +11382,10 @@ CristianoRonaldoGeorgina
 Cristina Kirchner
 CristinaKirchner
 Crit'Air
+Criterium dauphine
 Criterium jurassien
 Criterium jurassien 2022
+Criteriumdauphine
 Criteriumjurassien
 Criteriumjurassien2022
 Critical Mass
@@ -15792,7 +15807,9 @@ F35Kampfjet
 FA CUP
 FA Cup
 FA-CUP
+FA-CUP-FINAL
 FA-Cup
+FA-Cup-Final
 FABIAN O'NEILL
 FABIAN RIEDER
 FABIAN RUIZ
@@ -15828,6 +15845,7 @@ FACHKRÄFTEMANGEL
 FACTCHECKERS
 FACTS
 FACup
+FACupFinal
 FAES
 FAIRPHONE 4
 FAISAL KAWUSI
@@ -16027,6 +16045,7 @@ FCBulle
 FCChiasso
 FCDeKampioenen
 FCEverton
+FCG
 FCL
 FCLiverpool
 FCLorient
@@ -16723,6 +16742,7 @@ FRIEDEN
 FRIEDRICH MERZ
 FRIENDS
 FRIENDS RACHEL
+FRITZ
 FRITZ WEPPER
 FROGMORE COTTAGE
 FROHE OSTERN
@@ -18003,6 +18023,7 @@ FriedrichMerz
 Friends
 Friends Rachel
 FriendsRachel
+Fritz
 Fritz Wepper
 FritzWepper
 Frogmore Cottage
@@ -18141,6 +18162,7 @@ Fête de la musique 2021 Paris
 Fête de la saint-valentin
 Fête de la saintvalentin
 Fête des Lanternes
+Fête des Mères
 Fête des grands-mères
 Fête des grandsmères
 Fête des lanternes
@@ -18158,6 +18180,7 @@ Fête nationale suisse
 Fêtedelamusique2021Paris
 Fêtedelasaint-valentin
 FêtedesLanternes
+FêtedesMères
 Fêtedesgrands-mères
 Fêtedeslanternes
 Fêtedesmères
@@ -18206,6 +18229,7 @@ GAGNANT EUROVISION 2023
 GAGNANT MEILLEUR PATISSIER 2021
 GAGNANT PEKIN EXPRESS 2022
 GAGNANT THE VOICE 2022
+GAGNANT THE VOICE 2023
 GAGNANT TOP CHEF 2022
 GAKPO
 GAL COSTA
@@ -18973,12 +18997,14 @@ Gagnant EuroMillions
 Gagnant Eurovision 2023
 Gagnant Meilleur patissier 2021
 Gagnant The Voice 2022
+Gagnant The Voice 2023
 Gagnant Top Chef 2022
 Gagnant pekin Express 2022
 GagnantEuroMillions
 GagnantEurovision2023
 GagnantMeilleurpatissier2021
 GagnantTheVoice2022
+GagnantTheVoice2023
 GagnantTopChef2022
 GagnantpekinExpress2022
 Gakpo
@@ -20617,6 +20643,8 @@ HUMA ABEDIN
 HUMANKIND
 HUMO'S COMEDY CUP
 HUMO'S ROCK RALLY
+HUMORISTE GUILLAUME BATS JEREMY FERRARI
+HUMORISTE GUILLAUME BATS MORT
 HUMORISTE PIERRE PALMADE
 HUMORISTE PIERRE PALMADE ACCIDENT
 HUMZA YOUSAF
@@ -21314,8 +21342,12 @@ Humo's Comedy Cup
 Humo's Rock Rally
 Humo'sComedyCup
 Humo'sRockRally
+Humoriste Guillaume Bats jeremy Ferrari
+Humoriste Guillaume Bats mort
 Humoriste Pierre Palmade
 Humoriste Pierre Palmade accident
+HumoristeGuillaumeBatsjeremyFerrari
+HumoristeGuillaumeBatsmort
 HumoristePierrePalmade
 HumoristePierrePalmadeaccident
 Humza Yousaf
@@ -21658,6 +21690,7 @@ IRMGARD FURCHNER
 IRON MAIDEN
 IRON MAN 2
 IRON MAN 3
+IRONMAN HAMBURG
 IRONMAN HAWAII
 IRONMAN RAPPERSWIL
 IRONMAN THUN
@@ -22310,9 +22343,11 @@ Iron Man 3
 IronMaiden
 IronMan2
 IronMan3
+Ironman Hamburg
 Ironman Hawaii
 Ironman Rapperswil
 Ironman Thun
+IronmanHamburg
 IronmanHawaii
 IronmanRapperswil
 IronmanThun
@@ -26548,6 +26583,7 @@ LAURENTDELAHOUSSE
 LAURENTGBAGBO
 LAURY THILLEMAN
 LAUSANNE
+LAUSANNE OUCHY
 LAUSANNE-SPORT
 LAUTERBRUNNEN
 LAVAL
@@ -27971,7 +28007,9 @@ LaurentdelaClergerie
 Laury Thilleman
 LauryThilleman
 Lausanne
+Lausanne Ouchy
 Lausanne-Sport
+LausanneOuchy
 LausanneSport
 Lauterbrunnen
 Laval
@@ -29903,6 +29941,7 @@ MANCHESTER CITY – EVERTON
 MANCHESTER CITY – FULHAM
 MANCHESTER CITY – LEICESTER
 MANCHESTER CITY – LIVERPOOL
+MANCHESTER CITY – MANCHESTER UNITED
 MANCHESTER CITY – NEWCASTLE
 MANCHESTER CITY – RB LEIPZIG
 MANCHESTER CITY – REAL MADRID
@@ -30143,6 +30182,7 @@ MARIANNE ROSENBERG
 MARIANNE VOS
 MARIANNE WILLIAMSON
 MARIE AGNES GILLOT
+MARIE ANTOINETTE
 MARIE KONDO
 MARIE LAFORET
 MARIE MYRIAM
@@ -31688,6 +31728,7 @@ Manchester City – Everton
 Manchester City – Fulham
 Manchester City – Leicester
 Manchester City – Liverpool
+Manchester City – Manchester United
 Manchester City – Newcastle
 Manchester City – RB Leipzig
 Manchester City – Real Madrid
@@ -31748,6 +31789,7 @@ ManchesterCity–Everton
 ManchesterCity–Fulham
 ManchesterCity–Leicester
 ManchesterCity–Liverpool
+ManchesterCity–ManchesterUnited
 ManchesterCity–Newcastle
 ManchesterCity–RBLeipzig
 ManchesterCity–RealMadrid
@@ -32136,6 +32178,7 @@ MarianneJames
 MarianneRosenberg
 MarianneVos
 MarianneWilliamson
+Marie Antoinette
 Marie Kondo
 Marie Myriam
 Marie Patouillet
@@ -36198,6 +36241,7 @@ OQTF
 ORADOUR-SUR-GLANE
 ORAGE
 ORAGE BELGIQUE
+ORAGE LYON
 ORAGE MAGNÉTIQUE
 ORAGEBELGIQUE
 ORAGES DE GRÊLE
@@ -36697,8 +36741,10 @@ Oradour-sur-Glane
 OradoursurGlane
 Orage
 Orage Belgique
+Orage Lyon
 Orage magnétique
 OrageBelgique
+OrageLyon
 Oragemagnétique
 Orages de grêle
 Orages vigilance orange Météo France
@@ -37002,6 +37048,7 @@ PARIS-SG – AUXERRE
 PARIS-SG – BENFICA
 PARIS-SG – BORDEAUX
 PARIS-SG – CHAMBLY
+PARIS-SG – CLERMONT
 PARIS-SG – GAMBA OSAKA
 PARIS-SG – JUVENTUS
 PARIS-SG – KAWASAKI FRONTALE
@@ -37176,6 +37223,7 @@ PAULRICARD
 PAUS FRANCISCUS
 PAVARD
 PAVAROTTI
+PAVLYUCHENKOVA
 PAXLOVID
 PAYPAL: AKTIE
 PAYS DE CASSEL
@@ -37898,6 +37946,8 @@ PSG-BAYERN
 PSG-BREST
 PSG-Bayern
 PSG-Brest
+PSG-CLERMONT
+PSG-Clermont
 PSG-LILLE
 PSG-LORIENT
 PSG-LYON
@@ -37918,6 +37968,7 @@ PSGAngers
 PSGBayern
 PSGBrest
 PSGBruges
+PSGClermont
 PSGLeMans
 PSGLens
 PSGLille
@@ -37999,6 +38050,7 @@ PURPLE HEARTS
 PUSKAS ARENA
 PUSKASARENA
 PUTIN
+PUY-DE DOME
 PYRENEES ORIENTALES
 PYRENEES-ORIENTALES
 Pablo Escobar
@@ -38222,6 +38274,7 @@ Paris-sg – Auxerre
 Paris-sg – Benfica
 Paris-sg – Bordeaux
 Paris-sg – Chambly
+Paris-sg – Clermont
 Paris-sg – Gamba Osaka
 Paris-sg – Juventus
 Paris-sg – Kawasaki Frontale
@@ -38255,6 +38308,7 @@ Paris-sg–Auxerre
 Paris-sg–Benfica
 Paris-sg–Bordeaux
 Paris-sg–Chambly
+Paris-sg–Clermont
 Paris-sg–GambaOsaka
 Paris-sg–Juventus
 Paris-sg–KawasakiFrontale
@@ -38316,6 +38370,7 @@ Parissg – Auxerre
 Parissg – Benfica
 Parissg – Bordeaux
 Parissg – Chambly
+Parissg – Clermont
 Parissg – Gamba Osaka
 Parissg – Juventus
 Parissg – Kawasaki Frontale
@@ -38610,6 +38665,7 @@ Paus Franciscus
 PausFranciscus
 Pavard
 Pavarotti
+Pavlyuchenkova
 Paxlovid
 Paypal: Aktie
 Paypal:Aktie
@@ -39735,6 +39791,9 @@ PurpleHearts
 Puskas Arena
 PuskasArena
 Putin
+Puy-de dome
+Puy-dedome
+Puyde dome
 Pyrenees Orientales
 Pyrenees-Orientales
 PyreneesOrientales
@@ -40599,6 +40658,7 @@ ROHFF
 ROI CHARLES III
 ROLAND CASTRO
 ROLAND GARROS
+ROLAND GARROS LIVE
 ROLAND JACCARD
 ROLAND KAISER
 ROLAND-GARROS
@@ -41928,6 +41988,7 @@ Roi Charles III
 RoiCharlesIII
 Roland Castro
 Roland Garros
+Roland Garros live
 Roland Jaccard
 Roland Kaiser
 Roland-Garros
@@ -41942,6 +42003,7 @@ RolandGarros
 RolandGarros 2022
 RolandGarros 2023
 RolandGarros programme
+RolandGarroslive
 RolandJaccard
 RolandKaiser
 Rolex
@@ -49497,6 +49559,7 @@ VGP
 VIAGOGO
 VIALLI
 VIANNEY
+VIAPLAY
 VICENTE FERNANDEZ
 VICKY KRIEPS
 VICKY LEANDROS
@@ -50041,6 +50104,7 @@ VfLWolfsburg
 Viagogo
 Vialli
 Vianney
+Viaplay
 Vicente Fernandez
 VicenteFernandez
 Vicky Krieps
@@ -52526,6 +52590,7 @@ aj ginnis
 ajaccio – lens
 ajaccio – lille
 ajaccio – lorient
+ajaccio – marseille
 ajaccio – monaco
 ajaccio – paris-sg
 ajaccio – rennes
@@ -53644,6 +53709,7 @@ auxerre saint-etienne
 auxerre – ajaccio
 auxerre – brest
 auxerre – guingamp
+auxerre – lens
 auxerre – lille
 auxerre – lorient
 auxerre – lyon
@@ -54245,6 +54311,7 @@ bernd storck
 berner rundfahrt
 bernerhof
 bernie ecclestone
+bernina express
 berninapass
 berre
 berrettini
@@ -54838,6 +54905,7 @@ brussel brost
 brussels
 brussels airport
 brussels cycling classic
+brussels cycling classic 2023
 brussels news
 bruxelles
 bryan adams
@@ -56133,6 +56201,7 @@ cristiano ronaldo al-nassr
 cristiano ronaldo georgina
 cristina kirchner
 crit'air
+criterium dauphine
 criterium jurassien
 criterium jurassien 2022
 critical mass
@@ -57764,6 +57833,7 @@ f35a
 f35kampfjet
 fa cup
 fa-cup
+fa-cup-final
 fabian o'neill
 fabian rieder
 fabian ruiz
@@ -57904,6 +57974,7 @@ fcb gegen marseille
 fcb gegen servette
 fcb gegen st. gallen
 fcb gegen winterthur
+fcg
 fcl
 fcn
 fcsg
@@ -58526,6 +58597,7 @@ frieden
 friedrich merz
 friends
 friends rachel
+fritz
 fritz wepper
 frogmore cottage
 frohe ostern
@@ -58632,6 +58704,7 @@ gagnant eurovision 2023
 gagnant meilleur patissier 2021
 gagnant pekin express 2022
 gagnant the voice 2022
+gagnant the voice 2023
 gagnant top chef 2022
 gakpo
 gal costa
@@ -59739,6 +59812,8 @@ huma abedin
 humankind
 humo's comedy cup
 humo's rock rally
+humoriste guillaume bats jeremy ferrari
+humoriste guillaume bats mort
 humoriste pierre palmade
 humoriste pierre palmade accident
 humza yousaf
@@ -60111,6 +60186,7 @@ irmgard furchner
 iron maiden
 iron man 2
 iron man 3
+ironman hamburg
 ironman hawaii
 ironman rapperswil
 ironman thun
@@ -61826,6 +61902,7 @@ laurentdelahousse
 laurentgbagbo
 laury thilleman
 lausanne
+lausanne ouchy
 lausanne-sport
 lauterbrunnen
 laval
@@ -62975,6 +63052,7 @@ manchester city – everton
 manchester city – fulham
 manchester city – leicester
 manchester city – liverpool
+manchester city – manchester united
 manchester city – newcastle
 manchester city – rb leipzig
 manchester city – real madrid
@@ -63215,6 +63293,7 @@ marianne rosenberg
 marianne vos
 marianne williamson
 marie agnes gillot
+marie antoinette
 marie kondo
 marie laforet
 marie myriam
@@ -65232,6 +65311,7 @@ oqtf
 oradour-sur-glane
 orage
 orage belgique
+orage lyon
 orage magnétique
 oragebelgique
 orages de grêle
@@ -65475,6 +65555,7 @@ paris-sg – auxerre
 paris-sg – benfica
 paris-sg – bordeaux
 paris-sg – chambly
+paris-sg – clermont
 paris-sg – gamba osaka
 paris-sg – juventus
 paris-sg – kawasaki frontale
@@ -65649,6 +65730,7 @@ paulricard
 paus franciscus
 pavard
 pavarotti
+pavlyuchenkova
 paxlovid
 paypal: aktie
 pays de cassel
@@ -66310,6 +66392,7 @@ psg, neymar
 psg-ajaccio
 psg-bayern
 psg-brest
+psg-clermont
 psg-lille
 psg-lorient
 psg-lyon
@@ -66352,6 +66435,7 @@ purple hearts
 puskas arena
 puskasarena
 putin
+puy-de dome
 pyrenees orientales
 pyrenees-orientales
 pâques
@@ -67038,6 +67122,7 @@ rohff
 roi charles iii
 roland castro
 roland garros
+roland garros live
 roland jaccard
 roland kaiser
 roland-garros
@@ -70016,6 +70101,7 @@ vgp
 viagogo
 vialli
 vianney
+viaplay
 vicente fernandez
 vicky krieps
 vicky leandros
