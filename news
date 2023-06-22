@@ -952,6 +952,7 @@ ALEKSANDER AAMODT KILDE
 ALENCON
 ALERTE CANICULE
 ALERTE ENLÈVEMENT
+ALERTE METEO
 ALERTE ROUGE
 ALERTE À LA BOMBE
 ALERTE À MALIBU
@@ -2775,12 +2776,14 @@ Alencon
 Alerte Rouge
 Alerte canicule
 Alerte enlèvement
+Alerte meteo
 Alerte rouge
 Alerte à Malibu
 Alerte à la bombe
 AlerteRouge
 Alertecanicule
 Alerteenlèvement
+Alertemeteo
 Alerterouge
 AlerteàMalibu
 Alerteàlabombe
@@ -9471,6 +9474,7 @@ CYCLOCROSS DUBLIN
 CYCLONE FREDDY
 CYCLONE FREDDY ILE MAURICE
 CYLE LARIN
+CYNDI LAUPER
 CYPRUS
 CYRIEL DESSERS
 CYRIL BAILLE
@@ -11732,6 +11736,8 @@ CycloneFreddy
 CycloneFreddyileMaurice
 Cyle Larin
 CyleLarin
+Cyndi Lauper
+CyndiLauper
 Cyprus
 Cyriel Dessers
 CyrielDessers
@@ -14737,6 +14743,7 @@ EXCEL MOUSCRON
 EXIT
 EXPENDABLES 2
 EXPLOSION CAMION-CITERNE HAUTE-SAVOIE
+EXPLOSION PARIS
 EXPOSITION HARRY POTTER PARIS
 EXTINCTION REBELLION
 EXTRA TIME
@@ -15954,8 +15961,10 @@ Excompagne Julien Bayou
 Exit
 Expendables 2
 Expendables2
+Explosion Paris
 Explosion camion-citerne Haute-Savoie
 Explosion camionciterne HauteSavoie
+ExplosionParis
 Explosioncamion-citerneHaute-Savoie
 Exposition Harry Potter Paris
 ExpositionHarryPotterParis
@@ -16557,6 +16566,7 @@ FIN DU MERCATO
 FIN DU RAMADAN
 FIN PASS VACCINAL
 FINAL EURO 2021
+FINAL FANTASY 16
 FINALE BASKET JO 2021
 FINALE CHAMPIONS LEAGUE
 FINALE CHAMPIONS LEAGUE 2022
@@ -17361,11 +17371,13 @@ Fete de famille
 Fete de l'Huma
 Fete de l'Iris
 Fete de l'aid
+Fete de la Musique
 Fete de la Musique 2022 Paris
 Fete de la Musique 2023
 Fete de la musique
 Fete de la musique 2021
 Fete de la musique 2021 Paris
+Fete de la musique 2023
 Fete de la musique Bruxelles
 Fete de la musique Lille
 Fete de la musique Marseille
@@ -17391,11 +17403,13 @@ Fetedefamille
 Fetedel'Huma
 Fetedel'Iris
 Fetedel'aid
+FetedelaMusique
 FetedelaMusique2022Paris
 FetedelaMusique2023
 Fetedelamusique
 Fetedelamusique2021
 Fetedelamusique2021Paris
+Fetedelamusique2023
 FetedelamusiqueBruxelles
 FetedelamusiqueLille
 FetedelamusiqueMarseille
@@ -17507,7 +17521,9 @@ Fin du Ramadan
 Fin du mercato
 Fin pass vaccinal
 Final Euro 2021
+Final Fantasy 16
 FinalEuro2021
+FinalFantasy16
 Finale Champions League
 Finale Champions League 2022
 Finale Coupe du monde
@@ -20556,6 +20572,7 @@ GÖRLITZ
 GÖTZ WERNER
 GÖTZIS!
 GÜLSHA ADILJI
+GÜNDOGAN
 GÜNTER LAMPRECHT
 GÜNTHER JAUCH
 GÜNTHER JAUCH WER WIRD MILLIONÄR
@@ -20584,6 +20601,7 @@ GötzWerner
 Götzis!
 Gülsha Adilji
 GülshaAdilji
+Gündogan
 Günter Lamprecht
 GünterLamprecht
 Günther Jauch
@@ -30235,6 +30253,8 @@ Lötschental
 Löwe
 Lückenkemper
 Lützerath
+M POKORA
+M Pokora
 M'ABANDONNE PAS
 M'abandonne pas
 M'abandonnepas
@@ -31831,6 +31851,7 @@ MOVEMBER
 MOVEZ
 MOZART
 MPETSHI PERRICARD
+MPokora
 MQ-9 REAPER
 MQ-9 Reaper
 MQ-9Reaper
@@ -36772,6 +36793,7 @@ ON-AKTIE
 ONANA
 ONCE UPON A TIME... IN HOLLYWOOD
 ONDER VUUR
+ONDERZEEËR VERMIST
 ONE PIECE 1045
 ONE PIECE 1053
 ONE PIECE 1054
@@ -37231,6 +37253,8 @@ Once Upon a Time... in Hollywood
 OnceUponaTime...inHollywood
 Onder vuur
 Ondervuur
+Onderzeeër vermist
+Onderzeeërvermist
 One Piece 1045
 One Piece 1054
 One Piece Netflix
@@ -43997,6 +44021,7 @@ SOUDAN – MAROC
 SOUFIANE EDDYANI
 SOULÈVEMENT DE LA TERRE
 SOUS-MARIN AUSTRALIE
+SOUS-MARIN TITANIC
 SOUTH BELGIAN RALLY
 SOUTHAMPTON  MANCHESTER CITY
 SOUTHAMPTON – CHELSEA
@@ -46044,8 +46069,11 @@ SoufianeEddyani
 Soulèvement de la Terre
 SoulèvementdelaTerre
 Sous-marin Australie
+Sous-marin Titanic
 Sous-marinAustralie
+Sous-marinTitanic
 Sousmarin Australie
+Sousmarin Titanic
 South Belgian Rally
 SouthBelgianRally
 Southampton  Manchester City
@@ -47604,6 +47632,7 @@ TOMORROWLAND 2022
 TOMORROWLAND 2023
 TOMORROWLAND TICKETS
 TOMÁS MARTÍN ETCHEVERRY
+TONALI
 TONGA
 TONHALLE ZÜRICH
 TONI BRUNNER
@@ -48949,6 +48978,7 @@ Tomorrowlandtickets
 Tompintens
 Tomás Martín Etcheverry
 TomásMartínEtcheverry
+Tonali
 Tonga
 Tonhalle Zürich
 Tonhalle zürich
@@ -49558,6 +49588,9 @@ Türkei Kroatien
 Türkei Wahlen
 TürkeiKroatien
 TürkeiWahlen
+U-BOOT TITANIC
+U-Boot Titanic
+U-BootTitanic
 U18 EISHOCKEY WM
 U18 Eishockey WM
 U18EishockeyWM
@@ -49587,6 +49620,7 @@ UBS-AKTIE
 UBS-Aktie
 UBSAktie
 UBSCreditSuisse
+UBoot Titanic
 UCB
 UDINESE  INTER
 UDINESE  ROMA
@@ -49800,6 +49834,7 @@ UNO-Sicherheitsrat
 UNOSicherheitsrat
 UNPLANNED
 UNRECORD
+UNWETTER
 UNWETTER DEUTSCHLAND
 UNWETTER EMMENTAL
 UNWETTER GEWITTER
@@ -50127,6 +50162,7 @@ Unrecord
 Unsigrandsoleil
 Unsingeenhiver
 Untourchezmafille
+Unwetter
 Unwetter Deutschland
 Unwetter Emmental
 Unwetter Gewitter
@@ -52493,6 +52529,9 @@ YESS
 YESTERDAY
 YETI AIRLINES
 YLENA IN-ALBON
+YNW MELLY
+YNW Melly
+YNWMelly
 YOANN RIOU
 YOHANN DINIZ
 YOHANN NDOYE BROUARD
@@ -53572,6 +53611,7 @@ aleksander aamodt kilde
 alencon
 alerte canicule
 alerte enlèvement
+alerte meteo
 alerte rouge
 alerte à la bombe
 alerte à malibu
@@ -57229,6 +57269,7 @@ cyclocross dublin
 cyclone freddy
 cyclone freddy ile maurice
 cyle larin
+cyndi lauper
 cyprus
 cyriel dessers
 cyril baille
@@ -58739,6 +58780,7 @@ excel mouscron
 exit
 expendables 2
 explosion camion-citerne haute-savoie
+explosion paris
 exposition harry potter paris
 extinction rebellion
 extra time
@@ -59118,6 +59160,7 @@ fin du mercato
 fin du ramadan
 fin pass vaccinal
 final euro 2021
+final fantasy 16
 finale basket jo 2021
 finale champions league
 finale champions league 2022
@@ -60394,6 +60437,7 @@ görlitz
 götz werner
 götzis!
 gülsha adilji
+gündogan
 günter lamprecht
 günther jauch
 günther jauch wer wird millionär
@@ -63880,6 +63924,7 @@ lötschental
 löwe
 lückenkemper
 lützerath
+m pokora
 m'abandonne pas
 m. pokora
 m1 abrams
@@ -66314,6 +66359,7 @@ on-aktie
 onana
 once upon a time... in hollywood
 onder vuur
+onderzeeër vermist
 one piece 1045
 one piece 1053
 one piece 1054
@@ -69334,6 +69380,7 @@ soudan – maroc
 soufiane eddyani
 soulèvement de la terre
 sous-marin australie
+sous-marin titanic
 south belgian rally
 southampton  manchester city
 southampton – chelsea
@@ -70469,6 +70516,7 @@ tomorrowland 2022
 tomorrowland 2023
 tomorrowland tickets
 tomás martín etcheverry
+tonali
 tonga
 tonhalle zürich
 toni brunner
@@ -70821,6 +70869,7 @@ télétravail obligatoire
 türkei
 türkei kroatien
 türkei wahlen
+u-boot titanic
 u18 eishockey wm
 u20 wm eishockey
 u20-wm eishockey
@@ -71007,6 +71056,7 @@ united barca
 uno-sicherheitsrat
 unplanned
 unrecord
+unwetter
 unwetter deutschland
 unwetter emmental
 unwetter gewitter
@@ -71928,6 +71978,7 @@ yess
 yesterday
 yeti airlines
 ylena in-albon
+ynw melly
 yoann riou
 yohann diniz
 yohann ndoye brouard
