@@ -753,6 +753,7 @@ AFASIE
 AFC RICHMOND
 AFC Richmond
 AFCRichmond
+AFD
 AFFAIRE CONCLUE
 AFFAIRE D'OUTREAU
 AFFAIRE GREGORY
@@ -2436,6 +2437,7 @@ Aeroport Montpellier
 Aeroport geneve
 AeroportMontpellier
 Aeroportgeneve
+AfD
 Afasie
 Affaire Conclue
 Affaire Jubillar
@@ -5307,6 +5309,7 @@ BERNARDO SILVA
 BERNARDTAPIE
 BERND GRIMMER
 BERND STORCK
+BERNER KANTONALES SCHWINGFEST
 BERNER RUNDFAHRT
 BERNERHOF
 BERNIE ECCLESTONE
@@ -5839,6 +5842,7 @@ BRET EASTON ELLIS
 BRETAGNE
 BRETT CONNOLLY
 BREVET 2022
+BREVET 2023
 BRIAN
 BRIAN AUSTIN GREEN
 BRIAN JOHNSON
@@ -6993,8 +6997,10 @@ Bernd Storck
 BerndGrimmer
 BerndStorck
 Berner Rundfahrt
+Berner kantonales Schwingfest
 BernerRundfahrt
 Bernerhof
+BernerkantonalesSchwingfest
 Bernie Ecclestone
 BernieEcclestone
 Bernina Express
@@ -7813,7 +7819,9 @@ Bretagne
 Brett Connolly
 BrettConnolly
 Brevet 2022
+Brevet 2023
 Brevet2022
+Brevet2023
 Brian
 Brian Austin Green
 Brian Johnson
@@ -8540,6 +8548,7 @@ CHAKHTIOR DONETSK – RENNES
 CHALANDAMARZ
 CHALLENGE CUP
 CHALLENGE LEAGUE
+CHALLENGE ROTH
 CHALLENGER 2
 CHALLENGER PRO LEAGUE
 CHALLENGERS
@@ -10078,8 +10087,10 @@ ChakhtiorDonetsk–rennes
 Chalandamarz
 Challenge Cup
 Challenge League
+Challenge Roth
 ChallengeCup
 ChallengeLeague
+ChallengeRoth
 Challenger 2
 Challenger Pro League
 Challenger2
@@ -12501,6 +12512,7 @@ DRAFT NBA 2021
 DRAFT NBA 2022
 DRAFT NBA 2023
 DRAG RACE FRANCE
+DRAG-QUEEN
 DRAGHI
 DRAGON BALL SUPER : SUPER HERO
 DRAGONS CATALANS
@@ -12583,6 +12595,7 @@ DURBUY
 DUSAN VLAHOVIC
 DUSTY HILL
 DUSTY SPRINGFIELD
+DUTCH REACH
 DUTROUX
 DWARS DOOR HET HAGELAND
 DWARS DOOR HET HAGELAND 2023
@@ -13779,6 +13792,7 @@ DraftNBA2021
 DraftNBA2022
 DraftNBA2023
 Drag Race France
+Drag-queen
 DragRaceFrance
 Draghi
 Dragon Ball Super : Super Hero
@@ -13786,6 +13800,7 @@ DragonBallSuper:SuperHero
 Dragons Catalans
 DragonsCatalans
 Dragovic
+Dragqueen
 Drake
 Drakeo The Ruler
 Drakeo the Ruler
@@ -13879,6 +13894,8 @@ Dusty Hill
 Dusty Springfield
 DustyHill
 DustySpringfield
+Dutch reach
+Dutchreach
 Dutroux
 Dwars door Vlaanderen
 Dwars door Vlaanderen 2022
@@ -19257,6 +19274,7 @@ GROUPAMA
 GROUPE E
 GROUPE TF1 CANAL
 GROUPE WAGNER
+GROUPE WAGNER EVGUENI PRIGOJINE
 GROUPIES
 GRUE LA DEFENSE
 GRUE LAUSANNE
@@ -19277,6 +19295,7 @@ GRÈVES TRANSPORTS 19 JANVIER
 GRÉGOIRE LYONNET
 GRÉGORY LEMARCHAL
 GRÖDEN
+GRÖNA LUND
 GRÜNDONNERSTAG
 GRÜNER PASS ITALIEN
 GTA 6
@@ -20433,9 +20452,11 @@ Groupama
 Groupe E
 Groupe TF1 Canal
 Groupe Wagner
+Groupe Wagner Evgueni Prigojine
 GroupeE
 GroupeTF1Canal
 GroupeWagner
+GroupeWagnerEvgueniPrigojine
 Groupies
 Grue Lausanne
 Grue la defense
@@ -20471,6 +20492,8 @@ GrégoireLyonnet
 Grégory Lemarchal
 GrégoryLemarchal
 Gröden
+Gröna Lund
+GrönaLund
 Gründonnerstag
 Grüner Pass Italien
 GrünerPassItalien
@@ -20623,6 +20646,7 @@ GÉRALD DARMANIN
 GÉRALD DARMANIN ALGÉRIEN
 GÉRALDINE MAILLET
 GÉRARD COLLOMB MACRON
+GÉRARD DARMON
 GÉRARD DEPARDIEU
 GÉRARD HERNANDEZ
 GÉRARD JUGNOT
@@ -20645,11 +20669,13 @@ GéraldDarmaninalgérien
 Géraldine Maillet
 GéraldineMaillet
 Gérard Collomb Macron
+Gérard Darmon
 Gérard Depardieu
 Gérard Hernandez
 Gérard Jugnot
 Gérard Lanvin
 GérardCollombMacron
+GérardDarmon
 GérardDepardieu
 GérardHernandez
 GérardJugnot
@@ -20944,6 +20970,7 @@ HEURE
 HEURE BELGIQUE
 HEURE D'HIVER
 HEUTE
+HEXAGON
 HEY! ORANGE
 HHC
 HIGH ON LIFE
@@ -21569,6 +21596,7 @@ Heure d'hiver
 HeureBelgique
 Heured'hiver
 Heute
+Hexagon
 Hey! Orange
 Hey!Orange
 High on Life
@@ -23594,6 +23622,7 @@ JOKO WINTERSCHEIDT
 JOLANDA ANNEN
 JOLANDA NEFF
 JOLANDA SPIESS-HEGGLIN
+JOLIEN BOUMKWO
 JOLIEN VERSCHUEREN
 JOLIENVERSCHUEREN
 JON BATISTE
@@ -24885,7 +24914,9 @@ Jolanda SpiessHegglin
 JolandaAnnen
 JolandaNeff
 JolandaSpiess-Hegglin
+Jolien Boumkwo
 Jolien Verschueren
+JolienBoumkwo
 JolienVerschueren
 Jon Batiste
 Jon Bon Jovi
@@ -49744,6 +49775,10 @@ U20-WM Eishockey
 U20-WMEishockey
 U20WM Eishockey
 U20wmEishockey
+U21
+U21 SCHWEIZ
+U21 Schweiz
+U21Schweiz
 UB40
 UBB
 UBB CLERMONT
@@ -49977,6 +50012,7 @@ UNO-Sicherheitsrat
 UNOSicherheitsrat
 UNPLANNED
 UNRECORD
+UNTER DEM SAND
 UNWETTER
 UNWETTER DEUTSCHLAND
 UNWETTER EMMENTAL
@@ -50304,6 +50340,8 @@ Unplanned
 Unrecord
 Unsigrandsoleil
 Unsingeenhiver
+Unter dem Sand
+UnterdemSand
 Untourchezmafille
 Unwetter
 Unwetter Deutschland
@@ -50453,6 +50491,7 @@ VALNEVA-AKTIE
 VALORA
 VALTTERI BOTTAS
 VALVERDE
+VALÉRIE DAMIDOT
 VALÉRIE PÉCRESSE
 VAMPIR LIFTING
 VAN AERT
@@ -50925,7 +50964,9 @@ Valora
 Valtteri Bottas
 ValtteriBottas
 Valverde
+Valérie Damidot
 Valérie Pécresse
+ValérieDamidot
 ValériePécresse
 Vampir Lifting
 VampirLifting
@@ -51748,6 +51789,7 @@ WILLI NINJA
 WILLIAM
 WILLIAM BOEVA
 WILLIAM COHN
+WILLIAM DUNKER
 WILLIAM HURT
 WILLIAM KLEIN
 WILLIAM LEYMERGIE
@@ -51772,6 +51814,7 @@ WIM WILLAERT
 WIMBLEDON
 WIMBLEDON 2021
 WIMBLEDON 2022
+WIMBLEDON 2023
 WIMBLEDON-FINAL
 WIMBLEDON2021
 WIN BUTLER
@@ -52326,6 +52369,7 @@ WilliNinja
 William
 William Boeva
 William Cohn
+William Dunker
 William Hurt
 William Klein
 William Leymergie
@@ -52333,6 +52377,7 @@ William Shatner
 William Sheller
 WilliamBoeva
 WilliamCohn
+WilliamDunker
 WilliamHurt
 WilliamKlein
 WilliamLeymergie
@@ -52367,9 +52412,11 @@ WimWillaert
 Wimbledon
 Wimbledon 2021
 Wimbledon 2022
+Wimbledon 2023
 Wimbledon-Final
 Wimbledon2021
 Wimbledon2022
+Wimbledon2023
 WimbledonFinal
 WimdeBie
 Win Butler
@@ -52726,6 +52773,7 @@ YVES BENOIT
 YVES COPPENS
 YVES DE GAULLE
 YVES DUTEIL
+YVES LAMPAERT
 YVES MARTIN
 YVES MONTAND
 YVES RÉNIER MORT
@@ -52867,6 +52915,7 @@ YverdonlesBains
 Yves Benoit
 Yves Coppens
 Yves Duteil
+Yves Lampaert
 Yves Martin
 Yves Montand
 Yves Rénier mort
@@ -52874,6 +52923,7 @@ Yves de Gaulle
 YvesBenoit
 YvesCoppens
 YvesDuteil
+YvesLampaert
 YvesMartin
 YvesMontand
 YvesRéniermort
@@ -53575,6 +53625,7 @@ aeroport geneve
 aeroport montpellier
 afasie
 afc richmond
+afd
 affaire conclue
 affaire d'outreau
 affaire gregory
@@ -55415,6 +55466,7 @@ bernardo silva
 bernardtapie
 bernd grimmer
 bernd storck
+berner kantonales schwingfest
 berner rundfahrt
 bernerhof
 bernie ecclestone
@@ -55918,6 +55970,7 @@ bret easton ellis
 bretagne
 brett connolly
 brevet 2022
+brevet 2023
 brian
 brian austin green
 brian johnson
@@ -56492,6 +56545,7 @@ chakhtior donetsk – rennes
 chalandamarz
 challenge cup
 challenge league
+challenge roth
 challenger 2
 challenger pro league
 challengers
@@ -58111,6 +58165,7 @@ draft nba 2021
 draft nba 2022
 draft nba 2023
 drag race france
+drag-queen
 draghi
 dragon ball super : super hero
 dragons catalans
@@ -58181,6 +58236,7 @@ durbuy
 dusan vlahovic
 dusty hill
 dusty springfield
+dutch reach
 dutroux
 dwars door het hageland
 dwars door het hageland 2023
@@ -60488,6 +60544,7 @@ groupama
 groupe e
 groupe tf1 canal
 groupe wagner
+groupe wagner evgueni prigojine
 groupies
 grue la defense
 grue lausanne
@@ -60508,6 +60565,7 @@ grèves transports 19 janvier
 grégoire lyonnet
 grégory lemarchal
 gröden
+gröna lund
 gründonnerstag
 grüner pass italien
 gta 6
@@ -60602,6 +60660,7 @@ gérald darmanin
 gérald darmanin algérien
 géraldine maillet
 gérard collomb macron
+gérard darmon
 gérard depardieu
 gérard hernandez
 gérard jugnot
@@ -60884,6 +60943,7 @@ heure
 heure belgique
 heure d'hiver
 heute
+hexagon
 hey! orange
 hhc
 high on life
@@ -62071,6 +62131,7 @@ joko winterscheidt
 jolanda annen
 jolanda neff
 jolanda spiess-hegglin
+jolien boumkwo
 jolien verschueren
 jolienverschueren
 jon batiste
@@ -71077,6 +71138,8 @@ u-boot titanic
 u18 eishockey wm
 u20 wm eishockey
 u20-wm eishockey
+u21
+u21 schweiz
 ub40
 ubb
 ubb clermont
@@ -71260,6 +71323,7 @@ united barca
 uno-sicherheitsrat
 unplanned
 unrecord
+unter dem sand
 unwetter
 unwetter deutschland
 unwetter emmental
@@ -71388,6 +71452,7 @@ valneva-aktie
 valora
 valtteri bottas
 valverde
+valérie damidot
 valérie pécresse
 vampir lifting
 van aert
@@ -71957,6 +72022,7 @@ willi ninja
 william
 william boeva
 william cohn
+william dunker
 william hurt
 william klein
 william leymergie
@@ -71981,6 +72047,7 @@ wim willaert
 wimbledon
 wimbledon 2021
 wimbledon 2022
+wimbledon 2023
 wimbledon-final
 wimbledon2021
 win butler
@@ -72227,6 +72294,7 @@ yves benoit
 yves coppens
 yves de gaulle
 yves duteil
+yves lampaert
 yves martin
 yves montand
 yves rénier mort
