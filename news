@@ -1662,6 +1662,7 @@ ARCTIC MONKEYS
 ARD
 ARDA GULER
 ARDA GÜLER
+ARDON JASHARI
 ARE
 ARES
 ARGELES SUR-MER
@@ -1990,6 +1991,7 @@ ATPRanking
 ATPRome
 ATPStuttgart
 ATTAQUE FRELONS CYCLISTES
+ATTAQUE REQUIN
 ATTAQUES ORQUES
 ATTENTAT 13-NOVEMBRE
 ATTENTAT BATACLAN
@@ -4061,6 +4063,8 @@ Arda guler
 ArdaGuler
 ArdaGüler
 Ardaguler
+Ardon Jashari
+ArdonJashari
 Are
 Ares
 Argeles sur-Mer
@@ -4552,7 +4556,9 @@ Atomkrieg
 Atos
 AtraverslaFlandre
 Attaque frelons cyclistes
+Attaque requin
 Attaquefrelonscyclistes
+Attaquerequin
 Attaques orques
 Attaquesorques
 Attentat 13-Novembre
@@ -4928,6 +4934,7 @@ BAKOU
 BAKU
 BAKURIANI
 BAL DES POMPIERS
+BAL NATIONAL
 BALE
 BALELEC
 BALEN
@@ -5409,6 +5416,7 @@ BERNARD CAMPAN
 BERNARD CAZENEUVE
 BERNARD CHALLANDES
 BERNARD CRIBBINS
+BERNARD D'ORMALE
 BERNARD DE LA VILLARDIÈRE
 BERNARD DEWULF
 BERNARD HAITINK
@@ -6280,7 +6288,9 @@ Bakhmout
 Bakou
 Baku
 Bakuriani
+Bal National
 Bal des pompiers
+BalNational
 Baldespompiers
 Bale
 Balelec
@@ -7115,6 +7125,7 @@ Bernard Montiel
 Bernard Pons
 Bernard Tapie
 Bernard Tiphaine
+Bernard d'Ormale
 Bernard de la Villardière
 Bernard-Henri Levy
 Bernard-HenriLevy
@@ -7139,6 +7150,7 @@ BernardMontiel
 BernardPons
 BernardTapie
 BernardTiphaine
+Bernardd'Ormale
 BernarddelaVillardière
 Bernardo Silva
 BernardoSilva
@@ -9522,6 +9534,8 @@ COUPE DE FRANCE
 COUPE DE FRANCE FÉMININE
 COUPE DU MONDE
 COUPE DU MONDE 2022
+COUPE DU MONDE DE FOOTBALL FÉMININ
+COUPE DU MONDE FEMININ
 COUPE DU MONDE FÉMININE
 COUPE DU MONDE RUGBY
 COUPE DU MONDE RUGBY 2023
@@ -11720,6 +11734,8 @@ Coupe du Monde U20
 Coupe du monde
 Coupe du monde 2022
 Coupe du monde U20
+Coupe du monde de football féminin
+Coupe du monde feminin
 Coupe du monde féminine
 Coupe du monde rugby
 Coupe du monde rugby 2023
@@ -11735,6 +11751,8 @@ CoupeduMondeU20
 Coupedumonde
 Coupedumonde2022
 CoupedumondeU20
+Coupedumondedefootballféminin
+Coupedumondefeminin
 Coupedumondeféminine
 Coupedumonderugby
 Coupedumonderugby2023
@@ -12392,6 +12410,7 @@ DEMO WINTERTHUR
 DEMO ZÜRICH
 DEMON SLAYER
 DEMONSTRATION ZÜRICH
+DENDERMONDE
 DENEUVE
 DENIS BROGNIART
 DENIS MALGIN
@@ -12692,6 +12711,7 @@ DOMINIC SMITH
 DOMINIC STRICKER
 DOMINIC THIEM
 DOMINIK MOLL
+DOMINIK SCHMID
 DOMINIK SZOBOSZLAI
 DOMINIQUE AEGERTER
 DOMINIQUE ANSEL
@@ -13441,6 +13461,7 @@ Demon Slayer
 DemonSlayer
 Demonstration Zürich
 DemonstrationZürich
+Dendermonde
 Deneuve
 Denis Brogniart
 Denis Malgin
@@ -13925,8 +13946,10 @@ DominicSmith
 DominicStricker
 DominicThiem
 Dominik Moll
+Dominik Schmid
 Dominik Szoboszlai
 DominikMoll
+DominikSchmid
 DominikSzoboszlai
 Dominique Aegerter
 Dominique Ansel
@@ -16918,6 +16941,7 @@ FETE DU CINEMA
 FETE DU ROI
 FETE DU TRAVAIL
 FETE NATIONALE
+FETE NATIONALE BELGE
 FETE NATIONALE FEUX D'ARTIFICE
 FETE NATIONALE SUISSE
 FETEDELAMUSIQUE2021
@@ -17577,10 +17601,12 @@ FUSSBALL SCHWEIZ
 FUSSBALL SCHWEIZ ITALIEN
 FUSSBALL WM
 FUSSBALL WM 2022
+FUSSBALL WM FRAUEN
 FUT WEB APP
 FUTSAL
 FUTUROSCOPE
 FUßBALL HEUTE
+FUßBALL-WELTMEISTERSCHAFT DER FRAUEN
 FUßBALL-WM SPIELE
 FYNN KLIEMANN
 Fabian O'Neill
@@ -17887,6 +17913,7 @@ Fete du Travail
 Fete du cinema
 Fete du travail
 Fete nationale
+Fete nationale belge
 Fete nationale feux d'artifice
 Fete nationale suisse
 FeteDieu
@@ -17921,6 +17948,7 @@ FeteduTravail
 Feteducinema
 Fetedutravail
 Fetenationale
+Fetenationalebelge
 Fetenationalefeuxd'artifice
 Fetenationalesuisse
 Fetterman
@@ -19002,12 +19030,14 @@ Fussball Schweiz
 Fussball Schweiz Italien
 Fussball WM
 Fussball WM 2022
+Fussball WM Frauen
 FussballEMFrauen
 FussballOlympia
 FussballSchweiz
 FussballSchweizItalien
 FussballWM
 FussballWM2022
+FussballWMFrauen
 Fut Web App
 FutWebApp
 Futsal
@@ -19015,7 +19045,10 @@ Futuroscope
 Fußball heute
 Fußball-WM spiele
 Fußball-WMspiele
+Fußball-Weltmeisterschaft der Frauen
+Fußball-WeltmeisterschaftderFrauen
 FußballWM spiele
+FußballWeltmeisterschaft der Frauen
 Fußballheute
 Fynn Kliemann
 FynnKliemann
@@ -21569,6 +21602,7 @@ HONKAI: STAR RAIL
 HOOGTEZIEKTE
 HOPE SOLO
 HOPITAL TOULON OBUS ANUS
+HOPMAN CUP
 HOPP SCHWIIZ
 HOPPER ET LE HAMSTER DES TÉNÈBRES
 HOPPSCHWIIZ
@@ -22262,6 +22296,8 @@ Hope Solo
 HopeSolo
 Hopital Toulon obus anus
 HopitalToulonobusanus
+Hopman Cup
+HopmanCup
 Hopp Schwiiz
 HoppSchwiiz
 Hopper et le Hamster des Ténèbres
@@ -26318,6 +26354,7 @@ KERSTINOTT
 KERSTMARKT ANTWERPEN
 KERSTMARKT OOSTENDE
 KESSEL-LO
+KETAMINE
 KETANJI BROWN JACKSON
 KETNET ZOMERTOUR
 KETO-DIÄT
@@ -26338,6 +26375,7 @@ KEVIN JANSSENS
 KEVIN MAGNUSSEN
 KEVIN MAYER
 KEVIN MCCARTHY
+KEVIN MITNICK
 KEVIN ROLLAND
 KEVIN SAMUELS
 KEVIN SPACEY
@@ -26969,6 +27007,7 @@ KerstmarktAntwerpen
 KerstmarktOostende
 Kessel-Lo
 KesselLo
+Ketamine
 Ketanji Brown Jackson
 KetanjiBrownJackson
 Ketnet Zomertour
@@ -26993,6 +27032,7 @@ Kevin Janssens
 Kevin Magnussen
 Kevin Mayer
 Kevin McCarthy
+Kevin Mitnick
 Kevin Rolland
 Kevin Samuels
 Kevin Spacey
@@ -27014,6 +27054,7 @@ KevinJanssens
 KevinMagnussen
 KevinMayer
 KevinMcCarthy
+KevinMitnick
 KevinRolland
 KevinSamuels
 KevinSpacey
@@ -28590,6 +28631,7 @@ LOTO 8 SEPTEMBRE 2021
 LOTO 9 OCTOBRE 2021
 LOTO 9 octobre 2021
 LOTO DU 16 AVRIL 2022
+LOTO DU 19 JUILLET 2023
 LOTO DU 3 SEPTEMBRE 2022
 LOTO SAINT-VALENTIN
 LOTO VENDREDI 13
@@ -28734,6 +28776,7 @@ LUKOIL
 LULA
 LULA BOLSONARO
 LUMINUS
+LUMNEZIA OPENAIR
 LUNA
 LUNA CRYPTO
 LUNA SCHWEIGER
@@ -29831,6 +29874,7 @@ Les Vestiges du jour
 Les Veuves
 Les Vieilles Charrues
 Les Vieux Fourneaux
+Les Visiteurs
 Les animaux fantastiques
 Les anneaux de pouvoir
 Les choses qu'on dit, les choses qu'on fait
@@ -29911,6 +29955,7 @@ LesVestigesdujour
 LesVeuves
 LesVieillesCharrues
 LesVieuxFourneaux
+LesVisiteurs
 Lesanimauxfantastiques
 Lesanneauxdepouvoir
 Lesautdudiable
@@ -30641,6 +30686,7 @@ Loto 8 septembre 2021
 Loto Saint-Valentin
 Loto SaintValentin
 Loto du 16 avril 2022
+Loto du 19 juillet 2023
 Loto du 3 septembre 2022
 Loto vendredi 13
 Loto10novembre2021
@@ -30671,6 +30717,7 @@ Loto8janvier2022
 Loto8septembre2021
 LotoSaint-Valentin
 Lotodu16avril2022
+Lotodu19juillet2023
 Lotodu3septembre2022
 Lotovendredi13
 Lotte Kopecky
@@ -30911,6 +30958,8 @@ Lula
 Lula Bolsonaro
 LulaBolsonaro
 Luminus
+Lumnezia openair
+Lumneziaopenair
 Luna Schweiger
 Luna crypto
 LunaSchweiger
@@ -31068,6 +31117,7 @@ LÉON MARCHAND
 LÖRRACH
 LÖTSCHENTAL
 LÖWE
+LÖWE BERLIN
 LÜCKENKEMPER
 LÜTZERATH
 Läderach
@@ -31082,6 +31132,8 @@ LéonMarchand
 Lörrach
 Lötschental
 Löwe
+Löwe Berlin
+LöweBerlin
 Lückenkemper
 Lützerath
 M POKORA
@@ -31344,6 +31396,7 @@ MANCHESTER UNITED – FULHAM
 MANCHESTER UNITED – LEEDS UNITED
 MANCHESTER UNITED – LEICESTER
 MANCHESTER UNITED – LIVERPOOL
+MANCHESTER UNITED – LYON
 MANCHESTER UNITED – MANCHESTER CITY
 MANCHESTER UNITED – MIDDLESBROUGH
 MANCHESTER UNITED – NEWCASTLE
@@ -31560,6 +31613,7 @@ MARIANNE VOS
 MARIANNE WILLIAMSON
 MARIE AGNES GILLOT
 MARIE ANTOINETTE
+MARIE ARENA
 MARIE KONDO
 MARIE LAFORET
 MARIE MYRIAM
@@ -32549,6 +32603,7 @@ MON ANGE
 MON CRIME
 MON ESPACE SANTÉ
 MON GARÇON
+MON ONCLE
 MONA LISA
 MONA OZOUF
 MONA VETSCH
@@ -33202,6 +33257,7 @@ Manchester United – Fulham
 Manchester United – Leeds United
 Manchester United – Leicester
 Manchester United – Liverpool
+Manchester United – Lyon
 Manchester United – Manchester City
 Manchester United – Middlesbrough
 Manchester United – Newcastle
@@ -33262,6 +33318,7 @@ ManchesterUnited–Fulham
 ManchesterUnited–LeedsUnited
 ManchesterUnited–Leicester
 ManchesterUnited–Liverpool
+ManchesterUnited–Lyon
 ManchesterUnited–ManchesterCity
 ManchesterUnited–Middlesbrough
 ManchesterUnited–Newcastle
@@ -33629,6 +33686,7 @@ MarianneVos
 MarianneWilliamson
 MarianneundMichael
 Marie Antoinette
+Marie Arena
 Marie Kondo
 Marie Myriam
 Marie Patouillet
@@ -33655,6 +33713,7 @@ Marie-SophieLacarrau
 Marie-Thérèse Bonfanti disparition
 Marie-ThérèseBonfantidisparition
 MarieAntoinette
+MarieArena
 MarieCharlotte Garin
 MarieFrancine
 MarieGalante
@@ -35400,11 +35459,13 @@ Molosse de Cestoni
 MolossedeCestoni
 Mon Ange
 Mon Garçon
+Mon Oncle
 Mon crime
 Mon espace santé
 Mon garçon
 MonAnge
 MonGarçon
+MonOncle
 Mona Lisa
 Mona Ozouf
 Mona Vetsch
@@ -36238,6 +36299,7 @@ NICE-MARSEILLE
 NICE-MATIN
 NICHELLE NICHOLS
 NICHOLAS ANGELICH
+NICK BENEDICT
 NICK BOLLETTIERI
 NICK CANNON
 NICK CARTER
@@ -36474,6 +36536,7 @@ NOUVELLE DÉCLARATION IMPOTS PROPRIÉTAIRE
 NOUVELLE MESURE COVID SUISSE
 NOUVELLE PEUGEOT 408
 NOUVELLE RESTRICTION COVID
+NOUVELLE ZELANDE
 NOUVELLE-AQUITAINE
 NOUVELLE-CALÉDONIE
 NOUVELLES MESURES COVID
@@ -37062,6 +37125,7 @@ Nichelle Nichols
 NichelleNichols
 Nicholas Angelich
 NicholasAngelich
+Nick Benedict
 Nick Bollettieri
 Nick Cannon
 Nick Carter
@@ -37069,6 +37133,7 @@ Nick Cave
 Nick Cave Werchter
 Nick Kyrgios
 Nick Nuyens
+NickBenedict
 NickBollettieri
 NickCannon
 NickCarter
@@ -37451,6 +37516,7 @@ Nouvelle carte d'identité
 Nouvelle déclaration impots propriétaire
 Nouvelle mesure Covid suisse
 Nouvelle restriction Covid
+Nouvelle zelande
 Nouvelle-Aquitaine
 Nouvelle-Calédonie
 NouvelleAquitaine
@@ -37462,6 +37528,7 @@ NouvellemesureCovidsuisse
 NouvellerestrictionCovid
 Nouvelles mesures Covid
 NouvellesmesuresCovid
+Nouvellezelande
 Novak Djokovic
 Novak Djokovic news
 Novak đoković
@@ -38370,7 +38437,9 @@ Opi-Omi
 OpiOmi
 Oppenheimer
 Oppenheimer Film
+Oppenheimer film
 OppenheimerFilm
+Oppenheimerfilm
 Oppo
 Oppo Find N
 Oppo Find N2 Flip
@@ -39190,6 +39259,7 @@ PITA TAUFATOFUA
 PITON DE LA FOURNAISE
 PIXEL 6
 PIXEL 7
+PIXEL WAR
 PIZZA
 PIZZA BUITONI
 PJANIC
@@ -39725,6 +39795,7 @@ PULA
 PULISIC
 PULP FICTION
 PUMA
+PUNAISE DE LIT
 PUNEETH RAJKUMAR
 PURE C
 PURPLE HEARTS
@@ -40889,8 +40960,10 @@ Piton de la Fournaise
 PitondelaFournaise
 Pixel 6
 Pixel 7
+Pixel War
 Pixel6
 Pixel7
+PixelWar
 Pizza
 Pizza Buitoni
 PizzaBuitoni
@@ -41528,6 +41601,8 @@ Pulisic
 Pulp Fiction
 PulpFiction
 Puma
+Punaise de lit
+Punaisedelit
 Puneeth Rajkumar
 PuneethRajkumar
 Pure C
@@ -42292,6 +42367,7 @@ RIESENDING - JEDE STUNDE ZÄHLT
 RIESENSLALOM ADELBODEN
 RIESENSLALOM FRAUEN
 RIESIGES LOCH: IN CHILE
+RIETER
 RIGA
 RIGI
 RIHANNA
@@ -42348,6 +42424,7 @@ ROBERT HENDY-FREEGARD
 ROBERT MAUDSLEY
 ROBERT MENARD
 ROBERT MITCHUM
+ROBERT OPPENHEIMER
 ROBERT PLANT
 ROBERT REDFORD
 ROBERT SUBER
@@ -43587,6 +43664,7 @@ RiesenslalomAdelboden
 RiesenslalomFrauen
 Riesiges Loch: In Chile
 RiesigesLoch:InChile
+Rieter
 Riga
 Rigi
 Rihanna
@@ -43662,6 +43740,7 @@ Robert Hendy-Freegard
 Robert HendyFreegard
 Robert Maudsley
 Robert Mitchum
+Robert Oppenheimer
 Robert Plant
 Robert Redford
 Robert Suber
@@ -43678,6 +43757,7 @@ RobertGallinowski
 RobertHendy-Freegard
 RobertMaudsley
 RobertMitchum
+RobertOppenheimer
 RobertPlant
 RobertRedford
 RobertSuber
@@ -45094,6 +45174,7 @@ SOFOOT
 SOFTBALL
 SOFYAN AMRABAT
 SOLANA
+SOLDAT AMÉRICAIN CORÉE DU NORD
 SOLDE
 SOLDE JANVIER 2022
 SOLDEN
@@ -47136,6 +47217,8 @@ Softball
 Sofyan Amrabat
 SofyanAmrabat
 Solana
+Soldat américain Corée du Nord
+SoldataméricainCoréeduNord
 Solde
 Solde janvier 2022
 Soldejanvier2022
@@ -48721,6 +48804,7 @@ THOMAS STRUNZ
 THOMAS VAN DER PLAETSEN
 THOMAS VANDERVEKEN
 THOMAS VERMAELEN
+THOMAS VOECKLER
 THOMASBRIELS
 THOMASMEUNIER
 THOMASPESQUET
@@ -49943,6 +50027,7 @@ Thomas Strunz
 Thomas Van der Plaetsen
 Thomas Vanderveken
 Thomas Vermaelen
+Thomas Voeckler
 Thomas muller
 ThomasAeschi
 ThomasBach
@@ -49971,6 +50056,7 @@ ThomasStrunz
 ThomasVanderPlaetsen
 ThomasVanderveken
 ThomasVermaelen
+ThomasVoeckler
 Thomasmuller
 Thor
 Thor : Love and Thunder
@@ -55776,6 +55862,7 @@ arctic monkeys
 ard
 arda guler
 arda güler
+ardon jashari
 are
 ares
 argeles sur-mer
@@ -56067,6 +56154,7 @@ atp rome
 atp stuttgart
 atp-ranking
 attaque frelons cyclistes
+attaque requin
 attaques orques
 attentat 13-novembre
 attentat bataclan
@@ -56295,6 +56383,7 @@ bakou
 baku
 bakuriani
 bal des pompiers
+bal national
 bale
 balelec
 balen
@@ -56765,6 +56854,7 @@ bernard campan
 bernard cazeneuve
 bernard challandes
 bernard cribbins
+bernard d'ormale
 bernard de la villardière
 bernard dewulf
 bernard haitink
@@ -58664,6 +58754,8 @@ coupe de france
 coupe de france féminine
 coupe du monde
 coupe du monde 2022
+coupe du monde de football féminin
+coupe du monde feminin
 coupe du monde féminine
 coupe du monde rugby
 coupe du monde rugby 2023
@@ -59173,6 +59265,7 @@ demo winterthur
 demo zürich
 demon slayer
 demonstration zürich
+dendermonde
 deneuve
 denis brogniart
 denis malgin
@@ -59449,6 +59542,7 @@ dominic smith
 dominic stricker
 dominic thiem
 dominik moll
+dominik schmid
 dominik szoboszlai
 dominique aegerter
 dominique ansel
@@ -60721,6 +60815,7 @@ fete du cinema
 fete du roi
 fete du travail
 fete nationale
+fete nationale belge
 fete nationale feux d'artifice
 fete nationale suisse
 fetedelamusique2021
@@ -61337,10 +61432,12 @@ fussball schweiz
 fussball schweiz italien
 fussball wm
 fussball wm 2022
+fussball wm frauen
 fut web app
 futsal
 futuroscope
 fußball heute
+fußball-weltmeisterschaft der frauen
 fußball-wm spiele
 fynn kliemann
 färöer
@@ -62476,6 +62573,7 @@ honkai: star rail
 hoogteziekte
 hope solo
 hopital toulon obus anus
+hopman cup
 hopp schwiiz
 hopper et le hamster des ténèbres
 hoppschwiiz
@@ -64110,6 +64208,7 @@ kerstin ott
 kerstmarkt antwerpen
 kerstmarkt oostende
 kessel-lo
+ketamine
 ketanji brown jackson
 ketnet zomertour
 keto-diät
@@ -64130,6 +64229,7 @@ kevin janssens
 kevin magnussen
 kevin mayer
 kevin mccarthy
+kevin mitnick
 kevin rolland
 kevin samuels
 kevin spacey
@@ -65450,6 +65550,7 @@ loto 8 janvier 2022
 loto 8 septembre 2021
 loto 9 octobre 2021
 loto du 16 avril 2022
+loto du 19 juillet 2023
 loto du 3 septembre 2022
 loto saint-valentin
 loto vendredi 13
@@ -65593,6 +65694,7 @@ lukoil
 lula
 lula bolsonaro
 luminus
+lumnezia openair
 luna
 luna crypto
 luna schweiger
@@ -65686,6 +65788,7 @@ léon marchand
 lörrach
 lötschental
 löwe
+löwe berlin
 lückenkemper
 lützerath
 m pokora
@@ -65942,6 +66045,7 @@ manchester united – fulham
 manchester united – leeds united
 manchester united – leicester
 manchester united – liverpool
+manchester united – lyon
 manchester united – manchester city
 manchester united – middlesbrough
 manchester united – newcastle
@@ -66158,6 +66262,7 @@ marianne vos
 marianne williamson
 marie agnes gillot
 marie antoinette
+marie arena
 marie kondo
 marie laforet
 marie myriam
@@ -67133,6 +67238,7 @@ mon ange
 mon crime
 mon espace santé
 mon garçon
+mon oncle
 mona lisa
 mona ozouf
 mona vetsch
@@ -67712,6 +67818,7 @@ nice-marseille
 nice-matin
 nichelle nichols
 nicholas angelich
+nick benedict
 nick bollettieri
 nick cannon
 nick carter
@@ -67940,6 +68047,7 @@ nouvelle déclaration impots propriétaire
 nouvelle mesure covid suisse
 nouvelle peugeot 408
 nouvelle restriction covid
+nouvelle zelande
 nouvelle-aquitaine
 nouvelle-calédonie
 nouvelles mesures covid
@@ -68989,6 +69097,7 @@ pita taufatofua
 piton de la fournaise
 pixel 6
 pixel 7
+pixel war
 pizza
 pizza buitoni
 pjanic
@@ -69412,6 +69521,7 @@ pula
 pulisic
 pulp fiction
 puma
+punaise de lit
 puneeth rajkumar
 pure c
 purple hearts
@@ -69989,6 +70099,7 @@ riesending - jede stunde zählt
 riesenslalom adelboden
 riesenslalom frauen
 riesiges loch: in chile
+rieter
 riga
 rigi
 rihanna
@@ -70043,6 +70154,7 @@ robert hendy-freegard
 robert maudsley
 robert menard
 robert mitchum
+robert oppenheimer
 robert plant
 robert redford
 robert suber
@@ -71186,6 +71298,7 @@ sofoot
 softball
 sofyan amrabat
 solana
+soldat américain corée du nord
 solde
 solde janvier 2022
 solden
@@ -72272,6 +72385,7 @@ thomas strunz
 thomas van der plaetsen
 thomas vanderveken
 thomas vermaelen
+thomas voeckler
 thomasbriels
 thomasmeunier
 thomaspesquet
