@@ -5009,11 +5009,13 @@ BARCA CITY
 BARCA JUVENTUS
 BARCA REAL
 BARCA VS REAL
+BARCARES
 BARCELONA
 BARCELONA  CELTA
 BARCELONA  CÁDIZ
 BARCELONA  EINTRACHT FRANKFURT
 BARCELONA  GETAFE
+BARCELONA  JUVENTUS
 BARCELONA  MALLORCA
 BARCELONA  MAN UTD
 BARCELONA  MANCHESTER CITY
@@ -6400,6 +6402,7 @@ BarcaBayern
 BarcaCity
 BarcaJuventus
 BarcaReal
+Barcares
 BarcavsReal
 Barcelona
 Barcelona  Bayern
@@ -6408,6 +6411,7 @@ Barcelona  Cádiz
 Barcelona  Eintracht Frankfurt
 Barcelona  Getafe
 Barcelona  Inter
+Barcelona  Juventus
 Barcelona  Mallorca
 Barcelona  Man utd
 Barcelona  Manchester City
@@ -6457,6 +6461,7 @@ BarcelonaCelta
 BarcelonaCádiz
 BarcelonaEintrachtFrankfurt
 BarcelonaGetafe
+BarcelonaJuventus
 BarcelonaMallorca
 BarcelonaManchesterCity
 BarcelonaManutd
@@ -17245,6 +17250,7 @@ FOREST  SOUTHAMPTON
 FOREST WHITAKER
 FORET DE BROCELIANDE
 FORMEL 1
+FORMEL 1 HEUTE
 FORMEL 1 LIVE
 FORMEL 1 MONZA
 FORMEL 1, MONZA
@@ -18356,6 +18362,7 @@ Foret de broceliande
 Foretdebroceliande
 Formel 1
 Formel 1 Monza
+Formel 1 heute
 Formel 1 live
 Formel 1, Monza
 Formel-1
@@ -18371,6 +18378,7 @@ Formel1 heute
 Formel1,Monza
 Formel1Monza
 Formel1Rennen heute
+Formel1heute
 Formel1live
 Formula 1
 Formula1
@@ -22858,6 +22866,7 @@ ISLANDE
 ISLANDE – FRANCE
 ISLANDE – PORTUGAL
 ISLETEN
+ISMAILA SARR
 ISOLEMENT COVID
 ISRAEL
 ISS
@@ -23582,6 +23591,8 @@ Islande – Portugal
 Islande–France
 Islande–Portugal
 Isleten
+Ismaila Sarr
+IsmailaSarr
 Isolement Covid
 IsolementCovid
 Israel
@@ -28676,6 +28687,7 @@ LOTO 9 OCTOBRE 2021
 LOTO 9 octobre 2021
 LOTO DU 16 AVRIL 2022
 LOTO DU 19 JUILLET 2023
+LOTO DU 22 JUILLET 2023
 LOTO DU 3 SEPTEMBRE 2022
 LOTO SAINT-VALENTIN
 LOTO VENDREDI 13
@@ -30735,6 +30747,7 @@ Loto Saint-Valentin
 Loto SaintValentin
 Loto du 16 avril 2022
 Loto du 19 juillet 2023
+Loto du 22 juillet 2023
 Loto du 3 septembre 2022
 Loto vendredi 13
 Loto10novembre2021
@@ -30766,6 +30779,7 @@ Loto8septembre2021
 LotoSaint-Valentin
 Lotodu16avril2022
 Lotodu19juillet2023
+Lotodu22juillet2023
 Lotodu3septembre2022
 Lotovendredi13
 Lotte Kopecky
@@ -31879,6 +31893,7 @@ MARTINE AUBRY
 MARTINE FROGER
 MARTINE JONCKHEERE
 MARTINE TANGHE
+MARTINE TANGHE OVERLEDEN
 MARTINE WONNER
 MARTINIQUE
 MARTINSTAG
@@ -34149,12 +34164,14 @@ Martine Aubry
 Martine Froger
 Martine Jonckheere
 Martine Tanghe
+Martine Tanghe overleden
 Martine Wonner
 MartineAllain-Regnault
 MartineAubry
 MartineFroger
 MartineJonckheere
 MartineTanghe
+MartineTangheoverleden
 MartineWonner
 Martinique
 Martinstag
@@ -36432,6 +36449,7 @@ NIGHTBIRDE
 NIGHTCAP
 NIGHTMARE ALLEY
 NIGLOLAND
+NIK P
 NIKE
 NIKI LAUDA
 NIKITA DRAGUN
@@ -37312,6 +37330,8 @@ Nightmare Alley
 NightmareAlley
 NightoftheProms
 Nigloland
+Nik P
+NikP
 Nike
 Niki Lauda
 NikiLauda
@@ -37906,6 +37926,7 @@ ONANA
 ONCE UPON A TIME... IN HOLLYWOOD
 ONDER VUUR
 ONDERZEEËR VERMIST
+ONE PIECE
 ONE PIECE 1045
 ONE PIECE 1053
 ONE PIECE 1054
@@ -38387,6 +38408,7 @@ Onder vuur
 Ondervuur
 Onderzeeër vermist
 Onderzeeërvermist
+One Piece
 One Piece 1045
 One Piece 1054
 One Piece Netflix
@@ -38396,6 +38418,7 @@ One Piece: Red
 One Republic
 One piece 1053
 OneDrive
+OnePiece
 OnePiece1045
 OnePiece1054
 OnePiece:Red
@@ -49182,6 +49205,7 @@ TOUR DE FRANCE FEMININ
 TOUR DE FRANCE FEMME 2022
 TOUR DE FRANCE FEMMES
 TOUR DE FRANCE FEMMES 2022
+TOUR DE FRANCE FEMMES 2023
 TOUR DE FRANCE FRAUEN
 TOUR DE FRANCE LAUSANNE
 TOUR DE FRANCE LIBOURNE
@@ -49208,6 +49232,7 @@ TOUR DE SUISSE KÜSNACHT
 TOUR DE WALLONIE
 TOUR DE WALLONIE 2021
 TOUR DE WALLONIE 2022
+TOUR DE WALLONIE 2023
 TOUR DES ALPES
 TOUR DES FLANDRES
 TOUR DES STATIONS
@@ -50666,6 +50691,7 @@ Tour de France 2023
 Tour de France Bayonne
 Tour de France Bordeaux
 Tour de France Femmes
+Tour de France Femmes 2023
 Tour de France Frauen
 Tour de France Lausanne
 Tour de France Libourne
@@ -50698,6 +50724,7 @@ Tour de Suisse etappen
 Tour de Wallonie
 Tour de Wallonie 2021
 Tour de Wallonie 2022
+Tour de Wallonie 2023
 Tour de france classement
 Tour de france etape du jour
 Tour de l'Ain 2022
@@ -50726,6 +50753,7 @@ TourdeFrance2023
 TourdeFranceBayonne
 TourdeFranceBordeaux
 TourdeFranceFemmes
+TourdeFranceFemmes2023
 TourdeFranceFrauen
 TourdeFranceLausanne
 TourdeFranceLibourne
@@ -50758,6 +50786,7 @@ TourdeSuisseetappen
 TourdeWallonie
 TourdeWallonie2021
 TourdeWallonie2022
+TourdeWallonie2023
 Tourdefranceclassement
 Tourdefranceetapedujour
 Tourdel'Ain2022
@@ -51338,6 +51367,7 @@ UNWETTER
 UNWETTER DEUTSCHLAND
 UNWETTER EMMENTAL
 UNWETTER GEWITTER
+UNWETTER ITALIEN
 UNWETTER KRETA HERAKLION
 UNWETTER SCHWEIZ
 UNWETTER SCHWEIZ HEUTE
@@ -51673,6 +51703,7 @@ Unwetter
 Unwetter Deutschland
 Unwetter Emmental
 Unwetter Gewitter
+Unwetter Italien
 Unwetter Kreta Heraklion
 Unwetter Schweiz
 Unwetter Schweiz heute
@@ -51681,6 +51712,7 @@ Unwetter Zürich
 UnwetterDeutschland
 UnwetterEmmental
 UnwetterGewitter
+UnwetterItalien
 UnwetterKretaHeraklion
 UnwetterSchweiz
 UnwetterSchweizheute
@@ -56549,11 +56581,13 @@ barca city
 barca juventus
 barca real
 barca vs real
+barcares
 barcelona
 barcelona  celta
 barcelona  cádiz
 barcelona  eintracht frankfurt
 barcelona  getafe
+barcelona  juventus
 barcelona  mallorca
 barcelona  man utd
 barcelona  manchester city
@@ -61169,6 +61203,7 @@ forest  southampton
 forest whitaker
 foret de broceliande
 formel 1
+formel 1 heute
 formel 1 live
 formel 1 monza
 formel 1, monza
@@ -63190,6 +63225,7 @@ islande
 islande – france
 islande – portugal
 isleten
+ismaila sarr
 isolement covid
 israel
 iss
@@ -65666,6 +65702,7 @@ loto 8 septembre 2021
 loto 9 octobre 2021
 loto du 16 avril 2022
 loto du 19 juillet 2023
+loto du 22 juillet 2023
 loto du 3 septembre 2022
 loto saint-valentin
 loto vendredi 13
@@ -66591,6 +66628,7 @@ martine aubry
 martine froger
 martine jonckheere
 martine tanghe
+martine tanghe overleden
 martine wonner
 martinique
 martinstag
@@ -68013,6 +68051,7 @@ nightbirde
 nightcap
 nightmare alley
 nigloland
+nik p
 nike
 niki lauda
 nikita dragun
@@ -68411,6 +68450,7 @@ onana
 once upon a time... in hollywood
 onder vuur
 onderzeeër vermist
+one piece
 one piece 1045
 one piece 1053
 one piece 1054
@@ -72808,6 +72848,7 @@ tour de france feminin
 tour de france femme 2022
 tour de france femmes
 tour de france femmes 2022
+tour de france femmes 2023
 tour de france frauen
 tour de france lausanne
 tour de france libourne
@@ -72834,6 +72875,7 @@ tour de suisse küsnacht
 tour de wallonie
 tour de wallonie 2021
 tour de wallonie 2022
+tour de wallonie 2023
 tour des alpes
 tour des flandres
 tour des stations
@@ -73240,6 +73282,7 @@ unwetter
 unwetter deutschland
 unwetter emmental
 unwetter gewitter
+unwetter italien
 unwetter kreta heraklion
 unwetter schweiz
 unwetter schweiz heute
