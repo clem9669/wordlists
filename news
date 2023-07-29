@@ -643,6 +643,7 @@ ACCIDENT AURORE MORISSE
 ACCIDENT AUTOROUTE
 ACCIDENT AUTOROUTE A1
 ACCIDENT BUS PNL
+ACCIDENT BUS VOITURE YVELINES
 ACCIDENT CENTRE ÉQUESTRE
 ACCIDENT DE CHASSE
 ACCIDENT DE LA ROUTE
@@ -1535,6 +1536,7 @@ ANT-MAN
 ANTABUSE
 ANTALYA
 ANTE CORIC
+ANTHOINE HUBERT
 ANTHONY BARAJAS
 ANTHONY DELON
 ANTHONY HOPKINS
@@ -2316,6 +2318,7 @@ Accident ariege
 Accident autoroute
 Accident autoroute A1
 Accident bus PNL
+Accident bus voiture Yvelines
 Accident centre équestre
 Accident de chasse
 Accident de la route
@@ -2343,6 +2346,7 @@ Accidentariege
 Accidentautoroute
 AccidentautorouteA1
 AccidentbusPNL
+AccidentbusvoitureYvelines
 Accidentcentreéquestre
 Accidentdechasse
 Accidentdelaroute
@@ -3865,6 +3869,8 @@ Antabuse
 Antalya
 Ante Coric
 AnteCoric
+Anthoine Hubert
+AnthoineHubert
 Anthony Barajas
 Anthony Delon
 Anthony Hopkins
@@ -5929,6 +5935,7 @@ BRAKEL
 BRAM VAN OUTRYVE
 BRAND ALTSTETTEN
 BRAND EGERKINGEN
+BRAND FRACHTSCHIFF NORDSEE
 BRAND HERENTALS
 BRAND KEHRSATZ
 BRAND LANGSTRASSE
@@ -6049,6 +6056,7 @@ BRIGHTON – LIVERPOOL
 BRIGHTON – MAN CITY
 BRIGHTON – MANCHESTER CITY
 BRIGHTON – MANCHESTER UNITED
+BRIGHTON – NEWCASTLE
 BRIGITTA CALLENS
 BRIGITTE BARDOT
 BRIGITTE BOURGUIGNON
@@ -7904,6 +7912,7 @@ Brand Solothurn
 Brand Universiteit Antwerpen
 Brand Wattwil
 Brand Wiler bei Utzenstorf
+Brand frachtschiff nordsee
 BrandAltstetten
 BrandEgerkingen
 BrandHerentals
@@ -7915,6 +7924,7 @@ BrandSolothurn
 BrandUniversiteitAntwerpen
 BrandWattwil
 BrandWilerbeiUtzenstorf
+Brandfrachtschiffnordsee
 Brandon Wen
 BrandonWen
 Brandstofprijzen
@@ -8095,6 +8105,7 @@ Brighton – Liverpool
 Brighton – Man City
 Brighton – Manchester City
 Brighton – Manchester United
+Brighton – Newcastle
 Brighton–Arsenal
 Brighton–Chelsea
 Brighton–Leicester
@@ -8102,6 +8113,7 @@ Brighton–Liverpool
 Brighton–ManCity
 Brighton–ManchesterCity
 Brighton–ManchesterUnited
+Brighton–Newcastle
 Brigitta Callens
 BrigittaCallens
 Brigitte Bardot
@@ -14368,6 +14380,7 @@ DÄRLIGEN
 DÉBRIS FUSÉE CHINOISE
 DÉCHETTERIE
 DÉCÈS KIM JUNG GI
+DÉCÈS SINÉAD O'CONNOR
 DÉFILÉ 14 JUILLET
 DÉFILÉ 21 JUILLET 2023
 DÉPUTÉE LREM CORALIE DUBOST
@@ -14383,7 +14396,9 @@ Débris fusée chinoise
 Débrisfuséechinoise
 Déchetterie
 Décès Kim Jung Gi
+Décès Sinéad O'Connor
 DécèsKimJungGi
+DécèsSinéadO'Connor
 Défilé 14 juillet
 Défilé 21 juillet 2023
 Défilé14juillet
@@ -15139,6 +15154,7 @@ EUROMILLION 22 JUIN 2021
 EUROMILLION 26 NOVEMBRE 2021
 EUROMILLION 27 JUILLET 2021
 EUROMILLION 28 JANVIER 2022
+EUROMILLION 28 JUILLET 2023
 EUROMILLION 29 JUIN 2021
 EUROMILLION 5 OCTOBRE 2021
 EUROMILLION 6 JUILLET 2021
@@ -16336,6 +16352,7 @@ Euromillion 22 juin 2021
 Euromillion 26 novembre 2021
 Euromillion 27 juillet 2021
 Euromillion 28 janvier 2022
+Euromillion 28 juillet 2023
 Euromillion 29 juin 2021
 Euromillion 5 octobre 2021
 Euromillion 6 juillet 2021
@@ -16357,6 +16374,7 @@ Euromillion22juin2021
 Euromillion26novembre2021
 Euromillion27juillet2021
 Euromillion28janvier2022
+Euromillion28juillet2023
 Euromillion29juin2021
 Euromillion5octobre2021
 Euromillion6juillet2021
@@ -16606,9 +16624,11 @@ F1 Qualifying
 F1 SAUDI ARABIA
 F1 SILVERSTONE
 F1 SPA
+F1 SPA 2023
 F1 Saudi arabia
 F1 Silverstone
 F1 Spa
+F1 Spa 2023
 F1 TURKIJE
 F1 Turkije
 F1 USA
@@ -16645,6 +16665,7 @@ F1Qualifying
 F1Saudiarabia
 F1Silverstone
 F1Spa
+F1Spa2023
 F1Turkije
 F1USA
 F1Zandvoort
@@ -17312,6 +17333,7 @@ FOD ECONOMIE
 FOD Economie
 FODEconomie
 FOIRE AGRICOLE BATTICE
+FOIRE AUX VINS COLMAR
 FOIRE DE LIBRAMONT
 FOIRE DU LIVRE
 FOIRE DU TRONE
@@ -17409,6 +17431,7 @@ FRANCE ARGENTINE 2022
 FRANCE ARMENIE
 FRANCE AUSTRALIE
 FRANCE AUX JEUX OLYMPIQUES D'HIVER
+FRANCE BRESIL
 FRANCE CANADA RUGBY
 FRANCE CHINE BASKET
 FRANCE CORÉE DU SUD
@@ -17673,6 +17696,7 @@ FROMAGE LISTERIA
 FRONLEICHNAM
 FRONLEICHNAM FEIERTAG
 FRONT POPULAIRE
+FRONTALE GEGEN BAYERN
 FRONTEX
 FRONTEX ABSTIMMUNG
 FRONTIGNAN
@@ -18403,10 +18427,12 @@ Fnac Live
 FnacBlackFriday
 FnacLive
 Foire agricole battice
+Foire aux vins Colmar
 Foire de Libramont
 Foire du Livre
 Foire du trone
 Foireagricolebattice
+FoireauxvinsColmar
 FoiredeLibramont
 FoireduLivre
 Foiredutrone
@@ -18618,6 +18644,7 @@ France Ukraine handball
 France Uruguay feminin
 France armenie
 France aux jeux olympiques d'hiver
+France bresil
 France cote d'Ivoire
 France etats unis basket
 France foot
@@ -18748,6 +18775,7 @@ FranceUkrainehandball
 FranceUruguayfeminin
 Francearmenie
 Franceauxjeuxolympiquesd'hiver
+Francebresil
 Francecoted'Ivoire
 Franceetatsunisbasket
 Francefoot
@@ -19082,6 +19110,8 @@ Fronleichnam Feiertag
 FronleichnamFeiertag
 Front Populaire
 FrontPopulaire
+Frontale gegen Bayern
+FrontalegegenBayern
 Frontex
 Frontex Abstimmung
 FrontexAbstimmung
@@ -22693,6 +22723,7 @@ IMPOTS 2022
 IMPOTS2022
 IMRAN KHAN
 IN ALLER FREUNDSCHAFT
+IN TÖDLICHER MISSION
 INA AOGO
 INCASSABLE
 INCENDIE
@@ -22868,6 +22899,7 @@ INTERVIEW PRINCE HARRY
 INVENTING ANNA
 INVESTITURE
 INVISIBLE MAN
+INXS
 INZIDENZ
 IODE
 ION IZAGIRRE
@@ -23247,6 +23279,7 @@ Impots
 Imran Khan
 ImranKhan
 In aller Freundschaft
+In tödlicher Mission
 Ina Aogo
 InaAogo
 InallerFreundschaft
@@ -23557,6 +23590,7 @@ Inter–Salernitana
 Inter–Sassuolo
 Inter–Sheriff
 Inter–Udinese
+IntödlicherMission
 Inventing Anna
 InventingAnna
 Investiture
@@ -32039,6 +32073,7 @@ MARTIN ROUMAGNAC
 MARTIN RÜTTER
 MARTIN SUTER
 MARTIN TERRIER
+MARTIN WALSER
 MARTIN WERNLI
 MARTINA HINGIS
 MARTINA NAVRATILOVA
@@ -34295,6 +34330,7 @@ Martin Roumagnac
 Martin Rütter
 Martin Suter
 Martin Terrier
+Martin Walser
 Martin Wernli
 MartinAmis
 MartinBlachier
@@ -34309,6 +34345,7 @@ MartinRoumagnac
 MartinRütter
 MartinSuter
 MartinTerrier
+MartinWalser
 MartinWernli
 Martina Hingis
 Martina Navratilova
@@ -38261,6 +38298,7 @@ OURA RING
 OURAGAN FRANCE
 OURAGAN IAN
 OUSMANE DEMBELE
+OUSMANE DEMBÉLÉ
 OUSMANE DIENG
 OUSSAMA AMMAR
 OUSSEKINE
@@ -38834,8 +38872,10 @@ Ouragan France
 Ouragan Ian
 OuraganFrance
 OuraganIan
+Ousmane Dembélé
 Ousmane Dieng
 Ousmane dembele
+OusmaneDembélé
 OusmaneDieng
 Ousmanedembele
 Oussama Ammar
@@ -45368,6 +45408,7 @@ SINT-MAARTEN
 SINT-TRUIDEN
 SINTERKLAAS
 SIOBHAN CATTIGAN
+SION AARAU
 SION FC
 SION SOUS LES ÉTOILES
 SION – LUCERNE
@@ -47381,11 +47422,13 @@ SintTruiden
 Sinterklaas
 Siobhan Cattigan
 SiobhanCattigan
+Sion Aarau
 Sion FC
 Sion sous les étoiles
 Sion – Lucerne
 Sion – Lugano
 Sion – Servette
+SionAarau
 SionFC
 Sionsouslesétoiles
 Sion–Lucerne
@@ -48648,6 +48691,7 @@ SÉBASTIEN RAOULT MAROC
 SÉCHERESSE
 SÉISME
 SÉISME MEXIQUE TSUNAMI
+SÉNÉGAL OUSMANE SONKO
 SÉNÉGAL – BÉNIN
 SÉNÉGAL – GUINÉE
 SÉNÉGAL – GUINÉE ÉQUATORIALE
@@ -48681,12 +48725,14 @@ Sécheresse
 Séisme
 Séisme Mexique tsunami
 SéismeMexiquetsunami
+Sénégal Ousmane Sonko
 Sénégal – Bénin
 Sénégal – Guinée
 Sénégal – Guinée équatoriale
 Sénégal – Madagascar
 Sénégal – Pays-Bas
 Sénégal – PaysBas
+SénégalOusmaneSonko
 Sénégal–Bénin
 Sénégal–Guinée
 Sénégal–Guinéeéquatoriale
@@ -48738,6 +48784,7 @@ TAG DER DEUTSCHEN EINHEIT
 TAG DER PFLEGE 2023
 TAG HEUER
 TAG Heuer
+TAGANROG
 TAGESSCHAU
 TAGESSCHAU SRF
 TAGHeuer
@@ -48969,6 +49016,7 @@ THE GREAT SMOG
 THE GRINCH
 THE GUILTY
 THE HAUNTED YOUTH
+THE HOURS
 THE IDOL
 THE IMMIGRANT
 THE IN BETWEEN
@@ -49702,6 +49750,7 @@ Tag der Arbeit
 Tag der Arbeit deutschland
 Tag der Deutschen Einheit
 Tag der Pflege 2023
+Taganrog
 TagderArbeit
 TagderArbeitdeutschland
 TagderDeutschenEinheit
@@ -50123,6 +50172,7 @@ The Wonder
 The Zone of Interest
 The beach
 The great smog
+The hours
 The mule
 The post
 The room
@@ -50256,6 +50306,7 @@ Theaterplein Antwerpen
 TheaterpleinAntwerpen
 Thebeach
 Thegreatsmog
+Thehours
 Themule
 Theo
 Theo Curin
@@ -51447,6 +51498,7 @@ UFC 286
 UFC 288
 UFC 289
 UFC 290
+UFC 291
 UFC LONDON
 UFC London
 UFC PARIS
@@ -51470,6 +51522,7 @@ UFC286
 UFC288
 UFC289
 UFC290
+UFC291
 UFCLondon
 UFCParis
 UFL
@@ -52326,6 +52379,7 @@ VINGEGAARD
 VINICIUS JR
 VINNYTSIA
 VINVIS
+VIOL CHAMPS-DE-MARS
 VIOLA AMHERD
 VIOLA CALLIGARIS
 VIRGIL ABLOH
@@ -52987,6 +53041,9 @@ Vinicius Jr
 ViniciusJr
 Vinnytsia
 Vinvis
+Viol Champs-de-Mars
+Viol ChampsdeMars
+ViolChamps-de-Mars
 Viola Amherd
 Viola Calligaris
 ViolaAmherd
@@ -55280,6 +55337,7 @@ accident aurore morisse
 accident autoroute
 accident autoroute a1
 accident bus pnl
+accident bus voiture yvelines
 accident centre équestre
 accident de chasse
 accident de la route
@@ -56138,6 +56196,7 @@ ant-man
 antabuse
 antalya
 ante coric
+anthoine hubert
 anthony barajas
 anthony delon
 anthony hopkins
@@ -57718,6 +57777,7 @@ brakel
 bram van outryve
 brand altstetten
 brand egerkingen
+brand frachtschiff nordsee
 brand herentals
 brand kehrsatz
 brand langstrasse
@@ -57834,6 +57894,7 @@ brighton – liverpool
 brighton – man city
 brighton – manchester city
 brighton – manchester united
+brighton – newcastle
 brigitta callens
 brigitte bardot
 brigitte bourguignon
@@ -60171,6 +60232,7 @@ därligen
 débris fusée chinoise
 déchetterie
 décès kim jung gi
+décès sinéad o'connor
 défilé 14 juillet
 défilé 21 juillet 2023
 députée lrem coralie dubost
@@ -60834,6 +60896,7 @@ euromillion 22 juin 2021
 euromillion 26 novembre 2021
 euromillion 27 juillet 2021
 euromillion 28 janvier 2022
+euromillion 28 juillet 2023
 euromillion 29 juin 2021
 euromillion 5 octobre 2021
 euromillion 6 juillet 2021
@@ -60983,6 +61046,7 @@ f1 qualifying
 f1 saudi arabia
 f1 silverstone
 f1 spa
+f1 spa 2023
 f1 turkije
 f1 usa
 f1 zandvoort
@@ -61474,6 +61538,7 @@ fnac black friday
 fnac live
 fod economie
 foire agricole battice
+foire aux vins colmar
 foire de libramont
 foire du livre
 foire du trone
@@ -61571,6 +61636,7 @@ france argentine 2022
 france armenie
 france australie
 france aux jeux olympiques d'hiver
+france bresil
 france canada rugby
 france chine basket
 france corée du sud
@@ -61827,6 +61893,7 @@ fromage listeria
 fronleichnam
 fronleichnam feiertag
 front populaire
+frontale gegen bayern
 frontex
 frontex abstimmung
 frontignan
@@ -63254,6 +63321,7 @@ impots
 impots 2022
 imran khan
 in aller freundschaft
+in tödlicher mission
 ina aogo
 incassable
 incendie
@@ -63428,6 +63496,7 @@ interview prince harry
 inventing anna
 investiture
 invisible man
+inxs
 inzidenz
 iode
 ion izagirre
@@ -66940,6 +67009,7 @@ martin roumagnac
 martin rütter
 martin suter
 martin terrier
+martin walser
 martin wernli
 martina hingis
 martina navratilova
@@ -68935,6 +69005,7 @@ oura ring
 ouragan france
 ouragan ian
 ousmane dembele
+ousmane dembélé
 ousmane dieng
 oussama ammar
 oussekine
@@ -71698,6 +71769,7 @@ sint-maarten
 sint-truiden
 sinterklaas
 siobhan cattigan
+sion aarau
 sion fc
 sion sous les étoiles
 sion – lucerne
@@ -72476,6 +72548,7 @@ sébastien raoult maroc
 sécheresse
 séisme
 séisme mexique tsunami
+sénégal ousmane sonko
 sénégal – bénin
 sénégal – guinée
 sénégal – guinée équatoriale
@@ -72513,6 +72586,7 @@ tag der arbeit deutschland
 tag der deutschen einheit
 tag der pflege 2023
 tag heuer
+taganrog
 tagesschau
 tagesschau srf
 taha bouhafs
@@ -72733,6 +72807,7 @@ the great smog
 the grinch
 the guilty
 the haunted youth
+the hours
 the idol
 the immigrant
 the in between
@@ -73496,6 +73571,7 @@ ufc 286
 ufc 288
 ufc 289
 ufc 290
+ufc 291
 ufc london
 ufc paris
 ufl
@@ -73986,6 +74062,7 @@ vingegaard
 vinicius jr
 vinnytsia
 vinvis
+viol champs-de-mars
 viola amherd
 viola calligaris
 virgil abloh
