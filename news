@@ -1182,6 +1182,7 @@ ALPNACH
 ALPSTEIN
 ALS
 ALS SYMPTOME
+ALS ZIEKTE
 ALTA BADIA
 ALTENAHR
 ALTMAIER
@@ -1560,6 +1561,7 @@ ANTOINE ALLENO
 ANTOINE ALLÉNO
 ANTOINE DE CAUNES
 ANTOINE DE MAXIMY
+ANTOINE DELIE
 ANTOINE DUPONT
 ANTOINE GRIEZMANN
 ANTOINEGRIEZMANN
@@ -1765,6 +1767,7 @@ ARMON ORLIK
 ARMY OF THIEVES
 ARN MESSAGER
 ARN messager
+ARNAU TENAS
 ARNAUD BODART
 ARNAUD DE LIE
 ARNAUD DUCRET
@@ -3234,7 +3237,9 @@ Alpnach
 Alpstein
 Als
 Als Symptome
+Als ziekte
 AlsSymptome
+Alsziekte
 Alta Badia
 AltaBadia
 Altenahr
@@ -3913,12 +3918,14 @@ AntikörpertestCorona
 Antipsychotica
 Antoine Alleno
 Antoine Alléno
+Antoine Delie
 Antoine Dupont
 Antoine Griezmann
 Antoine de Caunes
 Antoine de Maximy
 AntoineAlleno
 AntoineAlléno
+AntoineDelie
 AntoineDupont
 AntoineGriezmann
 AntoinedeCaunes
@@ -4257,6 +4264,8 @@ Armon Orlik
 ArmonOrlik
 Army of Thieves
 ArmyofThieves
+Arnau Tenas
+ArnauTenas
 Arnaud Bodart
 Arnaud De Lie
 Arnaud Ducret
@@ -6116,6 +6125,7 @@ BRUGGE-DE PANNE
 BRUINVIS
 BRUIT
 BRUNA BIANCARDI
+BRUNCH
 BRUNEAU
 BRUNEI
 BRUNO 12 COUPS DE MIDI
@@ -8215,6 +8225,7 @@ Bruinvis
 Bruit
 Bruna Biancardi
 BrunaBiancardi
+Brunch
 Bruneau
 Brunei
 Bruno 12 coups de midi
@@ -8764,6 +8775,7 @@ CEDRIC ROUSSEL
 CEDRIC VILLANI
 CEDRICJUBILLAR
 CELINE BETHMANN
+CELINE BOUTIER
 CELINE DION
 CELINE NAEF
 CELINE QUATENNENS
@@ -10319,11 +10331,13 @@ CedricRoussel
 CedricVillani
 Cedricdoumbe
 Celine Bethmann
+Celine Boutier
 Celine Dion
 Celine Naef
 Celine Quatennens
 Celine Van Ouytsel
 CelineBethmann
+CelineBoutier
 CelineDion
 CelineNaef
 CelineQuatennens
@@ -14477,6 +14491,7 @@ ECLIPSE SOLAIRE
 ECOPOWER
 ECOSSE
 ECOSSE IRLANDE
+ECOWAS
 ECUADOR
 ECUADOR - SENEGAL
 ED ASNER
@@ -17128,6 +17143,7 @@ FEU DE LA SAINT JEAN
 FEU DE LA SAINT-JEAN
 FEU JURA
 FEUERLAUF
+FEUERWERK
 FEUERWERK 1. AUGUST
 FEUERWERK ZÜRICH
 FEUERWERKSVERBOT
@@ -18156,6 +18172,7 @@ Feudeforet
 FeudelaSaint-Jean
 FeudelaSaintJean
 Feuerlauf
+Feuerwerk
 Feuerwerk 1. August
 Feuerwerk Zürich
 Feuerwerk1.August
@@ -19854,6 +19871,7 @@ GRAND PRIX F1 MIAMI
 GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
 GRAND PRIX SILVERSTONE
+GRAND PRIX SPA
 GRAND RAID 2022
 GRAND RAID REUNION
 GRAND REQUIN BLANC
@@ -20939,6 +20957,7 @@ Grand Prix Monaco
 Grand Prix Pays-Bas
 Grand Prix PaysBas
 Grand Prix Silverstone
+Grand Prix Spa
 Grand Prix d'Autriche
 Grand Prix de France
 Grand Prix de Wallonie 2022
@@ -20963,6 +20982,7 @@ GrandPrixF1Miami
 GrandPrixMonaco
 GrandPrixPays-Bas
 GrandPrixSilverstone
+GrandPrixSpa
 GrandPrixd'Autriche
 GrandPrixdeFrance
 GrandPrixdeWallonie2022
@@ -21679,6 +21699,7 @@ HENDERSON
 HENGELHOEF
 HENIPAVIRUS
 HENRI GARCIN
+HENRI PFR
 HENRI SANNIER
 HENRI TACHAN
 HENRI VERNES
@@ -22281,10 +22302,12 @@ Henderson
 Hengelhoef
 Henipavirus
 Henri Garcin
+Henri PFR
 Henri Sannier
 Henri Tachan
 Henri Vernes
 HenriGarcin
+HenriPFR
 HenriSannier
 HenriTachan
 HenriVernes
@@ -24125,6 +24148,7 @@ JAPANKÄFER
 JAPANSE DUIZENDKNOOP
 JAPANSE TUIN HASSELT
 JAPON
+JAPON ESPAGNE
 JAPON JEUX OLYMPIQUES DE TOKYO 2020
 JAPON – BRÉSIL
 JAPON – COSTA RICA
@@ -25100,11 +25124,13 @@ Japanse duizendknoop
 JapanseTuinHasselt
 Japanseduizendknoop
 Japon
+Japon Espagne
 Japon Jeux olympiques de Tokyo 2020
 Japon – Brésil
 Japon – Costa Rica
 Japon – Croatie
 Japon – Espagne
+JaponEspagne
 JaponJeuxolympiquesdeTokyo2020
 Japon–Brésil
 Japon–CostaRica
@@ -31654,6 +31680,7 @@ MANCHESTER CITY
 MANCHESTER CITY - CLUB BRUGGE
 MANCHESTER CITY – ARSENAL
 MANCHESTER CITY – ASTON VILLA
+MANCHESTER CITY – ATLÉTICO MADRID
 MANCHESTER CITY – BRENTFORD
 MANCHESTER CITY – BRIGHTON
 MANCHESTER CITY – BURNLEY
@@ -31687,6 +31714,7 @@ MANCHESTER UNITED – BURNLEY
 MANCHESTER UNITED – CHARLTON
 MANCHESTER UNITED – CHELSEA
 MANCHESTER UNITED – CRYSTAL PALACE
+MANCHESTER UNITED – DORTMUND
 MANCHESTER UNITED – EVERTON
 MANCHESTER UNITED – FULHAM
 MANCHESTER UNITED – LEEDS UNITED
@@ -33523,6 +33551,7 @@ Manchester City  Club Brugge
 Manchester City - Club Brugge
 Manchester City – Arsenal
 Manchester City – Aston Villa
+Manchester City – Atlético Madrid
 Manchester City – Brentford
 Manchester City – Brighton
 Manchester City – Burnley
@@ -33558,6 +33587,7 @@ Manchester United – Burnley
 Manchester United – Charlton
 Manchester United – Chelsea
 Manchester United – Crystal Palace
+Manchester United – Dortmund
 Manchester United – Everton
 Manchester United – Fulham
 Manchester United – Leeds United
@@ -33585,6 +33615,7 @@ ManchesterCity
 ManchesterCity-ClubBrugge
 ManchesterCity–Arsenal
 ManchesterCity–AstonVilla
+ManchesterCity–AtléticoMadrid
 ManchesterCity–Brentford
 ManchesterCity–Brighton
 ManchesterCity–Burnley
@@ -33619,6 +33650,7 @@ ManchesterUnited–Burnley
 ManchesterUnited–Charlton
 ManchesterUnited–Chelsea
 ManchesterUnited–CrystalPalace
+ManchesterUnited–Dortmund
 ManchesterUnited–Everton
 ManchesterUnited–Fulham
 ManchesterUnited–LeedsUnited
@@ -36839,6 +36871,7 @@ NOTTM FOREST – MANCHESTER CITY
 NOTTM FOREST – MANCHESTER UNITED
 NOTTM FOREST – TOTTENHAM
 NOTVORRAT SCHWEIZ
+NOUHAILA BENZINA
 NOUREDDINE FARIHI
 NOURI
 NOUS FINIRONS ENSEMBLE
@@ -37807,6 +37840,8 @@ NottmForest–ManchesterUnited
 NottmForest–Tottenham
 Notvorrat Schweiz
 NotvorratSchweiz
+Nouhaila Benzina
+NouhailaBenzina
 Noureddine Farihi
 NoureddineFarihi
 Nouri
@@ -39813,6 +39848,7 @@ POUNDBURY
 POUR QUI VOTER
 POUR TE RETROUVER
 POURQUOI 21 COUPS DE CANON
+POURRIS GÂTÉS
 POUTINE
 POUTINE NUCLÉAIRE
 POUTOU
@@ -41681,6 +41717,8 @@ Pour te retrouver
 Pourquivoter
 Pourquoi 21 coups de canon
 Pourquoi21coupsdecanon
+Pourris gâtés
+Pourrisgâtés
 Pourteretrouver
 Poutine
 Poutine nucléaire
@@ -45029,6 +45067,7 @@ SAUT D'OBSTACLES PAR ÉQUIPE JEUX OLYMPIQUES
 SAUTE
 SAUVER LISA
 SAVIGNY-LE-TEMPLE
+SAW X
 SAXENDA
 SBERBANK
 SC CHAM
@@ -45147,6 +45186,7 @@ SCHWEIZTURKEI2005
 SCHWEIZTuRKEI
 SCHWEIZTuRKEI2005
 SCHWERE HEPATITIS FÄLLE BEI KINDERN
+SCHWERE UNWETTER SÜDTIROL
 SCHWERER UNFALL AM BERNINAPASS
 SCHWERER VERKEHRSUNFALL THÜRINGEN
 SCHWIMMBAD
@@ -46793,6 +46833,8 @@ Sauver Lisa
 SauverLisa
 Savigny-le-Temple
 SavignyleTemple
+Saw X
+SawX
 Saxenda
 Sberbank
 Scalping
@@ -46953,7 +46995,9 @@ SchweizgegenNeuseeland
 SchweizgegenTschechien
 Schweizitalienfussball
 Schwere Hepatitis Fälle bei Kindern
+Schwere Unwetter Südtirol
 SchwereHepatitisFällebeiKindern
+SchwereUnwetterSüdtirol
 Schwerer Unfall Am Berninapass
 Schwerer Verkehrsunfall Thüringen
 SchwererUnfallAmBerninapass
@@ -52259,6 +52303,7 @@ VANUATU
 VANZEIR
 VAR FRANKRIJK
 VAR MATIN
+VAR PARC AQUATIQUE STRUCTURE GONFLABLE
 VAR-MATIN
 VARANE
 VARGAS
@@ -52787,6 +52832,7 @@ Vanzeir
 Var Frankrijk
 Var frankrijk
 Var matin
+Var parc aquatique structure gonflable
 Var-Matin
 VarFrankrijk
 VarMatin
@@ -52803,6 +52849,7 @@ Varillas
 Variole du singe
 Varioledusinge
 Varmatin
+Varparcaquatiquestructuregonflable
 Varta-Aktie
 VartaAktie
 Vatertag
@@ -55914,6 +55961,7 @@ alpnach
 alpstein
 als
 als symptome
+als ziekte
 alta badia
 altenahr
 altmaier
@@ -56288,6 +56336,7 @@ antoine alleno
 antoine alléno
 antoine de caunes
 antoine de maximy
+antoine delie
 antoine dupont
 antoine griezmann
 antoinegriezmann
@@ -56492,6 +56541,7 @@ armistice
 armon orlik
 army of thieves
 arn messager
+arnau tenas
 arnaud bodart
 arnaud de lie
 arnaud ducret
@@ -58015,6 +58065,7 @@ brugge-de panne
 bruinvis
 bruit
 bruna biancardi
+brunch
 bruneau
 brunei
 bruno 12 coups de midi
@@ -58473,6 +58524,7 @@ cedric roussel
 cedric villani
 cedricjubillar
 celine bethmann
+celine boutier
 celine dion
 celine naef
 celine quatennens
@@ -60342,6 +60394,7 @@ eclipse solaire
 ecopower
 ecosse
 ecosse irlande
+ecowas
 ecuador
 ecuador - senegal
 ed asner
@@ -61420,6 +61473,7 @@ feu de la saint jean
 feu de la saint-jean
 feu jura
 feuerlauf
+feuerwerk
 feuerwerk 1. august
 feuerwerk zürich
 feuerwerksverbot
@@ -62548,6 +62602,7 @@ grand prix f1 miami
 grand prix monaco
 grand prix pays-bas
 grand prix silverstone
+grand prix spa
 grand raid 2022
 grand raid reunion
 grand requin blanc
@@ -63038,6 +63093,7 @@ henderson
 hengelhoef
 henipavirus
 henri garcin
+henri pfr
 henri sannier
 henri tachan
 henri vernes
@@ -63964,6 +64020,7 @@ japankäfer
 japanse duizendknoop
 japanse tuin hasselt
 japon
+japon espagne
 japon jeux olympiques de tokyo 2020
 japon – brésil
 japon – costa rica
@@ -66634,6 +66691,7 @@ manchester city
 manchester city - club brugge
 manchester city – arsenal
 manchester city – aston villa
+manchester city – atlético madrid
 manchester city – brentford
 manchester city – brighton
 manchester city – burnley
@@ -66667,6 +66725,7 @@ manchester united – burnley
 manchester united – charlton
 manchester united – chelsea
 manchester united – crystal palace
+manchester united – dortmund
 manchester united – everton
 manchester united – fulham
 manchester united – leeds united
@@ -68665,6 +68724,7 @@ nottm forest – manchester city
 nottm forest – manchester united
 nottm forest – tottenham
 notvorrat schweiz
+nouhaila benzina
 noureddine farihi
 nouri
 nous finirons ensemble
@@ -69946,6 +70006,7 @@ poundbury
 pour qui voter
 pour te retrouver
 pourquoi 21 coups de canon
+pourris gâtés
 poutine
 poutine nucléaire
 poutou
@@ -71443,6 +71504,7 @@ saut d'obstacles par équipe jeux olympiques
 saute
 sauver lisa
 savigny-le-temple
+saw x
 saxenda
 sberbank
 sc cham
@@ -71552,6 +71614,7 @@ schweizspanien
 schweizturkei
 schweizturkei2005
 schwere hepatitis fälle bei kindern
+schwere unwetter südtirol
 schwerer unfall am berninapass
 schwerer verkehrsunfall thüringen
 schwimmbad
@@ -73965,6 +74028,7 @@ vanuatu
 vanzeir
 var frankrijk
 var matin
+var parc aquatique structure gonflable
 var-matin
 varane
 vargas
