@@ -1319,6 +1319,7 @@ ANDERLECHT  OOSTENDE
 ANDERLECHT  PAIDE
 ANDERLECHT  WESTERLO
 ANDERLECHT  ZULTE-WAREGEM
+ANDERLECHT 'ANTWERP
 ANDERLECHT - CLUB BRUGGE
 ANDERLECHT - EUPEN
 ANDERLECHT - GENK
@@ -3468,6 +3469,7 @@ Anderlecht  Villarreal
 Anderlecht  Westerlo
 Anderlecht  zulte-waregem
 Anderlecht  zultewaregem
+Anderlecht 'Antwerp
 Anderlecht - Club Brugge
 Anderlecht - Eupen
 Anderlecht - Genk
@@ -3490,6 +3492,7 @@ Anderlecht – Union Saint-Gilloise
 Anderlecht – Union SaintGilloise
 Anderlecht – Zulte Waregem
 Anderlecht – kaa Gent
+Anderlecht'Antwerp
 Anderlecht-Antwerp
 Anderlecht-Club Brugge
 Anderlecht-ClubBrugge
@@ -8626,6 +8629,7 @@ CANADAIR
 CANADESE FIJNSTRAAL
 CANAL
 CANAL DE CORINTHE
+CANCALE
 CANCELO
 CANCER CAROLINE RECEVEUR
 CANCER ISABELLE BALKANY
@@ -9520,6 +9524,7 @@ COMMENT JE SUIS DEVENU SUPER-HÉROS
 COMMENT VOTER À L'ÉLECTION PRÉSIDENTIELLE
 COMMISSION PARITAIRE 200
 COMMONWEALTH
+COMMUNITY SHIELD
 COMOMEER
 COMORES
 COMPACT DISK DUMMIES
@@ -9870,6 +9875,7 @@ CYBER MONDAY
 CYBER MONDAY 2021
 CYBER MONDAY 2022
 CYBERMONDAY
+CYCLISME CHAMPIONNAT DU MONDE
 CYCLISME JEUX OLYMPIQUES
 CYCLISME JO
 CYCLISME JULIAN ALAPHILIPPE
@@ -10055,6 +10061,7 @@ CanadeseFijnstraal
 Canal
 Canal de Corinthe
 CanaldeCorinthe
+Cancale
 Cancelo
 Cancer Caroline Receveur
 Cancer Isabelle Balkany
@@ -11617,6 +11624,8 @@ Commentvoteràl'électionprésidentielle
 Commission paritaire 200
 Commissionparitaire200
 Commonwealth
+Community Shield
+CommunityShield
 Comomeer
 Comores
 Compact Disk Dummies
@@ -12213,9 +12222,11 @@ Cybermonday
 Cyclisme JO
 Cyclisme Jeux Olympiques
 Cyclisme Julian Alaphilippe
+Cyclisme championnat du monde
 CyclismeJO
 CyclismeJeuxOlympiques
 CyclismeJulianAlaphilippe
+Cyclismechampionnatdumonde
 Cyclo-cross
 Cyclo-cross championnat du monde
 Cyclo-crosschampionnatdumonde
@@ -19353,6 +19364,7 @@ Fussball Schweiz Italien
 Fussball WM
 Fussball WM 2022
 Fussball WM Frauen
+Fussball WM frauen
 FussballEMFrauen
 FussballOlympia
 FussballSchweiz
@@ -19360,6 +19372,7 @@ FussballSchweizItalien
 FussballWM
 FussballWM2022
 FussballWMFrauen
+FussballWMfrauen
 Fut Web App
 FutWebApp
 Futsal
@@ -20009,6 +20022,7 @@ GRANIT XHAKA
 GRANITXHAKA
 GRANT WAHL
 GRANULÉ DE BOIS
+GRANVILLE
 GRASPOP
 GRASPOP 2022
 GRASPOP 2023
@@ -21134,6 +21148,7 @@ Grant Wahl
 GrantWahl
 Granulé de bois
 Granulédebois
+Granville
 Graspop
 Graspop 2022
 Graspop 2023
@@ -21901,6 +21916,7 @@ HIMARS
 HINDLEY
 HIPPO
 HIROMI ROLLIN
+HIROSHIMA
 HIRSCHER-SKI
 HIRSCHSPRUNG
 HITLER
@@ -22557,6 +22573,7 @@ Hindley
 Hippo
 Hiromi Rollin
 HiromiRollin
+Hiroshima
 Hirscher-Ski
 HirscherSki
 Hirschsprung
@@ -22828,6 +22845,7 @@ Höhle der Löwen
 HöhlederLöwen
 Höllentalklamm
 IAN THOMAS
+IAN WATKINS
 IBIZA
 IBIZA FILM
 IBIZAFILM
@@ -23327,7 +23345,9 @@ IZIA MACRON
 IZY
 IZÏA HIGELIN
 Ian Thomas
+Ian Watkins
 IanThomas
+IanWatkins
 Ibiza
 Ibiza film
 Ibizafilm
@@ -24192,7 +24212,9 @@ JAKE DANIELS
 JAKE GYLLENHAAL
 JAKE LLOYD
 JAKE PAUL
+JAKE PAUL NATE DIAZ
 JAKE PAUL V-S TOMMY FURY
+JAKE PAUL VS NATE DIAZ
 JAKE PAUL VS TYRON WOODLEY
 JAKHALS
 JAKOBSEN
@@ -24267,6 +24289,7 @@ JANE FONDA CANCERS
 JANE GOODALL
 JANE GREY
 JANEBIRKIN
+JANGO EDWARDS
 JANICE CAYMAN
 JANIN ULLMANN
 JANINA DSCHUNGELCAMP
@@ -24545,6 +24568,7 @@ JIMMY'S HALL
 JINGLE BELLS
 JITSKE VAN DE VEIRE
 JKF
+JMJ
 JO 2021
 JO DECALUWE
 JO FOOT
@@ -25076,8 +25100,10 @@ Jake Daniels
 Jake Gyllenhaal
 Jake Lloyd
 Jake Paul
+Jake Paul Nate Diaz
 Jake Paul V-S Tommy Fury
 Jake Paul VS Tommy Fury
+Jake Paul vs Nate Diaz
 Jake Paul vs Tyron Woodley
 Jake paul vs Tyron Woodley
 JakeBongiovi
@@ -25085,7 +25111,9 @@ JakeDaniels
 JakeGyllenhaal
 JakeLloyd
 JakePaul
+JakePaulNateDiaz
 JakePaulV-STommyFury
+JakePaulvsNateDiaz
 JakePaulvsTyronWoodley
 JakepaulvsTyronWoodley
 Jakhals
@@ -25228,6 +25256,8 @@ JaneFonda
 JaneFondacancers
 JaneGoodall
 JaneGrey
+Jango Edwards
+JangoEdwards
 Janice Cayman
 JaniceCayman
 Janin Ullmann
@@ -28435,6 +28465,7 @@ LE PRENOM
 LE PRINCE ANDREW
 LE PRINCE LOUIS
 LE PRIX DE LA TRAHISON
+LE PUY DU FOU
 LE REMPLAÇANT
 LE SAMARITAIN
 LE SAMYN
@@ -29057,6 +29088,7 @@ LORIS THE VOICE
 LOSC
 LOST ARK
 LOST ARK STEAM
+LOSTPROPHETS
 LOTERIE NATIONALE
 LOTERIE ROMANDE
 LOTHAR MATTHÄUS
@@ -29246,6 +29278,7 @@ LUMINUS
 LUMNEZIA OPENAIR
 LUNA
 LUNA CRYPTO
+LUNA PARK
 LUNA SCHWEIGER
 LUNA crypto
 LUNAcrypto
@@ -29927,6 +29960,7 @@ Le Mystère Kendrick
 Le Parisien
 Le Patient anglais
 Le Pic Saint Loup
+Le Puy du Fou
 Le Remplaçant
 Le Samaritain
 Le Samyn
@@ -30020,6 +30054,7 @@ LeMystèreKendrick
 LeParisien
 LePatientanglais
 LePicSaintLoup
+LePuyduFou
 LeRemplaçant
 LeSamaritain
 LeSamyn
@@ -31136,6 +31171,7 @@ Lost Ark
 Lost Ark Steam
 LostArk
 LostArkSteam
+Lostprophets
 Loterie Nationale
 Loterie Romande
 LoterieNationale
@@ -31462,8 +31498,10 @@ LulaBolsonaro
 Luminus
 Lumnezia openair
 Lumneziaopenair
+Luna Park
 Luna Schweiger
 Luna crypto
+LunaPark
 LunaSchweiger
 Lunacrypto
 Lundi 15 aout
@@ -31778,6 +31816,7 @@ MAISON DU MONDE
 MAISON HORREUR
 MAISON M
 MAITE KELLY
+MAITLAND-NILES
 MAIWENN
 MAJE
 MAJOR LAZER
@@ -33572,6 +33611,8 @@ MaisonduMonde
 Maisonhorreur
 Maite Kelly
 MaiteKelly
+Maitland-Niles
+MaitlandNiles
 Maiwenn
 Maje
 Major Lazer
@@ -36613,6 +36654,7 @@ NATASCHA OCHSENKNECHT
 NATASHA BASSETT
 NATASHA ST-PIER
 NATE DIAZ
+NATE DIAZ VS JAKE PAUL
 NATHALIE ANDREANI
 NATHALIE ARTHAUD
 NATHALIE BAYE
@@ -37360,7 +37402,9 @@ Natasha StPier
 NatashaBassett
 NatashaSt-Pier
 Nate Diaz
+Nate Diaz vs Jake Paul
 NateDiaz
+NateDiazvsJakePaul
 Nathalie Andreani
 Nathalie Arthaud
 Nathalie Baye
@@ -39982,6 +40026,7 @@ PORSCHE GT3 RS
 PORSCHE-AKTIE
 PORT DU MASQUE
 PORT-D'ENVAUX
+PORTBOU
 PORTE-AVIONS FOCH BRESIL
 PORTE-PAROLE SAPEURS-POMPIERS
 PORTLAND
@@ -41804,6 +41849,7 @@ PorscheAktie
 PorscheGT3RS
 Port du masque
 Port-d'Envaux
+Portbou
 Portd'Envaux
 Portdumasque
 Porte-avions Foch bresil
@@ -42595,6 +42641,7 @@ RAPHAEL GUERREIRO
 RAPHAEL WICKY
 RAPHAËL GLUCKSMANN
 RAPHINHA
+RAPINOE
 RAPPEL PRODUIT
 RAPPELPRODUIT
 RAPPER COOLIO
@@ -43689,6 +43736,7 @@ Raphaelgerard
 Raphaël Glucksmann
 RaphaëlGlucksmann
 Raphinha
+Rapinoe
 Rappel produit
 Rappelproduit
 Rapper Coolio
@@ -45348,6 +45396,7 @@ SCH
 SCHAAL SELS 2022
 SCHAERBEEK
 SCHAFFHAUSEN LUZERN
+SCHALKE
 SCHALKE 04
 SCHALKE GEGEN BAYERN
 SCHALKE GEGEN DORTMUND
@@ -46386,6 +46435,7 @@ SUEDE
 SUEDE  SLOVAQUIE
 SUEDE - SLOVAQUIE
 SUEDE CORAN BRÛLÉ
+SUEDE ETATS-UNIS
 SUEDE POLOGNE
 SUEDE UKRAINE
 SUEDE-SLOVAQUIE
@@ -46438,6 +46488,7 @@ SUMMERDAYS
 SUMMERSIDE FESTIVAL
 SUMMERSLAM 2021
 SUMMERSLAM 2022
+SUMMERSLAM 2023
 SUNDERLAND
 SUNRISE
 SUNRISE AVENUE
@@ -47117,6 +47168,7 @@ SchaalSels2022
 Schaerbeek
 Schaffhausen Luzern
 SchaffhausenLuzern
+Schalke
 Schalke 04
 Schalke gegen Bayern
 Schalke gegen Dortmund
@@ -48768,10 +48820,13 @@ Suede
 Suede  Slovaquie
 Suede - Slovaquie
 Suede Coran brûlé
+Suede Etats-Unis
+Suede EtatsUnis
 Suede Pologne
 Suede Ukraine
 Suede-Slovaquie
 SuedeCoranbrûlé
+SuedeEtats-Unis
 SuedePologne
 SuedeSlovaquie
 SuedeUkraine
@@ -48847,8 +48902,10 @@ SummerGameFest
 SummerMcIntosh
 SummerSlam 2021
 SummerSlam 2022
+SummerSlam 2023
 SummerSlam2021
 SummerSlam2022
+SummerSlam2023
 Summerdays
 SummerdeSnoo
 Summerside Festival
@@ -56405,6 +56462,7 @@ anderlecht  oostende
 anderlecht  paide
 anderlecht  westerlo
 anderlecht  zulte-waregem
+anderlecht 'antwerp
 anderlecht - club brugge
 anderlecht - eupen
 anderlecht - genk
@@ -58658,6 +58716,7 @@ canadair
 canadese fijnstraal
 canal
 canal de corinthe
+cancale
 cancelo
 cancer caroline receveur
 cancer isabelle balkany
@@ -59538,6 +59597,7 @@ comment je suis devenu super-héros
 comment voter à l'élection présidentielle
 commission paritaire 200
 commonwealth
+community shield
 comomeer
 comores
 compact disk dummies
@@ -59883,6 +59943,7 @@ cyber monday
 cyber monday 2021
 cyber monday 2022
 cybermonday
+cyclisme championnat du monde
 cyclisme jeux olympiques
 cyclisme jo
 cyclisme julian alaphilippe
@@ -62975,6 +63036,7 @@ granit xhaka
 granitxhaka
 grant wahl
 granulé de bois
+granville
 graspop
 graspop 2022
 graspop 2023
@@ -63522,6 +63584,7 @@ himars
 hindley
 hippo
 hiromi rollin
+hiroshima
 hirscher-ski
 hirschsprung
 hitler
@@ -63731,6 +63794,7 @@ iPhoneSE
 iPhoneSE2022
 iPod
 ian thomas
+ian watkins
 ibiza
 ibiza film
 ibizafilm
@@ -64285,7 +64349,9 @@ jake daniels
 jake gyllenhaal
 jake lloyd
 jake paul
+jake paul nate diaz
 jake paul v-s tommy fury
+jake paul vs nate diaz
 jake paul vs tyron woodley
 jakhals
 jakobsen
@@ -64360,6 +64426,7 @@ jane fonda cancers
 jane goodall
 jane grey
 janebirkin
+jango edwards
 janice cayman
 janin ullmann
 janina dschungelcamp
@@ -64634,6 +64701,7 @@ jimmy's hall
 jingle bells
 jitske van de veire
 jkf
+jmj
 jo 2021
 jo decaluwe
 jo foot
@@ -65959,6 +66027,7 @@ le prenom
 le prince andrew
 le prince louis
 le prix de la trahison
+le puy du fou
 le remplaçant
 le samaritain
 le samyn
@@ -66569,6 +66638,7 @@ loris the voice
 losc
 lost ark
 lost ark steam
+lostprophets
 loterie nationale
 loterie romande
 lothar matthäus
@@ -66756,6 +66826,7 @@ luminus
 lumnezia openair
 luna
 luna crypto
+luna park
 luna schweiger
 lundi 15 aout
 lundi de paques
@@ -66981,6 +67052,7 @@ maison du monde
 maison horreur
 maison m
 maite kelly
+maitland-niles
 maiwenn
 maje
 major lazer
@@ -68692,6 +68764,7 @@ natascha ochsenknecht
 natasha bassett
 natasha st-pier
 nate diaz
+nate diaz vs jake paul
 nathalie andreani
 nathalie arthaud
 nathalie baye
@@ -70318,6 +70391,7 @@ porsche gt3 rs
 porsche-aktie
 port du masque
 port-d'envaux
+portbou
 porte-avions foch bresil
 porte-parole sapeurs-pompiers
 portland
@@ -70834,6 +70908,7 @@ raphael guerreiro
 raphael wicky
 raphaël glucksmann
 raphinha
+rapinoe
 rappel produit
 rappelproduit
 rapper coolio
@@ -71926,6 +72001,7 @@ sch
 schaal sels 2022
 schaerbeek
 schaffhausen luzern
+schalke
 schalke 04
 schalke gegen bayern
 schalke gegen dortmund
@@ -72915,6 +72991,7 @@ suede
 suede  slovaquie
 suede - slovaquie
 suede coran brûlé
+suede etats-unis
 suede pologne
 suede ukraine
 suede-slovaquie
@@ -72967,6 +73044,7 @@ summerdays
 summerside festival
 summerslam 2021
 summerslam 2022
+summerslam 2023
 sunderland
 sunrise
 sunrise avenue
