@@ -1307,6 +1307,7 @@ AND JUST LIKE THAT
 ANDER HERRERA
 ANDERLECHT
 ANDERLECHT  AJAX
+ANDERLECHT  ANTWERP
 ANDERLECHT  CHARLEROI
 ANDERLECHT  CLUB BRUGGE
 ANDERLECHT  EUPEN
@@ -1433,6 +1434,7 @@ ANGLETERRE ECOSSE
 ANGLETERRE FOOT
 ANGLETERRE IRAN
 ANGLETERRE IRLANDE
+ANGLETERRE NIGERIA
 ANGLETERRE NOUVELLE ZELANDE
 ANGLETERRE REPUBLIQUE TCHEQUE
 ANGLETERRE SENEGAL
@@ -3455,6 +3457,7 @@ Ander Herrera
 AnderHerrera
 Anderlecht
 Anderlecht  Ajax
+Anderlecht  Antwerp
 Anderlecht  Charleroi
 Anderlecht  Club Brugge
 Anderlecht  Eupen
@@ -3689,6 +3692,7 @@ Angleterre Danemark
 Angleterre Ecosse
 Angleterre Iran
 Angleterre Irlande
+Angleterre Nigeria
 Angleterre Nouvelle zelande
 Angleterre foot
 Angleterre republique tcheque
@@ -3717,6 +3721,7 @@ AngleterreEcosse
 AngleterreFrance
 AngleterreIran
 AngleterreIrlande
+AngleterreNigeria
 AngleterreNouvellezelande
 Angleterrefoot
 Angleterrerepubliquetcheque
@@ -5581,6 +5586,7 @@ BETIS – REAL
 BETIS – REAL MADRID
 BETTER CALL SAUL
 BETTINA GAUS
+BETTIOL
 BETTY BIG BROTHER
 BETTY DAVIS
 BETTY OWCZAREK
@@ -6316,6 +6322,7 @@ BUT JAPON-ESPAGNE
 BUTSCHA
 BUZZ L'ÉCLAIR
 BVB
+BVB  AJAX
 BVB (BORUSSIA DORTMUND
 BVB (Borussia Dortmund
 BVB BORUSSIA DORTMUND
@@ -7356,6 +7363,7 @@ Better Call Saul
 BetterCallSaul
 Bettina Gaus
 BettinaGaus
+Bettiol
 Betty Big Brother
 Betty Davis
 Betty Owczarek
@@ -8502,6 +8510,8 @@ Buzz L'éclair
 Buzz l'Éclair
 BuzzL'éclair
 Buzzl'Éclair
+Bvb  Ajax
+BvbAjax
 BÂLE – FIORENTINA
 BÂLE – MARSEILLE
 BÄCKEREI
@@ -12262,6 +12272,7 @@ CystischeFibrose
 CÁDIZ  BARCELONA
 CÉCILE COULON
 CÉCILE DJUNGA
+CÉLINE BOUTIER SCOTTISH OPEN
 CÉLINE DION
 CÔTE D'IVOIRE – ALGÉRIE
 CÔTE D'IVOIRE – ÉGYPTE
@@ -12274,7 +12285,9 @@ Cécile Coulon
 Cécile Djunga
 CécileCoulon
 CécileDjunga
+Céline Boutier Scottish Open
 Céline Dion
+CélineBoutierScottishOpen
 CélineDion
 Côte d'Ivoire – Algérie
 Côte d'Ivoire – Égypte
@@ -12329,6 +12342,7 @@ DALAI LAMA
 DALEY BLIND
 DALIDA
 DALL-E
+DALLAS GEGEN INTER MIAMI
 DALLI DALLI
 DALS
 DAMAR HAMLIN
@@ -13192,6 +13206,8 @@ DaleyBlind
 Dalida
 Dall-E
 DallE
+Dallas gegen Inter Miami
+DallasgegenInterMiami
 Dalli Dalli
 DalliDalli
 Damar Hamlin
@@ -15009,6 +15025,7 @@ ENGLAND GEGEN FRANKREICH
 ENGLAND GEGEN IRAN
 ENGLAND GEGEN ITALIEN
 ENGLAND GEGEN SENEGAL
+ENGLAND NIGERIA
 ENGLAND SCHOTTLAND
 ENGLAND SCHWEDEN
 ENGLAND SPANIEN
@@ -16078,6 +16095,7 @@ Engie
 Engie Electrabel
 EngieElectrabel
 England Deutschland
+England Nigeria
 England Schottland
 England Schweden
 England Spanien
@@ -16087,6 +16105,7 @@ England gegen Iran
 England gegen Italien
 England gegen Senegal
 EnglandDeutschland
+EnglandNigeria
 EnglandSchottland
 EnglandSchweden
 EnglandSpanien
@@ -20063,6 +20082,7 @@ GRENADE – REAL
 GRENOBLE
 GRENOBLE – BORDEAUX
 GREOLIERES
+GRETA GERWIG
 GRETA THUNBERG
 GRETA VAN FLEET
 GREUTHER FÜRTH GEGEN BAYERN
@@ -21218,8 +21238,10 @@ Grenoble
 Grenoble – Bordeaux
 Grenoble–Bordeaux
 Greolieres
+Greta Gerwig
 Greta Thunberg
 Greta Van Fleet
+GretaGerwig
 GretaThunberg
 GretaVanFleet
 Greuther Fürth gegen Bayern
@@ -23198,6 +23220,7 @@ ISAAK TOURÉ
 ISABELLA ROSSELLINI
 ISABELLE A
 ISABELLE ADJANI
+ISABELLE AUBRET
 ISABELLE BALKANY
 ISABELLE BOULAY
 ISABELLE DEMONGEOT
@@ -23915,6 +23938,7 @@ Isabella Rossellini
 IsabellaRossellini
 Isabelle A
 Isabelle Adjani
+Isabelle Aubret
 Isabelle Balkany
 Isabelle Boulay
 Isabelle Demongeot
@@ -23929,6 +23953,7 @@ Isabelle Yacoubou
 Isabelle a
 IsabelleA
 IsabelleAdjani
+IsabelleAubret
 IsabelleBalkany
 IsabelleBoulay
 IsabelleDemongeot
@@ -24593,6 +24618,7 @@ JOAOFELIX
 JOAQUIN PHOENIX
 JOBBONUS
 JOBS
+JOCHEN GOETZ
 JOCK ZONFRILLO
 JOCONDE
 JODIE COMER
@@ -25868,6 +25894,8 @@ Joaquin Phoenix
 JoaquinPhoenix
 Jobbonus
 Jobs
+Jochen Goetz
+JochenGoetz
 Jock Zonfrillo
 JockZonfrillo
 Joconde
@@ -32642,6 +32670,7 @@ MEGA MILLIONS
 MEGA TOBY
 MEGALODON
 MEGAN FOX
+MEGAN RAPINOE
 MEGAN THEE STALLION
 MEGANFOX
 MEGASCOLIA MACULATA
@@ -35133,8 +35162,10 @@ MegaToby
 Megaenergie
 Megalodon
 Megan Fox
+Megan Rapinoe
 Megan Thee Stallion
 MeganFox
+MeganRapinoe
 MeganTheeStallion
 Megascolia maculata
 Megascoliamaculata
@@ -36964,6 +36995,7 @@ NIEUWS VANDAAG
 NIEUWZUIDANTWERPEN
 NIEWIADOMA
 NIGER
+NIGER ACTUALITÉS
 NIGERIA
 NIGERIA EGYPTE
 NIGHT OF THE PROMS
@@ -37848,6 +37880,8 @@ Nieuws vandaag
 Nieuwsvandaag
 Niewiadoma
 Niger
+Niger actualités
+Nigeractualités
 Nigeria
 Nigeria Egypte
 NigeriaEgypte
@@ -40237,6 +40271,7 @@ PRO D2
 PRO LEAGUE
 PROCES DEPP
 PROCOL HARUM
+PRODIGY
 PROFUMO DI DONNA
 PROGRAMMATION DE COUPE DU MONDE DE FOOTBALL 2022
 PROGRAMME MACRON 2022
@@ -42233,6 +42268,7 @@ Proces Depp
 ProcesDepp
 Procol Harum
 ProcolHarum
+Prodigy
 Profumo di donna
 Profumodidonna
 Programmation de Coupe du Monde de football 2022
@@ -49278,6 +49314,7 @@ TARAWIH
 TARBES
 TAREK BOUDALI
 TARIQ RAMADAN
+TARMAC SL8
 TARON EGERTON
 TARTIFLETTE
 TASH SULTANA
@@ -50282,6 +50319,8 @@ Tarek Boudali
 TarekBoudali
 Tariq Ramadan
 TariqRamadan
+Tarmac SL8
+TarmacSL8
 Taron egerton
 Taronegerton
 Tartiflette
@@ -53948,6 +53987,7 @@ WEST-NIL-VIRUS
 WESTBROOK
 WESTERLO
 WESTERLO  CERCLE
+WESTERLO  CLUB BRUGGE
 WESTERLO  GENT
 WESTERLO  KORTRIJK
 WESTERLO  MECHELEN
@@ -54507,6 +54547,7 @@ WestSideStory
 Westbrook
 Westerlo
 Westerlo  Cercle
+Westerlo  Club Brugge
 Westerlo  Genk
 Westerlo  Gent
 Westerlo  Kortrijk
@@ -54520,6 +54561,7 @@ Westerlo – Cercle bruges
 Westerlo – Standard
 Westerlo-Genk
 WesterloCercle
+WesterloClubBrugge
 WesterloGent
 WesterloKortrijk
 WesterloMechelen
@@ -56450,6 +56492,7 @@ and just like that
 ander herrera
 anderlecht
 anderlecht  ajax
+anderlecht  antwerp
 anderlecht  charleroi
 anderlecht  club brugge
 anderlecht  eupen
@@ -56576,6 +56619,7 @@ angleterre ecosse
 angleterre foot
 angleterre iran
 angleterre irlande
+angleterre nigeria
 angleterre nouvelle zelande
 angleterre republique tcheque
 angleterre senegal
@@ -57898,6 +57942,7 @@ betis – real
 betis – real madrid
 better call saul
 bettina gaus
+bettiol
 betty big brother
 betty davis
 betty owczarek
@@ -58596,6 +58641,7 @@ but japon-espagne
 butscha
 buzz l'éclair
 bvb
+bvb  ajax
 bvb (borussia dortmund
 bvb borussia dortmund
 bwt
@@ -59967,6 +60013,7 @@ cystische fibrose
 cádiz  barcelona
 cécile coulon
 cécile djunga
+céline boutier scottish open
 céline dion
 côte d'ivoire – algérie
 côte d'ivoire – égypte
@@ -60011,6 +60058,7 @@ dalai lama
 daley blind
 dalida
 dall-e
+dallas gegen inter miami
 dalli dalli
 dals
 damar hamlin
@@ -61174,6 +61222,7 @@ england gegen frankreich
 england gegen iran
 england gegen italien
 england gegen senegal
+england nigeria
 england schottland
 england schweden
 england spanien
@@ -63077,6 +63126,7 @@ grenade – real
 grenoble
 grenoble – bordeaux
 greolieres
+greta gerwig
 greta thunberg
 greta van fleet
 greuther fürth gegen bayern
@@ -64142,6 +64192,7 @@ isaak touré
 isabella rossellini
 isabelle a
 isabelle adjani
+isabelle aubret
 isabelle balkany
 isabelle boulay
 isabelle demongeot
@@ -64724,6 +64775,7 @@ joaofelix
 joaquin phoenix
 jobbonus
 jobs
+jochen goetz
 jock zonfrillo
 joconde
 jodie comer
@@ -67873,6 +67925,7 @@ mega millions
 mega toby
 megalodon
 megan fox
+megan rapinoe
 megan thee stallion
 meganfox
 megascolia maculata
@@ -69038,6 +69091,7 @@ nieuws vandaag
 nieuwzuidantwerpen
 niewiadoma
 niger
+niger actualités
 nigeria
 nigeria egypte
 night of the proms
@@ -70597,6 +70651,7 @@ pro d2
 pro league
 proces depp
 procol harum
+prodigy
 profumo di donna
 programmation de coupe du monde de football 2022
 programme macron 2022
@@ -73273,6 +73328,7 @@ tarawih
 tarbes
 tarek boudali
 tariq ramadan
+tarmac sl8
 taron egerton
 tartiflette
 tash sultana
@@ -75030,6 +75086,7 @@ west-nil-virus
 westbrook
 westerlo
 westerlo  cercle
+westerlo  club brugge
 westerlo  gent
 westerlo  kortrijk
 westerlo  mechelen
