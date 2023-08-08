@@ -665,6 +665,7 @@ ACCIDENT LAUSANNE
 ACCIDENT MARC-PHILIPPE DAUBRESSE
 ACCIDENT MARCINELLE
 ACCIDENT METRO PARISIEN
+ACCIDENT MORTEL LUNA PARK
 ACCIDENT SPA-FRANCORCHAMPS
 ACCIDENT STRUCTURE GONFLABLE
 ACCIDENT TROIS POLICIERS
@@ -789,6 +790,7 @@ AFCRichmond
 AFD
 AFFAIRE CONCLUE
 AFFAIRE D'OUTREAU
+AFFAIRE EMILE DISPARITION
 AFFAIRE GREGORY
 AFFAIRE JUBILLAR
 AFFAIRE LOLA
@@ -1454,6 +1456,7 @@ ANGLETERRE-ALLEMAGNE
 ANGLETERRE-DANEMARK
 ANGLETERRE-ECOSSE
 ANGLETERRE-FRANCE
+ANGLETERRE-NIGERIA
 ANGLETERREALLEMAGNE
 ANGLETERREDANEMARK
 ANGLETERREECOSSE
@@ -2354,6 +2357,7 @@ Accident de la route
 Accident ferroviaire en Grèce
 Accident flemalle
 Accident metro parisien
+Accident mortel Luna Park
 Accident structure gonflable
 Accident trois policiers
 Accident trois policiers morts
@@ -2383,6 +2387,7 @@ Accidentdelaroute
 AccidentferroviaireenGrèce
 Accidentflemalle
 Accidentmetroparisien
+AccidentmortelLunaPark
 Accidents au Sénégal
 AccidentsauSénégal
 Accidentstructuregonflable
@@ -2553,6 +2558,7 @@ Aeroportgeneve
 AfD
 Afasie
 Affaire Conclue
+Affaire Emile disparition
 Affaire Jubillar
 Affaire Lola
 Affaire Maddie McCann
@@ -2561,6 +2567,7 @@ Affaire conclue
 Affaire d'Outreau
 Affaire gregory
 AffaireConclue
+AffaireEmiledisparition
 AffaireJubillar
 AffaireLola
 AffaireMaddieMcCann
@@ -3714,6 +3721,7 @@ Angleterre-Allemagne
 Angleterre-Danemark
 Angleterre-Ecosse
 Angleterre-France
+Angleterre-Nigeria
 Angleterre-PaysdeGalles
 AngleterreAllemagne
 AngleterreDanemark
@@ -5260,6 +5268,7 @@ BAYERN GEGEN KÖLN
 BAYERN GEGEN LEVERKUSEN
 BAYERN GEGEN MAINZ
 BAYERN GEGEN MAN CITY
+BAYERN GEGEN MONACO
 BAYERN GEGEN MÖNCHENGLADBACH
 BAYERN GEGEN RB LEIPZIG
 BAYERN GEGEN UNION BERLIN
@@ -5282,6 +5291,7 @@ BAYERN – LEVERKUSEN
 BAYERN – MAN CITY
 BAYERN – MANCHESTER CITY
 BAYERN – MANCITY
+BAYERN – MONACO
 BAYERN – MÖNCHENGLADBACH
 BAYERN – PARIS-SG
 BAYERN – RB LEIPZIG
@@ -5780,6 +5790,7 @@ BLUE MONDAY
 BLUE ORIGIN
 BLUES BROTHERS
 BLUMEN
+BLUR
 BMI
 BMW 3.0 CSL
 BMW I7
@@ -6209,6 +6220,7 @@ BRUXELLES
 BRYAN ADAMS
 BRYAN CRANSTON
 BRYAN JOHNSON
+BRYAN RANDALL
 BReSIL  PeROU
 BReSIL - CHILI
 BReSIL - EQUATEUR
@@ -6799,6 +6811,7 @@ Bayern gegen Köln
 Bayern gegen Leverkusen
 Bayern gegen Mainz
 Bayern gegen Man City
+Bayern gegen Monaco
 Bayern gegen Mönchengladbach
 Bayern gegen RB Leipzig
 Bayern gegen Union Berlin
@@ -6818,6 +6831,7 @@ Bayern – Leverkusen
 Bayern – Man City
 Bayern – ManCity
 Bayern – Manchester City
+Bayern – Monaco
 Bayern – Mönchengladbach
 Bayern – RB Leipzig
 Bayern – Stuttgart
@@ -6846,6 +6860,7 @@ BayerngegenKöln
 BayerngegenLeverkusen
 BayerngegenMainz
 BayerngegenManCity
+BayerngegenMonaco
 BayerngegenMönchengladbach
 BayerngegenRBLeipzig
 BayerngegenUnionBerlin
@@ -6864,6 +6879,7 @@ Bayern–Inter
 Bayern–Leverkusen
 Bayern–ManCity
 Bayern–ManchesterCity
+Bayern–Monaco
 Bayern–Mönchengladbach
 Bayern–RBLeipzig
 Bayern–Stuttgart
@@ -7647,6 +7663,7 @@ BlueOrigin
 Blues Brothers
 BluesBrothers
 Blumen
+Blur
 Bo Coolsaet
 Bo Henriksen
 BoCoolsaet
@@ -8346,9 +8363,11 @@ Bruxelles
 Bryan Adams
 Bryan Cranston
 Bryan Johnson
+Bryan Randall
 BryanAdams
 BryanCranston
 BryanJohnson
+BryanRandall
 Brésil
 Brésil  Pérou
 Brésil - Pérou
@@ -9311,6 +9330,7 @@ CITY
 CITY OF LIES
 CITYMESH
 CIVILISATION ORELSAN
+CIVITAS
 CL
 CLAES OLDENBURG
 CLAIRE BOROTRA
@@ -9519,6 +9539,7 @@ COLM KELLEHER
 COLMAR
 COLOGNE – NICE
 COLOMBIAANSE VARIANT
+COLOMBIE JAMAIQUE
 COLONNA CATHERINE
 COLORADO AVALANCHE
 COLUCHE
@@ -11246,6 +11267,7 @@ Citymesh
 CityofLies
 Civilisation Orelsan
 CivilisationOrelsan
+Civitas
 Cl
 Claes Oldenburg
 ClaesOldenburg
@@ -11603,6 +11625,8 @@ Cologne – Nice
 Cologne–Nice
 Colombiaanse variant
 Colombiaansevariant
+Colombie jamaique
+Colombiejamaique
 Colonna Catherine
 ColonnaCatherine
 Colorado Avalanche
@@ -17158,6 +17182,7 @@ FEDERER WIMBLEDON 2021
 FEDERERWIMBLEDON2021
 FEDERICA BRIGNONE
 FEDERICA PELLEGRINI
+FEDERICO BAHAMONTES
 FEDERICO CHIESA
 FEDERICO MARTIN ARAMBURU
 FEDERICOCHIESA
@@ -17187,6 +17212,7 @@ FEMINISTISCHER STREIK
 FEMINISTISCHER STREIK 2023
 FEMIZID
 FEMKE BOL
+FEMME SÉQUESTRÉE
 FEMSA
 FENERBAHCE
 FENERBAHÇE ( RIZESPOR
@@ -17686,6 +17712,7 @@ FRANCE-IRLANDE
 FRANCE-ITALIE
 FRANCE-JAPON RUGBY
 FRANCE-KAZAKHSTAN
+FRANCE-MAROC
 FRANCE-NOUVELLE ZELANDE
 FRANCE-PAYS DE GALLES
 FRANCE-PAYS-BAS
@@ -18099,8 +18126,10 @@ Federica Brignone
 Federica Pellegrini
 FedericaBrignone
 FedericaPellegrini
+Federico Bahamontes
 Federico Chiesa
 Federico Martin Aramburu
+FedericoBahamontes
 FedericoChiesa
 FedericoMartinAramburu
 Fedez
@@ -18144,6 +18173,8 @@ FeministischerStreik2023
 Femizid
 Femke Bol
 FemkeBol
+Femme séquestrée
+Femmeséquestrée
 Femsa
 FemvanEmpel
 Fenerbahce
@@ -18889,6 +18920,7 @@ France-Japon rugby
 France-Japonfoot
 France-Japonrugby
 France-Kazakhstan
+France-Maroc
 France-Nouvelle zelande
 France-Nouvellezelande
 France-Panama
@@ -18948,6 +18980,7 @@ FranceJaponvolley
 FranceJeuxOlympiques
 FranceJeuxolympiques
 FranceKazakhstan
+FranceMaroc
 FranceMexique
 FranceMexiqueJO
 FranceNouvelle zelande
@@ -24252,6 +24285,7 @@ JAMAICA
 JAMAL EDWARDS
 JAMAL MUSIALA
 JAMAÏQUE – BRÉSIL
+JAMBOREE
 JAMEL DEBBOUZE
 JAMEL DEBBOUZE JULIETTE BINOCHE
 JAMES BLUNT
@@ -25161,6 +25195,7 @@ JamalEdwards
 JamalMusiala
 Jamaïque – Brésil
 Jamaïque–Brésil
+Jamboree
 Jamel Debbouze
 Jamel Debbouze Juliette Binoche
 JamelDebbouze
@@ -28412,6 +28447,7 @@ LAUTERBRUNNEN
 LAVAL
 LAVAL – BORDEAUX
 LAVAL – GUINGAMP
+LAVAS
 LAVER CUP
 LAVER CUP 2021
 LAVER CUP 2022
@@ -28481,6 +28517,7 @@ LE MEILLEUR PÂTISSIER
 LE MEPRIS
 LE MONDE
 LE MONDE NE SUFFIT PAS
+LE MYSTÈRE HENRI PICK
 LE MYSTÈRE KENDRICK
 LE NOYAU TERRESTRE
 LE PAPE BENOÎT XVI
@@ -28975,6 +29012,7 @@ LIVERPOOL - REAL MADRID
 LIVERPOOL GEGEN ARSENAL
 LIVERPOOL GEGEN BAYERN
 LIVERPOOL GEGEN CHELSEA
+LIVERPOOL GEGEN DARMSTADT 98
 LIVERPOOL GEGEN EVERTON
 LIVERPOOL GEGEN LEICESTER
 LIVERPOOL GEGEN MAN CITY
@@ -29146,6 +29184,7 @@ LOTO 29 SEPTEMBRE 2021
 LOTO 3 JUILLET 2021
 LOTO 3 MAI 2023
 LOTO 30 OCTOBRE 2021
+LOTO 7 AOUT 2023
 LOTO 7 JANVIER 2023
 LOTO 7 JUILLET 2021
 LOTO 8 AVRIL 2023
@@ -29907,6 +29946,7 @@ Laval – Bordeaux
 Laval – Guingamp
 Laval–Bordeaux
 Laval–Guingamp
+Lavas
 Laver Cup
 Laver Cup 2021
 Laver Cup 2022
@@ -30019,6 +30059,7 @@ Le meilleur pâtissier
 Le mepris
 Le monde
 Le monde ne suffit pas
+Le mystère Henri Pick
 Le noyau terrestre
 Le pape Benoît XVI
 Le parisien
@@ -30217,6 +30258,7 @@ Lemeilleurpâtissier
 Lemepris
 Lemonde
 Lemondenesuffitpas
+LemystèreHenriPick
 Lena Dürr
 Lena Gercke
 Lena Meyer-Landrut
@@ -30939,6 +30981,7 @@ Liverpool
 Liverpool  Real Madrid
 Liverpool  Wolverhampton
 Liverpool - Real Madrid
+Liverpool Gegen Darmstadt 98
 Liverpool Villarreal
 Liverpool gegen Arsenal
 Liverpool gegen Bayern
@@ -30979,6 +31022,7 @@ Liverpool – Tottenham
 Liverpool – Watford
 Liverpool – West Ham
 Liverpool-RealMadrid
+LiverpoolGegenDarmstadt98
 LiverpoolVillarreal
 LiverpoolWolverhampton
 LiverpoolgegenArsenal
@@ -31236,6 +31280,7 @@ Loto 29 septembre 2021
 Loto 3 juillet 2021
 Loto 3 mai 2023
 Loto 30 octobre 2021
+Loto 7 aout 2023
 Loto 7 janvier 2023
 Loto 7 juillet 2021
 Loto 8 avril 2023
@@ -31271,6 +31316,7 @@ Loto29septembre2021
 Loto30octobre2021
 Loto3juillet2021
 Loto3mai2023
+Loto7aout2023
 Loto7janvier2023
 Loto7juillet2021
 Loto8avril2023
@@ -33346,6 +33392,7 @@ MOTO GP
 MOTOGP
 MOTOGP THAILANDE
 MOTSI MABUSE
+MOUCHES NOIRES ESPAGNE
 MOUFIDE BOUCHIBI
 MOUKOKO
 MOULIN ROUGE MUSICAL
@@ -36368,6 +36415,8 @@ MotoGP thailande
 MotoGPthailande
 Motsi Mabuse
 MotsiMabuse
+Mouches noires Espagne
+MouchesnoiresEspagne
 Moufide Bouchibi
 MoufideBouchibi
 Moukoko
@@ -37156,6 +37205,7 @@ NOUVEAU GOUVERNEMENT
 NOUVEAU PROTOCOLE SANITAIRE
 NOUVEAU VARIANT
 NOUVEAU VARIANT COVID
+NOUVEAU VARIANT COVID ERIS
 NOUVEAU VIRUS EN CHINE LANGYA
 NOUVEL AN
 NOUVEL AN 2022
@@ -38133,11 +38183,13 @@ Nouveau gouvernement
 Nouveau protocole sanitaire
 Nouveau variant
 Nouveau variant Covid
+Nouveau variant Covid Eris
 Nouveau virus en Chine Langya
 Nouveaugouvernement
 Nouveauprotocolesanitaire
 Nouveauvariant
 NouveauvariantCovid
+NouveauvariantCovidEris
 NouveauvirusenChineLangya
 Nouvel An
 Nouvel An 2022
@@ -39944,6 +39996,7 @@ PIZZA
 PIZZA BUITONI
 PJANIC
 PLACE DE LA CONCORDE
+PLACEBO
 PLAN BLANC
 PLAN COEUR
 PLANCHA
@@ -41693,6 +41746,7 @@ Pizza Buitoni
 PizzaBuitoni
 Pjanic
 Place de la Concorde
+Placebo
 PlacedelaConcorde
 Plan Coeur
 Plan blanc
@@ -42869,6 +42923,7 @@ RECKLINGHAUSEN
 RECORD VITESSE ROTATION TERRE
 RECTICEL
 RED BULL F1
+RED DEAD REDEMPTION
 RED FLAMES
 RED HOT CHILI PEPPERS
 RED HOT CHILI PEPPERS WERCHTER
@@ -44035,6 +44090,7 @@ Record vitesse rotation Terre
 RecordvitesserotationTerre
 Recticel
 Red Bull F1
+Red Dead Redemption
 Red Flames
 Red Hot Chili Peppers
 Red Hot Chili Peppers werchter
@@ -44045,6 +44101,7 @@ Red Star Line
 Red Star Line musical
 RedBird
 RedBullF1
+RedDeadRedemption
 RedFlames
 RedHotChiliPeppers
 RedHotChiliPepperswerchter
@@ -45187,6 +45244,7 @@ SAINT THOMAS
 SAINT THOMAS D'AQUIN
 SAINT-ANTOINE
 SAINT-BREVIN-LES-PINS
+SAINT-DOMINIQUE
 SAINT-ETIENNE
 SAINT-ETIENNE AUXERRE
 SAINT-ETIENNE MARSEILLE
@@ -45628,6 +45686,7 @@ SENEGAL FOOT
 SENEGAL ZIMBABWE
 SENEGAL-CAP-VERT
 SENEGALCAPVERT
+SENNE LYNEN
 SENS COMMUN
 SENTINEL 6
 SENTINEL6
@@ -46746,6 +46805,7 @@ Saint jean
 Saint raphael
 Saint-Antoine
 Saint-Brevin-les-Pins
+Saint-Dominique
 Saint-Etienne
 Saint-Etienne Auxerre
 Saint-Etienne Marseille
@@ -46811,6 +46871,7 @@ Saint-étienne–paris-sg
 SaintAmour
 SaintAntoine
 SaintBrevinlesPins
+SaintDominique
 SaintEtienne
 SaintEtienne Auxerre
 SaintEtienne Marseille
@@ -47506,6 +47567,8 @@ Senegal foot
 SenegalEgypte
 SenegalZimbabwe
 Senegalfoot
+Senne Lynen
+SenneLynen
 Sens commun
 Senscommun
 Sentinel 6
@@ -54044,6 +54107,7 @@ WILDHAUS
 WILDSCHWEIN
 WILFRIED FLORENTIN
 WILFRIED HAPPIO
+WILFRIED KANGA
 WILFRIED VAN MOER
 WILFRIED ZAHA
 WILHELM SCREAM
@@ -54063,6 +54127,7 @@ WILLIAM
 WILLIAM BOEVA
 WILLIAM COHN
 WILLIAM DUNKER
+WILLIAM FRIEDKIN
 WILLIAM HURT
 WILLIAM KLEIN
 WILLIAM LEYMERGIE
@@ -54078,6 +54143,7 @@ WILLY DE BRUYN
 WILLY NAESSENS
 WILLY SOMMERS
 WILSBERG
+WILSON ISIDOR
 WIM DE BIE
 WIM HELSEN
 WIM HENDERICKX
@@ -54116,6 +54182,7 @@ WINTERZEIT ZEITUMSTELLUNG
 WINX
 WIR IMPFEN
 WISCONSIN
+WISE
 WISENT
 WISH
 WISSEM DISPARUE RETROUVÉE
@@ -54645,10 +54712,12 @@ Wildhaus
 Wildschwein
 Wilfried Florentin
 Wilfried Happio
+Wilfried Kanga
 Wilfried Van Moer
 Wilfried Zaha
 WilfriedFlorentin
 WilfriedHappio
+WilfriedKanga
 WilfriedVanMoer
 WilfriedZaha
 Wilhelm Scream
@@ -54681,6 +54750,7 @@ William
 William Boeva
 William Cohn
 William Dunker
+William Friedkin
 William Hurt
 William Klein
 William Leymergie
@@ -54689,6 +54759,7 @@ William Sheller
 WilliamBoeva
 WilliamCohn
 WilliamDunker
+WilliamFriedkin
 WilliamHurt
 WilliamKlein
 WilliamLeymergie
@@ -54709,6 +54780,8 @@ WillyDeBruyn
 WillyNaessens
 WillySommers
 Wilsberg
+Wilson Isidor
+WilsonIsidor
 Wim Helsen
 Wim Henderickx
 Wim Hof
@@ -54769,6 +54842,7 @@ Winx
 Wir impfen
 Wirimpfen
 Wisconsin
+Wise
 Wisent
 Wish
 Wissem Disparue retrouvée
@@ -55884,6 +55958,7 @@ accident lausanne
 accident marc-philippe daubresse
 accident marcinelle
 accident metro parisien
+accident mortel luna park
 accident spa-francorchamps
 accident structure gonflable
 accident trois policiers
@@ -55990,6 +56065,7 @@ afc richmond
 afd
 affaire conclue
 affaire d'outreau
+affaire emile disparition
 affaire gregory
 affaire jubillar
 affaire lola
@@ -56639,6 +56715,7 @@ angleterre-allemagne
 angleterre-danemark
 angleterre-ecosse
 angleterre-france
+angleterre-nigeria
 angleterreallemagne
 angleterredanemark
 angleterreecosse
@@ -57625,6 +57702,7 @@ bayern gegen köln
 bayern gegen leverkusen
 bayern gegen mainz
 bayern gegen man city
+bayern gegen monaco
 bayern gegen mönchengladbach
 bayern gegen rb leipzig
 bayern gegen union berlin
@@ -57647,6 +57725,7 @@ bayern – leverkusen
 bayern – man city
 bayern – manchester city
 bayern – mancity
+bayern – monaco
 bayern – mönchengladbach
 bayern – paris-sg
 bayern – rb leipzig
@@ -58124,6 +58203,7 @@ blue monday
 blue origin
 blues brothers
 blumen
+blur
 bmi
 bmw 3.0 csl
 bmw i7
@@ -58536,6 +58616,7 @@ bruxelles
 bryan adams
 bryan cranston
 bryan johnson
+bryan randall
 brésil
 brésil  pérou
 brésil - pérou
@@ -59427,6 +59508,7 @@ city
 city of lies
 citymesh
 civilisation orelsan
+civitas
 cl
 claes oldenburg
 claire borotra
@@ -59628,6 +59710,7 @@ colm kelleher
 colmar
 cologne – nice
 colombiaanse variant
+colombie jamaique
 colonna catherine
 colorado avalanche
 coluche
@@ -61816,6 +61899,7 @@ federer wimbledon 2021
 federerwimbledon2021
 federica brignone
 federica pellegrini
+federico bahamontes
 federico chiesa
 federico martin aramburu
 federicochiesa
@@ -61845,6 +61929,7 @@ feministischer streik
 feministischer streik 2023
 femizid
 femke bol
+femme séquestrée
 femsa
 fenerbahce
 fenerbahçe ( rizespor
@@ -62309,6 +62394,7 @@ france-irlande
 france-italie
 france-japon rugby
 france-kazakhstan
+france-maroc
 france-nouvelle zelande
 france-pays de galles
 france-pays-bas
@@ -64415,6 +64501,7 @@ jamaica
 jamal edwards
 jamal musiala
 jamaïque – brésil
+jamboree
 jamel debbouze
 jamel debbouze juliette binoche
 james blunt
@@ -65998,6 +66085,7 @@ lauterbrunnen
 laval
 laval – bordeaux
 laval – guingamp
+lavas
 laver cup
 laver cup 2021
 laver cup 2022
@@ -66067,6 +66155,7 @@ le meilleur pâtissier
 le mepris
 le monde
 le monde ne suffit pas
+le mystère henri pick
 le mystère kendrick
 le noyau terrestre
 le pape benoît xvi
@@ -66551,6 +66640,7 @@ liverpool - real madrid
 liverpool gegen arsenal
 liverpool gegen bayern
 liverpool gegen chelsea
+liverpool gegen darmstadt 98
 liverpool gegen everton
 liverpool gegen leicester
 liverpool gegen man city
@@ -66720,6 +66810,7 @@ loto 29 septembre 2021
 loto 3 juillet 2021
 loto 3 mai 2023
 loto 30 octobre 2021
+loto 7 aout 2023
 loto 7 janvier 2023
 loto 7 juillet 2021
 loto 8 avril 2023
@@ -68592,6 +68683,7 @@ moto gp
 motogp
 motogp thailande
 motsi mabuse
+mouches noires espagne
 moufide bouchibi
 moukoko
 moulin rouge musical
@@ -69244,6 +69336,7 @@ nouveau gouvernement
 nouveau protocole sanitaire
 nouveau variant
 nouveau variant covid
+nouveau variant covid eris
 nouveau virus en chine langya
 nouvel an
 nouvel an 2022
@@ -70331,6 +70424,7 @@ pizza
 pizza buitoni
 pjanic
 place de la concorde
+placebo
 plan blanc
 plan coeur
 plancha
@@ -71120,6 +71214,7 @@ recklinghausen
 record vitesse rotation terre
 recticel
 red bull f1
+red dead redemption
 red flames
 red hot chili peppers
 red hot chili peppers werchter
@@ -71816,6 +71911,7 @@ saint thomas
 saint thomas d'aquin
 saint-antoine
 saint-brevin-les-pins
+saint-dominique
 saint-etienne
 saint-etienne auxerre
 saint-etienne marseille
@@ -72241,6 +72337,7 @@ senegal egypte
 senegal foot
 senegal zimbabwe
 senegal-cap-vert
+senne lynen
 sens commun
 sentinel 6
 sentinel6
@@ -75143,6 +75240,7 @@ wildhaus
 wildschwein
 wilfried florentin
 wilfried happio
+wilfried kanga
 wilfried van moer
 wilfried zaha
 wilhelm scream
@@ -75162,6 +75260,7 @@ william
 william boeva
 william cohn
 william dunker
+william friedkin
 william hurt
 william klein
 william leymergie
@@ -75177,6 +75276,7 @@ willy de bruyn
 willy naessens
 willy sommers
 wilsberg
+wilson isidor
 wim de bie
 wim helsen
 wim henderickx
@@ -75215,6 +75315,7 @@ winterzeit zeitumstellung
 winx
 wir impfen
 wisconsin
+wise
 wisent
 wish
 wissem disparue retrouvée
