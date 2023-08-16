@@ -669,6 +669,7 @@ ACCIDENT CENTRE ÉQUESTRE
 ACCIDENT DE CHASSE
 ACCIDENT DE LA ROUTE
 ACCIDENT E42
+ACCIDENT EUROPA PARK
 ACCIDENT EUROPA-PARK
 ACCIDENT FERROVIAIRE EN GRÈCE
 ACCIDENT FLEMALLE
@@ -2128,8 +2129,10 @@ AUSTRALIAN OPEN
 AUSTRALIAN OPEN 2023
 AUSTRALIE FRANCE
 AUSTRALIE PEROU
+AUSTRALIE – ANGLETERRE
 AUSTRALIE – DANEMARK
 AUSTRALIE – FRANCE
+AUSTRALIEN GEGEN ENGLAND
 AUSTRIA
 AUTISMUS
 AUTO UNFALL AXENSTRASSE
@@ -2360,6 +2363,7 @@ Accident A7
 Accident A9
 Accident Aurore Morisse
 Accident E42
+Accident Europa Park
 Accident Europa-Park
 Accident EuropaPark
 Accident Jura
@@ -2396,6 +2400,7 @@ AccidentA9
 AccidentAuroreMorisse
 AccidentE42
 AccidentEuropa-Park
+AccidentEuropaPark
 AccidentJura
 AccidentLausanne
 AccidentMarc-PhilippeDaubresse
@@ -4850,10 +4855,14 @@ AustralianOpen
 AustralianOpen2023
 Australie France
 Australie perou
+Australie – Angleterre
 Australie – Danemark
 Australie – France
 AustralieFrance
+Australien gegen England
+AustraliengegenEngland
 Australieperou
+Australie–Angleterre
 Australie–Danemark
 Australie–France
 Austria
@@ -9442,6 +9451,7 @@ CLASSEMENT LIGUE DES CHAMPIONS
 CLASSEMENT LYCÉES
 CLASSEMENT MEDAILLE JO 2020
 CLASSEMENT PRÉSIDENTIELLE 2022
+CLASSEMENT SHANGHAI 2023
 CLASSEMENT TOP 14
 CLASSEMENT TOUR DE FRANCE
 CLASSEMENT TOUR DE FRANCE 2021
@@ -11408,6 +11418,7 @@ Classement F1
 Classement FIFA
 Classement Ligue 1
 Classement Ligue des champions
+Classement Shanghai 2023
 Classement TOP 14
 Classement Tour de France
 Classement Tour de France 2021
@@ -11427,6 +11438,7 @@ ClassementF1
 ClassementFIFA
 ClassementLigue1
 ClassementLiguedeschampions
+ClassementShanghai2023
 ClassementTOP14
 ClassementTourdeFrance
 ClassementTourdeFrance2021
@@ -12570,6 +12582,7 @@ DARKO LAZOVIC
 DARLIGEN
 DARMANIN
 DARRELL BROOKS
+DARREN KENT
 DART
 DARTS
 DARTS EK
@@ -13521,6 +13534,8 @@ Darligen
 Darmanin
 Darrell Brooks
 DarrellBrooks
+Darren Kent
+DarrenKent
 Darts
 Darts EK
 Darts LIVE
@@ -15324,6 +15339,7 @@ ESPAGNE – FRANCE
 ESPAGNE – NORVÈGE
 ESPAGNE – PORTUGAL
 ESPAGNE – SUISSE
+ESPAGNE – SUÈDE
 ESPAGNECOVID
 ESPAGNECROATIE
 ESPAGNEFOOT
@@ -16473,6 +16489,7 @@ Espagne – France
 Espagne – Norvège
 Espagne – Portugal
 Espagne – Suisse
+Espagne – Suède
 EspagneCovid
 EspagneCroatie
 EspagneItalie
@@ -16487,6 +16504,7 @@ Espagne–France
 Espagne–Norvège
 Espagne–Portugal
 Espagne–Suisse
+Espagne–Suède
 Espanyol – Atlético Madrid
 Espanyol – Real
 Espanyol–AtléticoMadrid
@@ -17090,6 +17108,7 @@ FASTANDFURIOUS
 FATA MORGANA
 FATALE
 FATE: THE WINX SAGA
+FATIMA
 FATMA GIRIK
 FAUSTINE BOLLAERT
 FAUSTINE NOGHEROTTO
@@ -17386,6 +17405,7 @@ FESTIVAL LES ARDENTES
 FESTIVAL LOCARNO
 FESTIVAL RONQUIERES
 FESTIVAL VENOGE
+FETE 15 AOUT
 FETE DE BAYONNE
 FETE DE FAMILLE
 FETE DE L'AID
@@ -18231,6 +18251,7 @@ Fatale
 Fatamorgana
 Fate: The Winx Saga
 Fate:TheWinxSaga
+Fatima
 Fatma Girik
 FatmaGirik
 Faustine Bollaert
@@ -18381,6 +18402,7 @@ FestivaldeCannes2023
 FestivaldeDour
 FestivaldelaCité
 Festivalronquieres
+Fete 15 aout
 Fete Dieu
 Fete de Bayonne
 Fete de famille
@@ -18416,6 +18438,7 @@ Fete nationale
 Fete nationale belge
 Fete nationale feux d'artifice
 Fete nationale suisse
+Fete15aout
 FeteDieu
 FetedeBayonne
 Fetedefamille
@@ -19902,6 +19925,7 @@ GERARD DEPARDIEU
 GERARD DROUOT
 GERARD JOLING
 GERARD LANVIN
+GERARD LECLERC
 GERARD LENORMAN
 GERARD MAJAX
 GERARD PHILIPE
@@ -19910,6 +19934,7 @@ GERARD PIQUe
 GERARD PIQUÉ
 GERARD PIQUé
 GERARDDEPARDIEU
+GERARDLECLERC
 GERARDO SEOANE
 GERARDPIQUE
 GERARDPIQUe
@@ -20887,6 +20912,7 @@ Gerard Depardieu
 Gerard Drouot
 Gerard Joling
 Gerard Lanvin
+Gerard Leclerc
 Gerard Lenorman
 Gerard Majax
 Gerard Philipe
@@ -20899,6 +20925,7 @@ GerardDepardieu
 GerardDrouot
 GerardJoling
 GerardLanvin
+GerardLeclerc
 GerardLenorman
 GerardMajax
 GerardPhilipe
@@ -24578,6 +24605,7 @@ JASONDUPASQUIER
 JASPER DE BUYST
 JASPER PHILIPSEN
 JAVIER MILEI
+JAVIER MILEI ARGENTINE
 JAWAD BENDAOUD
 JAY ADAMS
 JAY LENO
@@ -25109,6 +25137,7 @@ JULIENDORE
 JULIENDORe
 JULIENDORé
 JULIETTE ARMANET
+JULIETTE ARMANET SARDOU
 JULIETTE BINOCHE
 JULIETTE LABOUS
 JULIO IGLESIAS
@@ -25594,7 +25623,9 @@ Jasper de Buyst
 JasperPhilipsen
 JasperdeBuyst
 Javier Milei
+Javier Milei Argentine
 JavierMilei
+JavierMileiArgentine
 Jawad Bendaoud
 JawadBendaoud
 Jay Adams
@@ -26629,9 +26660,11 @@ JulienVrebos
 JulienWatrin
 Juliepietri
 Juliette Armanet
+Juliette Armanet Sardou
 Juliette Binoche
 Juliette Labous
 JulietteArmanet
+JulietteArmanetSardou
 JulietteBinoche
 JulietteLabous
 Julio Iglesias
@@ -29521,6 +29554,7 @@ LUDIVINE DEDONDER
 LUDOGORETS
 LUDOGORETS  ANDERLECHT
 LUDOVIC GAL
+LUDWIG AUGUSTINSSON
 LUFTHANSA-FLUG TURBULENZEN
 LUFTHANSA-STREIK
 LUGANO GEGEN ST. GALLEN
@@ -31737,6 +31771,8 @@ Ludogorets  Anderlecht
 LudogoretsAnderlecht
 Ludovic Gal
 LudovicGal
+Ludwig Augustinsson
+LudwigAugustinsson
 Lufthansa-Flug Turbulenzen
 Lufthansa-FlugTurbulenzen
 Lufthansa-Streik
@@ -45628,6 +45664,7 @@ SAM BANKMAN-FRIED
 SAM BETTENS
 SAM FENDER
 SAM GOORIS
+SAM KERR
 SAM MAES
 SAM NEILL
 SAM RYDER
@@ -46031,6 +46068,7 @@ SERINE AYARI
 SERRES ROYALES DE LAEKEN
 SERVAL
 SERVETTE
+SERVETTE  RANGERS
 SERVETTE CHELSEA
 SERVETTE FC
 SERVETTE GEGEN ST. GALLEN
@@ -46809,6 +46847,7 @@ STURM
 STURM  LAZIO
 STURM DER LIEBE
 STURM DEUTSCHLAND
+STURM GRAZ  PSV
 STURM SCHWEIZ
 STUTTGART
 STUTTGART – BAYERN
@@ -47302,6 +47341,7 @@ Sam BankmanFried
 Sam Bettens
 Sam Fender
 Sam Gooris
+Sam Kerr
 Sam Maes
 Sam Neill
 Sam Ryder
@@ -47313,6 +47353,7 @@ SamBankman-Fried
 SamBettens
 SamFender
 SamGooris
+SamKerr
 SamMaes
 SamNeill
 SamRyder
@@ -47955,6 +47996,7 @@ Serres royales de Laeken
 SerresroyalesdeLaeken
 Serval
 Servette
+Servette  Rangers
 Servette Chelsea
 Servette FC
 Servette Juventus
@@ -47966,6 +48008,7 @@ ServetteChelsea
 ServetteFC
 ServetteJuventus
 ServetteLausanne
+ServetteRangers
 ServettegegenSt.Gallen
 ServettegegenZürich
 Servette–FCZürich
@@ -49211,9 +49254,11 @@ Stupeflip
 Sturm
 Sturm  Lazio
 Sturm Deutschland
+Sturm Graz  PSV
 Sturm Schweiz
 Sturm der Liebe
 SturmDeutschland
+SturmGrazPSV
 SturmLazio
 SturmSchweiz
 SturmderLiebe
@@ -52603,6 +52648,7 @@ URSS
 URSSAF
 URSULA ANDERMATT
 URSULA ANDRESS
+URSULA CANTIENI
 URSULA VON DER LEYEN
 URSUS &AMP; NADESCHKIN
 URSUS UND NADESCHKIN
@@ -52961,9 +53007,11 @@ UrskaZigart
 Urssaf
 Ursula Andermatt
 Ursula Andress
+Ursula Cantieni
 Ursula von der Leyen
 UrsulaAndermatt
 UrsulaAndress
+UrsulaCantieni
 UrsulavonderLeyen
 Ursus &amp; Nadeschkin
 Ursus und Nadeschkin
@@ -53297,6 +53345,7 @@ VINCENT VAN PETEGHEM
 VINCENT VAN QUICKENBORNE
 VINCENT VAN TRIER
 VINCENZ
+VINFAST
 VINGEGAARD
 VINICIUS JR
 VINNYTSIA
@@ -53932,6 +53981,7 @@ Villeruptfusillade
 Vilnius
 Vin Diesel
 VinDiesel
+VinFast
 Vincennes
 Vincent Bolloré
 Vincent Cassel
@@ -56315,6 +56365,7 @@ accident centre équestre
 accident de chasse
 accident de la route
 accident e42
+accident europa park
 accident europa-park
 accident ferroviaire en grèce
 accident flemalle
@@ -57697,8 +57748,10 @@ australian open
 australian open 2023
 australie france
 australie perou
+australie – angleterre
 australie – danemark
 australie – france
+australien gegen england
 austria
 autismus
 auto unfall axenstrasse
@@ -59934,6 +59987,7 @@ classement ligue des champions
 classement lycées
 classement medaille jo 2020
 classement présidentielle 2022
+classement shanghai 2023
 classement top 14
 classement tour de france
 classement tour de france 2021
@@ -60635,6 +60689,7 @@ darko lazovic
 darligen
 darmanin
 darrell brooks
+darren kent
 dart
 darts
 darts ek
@@ -61844,6 +61899,7 @@ espagne – france
 espagne – norvège
 espagne – portugal
 espagne – suisse
+espagne – suède
 espagnecovid
 espagnecroatie
 espagnefoot
@@ -62212,6 +62268,7 @@ fastandfurious
 fata morgana
 fatale
 fate: the winx saga
+fatima
 fatma girik
 faustine bollaert
 faustine nogherotto
@@ -62375,6 +62432,7 @@ festival les ardentes
 festival locarno
 festival ronquieres
 festival venoge
+fete 15 aout
 fete de bayonne
 fete de famille
 fete de l'aid
@@ -63300,6 +63358,7 @@ gerard depardieu
 gerard drouot
 gerard joling
 gerard lanvin
+gerard leclerc
 gerard lenorman
 gerard majax
 gerard philipe
@@ -65040,6 +65099,7 @@ jasondupasquier
 jasper de buyst
 jasper philipsen
 javier milei
+javier milei argentine
 jawad bendaoud
 jay adams
 jay leno
@@ -65559,6 +65619,7 @@ julien watrin
 juliendore
 juliendoré
 juliette armanet
+juliette armanet sardou
 juliette binoche
 juliette labous
 julio iglesias
@@ -67372,6 +67433,7 @@ ludivine dedonder
 ludogorets
 ludogorets  anderlecht
 ludovic gal
+ludwig augustinsson
 lufthansa-flug turbulenzen
 lufthansa-streik
 lugano gegen st. gallen
@@ -72462,6 +72524,7 @@ sam bankman-fried
 sam bettens
 sam fender
 sam gooris
+sam kerr
 sam maes
 sam neill
 sam ryder
@@ -72849,6 +72912,7 @@ serine ayari
 serres royales de laeken
 serval
 servette
+servette  rangers
 servette chelsea
 servette fc
 servette gegen st. gallen
@@ -73594,6 +73658,7 @@ sturm
 sturm  lazio
 sturm der liebe
 sturm deutschland
+sturm graz  psv
 sturm schweiz
 stuttgart
 stuttgart – bayern
@@ -75018,6 +75083,7 @@ urss
 urssaf
 ursula andermatt
 ursula andress
+ursula cantieni
 ursula von der leyen
 ursus &amp; nadeschkin
 ursus und nadeschkin
@@ -75346,6 +75412,7 @@ vincent van peteghem
 vincent van quickenborne
 vincent van trier
 vincenz
+vinfast
 vingegaard
 vinicius jr
 vinnytsia
