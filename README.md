@@ -51,7 +51,7 @@ Because It might be simpler for you, I already compiled 3 different versions of 
 
 All details are there about wordlists combinations.
 
-*Update*: The clem9669_wordlist_large is too big for Github Actions. 
+*Update*: The clem9669_wordlist_large &clem9669_wordlist_medium are too big for Github Actions. 
 The current specs for Github Actions VM is 2-core CPU; 7 GB of RAM memory; 14 GB of SSD disk space.
 
 ### Web discovery
