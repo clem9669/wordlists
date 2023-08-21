@@ -858,6 +858,7 @@ AGORIA
 AGRESSION BORDEAUX
 AGRESSION HOMOPHOBE
 AGRESSION LYCÉE MALHERBE CAEN
+AGRESSION MAIRE L'HOUMEAU
 AGRESSION TOULOUSE
 AGROPARISTECH
 AGUERO
@@ -1401,6 +1402,7 @@ ANDREI TCHMIL
 ANDREJ MANGOLD
 ANDRES AMBÜHL
 ANDREW CUOMO
+ANDREW GARFIELD
 ANDREW TATE
 ANDRI RAGETTLI
 ANDRYY
@@ -2678,10 +2680,12 @@ Agression Bordeaux
 Agression Toulouse
 Agression homophobe
 Agression lycée Malherbe Caen
+Agression maire L'Houmeau
 AgressionBordeaux
 AgressionToulouse
 Agressionhomophobe
 AgressionlycéeMalherbeCaen
+AgressionmaireL'Houmeau
 AgroParisTech
 Aguero
 Aha
@@ -3653,8 +3657,10 @@ AndrejMangold
 Andres Ambühl
 AndresAmbühl
 Andrew Cuomo
+Andrew Garfield
 Andrew Tate
 AndrewCuomo
+AndrewGarfield
 AndrewTate
 Andri Ragettli
 AndriRagettli
@@ -6099,6 +6105,7 @@ BRAND KEHRSATZ
 BRAND LANGSTRASSE
 BRAND LUZERN
 BRAND MEILEN
+BRAND PRATTELN
 BRAND SOLOTHURN
 BRAND UNIVERSITEIT ANTWERPEN
 BRAND WATTWIL
@@ -8108,6 +8115,7 @@ Brand Kehrsatz
 Brand Langstrasse
 Brand Luzern
 Brand Meilen
+Brand Pratteln
 Brand Solothurn
 Brand Universiteit Antwerpen
 Brand Wattwil
@@ -8120,6 +8128,7 @@ BrandKehrsatz
 BrandLangstrasse
 BrandLuzern
 BrandMeilen
+BrandPratteln
 BrandSolothurn
 BrandUniversiteitAntwerpen
 BrandWattwil
@@ -9092,6 +9101,7 @@ CHANGEMENT D'HEURE HIVER 2022
 CHANGEMENT HEURE
 CHANGEMENT HEURE 2022
 CHANNING TATUM
+CHANOUSSE
 CHANSON DE L'ANNÉE 2022
 CHANSON DE L'ANNÉE 2023
 CHANT DES PARTISANS
@@ -9577,6 +9587,7 @@ CLUB BRUGGE  KA AKUREYRI
 CLUB BRUGGE  KORTRIJK
 CLUB BRUGGE  MECHELEN
 CLUB BRUGGE  OOSTENDE
+CLUB BRUGGE  RWDM
 CLUB BRUGGE  STANDARD
 CLUB BRUGGE  STVV
 CLUB BRUGGE  UNION
@@ -10764,6 +10775,7 @@ Changementheure
 Changementheure2022
 Channing Tatum
 ChanningTatum
+Chanousse
 Chanson de l'année 2022
 Chanson de l'année 2023
 Chansondel'année2022
@@ -11639,6 +11651,7 @@ Club Brugge  KA Akureyri
 Club Brugge  Kortrijk
 Club Brugge  Mechelen
 Club Brugge  Oostende
+Club Brugge  RWDM
 Club Brugge  STVV
 Club Brugge  Standard
 Club Brugge  Union
@@ -11674,6 +11687,7 @@ ClubBruggeManchesterCity
 ClubBruggeMechelen
 ClubBruggeOostende
 ClubBruggePSG
+ClubBruggeRWDM
 ClubBruggeSTVV
 ClubBruggeStandard
 ClubBruggeUnion
@@ -12545,6 +12559,7 @@ DANIEL BALAVOINE
 DANIEL BARENBOIM
 DANIEL BRÜHL
 DANIEL CARR
+DANIEL COHEN
 DANIEL CRAIG
 DANIEL DAY-LEWIS
 DANIEL DEFILIPI
@@ -13440,6 +13455,7 @@ Daniel Balavoine
 Daniel Barenboim
 Daniel Brühl
 Daniel Carr
+Daniel Cohen
 Daniel Craig
 Daniel Day-Lewis
 Daniel DayLewis
@@ -13467,6 +13483,7 @@ DanielBalavoine
 DanielBarenboim
 DanielBrühl
 DanielCarr
+DanielCohen
 DanielCraig
 DanielDay-Lewis
 DanielDefilipi
@@ -13525,6 +13542,7 @@ Danone
 Dans la Maison
 Dans la brume
 Dans la chaleur de la nuit
+Dans la maison
 Danse avec les loups
 Danse avec les stars
 Danse avec les stars 2021
@@ -13534,6 +13552,7 @@ Danseaveclesstars2021
 DanslaMaison
 Danslabrume
 Danslachaleurdelanuit
+Danslamaison
 Dante Rigo
 Dante Vanzeir
 DanteRigo
@@ -16962,6 +16981,7 @@ Extrema Outdoor
 ExtremaOutdoor
 Ezra Miller
 EzraMiller
+F-16
 F-35
 F-35 KAMPFJET
 F-35 Kampfjet
@@ -17040,6 +17060,7 @@ F1-Qualifying
 F12021
 F12022
 F12023
+F16
 F1AbuDhabi
 F1Bahrain
 F1Bahrein
@@ -17274,8 +17295,10 @@ FC URNÄSCH
 FC Urnäsch
 FC VADUZ
 FC Vaduz
+FC WIDNAU
 FC WIL
 FC WINTERTHUR
+FC Widnau
 FC Wil
 FC Winterthur
 FC ZURICH
@@ -17362,6 +17385,7 @@ FCTwente
 FCUrnäsch
 FCVaduz
 FCW
+FCWidnau
 FCWil
 FCWinterthur
 FCZ
@@ -18791,6 +18815,7 @@ Florence Pernel
 Florence Porcel
 Florence Pugh
 Florence and The Machine
+Florence and the Machine
 FlorenceForesti
 FlorenceFosterJenkins
 FlorenceHardouin
@@ -18801,6 +18826,7 @@ FlorencePernel
 FlorencePorcel
 FlorencePugh
 FlorenceandTheMachine
+FlorenceandtheMachine
 Florent Ghisolfi
 Florent Manaudou
 Florent Pagny
@@ -19907,6 +19933,7 @@ GENEVIÈVE LHERMITTE
 GENK
 GENK  ANTWERP
 GENK  BEERSCHOT VA
+GENK  CHARLEROI
 GENK  CLUB BRUGGE
 GENK  EUPEN
 GENK  GENT
@@ -20818,6 +20845,7 @@ Genk
 Genk  Anderlecht
 Genk  Antwerp
 Genk  Beerschot va
+Genk  Charleroi
 Genk  Club Brugge
 Genk  Eupen
 Genk  Gent
@@ -29006,6 +29034,7 @@ LENS – NANTES
 LENS – NICE
 LENS – PARIS-SG
 LENS – REIMS
+LENS – RENNES
 LENS – SAINT-ÉTIENNE
 LENS – STRASBOURG
 LENS – TOULOUSE
@@ -29505,6 +29534,7 @@ LORIENT – TOULOUSE
 LORIENT – TROYES
 LORIN PARYS
 LORIS THE VOICE
+LOS ANGELES
 LOSC
 LOST ARK
 LOST ARK STEAM
@@ -29673,6 +29703,7 @@ LUIK-BASTENAKEN-LUIK 2023
 LUINO
 LUIS DE LA FUENTE
 LUIS ENRIQUE
+LUIS RUBIALES
 LUIS STITZINGER
 LUIS SUAREZ
 LUIS VAZQUEZ
@@ -30363,6 +30394,7 @@ Le Drian
 Le Flambeau
 Le Gendarme de Saint-Tropez
 Le Gendarme de SaintTropez
+Le Grand Bain
 Le Grand Cactus
 Le Grand Jojo
 Le Grand bain
@@ -30458,6 +30490,7 @@ LeDernierMercenaire
 LeDrian
 LeFlambeau
 LeGendarmedeSaint-Tropez
+LeGrandBain
 LeGrandCactus
 LeGrandJojo
 LeGrandbain
@@ -30667,6 +30700,7 @@ Lens – Montpellier
 Lens – Nantes
 Lens – Nice
 Lens – Reims
+Lens – Rennes
 Lens – Strasbourg
 Lens – Toulouse
 Lens – Troyes
@@ -30698,6 +30732,7 @@ Lens–Montpellier
 Lens–Nantes
 Lens–Nice
 Lens–Reims
+Lens–Rennes
 Lens–Strasbourg
 Lens–Toulouse
 Lens–Troyes
@@ -31616,6 +31651,8 @@ Lorin Parys
 LorinParys
 Loris The Voice
 LorisTheVoice
+Los Angeles
+LosAngeles
 Lost Ark
 Lost Ark Steam
 LostArk
@@ -31907,11 +31944,13 @@ LuikBastenakenLuik
 LuikBastenakenLuik 2023
 Luino
 Luis Enrique
+Luis Rubiales
 Luis Stitzinger
 Luis Suarez
 Luis Vazquez
 Luis de la Fuente
 LuisEnrique
+LuisRubiales
 LuisStitzinger
 LuisSuarez
 LuisVazquez
@@ -38813,6 +38852,7 @@ OLAF SCHOLZ
 OLD
 OLE SELNAES
 OLENA ZELENSKA
+OLGA CARMONA
 OLGA KACHURA
 OLGA KHARLAN
 OLI.P
@@ -39283,8 +39323,10 @@ Ole Selnaes
 OleSelnaes
 Olena Zelenska
 OlenaZelenska
+Olga Carmona
 Olga Kachura
 Olga Kharlan
+OlgaCarmona
 OlgaKachura
 OlgaKharlan
 Oli.P
@@ -40395,6 +40437,7 @@ PIERREGASLY
 PIERREMENES
 PIETER GERKENS
 PIETER LORIDON
+PIETER OMTZIGT
 PIETER POT
 PIETER SERRY
 PIETER VERELST
@@ -42123,11 +42166,13 @@ PierredeMaere
 Pierremenes
 Pieter Gerkens
 Pieter Loridon
+Pieter Omtzigt
 Pieter Pot
 Pieter Serry
 Pieter Verelst
 PieterGerkens
 PieterLoridon
+PieterOmtzigt
 PieterPot
 PieterSerry
 PieterVerelst
@@ -46147,6 +46192,7 @@ SEDAN
 SEEED
 SEELISBERG
 SEELÄNDISCHES SCHWINGFEST
+SEEÜBERQUERUNG
 SEEÜBERQUERUNG ZÜRICH
 SEFEROVIC
 SEGOLENE ROYAL
@@ -48041,8 +48087,11 @@ Seeed
 Seelisberg
 Seeländisches Schwingfest
 SeeländischesSchwingfest
+Seeüberquerung
 Seeüberquerung Zürich
+Seeüberquerung zürich
 SeeüberquerungZürich
+Seeüberquerungzürich
 Seferovic
 Segolene Royal
 Segolene Royal Cyril Hanouna
@@ -52835,10 +52884,12 @@ URUGUAY – CORÉE DU SUD
 US OPEN
 US OPEN 2021
 US OPEN 2022
+US OPEN 2023
 US OPEN GOLF
 US Open
 US Open 2021
 US Open 2022
+US Open 2023
 US Open Golf
 USAIN BOLT
 USAP
@@ -52850,6 +52901,7 @@ USOPENGOLF
 USOpen
 USOpen2021
 USOpen2022
+USOpen2023
 USOpenGolf
 USS SANTA BARBARA
 USS Santa Barbara
@@ -56738,6 +56790,7 @@ agoria
 agression bordeaux
 agression homophobe
 agression lycée malherbe caen
+agression maire l'houmeau
 agression toulouse
 agroparistech
 aguero
@@ -57269,6 +57322,7 @@ andrei tchmil
 andrej mangold
 andres ambühl
 andrew cuomo
+andrew garfield
 andrew tate
 andri ragettli
 andryy
@@ -59068,6 +59122,7 @@ brand kehrsatz
 brand langstrasse
 brand luzern
 brand meilen
+brand pratteln
 brand solothurn
 brand universiteit antwerpen
 brand wattwil
@@ -59820,6 +59875,7 @@ changement d'heure hiver 2022
 changement heure
 changement heure 2022
 channing tatum
+chanousse
 chanson de l'année 2022
 chanson de l'année 2023
 chant des partisans
@@ -60303,6 +60359,7 @@ club brugge  ka akureyri
 club brugge  kortrijk
 club brugge  mechelen
 club brugge  oostende
+club brugge  rwdm
 club brugge  standard
 club brugge  stvv
 club brugge  union
@@ -60840,6 +60897,7 @@ daniel balavoine
 daniel barenboim
 daniel brühl
 daniel carr
+daniel cohen
 daniel craig
 daniel day-lewis
 daniel defilipi
@@ -62369,6 +62427,7 @@ ezb
 ezb zinsentscheid
 ezb-zinsentscheid
 ezra miller
+f-16
 f-35
 f-35 kampfjet
 f-35a
@@ -62552,6 +62611,7 @@ fc thun gegen winterthur
 fc twente
 fc urnäsch
 fc vaduz
+fc widnau
 fc wil
 fc winterthur
 fc zurich
@@ -63507,6 +63567,7 @@ geneviève lhermitte
 genk
 genk  antwerp
 genk  beerschot va
+genk  charleroi
 genk  club brugge
 genk  eupen
 genk  gent
@@ -67032,6 +67093,7 @@ lens – nantes
 lens – nice
 lens – paris-sg
 lens – reims
+lens – rennes
 lens – saint-étienne
 lens – strasbourg
 lens – toulouse
@@ -67524,6 +67586,7 @@ lorient – toulouse
 lorient – troyes
 lorin parys
 loris the voice
+los angeles
 losc
 lost ark
 lost ark steam
@@ -67690,6 +67753,7 @@ luik-bastenaken-luik 2023
 luino
 luis de la fuente
 luis enrique
+luis rubiales
 luis stitzinger
 luis suarez
 luis vazquez
@@ -70239,6 +70303,7 @@ olaf scholz
 old
 ole selnaes
 olena zelenska
+olga carmona
 olga kachura
 olga kharlan
 oli.p
@@ -71155,6 +71220,7 @@ pierregasly
 pierremenes
 pieter gerkens
 pieter loridon
+pieter omtzigt
 pieter pot
 pieter serry
 pieter verelst
@@ -73101,6 +73167,7 @@ sedan
 seeed
 seelisberg
 seeländisches schwingfest
+seeüberquerung
 seeüberquerung zürich
 seferovic
 segolene royal
@@ -75362,6 +75429,7 @@ uruguay – corée du sud
 us open
 us open 2021
 us open 2022
+us open 2023
 us open golf
 usain bolt
 usap
