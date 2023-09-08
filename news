@@ -1119,6 +1119,7 @@ ALGERIE FOOT
 ALGERIE MAROC
 ALGERIE NIGER
 ALGERIE QATAR
+ALGERIE TANZANIE
 ALGERIE TUNISIE
 ALGERIE-CAMEROUN
 ALGERIEBurkinaFaso
@@ -1513,6 +1514,7 @@ ANJA LEUENBERGER
 ANJA NIEDRINGHAUS
 ANJA ZEIDLER
 ANKE ENGELKE
+ANKE REHLINGER
 ANKERKRAUT
 ANKORSTORE
 ANN LAWRENCE DURVIAUX
@@ -1784,6 +1786,7 @@ ARGENTINE – PARAGUAY
 ARGENTINE – PÉROU
 ARGENTINE – URUGUAY
 ARGENTINE – VENEZUELA
+ARGENTINE – ÉQUATEUR
 ARGENTINE-EQUATEUR
 ARGENTINE-PARAGUAY
 ARGENTINE-URUGUAY
@@ -3163,6 +3166,7 @@ Algerie Cameroun
 Algerie Maroc
 Algerie Niger
 Algerie Qatar
+Algerie Tanzanie
 Algerie Tunisie
 Algerie cote d'Ivoire
 Algerie feu
@@ -3172,6 +3176,7 @@ AlgerieCameroun
 AlgerieMaroc
 AlgerieNiger
 AlgerieQatar
+AlgerieTanzanie
 AlgerieTunisie
 Algeriecoted'Ivoire
 Algeriefeu
@@ -3872,7 +3877,9 @@ AnjaLeuenberger
 AnjaNiedringhaus
 AnjaZeidler
 Anke Engelke
+Anke Rehlinger
 AnkeEngelke
+AnkeRehlinger
 Ankerkraut
 Ankorstore
 Ann Lawrence Durviaux
@@ -4081,6 +4088,7 @@ Antoine Dupont
 Antoine Griezmann
 Antoine de Caunes
 Antoine de Maximy
+Antoine dupont
 AntoineAlleno
 AntoineAlléno
 AntoineDelie
@@ -4088,6 +4096,7 @@ AntoineDupont
 AntoineGriezmann
 AntoinedeCaunes
 AntoinedeMaximy
+Antoinedupont
 Antoinette dans les cevennes
 Antoinettedanslescevennes
 Anton
@@ -4324,6 +4333,7 @@ Argentine – Paraguay
 Argentine – Pérou
 Argentine – Uruguay
 Argentine – Venezuela
+Argentine – Équateur
 Argentine-Croatie
 Argentine-Equateur
 Argentine-Paraguay
@@ -4349,6 +4359,7 @@ Argentine–Paraguay
 Argentine–Pérou
 Argentine–Uruguay
 Argentine–Venezuela
+Argentine–Équateur
 Argentinie
 Argentinie brazilie
 Argentiniebrazilie
@@ -15247,6 +15258,7 @@ EL NINO
 EL SALVADOR
 ELAINE THOMPSON
 ELAN CHALON
+ELANCOURT
 ELCHE – ATLÉTICO MADRID
 ELCHE – BARCELONA
 ELCHE – REAL
@@ -15562,6 +15574,7 @@ EQUALIZER 2
 EQUALIZER 3
 EQUIPE
 EQUIPE DE FRANCE
+EQUIPE DE FRANCE ESPOIR
 EQUIPE DE FRANCE FEMININE
 EQUIPEDEFRANCE
 ERBIL
@@ -16183,6 +16196,7 @@ Elaine Thompson
 ElaineThompson
 Elan Chalon
 ElanChalon
+Elancourt
 Elche – Atlético Madrid
 Elche – Barcelona
 Elche – Real
@@ -16699,8 +16713,10 @@ Equalizer2
 Equalizer3
 Equipe
 Equipe de France
+Equipe de France espoir
 Equipe de France feminine
 EquipedeFrance
+EquipedeFranceespoir
 EquipedeFrancefeminine
 Erbil
 Erdbeben
@@ -18231,6 +18247,7 @@ FRANCE – CAMEROUN
 FRANCE – CROATIE
 FRANCE – CÔTE D'IVOIRE
 FRANCE – DANEMARK
+FRANCE – IRLANDE
 FRANCE – MAROC
 FRANCE – NORVÈGE
 FRANCE – PAYS-BAS
@@ -19462,6 +19479,7 @@ France – Cameroun
 France – Croatie
 France – Côte d'Ivoire
 France – Danemark
+France – Irlande
 France – Maroc
 France – Norvège
 France – Pays-Bas
@@ -19609,6 +19627,7 @@ France–Cameroun
 France–Croatie
 France–Côted'Ivoire
 France–Danemark
+France–Irlande
 France–Maroc
 France–Norvège
 France–Pays-Bas
@@ -24085,6 +24104,7 @@ IVANA TRUMP
 IVANA TRUMP BEERDIGUNG
 IVANA TRUMPS
 IVG
+IVO PAUWELS
 IVRY-SUR-SEINE
 IWC
 IWEIN SEGERS
@@ -24912,6 +24932,8 @@ IvanaKnoll
 IvanaTrump
 IvanaTrumpBeerdigung
 IvanaTrumps
+Ivo Pauwels
+IvoPauwels
 Ivry-sur-Seine
 IvrysurSeine
 Iwein Segers
@@ -24965,6 +24987,7 @@ JACQUES BOEL
 JACQUES BOUTHIER
 JACQUES DELORS
 JACQUES DUTRONC
+JACQUES JULLIARD
 JACQUES LEGROS
 JACQUES MARTIN
 JACQUES PERRIN
@@ -25120,6 +25143,7 @@ JASON KELCE
 JASON MOMOA
 JASON MOMOA ACCIDENT
 JASON STATHAM
+JASON-PRIESTLEY
 JASON-STATHAM
 JASONDUPASQUIER
 JASPER DE BUYST
@@ -25394,6 +25418,7 @@ JODIUM
 JODIUMTABLETTEN
 JODTABLETTEN
 JODY LUKOKI
+JODY SCHECKTER
 JOE
 JOE BIDEN
 JOE BURROW
@@ -25861,6 +25886,7 @@ Jacques Attali
 Jacques Bouthier
 Jacques Delors
 Jacques Dutronc
+Jacques Julliard
 Jacques Legros
 Jacques Martin
 Jacques Perrin
@@ -25876,6 +25902,7 @@ JacquesBouthier
 JacquesBrel
 JacquesDelors
 JacquesDutronc
+JacquesJulliard
 JacquesLegros
 JacquesMartin
 JacquesPerrin
@@ -26154,12 +26181,14 @@ Jason Momoa
 Jason Momoa accident
 Jason Statham
 Jason-Statham
+Jason-priestley
 JasonDavidFrank
 JasonDupasquier
 JasonKelce
 JasonMomoa
 JasonMomoaaccident
 JasonStatham
+Jasonpriestley
 Jasper Philipsen
 Jasper de Buyst
 JasperPhilipsen
@@ -26719,7 +26748,9 @@ Jodium
 Jodiumtabletten
 Jodtabletten
 Jody Lukoki
+Jody Scheckter
 JodyLukoki
+JodyScheckter
 Joe
 Joe Biden
 Joe Burrow
@@ -33257,6 +33288,7 @@ MARION COTILLARD
 MARION GAME
 MARION GAME DECES
 MARION MARÉCHAL
+MARION MARÉCHAL ERIC ZEMMOUR
 MARION ROUSSE
 MARION ROUSSE JULIAN ALAPHILIPPE
 MARIONCOTILLARD
@@ -35444,6 +35476,7 @@ Marion Cotillard
 Marion Game
 Marion Game deces
 Marion Maréchal
+Marion Maréchal Eric Zemmour
 Marion Rousse
 Marion Rousse Julian Alaphilippe
 MarionBartoli
@@ -35452,6 +35485,7 @@ MarionCotillard
 MarionGame
 MarionGamedeces
 MarionMaréchal
+MarionMaréchalEricZemmour
 MarionRousse
 MarionRousseJulianAlaphilippe
 Marioupol
@@ -37875,6 +37909,7 @@ NEAPEL GEGEN JUVENTUS
 NECKERTAL
 NEDERLAND
 NEDERLAND  ARGENTINIË
+NEDERLAND  GRIEKENLAND
 NEDERLAND  VERENIGDE STATEN
 NEDERLAND - ARGENTINIË
 NEDERLAND ARGENTINIE
@@ -38662,6 +38697,7 @@ NeapelgegenJuventus
 Neckertal
 Nederland
 Nederland  Argentinië
+Nederland  Griekenland
 Nederland  Verenigde Staten
 Nederland - Argentinië
 Nederland Olympische Spelen
@@ -38676,6 +38712,7 @@ Nederland-Tsjechie
 Nederland-Tsjechië
 Nederland-Turkije
 NederlandArgentinië
+NederlandGriekenland
 NederlandNoorwegen
 NederlandOlympischeSpelen
 NederlandPolen
@@ -44737,6 +44774,7 @@ RUGBY FRANCE - AUSTRALIE
 RUGBY FRANCE ANGLETERRE
 RUGBY ROMAIN NTAMACK
 RUGBY U20
+RUGBY WM
 RUGBY. 6 NATIONS
 RUGBY. 6 Nations
 RUGBY.6Nations
@@ -46272,6 +46310,7 @@ Rugby France - Australie
 Rugby France Angleterre
 Rugby Romain Ntamack
 Rugby U20
+Rugby WM
 Rugby a 7 JO
 Rugby feminin
 Rugby6NATIONS
@@ -46282,6 +46321,7 @@ RugbyFrance-Australie
 RugbyFranceAngleterre
 RugbyRomainNtamack
 RugbyU20
+RugbyWM
 Rugbya7JO
 Rugbyfeminin
 Rugbyrama
@@ -46769,6 +46809,7 @@ SCHALKE – BAYERN
 SCHANGNAU
 SCHARIA
 SCHATTDORF
+SCHAUSPIELER DANNY MASTERSON
 SCHAUSPIELER FLORIAN TEICHTMEISTER
 SCHAUSPIELER FRITZ WEPPER
 SCHAUSPIELERIN ANNE HECHE
@@ -46964,6 +47005,7 @@ SENNE LYNEN
 SENS COMMUN
 SENTINEL 6
 SENTINEL6
+SENTINELLE
 SEOUL
 SEP VANMARCKE
 SEPARATORENFLEISCH
@@ -47097,6 +47139,7 @@ SHONKA DUKUREH
 SHOPIFY
 SHOPPING
 SHREK 5
+SHRINKFLATION
 SHUTTER ISLAND
 SIBEL ARSLAN
 SIBYL FILM
@@ -48604,8 +48647,10 @@ Schalke–Bayern
 Schangnau
 Scharia
 Schattdorf
+Schauspieler Danny Masterson
 Schauspieler Florian Teichtmeister
 Schauspieler Fritz Wepper
+SchauspielerDannyMasterson
 SchauspielerFlorianTeichtmeister
 SchauspielerFritzWepper
 Schauspielerin Anne Heche
@@ -48905,6 +48950,7 @@ Sens commun
 Senscommun
 Sentinel 6
 Sentinel6
+Sentinelle
 Seoul
 Sep Vanmarcke
 SepVanmarcke
@@ -49132,6 +49178,7 @@ Shopify
 Shopping
 Shrek 5
 Shrek5
+Shrinkflation
 Shutter Island
 ShutterIsland
 Sibel Arslan
@@ -50916,6 +50963,7 @@ THAILANDE
 THALYS
 THANKSGIVING
 THANKSGIVING 2022
+THAT '70S SHOW
 THAT '90S SHOW
 THAUVIN
 THAYNGEN
@@ -52018,7 +52066,9 @@ Thalys
 Thanksgiving
 Thanksgiving 2022
 Thanksgiving2022
+That '70s Show
 That '90s Show
+That'70sShow
 That'90sShow
 Thauvin
 Thayngen
@@ -57939,6 +57989,7 @@ algerie foot
 algerie maroc
 algerie niger
 algerie qatar
+algerie tanzanie
 algerie tunisie
 algérie
 algérie - djibouti
@@ -58327,6 +58378,7 @@ anja leuenberger
 anja niedringhaus
 anja zeidler
 anke engelke
+anke rehlinger
 ankerkraut
 ankorstore
 ann lawrence durviaux
@@ -62794,6 +62846,7 @@ el nino
 el salvador
 elaine thompson
 elan chalon
+elancourt
 elche – atlético madrid
 elche – barcelona
 elche – real
@@ -63086,6 +63139,7 @@ equalizer 2
 equalizer 3
 equipe
 equipe de france
+equipe de france espoir
 equipe de france feminine
 equipedefrance
 erbil
@@ -64138,6 +64192,7 @@ france – cameroun
 france – croatie
 france – côte d'ivoire
 france – danemark
+france – irlande
 france – maroc
 france – norvège
 france – pays-bas
@@ -66237,6 +66292,7 @@ ivana trump
 ivana trump beerdigung
 ivana trumps
 ivg
+ivo pauwels
 ivry-sur-seine
 iwc
 iwein segers
@@ -66282,6 +66338,7 @@ jacques boel
 jacques bouthier
 jacques delors
 jacques dutronc
+jacques julliard
 jacques legros
 jacques martin
 jacques perrin
@@ -66435,6 +66492,7 @@ jason kelce
 jason momoa
 jason momoa accident
 jason statham
+jason-priestley
 jason-statham
 jasondupasquier
 jasper de buyst
@@ -66705,6 +66763,7 @@ jodium
 jodiumtabletten
 jodtabletten
 jody lukoki
+jody scheckter
 joe
 joe biden
 joe burrow
@@ -69510,6 +69569,7 @@ marion cotillard
 marion game
 marion game deces
 marion maréchal
+marion maréchal eric zemmour
 marion rousse
 marion rousse julian alaphilippe
 marioncotillard
@@ -70920,6 +70980,7 @@ neapel gegen juventus
 neckertal
 nederland
 nederland  argentinië
+nederland  griekenland
 nederland  verenigde staten
 nederland - argentinië
 nederland argentinie
@@ -73782,6 +73843,7 @@ rugby france - australie
 rugby france angleterre
 rugby romain ntamack
 rugby u20
+rugby wm
 rugby. 6 nations
 rugbyrama
 ruined king
@@ -74178,6 +74240,7 @@ schalke – bayern
 schangnau
 scharia
 schattdorf
+schauspieler danny masterson
 schauspieler florian teichtmeister
 schauspieler fritz wepper
 schauspielerin anne heche
@@ -74362,6 +74425,7 @@ senne lynen
 sens commun
 sentinel 6
 sentinel6
+sentinelle
 seoul
 sep vanmarcke
 separatorenfleisch
@@ -74495,6 +74559,7 @@ shonka dukureh
 shopify
 shopping
 shrek 5
+shrinkflation
 shutter island
 sibel arslan
 sibyl film
@@ -75623,6 +75688,7 @@ thailande
 thalys
 thanksgiving
 thanksgiving 2022
+that '70s show
 that '90s show
 thauvin
 thayngen
