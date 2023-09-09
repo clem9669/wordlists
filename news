@@ -572,6 +572,7 @@ AARAU
 AARDBEVING
 AARDBEVING FRANKRIJK
 AARDBEVING KRETA
+AARDBEVING MAROKKO
 AARDBEVING TURKIJE
 AARDVERSCHUIVING DUITSLAND
 AARHUS
@@ -1106,6 +1107,7 @@ ALFA ROMEO TONALE
 ALFONS SCHUHBECK
 ALFORTVILLE
 ALFRED BIOLEK
+ALFRED GANTNER
 ALFRED SCHREUDER
 ALGERIE
 ALGERIE  CAMEROUN
@@ -2297,9 +2299,11 @@ Aarau
 Aardbeving
 Aardbeving Frankrijk
 Aardbeving Kreta
+Aardbeving Marokko
 Aardbeving Turkije
 AardbevingFrankrijk
 AardbevingKreta
+AardbevingMarokko
 AardbevingTurkije
 Aardverschuiving Duitsland
 AardverschuivingDuitsland
@@ -3157,8 +3161,10 @@ Alfons Schuhbeck
 AlfonsSchuhbeck
 Alfortville
 Alfred Biolek
+Alfred Gantner
 Alfred Schreuder
 AlfredBiolek
+AlfredGantner
 AlfredSchreuder
 Algerie
 Algerie Burkina Faso
@@ -5375,9 +5381,11 @@ BASIC FIT
 BASIL EIDENBENZ
 BASKET 3X3
 BASKET BELGIQUE FRANCE
+BASKET COUPE DU MONDE
 BASKET FEMININ JO
 BASKET JO
 BASKET LANDES
+BASKETBALL-WM
 BASLER FASNACHT
 BASLER FASNACHT 2022
 BASLER FASNACHT 2023
@@ -5548,6 +5556,7 @@ BELGIQUE - ESTONIE
 BELGIQUE - POLOGNE
 BELGIQUE ALLEMAGNE
 BELGIQUE AUTRICHE
+BELGIQUE AZERBAÏDJAN
 BELGIQUE DANEMARK
 BELGIQUE EURO 2021
 BELGIQUE FINLANDE
@@ -6424,6 +6433,7 @@ BReSIL-EQUATEUR
 BReSIL-PeROU
 BReSILPeROU
 BRÉSIL
+BRÉSIL – BOLIVIE
 BRÉSIL – CHILI
 BRÉSIL – CORÉE DU SUD
 BRÉSIL – GHANA
@@ -6930,13 +6940,17 @@ Basil Eidenbenz
 BasilEidenbenz
 Basket 3x3
 Basket Belgique France
+Basket Coupe du monde
 Basket JO
 Basket Landes
 Basket feminin JO
 Basket3x3
 BasketBelgiqueFrance
+BasketCoupedumonde
 BasketJO
 BasketLandes
+Basketball-WM
+BasketballWM
 BasketfemininJO
 Basler Fasnacht
 Basler Fasnacht 2022
@@ -7216,6 +7230,7 @@ Belgique - Estonie
 Belgique - Pologne
 Belgique Allemagne
 Belgique Autriche
+Belgique Azerbaïdjan
 Belgique Danemark
 Belgique Euro 2021
 Belgique Finlande
@@ -7242,6 +7257,7 @@ Belgique-Estonie
 Belgique-Pologne
 BelgiqueAllemagne
 BelgiqueAutriche
+BelgiqueAzerbaïdjan
 BelgiqueDanemark
 BelgiqueEuro2021
 BelgiqueFinlande
@@ -8639,6 +8655,7 @@ BryanRandall
 Brésil
 Brésil  Pérou
 Brésil - Pérou
+Brésil – Bolivie
 Brésil – Chili
 Brésil – Corée du Sud
 Brésil – Equateur
@@ -8652,6 +8669,7 @@ Brésil – Tunisie
 Brésil – Uruguay
 Brésil-Pérou
 BrésilPérou
+Brésil–Bolivie
 Brésil–Chili
 Brésil–CoréeduSud
 Brésil–Equateur
@@ -9071,6 +9089,7 @@ CAS CONTACT VACCINÉ
 CASA DE PAPEL
 CASA DE PAPEL SAISON 5
 CASA PIA,  SPORTING
+CASABLANCA
 CASELLATI
 CASEMIRO
 CASH
@@ -10645,6 +10664,7 @@ Casa de Papel
 Casa de Papel saison 5
 Casa de papel
 CasaPia,Sporting
+Casablanca
 CasadePapel
 CasadePapelsaison5
 Casadepapel
@@ -12781,6 +12801,7 @@ DAMIEN ABAD
 DAMIEN RIEU
 DAMIEN SAEZ
 DAMSO
+DAN CARTER
 DAN MCCAFFERTY
 DAN NDOYE
 DAN PETRESCU
@@ -13470,6 +13491,7 @@ DRACHENLORD
 DRAFT NBA 2021
 DRAFT NBA 2022
 DRAFT NBA 2023
+DRAG QUEEN
 DRAG RACE FRANCE
 DRAG-QUEEN
 DRAGHI
@@ -13673,9 +13695,11 @@ DamienAbad
 DamienRieu
 DamienSaez
 Damso
+Dan Carter
 Dan McCafferty
 Dan Ndoye
 Dan Petrescu
+DanCarter
 DanMcCafferty
 DanNdoye
 DanPetrescu
@@ -14853,6 +14877,7 @@ DraftNBA2021
 DraftNBA2022
 DraftNBA2023
 Drag Race France
+Drag queen
 Drag-queen
 DragRaceFrance
 Draghi
@@ -15581,6 +15606,7 @@ ERBIL
 ERDBEBEN
 ERDBEBEN ITALIEN
 ERDBEBEN KRETA
+ERDBEBEN MAROKKO HEUTE
 ERDBEBEN MEXIKO
 ERDBEBEN MEXIKO-STADT
 ERDBEBEN SCHWEIZ
@@ -16722,6 +16748,7 @@ Erbil
 Erdbeben
 Erdbeben Italien
 Erdbeben Kreta
+Erdbeben Marokko heute
 Erdbeben Mexiko
 Erdbeben Mexiko-Stadt
 Erdbeben MexikoStadt
@@ -16730,6 +16757,7 @@ Erdbeben Türkei
 Erdbeben tuerkei Syrien
 ErdbebenItalien
 ErdbebenKreta
+ErdbebenMarokkoheute
 ErdbebenMexiko
 ErdbebenMexiko-Stadt
 ErdbebenSchweiz
@@ -18142,6 +18170,7 @@ FORT BOYARD JEAN-LUC LEMOINE
 FORT DE BREGANCON
 FORT MYERS
 FORTBOYARD
+FORTE DEI MARMI
 FORTNITE
 FORTNITE CHAPITRE 3 SAISON 2
 FORTNITE CHAPTER 3
@@ -19336,6 +19365,8 @@ FortBoyardJean-LucLemoine
 FortBoyardendeuil
 FortMyers
 Fortdebregancon
+Forte dei Marmi
+FortedeiMarmi
 Fortnite
 Fortnite Chapter 3
 Fortnite Chapter 3 Season 3
@@ -22727,6 +22758,7 @@ HORST FESTIVAL
 HORST LICHTER
 HOSHI
 HOSTILES
+HOT CHIP CHALLENGE
 HOTEL AMIGO
 HOTEL DU NORD
 HOTEL FLORHOF
@@ -23460,6 +23492,8 @@ HorstFestival
 HorstLichter
 Hoshi
 Hostiles
+Hot Chip Challenge
+HotChipChallenge
 Hotel Amigo
 Hotel Florhof
 Hotel Mahfouf
@@ -24027,6 +24061,7 @@ ITALIE FOOT
 ITALIE INONDATIONS
 ITALIE LITUANIE
 ITALIE MACEDOINE
+ITALIE NAMIBIE
 ITALIE OOSTENRIJK
 ITALIE PAYS DE GALLES
 ITALIE SPANJE
@@ -24806,6 +24841,7 @@ Italie Espagne
 Italie FOOT
 Italie Foot
 Italie Lituanie
+Italie Namibie
 Italie Oostenrijk
 Italie Pays de Galles
 Italie Spanje
@@ -24842,6 +24878,7 @@ ItalieEspagne
 ItalieFOOT
 ItalieFoot
 ItalieLituanie
+ItalieNamibie
 ItalieOostenrijk
 ItaliePays de Galles
 ItaliePaysdeGalles
@@ -24988,6 +25025,7 @@ JACQUES BOUTHIER
 JACQUES DELORS
 JACQUES DUTRONC
 JACQUES JULLIARD
+JACQUES JULLIARD JOURNALISTE
 JACQUES LEGROS
 JACQUES MARTIN
 JACQUES PERRIN
@@ -25887,6 +25925,7 @@ Jacques Bouthier
 Jacques Delors
 Jacques Dutronc
 Jacques Julliard
+Jacques Julliard journaliste
 Jacques Legros
 Jacques Martin
 Jacques Perrin
@@ -25903,6 +25942,7 @@ JacquesBrel
 JacquesDelors
 JacquesDutronc
 JacquesJulliard
+JacquesJulliardjournaliste
 JacquesLegros
 JacquesMartin
 JacquesPerrin
@@ -32794,6 +32834,7 @@ MACRON MONTRE
 MACRON PAYS-BAS
 MACRON PUTIN
 MACRON QATAR
+MACRON STADE DE FRANCE
 MACRON TF1
 MACRONMARSEILLE
 MAD HEIDI
@@ -34551,6 +34592,7 @@ Macron Pays-Bas
 Macron PaysBas
 Macron Putin
 Macron Qatar
+Macron Stade de France
 Macron TF1
 Macron chante
 Macron dissolution Assemblée nationale
@@ -34563,6 +34605,7 @@ MacronMarseille
 MacronPays-Bas
 MacronPutin
 MacronQatar
+MacronStadedeFrance
 MacronTF1
 Macronchante
 MacrondissolutionAssembléenationale
@@ -38336,6 +38379,7 @@ NRW-WAHL 2022
 NRW-Wahl 2022
 NRW-Wahl2022
 NRWWahl 2022
+NTAMACK
 NUGGETS – LAKERS
 NUIT BLANCHE 2021
 NUIT BLANCHE 2022
@@ -39363,6 +39407,7 @@ Noyau terrestre
 Noyauterrestre
 Noz
 Noël
+Ntamack
 Nuggets – Lakers
 Nuggets–Lakers
 Nuit Blanche 2021
@@ -43666,6 +43711,7 @@ QUEEN CHARLOTTE
 QUEEN CHARLOTTE: A BRIDGERTON STORY
 QUEEN CONSORT
 QUEEN ELIZABETH
+QUEEN ELIZABETH 2
 QUEEN ELIZABETH II
 QUEENELIZABETH
 QUEENS OF THE STONE AGE
@@ -43752,11 +43798,13 @@ Queen Charlotte
 Queen Charlotte: A Bridgerton Story
 Queen Consort
 Queen Elizabeth
+Queen Elizabeth 2
 Queen Elizabeth II
 QueenCharlotte
 QueenCharlotte:ABridgertonStory
 QueenConsort
 QueenElizabeth
+QueenElizabeth2
 QueenElizabethII
 Queens of the Stone Age
 QueensoftheStoneAge
@@ -47287,6 +47335,7 @@ SLIMSTE MENS
 SLIPKNOT
 SLKK
 SLOANE STEPHENS
+SLOVAQUIE – PORTUGAL
 SLOVENIE
 SLOVÁCKO – NICE
 SLOWENIEN
@@ -47441,6 +47490,7 @@ SOUFIANE EDDYANI
 SOULÈVEMENT DE LA TERRE
 SOUS-MARIN AUSTRALIE
 SOUS-MARIN DISPARU DU TITANIC
+SOUS-MARIN NUCLÉAIRE NORD-CORÉEN
 SOUS-MARIN TITANIC
 SOUTH BELGIAN RALLY
 SOUTHAMPTON  MANCHESTER CITY
@@ -49423,6 +49473,8 @@ Slimstemens
 Slipknot
 Sloane Stephens
 SloaneStephens
+Slovaquie – Portugal
+Slovaquie–Portugal
 Slovenie
 Slovácko – Nice
 Slovácko–Nice
@@ -49658,12 +49710,15 @@ SoulèvementdelaTerre
 Sous-marin Australie
 Sous-marin Titanic
 Sous-marin disparu du Titanic
+Sous-marin nucléaire nord-coréen
 Sous-marinAustralie
 Sous-marinTitanic
 Sous-marindisparuduTitanic
+Sous-marinnucléairenord-coréen
 Sousmarin Australie
 Sousmarin Titanic
 Sousmarin disparu du Titanic
+Sousmarin nucléaire nordcoréen
 South Belgian Rally
 SouthBelgianRally
 Southampton  Manchester City
@@ -51593,6 +51648,7 @@ TREAT WILLIAMS
 TREIZE VIES
 TREMBLEMENT DE TERRE
 TREMBLEMENT DE TERRE FRANCE
+TREMBLEMENT DE TERRE MAROC
 TREMBLEMENT DE TERRE STRASBOURG
 TREMBLEMENTDETERRESTRASBOURG
 TRENTINO
@@ -53226,9 +53282,11 @@ Treize Vies
 TreizeVies
 Tremblement de terre
 Tremblement de terre France
+Tremblement de terre Maroc
 Tremblement de terre Strasbourg
 Tremblementdeterre
 TremblementdeterreFrance
+TremblementdeterreMaroc
 TremblementdeterreStrasbourg
 Trentino
 Treuenbrietzen
@@ -57489,6 +57547,7 @@ aarau
 aardbeving
 aardbeving frankrijk
 aardbeving kreta
+aardbeving marokko
 aardbeving turkije
 aardverschuiving duitsland
 aarhus
@@ -57978,6 +58037,7 @@ alfa romeo tonale
 alfons schuhbeck
 alfortville
 alfred biolek
+alfred gantner
 alfred schreuder
 algerie
 algerie - cameroun
@@ -59323,9 +59383,11 @@ basic fit
 basil eidenbenz
 basket 3x3
 basket belgique france
+basket coupe du monde
 basket feminin jo
 basket jo
 basket landes
+basketball-wm
 basler fasnacht
 basler fasnacht 2022
 basler fasnacht 2023
@@ -59488,6 +59550,7 @@ belgique - estonie
 belgique - pologne
 belgique allemagne
 belgique autriche
+belgique azerbaïdjan
 belgique danemark
 belgique euro 2021
 belgique finlande
@@ -60329,6 +60392,7 @@ brésil
 brésil  pérou
 brésil - pérou
 brésil – Equateur
+brésil – bolivie
 brésil – chili
 brésil – corée du sud
 brésil – ghana
@@ -60688,6 +60752,7 @@ cas contact vacciné
 casa de papel
 casa de papel saison 5
 casa pia,  sporting
+casablanca
 casellati
 casemiro
 cash
@@ -61908,6 +61973,7 @@ damien abad
 damien rieu
 damien saez
 damso
+dan carter
 dan mccafferty
 dan ndoye
 dan petrescu
@@ -62564,6 +62630,7 @@ drachenlord
 draft nba 2021
 draft nba 2022
 draft nba 2023
+drag queen
 drag race france
 drag-queen
 draghi
@@ -63146,6 +63213,7 @@ erbil
 erdbeben
 erdbeben italien
 erdbeben kreta
+erdbeben marokko heute
 erdbeben mexiko
 erdbeben mexiko-stadt
 erdbeben schweiz
@@ -64087,6 +64155,7 @@ fort boyard jean-luc lemoine
 fort de bregancon
 fort myers
 fortboyard
+forte dei marmi
 fortnite
 fortnite chapitre 3 saison 2
 fortnite chapter 3
@@ -65658,6 +65727,7 @@ horst festival
 horst lichter
 hoshi
 hostiles
+hot chip challenge
 hotel amigo
 hotel du nord
 hotel florhof
@@ -66215,6 +66285,7 @@ italie foot
 italie inondations
 italie lituanie
 italie macedoine
+italie namibie
 italie oostenrijk
 italie pays de galles
 italie spanje
@@ -66339,6 +66410,7 @@ jacques bouthier
 jacques delors
 jacques dutronc
 jacques julliard
+jacques julliard journaliste
 jacques legros
 jacques martin
 jacques perrin
@@ -69079,6 +69151,7 @@ macron montre
 macron pays-bas
 macron putin
 macron qatar
+macron stade de france
 macron tf1
 mad heidi
 mad heidi film
@@ -71373,6 +71446,7 @@ noël
 nrj music awards
 nrj music awards 2022
 nrw-wahl 2022
+ntamack
 nuggets – lakers
 nuit blanche 2021
 nuit blanche 2022
@@ -72943,6 +73017,7 @@ queen charlotte
 queen charlotte: a bridgerton story
 queen consort
 queen elizabeth
+queen elizabeth 2
 queen elizabeth ii
 queenelizabeth
 queens of the stone age
@@ -74705,6 +74780,7 @@ slimste mens
 slipknot
 slkk
 sloane stephens
+slovaquie – portugal
 slovenie
 slovácko – nice
 slowenien
@@ -74851,6 +74927,7 @@ soufiane eddyani
 soulèvement de la terre
 sous-marin australie
 sous-marin disparu du titanic
+sous-marin nucléaire nord-coréen
 sous-marin titanic
 south belgian rally
 southampton  manchester city
@@ -76307,6 +76384,7 @@ treat williams
 treize vies
 tremblement de terre
 tremblement de terre france
+tremblement de terre maroc
 tremblement de terre strasbourg
 tremblementdeterrestrasbourg
 trentino
