@@ -5517,6 +5517,7 @@ BAYERN GEGEN KÖLN
 BAYERN GEGEN LEVERKUSEN
 BAYERN GEGEN MAINZ
 BAYERN GEGEN MAN CITY
+BAYERN GEGEN MANUNITED
 BAYERN GEGEN MONACO
 BAYERN GEGEN MÖNCHENGLADBACH
 BAYERN GEGEN RB LEIPZIG
@@ -5539,6 +5540,7 @@ BAYERN – INTER
 BAYERN – LEVERKUSEN
 BAYERN – MAN CITY
 BAYERN – MANCHESTER CITY
+BAYERN – MANCHESTER UNITED
 BAYERN – MANCITY
 BAYERN – MONACO
 BAYERN – MÖNCHENGLADBACH
@@ -7125,6 +7127,7 @@ Bayern gegen Köln
 Bayern gegen Leverkusen
 Bayern gegen Mainz
 Bayern gegen Man City
+Bayern gegen ManUnited
 Bayern gegen Monaco
 Bayern gegen Mönchengladbach
 Bayern gegen RB Leipzig
@@ -7145,6 +7148,7 @@ Bayern – Leverkusen
 Bayern – Man City
 Bayern – ManCity
 Bayern – Manchester City
+Bayern – Manchester United
 Bayern – Monaco
 Bayern – Mönchengladbach
 Bayern – RB Leipzig
@@ -7174,6 +7178,7 @@ BayerngegenKöln
 BayerngegenLeverkusen
 BayerngegenMainz
 BayerngegenManCity
+BayerngegenManUnited
 BayerngegenMonaco
 BayerngegenMönchengladbach
 BayerngegenRBLeipzig
@@ -7193,6 +7198,7 @@ Bayern–Inter
 Bayern–Leverkusen
 Bayern–ManCity
 Bayern–ManchesterCity
+Bayern–ManchesterUnited
 Bayern–Monaco
 Bayern–Mönchengladbach
 Bayern–RBLeipzig
@@ -9932,6 +9938,7 @@ CO2meter
 COACHELLA
 COACHELLA 2022
 COBRA KAI
+COCAINE BEAR
 COCKTAIL MOLOTOV FILM
 COCO
 COCO AUSTIN
@@ -10172,6 +10179,7 @@ COUPE DU MONDE
 COUPE DU MONDE 2022
 COUPE DU MONDE BASKET
 COUPE DU MONDE DE FOOTBALL FÉMININ
+COUPE DU MONDE DE RUGBY
 COUPE DU MONDE FEMININ
 COUPE DU MONDE FÉMININE
 COUPE DU MONDE FÉMININE 2023
@@ -12069,6 +12077,8 @@ Coachella 2022
 Coachella2022
 Cobra Kai
 CobraKai
+Cocaine Bear
+CocaineBear
 Cocktail Molotov film
 CocktailMolotovfilm
 Coco
@@ -12491,6 +12501,7 @@ Coupe du monde 2022
 Coupe du monde U20
 Coupe du monde basket
 Coupe du monde de football féminin
+Coupe du monde de rugby
 Coupe du monde feminin
 Coupe du monde féminine
 Coupe du monde féminine 2023
@@ -12512,6 +12523,7 @@ Coupedumonde2022
 CoupedumondeU20
 Coupedumondebasket
 Coupedumondedefootballféminin
+Coupedumondederugby
 Coupedumondefeminin
 Coupedumondeféminine
 Coupedumondeféminine2023
@@ -15246,10 +15258,12 @@ E3SaxoBankClassic2022
 E3prijsHarelbeke
 E3prijsharelbeke
 EA
+EA FC 24
 EA FC 24 WEB APP
 EA FC 24 Web App
 EA SPORTS FC 24
 EA Sports FC 24
+EAFC24
 EAFC24WebApp
 EAGLE MOUNTAIN
 EAGLES
@@ -15811,6 +15825,7 @@ EROS RAMAZZOTTI
 ERROL MUSK
 ERWACHSENER
 ERWIN KESSLER
+ERWIN OLAF
 ERZGEBIRGE
 ESAF
 ESAF 2022
@@ -17006,7 +17021,9 @@ Errol Musk
 ErrolMusk
 Erwachsener
 Erwin Kessler
+Erwin Olaf
 ErwinKessler
+ErwinOlaf
 Erzgebirge
 Esaf
 Esc 2022 Finale
@@ -17698,6 +17715,7 @@ FAUSTINE BOLLAERT
 FAUSTINE NOGHEROTTO
 FAWLTY TOWERS
 FAYZA LAMARI
+FC 24
 FC AARAU
 FC AARAU GEGEN FC SCHAFFHAUSEN
 FC AARAU GEGEN FC THUN
@@ -17822,6 +17840,7 @@ FC Zürich – bodø/glimt
 FC Zürich-Affoltern
 FC ZürichAffoltern
 FC zurich
+FC24
 FCAarau
 FCAaraugegenFCB
 FCAaraugegenFCSchaffhausen
@@ -20771,6 +20790,7 @@ GLORIA MARIA
 GLORIA MONSEREZ
 GLORY 78
 GLUCK
+GLYPHOSATE
 GLÜCKSKETTE SCHWEIZ
 GM
 GNONTO
@@ -21898,6 +21918,7 @@ GloriaMonserez
 Glory 78
 Glory78
 Gluck
+Glyphosate
 Glückskette schweiz
 Glücksketteschweiz
 Gm
@@ -24285,6 +24306,7 @@ ITALIE - ANGLETERRE
 ITALIE - ARGENTINE
 ITALIE - BELGIQUE
 ITALIE - SUISSE
+ITALIE - URUGUAY
 ITALIE AFRIQUE DU SUD
 ITALIE ARGENTINE
 ITALIE ARGENTINIE
@@ -25071,12 +25093,14 @@ Italie  Angleterre
 Italie  Argentine
 Italie  Belgique
 Italie  Suisse
+Italie  Uruguay
 Italie  Wales
 Italie - Allemagne
 Italie - Angleterre
 Italie - Argentine
 Italie - Belgique
 Italie - Suisse
+Italie - Uruguay
 Italie Afrique du Sud
 Italie Argentine
 Italie Australie rugby
@@ -25114,6 +25138,7 @@ Italie-Espagne
 Italie-Pays de Galles
 Italie-PaysdeGalles
 Italie-Suisse
+Italie-Uruguay
 ItalieAfriqueduSud
 ItalieAngleterre
 ItalieArgentine
@@ -29830,6 +29855,7 @@ LEILA BEKHTI
 LEILA KADDOUR
 LEIPZIG
 LEITZINS
+LEITZINS SCHWEIZ
 LEKI
 LEMBERG
 LEMONDE
@@ -29852,6 +29878,7 @@ LENS - MARSEILLE
 LENS LILLE
 LENS LORIENT
 LENS PSG
+LENS SEVILLE
 LENS UDINESE
 LENS – AJACCIO
 LENS – ANGERS
@@ -31518,6 +31545,8 @@ LeilaBekhti
 LeilaKaddour
 Leipzig
 Leitzins
+Leitzins Schweiz
+LeitzinsSchweiz
 LejardindesFinzi-Contini
 Lejouet
 Lejourlepluslong
@@ -31560,6 +31589,7 @@ Lens Lille
 Lens Lorient
 Lens PSG
 Lens Udinese
+Lens seville
 Lens – Ajaccio
 Lens – Angers
 Lens – Auxerre
@@ -31592,6 +31622,7 @@ LensLille
 LensLorient
 LensPSG
 LensUdinese
+Lensseville
 Lens–Ajaccio
 Lens–Angers
 Lens–Auxerre
@@ -40978,6 +41009,7 @@ PANATHINAIKOS
 PANAYOTIS PASCOT
 PANCAKES
 PANCARTE ANTISEMITE METZ
+PANCHO ABARDONADO
 PANCREAS
 PANDEV
 PANDORA PAPERS
@@ -41183,6 +41215,7 @@ PATENT OCHSNER
 PATENTOCHSNER
 PATHE CISS
 PATINAGE ARTISTIQUE
+PATRICE CHARLEMAGNE
 PATRICE DUHAMEL
 PATRICE EVRA
 PATRICE LAFFONT
@@ -42245,6 +42278,8 @@ PanayotisPascot
 Pancakes
 Pancarte antisemite Metz
 PancarteantisemiteMetz
+Pancho Abardonado
+PanchoAbardonado
 Pancreas
 Pandev
 Pandora Papers
@@ -42655,10 +42690,12 @@ Pathe Ciss
 PatheCiss
 Patinage artistique
 Patinageartistique
+Patrice Charlemagne
 Patrice Duhamel
 Patrice Evra
 Patrice Laffont
 Patrice Lumumba
+PatriceCharlemagne
 PatriceDuhamel
 PatriceEvra
 PatriceLaffont
@@ -44554,12 +44591,14 @@ REAL MADRID – OSASUNA
 REAL MADRID – RAYO
 REAL MADRID – REAL SOCIEDAD
 REAL MADRID – SÉVILLE
+REAL MADRID – UNION BERLIN
 REAL MADRID – VALENCE
 REAL MADRID – VILLARREAL
 REAL MADRID.  BARCELONA
 REAL SOCIEDAD
 REAL SOCIEDAD – ATLÉTICO MADRID
 REAL SOCIEDAD – BARCELONA
+REAL SOCIEDAD – INTER
 REAL SOCIEDAD – MANCHESTER UNITED
 REAL SOCIEDAD – MONACO
 REAL SOCIEDAD – REAL
@@ -45672,6 +45711,7 @@ Real Madrid – Osasuna
 Real Madrid – Rayo
 Real Madrid – Real Sociedad
 Real Madrid – Séville
+Real Madrid – Union Berlin
 Real Madrid – Valence
 Real Madrid – Villarreal
 Real Madrid – almería
@@ -45679,6 +45719,7 @@ Real Madrid.  Barcelona
 Real Sociedad
 Real Sociedad – Atlético Madrid
 Real Sociedad – Barcelona
+Real Sociedad – Inter
 Real Sociedad – Manchester United
 Real Sociedad – Monaco
 Real Sociedad – Real
@@ -45750,12 +45791,14 @@ RealMadrid–Osasuna
 RealMadrid–Rayo
 RealMadrid–RealSociedad
 RealMadrid–Séville
+RealMadrid–UnionBerlin
 RealMadrid–Valence
 RealMadrid–Villarreal
 RealMadrid–almería
 RealSociedad
 RealSociedad–AtléticoMadrid
 RealSociedad–Barcelona
+RealSociedad–Inter
 RealSociedad–ManchesterUnited
 RealSociedad–Monaco
 RealSociedad–Real
@@ -47574,6 +47617,7 @@ SEVILLA ROMA
 SEVILLE
 SEVRAN
 SEX AND THE CITY
+SEX EDUCATION
 SEX/LIFE
 SEXION D'ASSAUT
 SEYMOUR HERSH
@@ -48210,6 +48254,7 @@ STEFAAN DEGAND
 STEFAAN FERNANDE
 STEFAN BANACH
 STEFAN BLÄTTLER
+STEFAN KUNG
 STEFAN KÜNG
 STEFAN MROSS
 STEFAN MROSS UND ANNA-CARINA WOITSCHACK
@@ -48237,6 +48282,7 @@ STEPHANIE BERGER
 STEPHANIE FRAPPART
 STEPHEN BOSS
 STEPHEN CURRY
+STEPHEN GOULD
 STEPHEN HAWKING
 STEPHEN KING
 STEPHEN SONDHEIM
@@ -49579,8 +49625,10 @@ SevillaPSV
 SevillaRoma
 Seville
 Sevran
+Sex Education
 Sex and the City
 Sex/Life
+SexEducation
 SexandtheCity
 Sexion d'Assaut
 Sexiond'Assaut
@@ -50584,6 +50632,7 @@ StefaanDegand
 StefaanFernande
 Stefan Banach
 Stefan Blättler
+Stefan Kung
 Stefan Küng
 Stefan Mross
 Stefan Mross und Anna-Carina Woitschack
@@ -50591,6 +50640,7 @@ Stefan Mross und AnnaCarina Woitschack
 Stefan Reichmuth
 StefanBanach
 StefanBlättler
+StefanKung
 StefanKüng
 StefanMross
 StefanMrossundAnna-CarinaWoitschack
@@ -50635,11 +50685,13 @@ StephanieBerger
 StephanieFrappart
 Stephen Boss
 Stephen Curry
+Stephen Gould
 Stephen Hawking
 Stephen King
 Stephen Sondheim
 StephenBoss
 StephenCurry
+StephenGould
 StephenHawking
 StephenKing
 StephenSondheim
@@ -52121,6 +52173,7 @@ TRAJKOVSKI
 TRAMADOL
 TRANQ
 TRANSAT JACQUES VABRE
+TRANSAVIA
 TRANSDEV
 TRANSFERMARKT
 TRANSFORMERS : RISE OF THE BEASTS
@@ -53764,6 +53817,7 @@ Tramadol
 Tranq
 Transat Jacques Vabre
 TransatJacquesVabre
+Transavia
 Transdev
 Transfermarkt
 Transformers : Rise of the Beasts
@@ -56124,6 +56178,7 @@ WE DON'T TALK ABOUT BRUNO
 WE HAVE A GHOST
 WE LOVE GREEN
 WEALTHFRONT
+WEB APP FC 24
 WEB APP FIFA 22
 WEB-APP
 WEBCAM EINSIEDELN
@@ -56675,9 +56730,11 @@ WeHaveaGhost
 WeLoveGreen
 WeTransfer
 Wealthfront
+Web App FC 24
 Web App FIFA 22
 Web-App
 WebApp
+WebAppFC24
 WebAppFIFA22
 Webcam Einsiedeln
 WebcamEinsiedeln
@@ -60019,6 +60076,7 @@ bayern gegen köln
 bayern gegen leverkusen
 bayern gegen mainz
 bayern gegen man city
+bayern gegen manunited
 bayern gegen monaco
 bayern gegen mönchengladbach
 bayern gegen rb leipzig
@@ -60041,6 +60099,7 @@ bayern – inter
 bayern – leverkusen
 bayern – man city
 bayern – manchester city
+bayern – manchester united
 bayern – mancity
 bayern – monaco
 bayern – mönchengladbach
@@ -62067,6 +62126,7 @@ co2-meter
 coachella
 coachella 2022
 cobra kai
+cocaine bear
 cocktail molotov film
 coco
 coco austin
@@ -62301,6 +62361,7 @@ coupe du monde
 coupe du monde 2022
 coupe du monde basket
 coupe du monde de football féminin
+coupe du monde de rugby
 coupe du monde feminin
 coupe du monde féminine
 coupe du monde féminine 2023
@@ -63360,6 +63421,7 @@ e3 saxo bank classic 2022
 eFootball 2022
 eFootball2022
 ea
+ea fc 24
 ea fc 24 web app
 ea sports fc 24
 eagle mountain
@@ -63871,6 +63933,7 @@ eros ramazzotti
 errol musk
 erwachsener
 erwin kessler
+erwin olaf
 erzgebirge
 esaf
 esaf 2022
@@ -64292,6 +64355,7 @@ faustine bollaert
 faustine nogherotto
 fawlty towers
 fayza lamari
+fc 24
 fc aarau
 fc aarau gegen fc schaffhausen
 fc aarau gegen fc thun
@@ -65572,6 +65636,7 @@ gloria maria
 gloria monserez
 glory 78
 gluck
+glyphosate
 glückskette schweiz
 gm
 gnonto
@@ -66914,6 +66979,7 @@ italie - angleterre
 italie - argentine
 italie - belgique
 italie - suisse
+italie - uruguay
 italie afrique du sud
 italie argentine
 italie argentinie
@@ -68914,6 +68980,7 @@ leila bekhti
 leila kaddour
 leipzig
 leitzins
+leitzins schweiz
 leki
 lemberg
 lemonde
@@ -68936,6 +69003,7 @@ lens - marseille
 lens lille
 lens lorient
 lens psg
+lens seville
 lens udinese
 lens – ajaccio
 lens – angers
@@ -72611,6 +72679,7 @@ panathinaikos
 panayotis pascot
 pancakes
 pancarte antisemite metz
+pancho abardonado
 pancreas
 pandev
 pandora papers
@@ -72808,6 +72877,7 @@ patent ochsner
 patentochsner
 pathe ciss
 patinage artistique
+patrice charlemagne
 patrice duhamel
 patrice evra
 patrice laffont
@@ -73982,12 +74052,14 @@ real madrid – osasuna
 real madrid – rayo
 real madrid – real sociedad
 real madrid – séville
+real madrid – union berlin
 real madrid – valence
 real madrid – villarreal
 real madrid.  barcelona
 real sociedad
 real sociedad – atlético madrid
 real sociedad – barcelona
+real sociedad – inter
 real sociedad – manchester united
 real sociedad – monaco
 real sociedad – real
@@ -75285,6 +75357,7 @@ sevilla roma
 seville
 sevran
 sex and the city
+sex education
 sex/life
 sexion d'assaut
 seymour hersh
@@ -75889,6 +75962,7 @@ stefaan degand
 stefaan fernande
 stefan banach
 stefan blättler
+stefan kung
 stefan küng
 stefan mross
 stefan mross und anna-carina woitschack
@@ -75916,6 +75990,7 @@ stephanie berger
 stephanie frappart
 stephen boss
 stephen curry
+stephen gould
 stephen hawking
 stephen king
 stephen sondheim
@@ -77100,6 +77175,7 @@ trajkovski
 tramadol
 tranq
 transat jacques vabre
+transavia
 transdev
 transfermarkt
 transformers : rise of the beasts
@@ -78091,6 +78167,7 @@ we don't talk about bruno
 we have a ghost
 we love green
 wealthfront
+web app fc 24
 web app fifa 22
 web-app
 webcam einsiedeln
