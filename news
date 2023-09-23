@@ -1803,6 +1803,7 @@ ARGENTINE BRESIL
 ARGENTINE COLOMBIE
 ARGENTINE FOOT
 ARGENTINE FRANCE
+ARGENTINE SAMOA
 ARGENTINE – ARABIE SAOUDITE
 ARGENTINE – AUSTRALIE
 ARGENTINE – BOLIVIE
@@ -2302,6 +2303,7 @@ AYDA FIELD
 AYEM NOUR
 AYMAN AL-ZAWAHIRI
 AYMERIC CARON
+AYMERIC CARON ECOLE MATERNELLE
 AYMERIC LAPORTE
 AYMERICLAPORTE
 AZ  FEYENOORD
@@ -4390,6 +4392,7 @@ Argentine - Paraguay
 Argentine - Uruguay
 Argentine Colombie
 Argentine France
+Argentine Samoa
 Argentine bresil
 Argentine foot
 Argentine – Arabie saoudite
@@ -4415,6 +4418,7 @@ Argentine-Paraguay
 Argentine-Uruguay
 ArgentineColombie
 ArgentineFrance
+ArgentineSamoa
 ArgentineUruguay
 Argentinebresil
 Argentinefoot
@@ -5196,8 +5200,10 @@ Ayman al-Zawahiri
 Ayman alZawahiri
 Aymanal-Zawahiri
 Aymeric Caron
+Aymeric Caron ecole maternelle
 Aymeric Laporte
 AymericCaron
+AymericCaronecolematernelle
 AymericLaporte
 Azarenka
 Azatbek Omurbekov
@@ -5673,6 +5679,7 @@ BELGIË
 BELGIË  BURKINA FASO
 BELGIË  CANADA
 BELGIË  MAROKKO
+BELGIË  NEDERLAND
 BELGIË OLYMPISCHE SPELEN
 BELGIË-CANADA
 BELGIË-ESTLAND
@@ -7392,6 +7399,7 @@ België
 België  Burkina Faso
 België  Canada
 België  Marokko
+België  Nederland
 België Olympische Spelen
 België-Canada
 België-Estland
@@ -7399,6 +7407,7 @@ BelgiëBurkinaFaso
 BelgiëCanada
 BelgiëEstland
 BelgiëMarokko
+BelgiëNederland
 BelgiëOlympischeSpelen
 Belgorod
 Belgrad
@@ -9839,6 +9848,7 @@ CLAUDE SARRAUTE LAURENT RUQUIER
 CLAUDE SIMONET
 CLAUDE VEGA
 CLAUDE-INGA BARBEY
+CLAUDIA CARDINALE
 CLAUDIA NORBERG
 CLAUDIA OBERT
 CLAUDIA PECHSTEIN
@@ -10128,6 +10138,7 @@ CORONA MASSNAHMEN DEUTSCHLAND
 CORONA MASSNAHMEN SCHWEIZ
 CORONA NEDERLAND
 CORONA NEWS SCHWEIZ
+CORONA PIROLA SYMPTOME
 CORONA PORTUGAL
 CORONA SCHWEIZ
 CORONA ÖSTERREICH
@@ -11900,10 +11911,12 @@ ClaudeSarrauteLaurentRuquier
 ClaudeSimonet
 ClaudeVega
 Claudevega
+Claudia Cardinale
 Claudia Norberg
 Claudia Obert
 Claudia Pechstein
 Claudia Schiffer
+ClaudiaCardinale
 ClaudiaNorberg
 ClaudiaObert
 ClaudiaPechstein
@@ -12387,6 +12400,7 @@ Corona maatregelen
 Corona massnahmen deutschland
 Corona massnahmen schweiz
 Corona news Schweiz
+Corona pirola Symptome
 Corona Österreich
 Corona-Impfung Nebenwirkungen
 Corona-ImpfungNebenwirkungen
@@ -12422,6 +12436,7 @@ Coronamassnahmenschweiz
 CoronanewsSchweiz
 Coronapas
 Coronapaspoort
+CoronapirolaSymptome
 Coronavirus
 Coronavirus Belgique
 Coronavirus EG.5
@@ -13457,6 +13472,7 @@ DISCOURS MACRON
 DISCOURS, POUTINE
 DISCOVEREU
 DISENCHANTED
+DISIZ
 DISNEYLAND PARIS
 DISPARITION CHLOE
 DISPARITION D'EMILE
@@ -14746,6 +14762,7 @@ Discours,Poutine
 DiscoursMacron
 DiscoverEU
 Disenchanted
+Disiz
 Disneyland Paris
 DisneylandParis
 Disparition Delphine Jubillar
@@ -16114,6 +16131,7 @@ EVELYNE
 EVELYNE BOUIX
 EVELYNE DHELIAT
 EVELYNE LECLERCQ
+EVELYNE THOMAS CYRIL HANOUNA
 EVENEPOEL
 EVEREST
 EVERGRANDE
@@ -17449,9 +17467,11 @@ Evelyne
 Evelyne Bouix
 Evelyne Dheliat
 Evelyne Leclercq
+Evelyne Thomas Cyril Hanouna
 EvelyneBouix
 EvelyneDheliat
 EvelyneLeclercq
+EvelyneThomasCyrilHanouna
 Evenepoel
 Everest
 Evergrande
@@ -18499,6 +18519,7 @@ FRANCE – MAROC
 FRANCE – NORVÈGE
 FRANCE – PAYS-BAS
 FRANCE – POLOGNE
+FRANCE – PORTUGAL
 FRANCE – SUISSE
 FRANCE – ÉCOSSE
 FRANCE-AFRIQUE DU SUD
@@ -18553,6 +18574,7 @@ FRANCIS PERRIN
 FRANCK BERRIER
 FRANCK DUBOSC
 FRANCK GASTAMBIDE
+FRANCK LAVIER
 FRANCK OLIVIER
 FRANCK PROVOST
 FRANCK RIBERY
@@ -19085,6 +19107,7 @@ Fete de la musique Lille
 Fete de la musique Marseille
 Fete de la musique bruxelles
 Fete de la musique geneve
+Fete des Vendanges
 Fete des femmes
 Fete des grand mere
 Fete des lumieres Lyon
@@ -19122,6 +19145,7 @@ FetedelamusiqueLille
 FetedelamusiqueMarseille
 Fetedelamusiquebruxelles
 Fetedelamusiquegeneve
+FetedesVendanges
 Fetedesfemmes
 Fetedesgrandmere
 FetedeslumieresLyon
@@ -19751,6 +19775,7 @@ France – Norvège
 France – Pays-Bas
 France – PaysBas
 France – Pologne
+France – Portugal
 France – Suisse
 France – Écosse
 France-Afrique du Sud
@@ -19903,6 +19928,7 @@ France–Maroc
 France–Norvège
 France–Pays-Bas
 France–Pologne
+France–Portugal
 France–Suisse
 France–Écosse
 Francine Jordi
@@ -19926,6 +19952,7 @@ Franciskere
 Franck Berrier
 Franck Dubosc
 Franck Gastambide
+Franck Lavier
 Franck Olivier
 Franck Provost
 Franck Ribery
@@ -19933,6 +19960,7 @@ Franck Ribéry
 FranckBerrier
 FranckDubosc
 FranckGastambide
+FranckLavier
 FranckOlivier
 FranckProvost
 FranckRibery
@@ -20763,6 +20791,7 @@ GINO RETROUVÉ MORT
 GINO STRADA
 GINO VERMIST
 GIORGIA MELONI
+GIORGIO NAPOLITANO
 GIORGIO PARISI
 GIOVANNI ANGIOLINI
 GIOVANNI FALCONE
@@ -21187,6 +21216,7 @@ GUINGAMP – PARIS FC
 GUINÉE
 GUINÉE-BISSAU
 GUIRADO
+GUIRASSY
 GULF STREAM
 GULLEGEM
 GULLEGEM KOERSE
@@ -21853,7 +21883,9 @@ Ginostrada
 Ginovermist
 Giorgia Meloni
 GiorgiaMeloni
+Giorgio Napolitano
 Giorgio Parisi
+GiorgioNapolitano
 GiorgioParisi
 Giovanni Angiolini
 Giovanni Falcone
@@ -22517,6 +22549,7 @@ Guinée
 Guinée-Bissau
 GuinéeBissau
 Guirado
+Guirassy
 Gulf Stream
 GulfStream
 Gullegem
@@ -33294,6 +33327,7 @@ MAINZ GEGEN BAYERN
 MAINZ GEGEN DORTMUND
 MAINZ GEGEN MÖNCHENGLADBACH
 MAINZ GEGEN SCHALKE
+MAIRE DE MARSEILLE
 MAIRE DE REZÉ
 MAIRE L'HAY LES-ROSES
 MAIRIE DE BORDEAUX
@@ -34897,6 +34931,7 @@ MUOTATHALER WETTERSCHMÖCKER
 MUR DE BRETAGNE
 MURAT YAKIN
 MURDEBRETAGNE
+MURDER IN PROVENCE
 MURDER, SHE WROTE
 MURIEL ROBIN
 MURIEL ROBIN PALMADE
@@ -35137,9 +35172,11 @@ MainzgegenBayern
 MainzgegenDortmund
 MainzgegenMönchengladbach
 MainzgegenSchalke
+Maire de Marseille
 Maire de Rezé
 Maire l'hay les-Roses
 Maire l'hay lesRoses
+MairedeMarseille
 MairedeRezé
 Mairel'hayles-Roses
 Mairie de Bordeaux
@@ -38028,8 +38065,10 @@ Mur de Bretagne
 Murat Yakin
 MuratYakin
 MurdeBretagne
+Murder in Provence
 Murder, she wrote
 Murder,shewrote
+MurderinProvence
 Muriel Robin
 Muriel Robin Palmade
 Muriel Robin Pierre Palmade
@@ -45250,6 +45289,7 @@ ROY ORBISON
 ROYAL AIR MAROC
 ROYAL ANTWERP FC
 ROYAL BLOOD
+ROYAL DE LUXE NANTES
 ROYAL RUMBLE 2022
 ROYAL RUMBLE 2023
 ROYAUME-UNI
@@ -46844,11 +46884,13 @@ Royal Antwerp FC
 Royal Blood
 Royal Rumble 2022
 Royal Rumble 2023
+Royal de Luxe Nantes
 RoyalAirMaroc
 RoyalAntwerpFC
 RoyalBlood
 RoyalRumble2022
 RoyalRumble2023
+RoyaldeLuxeNantes
 Royaume-Uni
 RoyaumeUni
 Ruag
@@ -47363,6 +47405,7 @@ SASSUOLO – NAPLES
 SATAN 2
 SATIGNY
 SAUBER
+SAUDI PRO LEAGUE
 SAUL NIGUEZ
 SAUMOS
 SAURON
@@ -47459,6 +47502,7 @@ SCHWEIZ DEUTSCHLAND EISHOCKEY
 SCHWEIZ FRANKREICH
 SCHWEIZ FRANKREICH EM
 SCHWEIZ FUSSBALL
+SCHWEIZ GEGEN ITALIEN
 SCHWEIZ GEGEN KAMERUN
 SCHWEIZ GEGEN NEUSEELAND
 SCHWEIZ GEGEN TSCHECHIEN
@@ -49213,6 +49257,8 @@ Satan 2
 Satan2
 Satigny
 Sauber
+Saudi Pro League
+SaudiProLeague
 Saul Niguez
 SaulNiguez
 Saumos
@@ -49349,6 +49395,7 @@ Schweiz Spanien
 Schweiz Turkei
 Schweiz Turkei 2005
 Schweiz U21
+Schweiz gegen Italien
 Schweiz gegen Kamerun
 Schweiz gegen Neuseeland
 Schweiz gegen Tschechien
@@ -49396,6 +49443,7 @@ Schweizerhymne
 Schweizerische Nationalbank
 SchweizerischeNationalbank
 Schweizernationalfeiertag
+SchweizgegenItalien
 SchweizgegenKamerun
 SchweizgegenNeuseeland
 SchweizgegenTschechien
@@ -51501,6 +51549,7 @@ TEC LIÈGE-VERVIERS
 TEC Liège-Verviers
 TEC LiègeVerviers
 TECCharleroi
+TECHNO PARADE
 TECHNOBLADE
 TECLiège-Verviers
 TED HEROLD
@@ -52569,6 +52618,8 @@ TeamWallraffBurgerKing
 Teams
 Tec Charleroi
 TecCharleroi
+Techno Parade
+TechnoParade
 Technoblade
 Ted Herold
 Ted Kaczynski
@@ -56974,11 +57025,13 @@ Wham!
 What If
 WhatIf
 WhatsApp
+WhatsApp Kanäle löschen
 WhatsApp Status
 WhatsApp Störung
 WhatsApp Web
 WhatsApp bug
 WhatsApp storing
+WhatsAppKanälelöschen
 WhatsAppStatus
 WhatsAppStörung
 WhatsAppWeb
@@ -57753,6 +57806,7 @@ ZIEKTE VAN CROHN
 ZIEKTE VAN HIRSCHSPRUNG
 ZIEKTE VAN KAHLER
 ZIEKTE VAN LYME
+ZIEKTE VAN WEIL
 ZIEKTEVANLYME
 ZIERIKZEE
 ZILLION
@@ -57978,11 +58032,13 @@ Ziekte van Crohn
 Ziekte van Hirschsprung
 Ziekte van Kahler
 Ziekte van Lyme
+Ziekte van Weil
 ZiekteMG
 ZiektevanCrohn
 ZiektevanHirschsprung
 ZiektevanKahler
 ZiektevanLyme
+ZiektevanWeil
 Zierikzee
 Zillion
 Zillion film
@@ -59375,6 +59431,7 @@ argentine bresil
 argentine colombie
 argentine foot
 argentine france
+argentine samoa
 argentine – Equateur
 argentine – arabie saoudite
 argentine – australie
@@ -59829,6 +59886,7 @@ ayda field
 ayem nour
 ayman al-zawahiri
 aymeric caron
+aymeric caron ecole maternelle
 aymeric laporte
 aymericlaporte
 az  feyenoord
@@ -60278,6 +60336,7 @@ belgië
 belgië  burkina faso
 belgië  canada
 belgië  marokko
+belgië  nederland
 belgië olympische spelen
 belgië-canada
 belgië-estland
@@ -62080,6 +62139,7 @@ claude sarraute laurent ruquier
 claude simonet
 claude vega
 claude-inga barbey
+claudia cardinale
 claudia norberg
 claudia obert
 claudia pechstein
@@ -62356,6 +62416,7 @@ corona massnahmen deutschland
 corona massnahmen schweiz
 corona nederland
 corona news schweiz
+corona pirola symptome
 corona portugal
 corona schweiz
 corona österreich
@@ -63182,6 +63243,7 @@ discours macron
 discours, poutine
 discovereu
 disenchanted
+disiz
 disneyland paris
 disparition chloe
 disparition d'emile
@@ -64245,6 +64307,7 @@ evelyne
 evelyne bouix
 evelyne dheliat
 evelyne leclercq
+evelyne thomas cyril hanouna
 evenepoel
 everest
 evergrande
@@ -65009,6 +65072,7 @@ france – maroc
 france – norvège
 france – pays-bas
 france – pologne
+france – portugal
 france – suisse
 france – écosse
 france-afrique du sud
@@ -65063,6 +65127,7 @@ francis perrin
 franck berrier
 franck dubosc
 franck gastambide
+franck lavier
 franck olivier
 franck provost
 franck ribery
@@ -65651,6 +65716,7 @@ gino retrouvé mort
 gino strada
 gino vermist
 giorgia meloni
+giorgio napolitano
 giorgio parisi
 giovanni angiolini
 giovanni falcone
@@ -66038,6 +66104,7 @@ guingamp – paris fc
 guinée
 guinée-bissau
 guirado
+guirassy
 gulf stream
 gullegem
 gullegem koerse
@@ -70027,6 +70094,7 @@ mainz gegen bayern
 mainz gegen dortmund
 mainz gegen mönchengladbach
 mainz gegen schalke
+maire de marseille
 maire de rezé
 maire l'hay les-roses
 mairie de bordeaux
@@ -71610,6 +71678,7 @@ muotathaler wetterschmöcker
 mur de bretagne
 murat yakin
 murdebretagne
+murder in provence
 murder, she wrote
 muriel robin
 muriel robin palmade
@@ -74716,6 +74785,7 @@ roy orbison
 royal air maroc
 royal antwerp fc
 royal blood
+royal de luxe nantes
 royal rumble 2022
 royal rumble 2023
 royaume-uni
@@ -75143,6 +75213,7 @@ sassuolo – naples
 satan 2
 satigny
 sauber
+saudi pro league
 saul niguez
 saumos
 sauron
@@ -75234,6 +75305,7 @@ schweiz deutschland eishockey
 schweiz frankreich
 schweiz frankreich em
 schweiz fussball
+schweiz gegen italien
 schweiz gegen kamerun
 schweiz gegen neuseeland
 schweiz gegen tschechien
@@ -76544,6 +76616,7 @@ teams
 tec
 tec charleroi
 tec liège-verviers
+techno parade
 technoblade
 ted herold
 ted kaczynski
@@ -78795,6 +78868,7 @@ ziekte van crohn
 ziekte van hirschsprung
 ziekte van kahler
 ziekte van lyme
+ziekte van weil
 ziektevanlyme
 zierikzee
 zillion
