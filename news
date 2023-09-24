@@ -951,6 +951,7 @@ AJAX  BARENDRECHT
 AJAX  GRONINGEN
 AJAX  LEEDS
 AJAX  WILLEM II
+AJAX FEYENOORD
 AJAX GEGEN UNION BERLIN
 AJAX – LIVERPOOL
 AJAX – MARSEILLE
@@ -1500,6 +1501,7 @@ ANGERS – SAINT-ÉTIENNE
 ANGGUN
 ANGLETERRE
 ANGLETERRE  ECOSSE
+ANGLETERRE - CHILI
 ANGLETERRE - ECOSSE
 ANGLETERRE - PAYS DE GALLES
 ANGLETERRE DANEMARK
@@ -2882,6 +2884,7 @@ Ajax  Barendrecht
 Ajax  Groningen
 Ajax  Leeds
 Ajax  Willem II
+Ajax Feyenoord
 Ajax gegen Union Berlin
 Ajax – Liverpool
 Ajax – Marseille
@@ -3873,8 +3876,10 @@ Angers–paris-sg
 Angers–saint-étienne
 Anggun
 Angleterre
+Angleterre  Chili
 Angleterre  Ecosse
 Angleterre  Pays de Galles
+Angleterre - Chili
 Angleterre - Ecosse
 Angleterre - Pays de Galles
 Angleterre Danemark
@@ -3901,6 +3906,7 @@ Angleterre – États-Unis
 Angleterre – ÉtatsUnis
 Angleterre-Allemagne
 Angleterre-Argentine
+Angleterre-Chili
 Angleterre-Danemark
 Angleterre-Ecosse
 Angleterre-France
@@ -5420,6 +5426,7 @@ BARCELONE – ALMERÍA
 BARCELONE – ATH BILBAO
 BARCELONE – BAYERN
 BARCELONE – CADIX
+BARCELONE – CELTA VIGO
 BARCELONE – ESPANYOL
 BARCELONE – REAL MADRID
 BARCELONE – SÉVILLE
@@ -5797,6 +5804,7 @@ BERGRENNEN HEMBERG
 BERLIN
 BERLIN-MARATHON 2021
 BERLIN-MARATHON 2022
+BERLIN-MARATHON 2023
 BERLUSCONI
 BERN
 BERN BAHNHOF
@@ -6958,6 +6966,7 @@ Barcelone – Almería
 Barcelone – Ath Bilbao
 Barcelone – Bayern
 Barcelone – Cadix
+Barcelone – Celta Vigo
 Barcelone – Espanyol
 Barcelone – Real Madrid
 Barcelone – Séville
@@ -6968,6 +6977,7 @@ Barcelone–Almería
 Barcelone–AthBilbao
 Barcelone–Bayern
 Barcelone–Cadix
+Barcelone–CeltaVigo
 Barcelone–Espanyol
 Barcelone–RealMadrid
 Barcelone–Séville
@@ -7607,10 +7617,13 @@ BergrennenHemberg
 Berlin
 Berlin-Marathon 2021
 Berlin-Marathon 2022
+Berlin-Marathon 2023
 Berlin-Marathon2021
 Berlin-Marathon2022
+Berlin-Marathon2023
 BerlinMarathon 2021
 BerlinMarathon 2022
+BerlinMarathon 2023
 Berlusconi
 Bern
 Bern Bahnhof
@@ -18281,6 +18294,7 @@ FLECHE BRABANCONNE 2022
 FLECHE WALLONNE 2022
 FLECHE WALLONNE 2023
 FLEETWOOD MAC
+FLEUR MOORS
 FLEURISTE
 FLEURS CBD
 FLEUVE NOIR
@@ -18363,6 +18377,7 @@ FONDS MARIANNE
 FONDS MARIANNE : MARLÈNE SCHIAPPA
 FONDS MARIANNE MARLÈNE SCHIAPPA
 FONS
+FONT-ROMEU
 FONTAINEBLEAU
 FOO FIGHTERS
 FOOT
@@ -18390,6 +18405,7 @@ FORMEL 1, MONZA
 FORMEL-1
 FORMEL-1 HEUTE
 FORMEL-1 QUALIFYING
+FORMEL-1-RENNEN
 FORMEL-1-RENNEN HEUTE
 FORMULA 1
 FORMULAIRE ENTREE SUISSE
@@ -18597,6 +18613,7 @@ FRANCOIS CIVIL
 FRANCOIS CLUZET
 FRANCOIS DURPAIRE
 FRANCOIS FILLON
+FRANCOIS GLORIEUX
 FRANCOIS HADJI-LAZARO
 FRANCOIS HOLLANDE
 FRANCOIS VALERY
@@ -19399,6 +19416,8 @@ Flechebrabanconne
 Flechebrabanconne2022
 Fleetwood Mac
 FleetwoodMac
+Fleur Moors
+FleurMoors
 Fleuriste
 Fleurs CBD
 FleursCBD
@@ -19537,6 +19556,8 @@ FondsMarianne
 FondsMarianne:MarlèneSchiappa
 FondsMarianneMarlèneSchiappa
 Fons
+Font-Romeu
+FontRomeu
 Fontainebleau
 Foo Fighters
 FooFighters
@@ -19580,6 +19601,7 @@ Formel 1, Monza
 Formel-1
 Formel-1 Qualifying
 Formel-1 heute
+Formel-1-Rennen
 Formel-1-Rennen heute
 Formel-1-Rennenheute
 Formel-1Qualifying
@@ -19589,6 +19611,7 @@ Formel1 Qualifying
 Formel1 heute
 Formel1,Monza
 Formel1Monza
+Formel1Rennen
 Formel1Rennen heute
 Formel1heute
 Formel1live
@@ -19984,6 +20007,7 @@ Francois Civil
 Francois Cluzet
 Francois Durpaire
 Francois Fillon
+Francois Glorieux
 Francois Hadji-Lazaro
 Francois HadjiLazaro
 Francois Hollande
@@ -19995,6 +20019,7 @@ FrancoisCivil
 FrancoisCluzet
 FrancoisDurpaire
 FrancoisFillon
+FrancoisGlorieux
 FrancoisHadji-Lazaro
 FrancoisHollande
 FrancoisVerove
@@ -20774,6 +20799,7 @@ GILLES ARNAUD BAILLY
 GILLES ARTIGUES
 GILLES BEYER
 GILLES BOULEAU
+GILLES KEPEL
 GILLES LE GENDRE
 GILLES LELLOUCHE
 GILLES PERRAULT
@@ -20998,6 +21024,7 @@ GRAND PRIX DE WALLONIE 2023
 GRAND PRIX DES ETATS UNIS
 GRAND PRIX F1
 GRAND PRIX F1 MIAMI
+GRAND PRIX JAPON
 GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
 GRAND PRIX SILVERSTONE
@@ -21843,6 +21870,7 @@ Gilles Arnaud Bailly
 Gilles Artigues
 Gilles Beyer
 Gilles Bouleau
+Gilles Kepel
 Gilles Le Gendre
 Gilles Lellouche
 Gilles Perrault
@@ -21855,6 +21883,7 @@ GillesArnaudBailly
 GillesArtigues
 GillesBeyer
 GillesBouleau
+GillesKepel
 GillesLeGendre
 GillesLellouche
 GillesPerrault
@@ -22135,6 +22164,7 @@ Grand Prix Belgique
 Grand Prix Bern
 Grand Prix F1
 Grand Prix F1 Miami
+Grand Prix Japon
 Grand Prix Monaco
 Grand Prix Pays-Bas
 Grand Prix PaysBas
@@ -22162,6 +22192,7 @@ GrandPrixBelgique
 GrandPrixBern
 GrandPrixF1
 GrandPrixF1Miami
+GrandPrixJapon
 GrandPrixMonaco
 GrandPrixPays-Bas
 GrandPrixSilverstone
@@ -22918,6 +22949,7 @@ HEPATITIS C
 HERALD OF FREE ENTERPRISE
 HERBERT GRÖNEMEYER
 HERBERT KÖFER
+HERBSTANFANG
 HERBSTANFANG 2021
 HERBSTZEIT!
 HERFST
@@ -23556,6 +23588,7 @@ Herbert Grönemeyer
 Herbert Köfer
 HerbertGrönemeyer
 HerbertKöfer
+Herbstanfang
 Herbstanfang 2021
 Herbstanfang2021
 Herbstzeit!
@@ -24281,6 +24314,7 @@ IRIS MITTENAERE
 IRIS-T
 IRLANDE - ANGLETERRE
 IRLANDE - NOUVELLE ZELANDE
+IRLANDE AFRIQUE DU SUD
 IRLANDE ECOSSE
 IRLANDE – BELGIQUE
 IRLANDE – FRANCE
@@ -25009,6 +25043,7 @@ Irlande  Angleterre
 Irlande  Nouvelle zelande
 Irlande - Angleterre
 Irlande - Nouvelle zelande
+Irlande Afrique du Sud
 Irlande Ecosse
 Irlande – Belgique
 Irlande – France
@@ -25018,6 +25053,7 @@ Irlande – Portugal
 Irlande-Angleterre
 Irlande-Nouvellezelande
 Irlande-Roumanie
+IrlandeAfriqueduSud
 IrlandeEcosse
 IrlandeRoumanie
 Irlande–Belgique
@@ -25863,6 +25899,7 @@ JOHNNY DEPP/AMBER HEARD
 JOHNNY HALLYDAY
 JOHNNY HALLYDAY LAETICIA HALLYDAY
 JOHNNY LOGAN
+JOHNNY SEXTON
 JOHNSON &AMP; JOHNSON
 JOHNSON &AMP; JOHNSON IMPFSTOFF
 JOHNSON &AMP; JOHNSON-IMPFSTOFF
@@ -27258,6 +27295,7 @@ Johnny Depp/Amber Heard
 Johnny Hallyday
 Johnny Hallyday Laeticia Hallyday
 Johnny Logan
+Johnny Sexton
 Johnny de Mol
 Johnny depp
 JohnnyCash
@@ -27269,6 +27307,7 @@ JohnnyDeppverdict
 JohnnyHallyday
 JohnnyHallydayLaeticiaHallyday
 JohnnyLogan
+JohnnySexton
 JohnnydeMol
 Johnnydepp
 Johnson &amp; Johnson
@@ -30494,6 +30533,7 @@ LOTO 20 NOVEMBRE 2021
 LOTO 21 AOUT 2023
 LOTO 22 SEPTEMBRE 2021
 LOTO 23 AOUT 2023
+LOTO 23 SEPTEMBRE 2023
 LOTO 25 AOUT 2021
 LOTO 26 AOUT 2023
 LOTO 26 JUIN 2021
@@ -32676,6 +32716,7 @@ Loto 20 novembre 2021
 Loto 21 aout 2023
 Loto 22 septembre 2021
 Loto 23 aout 2023
+Loto 23 septembre 2023
 Loto 25 aout 2021
 Loto 26 aout 2023
 Loto 26 juin 2021
@@ -32717,6 +32758,7 @@ Loto20novembre2021
 Loto21aout2023
 Loto22septembre2021
 Loto23aout2023
+Loto23septembre2023
 Loto25aout2021
 Loto26aout2023
 Loto26juin2021
@@ -33440,6 +33482,7 @@ MANCHESTER CITY – LEICESTER
 MANCHESTER CITY – LIVERPOOL
 MANCHESTER CITY – MANCHESTER UNITED
 MANCHESTER CITY – NEWCASTLE
+MANCHESTER CITY – NOTTM FOREST
 MANCHESTER CITY – RB LEIPZIG
 MANCHESTER CITY – REAL MADRID
 MANCHESTER CITY – SHEFFIELD UTD
@@ -33564,6 +33607,8 @@ MARADONA
 MARATHON
 MARATHON AMSTERDAM
 MARATHON ANTWERPEN
+MARATHON BERLIJN
+MARATHON BERLIN
 MARATHON BRUSSEL
 MARATHON BRUXELLES
 MARATHON DE PARIS
@@ -34330,6 +34375,7 @@ METZ – NICE
 METZ – PARIS-SG
 METZ – RENNES
 METZ – SAINT-ÉTIENNE
+METZ – STRASBOURG
 MEURTRES AU PARADIS
 MEURTRES SANS ORDONNANCE
 MEUSE
@@ -35387,6 +35433,7 @@ Manchester City – Séville
 Manchester City – Tottenham
 Manchester City – West Ham
 Manchester City – Wolves
+Manchester City – nottm Forest
 Manchester City – wolves
 Manchester United
 Manchester United  Crystal Palace
@@ -35452,6 +35499,7 @@ ManchesterCity–Séville
 ManchesterCity–Tottenham
 ManchesterCity–WestHam
 ManchesterCity–Wolves
+ManchesterCity–nottmForest
 ManchesterCity–wolves
 ManchesterUnited
 ManchesterUnited-Leeds
@@ -35612,6 +35660,8 @@ Maradona
 Marathon
 Marathon Amsterdam
 Marathon Antwerpen
+Marathon Berlijn
+Marathon Berlin
 Marathon Brussel
 Marathon Bruxelles
 Marathon Eindhoven
@@ -35630,6 +35680,8 @@ Marathon geneve
 Marathon tokyo
 MarathonAmsterdam
 MarathonAntwerpen
+MarathonBerlijn
+MarathonBerlin
 MarathonBrussel
 MarathonBruxelles
 MarathonEindhoven
@@ -36995,6 +37047,7 @@ Metz – Nice
 Metz – Rennes
 Metz – Saint-Étienne
 Metz – SaintÉtienne
+Metz – Strasbourg
 Metz – paris-sg
 Metz – parissg
 Metz–Amiens
@@ -37010,6 +37063,7 @@ Metz–Monaco
 Metz–Nice
 Metz–Rennes
 Metz–Saint-Étienne
+Metz–Strasbourg
 Metz–paris-sg
 Meurtres au paradis
 Meurtres sans ordonnance
@@ -40155,6 +40209,7 @@ OM NORWICH
 OM Nantes
 OM Norwich
 OM PANATHINAIKOS
+OM PSG
 OM PSG CHAINE
 OM PSG chaine
 OM Panathinaikos
@@ -47400,6 +47455,7 @@ SASHA OBAMA
 SASHA ZHOYA
 SASKATCHEWAN
 SASSUOLO
+SASSUOLO  JUVENTUS
 SASSUOLO – JUVENTUS
 SASSUOLO – NAPLES
 SATAN 2
@@ -49249,8 +49305,10 @@ SashaObama
 SashaZhoya
 Saskatchewan
 Sassuolo
+Sassuolo  Juventus
 Sassuolo – Juventus
 Sassuolo – Naples
+SassuoloJuventus
 Sassuolo–Juventus
 Sassuolo–Naples
 Satan 2
@@ -58589,6 +58647,7 @@ ajax  barendrecht
 ajax  groningen
 ajax  leeds
 ajax  willem ii
+ajax feyenoord
 ajax gegen union berlin
 ajax – liverpool
 ajax – marseille
@@ -59133,6 +59192,7 @@ angers – saint-étienne
 anggun
 angleterre
 angleterre  ecosse
+angleterre - chili
 angleterre - ecosse
 angleterre - pays de galles
 angleterre danemark
@@ -60085,6 +60145,7 @@ barcelone – almería
 barcelone – ath bilbao
 barcelone – bayern
 barcelone – cadix
+barcelone – celta vigo
 barcelone – espanyol
 barcelone – real madrid
 barcelone – séville
@@ -60453,6 +60514,7 @@ bergrennen hemberg
 berlin
 berlin-marathon 2021
 berlin-marathon 2022
+berlin-marathon 2023
 berlusconi
 bern
 bern bahnhof
@@ -64838,6 +64900,7 @@ fleche brabanconne 2022
 fleche wallonne 2022
 fleche wallonne 2023
 fleetwood mac
+fleur moors
 fleuriste
 fleurs cbd
 fleuve noir
@@ -64916,6 +64979,7 @@ fonds marianne
 fonds marianne : marlène schiappa
 fonds marianne marlène schiappa
 fons
+font-romeu
 fontainebleau
 foo fighters
 foot
@@ -64943,6 +65007,7 @@ formel 1, monza
 formel-1
 formel-1 heute
 formel-1 qualifying
+formel-1-rennen
 formel-1-rennen heute
 formula 1
 formulaire entree suisse
@@ -65147,6 +65212,7 @@ francois civil
 francois cluzet
 francois durpaire
 francois fillon
+francois glorieux
 francois hadji-lazaro
 francois hollande
 francois valery
@@ -65699,6 +65765,7 @@ gilles arnaud bailly
 gilles artigues
 gilles beyer
 gilles bouleau
+gilles kepel
 gilles le gendre
 gilles lellouche
 gilles perrault
@@ -65889,6 +65956,7 @@ grand prix de wallonie 2023
 grand prix des etats unis
 grand prix f1
 grand prix f1 miami
+grand prix japon
 grand prix monaco
 grand prix pays-bas
 grand prix silverstone
@@ -66412,6 +66480,7 @@ hepatitis c
 herald of free enterprise
 herbert grönemeyer
 herbert köfer
+herbstanfang
 herbstanfang 2021
 herbstzeit!
 herfst
@@ -67030,6 +67099,7 @@ iris mittenaere
 iris-t
 irlande - angleterre
 irlande - nouvelle zelande
+irlande afrique du sud
 irlande ecosse
 irlande – belgique
 irlande – france
@@ -67752,6 +67822,7 @@ johnny depp/amber heard
 johnny hallyday
 johnny hallyday laeticia hallyday
 johnny logan
+johnny sexton
 johnson &amp; johnson
 johnson &amp; johnson impfstoff
 johnson &amp; johnson-impfstoff
@@ -69686,6 +69757,7 @@ loto 20 novembre 2021
 loto 21 aout 2023
 loto 22 septembre 2021
 loto 23 aout 2023
+loto 23 septembre 2023
 loto 25 aout 2021
 loto 26 aout 2023
 loto 26 juin 2021
@@ -70207,6 +70279,7 @@ manchester city – leicester
 manchester city – liverpool
 manchester city – manchester united
 manchester city – newcastle
+manchester city – nottm forest
 manchester city – rb leipzig
 manchester city – real madrid
 manchester city – sheffield utd
@@ -70331,6 +70404,8 @@ maradona
 marathon
 marathon amsterdam
 marathon antwerpen
+marathon berlijn
+marathon berlin
 marathon brussel
 marathon bruxelles
 marathon de paris
@@ -71092,6 +71167,7 @@ metz – nice
 metz – paris-sg
 metz – rennes
 metz – saint-étienne
+metz – strasbourg
 meurtres au paradis
 meurtres sans ordonnance
 meuse
@@ -72545,6 +72621,7 @@ om milan
 om nantes
 om norwich
 om panathinaikos
+om psg
 om psg chaine
 om servette
 om strasbourg
@@ -75208,6 +75285,7 @@ sasha obama
 sasha zhoya
 saskatchewan
 sassuolo
+sassuolo  juventus
 sassuolo – juventus
 sassuolo – naples
 satan 2
