@@ -686,6 +686,8 @@ ACCIDENT AURORE MORISSE
 ACCIDENT AUTOROUTE
 ACCIDENT AUTOROUTE A1
 ACCIDENT BUS PNL
+ACCIDENT BUS VENISE
+ACCIDENT BUS VENISE ITALIE
 ACCIDENT BUS VOITURE YVELINES
 ACCIDENT CENTRE ÉQUESTRE
 ACCIDENT DE CHASSE
@@ -811,6 +813,7 @@ ADRIEN DEVYVER
 ADRIEN DOLIMONT
 ADRIEN PETIT
 ADRIEN QUATENNENS
+ADRIEN THOMASSON
 ADRIEN TRUFFERT
 ADVENT
 ADVENTSKALENDER 2021
@@ -1073,6 +1076,7 @@ ALEX COLLINS
 ALEX DOWSETT
 ALEX FIVA
 ALEX FORMENTON
+ALEX GOUDE TPMP
 ALEX GOUDE VALERIE BENAIM
 ALEX HUGO
 ALEX JONES
@@ -2481,6 +2485,8 @@ Accident ariege
 Accident autoroute
 Accident autoroute A1
 Accident bus PNL
+Accident bus Venise
+Accident bus Venise Italie
 Accident bus voiture Yvelines
 Accident centre équestre
 Accident de chasse
@@ -2515,6 +2521,8 @@ Accidentariege
 Accidentautoroute
 AccidentautorouteA1
 AccidentbusPNL
+AccidentbusVenise
+AccidentbusVeniseItalie
 AccidentbusvoitureYvelines
 Accidentcentreéquestre
 Accidentdechasse
@@ -2674,11 +2682,13 @@ Adrien Devyver
 Adrien Dolimont
 Adrien Petit
 Adrien Quatennens
+Adrien Thomasson
 Adrien Truffert
 AdrienDevyver
 AdrienDolimont
 AdrienPetit
 AdrienQuatennens
+AdrienThomasson
 AdrienTruffert
 AdrievanderPoel
 Advent
@@ -3114,6 +3124,7 @@ Alex Collins
 Alex Dowsett
 Alex Fiva
 Alex Formenton
+Alex Goude TPMP
 Alex Goude valerie benaim
 Alex Hugo
 Alex Jones
@@ -3129,6 +3140,7 @@ AlexCollins
 AlexDowsett
 AlexFiva
 AlexFormenton
+AlexGoudeTPMP
 AlexGoudevaleriebenaim
 AlexHugo
 AlexJones
@@ -13588,6 +13600,7 @@ DISPARITION CHLOE
 DISPARITION D'EMILE
 DISPARITION DE DELPHINE JUBILLAR
 DISPARITION DE LESLIE ET KEVIN
+DISPARITION DE LINA
 DISPARITION DELPHINE JUBILLAR
 DISPARITION EMILE
 DISPARITION EMILE HAUT-VERNET
@@ -14909,6 +14922,7 @@ Disparition chloe
 Disparition d'Emile
 Disparition de Delphine Jubillar
 Disparition de Leslie et Kevin
+Disparition de Lina
 DisparitionDelphineJubillar
 DisparitionEmile
 DisparitionEmileHaut-Vernet
@@ -14927,6 +14941,7 @@ Disparitionchloe
 Disparitiond'Emile
 DisparitiondeDelphineJubillar
 DisparitiondeLeslieetKevin
+DisparitiondeLina
 Disparu à jamais
 Disparuàjamais
 District Z
@@ -23052,6 +23067,7 @@ HEATH FREEMAN
 HEATHER LOCKLEAR
 HEATHER PENNEY
 HEBE
+HEC
 HECHT
 HECTOR BELLERIN
 HEDY LAMARR
@@ -23155,6 +23171,7 @@ HERZOGIN KATE
 HESO SOLOTHURN
 HET GELUID
 HET GELUID QMUSIC
+HET HUIS ANUBIS
 HET VERHAAL VAN VLAANDEREN
 HET WEER VANDAAG
 HETTY HELSMOORTEL
@@ -23820,11 +23837,13 @@ Heso Solothurn
 HesoSolothurn
 Het Geluid
 Het Geluid Qmusic
+Het Huis Anubis
 Het geluid
 Het verhaal van Vlaanderen
 Het weer vandaag
 HetGeluid
 HetGeluidQmusic
+HetHuisAnubis
 Hetgeluid
 Hetty Helsmoortel
 HettyHelsmoortel
@@ -24201,6 +24220,7 @@ IL EST TROP BIEN
 IL ETAIT UNE FOIS DANS L'OUEST
 IL ETAIT UNE FOIS EN AMERIQUE
 IL FAUT SAUVER LE SOLDAT RYAN
+ILAN VAN WILDER
 ILARIA RESTA
 ILARY BLASI
 ILE AUX SERPENTS
@@ -24760,6 +24780,8 @@ Il etait une fois en amerique
 Il faut sauver le soldat Ryan
 IlDivo
 Iladejatesyeux
+Ilan Van Wilder
+IlanVanWilder
 Ilaria Resta
 IlariaResta
 Ilary Blasi
@@ -25839,6 +25861,7 @@ JEAN-PAUL ROUVE
 JEAN-PAULHUCHON
 JEAN-PIERRE ADAMS
 JEAN-PIERRE CHEVENEMENT
+JEAN-PIERRE ELKABBACH
 JEAN-PIERRE FOUCAULT
 JEAN-PIERRE JABOUILLE
 JEAN-PIERRE MARIELLE
@@ -26956,12 +26979,14 @@ Jean-PaulBelmondo
 Jean-PaulHuchon
 Jean-PaulRouve
 Jean-Pierre Adams
+Jean-Pierre Elkabbach
 Jean-Pierre Foucault
 Jean-Pierre Jabouille
 Jean-Pierre Marielle
 Jean-Pierre Pernaut
 Jean-Pierre chevenement
 Jean-PierreAdams
+Jean-PierreElkabbach
 Jean-PierreFoucault
 Jean-PierreJabouille
 Jean-PierreMarielle
@@ -27038,6 +27063,7 @@ JeanPaul Rouve
 JeanPaulGaultier
 JeanPaulHuchon
 JeanPierre Adams
+JeanPierre Elkabbach
 JeanPierre Foucault
 JeanPierre Jabouille
 JeanPierre Marielle
@@ -33761,6 +33787,7 @@ MANCHESTER UNITED – CRYSTAL PALACE
 MANCHESTER UNITED – DORTMUND
 MANCHESTER UNITED – EVERTON
 MANCHESTER UNITED – FULHAM
+MANCHESTER UNITED – GALATASARAY
 MANCHESTER UNITED – LEEDS UNITED
 MANCHESTER UNITED – LEICESTER
 MANCHESTER UNITED – LENS
@@ -34223,6 +34250,7 @@ MARTINSTAG
 MARTULLO-BLOCHER
 MARWAN BERRENI
 MARWAN BERRENI DISPARITION
+MARWAN BERRENI DISPARITION INQUIÉTANTE
 MARY
 MARY A TOUT PRIX
 MARY J. BLIGE
@@ -34580,6 +34608,7 @@ MESSI TRANSFER
 MESSI TRANSFERT
 MESSI-TRANSFER
 MESSMER
+MESTRE
 MESURE COVID BELGIQUE
 MESURES COVID
 MESURES COVID BELGIQUE
@@ -35720,6 +35749,7 @@ Manchester United – Crystal Palace
 Manchester United – Dortmund
 Manchester United – Everton
 Manchester United – Fulham
+Manchester United – Galatasaray
 Manchester United – Leeds United
 Manchester United – Leicester
 Manchester United – Lens
@@ -35785,6 +35815,7 @@ ManchesterUnited–CrystalPalace
 ManchesterUnited–Dortmund
 ManchesterUnited–Everton
 ManchesterUnited–Fulham
+ManchesterUnited–Galatasaray
 ManchesterUnited–LeedsUnited
 ManchesterUnited–Leicester
 ManchesterUnited–Lens
@@ -36617,8 +36648,10 @@ Martinstag
 Martullo-Blocher
 MartulloBlocher
 Marwan Berreni
+Marwan Berreni Disparition inquiétante
 Marwan Berreni disparition
 MarwanBerreni
+MarwanBerreniDisparitioninquiétante
 MarwanBerrenidisparition
 Mary
 Mary J. Blige
@@ -37234,6 +37267,7 @@ MessiaParis
 MessiauPSG
 Messitransfert
 Messmer
+Mestre
 Mestrèschersenfants
 Mesure covid belgique
 Mesurecovidbelgique
@@ -42042,6 +42076,7 @@ PIERRE-YVES DERMAGNE
 PIERRECROCE
 PIERREGASLY
 PIERREMENES
+PIET DE GROOTE
 PIETER GERKENS
 PIETER LORIDON
 PIETER OMTZIGT
@@ -42081,6 +42116,7 @@ PITA TAUFATOFUA
 PITON DE LA FOURNAISE
 PIXEL 6
 PIXEL 7
+PIXEL 8
 PIXEL WAR
 PIZ LINARD
 PIZZA
@@ -42380,6 +42416,7 @@ PRINCESSECHARLeNEDEMONACO
 PRINCESSECHARLÈNEDEMONACO
 PRINCESSECHARLèNEDEMONACO
 PRINCEWILLIAM
+PRINS BERNHARD
 PRINS CHARLES
 PRINS HARRY
 PRINSES ALEXIA
@@ -43827,6 +43864,8 @@ PierreYves Dermagne
 PierreZakrzewski
 PierredeMaere
 Pierremenes
+Piet De Groote
+PietDeGroote
 Pieter Gerkens
 Pieter Loridon
 Pieter Omtzigt
@@ -43891,9 +43930,11 @@ Piton de la Fournaise
 PitondelaFournaise
 Pixel 6
 Pixel 7
+Pixel 8
 Pixel War
 Pixel6
 Pixel7
+Pixel8
 PixelWar
 Piz Linard
 PizLinard
@@ -44407,8 +44448,10 @@ PrincesseCharlènedeMonaco
 PrincesseElisabeth
 PrincesseMargaret
 PrincesseMariaLaura,deBelgique
+Prins Bernhard
 Prins Charles
 Prins Harry
+PrinsBernhard
 PrinsCharles
 PrinsHarry
 Prinses Alexia
@@ -47765,6 +47808,7 @@ SAND VAN ROY
 SAND VAN ROY LUC BESSON
 SANDA DIA UITSPRAAK
 SANDMAN
+SANDOZ-AKTIE
 SANDRA BADIE
 SANDRA BULLOCK
 SANDRA HÜLLER
@@ -47831,6 +47875,7 @@ SARKOZY
 SARMAT
 SARON
 SARON-HYPOTHEK
+SAS
 SASA KALAJDZIC
 SASAKALAJDZIC
 SASEK
@@ -48404,9 +48449,12 @@ SNAPCHAT
 SNAPCHAT DOWN
 SNB
 SNCF
+SNCF BILLET
 SNCF CONNECT
 SNCF Connect
+SNCF billet
 SNCFConnect
+SNCFbillet
 SNEEUW
 SNIPEX ALLIGATOR
 SNOOP DOGG
@@ -48502,6 +48550,7 @@ SOPHIA ARAM
 SOPHIA ARAM CYRIL HANOUNA
 SOPHIA BUSH
 SOPHIA CHIKIROU
+SOPHIA CHIKIROU JEAN-LUC MÉLENCHON
 SOPHIA LOREN
 SOPHIA THIEL
 SOPHIA THOMALLA
@@ -48529,6 +48578,7 @@ SORACO
 SORARE
 SORBONNE
 SORGE
+SOTOCA
 SOUDAL
 SOUDAN
 SOUDAN GUERRE
@@ -49579,6 +49629,8 @@ SandVanRoyLucBesson
 Sanda Dia uitspraak
 SandaDiauitspraak
 Sandman
+Sandoz-Aktie
+SandozAktie
 Sandra Badie
 Sandra Bullock
 Sandra Hüller
@@ -50749,6 +50801,8 @@ Sophia Aram
 Sophia Aram Cyril Hanouna
 Sophia Bush
 Sophia Chikirou
+Sophia Chikirou Jean-Luc Mélenchon
+Sophia Chikirou JeanLuc Mélenchon
 Sophia Loren
 Sophia Thiel
 Sophia Thomalla
@@ -50758,6 +50812,7 @@ SophiaAram
 SophiaAramCyrilHanouna
 SophiaBush
 SophiaChikirou
+SophiaChikirouJean-LucMélenchon
 SophiaLoren
 SophiaThiel
 SophiaThomalla
@@ -50804,6 +50859,7 @@ Soraco
 Sorare
 Sorbonne
 Sorge
+Sotoca
 Soudal
 Soudan
 Soudan guerre
@@ -58885,6 +58941,8 @@ accident aurore morisse
 accident autoroute
 accident autoroute a1
 accident bus pnl
+accident bus venise
+accident bus venise italie
 accident bus voiture yvelines
 accident centre équestre
 accident de chasse
@@ -58994,6 +59052,7 @@ adrien devyver
 adrien dolimont
 adrien petit
 adrien quatennens
+adrien thomasson
 adrien truffert
 advent
 adventskalender 2021
@@ -59246,6 +59305,7 @@ alex collins
 alex dowsett
 alex fiva
 alex formenton
+alex goude tpmp
 alex goude valerie benaim
 alex hugo
 alex jones
@@ -63823,6 +63883,7 @@ disparition chloe
 disparition d'emile
 disparition de delphine jubillar
 disparition de leslie et kevin
+disparition de lina
 disparition delphine jubillar
 disparition emile
 disparition emile haut-vernet
@@ -66944,6 +67005,7 @@ heath freeman
 heather locklear
 heather penney
 hebe
+hec
 hecht
 hector bellerin
 hedy lamarr
@@ -67047,6 +67109,7 @@ herzogin kate
 heso solothurn
 het geluid
 het geluid qmusic
+het huis anubis
 het verhaal van vlaanderen
 het weer vandaag
 hetty helsmoortel
@@ -67348,6 +67411,7 @@ il est trop bien
 il etait une fois dans l'ouest
 il etait une fois en amerique
 il faut sauver le soldat ryan
+ilan van wilder
 ilaria resta
 ilary blasi
 ile aux serpents
@@ -68117,6 +68181,7 @@ jean-paul rouve
 jean-paulhuchon
 jean-pierre adams
 jean-pierre chevenement
+jean-pierre elkabbach
 jean-pierre foucault
 jean-pierre jabouille
 jean-pierre marielle
@@ -70870,6 +70935,7 @@ manchester united – crystal palace
 manchester united – dortmund
 manchester united – everton
 manchester united – fulham
+manchester united – galatasaray
 manchester united – leeds united
 manchester united – leicester
 manchester united – lens
@@ -71329,6 +71395,7 @@ martinstag
 martullo-blocher
 marwan berreni
 marwan berreni disparition
+marwan berreni disparition inquiétante
 mary
 mary a tout prix
 mary j. blige
@@ -71684,6 +71751,7 @@ messi transfer
 messi transfert
 messi-transfer
 messmer
+mestre
 mesure covid belgique
 mesures covid
 mesures covid belgique
@@ -74054,6 +74122,7 @@ pierre-yves dermagne
 pierrecroce
 pierregasly
 pierremenes
+piet de groote
 pieter gerkens
 pieter loridon
 pieter omtzigt
@@ -74093,6 +74162,7 @@ pita taufatofua
 piton de la fournaise
 pixel 6
 pixel 7
+pixel 8
 pixel war
 piz linard
 pizza
@@ -74386,6 +74456,7 @@ princesse maria laura, de belgique
 princessecharlenedemonaco
 princessecharlènedemonaco
 princewilliam
+prins bernhard
 prins charles
 prins harry
 prinses alexia
@@ -75819,6 +75890,7 @@ sand van roy
 sand van roy luc besson
 sanda dia uitspraak
 sandman
+sandoz-aktie
 sandra badie
 sandra bullock
 sandra hüller
@@ -75885,6 +75957,7 @@ sarkozy
 sarmat
 saron
 saron-hypothek
+sas
 sasa kalajdzic
 sasakalajdzic
 sasek
@@ -76434,6 +76507,7 @@ snapchat
 snapchat down
 snb
 sncf
+sncf billet
 sncf connect
 sneeuw
 snipex alligator
@@ -76530,6 +76604,7 @@ sophia aram
 sophia aram cyril hanouna
 sophia bush
 sophia chikirou
+sophia chikirou jean-luc mélenchon
 sophia loren
 sophia thiel
 sophia thomalla
@@ -76557,6 +76632,7 @@ soraco
 sorare
 sorbonne
 sorge
+sotoca
 soudal
 soudan
 soudan guerre
