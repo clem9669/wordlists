@@ -282,13 +282,16 @@
 20KM BRUSSEL
 20KM DE BRUXELLES
 20KM DE BRUXELLES 2021
+20KM DE PARIS
 20Minnews
 20km Brussel
 20km brussel
 20km de Bruxelles
 20km de Bruxelles 2021
+20km de Paris
 20km de bruxelles
 20km de bruxelles 2021
+20km de paris
 20kmBrussel
 20kmdeBruxelles
 20kmdeBruxelles2021
@@ -1550,6 +1553,7 @@ ANGLETERRE-DANEMARK
 ANGLETERRE-ECOSSE
 ANGLETERRE-FRANCE
 ANGLETERRE-NIGERIA
+ANGLETERRE-SAMOA
 ANGLETERREALLEMAGNE
 ANGLETERREDANEMARK
 ANGLETERREECOSSE
@@ -3968,6 +3972,7 @@ Angleterre-Ecosse
 Angleterre-France
 Angleterre-Nigeria
 Angleterre-PaysdeGalles
+Angleterre-Samoa
 AngleterreAllemagne
 AngleterreArgentine
 AngleterreDanemark
@@ -3977,6 +3982,7 @@ AngleterreIran
 AngleterreIrlande
 AngleterreNigeria
 AngleterreNouvellezelande
+AngleterreSamoa
 Angleterrefoot
 Angleterrerepubliquetcheque
 Angleterresenegal
@@ -9466,6 +9472,7 @@ CERCLE BRUGES – ANDERLECHT
 CERCLE BRUGES – UNION SAINT-GILLOISE
 CERCLE BRUGGE
 CEREMONIE OUVERTURE JO 2021
+CERN
 CERNON
 CERTIFICAT COVID
 CERTIFICAT COVID EUROPEEN
@@ -18557,6 +18564,7 @@ FLYER HUTTWIL
 FLeche wallonne 2023
 FLechewallonne2023
 FLÜGE
+FLÜGE NACH ISRAEL
 FNAC BLACK FRIDAY
 FNAC LIVE
 FOD ECONOMIE
@@ -19740,6 +19748,8 @@ Flyer
 Flyer Huttwil
 FlyerHuttwil
 Flüge
+Flüge nach Israel
+FlügenachIsrael
 Fnac Black Friday
 Fnac Live
 FnacBlackFriday
@@ -20807,6 +20817,7 @@ GAY PRIDE
 GAYA BECAUD
 GAZ RUSSE
 GAZA
+GAZASTREIFEN
 GAZIANTEP
 GAZPROM
 GAZPROM AKTIE
@@ -20871,6 +20882,7 @@ GENK – STANDARD
 GENK – UNION SAINT-GILLOISE
 GENK-ANDERLECHT
 GENK-CHARLEROI
+GENOA  MILAN
 GENOA  ROMA
 GENOA – JUVENTUS
 GENOA – NAPLES
@@ -21230,6 +21242,7 @@ GRACE JONES
 GRACE KELLY
 GRACE VAN DIEN
 GRACELAND
+GRACIE ABRAMS
 GRAHAM ARNOLD
 GRAHAM POTTER
 GRAMMY 2022
@@ -21259,6 +21272,7 @@ GRAND PRIX F1 MIAMI
 GRAND PRIX JAPON
 GRAND PRIX MONACO
 GRAND PRIX PAYS-BAS
+GRAND PRIX QATAR
 GRAND PRIX SILVERSTONE
 GRAND PRIX SPA
 GRAND RAID 2022
@@ -21727,6 +21741,7 @@ Gaya Becaud
 GayaBecaud
 Gaz russe
 Gaza
+Gazastreifen
 Gaziantep
 Gazprom
 Gazprom Aktie
@@ -21843,10 +21858,12 @@ Genk–ClubBrugge
 Genk–Olympiakos
 Genk–Standard
 Genk–UnionSaint-Gilloise
+Genoa  Milan
 Genoa  Roma
 Genoa – Juventus
 Genoa – Naples
 Genoa – Roma
+GenoaMilan
 GenoaRoma
 Genoa–Juventus
 Genoa–Naples
@@ -22383,6 +22400,8 @@ GraceKelly
 GraceVanDien
 GraceaDieu
 Graceland
+Gracie Abrams
+GracieAbrams
 Graham Arnold
 Graham Potter
 GrahamArnold
@@ -22419,6 +22438,7 @@ Grand Prix Japon
 Grand Prix Monaco
 Grand Prix Pays-Bas
 Grand Prix PaysBas
+Grand Prix Qatar
 Grand Prix Silverstone
 Grand Prix Spa
 Grand Prix d'Autriche
@@ -22446,6 +22466,7 @@ GrandPrixF1Miami
 GrandPrixJapon
 GrandPrixMonaco
 GrandPrixPays-Bas
+GrandPrixQatar
 GrandPrixSilverstone
 GrandPrixSpa
 GrandPrixd'Autriche
@@ -24600,6 +24621,7 @@ IRLANDE-ROUMANIE
 IRM
 IRMA LA DOUCE
 IRMGARD FURCHNER
+IRON DOME
 IRON MAIDEN
 IRON MAIDEN SPORTPALEIS
 IRON MAN
@@ -25348,11 +25370,13 @@ Irma la douce
 Irmaladouce
 Irmgard Furchner
 IrmgardFurchner
+Iron Dome
 Iron Maiden
 Iron Maiden Sportpaleis
 Iron Man
 Iron Man 2
 Iron Man 3
+IronDome
 IronMaiden
 IronMaidenSportpaleis
 IronMan
@@ -25812,6 +25836,7 @@ JAPANSE DUIZENDKNOOP
 JAPANSE TUIN HASSELT
 JAPON
 JAPON ANGLETERRE
+JAPON ARGENTINE
 JAPON ESPAGNE
 JAPON JEUX OLYMPIQUES DE TOKYO 2020
 JAPON NORVÈGE
@@ -26210,6 +26235,7 @@ JOLANDA SPIESS-HEGGLIN
 JOLIEN BOUMKWO
 JOLIEN VERSCHUEREN
 JOLIENVERSCHUEREN
+JOM KIPPUR
 JON BATISTE
 JON BON JOVI
 JON FOSSE
@@ -26860,6 +26886,7 @@ JapanseTuinHasselt
 Japanseduizendknoop
 Japon
 Japon Angleterre
+Japon Argentine
 Japon Espagne
 Japon Jeux olympiques de Tokyo 2020
 Japon Norvège
@@ -26868,6 +26895,7 @@ Japon – Costa Rica
 Japon – Croatie
 Japon – Espagne
 JaponAngleterre
+JaponArgentine
 JaponEspagne
 JaponJeuxolympiquesdeTokyo2020
 JaponNorvège
@@ -27655,6 +27683,8 @@ Jolien Boumkwo
 Jolien Verschueren
 JolienBoumkwo
 JolienVerschueren
+Jom Kippur
+JomKippur
 Jon Batiste
 Jon Bon Jovi
 Jon Fosse
@@ -30224,6 +30254,7 @@ LE VILLAGE DES ENDORMIS
 LE VOYAGEUR
 LEA ELUI
 LEA SALAME
+LEA SALAMÉ QUELLE EPOQUE
 LEA SEYDOUX
 LEA SPRUNGER
 LEAGUE CUP
@@ -30909,6 +30940,7 @@ LOTO DU 2 AOUT 2023
 LOTO DU 22 JUILLET 2023
 LOTO DU 3 SEPTEMBRE 2022
 LOTO DU 31 JUILLET 2023
+LOTO DU 7 OCTOBRE 2023
 LOTO DU PATRIMOINE
 LOTO SAINT-VALENTIN
 LOTO VENDREDI 13
@@ -31886,10 +31918,12 @@ LeTempsd'aimeretletempsdemourir
 LeTigreduBengale
 LeTourdumondeen80jours
 Lea Elui
+Lea Salamé Quelle epoque
 Lea Seydoux
 Lea Sprunger
 Lea salame
 LeaElui
+LeaSalaméQuelleepoque
 LeaSeydoux
 LeaSprunger
 League Cup
@@ -33111,6 +33145,7 @@ Loto du 2 aout 2023
 Loto du 22 juillet 2023
 Loto du 3 septembre 2022
 Loto du 31 juillet 2023
+Loto du 7 octobre 2023
 Loto du patrimoine
 Loto vendredi 13
 Loto10novembre2021
@@ -33154,6 +33189,7 @@ Lotodu22juillet2023
 Lotodu2aout2023
 Lotodu31juillet2023
 Lotodu3septembre2022
+Lotodu7octobre2023
 Lotodupatrimoine
 Lotovendredi13
 Lotte Kopecky
@@ -34286,6 +34322,7 @@ MARSEILLE – EINTRACHT
 MARSEILLE – FC ANNECY
 MARSEILLE – FK QARABAG
 MARSEILLE – LAZIO
+MARSEILLE – LE HAVRE
 MARSEILLE – LENS
 MARSEILLE – LILLE
 MARSEILLE – LORIENT
@@ -36613,6 +36650,7 @@ Marseille – Eintracht
 Marseille – FC Annecy
 Marseille – FK Qarabag
 Marseille – Lazio
+Marseille – Le Havre
 Marseille – Lens
 Marseille – Lille
 Marseille – Lorient
@@ -36651,6 +36689,7 @@ Marseille–Eintracht
 Marseille–FCAnnecy
 Marseille–FKQarabag
 Marseille–Lazio
+Marseille–LeHavre
 Marseille–Lens
 Marseille–Lille
 Marseille–Lorient
@@ -40667,6 +40706,9 @@ OM Strasbourg
 OM-Ajaccio
 OM-BORDEAUX
 OM-Bordeaux
+OM-LE HAVRE
+OM-Le Havre
+OM-LeHavre
 OM-PAOK
 OM-PSG
 OM-PSG CHAINE
@@ -40697,6 +40739,7 @@ OMLOOP HET NIEUWSBLAD
 OMLOOP HET NIEUWSBLAD 2022
 OMLOOP HET NIEUWSBLAD! 2022 PARCOURS
 OMLOOP VAN VLAANDEREN
+OMLe Havre
 OMMARTIGUES
 OMMEGANG
 OMMartigues
@@ -41744,6 +41787,7 @@ PARIS-SG – TOULOUSE
 PARIS-SG – TROYES
 PARIS-SG – URAWA REDS
 PARIS-TOURS 2021
+PARIS-TOURS 2023
 PARIS-VERSAILLES
 PARISJACKSON
 PARISMATCH
@@ -41958,8 +42002,11 @@ PEAKY BLINDERS
 PEAKY BLINDERS SAISON 6
 PEARL HARBOR
 PEARL JAM
+PEC  FEYENOORD
+PEC  Feyenoord
 PEC ZWOLLE
 PEC Zwolle
+PECFeyenoord
 PECRESSE
 PECZwolle
 PEDRI
@@ -43062,7 +43109,9 @@ Paris-SG–Marseille
 Paris-SG–Montpellier
 Paris-SG–ParisFC
 Paris-Tours 2021
+Paris-Tours 2023
 Paris-Tours2021
+Paris-Tours2023
 Paris-Versailles
 Paris-sg contre Marseille
 Paris-sg – Ajaccio
@@ -43160,6 +43209,7 @@ ParisSG – Montpellier
 ParisSG – Paris FC
 ParisSaint-Germain
 ParisTours 2021
+ParisTours 2023
 ParisVersailles
 Parissaint-germainFootballClub
 Parissansvoiture
@@ -45400,6 +45450,7 @@ RENEWI TOUR
 RENFE
 RENNES
 RENNES FOOT
+RENNES PSG
 RENNES TOTTENHAM
 RENNES – AEK LARNACA
 RENNES – AJACCIO
@@ -46711,6 +46762,7 @@ RenewiTour
 Renfe
 Rennes
 Rennes Foot
+Rennes PSG
 Rennes Tottenham
 Rennes – AEK Larnaca
 Rennes – Ajaccio
@@ -46752,6 +46804,7 @@ RennesBrest
 RennesFoot
 RennesLeicester
 RennesNantes Foot
+RennesPSG
 RennesRosenborg
 RennesTottenham
 Rennes–AEKLarnaca
@@ -48356,6 +48409,7 @@ SHANG-CHI
 SHANG-CHI AND THE LEGEND OF THE TEN RINGS
 SHANG-CHI ET LA LÉGENDE DES DIX ANNEAUX
 SHANGHAI
+SHANI LOUK
 SHANIA GEISS
 SHANIA TWAIN
 SHANKY
@@ -50422,6 +50476,8 @@ ShangChi
 ShangChi and the Legend of the Ten Rings
 ShangChi et la légende des dix anneaux
 Shanghai
+Shani Louk
+ShaniLouk
 Shania Geiss
 Shania Twain
 ShaniaGeiss
@@ -52979,6 +53035,7 @@ TRANSAVIA
 TRANSDEV
 TRANSFERMARKT
 TRANSFORMERS : RISE OF THE BEASTS
+TRANSGENRE MISS PORTUGAL
 TRANSILIEN
 TRANSNISTRIE
 TRANSNISTRIEN
@@ -54636,6 +54693,8 @@ Transdev
 Transfermarkt
 Transformers : Rise of the Beasts
 Transformers:RiseoftheBeasts
+Transgenre Miss Portugal
+TransgenreMissPortugal
 Transilien
 Transnistrie
 Transnistrien
@@ -55844,6 +55903,7 @@ VERSCHAEREN
 VERSTAPPEN
 VERSTAPPEN PEREZ
 VERSTEHEN SIE SPAß
+VERSTEHEN SIE SPAß BARBARA SCHÖNEBERGER
 VERSUZ
 VERT MARINE
 VERWARMINGSPREMIE
@@ -56456,7 +56516,9 @@ Verstappen
 Verstappen Perez
 VerstappenPerez
 Verstehen Sie Spaß
+Verstehen Sie Spaß Barbara Schöneberger
 VerstehenSieSpaß
+VerstehenSieSpaßBarbaraSchöneberger
 Versuz
 Vert Marine
 VertMarine
@@ -58242,6 +58304,7 @@ YASSINE BELATTAR
 YASSINE BOUNOU
 YAYA TOURÉ
 YB
+YB BASEL
 YB MANCHESTER UNITED
 YB Manchester United
 YBManchesterUnited
@@ -58360,6 +58423,8 @@ YassineBelattar
 YassineBounou
 Yaya Touré
 YayaTouré
+Yb Basel
+YbBasel
 Yeliz Koc
 Yeliz Koc Playboy
 YelizKoc
@@ -59926,6 +59991,7 @@ angleterre-danemark
 angleterre-ecosse
 angleterre-france
 angleterre-nigeria
+angleterre-samoa
 angleterreallemagne
 angleterredanemark
 angleterreecosse
@@ -62429,6 +62495,7 @@ cercle bruges – anderlecht
 cercle bruges – union saint-gilloise
 cercle brugge
 ceremonie ouverture jo 2021
+cern
 cernon
 certificat covid
 certificat covid europeen
@@ -65721,6 +65788,7 @@ fluvoxamin
 flyer
 flyer huttwil
 flüge
+flüge nach israel
 fnac black friday
 fnac live
 fod economie
@@ -66318,6 +66386,7 @@ gay pride
 gaya becaud
 gaz russe
 gaza
+gazastreifen
 gaziantep
 gazprom
 gazprom aktie
@@ -66382,6 +66451,7 @@ genk – standard
 genk – union saint-gilloise
 genk-anderlecht
 genk-charleroi
+genoa  milan
 genoa  roma
 genoa – juventus
 genoa – naples
@@ -66703,6 +66773,7 @@ grace jones
 grace kelly
 grace van dien
 graceland
+gracie abrams
 graham arnold
 graham potter
 grammy 2022
@@ -66732,6 +66803,7 @@ grand prix f1 miami
 grand prix japon
 grand prix monaco
 grand prix pays-bas
+grand prix qatar
 grand prix silverstone
 grand prix spa
 grand raid 2022
@@ -67896,6 +67968,7 @@ irlande-roumanie
 irm
 irma la douce
 irmgard furchner
+iron dome
 iron maiden
 iron maiden sportpaleis
 iron man
@@ -68245,6 +68318,7 @@ japanse duizendknoop
 japanse tuin hasselt
 japon
 japon angleterre
+japon argentine
 japon espagne
 japon jeux olympiques de tokyo 2020
 japon norvège
@@ -68636,6 +68710,7 @@ jolanda spiess-hegglin
 jolien boumkwo
 jolien verschueren
 jolienverschueren
+jom kippur
 jon batiste
 jon bon jovi
 jon fosse
@@ -69926,6 +70001,7 @@ le village des endormis
 le voyageur
 lea elui
 lea salame
+lea salamé quelle epoque
 lea seydoux
 lea sprunger
 league cup
@@ -70598,6 +70674,7 @@ loto du 2 aout 2023
 loto du 22 juillet 2023
 loto du 3 septembre 2022
 loto du 31 juillet 2023
+loto du 7 octobre 2023
 loto du patrimoine
 loto saint-valentin
 loto vendredi 13
@@ -71523,6 +71600,7 @@ marseille – eintracht
 marseille – fc annecy
 marseille – fk qarabag
 marseille – lazio
+marseille – le havre
 marseille – lens
 marseille – lille
 marseille – lorient
@@ -73469,6 +73547,7 @@ om psg chaine
 om servette
 om strasbourg
 om-bordeaux
+om-le havre
 om-paok
 om-psg
 om-psg chaine
@@ -73881,6 +73960,7 @@ paris-sg – toulouse
 paris-sg – troyes
 paris-sg – urawa reds
 paris-tours 2021
+paris-tours 2023
 paris-versailles
 parisjackson
 parismatch
@@ -74091,6 +74171,7 @@ peaky blinders
 peaky blinders saison 6
 pearl harbor
 pearl jam
+pec  feyenoord
 pec zwolle
 pecresse
 pedri
@@ -75290,6 +75371,7 @@ renewi tour
 renfe
 rennes
 rennes foot
+rennes psg
 rennes tottenham
 rennes – aek larnaca
 rennes – ajaccio
@@ -76490,6 +76572,7 @@ shang-chi
 shang-chi and the legend of the ten rings
 shang-chi et la légende des dix anneaux
 shanghai
+shani louk
 shania geiss
 shania twain
 shanky
@@ -78316,6 +78399,7 @@ transavia
 transdev
 transfermarkt
 transformers : rise of the beasts
+transgenre miss portugal
 transilien
 transnistrie
 transnistrien
@@ -78949,6 +79033,7 @@ verschaeren
 verstappen
 verstappen perez
 verstehen sie spaß
+verstehen sie spaß barbara schöneberger
 versuz
 vert marine
 verwarmingspremie
@@ -79726,6 +79811,7 @@ yassine belattar
 yassine bounou
 yaya touré
 yb
+yb basel
 yb manchester united
 yeliz koc
 yeliz koc playboy
