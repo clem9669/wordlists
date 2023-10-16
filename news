@@ -1555,6 +1555,7 @@ ANGLETERRE-ALLEMAGNE
 ANGLETERRE-ARGENTINE
 ANGLETERRE-DANEMARK
 ANGLETERRE-ECOSSE
+ANGLETERRE-FIDJI
 ANGLETERRE-FRANCE
 ANGLETERRE-NIGERIA
 ANGLETERRE-SAMOA
@@ -2325,6 +2326,7 @@ AVRILLAVIGNE
 AWANS
 AXA
 AXA BANQUE
+AXALP FLIEGERSCHIESSEN
 AXEL BAUER
 AXEL DAESELEIRE
 AXEL DISASI
@@ -4000,6 +4002,7 @@ AngleterreAllemagne
 AngleterreArgentine
 AngleterreDanemark
 AngleterreEcosse
+AngleterreFidji
 AngleterreFrance
 AngleterreIran
 AngleterreIrlande
@@ -5282,6 +5285,8 @@ Awans
 Axa
 Axa Banque
 AxaBanque
+Axalp fliegerschiessen
+Axalpfliegerschiessen
 Axel Bauer
 Axel Daeseleire
 Axel Disasi
@@ -6141,6 +6146,7 @@ BKwielrennen
 BLAARMEERSEN
 BLAC CHYNA
 BLACK ADAM
+BLACK BOOK
 BLACK BOX REVELATION
 BLACK EYED PEAS
 BLACK FRIDAY
@@ -8098,6 +8104,7 @@ Blaarmeersen
 Blac Chyna
 BlacChyna
 Black Adam
+Black Book
 Black Box Revelation
 Black Eyed Peas
 Black Friday
@@ -8116,6 +8123,7 @@ Black-Friday-Deals
 Black-Fridaydeals
 BlackAdam
 BlackBerry
+BlackBook
 BlackBoxRevelation
 BlackEyedPeas
 BlackFriday
@@ -9929,6 +9937,7 @@ CHRISTOPHER NOLAN
 CHRISTOPHER REEVE
 CHRISTOPHKRAMER
 CHRONEXT
+CHRONO DES NATIONS
 CHRONO ODYSSEY
 CHRUPALLA
 CHRYSOULA ZACHAROPOULOU
@@ -10412,6 +10421,7 @@ COUPE DU MONDE FÉMININE 2023
 COUPE DU MONDE FÉMININE DE FOOTBALL 2023
 COUPE DU MONDE RUGBY
 COUPE DU MONDE RUGBY 2023
+COUPE DU MONDE RUGBY 2027
 COUPE DU MONDE U20
 COUPE SUISSE
 COUPED'EUROPE2021
@@ -11946,7 +11956,9 @@ ChristopherNolan
 ChristopherReeve
 Chronext
 Chrono Odyssey
+Chrono des Nations
 ChronoOdyssey
+ChronodesNations
 Chrupalla
 Chrysoula Zacharopoulou
 ChrysoulaZacharopoulou
@@ -12775,6 +12787,7 @@ Coupe du monde féminine 2023
 Coupe du monde féminine de football 2023
 Coupe du monde rugby
 Coupe du monde rugby 2023
+Coupe du monde rugby 2027
 CoupeSuisse
 Couped'Afrique
 Couped'Europe2021
@@ -12798,6 +12811,7 @@ Coupedumondeféminine2023
 Coupedumondefémininedefootball2023
 Coupedumonderugby
 Coupedumonderugby2023
+Coupedumonderugby2027
 Couple disparu voiture retrouvée
 Coupledisparuvoitureretrouvée
 Coupure electricite
@@ -13243,6 +13257,7 @@ DANIEL HUMM
 DANIEL HUMM DEMI MOORE
 DANIEL LEVI
 DANIEL MICKELSON
+DANIEL NOBOA
 DANIEL PERETZ
 DANIEL POLETTE
 DANIEL PRÉVOST
@@ -13852,6 +13867,7 @@ DON'T WORRY BE HAPPY
 DON'T WORRY DARLING
 DONALD RUMSFELD
 DONALD TRUMP
+DONALD TUSK
 DONALDRUMSFELD
 DONBASS
 DONDA
@@ -14184,6 +14200,7 @@ Daniel Humm
 Daniel Humm Demi Moore
 Daniel Levi
 Daniel Mickelson
+Daniel Noboa
 Daniel Peretz
 Daniel Polette
 Daniel Prévost
@@ -14211,6 +14228,7 @@ DanielHumm
 DanielHummDemiMoore
 DanielLevi
 DanielMickelson
+DanielNoboa
 DanielPeretz
 DanielPolette
 DanielPrévost
@@ -15225,8 +15243,10 @@ Don'tworrybehappy
 DonLemon
 Donald Rumsfeld
 Donald Trump
+Donald Tusk
 DonaldRumsfeld
 DonaldTrump
+DonaldTusk
 Donbass
 Donda
 Donda 2
@@ -15707,6 +15727,7 @@ EILEEN RYAN
 EILISH MCCOLGAN
 EIN MÄDCHEN WIRD VERMISST
 EINAR
+EINE STARKE FAMILIE
 EINFACH MAL WAS SCHÖNES
 EINREISE DEUTSCHLAND
 EINREISE ITALIEN
@@ -15774,6 +15795,7 @@ EKwielrennen
 EL CHAPO
 EL NINO
 EL SALVADOR
+ELA
 ELAINE THOMPSON
 ELAN CHALON
 ELANCOURT
@@ -16650,6 +16672,8 @@ EilishMcColgan
 Ein Mädchen wird vermisst
 EinMädchenwirdvermisst
 Einar
+Eine starke Familie
+EinestarkeFamilie
 Einfach mal was Schönes
 EinfachmalwasSchönes
 Einreise Deutschland
@@ -18854,6 +18878,7 @@ FRANCE – PORTUGAL
 FRANCE – SUISSE
 FRANCE – ÉCOSSE
 FRANCE-AFRIQUE DU SUD
+FRANCE-AFRIQUE DU SUD STADE
 FRANCE-ANGLETERRE
 FRANCE-ARGENTINE RUGBY
 FRANCE-AUSTRALIE
@@ -20113,6 +20138,7 @@ France armenie
 France aux jeux olympiques d'hiver
 France bresil
 France cote d'Ivoire
+France ecosse
 France etats unis basket
 France foot
 France georgie rugby
@@ -20140,7 +20166,9 @@ France – Portugal
 France – Suisse
 France – Écosse
 France-Afrique du Sud
+France-Afrique du Sud Stade
 France-AfriqueduSud
+France-AfriqueduSudStade
 France-AllemagneBasket
 France-Allemagnehandball
 France-Angleterre
@@ -20190,6 +20218,7 @@ France.tv
 France2
 France24
 FranceAfrique du Sud
+FranceAfrique du Sud Stade
 FranceAfriqueduSud
 FranceAllemagne
 FranceAngleterre
@@ -20262,6 +20291,7 @@ Francearmenie
 Franceauxjeuxolympiquesd'hiver
 Francebresil
 Francecoted'Ivoire
+Franceecosse
 Franceetatsunisbasket
 Francefoot
 Francegeorgierugby
@@ -30634,6 +30664,7 @@ LES LACS DU CONNEMARA
 LES MARSEILLAIS AU MEXIQUE
 LES MARSEILLAIS VS LE RESTE DU MONDE 6
 LES MINIONS 2 : IL ÉTAIT UNE FOIS GRU
+LES MISERABLES
 LES PARTICULES ÉLÉMENTAIRES
 LES PASSAGERS DE LA NUIT
 LES PLEINS POUVOIRS
@@ -30995,6 +31026,7 @@ LOENHOUT
 LOG4J
 LOG4SHELL
 LOGAN MAILLOUX
+LOGAN PAUL
 LOGITECH
 LOGITECH-AKTIE
 LOGO BRUSSELS AIRLINES
@@ -31135,6 +31167,7 @@ LOTO26JUIN2021
 LOTO3JUILLET2021
 LOTO7JUILLET2021
 LOTO9octobre2021
+LOTOMBA
 LOTTE KOPECKY
 LOTTE VANWEZEMAEL
 LOTTEKOPECKY
@@ -32468,6 +32501,7 @@ Les fantasmes
 Les filles du docteur March
 Les galettes de Pont-Aven
 Les galettes de PontAven
+Les miserables
 Les particules élémentaires
 Les profs 2
 Les randonneurs
@@ -32567,6 +32601,7 @@ LeslieGrace
 LeslieJordan
 LeslieVanHouten
 LeslieetKevin
+Lesmiserables
 Lesparticulesélémentaires
 Lesprofs2
 Lesrandonneurs
@@ -33149,7 +33184,9 @@ Loenhout
 Log4Shell
 Log4j
 Logan Mailloux
+Logan Paul
 LoganMailloux
+LoganPaul
 Logitech
 Logitech-Aktie
 LogitechAktie
@@ -33396,6 +33433,7 @@ Lotodu31juillet2023
 Lotodu3septembre2022
 Lotodu7octobre2023
 Lotodupatrimoine
+Lotomba
 Lotovendredi13
 Lotovendredi13octobre2023
 Lotte Kopecky
@@ -39551,6 +39589,7 @@ NORMAN THAVAUD
 NORMANDIE
 NOROVIRUS
 NORVEGE
+NORVÈGE – ESPAGNE
 NORWEGEN ATTENTAT
 NORWICH CITY
 NORWICH CITY – CHELSEA
@@ -40544,6 +40583,8 @@ NormanThavaud
 Normandie
 Norovirus
 Norvege
+Norvège – Espagne
+Norvège–Espagne
 Norwegen Attentat
 NorwegenAttentat
 Norwich City
@@ -42625,6 +42666,7 @@ POLE EMPLOI
 POLEN
 POLEN  SAOEDI-ARABIË
 POLEN WAGNER-SÖLDNER
+POLEN WAHLEN
 POLESTAR
 POLESTAR 3
 POLESTAR 4
@@ -42820,6 +42862,7 @@ PRIMUS CLASSIC
 PRINCE
 PRINCE ANDREW
 PRINCE CHARLES
+PRINCE CHRISTIAN
 PRINCE GEORGE
 PRINCE HARRY
 PRINCE LAURENT
@@ -44523,8 +44566,10 @@ Polen  Saoedi-Arabië
 Polen  SaoediArabië
 Polen Wagner-Söldner
 Polen WagnerSöldner
+Polen Wahlen
 PolenSaoedi-Arabië
 PolenWagner-Söldner
+PolenWahlen
 Polestar
 Polestar 3
 Polestar 4
@@ -44872,6 +44917,7 @@ PrimusClassic
 Prince
 Prince Andrew
 Prince Charles
+Prince Christian
 Prince George
 Prince Harry
 Prince Laurent
@@ -44879,6 +44925,7 @@ Prince Louis
 Prince William
 PrinceAndrew
 PrinceCharles
+PrinceChristian
 PrinceGeorge
 PrinceHarry
 PrinceLaurent
@@ -48050,6 +48097,7 @@ RÉMY REBEYROTTE
 RÉPUBLIQUE TCHÈQUE – PORTUGAL
 RÉPUBLIQUE TCHÈQUE – SUISSE
 RÉSULTATS DE L'ÉLECTION #PRÉSIDENTIELLE2022
+RÉSULTATS RUGBY
 RÉVEILLON DE LA SAINT-SYLVESTRE
 RÉVEILLON DU NOUVEL AN
 Räuber Hotzenplotz
@@ -48086,8 +48134,10 @@ Résultat election
 Résultatelection
 Résultats brevet 2021
 Résultats de l'élection #présidentielle2022
+Résultats rugby
 Résultatsbrevet2021
 Résultatsdel'élection#présidentielle2022
+Résultatsrugby
 Réveillon de la Saint-Sylvestre
 Réveillon de la SaintSylvestre
 Réveillon du Nouvel An
@@ -48919,6 +48969,7 @@ SLAPENDE REKENINGEN
 SLASH
 SLEEPERS
 SLEEPWORLD
+SLEEPY HOLLOW
 SLIMANE
 SLIMSTE MENS
 SLIPKNOT
@@ -49562,6 +49613,7 @@ SUISSE KOSOVO
 SUISSE PORTUGAL
 SUISSE PUBLIC 2023
 SUISSE SERBIE
+SUISSE – BIÉLORUSSIE
 SUISSE – CAMEROUN
 SUISSE – ESPAGNE
 SUISSE – GRÈCE
@@ -49647,6 +49699,7 @@ SUSANNE WILLE
 SUSTENPASS
 SUTOM
 SUZAN EN FREEK
+SUZANNE SOMERS
 SUeDE  SLOVAQUIE
 SUeDE - SLOVAQUIE
 SUeDE-SLOVAQUIE
@@ -51130,6 +51183,8 @@ Slapenderekeningen
 Slash
 Sleepers
 Sleepworld
+Sleepy Hollow
+SleepyHollow
 Slimane
 Slimste mens
 Slimstemens
@@ -52137,6 +52192,7 @@ Suisse Portugal
 Suisse Public 2023
 Suisse Serbie
 Suisse jeux olympiques d'hiver de 2022
+Suisse – Biélorussie
 Suisse – Cameroun
 Suisse – Espagne
 Suisse – Grèce
@@ -52155,6 +52211,7 @@ SuissePublic2023
 SuisseSerbie
 SuisseTurquie
 Suissejeuxolympiquesd'hiverde2022
+Suisse–Biélorussie
 Suisse–Cameroun
 Suisse–Espagne
 Suisse–Grèce
@@ -52283,6 +52340,8 @@ SusanneWille
 Sustenpass
 Suzan en Freek
 SuzanenFreek
+Suzanne Somers
+SuzanneSomers
 Suède  Slovaquie
 Suède - Slovaquie
 Suède – Algérie
@@ -53411,6 +53470,7 @@ TRIATHLON
 TRIATHLON GENEVE
 TRIATHLON JO
 TRIATHLON OLYMPIA
+TRIBUNE DE GENEVE
 TRICK OR TREAT
 TRIESTE
 TRIMETAZIDINE
@@ -55104,6 +55164,8 @@ Triathlon geneve
 TriathlonJO
 TriathlonOlympia
 Triathlongeneve
+Tribune de geneve
+Tribunedegeneve
 Trick or treat
 Trickortreat
 Trieste
@@ -55301,6 +55363,7 @@ TÉLÉMATIN JULIA VIGNALI
 TÉLÉTRAVAIL OBLIGATOIRE
 TÜRKEI
 TÜRKEI KROATIEN
+TÜRKEI LETTLAND
 TÜRKEI WAHLEN
 Télescope spatial James Webb
 TélescopespatialJamesWebb
@@ -55310,8 +55373,10 @@ Télétravail obligatoire
 Télétravailobligatoire
 Türkei
 Türkei Kroatien
+Türkei Lettland
 Türkei Wahlen
 TürkeiKroatien
+TürkeiLettland
 TürkeiWahlen
 U-BOOT TITANIC
 U-Boot Titanic
@@ -55486,6 +55551,7 @@ UMTITI
 UN AMOUR IMPOSSIBLE
 UN AUTRE MONDE
 UN CADAVRE AU DESSERT
+UN DIMANCHE À LA CAMPAGNE 15 OCTOBRE
 UN ESPION TRÈS RECHERCHÉ
 UN GARS, UNE FILLE (AU PLURIEL
 UN HOMME A LA HAUTEUR
@@ -55776,6 +55842,7 @@ Un Jour Sans Fin
 Un amour impossible
 Un autre monde
 Un cadavre au dessert
+Un dimanche à la campagne 15 octobre
 Un espion très recherché
 Un gars, une fille (au pluriel
 Un homme a la hauteur
@@ -55808,6 +55875,7 @@ Undercover
 Undercover Seizoen 3
 UndercoverSeizoen3
 Underwater
+Undimancheàlacampagne15octobre
 Undiz
 Undmorgenseidihrtot
 Une affaire de femme
@@ -56246,6 +56314,7 @@ VERKEHRSUNFALL THÜRINGEN
 VERKIEZINGEN BRAZILIE
 VERKIEZINGEN FRANKRIJK
 VERKIEZINGEN NEDERLAND
+VERKIEZINGEN POLEN
 VERKIEZINGEN TURKIJE
 VERKIEZINGEN VS
 VERMAELEN
@@ -56845,12 +56914,14 @@ VerkehrsunfallBiel
 VerkehrsunfallThüringen
 Verkiezingen Frankrijk
 Verkiezingen Nederland
+Verkiezingen Polen
 Verkiezingen Turkije
 Verkiezingen VS
 Verkiezingen brazilie
 Verkiezingen turkije
 VerkiezingenFrankrijk
 VerkiezingenNederland
+VerkiezingenPolen
 VerkiezingenTurkije
 VerkiezingenVS
 Verkiezingenbrazilie
@@ -58707,6 +58778,7 @@ YORBE VERTESSEN
 YOU
 YOU SAISON 3
 YOU SAISON 4
+YOUCEF ATAL
 YOUNG BO
 YOUNG BOYS
 YOUNG BOYS GEGEN LIEPĀJA
@@ -58833,6 +58905,8 @@ You saison 3
 You saison 4
 YouTube Joueur du Grenier
 YouTubeJoueurduGrenier
+Youcef Atal
+YoucefAtal
 Young Bo
 Young Boys
 Young Boys gegen Lugano
@@ -60378,6 +60452,7 @@ angleterre-allemagne
 angleterre-argentine
 angleterre-danemark
 angleterre-ecosse
+angleterre-fidji
 angleterre-france
 angleterre-nigeria
 angleterre-samoa
@@ -61098,6 +61173,7 @@ avrillavigne
 awans
 axa
 axa banque
+axalp fliegerschiessen
 axel bauer
 axel daeseleire
 axel disasi
@@ -61900,6 +61976,7 @@ bkw
 blaarmeersen
 blac chyna
 black adam
+black book
 black box revelation
 black eyed peas
 black friday
@@ -63296,6 +63373,7 @@ christopher nolan
 christopher reeve
 christophkramer
 chronext
+chrono des nations
 chrono odyssey
 chrupalla
 chrysoula zacharopoulou
@@ -63766,6 +63844,7 @@ coupe du monde féminine 2023
 coupe du monde féminine de football 2023
 coupe du monde rugby
 coupe du monde rugby 2023
+coupe du monde rugby 2027
 coupe du monde u20
 coupe suisse
 couped'europe2021
@@ -64063,6 +64142,7 @@ daniel humm
 daniel humm demi moore
 daniel levi
 daniel mickelson
+daniel noboa
 daniel peretz
 daniel polette
 daniel prévost
@@ -64637,6 +64717,7 @@ don't worry be happy
 don't worry darling
 donald rumsfeld
 donald trump
+donald tusk
 donaldrumsfeld
 donbass
 donda
@@ -64945,6 +65026,7 @@ eileen ryan
 eilish mccolgan
 ein mädchen wird vermisst
 einar
+eine starke familie
 einfach mal was schönes
 einreise deutschland
 einreise italien
@@ -64996,6 +65078,7 @@ eksaarde
 el chapo
 el nino
 el salvador
+ela
 elaine thompson
 elan chalon
 elancourt
@@ -66392,6 +66475,7 @@ france – portugal
 france – suisse
 france – écosse
 france-afrique du sud
+france-afrique du sud stade
 france-angleterre
 france-argentine rugby
 france-australie
@@ -70644,6 +70728,7 @@ les lacs du connemara
 les marseillais au mexique
 les marseillais vs le reste du monde 6
 les minions 2 : il était une fois gru
+les miserables
 les particules élémentaires
 les passagers de la nuit
 les pleins pouvoirs
@@ -71000,6 +71085,7 @@ loenhout
 log4j
 log4shell
 logan mailloux
+logan paul
 logitech
 logitech-aktie
 logo brussels airlines
@@ -71136,6 +71222,7 @@ loto vendredi 13 octobre 2023
 loto26juin2021
 loto3juillet2021
 loto7juillet2021
+lotomba
 lotte kopecky
 lotte vanwezemael
 lottekopecky
@@ -73733,6 +73820,7 @@ norman thavaud
 normandie
 norovirus
 norvege
+norvège – espagne
 norwegen attentat
 norwich city
 norwich city – chelsea
@@ -75004,6 +75092,7 @@ pole emploi
 polen
 polen  saoedi-arabië
 polen wagner-söldner
+polen wahlen
 polestar
 polestar 3
 polestar 4
@@ -75199,6 +75288,7 @@ primus classic
 prince
 prince andrew
 prince charles
+prince christian
 prince george
 prince harry
 prince laurent
@@ -76459,6 +76549,7 @@ résultat election
 résultatelection
 résultats brevet 2021
 résultats de l'élection #présidentielle2022
+résultats rugby
 résultatsbrevet2021
 réveillon de la saint-sylvestre
 réveillon du nouvel an
@@ -77261,6 +77352,7 @@ slapende rekeningen
 slash
 sleepers
 sleepworld
+sleepy hollow
 slimane
 slimste mens
 slipknot
@@ -77866,6 +77958,7 @@ suisse kosovo
 suisse portugal
 suisse public 2023
 suisse serbie
+suisse – biélorussie
 suisse – cameroun
 suisse – espagne
 suisse – grèce
@@ -77954,6 +78047,7 @@ susanne wille
 sustenpass
 sutom
 suzan en freek
+suzanne somers
 suède  slovaquie
 suède - slovaquie
 suède – algérie
@@ -78941,6 +79035,7 @@ triathlon
 triathlon geneve
 triathlon jo
 triathlon olympia
+tribune de geneve
 trick or treat
 trieste
 trimetazidine
@@ -79066,6 +79161,7 @@ télématin julia vignali
 télétravail obligatoire
 türkei
 türkei kroatien
+türkei lettland
 türkei wahlen
 u-boot titanic
 u18 eishockey wm
@@ -79175,6 +79271,7 @@ umtiti
 un amour impossible
 un autre monde
 un cadavre au dessert
+un dimanche à la campagne 15 octobre
 un espion très recherché
 un gars, une fille (au pluriel
 un homme a la hauteur
@@ -79523,6 +79620,7 @@ verkehrsunfall thüringen
 verkiezingen brazilie
 verkiezingen frankrijk
 verkiezingen nederland
+verkiezingen polen
 verkiezingen turkije
 verkiezingen vs
 vermaelen
@@ -80345,6 +80443,7 @@ yorbe vertessen
 you
 you saison 3
 you saison 4
+youcef atal
 young bo
 young boys
 young boys gegen liepāja
@@ -80604,6 +80703,7 @@ zürich wetter
 ÉLECTION PRÉSIDENTIELLE FRANÇAISE
 ÉLECTIONS GRAND CONSEIL VAUD 2022
 ÉLECTIONS LÉGISLATIVES 2022 DEUXIÈME TOUR
+ÉLECTIONS LÉGISLATIVES EN POLOGNE
 ÉLECTIONS PRÉSIDENTIELLES 2022 SONDAGE
 ÉLECTIONS PRÉSIDENTIELLES SONDAGES
 ÉLIMINATOIRES DE L'EURO
@@ -80656,10 +80756,12 @@ zürich wetter
 Électionprésidentiellefrançaise
 Élections Grand Conseil vaud 2022
 Élections législatives 2022 deuxième tour
+Élections législatives en Pologne
 Élections présidentielles 2022 sondage
 Élections présidentielles sondages
 ÉlectionsGrandConseilvaud2022
 Électionslégislatives2022deuxièmetour
+ÉlectionslégislativesenPologne
 Électionsprésidentielles2022sondage
 Électionsprésidentiellessondages
 Éliminatoires de l'Euro
@@ -80762,6 +80864,7 @@ zürich wetter
 élections départementales 2021 bretagne
 élections grand conseil vaud 2022
 élections législatives 2022 deuxième tour
+élections législatives en pologne
 élections présidentielles 2022 sondage
 élections présidentielles sondages
 élections régionales 2021 candidats
