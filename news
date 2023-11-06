@@ -928,6 +928,7 @@ AGRESSION TOULOUSE
 AGRESTI-ROUBACHE
 AGROPARISTECH
 AGUERO
+AHED TAMIMI
 AHMAD JAMAL
 AHMAUD ARBERY
 AHMED BENAISSA
@@ -1095,6 +1096,7 @@ ALEKSANDAR TRAJKOVSKI
 ALEKSANDER AAMODT KILDE
 ALENCON
 ALERTE A LA BOMBE
+ALERTE A LA BOMBE CHARLEROI
 ALERTE BOMBE GRENOBLE
 ALERTE CANICULE
 ALERTE ENLÈVEMENT
@@ -2291,6 +2293,7 @@ AURORA RAMAZZOTTI
 AURORE BERGÉ
 AURORE BORÉALE BELGIQUE
 AURORES BORÉALES
+AURORES BORÉALES BELGIQUE
 AURÉLIE PRESTON
 AURÉLIEN PRADIÉ
 AURÉLIEN TACHÉ
@@ -2914,6 +2917,8 @@ AgrestiRoubache
 AgroParisTech
 Aguero
 Aha
+Ahed Tamimi
+AhedTamimi
 Ahmad Jamal
 AhmadJamal
 Ahmaud Arbery
@@ -3211,6 +3216,7 @@ AleksanderAamodtKilde
 Alencon
 Alerte Rouge
 Alerte a la bombe
+Alerte a la bombe Charleroi
 Alerte bombe Grenoble
 Alerte canicule
 Alerte enlèvement
@@ -3220,6 +3226,7 @@ Alerte à Malibu
 Alerte à la bombe
 AlerteRouge
 Alertealabombe
+AlertealabombeCharleroi
 AlertebombeGrenoble
 Alertecanicule
 Alerteenlèvement
@@ -5245,7 +5252,9 @@ AuroreBergé
 Aurorebergé
 AuroreboréaleBelgique
 Aurores boréales
+Aurores boréales Belgique
 Auroresboréales
+AuroresboréalesBelgique
 Aurélie Preston
 AuréliePreston
 Aurélien Pradié
@@ -6246,6 +6255,7 @@ BING
 BINIAM GIRMAY
 BIOBEST
 BIONTECH-AKTIE
+BIPOLAIRE STOORNIS
 BIRD BOX
 BIRGIT SCHROWANGE
 BIRGIT VAN MOL
@@ -8226,6 +8236,8 @@ BioNTechAktie
 Biobest
 Biontech-Aktie
 BiontechAktie
+Bipolaire stoornis
+Bipolairestoornis
 Bird Box
 BirdBox
 Birgit Schrowange
@@ -15960,6 +15972,8 @@ EDMOND ROSTAND
 EDOUARD BAER
 EDOUARD PHILIPPE
 EDOUARD PHILIPPE RETRAITES
+EDOUARD PHILIPPE SERVICE MILITAIRE
+EDOUARD ROGER-VASSELIN
 EDOUARDPHILIPPE
 EDSHEERAN
 EDUARDO CAMAVINGA
@@ -16654,6 +16668,7 @@ EURO2021
 EURO2024
 EUROBASKET
 EUROCKÉENNES
+EURODREAMS
 EUROFOOT
 EUROLEAGUE
 EUROMILLION
@@ -16900,10 +16915,15 @@ EdmondRostand
 Edouard Baer
 Edouard Philippe
 Edouard Philippe retraites
+Edouard Philippe service militaire
+Edouard Roger-Vasselin
+Edouard RogerVasselin
 Edouard philippe
 EdouardBaer
 EdouardPhilippe
 EdouardPhilipperetraites
+EdouardPhilippeservicemilitaire
+EdouardRoger-Vasselin
 Edouardphilippe
 Edsheeran
 Eduardo Camavinga
@@ -17936,6 +17956,7 @@ Euro2020
 Euro2021
 Euro2024
 EuroBasket
+EuroDreams
 EuroFranken
 EuroLeague
 EuroMillion
@@ -18567,12 +18588,15 @@ FCB GEGEN MARSEILLE
 FCB GEGEN SERVETTE
 FCB GEGEN ST. GALLEN
 FCB GEGEN WINTERTHUR
+FCB GEGEN YVERDON-SPORT
 FCB gegen Lugano
 FCB gegen Luzern
 FCB gegen Marseille
 FCB gegen Servette
 FCB gegen St. Gallen
 FCB gegen Winterthur
+FCB gegen Yverdon-Sport
+FCB gegen YverdonSport
 FCBARCELONA
 FCBarcelona
 FCBarcelona–Elche
@@ -18587,6 +18611,7 @@ FCBgegenMarseille
 FCBgegenServette
 FCBgegenSt.Gallen
 FCBgegenWinterthur
+FCBgegenYverdon-Sport
 FCBreitenrain
 FCBruges
 FCBruges–Anderlecht
@@ -18995,6 +19020,7 @@ FLORENT PAGNY
 FLORENT PAGNY CHANTEUR
 FLORENT PEYRE
 FLORENT RUPPERT
+FLORIAN DAVID FITZ
 FLORIAN PHILIPPOT
 FLORIAN ROSSI
 FLORIAN SILBEREISEN
@@ -20184,6 +20210,7 @@ FlorentPagny
 FlorentPagnychanteur
 FlorentPeyre
 FlorentRuppert
+Florian David Fitz
 Florian Philippot
 Florian Rossi
 Florian Silbereisen
@@ -20193,6 +20220,7 @@ Florian Silbereisen. Beatrice Egli
 Florian Van Acker
 Florian Vermeersch
 Florian Zeller
+FlorianDavidFitz
 FlorianPhilippot
 FlorianRossi
 FlorianSilbereisen
@@ -23613,6 +23641,7 @@ HALVEFINALEEK
 HAMAS
 HAMBOURG
 HAMBOURG OTAGE
+HAMBOURG PRISE OTAGE
 HAMBURG
 HAMBURG FLUGHAFEN
 HAMILTON
@@ -24135,7 +24164,9 @@ Halvefinaleek
 Hamas
 Hambourg
 Hambourg otage
+Hambourg prise otage
 Hambourgotage
+Hambourgpriseotage
 Hamburg
 Hamburg Flughafen
 HamburgFlughafen
@@ -25336,6 +25367,7 @@ ISOLDE LASOEN
 ISOLEMENT COVID
 ISRAEL
 ISRAEL GAZA
+ISRAEL GAZA NEWS
 ISS
 ISS DOCH WURSCHT
 ISSA DOUMBIA
@@ -26146,7 +26178,9 @@ Isolement Covid
 IsolementCovid
 Israel
 Israel Gaza
+Israel Gaza news
 IsraelGaza
+IsraelGazanews
 Iss doch WURSCHT
 Issa Doumbia
 Issa Kaboré
@@ -26552,6 +26586,7 @@ JAVIER MILEI ARGENTINE
 JAWAD BENDAOUD
 JAY ADAMS
 JAY LENO
+JAY WEINBERG
 JAY-Z
 JAYSON TATUM
 JAZZ
@@ -27641,9 +27676,11 @@ Jawad Bendaoud
 JawadBendaoud
 Jay Adams
 Jay Leno
+Jay Weinberg
 Jay-Z
 JayAdams
 JayLeno
+JayWeinberg
 JayZ
 Jayson Tatum
 JaysonTatum
@@ -40001,6 +40038,7 @@ NEW JERSEY DEVILS
 NEW WORLD
 NEW YORK
 NEW YORK CITY
+NEW YORK MARATHON 2023
 NEW YORK RB – BARCELONA
 NEW YORK TIMES
 NEWB
@@ -40027,6 +40065,8 @@ NFL DRAFT 2023
 NFL Draft
 NFL Draft 2022
 NFL Draft 2023
+NFL FRANKFURT
+NFL Frankfurt
 NFL MÜNCHEN TICKETS
 NFL München Tickets
 NFL-PLAYOFFS
@@ -40034,6 +40074,7 @@ NFL-Playoffs
 NFLDraft
 NFLDraft2022
 NFLDraft2023
+NFLFrankfurt
 NFLMünchenTickets
 NFLPlayoffs
 NFT
@@ -40860,6 +40901,7 @@ New Jersey Devils
 New World
 New York
 New York City
+New York Marathon 2023
 New York Times
 New York rb – barcelona
 NewB
@@ -40867,6 +40909,7 @@ NewJerseyDevils
 NewWorld
 NewYork
 NewYorkCity
+NewYorkMarathon2023
 NewYorkTimes
 NewYorkrb–barcelona
 Newcastle
@@ -43329,6 +43372,7 @@ PISTE NOIRE
 PISTONS – LAKERS
 PITA TAUFATOFUA
 PITON DE LA FOURNAISE
+PIX
 PIXEL 6
 PIXEL 7
 PIXEL 8
@@ -45198,6 +45242,7 @@ Pita Taufatofua
 PitaTaufatofua
 Piton de la Fournaise
 PitondelaFournaise
+Pix
 Pixel 6
 Pixel 7
 Pixel 8
@@ -58648,6 +58693,7 @@ WERDER BREMEN GEGEN AUGSBURG
 WERDER BREMEN GEGEN BAYERN
 WERDER BREMEN GEGEN DORTMUND
 WERDINSEL
+WERDINSEL ZÜRICH
 WERELD AUTISME DAG
 WERELDBEKER VELDRIJDEN
 WERELDDIERENDAG
@@ -59242,6 +59288,8 @@ WerderBremengegenAugsburg
 WerderBremengegenBayern
 WerderBremengegenDortmund
 Werdinsel
+Werdinsel Zürich
+WerdinselZürich
 Wereld Autisme Dag
 WereldAutismeDag
 Wereldbeker veldrijden
@@ -60914,6 +60962,7 @@ agression toulouse
 agresti-roubache
 agroparistech
 aguero
+ahed tamimi
 ahmad jamal
 ahmaud arbery
 ahmed benaissa
@@ -61078,6 +61127,7 @@ aleksandar trajkovski
 aleksander aamodt kilde
 alencon
 alerte a la bombe
+alerte a la bombe charleroi
 alerte bombe grenoble
 alerte canicule
 alerte enlèvement
@@ -62216,6 +62266,7 @@ aurora ramazzotti
 aurore bergé
 aurore boréale belgique
 aurores boréales
+aurores boréales belgique
 aurélie preston
 aurélien pradié
 aurélien taché
@@ -63089,6 +63140,7 @@ bing
 biniam girmay
 biobest
 biontech-aktie
+bipolaire stoornis
 bird box
 birgit schrowange
 birgit van mol
@@ -66173,6 +66225,8 @@ edmond rostand
 edouard baer
 edouard philippe
 edouard philippe retraites
+edouard philippe service militaire
+edouard roger-vasselin
 edouardphilippe
 edsheeran
 eduardo camavinga
@@ -66796,6 +66850,7 @@ euro2020
 euro2021
 eurobasket
 eurockéennes
+eurodreams
 eurofoot
 euroleague
 euromillion
@@ -67143,6 +67198,7 @@ fcb gegen marseille
 fcb gegen servette
 fcb gegen st. gallen
 fcb gegen winterthur
+fcb gegen yverdon-sport
 fcbarcelona
 fcg
 fcl
@@ -67472,6 +67528,7 @@ florent pagny
 florent pagny chanteur
 florent peyre
 florent ruppert
+florian david fitz
 florian philippot
 florian rossi
 florian silbereisen
@@ -68880,6 +68937,7 @@ halvefinaleek
 hamas
 hambourg
 hambourg otage
+hambourg prise otage
 hamburg
 hamburg flughafen
 hamilton
@@ -69803,6 +69861,7 @@ isolde lasoen
 isolement covid
 israel
 israel gaza
+israel gaza news
 iss
 iss doch wurscht
 issa doumbia
@@ -70134,6 +70193,7 @@ javier milei argentine
 jawad bendaoud
 jay adams
 jay leno
+jay weinberg
 jay-z
 jayson tatum
 jazz
@@ -74893,6 +74953,7 @@ new jersey devils
 new world
 new york
 new york city
+new york marathon 2023
 new york rb – barcelona
 new york times
 newb
@@ -74916,6 +74977,7 @@ nfl
 nfl draft
 nfl draft 2022
 nfl draft 2023
+nfl frankfurt
 nfl münchen tickets
 nfl-playoffs
 nft
@@ -76358,6 +76420,7 @@ piste noire
 pistons – lakers
 pita taufatofua
 piton de la fournaise
+pix
 pixel 6
 pixel 7
 pixel 8
@@ -81523,6 +81586,7 @@ werder bremen gegen augsburg
 werder bremen gegen bayern
 werder bremen gegen dortmund
 werdinsel
+werdinsel zürich
 wereld autisme dag
 wereldbeker veldrijden
 werelddierendag
