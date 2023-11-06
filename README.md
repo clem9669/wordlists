@@ -88,14 +88,14 @@ I let the end user use at their will the lists.
 You could use only certain or all lists depending on your scope.
 See the release section in github for a uniq version compiled.
 
+*N.B: I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq huge wordlist.*
+
 ```bash
-LC_ALL=C.UTF-8; sort -u wordlist >> wordlist_uniq_sorted
+$ duplicut wordlist.txt -o wordlist_uniq.txt
 ```
 
 > **Warning**: the lists can be very big!
 > Multipled with the rule at https://github.com/clem9669/hashcat-rule
-
-*N.B: I have recently heard of https://github.com/nil0x42/duplicut, it aims to uniq huge wordlist.*
 
 ### Cracking contest
 
