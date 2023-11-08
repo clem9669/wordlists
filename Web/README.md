@@ -47,6 +47,7 @@ The following projects could interest you:
   - https://github.com/fuzzdb-project/fuzzdb
   - https://github.com/danielmiessler/SecLists
   - https://github.com/swisskyrepo/PayloadsAllTheThings
+  - https://wordlists.assetnote.io/
   - https://github.com/clem9669/hashcat-rule
 
 
