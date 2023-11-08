@@ -705,6 +705,7 @@ ACCIDENT ARIEGE
 ACCIDENT AURORE MORISSE
 ACCIDENT AUTOROUTE
 ACCIDENT AUTOROUTE A1
+ACCIDENT AUTOROUTE A43
 ACCIDENT BUS PNL
 ACCIDENT BUS VENISE
 ACCIDENT BUS VENISE ITALIE
@@ -1033,6 +1034,7 @@ ALAIN DELON ARI BOULOGNE
 ALAIN DELON STERBEHILFE
 ALAIN DESTEXHE
 ALAIN DREMIERE RTBF
+ALAIN ESTÈVE
 ALAIN GRISET
 ALAIN JAKUBOWICZ
 ALAIN JUPPÉ
@@ -1098,6 +1100,7 @@ ALEKSANDER AAMODT KILDE
 ALENCON
 ALERTE A LA BOMBE
 ALERTE A LA BOMBE CHARLEROI
+ALERTE A LA BOMBE TOURNAI
 ALERTE BOMBE GRENOBLE
 ALERTE CANICULE
 ALERTE ENLÈVEMENT
@@ -1367,6 +1370,7 @@ AMBULANCE
 AMC AKTIE
 AMC Aktie
 AMCAktie
+AME
 AMEEN AL-DAKHIL
 AMEL BENT
 AMEL BENT MARI
@@ -1750,6 +1754,7 @@ ANTONELLA LUALDI
 ANTONETTI
 ANTONIA TERZI
 ANTONIO BROWN
+ANTONIO COSTA
 ANTONIO DJAKOVIC
 ANTONIO FERRARA
 ANTONIO GUTERRES
@@ -2577,6 +2582,7 @@ Accident acteur jérémy Renner
 Accident ariege
 Accident autoroute
 Accident autoroute A1
+Accident autoroute A43
 Accident bus PNL
 Accident bus Venise
 Accident bus Venise Italie
@@ -2613,6 +2619,7 @@ AccidentacteurjérémyRenner
 Accidentariege
 Accidentautoroute
 AccidentautorouteA1
+AccidentautorouteA43
 AccidentbusPNL
 AccidentbusVenise
 AccidentbusVeniseItalie
@@ -3095,6 +3102,7 @@ Alain Delon Ari Boulogne
 Alain Delon Sterbehilfe
 Alain Destexhe
 Alain Dremiere RTBF
+Alain Estève
 Alain Griset
 Alain Jakubowicz
 Alain Juppé
@@ -3118,6 +3126,7 @@ AlainDelonAriBoulogne
 AlainDelonSterbehilfe
 AlainDestexhe
 AlainDremiereRTBF
+AlainEstève
 AlainGriset
 AlainJakubowicz
 AlainJuppé
@@ -3220,6 +3229,7 @@ Alencon
 Alerte Rouge
 Alerte a la bombe
 Alerte a la bombe Charleroi
+Alerte a la bombe Tournai
 Alerte bombe Grenoble
 Alerte canicule
 Alerte enlèvement
@@ -3230,6 +3240,7 @@ Alerte à la bombe
 AlerteRouge
 Alertealabombe
 AlertealabombeCharleroi
+AlertealabombeTournai
 AlertebombeGrenoble
 Alertecanicule
 Alerteenlèvement
@@ -4401,12 +4412,14 @@ Antonetti
 Antonia Terzi
 AntoniaTerzi
 Antonio Brown
+Antonio Costa
 Antonio Djakovic
 Antonio Ferrara
 Antonio Guterres
 Antonio Rudiger
 Antonio Rüdiger
 AntonioBrown
+AntonioCosta
 AntonioDjakovic
 AntonioFerrara
 AntonioGuterres
@@ -6472,6 +6485,7 @@ BONNIE WRIGHT
 BONO
 BONOBO
 BONUCCI
+BONUS RÉPARATION VÊTEMENTS
 BOOBA
 BOOBA DYLAN THIRY
 BOOBA STADE DE FRANCE
@@ -8562,6 +8576,8 @@ BonnieWright
 Bono
 Bonobo
 Bonucci
+Bonus réparation vêtements
+Bonusréparationvêtements
 Booba
 Booba Dylan Thiry
 Booba Stade de France
@@ -14189,6 +14205,7 @@ DORTMUND – CHELSEA
 DORTMUND – DYNAMO KYIV
 DORTMUND – LEVERKUSEN
 DORTMUND – MANCHESTER CITY
+DORTMUND – NEWCASTLE
 DORTMUND – SPORTING
 DOS AU MUR
 DOUBLE
@@ -15623,6 +15640,7 @@ Dortmund – Chelsea
 Dortmund – Dynamo Kyiv
 Dortmund – Leverkusen
 Dortmund – Manchester City
+Dortmund – Newcastle
 Dortmund – Sporting
 DortmundBayern
 DortmundgegenAjax
@@ -15653,6 +15671,7 @@ Dortmund–Chelsea
 Dortmund–DynamoKyiv
 Dortmund–Leverkusen
 Dortmund–ManchesterCity
+Dortmund–Newcastle
 Dortmund–Sporting
 Dos au mur
 Dosaumur
@@ -16645,6 +16664,7 @@ ETé
 EU-PARLAMENTS EVA KAILI
 EU-Parlaments Eva Kaili
 EU-ParlamentsEvaKaili
+EUCLID
 EUGENE
 EUNICE MUNOZ
 EUNICE NEWTON FOOTE
@@ -17929,6 +17949,7 @@ Etretat
 Etsionserencontrait
 Etzebeth
 Eté
+Euclid
 Eugene
 Eunice Munoz
 Eunice Newton Foote
@@ -18494,6 +18515,7 @@ FC BASEL
 FC BASEL HEUTE
 FC BAYERN
 FC BAYERN MÜNCHEN
+FC BREITENBACH
 FC BREITENRAIN
 FC BRUGES
 FC BRUGES – ANDERLECHT
@@ -18509,6 +18531,7 @@ FC Basel
 FC Basel heute
 FC Bayern
 FC Bayern München
+FC Breitenbach
 FC Breitenrain
 FC Bruges
 FC Bruges – Anderlecht
@@ -18633,6 +18656,7 @@ FCBgegenServette
 FCBgegenSt.Gallen
 FCBgegenWinterthur
 FCBgegenYverdon-Sport
+FCBreitenbach
 FCBreitenrain
 FCBruges
 FCBruges–Anderlecht
@@ -22026,6 +22050,7 @@ GRÈVES 13 OCTOBRE
 GRÈVES TRANSPORTS 19 JANVIER
 GRÉGOIRE LYONNET
 GRÉGORY LEMARCHAL
+GRÊVE SNCF 8 NOVEMBRE
 GRÖDEN
 GRÖNA LUND
 GRÜNDONNERSTAG
@@ -23391,6 +23416,8 @@ Grégoire Lyonnet
 GrégoireLyonnet
 Grégory Lemarchal
 GrégoryLemarchal
+Grêve SNCF 8 novembre
+GrêveSNCF8novembre
 Gröden
 Gröna Lund
 GrönaLund
@@ -29062,6 +29089,7 @@ JÉRÉMY CHATELAIN
 JÉRÉMY DOKU
 JÉRÔME CAHUZAC
 JÉRÔME SALOMON
+JÖRG BUCHERER GESTORBEN
 JÖRG KACHELMANN
 JÖRG PILAWA
 JÜRG HALTER
@@ -29078,8 +29106,10 @@ Jérôme Cahuzac
 Jérôme Salomon
 JérômeCahuzac
 JérômeSalomon
+Jörg Bucherer gestorben
 Jörg Kachelmann
 Jörg Pilawa
+JörgBucherergestorben
 JörgKachelmann
 JörgPilawa
 Jürg Halter
@@ -29546,6 +29576,7 @@ KRC Genk
 KRCGenk
 KREMLIN
 KRETA
+KREUZFAHRTSCHIFF STURM
 KREUZLINGEN
 KRIM
 KRIM-BRÜCKE
@@ -30020,7 +30051,9 @@ KetnetZomertour
 Keto-Diät
 KetoDiät
 Kev Adams
+Kev adams
 KevAdams
+Kevadams
 Kevin  Allein in New York
 Kevin - Allein in New York
 Kevin Bacon
@@ -30398,6 +30431,8 @@ KravenTheHunter
 KraventheHunter
 Kremlin
 Kreta
+Kreuzfahrtschiff Sturm
+KreuzfahrtschiffSturm
 Kreuzlingen
 Krim
 Krim-Brücke
@@ -30741,6 +30776,7 @@ LA NUIT EST BELLE 2022
 LA PALMA
 LA PALMA VULKAN
 LA PASSANTE DU SANS-SOUCI
+LA PASSION DE DODIN BOUFFANT
 LA PETITE SIRENE
 LA PISCINE
 LA PLAGE
@@ -31642,6 +31678,7 @@ LOCKE AND KEY
 LOCO ESCRITO
 LOENA HENDRICKX
 LOENHOUT
+LOFTUS-CHEEK
 LOG4J
 LOG4SHELL
 LOGAN MAILLOUX
@@ -32151,6 +32188,7 @@ La lutte des classes
 La maison au bout de la rue
 La maison aux esprits
 La maison d'en face
+La passion de Dodin Bouffant
 La piscine
 La plage
 La population mondiale
@@ -32384,6 +32422,7 @@ LangyaHenipavirus
 Lanterna Magica
 LanternaMagica
 Lanzarote
+LapassiondeDodinBouffant
 Lapin de paques
 Lapindepaques
 Lapiscine
@@ -33830,6 +33869,8 @@ LocoEscrito
 Loena Hendrickx
 LoenaHendrickx
 Loenhout
+Loftus-Cheek
+LoftusCheek
 Log4Shell
 Log4j
 Logan Mailloux
@@ -34732,6 +34773,7 @@ MALIGNANT
 MALIK HARRIS
 MALIKA EL AROUD
 MALINAS
+MALINOIS
 MALINOVSKYI
 MALL OF SWITZERLAND
 MALLAURY NATAF
@@ -34922,6 +34964,7 @@ MANUELA FREY
 MANUELA LOPEZ
 MANUELA SCHÄR
 MANUELNEUER
+MANUKA-HONIG
 MANUNITED
 MANUNITED GEGEN ARSENAL
 MANUNITED GEGEN BARCELONA
@@ -35966,6 +36009,7 @@ MILAN KUNDERA
 MILAN MENTEN
 MILAN NAPOLI
 MILAN NEWCASTLE
+MILAN PSG
 MILAN RADOICIC
 MILAN SAN REMO 2022
 MILAN – ATALANTA
@@ -36681,6 +36725,7 @@ MalikHarris
 Malika El Aroud
 MalikaElAroud
 Malinas
+Malinois
 Malinovskyi
 Mali–Guinéeéquatoriale
 Mall of Switzerland
@@ -37051,6 +37096,8 @@ Manuela Schär
 ManuelaFrey
 ManuelaLopez
 ManuelaSchär
+Manuka-Honig
+ManukaHonig
 Manunited gegen Arsenal
 Manunited gegen Barcelona
 Manunited gegen Chelsea
@@ -38917,6 +38964,7 @@ Milan Kundera
 Milan Menten
 Milan Napoli
 Milan Newcastle
+Milan PSG
 Milan Radoicic
 Milan gegen Dinamo
 Milan gegen RB Salzburg
@@ -38958,6 +39006,7 @@ MilanMenten
 MilanMonza
 MilanNapoli
 MilanNewcastle
+MilanPSG
 MilanPorto
 MilanRadoicic
 MilanRoma
@@ -40349,6 +40398,7 @@ NOORDMACEDONIëNEDERLAND
 NOPE
 NOPPERT
 NORA GHARIB
+NORA HAMZAWI
 NORA TSCHIRNER
 NORAH JONES
 NORBERT ALTER
@@ -41348,10 +41398,12 @@ Nope
 Noppert
 Nora Gharib
 Nora Tschirner
+Nora hamzawi
 NoraGharib
 NoraTschirner
 Norah Jones
 NorahJones
+Norahamzawi
 Norbert Alter
 Norbert Tarayre
 NorbertAlter
@@ -49387,6 +49439,7 @@ SASEK
 SASHA OBAMA
 SASHA ZHOYA
 SASKATCHEWAN
+SASKIA DE COSTER
 SASSUOLO
 SASSUOLO  JUVENTUS
 SASSUOLO – JUVENTUS
@@ -49898,6 +49951,7 @@ SITTING BULL
 SIX
 SIX NATIONS 2023
 SIXTO RODRIGUEZ
+SJACHTAR  BARCELONA
 SJOGREN
 SK BEVEREN
 SK Beveren
@@ -50090,6 +50144,7 @@ SOPHIE HUNGER
 SOPHIE LAVAUD
 SOPHIE MARCEAU
 SOPHIE PETRONIN
+SOPHIE POMMIER
 SOPHIE TAPIE
 SOPHIE TISSIER
 SOPHIE TURNER
@@ -51318,6 +51373,8 @@ Sasha Zhoya
 SashaObama
 SashaZhoya
 Saskatchewan
+Saskia De Coster
+SaskiaDeCoster
 Sassuolo
 Sassuolo  Juventus
 Sassuolo – Juventus
@@ -52136,6 +52193,8 @@ Six Nations 2023
 SixNations2023
 Sixto Rodriguez
 SixtoRodriguez
+Sjachtar  Barcelona
+SjachtarBarcelona
 Sjogren
 Skateboard Olympia
 SkateboardOlympia
@@ -52409,6 +52468,7 @@ Sophie Fontanel
 Sophie Hunger
 Sophie Lavaud
 Sophie Marceau
+Sophie Pommier
 Sophie Tapie
 Sophie Tissier
 Sophie Turner
@@ -52427,6 +52487,7 @@ SophieFontanel
 SophieHunger
 SophieLavaud
 SophieMarceau
+SophiePommier
 SophieTapie
 SophieTissier
 SophieTurner
@@ -58709,6 +58770,7 @@ WEF2023
 WEFDavos
 WEFDavos2022
 WEGEN EN VERKEER
+WEGOVY
 WEIHNACHTEN
 WEIHNACHTEN 2021
 WEIHNACHTSGESCHICHTE
@@ -59279,6 +59341,7 @@ WeekendvandeKlant
 Weer
 Wegen en Verkeer
 WegenenVerkeer
+Wegovy
 Weihnachten
 Weihnachten 2021
 Weihnachten2021
@@ -60827,6 +60890,7 @@ accident ariege
 accident aurore morisse
 accident autoroute
 accident autoroute a1
+accident autoroute a43
 accident bus pnl
 accident bus venise
 accident bus venise italie
@@ -61128,6 +61192,7 @@ alain delon ari boulogne
 alain delon sterbehilfe
 alain destexhe
 alain dremiere rtbf
+alain estève
 alain griset
 alain jakubowicz
 alain juppé
@@ -61192,6 +61257,7 @@ aleksander aamodt kilde
 alencon
 alerte a la bombe
 alerte a la bombe charleroi
+alerte a la bombe tournai
 alerte bombe grenoble
 alerte canicule
 alerte enlèvement
@@ -61455,6 +61521,7 @@ ambri-piotta
 ambroisie
 ambulance
 amc aktie
+ame
 ameen al-dakhil
 amel bent
 amel bent mari
@@ -61836,6 +61903,7 @@ antonella lualdi
 antonetti
 antonia terzi
 antonio brown
+antonio costa
 antonio djakovic
 antonio ferrara
 antonio guterres
@@ -63402,6 +63470,7 @@ bonnie wright
 bono
 bonobo
 bonucci
+bonus réparation vêtements
 booba
 booba dylan thiry
 booba stade de france
@@ -66078,6 +66147,7 @@ dortmund – chelsea
 dortmund – dynamo kyiv
 dortmund – leverkusen
 dortmund – manchester city
+dortmund – newcastle
 dortmund – sporting
 dos au mur
 double
@@ -66882,6 +66952,7 @@ etoile filante
 etretat
 etzebeth
 eu-parlaments eva kaili
+euclid
 eugene
 eunice munoz
 eunice newton foote
@@ -67217,6 +67288,7 @@ fc basel
 fc basel heute
 fc bayern
 fc bayern münchen
+fc breitenbach
 fc breitenrain
 fc bruges
 fc bruges – anderlecht
@@ -68839,6 +68911,7 @@ grèves 13 octobre
 grèves transports 19 janvier
 grégoire lyonnet
 grégory lemarchal
+grêve sncf 8 novembre
 gröden
 gröna lund
 gründonnerstag
@@ -70953,6 +71026,7 @@ jérémy chatelain
 jérémy doku
 jérôme cahuzac
 jérôme salomon
+jörg bucherer gestorben
 jörg kachelmann
 jörg pilawa
 jürg halter
@@ -71404,6 +71478,7 @@ kraven the hunter
 krc genk
 kremlin
 kreta
+kreuzfahrtschiff sturm
 kreuzlingen
 krim
 krim-brücke
@@ -71616,6 +71691,7 @@ la nuit est belle 2022
 la palma
 la palma vulkan
 la passante du sans-souci
+la passion de dodin bouffant
 la petite sirene
 la piscine
 la plage
@@ -72503,6 +72579,7 @@ locke and key
 loco escrito
 loena hendrickx
 loenhout
+loftus-cheek
 log4j
 log4shell
 logan mailloux
@@ -73075,6 +73152,7 @@ malignant
 malik harris
 malika el aroud
 malinas
+malinois
 malinovskyi
 mall of switzerland
 mallaury nataf
@@ -73265,6 +73343,7 @@ manuela frey
 manuela lopez
 manuela schär
 manuelneuer
+manuka-honig
 manunited
 manunited gegen arsenal
 manunited gegen barcelona
@@ -74297,6 +74376,7 @@ milan kundera
 milan menten
 milan napoli
 milan newcastle
+milan psg
 milan radoicic
 milan san remo 2022
 milan – atalanta
@@ -75275,6 +75355,7 @@ noordmacedoniënederland
 nope
 noppert
 nora gharib
+nora hamzawi
 nora tschirner
 norah jones
 norbert alter
@@ -78364,6 +78445,7 @@ sasek
 sasha obama
 sasha zhoya
 saskatchewan
+saskia de coster
 sassuolo
 sassuolo  juventus
 sassuolo – juventus
@@ -78857,6 +78939,7 @@ sitting bull
 six
 six nations 2023
 sixto rodriguez
+sjachtar  barcelona
 sjogren
 sk beveren
 skateboard olympia
@@ -79037,6 +79120,7 @@ sophie hunger
 sophie lavaud
 sophie marceau
 sophie petronin
+sophie pommier
 sophie tapie
 sophie tissier
 sophie turner
@@ -81625,6 +81709,7 @@ wef 2023
 wef davos
 wef davos 2022
 wegen en verkeer
+wegovy
 weihnachten
 weihnachten 2021
 weihnachtsgeschichte
