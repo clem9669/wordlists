@@ -98,6 +98,7 @@
 11 JULI FEESTDAG
 11 NOVEMBER
 11 NOVEMBRE
+11 NOVEMBRE BELGIQUE
 11 NOVEMBRE FRANCE
 11 NOVEMBRE FÉRIÉ
 11 SEPT 2001
@@ -110,7 +111,9 @@
 11 juli feestdag
 11 november
 11 novembre
+11 novembre Belgique
 11 novembre France
+11 novembre belgique
 11 novembre france
 11 novembre férié
 11 sept 2001
@@ -132,6 +135,7 @@
 11julifeestdag
 11november
 11novembre
+11novembreBelgique
 11novembreFrance
 11novembreférié
 11sept2001
@@ -825,6 +829,7 @@ ADIEU MONSIEUR HAFFMANN
 ADIEU VINYLE
 ADIL EL ARBI
 ADIL RAMI
+ADJANI
 ADLER GROUP
 ADMIR MEHMEDI
 ADMIRAL-MAKAROV
@@ -2146,6 +2151,7 @@ ASTON VILLA – NEWCASTLE
 ASTON VILLA – SOUTHAMPTON
 ASTRA-BRIDGE
 ASTRID COPPENS
+ASTRID ET RAPHAËLLE
 ASTRID LINDGREN
 ASTRID VEILLON
 ASTRUD GILBERTO
@@ -2770,6 +2776,7 @@ Adil El Arbi
 Adil Rami
 AdilElArbi
 AdilRami
+Adjani
 Adler Group
 AdlerGroup
 Admir Mehmedi
@@ -5047,9 +5054,11 @@ AstraBridge
 Astrid Coppens
 Astrid Lindgren
 Astrid Veillon
+Astrid et Raphaëlle
 AstridCoppens
 AstridLindgren
 AstridVeillon
+AstridetRaphaëlle
 Astrud Gilberto
 AstrudGilberto
 Astérix aux Jeux olympiques
@@ -9458,6 +9467,7 @@ CALL OF DUTY : VANGUARD
 CALL OF DUTY VANGUARD
 CALL OF DUTY, MODERN WARFARE 3
 CALL OF DUTY: MODERN WARFARE 2
+CALL OF DUTY: MODERN WARFARE 3
 CALL OF DUTY: VANGUARD
 CALLAC
 CALLBOY
@@ -10948,6 +10958,7 @@ Call of Duty : Vanguard
 Call of Duty Vanguard
 Call of Duty, Modern Warfare 3
 Call of Duty: Modern Warfare 2
+Call of Duty: Modern Warfare 3
 Call of Duty: Vanguard
 CallJane
 CallMebyYourName
@@ -13638,6 +13649,7 @@ DARTS-WM
 DARTS-WM 2022
 DARTY BLACK FRIDAY
 DARWIN NUNEZ
+DARYL DIXON
 DAS GROßE BACKEN
 DAS HAUS DER TRÄUME
 DAS PERFEKTE GEHEIMNIS
@@ -13671,6 +13683,7 @@ DAVID GINOLA
 DAVID GOFFIN
 DAVID GRUSCH
 DAVID GUETTA
+DAVID GUIRAUD
 DAVID HALLYDAY
 DAVID HASSELHOFF
 DAVID HOCKNEY
@@ -13691,6 +13704,8 @@ DAVIDALABA
 DAVIDBECKHAM
 DAVIDE D'ANGELO
 DAVIDE REBELLIN
+DAVIDE RENNE
+DAVIDE RENNE MOSCHINO
 DAVIDO
 DAVINA MICHELLE
 DAVINIA VANMECHELEN
@@ -14363,6 +14378,7 @@ DUSTY HILL
 DUSTY SPRINGFIELD
 DUTCH REACH
 DUTROUX
+DUVEL
 DWARS DOOR HET HAGELAND
 DWARS DOOR HET HAGELAND 2023
 DWARS DOOR VLAANDEREN
@@ -14684,6 +14700,8 @@ Darty Black Friday
 DartyBlackFriday
 Darwin Nunez
 DarwinNunez
+Daryl Dixon
+DarylDixon
 Das Haus der Träume
 Das Traumschiff
 Das große Backen
@@ -14729,6 +14747,7 @@ David Ginola
 David Goffin
 David Grusch
 David Guetta
+David Guiraud
 David Hallyday
 David Hasselhoff
 David Hockney
@@ -14764,6 +14783,7 @@ DavidGinola
 DavidGoffin
 DavidGrusch
 DavidGuetta
+DavidGuiraud
 DavidHallyday
 DavidHasselhoff
 DavidHockney
@@ -14782,8 +14802,12 @@ DavidWarner
 DaviddeGea
 Davide D'Angelo
 Davide Rebellin
+Davide Renne
+Davide Renne Moschino
 DavideD'Angelo
 DavideRebellin
+DavideRenne
+DavideRenneMoschino
 Davido
 DavidvanderPoel
 Davina Michelle
@@ -15869,6 +15893,7 @@ DustySpringfield
 Dutch reach
 Dutchreach
 Dutroux
+Duvel
 Dwars door Vlaanderen
 Dwars door Vlaanderen 2022
 Dwars door Vlaanderen 2023
@@ -16605,6 +16630,7 @@ ESPAGNE CROATIE
 ESPAGNE FOOT
 ESPAGNE ITALIE
 ESPAGNE PAYS-BAS
+ESPAGNE PEDRO SANCHEZ
 ESPAGNE POLOGNE
 ESPAGNE PORTUGAL
 ESPAGNE PRINCESSE LEONOR
@@ -17840,6 +17866,7 @@ Espagne Croatie
 Espagne Italie
 Espagne Pays-Bas
 Espagne PaysBas
+Espagne Pedro Sanchez
 Espagne Pologne
 Espagne Portugal
 Espagne Slovaquie
@@ -17858,6 +17885,7 @@ EspagneCovid
 EspagneCroatie
 EspagneItalie
 EspagnePays-Bas
+EspagnePedroSanchez
 EspagnePologne
 EspagnePortugal
 EspagneSlovaquie
@@ -18343,7 +18371,9 @@ F1 IMOLA 2022
 F1 Imola 2022
 F1 JAPAN
 F1 Japan
+F1 LAS VEGAS
 F1 LIVE
+F1 Las Vegas
 F1 MEXICO
 F1 MEXIQUE
 F1 MIAMI
@@ -18402,6 +18432,7 @@ F1Canada
 F1France
 F1Imola2022
 F1Japan
+F1LasVegas
 F1Mexico
 F1Mexique
 F1Miami
@@ -18547,6 +18578,7 @@ FC Aarau gegen LausanneSport
 FC Allschwil
 FC Annecy
 FC Arsenal
+FC BADEN – XAMAX
 FC BARCELONA
 FC BARCELONA – ELCHE
 FC BARCELONE
@@ -18563,6 +18595,7 @@ FC BRUGES – LEVERKUSEN
 FC BRUGES – MAN CITY
 FC BRUGES – UNION SAINT-GILLOISE
 FC BULLE
+FC Baden – Xamax
 FC Barcelona
 FC Barcelona – Elche
 FC Barcelone
@@ -18681,6 +18714,7 @@ FCB gegen Winterthur
 FCB gegen Yverdon-Sport
 FCB gegen YverdonSport
 FCBARCELONA
+FCBaden–Xamax
 FCBarcelona
 FCBarcelona–Elche
 FCBarcelone
@@ -18860,6 +18894,7 @@ FETE DE LA MUSIQUE GENEVE
 FETE DE LA MUSIQUE LILLE
 FETE DE LA MUSIQUE MARSEILLE
 FETE DE WALLONIE
+FETE DES CELIBATAIRES
 FETE DES FEMMES
 FETE DES GRAND MERE
 FETE DES GRANDS PERES
@@ -19943,6 +19978,7 @@ Fete de la musique Marseille
 Fete de la musique bruxelles
 Fete de la musique geneve
 Fete des Vendanges
+Fete des celibataires
 Fete des femmes
 Fete des grand mere
 Fete des grands peres
@@ -19982,6 +20018,7 @@ FetedelamusiqueMarseille
 Fetedelamusiquebruxelles
 Fetedelamusiquegeneve
 FetedesVendanges
+Fetedescelibataires
 Fetedesfemmes
 Fetedesgrandmere
 Fetedesgrandsperes
@@ -25572,6 +25609,7 @@ ITALIËWALES
 ITALIë  WALES
 ITALIëWALES
 ITALY ELECTIONS
+ITTIGEN POLIZEIEINSATZ
 ITTRE
 IVAN HEYLEN
 IVAN ILIC
@@ -26443,6 +26481,8 @@ ItaliëZwitserland
 Italiëbelgië
 Italy elections
 Italyelections
+Ittigen Polizeieinsatz
+IttigenPolizeieinsatz
 Ittre
 Ivan Heylen
 Ivan Ilic
@@ -31906,6 +31946,7 @@ LOTTO BE
 LOTTOZAHLEN
 LOTUS EMIRA
 LOTUSEMIRA
+LOTUSGEBURT
 LOU DEPRIJCK
 LOU DOILLON
 LOU PERNAUT
@@ -34219,6 +34260,7 @@ Lottobe
 Lottozahlen
 Lotus Emira
 LotusEmira
+Lotusgeburt
 Lou Deprijck
 Lou Doillon
 Lou Pernaut
@@ -34687,6 +34729,7 @@ MAARTEN VAN DER WEIJDEN
 MAARTEN VANCOILLIE
 MAAS
 MAASEIK
+MAASMECHELEN
 MAATREGELEN CORONA
 MAATREGELEN NEDERLAND
 MAC
@@ -35123,6 +35166,7 @@ MARCGOBLET
 MARCHE
 MARCHE ADEPS
 MARCHE BLANCHE NANTERRE
+MARCHE CONTRE L'ANTISÉMITISME PARCOURS
 MARCHE DE NOEL
 MARCHE POUR LE CLIMAT
 MARCHIRSCHI
@@ -36529,6 +36573,7 @@ MaartenVancoillie
 MaartenvanderWeijden
 Maas
 Maaseik
+Maasmechelen
 Maatregelen Nederland
 Maatregelen corona
 MaatregelenNederland
@@ -37326,10 +37371,12 @@ MarcelvanRoosmalen
 Marche
 Marche Adeps
 Marche blanche Nanterre
+Marche contre l'antisémitisme parcours
 Marche de noel
 Marche pour le climat
 MarcheAdeps
 MarcheblancheNanterre
+Marchecontrel'antisémitismeparcours
 Marchedenoel
 Marchepourleclimat
 Marché de Noël
@@ -40341,6 +40388,7 @@ NIEDERLANDETSCHECHIEN
 NIEDERUZWIL
 NIEDERÖSTERREICH
 NIEL
+NIELS ALBERT
 NIELS DESTADSBADER
 NIELS HINTERMANN
 NIELS SCHNEIDER
@@ -40567,10 +40615,13 @@ NOZ
 NOËL
 NRJ MUSIC AWARDS
 NRJ MUSIC AWARDS 2022
+NRJ MUSIC AWARDS 2023
 NRJ Music Awards
 NRJ Music Awards 2022
+NRJ Music Awards 2023
 NRJMusicAwards
 NRJMusicAwards2022
+NRJMusicAwards2023
 NRW-WAHL 2022
 NRW-Wahl 2022
 NRW-Wahl2022
@@ -41280,9 +41331,11 @@ NiederlandegegenArgentinien
 Niederuzwil
 Niederösterreich
 Niel
+Niels Albert
 Niels Destadsbader
 Niels Hintermann
 Niels Schneider
+NielsAlbert
 NielsDestadsbader
 NielsHintermann
 NielsSchneider
@@ -50050,6 +50103,7 @@ SKIATHLON
 SKICROSS OLYMPIA
 SKIFAHREN
 SKIRENNEN SÖLDEN
+SKIRENNEN ZERMATT
 SKISPRINGEN
 SKOV OLSEN
 SKRINIAR
@@ -52297,7 +52351,9 @@ Skicross Olympia
 SkicrossOlympia
 Skifahren
 Skirennen Sölden
+Skirennen Zermatt
 SkirennenSölden
+SkirennenZermatt
 Skispringen
 Skov Olsen
 SkovOlsen
@@ -56765,6 +56821,7 @@ UFC 289
 UFC 290
 UFC 291
 UFC 294
+UFC 295
 UFC LONDON
 UFC London
 UFC PARIS
@@ -56790,6 +56847,7 @@ UFC289
 UFC290
 UFC291
 UFC294
+UFC295
 UFCLondon
 UFCParis
 UFL
@@ -61097,6 +61155,7 @@ adieu monsieur haffmann
 adieu vinyle
 adil el arbi
 adil rami
+adjani
 adler group
 admir mehmedi
 admiral-makarov
@@ -62374,6 +62433,7 @@ aston villa – newcastle
 aston villa – southampton
 astra-bridge
 astrid coppens
+astrid et raphaëlle
 astrid lindgren
 astrid veillon
 astrud gilberto
@@ -64112,6 +64172,7 @@ call of duty : vanguard
 call of duty vanguard
 call of duty, modern warfare 3
 call of duty: modern warfare 2
+call of duty: modern warfare 3
 call of duty: vanguard
 callac
 callboy
@@ -65694,6 +65755,7 @@ darts-wm
 darts-wm 2022
 darty black friday
 darwin nunez
+daryl dixon
 das große backen
 das haus der träume
 das perfekte geheimnis
@@ -65727,6 +65789,7 @@ david ginola
 david goffin
 david grusch
 david guetta
+david guiraud
 david hallyday
 david hasselhoff
 david hockney
@@ -65747,6 +65810,8 @@ davidalaba
 davidbeckham
 davide d'angelo
 davide rebellin
+davide renne
+davide renne moschino
 davido
 davina michelle
 davinia vanmechelen
@@ -66372,6 +66437,7 @@ dusty hill
 dusty springfield
 dutch reach
 dutroux
+duvel
 dwars door het hageland
 dwars door het hageland 2023
 dwars door vlaanderen
@@ -66978,6 +67044,7 @@ espagne croatie
 espagne foot
 espagne italie
 espagne pays-bas
+espagne pedro sanchez
 espagne pologne
 espagne portugal
 espagne princesse leonor
@@ -67274,6 +67341,7 @@ f1 classement
 f1 france
 f1 imola 2022
 f1 japan
+f1 las vegas
 f1 live
 f1 mexico
 f1 mexique
@@ -67399,6 +67467,7 @@ fc aarau gegen lausanne-sport
 fc allschwil
 fc annecy
 fc arsenal
+fc baden – xamax
 fc barcelona
 fc barcelona – elche
 fc barcelone
@@ -67576,6 +67645,7 @@ fete de la musique geneve
 fete de la musique lille
 fete de la musique marseille
 fete de wallonie
+fete des celibataires
 fete des femmes
 fete des grand mere
 fete des grands peres
@@ -70231,6 +70301,7 @@ italië  wales
 italië  zwitserland
 italiëwales
 italy elections
+ittigen polizeieinsatz
 ittre
 ivan heylen
 ivan ilic
@@ -72864,6 +72935,7 @@ lotto be
 lottozahlen
 lotus emira
 lotusemira
+lotusgeburt
 lou deprijck
 lou doillon
 lou pernaut
@@ -73123,6 +73195,7 @@ maarten van der weijden
 maarten vancoillie
 maas
 maaseik
+maasmechelen
 maatregelen corona
 maatregelen nederland
 mac
@@ -73560,6 +73633,7 @@ marcgoblet
 marche
 marche adeps
 marche blanche nanterre
+marche contre l'antisémitisme parcours
 marche de noel
 marche pour le climat
 marchirschi
@@ -75364,6 +75438,7 @@ niederlandetschechien
 niederuzwil
 niederösterreich
 niel
+niels albert
 niels destadsbader
 niels hintermann
 niels schneider
@@ -75582,6 +75657,7 @@ noz
 noël
 nrj music awards
 nrj music awards 2022
+nrj music awards 2023
 nrw-wahl 2022
 ntamack
 nuggets – lakers
@@ -79085,6 +79161,7 @@ skiathlon
 skicross olympia
 skifahren
 skirennen sölden
+skirennen zermatt
 skispringen
 skov olsen
 skriniar
@@ -81034,6 +81111,7 @@ ufc 289
 ufc 290
 ufc 291
 ufc 294
+ufc 295
 ufc london
 ufc paris
 ufl
