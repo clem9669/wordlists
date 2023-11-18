@@ -5,13 +5,12 @@
 
 While pentesting it is sometime hard to find a good worldlist to run with *dirb, wfuzz, gobuster, ffuf and others*.
 
-This project aims to give a good and complete wordlist for discovery (including French words). It does **not** contain file extensions ! Put extensions accordingly to your webapp.
+This project aims to give a good and complete wordlist for discovery (including French words). Put extensions accordingly to your webapp.
 
 For extensions file, I recommand the [Raft file extensions](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content).
 
-I have removed weird and difficult to type letter:
+I have removed weird and "difficult" to type letter:
 ```sh
-sed -i '/œ/d' decouverte.txt
 sed -i '/ï/d' decouverte.txt
 sed -i '/ö/d' decouverte.txt
 sed -i '/ä/d' decouverte.txt
@@ -41,6 +40,7 @@ The main part of the list come from various place of internet but many thanks to
 * Dirb lists: common + large
 * Seclist > Discovery > Web-content: Raft
 * French dictionnary
+* API routes & scraps
 
 The following projects could interest you:
   - https://github.com/nil0x42/duplicut
