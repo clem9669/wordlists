@@ -600,6 +600,7 @@ AANSLAG ISTANBUL
 AANSLAGEN ZAVENTEM
 AARAU
 AARDBEVING
+AARDBEVING FILIPIJNEN
 AARDBEVING FRANKRIJK
 AARDBEVING KRETA
 AARDBEVING MAROKKO
@@ -817,6 +818,7 @@ ADEL TAWIL
 ADELA SMAJIC
 ADELAIDE HALL
 ADELBODEN
+ADELBODEN SKIGEBIET
 ADELBODEN-WELTCUP
 ADELE
 ADELE EXARCHOPOULOS
@@ -2070,6 +2072,7 @@ ARSENAL – PSV EINDHOVEN
 ARSENAL – SPORTING
 ARSENAL – SUNDERLAND
 ARSENAL – TOTTENHAM
+ARSENAL – WOLVES
 ARSENAL – nottm Forest
 ARSENAL,  MILAN
 ARSENAL–nottmForest
@@ -2286,6 +2289,7 @@ ATTAQUES ORQUES
 ATTENTAT 13-NOVEMBRE
 ATTENTAT BATACLAN
 ATTENTAT BRUXELLES
+ATTENTAT PARIS
 ATTENTAT ZUG
 ATTERRISSAGE BOEING 777 AIR FRANCE
 ATTILA FIOLA
@@ -2497,10 +2501,12 @@ Aanslagen Zaventem
 AanslagenZaventem
 Aarau
 Aardbeving
+Aardbeving Filipijnen
 Aardbeving Frankrijk
 Aardbeving Kreta
 Aardbeving Marokko
 Aardbeving Turkije
+AardbevingFilipijnen
 AardbevingFrankrijk
 AardbevingKreta
 AardbevingMarokko
@@ -2783,8 +2789,10 @@ AdelaSmajic
 Adelaide Hall
 AdelaideHall
 Adelboden
+Adelboden skigebiet
 Adelboden-Weltcup
 AdelbodenWeltcup
+Adelbodenskigebiet
 Adele
 Adele Exarchopoulos
 Adele Haenel
@@ -4941,6 +4949,7 @@ Arsenal – PSV Eindhoven
 Arsenal – Sporting
 Arsenal – Sunderland
 Arsenal – Tottenham
+Arsenal – Wolves
 Arsenal – nottm Forest
 Arsenal,  Milan
 Arsenal,Milan
@@ -4975,6 +4984,7 @@ Arsenal–PSVEindhoven
 Arsenal–Sporting
 Arsenal–Sunderland
 Arsenal–Tottenham
+Arsenal–Wolves
 Arsenal–nottmForest
 Arsene Wenger
 ArseneWenger
@@ -5258,10 +5268,12 @@ Attentat 13-Novembre
 Attentat 13Novembre
 Attentat Bataclan
 Attentat Bruxelles
+Attentat Paris
 Attentat Zug
 Attentat13-Novembre
 AttentatBataclan
 AttentatBruxelles
+AttentatParis
 AttentatZug
 Atterrissage Boeing 777 Air France
 AtterrissageBoeing777AirFrance
@@ -16811,6 +16823,7 @@ ERDBEBEN MAROKKO HEUTE
 ERDBEBEN MEXIKO
 ERDBEBEN MEXIKO-STADT
 ERDBEBEN NEPAL
+ERDBEBEN PHILIPPINEN TSUNAMI
 ERDBEBEN SCHWEIZ
 ERDBEBEN TUERKEI SYRIEN
 ERDBEBEN TÜRKEI
@@ -18018,6 +18031,7 @@ Erdbeben Mexiko
 Erdbeben Mexiko-Stadt
 Erdbeben MexikoStadt
 Erdbeben Nepal
+Erdbeben Philippinen Tsunami
 Erdbeben Schweiz
 Erdbeben Türkei
 Erdbeben tuerkei Syrien
@@ -18027,6 +18041,7 @@ ErdbebenMarokkoheute
 ErdbebenMexiko
 ErdbebenMexiko-Stadt
 ErdbebenNepal
+ErdbebenPhilippinenTsunami
 ErdbebenSchweiz
 ErdbebenTürkei
 ErdbebentuerkeiSyrien
@@ -19244,6 +19259,7 @@ FEYENOORD
 FEYENOORD  CLUB BRUGGE
 FEYENOORD  PSV
 FEYENOORD GEGEN STURM GRAZ
+FEYENOORD-PSV
 FFP2
 FFP2-MASKE
 FFP2-MASKEN
@@ -20400,6 +20416,7 @@ Feyenoord
 Feyenoord  Club Brugge
 Feyenoord  PSV
 Feyenoord gegen Sturm Graz
+Feyenoord-PSV
 FeyenoordClubBrugge
 FeyenoordPSV
 FeyenoordgegenSturmGraz
@@ -31212,6 +31229,7 @@ Kyrgios
 Kyrie Irving
 KyrieIrving
 KÄLIN IRENE
+KÖLN
 KÖLN 50667
 KÖLN GEGEN BAYERN
 KÖLN GEGEN BOCHUM
@@ -31221,6 +31239,7 @@ KÖNIGIN MARGRETHE II
 KÖNIGSSEE
 Kälin Irene
 KälinIrene
+Köln
 Köln 50667
 Köln gegen Bayern
 Köln gegen Bochum
@@ -31707,6 +31726,7 @@ LE HAVRE
 LE HAVRE – LENS
 LE HAVRE – METZ
 LE HAVRE – MONACO
+LE HAVRE – PARIS-SG
 LE JARDIN DES FINZI-CONTINI
 LE JOUET
 LE JOUR D'APRÈS
@@ -33358,6 +33378,8 @@ Le Havre
 Le Havre – Lens
 Le Havre – Metz
 Le Havre – Monaco
+Le Havre – paris-sg
+Le Havre – parissg
 Le Jour d'après
 Le Jules Verne
 Le Locle
@@ -33463,6 +33485,7 @@ LeHavre
 LeHavre–Lens
 LeHavre–Metz
 LeHavre–Monaco
+LeHavre–paris-sg
 LeJourd'après
 LeJulesVerne
 LeLocle
@@ -35700,6 +35723,7 @@ MARATHON DE PARIS
 MARATHON DE PARIS 2021
 MARATHON DE PARIS 2021 PARCOURS
 MARATHON DE PARIS 2023
+MARATHON DE VALENCE
 MARATHON EINDHOVEN
 MARATHON GENEVE
 MARATHON JO
@@ -35710,6 +35734,7 @@ MARATHON PARIS 2022
 MARATHON PARIS 2023
 MARATHON ROTTERDAM
 MARATHON TOKYO
+MARATHON VALENCIA
 MARBELLA
 MARBURG VIRUS
 MARBURG-FIEBER
@@ -37883,11 +37908,13 @@ Marathon Olympische Spelen
 Marathon Paris 2022
 Marathon Paris 2023
 Marathon Rotterdam
+Marathon Valencia
 Marathon antwerpen
 Marathon de Paris
 Marathon de Paris 2021
 Marathon de Paris 2021 parcours
 Marathon de Paris 2023
+Marathon de Valence
 Marathon geneve
 Marathon tokyo
 MarathonAmsterdam
@@ -37904,11 +37931,13 @@ MarathonOlympischeSpelen
 MarathonParis2022
 MarathonParis2023
 MarathonRotterdam
+MarathonValencia
 Marathonantwerpen
 MarathondeParis
 MarathondeParis2021
 MarathondeParis2021parcours
 MarathondeParis2023
+MarathondeValence
 Marathongeneve
 Marathontokyo
 Marbella
@@ -40566,6 +40595,7 @@ MÖNCHENGLADBACH GEGEN SCHALKE
 MÖNCHENGLADBACH GEGEN VFB STUTTGART
 MÖNCHENGLADBACH – BAYERN
 MÜNCHEN
+MÜNCHEN SCHNEEFALL
 MÜSLÜM
 Mária Telkes
 MáriaTelkes
@@ -40625,6 +40655,8 @@ MönchengladbachgegenSchalke
 MönchengladbachgegenVfBStuttgart
 Mönchengladbach–Bayern
 München
+München Schneefall
+MünchenSchneefall
 Müslüm
 N'GOLO KANTE
 N'Golo kante
@@ -40708,6 +40740,7 @@ NANTES – STRASBOURG
 NANTES – TOULOUSE
 NANTES – TROYES
 NANTES-BASTIA
+NANTES-NICE
 NAOMI CAMPBELL
 NAOMI JUDD
 NAOMI OSAKA
@@ -41461,7 +41494,9 @@ Nantes – parissg
 Nantes-Bastia
 Nantes-Juventus
 Nantes-Monaco
+Nantes-Nice
 NantesBastia
+NantesNice
 NantesgegenPSG
 Nantes–Angers
 Nantes–Brest
@@ -47078,6 +47113,7 @@ QUEEN ELIZABETH II
 QUEEN NIKKOLAH
 QUEENELIZABETH
 QUEENS OF THE STONE AGE
+QUEER
 QUEFAIRE
 QUENTIN DUPIEUX
 QUENTIN FILLON MAILLET
@@ -47176,6 +47212,7 @@ QueenElizabethII
 QueenNikkolah
 Queens of the Stone Age
 QueensoftheStoneAge
+Queer
 Quefaire
 Quentin Dupieux
 Quentin Fillon Maillet
@@ -47507,6 +47544,7 @@ REAL MADRID – ELCHE
 REAL MADRID – ESPANYOL
 REAL MADRID – GETAFE
 REAL MADRID – GIRONA
+REAL MADRID – GRENADE
 REAL MADRID – LAS PALMAS
 REAL MADRID – LIVERPOOL
 REAL MADRID – MANCHESTER UNITED
@@ -47874,6 +47912,7 @@ RIOPY
 RIP
 RIQUI PUIG
 RISHI SUNAK
+RISOUL
 RITA LEE
 RITA ORA
 RITSCHI
@@ -48707,6 +48746,7 @@ Real Madrid – Elche
 Real Madrid – Espanyol
 Real Madrid – Getafe
 Real Madrid – Girona
+Real Madrid – Grenade
 Real Madrid – Las Palmas
 Real Madrid – Liverpool
 Real Madrid – Manchester United
@@ -48793,6 +48833,7 @@ RealMadrid–Elche
 RealMadrid–Espanyol
 RealMadrid–Getafe
 RealMadrid–Girona
+RealMadrid–Grenade
 RealMadrid–LasPalmas
 RealMadrid–Liverpool
 RealMadrid–ManchesterUnited
@@ -49371,6 +49412,7 @@ Riqui Puig
 RiquiPuig
 Rishi Sunak
 RishiSunak
+Risoul
 Rita Lee
 Rita Ora
 RitaLee
@@ -50231,6 +50273,7 @@ SAINTE-BARBE
 SAINTE-CATHERINE
 SAINTE-SOLINE
 SAINTJEAN
+SAINTÉLYON
 SAKA
 SAKINA KARCHAOUI
 SALAH
@@ -50657,6 +50700,7 @@ SEGOLENE ROYAL CYRIL HANOUNA
 SEGWAY
 SEISME CRETE
 SEISME NÉPAL
+SEISME PHILIPPINES TSUNAMI
 SEISMES
 SEKO FOFANA
 SELAH SUE
@@ -52063,6 +52107,7 @@ SaintÉtienne – Nîmes
 SaintÉtienne – Paris FC
 SaintÉtienne – Reims
 SaintÉtienne – Troyes
+SaintéLyon
 Saintétienne – Bordeaux
 Saintétienne – Clermont
 Saintétienne – Lille
@@ -52753,8 +52798,10 @@ SegoleneRoyal
 SegoleneRoyalCyrilHanouna
 Segway
 Seisme Népal
+Seisme Philippines tsunami
 Seisme crete
 SeismeNépal
+SeismePhilippinestsunami
 Seismecrete
 Seismes
 Seko Fofana
@@ -54691,8 +54738,10 @@ SÉBASTIEN RAOULT MAROC
 SÉCHERESSE
 SÉISME
 SÉISME AFGHANISTAN
+SÉISME GUADELOUPE
 SÉISME MEXIQUE TSUNAMI
 SÉISME NÉPAL
+SÉISME PHILIPPINES
 SÉNÉGAL OUSMANE SONKO
 SÉNÉGAL – BÉNIN
 SÉNÉGAL – GUINÉE
@@ -54728,11 +54777,15 @@ SébastienRaoultMaroc
 Sécheresse
 Séisme
 Séisme Afghanistan
+Séisme Guadeloupe
 Séisme Mexique tsunami
 Séisme Népal
+Séisme Philippines
 SéismeAfghanistan
+SéismeGuadeloupe
 SéismeMexiquetsunami
 SéismeNépal
+SéismePhilippines
 Sénégal Ousmane Sonko
 Sénégal – Bénin
 Sénégal – Guinée
@@ -55703,6 +55756,7 @@ TRAVIS SCOTT KONZERT
 TRE CIME DI LAVAREDO
 TREAT WILLIAMS
 TREIZE VIES
+TREMBLANT
 TREMBLEMENT DE TERRE
 TREMBLEMENT DE TERRE FRANCE
 TREMBLEMENT DE TERRE MAROC
@@ -57478,6 +57532,7 @@ Treat Williams
 TreatWilliams
 Treize Vies
 TreizeVies
+Tremblant
 Tremblement de terre
 Tremblement de terre France
 Tremblement de terre Maroc
@@ -57730,6 +57785,10 @@ TürkeiWahlen
 U-BOOT TITANIC
 U-Boot Titanic
 U-BootTitanic
+U17-WM FINALE
+U17-WM Finale
+U17-WMFinale
+U17WM Finale
 U18 EISHOCKEY WM
 U18 Eishockey WM
 U18EishockeyWM
@@ -57786,6 +57845,7 @@ UEFA Coefficient
 UEFA Conference League
 UEFA EURO 2020
 UEFA EURO 2021
+UEFA EURO 2024
 UEFA EUROPA LEAGUE
 UEFA Euro 2020
 UEFA Europa League
@@ -57799,6 +57859,7 @@ UEFAChampionsLeague
 UEFACoefficient
 UEFAConferenceLeague
 UEFAEURO2020
+UEFAEURO2024
 UEFAEuro2020
 UEFAEuropaLeague
 UEFANationsLeague
@@ -62062,6 +62123,7 @@ aanslag istanbul
 aanslagen zaventem
 aarau
 aardbeving
+aardbeving filipijnen
 aardbeving frankrijk
 aardbeving kreta
 aardbeving marokko
@@ -62239,6 +62301,7 @@ adel tawil
 adela smajic
 adelaide hall
 adelboden
+adelboden skigebiet
 adelboden-weltcup
 adele
 adele exarchopoulos
@@ -63463,6 +63526,7 @@ arsenal – psv eindhoven
 arsenal – sporting
 arsenal – sunderland
 arsenal – tottenham
+arsenal – wolves
 arsenal,  milan
 arsene wenger
 arsenio puro
@@ -63635,6 +63699,7 @@ attaques orques
 attentat 13-novembre
 attentat bataclan
 attentat bruxelles
+attentat paris
 attentat zug
 atterrissage boeing 777 air france
 attila fiola
@@ -68160,6 +68225,7 @@ erdbeben marokko heute
 erdbeben mexiko
 erdbeben mexiko-stadt
 erdbeben nepal
+erdbeben philippinen tsunami
 erdbeben schweiz
 erdbeben tuerkei syrien
 erdbeben türkei
@@ -68899,6 +68965,7 @@ feyenoord
 feyenoord  club brugge
 feyenoord  psv
 feyenoord gegen sturm graz
+feyenoord-psv
 ffp2
 ffp2-maske
 ffp2-masken
@@ -73057,6 +73124,7 @@ kylie minogue
 kyrgios
 kyrie irving
 kälin irene
+köln
 köln 50667
 köln gegen bayern
 köln gegen bochum
@@ -73462,6 +73530,7 @@ le havre
 le havre – lens
 le havre – metz
 le havre – monaco
+le havre – paris-sg
 le jardin des finzi-contini
 le jouet
 le jour d'après
@@ -74883,6 +74952,7 @@ marathon de paris
 marathon de paris 2021
 marathon de paris 2021 parcours
 marathon de paris 2023
+marathon de valence
 marathon eindhoven
 marathon geneve
 marathon jo
@@ -74893,6 +74963,7 @@ marathon paris 2022
 marathon paris 2023
 marathon rotterdam
 marathon tokyo
+marathon valencia
 marbella
 marburg virus
 marburg-fieber
@@ -76373,6 +76444,7 @@ mönchengladbach gegen schalke
 mönchengladbach gegen vfb stuttgart
 mönchengladbach – bayern
 münchen
+münchen schneefall
 müslüm
 n'golo kante
 n'oubliez pas les paroles
@@ -76449,6 +76521,7 @@ nantes – strasbourg
 nantes – toulouse
 nantes – troyes
 nantes-bastia
+nantes-nice
 naomi campbell
 naomi judd
 naomi osaka
@@ -78706,6 +78779,7 @@ queen elizabeth ii
 queen nikkolah
 queenelizabeth
 queens of the stone age
+queer
 quentin dupieux
 quentin fillon maillet
 quentin halys
@@ -78972,6 +79046,7 @@ real madrid – elche
 real madrid – espanyol
 real madrid – getafe
 real madrid – girona
+real madrid – grenade
 real madrid – las palmas
 real madrid – liverpool
 real madrid – manchester united
@@ -79323,6 +79398,7 @@ riopy
 rip
 riqui puig
 rishi sunak
+risoul
 rita lee
 rita ora
 ritschi
@@ -79861,6 +79937,7 @@ sainte-barbe
 sainte-catherine
 sainte-soline
 saintjean
+saintélyon
 saka
 sakina karchaoui
 salah
@@ -80270,6 +80347,7 @@ segolene royal cyril hanouna
 segway
 seisme crete
 seisme népal
+seisme philippines tsunami
 seismes
 seko fofana
 selah sue
@@ -81421,8 +81499,10 @@ sébastien raoult maroc
 sécheresse
 séisme
 séisme afghanistan
+séisme guadeloupe
 séisme mexique tsunami
 séisme népal
+séisme philippines
 sénégal ousmane sonko
 sénégal – bénin
 sénégal – guinée
@@ -82346,6 +82426,7 @@ travis scott konzert
 tre cime di lavaredo
 treat williams
 treize vies
+tremblant
 tremblement de terre
 tremblement de terre france
 tremblement de terre maroc
@@ -82496,6 +82577,7 @@ türkei kroatien
 türkei lettland
 türkei wahlen
 u-boot titanic
+u17-wm finale
 u18 eishockey wm
 u20 wm eishockey
 u20-wm eishockey
@@ -82529,6 +82611,7 @@ uefa coefficient
 uefa conference league
 uefa euro 2020
 uefa euro 2021
+uefa euro 2024
 uefa europa league
 uefa nations league
 uefa women's nations league
