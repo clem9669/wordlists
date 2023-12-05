@@ -57,7 +57,7 @@ jobs:
           ls -lha; pwd; free; du -ha;
 
       - name: Create release
-        uses: ncipollo/release-action@latest
+        uses: ncipollo/release-action@v1.13.0
         id: create_release
         with:
           tag: ${{ github.run_number }}
