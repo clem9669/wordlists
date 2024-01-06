@@ -837,6 +837,8 @@ ADELA SMAJIC
 ADELAIDE HALL
 ADELBODEN
 ADELBODEN SKIGEBIET
+ADELBODEN SKIRENNEN
+ADELBODEN WELTCUP
 ADELBODEN-WELTCUP
 ADELE
 ADELE EXARCHOPOULOS
@@ -1146,6 +1148,7 @@ ALERTE A LA BOMBE CHARLEROI
 ALERTE A LA BOMBE TOURNAI
 ALERTE BOMBE GRENOBLE
 ALERTE CANICULE
+ALERTE COBRA CHRISTIAN OLIVER
 ALERTE ENLÈVEMENT
 ALERTE METEO
 ALERTE ROUGE
@@ -1272,6 +1275,7 @@ ALI MITGUTSCH
 ALIBABA
 ALIBI.COM 2
 ALICA SCHMIDT
+ALICE AU PAYS DES MERVEILLES
 ALICE ET LE MAIRE
 ALICE IN BORDERLAND
 ALICE NEVERS
@@ -1378,6 +1382,7 @@ ALPINE F1
 ALPNACH
 ALPSTEIN
 ALS
+ALS KRANKHEIT
 ALS SYMPTOME
 ALS ZIEKTE
 ALSTOM
@@ -2033,6 +2038,7 @@ ARJEN LUBACH
 ARK: SURVIVAL ASCENDED
 ARK: Survival Ascended
 ARK:SurvivalAscended
+ARKEA ULTIM CHALLENGE
 ARKEMA
 ARLANXEO
 ARLES
@@ -2860,8 +2866,11 @@ AdelaSmajic
 Adelaide Hall
 AdelaideHall
 Adelboden
+Adelboden Skirennen
+Adelboden Weltcup
 Adelboden skigebiet
 Adelboden-Weltcup
+AdelbodenSkirennen
 AdelbodenWeltcup
 Adelbodenskigebiet
 Adele
@@ -3377,6 +3386,7 @@ AleksandarTrajkovski
 Aleksander Aamodt Kilde
 AleksanderAamodtKilde
 Alencon
+Alerte Cobra Christian Oliver
 Alerte Rouge
 Alerte a la bombe
 Alerte a la bombe Charleroi
@@ -3388,6 +3398,7 @@ Alerte meteo
 Alerte rouge
 Alerte à Malibu
 Alerte à la bombe
+AlerteCobraChristianOliver
 AlerteRouge
 Alertealabombe
 AlertealabombeCharleroi
@@ -3625,6 +3636,7 @@ Alice Pol
 Alice Sebold
 Alice Taglioni
 Alice Weidel
+Alice au Pays des Merveilles
 Alice et le maire
 Alice in Borderland
 AliceNevers
@@ -3632,6 +3644,7 @@ AlicePol
 AliceSebold
 AliceTaglioni
 AliceWeidel
+AliceauPaysdesMerveilles
 Aliceetlemaire
 AliceinBorderland
 Alicia Aylies
@@ -3806,8 +3819,10 @@ AlpineF1
 Alpnach
 Alpstein
 Als
+Als Krankheit
 Als Symptome
 Als ziekte
+AlsKrankheit
 AlsSymptome
 Alstom
 Alsziekte
@@ -4959,6 +4974,8 @@ ArielleDombasle
 Arisa
 Arjen Lubach
 ArjenLubach
+Arkea Ultim Challenge
+ArkeaUltimChallenge
 Arkema
 Arlanxeo
 Arles
@@ -6023,6 +6040,7 @@ BAS SMETS
 BAS-RHIN DISPARITION LINA
 BASAKSEHIR
 BASCHI
+BASEL BAYERN
 BASEL FC
 BASEL FIORENTINA
 BASEL NEWS
@@ -6592,6 +6610,7 @@ BITCOIN
 BITCOIN KOERS
 BITCOIN NEWS
 BITCOIN NIEUWS
+BITCOIN-ETF NEWS
 BITCOIN-KURS
 BITSCH
 BITZLATO
@@ -6660,6 +6679,7 @@ BLANKENBERGE
 BLANQUER
 BLAUALGEN
 BLAUWE MAAN
+BLAUWE ROTSLIJSTER
 BLEGNY
 BLEIGIEßEN
 BLENIOTAL
@@ -7723,10 +7743,12 @@ BasRhin disparition Lina
 BasSmets
 Basaksehir
 Baschi
+Basel Bayern
 Basel FC
 Basel Fiorentina
 Basel Trabzonspor
 Basel news
+BaselBayern
 BaselFC
 BaselFiorentina
 BaselTrabzonspor
@@ -8674,7 +8696,10 @@ Bitcoin
 Bitcoin Nieuws
 Bitcoin koers
 Bitcoin news
+Bitcoin-ETF NEWS
+Bitcoin-ETFNEWS
 Bitcoin-Kurs
+BitcoinETF NEWS
 BitcoinKurs
 BitcoinNieuws
 Bitcoinkoers
@@ -8773,7 +8798,9 @@ Blankenberge
 Blanquer
 Blaualgen
 Blauwe maan
+Blauwe rotslijster
 Blauwemaan
+Blauwerotslijster
 Blegny
 Bleigießen
 Bleniotal
@@ -10610,6 +10637,7 @@ CHRISTIAN JACOB
 CHRISTIAN JÜRGENS
 CHRISTIAN KOHLUND
 CHRISTIAN KRACHT
+CHRISTIAN OLIVER
 CHRISTIAN QUESADA
 CHRISTIAN RÄTSCH
 CHRISTIAN SIEVERS
@@ -10623,6 +10651,7 @@ CHRISTIN OKPARA
 CHRISTIN STARK
 CHRISTINA AGUILERA
 CHRISTINA APPLEGATE
+CHRISTINA BLOCK KINDER
 CHRISTINA LIEBHERR
 CHRISTINA LUFT
 CHRISTINA MILIAN
@@ -11313,6 +11342,7 @@ CROKY CUP
 CROP TOP
 CROPTOP
 CROSS DENDERMONDE
+CROSS GULLEGEM
 CROSS HULST
 CROSS LOENHOUT
 CROSS MOL
@@ -12695,6 +12725,7 @@ Christian Jacob
 Christian Jürgens
 Christian Kohlund
 Christian Kracht
+Christian Oliver
 Christian Quesada
 Christian Rätsch
 Christian Sievers
@@ -12712,6 +12743,7 @@ ChristianJacob
 ChristianJürgens
 ChristianKohlund
 ChristianKracht
+ChristianOliver
 ChristianQuesada
 ChristianRätsch
 ChristianSievers
@@ -12729,12 +12761,14 @@ ChristinOkpara
 ChristinStark
 Christina Aguilera
 Christina Applegate
+Christina Block Kinder
 Christina Liebherr
 Christina Luft
 Christina Milian
 Christina Ricci
 ChristinaAguilera
 ChristinaApplegate
+ChristinaBlockKinder
 ChristinaLiebherr
 ChristinaLuft
 ChristinaMilian
@@ -13939,10 +13973,12 @@ CrokyCup
 Crop top
 Croptop
 Cross Dendermonde
+Cross Gullegem
 Cross Hulst
 Cross Loenhout
 Cross Mol
 CrossDendermonde
+CrossGullegem
 CrossHulst
 CrossLoenhout
 CrossMol
@@ -14343,6 +14379,7 @@ DAVID POPOVICI
 DAVID SASSOLI
 DAVID SCHWIMMER
 DAVID SILVA
+DAVID SOUL
 DAVID VAN DER POEL
 DAVID WAGNER
 DAVID WARNER
@@ -14590,6 +14627,7 @@ DEUTSCHLAND. ITALIEN
 DEUTSCHLANDPORTUGAL
 DEUTSCHLANDUNGARN
 DEUX FEMMES
+DEUX PLONGEURS DISPARUS
 DEUX-SÈVRES
 DEVA CASSEL
 DEVILLE
@@ -14986,6 +15024,7 @@ DREIKÖNIGSTAG
 DRESDEN
 DREW WEISSMAN
 DREYER
+DRIE KONINGEN
 DRIEKONINGEN
 DRIEKONINGENTAART
 DRIES DEVENYNS
@@ -15465,6 +15504,7 @@ David Popovici
 David Sassoli
 David Schwimmer
 David Silva
+David Soul
 David Wagner
 David Warner
 David de Gea
@@ -15502,6 +15542,7 @@ DavidPopovici
 DavidSassoli
 DavidSchwimmer
 DavidSilva
+DavidSoul
 DavidWagner
 DavidWarner
 DaviddeGea
@@ -15926,8 +15967,10 @@ Deutschlandspanien
 DeutschlandsuchtdenSuperstar
 DeutschlandÖsterreich
 Deux femmes
+Deux plongeurs disparus
 Deux-sèvres
 Deuxfemmes
+Deuxplongeursdisparus
 Deuxsèvres
 Deva Cassel
 DevaCassel
@@ -16576,6 +16619,7 @@ Dresden
 Drew Weissman
 DrewWeissman
 Dreyer
+Drie koningen
 Driekoningen
 Driekoningentaart
 Dries Devenyns
@@ -19434,6 +19478,7 @@ FATIMA
 FATMA GIRIK
 FAUSTINE BOLLAERT
 FAUSTINE NOGHEROTTO
+FAUTEUIL
 FAWLTY TOWERS
 FAYZA LAMARI
 FC 24
@@ -19691,6 +19736,7 @@ FEDEX
 FEDEZ
 FEESTDAGEN
 FEESTDAGEN 2024
+FEIGNIES-AULNOYE
 FEIGWARZEN
 FEINE SAHNE FISCHFILET
 FEKIR
@@ -20718,6 +20764,7 @@ Faustine Bollaert
 Faustine Nogherotto
 FaustineBollaert
 FaustineNogherotto
+Fauteuil
 Fawlty Towers
 FawltyTowers
 Fayza Lamari
@@ -20758,6 +20805,8 @@ Fedez
 Feestdagen
 Feestdagen 2024
 Feestdagen2024
+Feignies-Aulnoye
+FeigniesAulnoye
 Feigwarzen
 Feine Sahne Fischfilet
 FeineSahneFischfilet
@@ -36979,6 +37028,7 @@ MARIO GÖTZE
 MARIO MANDZUKIC
 MARIO MOLINA
 MARIO STRIKERS
+MARIO ZAGALLO
 MARIOFEHR
 MARIOFILM
 MARION BARTOLI
@@ -37599,6 +37649,7 @@ METZ
 METZ – AMIENS
 METZ – BORDEAUX
 METZ – BREST
+METZ – CLERMONT
 METZ – DIJON
 METZ – GUINGAMP
 METZ – LE HAVRE
@@ -39392,6 +39443,7 @@ Mario Götze
 Mario Mandzukic
 Mario Molina
 Mario Strikers
+Mario Zagallo
 Mario film
 MarioAdorf
 MarioBalotelli
@@ -39402,6 +39454,7 @@ MarioGötze
 MarioMandzukic
 MarioMolina
 MarioStrikers
+MarioZagallo
 Mariofilm
 Marion Bartoli
 Marion Campan
@@ -40506,6 +40559,7 @@ Metz
 Metz – Amiens
 Metz – Bordeaux
 Metz – Brest
+Metz – Clermont
 Metz – Dijon
 Metz – Guingamp
 Metz – Le Havre
@@ -40524,6 +40578,7 @@ Metz – parissg
 Metz–Amiens
 Metz–Bordeaux
 Metz–Brest
+Metz–Clermont
 Metz–Dijon
 Metz–Guingamp
 Metz–LeHavre
@@ -45222,6 +45277,7 @@ PATROUILLE DES GLACIERS
 PATROUILLE SUISSE
 PATTI SMITH
 PAU
+PAU FC – NANTES
 PAU GASOL
 PAU LOPEZ
 PAUL AUSTER
@@ -46897,8 +46953,10 @@ Patrouillesuisse
 Patti Smith
 PattiSmith
 Pau
+Pau FC – Nantes
 Pau Gasol
 Pau Lopez
+PauFC–Nantes
 PauGasol
 PauLopez
 Paul Auster
@@ -49029,6 +49087,7 @@ REITERALM
 REKKLES
 RELEGATION BUNDESLIGA
 REMANIEMENT
+REMANIEMENT GOUVERNEMENT MACRON
 REMANIEMENT MINISTRES
 REMBOURSEMENT NAVIGO
 REMBOURSEMENT PSYCHOLOGUE
@@ -50426,7 +50485,9 @@ Rekkles
 Relegation Bundesliga
 RelegationBundesliga
 Remaniement
+Remaniement gouvernement Macron
 Remaniement ministres
+RemaniementgouvernementMacron
 Remaniementministres
 Remboursement Navigo
 Remboursement psychologue
@@ -57007,6 +57068,7 @@ TODD MATSHIKIZA
 TODIBO
 TOESLAGENAFFAIRE
 TOF HENRY
+TOGO A – ALGÉRIE
 TOILETTE
 TOKIO 2021
 TOKYO
@@ -58594,6 +58656,8 @@ Todibo
 Toeslagenaffaire
 Tof Henry
 TofHenry
+Togo a – Algérie
+Togoa–Algérie
 Toilette
 Tokio 2021
 Tokio2021
@@ -60258,6 +60322,7 @@ VAKANTIE
 VAKATAWA
 VAL D ISERE
 VAL D'ISERE
+VAL DI FIEMME
 VAL DI SOLE
 VAL GARDENA
 VAL KILMER
@@ -60799,6 +60864,7 @@ Val Thorens
 Val d isere
 Val d'Isere
 Val d'isere
+Val di Fiemme
 Val di Sole
 Val-de-Reuil
 ValGardena
@@ -60812,6 +60878,7 @@ Vald
 Vald'Isere
 Vald'isere
 ValdeReuil
+ValdiFiemme
 ValdiSole
 Valdisere
 Valence
@@ -64066,6 +64133,8 @@ adela smajic
 adelaide hall
 adelboden
 adelboden skigebiet
+adelboden skirennen
+adelboden weltcup
 adelboden-weltcup
 adele
 adele exarchopoulos
@@ -64362,6 +64431,7 @@ alerte a la bombe charleroi
 alerte a la bombe tournai
 alerte bombe grenoble
 alerte canicule
+alerte cobra christian oliver
 alerte enlèvement
 alerte meteo
 alerte rouge
@@ -64484,6 +64554,7 @@ ali mitgutsch
 alibaba
 alibi.com 2
 alica schmidt
+alice au pays des merveilles
 alice et le maire
 alice in borderland
 alice nevers
@@ -64590,6 +64661,7 @@ alpine f1
 alpnach
 alpstein
 als
+als krankheit
 als symptome
 als ziekte
 alstom
@@ -65236,6 +65308,7 @@ arielle dombasle
 arisa
 arjen lubach
 ark: survival ascended
+arkea ultim challenge
 arkema
 arlanxeo
 arles
@@ -65934,6 +66007,7 @@ bas smets
 bas-rhin disparition lina
 basaksehir
 baschi
+basel bayern
 basel fc
 basel fiorentina
 basel news
@@ -66487,6 +66561,7 @@ bitcoin
 bitcoin koers
 bitcoin news
 bitcoin nieuws
+bitcoin-etf news
 bitcoin-kurs
 bitsch
 bitzlato
@@ -66548,6 +66623,7 @@ blankenberge
 blanquer
 blaualgen
 blauwe maan
+blauwe rotslijster
 blegny
 bleigießen
 bleniotal
@@ -67938,6 +68014,7 @@ christian jacob
 christian jürgens
 christian kohlund
 christian kracht
+christian oliver
 christian quesada
 christian rätsch
 christian sievers
@@ -67951,6 +68028,7 @@ christin okpara
 christin stark
 christina aguilera
 christina applegate
+christina block kinder
 christina liebherr
 christina luft
 christina milian
@@ -68631,6 +68709,7 @@ croky cup
 crop top
 croptop
 cross dendermonde
+cross gullegem
 cross hulst
 cross loenhout
 cross mol
@@ -68945,6 +69024,7 @@ david popovici
 david sassoli
 david schwimmer
 david silva
+david soul
 david van der poel
 david wagner
 david warner
@@ -69183,6 +69263,7 @@ deutschland. italien
 deutschlandportugal
 deutschlandungarn
 deux femmes
+deux plongeurs disparus
 deux-sèvres
 deva cassel
 deville
@@ -69551,6 +69632,7 @@ dreikönigstag
 dresden
 drew weissman
 dreyer
+drie koningen
 driekoningen
 driekoningentaart
 dries devenyns
@@ -70672,6 +70754,7 @@ fatima
 fatma girik
 faustine bollaert
 faustine nogherotto
+fauteuil
 fawlty towers
 fayza lamari
 fc 24
@@ -70777,6 +70860,7 @@ fedex
 fedez
 feestdagen
 feestdagen 2024
+feignies-aulnoye
 feigwarzen
 feine sahne fischfilet
 fekir
@@ -77277,6 +77361,7 @@ mario götze
 mario mandzukic
 mario molina
 mario strikers
+mario zagallo
 mariofehr
 marion bartoli
 marion campan
@@ -77892,6 +77977,7 @@ metz
 metz – amiens
 metz – bordeaux
 metz – brest
+metz – clermont
 metz – dijon
 metz – guingamp
 metz – le havre
@@ -80040,6 +80126,7 @@ patrouille des glaciers
 patrouille suisse
 patti smith
 pau
+pau fc – nantes
 pau gasol
 pau lopez
 paul auster
@@ -81414,6 +81501,7 @@ reiteralm
 rekkles
 relegation bundesliga
 remaniement
+remaniement gouvernement macron
 remaniement ministres
 remboursement navigo
 remboursement psychologue
@@ -84441,6 +84529,7 @@ todd matshikiza
 todibo
 toeslagenaffaire
 tof henry
+togo a – algérie
 toilette
 tokio 2021
 tokyo
@@ -85229,6 +85318,7 @@ vakantie
 vakatawa
 val d isere
 val d'isere
+val di fiemme
 val di sole
 val gardena
 val kilmer
