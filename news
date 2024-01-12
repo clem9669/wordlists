@@ -1444,6 +1444,7 @@ AMELIE DE BOURBON
 AMELIE DE MONTCHALIN
 AMELIE LENS
 AMELIE MAURESMO
+AMELIE OUDEA CASTERA
 AMENRA
 AMERICA'S GOT TALENT
 AMERICAN ASSASSIN
@@ -3924,10 +3925,12 @@ Amelie Lens
 Amelie Mauresmo
 Amelie de Bourbon
 Amelie de Montchalin
+Amelie oudea castera
 AmelieLens
 AmelieMauresmo
 AmeliedeBourbon
 AmeliedeMontchalin
+Amelieoudeacastera
 Amenra
 America's Got Talent
 America'sGotTalent
@@ -6020,6 +6023,7 @@ BARCELONE – BAYERN
 BARCELONE – CADIX
 BARCELONE – CELTA VIGO
 BARCELONE – ESPANYOL
+BARCELONE – OSASUNA
 BARCELONE – REAL MADRID
 BARCELONE – SÉVILLE
 BARCELONE – TOTTENHAM
@@ -7691,6 +7695,7 @@ Barcelone – Bayern
 Barcelone – Cadix
 Barcelone – Celta Vigo
 Barcelone – Espanyol
+Barcelone – Osasuna
 Barcelone – Real Madrid
 Barcelone – Séville
 Barcelone – Tottenham
@@ -7703,6 +7708,7 @@ Barcelone–Bayern
 Barcelone–Cadix
 Barcelone–CeltaVigo
 Barcelone–Espanyol
+Barcelone–Osasuna
 Barcelone–RealMadrid
 Barcelone–Séville
 Barcelone–Tottenham
@@ -10195,6 +10201,7 @@ CASSANDRE FRISTOT
 CASSE-NOISETTE
 CASSIDY HUTCHINSON
 CASSIE
+CASSIS &AMP; PAPRIKA
 CASTAGNE
 CASTANER
 CASTELLANE
@@ -11947,6 +11954,8 @@ Cassenoisette
 Cassidy Hutchinson
 CassidyHutchinson
 Cassie
+Cassis &amp; Paprika
+Cassis&amp;Paprika
 Castagne
 Castaner
 Castellane
@@ -14503,6 +14512,7 @@ DE RONDE VAN VLAANDEREN 2023
 DE SLAG OM DE SCHELDE
 DE SLIMSTE MENS
 DE SLIMSTE MENS TER WERELD
+DE STRANGERS
 DE TELEGRAAF
 DE TIJD
 DE TIJDLOZE
@@ -15660,6 +15670,7 @@ De Ronde van Vlaanderen 2023
 De Slag om de Schelde
 De Slimste Mens
 De Slimste Mens ter Wereld
+De Strangers
 De Telegraaf
 De Tijd
 De Tijdloze
@@ -15703,6 +15714,7 @@ DeRondevanVlaanderen2023
 DeSlagomdeSchelde
 DeSlimsteMens
 DeSlimsteMensterWereld
+DeStrangers
 DeTelegraaf
 DeTijd
 DeTijdloze
@@ -25563,6 +25575,7 @@ HUNTER X HUNTER
 HURKACZ
 HURRIKAN OTIS
 HUSTLE
+HUTHI-REBELLEN
 HUUB OOSTERHUIS
 HUURPREMIE
 HUW EDWARDS
@@ -26426,6 +26439,8 @@ Hurkacz
 Hurrikan OTIS
 HurrikanOTIS
 Hustle
+Huthi-Rebellen
+HuthiRebellen
 Huub Oosterhuis
 HuubOosterhuis
 Huurpremie
@@ -28013,6 +28028,7 @@ JACQUES-BREL
 JADA PINKETT SMITH
 JADE CAREY
 JADE ET JOY HALLYDAY
+JADE HOVINE
 JADON SANCHO
 JADONSANCHO
 JAGUAR
@@ -28129,6 +28145,7 @@ JANSEN PANETTIERE
 JANSRUD
 JANULLRICH
 JAOUAD ACHAB
+JAOUEN HADJAM
 JAPAN
 JAPAN  COSTA RICA
 JAPAN  KROATIË
@@ -29026,8 +29043,10 @@ Jacquespradel
 Jada Pinkett Smith
 JadaPinkettSmith
 Jade Carey
+Jade Hovine
 Jade et Joy Hallyday
 JadeCarey
+JadeHovine
 JadeetJoyHallyday
 Jadon Sancho
 JadonSancho
@@ -29249,6 +29268,8 @@ JansenPanettiere
 Jansrud
 Jaouad Achab
 JaouadAchab
+Jaouen Hadjam
+JaouenHadjam
 Japan
 Japan  Costa Rica
 Japan  Kroatië
@@ -32772,6 +32793,7 @@ LAUREN SPENCER-SMITH
 LAUREN VERSNICK
 LAUREN WASSER
 LAURENCE ARNÉ
+LAURENCE BADIE
 LAURENCE BOCCOLINI
 LAURENCE BOISSIER
 LAURENCE BOONE
@@ -32884,6 +32906,7 @@ LE JOUR D'APRÈS
 LE JOUR LE PLUS LONG
 LE JULES VERNE
 LE LOCLE
+LE LOUVRE
 LE MANS
 LE MANS 2021
 LE MANS 2022
@@ -34437,6 +34460,7 @@ LaurenSpencer-Smith
 LaurenVersnick
 LaurenWasser
 Laurence Arné
+Laurence Badie
 Laurence Boccolini
 Laurence Boissier
 Laurence Boone
@@ -34444,6 +34468,7 @@ Laurence Cretegny
 Laurence Ferrari
 Laurence Van Tongerloo
 LaurenceArné
+LaurenceBadie
 LaurenceBoccolini
 LaurenceBoissier
 LaurenceBoone
@@ -34597,6 +34622,7 @@ Le Havre – parissg
 Le Jour d'après
 Le Jules Verne
 Le Locle
+Le Louvre
 Le Mans
 Le Mans 2021
 Le Mans 2022
@@ -34709,6 +34735,7 @@ LeHavre–paris-sg
 LeJourd'après
 LeJulesVerne
 LeLocle
+LeLouvre
 LeMans
 LeMans2021
 LeMans2022
@@ -37097,6 +37124,7 @@ MARCO BORRADORI
 MARCO BORSATO
 MARCO CHIESA
 MARCO GOECKE
+MARCO KOHLER
 MARCO MENGONI
 MARCO ODERMATT
 MARCO PANTANI
@@ -37156,6 +37184,7 @@ MARIE ANTOINETTE
 MARIE ARENA
 MARIE KONDO
 MARIE LAFORET
+MARIE LEBEC
 MARIE MYRIAM
 MARIE PATOUILLET
 MARIE PORTOLANO
@@ -38135,9 +38164,12 @@ MINI CHUCHI, DINI CHUCHI SRF
 MINI ROCK
 MINISTERE DE L'INTERIEUR
 MINISTRE DE L'INTÉRIEUR UKRAINE
+MINISTRE DE L'ÉDUCATION
 MINISTRE DE LA JUSTICE BELGE
 MINISTRE DE LA SANTÉ
+MINISTRE DES AFFAIRES ÉTRANGÈRES
 MINISTRE DES SPORTS
+MINISTRE DES TRANSPORTS
 MINISTRES NOUVEAU GOUVERNEMENT
 MINO RAIOLA
 MINO RAIOLA TODESURSACHE
@@ -39420,6 +39452,7 @@ Marco Borradori
 Marco Borsato
 Marco Chiesa
 Marco Goecke
+Marco Kohler
 Marco Mengoni
 Marco Odermatt
 Marco Pantani
@@ -39435,6 +39468,7 @@ MarcoBorradori
 MarcoBorsato
 MarcoChiesa
 MarcoGoecke
+MarcoKohler
 MarcoMengoni
 MarcoOdermatt
 MarcoPantani
@@ -39532,6 +39566,7 @@ MarianneundMichael
 Marie Antoinette
 Marie Arena
 Marie Kondo
+Marie Lebec
 Marie Myriam
 Marie Patouillet
 Marie Portolano
@@ -39565,6 +39600,7 @@ MarieFrancine
 MarieGalante
 MarieKondo
 MarieLaure de Decker
+MarieLebec
 MarieLouise Fort
 MarieMyriam
 MariePatouillet
@@ -41312,14 +41348,20 @@ Ministere de l'interieur
 Ministeredel'interieur
 Ministre de l'Intérieur Ukraine
 Ministre de l'intérieur ukraine
+Ministre de l'Éducation
 Ministre de la Justice belge
 Ministre de la Santé
+Ministre des Affaires étrangères
 Ministre des Sports
+Ministre des transports
 Ministredel'IntérieurUkraine
 Ministredel'intérieurukraine
+Ministredel'Éducation
 MinistredelaJusticebelge
 MinistredelaSanté
+MinistredesAffairesétrangères
 MinistredesSports
+Ministredestransports
 Ministres nouveau gouvernement
 Ministresnouveaugouvernement
 Mino Raiola
@@ -46217,6 +46259,7 @@ PRINCE GEORGE
 PRINCE HARRY
 PRINCE LAURENT
 PRINCE LOUIS
+PRINCE OF PERSIA: THE LOST CROWN
 PRINCE WILLIAM
 PRINCESS CHARMING
 PRINCESS MAKO
@@ -48424,6 +48467,7 @@ Prince Harry
 Prince Laurent
 Prince Louis
 Prince William
+Prince of Persia: The Lost Crown
 PrinceAndrew
 PrinceCharles
 PrinceChristian
@@ -48432,6 +48476,7 @@ PrinceHarry
 PrinceLaurent
 PrinceLouis
 PrinceWilliam
+PrinceofPersia:TheLostCrown
 Princess Charming
 Princess Mako
 PrincessCharming
@@ -49569,6 +49614,7 @@ RIVE GAUCHE
 RIVELLA
 RIVER PHOENIX
 RIVIAN
+RIVIERE PERDUE
 RIYAD MAHREZ
 RIZ AU LAIT
 RIZ BASMATI CHEZ LIDL
@@ -51119,6 +51165,8 @@ Rivella
 River Phoenix
 RiverPhoenix
 Rivian
+Riviere Perdue
+RivierePerdue
 Riyad Mahrez
 RiyadMahrez
 Riz au lait
@@ -52099,6 +52147,7 @@ SAN REMO
 SAN SEBASTIAN
 SANARY-SUR-MER
 SANCERRE
+SANCHO
 SANCTION OL - OM
 SAND VAN ROY
 SAND VAN ROY LUC BESSON
@@ -52397,6 +52446,7 @@ SEASIDE FESTIVAL
 SEASIDE-FESTIVAL
 SEAT
 SEATTLE KRAKEN
+SEB MELLIA
 SEBASTIAN BÖHM
 SEBASTIAN KORDA
 SEBASTIAN KURZ
@@ -53272,6 +53322,7 @@ STEPHANE EIMER
 STEPHANE GUILLON
 STEPHANE PLAZA
 STEPHANE RAVIER
+STEPHANE SEJOURNE
 STEPHANIE BERGER
 STEPHANIE FRAPPART
 STEPHEN BOSS
@@ -53569,6 +53620,7 @@ SUeDE-SLOVAQUIE
 SUeDESLOVAQUIE
 SUÈDE  SLOVAQUIE
 SUÈDE - SLOVAQUIE
+SUÈDE RUSSIE GUERRE
 SUÈDE – ALGÉRIE
 SUÈDE – AUSTRALIE
 SUÈDE – BELGIQUE
@@ -54085,6 +54137,7 @@ SanSebastian
 Sanary-sur-Mer
 SanarysurMer
 Sancerre
+Sancho
 Sanction OL  OM
 Sanction OL - OM
 SanctionOL-OM
@@ -54540,6 +54593,8 @@ SeasideFestival
 Seat
 Seattle Kraken
 SeattleKraken
+Seb Mellia
+SebMellia
 Sebastian Böhm
 Sebastian Korda
 Sebastian Kurz
@@ -55946,12 +56001,14 @@ Stephane Eimer
 Stephane Guillon
 Stephane Plaza
 Stephane Ravier
+Stephane sejourne
 StephaneBak
 StephaneBern
 StephaneEimer
 StephaneGuillon
 StephanePlaza
 StephaneRavier
+Stephanesejourne
 Stephanie Berger
 Stephanie Frappart
 StephanieBerger
@@ -56440,12 +56497,14 @@ SuzanneSomers
 SuzanneSomersDécès
 Suède  Slovaquie
 Suède - Slovaquie
+Suède Russie guerre
 Suède – Algérie
 Suède – Australie
 Suède – Belgique
 Suède – Espagne
 Suède – France
 Suède-Slovaquie
+SuèdeRussieguerre
 SuèdeSlovaquie
 Suède–Algérie
 Suède–Australie
@@ -56625,6 +56684,7 @@ SÉVILLE – VALLADOLID
 SÖLDEN
 SÖRENBERG
 SÜDAFRIKA
+SÜDAFRIKA KLAGE GEGEN ISRAEL
 SÜDKOREA GEGEN DEUTSCHLAND
 SÜPER LIG
 SÜPER LIG!
@@ -56695,6 +56755,8 @@ Séville–barcelona
 Sölden
 Sörenberg
 Südafrika
+Südafrika Klage gegen Israel
+SüdafrikaKlagegegenIsrael
 Südkorea gegen Deutschland
 SüdkoreagegenDeutschland
 Süper Lig
@@ -57239,6 +57301,7 @@ TIELEMANS
 TIELT
 TIEN OM TE ZIEN
 TIERFILMER ANDREAS KIELING
+TIERPARK GOLDAU
 TIESJ BENOOT
 TIESTO
 TIFFANY TRUMP
@@ -58742,6 +58805,8 @@ Tien om te Zien
 TienomteZien
 Tierfilmer Andreas Kieling
 TierfilmerAndreasKieling
+Tierpark Goldau
+TierparkGoldau
 Tiesj Benoot
 TiesjBenoot
 Tiesto
@@ -65014,6 +65079,7 @@ amelie de bourbon
 amelie de montchalin
 amelie lens
 amelie mauresmo
+amelie oudea castera
 amenra
 america's got talent
 american assassin
@@ -66267,6 +66333,7 @@ barcelone – bayern
 barcelone – cadix
 barcelone – celta vigo
 barcelone – espanyol
+barcelone – osasuna
 barcelone – real madrid
 barcelone – séville
 barcelone – tottenham
@@ -67849,6 +67916,7 @@ cassandre fristot
 casse-noisette
 cassidy hutchinson
 cassie
+cassis &amp; paprika
 castagne
 castaner
 castellane
@@ -69396,6 +69464,7 @@ de ronde van vlaanderen 2023
 de slag om de schelde
 de slimste mens
 de slimste mens ter wereld
+de strangers
 de telegraaf
 de tijd
 de tijdloze
@@ -73466,6 +73535,7 @@ hunter x hunter
 hurkacz
 hurrikan otis
 hustle
+huthi-rebellen
 huub oosterhuis
 huurpremie
 huw edwards
@@ -74164,6 +74234,7 @@ jacques-brel
 jada pinkett smith
 jade carey
 jade et joy hallyday
+jade hovine
 jadon sancho
 jadonsancho
 jaguar
@@ -74280,6 +74351,7 @@ jansen panettiere
 jansrud
 janullrich
 jaouad achab
+jaouen hadjam
 japan
 japan  costa rica
 japan  kroatië
@@ -75957,6 +76029,7 @@ lauren spencer-smith
 lauren versnick
 lauren wasser
 laurence arné
+laurence badie
 laurence boccolini
 laurence boissier
 laurence boone
@@ -76069,6 +76142,7 @@ le jour d'après
 le jour le plus long
 le jules verne
 le locle
+le louvre
 le mans
 le mans 2021
 le mans 2022
@@ -77610,6 +77684,7 @@ marco borradori
 marco borsato
 marco chiesa
 marco goecke
+marco kohler
 marco mengoni
 marco odermatt
 marco pantani
@@ -77669,6 +77744,7 @@ marie antoinette
 marie arena
 marie kondo
 marie laforet
+marie lebec
 marie myriam
 marie patouillet
 marie portolano
@@ -78636,9 +78712,12 @@ mini chuchi, dini chuchi srf
 mini rock
 ministere de l'interieur
 ministre de l'intérieur ukraine
+ministre de l'éducation
 ministre de la justice belge
 ministre de la santé
+ministre des affaires étrangères
 ministre des sports
+ministre des transports
 ministres nouveau gouvernement
 mino raiola
 mino raiola todesursache
@@ -81208,6 +81287,7 @@ prince george
 prince harry
 prince laurent
 prince louis
+prince of persia: the lost crown
 prince william
 princess charming
 princess mako
@@ -82115,6 +82195,7 @@ rive gauche
 rivella
 river phoenix
 rivian
+riviere perdue
 riyad mahrez
 riz au lait
 riz basmati chez lidl
@@ -82771,6 +82852,7 @@ san remo
 san sebastian
 sanary-sur-mer
 sancerre
+sancho
 sanction ol - om
 sand van roy
 sand van roy luc besson
@@ -83052,6 +83134,7 @@ seaside festival
 seaside-festival
 seat
 seattle kraken
+seb mellia
 sebastian böhm
 sebastian korda
 sebastian kurz
@@ -83886,6 +83969,7 @@ stephane eimer
 stephane guillon
 stephane plaza
 stephane ravier
+stephane sejourne
 stephanie berger
 stephanie frappart
 stephen boss
@@ -84176,6 +84260,7 @@ suzanne somers
 suzanne somers décès
 suède  slovaquie
 suède - slovaquie
+suède russie guerre
 suède – algérie
 suède – australie
 suède – belgique
@@ -84299,6 +84384,7 @@ séville – valladolid
 sölden
 sörenberg
 südafrika
+südafrika klage gegen israel
 südkorea gegen deutschland
 süper lig
 süper lig!
@@ -84826,6 +84912,7 @@ tielemans
 tielt
 tien om te zien
 tierfilmer andreas kieling
+tierpark goldau
 tiesj benoot
 tiesto
 tiffany trump
