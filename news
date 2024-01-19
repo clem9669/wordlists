@@ -914,6 +914,7 @@ AFFAIRE GREGORY
 AFFAIRE JUBILLAR
 AFFAIRE LOLA
 AFFAIRE MADDIE MCCANN
+AFFAIRE THEO
 AFFAIRE TROADEC
 AFFAIRES ETRANGERES
 AFFAIRES ETRANGÈRES
@@ -1157,6 +1158,7 @@ ALERTE COBRA CHRISTIAN OLIVER
 ALERTE ENLÈVEMENT
 ALERTE METEO
 ALERTE ROUGE
+ALERTE TSUNAMI
 ALERTE À LA BOMBE
 ALERTE À MALIBU
 ALES
@@ -3009,6 +3011,7 @@ Affaire Troadec
 Affaire conclue
 Affaire d'Outreau
 Affaire gregory
+Affaire theo
 AffaireConclue
 AffaireEmiledisparition
 AffaireJubillar
@@ -3022,6 +3025,7 @@ Affaires etrangeres
 Affaires étrangères
 Affairesetrangeres
 Affairesétrangères
+Affairetheo
 Affelnet
 Affenpocken
 Affenpocken Symptome
@@ -3425,6 +3429,7 @@ Alerte canicule
 Alerte enlèvement
 Alerte meteo
 Alerte rouge
+Alerte tsunami
 Alerte à Malibu
 Alerte à la bombe
 AlerteCobraChristianOliver
@@ -3437,6 +3442,7 @@ Alertecanicule
 Alerteenlèvement
 Alertemeteo
 Alerterouge
+Alertetsunami
 AlerteàMalibu
 Alerteàlabombe
 Ales
@@ -6429,6 +6435,7 @@ BENJAMIN VOISIN
 BENJAMIN ZEPHANIAH
 BENJAMINGRIVEAUX
 BENKO
+BENNY B
 BENNY BLANCO
 BENNY CLAESSENS
 BENOIT 16
@@ -8382,8 +8389,10 @@ BenjaminVoisin
 BenjaminZephaniah
 Benjaminbriere
 Benko
+Benny B
 Benny Blanco
 Benny Claessens
+BennyB
 BennyBlanco
 BennyClaessens
 Benoit 16
@@ -11283,6 +11292,7 @@ COSTA RICA – ALLEMAGNE
 COSTA TITCH
 COTE D'IVOIRE EGYPTE
 COTE D'IVOIRE FOOT
+COTE D'IVOIRE NIGERIA
 COTE LANDAISE
 COTIGNAC
 COUCKE
@@ -13813,10 +13823,12 @@ CostaRica–Allemagne
 CostaTitch
 Cote d'Ivoire Egypte
 Cote d'Ivoire Foot
+Cote d'Ivoire Nigeria
 Cote d'Ivoire foot
 Cote landaise
 Coted'IvoireEgypte
 Coted'IvoireFoot
+Coted'IvoireNigeria
 Coted'Ivoirefoot
 Cotelandaise
 Cotignac
@@ -14267,6 +14279,7 @@ CÉLINE BOUTIER SCOTTISH OPEN
 CÉLINE DION
 CÔTE D'IVOIRE – ALGÉRIE
 CÔTE D'IVOIRE – MAROC
+CÔTE D'IVOIRE – NIGERIA
 CÔTE D'IVOIRE – ÉGYPTE
 CÖMERT
 CÜNEYT ARKIN
@@ -14283,9 +14296,11 @@ CélineBoutierScottishOpen
 CélineDion
 Côte d'Ivoire – Algérie
 Côte d'Ivoire – Maroc
+Côte d'Ivoire – Nigeria
 Côte d'Ivoire – Égypte
 Côted'Ivoire–Algérie
 Côted'Ivoire–Maroc
+Côted'Ivoire–Nigeria
 Côted'Ivoire–Égypte
 Cömert
 Cüneyt Arkin
@@ -14622,6 +14637,7 @@ DECLARATION IMPOTS 2023
 DECRET PASS SANITAIRE
 DEDRYCK BOYATA
 DEDRYCKBOYATA
+DEEP IMPACT
 DEEPL
 DEEZER
 DEF DAMES DOPE
@@ -14710,6 +14726,7 @@ DEPORTIVO ALAVÉS – REAL MADRID
 DER ALTE
 DER BACHELOR
 DER BERGDOKTOR
+DER BERGDOKTOR ZDF
 DER BESTATTER FILM
 DER ELEFANTENBULLE AHMED
 DER KLEINE LORD
@@ -14728,6 +14745,7 @@ DERNIER TRAIN POUR BUSAN
 DES CHIFFRES ET DES LETTRES
 DESCENTE CRANS-MONTANA
 DESCENTE HOMME PEKIN
+DESCENTE KITZBÜHEL
 DESCHAMPS
 DESERTEUR
 DESIREE NICK
@@ -15126,6 +15144,7 @@ DOUGLAS
 DOUGLAS KENNEDY
 DOUGLAS LUIZ
 DOUGUINE
+DOUMBE BAKI
 DOUR
 DOUTZEN KROES
 DOUVRES
@@ -15852,6 +15871,8 @@ Dedroomfabriek
 Dedryck Boyata
 DedryckBoyata
 Deduivelsverzen
+Deep Impact
+DeepImpact
 DeepL
 Deezer
 Def Dames Dope
@@ -16003,6 +16024,7 @@ DeportivoAlavés–RealMadrid
 Der Alte
 Der Bachelor
 Der Bergdoktor
+Der Bergdoktor ZDF
 Der Bestatter Film
 Der Elefantenbulle Ahmed
 Der Kommissar und das Meer
@@ -16016,6 +16038,7 @@ Der kleine Nick
 DerAlte
 DerBachelor
 DerBergdoktor
+DerBergdoktorZDF
 DerBestatterFilm
 DerElefantenbulleAhmed
 DerKommissarunddasMeer
@@ -16039,8 +16062,10 @@ DerniertrainpourBusan
 Des chiffres et des lettres
 Descente Crans-Montana
 Descente CransMontana
+Descente Kitzbühel
 Descente homme pekin
 DescenteCrans-Montana
+DescenteKitzbühel
 Descentehommepekin
 Deschamps
 Deschiffresetdeslettres
@@ -16704,6 +16729,8 @@ Douglas Luiz
 DouglasKennedy
 DouglasLuiz
 Douguine
+Doumbe Baki
+DoumbeBaki
 Dour
 Doutzen Kroes
 DoutzenKroes
@@ -17091,6 +17118,7 @@ EGLISE SAINT-ROCH PARIS
 EGLISWIL
 EGMONT CYCLING RACE
 EGYPTE FOOT
+EGYPTE GHANA
 EGYPTE SENEGAL
 EGYPTE VS SENEGAL
 EHC BASEL
@@ -18108,9 +18136,11 @@ EgliseSaint-RochParis
 Egliswil
 Egmont Cycling Race
 EgmontCyclingRace
+Egypte Ghana
 Egypte foot
 Egypte senegal
 Egypte vs Senegal
+EgypteGhana
 Egyptefoot
 Egyptesenegal
 EgyptevsSenegal
@@ -19607,6 +19637,7 @@ FABIO JAKOBSEN
 FABIO QUARTARARO
 FABIO SILVA
 FABIO VIEIRA
+FABIO WIBMER
 FABREGAS
 FABRICE COLLIGNON
 FABRICE DI VIZIO
@@ -20594,6 +20625,7 @@ FRANCO FRATTINI
 FRANCO GATTI
 FRANCOFOLIES
 FRANCOIS ALU
+FRANCOIS BERLEAND
 FRANCOIS BRACCI
 FRANCOIS BRAUN
 FRANCOIS CIVIL
@@ -20632,6 +20664,7 @@ FRANK TAPIRO
 FRANK VANDENBROUCKE
 FRANK VERSTRAETEN
 FRANK WILLIAMS
+FRANK Z ABWÄRTS
 FRANKDEBOER
 FRANKEN-EURO
 FRANKFURT FC
@@ -20856,10 +20889,12 @@ Fabio Jakobsen
 Fabio Quartararo
 Fabio Silva
 Fabio Vieira
+Fabio Wibmer
 FabioJakobsen
 FabioQuartararo
 FabioSilva
 FabioVieira
+FabioWibmer
 Fabregas
 Fabrice Collignon
 Fabrice Di Vizio
@@ -22124,6 +22159,7 @@ Francois Hadji-Lazaro
 Francois HadjiLazaro
 Francois Hollande
 Francois Verove
+Francois berleand
 Francois valery
 FrancoisAlu
 FrancoisBracci
@@ -22136,6 +22172,7 @@ FrancoisGlorieux
 FrancoisHadji-Lazaro
 FrancoisHollande
 FrancoisVerove
+Francoisberleand
 Francoise Arnoul
 Francoise Bertieaux
 Francoise Bourdin
@@ -22167,6 +22204,7 @@ Frank Tapiro
 Frank Vandenbroucke
 Frank Verstraeten
 Frank Williams
+Frank Z Abwärts
 Frank de Boer
 FrankDeboosere
 FrankElstner
@@ -22183,6 +22221,7 @@ FrankTapiro
 FrankVandenbroucke
 FrankVerstraeten
 FrankWilliams
+FrankZAbwärts
 FrankdeBoer
 Franken-Euro
 FrankenEuro
@@ -33437,6 +33476,7 @@ LIBERACE
 LIBERATION
 LIBERIA – MAROC
 LIBERTY GLOBAL
+LIBIDO
 LIBRAMONT FOIRE
 LIBYE
 LIBYE CATASTROPHE
@@ -33746,6 +33786,7 @@ LOMMEL SK
 LONDON
 LONDON MARATHON 2021
 LONDON MARATHON 2023
+LONG COVID
 LONGO BORGHINI
 LONZA
 LOOK BOTH WAYS
@@ -35539,6 +35580,7 @@ Liberia – Maroc
 Liberia–Maroc
 Liberty Global
 LibertyGlobal
+Libido
 Libramont Foire
 LibramontFoire
 Libye
@@ -36094,6 +36136,8 @@ London Marathon 2021
 London Marathon 2023
 LondonMarathon2021
 LondonMarathon2023
+Long Covid
+LongCovid
 Longo Borghini
 LongoBorghini
 Lonza
@@ -36908,9 +36952,11 @@ MAGASIN OUVERT LE 11 NOVEMBRE
 MAGASIN OUVERT LE 24 DECEMBRE
 MAGASIN OUVERT LUNDI DE PAQUES
 MAGASINS INNO BELGIQUE
+MAGASINS PIMKIE FERMETURE
 MAGDA LINETTE
 MAGDALENA ABAKANOWICZ
 MAGDALENA ANDERSSON
+MAGGIE DE BLOCK
 MAGGIE SMITH
 MAGIC MIKE
 MAGIC PASS
@@ -38922,14 +38968,18 @@ Magasinouvertle11novembre
 Magasinouvertle24decembre
 Magasinouvertlundidepaques
 Magasins Inno Belgique
+Magasins Pimkie fermeture
 MagasinsInnoBelgique
+MagasinsPimkiefermeture
 Magda Linette
 MagdaLinette
 Magdalena Abakanowicz
 Magdalena Andersson
 MagdalenaAbakanowicz
 MagdalenaAndersson
+Maggie De Block
 Maggie Smith
+MaggieDeBlock
 MaggieSmith
 Magic Mike
 Magic Pass
@@ -42767,6 +42817,7 @@ NICO DENZ
 NICO HISCHIER
 NICO SANTOS
 NICO SCHULZ
+NICO STURM
 NICO WILLIAMS
 NICOLA OLYSLAGERS
 NICOLA PELTZ
@@ -43720,11 +43771,13 @@ Nico Denz
 Nico Hischier
 Nico Santos
 Nico Schulz
+Nico Sturm
 Nico Williams
 NicoDenz
 NicoHischier
 NicoSantos
 NicoSchulz
+NicoSturm
 NicoWilliams
 Nicola Olyslagers
 Nicola Peltz
@@ -49017,6 +49070,7 @@ QUI A TUÉ SARA
 QUI VEUT ETRE MON ASSOCIÉ
 QUICKBOOKS
 QUICKLINE
+QUICKMAIL
 QUIET QUITTING
 QUILLAN
 QUIMPERLÉ
@@ -49125,6 +49179,7 @@ Qui veut etre mon associé
 QuiatuéSara
 QuickBooks
 Quickline
+Quickmail
 Quiet quitting
 Quietquitting
 Quillan
@@ -49544,6 +49599,7 @@ REFORME RETRAITES 64 ANS
 REFORMHAUS
 REFUS D'OBTEMPÉRER PARIS
 REGAIP KANDILI
+REGENSDORF
 REGI ACADEMY
 REGI PENXTEN
 REGINE
@@ -50925,6 +50981,7 @@ Refus d'obtempérer Paris
 Refusd'obtempérerParis
 Regaip kandili
 Regaipkandili
+Regensdorf
 Regi Academy
 Regi Penxten
 RegiAcademy
@@ -52854,6 +52911,7 @@ SHARON STONE
 SHARON TATE
 SHARONSTONE
 SHAUN WHITE
+SHAWN BARBER
 SHAWN MENDES
 SHAWN RHODEN
 SHAWNE FIELDING
@@ -55127,8 +55185,10 @@ SharonStone
 SharonTate
 Shaun White
 ShaunWhite
+Shawn Barber
 Shawn Mendes
 Shawn Rhoden
+ShawnBarber
 ShawnMendes
 ShawnRhoden
 Shawne Fielding
@@ -64821,6 +64881,7 @@ affaire gregory
 affaire jubillar
 affaire lola
 affaire maddie mccann
+affaire theo
 affaire troadec
 affaires etrangeres
 affaires étrangères
@@ -65057,6 +65118,7 @@ alerte cobra christian oliver
 alerte enlèvement
 alerte meteo
 alerte rouge
+alerte tsunami
 alerte à la bombe
 alerte à malibu
 ales
@@ -66968,6 +67030,7 @@ benjamin voisin
 benjamin zephaniah
 benjamingriveaux
 benko
+benny b
 benny blanco
 benny claessens
 benoit 16
@@ -69203,6 +69266,7 @@ costa rica – allemagne
 costa titch
 cote d'ivoire egypte
 cote d'ivoire foot
+cote d'ivoire nigeria
 cote landaise
 cotignac
 coucke
@@ -69472,6 +69536,7 @@ céline boutier scottish open
 céline dion
 côte d'ivoire – algérie
 côte d'ivoire – maroc
+côte d'ivoire – nigeria
 côte d'ivoire – égypte
 cömert
 cüneyt arkin
@@ -69788,6 +69853,7 @@ declaration impots 2023
 decret pass sanitaire
 dedryck boyata
 dedryckboyata
+deep impact
 deepl
 deezer
 def dames dope
@@ -69876,6 +69942,7 @@ deportivo alavés – real madrid
 der alte
 der bachelor
 der bergdoktor
+der bergdoktor zdf
 der bestatter film
 der elefantenbulle ahmed
 der kleine lord
@@ -69894,6 +69961,7 @@ dernier train pour busan
 des chiffres et des lettres
 descente crans-montana
 descente homme pekin
+descente kitzbühel
 deschamps
 deserteur
 desiree nick
@@ -70264,6 +70332,7 @@ douglas
 douglas kennedy
 douglas luiz
 douguine
+doumbe baki
 dour
 doutzen kroes
 douvres
@@ -70516,6 +70585,7 @@ eglise saint-roch paris
 egliswil
 egmont cycling race
 egypte foot
+egypte ghana
 egypte senegal
 egypte vs senegal
 ehc basel
@@ -71375,6 +71445,7 @@ fabio jakobsen
 fabio quartararo
 fabio silva
 fabio vieira
+fabio wibmer
 fabregas
 fabrice collignon
 fabrice di vizio
@@ -72165,6 +72236,7 @@ franco frattini
 franco gatti
 francofolies
 francois alu
+francois berleand
 francois bracci
 francois braun
 francois civil
@@ -72202,6 +72274,7 @@ frank tapiro
 frank vandenbroucke
 frank verstraeten
 frank williams
+frank z abwärts
 frankdeboer
 franken-euro
 frankfurt fc
@@ -76829,6 +76902,7 @@ liberace
 liberation
 liberia – maroc
 liberty global
+libido
 libramont foire
 libye
 libye catastrophe
@@ -77133,6 +77207,7 @@ lommel sk
 london
 london marathon 2021
 london marathon 2023
+long covid
 longo borghini
 lonza
 look both ways
@@ -77622,9 +77697,11 @@ magasin ouvert le 11 novembre
 magasin ouvert le 24 decembre
 magasin ouvert lundi de paques
 magasins inno belgique
+magasins pimkie fermeture
 magda linette
 magdalena abakanowicz
 magdalena andersson
+maggie de block
 maggie smith
 magic mike
 magic pass
@@ -79856,6 +79933,7 @@ nico denz
 nico hischier
 nico santos
 nico schulz
+nico sturm
 nico williams
 nicola olyslagers
 nicola peltz
@@ -81897,6 +81975,7 @@ qui a tué sara
 qui veut etre mon associé
 quickbooks
 quickline
+quickmail
 quiet quitting
 quillan
 quimperlé
@@ -82260,6 +82339,7 @@ reforme retraites 64 ans
 reformhaus
 refus d'obtempérer paris
 regaip kandili
+regensdorf
 regi academy
 regi penxten
 regine
@@ -83650,6 +83730,7 @@ sharon stone
 sharon tate
 sharonstone
 shaun white
+shawn barber
 shawn mendes
 shawn rhoden
 shawne fielding
@@ -87485,6 +87566,7 @@ zürich wetter
 ÉDOUARD PHILIPPE
 ÉDOUARD PHILIPPE PREMIER MINISTRE
 ÉGLANTINE ÉMÉYÉ
+ÉGYPTE – GHANA
 ÉGYPTE – SÉNÉGAL
 ÉLECTION AMÉRICAINE 2022
 ÉLECTION PRÉSIDENTIELLE FRANÇAISE
@@ -87539,7 +87621,9 @@ zürich wetter
 ÉdouardPhilippePremierministre
 Églantine Éméyé
 ÉglantineÉméyé
+Égypte – Ghana
 Égypte – Sénégal
+Égypte–Ghana
 Égypte–Sénégal
 Élection américaine 2022
 Élection présidentielle française
@@ -87666,6 +87750,7 @@ zürich wetter
 édouard philippe premier ministre
 édouardphilippe
 églantine éméyé
+égypte – ghana
 égypte – sénégal
 élection américaine 2022
 élection présidentielle française
