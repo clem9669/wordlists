@@ -977,6 +977,7 @@ AGRESSION LYCÉE MALHERBE CAEN
 AGRESSION MAIRE L'HOUMEAU
 AGRESSION TOULOUSE
 AGRESTI-ROUBACHE
+AGRICULTRICE TUÉE
 AGROPARISTECH
 AGUERO
 AGYEMANG DIAWUSIE
@@ -1262,6 +1263,7 @@ ALGERIE COTE D'IVOIRE
 ALGERIE FEU
 ALGERIE FOOT
 ALGERIE MAROC
+ALGERIE MAURITANIE
 ALGERIE NIGER
 ALGERIE QATAR
 ALGERIE SENEGAL
@@ -3120,6 +3122,8 @@ AgressionlycéeMalherbeCaen
 AgressionmaireL'Houmeau
 Agresti-Roubache
 AgrestiRoubache
+Agricultrice tuée
+Agricultricetuée
 AgroParisTech
 Aguero
 Agyemang Diawusie
@@ -3627,6 +3631,7 @@ Algerie Angola
 Algerie Burkina Faso
 Algerie Cameroun
 Algerie Maroc
+Algerie Mauritanie
 Algerie Niger
 Algerie Qatar
 Algerie Tanzanie
@@ -3639,6 +3644,7 @@ AlgerieAngola
 AlgerieBurkinaFaso
 AlgerieCameroun
 AlgerieMaroc
+AlgerieMauritanie
 AlgerieNiger
 AlgerieQatar
 AlgerieTanzanie
@@ -6105,6 +6111,7 @@ BART CANNAERTS
 BART DE PAUW
 BART DE PAUW ZIEKENHUIS
 BART DE WEVER
+BART HEYNEN
 BART KAELL
 BART PEETERS
 BART SOMERS
@@ -6820,8 +6827,11 @@ BMWM3Touring
 BMWXM
 BMWi7
 BNP PARIBAS
+BNP PARIBAS FORTIS
 BNP Paribas
+BNP Paribas Fortis
 BNPParibas
+BNPParibasFortis
 BNR NIEUWSRADIO
 BNR Nieuwsradio
 BNRNieuwsradio
@@ -7814,6 +7824,7 @@ Bart Cannaerts
 Bart De Pauw
 Bart De Pauw ziekenhuis
 Bart De Wever
+Bart Heynen
 Bart Peeters
 Bart Somers
 Bart Swings
@@ -7825,6 +7836,7 @@ BartCannaerts
 BartDePauw
 BartDePauwziekenhuis
 BartDeWever
+BartHeynen
 BartPeeters
 BartSomers
 BartSwings
@@ -10162,6 +10174,7 @@ CANVA
 CAP D'AGDE
 CAP-VERT
 CAP-VERT – CAMEROUN
+CAP-VERT – ÉGYPTE
 CAPACITEITSTARIEF
 CAPITAINE MARLEAU
 CAPTAGON
@@ -11830,9 +11843,12 @@ Canva
 Cap d'Agde
 Cap-Vert
 Cap-Vert – Cameroun
+Cap-Vert – Égypte
 Cap-Vert–Cameroun
+Cap-Vert–Égypte
 CapVert
 CapVert – Cameroun
+CapVert – Égypte
 Capaciteitstarief
 Capd'Agde
 Capitaine marleau
@@ -14661,6 +14677,7 @@ DEBORRA-LEE FURNESS HUGH JACKMAN
 DECALAGE HORAIRE
 DECATHLON CHANGE NOM
 DECENTRALAND
+DECES MADEMOISELLE LUNA
 DECLAN RICE
 DECLARATION BIEN IMMOBILIER
 DECLARATION BIENS IMMOBILIERS
@@ -15894,6 +15911,8 @@ Decalagehoraire
 Decathlon change nom
 Decathlonchangenom
 Decentraland
+Deces Mademoiselle Luna
+DecesMademoiselleLuna
 Declan Rice
 DeclanRice
 Declaration bien immobilier
@@ -20530,6 +20549,7 @@ FRANCE ANGLETERRE RUGBY
 FRANCE ARGENTINE 2022
 FRANCE ARMENIE
 FRANCE AUSTRALIE
+FRANCE AUTRICHE HANDBALL
 FRANCE AUX JEUX OLYMPIQUES D'HIVER
 FRANCE BRESIL
 FRANCE CANADA BASKET
@@ -21906,6 +21926,7 @@ France Angleterre
 France Angleterre Rugby
 France Argentine 2022
 France Australie
+France Autriche handball
 France Canada Basket
 France Canada rugby
 France Chine basket
@@ -22052,6 +22073,7 @@ FranceArgentine Rugby
 FranceArgentine rugby
 FranceArgentine2022
 FranceAustralie
+FranceAutrichehandball
 FranceBelgique
 FranceBelgique 2021
 FranceCanada
@@ -22983,6 +23005,7 @@ GEORGE WEAH
 GEORGELIN
 GEORGES BERETA
 GEORGES BRASSENS
+GEORGES FENECH
 GEORGES KIEJMAN
 GEORGES MIKAUTADZE
 GEORGES PEREC
@@ -23089,6 +23112,8 @@ GIFT ORBAN
 GIGATHLON
 GIGI DIOR
 GIGI HADID
+GIGI RIVA
+GIGI' RIVA
 GIGN
 GIGOT D'AGNEAU
 GIJZELING AMSTERDAM
@@ -23603,6 +23628,7 @@ GUINGAMP – BORDEAUX
 GUINGAMP – PARIS FC
 GUINÉE
 GUINÉE-BISSAU
+GUINÉE-BISSAU – NIGERIA
 GUIRADO
 GUIRASSY
 GULF STREAM
@@ -24127,6 +24153,7 @@ GeorgeWeah
 Georgelin
 Georges Bereta
 Georges Brassens
+Georges Fenech
 Georges Kiejman
 Georges Mikautadze
 Georges Perec
@@ -24139,6 +24166,7 @@ Georges-LouisBouchez
 GeorgesAlain (Star Academy
 GeorgesBereta
 GeorgesBrassens
+GeorgesFenech
 GeorgesKiejman
 GeorgesLouis Bouchez
 GeorgesMikautadze
@@ -24299,8 +24327,12 @@ GiftOrban
 Gigathlon
 Gigi Dior
 Gigi Hadid
+Gigi Riva
+Gigi' Riva
+Gigi'Riva
 GigiDior
 GigiHadid
+GigiRiva
 Gigot d'agneau
 Gigotd'agneau
 Gijzeling Amsterdam
@@ -25123,7 +25155,10 @@ Guingamp–Bordeaux
 Guingamp–ParisFC
 Guinée
 Guinée-Bissau
+Guinée-Bissau – Nigeria
+Guinée-Bissau–Nigeria
 GuinéeBissau
+GuinéeBissau – Nigeria
 Guirado
 Guirassy
 Gulf Stream
@@ -25420,6 +25455,7 @@ HAUS DES GELDES
 HAUS DES GELDES BERLIN
 HAUS DES GELDES STAFFEL 5
 HAUS DES GELDES: KOREA
+HAUSBRAND WIGGEN
 HAUSI LEUTENEGGER
 HAUTACAM
 HAUTE-SAVOIE
@@ -25459,6 +25495,7 @@ HEARTSTOPPER
 HEAT
 HEAT – CELTICS
 HEATH FREEMAN
+HEATH LEDGER
 HEATHER LOCKLEAR
 HEATHER PENNEY
 HEBE
@@ -26066,6 +26103,8 @@ Haus des Geldes
 Haus des Geldes Berlin
 Haus des Geldes Staffel 5
 Haus des Geldes: Korea
+Hausbrand Wiggen
+HausbrandWiggen
 HausdesGeldes
 HausdesGeldes:Korea
 HausdesGeldesBerlin
@@ -26105,7 +26144,9 @@ Heartstopper
 Heat
 Heat – Celtics
 Heath Freeman
+Heath Ledger
 HeathFreeman
+HeathLedger
 Heather Locklear
 Heather Penney
 HeatherLocklear
@@ -34098,6 +34139,7 @@ LUGANO
 LUGANO GEGEN ST. GALLEN
 LUGANO – SION
 LUGANO – UNION SAINT-GILLOISE
+LUIGI RIVA
 LUIK-BASTENAKEN-LUIK
 LUIK-BASTENAKEN-LUIK 2023
 LUINO
@@ -36645,6 +36687,8 @@ Lugano – Union SaintGilloise
 LuganogegenSt.Gallen
 Lugano–Sion
 Lugano–UnionSaint-Gilloise
+Luigi Riva
+LuigiRiva
 Luik-Bastenaken-Luik
 Luik-Bastenaken-Luik 2023
 Luik-Bastenaken-Luik2023
@@ -37273,6 +37317,7 @@ MANIFESTATION 28 MARS
 MANIFESTATION 31 JANVIER
 MANIFESTATION 7 MARS PARIS
 MANIFESTATION 8 JANVIER
+MANIFESTATION AGRICULTEURS
 MANIFESTATION BORDEAUX
 MANIFESTATION BRUXELLES
 MANIFESTATION BRUXELLES 23 JANVIER
@@ -39507,6 +39552,7 @@ Manifestation Paris
 Manifestation Paris 28 mars
 Manifestation Rennes
 Manifestation Tour de France
+Manifestation agriculteurs
 Manifestation climat Bruxelles
 Manifestation contre le pass sanitaire
 Manifestation en Pologne
@@ -39529,6 +39575,7 @@ ManifestationParis
 ManifestationParis28mars
 ManifestationRennes
 ManifestationTourdeFrance
+Manifestationagriculteurs
 ManifestationclimatBruxelles
 Manifestationcontrelepasssanitaire
 ManifestationenPologne
@@ -42730,6 +42777,7 @@ NEAPEL GEGEN EINTRACHT FRANKFURT
 NEAPEL GEGEN JUVENTUS
 NEAPEL GEGEN UNION BERLIN
 NECKERTAL
+NEDER-OVER-HEEMBEEK
 NEDERLAND
 NEDERLAND  ARGENTINIË
 NEDERLAND  GRIEKENLAND
@@ -43602,6 +43650,8 @@ NeapelgegenEintrachtFrankfurt
 NeapelgegenJuventus
 NeapelgegenUnionBerlin
 Neckertal
+Neder-Over-Heembeek
+NederOverHeembeek
 Nederland
 Nederland  Argentinië
 Nederland  Griekenland
@@ -44712,6 +44762,7 @@ ONE REPUBLIC
 ONEDRIVE
 ONEPLUS
 ONEPLUS 11
+ONEPLUS 12
 ONEPLUS NORD 2
 ONEPLUS OPEN
 ONEREPUBLIC
@@ -45262,9 +45313,11 @@ OnePieceRed
 OnePiecetome100collector
 OnePlus
 OnePlus 11
+OnePlus 12
 OnePlus Nord 2
 OnePlus Open
 OnePlus11
+OnePlus12
 OnePlusNord2
 OnePlusOpen
 OneRepublic
@@ -50105,6 +50158,7 @@ ROCK THE RING
 ROCK WERCHTER
 ROCK WERCHTER 2022
 ROCK WERCHTER 2023
+ROCK WERCHTER 2024
 ROCK WERCHTER ENCORE
 ROCK ZOTTEGEM
 ROCKETMAN
@@ -51714,6 +51768,7 @@ Rock Oz
 Rock Werchter
 Rock Werchter 2022
 Rock Werchter 2023
+Rock Werchter 2024
 Rock Werchter Encore
 Rock Zottegem
 Rock am Ring
@@ -51724,6 +51779,7 @@ RockOz
 RockWerchter
 RockWerchter2022
 RockWerchter2023
+RockWerchter2024
 RockWerchterEncore
 RockZottegem
 RockamRing
@@ -53404,6 +53460,7 @@ SOPHIE POMMIER
 SOPHIE TAPIE
 SOPHIE THALMANN
 SOPHIE TISSIER
+SOPHIE TOSCAN DU PLANTIER
 SOPHIE TURNER
 SOPHIE WILMES
 SOPHIE WILMÈS
@@ -53798,6 +53855,7 @@ STORM
 STORM CIARAN
 STORM CORRIE
 STORM FRANKLIN
+STORM ISHA
 STORM PIA
 STORM POLY
 STORMSCHADE
@@ -54007,6 +54065,7 @@ SUPER-LEAGUE
 SUPERBOWL
 SUPERCOPA
 SUPERCOPPA ITALIANA
+SUPERCOUPE D'ITALIE
 SUPERCOUPE DE BELGIQUE
 SUPERCUP
 SUPERDRY
@@ -55891,6 +55950,7 @@ Sophie Pommier
 Sophie Tapie
 Sophie Thalmann
 Sophie Tissier
+Sophie Toscan du Plantier
 Sophie Turner
 Sophie Wilmès
 Sophie de Closets
@@ -55913,6 +55973,7 @@ SophiePommier
 SophieTapie
 SophieThalmann
 SophieTissier
+SophieToscanduPlantier
 SophieTurner
 SophieWilmès
 SophiedeClosets
@@ -56542,11 +56603,13 @@ StoringWhatsApp
 Storm
 Storm Corrie
 Storm Franklin
+Storm Isha
 Storm Pia
 Storm Poly
 Storm ciaran
 StormCorrie
 StormFranklin
+StormIsha
 StormPia
 StormPoly
 Stormciaran
@@ -56892,7 +56955,9 @@ Superbowl
 Supercopa
 Supercoppa Italiana
 SupercoppaItaliana
+Supercoupe d'Italie
 Supercoupe de Belgique
+Supercouped'Italie
 SupercoupedeBelgique
 Supercup
 Superdry
@@ -58308,6 +58373,7 @@ TWENTY ONE PILOTS
 TWENTY4TIM
 TWILIGHT
 TWINGO ELECTRIQUE
+TWINT
 TWISTIES
 TWITCH
 TWITCH LEAK
@@ -60225,6 +60291,7 @@ TwentyOnePilots
 Twilight
 Twingo electrique
 Twingoelectrique
+Twint
 Twisties
 Twitch
 Twitch Leak
@@ -65105,6 +65172,7 @@ agression lycée malherbe caen
 agression maire l'houmeau
 agression toulouse
 agresti-roubache
+agricultrice tuée
 agroparistech
 aguero
 agyemang diawusie
@@ -65385,6 +65453,7 @@ algerie cote d'ivoire
 algerie feu
 algerie foot
 algerie maroc
+algerie mauritanie
 algerie niger
 algerie qatar
 algerie senegal
@@ -66863,6 +66932,7 @@ bart cannaerts
 bart de pauw
 bart de pauw ziekenhuis
 bart de wever
+bart heynen
 bart kaell
 bart peeters
 bart somers
@@ -67550,6 +67620,7 @@ bmw m2
 bmw m3 touring
 bmw xm
 bnp paribas
+bnp paribas fortis
 bnr nieuwsradio
 bns
 bo coolsaet
@@ -68307,6 +68378,7 @@ canva
 cap d'agde
 cap-vert
 cap-vert – cameroun
+cap-vert – égypte
 capaciteitstarief
 capitaine marleau
 captagon
@@ -70023,6 +70095,7 @@ deborra-lee furness hugh jackman
 decalage horaire
 decathlon change nom
 decentraland
+deces mademoiselle luna
 declan rice
 declaration bien immobilier
 declaration biens immobiliers
@@ -72277,6 +72350,7 @@ france angleterre rugby
 france argentine 2022
 france armenie
 france australie
+france autriche handball
 france aux jeux olympiques d'hiver
 france bresil
 france canada basket
@@ -72937,6 +73011,7 @@ george weah
 georgelin
 georges bereta
 georges brassens
+georges fenech
 georges kiejman
 georges mikautadze
 georges perec
@@ -73039,6 +73114,8 @@ gift orban
 gigathlon
 gigi dior
 gigi hadid
+gigi riva
+gigi' riva
 gign
 gigot d'agneau
 gijzeling amsterdam
@@ -73511,6 +73588,7 @@ guingamp – bordeaux
 guingamp – paris fc
 guinée
 guinée-bissau
+guinée-bissau – nigeria
 guirado
 guirassy
 gulf stream
@@ -73743,6 +73821,7 @@ haus des geldes
 haus des geldes berlin
 haus des geldes staffel 5
 haus des geldes: korea
+hausbrand wiggen
 hausi leutenegger
 hautacam
 haute-savoie
@@ -73773,6 +73852,7 @@ heartstopper
 heat
 heat – celtics
 heath freeman
+heath ledger
 heather locklear
 heather penney
 hebe
@@ -77636,6 +77716,7 @@ lugano
 lugano gegen st. gallen
 lugano – sion
 lugano – union saint-gilloise
+luigi riva
 luik-bastenaken-luik
 luik-bastenaken-luik 2023
 luino
@@ -78130,6 +78211,7 @@ manifestation 28 mars
 manifestation 31 janvier
 manifestation 7 mars paris
 manifestation 8 janvier
+manifestation agriculteurs
 manifestation bordeaux
 manifestation bruxelles
 manifestation bruxelles 23 janvier
@@ -79968,6 +80050,7 @@ neapel gegen eintracht frankfurt
 neapel gegen juventus
 neapel gegen union berlin
 neckertal
+neder-over-heembeek
 nederland
 nederland  argentinië
 nederland  griekenland
@@ -80684,6 +80767,7 @@ one republic
 onedrive
 oneplus
 oneplus 11
+oneplus 12
 oneplus nord 2
 oneplus open
 onerepublic
@@ -82907,6 +82991,7 @@ rock the ring
 rock werchter
 rock werchter 2022
 rock werchter 2023
+rock werchter 2024
 rock werchter encore
 rock zottegem
 rocketman
@@ -84295,6 +84380,7 @@ sophie pommier
 sophie tapie
 sophie thalmann
 sophie tissier
+sophie toscan du plantier
 sophie turner
 sophie wilmes
 sophie wilmès
@@ -84662,6 +84748,7 @@ storm
 storm ciaran
 storm corrie
 storm franklin
+storm isha
 storm pia
 storm poly
 stormschade
@@ -84869,6 +84956,7 @@ superG Bormio
 superbowl
 supercopa
 supercoppa italiana
+supercoupe d'italie
 supercoupe de belgique
 supercup
 superdry
@@ -86092,6 +86180,7 @@ twenty one pilots
 twenty4tim
 twilight
 twingo electrique
+twint
 twisties
 twitch
 twitch leak
