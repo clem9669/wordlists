@@ -977,6 +977,7 @@ AGRESSION LYCÉE MALHERBE CAEN
 AGRESSION MAIRE L'HOUMEAU
 AGRESSION TOULOUSE
 AGRESTI-ROUBACHE
+AGRICULTEURS FRANCE
 AGRICULTRICE TUÉE
 AGROPARISTECH
 AGUERO
@@ -1131,6 +1132,7 @@ ALBERT BOURLA
 ALBERT DUPONTEL
 ALBERT HEIJN
 ALBERT II
+ALBERT II DE MONACO
 ALBERT RÖSTI
 ALBERTO NONINO
 ALBI
@@ -3124,6 +3126,8 @@ AgressionlycéeMalherbeCaen
 AgressionmaireL'Houmeau
 Agresti-Roubache
 AgrestiRoubache
+Agriculteurs France
+AgriculteursFrance
 Agricultrice tuée
 Agricultricetuée
 AgroParisTech
@@ -3393,12 +3397,14 @@ Albert Bourla
 Albert Dupontel
 Albert Heijn
 Albert II
+Albert II de Monaco
 Albert Rösti
 AlbertAnker
 AlbertBourla
 AlbertDupontel
 AlbertHeijn
 AlbertII
+AlbertIIdeMonaco
 AlbertRösti
 Alberto Nonino
 AlbertoNonino
@@ -6813,6 +6819,7 @@ BLOIS
 BLONDE NETFLIX
 BLOOD RED SKY
 BLOODY SUNDAY
+BLOQUEURS DE PUBERTÉ
 BLUE BEETLE
 BLUE IVY
 BLUE LOCK
@@ -8980,6 +8987,8 @@ Blood Red Sky
 BloodRedSky
 Bloody Sunday
 BloodySunday
+Bloqueurs de puberté
+Bloqueursdepuberté
 Blue Beetle
 Blue Ivy
 Blue Lock
@@ -23564,6 +23573,7 @@ GRIPPE AVIAIRE
 GRIPPE DE LA TOMATE
 GRIPPE ESPAGNOLE
 GRIPPEWELLE SCHWEIZ
+GRISELDA BLANCO
 GRISHKA
 GRITTIBÄNZ
 GRITTIBÄNZ TEIG
@@ -25014,6 +25024,8 @@ Grippedelatomate
 Grippeespagnole
 Grippewelle Schweiz
 GrippewelleSchweiz
+Griselda Blanco
+GriseldaBlanco
 Grishka
 Grittibänz
 Grittibänz Teig
@@ -28729,6 +28741,7 @@ JERRY SPRINGER
 JERSEY
 JESPER SKIBBY
 JESSA ZIEKENHUIS
+JESSE JANE
 JESSE PLEMONS
 JESSE RUTHERFORD
 JESSICA AIDI
@@ -29187,6 +29200,7 @@ JURASSIC WORLD
 JURASSIC WORLD 3
 JURASSIC WORLD : LE MONDE D'APRÈS
 JURGEN CONINGS
+JURGEN KLOPP
 JURGENCONINGS
 JURI VIPS
 JUSQU'A CE QUE LA MORT NOUS UNISSE
@@ -30150,8 +30164,10 @@ Jesper Skibby
 JesperSkibby
 Jessa Ziekenhuis
 JessaZiekenhuis
+Jesse Jane
 Jesse Plemons
 Jesse Rutherford
+JesseJane
 JessePlemons
 JesseRutherford
 Jessica Aidi
@@ -30989,7 +31005,9 @@ JurassicWorld3
 JurassicWorld:LeMonded'après
 Jurassicworld
 Jurgen Conings
+Jurgen Klopp
 JurgenConings
+JurgenKlopp
 Juri Vips
 JuriVips
 Jusqu'a ce que la mort nous unisse
@@ -31566,6 +31584,7 @@ KLITSCHKO
 KLOK
 KLOK VERZETTEN
 KLOPJACHT
+KLOPP
 KLUBSCHULE MIGROS
 KMI
 KMSKA
@@ -32420,6 +32439,7 @@ Klok
 Klok verzetten
 Klokverzetten
 Klopjacht
+Klopp
 Klubschule Migros
 KlubschuleMigros
 Knabenschiessen
@@ -37054,6 +37074,7 @@ M1 Abrams
 M1Abrams
 M270
 M6
+MAAIKE
 MAARTEN BOSMANS
 MAARTEN KETELS
 MAARTEN VAN DER WEIJDEN
@@ -37395,6 +37416,7 @@ MANIFESTATION 31 JANVIER
 MANIFESTATION 7 MARS PARIS
 MANIFESTATION 8 JANVIER
 MANIFESTATION AGRICULTEURS
+MANIFESTATION AGRICULTEURS BELGIQUE
 MANIFESTATION BORDEAUX
 MANIFESTATION BRUXELLES
 MANIFESTATION BRUXELLES 23 JANVIER
@@ -37616,6 +37638,7 @@ MARIE-FRANCINE
 MARIE-GALANTE
 MARIE-LAURE DE DECKER
 MARIE-LOUISE FORT
+MARIE-PAULE BELLE
 MARIE-SOPHIE LACARRAU
 MARIE-SOPHIELACARRAU
 MARIE-THÉRÈSE BONFANTI DISPARITION
@@ -37904,6 +37927,7 @@ MASTERS
 MASTERS 2023
 MASTERS AUGUSTA
 MASTERS DARTS
+MASTERS OF THE AIR
 MASTODON
 MASVIDAL
 MATCH
@@ -38019,6 +38043,7 @@ MAUNA LOA
 MAURANE
 MAUREEN
 MAUREEN LOUYS
+MAURESMO
 MAURETANIEN
 MAURI VANSEVENANT
 MAURICE FILM
@@ -39014,6 +39039,7 @@ MYRRHE
 MYSTERE
 MYSTERE A SAINT-TROPEZ
 MYSTIC RIVER
+Maaike
 Maarten Bosmans
 Maarten Ketels
 Maarten Vancoillie
@@ -39633,6 +39659,7 @@ Manifestation Paris 28 mars
 Manifestation Rennes
 Manifestation Tour de France
 Manifestation agriculteurs
+Manifestation agriculteurs Belgique
 Manifestation climat Bruxelles
 Manifestation contre le pass sanitaire
 Manifestation en Pologne
@@ -39656,6 +39683,7 @@ ManifestationParis28mars
 ManifestationRennes
 ManifestationTourdeFrance
 Manifestationagriculteurs
+ManifestationagriculteursBelgique
 ManifestationclimatBruxelles
 Manifestationcontrelepasssanitaire
 ManifestationenPologne
@@ -40034,6 +40062,8 @@ Marie-Laure de Decker
 Marie-LauredeDecker
 Marie-Louise Fort
 Marie-LouiseFort
+Marie-Paule Belle
+Marie-PauleBelle
 Marie-Sophie Lacarrau
 Marie-SophieLacarrau
 Marie-Thérèse Bonfanti disparition
@@ -40050,6 +40080,7 @@ MarieLebec
 MarieLouise Fort
 MarieMyriam
 MariePatouillet
+MariePaule Belle
 MariePortolano
 MarieS'infiltre
 MarieSophie Lacarrau
@@ -40592,9 +40623,11 @@ Masters
 Masters 2023
 Masters Augusta
 Masters Darts
+Masters of the Air
 Masters2023
 MastersAugusta
 MastersDarts
+MastersoftheAir
 Mastodon
 Masvidal
 Match
@@ -40795,6 +40828,7 @@ Maurane
 Maureen
 Maureen Louys
 MaureenLouys
+Mauresmo
 Mauretanien
 Mauri Vansevenant
 MauriVansevenant
@@ -43067,6 +43101,7 @@ NICOLAS COSTER
 NICOLAS DE STAEL
 NICOLAS DUMORTIER
 NICOLAS DUPONT-AIGNAN
+NICOLAS GOB
 NICOLAS HIERONIMUS
 NICOLAS HULOT
 NICOLAS JAEGER ILIAD
@@ -44040,6 +44075,7 @@ Nicolas Coster
 Nicolas Dumortier
 Nicolas Dupont-Aignan
 Nicolas DupontAignan
+Nicolas Gob
 Nicolas Hieronimus
 Nicolas Hulot
 Nicolas Jaeger Iliad
@@ -44061,6 +44097,7 @@ NicolasCage
 NicolasCoster
 NicolasDumortier
 NicolasDupont-Aignan
+NicolasGob
 NicolasHieronimus
 NicolasHulot
 NicolasJaegerIliad
@@ -46065,6 +46102,7 @@ PAUL HAGGIS
 PAUL JOHNSON
 PAUL KOULAK
 PAUL MAGNETTE
+PAUL MAGNIER
 PAUL MCCARTNEY
 PAUL MESCAL
 PAUL MIRABEL
@@ -47763,6 +47801,7 @@ Paul Haggis
 Paul Johnson
 Paul Koulak
 Paul Magnette
+Paul Magnier
 Paul McCartney
 Paul Mescal
 Paul Mirabel
@@ -47806,6 +47845,7 @@ PaulHenri Mathieu
 PaulJohnson
 PaulKoulak
 PaulMagnette
+PaulMagnier
 PaulMcCartney
 PaulMescal
 PaulMirabel
@@ -49561,8 +49601,10 @@ RALLYE DU CONDROZ
 RALLYE DU CONDROZ 2022
 RALLYE DU MONT-BLANC 2021
 RALLYE DU VALAIS
+RALLYE MONTE CARLO 2024
 RALLYE MONTE-CARLO
 RALLYE MONTE-CARLO 2022
+RALLYE MONTE-CARLO 2024
 RALLYE YPRES
 RALPH LAUREN
 RALPH SIEGEL
@@ -50762,8 +50804,10 @@ Rally Ieper
 RallyIeper
 Rallye Monte-Carlo
 Rallye Monte-Carlo 2022
+Rallye Monte-Carlo 2024
 Rallye MonteCarlo
 Rallye MonteCarlo 2022
+Rallye MonteCarlo 2024
 Rallye Ypres
 Rallye de Croatie 2022
 Rallye de Wallonie 2021
@@ -50774,8 +50818,10 @@ Rallye du Mont-Blanc 2021
 Rallye du MontBlanc 2021
 Rallye du Valais
 Rallye du chablais 2022
+Rallye monte carlo 2024
 RallyeMonte-Carlo
 RallyeMonte-Carlo2022
+RallyeMonte-Carlo2024
 RallyeYpres
 RallyedeCroatie2022
 RallyedeWallonie2021
@@ -50785,6 +50831,7 @@ RallyeduCondroz2022
 RallyeduMont-Blanc2021
 RallyeduValais
 Rallyeduchablais2022
+Rallyemontecarlo2024
 Ralph Lauren
 Ralph Siegel
 Ralph Yarl
@@ -52519,6 +52566,7 @@ SABRINA AGRESTI-ROUBACHE
 SABRINA CARPENTER
 SABRINA IONESCU
 SABRINA OUAZANI
+SACHA BOEY
 SACHA DISTEL
 SACHA HOULIÉ
 SACHEEN LITTLEFEATHER
@@ -53351,6 +53399,7 @@ SISI
 SISKA SCHOETERS
 SISSI
 SISSOKO
+SISTERS OF MERCY
 SITTEN
 SITTER
 SITTING BULL
@@ -53531,6 +53580,7 @@ SONIA ROLLAND
 SONIC
 SONIC 2
 SONIC FRONTIERS
+SONJA ZIETLOW
 SONNENFINSTERNIS
 SONNENFINSTERNIS 2022
 SONNENFINSTERNIS 2023
@@ -53946,6 +53996,7 @@ STEVEN VAN GUCHT
 STEVEN VAN HERREWEGHE
 STEVEN ZUBER
 STIB
+STICKSTOFF HINGERICHTET
 STIFF-PERSON SYNDROME
 STIFF-PERSON-SYNDROM
 STIJN DE PAEPE
@@ -54331,8 +54382,10 @@ SabrinaAgresti-Roubache
 SabrinaCarpenter
 SabrinaIonescu
 SabrinaOuazani
+Sacha Boey
 Sacha Distel
 Sacha Houlié
+SachaBoey
 SachaDistel
 SachaHoulié
 Sacheen Littlefeather
@@ -55754,6 +55807,8 @@ Siska Schoeters
 SiskaSchoeters
 Sissi
 Sissoko
+Sisters of Mercy
+SistersofMercy
 Sitten
 Sitter
 Sitting Bull
@@ -56007,6 +56062,8 @@ Sonic 2
 Sonic Frontiers
 Sonic2
 SonicFrontiers
+Sonja Zietlow
+SonjaZietlow
 Sonnenfinsternis
 Sonnenfinsternis 2022
 Sonnenfinsternis 2023
@@ -56690,6 +56747,8 @@ StevenVanGucht
 StevenVanHerreweghe
 StevenZuber
 Stib
+Stickstoff hingerichtet
+Stickstoffhingerichtet
 Stiff-Person syndrome
 Stiff-Person-Syndrom
 Stiff-Personsyndrome
@@ -57502,6 +57561,7 @@ TAYLOR FRITZ
 TAYLOR HAWKINS
 TAYLOR RUSSELL
 TAYLOR SWIFT
+TAYLOR SWIFT AI
 TAYLOR SWIFT ERAS TOUR
 TAYLOR SWIFT VAULT
 TCHERNOBYL
@@ -58694,12 +58754,14 @@ Taylor Fritz
 Taylor Hawkins
 Taylor Russell
 Taylor Swift
+Taylor Swift AI
 Taylor Swift Eras Tour
 Taylor Swift vault
 TaylorFritz
 TaylorHawkins
 TaylorRussell
 TaylorSwift
+TaylorSwiftAI
 TaylorSwiftErasTour
 TaylorSwiftvault
 Tchernobyl
@@ -61390,6 +61452,7 @@ VALVERDE
 VALÉRIE DAMIDOT
 VALÉRIE GLATIGNY
 VALÉRIE PÉCRESSE
+VALÉRIE ZENATTI
 VAMPIR LIFTING
 VAN AERT
 VAN ASSCHE
@@ -61973,9 +62036,11 @@ Valverde
 Valérie Damidot
 Valérie Glatigny
 Valérie Pécresse
+Valérie Zenatti
 ValérieDamidot
 ValérieGlatigny
 ValériePécresse
+ValérieZenatti
 Vampir Lifting
 VampirLifting
 Van Aert
@@ -64470,6 +64535,7 @@ ZEvent
 ZFE
 ZHANNA SAMSONOVA
 ZHAO WEI
+ZHENG QINWEN
 ZHENGZHOU
 ZHU YI
 ZIAN
@@ -64479,6 +64545,7 @@ ZIEKTE MG
 ZIEKTE VAN CROHN
 ZIEKTE VAN HIRSCHSPRUNG
 ZIEKTE VAN KAHLER
+ZIEKTE VAN KAWASAKI
 ZIEKTE VAN LYME
 ZIEKTE VAN WEIL
 ZIEKTEVANLYME
@@ -64713,6 +64780,8 @@ Zhanna Samsonova
 ZhannaSamsonova
 Zhao Wei
 ZhaoWei
+Zheng Qinwen
+ZhengQinwen
 Zhengzhou
 Zhu Yi
 ZhuYi
@@ -64724,12 +64793,14 @@ Ziekte MG
 Ziekte van Crohn
 Ziekte van Hirschsprung
 Ziekte van Kahler
+Ziekte van Kawasaki
 Ziekte van Lyme
 Ziekte van Weil
 ZiekteMG
 ZiektevanCrohn
 ZiektevanHirschsprung
 ZiektevanKahler
+ZiektevanKawasaki
 ZiektevanLyme
 ZiektevanWeil
 Zierikzee
@@ -65301,6 +65372,7 @@ agression lycée malherbe caen
 agression maire l'houmeau
 agression toulouse
 agresti-roubache
+agriculteurs france
 agricultrice tuée
 agroparistech
 aguero
@@ -65452,6 +65524,7 @@ albert bourla
 albert dupontel
 albert heijn
 albert ii
+albert ii de monaco
 albert rösti
 alberto nonino
 albi
@@ -67736,6 +67809,7 @@ blois
 blonde netflix
 blood red sky
 bloody sunday
+bloqueurs de puberté
 blue beetle
 blue ivy
 blue lock
@@ -73630,6 +73704,7 @@ grippe aviaire
 grippe de la tomate
 grippe espagnole
 grippewelle schweiz
+griselda blanco
 grishka
 grittibänz
 grittibänz teig
@@ -75397,6 +75472,7 @@ jerry springer
 jersey
 jesper skibby
 jessa ziekenhuis
+jesse jane
 jesse plemons
 jesse rutherford
 jessica aidi
@@ -75840,6 +75916,7 @@ jurassic world
 jurassic world 3
 jurassic world : le monde d'après
 jurgen conings
+jurgen klopp
 jurgenconings
 juri vips
 jusqu'a ce que la mort nous unisse
@@ -76308,6 +76385,7 @@ klitschko
 klok
 klok verzetten
 klopjacht
+klopp
 klubschule migros
 kmi
 kmska
@@ -78026,6 +78104,7 @@ m. pokora
 m1 abrams
 m270
 m6
+maaike
 maarten bosmans
 maarten ketels
 maarten van der weijden
@@ -78367,6 +78446,7 @@ manifestation 31 janvier
 manifestation 7 mars paris
 manifestation 8 janvier
 manifestation agriculteurs
+manifestation agriculteurs belgique
 manifestation bordeaux
 manifestation bruxelles
 manifestation bruxelles 23 janvier
@@ -78588,6 +78668,7 @@ marie-francine
 marie-galante
 marie-laure de decker
 marie-louise fort
+marie-paule belle
 marie-sophie lacarrau
 marie-sophielacarrau
 marie-thérèse bonfanti disparition
@@ -78873,6 +78954,7 @@ masters
 masters 2023
 masters augusta
 masters darts
+masters of the air
 mastodon
 masvidal
 match
@@ -78986,6 +79068,7 @@ mauna loa
 maurane
 maureen
 maureen louys
+mauresmo
 mauretanien
 mauri vansevenant
 maurice film
@@ -80391,6 +80474,7 @@ nicolas coster
 nicolas de stael
 nicolas dumortier
 nicolas dupont-aignan
+nicolas gob
 nicolas hieronimus
 nicolas hulot
 nicolas jaeger iliad
@@ -81455,6 +81539,7 @@ paul haggis
 paul johnson
 paul koulak
 paul magnette
+paul magnier
 paul mccartney
 paul mescal
 paul mirabel
@@ -82522,8 +82607,10 @@ rallye du condroz
 rallye du condroz 2022
 rallye du mont-blanc 2021
 rallye du valais
+rallye monte carlo 2024
 rallye monte-carlo
 rallye monte-carlo 2022
+rallye monte-carlo 2024
 rallye ypres
 ralph lauren
 ralph siegel
@@ -83529,6 +83616,7 @@ sabrina agresti-roubache
 sabrina carpenter
 sabrina ionescu
 sabrina ouazani
+sacha boey
 sacha distel
 sacha houlié
 sacheen littlefeather
@@ -84343,6 +84431,7 @@ sisi
 siska schoeters
 sissi
 sissoko
+sisters of mercy
 sitten
 sitter
 sitting bull
@@ -84509,6 +84598,7 @@ sonia rolland
 sonic
 sonic 2
 sonic frontiers
+sonja zietlow
 sonnenfinsternis
 sonnenfinsternis 2022
 sonnenfinsternis 2023
@@ -84898,6 +84988,7 @@ steven van gucht
 steven van herreweghe
 steven zuber
 stib
+stickstoff hingerichtet
 stiff-person syndrome
 stiff-person-syndrom
 stijn de paepe
@@ -85396,6 +85487,7 @@ taylor fritz
 taylor hawkins
 taylor russell
 taylor swift
+taylor swift ai
 taylor swift eras tour
 taylor swift vault
 tchernobyl
@@ -86773,6 +86865,7 @@ valverde
 valérie damidot
 valérie glatigny
 valérie pécresse
+valérie zenatti
 vampir lifting
 van aert
 van assche
@@ -87891,6 +87984,7 @@ zeynep
 zfe
 zhanna samsonova
 zhao wei
+zheng qinwen
 zhengzhou
 zhu yi
 zian
@@ -87900,6 +87994,7 @@ ziekte mg
 ziekte van crohn
 ziekte van hirschsprung
 ziekte van kahler
+ziekte van kawasaki
 ziekte van lyme
 ziekte van weil
 ziektevanlyme
