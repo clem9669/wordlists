@@ -755,6 +755,7 @@ ACCIDENT METRO PARISIEN
 ACCIDENT MINIBUS HOUEILLES
 ACCIDENT MORTEL
 ACCIDENT MORTEL LUNA PARK
+ACCIDENT SKI ENFANT GRAND-BORNAND
 ACCIDENT SPA-FRANCORCHAMPS
 ACCIDENT STRUCTURE GONFLABLE
 ACCIDENT TROIS POLICIERS
@@ -980,6 +981,7 @@ AGRESSION LYCÉE MALHERBE CAEN
 AGRESSION MAIRE L'HOUMEAU
 AGRESSION TOULOUSE
 AGRESTI-ROUBACHE
+AGRICULTEURS
 AGRICULTEURS FRANCE
 AGRICULTRICE TUÉE
 AGROPARISTECH
@@ -2768,6 +2770,8 @@ Accident metro parisien
 Accident minibus houeilles
 Accident mortel
 Accident mortel Luna Park
+Accident ski enfant Grand-Bornand
+Accident ski enfant GrandBornand
 Accident structure gonflable
 Accident trois policiers
 Accident trois policiers morts
@@ -2810,6 +2814,7 @@ Accidentmortel
 AccidentmortelLunaPark
 Accidents au Sénégal
 AccidentsauSénégal
+AccidentskienfantGrand-Bornand
 Accidentstructuregonflable
 Accidenttroispoliciers
 Accidenttroispoliciersmorts
@@ -3131,6 +3136,7 @@ AgressionlycéeMalherbeCaen
 AgressionmaireL'Houmeau
 Agresti-Roubache
 AgrestiRoubache
+Agriculteurs
 Agriculteurs France
 AgriculteursFrance
 Agricultrice tuée
@@ -17919,6 +17925,7 @@ EUGENE
 EUNICE MUNOZ
 EUNICE NEWTON FOOTE
 EUPEN
+EUPEN  ANTWERP
 EUPEN  CLUB BRUGGE
 EUPEN  MECHELEN
 EUPEN - ANTWERP
@@ -19289,6 +19296,7 @@ Eupen Club Brugge
 Eupen Genk
 Eupen-Antwerp
 Eupen-Genk
+EupenAntwerp
 EupenClubBrugge
 EupenGenk
 EupenMechelen
@@ -23546,6 +23554,7 @@ GREVE 16 MARS 2023
 GREVE 18 OCTOBRE 2022
 GREVE 19 JANVIER
 GREVE 19 JANVIER 2023
+GREVE 1ER FEVRIER
 GREVE 20 AVRIL 2023
 GREVE 22 AVRIL 2022
 GREVE 24 SEPTEMBRE 2021
@@ -23645,6 +23654,7 @@ GRÉGORY LEMARCHAL
 GRÊVE SNCF 8 NOVEMBRE
 GRÖDEN
 GRÖNA LUND
+GRÖSSTES KREUZFAHRTSCHIFF
 GRÜNDONNERSTAG
 GRÜNER PASS ITALIEN
 GSTAAD
@@ -23710,6 +23720,7 @@ GUINGAMP – AUXERRE
 GUINGAMP – BORDEAUX
 GUINGAMP – PARIS FC
 GUINÉE
+GUINÉE ÉQUATORIALE
 GUINÉE-BISSAU
 GUINÉE-BISSAU – NIGERIA
 GUIRADO
@@ -24936,6 +24947,7 @@ Greve 16 mars 2023
 Greve 18 octobre 2022
 Greve 19 janvier
 Greve 19 janvier 2023
+Greve 1er fevrier
 Greve 20 avril 2023
 Greve 22 avril 2022
 Greve 24 septembre 2021
@@ -24993,6 +25005,7 @@ Greve16mars2023
 Greve18octobre2022
 Greve19janvier
 Greve19janvier2023
+Greve1erfevrier
 Greve20avril2023
 Greve22avril2022
 Greve24septembre2021
@@ -25129,6 +25142,8 @@ GrêveSNCF8novembre
 Gröden
 Gröna Lund
 GrönaLund
+Grösstes Kreuzfahrtschiff
+GrösstesKreuzfahrtschiff
 Gründonnerstag
 Grüner Pass Italien
 GrünerPassItalien
@@ -25243,11 +25258,13 @@ Guingamp–Auxerre
 Guingamp–Bordeaux
 Guingamp–ParisFC
 Guinée
+Guinée équatoriale
 Guinée-Bissau
 Guinée-Bissau – Nigeria
 Guinée-Bissau–Nigeria
 GuinéeBissau
 GuinéeBissau – Nigeria
+Guinéeéquatoriale
 Guirado
 Guirassy
 Gulf Stream
@@ -26586,7 +26603,9 @@ HoherKasten
 Hohtenn
 Hojlund
 Holcim Aktie
+Holcim aktie
 HolcimAktie
+Holcimaktie
 Holdener
 Holger Badstuber
 Holger Rune
@@ -32996,6 +33015,7 @@ LA GRANDE LIBRAIRIE
 LA GRANDE VADROUILLE
 LA GUERRE DES MONDES
 LA HORDE SAUVAGE
+LA JOCONDE LOUVRE
 LA LA LAND
 LA LIGA
 LA LISTE DE SCHINDLER
@@ -34058,6 +34078,7 @@ LORIENT
 LORIENT – ANGERS
 LORIENT – AUXERRE
 LORIENT – CLERMONT
+LORIENT – LE HAVRE
 LORIENT – LENS
 LORIENT – LILLE
 LORIENT – LYON
@@ -34196,6 +34217,7 @@ LOURDES LEON
 LOURY LAG
 LOUVAIN-LA-NEUVE
 LOUVRE
+LOUVRE MONA LISA
 LOVE
 LOVE ACTUALLY
 LOVE HARD
@@ -34447,6 +34469,7 @@ La Grande Vadrouille
 La Grande evasion
 La Guerre des mondes
 La Horde sauvage
+La Joconde Louvre
 La La Land
 La Liga
 La Liste de Schindler
@@ -34589,6 +34612,7 @@ LaGrandeVadrouille
 LaGrandeevasion
 LaGuerredesmondes
 LaHordesauvage
+LaJocondeLouvre
 LaLaLand
 LaLiga
 LaListedeSchindler
@@ -36440,6 +36464,7 @@ Lorient
 Lorient – Angers
 Lorient – Auxerre
 Lorient – Clermont
+Lorient – Le Havre
 Lorient – Lens
 Lorient – Lille
 Lorient – Lyon
@@ -36462,6 +36487,7 @@ Lorient – parissg
 Lorient–Angers
 Lorient–Auxerre
 Lorient–Clermont
+Lorient–LeHavre
 Lorient–Lens
 Lorient–Lille
 Lorient–Lyon
@@ -36695,6 +36721,8 @@ LouryLag
 Louvain-la-Neuve
 LouvainlaNeuve
 Louvre
+Louvre Mona Lisa
+LouvreMonaLisa
 Love
 Love Actually
 Love Hard
@@ -37290,6 +37318,7 @@ MALAWI – SÉNÉGAL
 MALCOLM OHANWE
 MALCOLM X
 MALDINI
+MALDIVES
 MALEFIQUE
 MALENA
 MALES
@@ -38814,6 +38843,7 @@ MON CRIME
 MON DADA
 MON ESPACE SANTÉ
 MON GARÇON
+MON MASTER
 MON ONCLE
 MON-LEASING-ELECTRIQUE.GOUV.FR
 MONA ACHACHE
@@ -39378,6 +39408,7 @@ Malcolm X
 MalcolmOhanwe
 MalcolmX
 Maldini
+Maldives
 Malefique
 Malena
 Males
@@ -42156,6 +42187,7 @@ MolossedeCestoni
 Mon Ange
 Mon Dada
 Mon Garçon
+Mon Master
 Mon Oncle
 Mon chien stupide
 Mon crime
@@ -42165,6 +42197,7 @@ Mon-leasing-electrique.gouv.fr
 MonAnge
 MonDada
 MonGarçon
+MonMaster
 MonOncle
 Mona Achache
 Mona Lisa
@@ -43454,6 +43487,7 @@ NUNO TAVARES
 NUPES
 NUPES FRANCE
 NURIA GORRITE
+NUSA
 NUUD
 NVIDIA
 NVIDIA STOCK
@@ -44614,6 +44648,7 @@ Nupes France
 NupesFrance
 Nuria Gorrite
 NuriaGorrite
+Nusa
 Nuud
 Nvidia
 Nvidia stock
@@ -46324,6 +46359,7 @@ PETER BROOK
 PETER CARTER
 PETER DE GRAEF
 PETER DE ROOVER
+PETER FALK
 PETER FOX
 PETER FREIBURGHAUS
 PETER GABRIEL
@@ -48146,6 +48182,7 @@ Peter Brook
 Peter Carter
 Peter De Graef
 Peter De Roover
+Peter Falk
 Peter Fox
 Peter Freiburghaus
 Peter Gabriel
@@ -48181,6 +48218,7 @@ PeterBrook
 PeterCarter
 PeterDeGraef
 PeterDeRoover
+PeterFalk
 PeterFox
 PeterFreiburghaus
 PeterGabriel
@@ -49599,6 +49637,7 @@ RACING 92
 RACING GENK
 RACING LA ROCHELLE
 RACING STRASBOURG
+RACING TOULOUSE
 RACINGLAROCHELLE
 RADAR
 RADIO 1
@@ -50778,11 +50817,13 @@ Racing 92
 Racing Genk
 Racing La Rochelle
 Racing Strasbourg
+Racing Toulouse
 Racing genk
 Racing92
 RacingGenk
 RacingLaRochelle
 RacingStrasbourg
+RacingToulouse
 Racinggenk
 Radar
 Radio 1
@@ -52849,6 +52890,7 @@ SANDRA BADIE
 SANDRA BULLOCK
 SANDRA HÜLLER
 SANDRA KIM
+SANDRA MILO
 SANDRINE ANDRÉ
 SANDRINE BONNAIRE
 SANDRINE JOSSO
@@ -53189,6 +53231,7 @@ SENAT PASS SANITAIRE
 SENATORIALES 2023
 SENEGAL
 SENEGAL CAMEROUN
+SENEGAL COTE D'IVOIRE
 SENEGAL EGYPTE
 SENEGAL FOOT
 SENEGAL GUINEE
@@ -54275,6 +54318,7 @@ SUPER BOWL
 SUPER BOWL 2022
 SUPER BOWL 2022 HALFTIME SHOW
 SUPER BOWL 2023
+SUPER BOWL 2024
 SUPER BOWL HALFTIME SHOW
 SUPER BOWL HALFTIME SHOW 2022
 SUPER LEAGUE
@@ -54873,10 +54917,12 @@ Sandra Badie
 Sandra Bullock
 Sandra Hüller
 Sandra Kim
+Sandra Milo
 SandraBadie
 SandraBullock
 SandraHüller
 SandraKim
+SandraMilo
 Sandrine André
 Sandrine Bonnaire
 Sandrine Josso
@@ -55408,12 +55454,14 @@ Senegal Cameroun
 Senegal Egypte
 Senegal Foot
 Senegal Zimbabwe
+Senegal cote d'Ivoire
 Senegal foot
 Senegal guinee
 SenegalCameroun
 SenegalEgypte
 SenegalFoot
 SenegalZimbabwe
+Senegalcoted'Ivoire
 Senegalfoot
 Senegalguinee
 Senne Lynen
@@ -57162,6 +57210,7 @@ Super Bowl
 Super Bowl 2022
 Super Bowl 2022 halftime show
 Super Bowl 2023
+Super Bowl 2024
 Super Bowl Halftime Show
 Super Bowl Halftime Show 2022
 Super League
@@ -57184,6 +57233,7 @@ SuperBowl
 SuperBowl2022
 SuperBowl2022halftimeshow
 SuperBowl2023
+SuperBowl2024
 SuperBowlHalftimeShow
 SuperBowlHalftimeShow2022
 SuperG Bormio 2023
@@ -57612,6 +57662,7 @@ TATJANA SIMIC
 TATORT DORTMUND
 TATORT GIER UND ANGST
 TATORT HEUTE
+TATORT SAARBRÜCKEN
 TATORT ZÜRICH
 TATORT: MASKEN
 TATORT: ZERRISSEN
@@ -58787,6 +58838,7 @@ TatjanaSimic
 Tatjanapatiz
 Tatort Dortmund
 Tatort Gier und Angst
+Tatort Saarbrücken
 Tatort Zürich
 Tatort heute
 Tatort: Masken
@@ -58795,6 +58847,7 @@ Tatort:Masken
 Tatort:Zerrissen
 TatortDortmund
 TatortGierundAngst
+TatortSaarbrücken
 TatortZürich
 Tatortheute
 Tattoo Basel
@@ -65274,6 +65327,7 @@ accident metro parisien
 accident minibus houeilles
 accident mortel
 accident mortel luna park
+accident ski enfant grand-bornand
 accident spa-francorchamps
 accident structure gonflable
 accident trois policiers
@@ -65469,6 +65523,7 @@ agression lycée malherbe caen
 agression maire l'houmeau
 agression toulouse
 agresti-roubache
+agriculteurs
 agriculteurs france
 agricultrice tuée
 agroparistech
@@ -71760,6 +71815,7 @@ eugene
 eunice munoz
 eunice newton foote
 eupen
+eupen  antwerp
 eupen  club brugge
 eupen  mechelen
 eupen - antwerp
@@ -73755,6 +73811,7 @@ greve 16 mars 2023
 greve 18 octobre 2022
 greve 19 janvier
 greve 19 janvier 2023
+greve 1er fevrier
 greve 20 avril 2023
 greve 22 avril 2022
 greve 24 septembre 2021
@@ -73853,6 +73910,7 @@ grégory lemarchal
 grêve sncf 8 novembre
 gröden
 gröna lund
+grösstes kreuzfahrtschiff
 gründonnerstag
 grüner pass italien
 gstaad
@@ -73914,6 +73972,7 @@ guingamp – auxerre
 guingamp – bordeaux
 guingamp – paris fc
 guinée
+guinée équatoriale
 guinée-bissau
 guinée-bissau – nigeria
 guirado
@@ -76807,6 +76866,7 @@ la grande librairie
 la grande vadrouille
 la guerre des mondes
 la horde sauvage
+la joconde louvre
 la la land
 la liga
 la liste de schindler
@@ -77849,6 +77909,7 @@ lorient
 lorient – angers
 lorient – auxerre
 lorient – clermont
+lorient – le havre
 lorient – lens
 lorient – lille
 lorient – lyon
@@ -77985,6 +78046,7 @@ lourdes leon
 loury lag
 louvain-la-neuve
 louvre
+louvre mona lisa
 love
 love actually
 love hard
@@ -78387,6 +78449,7 @@ malawi – sénégal
 malcolm ohanwe
 malcolm x
 maldini
+maldives
 malefique
 malena
 males
@@ -79896,6 +79959,7 @@ mon crime
 mon dada
 mon espace santé
 mon garçon
+mon master
 mon oncle
 mon-leasing-electrique.gouv.fr
 mona achache
@@ -80870,6 +80934,7 @@ nuno tavares
 nupes
 nupes france
 nuria gorrite
+nusa
 nuud
 nvidia
 nvidia stock
@@ -81813,6 +81878,7 @@ peter brook
 peter carter
 peter de graef
 peter de roover
+peter falk
 peter fox
 peter freiburghaus
 peter gabriel
@@ -82669,6 +82735,7 @@ racing 92
 racing genk
 racing la rochelle
 racing strasbourg
+racing toulouse
 racinglarochelle
 radar
 radio 1
@@ -83953,6 +84020,7 @@ sandra badie
 sandra bullock
 sandra hüller
 sandra kim
+sandra milo
 sandrine andré
 sandrine bonnaire
 sandrine josso
@@ -84276,6 +84344,7 @@ senat pass sanitaire
 senatoriales 2023
 senegal
 senegal cameroun
+senegal cote d'ivoire
 senegal egypte
 senegal foot
 senegal guinee
@@ -85315,6 +85384,7 @@ super bowl
 super bowl 2022
 super bowl 2022 halftime show
 super bowl 2023
+super bowl 2024
 super bowl halftime show
 super bowl halftime show 2022
 super league
@@ -85585,6 +85655,7 @@ tatjana simic
 tatort dortmund
 tatort gier und angst
 tatort heute
+tatort saarbrücken
 tatort zürich
 tatort: masken
 tatort: zerrissen
@@ -88277,6 +88348,7 @@ zürich wetter
 ÉDOUARD PHILIPPE PREMIER MINISTRE
 ÉGLANTINE ÉMÉYÉ
 ÉGYPTE – GHANA
+ÉGYPTE – RD CONGO
 ÉGYPTE – SÉNÉGAL
 ÉLECTION AMÉRICAINE 2022
 ÉLECTION PRÉSIDENTIELLE FRANÇAISE
@@ -88332,8 +88404,10 @@ zürich wetter
 Églantine Éméyé
 ÉglantineÉméyé
 Égypte – Ghana
+Égypte – RD Congo
 Égypte – Sénégal
 Égypte–Ghana
+Égypte–RDCongo
 Égypte–Sénégal
 Élection américaine 2022
 Élection présidentielle française
@@ -88461,6 +88535,7 @@ zürich wetter
 édouardphilippe
 églantine éméyé
 égypte – ghana
+égypte – rd congo
 égypte – sénégal
 élection américaine 2022
 élection présidentielle française
