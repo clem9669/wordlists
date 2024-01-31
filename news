@@ -2542,6 +2542,7 @@ AVION
 AVION AEROPORT VATRY
 AVION AFGHANISTAN
 AVION ALASKA AIRLINES
+AVION AMELIA EARHART
 AVION DISPARU NÉPAL
 AVION FANTOME
 AVION VATRY
@@ -5814,12 +5815,14 @@ Avignon
 Avion
 Avion Afghanistan
 Avion Alaska Airlines
+Avion Amelia Earhart
 Avion Vatry
 Avion aeroport Vatry
 Avion disparu Népal
 Avion fantome
 AvionAfghanistan
 AvionAlaskaAirlines
+AvionAmeliaEarhart
 AvionVatry
 AvionaeroportVatry
 AviondisparuNépal
@@ -6295,6 +6298,7 @@ BEACHVOLLEYBALL OLYMPIA
 BEAT ARNOLD
 BEAT FEUZ
 BEAT JANS
+BEAT RÖTHLISBERGER
 BEATE ZSCHÄPE
 BEATLES
 BEATRICE EGLI
@@ -6499,6 +6503,7 @@ BENOIT 16
 BENOIT DAUGA
 BENOIT GENECAND
 BENOIT JACQUOT
+BENOIT KOUNKOUD
 BENOIT MAGIMEL
 BENOIT PAIRE
 BENOIT POELVOORDE
@@ -8123,9 +8128,11 @@ BeachvolleyballOlympia
 Beat Arnold
 Beat Feuz
 Beat Jans
+Beat Röthlisberger
 BeatArnold
 BeatFeuz
 BeatJans
+BeatRöthlisberger
 Beate Zschäpe
 BeateZschäpe
 Beatles
@@ -8474,6 +8481,7 @@ Benoit 16
 Benoit Dauga
 Benoit Genecand
 Benoit Jacquot
+Benoit Kounkoud
 Benoit Magimel
 Benoit Paire
 Benoit Poelvoorde
@@ -8483,6 +8491,7 @@ Benoit16
 BenoitDauga
 BenoitGenecand
 BenoitJacquot
+BenoitKounkoud
 BenoitMagimel
 BenoitPaire
 BenoitPoelvoorde
@@ -10787,6 +10796,7 @@ CHINE
 CHINE TAÏWAN
 CHINESISCHES NEUJAHR
 CHINOOK THERAPEUTICS
+CHITA RIVERA
 CHL
 CHLOE CHERRY
 CHLOE DYGERT
@@ -12875,6 +12885,8 @@ Chinesisches Neujahr
 ChinesischesNeujahr
 Chinook Therapeutics
 ChinookTherapeutics
+Chita Rivera
+ChitaRivera
 Chl
 Chloe Cherry
 Chloe Dygert
@@ -17499,6 +17511,7 @@ ELODIE GOSSUIN
 ELODIEFREGE
 ELOHIM PRANDI
 ELON MUSK
+ELON MUSK NEURALINK
 ELON MUSK TESLA
 ELON MUSK TWEETS
 ELON MUSK TWITTER
@@ -18020,6 +18033,7 @@ EUROMILLIONS 20 OCTOBRE 2023
 EUROMILLIONS 24 NOVEMBER 2023
 EUROMILLIONS 25 AOUT 2023
 EUROMILLIONS 27 OCTOBRE 2023
+EUROMILLIONS 30 JANVIER 2024
 EUROMILLIONS JACKPOT
 EUROMILLIONS TIRAGE
 EUROMILLIONS-ZIEHUNG
@@ -18638,11 +18652,13 @@ Elodiefrege
 Elohim Prandi
 ElohimPrandi
 Elon Musk
+Elon Musk Neuralink
 Elon Musk Tesla
 Elon Musk Twitter
 Elon Musk Twitter ultimatum
 Elon Musk tweets
 ElonMusk
+ElonMuskNeuralink
 ElonMuskTesla
 ElonMuskTwitter
 ElonMuskTwitterultimatum
@@ -19360,11 +19376,13 @@ EuroMillions
 EuroMillions 16 janvier 2024
 EuroMillions 20 octobre 2023
 EuroMillions 24 november 2023
+EuroMillions 30 janvier 2024
 EuroMillions jackpot
 EuroMillions tirage
 EuroMillions16janvier2024
 EuroMillions20octobre2023
 EuroMillions24november2023
+EuroMillions30janvier2024
 EuroMillionsjackpot
 EuroMillionstirage
 EuroU17
@@ -20438,6 +20456,7 @@ FK QARABAG – NANTES
 FK Qarabag – Nantes
 FKQarabag–Nantes
 FLACHAU
+FLAKKA
 FLAMANVILLE
 FLAMENGO
 FLANDERN-RUNDFAHRT
@@ -20912,6 +20931,7 @@ FREDERIC SINISTRA
 FREDERIK VAN DENEMARKEN
 FREDERIQUE BEL
 FREDERIQUE HEBRARD
+FREE
 FREE GUY
 FREE SOUFFRIAU
 FREEBOX V9
@@ -21673,6 +21693,7 @@ Fitbit
 Five Guys
 FiveGuys
 Flachau
+Flakka
 Flamanville
 Flamengo
 Flandern-Rundfahrt
@@ -22553,6 +22574,7 @@ Frederique Bel
 Frederique Hebrard
 FrederiqueBel
 FrederiqueHebrard
+Free
 Free Guy
 Free Souffriau
 FreeGuy
@@ -23598,6 +23620,7 @@ GREVE 8 MARS 2022
 GREVE 9 NOVEMBRE
 GREVE AEROPORT
 GREVE AEROPORT GENEVE
+GREVE BUS TEC LIEGE VERVIERS
 GREVE CHEZ LIDL BELGIQUE
 GREVE CONTROLEUR AERIEN
 GREVE DES BUS
@@ -25000,6 +25023,7 @@ Greve SNCF 7 decembre 2022
 Greve TCL
 Greve aeroport
 Greve aeroport geneve
+Greve bus TEC liege Verviers
 Greve chez Lidl Belgique
 Greve controleur aerien
 Greve des bus
@@ -25058,6 +25082,7 @@ GreveSNCF7decembre2022
 GreveTCL
 Greveaeroport
 Greveaeroportgeneve
+GrevebusTECliegeVerviers
 GrevechezLidlBelgique
 Grevecontroleuraerien
 Grevedesbus
@@ -27311,6 +27336,7 @@ ISCO
 ISELTWALD
 ISHAQ ABDULRAZAK
 ISKANDAR SAFA
+ISKANDAR SAFA VALEURS ACTUELLES
 ISLAM MAKHACHEV
 ISLAM SLIMANI
 ISLAMABAD
@@ -28158,7 +28184,9 @@ Iseltwald
 Ishaq Abdulrazak
 IshaqAbdulrazak
 Iskandar Safa
+Iskandar Safa Valeurs Actuelles
 IskandarSafa
+IskandarSafaValeursActuelles
 Islam Makhachev
 Islam Slimani
 IslamMakhachev
@@ -33723,6 +33751,7 @@ LETTLAND
 LETTRE OUVERTE
 LETTRE RECTORAT HARCÈLEMENT SCOLAIRE
 LETZIGRUND
+LETZTE GENERATION
 LET’S DANCE
 LEUTHARD EHEMANN
 LEUVEN
@@ -35817,6 +35846,8 @@ Lettre rectorat harcèlement scolaire
 Lettreouverte
 Lettrerectoratharcèlementscolaire
 Letzigrund
+Letzte Generation
+LetzteGeneration
 Let’s Dance
 Let’sDance
 Leuthard Ehemann
@@ -37370,6 +37401,7 @@ MALI
 MALI - TUNISIE
 MALI AFRIQUE DU SUD
 MALI – GUINÉE ÉQUATORIALE
+MALI-BURKINA FASO
 MALICK FOFANA
 MALIGNANT
 MALIK BENTALHA
@@ -39464,8 +39496,11 @@ Mali  Tunisie
 Mali - Tunisie
 Mali Afrique du Sud
 Mali – Guinée équatoriale
+Mali-Burkina Faso
+Mali-BurkinaFaso
 Mali-Tunisie
 MaliAfriqueduSud
+MaliBurkina Faso
 Malick Fofana
 MalickFofana
 Malignant
@@ -43107,6 +43142,7 @@ NEUJAHRSKONZERT
 NEUJAHRSKONZERT WIEN 2023
 NEUJAHRSWÜNSCHE
 NEURALINK
+NEURALINK, ELON MUSK
 NEURALINK. ELON MUSK
 NEUROFIBROMATOSE
 NEUROPATHIE
@@ -43493,6 +43529,7 @@ NOVAK DJOKOVIC
 NOVAK DJOKOVIC NEWS
 NOVAK ĐOKOVIĆ
 NOVARTIS
+NOVARTIS-AKTIE
 NOVASTAR
 NOVAVAX
 NOVAVAX IMPFSTOFF
@@ -44032,6 +44069,8 @@ Neujahrskonzert Wien 2023
 NeujahrskonzertWien2023
 Neujahrswünsche
 Neuralink
+Neuralink, Elon Musk
+Neuralink,ElonMusk
 Neuralink. Elon Musk
 Neuralink.ElonMusk
 Neurofibromatose
@@ -44649,6 +44688,8 @@ NovakDjokovic
 NovakDjokovicnews
 Novakđoković
 Novartis
+Novartis-Aktie
+NovartisAktie
 Novastar
 Novavax
 Novavax Impfstoff
@@ -47288,6 +47329,7 @@ PUKKELPOP
 PUKKELPOP 2021
 PUKKELPOP 2021 LINE UP
 PUKKELPOP 2022
+PUKKELPOP 2024
 PUKKELPOP LIVE
 PUKKELPOP2021
 PUKKELPOP2021LINEUP
@@ -49415,10 +49457,12 @@ Pukkelpop
 Pukkelpop 2021
 Pukkelpop 2021 line up
 Pukkelpop 2022
+Pukkelpop 2024
 Pukkelpop live
 Pukkelpop2021
 Pukkelpop2021lineup
 Pukkelpop2022
+Pukkelpop2024
 Pukkelpoplive
 Pula
 Pulisic
@@ -50140,6 +50184,7 @@ RENAULT CLIO 5
 RENAULT RAFALE
 RENAULT SCENIC ELECTRIQUE
 RENDEUX
+RENDEZ-VOUS AVEC LE CRIME
 RENE CASSELLY
 RENE HOFER
 RENE MALLEVILLE
@@ -51592,6 +51637,9 @@ RenaultClio5
 RenaultRafale
 RenaultScenicelectrique
 Rendeux
+Rendez-vous avec le crime
+Rendez-vousaveclecrime
+Rendezvous avec le crime
 Rene Casselly
 Rene Hofer
 Rene Malleville
@@ -53281,6 +53329,7 @@ SELENA GOMEZ
 SELENAGOMEZ
 SELENIUM
 SELIM AMALLAH
+SELLNER EINREISEVERBOT
 SELMA BLAIR
 SELTENE ERDEN
 SEMI-MARATHON PARIS
@@ -55494,6 +55543,8 @@ SelenaGomez
 Selenium
 Selim Amallah
 SelimAmallah
+Sellner Einreiseverbot
+SellnerEinreiseverbot
 Selma Blair
 SelmaBlair
 Seltene Erden
@@ -61932,6 +61983,7 @@ VIRGINIE DESPENTES
 VIRGINIE EFIRA
 VIRGINIE EFIRA ENCEINTE
 VIRGINIE GRIMALDI
+VIRGINIE HOCQ
 VIRGINIE MASSEREY
 VIRGINIE SPIWACK
 VIRGINIEEFIRA
@@ -62727,6 +62779,7 @@ Virginie Despentes
 Virginie Efira
 Virginie Efira enceinte
 Virginie Grimaldi
+Virginie Hocq
 Virginie Masserey
 Virginie Spiwack
 Virginie de Clausade
@@ -62734,6 +62787,7 @@ VirginieDespentes
 VirginieEfira
 VirginieEfiraenceinte
 VirginieGrimaldi
+VirginieHocq
 VirginieMasserey
 VirginieSpiwack
 VirginiedeClausade
@@ -63352,6 +63406,7 @@ WINTERDIJK
 WINTERSONNENWENDE
 WINTERSPIELE 2022
 WINTERTHUR
+WINTERTHUR GEGEN FCB
 WINTERTIJD
 WINTERZEIT ZEITUMSTELLUNG
 WINTZENHEIM
@@ -64111,6 +64166,8 @@ Wintersonnenwende
 Winterspiele 2022
 Winterspiele2022
 Winterthur
+Winterthur gegen FCB
+WinterthurgegenFCB
 Wintertijd
 Winterzeit Zeitumstellung
 WinterzeitZeitumstellung
@@ -67084,6 +67141,7 @@ avion
 avion aeroport vatry
 avion afghanistan
 avion alaska airlines
+avion amelia earhart
 avion disparu népal
 avion fantome
 avion vatry
@@ -67504,6 +67562,7 @@ beachvolleyball olympia
 beat arnold
 beat feuz
 beat jans
+beat röthlisberger
 beate zschäpe
 beatles
 beatrice egli
@@ -67707,6 +67766,7 @@ benoit 16
 benoit dauga
 benoit genecand
 benoit jacquot
+benoit kounkoud
 benoit magimel
 benoit paire
 benoit poelvoorde
@@ -69364,6 +69424,7 @@ chine
 chine taïwan
 chinesisches neujahr
 chinook therapeutics
+chita rivera
 chl
 chloe cherry
 chloe dygert
@@ -71485,6 +71546,7 @@ elodie gossuin
 elodiefrege
 elohim prandi
 elon musk
+elon musk neuralink
 elon musk tesla
 elon musk tweets
 elon musk twitter
@@ -71965,6 +72027,7 @@ euromillions 20 octobre 2023
 euromillions 24 november 2023
 euromillions 25 aout 2023
 euromillions 27 octobre 2023
+euromillions 30 janvier 2024
 euromillions jackpot
 euromillions tirage
 euromillions-ziehung
@@ -72600,6 +72663,7 @@ fitbit
 five guys
 fk qarabag – nantes
 flachau
+flakka
 flamanville
 flamengo
 flandern-rundfahrt
@@ -73062,6 +73126,7 @@ frederic sinistra
 frederik van denemarken
 frederique bel
 frederique hebrard
+free
 free guy
 free souffriau
 freebox v9
@@ -73906,6 +73971,7 @@ greve 8 mars 2022
 greve 9 novembre
 greve aeroport
 greve aeroport geneve
+greve bus tec liege verviers
 greve chez lidl belgique
 greve controleur aerien
 greve des bus
@@ -75148,6 +75214,7 @@ isco
 iseltwald
 ishaq abdulrazak
 iskandar safa
+iskandar safa valeurs actuelles
 islam makhachev
 islam slimani
 islamabad
@@ -77604,6 +77671,7 @@ lettland
 lettre ouverte
 lettre rectorat harcèlement scolaire
 letzigrund
+letzte generation
 let’s dance
 leuthard ehemann
 leuven
@@ -78540,6 +78608,7 @@ mali
 mali - tunisie
 mali afrique du sud
 mali – guinée équatoriale
+mali-burkina faso
 malick fofana
 malignant
 malik bentalha
@@ -80626,6 +80695,7 @@ neujahrskonzert
 neujahrskonzert wien 2023
 neujahrswünsche
 neuralink
+neuralink, elon musk
 neuralink. elon musk
 neurofibromatose
 neuropathie
@@ -80984,6 +81054,7 @@ novak djokovic
 novak djokovic news
 novak đoković
 novartis
+novartis-aktie
 novastar
 novavax
 novavax impfstoff
@@ -82697,6 +82768,7 @@ pukkelpop
 pukkelpop 2021
 pukkelpop 2021 line up
 pukkelpop 2022
+pukkelpop 2024
 pukkelpop live
 pukkelpop2021
 pukkelpop2021lineup
@@ -83219,6 +83291,7 @@ renault clio 5
 renault rafale
 renault scenic electrique
 rendeux
+rendez-vous avec le crime
 rene casselly
 rene hofer
 rene malleville
@@ -84420,6 +84493,7 @@ selena gomez
 selenagomez
 selenium
 selim amallah
+sellner einreiseverbot
 selma blair
 seltene erden
 semi-marathon paris
@@ -87426,6 +87500,7 @@ virginie despentes
 virginie efira
 virginie efira enceinte
 virginie grimaldi
+virginie hocq
 virginie masserey
 virginie spiwack
 virginieefira
@@ -87927,6 +88002,7 @@ winterdijk
 wintersonnenwende
 winterspiele 2022
 winterthur
+winterthur gegen fcb
 wintertijd
 winterzeit zeitumstellung
 wintzenheim
