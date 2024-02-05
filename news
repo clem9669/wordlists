@@ -725,6 +725,7 @@ ACCIDENT
 ACCIDENT A1
 ACCIDENT A13 GENDARME TUÉ
 ACCIDENT A16
+ACCIDENT A47
 ACCIDENT A7
 ACCIDENT A9
 ACCIDENT ACTEUR JÉRÉMY RENNER
@@ -1544,6 +1545,7 @@ ANDERLECHT  CHARLEROI
 ANDERLECHT  CLUB BRUGGE
 ANDERLECHT  EUPEN
 ANDERLECHT  GENK
+ANDERLECHT  GENT
 ANDERLECHT  KORTRIJK
 ANDERLECHT  LUDOGORETS
 ANDERLECHT  MECHELEN
@@ -1570,6 +1572,7 @@ ANDERLECHT – CHARLEROI SC
 ANDERLECHT – FCSB
 ANDERLECHT – KAA GENT
 ANDERLECHT – KAS EUPEN
+ANDERLECHT – LA GANTOISE
 ANDERLECHT – LYON
 ANDERLECHT – OOSTENDE
 ANDERLECHT – STANDARD
@@ -1923,6 +1926,7 @@ ANTWERPEN VUURWERK
 ANTWERPEN-CENTRAAL
 ANUNA DE WEVER
 ANYA TAYLOR-JOY
+ANYDESK
 ANYONE BUT YOU
 AOUT
 APACHE
@@ -2743,6 +2747,7 @@ Accident
 Accident A1
 Accident A13 gendarme tué
 Accident A16
+Accident A47
 Accident A7
 Accident A9
 Accident Aurore Morisse
@@ -2789,6 +2794,7 @@ Accident voiture Sofian Kiyine
 AccidentA1
 AccidentA13gendarmetué
 AccidentA16
+AccidentA47
 AccidentA7
 AccidentA9
 AccidentAuroreMorisse
@@ -4008,11 +4014,13 @@ Amelia Earhart
 AmeliaEarhart
 Amelie Lens
 Amelie Mauresmo
+Amelie Oudea castera
 Amelie de Bourbon
 Amelie de Montchalin
 Amelie oudea castera
 AmelieLens
 AmelieMauresmo
+AmelieOudeacastera
 AmeliedeBourbon
 AmeliedeMontchalin
 Amelieoudeacastera
@@ -4142,6 +4150,7 @@ Anderlecht  Charleroi
 Anderlecht  Club Brugge
 Anderlecht  Eupen
 Anderlecht  Genk
+Anderlecht  Gent
 Anderlecht  Kortrijk
 Anderlecht  Ludogorets
 Anderlecht  Mechelen
@@ -4170,6 +4179,7 @@ Anderlecht – Charleroi SC
 Anderlecht – Charleroi sc
 Anderlecht – FCSB
 Anderlecht – KAS Eupen
+Anderlecht – La Gantoise
 Anderlecht – Lyon
 Anderlecht – Oostende
 Anderlecht – Standard
@@ -4213,6 +4223,7 @@ Anderlecht–CharleroiSC
 Anderlecht–Charleroisc
 Anderlecht–FCSB
 Anderlecht–KASEupen
+Anderlecht–LaGantoise
 Anderlecht–Lyon
 Anderlecht–Oostende
 Anderlecht–Standard
@@ -4848,6 +4859,7 @@ AnunaDeWever
 Anya Taylor-Joy
 Anya TaylorJoy
 AnyaTaylor-Joy
+Anydesk
 Anyone But You
 AnyoneButYou
 Aout
@@ -6294,6 +6306,7 @@ BAYERN – UNION BERLIN
 BAYERN – WERDER
 BAYERN – WOLFSBOURG
 BAYONNE
+BAYROU
 BAYWATCH
 BAZART
 BB JACQUES
@@ -6487,6 +6500,7 @@ BENFICA VS INTER
 BENFICA – BARCELONA
 BENFICA – BAYERN
 BENFICA – FAMALICÃO
+BENFICA – GIL VICENTE
 BENFICA – JUVENTUS
 BENFICA – LIVERPOOL
 BENFICA – MIDTJYLLAND
@@ -8134,6 +8148,7 @@ Bayern–Werder
 Bayern–Wolfsbourg
 Bayern–paris-sg
 Bayonne
+Bayrou
 Baywatch
 Bazart
 Bce
@@ -8432,6 +8447,7 @@ Benfica vs Inter
 Benfica – Barcelona
 Benfica – Bayern
 Benfica – Famalicão
+Benfica – Gil Vicente
 Benfica – Juventus
 Benfica – Liverpool
 Benfica – Midtjylland
@@ -8451,6 +8467,7 @@ BenficavsInter
 Benfica–Barcelona
 Benfica–Bayern
 Benfica–Famalicão
+Benfica–GilVicente
 Benfica–Juventus
 Benfica–Liverpool
 Benfica–Midtjylland
@@ -15353,6 +15370,7 @@ DOUR
 DOUTZEN KROES
 DOUVRES
 DOUWE BOB
+DOVE CAMERON
 DOW JONES
 DOWNTON ABBEY
 DOYLE BRUNSON
@@ -16952,6 +16970,8 @@ DoutzenKroes
 Douvres
 Douwe Bob
 DouweBob
+Dove cameron
+Dovecameron
 Dow Jones
 DowJones
 Downton Abbey
@@ -23566,8 +23586,10 @@ GRAMMY 2022
 GRAMMY AWARDS 2022
 GRAMMY AWARDS 2023
 GRAMMY NOMINATIONS 2023
+GRAMMYS
 GRAMMYS 2022
 GRAMMYS 2023
+GRAMMYS 2024
 GRAN SASSO
 GRAN SASSO D'ITALIA
 GRAN TURISMO 7
@@ -23835,6 +23857,7 @@ GUILLAUME MULLIEZ AUCHAN
 GUILLAUME PELTIER
 GUILLAUME PLEY
 GUILLAUME SANCHEZ
+GUILLAUME TELL
 GUILLAUMEPLEY
 GUILLERMO DEL TORO
 GUIMARAES
@@ -24894,10 +24917,13 @@ Grammy2022
 GrammyAwards2022
 GrammyAwards2023
 Grammynominations2023
+Grammys
 Grammys 2022
 Grammys 2023
+Grammys 2024
 Grammys2022
 Grammys2023
+Grammys2024
 Gran Sasso
 Gran Sasso d'Italia
 Gran Turismo 7
@@ -25371,6 +25397,7 @@ Guillaume Mulliez Auchan
 Guillaume Peltier
 Guillaume Pley
 Guillaume Sanchez
+Guillaume Tell
 GuillaumeBats
 GuillaumeBichet
 GuillaumeCanet
@@ -25384,6 +25411,7 @@ GuillaumeMulliezAuchan
 GuillaumePeltier
 GuillaumePley
 GuillaumeSanchez
+GuillaumeTell
 Guillermo del Toro
 GuillermodelToro
 Guimaraes
@@ -28777,6 +28805,7 @@ JEAN GABIN
 JEAN JANSSENS
 JEAN LASSALLE
 JEAN LASSALLE APOLLINE DE MALHERBE
+JEAN MASSIET
 JEAN MESSIHA
 JEAN MOULIN
 JEAN NOEL BARROT
@@ -29960,6 +29989,7 @@ Jean Gabin
 Jean Janssens
 Jean Lassalle
 Jean Lassalle Apolline de Malherbe
+Jean Massiet
 Jean Messiha
 Jean Moulin
 Jean Onana
@@ -30171,6 +30201,7 @@ JeanMarie Le Pen
 JeanMarie Pfaff
 JeanMarie Straub
 JeanMarie perier
+JeanMassiet
 JeanMessiha
 JeanMichel Blanquer Montargis
 JeanMichel Jarre
@@ -31733,6 +31764,7 @@ KILDE STURZ
 KILIAN FELDBAUSCH
 KILIAN KERNER
 KILIAN WENGER
+KILLER MIKE
 KILLERS OF THE FLOWER MOON
 KILLIAN HAYES
 KILLIAN MOTTET
@@ -31795,6 +31827,7 @@ KIYOSHI KUROMIYA
 KLAPP
 KLAUS BARBIE
 KLAUS KINSKI
+KLAUS MÄKELÄ
 KLAUS SCHWAB
 KLAUS STEINBACHER
 KLAUSENPASS
@@ -32534,6 +32567,8 @@ Kilian Wenger
 KilianFeldbausch
 KilianKerner
 KilianWenger
+Killer Mike
+KillerMike
 Killers of the Flower Moon
 KillersoftheFlowerMoon
 Killian Hayes
@@ -32640,10 +32675,12 @@ KiyoshiKuromiya
 Klapp
 Klaus Barbie
 Klaus Kinski
+Klaus Mäkelä
 Klaus Schwab
 Klaus Steinbacher
 KlausBarbie
 KlausKinski
+KlausMäkelä
 KlausSchwab
 KlausSteinbacher
 Klausenpass
@@ -34622,6 +34659,7 @@ La Chaux-de-Fonds
 La Chaux-de-Fonds Tornado
 La ChauxdeFonds
 La ChauxdeFonds Tornado
+La Chine
 La Chine taiwan
 La Chute de Londres
 La Chute de la Maison-Blanche
@@ -34767,6 +34805,7 @@ LaCAN
 LaChansonsecrete
 LaChaux-de-Fonds
 LaChaux-de-FondsTornado
+LaChine
 LaChinetaiwan
 LaChutedeLondres
 LaChutedelaMaison-Blanche
@@ -38117,6 +38156,7 @@ MARTIN HINTEREGGER
 MARTIN HIRSCH
 MARTIN LACIGA
 MARTIN LUTHER KING
+MARTIN PERIN
 MARTIN PERSCHEID
 MARTIN ROUMAGNAC
 MARTIN RÜTTER
@@ -40760,6 +40800,7 @@ Martin Hinteregger
 Martin Hirsch
 Martin Laciga
 Martin Luther King
+Martin Perin
 Martin Perscheid
 Martin Roumagnac
 Martin Rütter
@@ -40778,6 +40819,7 @@ MartinHinteregger
 MartinHirsch
 MartinLaciga
 MartinLutherKing
+MartinPerin
 MartinPerscheid
 MartinRoumagnac
 MartinRütter
@@ -46169,6 +46211,7 @@ PANO
 PANOT
 PANSEXUELLE
 PANTELLERIA
+PANTHÈRE DES NEIGES
 PANTONE 448C
 PANZERHAUBITZE 2000
 PANZERI
@@ -47235,6 +47278,7 @@ PRIX PAQUET CIGARETTES
 PRIX PAQUET DE CIGARETTES
 PRIXGONCOURT2021
 PRIYANKA CHOPRA
+PRO BOWL 2024
 PRO BTP
 PRO D2
 PRO HELVETIA
@@ -47609,6 +47653,8 @@ Pano
 Panot
 Pansexuelle
 Pantelleria
+Panthère des neiges
+Panthèredesneiges
 Pantone 448C
 Pantone448C
 Panzerhaubitze 2000
@@ -49531,10 +49577,12 @@ Prixpaquetdecigarettes
 Priyanka Chopra
 PriyankaChopra
 Pro BTP
+Pro Bowl 2024
 Pro D2
 Pro Helvetia
 Pro League
 ProBTP
+ProBowl2024
 ProD2
 ProHelvetia
 ProLeague
@@ -50147,6 +50195,7 @@ READY OR NOT
 REAL
 REAL  EINTRACHT FRANKFURT
 REAL  VALENCIA
+REAL ATLETICO
 REAL BARCA
 REAL BETIS.  BARCELONA
 REAL CHELSEA
@@ -51480,6 +51529,7 @@ Real Sociedad – Real
 Real Sociedad – Real Madrid
 Real Sociedad.  Barcelona
 Real Steel
+Real atletico
 Real barca
 Real madrid – Manchester United
 Real – América
@@ -51569,6 +51619,7 @@ RealSociedad–Real
 RealSociedad–RealMadrid
 RealSteel
 RealValencia
+Realatletico
 Realbarca
 Realmadrid–ManchesterUnited
 Real–América
@@ -54511,6 +54562,7 @@ STVV Club Brugge
 STVVClubBrugge
 STVVzulte-waregem
 STYBAR
+STÄFA
 STÄNDERAT ZÜRICH
 STÄNDERATSWAHLEN
 STÉPHANE BERN FRÈRE
@@ -54657,6 +54709,7 @@ SUSANNE WILLE
 SUSIE WOLFF
 SUSTENPASS
 SUTOM
+SUV
 SUZAN EN FREEK
 SUZANNE SOMERS
 SUZANNE SOMERS DÉCÈS
@@ -57366,6 +57419,7 @@ Stuttgart – Dortmund
 Stuttgart–Bayern
 Stuttgart–Dortmund
 Stybar
+Stäfa
 Ständerat Zürich
 StänderatZürich
 Ständeratswahlen
@@ -63654,6 +63708,7 @@ WK TIJDRIJDEN 2021
 WK TIJDRIJDEN 2022
 WK VELDRIJDEN
 WK VELDRIJDEN 2023
+WK VELDRIJDEN 2024
 WK VOETBAL 2022
 WK WIELRENNEN
 WK WIELRENNEN 2022
@@ -63666,6 +63721,7 @@ WK tijdrijden 2021
 WK tijdrijden 2022
 WK veldrijden
 WK veldrijden 2023
+WK veldrijden 2024
 WK voetbal 2022
 WK wielrennen
 WK wielrennen 2022
@@ -63683,6 +63739,7 @@ WKtijdrijden2021
 WKtijdrijden2022
 WKveldrijden
 WKveldrijden2023
+WKveldrijden2024
 WKvoetbal2022
 WKwielrennen
 WKwielrennen2022
@@ -65653,6 +65710,7 @@ accident
 accident a1
 accident a13 gendarme tué
 accident a16
+accident a47
 accident a7
 accident a9
 accident acteur jérémy renner
@@ -66431,6 +66489,7 @@ anderlecht  charleroi
 anderlecht  club brugge
 anderlecht  eupen
 anderlecht  genk
+anderlecht  gent
 anderlecht  kortrijk
 anderlecht  ludogorets
 anderlecht  mechelen
@@ -66457,6 +66516,7 @@ anderlecht – charleroi sc
 anderlecht – fcsb
 anderlecht – kaa gent
 anderlecht – kas eupen
+anderlecht – la gantoise
 anderlecht – lyon
 anderlecht – oostende
 anderlecht – standard
@@ -66806,6 +66866,7 @@ antwerpen vuurwerk
 antwerpen-centraal
 anuna de wever
 anya taylor-joy
+anydesk
 anyone but you
 aout
 apache
@@ -67784,6 +67845,7 @@ bayern – union berlin
 bayern – werder
 bayern – wolfsbourg
 bayonne
+bayrou
 baywatch
 bazart
 bb jacques
@@ -67969,6 +68031,7 @@ benfica vs inter
 benfica – barcelona
 benfica – bayern
 benfica – famalicão
+benfica – gil vicente
 benfica – juventus
 benfica – liverpool
 benfica – midtjylland
@@ -71347,6 +71410,7 @@ dour
 doutzen kroes
 douvres
 douwe bob
+dove cameron
 dow jones
 downton abbey
 doyle brunson
@@ -74104,8 +74168,10 @@ grammy 2022
 grammy awards 2022
 grammy awards 2023
 grammy nominations 2023
+grammys
 grammys 2022
 grammys 2023
+grammys 2024
 gran sasso
 gran sasso d'italia
 gran turismo 7
@@ -74367,6 +74433,7 @@ guillaume mulliez auchan
 guillaume peltier
 guillaume pley
 guillaume sanchez
+guillaume tell
 guillaumepley
 guillermo del toro
 guimaraes
@@ -75874,6 +75941,7 @@ jean gabin
 jean janssens
 jean lassalle
 jean lassalle apolline de malherbe
+jean massiet
 jean messiha
 jean moulin
 jean noel barrot
@@ -76889,6 +76957,7 @@ kilde sturz
 kilian feldbausch
 kilian kerner
 kilian wenger
+killer mike
 killers of the flower moon
 killian hayes
 killian mottet
@@ -76951,6 +77020,7 @@ kiyoshi kuromiya
 klapp
 klaus barbie
 klaus kinski
+klaus mäkelä
 klaus schwab
 klaus steinbacher
 klausenpass
@@ -79475,6 +79545,7 @@ martin hinteregger
 martin hirsch
 martin laciga
 martin luther king
+martin perin
 martin perscheid
 martin roumagnac
 martin rütter
@@ -81893,6 +81964,7 @@ pano
 panot
 pansexuelle
 pantelleria
+panthère des neiges
 pantone 448c
 panzerhaubitze 2000
 panzeri
@@ -82928,6 +83000,7 @@ prix nobel littérature 2022
 prix paquet cigarettes
 prix paquet de cigarettes
 priyanka chopra
+pro bowl 2024
 pro btp
 pro d2
 pro helvetia
@@ -83378,6 +83451,7 @@ ready or not
 real
 real  eintracht frankfurt
 real  valencia
+real atletico
 real barca
 real betis.  barcelona
 real chelsea
@@ -85746,6 +85820,7 @@ stvv
 stvv  zulte-waregem
 stvv club brugge
 stybar
+stäfa
 ständerat zürich
 ständeratswahlen
 stéphane bern frère
@@ -85895,6 +85970,7 @@ susanne wille
 susie wolff
 sustenpass
 sutom
+suv
 suzan en freek
 suzanne somers
 suzanne somers décès
@@ -88337,6 +88413,7 @@ wk tijdrijden 2021
 wk tijdrijden 2022
 wk veldrijden
 wk veldrijden 2023
+wk veldrijden 2024
 wk voetbal 2022
 wk wielrennen
 wk wielrennen 2022
