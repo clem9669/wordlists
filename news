@@ -2055,6 +2055,7 @@ ARDENTES
 ARDITI
 ARDON JASHARI
 ARE
+ARE SCHWEDEN
 ARES
 ARGELES SUR-MER
 ARGENT COLLOIDAL
@@ -5110,6 +5111,8 @@ Arditi
 Ardon Jashari
 ArdonJashari
 Are
+Are Schweden
+AreSchweden
 Ares
 Argeles sur-Mer
 Argeles surMer
@@ -6311,6 +6314,7 @@ BARCELONE – CADIX
 BARCELONE – CELTA VIGO
 BARCELONE – ESPANYOL
 BARCELONE – GETAFE
+BARCELONE – MAJORQUE
 BARCELONE – OSASUNA
 BARCELONE – REAL MADRID
 BARCELONE – SÉVILLE
@@ -8044,6 +8048,7 @@ Barcelone – Cadix
 Barcelone – Celta Vigo
 Barcelone – Espanyol
 Barcelone – Getafe
+Barcelone – Majorque
 Barcelone – Osasuna
 Barcelone – Real Madrid
 Barcelone – Séville
@@ -8058,6 +8063,7 @@ Barcelone–Cadix
 Barcelone–CeltaVigo
 Barcelone–Espanyol
 Barcelone–Getafe
+Barcelone–Majorque
 Barcelone–Osasuna
 Barcelone–RealMadrid
 Barcelone–Séville
@@ -17747,6 +17753,7 @@ EENLIVE
 EERSTE SCHOOLDAG
 EFFONDREMENT BÂTIMENT LIEGE
 EFFONDREMENT IMMEUBLE MARSEILLE TIVOLI
+EFFONDREMENT IMMEUBLE TOULOUSE
 EFFONDREMENT PONT SUSPENDU INDE
 EFOOTBALL 2022
 EGAN BERNAL
@@ -18788,9 +18795,11 @@ Eerste schooldag
 Eersteschooldag
 Effondrement bâtiment liege
 Effondrement immeuble Marseille Tivoli
+Effondrement immeuble Toulouse
 Effondrement pont suspendu Inde
 Effondrementbâtimentliege
 EffondrementimmeubleMarseilleTivoli
+EffondrementimmeubleToulouse
 EffondrementpontsuspenduInde
 Egan Bernal
 EganBernal
@@ -23927,6 +23936,7 @@ GISELE HALIMI
 GISIN
 GISÈLE HALIMI
 GIULIA CECCHETTIN
+GIULIA FOÏS
 GIULIA GWINN
 GIULIA STEINGRUBER
 GIULIA TANNO
@@ -25250,11 +25260,13 @@ Gisin
 Gisèle Halimi
 GisèleHalimi
 Giulia Cecchettin
+Giulia Foïs
 Giulia Gwinn
 Giulia Steingruber
 Giulia Tanno
 Giulia Tramontano
 GiuliaCecchettin
+GiuliaFoïs
 GiuliaGwinn
 GiuliaSteingruber
 GiuliaTanno
@@ -27809,6 +27821,7 @@ INES REG
 INEZ WESKI
 INFANTINO
 INFERNO
+INFINIA
 INFINITI
 INFIRMIERE REIMS
 INFLATIE
@@ -28054,6 +28067,7 @@ ISABELLE JACOBI
 ISABELLE MERGAULT
 ISABELLE MORINI-BOSC
 ISABELLE NANTY
+ISABELLE SAPORTA
 ISABELLE YACOUBOU
 ISABELLEADJANI
 ISAIAH STEWART
@@ -28544,6 +28558,7 @@ Inez Weski
 InezWeski
 Infantino
 Inferno
+Infinia
 Infiniti
 Infirmiere Reims
 InfirmiereReims
@@ -28911,6 +28926,7 @@ Isabelle Mergault
 Isabelle Morini-Bosc
 Isabelle MoriniBosc
 Isabelle Nanty
+Isabelle Saporta
 Isabelle Yacoubou
 Isabelle a
 IsabelleA
@@ -28926,6 +28942,7 @@ IsabelleJacobi
 IsabelleMergault
 IsabelleMorini-Bosc
 IsabelleNanty
+IsabelleSaporta
 IsabelleYacoubou
 Isabellea
 Isaiah Stewart
@@ -33953,6 +33970,7 @@ LA CORDE
 LA COULEUR POURPRE
 LA CROISIÈRE
 LA DEFENSE
+LA DEMOISELLE ET LE DRAGON
 LA DUCHÈRE LYON
 LA DÉPÊCHE
 LA FAMILLE ADDAMS
@@ -34661,6 +34679,7 @@ LET'S DANCE
 LET'S DANCE 2022
 LET'S DANCE 2023
 LET'S DANCE PROFI CHALLENGE
+LET'S DANCE WER IST RAUS
 LET'S DANCE WER RAUS
 LETEMPS
 LETROZOLE METABOLITE
@@ -35453,6 +35472,7 @@ La Chute de la MaisonBlanche
 La Chute de la maison Usher
 La Chute du président
 La Couleur pourpre
+La Demoiselle et le Dragon
 La Duchère Lyon
 La Dépêche
 La Famille Addams
@@ -35603,6 +35623,7 @@ LaChutedelamaisonUsher
 LaChuteduprésident
 LaCouleurpourpre
 LaCroixdelaRochette
+LaDemoiselleetleDragon
 LaDuchèreLyon
 LaDépêche
 LaFamilleAddams
@@ -36804,12 +36825,14 @@ Let's Dance
 Let's Dance 2022
 Let's Dance 2023
 Let's Dance Profi Challenge
+Let's Dance Wer ist raus
 Let's Dance Wer raus
 Let's Dance wer raus
 Let'sDance
 Let'sDance2022
 Let'sDance2023
 Let'sDanceProfiChallenge
+Let'sDanceWeristraus
 Let'sDanceWerraus
 Let'sDancewerraus
 Letemps
@@ -38733,6 +38756,7 @@ MARCO CHIESA
 MARCO GOECKE
 MARCO KOHLER
 MARCO MENGONI
+MARCO MOULY
 MARCO ODERMATT
 MARCO PANTANI
 MARCO REUS
@@ -41180,6 +41204,7 @@ Marco Chiesa
 Marco Goecke
 Marco Kohler
 Marco Mengoni
+Marco Mouly
 Marco Odermatt
 Marco Pantani
 Marco Reus
@@ -41196,6 +41221,7 @@ MarcoChiesa
 MarcoGoecke
 MarcoKohler
 MarcoMengoni
+MarcoMouly
 MarcoOdermatt
 MarcoPantani
 MarcoReus
@@ -46094,6 +46120,7 @@ OECD-MINDESTSTEUER
 OECD-Mindeststeuer
 OECDMindeststeuer
 OEKRAINE
+OEMER
 OERLIKON
 OETWIL AM SEE
 OFENBACH
@@ -46630,6 +46657,7 @@ OdetteParis
 Odoo
 Odufröhliche
 Oekraine
+Oemer
 Oerlikon
 Oetwil am See
 OetwilamSee
@@ -55264,6 +55292,7 @@ SOLDES 2024
 SOLDES 2024 HIVER
 SOLDES BELGIQUE
 SOLDEU
+SOLDIER HOLLOW
 SOLEDAR
 SOLESMES
 SOLIDARITÉS NAMUR
@@ -57807,6 +57836,8 @@ Soldes2024
 Soldes2024hiver
 SoldesBelgique
 Soldeu
+Soldier Hollow
+SoldierHollow
 Soledar
 Solesmes
 Solidarités Namur
@@ -67102,6 +67133,7 @@ ZÜRICH GEGEN LUZERN
 ZÜRICH GEGEN PSV EINDHOVEN
 ZÜRICH GEGEN SERVETTE
 ZÜRICH GEGEN WINTERTHUR
+ZÜRICH HB TRAMUNFALL
 ZÜRICH OPENAIR
 ZÜRICH PRIDE
 ZÜRICH STURM
@@ -67121,6 +67153,7 @@ ZüriWestKunoLauener
 Zürich
 Zürich Altstetten Bahnhof
 Zürich Feuerwerk
+Zürich HB Tramunfall
 Zürich Openair
 Zürich Pride
 Zürich Sturm
@@ -67134,6 +67167,7 @@ Zürich teuerste Stadt
 Zürich wetter
 ZürichAltstettenBahnhof
 ZürichFeuerwerk
+ZürichHBTramunfall
 ZürichOpenair
 ZürichPride
 ZürichSturm
@@ -68529,6 +68563,7 @@ ardentes
 arditi
 ardon jashari
 are
+are schweden
 ares
 argeles sur-mer
 argent colloidal
@@ -69294,6 +69329,7 @@ barcelone – cadix
 barcelone – celta vigo
 barcelone – espanyol
 barcelone – getafe
+barcelone – majorque
 barcelone – osasuna
 barcelone – real madrid
 barcelone – séville
@@ -73342,6 +73378,7 @@ eenlive
 eerste schooldag
 effondrement bâtiment liege
 effondrement immeuble marseille tivoli
+effondrement immeuble toulouse
 effondrement pont suspendu inde
 efootball 2022
 egan bernal
@@ -75757,6 +75794,7 @@ gisele halimi
 gisin
 gisèle halimi
 giulia cecchettin
+giulia foïs
 giulia gwinn
 giulia steingruber
 giulia tanno
@@ -77062,6 +77100,7 @@ ines reg
 inez weski
 infantino
 inferno
+infinia
 infiniti
 infirmiere reims
 inflatie
@@ -77303,6 +77342,7 @@ isabelle jacobi
 isabelle mergault
 isabelle morini-bosc
 isabelle nanty
+isabelle saporta
 isabelle yacoubou
 isabelleadjani
 isaiah stewart
@@ -79138,6 +79178,7 @@ la corde
 la couleur pourpre
 la croisière
 la defense
+la demoiselle et le dragon
 la duchère lyon
 la dépêche
 la famille addams
@@ -79833,6 +79874,7 @@ let's dance
 let's dance 2022
 let's dance 2023
 let's dance profi challenge
+let's dance wer ist raus
 let's dance wer raus
 letemps
 letrozole metabolite
@@ -81119,6 +81161,7 @@ marco chiesa
 marco goecke
 marco kohler
 marco mengoni
+marco mouly
 marco odermatt
 marco pantani
 marco reus
@@ -83432,6 +83475,7 @@ odette paris
 odoo
 oecd-mindeststeuer
 oekraine
+oemer
 oerlikon
 oetwil am see
 ofenbach
@@ -87279,6 +87323,7 @@ soldes 2024
 soldes 2024 hiver
 soldes belgique
 soldeu
+soldier hollow
 soledar
 solesmes
 solidarités namur
@@ -90958,6 +91003,7 @@ zürich gegen luzern
 zürich gegen psv eindhoven
 zürich gegen servette
 zürich gegen winterthur
+zürich hb tramunfall
 zürich openair
 zürich pride
 zürich sturm
