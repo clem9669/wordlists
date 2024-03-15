@@ -2378,6 +2378,7 @@ ATALANTA  JUVENTUS
 ATALANTA  MILAN
 ATALANTA  ROMA
 ATALANTA  SALERNITANA
+ATALANTA  SPORTING CP
 ATALANTA BERGAMO
 ATALANTA GEGEN ROMA
 ATALANTA VILLARREAL
@@ -5626,6 +5627,7 @@ Atalanta  Juventus
 Atalanta  Milan
 Atalanta  Roma
 Atalanta  Salernitana
+Atalanta  Sporting CP
 Atalanta Bergamo
 Atalanta Villarreal
 Atalanta gegen Roma
@@ -5640,6 +5642,7 @@ AtalantaJuventus
 AtalantaMilan
 AtalantaRoma
 AtalantaSalernitana
+AtalantaSportingCP
 AtalantaVillarreal
 AtalantagegenRoma
 Atalanta–Inter
@@ -7508,6 +7511,7 @@ BRIENZ
 BRIENZ GRAUBÜNDEN
 BRIGADIER BROCCOLI
 BRIGHT BRUSSELS
+BRIGHTON &AMP; HOVE ALBION  ROMA
 BRIGHTON – AEK ATHÈNES
 BRIGHTON – ARSENAL
 BRIGHTON – CHELSEA
@@ -9994,6 +9998,7 @@ Brigadier Broccoli
 BrigadierBroccoli
 Bright Brussels
 BrightBrussels
+Brighton &amp; Hove Albion  roma
 Brighton – AEK Athènes
 Brighton – Arsenal
 Brighton – Chelsea
@@ -10003,6 +10008,7 @@ Brighton – Man City
 Brighton – Manchester City
 Brighton – Manchester United
 Brighton – Newcastle
+Brighton&amp;HoveAlbionroma
 Brighton–AEKAthènes
 Brighton–Arsenal
 Brighton–Chelsea
@@ -11490,6 +11496,7 @@ CLUB BRUGGE  GENT
 CLUB BRUGGE  KA AKUREYRI
 CLUB BRUGGE  KORTRIJK
 CLUB BRUGGE  MECHELEN
+CLUB BRUGGE  MOLDE
 CLUB BRUGGE  OHL
 CLUB BRUGGE  OOSTENDE
 CLUB BRUGGE  OSASUNA
@@ -11654,6 +11661,7 @@ CONGO GUINEE
 CONGO-GUINÉE
 CONGO-MAROC
 CONGÉ PARENTAL
+CONGÉS PAYÉS ACQUIS ARRÊT MALADIE
 CONNAITRE SON BUREAU DE VOTE
 CONNER ROUSSEAU
 CONOR MCGREGOR
@@ -13925,6 +13933,7 @@ Club Brugge  Gent
 Club Brugge  KA Akureyri
 Club Brugge  Kortrijk
 Club Brugge  Mechelen
+Club Brugge  Molde
 Club Brugge  OHL
 Club Brugge  Oostende
 Club Brugge  Osasuna
@@ -13967,6 +13976,7 @@ ClubBruggeKAAkureyri
 ClubBruggeKortrijk
 ClubBruggeManchesterCity
 ClubBruggeMechelen
+ClubBruggeMolde
 ClubBruggeOHL
 ClubBruggeOostende
 ClubBruggeOsasuna
@@ -14210,6 +14220,8 @@ CongoGuinée
 Congoguinee
 Congé parental
 Congéparental
+Congés payés acquis arrêt maladie
+Congéspayésacquisarrêtmaladie
 Connaitre son bureau de vote
 Connaitresonbureaudevote
 Conner Rousseau
@@ -15386,6 +15398,7 @@ DER SCHWARM
 DER VORNAME
 DERBY COUNTY
 DERBY COUNTY – WEST HAM
+DERECK KUTESA
 DEREK CHAUVIN
 DEREKCHAUVIN
 DERNIER SONDAGE PRÉSIDENTIELLE 2022
@@ -15955,6 +15968,7 @@ DYNAMO KYIV – BARCELONA
 DYNAMO KYIV – BAYERN
 DYNAMO KYIV – RENNES
 DYSON
+DYSON AIRSTRAIT
 DYSON AIRWRAP
 DYSON AIRWRAP BLACK FRIDAY
 DYSON STAUBSAUGER
@@ -16743,6 +16757,8 @@ Derby County
 Derby County – West Ham
 DerbyCounty
 DerbyCounty–WestHam
+Dereck Kutesa
+DereckKutesa
 Derek Chauvin
 DerekChauvin
 DerkleineLord
@@ -17666,9 +17682,11 @@ Dynamokyiv–Bayern
 Dynamokyiv–Rennes
 Dynamokyiv–barcelona
 Dyson
+Dyson Airstrait
 Dyson Airwrap
 Dyson Airwrap Black Friday
 Dyson Staubsauger
+DysonAirstrait
 DysonAirwrap
 DysonAirwrapBlackFriday
 DysonStaubsauger
@@ -18100,6 +18118,7 @@ ELSA ESNOULT
 ELSA FAYER
 ELSA HOSK
 ELSA LUNGHINI
+ELSA VIDAL
 ELSA ZYLBERSTEIN
 ELSAU
 ELTERNGELD
@@ -18278,6 +18297,7 @@ ENQUÊTE DISPARITION ÉMILE
 ENRAGÉ
 ENRICO MACIAS
 ENRIQUE IGLESIAS
+ENRIQUE STEIGER
 ENRIQUE TARRIO
 ENSHROUDED
 ENSORS
@@ -19283,12 +19303,14 @@ Elsa Esnoult
 Elsa Fayer
 Elsa Hosk
 Elsa Lunghini
+Elsa Vidal
 Elsa Zylberstein
 ElsaBois
 ElsaEsnoult
 ElsaFayer
 ElsaHosk
 ElsaLunghini
+ElsaVidal
 ElsaZylberstein
 Elsau
 ElsvanDoesburg
@@ -19565,8 +19587,10 @@ Enragé
 Enrico Macias
 EnricoMacias
 Enrique Iglesias
+Enrique Steiger
 Enrique Tarrio
 EnriqueIglesias
+EnriqueSteiger
 EnriqueTarrio
 Enshrouded
 Ensors
@@ -20841,6 +20865,7 @@ FENERBAHCE
 FENERBAHÇE ( RIZESPOR
 FENERBAHÇE – AEK LARNACA
 FENERBAHÇE – RENNES
+FENERBAHÇE – UNION SAINT-GILLOISE
 FENTANYL
 FERDINAND BERTHIER
 FERDINAND MARCOS
@@ -21557,6 +21582,7 @@ FRANÇOIS HOLLANDE
 FRANÇOIS LÉOTARD
 FRANÇOIS RUFFIN
 FRANÇOIS STERCHELE
+FRANÇOIS SUREAU
 FRANÇOIS VÉROVE
 FRANÇOISE DELORD
 FRANÇOISE DORIN
@@ -21994,9 +22020,12 @@ Fenerbahce
 Fenerbahçe ( Rizespor
 Fenerbahçe – AEK Larnaca
 Fenerbahçe – Rennes
+Fenerbahçe – Union Saint-Gilloise
+Fenerbahçe – Union SaintGilloise
 Fenerbahçe(Rizespor
 Fenerbahçe–AEKLarnaca
 Fenerbahçe–Rennes
+Fenerbahçe–UnionSaint-Gilloise
 Fentanyl
 Ferdinand Berthier
 Ferdinand Marcos
@@ -23196,6 +23225,7 @@ François Hollande
 François Léotard
 François Ruffin
 François Sterchele
+François Sureau
 François Vérove
 FrançoisAlu
 FrançoisBayrou
@@ -23207,6 +23237,7 @@ FrançoisHollande
 FrançoisLéotard
 FrançoisRuffin
 FrançoisSterchele
+FrançoisSureau
 FrançoisVérove
 Françoise Delord
 Françoise Dorin
@@ -29610,6 +29641,7 @@ JEAN-CLAUDE ROMAND
 JEAN-CLAUDE VAN DAMME
 JEAN-DANIEL FLAYSAKIER
 JEAN-DANIEL RUCH
+JEAN-FRANÇOIS ACHILLI JORDAN BARDELLA
 JEAN-JACQUES BOURDIN
 JEAN-JACQUES BOURDIN RMC
 JEAN-JACQUES CASSIMAN
@@ -30845,6 +30877,8 @@ Jean-Daniel Flaysakier
 Jean-Daniel Ruch
 Jean-DanielFlaysakier
 Jean-DanielRuch
+Jean-François Achilli Jordan Bardella
+Jean-FrançoisAchilliJordanBardella
 Jean-Jacques Bourdin
 Jean-Jacques Bourdin RMC
 Jean-Jacques Cassiman
@@ -30977,6 +31011,7 @@ JeanDaniel Flaysakier
 JeanDaniel Ruch
 JeanDujardin
 JeanDujardinrugby
+JeanFrançois Achilli Jordan Bardella
 JeanGabin
 JeanJacques Bourdin
 JeanJacques Bourdin RMC
@@ -34850,6 +34885,7 @@ LEVERKUSEN GEGEN DORTMUND
 LEVERKUSEN GEGEN FC PORTO
 LEVERKUSEN GEGEN MAINZ
 LEVERKUSEN GEGEN RB LEIPZIG
+LEVERKUSEN QARABAG
 LEVERKUSEN – ATLÉTICO MADRID
 LEVERKUSEN – BAYERN
 LEVERKUSEN – MONACO
@@ -34958,6 +34994,7 @@ LILIANE SAINT-PIERRE
 LILIBET
 LILLE
 LILLE - SALZBOURG
+LILLE - STURM GRAZ
 LILLE - TOULOUSE
 LILLE FOOT
 LILLE MARSEILLE
@@ -35100,6 +35137,7 @@ LIVERPOOL GEGEN LUTON TOWN
 LIVERPOOL GEGEN MAN CITY
 LIVERPOOL GEGEN MANUNITED
 LIVERPOOL GEGEN NEWCASTLE
+LIVERPOOL GEGEN SPARTA PRAG
 LIVERPOOL GEGEN WEST HAM
 LIVERPOOL GEGEN WOLVERHAMPTON
 LIVERPOOL VILLARREAL
@@ -37015,6 +37053,7 @@ Levante–Real
 Leverkusen
 Leverkusen  Club Brugge
 Leverkusen  Porto
+Leverkusen Qarabag
 Leverkusen gegen Atlético Madrid
 Leverkusen gegen Bayern
 Leverkusen gegen Dortmund
@@ -37027,6 +37066,7 @@ Leverkusen – Monaco
 Leverkusen – Porto
 LeverkusenClubBrugge
 LeverkusenPorto
+LeverkusenQarabag
 LeverkusengegenAtléticoMadrid
 LeverkusengegenBayern
 LeverkusengegenDortmund
@@ -37208,8 +37248,10 @@ LilianeSaint-Pierre
 Lilibet
 Lille
 Lille  Salzbourg
+Lille  Sturm Graz
 Lille  Toulouse
 Lille - Salzbourg
+Lille - Sturm Graz
 Lille - Toulouse
 Lille Foot
 Lille Marseille
@@ -37239,6 +37281,7 @@ Lille – parissg
 Lille – saint-étienne
 Lille – saintétienne
 Lille-Salzbourg
+Lille-SturmGraz
 Lille-Toulouse
 LilleFoot
 LilleMarseille
@@ -37461,6 +37504,7 @@ Liverpool gegen Leicester
 Liverpool gegen Luton Town
 Liverpool gegen Man City
 Liverpool gegen Newcastle
+Liverpool gegen Sparta Prag
 Liverpool gegen West Ham
 Liverpool gegen Wolverhampton
 Liverpool gegen manunited
@@ -37506,6 +37550,7 @@ LiverpoolgegenLeicester
 LiverpoolgegenLutonTown
 LiverpoolgegenManCity
 LiverpoolgegenNewcastle
+LiverpoolgegenSpartaPrag
 LiverpoolgegenWestHam
 LiverpoolgegenWolverhampton
 Liverpoolgegenmanunited
@@ -38785,6 +38830,7 @@ MANNY PACQUIAO
 MANO (LANDES
 MANO KINDERZIEKENHUIS
 MANON AUBRY
+MANON AZEM
 MANON BRUNET
 MANON CLAEYS
 MANON FIOROT
@@ -41142,6 +41188,7 @@ Mano Kinderziekenhuis
 Mano(Landes
 ManoKinderziekenhuis
 Manon Aubry
+Manon Azem
 Manon Brunet
 Manon Claeys
 Manon Fiorot
@@ -41149,6 +41196,7 @@ Manon GP Explorer
 Manon Lanza
 Manon éliminée N'oubliez pas les paroles
 ManonAubry
+ManonAzem
 ManonBrunet
 ManonClaeys
 ManonFiorot
@@ -44654,6 +44702,7 @@ NICK BRIL
 NICK CANNON
 NICK CARTER
 NICK CAVE
+NICK CAVE SPORTPALEIS
 NICK CAVE WERCHTER
 NICK KYRGIOS
 NICK NUYENS
@@ -45660,6 +45709,7 @@ Nick Bril
 Nick Cannon
 Nick Carter
 Nick Cave
+Nick Cave Sportpaleis
 Nick Cave Werchter
 Nick Kyrgios
 Nick Nuyens
@@ -45669,6 +45719,7 @@ NickBril
 NickCannon
 NickCarter
 NickCave
+NickCaveSportpaleis
 NickCaveWerchter
 NickKyrgios
 NickNuyens
@@ -48482,6 +48533,7 @@ POUYASTRUC
 POVERELLO
 POWER OF THE DOG
 POWER RANGERS
+POWER WALKING
 POWERBALL
 POWERLIFTING
 POWERMAN ZOFINGEN 2022
@@ -50724,12 +50776,14 @@ Pouyastruc
 Poverello
 Power Rangers
 Power of the Dog
+Power walking
 PowerRangers
 Powerball
 Powerlifting
 Powerman Zofingen 2022
 PowermanZofingen2022
 PoweroftheDog
+Powerwalking
 Praag schietpartij
 Praagschietpartij
 Prada
@@ -56351,6 +56405,8 @@ SYDNEY SWEENEY
 SYLT
 SYLVAIN AUGIER
 SYLVAIN FRANCISCO
+SYLVAIN LUC
+SYLVAIN LUC MORT
 SYLVAIN TESSON
 SYLVAIN TESSON POETES
 SYLVESTER STALLONE
@@ -59398,10 +59454,14 @@ SydneySweeney
 Sylt
 Sylvain Augier
 Sylvain Francisco
+Sylvain Luc
+Sylvain Luc mort
 Sylvain Tesson
 Sylvain Tesson poetes
 SylvainAugier
 SylvainFrancisco
+SylvainLuc
+SylvainLucmort
 SylvainTesson
 SylvainTessonpoetes
 Sylvester Stallone
@@ -63936,6 +63996,8 @@ VIKTOR VERHULST
 VIKTORIA PILSEN  BAYERN
 VIKTORIA PILSEN GEGEN BARCELONA
 VIKTORIA PILSEN GEGEN BAYERN
+VIKTORIA PILSEN GEGEN SERVETTE
+VIKTORIA PLZEN – SERVETTE
 VIKTORIA PLZEŇ  INTER
 VILEBREQUIN
 VILLA CAPRICE
@@ -63950,6 +64012,7 @@ VILLARREAL – ATLÉTICO MADRID
 VILLARREAL – BARCELONA
 VILLARREAL – BARCELONE
 VILLARREAL – MANCHESTER UNITED
+VILLARREAL – MARSEILLE
 VILLARREAL – REAL
 VILLARREAL – REAL MADRID
 VILLARREAL – RENNES
@@ -64178,6 +64241,7 @@ VW TRINITY
 VW Trinity
 VWID.7
 VWTrinity
+VYBZ KARTEL
 Vacances scolaires 2024
 Vacancesscolaires2024
 Vacatures
@@ -64706,10 +64770,14 @@ ViktorOrbán
 ViktorVerhulst
 Viktoria Pilsen gegen Barcelona
 Viktoria Pilsen gegen Bayern
+Viktoria Pilsen gegen Servette
+Viktoria Plzen – Servette
 Viktoria Plzeň  Inter
 Viktoria pilsen  Bayern
 ViktoriaPilsengegenBarcelona
 ViktoriaPilsengegenBayern
+ViktoriaPilsengegenServette
+ViktoriaPlzen–Servette
 ViktoriaPlzeňInter
 ViktoriapilsenBayern
 Vilebrequin
@@ -64728,6 +64796,7 @@ Villarreal – Atlético Madrid
 Villarreal – Barcelona
 Villarreal – Barcelone
 Villarreal – Manchester United
+Villarreal – Marseille
 Villarreal – Real
 Villarreal – Real Madrid
 Villarreal – Rennes
@@ -64742,6 +64811,7 @@ Villarreal–AtléticoMadrid
 Villarreal–Barcelona
 Villarreal–Barcelone
 Villarreal–ManchesterUnited
+Villarreal–Marseille
 Villarreal–Real
 Villarreal–RealMadrid
 Villarreal–Rennes
@@ -65102,6 +65172,8 @@ Vuurwerk Oostende
 VuurwerkAntwerpen
 VuurwerkKnokke
 VuurwerkOostende
+Vybz Kartel
+VybzKartel
 VÉRONIQUE GENEST
 VÉRONIQUE JANNOT
 VÖGELE SHOES
@@ -65319,6 +65391,7 @@ WESPEN
 WEST HAM
 WEST HAM  GENT
 WEST HAM GEGEN CHELSEA
+WEST HAM GEGEN FREIBURG
 WEST HAM VS ANDERLECHT
 WEST HAM – ANDERLECHT
 WEST HAM – BOURNEMOUTH
@@ -65400,6 +65473,7 @@ WIKIPEDIA
 WIL FILM
 WILBUR SMITH
 WILDER
+WILDERS
 WILDHAUS
 WILDSCHWEIN
 WILFRIED FLORENTIN
@@ -65978,6 +66052,7 @@ Wespen
 West Ham
 West Ham  Gent
 West Ham gegen Chelsea
+West Ham gegen Freiburg
 West Ham vs Anderlecht
 West Ham – Anderlecht
 West Ham – Bournemouth
@@ -65992,6 +66067,7 @@ West-Nil-Virus
 WestHam
 WestHamGent
 WestHamgegenChelsea
+WestHamgegenFreiburg
 WestHamvsAnderlecht
 WestHam–Anderlecht
 WestHam–Bournemouth
@@ -66124,6 +66200,7 @@ Wil film
 Wilbur Smith
 WilburSmith
 Wilder
+Wilders
 Wildhaus
 Wildschwein
 Wilfilm
@@ -69121,6 +69198,7 @@ atalanta  juventus
 atalanta  milan
 atalanta  roma
 atalanta  salernitana
+atalanta  sporting cp
 atalanta bergamo
 atalanta gegen roma
 atalanta villarreal
@@ -70720,6 +70798,7 @@ brienz
 brienz graubünden
 brigadier broccoli
 bright brussels
+brighton &amp; hove albion  roma
 brighton – aek athènes
 brighton – arsenal
 brighton – chelsea
@@ -72031,6 +72110,7 @@ club brugge  gent
 club brugge  ka akureyri
 club brugge  kortrijk
 club brugge  mechelen
+club brugge  molde
 club brugge  ohl
 club brugge  oostende
 club brugge  osasuna
@@ -72185,6 +72265,7 @@ congo - maroc
 congo guinee
 congo-guinée
 congé parental
+congés payés acquis arrêt maladie
 connaitre son bureau de vote
 conner rousseau
 conor mcgregor
@@ -73025,6 +73106,7 @@ der schwarm
 der vorname
 derby county
 derby county – west ham
+dereck kutesa
 derek chauvin
 derekchauvin
 dernier sondage présidentielle 2022
@@ -73554,6 +73636,7 @@ dynamo kyiv – barcelona
 dynamo kyiv – bayern
 dynamo kyiv – rennes
 dyson
+dyson airstrait
 dyson airwrap
 dyson airwrap black friday
 dyson staubsauger
@@ -73897,6 +73980,7 @@ elsa esnoult
 elsa fayer
 elsa hosk
 elsa lunghini
+elsa vidal
 elsa zylberstein
 elsau
 elterngeld
@@ -74062,6 +74146,7 @@ enquête disparition émile
 enragé
 enrico macias
 enrique iglesias
+enrique steiger
 enrique tarrio
 enshrouded
 ensors
@@ -74789,6 +74874,7 @@ fenerbahce
 fenerbahçe ( rizespor
 fenerbahçe – aek larnaca
 fenerbahçe – rennes
+fenerbahçe – union saint-gilloise
 fentanyl
 ferdinand berthier
 ferdinand marcos
@@ -75461,6 +75547,7 @@ françois hollande
 françois léotard
 françois ruffin
 françois sterchele
+françois sureau
 françois vérove
 françoise delord
 françoise dorin
@@ -78089,6 +78176,7 @@ jean-claude romand
 jean-claude van damme
 jean-daniel flaysakier
 jean-daniel ruch
+jean-françois achilli jordan bardella
 jean-jacques bourdin
 jean-jacques bourdin rmc
 jean-jacques cassiman
@@ -80211,6 +80299,7 @@ leverkusen gegen dortmund
 leverkusen gegen fc porto
 leverkusen gegen mainz
 leverkusen gegen rb leipzig
+leverkusen qarabag
 leverkusen – atlético madrid
 leverkusen – bayern
 leverkusen – monaco
@@ -80315,6 +80404,7 @@ liliane saint-pierre
 lilibet
 lille
 lille - salzbourg
+lille - sturm graz
 lille - toulouse
 lille foot
 lille marseille
@@ -80456,6 +80546,7 @@ liverpool gegen luton town
 liverpool gegen man city
 liverpool gegen manunited
 liverpool gegen newcastle
+liverpool gegen sparta prag
 liverpool gegen west ham
 liverpool gegen wolverhampton
 liverpool villarreal
@@ -81348,6 +81439,7 @@ manny pacquiao
 mano (landes
 mano kinderziekenhuis
 manon aubry
+manon azem
 manon brunet
 manon claeys
 manon fiorot
@@ -83408,6 +83500,7 @@ nick bril
 nick cannon
 nick carter
 nick cave
+nick cave sportpaleis
 nick cave werchter
 nick kyrgios
 nick nuyens
@@ -85191,6 +85284,7 @@ pouyastruc
 poverello
 power of the dog
 power rangers
+power walking
 powerball
 powerlifting
 powerman zofingen 2022
@@ -88445,6 +88539,8 @@ sydney sweeney
 sylt
 sylvain augier
 sylvain francisco
+sylvain luc
+sylvain luc mort
 sylvain tesson
 sylvain tesson poetes
 sylvester stallone
@@ -90268,6 +90364,8 @@ viktor verhulst
 viktoria pilsen  bayern
 viktoria pilsen gegen barcelona
 viktoria pilsen gegen bayern
+viktoria pilsen gegen servette
+viktoria plzen – servette
 viktoria plzeň  inter
 vilebrequin
 villa caprice
@@ -90282,6 +90380,7 @@ villarreal – atlético madrid
 villarreal – barcelona
 villarreal – barcelone
 villarreal – manchester united
+villarreal – marseille
 villarreal – real
 villarreal – real madrid
 villarreal – rennes
@@ -90494,6 +90593,7 @@ vuurwerk knokke
 vuurwerk oostende
 vw id.7
 vw trinity
+vybz kartel
 véronique genest
 véronique jannot
 vögele shoes
@@ -90695,6 +90795,7 @@ wespen
 west ham
 west ham  gent
 west ham gegen chelsea
+west ham gegen freiburg
 west ham vs anderlecht
 west ham – anderlecht
 west ham – bournemouth
@@ -90775,6 +90876,7 @@ wikipedia
 wil film
 wilbur smith
 wilder
+wilders
 wildhaus
 wildschwein
 wilfried florentin
