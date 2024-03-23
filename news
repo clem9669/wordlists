@@ -627,6 +627,7 @@ AALST
 AALST CARNAVAL
 AALST CARNAVAL 2023
 AANSLAG ISTANBUL
+AANSLAG MOSKOU
 AANSLAGEN ZAVENTEM
 AARAU
 AARDBEVING
@@ -956,6 +957,7 @@ AFFAIRE CONCLUE
 AFFAIRE D'OUTREAU
 AFFAIRE EMILE DISPARITION
 AFFAIRE GREGORY
+AFFAIRE GRÉGORY
 AFFAIRE JUBILLAR
 AFFAIRE LOLA
 AFFAIRE MADDIE MCCANN
@@ -1338,6 +1340,7 @@ ALGERIE-CAMEROUN
 ALGERIEBurkinaFaso
 ALGÉRIE
 ALGÉRIE - DJIBOUTI
+ALGÉRIE – BOLIVIE
 ALGÉRIE – BURKINA FASO
 ALGÉRIE – CÔTE D'IVOIRE
 ALGÉRIE – GHANA
@@ -2058,6 +2061,7 @@ AQUAMATION
 AQUARIUM BERLIN
 ARABESQUE
 ARABIE SAOUDITE
+ARABIE SAOUDITE PARC DRAGON BALL
 ARAGON
 ARAIGNÉE VIOLONISTE
 ARAMBURU
@@ -2719,7 +2723,9 @@ Aalst carnaval 2023
 AalstCarnaval
 Aalstcarnaval2023
 Aanslag Istanbul
+Aanslag Moskou
 AanslagIstanbul
+AanslagMoskou
 Aanslagen Zaventem
 AanslagenZaventem
 Aarau
@@ -3166,6 +3172,7 @@ AfDAliceWeidel
 Afasie
 Affaire Conclue
 Affaire Emile disparition
+Affaire Grégory
 Affaire Jubillar
 Affaire Lola
 Affaire Maddie McCann
@@ -3178,6 +3185,7 @@ Affaire Émile grand-père
 Affaire Émile grandpère
 AffaireConclue
 AffaireEmiledisparition
+AffaireGrégory
 AffaireJubillar
 AffaireLola
 AffaireMaddieMcCann
@@ -3855,6 +3863,7 @@ Algeriesenegal
 Algérie
 Algérie  Djibouti
 Algérie - Djibouti
+Algérie – Bolivie
 Algérie – Burkina Faso
 Algérie – Côte d'Ivoire
 Algérie – Ghana
@@ -3865,6 +3874,7 @@ Algérie – Sierra Leone
 Algérie – Sénégal
 Algérie – éthiopie
 Algérie-Djibouti
+Algérie–Bolivie
 Algérie–BurkinaFaso
 Algérie–Côted'Ivoire
 Algérie–Ghana
@@ -5131,7 +5141,9 @@ Aquamation
 Aquarium Berlin
 AquariumBerlin
 Arabesque
+Arabie Saoudite parc Dragon Ball
 Arabie saoudite
+ArabieSaouditeparcDragonBall
 Arabiesaoudite
 Aragon
 Araignée violoniste
@@ -10835,6 +10847,7 @@ CECILE HERNANDEZ
 CEDEAO
 CEDRIC BAEKELAND
 CEDRIC CHOUVIAT
+CEDRIC CORNET
 CEDRIC DOUMBE
 CEDRIC GROLET BUCHE DE NOEL
 CEDRIC ITTEN
@@ -11202,6 +11215,7 @@ CHIBasel
 CHICAGO
 CHICAGO FIRE
 CHIELLINI
+CHIEN
 CHIEN DE LA CASSE
 CHIEN ET CHAT
 CHIEN SANS MUSELIÈRE TRAIN
@@ -12723,6 +12737,7 @@ CeciledeFrance
 Cedeao
 Cedric Baekeland
 Cedric Chouviat
+Cedric Cornet
 Cedric Doumbe
 Cedric Grolet buche de noel
 Cedric Itten
@@ -12734,6 +12749,7 @@ Cedric Villani
 Cedric doumbe
 CedricBaekeland
 CedricChouviat
+CedricCornet
 CedricDoumbe
 CedricGroletbuchedenoel
 CedricItten
@@ -13375,6 +13391,7 @@ Chicago
 Chicago Fire
 ChicagoFire
 Chiellini
+Chien
 Chien de la casse
 Chien et chat
 Chien sans muselière train
@@ -15922,6 +15939,7 @@ DRAFT NBA 2021
 DRAFT NBA 2022
 DRAFT NBA 2023
 DRAG QUEEN
+DRAG RACE BELGIQUE
 DRAG RACE FRANCE
 DRAG-QUEEN
 DRAGHI
@@ -17590,9 +17608,11 @@ Draft NBA 2023
 DraftNBA2021
 DraftNBA2022
 DraftNBA2023
+Drag Race Belgique
 Drag Race France
 Drag queen
 Drag-queen
+DragRaceBelgique
 DragRaceFrance
 Draghi
 Dragon Ball
@@ -18568,6 +18588,7 @@ ESPAGNE PRINCESSE LEONOR
 ESPAGNE SLOVAQUIE
 ESPAGNE SUEDE
 ESPAGNE – ALLEMAGNE
+ESPAGNE – COLOMBIE
 ESPAGNE – FRANCE
 ESPAGNE – NORVÈGE
 ESPAGNE – PORTUGAL
@@ -19937,6 +19958,7 @@ Espagne foot
 Espagne princesse Leonor
 Espagne suede
 Espagne – Allemagne
+Espagne – Colombie
 Espagne – France
 Espagne – Norvège
 Espagne – Portugal
@@ -19956,6 +19978,7 @@ Espagnefoot
 EspagneprincesseLeonor
 Espagnesuede
 Espagne–Allemagne
+Espagne–Colombie
 Espagne–France
 Espagne–Norvège
 Espagne–Portugal
@@ -24040,6 +24063,7 @@ GENT-PAOK
 GENT-WEVELGEM
 GENT-WEVELGEM 2022
 GENT-WEVELGEM 2023
+GENT-WEVELGEM 2024
 GENT-WEVELGEM LIVE
 GENTSE FEESTEN
 GENTSE FEESTEN 2022
@@ -25201,9 +25225,11 @@ Gent-PAOK
 Gent-Wevelgem
 Gent-Wevelgem 2022
 Gent-Wevelgem 2023
+Gent-Wevelgem 2024
 Gent-Wevelgem live
 Gent-Wevelgem2022
 Gent-Wevelgem2023
+Gent-Wevelgem2024
 Gent-Wevelgemlive
 GentAnderlecht
 GentAntwerp
@@ -25222,6 +25248,7 @@ GentUnion
 GentWevelgem
 GentWevelgem 2022
 GentWevelgem 2023
+GentWevelgem 2024
 GentWevelgem live
 GentWevelgem2022
 Gentse Feesten
@@ -32724,7 +32751,10 @@ KATARINA WITT
 KATARZYNA KOBRO
 KATE BUSH
 KATE MIDDLETON
+KATE MIDDLETON CANCER
 KATE MIDDLETON EUROVISION
+KATE MIDDLETON MALADIE
+KATE MIDDLETON NEWS
 KATE MOSS
 KATE RYAN
 KATE WINSLET
@@ -32915,6 +32945,7 @@ KIMCHI
 KIMI RAIKKONEN
 KIMI RÄIKKÖNEN
 KIMMICH
+KIMMY REPOND
 KIMPEMBE
 KINDER
 KINDER RAPPEL
@@ -33157,6 +33188,7 @@ KUHN RIKON
 KULeuven
 KUNG FU PANDA 4
 KUNSTHAUS ZÜRICH
+KUNSTSCHAATSEN LOENA HENDRICKX
 KURSK
 KURT
 KURT COBAIN
@@ -33441,12 +33473,18 @@ KatarzynaKobro
 Kate Bush
 Kate Middleton
 Kate Middleton Eurovision
+Kate Middleton cancer
+Kate Middleton maladie
+Kate Middleton news
 Kate Moss
 Kate Ryan
 Kate Winslet
 KateBush
 KateMiddleton
 KateMiddletonEurovision
+KateMiddletoncancer
+KateMiddletonmaladie
+KateMiddletonnews
 KateMoss
 KateRyan
 KateWinslet
@@ -33783,6 +33821,8 @@ KimiRaikkonen
 KimiRäikkönen
 Kimiraikkonen
 Kimmich
+Kimmy Repond
+KimmyRepond
 Kimpembe
 Kinder
 Kinder rappel
@@ -34144,6 +34184,8 @@ Kung Fu Panda 4
 KungFuPanda4
 Kunsthaus Zürich
 KunsthausZürich
+Kunstschaatsen Loena Hendrickx
+KunstschaatsenLoenaHendrickx
 Kursk
 Kurt
 Kurt Cobain
@@ -34733,6 +34775,7 @@ LE CHOC DES TITANS
 LE COLLIER ROUGE
 LE COLOSSE AUX PIEDS D'ARGILE
 LE CONSENTEMENT
+LE CRIME LUI VA SI BIEN
 LE DERNIER DUEL
 LE DERNIER MERCENAIRE
 LE DERNIER TRAIN DE GUN HILL
@@ -36624,6 +36667,7 @@ Le Tour du monde en 80 jours
 Le bonheur des uns
 Le collier rouge
 Le colosse aux pieds d'argile
+Le crime lui va si bien
 Le dernier duel
 Le dernier train de Gun Hill
 Le diable s'habille en Prada
@@ -36789,6 +36833,7 @@ Lecktuch
 Leclerc
 Lecollierrouge
 Lecolosseauxpiedsd'argile
+Lecrimeluivasibien
 Lectrr
 Ledernierduel
 LederniertraindeGunHill
@@ -39416,6 +39461,7 @@ MAROC : AIDES SOCIALES
 MAROC AFRIQUE DU SUD
 MAROC ALGÉRIE
 MAROC ALLEMAGNE
+MAROC ANGOLA
 MAROC BRESIL
 MAROC BURKINA FASO
 MAROC CAN
@@ -40658,10 +40704,12 @@ MORT À VENISE
 MORVAN
 MORY SACKO
 MORZINE
+MOSCOU
 MOSCOVICI
 MOSES INGRAM
 MOSES J. MOSELEY
 MOSKAU DROHNEN
+MOSKAU NEWS
 MOSKVA
 MOSKWA
 MOST WANTED
@@ -42062,6 +42110,7 @@ Maroc : aides sociales
 Maroc Afrique du Sud
 Maroc Algérie
 Maroc Allemagne
+Maroc Angola
 Maroc Burkina Faso
 Maroc CAN
 Maroc Cap-Vert
@@ -42096,6 +42145,7 @@ Maroc:aidessociales
 MarocAfriqueduSud
 MarocAlgérie
 MarocAllemagne
+MarocAngola
 MarocBurkinaFaso
 MarocCAN
 MarocCap-Vert
@@ -44314,13 +44364,16 @@ Morvan
 Mory Sacko
 MorySacko
 Morzine
+Moscou
 Moscovici
 Moses Ingram
 Moses J. Moseley
 MosesIngram
 MosesJ.Moseley
 Moskau Drohnen
+Moskau news
 MoskauDrohnen
+Moskaunews
 Moskva
 Moskwa
 Most Wanted
@@ -48946,6 +48999,7 @@ PRINSES ALEXIA FOTO'S
 PRINSES AMALIA
 PRINSES ASTRID
 PRINSES ELISABETH
+PRINSES KATE KANKER
 PRINSES MARIA LAURA
 PRINSJESDAG 2022
 PRINTEMPS
@@ -48961,6 +49015,7 @@ PRINZ HARRY
 PRINZ HARRY KRÖNUNG CHARLES
 PRINZ WILLIAM
 PRINZESSIN KATE
+PRINZESSIN KATE KREBS
 PRISCA THEVENOT
 PRISCILLA PRESLEY
 PRISE D'OTAGE
@@ -51264,12 +51319,14 @@ Prinses Alexia foto's
 Prinses Amalia
 Prinses Astrid
 Prinses Elisabeth
+Prinses Kate kanker
 Prinses Maria Laura
 PrinsesAlexia
 PrinsesAlexiafoto's
 PrinsesAmalia
 PrinsesAstrid
 PrinsesElisabeth
+PrinsesKatekanker
 PrinsesMariaLaura
 Prinsjesdag 2022
 Prinsjesdag2022
@@ -51297,7 +51354,9 @@ PrinzHarry
 PrinzHarryKrönungCharles
 PrinzWilliam
 Prinzessin Kate
+Prinzessin Kate Krebs
 PrinzessinKate
+PrinzessinKateKrebs
 Prisca Thevenot
 Prisca thevenot
 PriscaThevenot
@@ -54640,6 +54699,7 @@ RoyalRumble2024
 RoyaldeLuxeNantes
 Royaume-Uni
 RoyaumeUni
+Rt
 Ruag
 Ruanda
 Ruben
@@ -59926,6 +59986,7 @@ SÉISME NÉPAL
 SÉISME PHILIPPINES
 SÉNÉGAL OUSMANE SONKO
 SÉNÉGAL – BÉNIN
+SÉNÉGAL – GABON
 SÉNÉGAL – GAMBIA
 SÉNÉGAL – GUINÉE
 SÉNÉGAL – GUINÉE ÉQUATORIALE
@@ -59978,6 +60039,7 @@ SéismeNépal
 SéismePhilippines
 Sénégal Ousmane Sonko
 Sénégal – Bénin
+Sénégal – Gabon
 Sénégal – Guinée
 Sénégal – Guinée équatoriale
 Sénégal – Madagascar
@@ -59988,6 +60050,7 @@ Sénégal, Ousmane Sonko
 Sénégal,OusmaneSonko
 SénégalOusmaneSonko
 Sénégal–Bénin
+Sénégal–Gabon
 Sénégal–Guinée
 Sénégal–Guinéeéquatoriale
 Sénégal–Madagascar
@@ -67970,6 +68033,7 @@ aalst
 aalst carnaval
 aalst carnaval 2023
 aanslag istanbul
+aanslag moskou
 aanslagen zaventem
 aarau
 aardbeving
@@ -68245,6 +68309,7 @@ affaire conclue
 affaire d'outreau
 affaire emile disparition
 affaire gregory
+affaire grégory
 affaire jubillar
 affaire lola
 affaire maddie mccann
@@ -68616,6 +68681,7 @@ algerie tanzanie
 algerie tunisie
 algérie
 algérie - djibouti
+algérie – bolivie
 algérie – burkina faso
 algérie – côte d'ivoire
 algérie – ghana
@@ -69324,6 +69390,7 @@ aquamation
 aquarium berlin
 arabesque
 arabie saoudite
+arabie saoudite parc dragon ball
 aragon
 araignée violoniste
 aramburu
@@ -71849,6 +71916,7 @@ cecile hernandez
 cedeao
 cedric baekeland
 cedric chouviat
+cedric cornet
 cedric doumbe
 cedric grolet buche de noel
 cedric itten
@@ -72207,6 +72275,7 @@ chiaraferragni
 chicago
 chicago fire
 chiellini
+chien
 chien de la casse
 chien et chat
 chien sans muselière train
@@ -73976,6 +74045,7 @@ draft nba 2021
 draft nba 2022
 draft nba 2023
 drag queen
+drag race belgique
 drag race france
 drag-queen
 draghi
@@ -74756,6 +74826,7 @@ espagne princesse leonor
 espagne slovaquie
 espagne suede
 espagne – allemagne
+espagne – colombie
 espagne – france
 espagne – norvège
 espagne – portugal
@@ -76471,6 +76542,7 @@ gent-paok
 gent-wevelgem
 gent-wevelgem 2022
 gent-wevelgem 2023
+gent-wevelgem 2024
 gent-wevelgem live
 gentse feesten
 gentse feesten 2022
@@ -79541,7 +79613,10 @@ katarina witt
 katarzyna kobro
 kate bush
 kate middleton
+kate middleton cancer
 kate middleton eurovision
+kate middleton maladie
+kate middleton news
 kate moss
 kate ryan
 kate winslet
@@ -79730,6 +79805,7 @@ kimchi
 kimi raikkonen
 kimi räikkönen
 kimmich
+kimmy repond
 kimpembe
 kinder
 kinder rappel
@@ -79962,6 +80038,7 @@ kuh im zug
 kuhn rikon
 kung fu panda 4
 kunsthaus zürich
+kunstschaatsen loena hendrickx
 kursk
 kurt
 kurt cobain
@@ -80428,6 +80505,7 @@ le choc des titans
 le collier rouge
 le colosse aux pieds d'argile
 le consentement
+le crime lui va si bien
 le dernier duel
 le dernier mercenaire
 le dernier train de gun hill
@@ -82277,6 +82355,7 @@ maroc : aides sociales
 maroc afrique du sud
 maroc algérie
 maroc allemagne
+maroc angola
 maroc bresil
 maroc burkina faso
 maroc can
@@ -83505,10 +83584,12 @@ mort à venise
 morvan
 mory sacko
 morzine
+moscou
 moscovici
 moses ingram
 moses j. moseley
 moskau drohnen
+moskau news
 moskva
 moskwa
 most wanted
@@ -85913,6 +85994,7 @@ prinses alexia foto's
 prinses amalia
 prinses astrid
 prinses elisabeth
+prinses kate kanker
 prinses maria laura
 prinsjesdag 2022
 printemps
@@ -85928,6 +86010,7 @@ prinz harry
 prinz harry krönung charles
 prinz william
 prinzessin kate
+prinzessin kate krebs
 prisca thevenot
 priscilla presley
 prise d'otage
@@ -89149,6 +89232,7 @@ séisme népal
 séisme philippines
 sénégal ousmane sonko
 sénégal – bénin
+sénégal – gabon
 sénégal – gambia
 sénégal – guinée
 sénégal – guinée équatoriale
