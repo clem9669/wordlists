@@ -222,6 +222,7 @@
 1ER AOUT FETE
 1ER AOUT SUISSE
 1ER AOÛT
+1ER AVRIL
 1ER FÉVRIER
 1ER MAI
 1ER MAI FÉRIÉ
@@ -240,6 +241,7 @@
 1er aout fete
 1er aout suisse
 1er août
+1er avril
 1er février
 1er mai
 1er mai férié
@@ -256,6 +258,7 @@
 1eraoutfete
 1eraoutsuisse
 1eraoût
+1eravril
 1erfévrier
 1ermai
 1ermaiférié
@@ -2644,6 +2647,7 @@ AVALANCHE CONTAMINES
 AVALANCHE CONTAMINES-MONTJOIE
 AVALANCHE MONT-DORE
 AVALANCHE SAINT-GERVAIS
+AVALANCHE ZERMATT
 AVATAR
 AVATAR 2
 AVATAR 3
@@ -6089,11 +6093,13 @@ Avalanche Mont-Dore
 Avalanche MontDore
 Avalanche Saint-Gervais
 Avalanche SaintGervais
+Avalanche Zermatt
 AvalancheAutriche
 AvalancheContamines
 AvalancheContamines-Montjoie
 AvalancheMont-Dore
 AvalancheSaint-Gervais
+AvalancheZermatt
 Avatar
 Avatar 2
 Avatar 3
@@ -6355,6 +6361,7 @@ BARBARA LuTHI
 BARBARA OPSOMER
 BARBARA POMPILI
 BARBARA PRAVI
+BARBARA RUSH
 BARBARA SARAFIAN
 BARBARA SCHÖNEBERGER
 BARBARA WALTERS
@@ -6942,6 +6949,7 @@ BESSÈGES
 BEST KEPT SECRET
 BEST KEPT SECRET 2022
 BEST KEPT SECRET 2024
+BESTEN APRILSCHERZE
 BESTMILE
 BESTSMILE
 BETH MEAD
@@ -8046,6 +8054,7 @@ Barbara Luthi
 Barbara Opsomer
 Barbara Pompili
 Barbara Pravi
+Barbara Rush
 Barbara Sarafian
 Barbara Schöneberger
 Barbara Walters
@@ -8055,6 +8064,7 @@ BarbaraLuthi
 BarbaraOpsomer
 BarbaraPompili
 BarbaraPravi
+BarbaraRush
 BarbaraSarafian
 BarbaraSchöneberger
 BarbaraWalters
@@ -9082,6 +9092,8 @@ Best Kept Secret 2024
 BestKeptSecret
 BestKeptSecret2022
 BestKeptSecret2024
+Besten Aprilscherze
+BestenAprilscherze
 Bestmile
 Bestsmile
 Beth Mead
@@ -15174,6 +15186,7 @@ DAG VAN DE ZORG 2024
 DAG VAN NATIONALE ROUW
 DAGESTAN
 DAGMAR ROSENFELD
+DAGSMEJAN
 DAHBIA B
 DAHLIA SKY
 DAHMER
@@ -16211,6 +16224,7 @@ Dag van nationale rouw
 Dagestan
 Dagmar Rosenfeld
 DagmarRosenfeld
+Dagsmejan
 DagtegenKanker
 DagvandeAarde
 DagvandeAmbachten
@@ -18411,6 +18425,7 @@ EMILE
 EMILE DALLE BETON
 EMILE DARAI GYNÉCOLOGUE
 EMILE DISPARITION
+EMILE DISPARITION OSSEMENTS PETIT EMILE
 EMILE DISPARU
 EMILE FRANKRIJK
 EMILIA CLARKE
@@ -19619,12 +19634,14 @@ Emile Frankrijk
 Emile dalle beton
 Emile darai gynécologue
 Emile disparition
+Emile disparition ossements petit Emile
 Emile disparu
 EmileDisparition
 EmileFrankrijk
 Emiledallebeton
 Emiledaraigynécologue
 Emiledisparition
+EmiledisparitionossementspetitEmile
 Emiledisparu
 Emilia Clarke
 Emilia Romagna
@@ -24152,6 +24169,7 @@ GEN Z
 GENDARMERIE
 GENDER
 GENE BERVOETS
+GENE HACKMAN
 GENEANET
 GENERAL ELECTRIC
 GENERALSTREIK ITALIEN
@@ -24256,6 +24274,7 @@ GEORGES FENECH
 GEORGES KIEJMAN
 GEORGES MIKAUTADZE
 GEORGES PEREC
+GEORGES POMPIDOU
 GEORGES SEURAT
 GEORGES TRON
 GEORGES-ALAIN (STAR ACADEMY
@@ -24672,6 +24691,7 @@ GRASPOP 2023
 GRASPOP LINE-UP
 GRASSE
 GRASSHOPPERS GEGEN FCB
+GRASSHOPPERS GEGEN LAUSANNE-SPORT
 GRATTE-CIEL CHINE INCENDIE
 GRAVEL
 GRAVELINES
@@ -24737,6 +24757,7 @@ GREVE 19 JANVIER
 GREVE 19 JANVIER 2023
 GREVE 1ER FEVRIER
 GREVE 1ER FEVRIER 2024
+GREVE 2 AVRIL
 GREVE 20 AVRIL 2023
 GREVE 22 AVRIL 2022
 GREVE 24 SEPTEMBRE 2021
@@ -24772,6 +24793,7 @@ GREVE JEUDI 13 JANVIER
 GREVE JEUDI 6 AVRIL
 GREVE LABORATOIRE
 GREVE MARDI
+GREVE MARDI 2 AVRIL 2024
 GREVE MARDI 28 MARS
 GREVE MEDECIN
 GREVE NATIONALE
@@ -25269,7 +25291,9 @@ GenZ
 Gendarmerie
 Gender
 Gene Bervoets
+Gene Hackman
 GeneBervoets
+GeneHackman
 Geneanet
 General Electric
 GeneralElectric
@@ -25467,6 +25491,7 @@ Georges Fenech
 Georges Kiejman
 Georges Mikautadze
 Georges Perec
+Georges Pompidou
 Georges Seurat
 Georges Tron
 Georges-Alain (Star Academy
@@ -25481,6 +25506,7 @@ GeorgesKiejman
 GeorgesLouis Bouchez
 GeorgesMikautadze
 GeorgesPerec
+GeorgesPompidou
 GeorgesSeurat
 GeorgesTron
 Georgia Guidestones
@@ -26098,7 +26124,10 @@ Graspop2023
 Graspopline-up
 Grasse
 Grasshoppers gegen FCB
+Grasshoppers gegen Lausanne-Sport
+Grasshoppers gegen LausanneSport
 GrasshoppersgegenFCB
+GrasshoppersgegenLausanne-Sport
 Gratte-ciel Chine incendie
 Gratte-cielChineincendie
 Gratteciel Chine incendie
@@ -26199,6 +26228,7 @@ Greve 19 janvier
 Greve 19 janvier 2023
 Greve 1er fevrier
 Greve 1er fevrier 2024
+Greve 2 avril
 Greve 20 avril 2023
 Greve 22 avril 2022
 Greve 24 septembre 2021
@@ -26241,6 +26271,7 @@ Greve jeudi 13 janvier
 Greve jeudi 6 avril
 Greve laboratoire
 Greve mardi
+Greve mardi 2 avril 2024
 Greve mardi 28 mars
 Greve medecin
 Greve nationale
@@ -26266,6 +26297,7 @@ Greve27avril2023
 Greve27janvier2022
 Greve27octobre2022
 Greve29septembre
+Greve2avril
 Greve31janvier
 Greve31janvier2023
 Greve31mai
@@ -26302,6 +26334,7 @@ Grevejeudi6avril
 Grevelaboratoire
 Grevemardi
 Grevemardi28mars
+Grevemardi2avril2024
 Grevemedecin
 Grevenationale
 Grevevendredi13octobre
@@ -30713,6 +30746,7 @@ JUPILER PRO
 JUPILER PRO LEAGUE
 JUPILER PRO LEAGUE 2021
 JUPILER PRO LEAGUE 2022
+JUPILER PRO LEAGUE PLAYOFFS
 JUPITER EN VENUS
 JURA
 JURA SUD – AJACCIO
@@ -32585,6 +32619,7 @@ Jupiler Pro
 Jupiler Pro League
 Jupiler Pro League 2021
 Jupiler Pro League 2022
+Jupiler Pro League Playoffs
 Jupiler pro
 Jupiler pro League
 JupilerLeague
@@ -32592,6 +32627,7 @@ JupilerPro
 JupilerProLeague
 JupilerProLeague2021
 JupilerProLeague2022
+JupilerProLeaguePlayoffs
 Jupilerpro
 JupilerproLeague
 Jupiter en Venus
@@ -35022,6 +35058,7 @@ LE GARCON ET LE HERON
 LE GENDARME DE SAINT-TROPEZ
 LE GENDRE DE MA VIE
 LE GOUT DE VIVRE
+LE GOUT DES MERVEILLES
 LE GRAND BAIN
 LE GRAND CACTUS
 LE GRAND JOJO
@@ -36925,6 +36962,7 @@ Le flambeau streaming
 Le garcon et le heron
 Le gendre de ma vie
 Le gout de vivre
+Le gout des merveilles
 Le guepard
 Le jardin des Finzi-Contini
 Le jardin des FinziContini
@@ -37136,6 +37174,7 @@ LegoTitanic
 Legoland
 Legoland belgie
 Legolandbelgie
+Legoutdesmerveilles
 Legoutdevivre
 Leguepard
 Lehmann
@@ -39868,6 +39907,7 @@ MARTINIQUE GENDARME CAF RSA
 MARTINSTAG
 MARTULLO-BLOCHER
 MARTY
+MARVIN GAYE
 MARWAN BERRENI
 MARWAN BERRENI DISPARITION
 MARWAN BERRENI DISPARITION INQUIÉTANTE
@@ -39884,6 +39924,7 @@ MARY QUANT
 MARY ROOS
 MARYNA ZANEVSKA
 MARYSE BURGOT
+MARYSE CONDÉ
 MARYSE WOLINSKI
 MARÍTIMO  PORTO
 MASCARADE
@@ -42682,6 +42723,8 @@ Martinstag
 Martullo-Blocher
 MartulloBlocher
 Marty
+Marvin Gaye
+MarvinGaye
 Marwan Berreni
 Marwan Berreni Disparition inquiétante
 Marwan Berreni Plus belle la vie
@@ -42712,8 +42755,10 @@ Maryatoutprix
 Maryna Zanevska
 MarynaZanevska
 Maryse Burgot
+Maryse Condé
 Maryse Wolinski
 MaryseBurgot
+MaryseCondé
 MaryseWolinski
 Marítimo  Porto
 MarítimoPorto
@@ -48448,6 +48493,7 @@ PASCAL LAROCHE
 PASCAL MARTINOT-LAGARDE
 PASCAL OBISPO
 PASCAL PERIZ
+PASCAL PERRINEAU
 PASCAL PRAUD
 PASCAL SMET
 PASCALE DE LA TOUR DU PIN
@@ -50120,6 +50166,7 @@ Pascal Martinot-Lagarde
 Pascal MartinotLagarde
 Pascal Obispo
 Pascal Periz
+Pascal Perrineau
 Pascal Praud
 Pascal Smet
 Pascal elbe
@@ -50133,6 +50180,7 @@ PascalLaroche
 PascalMartinot-Lagarde
 PascalObispo
 PascalPeriz
+PascalPerrineau
 PascalPraud
 PascalSmet
 Pascale Naessens
@@ -55426,6 +55474,7 @@ SAINT-MALO
 SAINT-MARIN – ANGLETERRE
 SAINT-MARTIN
 SAINT-MARTIN-DE-LONDRES
+SAINT-MARTIN-LA-PLAINE
 SAINT-MICHEL
 SAINT-NICOLAS
 SAINT-NICOLAS!
@@ -56803,6 +56852,7 @@ STEFAN KÜNG
 STEFAN MROSS
 STEFAN MROSS UND ANNA-CARINA WOITSCHACK
 STEFAN PERCEVAL
+STEFAN RAAB
 STEFAN REICHMUTH
 STEFAN ROGENTIN
 STEFANIE FLECKENSTEIN
@@ -57362,6 +57412,7 @@ Saint-Marin – Angleterre
 Saint-Marin–Angleterre
 Saint-Martin
 Saint-Martin-de-Londres
+Saint-Martin-la-Plaine
 Saint-Michel
 Saint-Nicolas
 Saint-Nicolas!
@@ -57435,6 +57486,7 @@ SaintMalo
 SaintMarin – Angleterre
 SaintMartin
 SaintMartindeLondres
+SaintMartinlaPlaine
 SaintMichel
 SaintNicolas
 SaintNicolas!
@@ -59627,6 +59679,7 @@ Stefan Mross
 Stefan Mross und Anna-Carina Woitschack
 Stefan Mross und AnnaCarina Woitschack
 Stefan Perceval
+Stefan Raab
 Stefan Reichmuth
 Stefan Rogentin
 StefanBanach
@@ -59636,6 +59689,7 @@ StefanKüng
 StefanMross
 StefanMrossundAnna-CarinaWoitschack
 StefanPerceval
+StefanRaab
 StefanReichmuth
 StefanRogentin
 Stefanie Fleckenstein
@@ -61429,6 +61483,7 @@ TOUREIFFEL
 TOURETTE
 TOURISTE FRANCAISE OURS POLAIRE
 TOURMALET
+TOURNAI
 TOURNOI DE FRANCE
 TOURNOI DES 6 NATIONS
 TOURNOI DES 6 NATIONS 2022
@@ -63351,6 +63406,7 @@ Tourette
 Touriste francaise ours polaire
 Touristefrancaiseourspolaire
 Tourmalet
+Tournai
 Tournoi de France
 Tournoi des 6 Nations
 Tournoi des 6 Nations 2022
@@ -64819,6 +64875,7 @@ VERMISSTE JOURNALISTIN
 VERMISSTE SKITOURENGÄNGER ZERMATT
 VERMISSTENFALL REBECCA REUSCH
 VERMISSTES KIND BINGEN SIGMARINGEN
+VERMISTE FRANSE PEUTER EMILE
 VERNON
 VERONA  JUVENTUS
 VERONA POOTH
@@ -64907,6 +64964,7 @@ VIGILANCEORANGEORAGES
 VIGNETTE 2022
 VIGNETTE AUTOROUTE SUISSE
 VIGNETTE CRIT'AIR
+VIGNETTE VERTE
 VIKING POLARIS
 VIKINGS : VALHALLA
 VIKINGS: VALHALLA
@@ -65534,6 +65592,8 @@ Vermisstenfall Rebecca Reusch
 VermisstenfallRebeccaReusch
 Vermisstes Kind Bingen Sigmaringen
 VermisstesKindBingenSigmaringen
+Vermiste Franse peuter Emile
+VermisteFransepeuterEmile
 Vernon
 Verona  Juventus
 Verona Pooth
@@ -65682,9 +65742,11 @@ Vigilancerougepluie-inondation
 Vignette 2022
 Vignette Crit'Air
 Vignette autoroute suisse
+Vignette verte
 Vignette2022
 VignetteCrit'Air
 Vignetteautoroutesuisse
+Vignetteverte
 Viking Polaris
 VikingPolaris
 Vikings : Valhalla
@@ -66615,6 +66677,7 @@ WOLFENSCHIESSEN
 WOLFGANG JOOP
 WOLFGANG PETERSEN
 WOLFGANG SCHÄUBLE
+WOLFGANG WIENAND
 WOLFSBOURG – BAYERN
 WOLFSBURG GEGEN BAYERN
 WOLFSBURG GEGEN DORTMUND
@@ -67341,9 +67404,11 @@ Wolfenschiessen
 Wolfgang Joop
 Wolfgang Petersen
 Wolfgang Schäuble
+Wolfgang Wienand
 WolfgangJoop
 WolfgangPetersen
 WolfgangSchäuble
+WolfgangWienand
 Wolfsbourg – Bayern
 Wolfsbourg–Bayern
 Wolfsburg gegen Bayern
@@ -70378,6 +70443,7 @@ avalanche contamines
 avalanche contamines-montjoie
 avalanche mont-dore
 avalanche saint-gervais
+avalanche zermatt
 avatar
 avatar 2
 avatar 3
@@ -70579,6 +70645,7 @@ barbara luthi
 barbara opsomer
 barbara pompili
 barbara pravi
+barbara rush
 barbara sarafian
 barbara schöneberger
 barbara walters
@@ -71156,6 +71223,7 @@ bessèges
 best kept secret
 best kept secret 2022
 best kept secret 2024
+besten aprilscherze
 bestmile
 bestsmile
 beth mead
@@ -73724,6 +73792,7 @@ dag van de zorg 2024
 dag van nationale rouw
 dagestan
 dagmar rosenfeld
+dagsmejan
 dahbia b
 dahlia sky
 dahmer
@@ -75057,6 +75126,7 @@ emile
 emile dalle beton
 emile darai gynécologue
 emile disparition
+emile disparition ossements petit emile
 emile disparu
 emile frankrijk
 emilia clarke
@@ -76980,6 +77050,7 @@ gen z
 gendarmerie
 gender
 gene bervoets
+gene hackman
 geneanet
 general electric
 generalstreik italien
@@ -77084,6 +77155,7 @@ georges fenech
 georges kiejman
 georges mikautadze
 georges perec
+georges pompidou
 georges seurat
 georges tron
 georges-alain (star academy
@@ -77457,6 +77529,7 @@ graspop 2023
 graspop line-up
 grasse
 grasshoppers gegen fcb
+grasshoppers gegen lausanne-sport
 gratte-ciel chine incendie
 gravel
 gravelines
@@ -77522,6 +77595,7 @@ greve 19 janvier
 greve 19 janvier 2023
 greve 1er fevrier
 greve 1er fevrier 2024
+greve 2 avril
 greve 20 avril 2023
 greve 22 avril 2022
 greve 24 septembre 2021
@@ -77557,6 +77631,7 @@ greve jeudi 13 janvier
 greve jeudi 6 avril
 greve laboratoire
 greve mardi
+greve mardi 2 avril 2024
 greve mardi 28 mars
 greve medecin
 greve nationale
@@ -79892,6 +79967,7 @@ jupiler pro
 jupiler pro league
 jupiler pro league 2021
 jupiler pro league 2022
+jupiler pro league playoffs
 jupiter en venus
 jura
 jura sud – ajaccio
@@ -81059,6 +81135,7 @@ le garcon et le heron
 le gendarme de saint-tropez
 le gendre de ma vie
 le gout de vivre
+le gout des merveilles
 le grand bain
 le grand cactus
 le grand jojo
@@ -83047,6 +83124,7 @@ martinique gendarme caf rsa
 martinstag
 martullo-blocher
 marty
+marvin gaye
 marwan berreni
 marwan berreni disparition
 marwan berreni disparition inquiétante
@@ -83063,6 +83141,7 @@ mary quant
 mary roos
 maryna zanevska
 maryse burgot
+maryse condé
 maryse wolinski
 marítimo  porto
 mascarade
@@ -85711,6 +85790,7 @@ pascal laroche
 pascal martinot-lagarde
 pascal obispo
 pascal periz
+pascal perrineau
 pascal praud
 pascal smet
 pascale de la tour du pin
@@ -88071,6 +88151,7 @@ saint-malo
 saint-marin – angleterre
 saint-martin
 saint-martin-de-londres
+saint-martin-la-plaine
 saint-michel
 saint-nicolas
 saint-nicolas!
@@ -89381,6 +89462,7 @@ stefan küng
 stefan mross
 stefan mross und anna-carina woitschack
 stefan perceval
+stefan raab
 stefan reichmuth
 stefan rogentin
 stefanie fleckenstein
@@ -90773,6 +90855,7 @@ toureiffel
 tourette
 touriste francaise ours polaire
 tourmalet
+tournai
 tournoi de france
 tournoi des 6 nations
 tournoi des 6 nations 2022
@@ -91534,6 +91617,7 @@ vermisste journalistin
 vermisste skitourengänger zermatt
 vermisstenfall rebecca reusch
 vermisstes kind bingen sigmaringen
+vermiste franse peuter emile
 vernon
 verona  juventus
 verona pooth
@@ -91622,6 +91706,7 @@ vigilanceorangeorages
 vignette 2022
 vignette autoroute suisse
 vignette crit'air
+vignette verte
 viking polaris
 vikings : valhalla
 vikings: valhalla
@@ -92296,6 +92381,7 @@ wolfenschiessen
 wolfgang joop
 wolfgang petersen
 wolfgang schäuble
+wolfgang wienand
 wolfsbourg – bayern
 wolfsburg gegen bayern
 wolfsburg gegen dortmund
