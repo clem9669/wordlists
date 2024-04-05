@@ -56,9 +56,7 @@ The current specs for Github Actions VM is 2-core CPU; 7 GB of RAM memory; 14 GB
 
 ### Web discovery
 
-In the folder **WEB**, you can found a wordlist for pentesting purpose which is design to find resources for french people too. 
-
-Read more at [WEB_readme](https://github.com/clem9669/wordlists/blob/master/Web/README.md)
+In the following [clem9669/weblist](https://github.com/clem9669/weblist), you can found a wordlist for pentesting purpose which is design to find resources for french people too. 
 
 ### Built with
 The main part of the list come from various places of internet but many thanks to :
