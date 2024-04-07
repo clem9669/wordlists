@@ -1314,6 +1314,7 @@ ALEXIA PUTELLAS
 ALEXIS BEKA BEKA
 ALEXIS CORBIÈRE
 ALEXIS FLIPS
+ALEXIS GRUSS
 ALEXIS JANDARD
 ALEXIS KOHLER
 ALEXIS LEBRUN
@@ -3836,6 +3837,7 @@ AlexiaPutellas
 Alexis Beka Beka
 Alexis Corbière
 Alexis Flips
+Alexis Gruss
 Alexis Jandard
 Alexis Kohler
 Alexis Lebrun
@@ -3845,6 +3847,7 @@ Alexis Sanchez
 AlexisBekaBeka
 AlexisCorbière
 AlexisFlips
+AlexisGruss
 AlexisJandard
 AlexisKohler
 AlexisLebrun
@@ -15583,6 +15586,7 @@ DEMO ZÜRICH
 DEMON SLAYER
 DEMONSTRATION ZÜRICH
 DEN HAAG
+DENDER
 DENDERMONDE
 DENEUVE
 DENGUE
@@ -16928,6 +16932,7 @@ Demonstration Zürich
 DemonstrationZürich
 Den Haag
 DenHaag
+Dender
 Dendermonde
 Deneuve
 Dengue
@@ -18464,6 +18469,7 @@ EMILE DISPARITION
 EMILE DISPARITION OSSEMENTS PETIT EMILE
 EMILE DISPARU
 EMILE FRANKRIJK
+EMILE HAUT-VERNET
 EMILIA CLARKE
 EMILIA ROMAGNA
 EMILIA-ROMAGNA
@@ -19668,6 +19674,8 @@ EmilSteinberger
 Emile
 Emile Disparition
 Emile Frankrijk
+Emile Haut-Vernet
+Emile HautVernet
 Emile dalle beton
 Emile darai gynécologue
 Emile disparition
@@ -19675,6 +19683,7 @@ Emile disparition ossements petit Emile
 Emile disparu
 EmileDisparition
 EmileFrankrijk
+EmileHaut-Vernet
 Emiledallebeton
 Emiledaraigynécologue
 Emiledisparition
@@ -20677,10 +20686,14 @@ F1 CLASSEMENT
 F1 Canada
 F1 FRANCE
 F1 France
+F1 GP JAPON
+F1 GP Japon
 F1 IMOLA 2022
 F1 Imola 2022
 F1 JAPAN
+F1 JAPON
 F1 Japan
+F1 Japon
 F1 LAS VEGAS
 F1 LIVE
 F1 Las Vegas
@@ -20744,8 +20757,10 @@ F1Bahrain
 F1Bahrein
 F1Canada
 F1France
+F1GPJapon
 F1Imola2022
 F1Japan
+F1Japon
 F1LasVegas
 F1Mexico
 F1Mexique
@@ -26981,6 +26996,7 @@ HEIDE KELLER
 HEIDELBERG
 HEIDELINDE WEIS
 HEIDENHEIM
+HEIDENHEIM GEGEN BAYERN
 HEIDENHEIM GEGEN DORTMUND
 HEIDENHEIM GEGEN HSV
 HEIDENHEIM GEGEN LEVERKUSEN
@@ -27672,9 +27688,11 @@ Heidelberg
 Heidelinde Weis
 HeidelindeWeis
 Heidenheim
+Heidenheim gegen Bayern
 Heidenheim gegen Dortmund
 Heidenheim gegen HSV
 Heidenheim gegen Leverkusen
+HeidenheimgegenBayern
 HeidenheimgegenDortmund
 HeidenheimgegenHSV
 HeidenheimgegenLeverkusen
@@ -30231,6 +30249,7 @@ JEAN-RENÉ CAZENEUVE CYRIELLE CHATELAIN
 JEAN-VINCENT PLACÉ
 JEAN-YVES LAMBERT
 JEAN-YVES LE DRIAN
+JEAN-YVES LE FUR
 JEANFI JANSSENS
 JEANJEAN
 JEANJEAN TENNIS
@@ -30438,6 +30457,7 @@ JODY SCHECKTER
 JOE
 JOE BARONE
 JOE BIDEN
+JOE BONAMASSA
 JOE BURROW
 JOE COCKER
 JOE DASSIN
@@ -31541,8 +31561,10 @@ Jean-Vincent Placé
 Jean-VincentPlacé
 Jean-Yves Lambert
 Jean-Yves Le Drian
+Jean-Yves Le Fur
 Jean-YvesLambert
 Jean-YvesLeDrian
+Jean-YvesLeFur
 JeanAlesi
 JeanBaptiste Boursier
 JeanBaptiste Maunier
@@ -31637,6 +31659,7 @@ JeanTodt
 JeanVincent Placé
 JeanYves Lambert
 JeanYves Le Drian
+JeanYves Le Fur
 Jeanfi Janssens
 JeanfiJanssens
 JeanfrancoisStevenin
@@ -32011,6 +32034,7 @@ JodyScheckter
 Joe
 Joe Barone
 Joe Biden
+Joe Bonamassa
 Joe Burrow
 Joe Cocker
 Joe Dassin
@@ -32024,6 +32048,7 @@ Joe Top 2000
 Joe Veleno
 JoeBarone
 JoeBiden
+JoeBonamassa
 JoeBurrow
 JoeCocker
 JoeDassin
@@ -34973,6 +34998,7 @@ LARS VOGT
 LARTOT
 LARZAC
 LAS VEGAS
+LAS VEGAS 21
 LASCHET
 LASK
 LASK LINZ
@@ -35333,6 +35359,7 @@ LENS – BORDEAUX
 LENS – BREST
 LENS – CLERMONT
 LENS – INTER
+LENS – LE HAVRE
 LENS – LILLE
 LENS – LORIENT
 LENS – LYON
@@ -35931,6 +35958,7 @@ LOSC
 LOST ARK
 LOST ARK STEAM
 LOST FREQUENCIES
+LOST IN FUSETA
 LOSTPROPHETS
 LOTERIE NATIONALE
 LOTERIE ROMANDE
@@ -36202,6 +36230,7 @@ LUXEMBURG
 LUZ
 LUZERN
 LUZERN GEGEN FCB
+LUZERN GEGEN LAUSANNE-SPORT
 LUZERN GEGEN ST. GALLEN
 LUZERN GEGEN WINTERTHUR
 LUZERN LIVE
@@ -36726,7 +36755,9 @@ LarsvanderHaar
 Lartot
 Larzac
 Las Vegas
+Las Vegas 21
 LasVegas
+LasVegas21
 Laschet
 Lasoupeauxchoux
 Lasse Wellander
@@ -37356,6 +37387,7 @@ Lens – Bordeaux
 Lens – Brest
 Lens – Clermont
 Lens – Inter
+Lens – Le Havre
 Lens – Lille
 Lens – Lorient
 Lens – Lyon
@@ -37393,6 +37425,7 @@ Lens–Bordeaux
 Lens–Brest
 Lens–Clermont
 Lens–Inter
+Lens–LeHavre
 Lens–Lille
 Lens–Lorient
 Lens–Lyon
@@ -38479,9 +38512,11 @@ LosAngeles
 Lost Ark
 Lost Ark Steam
 Lost Frequencies
+Lost in Fuseta
 LostArk
 LostArkSteam
 LostFrequencies
+LostinFuseta
 Lostprophets
 Loterie Nationale
 Loterie Romande
@@ -38957,6 +38992,8 @@ Luzern Live
 Luzern Marathon 2021
 Luzern Schaffhausen
 Luzern gegen FCB
+Luzern gegen Lausanne-Sport
+Luzern gegen LausanneSport
 Luzern gegen St. Gallen
 Luzern gegen Winterthur
 LuzernLive
@@ -38969,6 +39006,7 @@ LuzernerFasnacht
 LuzernerStadtlauf
 LuzernerZeitung
 LuzerngegenFCB
+LuzerngegenLausanne-Sport
 LuzerngegenSt.Gallen
 LuzerngegenWinterthur
 Luzia Tschirky SRF
@@ -39574,6 +39612,7 @@ MARATHON DE PARIS
 MARATHON DE PARIS 2021
 MARATHON DE PARIS 2021 PARCOURS
 MARATHON DE PARIS 2023
+MARATHON DE PARIS 2024
 MARATHON DE VALENCE
 MARATHON EINDHOVEN
 MARATHON GENEVE
@@ -40133,6 +40172,7 @@ MATTHEW TYLER VORCE
 MATTHEWPERRY
 MATTHIAS AEBISCHER
 MATTHIAS CASSE
+MATTHIAS KYBURZ
 MATTHIAS MAYER
 MATTHIAS REIM
 MATTHIAS SCHOENAERTS
@@ -41191,6 +41231,7 @@ MUSEUMSNACHT BERN
 MUSIALA
 MUSIG I DE ALTSTADT
 MUSIQUE DE NOEL
+MUSTAFA ATICI
 MUSTII
 MUTTENZ
 MUTTERTAG
@@ -42023,6 +42064,7 @@ Marathon de Paris
 Marathon de Paris 2021
 Marathon de Paris 2021 parcours
 Marathon de Paris 2023
+Marathon de Paris 2024
 Marathon de Valence
 Marathon geneve
 Marathon tokyo
@@ -42047,6 +42089,7 @@ MarathondeParis
 MarathondeParis2021
 MarathondeParis2021parcours
 MarathondeParis2023
+MarathondeParis2024
 MarathondeValence
 Marathongeneve
 Marathontokyo
@@ -43073,6 +43116,7 @@ MatthewStafford
 MatthewTylerVorce
 Matthias Aebischer
 Matthias Casse
+Matthias Kyburz
 Matthias Mayer
 Matthias Reim
 Matthias Schoenaerts
@@ -43080,6 +43124,7 @@ Matthias Schweighöfer
 Matthias Sempach
 MatthiasAebischer
 MatthiasCasse
+MatthiasKyburz
 MatthiasMayer
 MatthiasReim
 MatthiasSchoenaerts
@@ -44928,6 +44973,8 @@ Musig i de Altstadt
 MusigideAltstadt
 Musique de noel
 Musiquedenoel
+Mustafa Atici
+MustafaAtici
 Mustii
 Muttenz
 Muttertag
@@ -48501,6 +48548,7 @@ PARIS FC – SAINT-ÉTIENNE
 PARIS GAMES WEEK
 PARIS HILTON
 PARIS JACKSON
+PARIS MARATHON 2024
 PARIS MATCH
 PARIS NEWS
 PARIS SAINT GERMAIN
@@ -48889,6 +48937,7 @@ PETER KRAUS
 PETER MAFFAY
 PETER NYGARD
 PETER PANNEKOEK
+PETER PELLEGRINI
 PETER PIOT
 PETER R. DE VRIES
 PETER REBER
@@ -48897,6 +48946,7 @@ PETER SAGAN
 PETER SCOLARI
 PETER SELLERS
 PETER SIMONISCHEK
+PETER SODANN
 PETER SPUHLER STADLER RAIL
 PETER STUDER
 PETER THIEL
@@ -50047,6 +50097,7 @@ Paris FC – SaintÉtienne
 Paris Games Week
 Paris Hilton
 Paris Jackson
+Paris Marathon 2024
 Paris Match
 Paris Saint-Germain
 Paris SaintGermain
@@ -50171,6 +50222,7 @@ ParisFC–Saint-Étienne
 ParisGamesWeek
 ParisHilton
 ParisJackson
+ParisMarathon2024
 ParisMatch
 ParisNice
 ParisNice 2022
@@ -50801,6 +50853,7 @@ Peter Kraus
 Peter Maffay
 Peter Nygard
 Peter Pannekoek
+Peter Pellegrini
 Peter Piot
 Peter R. de Vries
 Peter Reber
@@ -50809,6 +50862,7 @@ Peter Sagan
 Peter Scolari
 Peter Sellers
 Peter Simonischek
+Peter Sodann
 Peter Spuhler Stadler Rail
 Peter Studer
 Peter Thiel
@@ -50838,6 +50892,7 @@ PeterKraus
 PeterMaffay
 PeterNygard
 PeterPannekoek
+PeterPellegrini
 PeterPiot
 PeterR.deVries
 PeterReber
@@ -50846,6 +50901,7 @@ PeterSagan
 PeterScolari
 PeterSellers
 PeterSimonischek
+PeterSodann
 PeterSpuhlerStadlerRail
 PeterStuder
 PeterThiel
@@ -60769,6 +60825,7 @@ TAUX DIRECTEURS BCE
 TAUX HYPOTHÉCAIRE
 TAX-ON-WEB
 TAXE FONCIERE 2023
+TAXE LAPIN
 TAXI
 TAXI DRIVER
 TAXIFAHRER ERSTOCHEN BASEL
@@ -62024,7 +62081,9 @@ TauxdirecteursBCE
 Tauxhypothécaire
 Tax-on-web
 Taxe fonciere 2023
+Taxe lapin
 Taxefonciere2023
+Taxelapin
 Taxi
 Taxi Driver
 TaxiDriver
@@ -64214,6 +64273,7 @@ UNION SAINT-GILLOISE
 UNION SAINT-GILLOISE – ANDERLECHT
 UNION SAINT-GILLOISE – ANTWERP
 UNION SAINT-GILLOISE – BRAGA
+UNION SAINT-GILLOISE – CERCLE BRUGES
 UNION SAINT-GILLOISE – GENK
 UNION SAINT-GILLOISE – LIVERPOOL
 UNION SAINT-GILLOISE – LUGANO
@@ -64594,6 +64654,7 @@ Union Saint-Gilloise
 Union Saint-Gilloise – Anderlecht
 Union Saint-Gilloise – Antwerp
 Union Saint-Gilloise – Braga
+Union Saint-Gilloise – Cercle Bruges
 Union Saint-Gilloise – Genk
 Union Saint-Gilloise – Liverpool
 Union Saint-Gilloise – Lugano
@@ -64609,6 +64670,7 @@ Union SaintGilloise
 Union SaintGilloise – Anderlecht
 Union SaintGilloise – Antwerp
 Union SaintGilloise – Braga
+Union SaintGilloise – Cercle Bruges
 Union SaintGilloise – Genk
 Union SaintGilloise – Liverpool
 Union SaintGilloise – Lugano
@@ -64648,6 +64710,7 @@ UnionSaint-Gilloise
 UnionSaint-Gilloise–Anderlecht
 UnionSaint-Gilloise–Antwerp
 UnionSaint-Gilloise–Braga
+UnionSaint-Gilloise–CercleBruges
 UnionSaint-Gilloise–Genk
 UnionSaint-Gilloise–Liverpool
 UnionSaint-Gilloise–Lugano
@@ -65009,6 +65072,7 @@ VERONA  JUVENTUS
 VERONA POOTH
 VERONAPOOTH
 VERONICA FORQUE
+VERONIKA LOUBRY
 VERONIQUE
 VERONIQUE BARRAULT
 VERONIQUE BEDAGUE
@@ -65730,6 +65794,8 @@ VeronaJuventus
 VeronaPooth
 Veronica forque
 Veronicaforque
+Veronika Loubry
+VeronikaLoubry
 Veronique
 Veronique Barrault
 Veronique Genest
@@ -69312,6 +69378,7 @@ alexia putellas
 alexis beka beka
 alexis corbière
 alexis flips
+alexis gruss
 alexis jandard
 alexis kohler
 alexis lebrun
@@ -74291,6 +74358,7 @@ demo zürich
 demon slayer
 demonstration zürich
 den haag
+dender
 dendermonde
 deneuve
 dengue
@@ -75275,6 +75343,7 @@ emile disparition
 emile disparition ossements petit emile
 emile disparu
 emile frankrijk
+emile haut-vernet
 emilia clarke
 emilia romagna
 emilia-romagna
@@ -75859,8 +75928,10 @@ f1 bahrein 2022
 f1 canada
 f1 classement
 f1 france
+f1 gp japon
 f1 imola 2022
 f1 japan
+f1 japon
 f1 las vegas
 f1 live
 f1 mexico
@@ -78206,6 +78277,7 @@ heide keller
 heidelberg
 heidelinde weis
 heidenheim
+heidenheim gegen bayern
 heidenheim gegen dortmund
 heidenheim gegen hsv
 heidenheim gegen leverkusen
@@ -79566,6 +79638,7 @@ jean-rené cazeneuve cyrielle chatelain
 jean-vincent placé
 jean-yves lambert
 jean-yves le drian
+jean-yves le fur
 jeanfi janssens
 jeanjean
 jeanjean tennis
@@ -79768,6 +79841,7 @@ jody scheckter
 joe
 joe barone
 joe biden
+joe bonamassa
 joe burrow
 joe cocker
 joe dassin
@@ -81147,6 +81221,7 @@ lars vogt
 lartot
 larzac
 las vegas
+las vegas 21
 laschet
 lask
 lask linz
@@ -81496,6 +81571,7 @@ lens – bordeaux
 lens – brest
 lens – clermont
 lens – inter
+lens – le havre
 lens – lille
 lens – lorient
 lens – lyon
@@ -82083,6 +82159,7 @@ losc
 lost ark
 lost ark steam
 lost frequencies
+lost in fuseta
 lostprophets
 loterie nationale
 loterie romande
@@ -82350,6 +82427,7 @@ luxemburg
 luz
 luzern
 luzern gegen fcb
+luzern gegen lausanne-sport
 luzern gegen st. gallen
 luzern gegen winterthur
 luzern live
@@ -82880,6 +82958,7 @@ marathon de paris
 marathon de paris 2021
 marathon de paris 2021 parcours
 marathon de paris 2023
+marathon de paris 2024
 marathon de valence
 marathon eindhoven
 marathon geneve
@@ -83434,6 +83513,7 @@ matthew tyler vorce
 matthewperry
 matthias aebischer
 matthias casse
+matthias kyburz
 matthias mayer
 matthias reim
 matthias schoenaerts
@@ -84473,6 +84553,7 @@ museumsnacht bern
 musiala
 musig i de altstadt
 musique de noel
+mustafa atici
 mustii
 muttenz
 muttertag
@@ -85871,6 +85952,7 @@ paris fc – saint-étienne
 paris games week
 paris hilton
 paris jackson
+paris marathon 2024
 paris match
 paris news
 paris saint germain
@@ -86249,6 +86331,7 @@ peter kraus
 peter maffay
 peter nygard
 peter pannekoek
+peter pellegrini
 peter piot
 peter r. de vries
 peter reber
@@ -86257,6 +86340,7 @@ peter sagan
 peter scolari
 peter sellers
 peter simonischek
+peter sodann
 peter spuhler stadler rail
 peter studer
 peter thiel
@@ -90215,6 +90299,7 @@ taux directeurs bce
 taux hypothécaire
 tax-on-web
 taxe fonciere 2023
+taxe lapin
 taxi
 taxi driver
 taxifahrer erstochen basel
@@ -91481,6 +91566,7 @@ union saint-gilloise
 union saint-gilloise – anderlecht
 union saint-gilloise – antwerp
 union saint-gilloise – braga
+union saint-gilloise – cercle bruges
 union saint-gilloise – genk
 union saint-gilloise – liverpool
 union saint-gilloise – lugano
@@ -91799,6 +91885,7 @@ verona  juventus
 verona pooth
 veronapooth
 veronica forque
+veronika loubry
 veronique
 veronique barrault
 veronique bedague
