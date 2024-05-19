@@ -1685,6 +1685,7 @@ ANDERLECHT - EUPEN
 ANDERLECHT - GENK
 ANDERLECHT - VILLARREAL
 ANDERLECHT - WESTERLO
+ANDERLECHT BRUGGE
 ANDERLECHT CERCLE BRUGGE
 ANDERLECHT CLUB BRUGGE
 ANDERLECHT GENT
@@ -4526,6 +4527,7 @@ Anderlecht - Eupen
 Anderlecht - Genk
 Anderlecht - Villarreal
 Anderlecht - Westerlo
+Anderlecht Brugge
 Anderlecht Cercle Brugge
 Anderlecht Club Brugge
 Anderlecht Gent
@@ -4558,6 +4560,7 @@ Anderlecht-Villarreal
 Anderlecht-Westerlo
 AnderlechtAjax
 AnderlechtAntwerp
+AnderlechtBrugge
 AnderlechtCercleBrugge
 AnderlechtCharleroi
 AnderlechtClub Brugge
@@ -7089,6 +7092,7 @@ BENKO
 BENNY B
 BENNY BLANCO
 BENNY CLAESSENS
+BENNY GANTZ
 BENOIT 16
 BENOIT DAUGA
 BENOIT GENECAND
@@ -9212,9 +9216,11 @@ Benko
 Benny B
 Benny Blanco
 Benny Claessens
+Benny Gantz
 BennyB
 BennyBlanco
 BennyClaessens
+BennyGantz
 Benoit 16
 Benoit Dauga
 Benoit Genecand
@@ -12568,6 +12574,7 @@ CROSS MOL
 CROWDED HOUSE
 CROWDHOUSE
 CROWN JEWEL 2021
+CROZON
 CRS 8
 CRS8
 CRUDIVORISME THIERRY CASASNOVAS
@@ -15443,6 +15450,7 @@ CrowdedHouse
 Crowdhouse
 Crown Jewel 2021
 CrownJewel2021
+Crozon
 Crudivorisme Thierry Casasnovas
 CrudivorismeThierryCasasnovas
 Crue de l'Arve
@@ -15645,6 +15653,7 @@ DAAN DE WEVER
 DAAR WAAR DE RIVIERKREEFTEN ZINGEN
 DAAS
 DABABY
+DABNEY COLEMAN
 DABU FANTASTIC
 DAC 1904
 DAC1904
@@ -16198,6 +16207,7 @@ DICK MARTY
 DICK RIVERS
 DICK VAN DYKE
 DICTON SAINT MEDARD
+DIDDY
 DIDIER BOURDON
 DIDIER DESCHAMPS
 DIDIER DROGBA
@@ -16707,6 +16717,8 @@ Daan De Wever
 DaanDeWever
 Daar waar de rivierkreeften zingen
 Daarwaarderivierkreeftenzingen
+Dabney Coleman
+DabneyColeman
 Dabu Fantastic
 DabuFantastic
 Dacia
@@ -17707,6 +17719,7 @@ DickRivers
 DickvanDyke
 Dicton Saint medard
 DictonSaintmedard
+Diddy
 Didier Bourdon
 Didier Deschamps
 Didier Drogba
@@ -19215,6 +19228,7 @@ ERIC DUPOND-MORETTI
 ERIC DUPOND-MORETTI ASSEMBLÉE NATIONALE
 ERIC EMMANUEL SCHMITT
 ERIC FRECHON
+ERIC JUDOR
 ERIC PERROT
 ERIC PHILIPPI
 ERIC PIOLLE
@@ -20606,6 +20620,7 @@ Eric Dupond-Moretti Assemblée nationale
 Eric DupondMoretti
 Eric DupondMoretti Assemblée nationale
 Eric Emmanuel Schmitt
+Eric Judor
 Eric Perrot
 Eric Philippi
 Eric Piolle
@@ -20633,6 +20648,7 @@ EricDier
 EricDupond-Moretti
 EricDupond-MorettiAssembléenationale
 EricEmmanuelSchmitt
+EricJudor
 EricPerrot
 EricPhilippi
 EricPiolle
@@ -21880,6 +21896,7 @@ FESTIVAL DE DOUR
 FESTIVAL DE LA CITÉ
 FESTIVAL LES ARDENTES
 FESTIVAL LOCARNO
+FESTIVAL PAPILLONS DE NUIT ANNULATION
 FESTIVAL RONQUIERES
 FESTIVAL VENOGE
 FETE 15 AOUT
@@ -22249,6 +22266,7 @@ FOOT FEMININ
 FOOT FEMININ EURO
 FOOT LIGUE 1
 FOOT MAROC
+FOOT-NATIONAL
 FOOTBALL
 FOOTBALL BELGIQUE
 FOOTBALL BELGIQUE-AUTRICHE
@@ -22471,6 +22489,7 @@ FRANCIS AMUZU
 FRANCIS CABREL
 FRANCIS DANNEMARK
 FRANCIS EVRARD
+FRANCIS FORD COPPOLA
 FRANCIS HUSTER
 FRANCIS KERE
 FRANCIS LALANNE
@@ -22748,6 +22767,7 @@ FURY NGANNOU
 FURY USYK
 FURY VS NGANNOU LIVE-STREAM
 FURY VS USYK
+FURY VS USYK LIVESTREAM
 FURY VS WILDER 3
 FUSE
 FUSEE CHINOISE
@@ -23120,6 +23140,7 @@ Festi'Neuch2023
 Festi'neuch
 Festival Les Ardentes
 Festival Locarno
+Festival Papillons de Nuit annulation
 Festival Venoge
 Festival de Cannes 2022
 Festival de Cannes 2023
@@ -23129,6 +23150,7 @@ Festival de la Cité
 Festival ronquieres
 FestivalLesArdentes
 FestivalLocarno
+FestivalPapillonsdeNuitannulation
 FestivalVenoge
 FestivaldeCannes2022
 FestivaldeCannes2023
@@ -23681,9 +23703,11 @@ Foot Ligue 1
 Foot Maroc
 Foot feminin
 Foot feminin Euro
+Foot-National
 FootCoupedumonde2022
 FootLigue1
 FootMaroc
+FootNational
 Football
 Football Belgique
 Football Belgique-Autriche
@@ -24121,6 +24145,7 @@ FrancineJordi
 Francis Amuzu
 Francis Dannemark
 Francis Evrard
+Francis Ford Coppola
 Francis Huster
 Francis Lalanne
 Francis Ngannou
@@ -24131,6 +24156,7 @@ Francis kere
 FrancisAmuzu
 FrancisDannemark
 FrancisEvrard
+FrancisFordCoppola
 FrancisHuster
 FrancisLalanne
 FrancisNgannou
@@ -24614,11 +24640,13 @@ Fury Usyk
 Fury vs Ngannou Live-Stream
 Fury vs Ngannou LiveStream
 Fury vs Usyk
+Fury vs Usyk Livestream
 Fury vs Wilder 3
 FuryNgannou
 FuryUsyk
 FuryvsNgannouLive-Stream
 FuryvsUsyk
+FuryvsUsykLivestream
 FuryvsWilder3
 Fuse
 Fusee chinoise
@@ -29422,6 +29450,7 @@ INTER MAILAND
 INTER MIAMI
 INTER MIAMI GEGEN SPORTING KC
 INTER MIAMI – BARCELONA
+INTER MIAMI – DC UNITED
 INTER MIAMI – HOUSTON DYNAMO
 INTER MIAMI – NASHVILLE
 INTER MILAN
@@ -30245,6 +30274,7 @@ Inter Liverpool
 Inter Mailand
 Inter Miami
 Inter Miami – Barcelona
+Inter Miami – DC United
 Inter Miami – Houston Dynamo
 Inter Miami – Nashville
 Inter Milan
@@ -30288,6 +30318,7 @@ InterLiverpool
 InterMailand
 InterMiami
 InterMiami–Barcelona
+InterMiami–DCUnited
 InterMiami–HoustonDynamo
 InterMiami–Nashville
 InterMilan
@@ -30838,6 +30869,7 @@ JACQUELINE JENCQUEL
 JACQUELINE-CHARLOTTE DUFRESNOY
 JACQUEMUS
 JACQUES ATTALI
+JACQUES AUDIARD
 JACQUES BOEL
 JACQUES BOUTHIER
 JACQUES BREL
@@ -31276,6 +31308,7 @@ JESSICA THIVENIN
 JESSICA VON BREDOW
 JESSIE DE CALUWE
 JESUITE
+JESUS NAVAS
 JEU DE LA VIRGULE
 JEU TOUT LE MONDE VEUT PRENDRE SA PLACE
 JEUDI ASCENSION
@@ -31921,6 +31954,7 @@ JacquelineGourault
 JacquelineJencquel
 Jacquemus
 Jacques Attali
+Jacques Audiard
 Jacques Bouthier
 Jacques Brel
 Jacques Delors
@@ -31939,6 +31973,7 @@ Jacques boel
 Jacques pradel
 Jacques-Brel
 JacquesAttali
+JacquesAudiard
 JacquesBouthier
 JacquesBrel
 JacquesDelors
@@ -32820,6 +32855,8 @@ JessicavonBredow
 Jessie De caluwe
 JessieDecaluwe
 Jesuite
+Jesus Navas
+JesusNavas
 Jetepromets
 Jeteprometssaison3
 Jeu Tout Le Monde Veut Prendre Sa Place
@@ -36301,6 +36338,7 @@ LECCE - INTER
 LECCE – AC MILAN
 LECCE – INTER
 LECCE – LAZIO
+LECCE.  ATALANTA
 LECH/ZÜRS
 LECKTUCH
 LECLERC
@@ -38312,6 +38350,8 @@ Lecce – AC Milan
 Lecce – Inter
 Lecce – Lazio
 Lecce-Inter
+Lecce.  Atalanta
+Lecce.Atalanta
 Lecce–ACMilan
 Lecce–Inter
 Lecce–Lazio
@@ -58868,6 +58908,7 @@ STROMAE 2021
 STROMAE MULTITUDE
 STROMAE WERCHTER BOUTIQUE
 STROMAUSFALL BURGDORF
+STROMAUSFALL THUN
 STROMBOLI
 STROMPREISE 2023
 STROMPREISE 2024 SCHWEIZ
@@ -61936,7 +61977,9 @@ Stromae2021
 StromaeWerchterBoutique
 Stromaemultitude
 Stromausfall Burgdorf
+Stromausfall Thun
 StromausfallBurgdorf
+StromausfallThun
 Stromboli
 Strompreise 2023
 Strompreise 2024 Schweiz
@@ -62914,6 +62957,7 @@ THE MAN IN THE IRON MASK
 THE MANDALORIAN
 THE MARVELS
 THE MASKED SINGER
+THE MASKED SINGER 2024
 THE MASKED SINGER SWITZERLAND
 THE MASKED SINGER' 2023
 THE MASTERS
@@ -64286,6 +64330,7 @@ The Man in the Iron Mask
 The Mandalorian
 The Marvels
 The Masked Singer
+The Masked Singer 2024
 The Masked Singer Switzerland
 The Masked Singer' 2023
 The Masters
@@ -64452,6 +64497,7 @@ TheManintheIronMask
 TheMarvels
 TheMaskedSinger
 TheMaskedSinger'2023
+TheMaskedSinger2024
 TheMaskedSingerSwitzerland
 TheMasters
 TheMatrix
@@ -71784,6 +71830,7 @@ anderlecht - eupen
 anderlecht - genk
 anderlecht - villarreal
 anderlecht - westerlo
+anderlecht brugge
 anderlecht cercle brugge
 anderlecht club brugge
 anderlecht gent
@@ -73471,6 +73518,7 @@ benko
 benny b
 benny blanco
 benny claessens
+benny gantz
 benoit 16
 benoit dauga
 benoit genecand
@@ -76084,6 +76132,7 @@ cross mol
 crowded house
 crowdhouse
 crown jewel 2021
+crozon
 crs 8
 crudivorisme thierry casasnovas
 crue de l'arve
@@ -76195,6 +76244,7 @@ daan de wever
 daar waar de rivierkreeften zingen
 daas
 dababy
+dabney coleman
 dabu fantastic
 dac 1904
 dacia
@@ -76733,6 +76783,7 @@ dick marty
 dick rivers
 dick van dyke
 dicton saint medard
+diddy
 didier bourdon
 didier deschamps
 didier drogba
@@ -77796,6 +77847,7 @@ eric dupond-moretti
 eric dupond-moretti assemblée nationale
 eric emmanuel schmitt
 eric frechon
+eric judor
 eric perrot
 eric philippi
 eric piolle
@@ -78527,6 +78579,7 @@ festival de dour
 festival de la cité
 festival les ardentes
 festival locarno
+festival papillons de nuit annulation
 festival ronquieres
 festival venoge
 fete 15 aout
@@ -78858,6 +78911,7 @@ foot feminin
 foot feminin euro
 foot ligue 1
 foot maroc
+foot-national
 football
 football belgique
 football belgique-autriche
@@ -79079,6 +79133,7 @@ francis amuzu
 francis cabrel
 francis dannemark
 francis evrard
+francis ford coppola
 francis huster
 francis kere
 francis lalanne
@@ -79345,6 +79400,7 @@ fury ngannou
 fury usyk
 fury vs ngannou live-stream
 fury vs usyk
+fury vs usyk livestream
 fury vs wilder 3
 fuse
 fusee chinoise
@@ -81334,6 +81390,7 @@ inter mailand
 inter miami
 inter miami gegen sporting kc
 inter miami – barcelona
+inter miami – dc united
 inter miami – houston dynamo
 inter miami – nashville
 inter milan
@@ -81706,6 +81763,7 @@ jacqueline jencquel
 jacqueline-charlotte dufresnoy
 jacquemus
 jacques attali
+jacques audiard
 jacques boel
 jacques bouthier
 jacques brel
@@ -82139,6 +82197,7 @@ jessica thivenin
 jessica von bredow
 jessie de caluwe
 jesuite
+jesus navas
 jeu de la virgule
 jeu tout le monde veut prendre sa place
 jeudi ascension
@@ -83914,6 +83973,7 @@ lecce - inter
 lecce – ac milan
 lecce – inter
 lecce – lazio
+lecce.  atalanta
 lech/zürs
 lecktuch
 leclerc
@@ -92552,6 +92612,7 @@ stromae 2021
 stromae multitude
 stromae werchter boutique
 stromausfall burgdorf
+stromausfall thun
 stromboli
 strompreise 2023
 strompreise 2024 schweiz
@@ -93243,6 +93304,7 @@ the man in the iron mask
 the mandalorian
 the marvels
 the masked singer
+the masked singer 2024
 the masked singer switzerland
 the masked singer' 2023
 the masters
