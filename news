@@ -2531,6 +2531,7 @@ ATLÉTICO MADRID – LEVERKUSEN
 ATLÉTICO MADRID – LIVERPOOL
 ATLÉTICO MADRID – MAN CITY
 ATLÉTICO MADRID – MILAN
+ATLÉTICO MADRID – OSASUNA
 ATLÉTICO MADRID – PORTO
 ATLÉTICO MADRID – RAYO
 ATLÉTICO MADRID – REAL
@@ -5982,6 +5983,7 @@ Atlético Madrid – Leverkusen
 Atlético Madrid – Liverpool
 Atlético Madrid – Man City
 Atlético Madrid – Milan
+Atlético Madrid – Osasuna
 Atlético Madrid – Porto
 Atlético Madrid – Rayo
 Atlético Madrid – Real
@@ -6009,6 +6011,7 @@ AtléticoMadrid–Leverkusen
 AtléticoMadrid–Liverpool
 AtléticoMadrid–ManCity
 AtléticoMadrid–Milan
+AtléticoMadrid–Osasuna
 AtléticoMadrid–Porto
 AtléticoMadrid–Rayo
 AtléticoMadrid–Real
@@ -7796,6 +7799,7 @@ BREAKING BAD
 BREEL EMBOLO
 BREELEMBOLO
 BREITENREITER
+BREITHORN
 BREIVIK
 BREIZHGO
 BREMEN-WAHL
@@ -10340,6 +10344,7 @@ BreakingBad
 Breel Embolo
 BreelEmbolo
 Breitenreiter
+Breithorn
 Breivik
 BreizhGo
 Bremen-Wahl
@@ -19307,6 +19312,7 @@ ESCgewinner2022
 ESME BIANCO
 ESNEUX
 ESPAGNE
+ESPAGNE - ARGENTINE
 ESPAGNE ANGLETERRE
 ESPAGNE BRESIL
 ESPAGNE COVID
@@ -20730,6 +20736,8 @@ Esme Bianco
 EsmeBianco
 Esneux
 Espagne
+Espagne  Argentine
+Espagne - Argentine
 Espagne Angleterre
 Espagne Covid
 Espagne Croatie
@@ -20753,6 +20761,7 @@ Espagne – Portugal
 Espagne – Suisse
 Espagne – Suède
 Espagne – Écosse
+Espagne-Argentine
 EspagneAngleterre
 EspagneCovid
 EspagneCroatie
@@ -28059,6 +28068,7 @@ HONGRIEALLEMAGNE
 HONKAI STAR RAIL
 HONKAI: STAR RAIL
 HOOFDSTUK
+HOOGSTRATEN
 HOOGTEZIEKTE
 HOOTERS ZÜRICH
 HOPE SOLO
@@ -28944,6 +28954,7 @@ Honkai: Star Rail
 Honkai:StarRail
 HonkaiStarRail
 Hoofdstuk
+Hoogstraten
 Hoogteziekte
 Hooters zürich
 Hooterszürich
@@ -29553,6 +29564,7 @@ IRAN
 IRAN  VERENIGDE STATEN
 IRAN ISRAEL ANGRIFF
 IRAN OLIVIER VANDECASTEELE
+IRAN PRÄSIDENT RAISI
 IRAN VS USA
 IRAN – ÉTATS-UNIS
 IREEN SHEER
@@ -30409,6 +30421,7 @@ Iran
 Iran  Verenigde Staten
 Iran Israel Angriff
 Iran Olivier Vandecasteele
+Iran Präsident Raisi
 Iran vs USA
 Iran – États-Unis
 Iran – ÉtatsUnis
@@ -30416,6 +30429,7 @@ Iran – états-unis
 Iran – étatsunis
 IranIsraelAngriff
 IranOlivierVandecasteele
+IranPräsidentRaisi
 IranVerenigdeStaten
 IranvsUSA
 Iran–États-Unis
@@ -31120,6 +31134,7 @@ JEAN-BAPTISTE MAUNIER
 JEAN-BAPTISTE TROGNEUX
 JEAN-CHARLES SKARBOWSKY
 JEAN-CHRISTOPHE LAGARDE
+JEAN-CLAUDE GAUDIN
 JEAN-CLAUDE JOLY
 JEAN-CLAUDE NALLET
 JEAN-CLAUDE NARCY
@@ -32393,11 +32408,13 @@ Jean-Charles Skarbowsky
 Jean-CharlesSkarbowsky
 Jean-Christophe Lagarde
 Jean-ChristopheLagarde
+Jean-Claude Gaudin
 Jean-Claude Joly
 Jean-Claude Nallet
 Jean-Claude Narcy
 Jean-Claude Romand
 Jean-Claude Van Damme
+Jean-ClaudeGaudin
 Jean-ClaudeJoly
 Jean-ClaudeNallet
 Jean-ClaudeNarcy
@@ -32540,6 +32557,7 @@ JeanBaptiste guegan
 JeanCastex
 JeanCharles Skarbowsky
 JeanChristophe Lagarde
+JeanClaude Gaudin
 JeanClaude Joly
 JeanClaude Nallet
 JeanClaude Narcy
@@ -35901,6 +35919,7 @@ LA PALMA VULKAN
 LA PASSANTE DU SANS-SOUCI
 LA PASSION DE DODIN BOUFFANT
 LA PATROUILLE DES GLACIERS
+LA PENTECÔTE
 LA PESTE
 LA PETITE SIRENE
 LA PISCINE
@@ -37310,6 +37329,7 @@ LUNA crypto
 LUNA-25
 LUNAcrypto
 LUNDI 15 AOUT
+LUNDI 20 MAI
 LUNDI DE PAQUES
 LUNDI DE PENTECOTE
 LUNE
@@ -37541,6 +37561,7 @@ La maison d'en face
 La marmotte
 La montagne
 La passion de Dodin Bouffant
+La pentecôte
 La piscine
 La plage
 La population mondiale
@@ -37827,6 +37848,7 @@ Lanterna Magica
 LanternaMagica
 Lanzarote
 LapassiondeDodinBouffant
+Lapentecôte
 Lapin de paques
 Lapindepaques
 Lapiscine
@@ -40130,9 +40152,11 @@ LunaPark
 LunaSchweiger
 Lunacrypto
 Lundi 15 aout
+Lundi 20 mai
 Lundi de paques
 Lundi de pentecote
 Lundi15aout
+Lundi20mai
 Lundidepaques
 Lundidepentecote
 Lune
@@ -42151,6 +42175,7 @@ MOHAMED ALI
 MOHAMED AMRA
 MOHAMED BAZOUM
 MOHAMED BOUHAFSI
+MOHAMED CAMARA
 MOHAMED HAOUAS
 MOHAMED HENNI
 MOHAMED HOBLOS
@@ -45770,6 +45795,7 @@ Mohamed Ali
 Mohamed Amra
 Mohamed Bazoum
 Mohamed Bouhafsi
+Mohamed Camara
 Mohamed Haouas
 Mohamed Henni
 Mohamed Hoblos
@@ -45783,6 +45809,7 @@ MohamedAli
 MohamedAmra
 MohamedBazoum
 MohamedBouhafsi
+MohamedCamara
 MohamedHaouas
 MohamedHenni
 MohamedHoblos
@@ -47200,6 +47227,7 @@ NOUVELLE ZELANDE ITALIE
 NOUVELLE ZELANDE URUGUAY
 NOUVELLE-AQUITAINE
 NOUVELLE-CALÉDONIE
+NOUVELLE-CALÉDONIE NOUMÉA
 NOUVELLES BRIGADES DE GENDARMERIE
 NOUVELLES MESURES COVID
 NOUVELLISTE
@@ -48455,8 +48483,11 @@ Nouvelle zelande Italie
 Nouvelle zelande Uruguay
 Nouvelle-Aquitaine
 Nouvelle-Calédonie
+Nouvelle-Calédonie Nouméa
+Nouvelle-CalédonieNouméa
 NouvelleAquitaine
 NouvelleCalédonie
+NouvelleCalédonie Nouméa
 NouvellePeugeot408
 Nouvellecarted'identité
 Nouvelledéclarationimpotspropriétaire
@@ -51162,9 +51193,11 @@ PSG Lens
 PSG Lille
 PSG Lyon
 PSG MANCHESTER CITY
+PSG METZ
 PSG MONACO
 PSG MONTPELLIER
 PSG Manchester City
+PSG Metz
 PSG Monaco
 PSG Montpellier
 PSG NEYMAR
@@ -51256,6 +51289,7 @@ PSGLorient
 PSGLyon
 PSGManchester City
 PSGManchesterCity
+PSGMetz
 PSGMonaco
 PSGMontpellier
 PSGNeymar
@@ -54829,6 +54863,7 @@ ROIS MAGES
 ROLAND BERTIN
 ROLAND CASTRO
 ROLAND GARROS
+ROLAND GARROS 2024
 ROLAND GARROS LIVE
 ROLAND JACCARD
 ROLAND KAISER
@@ -54919,6 +54954,7 @@ RONDE VAN FRANKRIJK 2021
 RONDE VAN FRANKRIJK 2023
 RONDE VAN HET BASKENLAND
 RONDE VAN LIMBURG
+RONDE VAN LIMBURG 2024
 RONDE VAN LOMBARDIJE
 RONDE VAN LOMBARDIJE 2021
 RONDE VAN LOMBARDIJE 2023
@@ -56653,6 +56689,7 @@ Roismages
 Roland Bertin
 Roland Castro
 Roland Garros
+Roland Garros 2024
 Roland Garros live
 Roland Jaccard
 Roland Kaiser
@@ -56669,6 +56706,7 @@ RolandGarros
 RolandGarros 2022
 RolandGarros 2023
 RolandGarros programme
+RolandGarros2024
 RolandGarroslive
 RolandJaccard
 RolandKaiser
@@ -56820,6 +56858,7 @@ Ronde Van Vlaanderen
 Ronde van Frankrijk
 Ronde van Frankrijk 2021
 Ronde van Limburg
+Ronde van Limburg 2024
 Ronde van Lombardije
 Ronde van Lombardije 2021
 Ronde van Lombardije 2023
@@ -56841,6 +56880,7 @@ RondeVanVlaanderen
 RondevanFrankrijk
 RondevanFrankrijk2021
 RondevanLimburg
+RondevanLimburg2024
 RondevanLombardije
 RondevanLombardije2021
 RondevanLombardije2023
@@ -57693,6 +57733,7 @@ SCHWEDENUKRAINE
 SCHWEINSWAL
 SCHWEIZ
 SCHWEIZ - GHANA
+SCHWEIZ - KANADA
 SCHWEIZ ABSTIMMUNGEN
 SCHWEIZ AKTUELL
 SCHWEIZ ANDORRA EM-QUALI
@@ -60004,7 +60045,9 @@ SchwedenUkraine
 Schweinswal
 Schweiz
 Schweiz  Ghana
+Schweiz  Kanada
 Schweiz - Ghana
+Schweiz - Kanada
 Schweiz Abstimmungen
 Schweiz Aktuell
 Schweiz Andorra EM-Quali
@@ -60037,6 +60080,7 @@ Schweiz gegen Schweden
 Schweiz gegen Tschechien
 Schweiz italien fussball
 Schweiz-Ghana
+Schweiz-Kanada
 SchweizAbstimmungen
 SchweizAktuell
 SchweizAndorraEM-Quali
@@ -67191,6 +67235,7 @@ VILLARREAL  BARCELONA
 VILLARREAL - ANDERLECHT
 VILLARREAL GEGEN JUVENTUS
 VILLARREAL GEGEN LIVERPOOL
+VILLARREAL GEGEN REAL MADRID
 VILLARREAL – ANDERLECHT
 VILLARREAL – ATLÉTICO MADRID
 VILLARREAL – BARCELONA
@@ -68018,6 +68063,7 @@ Villarreal  Barcelona
 Villarreal - Anderlecht
 Villarreal gegen Juventus
 Villarreal gegen Liverpool
+Villarreal gegen Real Madrid
 Villarreal – Anderlecht
 Villarreal – Atlético Madrid
 Villarreal – Barcelona
@@ -68033,6 +68079,7 @@ Villarreal.Barcelona
 VillarrealBarcelona
 VillarrealgegenJuventus
 VillarrealgegenLiverpool
+VillarrealgegenRealMadrid
 Villarreal–Anderlecht
 Villarreal–AtléticoMadrid
 Villarreal–Barcelona
@@ -72645,6 +72692,7 @@ atlético madrid – leverkusen
 atlético madrid – liverpool
 atlético madrid – man city
 atlético madrid – milan
+atlético madrid – osasuna
 atlético madrid – porto
 atlético madrid – rayo
 atlético madrid – real
@@ -74189,6 +74237,7 @@ breaking bad
 breel embolo
 breelembolo
 breitenreiter
+breithorn
 breivik
 breizhgo
 bremen-wahl
@@ -77909,6 +77958,7 @@ escroquerie
 esme bianco
 esneux
 espagne
+espagne - argentine
 espagne angleterre
 espagne bresil
 espagne covid
@@ -80905,6 +80955,7 @@ hongrieallemagne
 honkai star rail
 honkai: star rail
 hoofdstuk
+hoogstraten
 hoogteziekte
 hooters zürich
 hope solo
@@ -81489,6 +81540,7 @@ iran
 iran  verenigde staten
 iran israel angriff
 iran olivier vandecasteele
+iran präsident raisi
 iran vs usa
 iran – états-unis
 ireen sheer
@@ -82009,6 +82061,7 @@ jean-baptiste maunier
 jean-baptiste trogneux
 jean-charles skarbowsky
 jean-christophe lagarde
+jean-claude gaudin
 jean-claude joly
 jean-claude nallet
 jean-claude narcy
@@ -83542,6 +83595,7 @@ la palma vulkan
 la passante du sans-souci
 la passion de dodin bouffant
 la patrouille des glaciers
+la pentecôte
 la peste
 la petite sirene
 la piscine
@@ -84923,6 +84977,7 @@ luna park
 luna schweiger
 luna-25
 lundi 15 aout
+lundi 20 mai
 lundi de paques
 lundi de pentecote
 lune
@@ -86822,6 +86877,7 @@ mohamed ali
 mohamed amra
 mohamed bazoum
 mohamed bouhafsi
+mohamed camara
 mohamed haouas
 mohamed henni
 mohamed hoblos
@@ -87882,6 +87938,7 @@ nouvelle zelande italie
 nouvelle zelande uruguay
 nouvelle-aquitaine
 nouvelle-calédonie
+nouvelle-calédonie nouméa
 nouvelles brigades de gendarmerie
 nouvelles mesures covid
 nouvelliste
@@ -89674,6 +89731,7 @@ psg lens
 psg lille
 psg lyon
 psg manchester city
+psg metz
 psg monaco
 psg montpellier
 psg neymar
@@ -90682,6 +90740,7 @@ rois mages
 roland bertin
 roland castro
 roland garros
+roland garros 2024
 roland garros live
 roland jaccard
 roland kaiser
@@ -90772,6 +90831,7 @@ ronde van frankrijk 2021
 ronde van frankrijk 2023
 ronde van het baskenland
 ronde van limburg
+ronde van limburg 2024
 ronde van lombardije
 ronde van lombardije 2021
 ronde van lombardije 2023
@@ -91461,6 +91521,7 @@ schwedenukraine
 schweinswal
 schweiz
 schweiz - ghana
+schweiz - kanada
 schweiz abstimmungen
 schweiz aktuell
 schweiz andorra em-quali
@@ -94811,6 +94872,7 @@ villarreal  barcelona
 villarreal - anderlecht
 villarreal gegen juventus
 villarreal gegen liverpool
+villarreal gegen real madrid
 villarreal – anderlecht
 villarreal – atlético madrid
 villarreal – barcelona
