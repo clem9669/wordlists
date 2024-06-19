@@ -808,6 +808,7 @@ ACCIDENT BUS VOITURE YVELINES
 ACCIDENT CAR
 ACCIDENT CENTRE ÉQUESTRE
 ACCIDENT CHANTIER METRO TOULOUSE
+ACCIDENT CHARTRES
 ACCIDENT DE CHASSE
 ACCIDENT DE LA ROUTE
 ACCIDENT E42
@@ -3035,6 +3036,7 @@ Accident A47
 Accident A7
 Accident A9
 Accident Aurore Morisse
+Accident Chartres
 Accident E42
 Accident Europa Park
 Accident Europa-Park
@@ -3086,6 +3088,7 @@ AccidentA47
 AccidentA7
 AccidentA9
 AccidentAuroreMorisse
+AccidentChartres
 AccidentE42
 AccidentEuropa-Park
 AccidentEuropaPark
@@ -7870,6 +7873,7 @@ BRAD PITT EMILY RATAJKOWSKI
 BRADERIE
 BRADLEY BARCOLA
 BRADLEY COOPER
+BRADLEY WIGGINS
 BRAGA  BENFICA
 BRAGA  UNION
 BRAGA – BENFICA
@@ -10407,8 +10411,10 @@ BradPittEmilyRatajkowski
 Braderie
 Bradley Barcola
 Bradley Cooper
+Bradley Wiggins
 BradleyBarcola
 BradleyCooper
+BradleyWiggins
 Braga  Benfica
 Braga  Union
 Braga – Benfica
@@ -11616,6 +11622,7 @@ CF Intercity
 CFF
 CFIntercity
 CGN
+CGT
 CGT APOLOGIE TERRORISME
 CGT apologie terrorisme
 CGTapologieterrorisme
@@ -12645,6 +12652,7 @@ COUPURE ELECTRICITE
 COUPURE ELECTRICITE ANGERS
 COUPURE ELECTRICITE PARIS
 COUPURES COMPTEUR LINKY
+COURBEVOIE
 COURCHEVEL
 COURCHEVEL MERIBEL
 COURIR
@@ -15496,6 +15504,7 @@ CoupureelectriciteAngers
 CoupureelectriciteParis
 Coupures compteur Linky
 CoupurescompteurLinky
+Courbevoie
 Courchevel
 Courchevel Meribel
 CourchevelMeribel
@@ -16593,6 +16602,7 @@ DINGO
 DINKY TOYS
 DINNER FOR ONE
 DINO SCALA
+DINTIKON
 DION COOLS
 DIOR
 DIOXINE
@@ -18203,6 +18213,7 @@ Dinner for One
 DinnerforOne
 Dino Scala
 DinoScala
+Dintikon
 Dion Cools
 DionCools
 Dior
@@ -25609,6 +25620,7 @@ GEPARD-PANZER
 GERAARDSBERGEN
 GERALD DE PALMAS
 GERALD MARIE
+GERALD PICHOWETZ
 GERALDINE CARRE
 GERALDINE KEMPER
 GERALDINE MAILLET
@@ -26240,6 +26252,7 @@ GUARDIAN
 GUATEMALA
 GUBRISTTUNNEL
 GUCCI
+GUD
 GUEDELON
 GUENDOUZI
 GUENTHER STEINER
@@ -26902,8 +26915,10 @@ Gepard-Panzer
 GepardPanzer
 Geraardsbergen
 Gerald Marie
+Gerald Pichowetz
 Gerald de Palmas
 GeraldMarie
+GeraldPichowetz
 GeralddePalmas
 Geraldine Kemper
 Geraldine Maillet
@@ -28461,6 +28476,7 @@ HEMELVAART
 HEMIKSEM
 HENCHMAN
 HENDERSON
+HENDRIK VAN CROMBRUGGE
 HENGELHOEF
 HENIPAVIRUS
 HENRI GARCIN
@@ -29248,6 +29264,8 @@ Hemelvaart
 Hemiksem
 Henchman
 Henderson
+Hendrik Van Crombrugge
+HendrikVanCrombrugge
 Hengelhoef
 Henipavirus
 Henri Garcin
@@ -31605,6 +31623,7 @@ JAN BÖHMERMANN: LAURA MÜLLER
 JAN CALLEBAUT
 JAN CALLEWAERT
 JAN CEULEERS
+JAN CREMER
 JAN DE LICHTE
 JAN DELAY
 JAN FABRE
@@ -31705,6 +31724,7 @@ JAY ADAMS
 JAY LENO
 JAY WEINBERG
 JAY-Z
+JAYLEN BROWN
 JAYNE MANSFIELD
 JAYSON TATUM
 JAZZ
@@ -32801,6 +32821,7 @@ Jan Böhmermann: Laura Müller
 Jan Callebaut
 Jan Callewaert
 Jan Ceuleers
+Jan Cremer
 Jan Delay
 Jan Fabre
 Jan Hecker
@@ -32822,6 +32843,7 @@ JanBöhmermann:LauraMüller
 JanCallebaut
 JanCallewaert
 JanCeuleers
+JanCremer
 JanDelay
 JanFabre
 JanHecker
@@ -32990,6 +33012,8 @@ JayAdams
 JayLeno
 JayWeinberg
 JayZ
+Jaylen Brown
+JaylenBrown
 Jayne Mansfield
 JayneMansfield
 Jayson Tatum
@@ -34993,6 +35017,7 @@ KINDER RAPPEL
 KINDERARTS VELDEGEM
 KINDERFEST
 KINDERFEST HERISAU
+KINDERFEST ST.GALLEN
 KINDERTAG
 KINDERUMZUG SECHSELÄUTEN
 KINDS OF KINDNESS
@@ -35199,6 +35224,7 @@ KROATIE SPANJE
 KROATIEN
 KROATIEN  TSCHECHIEN
 KROATIEN - TSCHECHIEN
+KROATIEN ALBANIEN
 KROATIEN BRASILIEN
 KROATIEN FRANKREICH
 KROATIEN GEGEN BRASILIEN
@@ -35929,7 +35955,9 @@ Kinderarts Veldegem
 KinderartsVeldegem
 Kinderfest
 Kinderfest Herisau
+Kinderfest St.Gallen
 KinderfestHerisau
+KinderfestSt.Gallen
 Kinderrappel
 Kindertag
 Kinderumzug Sechseläuten
@@ -36249,6 +36277,7 @@ KroatieSpanje
 Kroatien
 Kroatien  Tschechien
 Kroatien - Tschechien
+Kroatien Albanien
 Kroatien Brasilien
 Kroatien Frankreich
 Kroatien Schottland
@@ -36259,6 +36288,7 @@ Kroatien gegen Marokko
 Kroatien gegen Türkei
 Kroatien gegen Österreich
 Kroatien-Tschechien
+KroatienAlbanien
 KroatienBrasilien
 KroatienFrankreich
 KroatienSchottland
@@ -37471,6 +37501,7 @@ LILA BOUADMA
 LILI ELBE
 LILI MARLEEN
 LILI REINHART
+LILIAN BRASSIER
 LILIAN TOP CHEF
 LILIANE SAINT-PIERRE
 LILIBET
@@ -37551,6 +37582,7 @@ LINKEDIN
 LINKERWOOFER
 LINO VENTURA
 LINOY ASHRAM
+LINT
 LINUS STRASSER
 LINUS TECH TIPS
 LIO
@@ -39885,7 +39917,9 @@ Lili Reinhart
 LiliElbe
 LiliMarleen
 LiliReinhart
+Lilian Brassier
 Lilian Top Chef
+LilianBrassier
 LilianTopChef
 Liliane Saint-Pierre
 Liliane SaintPierre
@@ -40044,6 +40078,7 @@ Lino Ventura
 LinoVentura
 Linoy Ashram
 LinoyAshram
+Lint
 Linus Strasser
 Linus Tech Tips
 LinusStrasser
@@ -42194,6 +42229,7 @@ MATTHEW TYLER VORCE
 MATTHEWPERRY
 MATTHIAS AEBISCHER
 MATTHIAS CASSE
+MATTHIAS DIEPENDAELE
 MATTHIAS ECKE
 MATTHIAS KYBURZ
 MATTHIAS MAYER
@@ -42525,6 +42561,7 @@ METHODE SINGAPOUR
 METRO
 METRO LYON
 METRO TOULOUSE
+METROID PRIME 4
 METTE FREDERIKSEN
 METTE-MARIT
 METZ
@@ -45262,6 +45299,7 @@ MatthewStafford
 MatthewTylerVorce
 Matthias Aebischer
 Matthias Casse
+Matthias Diependaele
 Matthias Ecke
 Matthias Kyburz
 Matthias Mayer
@@ -45272,6 +45310,7 @@ Matthias Schweighöfer
 Matthias Sempach
 MatthiasAebischer
 MatthiasCasse
+MatthiasDiependaele
 MatthiasEcke
 MatthiasKyburz
 MatthiasMayer
@@ -45826,6 +45865,8 @@ Metro Lyon
 Metro Toulouse
 MetroLyon
 MetroToulouse
+Metroid Prime 4
+MetroidPrime4
 Mette Frederiksen
 Mette-Marit
 MetteFrederiksen
@@ -47997,6 +48038,7 @@ NOAH KAHAN
 NOAH LYLES
 NOAH OKAFOR
 NOAH SCHNAPP
+NOAM CHOMSKY
 NOBEL
 NOCIBE
 NOE PONTI
@@ -49191,6 +49233,8 @@ NoahKahan
 NoahLyles
 NoahOkafor
 NoahSchnapp
+Noam Chomsky
+NoamChomsky
 Nobel
 Nocibe
 Noe Ponti
@@ -51862,9 +51906,11 @@ PORTUGAL ISLAND
 PORTUGAL LIECHTENSTEIN
 PORTUGAL LUXEMBOURG
 PORTUGAL MACEDOINE
+PORTUGAL REPUBLIQUE TCHEQUE
 PORTUGAL RUGBY
 PORTUGAL SERBIEN
 PORTUGAL SUISSE
+PORTUGAL TSCHECHIEN
 PORTUGAL TURQUIE
 PORTUGAL TÜRKEI
 PORTUGAL VOETBAL
@@ -54241,6 +54287,7 @@ Portugal Liechtenstein
 Portugal Luxembourg
 Portugal Serbien
 Portugal Suisse
+Portugal Tschechien
 Portugal Turquie
 Portugal Türkei
 Portugal corona
@@ -54251,6 +54298,7 @@ Portugal gegen Spanien
 Portugal gegen Tschechien
 Portugal island
 Portugal macedoine
+Portugal republique tcheque
 Portugal rugby
 Portugal voetbal
 Portugal – Croatie
@@ -54291,6 +54339,7 @@ PortugalSerbien
 PortugalServië
 PortugalSpanje
 PortugalSuisse
+PortugalTschechien
 PortugalTurquie
 PortugalTürkei
 Portugalcorona
@@ -54301,6 +54350,7 @@ PortugalgegenSpanien
 PortugalgegenTschechien
 Portugalisland
 Portugalmacedoine
+Portugalrepubliquetcheque
 Portugalrugby
 Portugalvoetbal
 Portugal–Croatie
@@ -58913,6 +58963,7 @@ SCHWEIZ LETTLAND EISHOCKEY
 SCHWEIZ NORDIRLAND
 SCHWEIZ NORWEGEN
 SCHWEIZ PORTUGAL
+SCHWEIZ SCHOTTLAND
 SCHWEIZ SPANIEN
 SCHWEIZ SPANIEN FRAUEN
 SCHWEIZ TOURISMUS
@@ -59106,6 +59157,7 @@ SERENA WILLIAMS
 SERGE AURIER
 SERGE DUFOULON
 SERGE GAINSBOURG
+SERGE KLARSFELD
 SERGE LAMA
 SERGE REGGIANI
 SERGE VIEIRA
@@ -59317,6 +59369,7 @@ SIMONE SIGNORET
 SIMONE SUSINNA
 SIMONE THOMALLA
 SIMONE VEIL
+SIMONE WEIL
 SIMONETTA SOMMARUGA
 SIMPLE MINDS
 SIMPLY RED
@@ -60223,6 +60276,7 @@ SUISSE - NOUVELLE-ZÉLANDE
 SUISSE - TURQUIE
 SUISSE BULGARIE
 SUISSE ESPAGNE
+SUISSE EURO 2024
 SUISSE FRANCE
 SUISSE IRLANDE DU NORD
 SUISSE ITALIE
@@ -61274,6 +61328,7 @@ Schweiz Lettland Eishockey
 Schweiz Nordirland
 Schweiz Norwegen
 Schweiz Portugal
+Schweiz Schottland
 Schweiz Spanien
 Schweiz Spanien frauen
 Schweiz Tourismus
@@ -61309,6 +61364,7 @@ SchweizLettlandEishockey
 SchweizNordirland
 SchweizNorwegen
 SchweizPortugal
+SchweizSchottland
 SchweizSpanien
 SchweizSpanienfrauen
 SchweizTourismus
@@ -61613,12 +61669,14 @@ SerenaWilliams
 Serge Aurier
 Serge Dufoulon
 Serge Gainsbourg
+Serge Klarsfeld
 Serge Lama
 Serge Reggiani
 Serge Vieira
 SergeAurier
 SergeDufoulon
 SergeGainsbourg
+SergeKlarsfeld
 SergeLama
 SergeReggiani
 SergeVieira
@@ -61966,12 +62024,14 @@ Simone Signoret
 Simone Susinna
 Simone Thomalla
 Simone Veil
+Simone Weil
 SimoneBallack
 SimoneBiles
 SimoneSignoret
 SimoneSusinna
 SimoneThomalla
 SimoneVeil
+SimoneWeil
 Simonetta Sommaruga
 SimonettaSommaruga
 Simple Minds
@@ -63415,6 +63475,7 @@ Suisse - Nouvelle-Zélande
 Suisse - Turquie
 Suisse Bulgarie
 Suisse Espagne
+Suisse Euro 2024
 Suisse France
 Suisse Irlande du Nord
 Suisse Italie
@@ -63433,6 +63494,7 @@ Suisse-Nouvelle-Zélande
 Suisse-Turquie
 SuisseBulgarie
 SuisseEspagne
+SuisseEuro2024
 SuisseFrance
 SuisseIrlandeduNord
 SuisseItalie
@@ -64943,6 +65005,7 @@ TRACTORPULLING KNUTWIL
 TRACY CHAPMAN
 TRACY TRACHSLER
 TRAIN
+TRAIN DE LA MURE
 TRAIN WORLD
 TRAINS GRÈVE SNCF
 TRAJKOVSKI
@@ -65085,6 +65148,7 @@ TURKEI WALES
 TURKEIWALES
 TURKEY
 TURKIJE
+TURKIJE GEORGIE
 TURKIJE VOETBAL
 TURKIJEVOETBAL
 TURKIYE
@@ -65093,6 +65157,7 @@ TURNEN OLYMPISCHE SPELEN
 TURNHOUT
 TURNING RED
 TURQUIE
+TURQUIE GEORGIE EURO
 TURQUIE PAYS DE GALLES
 TURQUIE – ITALIE
 TURQUIE – ÎLES FÉROÉ
@@ -66983,7 +67048,9 @@ TracyChapman
 TracyTrachsler
 Train
 Train World
+Train de La Mure
 TrainWorld
+TraindeLaMure
 Trains grève SNCF
 TrainsgrèveSNCF
 Trajkovski
@@ -67221,7 +67288,9 @@ Turkei Wales
 TurkeiWales
 Turkey
 Turkije
+Turkije georgie
 Turkije voetbal
+Turkijegeorgie
 Turkijevoetbal
 Turkiye
 Turkmenistan
@@ -67232,10 +67301,12 @@ Turning Red
 TurningRed
 Turquie
 Turquie Pays de Galles
+Turquie georgie Euro
 Turquie pays de Galles
 Turquie – Italie
 Turquie – Îles Féroé
 TurquiePaysdeGalles
+TurquiegeorgieEuro
 TurquiepaysdeGalles
 Turquie–Italie
 Turquie–ÎlesFéroé
@@ -72460,6 +72531,7 @@ accident bus voiture yvelines
 accident car
 accident centre équestre
 accident chantier metro toulouse
+accident chartres
 accident de chasse
 accident de la route
 accident e42
@@ -75659,6 +75731,7 @@ brad pitt emily ratajkowski
 braderie
 bradley barcola
 bradley cooper
+bradley wiggins
 braga  benfica
 braga  union
 braga – benfica
@@ -76544,6 +76617,7 @@ ceux qui veulent ma mort
 cf intercity
 cff
 cgn
+cgt
 cgt apologie terrorisme
 chadli
 chadwick boseman
@@ -77550,6 +77624,7 @@ coupure electricite
 coupure electricite angers
 coupure electricite paris
 coupures compteur linky
+courbevoie
 courchevel
 courchevel meribel
 courir
@@ -78451,6 +78526,7 @@ dingo
 dinky toys
 dinner for one
 dino scala
+dintikon
 dion cools
 dior
 dioxine
@@ -81404,6 +81480,7 @@ gepard-panzer
 geraardsbergen
 gerald de palmas
 gerald marie
+gerald pichowetz
 geraldine carre
 geraldine kemper
 geraldine maillet
@@ -81983,6 +82060,7 @@ guardian
 guatemala
 gubristtunnel
 gucci
+gud
 guedelon
 guendouzi
 guenther steiner
@@ -82406,6 +82484,7 @@ hemelvaart
 hemiksem
 henchman
 henderson
+hendrik van crombrugge
 hengelhoef
 henipavirus
 henri garcin
@@ -83558,6 +83637,7 @@ jan böhmermann: laura müller
 jan callebaut
 jan callewaert
 jan ceuleers
+jan cremer
 jan de lichte
 jan delay
 jan fabre
@@ -83656,6 +83736,7 @@ jay adams
 jay leno
 jay weinberg
 jay-z
+jaylen brown
 jayne mansfield
 jayson tatum
 jazz
@@ -84829,6 +84910,7 @@ kinder rappel
 kinderarts veldegem
 kinderfest
 kinderfest herisau
+kinderfest st.gallen
 kindertag
 kinderumzug sechseläuten
 kinds of kindness
@@ -85029,6 +85111,7 @@ kroatie spanje
 kroatien
 kroatien  tschechien
 kroatien - tschechien
+kroatien albanien
 kroatien brasilien
 kroatien frankreich
 kroatien gegen brasilien
@@ -86090,6 +86173,7 @@ lila bouadma
 lili elbe
 lili marleen
 lili reinhart
+lilian brassier
 lilian top chef
 liliane saint-pierre
 lilibet
@@ -86170,6 +86254,7 @@ linkedin
 linkerwoofer
 lino ventura
 linoy ashram
+lint
 linus strasser
 linus tech tips
 lio
@@ -87814,6 +87899,7 @@ matthew tyler vorce
 matthewperry
 matthias aebischer
 matthias casse
+matthias diependaele
 matthias ecke
 matthias kyburz
 matthias mayer
@@ -88143,6 +88229,7 @@ methode singapour
 metro
 metro lyon
 metro toulouse
+metroid prime 4
 mette frederiksen
 mette-marit
 metz
@@ -89551,6 +89638,7 @@ noah kahan
 noah lyles
 noah okafor
 noah schnapp
+noam chomsky
 nobel
 nocibe
 noe ponti
@@ -91241,9 +91329,11 @@ portugal island
 portugal liechtenstein
 portugal luxembourg
 portugal macedoine
+portugal republique tcheque
 portugal rugby
 portugal serbien
 portugal suisse
+portugal tschechien
 portugal turquie
 portugal türkei
 portugal voetbal
@@ -93376,6 +93466,7 @@ schweiz lettland eishockey
 schweiz nordirland
 schweiz norwegen
 schweiz portugal
+schweiz schottland
 schweiz spanien
 schweiz spanien frauen
 schweiz tourismus
@@ -93557,6 +93648,7 @@ serena williams
 serge aurier
 serge dufoulon
 serge gainsbourg
+serge klarsfeld
 serge lama
 serge reggiani
 serge vieira
@@ -93766,6 +93858,7 @@ simone signoret
 simone susinna
 simone thomalla
 simone veil
+simone weil
 simonetta sommaruga
 simple minds
 simply red
@@ -94615,6 +94708,7 @@ suisse - nouvelle-zélande
 suisse - turquie
 suisse bulgarie
 suisse espagne
+suisse euro 2024
 suisse france
 suisse irlande du nord
 suisse italie
@@ -95879,6 +95973,7 @@ tractorpulling knutwil
 tracy chapman
 tracy trachsler
 train
+train de la mure
 train world
 trains grève sncf
 trajkovski
@@ -96021,6 +96116,7 @@ turkei wales
 turkeiwales
 turkey
 turkije
+turkije georgie
 turkije voetbal
 turkijevoetbal
 turkiye
@@ -96029,6 +96125,7 @@ turnen olympische spelen
 turnhout
 turning red
 turquie
+turquie georgie euro
 turquie pays de galles
 turquie – italie
 turquie – îles féroé
