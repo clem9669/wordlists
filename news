@@ -6712,6 +6712,7 @@ BAGNOLS-SUR CEZE
 BAGQuarantäne
 BAHNHOF LUZERN
 BAHNHOF OLTEN UNFALL
+BAHNHOFBUFFET OLTEN
 BAHRAIN VICTORIOUS
 BAHREIN
 BAIE DE SALLENELLES
@@ -7399,6 +7400,7 @@ BERTRAND MEUNIER ATOS
 BERTRAND PICCARD
 BERTRAND RENARD
 BERTRIX
+BERYL
 BESANCON
 BESIKTAS
 BESKO
@@ -7998,6 +8000,7 @@ BRASILIEN GEGEN SERBIEN
 BRASILIEN GEGEN SÜDKOREA
 BRASILIEN WAHLEN
 BRASILIEN WAHLEN 2022
+BRASILIEN – KOLUMBIEN
 BRASS AGAINST
 BRASSENS
 BRASSERIE LORRAINE
@@ -8022,6 +8025,7 @@ BREMER
 BREMER SV GEGEN BAYERN
 BREMER SV – BAYERN
 BREMGARTEN
+BRENDA BIYA
 BRENDA LEE
 BRENDA PATEA
 BRENDA SONG
@@ -8249,6 +8253,7 @@ BRÉSIL
 BRÉSIL – ARGENTINE
 BRÉSIL – BOLIVIE
 BRÉSIL – CHILI
+BRÉSIL – COLOMBIE
 BRÉSIL – CORÉE DU SUD
 BRÉSIL – GHANA
 BRÉSIL – GUINÉE
@@ -8485,6 +8490,8 @@ Bahnhof Luzern
 Bahnhof Olten Unfall
 BahnhofLuzern
 BahnhofOltenUnfall
+Bahnhofbuffet Olten
+BahnhofbuffetOlten
 Bahrain Victorious
 BahrainVictorious
 Bahrein
@@ -9680,6 +9687,7 @@ BertrandPiccard
 BertrandRenard
 BertranddelaChesnais
 Bertrix
+Beryl
 Besancon
 Besiktas
 Besko
@@ -10604,6 +10612,7 @@ Brasilien gegen Argentinien
 Brasilien gegen Schweiz
 Brasilien gegen Serbien
 Brasilien gegen Südkorea
+Brasilien – Kolumbien
 Brasilien-Argentinien
 BrasilienArgentinien
 BrasilienWahlen
@@ -10612,6 +10621,7 @@ BrasiliengegenArgentinien
 BrasiliengegenSchweiz
 BrasiliengegenSerbien
 BrasiliengegenSüdkorea
+Brasilien–Kolumbien
 Brass Against
 BrassAgainst
 Brassens
@@ -10650,9 +10660,11 @@ Bremer SV – Bayern
 BremerSVgegenBayern
 BremerSV–Bayern
 Bremgarten
+Brenda Biya
 Brenda Lee
 Brenda Patea
 Brenda Song
+BrendaBiya
 BrendaLee
 BrendaPatea
 BrendaSong
@@ -11032,6 +11044,7 @@ Brésil - Pérou
 Brésil – Argentine
 Brésil – Bolivie
 Brésil – Chili
+Brésil – Colombie
 Brésil – Corée du Sud
 Brésil – Equateur
 Brésil – Ghana
@@ -11047,6 +11060,7 @@ BrésilPérou
 Brésil–Argentine
 Brésil–Bolivie
 Brésil–Chili
+Brésil–Colombie
 Brésil–CoréeduSud
 Brésil–Equateur
 Brésil–Ghana
@@ -11427,6 +11441,7 @@ CANDIDATE BAC 9 ANS
 CANDIDATS EUROPÉENNES
 CANDIDATS EUROPÉENNES 2024
 CANDIDATS LEGISLATIVES
+CANDIDATS LÉGISLATIVES 2024
 CANDIDATS PRÉSIDENTIELLE 2022
 CANDIDE RENARD
 CANDYMAN
@@ -13274,10 +13289,12 @@ Candidatebac9ans
 Candidats européennes
 Candidats européennes 2024
 Candidats legislatives
+Candidats législatives 2024
 Candidats présidentielle 2022
 Candidatseuropéennes
 Candidatseuropéennes2024
 Candidatslegislatives
+Candidatslégislatives2024
 Candidatsprésidentielle2022
 Candide Renard
 CandideRenard
@@ -19844,6 +19861,7 @@ ERIC JUDOR
 ERIC PERROT
 ERIC PHILIPPI
 ERIC PIOLLE
+ERIC POUJADE
 ERIC ROY
 ERIC SAADE
 ERIC STEHFEST
@@ -21312,6 +21330,7 @@ Eric Judor
 Eric Perrot
 Eric Philippi
 Eric Piolle
+Eric Poujade
 Eric Roy
 Eric Saade
 Eric Stehfest
@@ -21342,6 +21361,7 @@ EricJudor
 EricPerrot
 EricPhilippi
 EricPiolle
+EricPoujade
 EricRoy
 EricSaade
 EricStehfest
@@ -22215,6 +22235,7 @@ FAIRPHONE 5
 FAISAL KAWUSI
 FAITES SAUTER LA BANQUE
 FALCO
+FALKO OCHSENKNECHT
 FALL GUYS
 FALL MADDIE MCCANN
 FALLON SHERROCK
@@ -23669,6 +23690,8 @@ FaisalKawusi
 Faites sauter la banque
 Faitessauterlabanque
 Falco
+Falko Ochsenknecht
+FalkoOchsenknecht
 Fall Guys
 Fall Maddie McCann
 FallGuys
@@ -26097,6 +26120,7 @@ GILLES ARNAUD BAILLY
 GILLES ARTIGUES
 GILLES BEYER
 GILLES BOULEAU
+GILLES BOURDOULEIX
 GILLES D'ETTORE
 GILLES KEPEL
 GILLES LE GENDRE
@@ -26123,6 +26147,7 @@ GIORGIO NAPOLITANO
 GIORGIO PARISI
 GIOVANNI ANGIOLINI
 GIOVANNI FALCONE
+GIOVANNI MPETSHI PERRICARD
 GIOVANNI SIMEONE
 GIOVANNI TOTI
 GIOVANNI ZARRELLA
@@ -27487,6 +27512,7 @@ Gilles Arnaud Bailly
 Gilles Artigues
 Gilles Beyer
 Gilles Bouleau
+Gilles Bourdouleix
 Gilles Kepel
 Gilles Le Gendre
 Gilles Lellouche
@@ -27502,6 +27528,7 @@ GillesArnaudBailly
 GillesArtigues
 GillesBeyer
 GillesBouleau
+GillesBourdouleix
 GillesKepel
 GillesLeGendre
 GillesLellouche
@@ -27543,11 +27570,13 @@ GiorgioNapolitano
 GiorgioParisi
 Giovanni Angiolini
 Giovanni Falcone
+Giovanni Mpetshi Perricard
 Giovanni Simeone
 Giovanni Toti
 Giovanni Zarrella
 GiovanniAngiolini
 GiovanniFalcone
+GiovanniMpetshiPerricard
 GiovanniSimeone
 GiovanniToti
 GiovanniZarrella
@@ -32056,6 +32085,7 @@ JAN SMIT
 JAN ULLRICH
 JAN VAN HECKE
 JAN VERTONGHEN
+JANA AZIZI
 JANA INA
 JANCOVICI
 JANE BIRKIN
@@ -33286,7 +33316,9 @@ JanSmit
 JanUllrich
 JanVanHecke
 JanVertonghen
+Jana Azizi
 Jana Ina
+JanaAzizi
 JanaIna
 Jancovici
 JandeLichte
@@ -37191,6 +37223,7 @@ LA VILLA DES COEURS BRISÉS
 LA VOIE DE LA JUSTICE
 LA VOIX DU NORD
 LA VUELTA
+LA VÉRITÉ SI JE MENS
 LA ZARRA
 LA ZARRA EUROVISION
 LA ZONE D'INTÉRÊT
@@ -38421,6 +38454,7 @@ LOUIS PARTRIDGE
 LOUIS PATRIS
 LOUIS SARKOZY
 LOUIS TALPE
+LOUIS THYSSEN
 LOUIS TOMLINSON
 LOUIS VAN GAAL
 LOUIS VELLE
@@ -38847,6 +38881,7 @@ La vie revee des autres
 La vie, l'amour, tout de suite
 La villa des coeurs brisés
 La voie de la justice
+La vérité si je mens
 La-Croix-de-la-Rochette
 La-Liga
 LaBaule
@@ -39367,6 +39402,7 @@ Lavinia Wollny
 LaviniaWollny
 Lavoiedelajustice
 Lavrov
+Lavéritésijemens
 Lawrow
 Layla
 Laylow
@@ -41189,6 +41225,7 @@ Louis Partridge
 Louis Patris
 Louis Sarkozy
 Louis Talpe
+Louis Thyssen
 Louis Tomlinson
 Louis Velle
 Louis Vervaeke
@@ -41212,6 +41249,7 @@ LouisPartridge
 LouisPatris
 LouisSarkozy
 LouisTalpe
+LouisThyssen
 LouisTomlinson
 LouisVelle
 LouisVervaeke
@@ -43015,6 +43053,7 @@ MERET SCHNEIDER
 MERGIM BERISHA
 MERIBEL
 MERIBEL COURCHEVEL
+MERIH DEMIRAL
 MERIT CAPITAL
 MERKEL PARTEI
 MERKSPLAS
@@ -46285,6 +46324,8 @@ MergimBerisha
 Meribel
 Meribel Courchevel
 MeribelCourchevel
+Merih Demiral
+MerihDemiral
 Merit Capital
 MeritCapital
 Merkel Partei
@@ -48504,6 +48545,7 @@ NICOLE REIST
 NICOLE SCHMIDHOFER
 NICOLE SHANAHAN
 NICOLETTA
+NIEDERLANDE
 NIEDERLANDE GEGEN ARGENTINIEN
 NIEDERLANDE TSCHECHIEN
 NIEDERLANDE – ÖSTERREICH
@@ -48587,6 +48629,7 @@ NINO CASTELNUOVO
 NINO CERRUTI
 NINO NIEDERREITER
 NINO SCHURTER
+NINO VELLA
 NINTENDO DIRECT
 NINTENDO SWITCH
 NINTENDO SWITCH BLACK FRIDAY
@@ -49645,6 +49688,7 @@ NicoledeMoor
 NicoleenHugo
 Nicoleoverleden
 Nicoletta
+Niederlande
 Niederlande Tschechien
 Niederlande gegen Argentinien
 Niederlande – Österreich
@@ -49782,10 +49826,12 @@ Nino Castelnuovo
 Nino Cerruti
 Nino Niederreiter
 Nino Schurter
+Nino Vella
 NinoCastelnuovo
 NinoCerruti
 NinoNiederreiter
 NinoSchurter
+NinoVella
 Nintendo Direct
 Nintendo Switch
 Nintendo Switch Black Friday
@@ -49809,11 +49855,13 @@ NizzaFCBasel
 Nkunku
 No Angels
 No Nut November
+No Pasaran
 No Time To Die
 No Time to Die
 No pasaran
 NoAngels
 NoNutNovember
+NoPasaran
 NoTimeToDie
 NoTimetoDie
 Noa Argamani
@@ -50695,6 +50743,7 @@ OULA PALVE
 OUMI
 OUNAHI
 OURA RING
+OURAGAN BERYL
 OURAGAN FRANCE
 OURAGAN IAN
 OURAGAN IDALIA FLORIDE
@@ -51400,12 +51449,14 @@ Ouragan Idalia Floride
 Ouragan Mexique
 Ouragan Tammy
 Ouragan Tammy Guadeloupe
+Ouragan beryl
 OuraganFrance
 OuraganIan
 OuraganIdaliaFloride
 OuraganMexique
 OuraganTammy
 OuraganTammyGuadeloupe
+Ouraganberyl
 Ourika
 Ours malais
 Oursmalais
@@ -51594,6 +51645,7 @@ PARALYMPISCHE SPELEN
 PARALYMPISCHE SPIELE
 PARAMOUR
 PARASITE
+PARC ASTERIX
 PARC ATTRACTION ALLEMAGNE ACCIDENT
 PARC DES PRINCES
 PARC ROI BAUDOUIN JETTE
@@ -53232,10 +53284,12 @@ Paramour
 Parasite
 Parc Roi Baudouin Jette
 Parc Wonderland Var accident
+Parc asterix
 Parc attraction Allemagne accident
 Parc des Princes
 ParcRoiBaudouinJette
 ParcWonderlandVaraccident
+Parcasterix
 ParcattractionAllemagneaccident
 ParcdesPrinces
 Parcour Dwars door Vlaanderen 2022
@@ -56613,6 +56667,8 @@ RODRYGO
 ROE V. WADE
 ROE VS WADE
 ROEBEL
+ROEMENIË-NEDERLAND
+ROEMENIËNEDERLAND
 ROERENDE VOORHEFFING STAATSBON
 ROERMOND
 ROG ALLY
@@ -56800,6 +56856,7 @@ ROUMANIE
 ROUMANIE - UKRAINE
 ROUMANIE PAYS-BAS
 ROUMANIE UKRAINE
+ROUMANIE – PAYS-BAS
 ROUQUINE
 ROUSSEL
 ROUTE DU RHUM
@@ -56932,6 +56989,7 @@ RUINED KING
 RUINERWOLD
 RUJA IGNATOVA
 RUMBA LA VIE
+RUMÄNIEN NIEDERLANDE
 RUMÄNIEN UKRAINE
 RUN IN LYON
 RUNGIS
@@ -58812,9 +58870,12 @@ Roumanie - Ukraine
 Roumanie Pays-Bas
 Roumanie PaysBas
 Roumanie Ukraine
+Roumanie – Pays-Bas
+Roumanie – PaysBas
 Roumanie-Ukraine
 RoumaniePays-Bas
 RoumanieUkraine
+Roumanie–Pays-Bas
 Rouquine
 Roussel
 Route du Rhum
@@ -58938,7 +58999,9 @@ Ruja Ignatova
 RujaIgnatova
 Rumba la vie
 Rumbalavie
+Rumänien Niederlande
 Rumänien Ukraine
+RumänienNiederlande
 RumänienUkraine
 Run in Lyon
 Rungis
@@ -59509,6 +59572,7 @@ SASSUOLO  JUVENTUS
 SASSUOLO – INTER
 SASSUOLO – JUVENTUS
 SASSUOLO – NAPLES
+SAT
 SATAN 2
 SATIGNY
 SAUBER
@@ -65944,6 +66008,7 @@ TURKEIWALES
 TURKEY
 TURKIJE
 TURKIJE GEORGIE
+TURKIJE OOSTENRIJK
 TURKIJE VOETBAL
 TURKIJEVOETBAL
 TURKIYE
@@ -65953,6 +66018,7 @@ TURNHOUT
 TURNIERBAUM EM 2024
 TURNING RED
 TURQUIE
+TURQUIE AUTRICHE
 TURQUIE GEORGIE EURO
 TURQUIE PAYS DE GALLES
 TURQUIE PORTUGAL
@@ -68113,8 +68179,10 @@ Turkei Wales
 TurkeiWales
 Turkey
 Turkije
+Turkije Oostenrijk
 Turkije georgie
 Turkije voetbal
+TurkijeOostenrijk
 Turkijegeorgie
 Turkijevoetbal
 Turkiye
@@ -68127,6 +68195,7 @@ TurnierbaumEM2024
 Turning Red
 TurningRed
 Turquie
+Turquie Autriche
 Turquie Pays de Galles
 Turquie Portugal
 Turquie georgie Euro
@@ -68134,6 +68203,7 @@ Turquie pays de Galles
 Turquie republique tcheque
 Turquie – Italie
 Turquie – Îles Féroé
+TurquieAutriche
 TurquiePaysdeGalles
 TurquiePortugal
 TurquiegeorgieEuro
@@ -68208,6 +68278,7 @@ TÜRKEI KROATIEN
 TÜRKEI LETTLAND
 TÜRKEI TSCHECHIEN
 TÜRKEI WAHLEN
+TÜRKEI ÖSTERREICH
 Télescope spatial James Webb
 TélescopespatialJamesWebb
 Télématin Julia Vignali
@@ -68221,10 +68292,12 @@ Türkei Kroatien
 Türkei Lettland
 Türkei Tschechien
 Türkei Wahlen
+Türkei Österreich
 TürkeiKroatien
 TürkeiLettland
 TürkeiTschechien
 TürkeiWahlen
+TürkeiÖsterreich
 U-BOOT TITANIC
 U-Boot Titanic
 U-BootTitanic
@@ -70864,6 +70937,7 @@ WALLISELLEN
 WALLISERKANNE
 WALPURGISNACHT
 WALROSS FREYA EINGESCHLÄFERT
+WALTENSCHWIL
 WALTER BENETEAU
 WALTER FUST
 WALTER GROOTAERS
@@ -71012,6 +71086,7 @@ WERK OHNE AUTOR
 WERKTUIGENDAGEN
 WERNER SALZMANN
 WERNER VAN GENT
+WERO
 WES
 WES ANDERSON
 WESLEY FOFANA
@@ -71324,6 +71399,7 @@ WOLFGANG WIENAND
 WOLFSBOURG – BAYERN
 WOLFSBURG GEGEN BAYERN
 WOLFSBURG GEGEN DORTMUND
+WOLFSGRUSS
 WOLFSPIN
 WOLHUSEN
 WOLKE HEGENBARTH
@@ -71482,6 +71558,7 @@ WallisetFutuna
 Walpurgisnacht
 Walross Freya eingeschläfert
 WalrossFreyaeingeschläfert
+Waltenschwil
 Walter Fust
 Walter Grootaers
 Walter Scheibli
@@ -71699,6 +71776,7 @@ Werner Salzmann
 Werner van Gent
 WernerSalzmann
 WernervanGent
+Wero
 WerstiehltmirdieShow
 Werweissdennsowas
 WerwirdMillionär
@@ -72095,6 +72173,7 @@ Wolfsburg gegen Bayern
 Wolfsburg gegen Dortmund
 WolfsburggegenBayern
 WolfsburggegenDortmund
+Wolfsgruss
 Wolfspin
 Wolhusen
 Wolke Hegenbarth
@@ -75453,6 +75532,7 @@ bagnaia
 bagnols-sur ceze
 bahnhof luzern
 bahnhof olten unfall
+bahnhofbuffet olten
 bahrain victorious
 bahrein
 baie de sallenelles
@@ -76128,6 +76208,7 @@ bertrand meunier atos
 bertrand piccard
 bertrand renard
 bertrix
+beryl
 besancon
 besiktas
 besko
@@ -76695,6 +76776,7 @@ brasilien gegen serbien
 brasilien gegen südkorea
 brasilien wahlen
 brasilien wahlen 2022
+brasilien – kolumbien
 brass against
 brassens
 brasserie lorraine
@@ -76719,6 +76801,7 @@ bremer
 bremer sv gegen bayern
 bremer sv – bayern
 bremgarten
+brenda biya
 brenda lee
 brenda patea
 brenda song
@@ -76937,6 +77020,7 @@ brésil – Equateur
 brésil – argentine
 brésil – bolivie
 brésil – chili
+brésil – colombie
 brésil – corée du sud
 brésil – ghana
 brésil – guinée
@@ -77232,6 +77316,7 @@ candidate bac 9 ans
 candidats européennes
 candidats européennes 2024
 candidats legislatives
+candidats législatives 2024
 candidats présidentielle 2022
 candide renard
 candyman
@@ -80507,6 +80592,7 @@ eric judor
 eric perrot
 eric philippi
 eric piolle
+eric poujade
 eric roy
 eric saade
 eric stehfest
@@ -81016,6 +81102,7 @@ fairphone 5
 faisal kawusi
 faites sauter la banque
 falco
+falko ochsenknecht
 fall guys
 fall maddie mccann
 fallon sherrock
@@ -82609,6 +82696,7 @@ gilles arnaud bailly
 gilles artigues
 gilles beyer
 gilles bouleau
+gilles bourdouleix
 gilles d'ettore
 gilles kepel
 gilles le gendre
@@ -82635,6 +82723,7 @@ giorgio napolitano
 giorgio parisi
 giovanni angiolini
 giovanni falcone
+giovanni mpetshi perricard
 giovanni simeone
 giovanni toti
 giovanni zarrella
@@ -84682,6 +84771,7 @@ jan smit
 jan ullrich
 jan van hecke
 jan vertonghen
+jana azizi
 jana ina
 jancovici
 jane birkin
@@ -86456,6 +86546,7 @@ la villa des coeurs brisés
 la voie de la justice
 la voix du nord
 la vuelta
+la vérité si je mens
 la zarra
 la zarra eurovision
 la zone d'intérêt
@@ -87658,6 +87749,7 @@ louis partridge
 louis patris
 louis sarkozy
 louis talpe
+louis thyssen
 louis tomlinson
 louis van gaal
 louis velle
@@ -89231,6 +89323,7 @@ meret schneider
 mergim berisha
 meribel
 meribel courchevel
+merih demiral
 merit capital
 merkel partei
 merksplas
@@ -90618,6 +90711,7 @@ nicole reist
 nicole schmidhofer
 nicole shanahan
 nicoletta
+niederlande
 niederlande gegen argentinien
 niederlande tschechien
 niederlande – österreich
@@ -90701,6 +90795,7 @@ nino castelnuovo
 nino cerruti
 nino niederreiter
 nino schurter
+nino vella
 nintendo direct
 nintendo switch
 nintendo switch black friday
@@ -91366,6 +91461,7 @@ oula palve
 oumi
 ounahi
 oura ring
+ouragan beryl
 ouragan france
 ouragan ian
 ouragan idalia floride
@@ -91525,6 +91621,7 @@ paralympische spelen
 paralympische spiele
 paramour
 parasite
+parc asterix
 parc attraction allemagne accident
 parc des princes
 parc roi baudouin jette
@@ -93719,6 +93816,7 @@ rodrygo
 roe v. wade
 roe vs wade
 roebel
+roemenië-nederland
 roerende voorheffing staatsbon
 roermond
 rog ally
@@ -93904,6 +94002,7 @@ roumanie
 roumanie - ukraine
 roumanie pays-bas
 roumanie ukraine
+roumanie – pays-bas
 rouquine
 roussel
 route du rhum
@@ -94000,6 +94099,7 @@ ruined king
 ruinerwold
 ruja ignatova
 rumba la vie
+rumänien niederlande
 rumänien ukraine
 run in lyon
 rungis
@@ -94457,6 +94557,7 @@ sassuolo  juventus
 sassuolo – inter
 sassuolo – juventus
 sassuolo – naples
+sat
 satan 2
 satigny
 sauber
@@ -97284,6 +97385,7 @@ turkeiwales
 turkey
 turkije
 turkije georgie
+turkije oostenrijk
 turkije voetbal
 turkijevoetbal
 turkiye
@@ -97293,6 +97395,7 @@ turnhout
 turnierbaum em 2024
 turning red
 turquie
+turquie autriche
 turquie georgie euro
 turquie pays de galles
 turquie portugal
@@ -97351,6 +97454,7 @@ türkei kroatien
 türkei lettland
 türkei tschechien
 türkei wahlen
+türkei österreich
 u-boot titanic
 u17-wm finale
 u18 eishockey wm
@@ -98348,6 +98452,7 @@ wallisellen
 walliserkanne
 walpurgisnacht
 walross freya eingeschläfert
+waltenschwil
 walter beneteau
 walter fust
 walter grootaers
@@ -98487,6 +98592,7 @@ werk ohne autor
 werktuigendagen
 werner salzmann
 werner van gent
+wero
 wes
 wes anderson
 wesley fofana
@@ -98740,6 +98846,7 @@ wolfgang wienand
 wolfsbourg – bayern
 wolfsburg gegen bayern
 wolfsburg gegen dortmund
+wolfsgruss
 wolfspin
 wolhusen
 wolke hegenbarth
