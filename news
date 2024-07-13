@@ -825,6 +825,7 @@ ACCIDENT FLEMALLE
 ACCIDENT FLIXBUS ALLEMAGNE
 ACCIDENT JURA
 ACCIDENT LAUSANNE
+ACCIDENT MALLEY
 ACCIDENT MARC-PHILIPPE DAUBRESSE
 ACCIDENT MARCINELLE
 ACCIDENT MARCQ ENGHIEN
@@ -1597,6 +1598,7 @@ AMANDINE PELLISSARD
 AMANDINE PELLISSARD FAMILLE NOMBREUSE
 AMANDINE PETIT
 AMANTS
+AMAURY CAPIOT
 AMAURY PAQUET
 AMAURY VASSILI
 AMAY
@@ -1700,6 +1702,7 @@ ANAIS ROBIN
 ANAIS ROBIN DECES
 ANALE BLEACHING
 ANALIA PIGREE
+ANANT AMBANI
 ANASTACIA
 ANASTASIA ROMANOV
 ANASTASIIA LENNA
@@ -3088,6 +3091,7 @@ Accident EuropaPark
 Accident Flixbus Allemagne
 Accident Jura
 Accident Lausanne
+Accident Malley
 Accident Marc-Philippe Daubresse
 Accident MarcPhilippe Daubresse
 Accident Marcinelle
@@ -3139,6 +3143,7 @@ AccidentEuropaPark
 AccidentFlixbusAllemagne
 AccidentJura
 AccidentLausanne
+AccidentMalley
 AccidentMarc-PhilippeDaubresse
 AccidentMarcinelle
 AccidentMarcqEnghien
@@ -4462,8 +4467,10 @@ AmandinePellissard
 AmandinePellissardFamillenombreuse
 AmandinePetit
 Amants
+Amaury Capiot
 Amaury Paquet
 Amaury Vassili
+AmauryCapiot
 AmauryPaquet
 AmauryVassili
 Amay
@@ -4635,6 +4642,8 @@ Anale bleaching
 Analebleaching
 Analia pigree
 Analiapigree
+Anant Ambani
+AnantAmbani
 Anastacia
 Anastasia Romanov
 AnastasiaRomanov
@@ -7256,6 +7265,7 @@ BELLEROPHON
 BELLINGCAT
 BELLINGHAM
 BELLINZONA VADUZ
+BELLO HUGUETTE
 BELMADI
 BELMONDO
 BELMONDO OVERLEDEN
@@ -9398,6 +9408,8 @@ Bellingcat
 Bellingham
 Bellinzona Vaduz
 BellinzonaVaduz
+Bello Huguette
+BelloHuguette
 Belmadi
 Belmondo
 Belmondo overleden
@@ -11781,6 +11793,7 @@ CELTICS – HEAT
 CELTICS – MAVERICKS
 CELTICS – PACERS
 CELTICS – WARRIORS
+CELYA
 CEMBRA MONEY BANK
 CENGIZ UNDER
 CENGIZUNDER
@@ -11972,6 +11985,7 @@ CHARLES 3
 CHARLES AZNAVOUR
 CHARLES BIETRY
 CHARLES CAUDRELIER
+CHARLES CONSIGNY
 CHARLES DE COURSON
 CHARLES DE FOUCAULD
 CHARLES DE GAULLE
@@ -13827,6 +13841,7 @@ Celtics–Mavericks
 Celtics–Pacers
 Celtics–Warriors
 Celtic–Real
+Celya
 Cembra Money Bank
 CembraMoneyBank
 Cengiz Under
@@ -14144,6 +14159,7 @@ Charles 3
 Charles Aznavour
 Charles Bietry
 Charles Caudrelier
+Charles Consigny
 Charles De Ketelaere
 Charles II
 Charles III
@@ -14169,6 +14185,7 @@ CharlesAntoine Kouakou
 CharlesAznavour
 CharlesBietry
 CharlesCaudrelier
+CharlesConsigny
 CharlesDeKetelaere
 CharlesII
 CharlesIII
@@ -16575,6 +16592,7 @@ DEBORAH JAMES
 DEBORRA-LEE FURNESS HUGH JACKMAN
 DECALAGE HORAIRE
 DECATHLON CHANGE NOM
+DECAZEVILLE
 DECENTRALAND
 DECES MADEMOISELLE LUNA
 DECLAN RICE
@@ -17968,6 +17986,7 @@ Decalage horaire
 Decalagehoraire
 Decathlon change nom
 Decathlonchangenom
+Decazeville
 Decentraland
 Deces Mademoiselle Luna
 DecesMademoiselleLuna
@@ -23355,6 +23374,7 @@ FRANCE PORTUGAL
 FRANCE ROUMANIE VOLLEY
 FRANCE SENEGAL U17
 FRANCE SLOVÉNIE
+FRANCE SUEDE
 FRANCE SUEDE HANDBALL
 FRANCE TRAVAIL
 FRANCE TRAVAIL CYBERATTAQUE
@@ -23417,6 +23437,7 @@ FRANCE-PAYS DE GALLES
 FRANCE-PAYS-BAS
 FRANCE-POLOGNE
 FRANCE-PORTUGAL
+FRANCE-SERBIE BASKET
 FRANCE-SLOVÉNIE
 FRANCE-SUISSE
 FRANCE-TUNISIE
@@ -24968,6 +24989,7 @@ France insoumise, Manuel Bompard
 France inter
 France pays de Galles
 France senegal U17
+France suede
 France suede handball
 France tv
 France – Allemagne
@@ -25042,6 +25064,8 @@ France-PaysdeGalles
 France-Pologne
 France-Polognehandball
 France-Portugal
+France-Serbie basket
+France-Serbiebasket
 France-Serbiehand
 France-Slovénie
 France-Suisse
@@ -25126,6 +25150,7 @@ FrancePaysdeGalles
 FrancePologne
 FrancePortugal
 FranceRoumanievolley
+FranceSerbie basket
 FranceSlovénie
 FranceSuisse
 FranceTravail
@@ -25163,6 +25188,7 @@ Francesco Giorgi
 FrancescoFacchinetti
 FrancescoGiorgi
 FrancesenegalU17
+Francesuede
 Francesuedehandball
 Francetv
 France–Allemagne
@@ -37605,6 +37631,7 @@ LARZAC
 LAS VEGAS
 LAS VEGAS 21
 LASCHET
+LASEMO
 LASK
 LASK LINZ
 LASK Linz
@@ -37849,6 +37876,7 @@ LE TOUR DU MONDE EN 80 JOURS
 LE TRAIN
 LE TRAITRE ET LE NEANT
 LE VILLAGE DES ENDORMIS
+LE VILLAGE PRÉFÉRÉ DES FRANÇAIS
 LE VOYAGEUR
 LEA DRUCKER
 LEA ELUI
@@ -39236,6 +39264,7 @@ LaRotondeParis
 LaRoueduTemps
 LaSaint-Valentin
 LaSeineBeluga
+LaSemo
 LaStradaFilm
 LaSyndicaliste
 LaTabledeMaxime
@@ -39844,6 +39873,7 @@ Le tour du monde en 80 jours
 Le train
 Le traitre et le neant
 Le village des endormis
+Le village préféré des Français
 Le voyageur
 Le8mai
 LeBaldesfolles
@@ -40571,6 +40601,7 @@ Levi
 Levi Strauss
 LeviStrauss
 Levillagedesendormis
+LevillagepréférédesFrançais
 Levothyrox
 Levoyageur
 Lewandowski
@@ -57192,6 +57223,8 @@ ROOMIES
 ROOS VAN ACKER
 ROOS VANOTTERDIJK
 RORQUAL
+RORSCHACH
+RORSCHACHERBERG
 ROSA BONHEUR
 ROSA BONHEUR PEINTRE
 ROSALIA
@@ -59200,6 +59233,8 @@ Roos Vanotterdijk
 RoosVanAcker
 RoosVanotterdijk
 Rorqual
+Rorschach
+Rorschacherberg
 Rosa Bonheur
 Rosa Bonheur peintre
 RosaBonheur
@@ -60413,6 +60448,7 @@ SHAWN BARBER
 SHAWN MENDES
 SHAWN RHODEN
 SHAWNE FIELDING
+SHAY
 SHAZAM FILM
 SHE-HULK
 SHEA YEAH
@@ -61186,6 +61222,7 @@ STATE OF PLAY
 STATE STREET
 STATION ESSENCE CARBURANT
 STATION-ESSENCE CARBURANT PENURIE
+STATUS QUO
 STAU GOTTHARD
 STAU GOTTHARDTUNNEL
 STAUDAMM GESPRENGT
@@ -63071,6 +63108,7 @@ ShawnMendes
 ShawnRhoden
 Shawne Fielding
 ShawneFielding
+Shay
 Shazam film
 Shazamfilm
 She-Hulk
@@ -64291,6 +64329,8 @@ Station-essence carburant penurie
 Station-essencecarburantpenurie
 Stationessence carburant penurie
 Stationessencecarburant
+Status Quo
+StatusQuo
 Stau Gotthard
 Stau Gotthardtunnel
 StauGotthard
@@ -66062,6 +66102,7 @@ TONI KROOS
 TONI VESCOLI
 TONIKROOS
 TONIO SCHACHINGER
+TONKE DRAGT
 TONNEINS
 TONY BAUER
 TONY BENNETT
@@ -67946,6 +67987,8 @@ ToniKroos
 ToniVescoli
 Tonio Schachinger
 TonioSchachinger
+Tonke Dragt
+TonkeDragt
 Tonneins
 Tony Bauer
 Tony Bennett
@@ -70066,6 +70109,7 @@ VIKTORIA PLZEŇ  INTER
 VILEBREQUIN
 VILLA CAPRICE
 VILLAGE PRÉFÉRÉ DES FRANÇAIS
+VILLAGE PRÉFÉRÉ FRANÇAIS
 VILLARREAL
 VILLARREAL  BARCELONA
 VILLARREAL - ANDERLECHT
@@ -70921,7 +70965,9 @@ ViktoriapilsenBayern
 Vilebrequin
 Villa Caprice
 VillaCaprice
+Village préféré Français
 Village préféré des Français
+VillagepréféréFrançais
 VillagepréférédesFrançais
 Villarreal
 Villarreal  Anderlecht
@@ -74007,6 +74053,7 @@ accident flemalle
 accident flixbus allemagne
 accident jura
 accident lausanne
+accident malley
 accident marc-philippe daubresse
 accident marcinelle
 accident marcq enghien
@@ -74737,6 +74784,7 @@ amandine pellissard
 amandine pellissard famille nombreuse
 amandine petit
 amants
+amaury capiot
 amaury paquet
 amaury vassili
 amay
@@ -74834,6 +74882,7 @@ anais robin
 anais robin deces
 anale bleaching
 analia pigree
+anant ambani
 anastacia
 anastasia romanov
 anastasiia lenna
@@ -76532,6 +76581,7 @@ bellerophon
 bellingcat
 bellingham
 bellinzona vaduz
+bello huguette
 belmadi
 belmondo
 belmondo overleden
@@ -78105,6 +78155,7 @@ celtics – heat
 celtics – mavericks
 celtics – pacers
 celtics – warriors
+celya
 cembra money bank
 cengiz Under
 cengiz under
@@ -78288,6 +78339,7 @@ charles 3
 charles aznavour
 charles bietry
 charles caudrelier
+charles consigny
 charles de courson
 charles de foucauld
 charles de gaulle
@@ -79778,6 +79830,7 @@ deborah james
 deborra-lee furness hugh jackman
 decalage horaire
 decathlon change nom
+decazeville
 decentraland
 deces mademoiselle luna
 declan rice
@@ -82404,6 +82457,7 @@ france portugal
 france roumanie volley
 france senegal u17
 france slovénie
+france suede
 france suede handball
 france travail
 france travail cyberattaque
@@ -82466,6 +82520,7 @@ france-pays de galles
 france-pays-bas
 france-pologne
 france-portugal
+france-serbie basket
 france-slovénie
 france-suisse
 france-tunisie
@@ -87253,6 +87308,7 @@ larzac
 las vegas
 las vegas 21
 laschet
+lasemo
 lask
 lask linz
 lasse wellander
@@ -87493,6 +87549,7 @@ le tour du monde en 80 jours
 le train
 le traitre et le neant
 le village des endormis
+le village préféré des français
 le voyageur
 lea drucker
 lea elui
@@ -94599,6 +94656,8 @@ roomies
 roos van acker
 roos vanotterdijk
 rorqual
+rorschach
+rorschacherberg
 rosa bonheur
 rosa bonheur peintre
 rosalia
@@ -95621,6 +95680,7 @@ shawn barber
 shawn mendes
 shawn rhoden
 shawne fielding
+shay
 shazam film
 she-hulk
 shea yeah
@@ -96344,6 +96404,7 @@ state of play
 state street
 station essence carburant
 station-essence carburant penurie
+status quo
 stau gotthard
 stau gotthardtunnel
 staudamm gesprengt
@@ -97657,6 +97718,7 @@ toni kroos
 toni vescoli
 tonikroos
 tonio schachinger
+tonke dragt
 tonneins
 tony bauer
 tony bennett
@@ -98813,6 +98875,7 @@ viktoria plzeň  inter
 vilebrequin
 villa caprice
 village préféré des français
+village préféré français
 villarreal
 villarreal  barcelona
 villarreal - anderlecht
