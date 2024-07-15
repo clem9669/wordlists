@@ -833,6 +833,7 @@ ACCIDENT METRO PARISIEN
 ACCIDENT MINIBUS HOUEILLES
 ACCIDENT MORTEL
 ACCIDENT MORTEL LUNA PARK
+ACCIDENT MOUSCRON
 ACCIDENT SKI ENFANT GRAND-BORNAND
 ACCIDENT SPA-FRANCORCHAMPS
 ACCIDENT STRUCTURE GONFLABLE
@@ -1577,6 +1578,7 @@ ALTENAHR
 ALTINA SCHINASI
 ALTMAIER
 ALVAN &AMP; AHEZ
+ALVARO MORATA
 ALVARO RODRIGUEZ
 ALVLEESKLIERKANKER
 ALZHEIMER
@@ -2290,6 +2292,7 @@ ARGENTINIEN WAHLEN MILEI
 ARGENTINIEN – KANADA
 ARGENTINIË  AUSTRALIË
 ARGENTINIË  CANADA
+ARGENTINIË  COLOMBIA
 ARGENTINIË  FRANKRIJK
 ARGENTINIË  KROATIË
 ARGENX
@@ -3098,6 +3101,7 @@ Accident Marc-Philippe Daubresse
 Accident MarcPhilippe Daubresse
 Accident Marcinelle
 Accident Marcq Enghien
+Accident Mouscron
 Accident Spa-Francorchamps
 Accident SpaFrancorchamps
 Accident Villeneuve-d'Ascq
@@ -3149,6 +3153,7 @@ AccidentMalley
 AccidentMarc-PhilippeDaubresse
 AccidentMarcinelle
 AccidentMarcqEnghien
+AccidentMouscron
 AccidentSpa-Francorchamps
 AccidentVilleneuve-d'Ascq
 AccidentacteurjérémyRenner
@@ -4431,7 +4436,9 @@ AltinaSchinasi
 Altmaier
 Alvan &amp; Ahez
 Alvan&amp;Ahez
+Alvaro Morata
 Alvaro Rodriguez
+AlvaroMorata
 AlvaroRodriguez
 Alvleesklierkanker
 Alzheimer
@@ -5693,10 +5700,12 @@ ArgentinienvsBrasilien
 Argentinien–Kanada
 Argentinië  Australië
 Argentinië  Canada
+Argentinië  Colombia
 Argentinië  Frankrijk
 Argentinië  Kroatië
 ArgentiniëAustralië
 ArgentiniëCanada
+ArgentiniëColombia
 ArgentiniëFrankrijk
 ArgentiniëKroatië
 Argenx
@@ -12896,6 +12905,7 @@ COUPE DU MONDE RUGBY 2023
 COUPE DU MONDE RUGBY 2027
 COUPE DU MONDE U17
 COUPE DU MONDE U20
+COUPE DU MONDE U20 RUGBY
 COUPE DU ROI
 COUPE SUISSE
 COUPED'EUROPE2021
@@ -15758,6 +15768,7 @@ Coupe du monde 2022
 Coupe du monde 2030
 Coupe du monde U17
 Coupe du monde U20
+Coupe du monde U20 Rugby
 Coupe du monde basket
 Coupe du monde de football féminin
 Coupe du monde de rugby
@@ -15789,6 +15800,7 @@ Coupedumonde2022
 Coupedumonde2030
 CoupedumondeU17
 CoupedumondeU20
+CoupedumondeU20Rugby
 Coupedumondebasket
 Coupedumondedefootballféminin
 Coupedumondederugby
@@ -20262,6 +20274,7 @@ EURO DIRHAM
 EURO DOLLAR
 EURO FEMININ
 EURO FOOT
+EURO FOOT 2024
 EURO FRANC SUISSE
 EURO FRANKEN
 EURO FÉMININ 2022
@@ -21861,6 +21874,7 @@ Euro dirham
 Euro dollar
 Euro feminin
 Euro foot
+Euro foot 2024
 Euro franc suisse
 Euro féminin 2022
 Euro handball
@@ -21916,6 +21930,7 @@ Eurodirham
 Eurodollar
 Eurofeminin
 Eurofoot
+Eurofoot2024
 Eurofrancsuisse
 Euroféminin2022
 Eurohandball
@@ -23786,6 +23801,7 @@ FUSILLADE PARIS
 FUSILLADE RENNES
 FUSILLADE VILLERUPT
 FUSSBALL
+FUSSBALL EM
 FUSSBALL EM 2024
 FUSSBALL EM FRAUEN
 FUSSBALL OLYMPIA
@@ -25794,6 +25810,7 @@ FusilladeRennes
 FusilladeVillerupt
 FusilladeetatsUnis
 Fussball
+Fussball EM
 Fussball EM 2024
 Fussball EM Frauen
 Fussball Olympia
@@ -25803,6 +25820,7 @@ Fussball WM
 Fussball WM 2022
 Fussball WM Frauen
 Fussball WM frauen
+FussballEM
 FussballEM2024
 FussballEMFrauen
 FussballOlympia
@@ -32752,6 +32770,8 @@ JO DECALUWE
 JO FOOT
 JO KOY
 JO MERSA MARLEY MORT
+JO PARIS 2024
+JO Paris 2024
 JO TOKYO
 JO Tokyo
 JO VERGEAT
@@ -32933,6 +32953,7 @@ JONTAY PORTER
 JONZAC
 JOOST KLEIN
 JOOST KLEIN EUROVISION
+JOParis2024
 JORAN VAN DER SLOOT
 JORAN VLIEGEN
 JORAN WYSEURE
@@ -37241,6 +37262,7 @@ KÖLN GEGEN BOCHUM
 KÖLN GEGEN WERDER BREMEN
 KÖNIG CHARLES III
 KÖNIG VON BURGDORF
+KÖNIG VON SPANIEN
 KÖNIGIN LETIZIA
 KÖNIGIN MARGRETHE
 KÖNIGIN MARGRETHE II
@@ -37262,6 +37284,7 @@ KölngegenBochum
 KölngegenWerderBremen
 König Charles III
 König von Burgdorf
+König von Spanien
 KönigCharlesIII
 Königin Letizia
 Königin Margrethe
@@ -37271,6 +37294,7 @@ KöniginMargrethe
 KöniginMargretheII
 Königssee
 KönigvonBurgdorf
+KönigvonSpanien
 Küssnacht am Rigi
 KüssnachtamRigi
 L EQUIPE
@@ -41784,6 +41808,7 @@ Luik-Bastenaken-Luik2023
 LuikBastenakenLuik
 LuikBastenakenLuik 2023
 Luino
+Luis De la Fuente
 Luis Diaz
 Luis Enrique
 Luis Rubiales
@@ -41792,6 +41817,7 @@ Luis Suarez
 Luis Suárez
 Luis Vazquez
 Luis de la Fuente
+LuisDelaFuente
 LuisDiaz
 LuisEnrique
 LuisRubiales
@@ -56227,6 +56253,7 @@ RACING STRASBOURG
 RACING TOULOUSE
 RACINGLAROCHELLE
 RADAR
+RADIO
 RADIO 1
 RADIO 2
 RADIO 2 TOP 2000
@@ -57264,6 +57291,7 @@ RONQUIÈRES FESTIVAL
 ROOMIES
 ROOS VAN ACKER
 ROOS VANOTTERDIJK
+ROQUEFIXADE
 RORQUAL
 RORSCHACH
 RORSCHACHERBERG
@@ -57568,6 +57596,7 @@ RacingStrasbourg
 RacingToulouse
 Racinggenk
 Radar
+Radio
 Radio 1
 Radio 2
 Radio 2 Top 2000
@@ -59276,6 +59305,7 @@ Roos Van Acker
 Roos Vanotterdijk
 RoosVanAcker
 RoosVanotterdijk
+Roquefixade
 Rorqual
 Rorschach
 Rorschacherberg
@@ -60477,6 +60507,7 @@ SHANIA TWAIN
 SHANKY
 SHANNA KRESS
 SHANNEN DOHERTY
+SHANNEN DOHERTY OVERLEDEN
 SHAPEWEAR
 SHAPOVALOV
 SHAQIRI
@@ -60899,6 +60930,7 @@ SOPHIA THIEL
 SOPHIA THOMALLA
 SOPHIA THOMALLA KRANKHEIT
 SOPHIA URISTA
+SOPHIAARAM
 SOPHIE
 SOPHIE ADENOT
 SOPHIE BINET CGT
@@ -61705,6 +61737,7 @@ SWATCH
 SWATCH AKTIE
 SWATCH BLANCPAIN
 SWATCH OMEGA
+SWATCH-AKTIE
 SWAZILAND
 SWDE
 SWEDISH HOUSE MAFIA
@@ -63128,7 +63161,9 @@ Shanky
 Shanna Kress
 ShannaKress
 Shannen Doherty
+Shannen Doherty overleden
 ShannenDoherty
+ShannenDohertyoverleden
 Shapewear
 Shapovalov
 Shaqiri
@@ -65088,6 +65123,7 @@ Swatch
 Swatch Aktie
 Swatch Blancpain
 Swatch Omega
+Swatch-Aktie
 SwatchAktie
 SwatchBlancpain
 SwatchOmega
@@ -65632,6 +65668,7 @@ TEST ANTIGÉNIQUE
 TEST CULTURE GÉNÉRALE MISS FRANCE 2023
 TEST CULTURE GÉNÉRALE MISS FRANCE 2024
 TEST PCR MAROC
+TEST SIRÈNE SUISSE 2024
 TESTE-DE-BUCH
 TETOVO
 TETRIS
@@ -65812,6 +65849,7 @@ THE VOICE OF GERMANY 2022
 THE VOICE VAN VLAANDEREN
 THE WALKING DEAD
 THE WALKING DEAD : THE ONES WHO LIVE
+THE WAR ON DRUGS
 THE WATCHER
 THE WAVE
 THE WEEKND
@@ -67077,10 +67115,12 @@ Tessinunwetter
 Tesson
 Test
 Test PCR Maroc
+Test Sirène Suisse 2024
 Test antigénique
 Test culture générale Miss France 2023
 Test culture générale Miss France 2024
 TestPCRMaroc
+TestSirèneSuisse2024
 Testantigénique
 TestculturegénéraleMissFrance2023
 TestculturegénéraleMissFrance2024
@@ -67244,6 +67284,7 @@ The Voice of Germany 2022
 The Voice van Vlaanderen
 The Walking Dead
 The Walking Dead : The Ones Who Live
+The War on Drugs
 The Watcher
 The Wave
 The Weeknd
@@ -67413,6 +67454,7 @@ TheVoiceofGermany2022
 TheVoicevanVlaanderen
 TheWalkingDead
 TheWalkingDead:TheOnesWhoLive
+TheWaronDrugs
 TheWatcher
 TheWave
 TheWeeknd
@@ -68935,6 +68977,7 @@ UEFA CONFERENCE LEAGUE
 UEFA Champions League
 UEFA Coefficient
 UEFA Conference League
+UEFA EURO
 UEFA EURO 2020
 UEFA EURO 2021
 UEFA EURO 2024
@@ -68947,11 +68990,13 @@ UEFA NATIONS LEAGUE
 UEFA Nations League
 UEFA WOMEN'S NATIONS LEAGUE
 UEFA coefficient
+UEFA euro 2024
 UEFA nations League
 UEFA2020
 UEFAChampionsLeague
 UEFACoefficient
 UEFAConferenceLeague
+UEFAEURO
 UEFAEURO2020
 UEFAEURO2024
 UEFAEURO2024tickets
@@ -68959,6 +69004,7 @@ UEFAEuro2020
 UEFAEuropaLeague
 UEFANationsLeague
 UEFAcoefficient
+UEFAeuro2024
 UEFAnationsLeague
 UELI MAURER
 UELI SCHMEZER
@@ -71872,6 +71918,7 @@ WIT-RUSLAND
 WITSEL
 WITTE DONDERDAG
 WITWENRENTE SCHWEIZ
+WIZ
 WK
 WK 2022
 WK 2022 SPEELSCHEMA
@@ -71922,6 +71969,7 @@ WKwielrennen
 WKwielrennen2022
 WKwielrennenLeuven
 WLADIMIR PUTIN
+WM
 WM 2022
 WM AUSLOSUNG 2022
 WM Auslosung 2022
@@ -72718,6 +72766,7 @@ Witte Donderdag
 WitteDonderdag
 Witwenrente Schweiz
 WitwenrenteSchweiz
+Wiz
 Wk Parcours 2021
 Wk voetbal 2022
 WkParcours2021
@@ -74111,6 +74160,7 @@ accident metro parisien
 accident minibus houeilles
 accident mortel
 accident mortel luna park
+accident mouscron
 accident ski enfant grand-bornand
 accident spa-francorchamps
 accident structure gonflable
@@ -74813,6 +74863,7 @@ altenahr
 altina schinasi
 altmaier
 alvan &amp; ahez
+alvaro morata
 alvaro rodriguez
 alvleesklierkanker
 alzheimer
@@ -75516,6 +75567,7 @@ argentinien wahlen milei
 argentinien – kanada
 argentinië  australië
 argentinië  canada
+argentinië  colombia
 argentinië  frankrijk
 argentinië  kroatië
 argenx
@@ -79276,6 +79328,7 @@ coupe du monde rugby 2023
 coupe du monde rugby 2027
 coupe du monde u17
 coupe du monde u20
+coupe du monde u20 rugby
 coupe du roi
 coupe suisse
 couped'europe2021
@@ -81460,6 +81513,7 @@ euro dirham
 euro dollar
 euro feminin
 euro foot
+euro foot 2024
 euro franc suisse
 euro franken
 euro féminin 2022
@@ -82901,6 +82955,7 @@ fusillade paris
 fusillade rennes
 fusillade villerupt
 fussball
+fussball em
 fussball em 2024
 fussball em frauen
 fussball olympia
@@ -85848,6 +85903,7 @@ jo decaluwe
 jo foot
 jo koy
 jo mersa marley mort
+jo paris 2024
 jo tokyo
 jo vergeat
 jo' lindner
@@ -87051,6 +87107,7 @@ köln gegen bochum
 köln gegen werder bremen
 könig charles iii
 könig von burgdorf
+könig von spanien
 königin letizia
 königin margrethe
 königin margrethe ii
@@ -93764,6 +93821,7 @@ racing strasbourg
 racing toulouse
 racinglarochelle
 radar
+radio
 radio 1
 radio 2
 radio 2 top 2000
@@ -94722,6 +94780,7 @@ ronquières festival
 roomies
 roos van acker
 roos vanotterdijk
+roquefixade
 rorqual
 rorschach
 rorschacherberg
@@ -95732,6 +95791,7 @@ shania twain
 shanky
 shanna kress
 shannen doherty
+shannen doherty overleden
 shapewear
 shapovalov
 shaqiri
@@ -96891,6 +96951,7 @@ swatch
 swatch aktie
 swatch blancpain
 swatch omega
+swatch-aktie
 swaziland
 swde
 swedish house mafia
@@ -97280,6 +97341,7 @@ test antigénique
 test culture générale miss france 2023
 test culture générale miss france 2024
 test pcr maroc
+test sirène suisse 2024
 teste-de-buch
 tetovo
 tetris
@@ -97450,6 +97512,7 @@ the voice of germany 2022
 the voice van vlaanderen
 the walking dead
 the walking dead : the ones who live
+the war on drugs
 the watcher
 the wave
 the weeknd
@@ -98289,6 +98352,7 @@ uefa 2020
 uefa champions league
 uefa coefficient
 uefa conference league
+uefa euro
 uefa euro 2020
 uefa euro 2021
 uefa euro 2024
@@ -99597,6 +99661,7 @@ wit-rusland
 witsel
 witte donderdag
 witwenrente schweiz
+wiz
 wk
 wk 2022
 wk 2022 speelschema
@@ -99616,6 +99681,7 @@ wk wielrennen 2022
 wk wielrennen leuven
 wk-kwalificatie
 wladimir putin
+wm
 wm 2022
 wm auslosung 2022
 wm eishockey
