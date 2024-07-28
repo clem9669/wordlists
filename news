@@ -1735,6 +1735,7 @@ ANDERLECHT  MECHELEN
 ANDERLECHT  OHL
 ANDERLECHT  OOSTENDE
 ANDERLECHT  PAIDE
+ANDERLECHT  STVV
 ANDERLECHT  WESTERLO
 ANDERLECHT  ZULTE-WAREGEM
 ANDERLECHT 'ANTWERP
@@ -4706,6 +4707,7 @@ Anderlecht  Mechelen
 Anderlecht  OHL
 Anderlecht  Oostende
 Anderlecht  Paide
+Anderlecht  STVV
 Anderlecht  Villarreal
 Anderlecht  Westerlo
 Anderlecht  zulte-waregem
@@ -4763,6 +4765,7 @@ AnderlechtMechelen
 AnderlechtOHL
 AnderlechtOostende
 AnderlechtPaide
+AnderlechtSTVV
 AnderlechtStandard
 AnderlechtUnion
 AnderlechtVitesse
@@ -17214,6 +17217,7 @@ DO KWON
 DOC GYNECO
 DOCTEUR JIVAGO
 DOCTOLIB
+DOCTOR DOOM
 DOCTOR STRANGE
 DOCTOR STRANGE 2
 DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS
@@ -18919,10 +18923,12 @@ DocGyneco
 Docteur Jivago
 DocteurJivago
 Doctolib
+Doctor Doom
 Doctor Strange
 Doctor Strange 2
 Doctor Strange in the Multiverse of Madness
 Doctor Who
+DoctorDoom
 DoctorStrange
 DoctorStrange2
 DoctorStrangeintheMultiverseofMadness
@@ -19620,6 +19626,7 @@ EFFONDREMENT BÂTIMENT LIEGE
 EFFONDREMENT IMMEUBLE MARSEILLE TIVOLI
 EFFONDREMENT IMMEUBLE TOULOUSE
 EFFONDREMENT PONT SUSPENDU INDE
+EFFONDREMENT TERRASSE MARIAGE CANTAL
 EFOOTBALL 2022
 EGAN BERNAL
 EGBERT LACHAERT
@@ -20817,10 +20824,12 @@ Effondrement bâtiment liege
 Effondrement immeuble Marseille Tivoli
 Effondrement immeuble Toulouse
 Effondrement pont suspendu Inde
+Effondrement terrasse mariage Cantal
 Effondrementbâtimentliege
 EffondrementimmeubleMarseilleTivoli
 EffondrementimmeubleToulouse
 EffondrementpontsuspenduInde
+EffondrementterrassemariageCantal
 Egan Bernal
 EganBernal
 Egbert Lachaert
@@ -23200,6 +23209,7 @@ FIJNE FEESTDAGEN
 FILIP MACIEJUK
 FILIP PAVLOVIC
 FILIP UGRINIC
+FILIPPO GANNA
 FILLE DE PAYSAN
 FILLES DU FEU
 FILLON
@@ -23446,6 +23456,7 @@ FOOTBALL
 FOOTBALL BELGIQUE
 FOOTBALL BELGIQUE-AUTRICHE
 FOOTBALL FÉMININ
+FOOTBALL JEUX OLYMPIQUES
 FOOTBALL JEUX OLYMPIQUES DE TOKYO 2020
 FOOTBALLEUR BRÉSILIEN PELÉ
 FOR FREEDOM MUSEUM
@@ -24018,6 +24029,7 @@ FUTSAL
 FUTUROSCOPE
 FUßBALL BUNDESTRAINER HANSI FLICK
 FUßBALL HEUTE
+FUßBALL OLYMPIA
 FUßBALL-EUROPAMEISTERSCHAFT
 FUßBALL-WELTMEISTERSCHAFT DER FRAUEN
 FUßBALL-WM SPIELE
@@ -24584,6 +24596,8 @@ Filip Ugrinic
 FilipMaciejuk
 FilipPavlovic
 FilipUgrinic
+Filippo Ganna
+FilippoGanna
 Fille de paysan
 Filledepaysan
 Filles du feu
@@ -24989,10 +25003,12 @@ Football Belgique
 Football Belgique-Autriche
 Football BelgiqueAutriche
 Football Jeux Olympiques de Tokyo 2020
+Football Jeux olympiques
 Football féminin
 FootballBelgique
 FootballBelgique-Autriche
 FootballJeuxOlympiquesdeTokyo2020
+FootballJeuxolympiques
 Footballeur brésilien Pelé
 FootballeurbrésilienPelé
 Footballféminin
@@ -26062,6 +26078,7 @@ FutWebApp
 Futsal
 Futuroscope
 Fußball Bundestrainer Hansi Flick
+Fußball Olympia
 Fußball heute
 Fußball-Europameisterschaft
 Fußball-WM spiele
@@ -26072,6 +26089,7 @@ Fußball-weltmeisterschaft der Frauen
 Fußball-weltmeisterschaftderFrauen
 FußballBundestrainerHansiFlick
 FußballEuropameisterschaft
+FußballOlympia
 FußballWM spiele
 FußballWeltmeisterschaft der Frauen
 Fußballheute
@@ -26734,6 +26752,7 @@ GOEDELELIEKENS
 GOETHE
 GOFFIN
 GOJIRA
+GOLANHÖHEN
 GOLDBACH
 GOLDBAND
 GOLDEN GIRLS
@@ -26883,6 +26902,7 @@ GRAND PALAIS ÉPHÉMÈRE
 GRAND PRIX BELGIQUE
 GRAND PRIX BERN
 GRAND PRIX D'AUTRICHE
+GRAND PRIX DE BELGIQUE
 GRAND PRIX DE FRANCE
 GRAND PRIX DE MONACO
 GRAND PRIX DE WALLONIE 2022
@@ -27225,6 +27245,7 @@ GWENDOLINE CHRISTIE
 GWENDOLYN RUTTEN
 GWENSTEFANI
 GWYNETH PALTROW
+GYMNASTIQUE ARTISTIQUE JO 2024
 GYMSHARK
 GYOKERES
 GYPSY ROSE
@@ -28219,6 +28240,7 @@ GoedeleWachters
 Goethe
 Goffin
 Gojira
+Golanhöhen
 Goldbach
 Goldband
 Golden Girls
@@ -28395,6 +28417,7 @@ Grand Prix Qatar
 Grand Prix Silverstone
 Grand Prix Spa
 Grand Prix d'Autriche
+Grand Prix de Belgique
 Grand Prix de France
 Grand Prix de Monaco
 Grand Prix de Wallonie 2022
@@ -28425,6 +28448,7 @@ GrandPrixQatar
 GrandPrixSilverstone
 GrandPrixSpa
 GrandPrixd'Autriche
+GrandPrixdeBelgique
 GrandPrixdeFrance
 GrandPrixdeMonaco
 GrandPrixdeWallonie2022
@@ -29008,6 +29032,8 @@ Gwendolyn Rutten
 GwendolynRutten
 Gwyneth Paltrow
 GwynethPaltrow
+Gymnastique artistique JO 2024
+GymnastiqueartistiqueJO2024
 Gymshark
 Gyokeres
 Gypsy Rose
@@ -32752,10 +32778,13 @@ JAZZ
 JAZZ MIDDELHEIM
 JBalvin
 JD
+JD VANCE
+JD Vance
 JDD
 JDD GEOFFROY LEJEUNE
 JDD Geoffroy Lejeune
 JDDGeoffroyLejeune
+JDVance
 JE TE PROMETS
 JE TE PROMETS SAISON 3
 JE VERRAI TOUJOURS VOS VISAGES
@@ -33050,6 +33079,7 @@ JO DECALUWE
 JO FOOT
 JO HIVER 2030
 JO KOY
+JO MEDAILLES
 JO MERSA MARLEY MORT
 JO PARIS 2024
 JO Paris 2024
@@ -33057,6 +33087,7 @@ JO TOKYO
 JO Tokyo
 JO VERGEAT
 JO hiver 2030
+JO medailles
 JO' LINDNER
 JO2021
 JO2030
@@ -33343,6 +33374,7 @@ JOYEUX NOËL
 JOYEUX NOËL 2023
 JOYN
 JOhiver2030
+JOmedailles
 JOŠKO GVARDIOL
 JPL
 JPR WILLIAMS
@@ -38381,6 +38413,7 @@ LEMANBLEU
 LEMBERG
 LEMON BOTTLE
 LEMONDE
+LENA BICKEL
 LENA DÜRR
 LENA GERCKE
 LENA MEYER-LANDRUT
@@ -39290,6 +39323,7 @@ LUKAS BÄRFUSS
 LUKAS DHONT
 LUKAS FÄHNDRICH
 LUKAS HARTMANN
+LUKAS MÄRTENS
 LUKAS REIMANN
 LUKE HUMPHRIES
 LUKE LITTLER
@@ -40546,6 +40580,7 @@ Lemonde
 Lemondeaprèsnous
 Lemondenesuffitpas
 LemystèreHenriPick
+Lena Bickel
 Lena Dürr
 Lena Gercke
 Lena Meyer-Landrut
@@ -40555,6 +40590,7 @@ Lena Schilling
 Lena Simonne
 Lena Situation
 Lena Wurzenberger
+LenaBickel
 LenaDürr
 LenaGercke
 LenaMeyer-Landrut
@@ -42213,12 +42249,14 @@ Lukas Bärfuss
 Lukas Dhont
 Lukas Fähndrich
 Lukas Hartmann
+Lukas Märtens
 Lukas Reimann
 LukasBritschgi
 LukasBärfuss
 LukasDhont
 LukasFähndrich
 LukasHartmann
+LukasMärtens
 LukasReimann
 Luke Humphries
 Luke Littler
@@ -42648,12 +42686,14 @@ MAITE KELLY
 MAITLAND-NILES
 MAIWENN
 MAJA BRUNNER
+MAJDAL SHAMS
 MAJE
 MAJOR LAZER
 MAJORQUE
 MAJORQUE – BARCELONE
 MAJORQUE – REAL
 MAJORQUE – REAL MADRID
+MAKAN TRAORÉ
 MAKRO
 MALADIE CERF ZOMBIE
 MALADIE DE CHARCOT
@@ -43679,6 +43719,7 @@ MECKENBEUREN
 MEDAILLE FRANCE JO
 MEDAILLE JO 2021
 MEDAILLE JO 2022
+MEDAILLE OLYMPIQUE
 MEDAILLEN OLYMPIA 2021
 MEDAILLENSPIEGEL
 MEDAILLENSPIEGEL OLYMPIA
@@ -44576,6 +44617,7 @@ MOSKAU NEWS
 MOSKVA
 MOSKWA
 MOSSELEN
+MOSSELY
 MOST WANTED
 MOSTAFA EL-ABBADI
 MOSTAFA MOHAMED
@@ -45000,6 +45042,8 @@ MaitlandNiles
 Maiwenn
 Maja Brunner
 MajaBrunner
+Majdal Shams
+MajdalShams
 Maje
 Major Lazer
 MajorLazer
@@ -45010,6 +45054,8 @@ Majorque – Real Madrid
 Majorque–Barcelone
 Majorque–Real
 Majorque–RealMadrid
+Makan Traoré
+MakanTraoré
 Makro
 Maladie cerf zombie
 Maladie de Charcot
@@ -46905,6 +46951,7 @@ Meckenbeuren
 Medaille France JO
 Medaille JO 2022
 Medaille jo 2021
+Medaille olympique
 MedailleFranceJO
 MedailleJO2022
 Medaillejo2021
@@ -46919,6 +46966,7 @@ MedaillenspiegelOlympia
 MedaillenspiegelOlympia2021
 MedaillenspiegelOlympia2022
 MedaillenspiegelPeking2022
+Medailleolympique
 Medailles JO 2022
 Medailles Olympische Spelen
 MedaillesJO2022
@@ -48526,6 +48574,7 @@ Moskaunews
 Moskva
 Moskwa
 Mosselen
+Mossely
 Most Wanted
 MostWanted
 Mostafa El-Abbadi
@@ -52800,6 +52849,7 @@ PAULA MOLTZAN
 PAULETTE NARDAL
 PAULINE ESTER
 PAULINE FERRAND PREVOT
+PAULINE FERRAND-PRÉVOT
 PAULKOULAK
 PAULO BENTO
 PAULOWNIA
@@ -53668,6 +53718,7 @@ PROFUMO DI DONNA
 PROGRAMMATION DE COUPE DU MONDE DE FOOTBALL 2022
 PROGRAMME BARDELLA
 PROGRAMME EURO 2024
+PROGRAMME JO 2024
 PROGRAMME MACRON 2022
 PROGRAMME ZEMMOUR
 PROGRAMMEZEMMOUR
@@ -54803,7 +54854,10 @@ Paulette Nardal
 PauletteNardal
 Pauline Ester
 Pauline Ferrand prevot
+Pauline Ferrand-Prévot
+Pauline FerrandPrévot
 PaulineEster
+PaulineFerrand-Prévot
 PaulineFerrandprevot
 Paulo Bento
 PauloBento
@@ -56321,9 +56375,11 @@ Programmation de Coupe du Monde de football 2022
 ProgrammationdeCoupeduMondedefootball2022
 Programme Bardella
 Programme Euro 2024
+Programme JO 2024
 Programme Macron 2022
 ProgrammeBardella
 ProgrammeEuro2024
+ProgrammeJO2024
 ProgrammeMacron2022
 Promi Big Brother
 Promi Big Brother 2021
@@ -61091,6 +61147,7 @@ SILVESTER SPRÜCHE 2024 WHATSAPP
 SILVESTER-COUNTDOWN
 SILVESTERCHLAUSEN
 SILVESTERLAUF
+SILVIA AFFOLTER
 SILVIO AQUINO
 SILVIO BERLUSCONI NEWS
 SIMAP
@@ -61187,6 +61244,7 @@ SK Beveren
 SK Beveren  Union
 SKATEBOARD JEUX OLYMPIQUES
 SKATEBOARD OLYMPIA
+SKATEBOARDEN OLYMPISCHE SPELEN
 SKBeveren
 SKBeverenUnion
 SKECHERS
@@ -61870,6 +61928,7 @@ STEVEN SCHUURMANS
 STEVEN SEAGAL
 STEVEN SPIELBERG
 STEVEN TYLER
+STEVEN VAN DE VELDE
 STEVEN VAN GUCHT
 STEVEN VAN HERREWEGHE
 STEVEN ZUBER
@@ -63832,6 +63891,8 @@ SilvesterCountdown
 SilvesterSprüche2024WhatsApp
 Silvesterchlausen
 Silvesterlauf
+Silvia Affolter
+SilviaAffolter
 Silvio Aquino
 Silvio Berlusconi news
 SilvioAquino
@@ -63994,6 +64055,8 @@ Skateboard Jeux olympiques
 Skateboard Olympia
 SkateboardJeuxolympiques
 SkateboardOlympia
+Skateboarden Olympische Spelen
+SkateboardenOlympischeSpelen
 Skechers
 Ski Aggu
 Ski Alpin
@@ -65075,6 +65138,7 @@ Steven Tyler
 Steven Van Gucht
 Steven Van Herreweghe
 Steven Zuber
+Steven van de Velde
 StevenDaCosta
 StevenDefour
 StevenSchuurmans
@@ -65084,6 +65148,7 @@ StevenTyler
 StevenVanGucht
 StevenVanHerreweghe
 StevenZuber
+StevenvandeVelde
 Stib
 Stickstoff hingerichtet
 Stickstoffhingerichtet
@@ -65901,6 +65966,7 @@ Süper Lig!
 Süper-Lig
 SüperLig
 SüperLig!
+TABLEAU DES MÉDAILLES JO 2024
 TABLEAU EURO 2021
 TABLEAUEURO2021
 TABOE
@@ -67186,7 +67252,9 @@ TYSON FURY VS DEONTAY WILDER
 TYSON FURY VS NGANNOU
 TYSONFURY
 Tableau Euro 2021
+Tableau des médailles JO 2024
 TableauEuro2021
+TableaudesmédaillesJO2024
 Taboe
 Tabor
 Tadej Pogacar
@@ -69895,6 +69963,7 @@ USSSantaBarbara
 USYK
 USYK DUBOIS
 USYK VS DUBOIS
+UTA ABE
 UTAH
 UTAH BEACH
 UTE FREUDENBERG
@@ -70382,6 +70451,8 @@ Usyk Dubois
 Usyk vs Dubois
 UsykDubois
 UsykvsDubois
+Uta Abe
+UtaAbe
 Utah
 Utah Beach
 UtahBeach
@@ -70676,6 +70747,7 @@ VESPER CHRONICLES
 VESUBIE
 VETLE SJÅSTAD CHRISTIANSEN
 VETROPACK
+VETROZ
 VETTEL
 VEYSONNAZ
 VFB STUTTGART
@@ -71477,6 +71549,7 @@ Vesubie
 Vetle Sjåstad Christiansen
 VetleSjåstadChristiansen
 Vetropack
+Vetroz
 Vettel
 Veysonnaz
 VfB Stuttgart
@@ -72121,6 +72194,7 @@ WALES-BELGIË
 WALESDENEMARKEN
 WALIBI
 WALID REGRAGUI
+WALIDE KHYAR
 WALK-IN CLOSET
 WALLABY
 WALLIS ET FUTUNA
@@ -72742,6 +72816,8 @@ WalesÖsterreich
 Walibi
 Walid Regragui
 WalidRegragui
+Walide Khyar
+WalideKhyar
 Walk-in Closet
 Walk-inCloset
 Walkin Closet
@@ -75596,6 +75672,7 @@ anderlecht  mechelen
 anderlecht  ohl
 anderlecht  oostende
 anderlecht  paide
+anderlecht  stvv
 anderlecht  westerlo
 anderlecht  zulte-waregem
 anderlecht 'antwerp
@@ -81001,6 +81078,7 @@ do kwon
 doc gyneco
 docteur jivago
 doctolib
+doctor doom
 doctor strange
 doctor strange 2
 doctor strange in the multiverse of madness
@@ -81425,6 +81503,7 @@ effondrement bâtiment liege
 effondrement immeuble marseille tivoli
 effondrement immeuble toulouse
 effondrement pont suspendu inde
+effondrement terrasse mariage cantal
 efootball 2022
 egan bernal
 egbert lachaert
@@ -82837,6 +82916,7 @@ fijne feestdagen
 filip maciejuk
 filip pavlovic
 filip ugrinic
+filippo ganna
 fille de paysan
 filles du feu
 fillon
@@ -83073,6 +83153,7 @@ football
 football belgique
 football belgique-autriche
 football féminin
+football jeux olympiques
 football jeux olympiques de tokyo 2020
 footballeur brésilien pelé
 for freedom museum
@@ -83631,6 +83712,7 @@ futsal
 futuroscope
 fußball bundestrainer hansi flick
 fußball heute
+fußball olympia
 fußball-europameisterschaft
 fußball-weltmeisterschaft der frauen
 fußball-wm spiele
@@ -84213,6 +84295,7 @@ goedele wachters
 goethe
 goffin
 gojira
+golanhöhen
 goldbach
 goldband
 golden girls
@@ -84330,6 +84413,7 @@ grand palais éphémère
 grand prix belgique
 grand prix bern
 grand prix d'autriche
+grand prix de belgique
 grand prix de france
 grand prix de monaco
 grand prix de wallonie 2022
@@ -84666,6 +84750,7 @@ gwendoline christie
 gwendolyn rutten
 gwenstefani
 gwyneth paltrow
+gymnastique artistique jo 2024
 gymshark
 gyokeres
 gypsy rose
@@ -86293,6 +86378,7 @@ jayson tatum
 jazz
 jazz middelheim
 jd
+jd vance
 jdd
 jdd geoffroy lejeune
 je te promets
@@ -86587,6 +86673,7 @@ jo decaluwe
 jo foot
 jo hiver 2030
 jo koy
+jo medailles
 jo mersa marley mort
 jo paris 2024
 jo tokyo
@@ -88471,6 +88558,7 @@ lemanbleu
 lemberg
 lemon bottle
 lemonde
+lena bickel
 lena dürr
 lena gercke
 lena meyer-landrut
@@ -89365,6 +89453,7 @@ lukas bärfuss
 lukas dhont
 lukas fähndrich
 lukas hartmann
+lukas märtens
 lukas reimann
 luke humphries
 luke littler
@@ -89672,12 +89761,14 @@ maite kelly
 maitland-niles
 maiwenn
 maja brunner
+majdal shams
 maje
 major lazer
 majorque
 majorque – barcelone
 majorque – real
 majorque – real madrid
+makan traoré
 makro
 maladie cerf zombie
 maladie de charcot
@@ -90695,6 +90786,7 @@ meckenbeuren
 medaille france jo
 medaille jo 2021
 medaille jo 2022
+medaille olympique
 medaillen olympia 2021
 medaillenspiegel
 medaillenspiegel olympia
@@ -91583,6 +91675,7 @@ moskau news
 moskva
 moskwa
 mosselen
+mossely
 most wanted
 mostafa el-abbadi
 mostafa mohamed
@@ -93445,6 +93538,7 @@ paula moltzan
 paulette nardal
 pauline ester
 pauline ferrand prevot
+pauline ferrand-prévot
 paulkoulak
 paulo bento
 paulownia
@@ -94287,6 +94381,7 @@ profumo di donna
 programmation de coupe du monde de football 2022
 programme bardella
 programme euro 2024
+programme jo 2024
 programme macron 2022
 programme zemmour
 promi big brother
@@ -96648,6 +96743,7 @@ silvester sprüche 2024 whatsapp
 silvester-countdown
 silvesterchlausen
 silvesterlauf
+silvia affolter
 silvio aquino
 silvio berlusconi news
 simap
@@ -96742,6 +96838,7 @@ sk beveren
 sk beveren  union
 skateboard jeux olympiques
 skateboard olympia
+skateboarden olympische spelen
 skechers
 ski aggu
 ski alpin
@@ -97376,6 +97473,7 @@ steven schuurmans
 steven seagal
 steven spielberg
 steven tyler
+steven van de velde
 steven van gucht
 steven van herreweghe
 steven zuber
@@ -97833,6 +97931,7 @@ süper lig
 süper lig!
 süper-lig
 tWitch
+tableau des médailles jo 2024
 tableau euro 2021
 tableaueuro2021
 taboe
@@ -99419,6 +99518,7 @@ uss santa barbara
 usyk
 usyk dubois
 usyk vs dubois
+uta abe
 utah
 utah beach
 ute freudenberg
@@ -99702,6 +99802,7 @@ vesper chronicles
 vesubie
 vetle sjåstad christiansen
 vetropack
+vetroz
 vettel
 veysonnaz
 vfb stuttgart
@@ -100088,6 +100189,7 @@ wales-belgië
 walesdenemarken
 walibi
 walid regragui
+walide khyar
 walk-in closet
 wallaby
 wallis et futuna
