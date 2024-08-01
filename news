@@ -1698,6 +1698,7 @@ AMY SONCK
 AMY WINEHOUSE
 AMÉLIE DE MONTCHALIN
 AMÉLIE OUDEA CASTÉRA
+AMÉLIE OUDÉA-CASTÉRA
 AN LEMMENS
 AN SWARTENBROEKX
 ANA DE ARMAS
@@ -1712,6 +1713,7 @@ ANALIA PIGREE
 ANANT AMBANI
 ANASTACIA
 ANASTASIA ROMANOV
+ANASTASIIA KIRPICHNIKOVA
 ANASTASIIA LENNA
 ANATOMIE D'UNE CHUTE
 ANCA FAUR
@@ -2721,6 +2723,7 @@ AUDE
 AUDEMARS PIGUET
 AUDI A5
 AUDI A5 AVANT
+AUDI A6 E-TRON
 AUDI BRUSSELS
 AUDI Q4 E-TRON
 AUDI Q6
@@ -4646,8 +4649,11 @@ AmyPieters
 AmySchumer
 AmySonck
 AmyWinehouse
+Amélie Oudéa-Castéra
+Amélie OudéaCastéra
 Amélie de Montchalin
 Amélie oudea Castéra
+AmélieOudéa-Castéra
 AméliedeMontchalin
 AmélieoudeaCastéra
 An Lemmens
@@ -4677,7 +4683,9 @@ AnantAmbani
 Anastacia
 Anastasia Romanov
 AnastasiaRomanov
+Anastasiia Kirpichnikova
 Anastasiia Lenna
+AnastasiiaKirpichnikova
 AnastasiiaLenna
 Anatomie d'une chute
 Anatomied'unechute
@@ -6341,6 +6349,8 @@ Audemars Piguet
 AudemarsPiguet
 Audi A5
 Audi A5 Avant
+Audi A6 e-tron
+Audi A6 etron
 Audi Brussels
 Audi Q4 e-tron
 Audi Q4 etron
@@ -6349,6 +6359,7 @@ Audi Q8 e-tron
 Audi Q8 etron
 AudiA5
 AudiA5Avant
+AudiA6e-tron
 AudiBrussels
 AudiQ4e-tron
 AudiQ6
@@ -7171,6 +7182,7 @@ BE-Alert
 BEA VAN DER MAAT
 BEACH FESTIVAL NIEUWPOORT
 BEACH-SOCCER-WM
+BEACH-VOLLEY
 BEACHLAND
 BEACHSOCCER WM
 BEACHSOCCER-WM
@@ -9239,12 +9251,14 @@ Bea Van der Maat
 BeaVanderMaat
 Beach Festival Nieuwpoort
 Beach-Soccer-WM
+Beach-volley
 BeachFestivalNieuwpoort
 BeachSoccerWM
 Beachland
 Beachsoccer WM
 Beachsoccer-WM
 BeachsoccerWM
+Beachvolley
 Beachvolleyball Olympia
 BeachvolleyballOlympia
 Beat Arnold
@@ -12536,6 +12550,7 @@ CLASSEMENT LIGUE 1
 CLASSEMENT LIGUE DES CHAMPIONS
 CLASSEMENT LYCÉES
 CLASSEMENT MEDAILLE JO 2020
+CLASSEMENT MEDAILLES JO
 CLASSEMENT PAYS LES PLUS HEUREUX
 CLASSEMENT PISA 2023
 CLASSEMENT PRÉSIDENTIELLE 2022
@@ -15083,6 +15098,7 @@ Classement f1
 Classement ligue 1
 Classement lycées
 Classement medaille jo 2020
+Classement medailles jo
 Classement pays les plus heureux
 Classement présidentielle 2022
 ClassementATP
@@ -15107,6 +15123,7 @@ Classementf1
 Classementligue1
 Classementlycées
 Classementmedaillejo2020
+Classementmedaillesjo
 Classementpayslesplusheureux
 Classementprésidentielle2022
 Classico Organisé
@@ -16520,6 +16537,7 @@ DANIEL CRAIG
 DANIEL DAY-LEWIS
 DANIEL DEFILIPI
 DANIEL DONSKOY
+DANIEL EICH
 DANIEL GUICHARD
 DANIEL HARTWICH
 DANIEL HUMM
@@ -17716,6 +17734,7 @@ Daniel Day-Lewis
 Daniel DayLewis
 Daniel Defilipi
 Daniel Donskoy
+Daniel Eich
 Daniel Guichard
 Daniel Hartwich
 Daniel Humm
@@ -17750,6 +17769,7 @@ DanielCraig
 DanielDay-Lewis
 DanielDefilipi
 DanielDonskoy
+DanielEich
 DanielGuichard
 DanielHartwich
 DanielHumm
@@ -26158,6 +26178,7 @@ FÊTE NATIONALE BELGE
 FÊTE NATIONALE BELGE 2022
 FÊTE NATIONALE BELGE 2023
 FÊTE NATIONALE DE LA BELGIQUE
+FÊTE NATIONALE DE LA SUISSE
 FÊTE NATIONALE FRANÇAISE
 FÊTE NATIONALE SUISSE
 FÊTEDELAMUSIQUE2021PARIS
@@ -26193,6 +26214,7 @@ Fête nationale belge
 Fête nationale belge 2022
 Fête nationale belge 2023
 Fête nationale de la Belgique
+Fête nationale de la Suisse
 Fête nationale française
 Fête nationale suisse
 Fêtedelamusique
@@ -26215,6 +26237,7 @@ Fêtenationalebelge
 Fêtenationalebelge2022
 Fêtenationalebelge2023
 FêtenationaledelaBelgique
+FêtenationaledelaSuisse
 Fêtenationalefrançaise
 Fêtenationalesuisse
 Fêtes de fin d'année
@@ -31243,6 +31266,7 @@ IREEN WUST
 IRENE CADURISCH
 IRENE CARA
 IRENE CARA OVERLEDEN
+IRENE GROSJEAN
 IRENE PAPAS
 IRENE SCHOUTEN
 IRENE SCHWEIZER
@@ -32152,12 +32176,14 @@ Ireenwust
 Irene Cadurisch
 Irene Cara
 Irene Cara overleden
+Irene Grosjean
 Irene Papas
 Irene Schouten
 Irene Schweizer
 IreneCadurisch
 IreneCara
 IreneCaraoverleden
+IreneGrosjean
 IrenePapas
 IreneSchouten
 IreneSchweizer
@@ -36055,6 +36081,7 @@ KATIE BOULTER
 KATIE BRITT
 KATIE HOLMES
 KATIE HOPKINS
+KATIE LEDECKY
 KATIE MELUA
 KATIE MEYER
 KATIE PRICE
@@ -36179,6 +36206,7 @@ KEVIN ROLLAND
 KEVIN SAMUELS
 KEVIN SPACEY
 KEVIN SPADANUDA
+KEVIN STAUT
 KEVIN TUREN
 KEVIN VARGA
 KEVINDEBRUYNE
@@ -36872,6 +36900,7 @@ Katie Boulter
 Katie Britt
 Katie Holmes
 Katie Hopkins
+Katie Ledecky
 Katie Melua
 Katie Meyer
 Katie Price
@@ -36879,6 +36908,7 @@ KatieBoulter
 KatieBritt
 KatieHolmes
 KatieHopkins
+KatieLedecky
 KatieMelua
 KatieMeyer
 KatiePrice
@@ -37066,6 +37096,7 @@ Kevin Rolland
 Kevin Samuels
 Kevin Spacey
 Kevin Spadanuda
+Kevin Staut
 Kevin Turen
 Kevin Varga
 Kevin allein zu Haus
@@ -37096,6 +37127,7 @@ KevinRolland
 KevinSamuels
 KevinSpacey
 KevinSpadanuda
+KevinStaut
 KevinTuren
 KevinVarga
 KevinalleinzuHaus
@@ -42733,6 +42765,7 @@ MAGIC PASS
 MAGNETISCHE WIMPERN
 MAGNUS CARLSEN
 MAGNUS CORT
+MAGNUS MUNCK
 MAGRITTE
 MAHARA MCKAY
 MAHIEDINE MEKHISSI
@@ -42886,6 +42919,7 @@ MAN UNITED VS ASTON VILLA
 MAN UTD
 MAN UTD  LIVERPOOL
 MAN UTD  MANCHESTER CITY
+MANAUDOU
 MANBUN
 MANCHESTER CITY
 MANCHESTER CITY  KOPENHAGEN
@@ -43750,6 +43784,7 @@ MAXIME JANVIER
 MAXIME LE FORESTIER
 MAXIME PANS
 MAXIME PRÉVOT
+MAXIME-GAËL NGAYAP HAMBOU
 MAXIMILIAN SCHELL
 MAXTON HALL
 MAY DECEMBER
@@ -45061,8 +45096,10 @@ Magnetische Wimpern
 MagnetischeWimpern
 Magnus Carlsen
 Magnus Cort
+Magnus Munck
 MagnusCarlsen
 MagnusCort
+MagnusMunck
 Magritte
 Mahara McKay
 MaharaMcKay
@@ -45357,6 +45394,7 @@ ManUnitedgegenMiddlesbrough
 ManUnitedgegenSheriff
 ManUnitedvsAstonVilla
 ManUnitedvsBarcelona
+Manaudou
 Manchester City
 Manchester City  Club Brugge
 Manchester City  Kopenhagen
@@ -46952,6 +46990,8 @@ Maxime Janvier
 Maxime Le Forestier
 Maxime Pans
 Maxime Prévot
+Maxime-Gaël Ngayap Hambou
+Maxime-GaëlNgayapHambou
 MaximeBeltra
 MaximeBlasco
 MaximeChattam
@@ -46959,6 +46999,7 @@ MaximeCressy
 MaximeDereymez
 MaximeDereymezDanseaveclesstars
 MaximeDupé
+MaximeGaël Ngayap Hambou
 MaximeGrousset
 MaximeJanvier
 MaximeLeForestier
@@ -49179,6 +49220,7 @@ NATIONAL LEAGUE
 NATIONALE FEESTDAG
 NATIONALE FEESTDAG VAN BELGIË
 NATIONALFEIERTAG FRANKREICH
+NATIONALFEIERTAG SCHWEIZ
 NATIONALFEIERTAG ÖSTERREICH
 NATIONALISATION EDF
 NATIONALRAT BERN
@@ -50192,9 +50234,11 @@ Nationale feestdag van België
 Nationalefeestdag
 NationalefeestdagvanBelgië
 Nationalfeiertag Frankreich
+Nationalfeiertag Schweiz
 Nationalfeiertag Österreich
 Nationalfeiertag österreich
 NationalfeiertagFrankreich
+NationalfeiertagSchweiz
 NationalfeiertagÖsterreich
 Nationalfeiertagösterreich
 Nationalisation EDF
@@ -52588,6 +52632,7 @@ PAMELA ANDERSON
 PAMELA REIF
 PAMIERS
 PAMPELONNE
+PAN ZHANLE
 PANAMA
 PANAMA – FRANCE
 PANATHINAIKOS
@@ -54222,6 +54267,8 @@ PamelaReif
 PametTommy
 Pamiers
 Pampelonne
+Pan Zhanle
+PanZhanle
 Panama
 Panama – France
 Panama–France
@@ -57218,6 +57265,7 @@ REAL MADRID – LAS PALMAS
 REAL MADRID – LIVERPOOL
 REAL MADRID – MAJORQUE
 REAL MADRID – MANCHESTER UNITED
+REAL MADRID – MILAN
 REAL MADRID – NAPLES
 REAL MADRID – OSASUNA
 REAL MADRID – RAYO
@@ -58659,6 +58707,7 @@ Real Madrid – Las Palmas
 Real Madrid – Liverpool
 Real Madrid – Majorque
 Real Madrid – Manchester United
+Real Madrid – Milan
 Real Madrid – Naples
 Real Madrid – Osasuna
 Real Madrid – Rayo
@@ -58758,6 +58807,7 @@ RealMadrid–LasPalmas
 RealMadrid–Liverpool
 RealMadrid–Majorque
 RealMadrid–ManchesterUnited
+RealMadrid–Milan
 RealMadrid–Naples
 RealMadrid–Osasuna
 RealMadrid–Rayo
@@ -62365,6 +62415,7 @@ SUPREME
 SUPREME COURT
 SUR LA ROUTE DE MADISON
 SURESNES
+SURF JEUX OLYMPIQUES
 SURFACE PRO 8
 SURFEURS DISPARUS MEXIQUE
 SURI CRUISE
@@ -65767,6 +65818,8 @@ Supreme Court
 SupremeCourt
 Sur la route de Madison
 Suresnes
+Surf Jeux olympiques
+SurfJeuxolympiques
 Surface Pro 8
 SurfacePro8
 Surfeurs disparus Mexique
@@ -66898,6 +66951,7 @@ TOM VERLAINE
 TOM WAES
 TOM WALKER
 TOM WILKINSON
+TOMA NIKIFOROV
 TOMAS DE SOETE
 TOMASO TRUSSARDI
 TOMCRAFT
@@ -67238,6 +67292,7 @@ TRIATHLON JO
 TRIATHLON JO 2024
 TRIATHLON OLYMPIA
 TRIATHLON OLYMPIA 2024
+TRIATLON
 TRIATLON OLYMPISCHE SPELEN
 TRIBUNE DE GENEVE
 TRIBUNE DEPARDIEU
@@ -68800,6 +68855,8 @@ TomVerlaine
 TomWaes
 TomWalker
 TomWilkinson
+Toma Nikiforov
+TomaNikiforov
 Tomas De Soete
 TomasDeSoete
 Tomaso Trussardi
@@ -69397,6 +69454,7 @@ TriathlonJO2024
 TriathlonOlympia
 TriathlonOlympia2024
 Triathlongeneve
+Triatlon
 Triatlon Olympische Spelen
 TriatlonOlympischeSpelen
 Tribune Depardieu
@@ -70109,10 +70167,16 @@ US Open 2023
 US Open Golf
 US Open golf
 USA
+USA BASKET
+USA BASKETBALL
+USA Basket
+USA Basketball
 USA GEGEN DEUTSCHLAND
 USA SHUTDOWN
 USA Shutdown
 USA gegen Deutschland
+USABasket
+USABasketball
 USAIN BOLT
 USAP
 USAShutdown
@@ -73892,6 +73956,7 @@ YANN SOMMER BAYERN
 YANNICK AGNEL
 YANNICK ALLENO
 YANNICK ALLÉNO
+YANNICK BELOY
 YANNICK BOREL
 YANNICK BUTTET
 YANNICK CAHUZAC
@@ -73969,6 +74034,7 @@ YSALINE BONAVENTURE
 YSAORA THIBUS
 YSEULT
 YUNGBLUD
+YUSUF DIKEC
 YUZ BOY
 YUZ BOY NOUVELLE ÉCOLE
 YUZU
@@ -74024,6 +74090,7 @@ YannSommerBayern
 Yannbarthes
 Yannick Agnel
 Yannick Alléno
+Yannick Beloy
 Yannick Borel
 Yannick Buttet
 Yannick Cahuzac
@@ -74036,6 +74103,7 @@ Yannick V
 Yannick alleno
 YannickAgnel
 YannickAlléno
+YannickBeloy
 YannickBorel
 YannickButtet
 YannickCahuzac
@@ -74150,6 +74218,8 @@ Ysaora Thibus
 YsaoraThibus
 Yseult
 Yungblud
+Yusuf Dikec
+YusufDikec
 Yuz Boy
 Yuz Boy Nouvelle École
 YuzBoy
@@ -75825,6 +75895,7 @@ amy sonck
 amy winehouse
 amélie de montchalin
 amélie oudea castéra
+amélie oudéa-castéra
 an lemmens
 an swartenbroekx
 ana de armas
@@ -75839,6 +75910,7 @@ analia pigree
 anant ambani
 anastacia
 anastasia romanov
+anastasiia kirpichnikova
 anastasiia lenna
 anatomie d'une chute
 anca faur
@@ -76784,6 +76856,7 @@ aude
 audemars piguet
 audi a5
 audi a5 avant
+audi a6 e-tron
 audi brussels
 audi q4 e-tron
 audi q6
@@ -77404,6 +77477,7 @@ be-alert
 bea van der maat
 beach festival nieuwpoort
 beach-soccer-wm
+beach-volley
 beachland
 beachsoccer wm
 beachsoccer-wm
@@ -79763,6 +79837,7 @@ classement ligue 1
 classement ligue des champions
 classement lycées
 classement medaille jo 2020
+classement medailles jo
 classement pays les plus heureux
 classement pisa 2023
 classement présidentielle 2022
@@ -80600,6 +80675,7 @@ daniel craig
 daniel day-lewis
 daniel defilipi
 daniel donskoy
+daniel eich
 daniel guichard
 daniel hartwich
 daniel humm
@@ -83940,6 +84016,7 @@ fête nationale belge
 fête nationale belge 2022
 fête nationale belge 2023
 fête nationale de la belgique
+fête nationale de la suisse
 fête nationale française
 fête nationale suisse
 fêtedelamusique2021paris
@@ -86088,6 +86165,7 @@ ireen wust
 irene cadurisch
 irene cara
 irene cara overleden
+irene grosjean
 irene papas
 irene schouten
 irene schweizer
@@ -87605,6 +87683,7 @@ katie boulter
 katie britt
 katie holmes
 katie hopkins
+katie ledecky
 katie melua
 katie meyer
 katie price
@@ -87727,6 +87806,7 @@ kevin rolland
 kevin samuels
 kevin spacey
 kevin spadanuda
+kevin staut
 kevin turen
 kevin varga
 kevindebruyne
@@ -89941,6 +90021,7 @@ magic pass
 magnetische wimpern
 magnus carlsen
 magnus cort
+magnus munck
 magritte
 mahara mckay
 mahiedine mekhissi
@@ -90094,6 +90175,7 @@ man united vs aston villa
 man utd
 man utd  liverpool
 man utd  manchester city
+manaudou
 manbun
 manchester city
 manchester city  kopenhagen
@@ -90952,6 +91034,7 @@ maxime janvier
 maxime le forestier
 maxime pans
 maxime prévot
+maxime-gaël ngayap hambou
 maximilian schell
 maxton hall
 may december
@@ -92252,6 +92335,7 @@ national league
 nationale feestdag
 nationale feestdag van belgië
 nationalfeiertag frankreich
+nationalfeiertag schweiz
 nationalfeiertag österreich
 nationalisation edf
 nationalrat bern
@@ -93395,6 +93479,7 @@ pamela anderson
 pamela reif
 pamiers
 pampelonne
+pan zhanle
 panama
 panama – france
 panathinaikos
@@ -95160,6 +95245,7 @@ real madrid – las palmas
 real madrid – liverpool
 real madrid – majorque
 real madrid – manchester united
+real madrid – milan
 real madrid – naples
 real madrid – osasuna
 real madrid – rayo
@@ -97998,6 +98084,7 @@ supreme
 supreme court
 sur la route de madison
 suresnes
+surf jeux olympiques
 surface pro 8
 surfeurs disparus mexique
 suri cruise
@@ -98933,6 +99020,7 @@ tom verlaine
 tom waes
 tom walker
 tom wilkinson
+toma nikiforov
 tomas de soete
 tomaso trussardi
 tomcraft
@@ -99263,6 +99351,7 @@ triathlon jo
 triathlon jo 2024
 triathlon olympia
 triathlon olympia 2024
+triatlon
 triatlon olympische spelen
 tribune de geneve
 tribune depardieu
@@ -99754,6 +99843,8 @@ us open 2022
 us open 2023
 us open golf
 usa
+usa basket
+usa basketball
 usa gegen deutschland
 usa shutdown
 usain bolt
@@ -100983,6 +101074,7 @@ yann sommer bayern
 yannick agnel
 yannick alleno
 yannick alléno
+yannick beloy
 yannick borel
 yannick buttet
 yannick cahuzac
@@ -101056,6 +101148,7 @@ ysaline bonaventure
 ysaora thibus
 yseult
 yungblud
+yusuf dikec
 yuz boy
 yuz boy nouvelle école
 yuzu
