@@ -101,6 +101,7 @@ This repo and the [rulelists](https://github.com/clem9669/hashcat-rule/) associa
 - [Korelogic Password Cracking contest](https://contest.korelogic.com/) at Defcon
 - Cracking [haveibeenpwned.com](https://haveibeenpwned.com) hashes releases by Troy Hunt 
 - [CrackTheCon contest](https://crackthecon.com/)
+- SANS SEC courses
 
 ## Recommended read
 
