@@ -1318,6 +1318,7 @@ ALESSANDRA MUSSOLINI
 ALESSANDRA SUBLET
 ALESSANDRA TODDE
 ALESSANDRO MICHELE
+ALESSIA ZARBO
 ALEX AGNEW
 ALEX BATTY
 ALEX BATTY DISPARITION
@@ -2145,6 +2146,7 @@ ANTWERP 10 MILES
 ANTWERP FC
 ANTWERP GENK
 ANTWERP PORT EPIC
+ANTWERP PRIDE
 ANTWERP – GENK
 ANTWERP – KAS EUPEN
 ANTWERP – STANDARD
@@ -2695,6 +2697,9 @@ ATPParis
 ATPRanking
 ATPRome
 ATPStuttgart
+ATR 72
+ATR-72
+ATR72
 ATTAL
 ATTAL DEMISSION
 ATTAQUE AU COUTEAU LYON
@@ -3990,6 +3995,8 @@ AlessandraSublet
 AlessandraTodde
 Alessandro Michele
 AlessandroMichele
+Alessia Zarbo
+AlessiaZarbo
 Alex Agnew
 Alex Batty
 Alex Batty disparition
@@ -5483,6 +5490,7 @@ Antwerp 10 Miles
 Antwerp FC
 Antwerp Genk
 Antwerp Port Epic
+Antwerp Pride
 Antwerp – Genk
 Antwerp – Standard
 Antwerp – Union Saint-Gilloise
@@ -5513,6 +5521,7 @@ AntwerpLillestrøm
 AntwerpMechelen
 AntwerpOostende
 AntwerpPortEpic
+AntwerpPride
 AntwerpUnion
 Antwerpen vuurwerk
 Antwerpen-Centraal
@@ -12044,6 +12053,7 @@ CERCLE-CLUB BRUGGE
 CERCLE-CLUBBRUGGE
 CERCLECLUB BRUGGE
 CERCUEILS TOUR EIFFEL
+CEREMONIE CLOTURE JO 2024
 CEREMONIE OUVERTURE JO 2021
 CEREZO OSAKA – DORTMUND
 CERN
@@ -13204,6 +13214,8 @@ CRAIG BREEN
 CRAMMEROCK
 CRANS-MONTANA
 CRAON
+CRASH AVION BRESIL
+CRASH AVION BRÉSIL
 CRASH AVION CHINE
 CRASH AVION ISÈRE
 CRASH AVION LAC VICTORIA
@@ -14160,7 +14172,9 @@ CercleMechelen
 Cerclezulte-waregem
 Cercueils tour Eiffel
 CercueilstourEiffel
+Ceremonie cloture JO 2024
 Ceremonie ouverture JO 2021
+CeremonieclotureJO2024
 CeremonieouvertureJO2021
 Cerezo Osaka – Dortmund
 CerezoOsaka–Dortmund
@@ -16198,14 +16212,18 @@ Crammerock
 Crans-Montana
 CransMontana
 Craon
+Crash avion Brésil
 Crash avion Chine
 Crash avion Isère
+Crash avion bresil
 Crash avion lac Victoria
 Crash avion militaire russe
 Crash avion États-Unis
 Crash avion ÉtatsUnis
+CrashavionBrésil
 CrashavionChine
 CrashavionIsère
+Crashavionbresil
 CrashavionlacVictoria
 Crashavionmilitairerusse
 CrashavionÉtats-Unis
@@ -16645,6 +16663,7 @@ DANI ALVES
 DANI ALVES NEWS
 DANI CHANTEUSE
 DANI KLEIN
+DANI OLMO
 DANI PEDROSA
 DANIEL AUTEUIL
 DANIEL BALAVOINE
@@ -16729,6 +16748,7 @@ DARIO COLOGNA
 DARIO G
 DARIUS MORRIS
 DARIUS ROCHEBIN
+DARJA VARFOLOMEEV
 DARK AND DARKER
 DARK PATTERNS
 DARK STORE
@@ -17840,11 +17860,13 @@ Dani
 Dani Alves
 Dani Alves news
 Dani Klein
+Dani Olmo
 Dani Pedrosa
 Dani chanteuse
 DaniAlves
 DaniAlvesnews
 DaniKlein
+DaniOlmo
 DaniPedrosa
 Danichanteuse
 Daniel Auteuil
@@ -18011,6 +18033,8 @@ Darius Morris
 Darius Rochebin
 DariusMorris
 DariusRochebin
+Darja Varfolomeev
+DarjaVarfolomeev
 Dark Patterns
 Dark and Darker
 Dark store
@@ -23616,6 +23640,7 @@ FLUGHAFEN ZÜRICH
 FLUGHAFEN ZÜRICH POLIZEIEINSATZ
 FLUGZEUGABSTURZ
 FLUGZEUGABSTURZ BOEING 737
+FLUGZEUGABSTURZ BRASILIEN
 FLUGZEUGABSTURZ GRIECHENLAND
 FLUGZEUGABSTURZ NEPAL
 FLUGZEUGABSTURZ RUSSLAND
@@ -23790,6 +23815,7 @@ FRANCE ECOSSE RUGBY
 FRANCE EGYPTE
 FRANCE ESPAGNE
 FRANCE ESPAGNE HAND
+FRANCE ESPAGNE JO
 FRANCE ESPOIR
 FRANCE ESTONIE
 FRANCE ETATS UNIS BASKET
@@ -23899,6 +23925,7 @@ FRANCE-NOUVELLE ZELANDE
 FRANCE-PAYS DE GALLES
 FRANCE-PAYS-BAS
 FRANCE-POLOGNE
+FRANCE-POLOGNE VOLLEY
 FRANCE-PORTUGAL
 FRANCE-SERBIE BASKET
 FRANCE-SLOVÉNIE
@@ -25156,12 +25183,14 @@ FlughafenZürich
 FlughafenZürichPolizeieinsatz
 Flugzeugabsturz
 Flugzeugabsturz Boeing 737
+Flugzeugabsturz Brasilien
 Flugzeugabsturz Griechenland
 Flugzeugabsturz Nepal
 Flugzeugabsturz Russland
 Flugzeugabsturz Tansania
 Flugzeugabsturz säntis
 FlugzeugabsturzBoeing737
+FlugzeugabsturzBrasilien
 FlugzeugabsturzGriechenland
 FlugzeugabsturzNepal
 FlugzeugabsturzRussland
@@ -25434,6 +25463,7 @@ France Ecosse
 France Ecosse Rugby
 France Egypte
 France Espagne
+France Espagne JO
 France Espagne hand
 France Espoir
 France Estonie
@@ -25579,7 +25609,9 @@ France-Pays de Galles
 France-Pays-Bas
 France-PaysdeGalles
 France-Pologne
+France-Pologne volley
 France-Polognehandball
+France-Polognevolley
 France-Portugal
 France-Serbie basket
 France-Serbiebasket
@@ -25629,6 +25661,7 @@ FranceEcosseRugby
 FranceEgypte
 FranceEgypte handball
 FranceEspagne
+FranceEspagneJO
 FranceEspagnehand
 FranceEspoir
 FranceEstonie
@@ -25674,6 +25707,7 @@ FrancePays-BasEuro2024
 FrancePaysBas
 FrancePaysdeGalles
 FrancePologne
+FrancePologne volley
 FrancePortugal
 FranceRoumanievolley
 FranceSerbie basket
@@ -29550,6 +29584,7 @@ HARLEY-DAVIDSON
 HARMONY TAN
 HARNAAZ SANDHU
 HARRAH BROWN
+HARRIE LAVREYSEN
 HARRIET ROBSON
 HARRISON BUTKER
 HARRISON FORD
@@ -30265,6 +30300,8 @@ Harnaaz Sandhu
 HarnaazSandhu
 Harrah Brown
 HarrahBrown
+Harrie Lavreysen
+HarrieLavreysen
 Harriet Robson
 HarrietRobson
 Harrison Butker
@@ -31163,6 +31200,7 @@ IMAM HASSAN IQUIOUSSEN
 IMAM IQUIOUSSEN
 IMAMS DÉTACHÉS
 IMANE KHELIF
+IMANE KHELIF FINALE
 IMANE KHELIF MAN
 IME UDOKA
 IMELDA STAUNTON
@@ -31906,8 +31944,10 @@ ImamIquioussen
 Imams détachés
 Imamsdétachés
 Imane Khelif
+Imane Khelif finale
 Imane Khelif man
 ImaneKhelif
+ImaneKheliffinale
 ImaneKhelifman
 Ime Udoka
 ImeUdoka
@@ -43403,8 +43443,10 @@ MARATHON DE VALENCE
 MARATHON EINDHOVEN
 MARATHON GENEVE
 MARATHON JO
+MARATHON JO PARIS 2024
 MARATHON NAMUR
 MARATHON NICE CANNES
+MARATHON OLYMPIA 2024
 MARATHON OLYMPISCHE SPELEN
 MARATHON PARIS 2022
 MARATHON PARIS 2023
@@ -44447,6 +44489,7 @@ MICHAEL SCHACHT
 MICHAEL SCHUMACHER
 MICHAEL SCHUMACHER INTERVIEW
 MICHAEL SMITH
+MICHAEL SOMERS
 MICHAEL STÜRZENBERGER
 MICHAEL TYLO
 MICHAEL VAN GERWEN
@@ -46023,8 +46066,10 @@ Marathon Brussel
 Marathon Bruxelles
 Marathon Eindhoven
 Marathon JO
+Marathon JO Paris 2024
 Marathon Namur
 Marathon Nice Cannes
+Marathon Olympia 2024
 Marathon Olympische Spelen
 Marathon Paris 2022
 Marathon Paris 2023
@@ -46049,8 +46094,10 @@ MarathonBrussel
 MarathonBruxelles
 MarathonEindhoven
 MarathonJO
+MarathonJOParis2024
 MarathonNamur
 MarathonNiceCannes
+MarathonOlympia2024
 MarathonOlympischeSpelen
 MarathonParis2022
 MarathonParis2023
@@ -47440,9 +47487,11 @@ MedaillenspiegelOlympia2022
 MedaillenspiegelPeking2022
 Medailleolympique
 Medailles JO 2022
+Medailles JO 2024
 Medailles Olympische Spelen
 Medailles jo 2024
 MedaillesJO2022
+MedaillesJO2024
 MedaillesOlympischeSpelen
 Medaillesjo2024
 Media Markt
@@ -47913,6 +47962,7 @@ Michael Schacht
 Michael Schumacher
 Michael Schumacher interview
 Michael Smith
+Michael Somers
 Michael Stürzenberger
 Michael Tylo
 Michael Van Peel
@@ -47966,6 +48016,7 @@ MichaelSchacht
 MichaelSchumacher
 MichaelSchumacherinterview
 MichaelSmith
+MichaelSomers
 MichaelStürzenberger
 MichaelTylo
 MichaelVanPeel
@@ -50214,6 +50265,7 @@ NUIT BLANCHE PARIS
 NUIT DES ETOILES
 NUIT DES ETOILES 2022
 NUIT DES ETOILES 2023
+NUIT DES ETOILES 2024
 NUIT DES MUSÉES 2023
 NUIT DES MUSÉES 2024
 NUIT DES ÉTOILES FILANTES
@@ -51580,6 +51632,7 @@ Nuit des Etoiles 2023
 Nuit des Musées 2024
 Nuit des etoiles
 Nuit des etoiles 2022
+Nuit des etoiles 2024
 Nuit des musées 2023
 Nuit des étoiles filantes
 NuitBlanche2021
@@ -51591,6 +51644,7 @@ NuitdesEtoiles2023
 NuitdesMusées2024
 Nuitdesetoiles
 Nuitdesetoiles2022
+Nuitdesetoiles2024
 Nuitdesmusées2023
 Nuitdesétoilesfilantes
 Nuits de fourviere
@@ -52188,6 +52242,7 @@ OVERLEGCOMITÉ
 OVERSTROMINGEN
 OVERSTROMINGEN BELGIE
 OVERSTROMINGEN OOSTENRIJK
+OVERTIME BASKETBALL
 OVERWATCH 2
 OVH
 OVH BOURSE
@@ -52931,6 +52986,8 @@ Overstromingen Oostenrijk
 Overstromingen belgie
 OverstromingenOostenrijk
 Overstromingenbelgie
+Overtime basketball
+Overtimebasketball
 Overwatch 2
 Overwatch2
 Ovronnaz
@@ -54261,6 +54318,7 @@ PROGRAMMATION DE COUPE DU MONDE DE FOOTBALL 2022
 PROGRAMME BARDELLA
 PROGRAMME EURO 2024
 PROGRAMME JO 2024
+PROGRAMME JO SAMEDI 10 AOUT
 PROGRAMME MACRON 2022
 PROGRAMME ZEMMOUR
 PROGRAMMEZEMMOUR
@@ -56934,10 +56992,12 @@ Programme Bardella
 Programme Euro 2024
 Programme JO 2024
 Programme Macron 2022
+Programme jo samedi 10 aout
 ProgrammeBardella
 ProgrammeEuro2024
 ProgrammeJO2024
 ProgrammeMacron2022
+Programmejosamedi10aout
 Promi Big Brother
 Promi Big Brother 2021
 Promi büssen
@@ -61722,6 +61782,7 @@ SIENNA MILLER
 SIERRA LEONE
 SIERRE
 SIERRE-ZINAL
+SIERRE-ZINAL 2024
 SIFAN HASSAN
 SIGNA
 SIGNATURE BANK
@@ -61764,6 +61825,7 @@ SIMON CASTALDI
 SIMON COLEMAN
 SIMON DESTHIEUX
 SIMON EHAMMER
+SIMON GAUZY
 SIMON LEVIEV
 SIMON MICHEL
 SIMON MIGNOLET
@@ -62618,6 +62680,7 @@ STREET PARADE 2023
 STREET PARADE ZURICH
 STREET PARADE ZÜRICH
 STREET PARADE ZÜRICH NEEDLE SPIKING
+STREETPARADE 2024
 STREETPARADE ZÜRICH
 STREIK DEUTSCHE BAHN
 STREIK DEUTSCHLAND
@@ -62637,6 +62700,7 @@ STROMAUSFALL BASEL
 STROMAUSFALL BERN
 STROMAUSFALL BRUGG
 STROMAUSFALL BURGDORF
+STROMAUSFALL LUZERN
 STROMAUSFALL THUN
 STROMBOLI
 STROMPREISE 2023
@@ -64471,7 +64535,10 @@ Sierra Leone
 SierraLeone
 Sierre
 Sierre-Zinal
+Sierre-Zinal 2024
+Sierre-Zinal2024
 SierreZinal
+SierreZinal 2024
 Sifan Hassan
 SifanHassan
 Signa
@@ -64536,6 +64603,7 @@ Simon Castaldi
 Simon Coleman
 Simon Desthieux
 Simon Ehammer
+Simon Gauzy
 Simon Leviev
 Simon Michel
 Simon Mignolet
@@ -64545,6 +64613,7 @@ SimonCastaldi
 SimonColeman
 SimonDesthieux
 SimonEhammer
+SimonGauzy
 SimonLeviev
 SimonMichel
 SimonMignolet
@@ -65928,7 +65997,9 @@ StreetParadeZurich
 StreetParadeZürich
 StreetParadeZürichNeedleSpiking
 StreetParadezurich
+Streetparade 2024
 Streetparade Zürich
+Streetparade2024
 StreetparadeZürich
 Streik Deutsche Bahn
 Streik Deutschland
@@ -65957,11 +66028,13 @@ Stromausfall Basel
 Stromausfall Bern
 Stromausfall Brugg
 Stromausfall Burgdorf
+Stromausfall Luzern
 Stromausfall Thun
 StromausfallBasel
 StromausfallBern
 StromausfallBrugg
 StromausfallBurgdorf
+StromausfallLuzern
 StromausfallThun
 Stromboli
 Strompreise 2023
@@ -66680,6 +66753,7 @@ TANIA MINTJENS
 TANJA DEXTERS
 TANJA GRANDITS
 TANJA GROEN
+TANJA HÜBERLI
 TANJA STADLER
 TANJA TISCHEWITSCH
 TANKSTELLE
@@ -68026,11 +68100,13 @@ TaniaMintjens
 Tanja Dexters
 Tanja Grandits
 Tanja Groen
+Tanja Hüberli
 Tanja Stadler
 Tanja Tischewitsch
 TanjaDexters
 TanjaGrandits
 TanjaGroen
+TanjaHüberli
 TanjaStadler
 TanjaTischewitsch
 Tankstelle
@@ -74507,6 +74583,7 @@ YELIZ KOC PLAYBOY
 YELLOWJACKETS
 YELLOWSTONE
 YEMEN
+YEMISI OGUNLEYE
 YESS
 YESTERDAY
 YETI AIRLINES
@@ -74664,6 +74741,8 @@ YelizKocPlayboy
 Yellowjackets
 Yellowstone
 Yemen
+Yemisi Ogunleye
+YemisiOgunleye
 Yess
 Yesterday
 Yeti Airlines
@@ -76051,6 +76130,7 @@ alessandra mussolini
 alessandra sublet
 alessandra todde
 alessandro michele
+alessia zarbo
 alex agnew
 alex batty
 alex batty disparition
@@ -76865,6 +76945,7 @@ antwerp 10 miles
 antwerp fc
 antwerp genk
 antwerp port epic
+antwerp pride
 antwerp – genk
 antwerp – kas eupen
 antwerp – standard
@@ -77353,6 +77434,8 @@ atp ranking
 atp rome
 atp stuttgart
 atp-ranking
+atr 72
+atr-72
 attal
 attal demission
 attaque au couteau lyon
@@ -79814,6 +79897,7 @@ cercle bruges – union saint-gilloise
 cercle brugge
 cercle-club brugge
 cercueils tour eiffel
+ceremonie cloture jo 2024
 ceremonie ouverture jo 2021
 cerezo osaka – dortmund
 cern
@@ -80942,6 +81026,8 @@ craig breen
 crammerock
 crans-montana
 craon
+crash avion bresil
+crash avion brésil
 crash avion chine
 crash avion isère
 crash avion lac victoria
@@ -81231,6 +81317,7 @@ dani alves
 dani alves news
 dani chanteuse
 dani klein
+dani olmo
 dani pedrosa
 daniel auteuil
 daniel balavoine
@@ -81315,6 +81402,7 @@ dario cologna
 dario g
 darius morris
 darius rochebin
+darja varfolomeev
 dark and darker
 dark patterns
 dark store
@@ -83966,6 +84054,7 @@ flughafen zürich
 flughafen zürich polizeieinsatz
 flugzeugabsturz
 flugzeugabsturz boeing 737
+flugzeugabsturz brasilien
 flugzeugabsturz griechenland
 flugzeugabsturz nepal
 flugzeugabsturz russland
@@ -84135,6 +84224,7 @@ france ecosse rugby
 france egypte
 france espagne
 france espagne hand
+france espagne jo
 france espoir
 france estonie
 france etats unis basket
@@ -84244,6 +84334,7 @@ france-nouvelle zelande
 france-pays de galles
 france-pays-bas
 france-pologne
+france-pologne volley
 france-portugal
 france-serbie basket
 france-slovénie
@@ -85813,6 +85904,7 @@ harley-davidson
 harmony tan
 harnaaz sandhu
 harrah brown
+harrie lavreysen
 harriet robson
 harrison butker
 harrison ford
@@ -86453,6 +86545,7 @@ imam hassan iquioussen
 imam iquioussen
 imams détachés
 imane khelif
+imane khelif finale
 imane khelif man
 ime udoka
 imelda staunton
@@ -90993,8 +91086,10 @@ marathon de valence
 marathon eindhoven
 marathon geneve
 marathon jo
+marathon jo paris 2024
 marathon namur
 marathon nice cannes
+marathon olympia 2024
 marathon olympische spelen
 marathon paris 2022
 marathon paris 2023
@@ -92029,6 +92124,7 @@ michael schacht
 michael schumacher
 michael schumacher interview
 michael smith
+michael somers
 michael stürzenberger
 michael tylo
 michael van gerwen
@@ -93570,6 +93666,7 @@ nuit blanche paris
 nuit des etoiles
 nuit des etoiles 2022
 nuit des etoiles 2023
+nuit des etoiles 2024
 nuit des musées 2023
 nuit des musées 2024
 nuit des étoiles filantes
@@ -94076,6 +94173,7 @@ overlegcomité
 overstromingen
 overstromingen belgie
 overstromingen oostenrijk
+overtime basketball
 overwatch 2
 ovh
 ovh bourse
@@ -95361,6 +95459,7 @@ programmation de coupe du monde de football 2022
 programme bardella
 programme euro 2024
 programme jo 2024
+programme jo samedi 10 aout
 programme macron 2022
 programme zemmour
 promi big brother
@@ -97712,6 +97811,7 @@ sienna miller
 sierra leone
 sierre
 sierre-zinal
+sierre-zinal 2024
 sifan hassan
 signa
 signature bank
@@ -97754,6 +97854,7 @@ simon castaldi
 simon coleman
 simon desthieux
 simon ehammer
+simon gauzy
 simon leviev
 simon michel
 simon mignolet
@@ -98556,6 +98657,7 @@ street parade 2023
 street parade zurich
 street parade zürich
 street parade zürich needle spiking
+streetparade 2024
 streetparade zürich
 streik deutsche bahn
 streik deutschland
@@ -98575,6 +98677,7 @@ stromausfall basel
 stromausfall bern
 stromausfall brugg
 stromausfall burgdorf
+stromausfall luzern
 stromausfall thun
 stromboli
 strompreise 2023
@@ -99000,6 +99103,7 @@ tania mintjens
 tanja dexters
 tanja grandits
 tanja groen
+tanja hüberli
 tanja stadler
 tanja tischewitsch
 tankstelle
@@ -101811,6 +101915,7 @@ yeliz koc playboy
 yellowjackets
 yellowstone
 yemen
+yemisi ogunleye
 yess
 yesterday
 yeti airlines
@@ -102198,6 +102303,7 @@ zürich-marathon
 ÉTATS-UNIS – ALLEMAGNE
 ÉTATS-UNIS – MAROC
 ÉTOILE ROUGE – MONACO
+ÉTOILES FILANTES
 ÉVELYNE DHÉLIAT
 Éclipse solaire 14 octobre
 Éclipsesolaire14octobre
@@ -102307,6 +102413,8 @@ zürich-marathon
 ÉtatsUnis – Maroc
 Étoile Rouge – Monaco
 ÉtoileRouge–Monaco
+Étoiles filantes
+Étoilesfilantes
 Évelyne Dhéliat
 ÉvelyneDhéliat
 ÖBB
@@ -102418,6 +102526,7 @@ zürich-marathon
 états-unis – allemagne
 états-unis – maroc
 étoile rouge – monaco
+étoiles filantes
 été
 évelyne dhéliat
 öbb
