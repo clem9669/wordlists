@@ -841,6 +841,7 @@ ACCIDENT MORTEL
 ACCIDENT MORTEL LUNA PARK
 ACCIDENT MOUSCRON
 ACCIDENT PARIS
+ACCIDENT PLOMBIÈRES
 ACCIDENT SKI ENFANT GRAND-BORNAND
 ACCIDENT SPA-FRANCORCHAMPS
 ACCIDENT STRUCTURE GONFLABLE
@@ -3159,6 +3160,7 @@ Accident Marcinelle
 Accident Marcq Enghien
 Accident Mouscron
 Accident Paris
+Accident Plombières
 Accident Spa-Francorchamps
 Accident SpaFrancorchamps
 Accident Villeneuve-d'Ascq
@@ -3212,6 +3214,7 @@ AccidentMarcinelle
 AccidentMarcqEnghien
 AccidentMouscron
 AccidentParis
+AccidentPlombières
 AccidentSpa-Francorchamps
 AccidentVilleneuve-d'Ascq
 AccidentacteurjérémyRenner
@@ -12402,6 +12405,7 @@ CHATEAU DE VERSAILLES
 CHATEAUROUX
 CHATEL
 CHATGPT
+CHAUVE-SOURIS
 CHAYENNE VAN AARLE
 CHE GUEVARA
 CHEB KHALED
@@ -12947,6 +12951,7 @@ COACHELLA
 COACHELLA 2022
 COACHELLA 2024
 COBRA KAI
+COCA-COLA
 COCA-COLA KROATIEN
 COCAINE BEAR
 COCKTAIL MOLOTOV FILM
@@ -13137,6 +13142,7 @@ CORALIE DUBOST
 CORALIE PORROVECCHIO
 CORD CUTTING
 CORDES-SUR-CIEL
+CORDOBA
 CORE FESTIVAL
 CORE Festival
 COREE DU NORD
@@ -14724,6 +14730,8 @@ ChateaudeSerquigny
 ChateaudeVersailles
 Chateauroux
 Chatel
+Chauve-souris
+Chauvesouris
 Chayenne Van Aarle
 ChayenneVanAarle
 Che Guevara
@@ -15683,8 +15691,10 @@ Coachella2022
 Coachella2024
 Cobra Kai
 CobraKai
+Coca-Cola
 Coca-Cola Kroatien
 Coca-ColaKroatien
+CocaCola
 CocaCola Kroatien
 Cocaine Bear
 CocaineBear
@@ -16022,6 +16032,7 @@ Cord cutting
 Cordcutting
 Cordes-sur-Ciel
 CordessurCiel
+Cordoba
 Core Festival
 CoreFestival
 Coree du Nord
@@ -31863,6 +31874,7 @@ ISLAM SLIMANI
 ISLAMABAD
 ISLAND ERDBEBEN VULKANAUSBRUCH
 ISLAND VULKANAUSBRUCH
+ISLAND: VULKANAUSBRUCH
 ISLANDE
 ISLANDE NOUVELLE ÉRUPTION VOLCANIQUE
 ISLANDE ÉRUPTION VOLCANIQUE
@@ -32872,6 +32884,8 @@ Islamabad
 Island Erdbeben Vulkanausbruch
 Island Vulkanausbruch
 Island vulkanausbruch
+Island: Vulkanausbruch
+Island:Vulkanausbruch
 IslandErdbebenVulkanausbruch
 IslandVulkanausbruch
 Islande
@@ -38584,6 +38598,7 @@ LA GANTOISE – OH LOUVAIN
 LA GRANDE EVASION
 LA GRANDE LIBRAIRIE
 LA GRANDE VADROUILLE
+LA GRANDE-MOTTE
 LA GUERRE DES MONDES
 LA HORDE SAUVAGE
 LA JOCONDE LOUVRE
@@ -40254,6 +40269,8 @@ La Gantoise – Anderlecht
 La Gantoise – OH Louvain
 La Grande Vadrouille
 La Grande evasion
+La Grande-Motte
+La GrandeMotte
 La Guerre des mondes
 La Horde sauvage
 La Joconde Louvre
@@ -40424,6 +40441,7 @@ LaFugueuse
 LaGantoise
 LaGantoise–Anderlecht
 LaGantoise–OHLouvain
+LaGrande-Motte
 LaGrandeVadrouille
 LaGrandeevasion
 LaGuerredesmondes
@@ -41651,6 +41669,7 @@ Les vetos
 Les vieux fourneaux
 Les visiteurs
 Les visiteurs en Amérique
+Les visiteurs en amérique
 Les Éternels
 Les Évadés
 Les12coupsdemidi
@@ -41770,6 +41789,7 @@ Lesvetos
 Lesvieuxfourneaux
 Lesvisiteurs
 LesvisiteursenAmérique
+Lesvisiteursenamérique
 LesÉternels
 LesÉvadés
 Let's Dance
@@ -44496,6 +44516,7 @@ MAXIME CRESSY
 MAXIME DEREYMEZ
 MAXIME DEREYMEZ DANSE AVEC LES STARS
 MAXIME DUPÉ
+MAXIME GASTEUIL
 MAXIME GROUSSET
 MAXIME JANVIER
 MAXIME LE FORESTIER
@@ -47748,6 +47769,7 @@ Maxime Cressy
 Maxime Dereymez
 Maxime Dereymez Danse avec les stars
 Maxime Dupé
+Maxime Gasteuil
 Maxime Grousset
 Maxime Janvier
 Maxime Le Forestier
@@ -47762,6 +47784,7 @@ MaximeCressy
 MaximeDereymez
 MaximeDereymezDanseaveclesstars
 MaximeDupé
+MaximeGasteuil
 MaximeGaël Ngayap Hambou
 MaximeGrousset
 MaximeJanvier
@@ -54054,6 +54077,7 @@ PETER HIGGS
 PETER KLEIN
 PETER KRAUS
 PETER LORRE
+PETER LUNDGREN
 PETER MAFFAY
 PETER NYGARD
 PETER PANNEKOEK
@@ -56186,6 +56210,7 @@ Peter Higgs
 Peter Klein
 Peter Kraus
 Peter Lorre
+Peter Lundgren
 Peter Maffay
 Peter Nygard
 Peter Pannekoek
@@ -56229,6 +56254,7 @@ PeterHiggs
 PeterKlein
 PeterKraus
 PeterLorre
+PeterLundgren
 PeterMaffay
 PeterNygard
 PeterPannekoek
@@ -58539,6 +58565,9 @@ RFCSeraing
 RFCSeraing–Anderlecht
 RFCliege
 RFJ
+RFK JR
+RFK Jr
+RFKJr
 RHB WELTREKORD
 RHEINAU
 RHEINFALL
@@ -58556,6 +58585,7 @@ RHONE FM
 RHONEFM
 RIAD SATTOUF
 RIADH BAHRI
+RIBEIRO
 RIBERY
 RICARDA DEMARMELS
 RICARDO BOFILL
@@ -58682,10 +58712,12 @@ ROBERT COGOI
 ROBERT DE NIRO
 ROBERT DOWNEY JR
 ROBERT DURST
+ROBERT F. KENNEDY JR
 ROBERT FICO
 ROBERT GALLINOWSKI
 ROBERT GEISS
 ROBERT HENDY-FREEGARD
+ROBERT KENNEDY JR
 ROBERT LEWANDOWSKI
 ROBERT MAUDSLEY
 ROBERT MENARD
@@ -58762,6 +58794,7 @@ RODE NEUZEN DAG
 RODE VUURMIER
 RODEZ
 RODEZ – BORDEAUX
+RODEZ – METZ
 RODEZ – PARIS FC
 RODEZ – SAINT-ÉTIENNE
 RODEZ – TOULOUSE
@@ -60325,6 +60358,7 @@ Riad Sattouf
 RiadSattouf
 Riadh Bahri
 RiadhBahri
+Ribeiro
 Ribery
 Ricarda Demarmels
 RicardaDemarmels
@@ -60526,11 +60560,13 @@ Robert Cogoi
 Robert De Niro
 Robert Downey Jr
 Robert Durst
+Robert F. Kennedy Jr
 Robert Fico
 Robert Gallinowski
 Robert Geiss
 Robert Hendy-Freegard
 Robert HendyFreegard
+Robert Kennedy Jr
 Robert Lewandowski
 Robert Maudsley
 Robert Mitchum
@@ -60551,10 +60587,12 @@ RobertCogoi
 RobertDeNiro
 RobertDowneyJr
 RobertDurst
+RobertF.KennedyJr
 RobertFico
 RobertGallinowski
 RobertGeiss
 RobertHendy-Freegard
+RobertKennedyJr
 RobertLewandowski
 RobertMaudsley
 RobertMichon
@@ -60681,11 +60719,13 @@ RodeNeuzenDag
 Rodevuurmier
 Rodez
 Rodez – Bordeaux
+Rodez – Metz
 Rodez – Paris FC
 Rodez – Saint-Étienne
 Rodez – SaintÉtienne
 Rodez – Toulouse
 Rodez–Bordeaux
+Rodez–Metz
 Rodez–ParisFC
 Rodez–Saint-Étienne
 Rodez–Toulouse
@@ -62589,8 +62629,10 @@ SOLDEU
 SOLDIER HOLLOW
 SOLEDAR
 SOLESMES
+SOLIDARITÉS
 SOLIDARITÉS NAMUR
 SOLIDAYS
+SOLINGEN
 SOLLERS
 SOLO LEVELING
 SOLOTHURNER ZEITUNG
@@ -65526,9 +65568,11 @@ Soldier Hollow
 SoldierHollow
 Soledar
 Solesmes
+Solidarités
 Solidarités Namur
 SolidaritésNamur
 Solidays
+Solingen
 Sollers
 Solo Leveling
 SoloLeveling
@@ -67599,6 +67643,7 @@ THE DANCER
 THE DARK KNIGHT
 THE DARKEST MINDS
 THE DAY BEFORE
+THE DAY BEFORE TOMORROW
 THE DEMON HOUSE
 THE DOORS
 THE DUCHESS
@@ -69100,6 +69145,7 @@ The Dancer
 The Dark Knight
 The Darkest Minds
 The Day Before
+The Day Before Tomorrow
 The Demon House
 The Doors
 The Duchess
@@ -69274,6 +69320,7 @@ TheDancer
 TheDarkKnight
 TheDarkestMinds
 TheDayBefore
+TheDayBeforeTomorrow
 TheDemonHouse
 TheDoors
 TheDuchess
@@ -72210,6 +72257,7 @@ VIEUX-CONDÉ
 VIFOR-AKTIE
 VIGGO MORTENSEN
 VIGILANCE JAUNE ORAGES
+VIGILANCE ORAGES
 VIGILANCE ORANGE CANICULE
 VIGILANCE ORANGE NEIGE-VERGLAS
 VIGILANCE ORANGE NEIGE/VERGLAS
@@ -73064,6 +73112,7 @@ ViforAktie
 Viggo Mortensen
 ViggoMortensen
 Vigilance jaune orages
+Vigilance orages
 Vigilance orange canicule
 Vigilance orange neige-verglas
 Vigilance orange neige/verglas
@@ -73077,6 +73126,7 @@ Vigilance rouge canicule
 Vigilance rouge pluie-inondation
 Vigilance rouge pluieinondation
 Vigilancejauneorages
+Vigilanceorages
 Vigilanceorangecanicule
 Vigilanceorangeneige-verglas
 Vigilanceorangeneige/verglas
@@ -76325,6 +76375,7 @@ accident mortel
 accident mortel luna park
 accident mouscron
 accident paris
+accident plombières
 accident ski enfant grand-bornand
 accident spa-francorchamps
 accident structure gonflable
@@ -80808,6 +80859,7 @@ chateau de versailles
 chateauroux
 chatel
 chatgpt
+chauve-souris
 chayenne van aarle
 che guevara
 cheb khaled
@@ -81338,6 +81390,7 @@ coachella
 coachella 2022
 coachella 2024
 cobra kai
+coca-cola
 coca-cola kroatien
 cocaine bear
 cocktail molotov film
@@ -81524,6 +81577,7 @@ coralie dubost
 coralie porrovecchio
 cord cutting
 cordes-sur-ciel
+cordoba
 core festival
 coree du nord
 coree du sud
@@ -87675,6 +87729,7 @@ islam slimani
 islamabad
 island erdbeben vulkanausbruch
 island vulkanausbruch
+island: vulkanausbruch
 islande
 islande nouvelle éruption volcanique
 islande éruption volcanique
@@ -89762,6 +89817,7 @@ la gantoise – oh louvain
 la grande evasion
 la grande librairie
 la grande vadrouille
+la grande-motte
 la guerre des mondes
 la horde sauvage
 la joconde louvre
@@ -92530,6 +92586,7 @@ maxime cressy
 maxime dereymez
 maxime dereymez danse avec les stars
 maxime dupé
+maxime gasteuil
 maxime grousset
 maxime janvier
 maxime le forestier
@@ -95560,6 +95617,7 @@ peter higgs
 peter klein
 peter kraus
 peter lorre
+peter lundgren
 peter maffay
 peter nygard
 peter pannekoek
@@ -97140,6 +97198,7 @@ rfc liege
 rfc seraing
 rfc seraing – anderlecht
 rfj
+rfk jr
 rhb weltrekord
 rheinau
 rheinfall
@@ -97157,6 +97216,7 @@ rhone fm
 rhonefm
 riad sattouf
 riadh bahri
+ribeiro
 ribery
 ricarda demarmels
 ricardo bofill
@@ -97278,10 +97338,12 @@ robert cogoi
 robert de niro
 robert downey jr
 robert durst
+robert f. kennedy jr
 robert fico
 robert gallinowski
 robert geiss
 robert hendy-freegard
+robert kennedy jr
 robert lewandowski
 robert maudsley
 robert menard
@@ -97357,6 +97419,7 @@ rode neuzen dag
 rode vuurmier
 rodez
 rodez – bordeaux
+rodez – metz
 rodez – paris fc
 rodez – saint-étienne
 rodez – toulouse
@@ -98907,8 +98970,10 @@ soldeu
 soldier hollow
 soledar
 solesmes
+solidarités
 solidarités namur
 solidays
+solingen
 sollers
 solo leveling
 solothurner zeitung
@@ -100208,6 +100273,7 @@ the dancer
 the dark knight
 the darkest minds
 the day before
+the day before tomorrow
 the demon house
 the doors
 the duchess
@@ -101847,6 +101913,7 @@ vieux-condé
 vifor-aktie
 viggo mortensen
 vigilance jaune orages
+vigilance orages
 vigilance orange canicule
 vigilance orange neige-verglas
 vigilance orange neige/verglas
