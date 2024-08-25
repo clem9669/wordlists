@@ -382,12 +382,15 @@
 24H SPA-FRANCORCHAMPS
 24H Spa-Francorchamps
 24H SpaFrancorchamps
+24H ZOLDER
+24H Zolder
 24H de Spa 2023
 24H du Mans
 24H du Mans 2024
 24H nurburgring 2023
 24H nurburgring 2024
 24HSpa-Francorchamps
+24HZolder
 24HdeSpa2023
 24HduMans
 24HduMans2024
@@ -414,6 +417,7 @@
 24h nürburgring
 24h spa 2021
 24h spa-francorchamps
+24h zolder
 24hNürburgring
 24hSpa2021
 24hduMans
@@ -1238,6 +1242,7 @@ ALAIN SOUCHON
 ALAIN SUTTER
 ALAIN TOURAINE
 ALAIN WEISSGERBER
+ALAIN-FABIEN DELON
 ALAINCHAMFORT
 ALAINDELON
 ALAN ARKIN
@@ -1341,6 +1346,7 @@ ALEX GREENWOOD
 ALEX HUGO
 ALEX JONES
 ALEX KAPRANOS
+ALEX LANIER
 ALEX LUTZ
 ALEX PEREIRA
 ALEX PULLIN
@@ -3834,6 +3840,8 @@ Alain Souchon
 Alain Sutter
 Alain Touraine
 Alain Weissgerber
+Alain-Fabien Delon
+Alain-FabienDelon
 AlainAspect
 AlainBashung
 AlainBernard
@@ -3849,6 +3857,7 @@ AlainDestexhe
 AlainDorval
 AlainDremiereRTBF
 AlainEstève
+AlainFabien Delon
 AlainGriset
 AlainJakubowicz
 AlainJuppé
@@ -4035,6 +4044,7 @@ Alex Greenwood
 Alex Hugo
 Alex Jones
 Alex Kapranos
+Alex Lanier
 Alex Lutz
 Alex Pereira
 Alex Pullin
@@ -4057,6 +4067,7 @@ AlexGreenwood
 AlexHugo
 AlexJones
 AlexKapranos
+AlexLanier
 AlexLutz
 AlexPereira
 AlexPullin
@@ -12638,6 +12649,7 @@ CHRISTOF INNERHOFER
 CHRISTOPH BERGER
 CHRISTOPH BERGER ENTFÜHRUNG
 CHRISTOPH DAUM
+CHRISTOPH DAUM TOT
 CHRISTOPH KRAMER
 CHRISTOPHE BEAUGRAND
 CHRISTOPHE BECHU
@@ -15153,10 +15165,12 @@ ChristofInnerhofer
 Christoph Berger
 Christoph Berger Entführung
 Christoph Daum
+Christoph Daum tot
 Christoph Kramer
 ChristophBerger
 ChristophBergerEntführung
 ChristophDaum
+ChristophDaumtot
 ChristophKramer
 Christophe Beaugrand
 Christophe Dechavanne
@@ -17692,6 +17706,7 @@ DORTMUND – AJAX
 DORTMUND – BAYERN
 DORTMUND – CHELSEA
 DORTMUND – DYNAMO KYIV
+DORTMUND – EINTRACHT FRANKFURT
 DORTMUND – LEVERKUSEN
 DORTMUND – MANCHESTER CITY
 DORTMUND – NEWCASTLE
@@ -19495,6 +19510,7 @@ Dortmund – Ajax
 Dortmund – Bayern
 Dortmund – Chelsea
 Dortmund – Dynamo Kyiv
+Dortmund – Eintracht Frankfurt
 Dortmund – Leverkusen
 Dortmund – Manchester City
 Dortmund – Newcastle
@@ -19531,6 +19547,7 @@ Dortmund–Ajax
 Dortmund–Bayern
 Dortmund–Chelsea
 Dortmund–DynamoKyiv
+Dortmund–EintrachtFrankfurt
 Dortmund–Leverkusen
 Dortmund–ManchesterCity
 Dortmund–Newcastle
@@ -24362,6 +24379,7 @@ FREIBURG GEGEN LEVERKUSEN
 FREIBURG GEGEN ST. PAULI
 FREIBURG GEGEN WOLFSBURG
 FREIBURG JUVENTUS
+FREIBURG – VFB STUTTGART
 FREIHEITSTRYCHLER
 FREITAG DER 13
 FREITAG, DER 13
@@ -26362,6 +26380,7 @@ Freiburg gegen Juventus
 Freiburg gegen Leverkusen
 Freiburg gegen St. Pauli
 Freiburg gegen Wolfsburg
+Freiburg – VfB Stuttgart
 FreiburgJuventus
 FreiburggegenBayern
 FreiburggegenDortmund
@@ -26370,6 +26389,7 @@ FreiburggegenJuventus
 FreiburggegenLeverkusen
 FreiburggegenSt.Pauli
 FreiburggegenWolfsburg
+Freiburg–VfBStuttgart
 Freiheitstrychler
 Freitag der 13
 Freitag, der 13
@@ -31896,6 +31916,7 @@ ISRAEL GAZA
 ISRAEL GAZA NEWS
 ISRAEL GEGEN SCHWEIZ
 ISRAEL IRAN
+ISRAEL NEWS
 ISRAEL SUISSE
 ISS
 ISS DOCH WURSCHT
@@ -32924,12 +32945,14 @@ Israel Gaza news
 Israel Iran
 Israel Suisse
 Israel gegen Schweiz
+Israel news
 IsraelEurovision2024
 IsraelGaza
 IsraelGazanews
 IsraelIran
 IsraelSuisse
 IsraelgegenSchweiz
+Israelnews
 Iss doch WURSCHT
 Issa Doumbia
 Issa Kaboré
@@ -36766,6 +36789,7 @@ KENDRICK LAMAR
 KENDRICK LAMAR EUPHORIA
 KENIA
 KENNEDY
+KENNEDY JR
 KENNETH ANGER
 KENNETH EUGENE SMITH
 KENNETH MITCHELL
@@ -36872,6 +36896,7 @@ KIM BASINGER
 KIM CLIJSTERS
 KIM DE BAAT
 KIM DE L'HORIZON
+KIM DOTCOM
 KIM FRANK
 KIM GEVAERT
 KIM GLOW
@@ -37655,6 +37680,8 @@ KendrickLamarEuphoria
 Kendricklamar
 Kenia
 Kennedy
+Kennedy Jr
+KennedyJr
 Kenneth Anger
 Kenneth Eugene Smith
 Kenneth Mitchell
@@ -37835,6 +37862,7 @@ Killington
 Kilmarnock
 Kim Basinger
 Kim Clijsters
+Kim Dotcom
 Kim Frank
 Kim Gevaert
 Kim Glow
@@ -37856,6 +37884,7 @@ Kim de l'Horizon
 Kim jong un
 KimBasinger
 KimClijsters
+KimDotcom
 KimFrank
 KimGevaert
 KimGlow
@@ -38431,6 +38460,7 @@ L'AMOUR EST DANS LE PRE
 L'AMOUR EST DANS LE PRÉ
 L'AMOUR EST DANS LE PRÉ LE BILAN
 L'AMOUR EST DANS LE PRÉ LES PORTRAITS
+L'AMOUR FLOU
 L'ANNÉE DU REQUIN
 L'ARMÉE DES OMBRES
 L'ART DU CRIME
@@ -38442,6 +38472,8 @@ L'Absente
 L'Affaire pelican
 L'Affairepelican
 L'Agence
+L'Amour flou
+L'Amourflou
 L'Armée des ombres
 L'Arméedesombres
 L'Auberge espagnole
@@ -38845,6 +38877,7 @@ LAURA MULLER
 LAURA MuLLER
 LAURA MÜLLER
 LAURA MÜLLER SCHWANGER
+LAURA OMLOOP
 LAURA PAUSINI
 LAURA TENOUDJI
 LAURA TESORO
@@ -39828,6 +39861,7 @@ LORIENT
 LORIENT – ANGERS
 LORIENT – AUXERRE
 LORIENT – CLERMONT
+LORIENT – GRENOBLE
 LORIENT – LE HAVRE
 LORIENT – LENS
 LORIENT – LILLE
@@ -40165,6 +40199,7 @@ LUZERN LIVE
 LUZERN MARATHON 2021
 LUZERN SCHAFFHAUSEN
 LUZERN – SERVETTE
+LUZERN – WINTERTHUR
 LUZERNER FASNACHT
 LUZERNER STADTLAUF
 LUZERNER ZEITUNG
@@ -40780,6 +40815,7 @@ Laura Lynch
 Laura Muller
 Laura Müller
 Laura Müller Schwanger
+Laura Omloop
 Laura Pausini
 Laura Tenoudji
 Laura Tesoro
@@ -40794,6 +40830,7 @@ LauraLynch
 LauraMuller
 LauraMüller
 LauraMüllerSchwanger
+LauraOmloop
 LauraPausini
 LauraTenoudji
 LauraTesoro
@@ -42591,6 +42628,7 @@ Lorient
 Lorient – Angers
 Lorient – Auxerre
 Lorient – Clermont
+Lorient – Grenoble
 Lorient – Le Havre
 Lorient – Lens
 Lorient – Lille
@@ -42614,6 +42652,7 @@ Lorient – parissg
 Lorient–Angers
 Lorient–Auxerre
 Lorient–Clermont
+Lorient–Grenoble
 Lorient–LeHavre
 Lorient–Lens
 Lorient–Lille
@@ -43181,6 +43220,7 @@ Luzern gegen LausanneSport
 Luzern gegen St. Gallen
 Luzern gegen Winterthur
 Luzern – Servette
+Luzern – Winterthur
 LuzernLive
 LuzernMarathon2021
 LuzernSchaffhausen
@@ -43195,6 +43235,7 @@ LuzerngegenLausanne-Sport
 LuzerngegenSt.Gallen
 LuzerngegenWinterthur
 Luzern–Servette
+Luzern–Winterthur
 Luzia Tschirky SRF
 LuziaTschirkySRF
 Lviv
@@ -43663,6 +43704,7 @@ MANCHESTER CITY – CRYSTAL PALACE
 MANCHESTER CITY – EVERTON
 MANCHESTER CITY – FLUMINENSE
 MANCHESTER CITY – FULHAM
+MANCHESTER CITY – IPSWICH TOWN
 MANCHESTER CITY – LEICESTER
 MANCHESTER CITY – LIVERPOOL
 MANCHESTER CITY – LUTON TOWN
@@ -43731,6 +43773,7 @@ MANCITY GEGEN MANUNITED
 MANCITY GEGEN REAL MADRID
 MANCITY GEGEN WEST HAM
 MANCITY – BRIGHTON
+MANCITY – IPSWICH
 MANCITY – MANCHESTER UNITED
 MANDALORIAN
 MANDELA KEITA
@@ -46108,6 +46151,7 @@ ManCity gegen ManUnited
 ManCity gegen Real Madrid
 ManCity gegen West Ham
 ManCity – Brighton
+ManCity – Ipswich
 ManCity – Manchester United
 ManCityGegenFluminense
 ManCitygegenArsenal
@@ -46135,6 +46179,7 @@ ManCity–Dortmund
 ManCity–Everton
 ManCity–FCBruges
 ManCity–Fulham
+ManCity–Ipswich
 ManCity–Leicester
 ManCity–Liverpool
 ManCity–ManchesterUnited
@@ -46175,6 +46220,7 @@ Manchester City – Crystal Palace
 Manchester City – Everton
 Manchester City – Fluminense
 Manchester City – Fulham
+Manchester City – Ipswich Town
 Manchester City – Leicester
 Manchester City – Liverpool
 Manchester City – Luton Town
@@ -46256,6 +46302,7 @@ ManchesterCity–CrystalPalace
 ManchesterCity–Everton
 ManchesterCity–Fluminense
 ManchesterCity–Fulham
+ManchesterCity–IpswichTown
 ManchesterCity–Leicester
 ManchesterCity–Liverpool
 ManchesterCity–LutonTown
@@ -53922,8 +53969,10 @@ PAUVRES CRÉATURES
 PAVARD
 PAVAROTTI
 PAVEL BITTNER
+PAVEL DUROV
 PAVLYUCHENKOVA
 PAW PATROL
+PAWEL DUROW
 PAWN STARS
 PAX MASSILIA
 PAXLOVID
@@ -55971,10 +56020,14 @@ Pauvrescréatures
 Pavard
 Pavarotti
 Pavel Bittner
+Pavel Durov
 PavelBittner
+PavelDurov
 Pavlyuchenkova
 Paw Patrol
 PawPatrol
+Pawel Durow
+PawelDurow
 Pawn Stars
 PawnStars
 Pax Massilia
@@ -58197,6 +58250,7 @@ REAL MADRID GEGEN RB LEIPZIG
 REAL MADRID GEGEN VILLARREAL
 REAL MADRID MANCHESTER CITY
 REAL MADRID MATCH
+REAL MADRID MBAPPÉ
 REAL MADRID VS BARCELONA
 REAL MADRID – AC MILAN
 REAL MADRID – AL-HILAL
@@ -59653,6 +59707,7 @@ Real Madrid - Barcelona
 Real Madrid Benzema
 Real Madrid Chelsea
 Real Madrid Manchester City
+Real Madrid Mbappé
 Real Madrid cf
 Real Madrid gegen Alaves
 Real Madrid gegen Almería
@@ -59753,6 +59808,7 @@ RealMadridChelsea
 RealMadridJuventus
 RealMadridMallorca
 RealMadridManchesterCity
+RealMadridMbappé
 RealMadridMilan
 RealMadridSevilla
 RealMadridValencia
@@ -63196,6 +63252,7 @@ STONEHENGE
 STOOS
 STOOS-SCHWINGET
 STOP INVASION
+STOPPSCHILD
 STORING WHATSAPP
 STORM
 STORM CIARAN
@@ -66489,6 +66546,7 @@ Stoos-Schwinget
 StoosSchwinget
 Stop Invasion
 StopInvasion
+Stoppschild
 Storing WhatsApp
 StoringWhatsApp
 Storm
@@ -76735,6 +76793,7 @@ alain souchon
 alain sutter
 alain touraine
 alain weissgerber
+alain-fabien delon
 alaindelon
 alan arkin
 alan foodchallenge
@@ -76837,6 +76896,7 @@ alex greenwood
 alex hugo
 alex jones
 alex kapranos
+alex lanier
 alex lutz
 alex pereira
 alex pullin
@@ -81089,6 +81149,7 @@ christof innerhofer
 christoph berger
 christoph berger entführung
 christoph daum
+christoph daum tot
 christoph kramer
 christophe beaugrand
 christophe bechu
@@ -82876,6 +82937,7 @@ dortmund – ajax
 dortmund – bayern
 dortmund – chelsea
 dortmund – dynamo kyiv
+dortmund – eintracht frankfurt
 dortmund – leverkusen
 dortmund – manchester city
 dortmund – newcastle
@@ -85311,6 +85373,7 @@ freiburg gegen leverkusen
 freiburg gegen st. pauli
 freiburg gegen wolfsburg
 freiburg juventus
+freiburg – vfb stuttgart
 freiheitstrychler
 freitag der 13
 freitag, der 13
@@ -87751,6 +87814,7 @@ israel gaza
 israel gaza news
 israel gegen schweiz
 israel iran
+israel news
 israel suisse
 iss
 iss doch wurscht
@@ -89259,6 +89323,7 @@ kendrick lamar
 kendrick lamar euphoria
 kenia
 kennedy
+kennedy jr
 kenneth anger
 kenneth eugene smith
 kenneth mitchell
@@ -89364,6 +89429,7 @@ kim basinger
 kim clijsters
 kim de baat
 kim de l'horizon
+kim dotcom
 kim frank
 kim gevaert
 kim glow
@@ -89728,6 +89794,7 @@ l'amour est dans le pre
 l'amour est dans le pré
 l'amour est dans le pré le bilan
 l'amour est dans le pré les portraits
+l'amour flou
 l'année du requin
 l'armée des ombres
 l'art du crime
@@ -90059,6 +90126,7 @@ laura lynch
 laura muller
 laura müller
 laura müller schwanger
+laura omloop
 laura pausini
 laura tenoudji
 laura tesoro
@@ -91021,6 +91089,7 @@ lorient
 lorient – angers
 lorient – auxerre
 lorient – clermont
+lorient – grenoble
 lorient – le havre
 lorient – lens
 lorient – lille
@@ -91352,6 +91421,7 @@ luzern live
 luzern marathon 2021
 luzern schaffhausen
 luzern – servette
+luzern – winterthur
 luzerner fasnacht
 luzerner stadtlauf
 luzerner zeitung
@@ -91739,6 +91809,7 @@ manchester city – crystal palace
 manchester city – everton
 manchester city – fluminense
 manchester city – fulham
+manchester city – ipswich town
 manchester city – leicester
 manchester city – liverpool
 manchester city – luton town
@@ -91806,6 +91877,7 @@ mancity gegen manunited
 mancity gegen real madrid
 mancity gegen west ham
 mancity – brighton
+mancity – ipswich
 mancity – manchester united
 mandalorian
 mandela keita
@@ -95473,8 +95545,10 @@ pauvres créatures
 pavard
 pavarotti
 pavel bittner
+pavel durov
 pavlyuchenkova
 paw patrol
+pawel durow
 pawn stars
 pax massilia
 paxlovid
@@ -96849,6 +96923,7 @@ real madrid gegen rb leipzig
 real madrid gegen villarreal
 real madrid manchester city
 real madrid match
+real madrid mbappé
 real madrid vs barcelona
 real madrid – ac milan
 real madrid – al-hilal
@@ -99499,6 +99574,7 @@ stonehenge
 stoos
 stoos-schwinget
 stop invasion
+stoppschild
 storing whatsapp
 storm
 storm ciaran
