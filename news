@@ -1793,6 +1793,7 @@ ANDERLECHT – UNION SAINT-GILLOISE
 ANDERLECHT – ZULTE WAREGEM
 ANDERLECHT-ANTWERP
 ANDERLECHT-CLUB BRUGGE
+ANDERLECHT-DINAMO MINSK
 ANDERLECHT-STANDARD
 ANDERLECHT-UNION
 ANDERMATT
@@ -4834,6 +4835,8 @@ Anderlecht'Antwerp
 Anderlecht-Antwerp
 Anderlecht-Club Brugge
 Anderlecht-ClubBrugge
+Anderlecht-Dinamo Minsk
+Anderlecht-DinamoMinsk
 Anderlecht-Eupen
 Anderlecht-Genk
 Anderlecht-Standard
@@ -4847,6 +4850,7 @@ AnderlechtCercleBrugge
 AnderlechtCharleroi
 AnderlechtClub Brugge
 AnderlechtClubBrugge
+AnderlechtDinamo Minsk
 AnderlechtEupen
 AnderlechtGenk
 AnderlechtGent
@@ -7170,6 +7174,7 @@ BASKENLAND-RUNDFAHRT
 BASKET 3X3
 BASKET BELGIQUE FRANCE
 BASKET COUPE DU MONDE
+BASKET FAUTEUIL JEUX PARALYMPIQUES
 BASKET FEMININ JO
 BASKET FEMININ JO 2024
 BASKET JO
@@ -9207,6 +9212,7 @@ Basket JO
 Basket JO 2024
 Basket Landes
 Basket Willebroek
+Basket fauteuil Jeux paralympiques
 Basket feminin JO
 Basket feminin JO 2024
 Basket3x3
@@ -9220,6 +9226,7 @@ Basketball Olympia 2024
 Basketball-WM
 BasketballOlympia2024
 BasketballWM
+BasketfauteuilJeuxparalympiques
 BasketfemininJO
 BasketfemininJO2024
 Basler Fasnacht
@@ -12947,6 +12954,7 @@ CLUB BRUGGE  ZULTE-WAREGEM
 CLUB BRUGGE  ZULTEWAREGEM
 CLUB BRUGGE - CERCLE
 CLUB BRUGGE BEERSCHOT
+CLUB BRUGGE CHAMPIONS LEAGUE
 CLUB BRUGGE MANCHESTER CITY
 CLUB BRUGGE PSG
 CLUB BRUGGE ZULTE WAREGEM
@@ -15672,6 +15680,7 @@ Club Brugge Beerschot
 Club Brugge Manchester City
 Club Brugge PSG
 Club Brugge Zulte Waregem
+Club Brugge champions league
 Club Brugge – Antwerp
 Club Brugge – Benfica
 Club Brugge – Union Saint-Gilloise
@@ -15712,6 +15721,7 @@ ClubBruggeUnion
 ClubBruggeWesterlo
 ClubBruggeZulte-Waregem
 ClubBruggeZulteWaregem
+ClubBruggechampionsleague
 ClubBruggezulte-waregem
 ClubBrugge–Antwerp
 ClubBrugge–Benfica
@@ -16949,6 +16959,7 @@ DANSE AVEC LES LOUPS
 DANSE AVEC LES STARS
 DANSE AVEC LES STARS 2021
 DANSE AVEC LES STARS D'INTERNET
+DANSO
 DANTE RIGO
 DANTE VANZEIR
 DANY BOON
@@ -17904,6 +17915,7 @@ DUPONTMORETTI
 DUPRAZ
 DURALEX
 DURAN DURAN
+DURANVILLE
 DURBUY
 DUROV
 DUSAN TADIC
@@ -18233,6 +18245,7 @@ DanslaMaison
 Danslabrume
 Danslachaleurdelanuit
 Danslamaison
+Danso
 Dante Rigo
 Dante Vanzeir
 DanteRigo
@@ -19824,6 +19837,7 @@ Dupraz
 Duralex
 Duran Duran
 DuranDuran
+Duranville
 Durbuy
 Durov
 Dusan Tadic
@@ -20057,6 +20071,7 @@ EDDY MERCKX
 EDDY MITCHELL
 EDE
 EDEGEM
+EDEKA AFD
 EDEN HAZARD
 EDENRED
 EDERSON
@@ -20741,6 +20756,7 @@ ESC 2022 FINALE
 ESC 2022 Finale
 ESC 2023
 ESC 2024
+ESC 2025
 ESC FINALE 2023
 ESC Finale 2023
 ESC GEWINNER 2022
@@ -20755,6 +20771,7 @@ ESC2022
 ESC2022Finale
 ESC2023
 ESC2024
+ESC2025
 ESCALADE
 ESCALADE 2022
 ESCALADE COMBINÉ JEUX OLYMPIQUES
@@ -21018,6 +21035,7 @@ EUROPA LEAGUE
 EUROPA LEAGUE 2021
 EUROPA LEAGUE AUSLOSUNG
 EUROPA LEAGUE FINAL
+EUROPA LEAGUE LOTING
 EUROPA LEAGUE-FINAL
 EUROPA LEAGUE: AUSLOSUNG
 EUROPA PARK
@@ -21241,6 +21259,8 @@ EddyMitchell
 EddydePretto
 Ede
 Edegem
+Edeka AfD
+EdekaAfD
 Eden Hazard
 EdenHazard
 Edenred
@@ -22724,6 +22744,7 @@ Europa League
 Europa League 2021
 Europa League Auslosung
 Europa League Final
+Europa League loting
 Europa League-final
 Europa League: Auslosung
 Europa Leaguefinal
@@ -22742,6 +22763,7 @@ EuropaLeague2021
 EuropaLeague:Auslosung
 EuropaLeagueAuslosung
 EuropaLeagueFinal
+EuropaLeagueloting
 EuropaPark
 Europaleague
 Europawahl 2024
@@ -23883,6 +23905,7 @@ FLIXTRAIN
 FLOHMARKT KONSTANZ
 FLOR BRESSERS
 FLORA DUFFY
+FLORA VAUTIER
 FLORENCE
 FLORENCE AND THE MACHINE
 FLORENCE FORESTI
@@ -25395,7 +25418,9 @@ FlohmarktKonstanz
 Flor Bressers
 FlorBressers
 Flora Duffy
+Flora Vautier
 FloraDuffy
+FloraVautier
 Florence
 Florence Foresti
 Florence Foster Jenkins
@@ -27001,6 +27026,7 @@ GENERATION
 GENERATION Z
 GENESIS
 GENEVA OPEN
+GENEVA WATCH DAYS
 GENEVE
 GENEVE GENEVE
 GENEVE SERVETTE
@@ -28242,7 +28268,9 @@ GenerationZ
 Generationz
 Genesis
 Geneva Open
+Geneva Watch Days
 GenevaOpen
+GenevaWatchDays
 Geneve
 Geneve Servette
 Geneve Servette hockey
@@ -31944,6 +31972,7 @@ IS REDDIT DOWN
 ISAAC HAYDEN
 ISAAC MBENZA
 ISAAC ROUX
+ISAAC SCHMIDT
 ISAAK TOURÉ
 ISABELLA ROSSELLINI
 ISABELLA SCHMID
@@ -32929,9 +32958,11 @@ IsRedditdown
 Isaac Hayden
 Isaac Mbenza
 Isaac Roux
+Isaac Schmidt
 IsaacHayden
 IsaacMbenza
 IsaacRoux
+IsaacSchmidt
 Isaak Touré
 IsaakTouré
 Isabella Rossellini
@@ -33984,6 +34015,7 @@ JOHNNY DEPP FESTIVAL DE CANNES 2023
 JOHNNY DEPP JOELLE RICH
 JOHNNY DEPP VERDICT
 JOHNNY DEPP/AMBER HEARD
+JOHNNY GAUDREAU
 JOHNNY HALLYDAY
 JOHNNY HALLYDAY LAETICIA HALLYDAY
 JOHNNY LOGAN
@@ -34213,6 +34245,8 @@ JULIAN ASSANGE
 JULIAN DRAXLER
 JULIAN FIGUEROA
 JULIAN NAGELSMANN
+JULIAN ORTEGA
+JULIAN ORTEGA ELITE
 JULIAN REICHELT
 JULIAN REIM
 JULIAN SANDS
@@ -35788,6 +35822,7 @@ Johnny Depp Festival de Cannes 2023
 Johnny Depp Joelle Rich
 Johnny Depp verdict
 Johnny Depp/Amber Heard
+Johnny Gaudreau
 Johnny Hallyday
 Johnny Hallyday Laeticia Hallyday
 Johnny Logan
@@ -35802,6 +35837,7 @@ JohnnyDepp/AmberHeard
 JohnnyDeppFestivaldeCannes2023
 JohnnyDeppJoelleRich
 JohnnyDeppverdict
+JohnnyGaudreau
 JohnnyHallyday
 JohnnyHallydayLaeticiaHallyday
 JohnnyLogan
@@ -36209,6 +36245,8 @@ Julian Assange
 Julian Draxler
 Julian Figueroa
 Julian Nagelsmann
+Julian Ortega
+Julian Ortega Elite
 Julian Reichelt
 Julian Reim
 Julian Sands
@@ -36217,6 +36255,8 @@ JulianAssange
 JulianDraxler
 JulianFigueroa
 JulianNagelsmann
+JulianOrtega
+JulianOrtegaElite
 JulianReichelt
 JulianReim
 JulianSands
@@ -38963,6 +39003,7 @@ LARS VILKS
 LARS VOGT
 LARTOT
 LARZAC
+LAS PALMAS – REAL MADRID
 LAS VEGAS
 LAS VEGAS 21
 LASCHET
@@ -40013,6 +40054,7 @@ LOTERIE NATIONALE
 LOTERIE ROMANDE
 LOTHAR MATTHÄUS
 LOTING BEKER VAN BELGIE
+LOTING CHAMPIONS LEAGUE
 LOTING EUROPA LEAGUE
 LOTING WK 2022
 LOTING WK QATAR
@@ -40898,8 +40940,10 @@ LarsVogt
 LarsvanderHaar
 Lartot
 Larzac
+Las Palmas – Real Madrid
 Las Vegas
 Las Vegas 21
+LasPalmas–RealMadrid
 LasVegas
 LasVegas21
 Laschet
@@ -41732,6 +41776,7 @@ Les Animaux Fantastiques
 Les Animaux Fantastiques 3
 Les Animaux fantastiques
 Les Anneaux de Pouvoir
+Les Anneaux de pouvoir
 Les Ardentes
 Les Ardentes 2023
 Les Aventuriers
@@ -41835,6 +41880,7 @@ LesAnimauxFantastiques
 LesAnimauxFantastiques3
 LesAnimauxfantastiques
 LesAnneauxdePouvoir
+LesAnneauxdepouvoir
 LesArdentes
 LesArdentes2023
 LesAventuriers
@@ -42819,10 +42865,12 @@ LoterieRomande
 Lothar Matthäus
 LotharMatthäus
 Loting Beker van belgie
+Loting Champions League
 Loting Europa League
 Loting WK 2022
 Loting WK Qatar
 LotingBekervanbelgie
+LotingChampionsLeague
 LotingEuropaLeague
 LotingWK2022
 LotingWKQatar
@@ -53718,6 +53766,7 @@ PAMELA REIF
 PAMIERS
 PAMPELONNE
 PAN ZHANLE
+PANA – LENS
 PANAMA
 PANAMA – FRANCE
 PANATHINAIKOS
@@ -54013,6 +54062,7 @@ PATRICK FIORI
 PATRICK FISCHER
 PATRICK HABIRORA
 PATRICK HÄSSIG
+PATRICK JANSSENS
 PATRICK JUVET
 PATRICK KANE
 PATRICK LEFEVERE
@@ -55043,9 +55093,12 @@ PRéSIDENTS
 PS
 PS5 BLACK FRIDAY
 PS5 Black Friday
+PS5 PRO
+PS5 Pro
 PS5 SLIM
 PS5 Slim
 PS5BlackFriday
+PS5Pro
 PS5Slim
 PSG
 PSG  AL-NASSR
@@ -55384,12 +55437,14 @@ Pamiers
 Pampelonne
 Pan Zhanle
 PanZhanle
+Pana – Lens
 Panama
 Panama – France
 Panama–France
 Panathinaikos
 Panayotis Pascot
 PanayotisPascot
+Pana–Lens
 Pancakes
 Pancarte antisemite Metz
 PancarteantisemiteMetz
@@ -55956,6 +56011,7 @@ Patrick Fiori
 Patrick Fischer
 Patrick Habirora
 Patrick Hässig
+Patrick Janssens
 Patrick Juvet
 Patrick Kane
 Patrick Lefevere
@@ -55993,6 +56049,7 @@ PatrickFiori
 PatrickFischer
 PatrickHabirora
 PatrickHässig
+PatrickJanssens
 PatrickJuvet
 PatrickKane
 PatrickLefevere
@@ -62439,6 +62496,7 @@ SERVETTE GEGEN ZÜRICH
 SERVETTE JUVENTUS
 SERVETTE LAUSANNE
 SERVETTE ROMA
+SERVETTE – CHELSEA
 SERVETTE – FC ZÜRICH
 SERVIË  ZWITSERLAND
 SERVUS TV
@@ -65130,6 +65188,7 @@ Servette Roma
 Servette gegen FCB
 Servette gegen St. Gallen
 Servette gegen Zürich
+Servette – Chelsea
 Servette – FC Zürich
 ServetteBraga
 ServetteChelsea
@@ -65141,6 +65200,7 @@ ServetteRoma
 ServettegegenFCB
 ServettegegenSt.Gallen
 ServettegegenZürich
+Servette–Chelsea
 Servette–FCZürich
 Servië  Zwitserland
 ServiëZwitserland
@@ -72314,6 +72374,7 @@ VALKILMER
 VALKNUT
 VALLADOLID – REAL MADRID
 VALLAUD-BELKACEM
+VALLAURIS
 VALLENDE STERREN
 VALLETOUX
 VALLÉE DU CÉLÉ
@@ -73005,6 +73066,7 @@ Valladolid – Real Madrid
 Valladolid–RealMadrid
 Vallaud-Belkacem
 VallaudBelkacem
+Vallauris
 Vallende sterren
 Vallendesterren
 Valletoux
@@ -77579,6 +77641,7 @@ anderlecht – union saint-gilloise
 anderlecht – zulte waregem
 anderlecht-antwerp
 anderlecht-club brugge
+anderlecht-dinamo minsk
 anderlecht-standard
 anderlecht-union
 andermatt
@@ -78995,6 +79058,7 @@ baskenland-rundfahrt
 basket 3x3
 basket belgique france
 basket coupe du monde
+basket fauteuil jeux paralympiques
 basket feminin jo
 basket feminin jo 2024
 basket jo
@@ -81677,6 +81741,7 @@ club brugge  zulte-waregem
 club brugge  zultewaregem
 club brugge - cercle
 club brugge beerschot
+club brugge champions league
 club brugge manchester city
 club brugge psg
 club brugge zulte waregem
@@ -82448,6 +82513,7 @@ danse avec les loups
 danse avec les stars
 danse avec les stars 2021
 danse avec les stars d'internet
+danso
 dante rigo
 dante vanzeir
 dany boon
@@ -83346,6 +83412,7 @@ dupontmoretti
 dupraz
 duralex
 duran duran
+duranville
 durbuy
 durov
 dusan tadic
@@ -83476,6 +83543,7 @@ eddy merckx
 eddy mitchell
 ede
 edegem
+edeka afd
 eden hazard
 edenred
 ederson
@@ -84098,6 +84166,7 @@ esc 2022
 esc 2022 finale
 esc 2023
 esc 2024
+esc 2025
 esc finale 2023
 esc gewinner 2022
 esc schweiz nemo
@@ -84345,6 +84414,7 @@ europa league
 europa league 2021
 europa league auslosung
 europa league final
+europa league loting
 europa league-final
 europa league: auslosung
 europa park
@@ -85094,6 +85164,7 @@ flixtrain
 flohmarkt konstanz
 flor bressers
 flora duffy
+flora vautier
 florence
 florence and the machine
 florence foresti
@@ -86008,6 +86079,7 @@ generation
 generation z
 genesis
 geneva open
+geneva watch days
 geneve
 geneve geneve
 geneve servette
@@ -88032,6 +88104,7 @@ is reddit down
 isaac hayden
 isaac mbenza
 isaac roux
+isaac schmidt
 isaak touré
 isabella rossellini
 isabella schmid
@@ -88924,6 +88997,7 @@ johnny depp festival de cannes 2023
 johnny depp joelle rich
 johnny depp verdict
 johnny depp/amber heard
+johnny gaudreau
 johnny hallyday
 johnny hallyday laeticia hallyday
 johnny logan
@@ -89142,6 +89216,8 @@ julian assange
 julian draxler
 julian figueroa
 julian nagelsmann
+julian ortega
+julian ortega elite
 julian reichelt
 julian reim
 julian sands
@@ -90386,6 +90462,7 @@ lars vilks
 lars vogt
 lartot
 larzac
+las palmas – real madrid
 las vegas
 las vegas 21
 laschet
@@ -91412,6 +91489,7 @@ loterie nationale
 loterie romande
 lothar matthäus
 loting beker van belgie
+loting champions league
 loting europa league
 loting wk 2022
 loting wk qatar
@@ -95452,6 +95530,7 @@ pamela reif
 pamiers
 pampelonne
 pan zhanle
+pana – lens
 panama
 panama – france
 panathinaikos
@@ -95737,6 +95816,7 @@ patrick fiori
 patrick fischer
 patrick habirora
 patrick hässig
+patrick janssens
 patrick juvet
 patrick kane
 patrick lefevere
@@ -96738,6 +96818,7 @@ présumé innocent
 prévision
 ps
 ps5 black friday
+ps5 pro
 ps5 slim
 psg
 psg  al-nassr
@@ -98948,6 +99029,7 @@ servette gegen zürich
 servette juventus
 servette lausanne
 servette roma
+servette – chelsea
 servette – fc zürich
 servië  zwitserland
 servus tv
@@ -102079,6 +102161,7 @@ valkilmer
 valknut
 valladolid – real madrid
 vallaud-belkacem
+vallauris
 vallende sterren
 valletoux
 vallée du célé
