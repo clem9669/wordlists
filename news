@@ -7745,6 +7745,7 @@ BERTRAND BELIN
 BERTRAND CANTAT
 BERTRAND CHAMEROY
 BERTRAND DE LA CHESNAIS
+BERTRAND LATOUR
 BERTRAND MARCHAND
 BERTRAND MEUNIER ATOS
 BERTRAND PICCARD
@@ -7769,6 +7770,7 @@ BETIS – ATLÉTICO MADRID
 BETIS – BARCELONA
 BETIS – BARCELONE
 BETIS – INTER
+BETIS – LEGANÉS
 BETIS – MANCHESTER UNITED
 BETIS – MARSEILLE
 BETIS – REAL
@@ -8341,6 +8343,7 @@ BRAD JOHNSON MELROSE PLACE
 BRAD PITT
 BRAD PITT EMILY RATAJKOWSKI
 BRADERIE
+BRADERIE DE LILLE
 BRADLEY BARCOLA
 BRADLEY COOPER
 BRADLEY WIGGINS
@@ -10159,6 +10162,7 @@ Bertarelli
 Bertrand Belin
 Bertrand Cantat
 Bertrand Chameroy
+Bertrand Latour
 Bertrand Marchand
 Bertrand Meunier Atos
 Bertrand Piccard
@@ -10167,6 +10171,7 @@ Bertrand de la Chesnais
 BertrandBelin
 BertrandCantat
 BertrandChameroy
+BertrandLatour
 BertrandMarchand
 BertrandMeunierAtos
 BertrandPiccard
@@ -10197,6 +10202,7 @@ Betis – Atlético Madrid
 Betis – Barcelona
 Betis – Barcelone
 Betis – Inter
+Betis – Leganés
 Betis – Manchester United
 Betis – Marseille
 Betis – Real
@@ -10206,6 +10212,7 @@ Betis–AtléticoMadrid
 Betis–Barcelona
 Betis–Barcelone
 Betis–Inter
+Betis–Leganés
 Betis–ManchesterUnited
 Betis–Marseille
 Betis–Real
@@ -11061,6 +11068,8 @@ BradJohnsonMelrosePlace
 BradPitt
 BradPittEmilyRatajkowski
 Braderie
+Braderie de Lille
+BraderiedeLille
 Bradley Barcola
 Bradley Cooper
 Bradley Wiggins
@@ -13435,6 +13444,7 @@ COUPE D'ASIE
 COUPE D'EUROPE
 COUPE D'EUROPE 2021
 COUPE D'ITALIE
+COUPE DAVIS
 COUPE DE BELGIQUE
 COUPE DE FRANCE
 COUPE DE FRANCE DE FOOTBALL
@@ -16449,6 +16459,7 @@ Coup de tete
 Coup de vent
 Coupdetete
 Coupdevent
+Coupe Davis
 Coupe Suisse
 Coupe d'Afrique
 Coupe d'Asie
@@ -16481,6 +16492,7 @@ Coupe du monde féminine de football 2023
 Coupe du monde rugby
 Coupe du monde rugby 2023
 Coupe du monde rugby 2027
+CoupeDavis
 CoupeSuisse
 Couped'Afrique
 Couped'Asie
@@ -17428,6 +17440,7 @@ DEMONSTRATION ZÜRICH
 DEN HAAG
 DENDER
 DENDER  CLUB BRUGGE
+DENDER – STANDARD
 DENDERMONDE
 DENEMARKEN  ENGELAND
 DENEMARKEN  SERVIË
@@ -18939,8 +18952,10 @@ Den Haag
 DenHaag
 Dender
 Dender  Club Brugge
+Dender – Standard
 DenderClubBrugge
 Dendermonde
+Dender–Standard
 Denemarken  Engeland
 Denemarken  Servië
 DenemarkenEngeland
@@ -20459,6 +20474,7 @@ EKwielrennen2024
 EL
 EL CHAPO
 EL MAYO
+EL MORDJENE
 EL NINO
 EL SALVADOR
 EL TONY MATE
@@ -21718,11 +21734,13 @@ Eksaarde
 El
 El Chapo
 El Mayo
+El Mordjene
 El Salvador
 El Tony Mate
 El nino
 ElChapo
 ElMayo
+ElMordjene
 ElSalvador
 ElTonyMate
 Ela
@@ -23595,11 +23613,13 @@ FC THUN
 FC THUN GEGEN FC AARAU
 FC THUN GEGEN LUZERN
 FC THUN GEGEN WINTERTHUR
+FC THUN – GRASSHOPPERS
 FC TWENTE
 FC Thun
 FC Thun gegen FC Aarau
 FC Thun gegen Luzern
 FC Thun gegen Winterthur
+FC Thun – Grasshoppers
 FC Twente
 FC UNION BERLIN
 FC URNÄSCH
@@ -23722,6 +23742,7 @@ FCThun
 FCThungegenFCAarau
 FCThungegenLuzern
 FCThungegenWinterthur
+FCThun–Grasshoppers
 FCTwente
 FCUnionBerlin
 FCUrnäsch
@@ -23744,6 +23765,7 @@ FCZürich-Affoltern
 FCZürich–bodø/glimt
 FCservette
 FCzurich
+FDJ
 FDP
 FEAR STREET
 FEARSTREET
@@ -30043,6 +30065,7 @@ GÜLSHA ADILJI
 GÜNDOGAN
 GÜNTER BRUS
 GÜNTER LAMPRECHT
+GÜNTER NETZER
 GÜNTHER FIELMANN
 GÜNTHER JAUCH
 GÜNTHER JAUCH WER WIRD MILLIONÄR
@@ -30087,8 +30110,10 @@ GülshaAdilji
 Gündogan
 Günter Brus
 Günter Lamprecht
+Günter Netzer
 GünterBrus
 GünterLamprecht
+GünterNetzer
 Günther Fielmann
 Günther Jauch
 Günther Jauch Wer wird Millionär
@@ -40145,6 +40170,7 @@ LILSE BERGEN
 LILY ALLEN
 LILY COLLINS
 LILY JAMES
+LILY KUNSTADT
 LILY ROSE DEPP
 LILY SAFRA
 LILY-ROSE DEPP
@@ -42748,6 +42774,7 @@ LilseBergen
 Lily Allen
 Lily Collins
 Lily James
+Lily Kunstadt
 Lily Safra
 Lily rose depp
 Lily-Rose Depp
@@ -42755,6 +42782,7 @@ Lily-RoseDepp
 LilyAllen
 LilyCollins
 LilyJames
+LilyKunstadt
 LilyRose Depp
 LilySafra
 Lilyrosedepp
@@ -43282,8 +43310,10 @@ LostinFuseta
 Lostprophets
 Loterie Nationale
 Loterie Romande
+Loterie nationale
 LoterieNationale
 LoterieRomande
+Loterienationale
 Lothar Matthäus
 LotharMatthäus
 Loting Beker van belgie
@@ -45563,6 +45593,7 @@ MICHAEL WENDLER LAURA MÜLLER
 MICHAEL WILLIAMS
 MICHAEL WOODS
 MICHAEL YOUN
+MICHAELA DEPRINCE
 MICHAELDEFFERT
 MICHAELFREY!
 MICHAELJACKSON
@@ -49164,6 +49195,8 @@ MichaelWendlerLauraMüller
 MichaelWilliams
 MichaelWoods
 MichaelYoun
+Michaela DePrince
+MichaelaDePrince
 Michaelbuble
 MichaelvanGerwen
 Michal
@@ -53158,6 +53191,7 @@ OM Martigues
 OM Middlesbrough
 OM Milan
 OM NANTES
+OM NICE
 OM NORWICH
 OM Nantes
 OM Norwich
@@ -53803,8 +53837,10 @@ Olympischespiele 2021
 Om
 Om Atalanta
 Om Milan
+Om Nice
 OmAtalanta
 OmMilan
+OmNice
 Omaha Beach
 OmahaBeach
 Oman
@@ -54375,6 +54411,7 @@ PAQUES 2022
 PAQUES 2024
 PARABOOT
 PARACETAMOL
+PARADE OLYMPIQUE
 PARADISE BY THE DASHBOARD LIGHT
 PARADISE CITY
 PARAG AGRAWAL
@@ -56085,6 +56122,8 @@ Paques2022
 Paques2024
 Paraboot
 Paracetamol
+Parade olympique
+Paradeolympique
 Paradise City
 Paradise by the Dashboard Light
 ParadiseCity
@@ -63080,6 +63119,7 @@ SERGUEÏ CHOÏGOU
 SERIE A
 SERIE B
 SERIE-B
+SERIE: A
 SERIEA
 SERIENMÖRDER SCHWÄBISCH HALL
 SERINE AYARI
@@ -63580,6 +63620,7 @@ SONNENFINSTERNIS SCHWEIZ
 SONNENSTURM
 SONNY BARGER
 SONNY CHIBA
+SONNY KITTEL
 SONOS
 SONS OF THE FOREST
 SONY
@@ -65785,6 +65826,8 @@ Serie A
 Serie B
 Serie a
 Serie-B
+Serie: A
+Serie:A
 SerieA
 SerieB
 Seriea
@@ -66587,8 +66630,10 @@ SonnenfinsternisSchweiz
 Sonnensturm
 Sonny Barger
 Sonny Chiba
+Sonny Kittel
 SonnyBarger
 SonnyChiba
+SonnyKittel
 Sonos
 Sons of the Forest
 SonsoftheForest
@@ -80301,6 +80346,7 @@ bertrand belin
 bertrand cantat
 bertrand chameroy
 bertrand de la chesnais
+bertrand latour
 bertrand marchand
 bertrand meunier atos
 bertrand piccard
@@ -80325,6 +80371,7 @@ betis – atlético madrid
 betis – barcelona
 betis – barcelone
 betis – inter
+betis – leganés
 betis – manchester united
 betis – marseille
 betis – real
@@ -80859,6 +80906,7 @@ brad johnson melrose place
 brad pitt
 brad pitt emily ratajkowski
 braderie
+braderie de lille
 bradley barcola
 bradley cooper
 bradley wiggins
@@ -82858,6 +82906,7 @@ coupe d'asie
 coupe d'europe
 coupe d'europe 2021
 coupe d'italie
+coupe davis
 coupe de belgique
 coupe de france
 coupe de france de football
@@ -83587,6 +83636,7 @@ demonstration zürich
 den haag
 dender
 dender  club brugge
+dender – standard
 dendermonde
 denemarken  engeland
 denemarken  servië
@@ -84498,6 +84548,7 @@ eksaarde
 el
 el chapo
 el mayo
+el mordjene
 el nino
 el salvador
 el tony mate
@@ -85586,6 +85637,7 @@ fc thun
 fc thun gegen fc aarau
 fc thun gegen luzern
 fc thun gegen winterthur
+fc thun – grasshoppers
 fc twente
 fc union berlin
 fc urnäsch
@@ -85619,6 +85671,7 @@ fcz
 fcz basel
 fcz frauen
 fcz-frauen
+fdj
 fdp
 fear street
 fearstreet
@@ -87775,6 +87828,7 @@ gülsha adilji
 gündogan
 günter brus
 günter lamprecht
+günter netzer
 günther fielmann
 günther jauch
 günther jauch wer wird millionär
@@ -92076,6 +92130,7 @@ lilse bergen
 lily allen
 lily collins
 lily james
+lily kunstadt
 lily rose depp
 lily safra
 lily-rose depp
@@ -94315,6 +94370,7 @@ michael wendler laura müller
 michael williams
 michael woods
 michael youn
+michaela deprince
 michaeldeffert
 michaelfrey!
 michaeljackson
@@ -96120,6 +96176,7 @@ om martigues
 om middlesbrough
 om milan
 om nantes
+om nice
 om norwich
 om panathinaikos
 om psg
@@ -96520,6 +96577,7 @@ paques 2022
 paques 2024
 paraboot
 paracetamol
+parade olympique
 paradise by the dashboard light
 paradise city
 parag agrawal
@@ -99961,6 +100019,7 @@ sergueï choïgou
 serie a
 serie b
 serie-b
+serie: a
 seriea
 serienmörder schwäbisch hall
 serine ayari
@@ -100443,6 +100502,7 @@ sonnenfinsternis schweiz
 sonnensturm
 sonny barger
 sonny chiba
+sonny kittel
 sonos
 sons of the forest
 sony
