@@ -30,7 +30,7 @@ jobs:
 
       - name: Create small wordlist
         run: |
-          cat top_mots_combo top_prenoms_combo private_ip_192 0-9999 animal_nicknames brands cities_world code_departement default_password departement_fr dictionnaire_fr dictionnaire_fr_small entreprise_fr food\&drink footballers fr-top1000000 fr-top20000 noms_famille_fr noms_propres pokemon_en pokemon_fr politics powerful_man powerful_woman prenoms_fr presidents_fr presidents_us pseudo religious twitter various_leak1 various_leak2 various_leak3 various_leak4 various_leak5 various_leak6 various_leak7 various_leak8 villes_fr > Compilation/small;
+          cat Combo/top_prenoms_combo private_ip_192 0-9999 animal_nicknames brands cities_world code_departement default_password departement_fr dictionnaire_fr dictionnaire_fr_small entreprise_fr food\&drink footballers fr-top1000000 fr-top20000 noms_famille_fr noms_propres pokemon_en pokemon_fr politics powerful_man powerful_woman prenoms_fr presidents_fr presidents_us pseudo religious twitter various_leak1 various_leak2 various_leak3 various_leak4 various_leak5 various_leak6 various_leak7 various_leak8 villes_fr > Compilation/small;
           cd Compilation; ../duplicut/duplicut small -o clem9669_wordlist_small;
           7z a -t7z -m0=lzma -mx=9 -mfb=64 -md=32m -ms=on clem9669_wordlist_small.7z clem9669_wordlist_small;
           ls -lha; pwd; free; du -ha; rm small; rm clem9669_wordlist_small
