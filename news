@@ -2659,6 +2659,7 @@ ATALANTA  SPORTING CP
 ATALANTA BERGAMO
 ATALANTA GEGEN ROMA
 ATALANTA VILLARREAL
+ATALANTA – ARSENAL
 ATALANTA – INTER
 ATALANTA – LIVERPOOL
 ATALANTA – MARSEILLE
@@ -2706,6 +2707,7 @@ ATLÉTICO MADRID – MILAN
 ATLÉTICO MADRID – OSASUNA
 ATLÉTICO MADRID – PORTO
 ATLÉTICO MADRID – RAYO
+ATLÉTICO MADRID – RB LEIPZIG
 ATLÉTICO MADRID – REAL
 ATLÉTICO MADRID – REAL MADRID
 ATLÉTICO MADRID – VALENCE
@@ -6369,6 +6371,7 @@ Atalanta  Sporting CP
 Atalanta Bergamo
 Atalanta Villarreal
 Atalanta gegen Roma
+Atalanta – Arsenal
 Atalanta – Inter
 Atalanta – Liverpool
 Atalanta – Marseille
@@ -6385,6 +6388,7 @@ AtalantaSalernitana
 AtalantaSportingCP
 AtalantaVillarreal
 AtalantagegenRoma
+Atalanta–Arsenal
 Atalanta–Inter
 Atalanta–Liverpool
 Atalanta–Marseille
@@ -6449,6 +6453,7 @@ Atlético Madrid – Man City
 Atlético Madrid – Milan
 Atlético Madrid – Osasuna
 Atlético Madrid – Porto
+Atlético Madrid – RB Leipzig
 Atlético Madrid – Rayo
 Atlético Madrid – Real
 Atlético Madrid – Real Madrid
@@ -6477,6 +6482,7 @@ AtléticoMadrid–ManCity
 AtléticoMadrid–Milan
 AtléticoMadrid–Osasuna
 AtléticoMadrid–Porto
+AtléticoMadrid–RBLeipzig
 AtléticoMadrid–Rayo
 AtléticoMadrid–Real
 AtléticoMadrid–RealMadrid
@@ -8496,6 +8502,7 @@ BREST - BORDEAUX
 BREST - MONACO
 BREST - PSG CHAINE
 BREST BORDEAUX
+BREST LIGUE DES CHAMPIONS
 BREST NANTES FOOT
 BREST PSG
 BREST – LENS
@@ -8651,6 +8658,7 @@ BRUNO MANSER
 BRUNO MARTINI
 BRUNO NUYTTEN
 BRUNO PUTZULU
+BRUNO RETAILLEAU
 BRUNO RODRIGUEZ
 BRUNO VANDELLI YANIS MARSHALL
 BRUNO VANOBBERGEN
@@ -11319,6 +11327,7 @@ Brest - Bordeaux
 Brest - Monaco
 Brest - PSG chaine
 Brest Bordeaux
+Brest Ligue des champions
 Brest Nantes foot
 Brest PSG
 Brest – Lens
@@ -11340,6 +11349,7 @@ Brest-Monaco
 Brest-PSG
 Brest-PSGchaine
 BrestBordeaux
+BrestLiguedeschampions
 BrestNantesfoot
 BrestPSG
 Brest–Lens
@@ -11590,6 +11600,7 @@ Bruno Manser
 Bruno Martini
 Bruno Nuytten
 Bruno Putzulu
+Bruno Retailleau
 Bruno Rodriguez
 Bruno Vandelli Yanis Marshall
 Bruno Vanobbergen
@@ -11615,6 +11626,7 @@ BrunoManser
 BrunoMartini
 BrunoNuytten
 BrunoPutzulu
+BrunoRetailleau
 BrunoRodriguez
 BrunoVandelliYanisMarshall
 BrunoVanobbergen
@@ -17297,6 +17309,7 @@ DAVID HASSELHOFF
 DAVID HELMER
 DAVID HOCKNEY
 DAVID HOLMES
+DAVID HUBERT
 DAVID ICKE
 DAVID JULIUS
 DAVID LISNARD
@@ -17463,6 +17476,7 @@ DELTACRON
 DELTAKRON
 DELTAVARIANT
 DELTAVARIANTE
+DELUGE
 DELÉMONT
 DEM HORIZONT SO NAH
 DEMAIN NE MEURT JAMAIS
@@ -18658,6 +18672,7 @@ David Hasselhoff
 David Helmer
 David Hockney
 David Holmes
+David Hubert
 David Icke
 David Julius
 David Lisnard
@@ -18705,6 +18720,7 @@ DavidHasselhoff
 DavidHelmer
 DavidHockney
 DavidHolmes
+DavidHubert
 DavidIcke
 DavidJulius
 DavidLisnard
@@ -18960,6 +18976,7 @@ DeltaVariante
 Deltacron
 Deltakron
 Deltavariant
+Deluge
 Delémont
 Dem horizont so nah
 Demain ne meurt jamais
@@ -21026,6 +21043,7 @@ ERICA PEDRETTI
 ERICH KÄSTNER
 ERICPIOLLE
 ERICZEMMOUR
+ERIK MENENDEZ
 ERIK TEN HAG
 ERIK TRUFFAZ
 ERIK VAN LOOY
@@ -22620,9 +22638,11 @@ EricaPedretti
 Ericfrechon
 Erich Kästner
 ErichKästner
+Erik Menendez
 Erik Truffaz
 Erik Van Looy
 Erik ten Hag
+ErikMenendez
 ErikTruffaz
 ErikVanLooy
 Erika Choperena
@@ -24033,6 +24053,7 @@ FEYENOORD
 FEYENOORD  CLUB BRUGGE
 FEYENOORD  PSV
 FEYENOORD GEGEN STURM GRAZ
+FEYENOORD – LEVERKUSEN
 FEYENOORD-PSV
 FFP2
 FFP2-MASKE
@@ -25502,10 +25523,12 @@ Feyenoord
 Feyenoord  Club Brugge
 Feyenoord  PSV
 Feyenoord gegen Sturm Graz
+Feyenoord – Leverkusen
 Feyenoord-PSV
 FeyenoordClubBrugge
 FeyenoordPSV
 FeyenoordgegenSturmGraz
+Feyenoord–Leverkusen
 Fiala
 Fiammetta Venner
 FiammettaVenner
@@ -27863,6 +27886,7 @@ GOTTSCHALK
 GOUDEN BAL 2023
 GOUFFRE AU CHILI
 GOUVERNEMENT
+GOUVERNEMENT BARNIER
 GOUVERNEMENT COVID
 GOUVERNEMENT FRANÇAIS
 GP AUSTRALIE
@@ -29433,8 +29457,10 @@ GoudenBal2023
 Gouffre au Chili
 GouffreauChili
 Gouvernement
+Gouvernement Barnier
 Gouvernement Covid
 Gouvernement français
+GouvernementBarnier
 GouvernementCovid
 Gouvernementfrançais
 Gp F1
@@ -39605,6 +39631,7 @@ LAURENCE BOISSIER
 LAURENCE BOONE
 LAURENCE CRETEGNY
 LAURENCE FERRARI
+LAURENCE GARNIER
 LAURENCE TUBIANA
 LAURENCE VAN TONGERLOO
 LAURENS DE PLUS
@@ -39663,6 +39690,7 @@ LAVAS
 LAVER CUP
 LAVER CUP 2021
 LAVER CUP 2022
+LAVER CUP 2024
 LAVINIA WOLLNY
 LAVROV
 LAWROW
@@ -40462,6 +40490,7 @@ LIZ TRUSS' RÜCKTRITT
 LIZY
 LIZZO
 LIÈGE - BASTOGNE - LIÈGE 2023
+LKQ
 LLORIS
 LLOYD AUSTIN
 LLOYD HARRIS
@@ -40931,6 +40960,7 @@ LYDIA
 LYDIA PEETERS
 LYES LOUFFOK
 LYKKE LI
+LYLE AND ERIK MENENDEZ
 LYMAN
 LYNA KHOUDRI
 LYNDA LEMAY
@@ -41604,6 +41634,7 @@ Laurence Boissier
 Laurence Boone
 Laurence Cretegny
 Laurence Ferrari
+Laurence Garnier
 Laurence Tubiana
 Laurence Van Tongerloo
 LaurenceArné
@@ -41614,6 +41645,7 @@ LaurenceBoissier
 LaurenceBoone
 LaurenceCretegny
 LaurenceFerrari
+LaurenceGarnier
 LaurenceTubiana
 LaurenceVanTongerloo
 Laurens De Plus
@@ -41715,9 +41747,11 @@ Lavas
 Laver Cup
 Laver Cup 2021
 Laver Cup 2022
+Laver Cup 2024
 LaverCup
 LaverCup2021
 LaverCup2022
+LaverCup2024
 Laveritesijemens
 LaveuveCouderc
 Lavie,l'amour,toutdesuite
@@ -44030,6 +44064,8 @@ Lyes Louffok
 LyesLouffok
 Lykke Li
 LykkeLi
+Lyle and Erik Menendez
+LyleandErikMenendez
 Lyman
 Lyna Khoudri
 LynaKhoudri
@@ -45443,6 +45479,7 @@ MEDIANLOHN
 MEDIAPART
 MEDINE
 MEDITERRAANS DIEET
+MEDJUGORJE
 MEDUSA BEACH CLUB MALLORCA
 MEDUSA FESTIVAL
 MEDVEDEV
@@ -45533,6 +45570,7 @@ MENACE TERRORISTE
 MENDE
 MENDRISIO
 MENDY
+MENENDEZ
 MENORCA
 MENOTTI
 MENOWIN FRÖHLICH
@@ -45989,6 +46027,7 @@ MINELLI REDRESSEMENT JUDICIAIRE
 MINI CHUCHI, DINI CHUCHI SRF
 MINI ROCK
 MINISTERE DE L'INTERIEUR
+MINISTRE
 MINISTRE AMELIE OUDEA CASTERA
 MINISTRE AMÉLIE OUDÉA-CASTÉRA
 MINISTRE DE L'AGRICULTURE
@@ -46183,6 +46222,8 @@ MONACO GEGEN LEVERKUSEN
 MONACO – AMIENS
 MONACO – ANGERS
 MONACO – AUXERRE
+MONACO – BARCELONA
+MONACO – BARCELONE
 MONACO – BRAGA
 MONACO – BREST
 MONACO – CLERMONT
@@ -48821,6 +48862,7 @@ Mediapart
 Medine
 Mediterraans dieet
 Mediterraansdieet
+Medjugorje
 Medusa Beach Club Mallorca
 Medusa Festival
 MedusaBeachClubMallorca
@@ -48972,6 +49014,7 @@ Menaceterroriste
 Mende
 Mendrisio
 Mendy
+Menendez
 MeninBlack:International
 Menorca
 Menotti
@@ -49811,6 +49854,7 @@ MiniChuchi,diniChuchiSRF
 MiniRock
 Ministere de l'interieur
 Ministeredel'interieur
+Ministre
 Ministre Amélie Oudéa-Castéra
 Ministre Amélie OudéaCastéra
 Ministre amelie oudea castera
@@ -50147,6 +50191,8 @@ Monaco gegen Leverkusen
 Monaco – Amiens
 Monaco – Angers
 Monaco – Auxerre
+Monaco – Barcelona
+Monaco – Barcelone
 Monaco – Braga
 Monaco – Brest
 Monaco – Clermont
@@ -50189,6 +50235,8 @@ MonacogegenLeverkusen
 Monaco–Amiens
 Monaco–Angers
 Monaco–Auxerre
+Monaco–Barcelona
+Monaco–Barcelone
 Monaco–Braga
 Monaco–Brest
 Monaco–Clermont
@@ -54803,6 +54851,7 @@ PATRICK DRAHI
 PATRICK FIORI
 PATRICK FISCHER
 PATRICK HABIRORA
+PATRICK HETZEL
 PATRICK HÄSSIG
 PATRICK JANSSENS
 PATRICK JUVET
@@ -55104,6 +55153,7 @@ PETER ZEIDLER
 PETERBOROUGH  MANCHESTER CITY
 PETERBOROUGH – MAN CITY
 PETERR.DEVRIES
+PETIT AVION DISPARU ITALIE
 PETIT EMILE DISPARU
 PETIT EMILE DISPARUE
 PETIT PAPA NOEL
@@ -56775,6 +56825,7 @@ Patrick Drahi
 Patrick Fiori
 Patrick Fischer
 Patrick Habirora
+Patrick Hetzel
 Patrick Hässig
 Patrick Janssens
 Patrick Juvet
@@ -56813,6 +56864,7 @@ PatrickDrahi
 PatrickFiori
 PatrickFischer
 PatrickHabirora
+PatrickHetzel
 PatrickHässig
 PatrickJanssens
 PatrickJuvet
@@ -57331,12 +57383,14 @@ PeterundPaul
 Petit Emile disparu
 Petit Emile disparue
 Petit Papa noel
+Petit avion disparu Italie
 Petit papa noel
 Petit Émile disparition
 Petit émile disparition
 PetitEmiledisparu
 PetitEmiledisparue
 PetitPapanoel
+PetitaviondisparuItalie
 Petition France Suisse
 Petition France-Suisse
 Petition FranceSuisse
@@ -59444,6 +59498,7 @@ REINEBERTHE
 REINER CALMUND
 REINHILDE DECLEIR
 REINHOLD MESSNER
+REISBEPERKINGEN SPANJE
 REITERALM
 REKKLES
 RELAIS 4X100 4 NAGES JO
@@ -59719,6 +59774,7 @@ RICOLA
 RIDLEY SCOTT
 RIDOUAN TAGHI
 RIEDI
+RIEMER
 RIESENDING - JEDE STUNDE ZÄHLT
 RIESENSLALOM ADELBODEN
 RIESENSLALOM FRAUEN
@@ -61127,6 +61183,8 @@ Reinhilde Decleir
 ReinhildeDecleir
 Reinhold Messner
 ReinholdMessner
+Reisbeperkingen Spanje
+ReisbeperkingenSpanje
 Reiteralm
 Rekkles
 Relais 4x100 4 nages JO
@@ -61563,6 +61621,7 @@ RidleyScott
 Ridouan Taghi
 RidouanTaghi
 Riedi
+Riemer
 Riesending  Jede Stunde zählt
 Riesending - Jede Stunde zählt
 Riesending-JedeStundezählt
@@ -63842,6 +63901,7 @@ SOPHIAARAM
 SOPHIE
 SOPHIE ADENOT
 SOPHIE BINET CGT
+SOPHIE CHARNAVEL
 SOPHIE CROSS
 SOPHIE DAVANT
 SOPHIE DE CLOSETS
@@ -66877,6 +66937,7 @@ SophiaUrista
 Sophie
 Sophie Adenot
 Sophie Binet CGT
+Sophie Charnavel
 Sophie Cross
 Sophie Davant
 Sophie Ellis-Bextor
@@ -66904,6 +66965,7 @@ Sophie petronin
 Sophie wilmes
 SophieAdenot
 SophieBinetCGT
+SophieCharnavel
 SophieCross
 SophieDavant
 SophieEllis-Bextor
@@ -68632,6 +68694,7 @@ TATORT: MASKEN
 TATORT: ZERRISSEN
 TATSURU SAITO
 TATTOO BASEL
+TATTY MACLEOD
 TATYANA FRANCK
 TAUBIRA
 TAUCHUNFALL WALENSEE
@@ -68944,6 +69007,7 @@ THE OFFSPRING
 THE OPEN 2022
 THE OPEN 2023
 THE PALE BLUE EYE
+THE PENGUIN
 THE PLEDGE
 THE POST
 THE POWER OF THE DOG
@@ -70064,6 +70128,8 @@ Tatsuru Saito
 TatsuruSaito
 Tattoo Basel
 TattooBasel
+Tatty Macleod
+TattyMacleod
 Tatyana Franck
 TatyanaFranck
 Taubira
@@ -70485,6 +70551,7 @@ The Offspring
 The Open 2022
 The Open 2023
 The Pale Blue Eye
+The Penguin
 The Pledge
 The Power of the Dog
 The Prodigy
@@ -70662,6 +70729,7 @@ TheOffspring
 TheOpen2022
 TheOpen2023
 ThePaleBlueEye
+ThePenguin
 ThePledge
 ThePoweroftheDog
 TheProdigy
@@ -79501,6 +79569,7 @@ atalanta  sporting cp
 atalanta bergamo
 atalanta gegen roma
 atalanta villarreal
+atalanta – arsenal
 atalanta – inter
 atalanta – liverpool
 atalanta – marseille
@@ -79548,6 +79617,7 @@ atlético madrid – milan
 atlético madrid – osasuna
 atlético madrid – porto
 atlético madrid – rayo
+atlético madrid – rb leipzig
 atlético madrid – real
 atlético madrid – real madrid
 atlético madrid – valence
@@ -81298,6 +81368,7 @@ brest - bordeaux
 brest - monaco
 brest - psg chaine
 brest bordeaux
+brest ligue des champions
 brest nantes foot
 brest psg
 brest – lens
@@ -81453,6 +81524,7 @@ bruno manser
 bruno martini
 bruno nuytten
 bruno putzulu
+bruno retailleau
 bruno rodriguez
 bruno vandelli yanis marshall
 bruno vanobbergen
@@ -83726,6 +83798,7 @@ david hasselhoff
 david helmer
 david hockney
 david holmes
+david hubert
 david icke
 david julius
 david lisnard
@@ -83883,6 +83956,7 @@ deltacron
 deltakron
 deltavariant
 deltavariante
+deluge
 delémont
 dem horizont so nah
 demain ne meurt jamais
@@ -85281,6 +85355,7 @@ erica pedretti
 erich kästner
 ericpiolle
 ericzemmour
+erik menendez
 erik ten hag
 erik truffaz
 erik van looy
@@ -86140,6 +86215,7 @@ feyenoord
 feyenoord  club brugge
 feyenoord  psv
 feyenoord gegen sturm graz
+feyenoord – leverkusen
 feyenoord-psv
 ffp2
 ffp2-maske
@@ -87685,6 +87761,7 @@ gottschalk
 gouden bal 2023
 gouffre au chili
 gouvernement
+gouvernement barnier
 gouvernement covid
 gouvernement français
 gp australie
@@ -91751,6 +91828,7 @@ laurence boissier
 laurence boone
 laurence cretegny
 laurence ferrari
+laurence garnier
 laurence tubiana
 laurence van tongerloo
 laurens de plus
@@ -91809,6 +91887,7 @@ lavas
 laver cup
 laver cup 2021
 laver cup 2022
+laver cup 2024
 lavinia wollny
 lavrov
 lawrow
@@ -92594,6 +92673,7 @@ liz truss' rücktritt
 lizy
 lizzo
 liège - bastogne - liège 2023
+lkq
 lloris
 lloyd austin
 lloyd harris
@@ -93051,6 +93131,7 @@ lydia
 lydia peeters
 lyes louffok
 lykke li
+lyle and erik menendez
 lyman
 lyna khoudri
 lynda lemay
@@ -94380,6 +94461,7 @@ medianlohn
 mediapart
 medine
 mediterraans dieet
+medjugorje
 medusa beach club mallorca
 medusa festival
 medvedev
@@ -94470,6 +94552,7 @@ menace terroriste
 mende
 mendrisio
 mendy
+menendez
 menorca
 menotti
 menowin fröhlich
@@ -94919,6 +95002,7 @@ minelli redressement judiciaire
 mini chuchi, dini chuchi srf
 mini rock
 ministere de l'interieur
+ministre
 ministre amelie oudea castera
 ministre amélie oudéa-castéra
 ministre de l'agriculture
@@ -95111,6 +95195,8 @@ monaco gegen leverkusen
 monaco – amiens
 monaco – angers
 monaco – auxerre
+monaco – barcelona
+monaco – barcelone
 monaco – braga
 monaco – brest
 monaco – clermont
@@ -97112,6 +97198,7 @@ patrick drahi
 patrick fiori
 patrick fischer
 patrick habirora
+patrick hetzel
 patrick hässig
 patrick janssens
 patrick juvet
@@ -97402,6 +97489,7 @@ peter zeidler
 peterborough  manchester city
 peterborough – man city
 peterr.devries
+petit avion disparu italie
 petit emile disparu
 petit emile disparue
 petit papa noel
@@ -98796,6 +98884,7 @@ reineberthe
 reiner calmund
 reinhilde decleir
 reinhold messner
+reisbeperkingen spanje
 reiteralm
 rekkles
 relais 4x100 4 nages jo
@@ -99050,6 +99139,7 @@ ricola
 ridley scott
 ridouan taghi
 riedi
+riemer
 riesending - jede stunde zählt
 riesenslalom adelboden
 riesenslalom frauen
@@ -100846,6 +100936,7 @@ sophia urista
 sophie
 sophie adenot
 sophie binet cgt
+sophie charnavel
 sophie cross
 sophie davant
 sophie de closets
@@ -101875,6 +101966,7 @@ tatort: masken
 tatort: zerrissen
 tatsuru saito
 tattoo basel
+tatty macleod
 tatyana franck
 taubira
 tauchunfall walensee
@@ -102172,6 +102264,7 @@ the offspring
 the open 2022
 the open 2023
 the pale blue eye
+the penguin
 the pledge
 the post
 the power of the dog
