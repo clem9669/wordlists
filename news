@@ -883,6 +883,7 @@ ACCIDENT PLOMBIÈRES
 ACCIDENT SKI ENFANT GRAND-BORNAND
 ACCIDENT SPA-FRANCORCHAMPS
 ACCIDENT STRUCTURE GONFLABLE
+ACCIDENT TRAM BRUXELLES
 ACCIDENT TROIS POLICIERS
 ACCIDENT TROIS POLICIERS MORTS
 ACCIDENT TROTTINETTE LYON
@@ -1281,6 +1282,7 @@ ALAIN JUPPÉ
 ALAIN KRIVINE
 ALAIN MANEVAL
 ALAIN MATHOT
+ALAIN MINC
 ALAIN MOUSSA
 ALAIN SARDE
 ALAIN SCHMITT
@@ -2085,6 +2087,7 @@ ANNE NIVAT
 ANNE PARILLAUD
 ANNE RICE
 ANNE ROUMANOFF
+ANNE RUWET
 ANNE SILA
 ANNE SINCLAIR
 ANNE SYLVESTRE
@@ -3316,6 +3319,7 @@ Accident mortel Luna Park
 Accident ski enfant Grand-Bornand
 Accident ski enfant GrandBornand
 Accident structure gonflable
+Accident tram bruxelles
 Accident trois policiers
 Accident trois policiers morts
 Accident trottinette Lyon
@@ -3373,6 +3377,7 @@ Accidents au Sénégal
 AccidentsauSénégal
 AccidentskienfantGrand-Bornand
 Accidentstructuregonflable
+Accidenttrambruxelles
 Accidenttroispoliciers
 Accidenttroispoliciersmorts
 AccidenttrottinetteLyon
@@ -3975,6 +3980,7 @@ Alain Juppé
 Alain Krivine
 Alain Maneval
 Alain Mathot
+Alain Minc
 Alain Moussa
 Alain Sarde
 Alain Schmitt
@@ -4008,6 +4014,7 @@ AlainJuppé
 AlainKrivine
 AlainManeval
 AlainMathot
+AlainMinc
 AlainMoussa
 AlainSarde
 AlainSchmitt
@@ -5458,6 +5465,7 @@ Anne Nivat
 Anne Parillaud
 Anne Rice
 Anne Roumanoff
+Anne Ruwet
 Anne Sila
 Anne Sinclair
 Anne Sylvestre
@@ -5504,6 +5512,7 @@ AnneNivat
 AnneParillaud
 AnneRice
 AnneRoumanoff
+AnneRuwet
 AnneSila
 AnneSinclair
 AnneSophie KohLanta
@@ -8315,12 +8324,14 @@ BOBIGNY
 BOBITAL
 BOBY LAPOINTE
 BOCCIA
+BOCHUM  BAYERN
 BOCHUM GEGEN BAYERN
 BOCHUM GEGEN DORTMUND
 BOCHUM GEGEN LEVERKUSEN
 BOCHUM GEGEN SCHALKE
 BOCHUM GEGEN UNION BERLIN
 BOCHUM GLADBACH
+BOCHUM – BAYERN
 BOCUSE D'OR 2021
 BOCUSE D'OR 2023
 BODE MILLER
@@ -8570,6 +8581,7 @@ BRAKEL
 BRAM VAN OUTRYVE
 BRAND ALTSTETTEN
 BRAND BISCHOFSZELL
+BRAND BRUGGE
 BRAND EGERKINGEN
 BRAND EINSIEDELN
 BRAND FRACHTSCHIFF NORDSEE
@@ -10968,18 +10980,22 @@ Boblave-vaisselle
 Boby Lapointe
 BobyLapointe
 Boccia
+Bochum  Bayern
 Bochum Gladbach
 Bochum gegen Bayern
 Bochum gegen Dortmund
 Bochum gegen Leverkusen
 Bochum gegen Schalke
 Bochum gegen Union Berlin
+Bochum – Bayern
+BochumBayern
 BochumGladbach
 BochumgegenBayern
 BochumgegenDortmund
 BochumgegenLeverkusen
 BochumgegenSchalke
 BochumgegenUnionBerlin
+Bochum–Bayern
 Bocuse d'Or 2023
 Bocuse d'or 2021
 Bocused'Or2023
@@ -11395,6 +11411,7 @@ Bram Van Outryve
 BramVanOutryve
 Brand Altstetten
 Brand Bischofszell
+Brand Brugge
 Brand Egerkingen
 Brand Einsiedeln
 Brand Frutigen
@@ -11420,6 +11437,7 @@ Brand Wolfenschiessen
 Brand frachtschiff nordsee
 BrandAltstetten
 BrandBischofszell
+BrandBrugge
 BrandEgerkingen
 BrandEinsiedeln
 BrandFrutigen
@@ -13521,6 +13539,7 @@ CODA
 CODE GEEL
 CODE JAUNE BELGIQUE
 CODE ORANJE BELGIE
+CODE ROUGE FELUY
 CODECO
 CODECO BELGIQUE
 CODY EAKIN
@@ -16386,9 +16405,11 @@ CocoGauff
 CocoLee
 CocoLeeMulan
 Coda
+Code Rouge Feluy
 Code geel
 Code jaune belgique
 Code oranje belgie
+CodeRougeFeluy
 Codeco
 Codeco Belgique
 CodecoBelgique
@@ -21090,6 +21111,7 @@ ELDORADO KADEWE
 ELECTION 2022
 ELECTION ALGERIE
 ELECTION AMERICAINE
+ELECTION AMERICAINE 2024
 ELECTION BRESIL
 ELECTION COMMUNALE VALAIS
 ELECTION CONSEIL FEDERAL
@@ -21685,6 +21707,7 @@ ESSEN
 ESSENCE
 ESSENTIEL
 ESTAC
+ESTAMINET
 ESTEBAN OCON
 ESTELLE DENIS
 ESTELLE LEFEBURE
@@ -21950,6 +21973,7 @@ EVAN GERSHKOVICH
 EVAN RACHEL WOOD
 EVANDER KANE
 EVE ANGELI
+EVE GILLES
 EVELIEN BOSMANS
 EVELIEN VAN HAMME
 EVELYNE
@@ -22392,6 +22416,7 @@ Election Russie
 Election Turquie
 Election algerie
 Election americaine
+Election americaine 2024
 Election bresil
 Election en France
 Election européenne
@@ -22414,6 +22439,7 @@ ElectionRussie
 ElectionTurquie
 Electionalgerie
 Electionamericaine
+Electionamericaine2024
 Electionbresil
 ElectionenFrance
 Electioneuropéenne
@@ -23342,6 +23368,7 @@ Esquivillon
 Essen
 Essence
 Estac
+Estaminet
 Esteban Ocon
 EstebanOcon
 Estelle Denis
@@ -23777,7 +23804,9 @@ Evander Kane
 EvanderKane
 EvavanAgt
 Eve Angeli
+Eve Gilles
 EveAngeli
+EveGilles
 Evelien Bosmans
 Evelien Van Hamme
 EvelienBosmans
@@ -24261,6 +24290,7 @@ FC SION
 FC SION GEGEN FC THUN
 FC SION GEGEN ST. GALLEN
 FC SION GEGEN WINTERTHUR
+FC SION – ST.GALLEN
 FC SOCHAUX
 FC SOLOTHURN
 FC ST. GALLEN
@@ -24274,6 +24304,7 @@ FC Sion
 FC Sion gegen FC Thun
 FC Sion gegen St. Gallen
 FC Sion gegen Winterthur
+FC Sion – St.Gallen
 FC Sochaux
 FC St. Gallen
 FC St.Gallen
@@ -24410,6 +24441,7 @@ FCSion
 FCSiongegenFCThun
 FCSiongegenSt.Gallen
 FCSiongegenWinterthur
+FCSion–St.Gallen
 FCSochaux
 FCSt.Gallen
 FCSt.Gallen1879
@@ -32977,6 +33009,7 @@ INONDATIONS ITALIE
 INONDATIONS ITALIE EMILIE-ROMAGNE
 INONDATIONS NORVÈGE
 INONDATIONS PAS-DE-CALAIS
+INONDATIONS SAINT-TROPEZ
 INONDATIONS WALHAIN
 INOXTAG
 INOXTAG EVEREST
@@ -33894,12 +33927,15 @@ Inondations Italie EmilieRomagne
 Inondations Norvège
 Inondations Pas-de-Calais
 Inondations PasdeCalais
+Inondations Saint-Tropez
+Inondations SaintTropez
 Inondations Walhain
 InondationsGenève
 InondationsItalie
 InondationsItalieEmilie-Romagne
 InondationsNorvège
 InondationsPas-de-Calais
+InondationsSaint-Tropez
 InondationsWalhain
 Inoxtag
 Inoxtag Everest
@@ -46177,6 +46213,7 @@ MARTINSTAG
 MARTULLO-BLOCHER
 MARTY
 MARVIN GAYE
+MARVIN O'CONNOR
 MARWAN BERRENI
 MARWAN BERRENI DISPARITION
 MARWAN BERRENI DISPARITION INQUIÉTANTE
@@ -49367,7 +49404,9 @@ Martullo-Blocher
 MartulloBlocher
 Marty
 Marvin Gaye
+Marvin O'Connor
 MarvinGaye
+MarvinO'Connor
 Marwan Berreni
 Marwan Berreni Disparition inquiétante
 Marwan Berreni Plus belle la vie
@@ -54491,6 +54530,8 @@ OKTOBERFEST MÜNCHEN WIESN
 OL
 OL  OM
 OL - OM
+OL AUXERRE
+OL Auxerre
 OL FEMININ
 OL MONTPELLIER
 OL Montpellier
@@ -54500,6 +54541,7 @@ OL feminin
 OL-OM
 OLAF
 OLAF SCHOLZ
+OLAuxerre
 OLD
 OLD SWISS HOUSE
 OLE SELNAES
@@ -71200,6 +71242,7 @@ TOULOUSE LA ROCHELLE
 TOULOUSE LEINSTER
 TOULOUSE MUNSTER
 TOULOUSE SHARKS
+TOULOUSE TOULON
 TOULOUSE UBB
 TOULOUSE – ANGERS
 TOULOUSE – AUXERRE
@@ -73358,6 +73401,7 @@ Toulouse La Rochelle
 Toulouse Leinster
 Toulouse Munster
 Toulouse Sharks
+Toulouse Toulon
 Toulouse UBB
 Toulouse gegen Liverpool
 Toulouse – Angers
@@ -73392,6 +73436,7 @@ ToulouseMontpellier
 ToulouseMunster
 ToulousePau
 ToulouseSharks
+ToulouseToulon
 ToulouseUBB
 ToulousegegenLiverpool
 Toulouse–Angers
@@ -74379,6 +74424,7 @@ UNION
 UNION  ANDERLECHT
 UNION  ANTWERP
 UNION  BRAGA
+UNION  CERCLE
 UNION  CLUB BRUGGE
 UNION  EINTRACHT FRANKFURT
 UNION  EUPEN
@@ -74500,6 +74546,8 @@ US Open 2023
 US Open 2024
 US Open Golf
 US Open golf
+US-WAHLEN
+US-Wahlen
 USA
 USA BASKET
 USA BASKETBALL
@@ -74541,6 +74589,7 @@ USS SANTA BARBARA
 USS Santa Barbara
 USSSantaBarbara
 USTER TRINKWASSER
+USWahlen
 USYK
 USYK DUBOIS
 USYK VS DUBOIS
@@ -74823,6 +74872,7 @@ Union
 Union  Anderlecht
 Union  Antwerp
 Union  Braga
+Union  Cercle
 Union  Club Brugge
 Union  Eintracht Frankfurt
 Union  Eupen
@@ -74910,6 +74960,7 @@ UnionBerlin–Dortmund
 UnionBerlin–RealMadrid
 UnionBerlin–UnionSaint-Gilloise
 UnionBraga
+UnionCercle
 UnionCharleroi
 UnionClubBrugge
 UnionEintrachtFrankfurt
@@ -76962,6 +77013,7 @@ WANN IST VATERTAG 2022
 WANN IST VATERTAG 2023
 WANN IST VOLLMOND
 WANN IST VOLLMOND IM SEPTEMBER 2023
+WANN IST ZEITUMSTELLUNG
 WANZE
 WARD KERREMANS
 WARD LEMMELIJN
@@ -77648,6 +77700,7 @@ Wann ist Vatertag
 Wann ist Vatertag 2023
 Wann ist Vollmond
 Wann ist Vollmond im September 2023
+Wann ist Zeitumstellung
 Wann ist vatertag 2022
 WannistBlackFriday2023
 WannistHalloween
@@ -77659,6 +77712,7 @@ WannistVatertag
 WannistVatertag2023
 WannistVollmond
 WannistVollmondimSeptember2023
+WannistZeitumstellung
 Wannistvatertag2022
 Wanze
 Ward Kerremans
@@ -79509,6 +79563,7 @@ ZÜRICH STURM
 ZÜRICH TEUERSTE STADT
 ZÜRICH WETTER
 ZÜRICH ZOO
+ZÜRICH – SERVETTE
 ZÜRICH-MARATHON
 Züri Fäscht
 Züri Fäscht 2023
@@ -79540,6 +79595,7 @@ Zürich marathon 2024
 Zürich teuerste Stadt
 Zürich wetter
 Zürich zoo
+Zürich – Servette
 Zürich-Marathon
 ZürichAltstettenBahnhof
 ZürichFeuerwerk
@@ -79559,6 +79615,7 @@ Zürichmarathon2024
 ZürichteuersteStadt
 Zürichwetter
 Zürichzoo
+Zürich–Servette
 Zürifäscht2023
 a bigger splash
 a bout de souffle
@@ -79743,6 +79800,7 @@ accident plombières
 accident ski enfant grand-bornand
 accident spa-francorchamps
 accident structure gonflable
+accident tram bruxelles
 accident trois policiers
 accident trois policiers morts
 accident trottinette lyon
@@ -80101,6 +80159,7 @@ alain juppé
 alain krivine
 alain maneval
 alain mathot
+alain minc
 alain moussa
 alain sarde
 alain schmitt
@@ -80893,6 +80952,7 @@ anne nivat
 anne parillaud
 anne rice
 anne roumanoff
+anne ruwet
 anne sila
 anne sinclair
 anne sylvestre
@@ -82969,12 +83029,14 @@ bobigny
 bobital
 boby lapointe
 boccia
+bochum  bayern
 bochum gegen bayern
 bochum gegen dortmund
 bochum gegen leverkusen
 bochum gegen schalke
 bochum gegen union berlin
 bochum gladbach
+bochum – bayern
 bocuse d'or 2021
 bocuse d'or 2023
 bode miller
@@ -83220,6 +83282,7 @@ brakel
 bram van outryve
 brand altstetten
 brand bischofszell
+brand brugge
 brand egerkingen
 brand einsiedeln
 brand frachtschiff nordsee
@@ -84977,6 +85040,7 @@ coda
 code geel
 code jaune belgique
 code oranje belgie
+code rouge feluy
 codeco
 codeco belgique
 cody eakin
@@ -86974,6 +87038,7 @@ eldorado kadewe
 election 2022
 election algerie
 election americaine
+election americaine 2024
 election bresil
 election communale valais
 election conseil federal
@@ -87520,6 +87585,7 @@ essen
 essence
 essentiel
 estac
+estaminet
 esteban ocon
 estelle denis
 estelle lefebure
@@ -87769,6 +87835,7 @@ evan gershkovich
 evan rachel wood
 evander kane
 eve angeli
+eve gilles
 evelien bosmans
 evelien van hamme
 evelyne
@@ -88060,6 +88127,7 @@ fc sion
 fc sion gegen fc thun
 fc sion gegen st. gallen
 fc sion gegen winterthur
+fc sion – st.gallen
 fc sochaux
 fc solothurn
 fc st. gallen
@@ -91306,6 +91374,7 @@ inondations italie
 inondations italie emilie-romagne
 inondations norvège
 inondations pas-de-calais
+inondations saint-tropez
 inondations walhain
 inoxtag
 inoxtag everest
@@ -96370,6 +96439,7 @@ martinstag
 martullo-blocher
 marty
 marvin gaye
+marvin o'connor
 marwan berreni
 marwan berreni disparition
 marwan berreni disparition inquiétante
@@ -98754,6 +98824,7 @@ oktoberfest münchen - achterbahn unfall
 oktoberfest münchen wiesn
 ol
 ol - om
+ol auxerre
 ol feminin
 ol montpellier
 ol nantes
@@ -105248,6 +105319,7 @@ toulouse la rochelle
 toulouse leinster
 toulouse munster
 toulouse sharks
+toulouse toulon
 toulouse ubb
 toulouse – angers
 toulouse – auxerre
@@ -105868,6 +105940,7 @@ union
 union  anderlecht
 union  antwerp
 union  braga
+union  cercle
 union  club brugge
 union  eintracht frankfurt
 union  eupen
@@ -105980,6 +106053,7 @@ us open 2022
 us open 2023
 us open 2024
 us open golf
+us-wahlen
 usa
 usa basket
 usa basketball
@@ -106753,6 +106827,7 @@ wann ist vatertag 2022
 wann ist vatertag 2023
 wann ist vollmond
 wann ist vollmond im september 2023
+wann ist zeitumstellung
 wanze
 ward kerremans
 ward lemmelijn
@@ -107655,6 +107730,7 @@ zürich sturm
 zürich teuerste stadt
 zürich wetter
 zürich zoo
+zürich – servette
 zürich-marathon
 ÄGERISEE
 ÄGYPTEN
