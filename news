@@ -1980,6 +1980,7 @@ ANGLETERRE - CHILI
 ANGLETERRE - ECOSSE
 ANGLETERRE - FIDJI
 ANGLETERRE - IRLANDE
+ANGLETERRE - NOUVELLE ZELANDE
 ANGLETERRE - PAYS DE GALLES
 ANGLETERRE ARGENTINE
 ANGLETERRE BRESIL
@@ -5276,11 +5277,13 @@ Angleterre  Chili
 Angleterre  Ecosse
 Angleterre  Fidji
 Angleterre  Irlande
+Angleterre  Nouvelle zelande
 Angleterre  Pays de Galles
 Angleterre - Chili
 Angleterre - Ecosse
 Angleterre - Fidji
 Angleterre - Irlande
+Angleterre - Nouvelle zelande
 Angleterre - Pays de Galles
 Angleterre Argentine
 Angleterre Danemark
@@ -5323,6 +5326,7 @@ Angleterre-Fidji
 Angleterre-France
 Angleterre-Irlande
 Angleterre-Nigeria
+Angleterre-Nouvellezelande
 Angleterre-PaysdeGalles
 Angleterre-Samoa
 Angleterre-Suisse
@@ -8763,6 +8767,7 @@ BRIENZ
 BRIENZ GRAUBÜNDEN
 BRIENZER ROTHORNBAHN
 BRIGADE ANONYME
+BRIGADE DU FLEUVE
 BRIGADIER BROCCOLI
 BRIGHT BRUSSELS
 BRIGHTON &AMP; HOVE ALBION  ROMA
@@ -11734,7 +11739,9 @@ BrienzGraubünden
 Brienzer Rothornbahn
 BrienzerRothornbahn
 Brigade anonyme
+Brigade du fleuve
 Brigadeanonyme
+Brigadedufleuve
 Brigadier Broccoli
 BrigadierBroccoli
 Bright Brussels
@@ -21040,7 +21047,9 @@ EHCKloten
 EHCOlten
 EHE FÜR ALLE
 EHEFRAU LANDET FLUGZEUG
+EHRLICH BROTHERS
 EICHEN-PROZESSIONSSPINNER
+EICHHÖRNCHEN PEANUT
 EID
 EID AL FITR 2023
 EID AL-ADHA
@@ -21718,6 +21727,7 @@ ESPAGNE BRESIL
 ESPAGNE COVID
 ESPAGNE CROATIE
 ESPAGNE FOOT
+ESPAGNE INONDATIONS VALENCE
 ESPAGNE ITALIE
 ESPAGNE PAYS-BAS
 ESPAGNE PEDRO SANCHEZ
@@ -22300,8 +22310,12 @@ Ehe für alle
 Ehefrau landet Flugzeug
 EhefraulandetFlugzeug
 Ehefüralle
+Ehrlich Brothers
+EhrlichBrothers
 Eichen-Prozessionsspinner
 EichenProzessionsspinner
+Eichhörnchen Peanut
+EichhörnchenPeanut
 Eid
 Eid Al-Adha
 Eid AlAdha
@@ -23362,6 +23376,7 @@ Espagne Portugal
 Espagne Slovaquie
 Espagne bresil
 Espagne foot
+Espagne inondations Valence
 Espagne princesse Leonor
 Espagne suede
 Espagne – Allemagne
@@ -23393,6 +23408,7 @@ EspagnePortugal
 EspagneSlovaquie
 Espagnebresil
 Espagnefoot
+EspagneinondationsValence
 EspagneprincesseLeonor
 Espagnesuede
 Espagne–Allemagne
@@ -24437,6 +24453,8 @@ FCB gegen Yverdon-Sport
 FCB gegen YverdonSport
 FCB – ST. GALLEN
 FCB – St. Gallen
+FCB – WINTERTHUR
+FCB – Winterthur
 FCBARCELONA
 FCBaden
 FCBaden–Xamax
@@ -24468,6 +24486,7 @@ FCBruges–ManCity
 FCBruges–UnionSaint-Gilloise
 FCBulle
 FCB–St.Gallen
+FCB–Winterthur
 FCChiasso
 FCDeKampioenen
 FCEverton
@@ -24556,6 +24575,7 @@ FEKIR
 FELDIS
 FELICE MAZZU
 FELINE MINNE
+FELIPE VI
 FELIX ALEN
 FELIX AUGER-ALIASSIME
 FELIX AUGERALIASSIME
@@ -25383,6 +25403,7 @@ FRANK OTTO
 FRANK OTTO NATHALIE VOLK
 FRANK RAES
 FRANK SCHAAFSMA
+FRANK SCHRÖDER
 FRANK SINATRA
 FRANK STELLA
 FRANK TAPIRO
@@ -25910,6 +25931,8 @@ Felice Mazzu
 FeliceMazzu
 Feline Minne
 FelineMinne
+Felipe VI
+FelipeVI
 Felix Alen
 Felix Auger-Aliassime
 Felix AugerAliassime
@@ -27322,6 +27345,7 @@ Frank Otto
 Frank Otto Nathalie Volk
 Frank Raes
 Frank Schaafsma
+Frank Schröder
 Frank Sinatra
 Frank Stella
 Frank Tapiro
@@ -27349,6 +27373,7 @@ FrankOtto
 FrankOttoNathalieVolk
 FrankRaes
 FrankSchaafsma
+FrankSchröder
 FrankSinatra
 FrankStella
 FrankTapiro
@@ -28994,6 +29019,7 @@ GUINEE BISSAU
 GUINGAMP – AJACCIO
 GUINGAMP – AUXERRE
 GUINGAMP – BORDEAUX
+GUINGAMP – GRENOBLE
 GUINGAMP – PARIS FC
 GUINÉE
 GUINÉE ÉQUATORIALE
@@ -30837,10 +30863,12 @@ GuineeBissau
 Guingamp – Ajaccio
 Guingamp – Auxerre
 Guingamp – Bordeaux
+Guingamp – Grenoble
 Guingamp – Paris FC
 Guingamp–Ajaccio
 Guingamp–Auxerre
 Guingamp–Bordeaux
+Guingamp–Grenoble
 Guingamp–ParisFC
 Guinée
 Guinée équatoriale
@@ -38420,6 +38448,7 @@ KELOWNA
 KELVIN JONES
 KELVIN KIPTUM
 KEMBA WALKER
+KEMI BADENOCH
 KEMI SEBA
 KEMMERIBODEN-BAD
 KEN BLOCK
@@ -38503,6 +38532,7 @@ KEYNOTE APPLE
 KFAR AZA
 KFAR AZA MASSACRE
 KHABY LAME
+KHACHANOV
 KHADIJA ASSAD
 KHALED KHALIFA
 KHALED NEZZAR
@@ -39331,7 +39361,9 @@ KelvinJones
 KelvinKiptum
 Kemba Walker
 KembaWalker
+Kemi Badenoch
 Kemi Seba
+KemiBadenoch
 KemiSeba
 Kemmeriboden-Bad
 KemmeribodenBad
@@ -39486,6 +39518,7 @@ KfarAza
 KfarAzamassacre
 Khaby Lame
 KhabyLame
+Khachanov
 Khadija Assad
 KhadijaAssad
 Khaled Khalifa
@@ -40439,6 +40472,7 @@ LA ROCHELLE TOULON
 LA ROCHELLE TOULOUSE
 LA ROCHELLE UBB
 LA ROCHELLE – CLERMONT
+LA ROCHELLE – STADE FRANÇAIS
 LA ROCHELLE-TOULOUSE
 LA ROTONDE PARIS
 LA ROUE DU TEMPS
@@ -42167,6 +42201,7 @@ La Rochelle Toulon
 La Rochelle Toulouse
 La Rochelle UBB
 La Rochelle – Clermont
+La Rochelle – Stade Français
 La Rochelle-Toulouse
 La RochelleToulouse
 La Rotonde Paris
@@ -42340,6 +42375,7 @@ LaRochelleToulon
 LaRochelleToulouse
 LaRochelleUBB
 LaRochelle–Clermont
+LaRochelle–StadeFrançais
 LaRotondeParis
 LaRoueduTemps
 LaSaint-Valentin
@@ -45838,6 +45874,7 @@ MARATHON BERLIJN
 MARATHON BERLIN
 MARATHON BRUSSEL
 MARATHON BRUXELLES
+MARATHON BRUXELLES 2024
 MARATHON DE PARIS
 MARATHON DE PARIS 2021
 MARATHON DE PARIS 2021 PARCOURS
@@ -46632,6 +46669,7 @@ MECHELEN ANTWERP
 MECHELEN CLUB BRUGGE
 MECHELEN – STANDARD
 MECHELEN-ANTWERP
+MECHELEN-UNION
 MECHTHILD GROßMANN
 MECKENBEUREN
 MEDAILLE FRANCE JO
@@ -48592,6 +48630,7 @@ Marathon Berlijn
 Marathon Berlin
 Marathon Brussel
 Marathon Bruxelles
+Marathon Bruxelles 2024
 Marathon Eindhoven
 Marathon JO
 Marathon JO Paris 2024
@@ -48624,6 +48663,7 @@ MarathonBerlijn
 MarathonBerlin
 MarathonBrussel
 MarathonBruxelles
+MarathonBruxelles2024
 MarathonEindhoven
 MarathonJO
 MarathonJOParis2024
@@ -50065,6 +50105,7 @@ Mechelen Antwerp
 Mechelen Club Brugge
 Mechelen – Standard
 Mechelen-Antwerp
+Mechelen-Union
 MechelenAnderlecht
 MechelenAntwerp
 MechelenCercle
@@ -50072,6 +50113,7 @@ MechelenClubBrugge
 MechelenGenk
 MechelenKortrijk
 MechelenOostende
+MechelenUnion
 MechelenWesterlo
 Mechelenzulte-waregem
 Mechelen–Standard
@@ -51717,6 +51759,7 @@ Monza  Inter
 Monza  Juventus
 Monza  Milan
 Monza – AC Milan
+Monza – AC milan
 Monza – Inter
 Monza – Juventus
 MonzaAtalanta
@@ -51724,6 +51767,7 @@ MonzaInter
 MonzaJuventus
 MonzaMilan
 Monza–ACMilan
+Monza–ACmilan
 Monza–Inter
 Monza–Juventus
 Moon Knight
@@ -52859,6 +52903,7 @@ NOODWEER
 NOODWEER BELGIE
 NOODWEER ITALIE
 NOODWEER OOSTENRIJK
+NOODWEER SPANJE VALENCIA
 NOOR ALFALLAH
 NOOR VIDTS
 NOORD-MACEDONIE  NEDERLAND
@@ -54205,9 +54250,11 @@ Noma
 Nonkels
 Noodweer
 Noodweer Oostenrijk
+Noodweer Spanje Valencia
 Noodweer belgie
 Noodweer italie
 NoodweerOostenrijk
+NoodweerSpanjeValencia
 Noodweerbelgie
 Noodweeritalie
 Noor Alfallah
@@ -56685,6 +56732,7 @@ PHILIPPE GILBERT
 PHILIPPE GRANDE-SYNTHE
 PHILIPPE GRUMBACH
 PHILIPPE HENRY
+PHILIPPE JEANTOT
 PHILIPPE JEUSETTE
 PHILIPPE JUVIN
 PHILIPPE KATERINE
@@ -58987,6 +59035,7 @@ Philippe Grande-Synthe
 Philippe GrandeSynthe
 Philippe Grumbach
 Philippe Henry
+Philippe Jeantot
 Philippe Jeusette
 Philippe Juvin
 Philippe Katerine
@@ -59033,6 +59082,7 @@ PhilippeGilbert
 PhilippeGrande-Synthe
 PhilippeGrumbach
 PhilippeHenry
+PhilippeJeantot
 PhilippeJeusette
 PhilippeJuvin
 PhilippeKaterine
@@ -61252,6 +61302,7 @@ REVEILLON
 REVEILLON NOEL
 REVERZE 2024
 REVOIR PARIS
+REVOLUT
 REX HEUERMANN
 REZA PAHLAVI
 RFC LIEGE
@@ -63113,6 +63164,7 @@ Revoir Paris
 Revoir paris
 RevoirParis
 Revoirparis
+Revolut
 Rex Heuermann
 RexHeuermann
 Reza Pahlavi
@@ -65889,6 +65941,7 @@ ST.GALLEN GEGEN LUGANO
 ST.GALLEN GEGEN LUZERN
 ST.GALLEN GEGEN STADE-LAUSANNE
 ST.GALLEN GEGEN WINTERTHUR
+ST.GALLEN – FC SION
 ST.GALLEN – SERVETTE
 ST.GALLEN – TOBOL
 ST.GALLEN – WINTERTHUR
@@ -65961,6 +66014,7 @@ STANDARD – COURTRAI
 STANDARD – FC BRUGES
 STANDARD – KAA GENT
 STANDARD – OOSTENDE
+STANDARD – STVV
 STANDARD – UNION SAINT-GILLOISE
 STANDARD – WESTERLO
 STANDARD – ZULTE WAREGEM
@@ -69149,6 +69203,7 @@ St.Gallen gegen Luzern
 St.Gallen gegen Stade-Lausanne
 St.Gallen gegen StadeLausanne
 St.Gallen gegen Winterthur
+St.Gallen – FC Sion
 St.Gallen – Servette
 St.Gallen – Tobol
 St.Gallen – Winterthur
@@ -69160,6 +69215,7 @@ St.GallengegenLuzern
 St.GallengegenServette
 St.GallengegenStade-Lausanne
 St.GallengegenWinterthur
+St.Gallen–FCSion
 St.Gallen–Fiorentina
 St.Gallen–Grasshoppers
 St.Gallen–Servette
@@ -69288,6 +69344,7 @@ Standard – Courtrai
 Standard – FC Bruges
 Standard – KAA Gent
 Standard – Oostende
+Standard – STVV
 Standard – Union Saint-Gilloise
 Standard – Union SaintGilloise
 Standard – Westerlo
@@ -69313,6 +69370,7 @@ Standard–Courtrai
 Standard–FCBruges
 Standard–KAAGent
 Standard–Oostende
+Standard–STVV
 Standard–UnionSaint-Gilloise
 Standard–Westerlo
 Standard–ZulteWaregem
@@ -70445,6 +70503,7 @@ Süper Lig!
 Süper-Lig
 SüperLig
 SüperLig!
+T1
 TABLEAU DES MEDAILLES
 TABLEAU DES MEDAILLES JO 2024
 TABLEAU DES MÉDAILLES JO 2024
@@ -77746,6 +77805,9 @@ WRClive
 WRESTLEMANIA 38
 WRESTLEMANIA 39
 WREXHAM
+WTA FINALS
+WTA Finals
+WTAFinals
 WTV
 WUPPERTAL
 WUPPERTAL HOCHWASSER
@@ -81068,6 +81130,7 @@ angleterre - chili
 angleterre - ecosse
 angleterre - fidji
 angleterre - irlande
+angleterre - nouvelle zelande
 angleterre - pays de galles
 angleterre argentine
 angleterre bresil
@@ -83679,6 +83742,7 @@ brienz
 brienz graubünden
 brienzer rothornbahn
 brigade anonyme
+brigade du fleuve
 brigadier broccoli
 bright brussels
 brighton &amp; hove albion  roma
@@ -87180,7 +87244,9 @@ ehc kloten
 ehc olten
 ehe für alle
 ehefrau landet flugzeug
+ehrlich brothers
 eichen-prozessionsspinner
+eichhörnchen peanut
 eid
 eid al fitr 2023
 eid al-adha
@@ -87788,6 +87854,7 @@ espagne bresil
 espagne covid
 espagne croatie
 espagne foot
+espagne inondations valence
 espagne italie
 espagne pays-bas
 espagne pedro sanchez
@@ -88404,6 +88471,7 @@ fcb gegen stade-lausanne
 fcb gegen winterthur
 fcb gegen yverdon-sport
 fcb – st. gallen
+fcb – winterthur
 fcbarcelona
 fcg
 fcl
@@ -88444,6 +88512,7 @@ fekir
 feldis
 felice mazzu
 feline minne
+felipe vi
 felix alen
 felix auger-aliassime
 felix augeraliassime
@@ -89228,6 +89297,7 @@ frank otto
 frank otto nathalie volk
 frank raes
 frank schaafsma
+frank schröder
 frank sinatra
 frank stella
 frank tapiro
@@ -90529,6 +90599,7 @@ guinee bissau
 guingamp – ajaccio
 guingamp – auxerre
 guingamp – bordeaux
+guingamp – grenoble
 guingamp – paris fc
 guinée
 guinée équatoriale
@@ -93450,6 +93521,7 @@ kelowna
 kelvin jones
 kelvin kiptum
 kemba walker
+kemi badenoch
 kemi seba
 kemmeriboden-bad
 ken block
@@ -93532,6 +93604,7 @@ keynote apple
 kfar aza
 kfar aza massacre
 khaby lame
+khachanov
 khadija assad
 khaled khalifa
 khaled nezzar
@@ -94130,6 +94203,7 @@ la rochelle toulon
 la rochelle toulouse
 la rochelle ubb
 la rochelle – clermont
+la rochelle – stade français
 la rochelle-toulouse
 la rotonde paris
 la roue du temps
@@ -96230,6 +96304,7 @@ marathon berlijn
 marathon berlin
 marathon brussel
 marathon bruxelles
+marathon bruxelles 2024
 marathon de paris
 marathon de paris 2021
 marathon de paris 2021 parcours
@@ -97017,6 +97092,7 @@ mechelen antwerp
 mechelen club brugge
 mechelen – standard
 mechelen-antwerp
+mechelen-union
 mechthild großmann
 meckenbeuren
 medaille france jo
@@ -98809,6 +98885,7 @@ noodweer
 noodweer belgie
 noodweer italie
 noodweer oostenrijk
+noodweer spanje valencia
 noor alfallah
 noor vidts
 noord-macedonie  nederland
@@ -100233,6 +100310,7 @@ philippe gilbert
 philippe grande-synthe
 philippe grumbach
 philippe henry
+philippe jeantot
 philippe jeusette
 philippe juvin
 philippe katerine
@@ -101764,6 +101842,7 @@ reveillon
 reveillon noel
 reverze 2024
 revoir paris
+revolut
 rex heuermann
 reza pahlavi
 rfc liege
@@ -103956,6 +104035,7 @@ st.gallen gegen lugano
 st.gallen gegen luzern
 st.gallen gegen stade-lausanne
 st.gallen gegen winterthur
+st.gallen – fc sion
 st.gallen – servette
 st.gallen – tobol
 st.gallen – winterthur
@@ -104028,6 +104108,7 @@ standard – courtrai
 standard – fc bruges
 standard – kaa gent
 standard – oostende
+standard – stvv
 standard – union saint-gilloise
 standard – westerlo
 standard – zulte waregem
@@ -104648,6 +104729,7 @@ südkorea gegen deutschland
 süper lig
 süper lig!
 süper-lig
+t1
 tWitch
 tableau des medailles
 tableau des medailles jo 2024
@@ -107573,6 +107655,7 @@ wrc live
 wrestlemania 38
 wrestlemania 39
 wrexham
+wta finals
 wtv
 wuppertal
 wuppertal hochwasser
