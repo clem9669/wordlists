@@ -2245,6 +2245,7 @@ ANTWERP  ANDERLECHT
 ANTWERP  CERCLE
 ANTWERP  CHARLEROI
 ANTWERP  CLUB BRUGGE
+ANTWERP  DENDER
 ANTWERP  EUPEN
 ANTWERP  FENERBAHÇE
 ANTWERP  GENK
@@ -5784,6 +5785,7 @@ Antwerp  Anderlecht
 Antwerp  Cercle
 Antwerp  Charleroi
 Antwerp  Club Brugge
+Antwerp  Dender
 Antwerp  Eupen
 Antwerp  Fenerbahçe
 Antwerp  Genk
@@ -5832,6 +5834,7 @@ AntwerpCercle
 AntwerpCharleroi
 AntwerpClub Brugge
 AntwerpClubBrugge
+AntwerpDender
 AntwerpEupen
 AntwerpFC
 AntwerpFenerbahçe
@@ -7612,6 +7615,7 @@ BAYERN MUNCHEN
 BAYERN MUNICH
 BAYERN MUNICH – PSG
 BAYERN MÜNCHEN
+BAYERN – AUGSBOURG
 BAYERN – BARCELONA
 BAYERN – BENFICA
 BAYERN – COLOGNE
@@ -9819,6 +9823,7 @@ Bayern gegen VfB Stuttgart
 Bayern gegen Werder Bremen
 Bayern gegen Wolfsburg
 Bayern munchen
+Bayern – Augsbourg
 Bayern – Barcelona
 Bayern – Benfica
 Bayern – Cologne
@@ -9880,6 +9885,7 @@ BayerngegenVfBStuttgart
 BayerngegenWerderBremen
 BayerngegenWolfsburg
 Bayernmunchen
+Bayern–Augsbourg
 Bayern–Barcelona
 Bayern–Benfica
 Bayern–Cologne
@@ -12383,6 +12389,7 @@ CAEN – GUINGAMP
 CAEN – METZ
 CAEN – NANTES
 CAEN – PARIS FC
+CAEN – RODEZ
 CAEN – SOCHAUX
 CAF
 CAGNOTTE POLICIER
@@ -13664,6 +13671,7 @@ CLUB BRUGGE-STANDARD
 CLUB BRUGGE.  GENK
 CLUB BRUGGEANTWERP
 CLUB NXT
+CLUB NXT,  EUPEN
 CLUBBRUGGE-ANTWERP
 CLUBBRUGGEKORTRIJK
 CLUBBRUGGEZULTE-WAREGEM
@@ -14320,11 +14328,13 @@ Caen – Guingamp
 Caen – Metz
 Caen – Nantes
 Caen – Paris FC
+Caen – Rodez
 Caen – Sochaux
 Caen–Guingamp
 Caen–Metz
 Caen–Nantes
 Caen–ParisFC
+Caen–Rodez
 Caen–Sochaux
 Cagnotte policier
 Cagnotte policiers Nahel
@@ -16529,6 +16539,7 @@ Club Brugge.  Genk
 Club BruggeAntwerp
 Club BruggeStandard
 Club NXT
+Club NXT,  Eupen
 Club brugge – La Gantoise
 ClubBrugge
 ClubBrugge-Antwerp
@@ -16565,6 +16576,7 @@ ClubBrugge–Antwerp
 ClubBrugge–Benfica
 ClubBrugge–UnionSaint-Gilloise
 ClubNXT
+ClubNXT,Eupen
 Clubbrugge–LaGantoise
 Clueso
 Cluny
@@ -17784,6 +17796,7 @@ DANI CHANTEUSE
 DANI KLEIN
 DANI OLMO
 DANI PEDROSA
+DANIEL ALBRECHT
 DANIEL AUTEUIL
 DANIEL BALAVOINE
 DANIEL BARENBOIM
@@ -19091,6 +19104,7 @@ DaniKlein
 DaniOlmo
 DaniPedrosa
 Danichanteuse
+Daniel Albrecht
 Daniel Auteuil
 Daniel Balavoine
 Daniel Barenboim
@@ -19131,6 +19145,7 @@ Daniel Tammet
 Daniel Yule
 Daniel levi
 Daniel prevost
+DanielAlbrecht
 DanielAuteuil
 DanielBalavoine
 DanielBarenboim
@@ -22170,6 +22185,7 @@ EUROMILLIONS 1 OCTOBRE 2021
 EUROMILLIONS 15 SEPTEMBRE 2023
 EUROMILLIONS 16 JANVIER 2024
 EUROMILLIONS 20 OCTOBRE 2023
+EUROMILLIONS 22 NOVEMBER 2024
 EUROMILLIONS 24 NOVEMBER 2023
 EUROMILLIONS 25 AOUT 2023
 EUROMILLIONS 25 JUIN 2024
@@ -22178,6 +22194,7 @@ EUROMILLIONS 30 JANVIER 2024
 EUROMILLIONS 6 SEPTEMBRE 2024
 EUROMILLIONS JACKPOT
 EUROMILLIONS TIRAGE
+EUROMILLIONS ZIEHUNG
 EUROMILLIONS-ZIEHUNG
 EURONEWS
 EUROPA
@@ -23960,13 +23977,16 @@ Euromillionrésultats
 Euromillions
 Euromillions 1 octobre 2021
 Euromillions 15 septembre 2023
+Euromillions 22 november 2024
 Euromillions 25 aout 2023
 Euromillions 27 octobre 2023
+Euromillions Ziehung
 Euromillions jackpot
 Euromillions tirage
 Euromillions-Ziehung
 Euromillions15septembre2023
 Euromillions1octobre2021
+Euromillions22november2024
 Euromillions25aout2023
 Euromillions27octobre2023
 EuromillionsZiehung
@@ -24442,6 +24462,7 @@ FAIRPHONE 4
 FAIRPHONE 5
 FAISAL KAWUSI
 FAITES SAUTER LA BANQUE
+FAITHLESS
 FALCO
 FALKO OCHSENKNECHT
 FALL GUYS
@@ -25413,6 +25434,7 @@ FRANCE ALLEMAGNE HANDBALL
 FRANCE ANGLETERRE
 FRANCE ANGLETERRE RUGBY
 FRANCE ARGENTINE 2022
+FRANCE ARGENTINE RUGBY
 FRANCE ARGENTINE RUGBY 7
 FRANCE ARMENIE
 FRANCE AUSTRALIE
@@ -26028,6 +26050,7 @@ Faisal Kawusi
 FaisalKawusi
 Faites sauter la banque
 Faitessauterlabanque
+Faithless
 Falco
 Falko Ochsenknecht
 FalkoOchsenknecht
@@ -27150,6 +27173,7 @@ France Allemagne handball
 France Angleterre
 France Angleterre Rugby
 France Argentine 2022
+France Argentine rugby
 France Argentine rugby 7
 France Australie
 France Autriche
@@ -27345,6 +27369,7 @@ FranceArgentine
 FranceArgentine Rugby
 FranceArgentine rugby
 FranceArgentine2022
+FranceArgentinerugby
 FranceArgentinerugby7
 FranceAustralie
 FranceAutriche
@@ -29171,6 +29196,7 @@ GREVEAEROPORT
 GREVESNCF
 GREY'S ANATOMY
 GRICHKA BOGDANOFF
+GRIDLINK
 GRIECHENLAND
 GRIECHENLAND TOURISTEN VERMISST
 GRIEKENLAND
@@ -30944,6 +30970,7 @@ Grey's Anatomy
 Grey'sAnatomy
 Grichka Bogdanoff
 GrichkaBogdanoff
+Gridlink
 Griechenland
 Griechenland Touristen vermisst
 GriechenlandTouristenvermisst
@@ -62677,6 +62704,7 @@ RUTH ELKRIEF
 RUTH ELKRIEF JEAN-LUC MÉLENCHON
 RUTH GOTTESMAN
 RUTH MARIA KUBITSCHEK
+RUTH METZLER
 RUTH MOSCHNER
 RUTH SCHWEIKERT
 RUTH WOHLSCHLEGEL
@@ -64921,6 +64949,7 @@ Ruth Elkrief Jean-Luc Mélenchon
 Ruth Elkrief JeanLuc Mélenchon
 Ruth Gottesman
 Ruth Maria Kubitschek
+Ruth Metzler
 Ruth Moschner
 Ruth Schweikert
 Ruth Wohlschlegel
@@ -64930,6 +64959,7 @@ RuthElkrief
 RuthElkriefJean-LucMélenchon
 RuthGottesman
 RuthMariaKubitschek
+RuthMetzler
 RuthMoschner
 RuthSchweikert
 RuthWohlschlegel
@@ -65691,6 +65721,7 @@ SCORE ELECTION 2022
 SCORN
 SCOTCH AND SODA
 SCOTCH EN SODA
+SCOTT BESSENT
 SCOTT CARSON
 SCOTT HALL
 SCOTT MILLER
@@ -68427,10 +68458,12 @@ Scotch and Soda
 Scotch en Soda
 ScotchandSoda
 ScotchenSoda
+Scott Bessent
 Scott Carson
 Scott Hall
 Scott Miller
 Scott Parker
+ScottBessent
 ScottCarson
 ScottHall
 ScottMiller
@@ -82333,6 +82366,7 @@ antwerp  anderlecht
 antwerp  cercle
 antwerp  charleroi
 antwerp  club brugge
+antwerp  dender
 antwerp  eupen
 antwerp  fenerbahçe
 antwerp  genk
@@ -83544,6 +83578,7 @@ bayern munchen
 bayern munich
 bayern munich – psg
 bayern münchen
+bayern – augsbourg
 bayern – barcelona
 bayern – benfica
 bayern – cologne
@@ -85041,6 +85076,7 @@ caen – guingamp
 caen – metz
 caen – nantes
 caen – paris fc
+caen – rodez
 caen – sochaux
 caf
 cagnotte policier
@@ -86300,6 +86336,7 @@ club brugge-antwerp
 club brugge-standard
 club brugge.  genk
 club nxt
+club nxt,  eupen
 clubbruggekortrijk
 clubbruggezulte-waregem
 clubbruggezultewaregem
@@ -87021,6 +87058,7 @@ dani chanteuse
 dani klein
 dani olmo
 dani pedrosa
+daniel albrecht
 daniel auteuil
 daniel balavoine
 daniel barenboim
@@ -89085,6 +89123,7 @@ euromillions 1 octobre 2021
 euromillions 15 septembre 2023
 euromillions 16 janvier 2024
 euromillions 20 octobre 2023
+euromillions 22 november 2024
 euromillions 24 november 2023
 euromillions 25 aout 2023
 euromillions 25 juin 2024
@@ -89093,6 +89132,7 @@ euromillions 30 janvier 2024
 euromillions 6 septembre 2024
 euromillions jackpot
 euromillions tirage
+euromillions ziehung
 euromillions-ziehung
 euronews
 europa
@@ -89346,6 +89386,7 @@ fairphone 4
 fairphone 5
 faisal kawusi
 faites sauter la banque
+faithless
 falco
 falko ochsenknecht
 fall guys
@@ -90093,6 +90134,7 @@ france allemagne handball
 france angleterre
 france angleterre rugby
 france argentine 2022
+france argentine rugby
 france argentine rugby 7
 france armenie
 france australie
@@ -91515,6 +91557,7 @@ greve vendredi 13 octobre
 grevesncf
 grey's anatomy
 grichka bogdanoff
+gridlink
 griechenland
 griechenland touristen vermisst
 griekenland
@@ -103641,6 +103684,7 @@ ruth elkrief
 ruth elkrief jean-luc mélenchon
 ruth gottesman
 ruth maria kubitschek
+ruth metzler
 ruth moschner
 ruth schweikert
 ruth wohlschlegel
@@ -104304,6 +104348,7 @@ score election 2022
 scorn
 scotch and soda
 scotch en soda
+scott bessent
 scott carson
 scott hall
 scott miller
