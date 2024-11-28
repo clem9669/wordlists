@@ -1878,6 +1878,7 @@ ANDERLECHT – ZULTE WAREGEM
 ANDERLECHT-ANTWERP
 ANDERLECHT-CLUB BRUGGE
 ANDERLECHT-DINAMO MINSK
+ANDERLECHT-PORTO
 ANDERLECHT-STANDARD
 ANDERLECHT-UNION
 ANDERMATT
@@ -2711,6 +2712,7 @@ ASTON VILLA GEGEN LIVERPOOL
 ASTON VILLA – ARSENAL
 ASTON VILLA – BAYERN
 ASTON VILLA – CHELSEA
+ASTON VILLA – JUVENTUS
 ASTON VILLA – LIVERPOOL
 ASTON VILLA – MAN CITY
 ASTON VILLA – MANCHESTER CITY
@@ -5072,6 +5074,7 @@ Anderlecht-DinamoMinsk
 Anderlecht-Eupen
 Anderlecht-Genk
 Anderlecht-Gent
+Anderlecht-Porto
 Anderlecht-Standard
 Anderlecht-Union
 Anderlecht-Villarreal
@@ -5093,6 +5096,7 @@ AnderlechtMechelen
 AnderlechtOHL
 AnderlechtOostende
 AnderlechtPaide
+AnderlechtPorto
 AnderlechtSTVV
 AnderlechtStandard
 AnderlechtUnion
@@ -6527,6 +6531,7 @@ Aston Villa gegen Liverpool
 Aston Villa – Arsenal
 Aston Villa – Bayern
 Aston Villa – Chelsea
+Aston Villa – Juventus
 Aston Villa – Liverpool
 Aston Villa – Man City
 Aston Villa – Manchester City
@@ -6543,6 +6548,7 @@ AstonVillagegenLiverpool
 AstonVilla–Arsenal
 AstonVilla–Bayern
 AstonVilla–Chelsea
+AstonVilla–Juventus
 AstonVilla–Liverpool
 AstonVilla–ManCity
 AstonVilla–ManchesterCity
@@ -7460,6 +7466,7 @@ BARCELONA – SEVILLA
 BARCELONA – VALENCE
 BARCELONA – VALLADOLID
 BARCELONE
+BARCELONE - BREST
 BARCELONE - FRANCFORT
 BARCELONE – ALMERÍA
 BARCELONE – ATH BILBAO
@@ -8490,6 +8497,7 @@ BOLOGNE
 BOLOGNE – AC MILAN
 BOLOGNE – INTER
 BOLOGNE – JUVENTUS
+BOLOGNE – LILLE
 BOLOGNE – MILAN
 BOLSONARO
 BOLTANSKI
@@ -9560,7 +9568,9 @@ Barcelona–Sevilla
 Barcelona–Valence
 Barcelona–Valladolid
 Barcelone
+Barcelone  Brest
 Barcelone  Francfort
+Barcelone - Brest
 Barcelone - Francfort
 Barcelone – Almería
 Barcelone – Ath Bilbao
@@ -9581,6 +9591,7 @@ Barcelone – Séville
 Barcelone – Tottenham
 Barcelone – Valladolid
 Barcelone – Villarreal
+Barcelone-Brest
 Barcelone-Francfort
 Barcelone–Almería
 Barcelone–AthBilbao
@@ -11246,10 +11257,12 @@ Bologne
 Bologne – AC Milan
 Bologne – Inter
 Bologne – Juventus
+Bologne – Lille
 Bologne – Milan
 Bologne–ACMilan
 Bologne–Inter
 Bologne–Juventus
+Bologne–Lille
 Bologne–Milan
 Bolsonaro
 Boltanski
@@ -12396,6 +12409,7 @@ BürgerinWut
 C À VOUS
 C à vous
 C8
+CA C'EST PARIS
 CABOURG
 CAC 40
 CAC40
@@ -14336,7 +14350,9 @@ CYRIL LINETTE
 CYRIL NGONGE
 CYRILHANOUNA
 CYSTISCHE FIBROSE
+Ca c'est Paris
 Cabourg
+Cac'estParis
 Cacereño – Real Madrid
 Cacereño–RealMadrid
 Cachan
@@ -38957,6 +38973,7 @@ KEIONA
 KEIR STARMER
 KEIRA KNIGHTLEY
 KEITH JEFFERSON
+KEITH KELLOGG
 KEITH LEVENE
 KEITH RICHARDS
 KEKE
@@ -39867,9 +39884,11 @@ KeirStarmer
 Keira Knightley
 KeiraKnightley
 Keith Jefferson
+Keith Kellogg
 Keith Levene
 Keith Richards
 KeithJefferson
+KeithKellogg
 KeithLevene
 KeithRichards
 Keke
@@ -42095,6 +42114,7 @@ LIVERPOOL  ASTON VILLA
 LIVERPOOL  WOLVERHAMPTON
 LIVERPOOL - REAL MADRID
 LIVERPOOL FC
+LIVERPOOL FC  REAL MADRID
 LIVERPOOL GEGEN ARSENAL
 LIVERPOOL GEGEN BAYERN
 LIVERPOOL GEGEN CHELSEA
@@ -44923,6 +44943,7 @@ Liverpool  Real Madrid
 Liverpool  Wolverhampton
 Liverpool - Real Madrid
 Liverpool FC
+Liverpool FC  real madrid
 Liverpool Gegen Darmstadt 98
 Liverpool Villarreal
 Liverpool gegen Arsenal
@@ -44971,6 +44992,7 @@ Liverpool – West Ham
 Liverpool-RealMadrid
 LiverpoolAstonVilla
 LiverpoolFC
+LiverpoolFCrealmadrid
 LiverpoolGegenDarmstadt98
 LiverpoolVillarreal
 LiverpoolWolverhampton
@@ -46639,6 +46661,7 @@ MARCOROSSI
 MARCOS ACUÑA
 MARCUS MAURER CHARITE
 MARCUS RASHFORD
+MARCUS SIGNER
 MARCUS THURAM
 MARCUS-GUNN-SYNDROM
 MARCUSTHURAM
@@ -46754,6 +46777,7 @@ MARINE LE PEN
 MARINE LORPHELIN
 MARINE TONDELIER
 MARINE TONDELIER EELV
+MARINE VLAHOVIC
 MARINELEPEN
 MARIO ADORF
 MARIO BALOTELLI
@@ -47543,6 +47567,7 @@ METEOSCHWEIZ
 METHODE SINGAPOUR
 METRAUX GOLF
 METRO
+METRO BRUXELLES
 METRO LYON
 METRO TOULOUSE
 METROID PRIME 4
@@ -48122,6 +48147,7 @@ MONACO – ANGERS
 MONACO – AUXERRE
 MONACO – BARCELONA
 MONACO – BARCELONE
+MONACO – BENFICA
 MONACO – BRAGA
 MONACO – BREST
 MONACO – CLERMONT
@@ -49555,11 +49581,13 @@ Marcos acuña
 Marcosacuña
 Marcus Maurer charite
 Marcus Rashford
+Marcus Signer
 Marcus Thuram
 Marcus-Gunn-Syndrom
 MarcusGunnSyndrom
 MarcusMaurercharite
 MarcusRashford
+MarcusSigner
 MarcusThuram
 Mardi Gras
 Mardi gras
@@ -49783,6 +49811,7 @@ Marine Le Pen
 Marine Lorphelin
 Marine Tondelier
 Marine Tondelier EELV
+Marine Vlahovic
 MarineBoyer
 MarineDelterme
 MarineJohannès
@@ -49790,6 +49819,7 @@ MarineLePen
 MarineLorphelin
 MarineTondelier
 MarineTondelierEELV
+MarineVlahovic
 Marinčilić
 Mario Adorf
 Mario Balotelli
@@ -51206,8 +51236,10 @@ MethodeSingapour
 Metraux Golf
 MetrauxGolf
 Metro
+Metro Bruxelles
 Metro Lyon
 Metro Toulouse
+MetroBruxelles
 MetroLyon
 MetroToulouse
 Metroid Prime 4
@@ -52254,6 +52286,7 @@ Monaco – Angers
 Monaco – Auxerre
 Monaco – Barcelona
 Monaco – Barcelone
+Monaco – Benfica
 Monaco – Braga
 Monaco – Brest
 Monaco – Clermont
@@ -52298,6 +52331,7 @@ Monaco–Angers
 Monaco–Auxerre
 Monaco–Barcelona
 Monaco–Barcelone
+Monaco–Benfica
 Monaco–Braga
 Monaco–Brest
 Monaco–Clermont
@@ -58208,6 +58242,7 @@ PRÉSIDENT JIMMY CARTER
 PRÉSIDENT TRUMP
 PRÉSUMÉ INNOCENT
 PRÉVISION
+PRÊT À TAUX ZÉRO IMMOBILIER
 PRéSIDENTS
 PS
 PS5 BLACK FRIDAY
@@ -58422,7 +58457,9 @@ PSV  GRONINGEN
 PSV  Groningen
 PSV  RKC
 PSV  SEVILLA
+PSV  SJACHTAR
 PSV  Sevilla
+PSV  Sjachtar
 PSV EINDHOVEN
 PSV EINDHOVEN GEGEN DORTMUND
 PSV EINDHOVEN GEGEN ZÜRICH
@@ -58457,6 +58494,7 @@ PSVGalatasaray
 PSVGroningen
 PSVRKC
 PSVSevilla
+PSVSjachtar
 PSYCHIATRIEZENTRUM MÜNSINGEN
 PTB
 PUBLIBIKE
@@ -61119,6 +61157,8 @@ Présidents
 Présumé innocent
 Présuméinnocent
 Prévision
+Prêt à taux zéro immobilier
+Prêtàtauxzéroimmobilier
 Psg Sergio Rico accident
 Psg gegen Metz
 Psg vs Montpellier
@@ -62107,6 +62147,7 @@ RESISTANCE IN BELGIUM
 RESTAURANT LÖCHLIBAD
 RESTAURANT MISVERSTAND
 RESTAURANT PASS SANITAIRE
+RESTAURANT SONNE SEUZACH
 RESTO DU COEUR
 RESTRICTION COVID BELGIQUE
 RESTRICTION COVID SUISSE
@@ -62173,6 +62214,7 @@ REVALORISATION DES RETRAITES
 REVEILLON
 REVEILLON NOEL
 REVERZE 2024
+REVIER SAAS-FEE
 REVOIR PARIS
 REVOLUT
 REX HEUERMANN
@@ -62642,6 +62684,7 @@ ROSTOV
 ROTATION NOYAU TERRESTRE
 ROTAVIRUS
 ROTE ROSEN
+ROTER STERN – VFB STUTTGART
 ROTHEN
 ROTKREUZ – SERVETTE
 ROTSELAAR
@@ -63945,9 +63988,11 @@ Resistance in Belgium
 ResistanceinBelgium
 Restaurant Löchlibad
 Restaurant Misverstand
+Restaurant Sonne Seuzach
 Restaurant pass sanitaire
 RestaurantLöchlibad
 RestaurantMisverstand
+RestaurantSonneSeuzach
 Restaurantpasssanitaire
 Resto du coeur
 Restoducoeur
@@ -64053,6 +64098,9 @@ Reveillon noel
 Reveillonnoel
 Reverze 2024
 Reverze2024
+Revier Saas-Fee
+Revier SaasFee
+RevierSaas-Fee
 Revoir Paris
 Revoir paris
 RevoirParis
@@ -64856,6 +64904,8 @@ Rotationnoyauterrestre
 Rotavirus
 Rote Rosen
 RoteRosen
+Roter Stern – VfB Stuttgart
+RoterStern–VfBStuttgart
 Rothen
 Rotkreuz – Servette
 Rotkreuz–Servette
@@ -66761,6 +66811,7 @@ SPORZA WIELRENNEN
 SPOTIFY
 SPOTIFY DOWN
 SPOTIFY PROBLEMEN
+SPOTIFY WRAPPED
 SPOTIFY WRAPPED 2021
 SPOTIFY WRAPPED 2022
 SPOTIFY WRAPPED 2023
@@ -70094,11 +70145,13 @@ SporzaBelgianCats
 Sporzalive
 Sporzawielrennen
 Spotify
+Spotify Wrapped
 Spotify Wrapped 2021
 Spotify Wrapped 2022
 Spotify Wrapped 2023
 Spotify down
 Spotify problemen
+SpotifyWrapped
 SpotifyWrapped2021
 SpotifyWrapped2022
 SpotifyWrapped2023
@@ -71750,6 +71803,7 @@ TEMPS DE CHIEN
 TEMPTATION ISLAND
 TEMPÊTE
 TEMPÊTE CIARAN BELGIQUE
+TEMPÊTE CONALL
 TEMPÊTE DE NEIGE CANADA
 TEMPÊTE HIVERNALE ÉTATS-UNIS
 TEMPÊTE NELSON BELGIQUE
@@ -71853,6 +71907,7 @@ THAIS D'ESCUFON
 THALYS
 THANKSGIVING
 THANKSGIVING 2022
+THANKSGIVING 2024
 THAT '70S SHOW
 THAT '90S SHOW
 THAUVIN
@@ -73323,6 +73378,7 @@ Temptation Island
 TemptationIsland
 Tempête
 Tempête Ciaran Belgique
+Tempête Conall
 Tempête Nelson Belgique
 Tempête Patricia
 Tempête Pia Belgique
@@ -73334,6 +73390,7 @@ Tempête hivernale ÉtatsUnis
 Tempête tropicale Tammy
 Tempête tropicale Tammy Guadeloupe
 TempêteCiaranBelgique
+TempêteConall
 TempêteNelsonBelgique
 TempêtePatricia
 TempêtePiaBelgique
@@ -73467,7 +73524,9 @@ Thaisd'Escufon
 Thalys
 Thanksgiving
 Thanksgiving 2022
+Thanksgiving 2024
 Thanksgiving2022
+Thanksgiving2024
 That '70s Show
 That '90s Show
 That'70sShow
@@ -76502,6 +76561,7 @@ VAGUE DE FROID
 VAGUES CALIFORNIE
 VAHINA GIOCANTE
 VAIANA
+VAIANA 2
 VAIL RESORTS
 VAILLANTE
 VAIMALAMA CHAVES
@@ -76548,6 +76608,7 @@ VALENTINSTAG 2024
 VALENTINSTAG BEDEUTUNG
 VALENTINSTAG SPRÜCHE
 VALENTINSTAG 2022
+VALEO
 VALERIA BRUNI-TEDESCHI
 VALERIAN
 VALERIE BACOT
@@ -77188,6 +77249,8 @@ VaguesCalifornie
 Vahina Giocante
 VahinaGiocante
 Vaiana
+Vaiana 2
+Vaiana2
 Vail Resorts
 VailResorts
 Vaillante
@@ -77268,6 +77331,7 @@ Valentinstag2024
 ValentinstagBedeutung
 ValentinstagSprüche
 Valentinstag 2022
+Valeo
 Valeria Bruni-Tedeschi
 Valeria BruniTedeschi
 ValeriaBruni-Tedeschi
@@ -80126,6 +80190,7 @@ YVESMARTIN
 YVETOT
 YVONNE CATTERFELD
 YVONNE COLDEWEIJER
+YVONNE WOELKE
 Yabusele
 Yael Braun-Pivet
 Yael BraunPivet
@@ -80353,8 +80418,10 @@ YvesdeGaulle
 Yvetot
 Yvonne Catterfeld
 Yvonne Coldeweijer
+Yvonne Woelke
 YvonneCatterfeld
 YvonneColdeweijer
+YvonneWoelke
 Z-LIBRARY
 Z-Library
 Z7
@@ -82183,6 +82250,7 @@ anderlecht – zulte waregem
 anderlecht-antwerp
 anderlecht-club brugge
 anderlecht-dinamo minsk
+anderlecht-porto
 anderlecht-standard
 anderlecht-union
 andermatt
@@ -82985,6 +83053,7 @@ aston villa gegen liverpool
 aston villa – arsenal
 aston villa – bayern
 aston villa – chelsea
+aston villa – juventus
 aston villa – liverpool
 aston villa – man city
 aston villa – manchester city
@@ -83596,6 +83665,7 @@ barcelona – sevilla
 barcelona – valence
 barcelona – valladolid
 barcelone
+barcelone - brest
 barcelone - francfort
 barcelone – almería
 barcelone – ath bilbao
@@ -84582,6 +84652,7 @@ bologne
 bologne – ac milan
 bologne – inter
 bologne – juventus
+bologne – lille
 bologne – milan
 bolsonaro
 boltanski
@@ -85249,6 +85320,7 @@ bürgenstock
 bürger in wut
 c à vous
 c8
+ca c'est paris
 cabourg
 cac 40
 cac40
@@ -94847,6 +94919,7 @@ keiona
 keir starmer
 keira knightley
 keith jefferson
+keith kellogg
 keith levene
 keith richards
 keke
@@ -96603,6 +96676,7 @@ liverpool  aston villa
 liverpool  wolverhampton
 liverpool - real madrid
 liverpool fc
+liverpool fc  real madrid
 liverpool gegen arsenal
 liverpool gegen bayern
 liverpool gegen chelsea
@@ -97812,6 +97886,7 @@ marcorossi
 marcos acuña
 marcus maurer charite
 marcus rashford
+marcus signer
 marcus thuram
 marcus-gunn-syndrom
 marcusthuram
@@ -97927,6 +98002,7 @@ marine le pen
 marine lorphelin
 marine tondelier
 marine tondelier eelv
+marine vlahovic
 marinelepen
 mario adorf
 mario balotelli
@@ -98709,6 +98785,7 @@ meteoschweiz
 methode singapour
 metraux golf
 metro
+metro bruxelles
 metro lyon
 metro toulouse
 metroid prime 4
@@ -99279,6 +99356,7 @@ monaco – angers
 monaco – auxerre
 monaco – barcelona
 monaco – barcelone
+monaco – benfica
 monaco – braga
 monaco – brest
 monaco – clermont
@@ -102422,6 +102500,7 @@ président trump
 présidents
 présumé innocent
 prévision
+prêt à taux zéro immobilier
 ps
 ps5 black friday
 ps5 pro
@@ -102502,6 +102581,7 @@ psv  emmen
 psv  groningen
 psv  rkc
 psv  sevilla
+psv  sjachtar
 psv eindhoven
 psv eindhoven gegen dortmund
 psv eindhoven gegen zürich
@@ -103243,6 +103323,7 @@ resistance in belgium
 restaurant löchlibad
 restaurant misverstand
 restaurant pass sanitaire
+restaurant sonne seuzach
 resto du coeur
 restriction covid belgique
 restriction covid suisse
@@ -103303,6 +103384,7 @@ revalorisation des retraites
 reveillon
 reveillon noel
 reverze 2024
+revier saas-fee
 revoir paris
 revolut
 rex heuermann
@@ -103753,6 +103835,7 @@ rostov
 rotation noyau terrestre
 rotavirus
 rote rosen
+roter stern – vfb stuttgart
 rothen
 rotkreuz – servette
 rotselaar
@@ -105446,6 +105529,7 @@ sporza wielrennen
 spotify
 spotify down
 spotify problemen
+spotify wrapped
 spotify wrapped 2021
 spotify wrapped 2022
 spotify wrapped 2023
@@ -106468,6 +106552,7 @@ temps de chien
 temptation island
 tempête
 tempête ciaran belgique
+tempête conall
 tempête de neige canada
 tempête hivernale états-unis
 tempête nelson belgique
@@ -106559,6 +106644,7 @@ thais d'escufon
 thalys
 thanksgiving
 thanksgiving 2022
+thanksgiving 2024
 that '70s show
 that '90s show
 thauvin
@@ -108017,6 +108103,7 @@ vague de froid
 vagues californie
 vahina giocante
 vaiana
+vaiana 2
 vail resorts
 vaillante
 vaimalama chaves
@@ -108063,6 +108150,7 @@ valentinstag 2024
 valentinstag bedeutung
 valentinstag sprüche
 valentinstag 2022
+valeo
 valeria bruni-tedeschi
 valerian
 valerie bacot
@@ -109409,6 +109497,7 @@ yvesmartin
 yvetot
 yvonne catterfeld
 yvonne coldeweijer
+yvonne woelke
 z-library
 z7
 zac efron
