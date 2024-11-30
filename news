@@ -472,10 +472,12 @@
 3.Advent
 300 REICHSTEN SCHWEIZER
 300 REICHSTEN SCHWEIZER BILANZ
+300 Reichsten Schweizer Bilanz
 300 reichsten Schweizer
 300 reichsten Schweizer Bilanz
 300 reichsten schweizer
 300 reichsten schweizer bilanz
+300ReichstenSchweizerBilanz
 300reichstenSchweizer
 300reichstenSchweizerBilanz
 34
@@ -891,6 +893,7 @@ ACCIDENT MINIBUS HOUEILLES
 ACCIDENT MORTEL
 ACCIDENT MORTEL KOBA LAD
 ACCIDENT MORTEL LUNA PARK
+ACCIDENT MORTEL ROCOURT
 ACCIDENT MOUSCRON
 ACCIDENT NYON
 ACCIDENT PARIS
@@ -1380,6 +1383,8 @@ ALEKSANDAR TRAJKOVSKI
 ALEKSANDER AAMODT KILDE
 ALEKSEJ NAVALNY
 ALENCON
+ALEP
+ALEPPO
 ALERTE A LA BOMBE
 ALERTE A LA BOMBE CHARLEROI
 ALERTE A LA BOMBE TOURNAI
@@ -2332,6 +2337,7 @@ APPENZELL AUSSERRHODEN
 APPLE
 APPLE AIRPODS
 APPLE AKTIE
+APPLE BLACK FRIDAY
 APPLE EVENT
 APPLE IPAD PRO 2024
 APPLE IPHONE 14
@@ -3363,6 +3369,7 @@ Accident minibus houeilles
 Accident mortel
 Accident mortel Koba LaD
 Accident mortel Luna Park
+Accident mortel Rocourt
 Accident pôle mécanique Alès
 Accident ski enfant Grand-Bornand
 Accident ski enfant GrandBornand
@@ -3422,6 +3429,7 @@ Accidentminibushoueilles
 Accidentmortel
 AccidentmortelKobaLaD
 AccidentmortelLunaPark
+AccidentmortelRocourt
 AccidentpôlemécaniqueAlès
 Accidents au Sénégal
 AccidentsauSénégal
@@ -4199,6 +4207,8 @@ AleksanderAamodtKilde
 Aleksej Navalny
 AleksejNavalny
 Alencon
+Alep
+Aleppo
 Alerte Cobra Christian Oliver
 Alerte Rouge
 Alerte a la bombe
@@ -5929,6 +5939,7 @@ AppenzellAusserrhoden
 Apple
 Apple AirPods
 Apple Aktie
+Apple Black Friday
 Apple Event
 Apple Vision Pro
 Apple Watch
@@ -5950,6 +5961,7 @@ Apple-Event
 Apple-event
 AppleAirPods
 AppleAktie
+AppleBlackFriday
 AppleEvent
 AppleVisionPro
 AppleWatch
@@ -8024,6 +8036,7 @@ BERNARD CRIBBINS
 BERNARD D'ORMALE
 BERNARD DE LA VILLARDIÈRE
 BERNARD DEWULF
+BERNARD FAUCON
 BERNARD GENOUD
 BERNARD HAITINK
 BERNARD HILL
@@ -8601,6 +8614,7 @@ BORIS PALMER
 BORIS PISTORIUS
 BORIS VALLAUD
 BORIS VAN SEVEREN
+BORKUM
 BORMIO
 BORN TO BE WILD
 BORNA CORIC
@@ -10529,6 +10543,7 @@ Bernard Cazeneuve Premier ministre
 Bernard Challandes
 Bernard Cribbins
 Bernard Dewulf
+Bernard Faucon
 Bernard Genoud
 Bernard Haitink
 Bernard Hill
@@ -10558,6 +10573,7 @@ BernardCazeneuvePremierministre
 BernardChallandes
 BernardCribbins
 BernardDewulf
+BernardFaucon
 BernardGenoud
 BernardHaitink
 BernardHenri Levy
@@ -11442,6 +11458,7 @@ BorisPalmer
 BorisPistorius
 BorisVallaud
 BorisVanSeveren
+Borkum
 Bormio
 Born to be Wild
 Borna Coric
@@ -17935,6 +17952,7 @@ DANSE AVEC LES STARS 2021
 DANSE AVEC LES STARS D'INTERNET
 DANSE MACABRE
 DANSO
+DANTE BROGNO
 DANTE RIGO
 DANTE VANZEIR
 DANY BOON
@@ -18574,6 +18592,7 @@ DISPARITION LINA PETIT AMI TELEPHONE
 DISPARITION LYLOU
 DISPARITION MARWAN BERRENI
 DISPARITION MAYENNE
+DISPARITION MORGANE
 DISPARITION VOL MH370
 DISPARITION ÉMILE HAUT-VERNET
 DISPARITION ÉMILE VERNET
@@ -19321,8 +19340,10 @@ Danslabrume
 Danslachaleurdelanuit
 Danslamaison
 Danso
+Dante Brogno
 Dante Rigo
 Dante Vanzeir
+DanteBrogno
 DanteRigo
 DanteVanzeir
 Dany Boon
@@ -20429,6 +20450,7 @@ Disparition Lina petit ami telephone
 Disparition Lylou
 Disparition Marwan Berreni
 Disparition Mayenne
+Disparition Morgane
 Disparition chloe
 Disparition d'Emile
 Disparition de Delphine Jubillar
@@ -20457,6 +20479,7 @@ DisparitionLinapetitamitelephone
 DisparitionLylou
 DisparitionMarwanBerreni
 DisparitionMayenne
+DisparitionMorgane
 Disparitionchloe
 Disparitiond'Emile
 DisparitiondeDelphineJubillar
@@ -21359,6 +21382,7 @@ EIFFEL
 EIGENBRAUER-SYNDROM PROMILLE
 EIGENMIETWERT
 EIKELMUIS
+EILEEN GRAY
 EILEEN GU
 EILEEN RYAN
 EILISH MCCOLGAN
@@ -22650,8 +22674,10 @@ Eigenbrauer-SyndromPromille
 EigenbrauerSyndrom Promille
 Eigenmietwert
 Eikelmuis
+Eileen Gray
 Eileen Gu
 Eileen Ryan
+EileenGray
 EileenGu
 EileenRyan
 Eilish McColgan
@@ -29007,6 +29033,7 @@ GORDON
 GORDON BENNETT 2022
 GORDON LIGHTFOOT
 GORDON RAMSAY
+GORKI
 GOSFORD PARK
 GOSSIP
 GOTAGA
@@ -30650,6 +30677,7 @@ Gordon ramsay
 GordonLightfoot
 Gordonbennett2022
 Gordonramsay
+Gorki
 Gosford Park
 GosfordPark
 Gossip
@@ -31437,6 +31465,7 @@ GÉRARD JUGNOT
 GÉRARD LANVIN
 GÉRARD LARCHER
 GÉRARD LECLERC JULIEN CLERC
+GÉRARD WERTHEIMER
 GÖKHAN INLER
 GÖLÄ
 GÖRING-ECKARDT
@@ -31471,6 +31500,7 @@ Gérard Jugnot
 Gérard Lanvin
 Gérard Larcher
 Gérard Leclerc Julien Clerc
+Gérard Wertheimer
 GérardCollomb
 GérardCollombMacron
 GérardDarmon
@@ -31480,6 +31510,7 @@ GérardJugnot
 GérardLanvin
 GérardLarcher
 GérardLeclercJulienClerc
+GérardWertheimer
 Gökhan Inler
 GökhanInler
 Gölä
@@ -31535,6 +31566,7 @@ HAGELKÖRNER IN SPANIEN
 HAGELSCHWEIZ
 HAGRID TOT
 HAI ANGRIFFE ÄGYPTEN
+HAILEE STEINFELD
 HAILEY BIEBER
 HAIR AND SKIN
 HAITI
@@ -32200,6 +32232,8 @@ Hai Angriffe Ägypten
 Hai angriffe Ägypten
 HaiAngriffeÄgypten
 HaiangriffeÄgypten
+Hailee Steinfeld
+HaileeSteinfeld
 Hailey Bieber
 HaileyBieber
 Hair and Skin
@@ -35506,6 +35540,7 @@ JDD GEOFFROY LEJEUNE
 JDD Geoffroy Lejeune
 JDDGeoffroyLejeune
 JDVance
+JE NE ME LAISSERAI PLUS FAIRE
 JE TE PROMETS
 JE TE PROMETS SAISON 3
 JE VERRAI TOUJOURS VOS VISAGES
@@ -36020,6 +36055,7 @@ JONATHAN MAJORS
 JONATHAN MILAN
 JONATHANN DAVAL
 JONES MIOCIC
+JONG GENK  ZULTE-WAREGEM
 JONG KEUKENGEWELD
 JONI MITCHELL
 JONNY WILKINSON
@@ -36146,6 +36182,7 @@ JPL
 JPR WILLIAMS
 JPR Williams
 JPRWilliams
+JR O CROM
 JSK
 JUAN ARBELAEZ
 JUAN BRANCO
@@ -36278,6 +36315,7 @@ JUMPING MECHELEN
 JUNETEENTH
 JUNG HO-YEON
 JUNG HOYEON
+JUNGE TAT
 JUNGFRAU
 JUNGFRAU-MARATHON
 JUNGFRAUJOCH
@@ -36337,6 +36375,7 @@ JUSTIN BIEBER ZÜRICH
 JUSTIN LONWIJK
 JUSTIN MURISIER
 JUSTIN ROILAND
+JUSTIN SUN
 JUSTIN TIMBERLAKE
 JUSTIN TRUDEAU
 JUSTIN WELBY
@@ -36943,6 +36982,7 @@ Jazz Middelheim
 Jazz et Laurent
 JazzMiddelheim
 JazzetLaurent
+Je ne me laisserai plus faire
 Je te promets
 Je te promets saison 3
 Je verrai toujours vos visages
@@ -37333,6 +37373,7 @@ Jena Lee
 Jena Lee J'aimerais tellement
 JenaLee
 JenaLeeJ'aimeraistellement
+Jenemelaisseraiplusfaire
 Jenifer
 Jenke Experiment Zucker
 Jenke-Experiment
@@ -37982,7 +38023,10 @@ Jonathann Daval
 JonathannDaval
 Jones Miocic
 JonesMiocic
+Jong Genk  zulte-waregem
+Jong Genk  zultewaregem
 Jong Keukengeweld
+JongGenkzulte-waregem
 JongKeukengeweld
 Joni Mitchell
 JoniMitchell
@@ -38212,6 +38256,8 @@ Joyeuxnoelimage
 Joyn
 Joško Gvardiol
 JoškoGvardiol
+Jr O Crom
+JrOCrom
 Juan Arbelaez
 Juan Branco
 Juan Izquierdo
@@ -38454,6 +38500,8 @@ Jung HoYeon
 Jung Hoyeon
 JungHo-yeon
 JungHoYeon
+Junge Tat
+JungeTat
 Jungfrau
 Jungfrau-Marathon
 JungfrauMarathon
@@ -38547,6 +38595,7 @@ Justin Bieber Zürich
 Justin Lonwijk
 Justin Murisier
 Justin Roiland
+Justin Sun
 Justin Timberlake
 Justin Trudeau
 Justin Welby
@@ -38556,6 +38605,7 @@ JustinBieberZürich
 JustinLonwijk
 JustinMurisier
 JustinRoiland
+JustinSun
 JustinTimberlake
 JustinTrudeau
 JustinWelby
@@ -38870,6 +38920,7 @@ KARIM SLAOUI
 KARIM ZÉRIBI
 KARIMA KOH-LANTA
 KARIMBENZEMA
+KARIN BAAL
 KARIN DONCKERS
 KARIN KELLER-SUTTER
 KARIN VIARD
@@ -39374,6 +39425,7 @@ KREJCIKOVA
 KREMLIN
 KRETA
 KREUZFAHRT ABGESAGT
+KREUZFAHRTSCHIFF HUNGERSTREIK
 KREUZFAHRTSCHIFF STURM
 KREUZLINGEN
 KRIM
@@ -39448,6 +39500,9 @@ KSI vs Tommy Fury
 KSIvsJoeFournier
 KSIvsTommyFury
 KTM
+KTM AG INSOLVENZVERFAHREN
+KTM AG insolvenzverfahren
+KTMAGinsolvenzverfahren
 KU LEUVEN
 KU Leuven
 KUBALIK
@@ -39708,10 +39763,12 @@ Karima KohLanta
 KarimaKoh-Lanta
 Karimbenzema
 Karimzéribi
+Karin Baal
 Karin Donckers
 Karin Keller-Sutter
 Karin KellerSutter
 Karin Viard
+KarinBaal
 KarinDonckers
 KarinKeller-Sutter
 KarinViard
@@ -40544,7 +40601,9 @@ Kremlin
 Kreta
 Kreuzfahrt abgesagt
 Kreuzfahrtabgesagt
+Kreuzfahrtschiff Hungerstreik
 Kreuzfahrtschiff Sturm
+KreuzfahrtschiffHungerstreik
 KreuzfahrtschiffSturm
 Kreuzlingen
 Krim
@@ -47397,6 +47456,7 @@ MEDITERRAANS DIEET
 MEDJUGORJE
 MEDUSA BEACH CLUB MALLORCA
 MEDUSA FESTIVAL
+MEDUSA MASKED SINGER
 MEDVEDEV
 MEEK MILL
 MEERWAARDEBELASTING
@@ -50926,8 +50986,10 @@ Mediterraansdieet
 Medjugorje
 Medusa Beach Club Mallorca
 Medusa Festival
+Medusa Masked Singer
 MedusaBeachClubMallorca
 MedusaFestival
+MedusaMaskedSinger
 Medvedev
 Meek Mill
 MeekMill
@@ -57295,6 +57357,7 @@ PAULA BADOSA
 PAULA HURD
 PAULA MOLTZAN
 PAULETTE NARDAL
+PAULINE COURTIN
 PAULINE DEROULEDE
 PAULINE ESTER
 PAULINE FERRAND PREVOT
@@ -58533,6 +58596,7 @@ PSVSjachtar
 PSYCHIATRIEZENTRUM MÜNSINGEN
 PTB
 PUBLIBIKE
+PUCCINI
 PUCK MOONEN
 PUCK PIETERSE
 PUERTO RICO
@@ -59465,6 +59529,7 @@ PaulaMoltzan
 PauldeSaintSernin
 Paulette Nardal
 PauletteNardal
+Pauline Courtin
 Pauline Ester
 Pauline Ferrand Prevot
 Pauline Ferrand prevot
@@ -59472,6 +59537,7 @@ Pauline Ferrand-Prévot
 Pauline FerrandPrévot
 Pauline Slangen
 Pauline deroulede
+PaulineCourtin
 PaulineEster
 PaulineFerrand-Prévot
 PaulineFerrandPrevot
@@ -61204,6 +61270,7 @@ PsgvsMontpellier
 Psychiatriezentrum Münsingen
 PsychiatriezentrumMünsingen
 Publibike
+Puccini
 Puck Moonen
 Puck Pieterse
 PuckMoonen
@@ -65867,6 +65934,7 @@ SCHWEIZ ANDORRA EM-QUALI
 SCHWEIZ BULGARIEN
 SCHWEIZ DEUTSCHLAND EISHOCKEY
 SCHWEIZ DEUTSCHLAND EM
+SCHWEIZ DEUTSCHLAND FRAUEN
 SCHWEIZ DÄNEMARK
 SCHWEIZ FRANKREICH
 SCHWEIZ FRANKREICH EM
@@ -68558,6 +68626,7 @@ Schweiz Andorra EMQuali
 Schweiz Bulgarien
 Schweiz Deutschland EM
 Schweiz Deutschland Eishockey
+Schweiz Deutschland Frauen
 Schweiz Dänemark
 Schweiz Frankreich
 Schweiz Frankreich em
@@ -68598,6 +68667,7 @@ SchweizAndorraEM-Quali
 SchweizBulgarien
 SchweizDeutschlandEM
 SchweizDeutschlandEishockey
+SchweizDeutschlandFrauen
 SchweizDänemark
 SchweizFrankreich
 SchweizFrankreichem
@@ -72193,6 +72263,7 @@ THIERRY COURTIN
 THIERRY DESMAREST
 THIERRY GODARD
 THIERRY HENRY
+THIERRY LE LURON
 THIERRY LHERMITTE
 THIERRY LIAGRE
 THIERRY LUTHERS
@@ -74034,6 +74105,7 @@ Thierry Courtin
 Thierry Desmarest
 Thierry Godard
 Thierry Henry
+Thierry Le Luron
 Thierry Lhermitte
 Thierry Liagre
 Thierry Luthers
@@ -74059,6 +74131,7 @@ ThierryCourtin
 ThierryDesmarest
 ThierryGodard
 ThierryHenry
+ThierryLeLuron
 ThierryLhermitte
 ThierryLiagre
 ThierryLuthers
@@ -75896,6 +75969,7 @@ UNION BERLIN – DORTMUND
 UNION BERLIN – REAL MADRID
 UNION BERLIN – UNION SAINT-GILLOISE
 UNION CLUB BRUGGE
+UNION EUROPÉENNE
 UNION LEVERKUSEN
 UNION SAINT GILLOISE
 UNION SAINT-GILLOISE
@@ -76398,6 +76472,7 @@ Union SaintGilloise – Westerlo
 Union SaintGilloise – Zulte Waregem
 Union SaintGilloise – bodø/glimt
 Union SaintGilloise – oostende
+Union européenne
 Union saint gilloise
 Union-Charleroi
 UnionAnderlecht
@@ -76449,6 +76524,7 @@ UnionSaint-Gilloise–ZulteWaregem
 UnionSaint-Gilloise–bodø/glimt
 UnionSaint-Gilloise–oostende
 UnionWesterlo
+Unioneuropéenne
 Unionsaintgilloise
 Unionzulte-waregem
 Uniper
@@ -76788,6 +76864,7 @@ VEGEDREAM MERCI LES BLEUS
 VEJA
 VEKIC
 VELAUX
+VELDEGEM
 VELDRIJDEN
 VELDRIJDEN BENIDORM
 VELDRIJDEN DENDERMONDE
@@ -76938,6 +77015,7 @@ VIDE GRENIER
 VIEILLES CHARRUES
 VIEILLES CHARRUES 2022
 VIEILLES CHARRUES 2024
+VIEILLES CHARRUES 2025
 VIELSALM
 VIER
 VIERSCHANZENTOURNEE
@@ -77590,6 +77668,7 @@ VegedreamMercilesBleus
 Veja
 Vekic
 Velaux
+Veldegem
 Veldrijden
 Veldrijden Benidorm
 Veldrijden Dendermonde
@@ -77847,9 +77926,11 @@ Videgrenier
 Vieilles Charrues
 Vieilles Charrues 2022
 Vieilles Charrues 2024
+Vieilles Charrues 2025
 VieillesCharrues
 VieillesCharrues2022
 VieillesCharrues2024
+VieillesCharrues2025
 Vielsalm
 Vier
 Vierschanzentournee
@@ -81375,6 +81456,7 @@ accident minibus houeilles
 accident mortel
 accident mortel koba lad
 accident mortel luna park
+accident mortel rocourt
 accident mouscron
 accident nyon
 accident paris
@@ -81823,6 +81905,8 @@ aleksandar trajkovski
 aleksander aamodt kilde
 aleksej navalny
 alencon
+alep
+aleppo
 alerte a la bombe
 alerte a la bombe charleroi
 alerte a la bombe tournai
@@ -82757,6 +82841,7 @@ appenzell ausserrhoden
 apple
 apple airpods
 apple aktie
+apple black friday
 apple event
 apple ipad pro 2024
 apple iphone 14
@@ -84272,6 +84357,7 @@ bernard cribbins
 bernard d'ormale
 bernard de la villardière
 bernard dewulf
+bernard faucon
 bernard genoud
 bernard haitink
 bernard hill
@@ -84815,6 +84901,7 @@ boris palmer
 boris pistorius
 boris vallaud
 boris van severen
+borkum
 bormio
 born to be wild
 borna coric
@@ -87468,6 +87555,7 @@ danse avec les stars 2021
 danse avec les stars d'internet
 danse macabre
 danso
+dante brogno
 dante rigo
 dante vanzeir
 dany boon
@@ -88085,6 +88173,7 @@ disparition lina petit ami telephone
 disparition lylou
 disparition marwan berreni
 disparition mayenne
+disparition morgane
 disparition vol mh370
 disparition émile haut-vernet
 disparition émile vernet
@@ -88649,6 +88738,7 @@ eiffel
 eigenbrauer-syndrom promille
 eigenmietwert
 eikelmuis
+eileen gray
 eileen gu
 eileen ryan
 eilish mccolgan
@@ -91664,6 +91754,7 @@ gordon
 gordon bennett 2022
 gordon lightfoot
 gordon ramsay
+gorki
 gosford park
 gossip
 gotaga
@@ -92124,6 +92215,7 @@ gérard jugnot
 gérard lanvin
 gérard larcher
 gérard leclerc julien clerc
+gérard wertheimer
 gérarddepardieu
 gökhan inler
 gölä
@@ -92162,6 +92254,7 @@ hagelkörner in spanien
 hagelschweiz
 hagrid tot
 hai angriffe ägypten
+hailee steinfeld
 hailey bieber
 hair and skin
 haiti
@@ -93870,6 +93963,7 @@ jd
 jd vance
 jdd
 jdd geoffroy lejeune
+je ne me laisserai plus faire
 je te promets
 je te promets saison 3
 je verrai toujours vos visages
@@ -94372,6 +94466,7 @@ jonathan majors
 jonathan milan
 jonathann daval
 jones miocic
+jong genk  zulte-waregem
 jong keukengeweld
 joni mitchell
 jonny wilkinson
@@ -94489,6 +94584,7 @@ joyn
 joško gvardiol
 jpl
 jpr williams
+jr o crom
 jsk
 juan arbelaez
 juan branco
@@ -94618,6 +94714,7 @@ jumping mechelen
 juneteenth
 jung ho-yeon
 jung hoyeon
+junge tat
 jungfrau
 jungfrau-marathon
 jungfraujoch
@@ -94671,6 +94768,7 @@ justin bieber zürich
 justin lonwijk
 justin murisier
 justin roiland
+justin sun
 justin timberlake
 justin trudeau
 justin welby
@@ -94878,6 +94976,7 @@ karim slaoui
 karim zéribi
 karima koh-lanta
 karimbenzema
+karin baal
 karin donckers
 karin keller-sutter
 karin viard
@@ -95370,6 +95469,7 @@ krejcikova
 kremlin
 kreta
 kreuzfahrt abgesagt
+kreuzfahrtschiff hungerstreik
 kreuzfahrtschiff sturm
 kreuzlingen
 krim
@@ -95440,6 +95540,7 @@ ksi
 ksi vs joe fournier
 ksi vs tommy fury
 ktm
+ktm ag insolvenzverfahren
 ku leuven
 kubalik
 kubitschek
@@ -98666,6 +98767,7 @@ mediterraans dieet
 medjugorje
 medusa beach club mallorca
 medusa festival
+medusa masked singer
 medvedev
 meek mill
 meerwaardebelasting
@@ -101624,6 +101726,7 @@ paula badosa
 paula hurd
 paula moltzan
 paulette nardal
+pauline courtin
 pauline deroulede
 pauline ester
 pauline ferrand prevot
@@ -102674,6 +102777,7 @@ psv sevilla
 psychiatriezentrum münsingen
 ptb
 publibike
+puccini
 puck moonen
 puck pieterse
 puerto rico
@@ -104662,6 +104766,7 @@ schweiz andorra em-quali
 schweiz bulgarien
 schweiz deutschland eishockey
 schweiz deutschland em
+schweiz deutschland frauen
 schweiz dänemark
 schweiz frankreich
 schweiz frankreich em
@@ -106963,6 +107068,7 @@ thierry courtin
 thierry desmarest
 thierry godard
 thierry henry
+thierry le luron
 thierry lhermitte
 thierry liagre
 thierry luthers
@@ -108044,6 +108150,7 @@ union berlin – dortmund
 union berlin – real madrid
 union berlin – union saint-gilloise
 union club brugge
+union européenne
 union leverkusen
 union saint gilloise
 union saint-gilloise
@@ -108356,6 +108463,7 @@ vegedream merci les bleus
 veja
 vekic
 velaux
+veldegem
 veldrijden
 veldrijden benidorm
 veldrijden dendermonde
@@ -108506,6 +108614,7 @@ vide grenier
 vieilles charrues
 vieilles charrues 2022
 vieilles charrues 2024
+vieilles charrues 2025
 vielsalm
 vier
 vierschanzentournee
