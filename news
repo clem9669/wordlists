@@ -904,6 +904,7 @@ ACCIDENT SKI ENFANT GRAND-BORNAND
 ACCIDENT SPA-FRANCORCHAMPS
 ACCIDENT STRUCTURE GONFLABLE
 ACCIDENT TRAM BRUXELLES
+ACCIDENT TRAM SERVETTE GENEVE
 ACCIDENT TROIS POLICIERS
 ACCIDENT TROIS POLICIERS MORTS
 ACCIDENT TROTTINETTE LYON
@@ -1311,6 +1312,7 @@ ALAIN MANEVAL
 ALAIN MATHOT
 ALAIN MINC
 ALAIN MOUSSA
+ALAIN PROST
 ALAIN SARDE
 ALAIN SCHMITT
 ALAIN SORAL
@@ -3379,6 +3381,7 @@ Accident pôle mécanique Alès
 Accident ski enfant Grand-Bornand
 Accident ski enfant GrandBornand
 Accident structure gonflable
+Accident tram Servette geneve
 Accident tram bruxelles
 Accident trois policiers
 Accident trois policiers morts
@@ -3441,6 +3444,7 @@ Accidents au Sénégal
 AccidentsauSénégal
 AccidentskienfantGrand-Bornand
 Accidentstructuregonflable
+AccidenttramServettegeneve
 Accidenttrambruxelles
 Accidenttroispoliciers
 Accidenttroispoliciersmorts
@@ -4057,6 +4061,7 @@ Alain Maneval
 Alain Mathot
 Alain Minc
 Alain Moussa
+Alain Prost
 Alain Sarde
 Alain Schmitt
 Alain Soral
@@ -4091,6 +4096,7 @@ AlainManeval
 AlainMathot
 AlainMinc
 AlainMoussa
+AlainProst
 AlainSarde
 AlainSchmitt
 AlainSoral
@@ -8151,8 +8157,11 @@ BFM DIRECT
 BFM TV
 BFM direct
 BFMTV
+BFMTV ERIC BRUNET
+BFMTV Eric Brunet
 BFMTV MARION MARÉCHAL
 BFMTV Marion Maréchal
+BFMTVEricBrunet
 BFMTVMarionMaréchal
 BFMdirect
 BG PATHUM UNITED – DORTMUND
@@ -8786,6 +8795,7 @@ BRASSENS
 BRASSERIE LORRAINE
 BRASSERIE SÜD ZÜRICH
 BRAT
+BRAWL STARS
 BRAY WYATT
 BRAZIL
 BRAZILIE ARGENTINIE
@@ -11745,6 +11755,8 @@ Brasserie Süd zürich
 BrasserieLorraine
 BrasserieSüdzürich
 Brat
+Brawl Stars
+BrawlStars
 Bray Wyatt
 BrayWyatt
 Brazil
@@ -12689,6 +12701,7 @@ CARELEITING
 CAREME
 CAREME 2023
 CAREN MIOSGA
+CARGILL
 CARGO EN FEU PAYS-BAS
 CARHARTT
 CARIBANA
@@ -14109,6 +14122,7 @@ COUNTER-STRIKE 2
 COUP DE TETE
 COUP DE VENT
 COUPE D'AFRIQUE
+COUPE D'ALLEMAGNE
 COUPE D'ASIE
 COUPE D'EUROPE
 COUPE D'EUROPE 2021
@@ -14776,6 +14790,7 @@ Careme 2023
 Careme2023
 Caren Miosga
 CarenMiosga
+Cargill
 Cargo en feu Pays-Bas
 Cargo en feu PaysBas
 CargoenfeuPays-Bas
@@ -17270,6 +17285,7 @@ Coupdevent
 Coupe Davis
 Coupe Suisse
 Coupe d'Afrique
+Coupe d'Allemagne
 Coupe d'Asie
 Coupe d'Europe 2021
 Coupe d'Italie
@@ -17304,6 +17320,7 @@ Coupe du monde rugby 2027
 CoupeDavis
 CoupeSuisse
 Couped'Afrique
+Couped'Allemagne
 Couped'Asie
 Couped'Europe2021
 Couped'Italie
@@ -18798,6 +18815,7 @@ DONALD SUTHERLAND
 DONALD TRUMP
 DONALD TUSK
 DONALDRUMSFELD
+DONATELLA VERSACE
 DONBASS
 DONDA
 DONDA 2
@@ -20737,6 +20755,8 @@ DonaldRumsfeld
 DonaldSutherland
 DonaldTrump
 DonaldTusk
+Donatella Versace
+DonatellaVersace
 Donbass
 Donda
 Donda 2
@@ -25692,6 +25712,7 @@ FRANCE – CAMEROUN
 FRANCE – CROATIE
 FRANCE – CÔTE D'IVOIRE
 FRANCE – DANEMARK
+FRANCE – ESPAGNE
 FRANCE – IRLANDE
 FRANCE – JAMAÏQUE
 FRANCE – MAROC
@@ -27443,6 +27464,7 @@ France – Cameroun
 France – Croatie
 France – Côte d'Ivoire
 France – Danemark
+France – Espagne
 France – Irlande
 France – Jamaïque
 France – Maroc
@@ -27665,6 +27687,7 @@ France–Cameroun
 France–Croatie
 France–Côted'Ivoire
 France–Danemark
+France–Espagne
 France–Irlande
 France–Jamaïque
 France–Maroc
@@ -29380,6 +29403,7 @@ GREVE TAXI
 GREVE TCL
 GREVE VENDREDI 13 OCTOBRE
 GREVEAEROPORT
+GREVES FONCTION PUBLIQUE
 GREVESNCF
 GREY'S ANATOMY
 GRICHKA BOGDANOFF
@@ -31176,6 +31200,8 @@ Grevemardi28mars
 Grevemardi2avril2024
 Grevemedecin
 Grevenationale
+Greves fonction publique
+Grevesfonctionpublique
 Grevetaxi
 Grevevendredi13octobre
 Grey's Anatomy
@@ -46479,6 +46505,7 @@ MALLORCA  ATLÉTICO MADRID
 MALLORCA  BARCELONA
 MALLORCA SCHNEEFALL
 MALLORCA UNWETTER
+MALLORCA – BARCELONA
 MALMEDY
 MALMÖ
 MALMÖ  UNION
@@ -48262,6 +48289,7 @@ MMA
 MNM
 MO FARAH
 MO HAYDER
+MOANA
 MOBIELE AIRCO
 MOBILE VIKINGS
 MOBY
@@ -49066,10 +49094,12 @@ Mallorca  Barcelona
 Mallorca  atlético Madrid
 Mallorca Schneefall
 Mallorca Unwetter
+Mallorca – Barcelona
 MallorcaBarcelona
 MallorcaSchneefall
 MallorcaUnwetter
 MallorcaatléticoMadrid
+Mallorca–Barcelona
 Malmedy
 Malmö
 Malmö  Union
@@ -52363,6 +52393,7 @@ Mo Farah
 Mo Hayder
 MoFarah
 MoHayder
+Moana
 Mobiele airco
 Mobieleairco
 Mobile Vikings
@@ -57089,6 +57120,7 @@ PANNE INTERNET FIBRE
 PANNE MICROSOFT OUTLOOK
 PANNE ORANGE
 PANNE PAIEMENT CARTE BANCAIRE CARREFOUR
+PANNE RESEAU TELENET
 PANNE SFR
 PANNE WHATSAPP
 PANNE ÉLECTRICITÉ SCHAERBEEK
@@ -57409,6 +57441,7 @@ PATRIMOINE CANDIDATS
 PATRIMOINE MINISTRES GOUVERNEMENT BORNE
 PATRIZIA LAERI
 PATRO EISDEN
+PATRO EISDEN  CLUB BRUGGE
 PATROUILLE DES GLACIERS
 PATROUILLE DES GLACIERS 2024
 PATROUILLE DES GLACIERS ZERMATT
@@ -58869,6 +58902,7 @@ Panne informatique
 Panne informatique mondiale Microsoft
 Panne internet fibre
 Panne paiement carte bancaire Carrefour
+Panne reseau Telenet
 Panne électricité Schaerbeek
 PanneMicrosoftOutlook
 PanneOrange
@@ -58879,6 +58913,7 @@ PanneinformatiquemondialeMicrosoft
 Panneinternetfibre
 Pannenkoeken
 PannepaiementcartebancaireCarrefour
+PannereseauTelenet
 PanneélectricitéSchaerbeek
 Pano
 Panot
@@ -59509,8 +59544,10 @@ PatrimoineministresgouvernementBorne
 Patrizia Laeri
 PatriziaLaeri
 Patro Eisden
+Patro Eisden  Club Brugge
 Patro eisden
 PatroEisden
+PatroEisdenClubBrugge
 Patroeisden
 Patrouille Suisse
 Patrouille des Glaciers
@@ -66632,6 +66669,7 @@ SKATEBOARDEN OLYMPISCHE SPELEN
 SKBeveren
 SKBeverenUnion
 SKECHERS
+SKELETON CREW
 SKI
 SKI AGGU
 SKI ALPIN
@@ -67281,6 +67319,7 @@ STARLINGS
 STARLINK
 STARMAKER
 STARMANIA
+STARS IN TOWN
 STARS IN TOWN SCHAFFHAUSEN
 STARSHIP
 STARSHIP TROOPERS
@@ -67545,6 +67584,7 @@ STÄNDERAT ZÜRICH
 STÄNDERATSWAHLEN
 STÉPHANE BERN
 STÉPHANE BERN FRÈRE
+STÉPHANE HAUSSOULIER
 STÉPHANE PAUWELS
 STÉPHANE PLAZA
 STÉPHANE RAVIER
@@ -69716,6 +69756,8 @@ SkateboardUnfall
 Skateboarden Olympische Spelen
 SkateboardenOlympischeSpelen
 Skechers
+Skeleton Crew
+SkeletonCrew
 Ski
 Ski Aggu
 Ski Alpin
@@ -70730,10 +70772,12 @@ Starlings
 Starlink
 Starmaker
 Starmania
+Stars in Town
 Stars in Town schaffhausen
 Starship
 Starship Troopers
 StarshipTroopers
+StarsinTown
 StarsinTownschaffhausen
 Starstruck
 Start Ronde van Vlaanderen
@@ -71186,12 +71230,14 @@ StänderatZürich
 Ständeratswahlen
 Stéphane Bern
 Stéphane Bern frère
+Stéphane Haussoulier
 Stéphane Pauwels
 Stéphane Plaza
 Stéphane Ravier
 Stéphane Séjourné
 StéphaneBern
 StéphaneBernfrère
+StéphaneHaussoulier
 StéphanePauwels
 StéphanePlaza
 StéphaneRavier
@@ -78753,6 +78799,7 @@ WANN IST VATERTAG 2023
 WANN IST VOLLMOND
 WANN IST VOLLMOND IM SEPTEMBER 2023
 WANN IST ZEITUMSTELLUNG
+WANN KOMMT SPOTIFY WRAPPED
 WANZE
 WARD KERREMANS
 WARD LEMMELIJN
@@ -79460,6 +79507,7 @@ Wann ist Vollmond
 Wann ist Vollmond im September 2023
 Wann ist Zeitumstellung
 Wann ist vatertag 2022
+Wann kommt Spotify Wrapped
 WannistBlackFriday2023
 WannistHalloween
 WannistHalloween2023
@@ -79472,6 +79520,7 @@ WannistVollmond
 WannistVollmondimSeptember2023
 WannistZeitumstellung
 Wannistvatertag2022
+WannkommtSpotifyWrapped
 Wanze
 Ward Kerremans
 Ward Lemmelijn
@@ -80450,6 +80499,7 @@ YOUNG BOYS GEGEN SERVETTE
 YOUNG BOYS GEGEN ST. GALLEN
 YOUNG BOYS – ANDERLECHT
 YOUNG DOLPH
+YOUNG HEARTS
 YOUNG THUG
 YOUNOUSSE SANKHARÉ
 YOURI MULDER
@@ -80633,6 +80683,7 @@ Young Boys gegen St. Gallen
 Young Boys gegen liepāja
 Young Boys – Anderlecht
 Young Dolph
+Young Hearts
 Young Thug
 YoungBo
 YoungBoys
@@ -80642,6 +80693,7 @@ YoungBoysgegenSt.Gallen
 YoungBoysgegenliepāja
 YoungBoys–Anderlecht
 YoungDolph
+YoungHearts
 YoungThug
 Younousse Sankharé
 YounousseSankharé
@@ -81627,6 +81679,7 @@ accident ski enfant grand-bornand
 accident spa-francorchamps
 accident structure gonflable
 accident tram bruxelles
+accident tram servette geneve
 accident trois policiers
 accident trois policiers morts
 accident trottinette lyon
@@ -81996,6 +82049,7 @@ alain maneval
 alain mathot
 alain minc
 alain moussa
+alain prost
 alain sarde
 alain schmitt
 alain soral
@@ -84627,6 +84681,7 @@ bfm
 bfm direct
 bfm tv
 bfmtv
+bfmtv eric brunet
 bfmtv marion maréchal
 bg pathum united – dortmund
 bgp
@@ -85226,6 +85281,7 @@ brassens
 brasserie lorraine
 brasserie süd zürich
 brat
+brawl stars
 bray wyatt
 brazil
 brazilie argentinie
@@ -85866,6 +85922,7 @@ careleiting
 careme
 careme 2023
 caren miosga
+cargill
 cargo en feu pays-bas
 carhartt
 caribana
@@ -87251,6 +87308,7 @@ counter-strike 2
 coup de tete
 coup de vent
 coupe d'afrique
+coupe d'allemagne
 coupe d'asie
 coupe d'europe
 coupe d'europe 2021
@@ -88481,6 +88539,7 @@ donald sutherland
 donald trump
 donald tusk
 donaldrumsfeld
+donatella versace
 donbass
 donda
 donda 2
@@ -90840,6 +90899,7 @@ france – cameroun
 france – croatie
 france – côte d'ivoire
 france – danemark
+france – espagne
 france – irlande
 france – jamaïque
 france – maroc
@@ -92184,6 +92244,7 @@ greve sncf 7 decembre 2022
 greve taxi
 greve tcl
 greve vendredi 13 octobre
+greves fonction publique
 grevesncf
 grey's anatomy
 grichka bogdanoff
@@ -97890,6 +97951,7 @@ mallorca  atlético madrid
 mallorca  barcelona
 mallorca schneefall
 mallorca unwetter
+mallorca – barcelona
 malmedy
 malmö
 malmö  union
@@ -99656,6 +99718,7 @@ mma
 mnm
 mo farah
 mo hayder
+moana
 mobiele airco
 mobile vikings
 moby
@@ -101550,6 +101613,7 @@ panne internet fibre
 panne microsoft outlook
 panne orange
 panne paiement carte bancaire carrefour
+panne reseau telenet
 panne sfr
 panne whatsapp
 panne électricité schaerbeek
@@ -101860,6 +101924,7 @@ patrimoine candidats
 patrimoine ministres gouvernement borne
 patrizia laeri
 patro eisden
+patro eisden  club brugge
 patrouille des glaciers
 patrouille des glaciers 2024
 patrouille des glaciers zermatt
@@ -105524,6 +105589,7 @@ skateboard olympia
 skateboard unfall
 skateboarden olympische spelen
 skechers
+skeleton crew
 ski
 ski aggu
 ski alpin
@@ -106124,6 +106190,7 @@ starlings
 starlink
 starmaker
 starmania
+stars in town
 stars in town schaffhausen
 starship
 starship troopers
@@ -106376,6 +106443,7 @@ ständerat zürich
 ständeratswahlen
 stéphane bern
 stéphane bern frère
+stéphane haussoulier
 stéphane pauwels
 stéphane plaza
 stéphane ravier
@@ -109249,6 +109317,7 @@ wann ist vatertag 2023
 wann ist vollmond
 wann ist vollmond im september 2023
 wann ist zeitumstellung
+wann kommt spotify wrapped
 wanze
 ward kerremans
 ward lemmelijn
@@ -109867,6 +109936,7 @@ young boys gegen servette
 young boys gegen st. gallen
 young boys – anderlecht
 young dolph
+young hearts
 young thug
 younousse sankharé
 youri mulder
