@@ -713,6 +713,7 @@ AALST
 AALST CARNAVAL
 AALST CARNAVAL 2023
 AANSLAG ISTANBUL
+AANSLAG KERSTMARKT DUITSLAND
 AANSLAG MOSKOU
 AANSLAGEN ZAVENTEM
 AARAU
@@ -3190,10 +3191,12 @@ AalstCarnaval
 Aalstcarnaval2023
 Aanslag Istanbul
 Aanslag Moskou
+Aanslag kerstmarkt Duitsland
 AanslagIstanbul
 AanslagMoskou
 Aanslagen Zaventem
 AanslagenZaventem
+AanslagkerstmarktDuitsland
 Aarau
 Aardbeving
 Aardbeving Filipijnen
@@ -22046,6 +22049,7 @@ EMMANUEL MACRON SALAIRE
 EMMANUEL MACRON SANTÉ
 EMMANUEL MACRON SCHWEIZ
 EMMANUEL MACRON VENDÔME
+EMMANUEL MACRON, MAYOTTE
 EMMANUEL MOIRE
 EMMANUEL MOULIN
 EMMANUEL PETIT
@@ -22373,6 +22377,7 @@ ESPAGNECROATIE
 ESPAGNEFOOT
 ESPAGNEPOLOGNE
 ESPAGNESLOVAQUIE
+ESPALY
 ESPANYOL – ATLÉTICO MADRID
 ESPANYOL – REAL
 ESPINASSE-VOZELLE
@@ -23553,11 +23558,13 @@ Emmanuel Macron Schweiz
 Emmanuel Macron Vendôme
 Emmanuel Macron salaire
 Emmanuel Macron santé
+Emmanuel Macron, Mayotte
 Emmanuel Moire
 Emmanuel Moulin
 Emmanuel Petit
 Emmanuel de La Taille
 EmmanuelMacron
+EmmanuelMacron,Mayotte
 EmmanuelMacronDunkerque
 EmmanuelMacronElisabethBorne
 EmmanuelMacronMaroc
@@ -24081,6 +24088,7 @@ Espagne–Serbie
 Espagne–Suisse
 Espagne–Suède
 Espagne–Écosse
+Espaly
 Espanyol – Atlético Madrid
 Espanyol – Real
 Espanyol–AtléticoMadrid
@@ -25295,6 +25303,7 @@ FEMMES TRAVAILLENT GRATUITEMENT
 FEMSA
 FENERBAHCE
 FENERBAHCE OLYMPIAKOS
+FENERBAHÇE
 FENERBAHÇE ( RIZESPOR
 FENERBAHÇE – AEK LARNACA
 FENERBAHÇE – LILLE
@@ -25332,6 +25341,7 @@ FERRARI F80
 FERRARI PUROSANGUE
 FERRARI ROMA
 FERRERO
+FERRY 2
 FESTI'NEUCH
 FESTI'NEUCH 2023
 FESTIVAL DE CANNES 2022
@@ -26704,6 +26714,7 @@ FemvanEmpel
 Fenerbahce
 Fenerbahce Olympiakos
 FenerbahceOlympiakos
+Fenerbahçe
 Fenerbahçe ( Rizespor
 Fenerbahçe – AEK Larnaca
 Fenerbahçe – LOSC
@@ -26768,6 +26779,8 @@ FerrariF80
 FerrariPurosangue
 FerrariRoma
 Ferrero
+Ferry 2
+Ferry2
 Festi'Neuch 2023
 Festi'Neuch2023
 Festi'neuch
@@ -28719,6 +28732,7 @@ GABBY PETITO
 GABBY WILLIAMS
 GABON
 GABON GHANA
+GABORO
 GABRI VEIGA
 GABRIEL ATTAL
 GABRIEL ATTAL PREMIER MINISTRE
@@ -29901,6 +29915,7 @@ GabbyWilliams
 Gabon
 Gabon Ghana
 GabonGhana
+Gaboro
 Gabri Veiga
 GabriVeiga
 Gabriel ATTAL
@@ -32254,6 +32269,7 @@ HELIKOPTERABSTURZ KANADA
 HELIKOPTERABSTURZ WIRIEHORN
 HELION
 HELIOS LATCHOUMANAYA
+HELLAS VÉRONE – AC MILAN
 HELLAS VÉRONE – INTER
 HELLAS VÉRONE – JUVENTUS
 HELLAS VÉRONE – LAZIO
@@ -33118,10 +33134,12 @@ HelikopterabsturzWiriehorn
 Helion
 Helios Latchoumanaya
 HeliosLatchoumanaya
+Hellas Vérone – AC Milan
 Hellas Vérone – Inter
 Hellas Vérone – Juventus
 Hellas Vérone – Lazio
 Hellas vérone – Inter
+HellasVérone–ACMilan
 HellasVérone–Inter
 HellasVérone–Juventus
 HellasVérone–Lazio
@@ -35862,6 +35880,7 @@ JAMILLA BAIDOU
 JAMIROQUAI
 JAMSHID SHARMAHD
 JAN BAKELANTS
+JAN BALLIAUW
 JAN BOGAERT
 JAN BÖHMERMANN: LAURA MÜLLER
 JAN CALLEBAUT
@@ -36582,6 +36601,7 @@ JOSIANE BALASKO
 JOSIP ILICIC
 JOSKO GVARDIOL
 JOSS ACKLAND
+JOSS STONE
 JOSÉ EVRARD
 JOSÉ LUCCIONI
 JOTokyo
@@ -37222,6 +37242,7 @@ Jamiroquai
 Jamshid Sharmahd
 JamshidSharmahd
 Jan Bakelants
+Jan Balliauw
 Jan Bogaert
 Jan Böhmermann: Laura Müller
 Jan Callebaut
@@ -37248,6 +37269,7 @@ Jan Verheyen
 Jan Vertonghen
 Jan de Lichte
 JanBakelants
+JanBalliauw
 JanBogaert
 JanBöhmermann:LauraMüller
 JanCallebaut
@@ -38625,7 +38647,9 @@ Josipilicic
 Josko Gvardiol
 JoskoGvardiol
 Joss Ackland
+Joss Stone
 JossAckland
+JossStone
 JosvanImmerseel
 José Evrard
 José Luccioni
@@ -46841,6 +46865,8 @@ MAGASINS PIMKIE FERMETURE
 MAGDA LINETTE
 MAGDALENA ABAKANOWICZ
 MAGDALENA ANDERSSON
+MAGDEBOURG
+MAGDEBURG
 MAGGIE DE BLOCK
 MAGGIE SMITH
 MAGHLA
@@ -48022,6 +48048,7 @@ MECHELEN  ZULTE-WAREGEM
 MECHELEN ANDERLECHT
 MECHELEN ANTWERP
 MECHELEN CLUB BRUGGE
+MECHELEN IN VUUR EN VLAM
 MECHELEN – STANDARD
 MECHELEN-ANTWERP
 MECHELEN-UNION
@@ -49372,6 +49399,8 @@ Magdalena Abakanowicz
 Magdalena Andersson
 MagdalenaAbakanowicz
 MagdalenaAndersson
+Magdebourg
+Magdeburg
 Maggie De Block
 Maggie Smith
 MaggieDeBlock
@@ -51561,6 +51590,7 @@ Mechelen  zultewaregem
 Mechelen Anderlecht
 Mechelen Antwerp
 Mechelen Club Brugge
+Mechelen in Vuur en Vlam
 Mechelen – Standard
 Mechelen-Antwerp
 Mechelen-Union
@@ -51573,6 +51603,7 @@ MechelenKortrijk
 MechelenOostende
 MechelenUnion
 MechelenWesterlo
+MecheleninVuurenVlam
 Mechelenzulte-waregem
 Mechelen–Standard
 Mechthild Großmann
@@ -54539,6 +54570,7 @@ NOUSSAIR MAZRAOUI
 NOUVEAU 49.3 ELISABETH BORNE
 NOUVEAU FRONT POPULAIRE
 NOUVEAU GOUVERNEMENT
+NOUVEAU GOUVERNEMENT BAYROU MINISTRE
 NOUVEAU PREMIER MINISTRE
 NOUVEAU PROTOCOLE SANITAIRE
 NOUVEAU VARIANT
@@ -55983,6 +56015,7 @@ Nouveau 49.3 Elisabeth Borne
 Nouveau Front Populaire
 Nouveau Premier ministre
 Nouveau gouvernement
+Nouveau gouvernement Bayrou ministre
 Nouveau protocole sanitaire
 Nouveau variant
 Nouveau variant Covid
@@ -55994,6 +56027,7 @@ Nouveau49.3ElisabethBorne
 NouveauFrontPopulaire
 NouveauPremierministre
 Nouveaugouvernement
+NouveaugouvernementBayrouministre
 Nouveauprotocolesanitaire
 Nouveauvariant
 NouveauvariantCovid
@@ -56345,6 +56379,7 @@ OLIVIER GAVALDA CREDIT AGRICOLE
 OLIVIER GIROUD
 OLIVIER KLEIN
 OLIVIER LEONHARDT
+OLIVIER MAINGAIN
 OLIVIER MAIRE
 OLIVIER MARCHAL
 OLIVIER MARLEIX
@@ -56996,6 +57031,7 @@ Olivier Faure
 Olivier Gavalda credit Agricole
 Olivier Giroud
 Olivier Klein
+Olivier Maingain
 Olivier Maire
 Olivier Marchal
 Olivier Marleix
@@ -57026,6 +57062,7 @@ OlivierFaure
 OlivierGavaldacreditAgricole
 OlivierGiroud
 OlivierKlein
+OlivierMaingain
 OlivierMaire
 OlivierMarchal
 OlivierMarleix
@@ -59323,6 +59360,10 @@ PUERTO RICO
 PUFF
 PUFF DADDY
 PUIGDEMONT
+PUK-BERICHT CREDIT SUISSE
+PUK-Bericht Credit Suisse
+PUK-BerichtCreditSuisse
+PUKBericht Credit Suisse
 PUKKELPOP
 PUKKELPOP 2021
 PUKKELPOP 2021 LINE UP
@@ -67480,6 +67521,7 @@ SOLOTHURNER ZEITUNG
 SOLSTICE
 SOLSTICE D'HIVER
 SOLSTICE D'HIVER 2021
+SOLSTICE D'HIVER 2024
 SOLSTICE D'ÉTÉ
 SOLVAY
 SOMALILAND
@@ -70685,9 +70727,11 @@ SolothurnerZeitung
 Solstice
 Solstice d'hiver
 Solstice d'hiver 2021
+Solstice d'hiver 2024
 Solstice d'été
 Solsticed'hiver
 Solsticed'hiver2021
+Solsticed'hiver2024
 Solsticed'été
 Solvay
 Somaliland
@@ -77039,6 +77083,7 @@ USWahlen
 USYK
 USYK DUBOIS
 USYK VS DUBOIS
+USYK-FURY 2
 UTA ABE
 UTAH
 UTAH BEACH
@@ -77578,7 +77623,10 @@ UsterTrinkwasser
 Usyk
 Usyk Dubois
 Usyk vs Dubois
+Usyk-Fury 2
+Usyk-Fury2
 UsykDubois
+UsykFury 2
 UsykvsDubois
 Uta Abe
 UtaAbe
@@ -82305,6 +82353,7 @@ aalst
 aalst carnaval
 aalst carnaval 2023
 aanslag istanbul
+aanslag kerstmarkt duitsland
 aanslag moskou
 aanslagen zaventem
 aarau
@@ -90178,6 +90227,7 @@ emmanuel macron salaire
 emmanuel macron santé
 emmanuel macron schweiz
 emmanuel macron vendôme
+emmanuel macron, mayotte
 emmanuel moire
 emmanuel moulin
 emmanuel petit
@@ -90480,6 +90530,7 @@ espagnecroatie
 espagnefoot
 espagnepologne
 espagneslovaquie
+espaly
 espanyol – atlético madrid
 espanyol – real
 espinasse-vozelle
@@ -91157,6 +91208,7 @@ femmes travaillent gratuitement
 femsa
 fenerbahce
 fenerbahce olympiakos
+fenerbahçe
 fenerbahçe ( rizespor
 fenerbahçe – aek larnaca
 fenerbahçe – lille
@@ -91194,6 +91246,7 @@ ferrari f80
 ferrari purosangue
 ferrari roma
 ferrero
+ferry 2
 festi'neuch
 festi'neuch 2023
 festival de cannes 2022
@@ -92231,6 +92284,7 @@ gabby petito
 gabby williams
 gabon
 gabon ghana
+gaboro
 gabri veiga
 gabriel attal
 gabriel attal premier ministre
@@ -93673,6 +93727,7 @@ helikopterabsturz kanada
 helikopterabsturz wiriehorn
 helion
 helios latchoumanaya
+hellas vérone – ac milan
 hellas vérone – inter
 hellas vérone – juventus
 hellas vérone – lazio
@@ -95005,6 +95060,7 @@ jamilla baidou
 jamiroquai
 jamshid sharmahd
 jan bakelants
+jan balliauw
 jan bogaert
 jan böhmermann: laura müller
 jan callebaut
@@ -95703,6 +95759,7 @@ josiane balasko
 josip ilicic
 josko gvardiol
 joss ackland
+joss stone
 josé evrard
 josé luccioni
 joueclub
@@ -98788,6 +98845,8 @@ magasins pimkie fermeture
 magda linette
 magdalena abakanowicz
 magdalena andersson
+magdebourg
+magdeburg
 maggie de block
 maggie smith
 maghla
@@ -99961,6 +100020,7 @@ mechelen  zulte-waregem
 mechelen anderlecht
 mechelen antwerp
 mechelen club brugge
+mechelen in vuur en vlam
 mechelen – standard
 mechelen-antwerp
 mechelen-union
@@ -101893,6 +101953,7 @@ noussair mazraoui
 nouveau 49.3 elisabeth borne
 nouveau front populaire
 nouveau gouvernement
+nouveau gouvernement bayrou ministre
 nouveau premier ministre
 nouveau protocole sanitaire
 nouveau variant
@@ -102155,6 +102216,7 @@ olivier gavalda credit agricole
 olivier giroud
 olivier klein
 olivier leonhardt
+olivier maingain
 olivier maire
 olivier marchal
 olivier marleix
@@ -104052,6 +104114,7 @@ puerto rico
 puff
 puff daddy
 puigdemont
+puk-bericht credit suisse
 pukkelpop
 pukkelpop 2021
 pukkelpop 2021 line up
@@ -106777,6 +106840,7 @@ solothurner zeitung
 solstice
 solstice d'hiver
 solstice d'hiver 2021
+solstice d'hiver 2024
 solstice d'été
 solvay
 somaliland
@@ -109594,6 +109658,7 @@ uster trinkwasser
 usyk
 usyk dubois
 usyk vs dubois
+usyk-fury 2
 uta abe
 utah
 utah beach
