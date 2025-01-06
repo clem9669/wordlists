@@ -20,14 +20,23 @@ jobs:
       - name: Update & install xmllint
         run: sudo apt update && sudo apt-get install libxml2-utils curl -y
 
-      - name: Run a one-line script FR
+      - name: Run a one-line script FR - old RSS feed google
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=FR' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_FR
 
-      - name: Run a one-line script BE
+      - name: Run a one-line script BE - old RSS feed google
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=BE' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_BE
 
-      - name: Run a one-line script CH
+      - name: Run a one-line script CH - old RSS feed google
         run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=CH' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_CH
+
+      - name: Run a one-line script FR
+        run: curl -s 'https://trends.google.com/trending/rss?geo=FR' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_FR
+
+      - name: Run a one-line script BE
+        run: curl -s 'https://trends.google.com/trending/rss?geo=BE' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_BE
+
+      - name: Run a one-line script CH
+        run: curl -s 'https://trends.google.com/trending/rss?geo=CH' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_CH
 
       - name: Permutations options
         run: |
