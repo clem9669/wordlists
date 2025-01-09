@@ -1249,6 +1249,7 @@ AIR FRANCE VOLS MER ROUGE
 AIR LIQUIDE
 AIR ZERMATT
 AIRBUS
+AIRBUS A340 EDELWEISS
 AIRCAR
 AIRCO
 AIRPODS
@@ -2834,6 +2835,7 @@ ATATÜRK OLYMPIC STADIUM
 ATH BILBAO  BARCELONA
 ATH BILBAO – ATLÉTICO MADRID
 ATH BILBAO – BARCELONA
+ATH BILBAO – BARCELONE
 ATH BILBAO – REAL
 ATH BILBAO – REAL MADRID
 ATHENA
@@ -4007,6 +4009,8 @@ AirTag
 AirZermatt
 Airalgerie
 Airbus
+Airbus A340 Edelweiss
+AirbusA340Edelweiss
 Airco
 Airpods 4
 Airpods4
@@ -6786,11 +6790,13 @@ AtatürkOlympicStadium
 Ath Bilbao  Barcelona
 Ath Bilbao – Atlético Madrid
 Ath Bilbao – Barcelona
+Ath Bilbao – Barcelone
 Ath Bilbao – Real
 Ath Bilbao – Real Madrid
 AthBilbaoBarcelona
 AthBilbao–AtléticoMadrid
 AthBilbao–Barcelona
+AthBilbao–Barcelone
 AthBilbao–Real
 AthBilbao–RealMadrid
 Athena
@@ -14585,6 +14591,7 @@ CROATIEFOOT
 CROATIEREPUBLIQUETCHEQUE
 CROATIE–ECOSSE
 CROCODILE DUNDEE
+CROIX
 CROIX-ROUGE
 CROIX-ROUGE BELGIQUE
 CROKY CUP
@@ -21818,6 +21825,7 @@ EDE
 EDEGEM
 EDEKA AFD
 EDEN HAZARD
+EDEN PARK
 EDENRED
 EDERSON
 EDF
@@ -22181,6 +22189,7 @@ ELSA LUNGHINI
 ELSA VIDAL
 ELSA ZYLBERSTEIN
 ELSAU
+ELSBETH
 ELTERNABEND SCHLIEREN
 ELTERNGELD
 ELTON JOHN
@@ -23084,7 +23093,9 @@ Edegem
 Edeka AfD
 EdekaAfD
 Eden Hazard
+Eden Park
 EdenHazard
+EdenPark
 Edenred
 Ederson
 Edgar Cut
@@ -23665,6 +23676,7 @@ ElsaLunghini
 ElsaVidal
 ElsaZylberstein
 Elsau
+Elsbeth
 ElsvanDoesburg
 Elternabend Schlieren
 ElternabendSchlieren
@@ -25203,6 +25215,7 @@ FAUCONS ROUGES
 FAUSTINE BOLLAERT
 FAUSTINE NOGHEROTTO
 FAUTEUIL
+FAUTEUIL PRESIDENT SENAT
 FAWLTY TOWERS
 FAYZA LAMARI
 FC 24
@@ -26531,6 +26544,7 @@ FRENCHIE SHORE
 FRENKIE DE JONG
 FRENULUM
 FRESSNAPF RÜCKRUF
+FRESSNAPF RÜCKRUF KATZENFUTTER
 FREUDENBERG
 FREUNDE DER VERFASSUNG
 FREUNDE SIND MEHR: ZUR FEIER DES TAGES
@@ -28680,6 +28694,8 @@ FrenchieShore
 Frenkie de Jong
 FrenkiedeJong
 Frenulum
+Fressnapf Rückruf Katzenfutter
+FressnapfRückrufKatzenfutter
 Freudenberg
 Freunde der Verfassung
 Freunde sind mehr: Zur Feier des Tages
@@ -29158,6 +29174,7 @@ GAULT MILLAU
 GAULT MILLAU 2022
 GAULT-MILLAU
 GAUTHIER HEIN
+GAUTHIER ONCLIN
 GAUTIER CAPUÇON
 GAVERE
 GAVERE CROSS
@@ -32846,6 +32863,7 @@ HORNUSS
 HOROSCOPE 2023
 HOROSCOPE 2024
 HOROSCOPE 6 JANVIER 2025
+HOROSCOPE DU DOUBLE EXPRESSO
 HORROR-UNFALL THÜRINGEN
 HORS NORMES
 HORST FESTIVAL
@@ -34318,6 +34336,7 @@ INCENDIE VOSGES
 INCENDIE YVERDON
 INCENDIEARDECHE
 INCENDIES
+INCENDIES LOS ANGELES
 INCEPTION
 INCIDENT DIPLOMATIQUE ISRAËL
 INCONTOURNABLE
@@ -36611,6 +36630,7 @@ JESSE JANE
 JESSE PLEMONS
 JESSE RUTHERFORD
 JESSICA AIDI
+JESSICA ALBA
 JESSICA CAMPBELL
 JESSICA CHASTAIN
 JESSICA GISMONDI
@@ -36943,6 +36963,7 @@ JOSE DE LA TORRE
 JOSEE DAYAN
 JOSEF FRITZL
 JOSELU
+JOSEPH AOUN
 JOSEPH GATT
 JOSEPH KAMEL
 JOSEPH QUINN
@@ -38383,6 +38404,7 @@ JesseJane
 JessePlemons
 JesseRutherford
 Jessica Aidi
+Jessica Alba
 Jessica Campbell
 Jessica Chastain
 Jessica Gismondi
@@ -38393,6 +38415,7 @@ Jessica Springsteen
 Jessica Thivenin
 Jessica von Bredow
 JessicaAidi
+JessicaAlba
 JessicaCampbell
 JessicaChastain
 JessicaGismondi
@@ -42334,6 +42357,7 @@ LAURENT GERRA RTL
 LAURENT HAULOTTE
 LAURENT KELLER
 LAURENT LAFITTE
+LAURENT LOUYET
 LAURENT LUYAT
 LAURENT MAISTRET
 LAURENT MARCANGELI
@@ -43363,6 +43387,7 @@ LORIS THE VOICE
 LORÀNT DEUTSCH
 LOS ANGELES
 LOS ANGELES 2028
+LOS ANGELES FEUER
 LOS ANGELES WALDBRAND
 LOSC
 LOSENE KEITA
@@ -46403,8 +46428,10 @@ Lorànt Deutsch
 LoràntDeutsch
 Los Angeles
 Los Angeles 2028
+Los Angeles Feuer
 LosAngeles
 LosAngeles2028
+LosAngelesFeuer
 Losene Keita
 LoseneKeita
 Lost
@@ -48358,6 +48385,7 @@ MATTHIAS AEBISCHER
 MATTHIAS CASSE
 MATTHIAS DIEPENDAELE
 MATTHIAS ECKE
+MATTHIAS JAUSLIN
 MATTHIAS KYBURZ
 MATTHIAS MAYER
 MATTHIAS OPDENHÖVEL
@@ -48739,6 +48767,7 @@ METEORITE BREST
 METEOROLOGISCHER FRÜHLINGSANFANG
 METEOSCHWEIZ
 METEOSUISSE
+METFORMIN
 METHODE SINGAPOUR
 METRAUX GOLF
 METRO
@@ -52483,6 +52512,7 @@ Meteoschweiz
 Meteosuisse
 Meteovigilanceneige-verglas
 Meteozurich
+Metformin
 Methode Singapour
 MethodeSingapour
 Metraux Golf
@@ -54629,6 +54659,7 @@ NEUROPATHIE
 NEUSCHWANSTEIN
 NEUSEELAND UNWETTER
 NEVER HAVE I EVER
+NEW BALANCE
 NEW HAMPSHIRE
 NEW JERSEY DEVILS
 NEW ORLEANS
@@ -55820,6 +55851,7 @@ Neuseeland Unwetter
 NeuseelandUnwetter
 Never Have I Ever
 NeverHaveIEver
+New Balance
 New Hampshire
 New Jersey Devils
 New Orleans
@@ -55832,6 +55864,7 @@ New York Times
 New York aardbeving
 New York rb – barcelona
 NewB
+NewBalance
 NewHampshire
 NewJerseyDevils
 NewOrleans
@@ -56763,6 +56796,7 @@ OASIS
 OBERBALM
 OBERENTFELDEN
 OBERHELFENSCHWIL
+OBERHOF
 OBERKIRCH
 OBERLÄNDISCHES SCHWINGFEST
 OBERWALD
@@ -59450,6 +59484,7 @@ POUTINE NUCLÉAIRE
 POUTOU
 POUYASTRUC
 POVERELLO
+POWER
 POWER OF THE DOG
 POWER RANGERS
 POWER WALKING
@@ -62249,6 +62284,7 @@ Poutinenucléaire
 Poutou
 Pouyastruc
 Poverello
+Power
 Power Rangers
 Power of the Dog
 Power walking
@@ -63527,6 +63563,7 @@ REINHILDE DECLEIR
 REINHOLD MESSNER
 REISBEPERKINGEN SPANJE
 REITERALM
+REITSCHULE BERN
 REKKLES
 RELAIS 4X100 4 NAGES JO
 RELEGATION BUNDESLIGA
@@ -68016,6 +68053,7 @@ SKISPRINGEN
 SKIUNFALL KLOSTERS
 SKIUNFALL TSCHIERTSCHEN
 SKODA ELROQ
+SKODA ENYAQ 2025
 SKOV OLSEN
 SKRINIAR
 SKULL AND BONES
@@ -68110,6 +68148,7 @@ SNCFConnect
 SNCFbillet
 SNEEUW
 SNEEUW WOENSDAG
+SNEEUWVAL
 SNEEUWVAL ZUID-AFRIKA
 SNIFFY
 SNIPEX ALLIGATOR
@@ -69060,6 +69099,7 @@ SUNS – MAVERICKS
 SUNS-BUCKS
 SUNS-CLIPPERS
 SUNSCLIPPERS
+SUNSET BOULEVARD
 SUNS–BUCKS
 SUNS–CLIPPERS
 SUPER 8 CLASSIC
@@ -69088,6 +69128,7 @@ SUPER-HEROSMALGRELUI
 SUPER-LEAGUE
 SUPERBOWL
 SUPERCOPA
+SUPERCOPA DE ESPAÑA
 SUPERCOPPA
 SUPERCOPPA ITALIANA
 SUPERCOUPE D'ITALIE
@@ -71198,7 +71239,9 @@ Skispringen
 Skiunfall Klosters
 SkiunfallKlosters
 Skoda Elroq
+Skoda Enyaq 2025
 SkodaElroq
+SkodaEnyaq2025
 Skov Olsen
 SkovOlsen
 Skriniar
@@ -72934,6 +72977,8 @@ SuperNanny
 SuperULaTranche-sur-Mer
 Superbowl
 Supercopa
+Supercopa de España
+SupercopadeEspaña
 Supercoppa
 Supercoppa Italiana
 SupercoppaItaliana
@@ -73425,6 +73470,7 @@ TANIA MENDOZA
 TANIA MINTJENS
 TANINGES
 TANJA DEXTERS
+TANJA FRIEDEN
 TANJA GRANDITS
 TANJA GROEN
 TANJA HÜBERLI
@@ -73513,6 +73559,7 @@ TAYLOR SWIFT VIENNA
 TAYLOR SWIFT WENEN
 TAYLOR SWIFT ZURICH TICKETS
 TAYLOR WILY
+TCHAD
 TCHERNOBYL
 TCHIN TCHIN WINE BAR BORDEAUX
 TCHOUAMENI
@@ -74802,6 +74849,7 @@ TX GROUP
 TX Group
 TXGroup
 TXT
+TYGO GERNANDT
 TYLER CHRISTOPHER
 TYLER ENNIS
 TYLER MOY
@@ -75083,6 +75131,7 @@ TaylorSwiftWenen
 TaylorSwiftZurichtickets
 TaylorSwiftvault
 TaylorWily
+Tchad
 Tchernobyl
 Tchin Tchin Wine Bar Bordeaux
 TchinTchinWineBarBordeaux
@@ -77307,6 +77356,8 @@ Twitterdown
 Two summers
 Twomad
 Twosummers
+Tygo Gernandt
+TygoGernandt
 Tyler Christopher
 Tyler Ennis
 Tyler Moy
@@ -78954,6 +79005,7 @@ VIRUS (HMPV CHINE
 VIRUS D'EPSTEIN-BARR
 VIRUS DE MARBURG
 VIRUS DU NIL OCCIDENTAL BORDEAUX
+VIRUS HMPV CHINE
 VIRUS LA VARIOLE DU SINGE
 VIRUS MPOX
 VIRUS MPOX EN BRETAGNE
@@ -78981,6 +79033,7 @@ VITTORIA CERETTI
 VITTORIO BOIOCCHI
 VITTORIO EMANUELE
 VIVA FOR LIFE
+VIVA SOLAR AG
 VIVATECH
 VIVE LE VELO
 VIVEK RAMASWAMY
@@ -80007,6 +80060,7 @@ Virton
 Virtual Regatta
 VirtualRegatta
 Virus (HMPV Chine
+Virus HMPV Chine
 Virus Nipah
 Virus d'Epstein-Barr
 Virus d'EpsteinBarr
@@ -80016,6 +80070,7 @@ Virus la variole du singe
 Virus mpox
 Virus mpox en Bretagne
 Virus(HMPVChine
+VirusHMPVChine
 VirusNipah
 Virusd'Epstein-Barr
 VirusdeMarburg
@@ -80523,6 +80578,7 @@ WEEKEND VAN DE KLANT
 WEER
 WEER LEUVEN
 WEERBERICHT
+WEERBERICHT SNEEUW
 WEF
 WEF 2022
 WEF 2023
@@ -81296,6 +81352,8 @@ Weer
 Weer Leuven
 WeerLeuven
 Weerbericht
+Weerbericht sneeuw
+Weerberichtsneeuw
 Wegen en Verkeer
 WegenenVerkeer
 Weghorst
@@ -83687,6 +83745,7 @@ air france vols mer rouge
 air liquide
 air zermatt
 airbus
+airbus a340 edelweiss
 aircar
 airco
 airpods
@@ -85197,6 +85256,7 @@ astrid et raphaëlle
 astrid lindgren
 astrid panosyan-bouvet
 astrid veillon
+astridveillon
 astro bot
 astro bot ps5
 astrud gilberto
@@ -85233,6 +85293,7 @@ atatürk olympic stadium
 ath bilbao  barcelona
 ath bilbao – atlético madrid
 ath bilbao – barcelona
+ath bilbao – barcelone
 ath bilbao – real
 ath bilbao – real madrid
 athena
@@ -85411,6 +85472,7 @@ austin majors mort
 australian open
 australian open 2023
 australian open 2024
+australianopen
 australie france
 australie georgie
 australie perou
@@ -88596,6 +88658,7 @@ cindy dandois
 cindy fabre
 cindy morgan
 cindy sander
+cindyfabre
 cinema
 cinque terre
 cio
@@ -89335,6 +89398,7 @@ croatierepubliquetcheque
 croatie–Ecosse
 croatie–écosse
 crocodile dundee
+croix
 croix-rouge
 croix-rouge belgique
 croky cup
@@ -90781,6 +90845,7 @@ ede
 edegem
 edeka afd
 eden hazard
+eden park
 edenred
 ederson
 edf
@@ -91107,6 +91172,7 @@ elsa lunghini
 elsa vidal
 elsa zylberstein
 elsau
+elsbeth
 elternabend schlieren
 elterngeld
 elton john
@@ -92022,6 +92088,8 @@ faucons rouges
 faustine bollaert
 faustine nogherotto
 fauteuil
+fauteuil president senat
+fauteuilpresidentsenat
 fawlty towers
 fayza lamari
 fc 24
@@ -93117,6 +93185,7 @@ frenchie shore
 frenkie de jong
 frenulum
 fressnapf rückruf
+fressnapf rückruf katzenfutter
 fressnapfrückruf
 freudenberg
 freunde der verfassung
@@ -93425,6 +93494,8 @@ gault millau
 gault millau 2022
 gault-millau
 gauthier hein
+gauthier onclin
+gauthieronclin
 gautier capuçon
 gavere
 gavere cross
@@ -94987,7 +95058,9 @@ hornuss
 horoscope 2023
 horoscope 2024
 horoscope 6 janvier 2025
+horoscope du double expresso
 horoscope6janvier2025
+horoscopedudoubleexpresso
 horror-unfall thüringen
 hors normes
 horst festival
@@ -95395,6 +95468,8 @@ incendie vetroz
 incendie vosges
 incendie yverdon
 incendies
+incendies los angeles
+incendieslosangeles
 inception
 incident diplomatique israël
 incontournable
@@ -96457,6 +96532,7 @@ jesse jane
 jesse plemons
 jesse rutherford
 jessica aidi
+jessica alba
 jessica campbell
 jessica chastain
 jessica gismondi
@@ -96775,9 +96851,11 @@ jose de la torre
 josee dayan
 josef fritzl
 joselu
+joseph aoun
 joseph gatt
 joseph kamel
 joseph quinn
+josephaoun
 josephine baker
 josephine baker pantheon
 josephine chaplin
@@ -98354,6 +98432,7 @@ laurent gerra rtl
 laurent haulotte
 laurent keller
 laurent lafitte
+laurent louyet
 laurent luyat
 laurent maistret
 laurent marcangeli
@@ -98371,6 +98450,7 @@ laurent weil
 laurentbignolas
 laurentdelahousse
 laurentgbagbo
+laurentlouyet
 laurier-cerise
 laury perez
 laury thilleman
@@ -99364,6 +99444,7 @@ loris the voice
 lorànt deutsch
 los angeles
 los angeles 2028
+los angeles feuer
 los angeles waldbrand
 losangeleswaldbrand
 losc
@@ -100956,6 +101037,7 @@ matthias aebischer
 matthias casse
 matthias diependaele
 matthias ecke
+matthias jauslin
 matthias kyburz
 matthias mayer
 matthias opdenhövel
@@ -100963,6 +101045,7 @@ matthias reim
 matthias schoenaerts
 matthias schweighöfer
 matthias sempach
+matthiasjauslin
 matthieu bailet
 matthieu belliard
 matthieu blazy
@@ -101335,6 +101418,7 @@ meteorite brest
 meteorologischer frühlingsanfang
 meteoschweiz
 meteosuisse
+metformin
 methode singapour
 metraux golf
 metro
@@ -102647,6 +102731,7 @@ neuropathie
 neuschwanstein
 neuseeland unwetter
 never have i ever
+new balance
 new hampshire
 new jersey devils
 new orleans
@@ -102821,6 +102906,7 @@ nicole overleden
 nicole reist
 nicole schmidhofer
 nicole shanahan
+nicolekidman
 nicoletta
 niederlande
 niederlande gegen argentinien
@@ -103185,6 +103271,7 @@ oasis
 oberbalm
 oberentfelden
 oberhelfenschwil
+oberhof
 oberkirch
 oberländisches schwingfest
 oberwald
@@ -103962,6 +104049,7 @@ paris-tours 2021
 paris-tours 2023
 paris-tours 2024
 paris-versailles
+parishilton
 parisjackson
 parismatch
 park soo ryun
@@ -104180,6 +104268,7 @@ paula abdul
 paula badosa
 paula hurd
 paula moltzan
+pauldesaintsernin
 paulette nardal
 pauline courtin
 pauline deroulede
@@ -104938,6 +105027,7 @@ poutine nucléaire
 poutou
 pouyastruc
 poverello
+power
 power of the dog
 power rangers
 power walking
@@ -105869,6 +105959,8 @@ reinhilde decleir
 reinhold messner
 reisbeperkingen spanje
 reiteralm
+reitschule bern
+reitschulebern
 rekkles
 relais 4x100 4 nages jo
 relegation bundesliga
@@ -107861,6 +107953,7 @@ skiunfall klosters
 skiunfall tschiertschen
 skiunfalltschiertschen
 skoda elroq
+skoda enyaq 2025
 skov olsen
 skriniar
 skull and bones
@@ -107943,6 +108036,7 @@ sncf billet
 sncf connect
 sneeuw
 sneeuw woensdag
+sneeuwval
 sneeuwval zuid-afrika
 sniffy
 snipex alligator
@@ -108388,6 +108482,7 @@ stade rennes
 stade rochelais
 stade roi baudouin
 stade toulousain
+stadedefrance
 stadelhofen
 stadelhofen bahnhof
 staderennes
@@ -108839,6 +108934,8 @@ suns – mavericks
 suns-bucks
 suns-clippers
 sunsclippers
+sunset boulevard
+sunsetboulevard
 suns–bucks
 suns–clippers
 super 8 classic
@@ -108869,6 +108966,7 @@ super-league
 superG Bormio
 superbowl
 supercopa
+supercopa de españa
 supercoppa
 supercoppa italiana
 supercoupe d'italie
@@ -109150,11 +109248,13 @@ tania mendoza
 tania mintjens
 taninges
 tanja dexters
+tanja frieden
 tanja grandits
 tanja groen
 tanja hüberli
 tanja stadler
 tanja tischewitsch
+tanjafrieden
 tankstelle
 tantra
 tanya könig
@@ -109238,6 +109338,7 @@ taylor swift vienna
 taylor swift wenen
 taylor swift zurich tickets
 taylor wily
+tchad
 tchernobyl
 tchin tchin wine bar bordeaux
 tchouameni
@@ -110477,6 +110578,7 @@ two summers
 twomad
 tx group
 txt
+tygo gernandt
 tyler christopher
 tyler ennis
 tyler moy
@@ -111382,6 +111484,7 @@ virus (hmpv chine
 virus d'epstein-barr
 virus de marburg
 virus du nil occidental bordeaux
+virus hmpv chine
 virus la variole du singe
 virus mpox
 virus mpox en bretagne
@@ -111409,6 +111512,8 @@ vittoria ceretti
 vittorio boiocchi
 vittorio emanuele
 viva for life
+viva solar ag
+vivasolarag
 vivatech
 vive le velo
 vivek ramaswamy
@@ -111666,6 +111771,7 @@ walter van den broeck
 walter zoo
 waly dia
 wanda nara
+wandanara
 wann ist black friday 2023
 wann ist halloween
 wann ist halloween 2023
@@ -111740,6 +111846,7 @@ weekend van de klant
 weer
 weer leuven
 weerbericht
+weerbericht sneeuw
 wef
 wef 2022
 wef 2023
