@@ -884,6 +884,7 @@ ACCIDENT A7
 ACCIDENT A9
 ACCIDENT ACTEUR JÉRÉMY RENNER
 ACCIDENT ANCENIS
+ACCIDENT ARDÈCHE
 ACCIDENT ARIEGE
 ACCIDENT AURORE MORISSE
 ACCIDENT AUTOROUTE
@@ -1593,6 +1594,7 @@ ALGÉRIE – SÉNÉGAL
 ALGÉRIE – TOGO
 ALGÉRIE – ÉTHIOPIE
 ALI
+ALI ABUNIMAH
 ALI B
 ALI DAEI
 ALI MITGUTSCH
@@ -3446,6 +3448,7 @@ Accident A16
 Accident A47
 Accident A7
 Accident A9
+Accident Ardèche
 Accident Aurore Morisse
 Accident Chartres
 Accident E42
@@ -3515,6 +3518,7 @@ AccidentA16
 AccidentA47
 AccidentA7
 AccidentA9
+AccidentArdèche
 AccidentAuroreMorisse
 AccidentChartres
 AccidentE42
@@ -4659,9 +4663,11 @@ Algérie–Sénégal
 Algérie–Togo
 Algérie–éthiopie
 Ali
+Ali Abunimah
 Ali B
 Ali Daei
 Ali Mitgutsch
+AliAbunimah
 AliB
 AliDaei
 AliMitgutsch
@@ -5891,6 +5897,7 @@ Ante Coric
 AnteCoric
 Anthoine Hubert
 AnthoineHubert
+Antholz
 Anthony Ammirati
 Anthony Barajas
 Anthony Colette
@@ -8641,6 +8648,7 @@ BLANCHE-NEIGE
 BLANCO SANREMO
 BLANCPAIN
 BLANCPAIN FIFTY FATHOMS
+BLANKA VAS
 BLANKA VLASIC
 BLANKA VLAŠIĆ
 BLANKENBERGE
@@ -11451,8 +11459,10 @@ BlancoSanremo
 Blancpain
 Blancpain Fifty Fathoms
 BlancpainFiftyFathoms
+Blanka Vas
 Blanka Vlasic
 Blanka Vlašić
+BlankaVas
 BlankaVlasic
 BlankaVlašić
 Blankenberge
@@ -13589,6 +13599,7 @@ CHARLENE DE MONACO
 CHARLENE MONACO
 CHARLEROI
 CHARLEROI  ANTWERP
+CHARLEROI  CERCLE
 CHARLEROI  CLUB BRUGGE
 CHARLEROI  GENK
 CHARLEROI  GENT
@@ -13609,6 +13620,7 @@ CHARLES
 CHARLES 3
 CHARLES AZNAVOUR
 CHARLES BIETRY
+CHARLES BIÉTRY
 CHARLES CAUDRELIER
 CHARLES CONSIGNY
 CHARLES COSTE
@@ -13682,6 +13694,7 @@ CHASSEUR BLANC COEUR NOIR
 CHAT
 CHAT GTP
 CHATBOT
+CHATEAU D'OEX BALLONS
 CHATEAU DE SERQUIGNY
 CHATEAU DE VERSAILLES
 CHATEAUROUX
@@ -14819,6 +14832,7 @@ CRYSTAL PALACE
 CRYSTAL PALACE  WEST HAM
 CRYSTAL PALACE GEGEN ARSENAL
 CRYSTAL PALACE – ARSENAL
+CRYSTAL PALACE – BRENTFORD
 CRYSTAL PALACE – CHELSEA
 CRYSTAL PALACE – LIVERPOOL
 CRYSTAL PALACE – MAN CITY
@@ -16061,6 +16075,7 @@ CharleneMonaco
 CharlenedeMonaco
 Charleroi
 Charleroi  Antwerp
+Charleroi  Cercle
 Charleroi  Club Brugge
 Charleroi  Genk
 Charleroi  Gent
@@ -16084,6 +16099,7 @@ Charleroi-Standard
 CharleroiAirport
 CharleroiAnderlecht
 CharleroiAntwerp
+CharleroiCercle
 CharleroiClubBrugge
 CharleroiGenk
 CharleroiGent
@@ -16100,6 +16116,7 @@ Charles
 Charles 3
 Charles Aznavour
 Charles Bietry
+Charles Biétry
 Charles Caudrelier
 Charles Consigny
 Charles Coste
@@ -16129,6 +16146,7 @@ Charles3
 CharlesAntoine Kouakou
 CharlesAznavour
 CharlesBietry
+CharlesBiétry
 CharlesCaudrelier
 CharlesConsigny
 CharlesCoste
@@ -16244,8 +16262,10 @@ Chasseurblanccoeurnoir
 Chat
 ChatGPT
 Chatbot
+Chateau d'Oex ballons
 Chateau de Serquigny
 Chateau de Versailles
+Chateaud'Oexballons
 ChateaudeSerquigny
 ChateaudeVersailles
 Chateauroux
@@ -19658,6 +19678,7 @@ DUITSLANDHONGARIJE
 DUMAS ROLAND
 DUMPING SOCIAL
 DUNCAN LAURENCE
+DUNDEE UTD - RANGERS
 DUNE
 DUNE 2
 DUNE : PROPHECY
@@ -22359,6 +22380,7 @@ ELIA
 ELIANA BURKI
 ELIANE BÜRKI
 ELIANE MÜLLER
+ELIAS
 ELIAS THEODOROU
 ELIE BARNAVI
 ELIE DOMOTA
@@ -22796,6 +22818,7 @@ ERICH KÄSTNER
 ERICPIOLLE
 ERICZEMMOUR
 ERIK MENENDEZ
+ERIK ORSENNA
 ERIK TEN HAG
 ERIK TRUFFAZ
 ERIK VAN LOOY
@@ -23778,6 +23801,7 @@ Eliane Müller
 Eliane bürki
 ElianeMüller
 Elianebürki
+Elias
 Elias Theodorou
 EliasTheodorou
 Elie Barnavi
@@ -30056,6 +30080,7 @@ GORDON LIGHTFOOT
 GORDON RAMSAY
 GORKI
 GOSFORD PARK
+GOSSAU
 GOSSIP
 GOTAGA
 GOTHAM KNIGHTS
@@ -33019,6 +33044,7 @@ HENRI PFR
 HENRI SANNIER
 HENRI TACHAN
 HENRI VERNES
+HENRY BERNET
 HENRY CAVILL
 HENRY CAVILL SUPERMAN
 HENRY KISSINGER
@@ -33213,6 +33239,7 @@ HONGRIEALLEMAGNE
 HONKAI STAR RAIL
 HONKAI: STAR RAIL
 HOOFDSTUK
+HOOGERHEIDE
 HOOGSTRATEN
 HOOGTEZIEKTE
 HOOTERS ZÜRICH
@@ -33936,12 +33963,14 @@ HenriSannier
 HenriTachan
 HenriVernes
 Henrides
+Henry Bernet
 Henry Cavill
 Henry Kissinger
 Henry Ruggs
 Henry Sugar
 Henry Valentino
 Henry cavill superman
+HenryBernet
 HenryCavill
 HenryKissinger
 HenryRuggs
@@ -34819,6 +34848,7 @@ INONDATIONS ITALIE
 INONDATIONS ITALIE EMILIE-ROMAGNE
 INONDATIONS NORVÈGE
 INONDATIONS PAS-DE-CALAIS
+INONDATIONS RENNES
 INONDATIONS SAINT-TROPEZ
 INONDATIONS WALHAIN
 INOXTAG
@@ -35786,6 +35816,7 @@ Inondations Italie EmilieRomagne
 Inondations Norvège
 Inondations Pas-de-Calais
 Inondations PasdeCalais
+Inondations Rennes
 Inondations Saint-Tropez
 Inondations SaintTropez
 Inondations Walhain
@@ -35794,6 +35825,7 @@ InondationsItalie
 InondationsItalieEmilie-Romagne
 InondationsNorvège
 InondationsPas-de-Calais
+InondationsRennes
 InondationsSaint-Tropez
 InondationsWalhain
 Inoxtag
@@ -40206,6 +40238,7 @@ KAISTEN: GEMEINDEAMMANN
 KAITLYN DEVER
 KAIZEN
 KAJA KALLAS
+KAJSA VICKHOFF LIE
 KAKA
 KAKHOVKA
 KALEEN
@@ -40449,6 +40482,7 @@ KEN LOACH
 KENA : BRIDGE OF SPIRITS
 KENA: BRIDGE OF SPIRITS
 KENDALL JENNER
+KENDJI
 KENDJI GIRAC
 KENDJI GIRAC ACCIDENT
 KENDJI GIRAC ACTUALITÉS
@@ -42711,6 +42745,7 @@ LANDWIRTSCHAFTLICHES FAHRZEUG
 LANESTER
 LANGE LEEMSTRAAT ANTWERPEN
 LANGLAUFZENTRUM GANTRISCH
+LANGNAU AM ALBIS
 LANGYA-HENIPAVIRUS
 LANTERNA MAGICA
 LANZAROTE
@@ -42942,6 +42977,7 @@ LE GRÊLÉ
 LE GUEPARD
 LE HAUT DU PANIER
 LE HAVRE
+LE HAVRE – BREST
 LE HAVRE – LENS
 LE HAVRE – METZ
 LE HAVRE – MONACO
@@ -48101,6 +48137,7 @@ MAN UTD  MANCHESTER CITY
 MANAUDOU
 MANBUN
 MANCHESTER CITY
+MANCHESTER CITY  CHELSEA
 MANCHESTER CITY  KOPENHAGEN
 MANCHESTER CITY  WOLVERHAMPTON
 MANCHESTER CITY - CLUB BRUGGE
@@ -49677,6 +49714,7 @@ MILAN  SPEZIA
 MILAN  TORINO
 MILAN  VENEZIA
 MILAN - LIVERPOOL
+MILAN - PARMA
 MILAN - SALERNITANA
 MILAN - TORINO
 MILAN AC
@@ -49710,6 +49748,7 @@ MILAN – JUVENTUS
 MILAN – LIVERPOOL
 MILAN – NAPLES
 MILAN – NEAPEL
+MILAN – PARMA
 MILAN – ROMA
 MILAN – SPEZIA
 MILAN – UDINESE
@@ -49861,6 +49900,7 @@ MISSISSIPPI
 MISTER COVER
 MISTER FRANCE 2023
 MISTER FRANCE 2024
+MISTER FRANCE 2025
 MISTER SPADE
 MISTER YOU
 MISTRAL AI
@@ -50855,6 +50895,7 @@ ManUnitedvsBarcelona
 ManUtd
 Manaudou
 Manchester City
+Manchester City  Chelsea
 Manchester City  Club Brugge
 Manchester City  Feyenoord
 Manchester City  Kopenhagen
@@ -50946,6 +50987,7 @@ ManchesterCity-Chelsea
 ManchesterCity-ClubBrugge
 ManchesterCity-Feyenoord
 ManchesterCity-Manutd
+ManchesterCityChelsea
 ManchesterCityKopenhagen
 ManchesterCityWolverhampton
 ManchesterCity–Arsenal
@@ -53935,9 +53977,11 @@ MireilleDumas
 MireilleKnoll
 MireilleMathieu
 Miriam Cahn
+Miriam Höller
 Miriam Neureuther
 Miriam Rivera
 MiriamCahn
+MiriamHöller
 MiriamNeureuther
 MiriamRivera
 Mirjana Zuber
@@ -54069,11 +54113,13 @@ Mississippi
 Mister Cover
 Mister France 2023
 Mister France 2024
+Mister France 2025
 Mister Spade
 Mister You
 MisterCover
 MisterFrance2023
 MisterFrance2024
+MisterFrance2025
 MisterSpade
 MisterYou
 Mistral AI
@@ -55043,6 +55089,7 @@ NAPOLI  MILAN
 NAPOLI  ROMA
 NAPOLI - EINTRACHT FRANKFURT
 NAPOLI - MILAN
+NAPOLI JUVENTUS
 NAPOLI MILAN
 NAPOLI ROMA
 NAPOLI. INTER
@@ -55606,6 +55653,7 @@ NINA KENNEDY
 NINA METAYER
 NINA O'BRIEN
 NINA ORTLIEB
+NINA ORTLIEB STURZ
 NINA STERCKX
 NINHO
 NINHO STADE DE FRANCE
@@ -56112,6 +56160,7 @@ Napoli  Milan
 Napoli  Roma
 Napoli - Eintracht Frankfurt
 Napoli - MILAN
+Napoli Juventus
 Napoli Milan
 Napoli Roma
 Napoli-EintrachtFrankfurt
@@ -56978,6 +57027,7 @@ Nina Hagen
 Nina Kennedy
 Nina O'Brien
 Nina Ortlieb
+Nina Ortlieb Sturz
 Nina Sterckx
 Nina metayer
 NinaBetschart
@@ -56992,6 +57042,7 @@ NinaHagen
 NinaKennedy
 NinaO'Brien
 NinaOrtlieb
+NinaOrtliebSturz
 NinaSterckx
 Ninametayer
 Ninho
@@ -64690,6 +64741,7 @@ RITA LEE
 RITA ORA
 RITCHY THIBAULT
 RITSCHI
+RITTER MARKUS
 RIVAGES
 RIVE GAUCHE
 RIVELLA
@@ -66721,6 +66773,8 @@ RitaOra
 Ritchy Thibault
 RitchyThibault
 Ritschi
+Ritter Markus
+RitterMarkus
 Rivages
 Rive gauche
 Rivegauche
@@ -68147,6 +68201,7 @@ SAS
 SASA KALAJDZIC
 SASAKALAJDZIC
 SASCHA RUEFER
+SASCHA ZVEREV
 SASEK
 SASHA OBAMA
 SASHA ZHOYA
@@ -68930,6 +68985,7 @@ SLALOM ADELBODEN 2025
 SLALOM FRAUEN
 SLALOM FRAUEN OLYMPIA
 SLALOM HERREN
+SLALOM KITZBÜHEL 2025
 SLALOM MÄNNER OLYMPIA
 SLALOM WENGEN
 SLALOM WENGEN 2025
@@ -69437,6 +69493,7 @@ SSW
 ST ANTON
 ST GALLEN – LUZERN
 ST GALLERFEST
+ST MORITZ
 ST NICOLAS
 ST PATRICK'S DAY 2022
 ST PATRICK'S DAY 2024
@@ -69449,6 +69506,7 @@ ST. GALLEN GEGEN LUZERN
 ST. GALLEN GEGEN SERVETTE
 ST. GALLEN – FIORENTINA
 ST. GALLEN – GRASSHOPPERS
+ST. GALLEN – LAUSANNE-SPORT
 ST. GALLEN – SION
 ST. NIKOLAUS
 ST. PATRICK
@@ -69537,6 +69595,7 @@ STANDARD – CERCLE BRUGES
 STANDARD – CHARLEROI SC
 STANDARD – CLUB BRUGGE
 STANDARD – COURTRAI
+STANDARD – DENDER
 STANDARD – FC BRUGES
 STANDARD – KAA GENT
 STANDARD – LA GANTOISE
@@ -72173,6 +72232,7 @@ Slalom Adelboden 2025
 Slalom Frauen
 Slalom Frauen Olympia
 Slalom Herren
+Slalom Kitzbühel 2025
 Slalom Männer Olympia
 Slalom Wengen
 Slalom Wengen 2025
@@ -72181,6 +72241,7 @@ SlalomAdelboden2025
 SlalomFrauen
 SlalomFrauenOlympia
 SlalomHerren
+SlalomKitzbühel2025
 SlalomMännerOlympia
 SlalomWengen
 SlalomWengen2025
@@ -73091,6 +73152,7 @@ Standard – Cercle bruges
 Standard – Charleroi sc
 Standard – Club Brugge
 Standard – Courtrai
+Standard – Dender
 Standard – FC Bruges
 Standard – KAA Gent
 Standard – La Gantoise
@@ -73119,6 +73181,7 @@ Standard–Cerclebruges
 Standard–Charleroisc
 Standard–ClubBrugge
 Standard–Courtrai
+Standard–Dender
 Standard–FCBruges
 Standard–KAAGent
 Standard–LaGantoise
@@ -75109,6 +75172,7 @@ TIMEA BACSINSZKY
 TIMES OF ISRAEL
 TIMO MEIER
 TIMON HAUGAN
+TIMON VERBEECK
 TIMOTHE MUMENTHALER
 TIMOTHEE CHALAMET
 TIMOTHÉE CHALAMET
@@ -77170,7 +77234,9 @@ TimesofIsrael
 Timo Meier
 TimoMeier
 Timon Haugan
+Timon Verbeeck
 TimonHaugan
+TimonVerbeeck
 Timothe Mumenthaler
 TimotheMumenthaler
 Timothee Chalamet
@@ -79724,6 +79790,7 @@ VELDRIJDEN DENDERMONDE
 VELDRIJDEN DUBLIN
 VELDRIJDEN HEUSDEN-ZOLDER
 VELDRIJDEN MOL
+VELDRIJDEN OP TV
 VELDRIJDEN ZONHOVEN
 VELMA
 VELODROME
@@ -81736,6 +81803,7 @@ WESTERLO  CHARLEROI
 WESTERLO  CLUB BRUGGE
 WESTERLO  DENDER
 WESTERLO  EUPEN
+WESTERLO  GENK
 WESTERLO  GENT
 WESTERLO  KORTRIJK
 WESTERLO  MECHELEN
@@ -81916,6 +81984,7 @@ WINTERTHUR GEGEN FCB
 WINTERTHUR – FCB
 WINTERTHUR – GRASSHOPPERS
 WINTERTHUR – LAUSANNE-SPORT
+WINTERTHUR – LUGANO
 WINTERTHUR – LUZERN
 WINTERTIJD
 WINTERZEIT ZEITUMSTELLUNG
@@ -82588,6 +82657,7 @@ WesterloCharleroi
 WesterloClubBrugge
 WesterloDender
 WesterloEupen
+WesterloGenk
 WesterloGent
 WesterloKortrijk
 WesterloMechelen
@@ -82887,11 +82957,13 @@ Winterthur – FCB
 Winterthur – Grasshoppers
 Winterthur – Lausanne-Sport
 Winterthur – LausanneSport
+Winterthur – Lugano
 Winterthur – Luzern
 WinterthurgegenFCB
 Winterthur–FCB
 Winterthur–Grasshoppers
 Winterthur–Lausanne-Sport
+Winterthur–Lugano
 Winterthur–Luzern
 Wintertijd
 Winterzeit Zeitumstellung
@@ -84481,6 +84553,7 @@ accident a7
 accident a9
 accident acteur jérémy renner
 accident ancenis
+accident ardèche
 accident ariege
 accident aurore morisse
 accident autoroute
@@ -84551,6 +84624,7 @@ acide film
 acide glyoxylique
 acide hyaluronique
 acide lactique
+acmilan
 acompte
 acteur dylan robert
 acteur jean-claude pautot
@@ -85157,6 +85231,7 @@ algérie – sénégal
 algérie – togo
 algérie – éthiopie
 ali
+ali abunimah
 ali b
 ali daei
 ali mitgutsch
@@ -87074,6 +87149,7 @@ bart versluys
 bartdewever
 barthez
 bartvanlancker
+bartvanloo
 barzotti
 bas dost
 bas smets
@@ -87897,6 +87973,7 @@ blancmalorie
 blanco sanremo
 blancpain
 blancpain fifty fathoms
+blanka vas
 blanka vlasic
 blanka vlašić
 blankenberge
@@ -89452,6 +89529,7 @@ charlene de monaco
 charlene monaco
 charleroi
 charleroi  antwerp
+charleroi  cercle
 charleroi  club brugge
 charleroi  genk
 charleroi  gent
@@ -89472,6 +89550,7 @@ charles
 charles 3
 charles aznavour
 charles bietry
+charles biétry
 charles caudrelier
 charles consigny
 charles coste
@@ -89546,6 +89625,7 @@ chasseur blanc coeur noir
 chat
 chat gtp
 chatbot
+chateau d'oex ballons
 chateau de serquigny
 chateau de versailles
 chateauroux
@@ -90666,6 +90746,7 @@ crystal palace
 crystal palace  west ham
 crystal palace gegen arsenal
 crystal palace – arsenal
+crystal palace – brentford
 crystal palace – chelsea
 crystal palace – liverpool
 crystal palace – man city
@@ -90675,6 +90756,7 @@ crystal palace – tottenham
 crystal palace – wolves
 crystal pool
 crystalpalace
+crystalpalace–brentford
 crépol
 cs
 cs-aktie
@@ -91542,6 +91624,7 @@ dinky toys
 dinner for one
 dino scala
 dinosaures
+dinoscala
 dintikon
 dion cools
 dionysos
@@ -91943,6 +92026,9 @@ duitslandhongarije
 dumas roland
 dumping social
 duncan laurence
+dundee utd  rangers
+dundee utd - rangers
+dundeeutd-rangers
 dune
 dune 2
 dune : prophecy
@@ -92346,6 +92432,7 @@ elia
 eliana burki
 eliane bürki
 eliane müller
+elias
 elias theodorou
 elie barnavi
 elie domota
@@ -92766,6 +92853,7 @@ erich kästner
 ericpiolle
 ericzemmour
 erik menendez
+erik orsenna
 erik ten hag
 erik truffaz
 erik van looy
@@ -92773,6 +92861,7 @@ erika choperena
 erika vlieghe
 erikachoperena
 erikavlieghe
+erikorsenna
 eriksen
 erin brockovich
 erin jackson
@@ -95354,6 +95443,7 @@ gordon lightfoot
 gordon ramsay
 gorki
 gosford park
+gossau
 gossip
 gotaga
 gotham knights
@@ -96200,6 +96290,7 @@ henri pfr
 henri sannier
 henri tachan
 henri vernes
+henry bernet
 henry cavill
 henry cavill superman
 henry kissinger
@@ -96392,6 +96483,7 @@ hongrieallemagne
 honkai star rail
 honkai: star rail
 hoofdstuk
+hoogerheide
 hoogstraten
 hoogteziekte
 hooters zürich
@@ -96930,6 +97022,7 @@ inondations italie
 inondations italie emilie-romagne
 inondations norvège
 inondations pas-de-calais
+inondations rennes
 inondations saint-tropez
 inondations walhain
 inoxtag
@@ -98443,6 +98536,7 @@ juliette binoche
 juliette goormans
 juliette labous
 julio iglesias
+julioiglesias
 julius bär
 julius jones
 julos beaucarne
@@ -98645,6 +98739,8 @@ kaisten: gemeindeammann
 kaitlyn dever
 kaizen
 kaja kallas
+kajsa vickhoff lie
+kajsavickhofflie
 kaka
 kakhovka
 kaleen
@@ -98887,9 +98983,11 @@ ken loach
 kena : bridge of spirits
 kena: bridge of spirits
 kendall jenner
+kendji
 kendji girac
 kendji girac accident
 kendji girac actualités
+kendjigirac
 kendrick lamar
 kendrick lamar euphoria
 kenia
@@ -99731,6 +99829,8 @@ landwirtschaftlichesfahrzeug
 lanester
 lange leemstraat antwerpen
 langlaufzentrum gantrisch
+langnau am albis
+langnauamalbis
 langya-henipavirus
 lanterna magica
 lanzarote
@@ -99960,6 +100060,7 @@ le grêlé
 le guepard
 le haut du panier
 le havre
+le havre – brest
 le havre – lens
 le havre – metz
 le havre – monaco
@@ -100128,6 +100229,7 @@ lego-titanic
 legoland
 legoland belgie
 leguaan
+lehavre–brest
 lehavre–lens
 lehmann
 leicester
@@ -101673,6 +101775,7 @@ man utd  manchester city
 manaudou
 manbun
 manchester city
+manchester city  chelsea
 manchester city  kopenhagen
 manchester city  wolverhampton
 manchester city - club brugge
@@ -103248,6 +103351,7 @@ milan  inter
 milan  juventus
 milan  monza
 milan  napoli
+milan  parma
 milan  porto
 milan  roma
 milan  sassuolo
@@ -103255,6 +103359,7 @@ milan  spezia
 milan  torino
 milan  venezia
 milan - liverpool
+milan - parma
 milan - salernitana
 milan - torino
 milan ac
@@ -103288,14 +103393,17 @@ milan – juventus
 milan – liverpool
 milan – naples
 milan – neapel
+milan – parma
 milan – roma
 milan – spezia
 milan – udinese
 milan – venezia
+milan-parma
 milan-san remo
 milan-san remo 2022
 milan-san remo 2024
 milan-sanremo 2024
+milan–parma
 miley cyrus
 milik
 militaire français mort en roumanie
@@ -103438,6 +103546,7 @@ mississippi
 mister cover
 mister france 2023
 mister france 2024
+mister france 2025
 mister spade
 mister you
 mistral ai
@@ -104033,6 +104142,7 @@ napoli  milan
 napoli  roma
 napoli - eintracht frankfurt
 napoli - milan
+napoli juventus
 napoli milan
 napoli roma
 napoli. inter
@@ -104561,6 +104671,7 @@ nina kennedy
 nina metayer
 nina o'brien
 nina ortlieb
+nina ortlieb sturz
 nina sterckx
 ninho
 ninho stade de france
@@ -107941,6 +108052,7 @@ rita lee
 rita ora
 ritchy thibault
 ritschi
+ritter markus
 rivages
 rive gauche
 rivella
@@ -108933,6 +109045,8 @@ sas
 sasa kalajdzic
 sasakalajdzic
 sascha ruefer
+sascha zverev
+saschazverev
 sasek
 sasha obama
 sasha zhoya
@@ -109694,6 +109808,7 @@ slalom adelboden 2025
 slalom frauen
 slalom frauen olympia
 slalom herren
+slalom kitzbühel 2025
 slalom männer olympia
 slalom wengen
 slalom wengen 2025
@@ -110157,6 +110272,7 @@ ssw
 st anton
 st gallen – luzern
 st gallerfest
+st moritz
 st nicolas
 st patrick's day 2022
 st patrick's day 2024
@@ -110169,6 +110285,8 @@ st. gallen gegen luzern
 st. gallen gegen servette
 st. gallen – fiorentina
 st. gallen – grasshoppers
+st. gallen – lausanne-sport
+st. gallen – lausannesport
 st. gallen – sion
 st. nikolaus
 st. patrick
@@ -110189,6 +110307,7 @@ st.gallen – servette
 st.gallen – tobol
 st.gallen – winterthur
 st.gallen – śląsk wrocław
+st.gallen–lausanne-sport
 st.patrick's day
 st.patricks day
 staatsbon belgie
@@ -110259,6 +110378,7 @@ standard – cercle bruges
 standard – charleroi sc
 standard – club brugge
 standard – courtrai
+standard – dender
 standard – fc bruges
 standard – kaa gent
 standard – la gantoise
@@ -110269,6 +110389,8 @@ standard – westerlo
 standard – zulte waregem
 standard-beerschot
 standard-seraing
+standarddeliège
+standard–dender
 stanislas dehaene
 stanislas guerini
 stanislas guerini fonction publique
@@ -110429,6 +110551,7 @@ stillwater
 sting
 stinger-raketen
 stipe miocic
+stmoritz
 stoffel vandoorne
 stoicisme
 stojkovic
@@ -111707,6 +111830,7 @@ timeleft
 times of israel
 timo meier
 timon haugan
+timon verbeeck
 timothe mumenthaler
 timothee chalamet
 timotheechalamet
@@ -111961,6 +112085,7 @@ tottenham – sporting
 tottenham – west ham
 tottenham – wolves
 tottenham-rennes
+tottenham–leicester
 totti
 toty fifa 22
 toty fifa 23
@@ -112443,6 +112568,7 @@ udinese – chelsea
 udinese – inter
 udinese – roma
 udinese–atalanta
+udinese–roma
 udo jürgens
 udo lindenberg
 uefa
@@ -112924,6 +113050,7 @@ valérie hayer
 valérie hayer gabriel attal
 valérie pécresse
 valérie zenatti
+valérieglatigny
 vampir lifting
 van aert
 van assche
@@ -113013,7 +113140,9 @@ veldrijden dendermonde
 veldrijden dublin
 veldrijden heusden-zolder
 veldrijden mol
+veldrijden op tv
 veldrijden zonhoven
+veldrijdenoptv
 velma
 velodrome
 velodrome marseille
@@ -113801,6 +113930,7 @@ westerlo  charleroi
 westerlo  club brugge
 westerlo  dender
 westerlo  eupen
+westerlo  genk
 westerlo  gent
 westerlo  kortrijk
 westerlo  mechelen
@@ -113981,6 +114111,7 @@ winterthur gegen fcb
 winterthur – fcb
 winterthur – grasshoppers
 winterthur – lausanne-sport
+winterthur – lugano
 winterthur – luzern
 wintertijd
 winterzeit zeitumstellung
