@@ -835,6 +835,7 @@ AC MILAN – LIVERPOOL
 AC MILAN – MONZA
 AC MILAN – NAPLES
 AC MILAN – NEWCASTLE
+AC MILAN – PARME
 AC MILAN – RB SALZBURG
 AC MILAN – RENNES
 AC MILAN – SALERNITANA
@@ -859,6 +860,7 @@ AC Milan – Liverpool
 AC Milan – Monza
 AC Milan – Naples
 AC Milan – Newcastle
+AC Milan – Parme
 AC Milan – RB Salzburg
 AC Milan – Rennes
 AC Milan – Salernitana
@@ -969,6 +971,7 @@ ACMilan–Liverpool
 ACMilan–Monza
 ACMilan–Naples
 ACMilan–Newcastle
+ACMilan–Parme
 ACMilan–RBSalzburg
 ACMilan–Rennes
 ACMilan–Salernitana
@@ -1043,6 +1046,7 @@ ADELBODEN SKIRENNEN
 ADELBODEN WELTCUP
 ADELBODEN-WELTCUP
 ADELE
+ADELE CASTILLON
 ADELE EXARCHOPOULOS
 ADELE HAENEL
 ADELE MILLOZ
@@ -7739,6 +7743,7 @@ BARCELONA – REAL
 BARCELONA – REAL SOCIEDAD
 BARCELONA – SEVILLA
 BARCELONA – VALENCE
+BARCELONA – VALENCIA
 BARCELONA – VALLADOLID
 BARCELONE
 BARCELONE - BREST
@@ -7763,6 +7768,7 @@ BARCELONE – REAL MADRID
 BARCELONE – REAL SOCIEDAD
 BARCELONE – SÉVILLE
 BARCELONE – TOTTENHAM
+BARCELONE – VALENCE
 BARCELONE – VALLADOLID
 BARCELONE – VILLARREAL
 BARCELONNETTE
@@ -9883,6 +9889,7 @@ Barcelona – Real
 Barcelona – Real Sociedad
 Barcelona – Sevilla
 Barcelona – Valence
+Barcelona – Valencia
 Barcelona – Valladolid
 Barcelona-Bayern
 Barcelona-Inter
@@ -9939,6 +9946,7 @@ Barcelona–Real
 Barcelona–RealSociedad
 Barcelona–Sevilla
 Barcelona–Valence
+Barcelona–Valencia
 Barcelona–Valladolid
 Barcelone
 Barcelone  Brest
@@ -9965,6 +9973,7 @@ Barcelone – Real Madrid
 Barcelone – Real Sociedad
 Barcelone – Séville
 Barcelone – Tottenham
+Barcelone – Valence
 Barcelone – Valladolid
 Barcelone – Villarreal
 Barcelone-Brest
@@ -9989,6 +9998,7 @@ Barcelone–RealMadrid
 Barcelone–RealSociedad
 Barcelone–Séville
 Barcelone–Tottenham
+Barcelone–Valence
 Barcelone–Valladolid
 Barcelone–Villarreal
 Barcelonnette
@@ -13831,6 +13841,7 @@ CHINA TAIWAN
 CHINE
 CHINE TAÏWAN
 CHINEES NIEUWJAAR
+CHINESE NEW YEAR 2025
 CHINESISCHES NEUJAHR
 CHINOOK THERAPEUTICS
 CHITA RIVERA
@@ -14084,6 +14095,7 @@ CLARISSA JEAN-PHILIPPE
 CLARISSE
 CLARISSE AGBEGNENOU
 CLARISSE CREMER
+CLARISSE CRÉMER
 CLASICA SAN SEBASTIAN
 CLASICA SAN SEBASTIAN 2023
 CLASSEMENT ATP
@@ -14296,6 +14308,7 @@ COACHELLA
 COACHELLA 2022
 COACHELLA 2024
 COBRA KAI
+COCA COLA
 COCA-COLA
 COCA-COLA KROATIEN
 COCA-COLA RÜCKRUF
@@ -16938,8 +16951,10 @@ Clarissa JeanPhilippe
 ClarissaJean-Philippe
 Clarisse
 Clarisse Agbegnenou
+Clarisse Crémer
 Clarisse cremer
 ClarisseAgbegnenou
+ClarisseCrémer
 Clarissecremer
 Clasica San Sebastian
 Clasica San Sebastian 2023
@@ -18508,6 +18523,7 @@ DALLI DALLI
 DALS
 DALTON KNECHT
 DALVA
+DAMAC – AL ITTIHAD
 DAMAR HAMLIN
 DAMIAN LILLARD
 DAMIANO DAVID
@@ -18859,7 +18875,10 @@ DEDRYCK BOYATA
 DEDRYCKBOYATA
 DEEP IMPACT
 DEEP PURPLE
+DEEP SEEK
 DEEPL
+DEEPSEEK
+DEEPSEEK AKTIE
 DEEZER
 DEF DAMES DOPE
 DEF RHYMZ
@@ -19290,6 +19309,7 @@ DISPARITION MARWAN BERRENI
 DISPARITION MAYA CHARLEROI
 DISPARITION MAYENNE
 DISPARITION MORGANE
+DISPARITION SAINT VINCENT DE TYROSSE
 DISPARITION VOL MH370
 DISPARITION ÉMILE HAUT-VERNET
 DISPARITION ÉMILE VERNET
@@ -19477,6 +19497,7 @@ DORIANE PIN
 DORIS LEUTHARD
 DORMAKABA
 DOROTHÉE
+DOROTHÉE OLLIÉRIC
 DORTMUND
 DORTMUND BAYERN
 DORTMUND GEGEN AJAX
@@ -19570,6 +19591,7 @@ DRAKE POLAR OPPOSITES
 DRAKEO THE RULER
 DRAME CARNAVAL STREPY BRACQUEGNIES
 DRAME MONTREUX
+DRANCY
 DRAPEAU
 DRAPEAU PARALYMPIQUE
 DRAPEAU SUISSE
@@ -20503,6 +20525,9 @@ Deep Purple
 DeepImpact
 DeepL
 DeepPurple
+DeepSeek
+DeepSeek Aktie
+DeepSeekAktie
 Deezer
 Def Dames Dope
 Def Rhymz
@@ -21513,6 +21538,8 @@ Doris Leuthard
 DorisLeuthard
 Dormakaba
 Dorothée
+Dorothée Olliéric
+DorothéeOlliéric
 Dortmund
 Dortmund Bayern
 Dortmund gegen Ajax
@@ -22381,6 +22408,7 @@ ELIANA BURKI
 ELIANE BÜRKI
 ELIANE MÜLLER
 ELIAS
+ELIAS POIGNARDÉ
 ELIAS THEODOROU
 ELIE BARNAVI
 ELIE DOMOTA
@@ -23249,6 +23277,7 @@ EVERYBODY KNOWS
 EVERYTHING EVERYWHERE ALL AT ONCE
 EVI ALLEMANN
 EVI HANSSEN
+EVI VAN ACKER
 EVI VANDERSMISSEN
 EVIL DEAD RISE
 EVREUX
@@ -25196,9 +25225,11 @@ Everything Everywhere All at Once
 EverythingEverywhereAllatOnce
 Evi Allemann
 Evi Hanssen
+Evi Van Acker
 Evi Vandersmissen
 EviAllemann
 EviHanssen
+EviVanAcker
 EviVandersmissen
 Evignette
 Evil Dead Rise
@@ -30435,6 +30466,7 @@ GRÈVE GÉNÉRALE 29 SEPTEMBRE
 GRÈVE MÉDECINS GÉNÉRALISTES
 GRÈVE NATIONALE
 GRÈVE NATIONALE 22 MAI
+GRÈVE ÉCOLES
 GRÈVES 13 OCTOBRE
 GRÈVES SNCF 12 DÉCEMBRE
 GRÈVES TRANSPORTS 19 JANVIER
@@ -32331,6 +32363,7 @@ Grève générale 29 septembre
 Grève médecins généralistes
 Grève nationale
 Grève nationale 22 mai
+Grève écoles
 Grève16février2023
 GrèveDisneylandParis
 Grèveaudiovisuelpublic
@@ -32348,6 +32381,7 @@ Grèves transports 19 janvier
 Grèves13octobre
 GrèvesSNCF12décembre
 Grèvestransports19janvier
+Grèveécoles
 Grégoire Lyonnet
 GrégoireLyonnet
 Grégory Lemarchal
@@ -32957,6 +32991,7 @@ HEIDENHEIM GEGEN HSV
 HEIDENHEIM GEGEN LEVERKUSEN
 HEIDENHEIM – ST. GALLEN
 HEIDENHEIM – VFB STUTTGART
+HEIDI DE SCHEPPER
 HEIDI GAUGAIN
 HEIDI KLUM
 HEIDI KLUM HALLOWEEN
@@ -33802,6 +33837,7 @@ HeidenheimgegenHSV
 HeidenheimgegenLeverkusen
 Heidenheim–St.Gallen
 Heidenheim–VfBStuttgart
+Heidi De Schepper
 Heidi Gaugain
 Heidi Klum
 Heidi Klum Halloween
@@ -33809,6 +33845,7 @@ Heidi Klum Halloween 2022
 Heidi Klum Halloween 2024
 Heidi Klum!
 Heidi Steiner
+HeidiDeSchepper
 HeidiGaugain
 HeidiKlum
 HeidiKlum!
@@ -37333,6 +37370,7 @@ JOKO UND KLAAS GEGEN PROSIEBEN
 JOKO WINTERSCHEIDT
 JOLANDA ANNEN
 JOLANDA NEFF
+JOLANDA SPIESS HEGGLIN
 JOLANDA SPIESS-HEGGLIN
 JOLIEN BOUMKWO
 JOLIEN VERSCHUEREN
@@ -40767,6 +40805,7 @@ KOKOPELLI
 KOKSIJDE CROSS
 KOLASINAC
 KOLO MUANI
+KOLUMBIEN
 KOLUMBIEN – ARGENTINIEN
 KOM OP TEGEN KANKER
 KOMBINATION FRAUEN OLYMPIA
@@ -41941,6 +41980,7 @@ Koksijdecross
 Kolasinac
 Kolo Muani
 KoloMuani
+Kolumbien
 Kolumbien – Argentinien
 Kolumbien–Argentinien
 Kom op tegen Kanker
@@ -44278,6 +44318,7 @@ LUZERN – LAUSANNE-SPORT
 LUZERN – LUGANO
 LUZERN – SERVETTE
 LUZERN – WINTERTHUR
+LUZERN – ZÜRICH
 LUZERNER FASNACHT
 LUZERNER STADTLAUF
 LUZERNER ZEITUNG
@@ -45232,6 +45273,7 @@ Le Grinch
 Le Grêlé
 Le Haut du panier
 Le Havre
+Le Havre – Brest
 Le Havre – Lens
 Le Havre – Metz
 Le Havre – Monaco
@@ -45389,6 +45431,7 @@ LeGrinch
 LeGrêlé
 LeHautdupanier
 LeHavre
+LeHavre–Brest
 LeHavre–Lens
 LeHavre–Metz
 LeHavre–Monaco
@@ -47616,6 +47659,7 @@ Luzern – LausanneSport
 Luzern – Lugano
 Luzern – Servette
 Luzern – Winterthur
+Luzern – Zürich
 LuzernLive
 LuzernMarathon2021
 LuzernSchaffhausen
@@ -47634,6 +47678,7 @@ Luzern–Lausanne-Sport
 Luzern–Lugano
 Luzern–Servette
 Luzern–Winterthur
+Luzern–Zürich
 Luzia Tschirky SRF
 LuziaTschirkySRF
 Lviv
@@ -47997,6 +48042,7 @@ MAIRE DE MARSEILLE
 MAIRE DE REZÉ
 MAIRE L'HAY LES-ROSES
 MAIRIE DE BORDEAUX
+MAIRIE DU 12
 MAISON D
 MAISON DE L'HORREUR
 MAISON DE RETRAITE
@@ -48489,6 +48535,7 @@ MARIA EMPFÄNGNIS FEIERTAG
 MARIA FURTWÄNGLER
 MARIA FURTWÄNGLER HUBERT BURDA
 MARIA HIMMELFAHRT
+MARIA HÖFL-RIESCH
 MARIA LAURA
 MARIA LAURA DE BELGIQUE
 MARIA LICHTMESS
@@ -49447,6 +49494,7 @@ MEYER BURGER-AKTIE
 MEYER HABIB
 MEYER-BURGER-AKTIE
 MEYREM ALMACI
+MEZIDON
 MH17
 MH370
 MHD
@@ -49684,6 +49732,7 @@ MIKE MITCHELL
 MIKE NUSSBAUM
 MIKE PENCE
 MIKE PENDERS
+MIKE THIBAULT
 MIKE TRESOR
 MIKE TYSON
 MIKE TYSON JAKE PAUL
@@ -50627,7 +50676,9 @@ MairedeMarseille
 MairedeRezé
 Mairel'hayles-Roses
 Mairie de Bordeaux
+Mairie du 12
 MairiedeBordeaux
+Mairiedu12
 Maison M
 Maison d
 Maison de l'horreur
@@ -51526,6 +51577,8 @@ Maria Empfängnis Feiertag
 Maria Furtwängler
 Maria Furtwängler Hubert Burda
 Maria Himmelfahrt
+Maria Höfl-Riesch
+Maria HöflRiesch
 Maria Laura
 Maria Laura de Belgique
 Maria Lichtmess
@@ -51552,6 +51605,7 @@ MariaEmpfängnisFeiertag
 MariaFurtwängler
 MariaFurtwänglerHubertBurda
 MariaHimmelfahrt
+MariaHöfl-Riesch
 MariaLaura
 MariaLaura de Belgique
 MariaLauradeBelgique
@@ -55007,6 +55061,7 @@ NAGUI (N'OUBLIEZ PAS LES PAROLES
 NAGUI N'OUBLIEZ PAS LES PAROLES MAESTRO
 NAIMA JILLAL
 NAIMA LAMCHARKI
+NAINGGOLAN
 NAIRO QUINTANA
 NAIROQUINTANA
 NAJAT VALLAUD-BELKACEM
@@ -55523,6 +55578,7 @@ NICOLAS DE TAVERNOST
 NICOLAS DUMORTIER
 NICOLAS DUPONT-AIGNAN
 NICOLAS DUVAUCHELLE
+NICOLAS FLORIAN
 NICOLAS GESTIN
 NICOLAS GOB
 NICOLAS HIERONIMUS
@@ -56798,6 +56854,7 @@ Nicolas Dumortier
 Nicolas Dupont-Aignan
 Nicolas DupontAignan
 Nicolas Duvauchelle
+Nicolas Florian
 Nicolas Gestin
 Nicolas Gob
 Nicolas Hieronimus
@@ -56835,6 +56892,7 @@ NicolasCoster
 NicolasDumortier
 NicolasDupont-Aignan
 NicolasDuvauchelle
+NicolasFlorian
 NicolasGestin
 NicolasGob
 NicolasHieronimus
@@ -57656,6 +57714,7 @@ OLGA CARMONA
 OLGA GIVERNET
 OLGA KACHURA
 OLGA KHARLAN
+OLGA LEYERS
 OLI.P
 OLIGARCH
 OLIGARCHEN
@@ -57790,6 +57849,7 @@ OM NANTES
 OM NICE
 OM NORWICH
 OM Nantes
+OM Nice
 OM Norwich
 OM PANATHINAIKOS
 OM PSG
@@ -57852,6 +57912,7 @@ OMMilan
 OMMontpellier
 OMNIUM
 OMNantes
+OMNice
 OMNorwich
 OMODA
 OMOL
@@ -58303,10 +58364,12 @@ Olga Carmona
 Olga Givernet
 Olga Kachura
 Olga Kharlan
+Olga Leyers
 OlgaCarmona
 OlgaGivernet
 OlgaKachura
 OlgaKharlan
+OlgaLeyers
 Oli.P
 Oligarch
 Oligarchen
@@ -59759,6 +59822,7 @@ PHIL KESSEL
 PHIL KEVIN
 PHIL VARONE
 PHILADELPHIA
+PHILADELPHIA EAGLES
 PHILIPP FANKHAUSER
 PHILIPP KOCH VERMISST
 PHILIPP KUTTER
@@ -62190,6 +62254,8 @@ PhilKessel
 PhilKevin
 PhilVarone
 Philadelphia
+Philadelphia Eagles
+PhiladelphiaEagles
 Philipp Fankhauser
 Philipp Koch vermisst
 Philipp Plein
@@ -63882,6 +63948,7 @@ RADIO 2 LIVE
 RADIO 2 TOP 2000
 RADIO MINERVA
 RADIO NOVA
+RADJA
 RADJA NAINGGOLAN
 RADU LUPU
 RADUCANU
@@ -64325,6 +64392,7 @@ RED LIONS
 RED NOTICE
 RED ONE
 RED PANTHERS
+RED SEBASTIAN
 RED SPARROW
 RED STAR
 RED STAR LINE
@@ -66083,6 +66151,7 @@ Red Lions
 Red Notice
 Red One
 Red Panthers
+Red Sebastian
 Red Sparrow
 Red Star
 Red Star Line
@@ -66102,6 +66171,7 @@ RedLions
 RedNotice
 RedOne
 RedPanthers
+RedSebastian
 RedSparrow
 RedStar
 RedStarLine
@@ -69781,6 +69851,7 @@ STORM CORRIE
 STORM EOWYN IERLAND
 STORM FLORIANE
 STORM FRANKLIN
+STORM HERMINIA
 STORM ISHA
 STORM LOUIS
 STORM PIA
@@ -73507,6 +73578,7 @@ Storm
 Storm Corrie
 Storm Floriane
 Storm Franklin
+Storm Herminia
 Storm Isha
 Storm Louis
 Storm Pia
@@ -73516,6 +73588,7 @@ Storm eowyn Ierland
 StormCorrie
 StormFloriane
 StormFranklin
+StormHerminia
 StormIsha
 StormLouis
 StormPia
@@ -75191,6 +75264,7 @@ TINATURNER
 TINE EMBRECHTS
 TINNE OLTMANS
 TINNITUS
+TINQUEUX
 TINY HOUSE
 TIPHAINE AUZIÈRE
 TIPIK
@@ -75577,6 +75651,7 @@ TOUSSAINT
 TOUSSAINT LOUVERTURE
 TOUT CELA JE TE LE DONNERAI
 TOUT L'ARGENT DU MONDE
+TOUT LE BLEU DU CIEL
 TOUT LE MONDE DEBOUT
 TOUT LE MONDE MENT
 TOUT LE MONDE VEUT PRENDRE SA PLACE
@@ -77994,6 +78069,7 @@ Toussaint Louverture
 ToussaintLouverture
 Tout cela je te le donnerai
 Tout l'argent du monde
+Tout le bleu du ciel
 Tout le monde debout
 Tout le monde ment
 Tout le monde veut prendre sa place
@@ -78003,6 +78079,7 @@ Toutcelajeteledonnerai
 Toute la lumière que nous ne pouvons voir
 Toutelalumièrequenousnepouvonsvoir
 Toutl'argentdumonde
+Toutlebleuduciel
 Toutlemondedebout
 Toutlemondement
 Toutlemondeveutprendresaplace
@@ -80015,6 +80092,7 @@ VILLARREAL – REAL MADRID
 VILLARREAL – RENNES
 VILLARREAL. BARCELONA
 VILLARS
+VILLENEUVE-SAINT-GEORGES
 VILLENEUVE-SUR-LOT
 VILLERS COTTERETS
 VILLERS-SUR-MER
@@ -80173,6 +80251,7 @@ VOEUX 2024
 VOEUX 2025
 VOEUX DE NOEL
 VOEUX NOUVELLE ANNÉE
+VOGEL GRYFF 2025
 VOGELGRIPPE
 VOGUE
 VOICE OF GERMANY 2024
@@ -81032,7 +81111,9 @@ Villarreal–Real
 Villarreal–RealMadrid
 Villarreal–Rennes
 Villars
+Villeneuve-Saint-Georges
 Villeneuve-sur-Lot
+VilleneuveSaintGeorges
 VilleneuvesurLot
 Villers cotterets
 Villers-sur-Mer
@@ -81601,6 +81682,7 @@ WALTER VAN DEN BROECK
 WALTER ZOO
 WALY DIA
 WANDA NARA
+WANDERUNFALL GLARUS
 WANN IST BLACK FRIDAY 2023
 WANN IST HALLOWEEN
 WANN IST HALLOWEEN 2023
@@ -84530,6 +84612,7 @@ ac milan – liverpool
 ac milan – monza
 ac milan – naples
 ac milan – newcastle
+ac milan – parme
 ac milan – rb salzburg
 ac milan – rennes
 ac milan – salernitana
@@ -84689,11 +84772,13 @@ adelboden weltcup
 adelboden-weltcup
 adelbodenweltcup
 adele
+adele castillon
 adele exarchopoulos
 adele haenel
 adele milloz
 adele van reeth
 adele, 30
+adelecastillon
 adeline toniutti
 ademola okulaja
 adesanya
@@ -87078,6 +87163,7 @@ barcelona – real
 barcelona – real sociedad
 barcelona – sevilla
 barcelona – valence
+barcelona – valencia
 barcelona – valladolid
 barcelone
 barcelone - brest
@@ -87102,6 +87188,7 @@ barcelone – real madrid
 barcelone – real sociedad
 barcelone – séville
 barcelone – tottenham
+barcelone – valence
 barcelone – valladolid
 barcelone – villarreal
 barcelonnette
@@ -89759,6 +89846,8 @@ china taiwan
 chine
 chine taïwan
 chinees nieuwjaar
+chinese new year 2025
+chinesenewyear2025
 chinesisches neujahr
 chinook therapeutics
 chita rivera
@@ -90012,6 +90101,7 @@ clarissa jean-philippe
 clarisse
 clarisse agbegnenou
 clarisse cremer
+clarisse crémer
 clasica san sebastian
 clasica san sebastian 2023
 classement atp
@@ -90212,9 +90302,11 @@ coachella
 coachella 2022
 coachella 2024
 cobra kai
+coca cola
 coca-cola
 coca-cola kroatien
 coca-cola rückruf
+cocacola
 cocaine bear
 cocktail molotov film
 coco
@@ -90913,6 +91005,8 @@ dalli dalli
 dals
 dalton knecht
 dalva
+damac – al ittihad
+damac–alittihad
 damar hamlin
 damian lillard
 damiano david
@@ -91257,7 +91351,11 @@ dedryck boyata
 dedryckboyata
 deep impact
 deep purple
+deep seek
 deepl
+deepseek
+deepseek aktie
+deepseekaktie
 deezer
 def dames dope
 def rhymz
@@ -91681,9 +91779,11 @@ disparition marwan berreni
 disparition maya charleroi
 disparition mayenne
 disparition morgane
+disparition saint vincent de tyrosse
 disparition vol mh370
 disparition émile haut-vernet
 disparition émile vernet
+disparitionsaintvincentdetyrosse
 disparu à jamais
 dissolution assemblée nationale
 dissolution soulèvements de la terre
@@ -91841,6 +91941,7 @@ doriane pin
 doris leuthard
 dormakaba
 dorothée
+dorothée olliéric
 dortmund
 dortmund bayern
 dortmund gegen ajax
@@ -91934,6 +92035,7 @@ drake polar opposites
 drakeo the ruler
 drame carnaval strepy bracquegnies
 drame montreux
+drancy
 drapeau
 drapeau paralympique
 drapeau suisse
@@ -92433,7 +92535,9 @@ eliana burki
 eliane bürki
 eliane müller
 elias
+elias poignardé
 elias theodorou
+eliaspoignardé
 elie barnavi
 elie domota
 elie semoun
@@ -93253,6 +93357,7 @@ everybody knows
 everything everywhere all at once
 evi allemann
 evi hanssen
+evi van acker
 evi vandersmissen
 evil dead rise
 evreux
@@ -95766,6 +95871,7 @@ grève générale 29 septembre
 grève médecins généralistes
 grève nationale
 grève nationale 22 mai
+grève écoles
 grèves 13 octobre
 grèves sncf 12 décembre
 grèves transports 19 janvier
@@ -96202,6 +96308,7 @@ heidenheim gegen hsv
 heidenheim gegen leverkusen
 heidenheim – st. gallen
 heidenheim – vfb stuttgart
+heidi de schepper
 heidi gaugain
 heidi klum
 heidi klum halloween
@@ -98256,7 +98363,9 @@ joko und klaas gegen prosieben
 joko winterscheidt
 jolanda annen
 jolanda neff
+jolanda spiess hegglin
 jolanda spiess-hegglin
+jolandaspiesshegglin
 jolien boumkwo
 jolien verschueren
 jolienverschueren
@@ -99265,6 +99374,7 @@ kokopelli
 koksijde cross
 kolasinac
 kolo muani
+kolumbien
 kolumbien – argentinien
 kom op tegen kanker
 kombination frauen olympia
@@ -101355,6 +101465,7 @@ luzern – lausanne-sport
 luzern – lugano
 luzern – servette
 luzern – winterthur
+luzern – zürich
 luzerner fasnacht
 luzerner stadtlauf
 luzerner zeitung
@@ -101631,6 +101742,7 @@ maire de marseille
 maire de rezé
 maire l'hay les-roses
 mairie de bordeaux
+mairie du 12
 maison d
 maison de l'horreur
 maison de retraite
@@ -102131,6 +102243,7 @@ maria empfängnis feiertag
 maria furtwängler
 maria furtwängler hubert burda
 maria himmelfahrt
+maria höfl-riesch
 maria laura
 maria laura de belgique
 maria lichtmess
@@ -102951,6 +103064,7 @@ mer baltique
 mer noire
 mer rouge
 merapi
+merbaltique
 mercato
 mercedes-amg
 merci les bleus
@@ -103093,6 +103207,7 @@ meyer habib
 meyer-burger-aktie
 meyerburgeraktie
 meyrem almaci
+mezidon
 mh17
 mh370
 mhd
@@ -103330,10 +103445,12 @@ mike mitchell
 mike nussbaum
 mike pence
 mike penders
+mike thibault
 mike tresor
 mike tyson
 mike tyson jake paul
 mike tyson vs jake paul
+mikethibault
 mikhaïl gorbatchev
 mikis theodorakis
 mikomi hokina
@@ -104059,6 +104176,7 @@ nagui (n'oubliez pas les paroles
 nagui n'oubliez pas les paroles maestro
 naima jillal
 naima lamcharki
+nainggolan
 nairo quintana
 nairoquintana
 najat vallaud-belkacem
@@ -104539,6 +104657,7 @@ nicolas de tavernost
 nicolas dumortier
 nicolas dupont-aignan
 nicolas duvauchelle
+nicolas florian
 nicolas gestin
 nicolas gob
 nicolas hieronimus
@@ -104937,6 +105056,7 @@ nvidia
 nvidia aktie
 nvidia stock
 nvidia-aktie
+nvidiaaktie
 nws
 ny corona
 ny red bulls gegen barcelona
@@ -105069,6 +105189,7 @@ olga carmona
 olga givernet
 olga kachura
 olga kharlan
+olga leyers
 oli.p
 oligarch
 oligarchen
@@ -106254,6 +106375,7 @@ phil kessel
 phil kevin
 phil varone
 philadelphia
+philadelphia eagles
 philipp fankhauser
 philipp koch vermisst
 philipp kutter
@@ -107269,7 +107391,9 @@ radio 2 top 2000
 radio minerva
 radio nova
 radio2live
+radja
 radja nainggolan
+radjanainggolan
 radu lupu
 raducanu
 raec mons
@@ -107655,6 +107779,7 @@ red lions
 red notice
 red one
 red panthers
+red sebastian
 red sparrow
 red star
 red star line
@@ -108245,6 +108370,7 @@ roland-garros 2022
 roland-garros 2023
 roland-garros 2024
 roland-garros programme
+rolandgarros
 rolex
 rolex paris masters
 rolf blättler
@@ -110569,6 +110695,7 @@ storm corrie
 storm eowyn ierland
 storm floriane
 storm franklin
+storm herminia
 storm isha
 storm louis
 storm pia
@@ -111850,6 +111977,7 @@ tinaturner
 tine embrechts
 tinne oltmans
 tinnitus
+tinqueux
 tiny house
 tiphaine auzière
 tipik
@@ -112236,6 +112364,7 @@ toussaint
 toussaint louverture
 tout cela je te le donnerai
 tout l'argent du monde
+tout le bleu du ciel
 tout le monde debout
 tout le monde ment
 tout le monde veut prendre sa place
@@ -113327,6 +113456,7 @@ vigilance rouge canicule
 vigilance rouge pluie-inondation
 vigilancejauneorages
 vigilanceorangeorages
+vigilanceprécipitations
 vignette 2022
 vignette autoroute suisse
 vignette crit'air
@@ -113370,6 +113500,7 @@ villarreal – real madrid
 villarreal – rennes
 villarreal. barcelona
 villars
+villeneuve-saint-georges
 villeneuve-sur-lot
 villers cotterets
 villers-sur-mer
@@ -113528,7 +113659,9 @@ voeux 2024
 voeux 2025
 voeux de noel
 voeux nouvelle année
+vogel gryff 2025
 vogelgrippe
+vogelgryff2025
 vogue
 voice of germany 2024
 voile jeux olympiques
@@ -113737,6 +113870,8 @@ walter zoo
 waly dia
 wanda nara
 wandanara
+wanderunfall glarus
+wanderunfallglarus
 wann ist black friday 2023
 wann ist halloween
 wann ist halloween 2023
@@ -114793,6 +114928,7 @@ zürich-marathon
 ÉPIDÉMIE GRIPPE
 ÉPIPHANIE
 ÉPISODE CÉVENOL
+ÉPISODE DEMAIN NOUS APPARTIENT
 ÉQUATEUR – ARGENTINE
 ÉQUATEUR – BRÉSIL
 ÉQUATEUR – ITALIE
@@ -115043,6 +115179,8 @@ zürich-marathon
 épidémie grippe
 épiphanie
 épisode cévenol
+épisode demain nous appartient
+épisodedemainnousappartient
 équateur – argentine
 équateur – brésil
 équateur – italie
