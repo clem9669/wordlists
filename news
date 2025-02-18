@@ -911,6 +911,7 @@ ACCIDENT AURORE MORISSE
 ACCIDENT AUTOROUTE
 ACCIDENT AUTOROUTE A1
 ACCIDENT AUTOROUTE A43
+ACCIDENT AVION TORONTO
 ACCIDENT AVION VILLEJUIF
 ACCIDENT AVIONS TOKYO
 ACCIDENT BUS PNL
@@ -1115,6 +1116,7 @@ ADRIANA KAREMBEU
 ADRIANA LIMA
 ADRIE VAN DER POEL
 ADRIEN BORNE
+ADRIEN BRODY
 ADRIEN DEVYVER
 ADRIEN DOLIMONT
 ADRIEN PETIT
@@ -2921,6 +2923,7 @@ ATALANTA  SALERNITANA
 ATALANTA  SPORTING CP
 ATALANTA - CAGLIARI
 ATALANTA BERGAMO
+ATALANTA CLUB BRUGGE
 ATALANTA GEGEN ROMA
 ATALANTA VILLARREAL
 ATALANTA – AC MILAN
@@ -3554,6 +3557,7 @@ Accident ariege
 Accident autoroute
 Accident autoroute A1
 Accident autoroute A43
+Accident avion Toronto
 Accident avion Villejuif
 Accident avions Tokyo
 Accident bus PNL
@@ -3621,6 +3625,7 @@ Accidentariege
 Accidentautoroute
 AccidentautorouteA1
 AccidentautorouteA43
+AccidentavionToronto
 AccidentavionVillejuif
 AccidentavionsTokyo
 AccidentbusPNL
@@ -6957,6 +6962,7 @@ Atalanta  Roma
 Atalanta  Salernitana
 Atalanta  Sporting CP
 Atalanta Bergamo
+Atalanta Club Brugge
 Atalanta Villarreal
 Atalanta gegen Roma
 Atalanta – AC Milan
@@ -6971,6 +6977,7 @@ Atalanta – Real Madrid
 Atalanta – Sturm Graz
 Atalanta-Villarreal
 AtalantaBergamo
+AtalantaClubBrugge
 AtalantaComo
 AtalantaCremonese
 AtalantaEmpoli
@@ -7831,6 +7838,7 @@ BARCELONA  LAS PALMAS
 BARCELONA  MALLORCA
 BARCELONA  MAN UTD
 BARCELONA  MANCHESTER CITY
+BARCELONA  RAYO
 BARCELONA  REAL BETIS
 BARCELONA  REAL MADRID
 BARCELONA  REAL SOCIEDAD
@@ -7898,6 +7906,7 @@ BARCELONE – MANCHESTER CITY
 BARCELONE – MONACO
 BARCELONE – NAPLES
 BARCELONE – OSASUNA
+BARCELONE – RAYO
 BARCELONE – REAL MADRID
 BARCELONE – REAL SOCIEDAD
 BARCELONE – SÉVILLE
@@ -10036,6 +10045,7 @@ Barcelona  Las Palmas
 Barcelona  Mallorca
 Barcelona  Man utd
 Barcelona  Manchester City
+Barcelona  Rayo
 Barcelona  Real Betis
 Barcelona  Real Madrid
 Barcelona  Real Sociedad
@@ -10097,6 +10107,7 @@ BarcelonaLasPalmas
 BarcelonaMallorca
 BarcelonaManchesterCity
 BarcelonaManutd
+BarcelonaRayo
 BarcelonaRealBetis
 BarcelonaRealMadrid
 BarcelonaRealSociedad
@@ -10161,6 +10172,7 @@ Barcelone – Manchester City
 Barcelone – Monaco
 Barcelone – Naples
 Barcelone – Osasuna
+Barcelone – Rayo
 Barcelone – Real Madrid
 Barcelone – Real Sociedad
 Barcelone – Séville
@@ -10186,6 +10198,7 @@ Barcelone–ManchesterCity
 Barcelone–Monaco
 Barcelone–Naples
 Barcelone–Osasuna
+Barcelone–Rayo
 Barcelone–RealMadrid
 Barcelone–RealSociedad
 Barcelone–Séville
@@ -15020,6 +15033,7 @@ CRASH AVION ISÈRE
 CRASH AVION KAZAKHSTAN
 CRASH AVION LAC VICTORIA
 CRASH AVION MILITAIRE RUSSE
+CRASH AVION TORONTO
 CRASH AVION VENDÉE
 CRASH AVION WASHINGTON
 CRASH AVION ÉTATS-UNIS
@@ -18398,6 +18412,7 @@ Crash avion Corée
 Crash avion DHL
 Crash avion Isère
 Crash avion Kazakhstan
+Crash avion Toronto
 Crash avion Vendée
 Crash avion Washington
 Crash avion bresil
@@ -18413,6 +18428,7 @@ CrashavionCorée
 CrashavionDHL
 CrashavionIsère
 CrashavionKazakhstan
+CrashavionToronto
 CrashavionVendée
 CrashavionWashington
 Crashavionbresil
@@ -19465,6 +19481,7 @@ DFBPokal
 DFBPokalAuslosung
 DFBPokalfinale
 DGSE
+DH
 DHL
 DHL FLUGZEUGABSTURZ
 DHL Flugzeugabsturz
@@ -19798,6 +19815,7 @@ DOMINIC LOBALU
 DOMINIC SMITH
 DOMINIC STRICKER
 DOMINIC THIEM
+DOMINIK KAHUN
 DOMINIK MOLL
 DOMINIK PARIS
 DOMINIK SCHMID
@@ -20434,11 +20452,13 @@ Danny Masterson
 Danny Noppert
 Danny Schneider
 Danny Trejo
+Danny Van Assche
 DannyFabry
 DannyMasterson
 DannyNoppert
 DannySchneider
 DannyTrejo
+DannyVanAssche
 Danone
 Dans l'ombre
 Dans la Maison
@@ -21801,10 +21821,12 @@ DominicLobalu
 DominicSmith
 DominicStricker
 DominicThiem
+Dominik Kahun
 Dominik Moll
 Dominik Paris
 Dominik Schmid
 Dominik Szoboszlai
+DominikKahun
 DominikMoll
 DominikParis
 DominikSchmid
@@ -22802,6 +22824,7 @@ ELI WALLACH
 ELIA
 ELIANA BURKI
 ELIANE BÜRKI
+ELIANE LEISER SRF
 ELIANE MÜLLER
 ELIAS
 ELIAS POIGNARDÉ
@@ -23187,6 +23210,7 @@ ERDBEBEN GRIECHENLAND SANTORINI
 ERDBEBEN ITALIEN
 ERDBEBEN JAPAN
 ERDBEBEN KRETA
+ERDBEBEN LISSABON
 ERDBEBEN MAROKKO HEUTE
 ERDBEBEN MEXIKO
 ERDBEBEN MEXIKO-STADT
@@ -24254,8 +24278,10 @@ EliWallach
 Elia
 Eliana Burki
 ElianaBurki
+Eliane Leiser SRF
 Eliane Müller
 Eliane bürki
+ElianeLeiserSRF
 ElianeMüller
 Elianebürki
 Elias
@@ -26844,6 +26870,7 @@ FLUGZEUGABSTURZ RUSSLAND
 FLUGZEUGABSTURZ SÄNTIS
 FLUGZEUGABSTURZ SÜDKOREA
 FLUGZEUGABSTURZ TANSANIA
+FLUGZEUGABSTURZ TORONTO
 FLUGZEUGABSTURZ WASHINGTON
 FLURONA
 FLUVIUS
@@ -28531,6 +28558,7 @@ Flugzeugabsturz Nepal
 Flugzeugabsturz Russland
 Flugzeugabsturz Südkorea
 Flugzeugabsturz Tansania
+Flugzeugabsturz Toronto
 Flugzeugabsturz Washington
 Flugzeugabsturz säntis
 FlugzeugabsturzBoeing737
@@ -28542,6 +28570,7 @@ FlugzeugabsturzNepal
 FlugzeugabsturzRussland
 FlugzeugabsturzSüdkorea
 FlugzeugabsturzTansania
+FlugzeugabsturzToronto
 FlugzeugabsturzWashington
 Flugzeugabsturzsäntis
 Flurona
@@ -30221,6 +30250,7 @@ GENK-ANDERLECHT
 GENK-CHARLEROI
 GENOA  MILAN
 GENOA  ROMA
+GENOA - VENEZIA
 GENOA – INTER
 GENOA – JUVENTUS
 GENOA – NAPLES
@@ -30984,6 +31014,7 @@ GROEN
 GROENDEKOR
 GROENLAND
 GROK
+GROK 3
 GRONINGEN - AJAX
 GROSSBRAND SIRNACH TG
 GROSSBRAND THERWIL
@@ -32893,6 +32924,8 @@ Groen
 Groendekor
 Groenland
 Grok
+Grok 3
+Grok3
 Groningen  Ajax
 Groningen - Ajax
 Groningen-Ajax
@@ -37233,6 +37266,7 @@ JACK GREALISH
 JACK HENDRY
 JACK LANG
 JACK LEMMON
+JACK MA
 JACK MIMOUN
 JACK NICHOLSON
 JACK REACHER
@@ -37435,6 +37469,7 @@ JANINA YOUSSEFIAN
 JANIS TIMMA
 JANJA GARNBRET
 JANJAEM SUWANNAPHENG
+JANNE DESMET
 JANNE PUHAKKA
 JANNIE DU PLESSIS
 JANNIE HAEK NATIONALE LOTERIJ
@@ -38495,6 +38530,7 @@ Jack Grealish
 Jack Hendry
 Jack Lang
 Jack Lemmon
+Jack Ma
 Jack Mimoun
 Jack Nicholson
 Jack Reacher
@@ -38509,6 +38545,7 @@ JackGrealish
 JackHendry
 JackLang
 JackLemmon
+JackMa
 JackMimoun
 JackNicholson
 JackReacher
@@ -38889,7 +38926,9 @@ Janja Garnbret
 JanjaGarnbret
 Janjaem Suwannapheng
 JanjaemSuwannapheng
+Janne Desmet
 Janne Puhakka
+JanneDesmet
 JannePuhakka
 Jannie Du Plessis
 Jannie Haek Nationale Loterij
@@ -43792,6 +43831,7 @@ LE MYSTÈRE HENRI PICK
 LE MYSTÈRE KENDRICK
 LE NEGOCIATEUR
 LE NOM DE LA ROSE
+LE NOUNOU
 LE NOUVEAU JOUET
 LE NOYAU TERRESTRE
 LE PAPE BENOÎT XVI
@@ -44392,6 +44432,7 @@ LILLEHAMMER
 LILLERS
 LILLESTRØM  ANTWERP
 LILLY BECKER
+LILLYS VERSCHWINDEN
 LILSE BERGEN
 LILU
 LILY ALLEN
@@ -46085,6 +46126,7 @@ Le Monde ne suffit pas
 Le Moulin Jaune
 Le Mystère Kendrick
 Le Nom de la Rose
+Le Nounou
 Le Parisien
 Le Patient anglais
 Le Pen
@@ -46243,6 +46285,7 @@ LeMondenesuffitpas
 LeMoulinJaune
 LeMystèreKendrick
 LeNomdelaRose
+LeNounou
 LeParisien
 LePatientanglais
 LePen
@@ -47278,6 +47321,8 @@ Lille–paris-sg
 Lille–saint-étienne
 Lilly Becker
 LillyBecker
+Lillys Verschwinden
+LillysVerschwinden
 Lilse Bergen
 LilseBergen
 Lilu
@@ -49999,6 +50044,7 @@ MAYFIELD
 MAYOTTE
 MAZAN
 MAZDA CX-60
+MAZELEN VACCINATIE
 MAZEPIN
 MAZISI KUNENE
 MAZOUT
@@ -51099,6 +51145,7 @@ MOTEUR PURETECH
 MOTHER/ANDROID
 MOTION DE CENSURE
 MOTION DE CENSURE BAYROU
+MOTION DE CENSURE PARTI SOCIALISTE
 MOTION DE CENSURE VOTE
 MOTMUGGEN
 MOTO GP
@@ -53653,6 +53700,8 @@ Mazan
 Mazda CX-60
 Mazda CX60
 MazdaCX-60
+Mazelen vaccinatie
+Mazelenvaccinatie
 Mazepin
 Mazisi Kunene
 MazisiKunene
@@ -55600,8 +55649,10 @@ MostafaMohamed
 Mostuejouls
 Mother/Android
 Motion de censure
+Motion de censure Parti socialiste
 Motion de censure vote
 Motiondecensure
+MotiondecensurePartisocialiste
 Motiondecensurevote
 Motmuggen
 Moto GP
@@ -60182,6 +60233,7 @@ PAPST FRANZISKUS
 PAQUES
 PAQUES 2022
 PAQUES 2024
+PAQUITA LA DEL BARRIO
 PARABOOT
 PARACETAMOL
 PARADE OLYMPIQUE
@@ -60467,6 +60519,7 @@ PATROUILLE DES GLACIERS
 PATROUILLE DES GLACIERS 2024
 PATROUILLE DES GLACIERS ZERMATT
 PATROUILLE SUISSE
+PATSER
 PATTI SMITH
 PAU
 PAU FC – NANTES
@@ -61401,6 +61454,7 @@ PRESSEKONFERENZ BUNDESRAT
 PRET A GOUTER
 PRET A MANGER
 PRET A TAUX ZERO
+PRET A TAUX ZERO 2025
 PRET IMMOBILIER TAUX ZERO
 PRET TAUX ZERO
 PRETE MOI TA MAIN
@@ -62096,6 +62150,8 @@ Paques 2022
 Paques 2024
 Paques2022
 Paques2024
+Paquita la del Barrio
+PaquitaladelBarrio
 Paraboot
 Paracetamol
 Parade olympique
@@ -62701,6 +62757,7 @@ PatrouilledesGlaciers
 PatrouilledesGlaciers2024
 PatrouilledesglaciersZermatt
 Patrouillesuisse
+Patser
 Patti Smith
 PattiSmith
 Pau
@@ -69778,6 +69835,7 @@ SELECTIE RODE DUIVELS
 SELENA GOMEZ
 SELENAGOMEZ
 SELENIUM
+SELFIESANDRA
 SELIM AMALLAH
 SELLNER EINREISEVERBOT
 SELMA BLAIR
@@ -69861,6 +69919,7 @@ SERGUEÏ LAVROV
 SERHAT AKIN
 SERIE A
 SERIE B
+SERIE BREF
 SERIE-B
 SERIE: A
 SERIEA
@@ -76738,6 +76797,7 @@ TORNADES ÉTATS-UNIS
 TORNADO ITALIEN
 TORNADO TSCHECHIEN
 TORNADOTSCHECHIEN
+TORONTO
 TORPILLE F21
 TORY LANEZ
 TOSCANI
@@ -79022,6 +79082,7 @@ Tornado Italien
 Tornado Tschechien
 TornadoItalien
 TornadoTschechien
+Toronto
 Torpille F21
 TorpilleF21
 Tory Lanez
@@ -80136,6 +80197,7 @@ UN GARS, UNE FILLE (AU PLURIEL
 UN HOMME A LA HAUTEUR
 UN HOMME ABIMÉ
 UN HOMME ET UNE FEMME
+UN HOMME HEUREUX
 UN INDIEN DANS LA VILLE
 UN JOUR SANS FIN
 UN LONG DIMANCHE DE FIANÇAILLES
@@ -80557,6 +80619,7 @@ Un gars, une fille (au pluriel
 Un homme a la hauteur
 Un homme abimé
 Un homme et une femme
+Un homme heureux
 Un long dimanche de fiançailles
 Un mariage trop parfait
 Un metier serieux
@@ -80679,6 +80742,7 @@ Ungars,unefille(aupluriel
 Unhommeabimé
 Unhommealahauteur
 Unhommeetunefemme
+Unhommeheureux
 Uni Basel
 Uni Bern Dozent Hamas
 Uni Zürich
@@ -81424,6 +81488,7 @@ VILLARREAL – REAL MADRID
 VILLARREAL – RENNES
 VILLARREAL. BARCELONA
 VILLARS
+VILLEFRANCHE SUR MER
 VILLENEUVE-SAINT-GEORGES
 VILLENEUVE-SUR-LOT
 VILLERS COTTERETS
@@ -83315,6 +83380,7 @@ WIELRENNER STIJN V
 WIEN
 WIENER OPERNBALL
 WIENER OPERNBALL 2023
+WIERER
 WIESBADEN
 WIGAN – MANCHESTER UNITED
 WIJNALDUM
@@ -86042,6 +86108,7 @@ accident aurore morisse
 accident autoroute
 accident autoroute a1
 accident autoroute a43
+accident avion toronto
 accident avion villejuif
 accident avions tokyo
 accident bus pnl
@@ -86224,6 +86291,7 @@ adriana karembeu
 adriana lima
 adrie van der poel
 adrien borne
+adrien brody
 adrien devyver
 adrien dolimont
 adrien petit
@@ -86231,6 +86299,7 @@ adrien quatennens
 adrien rabiot
 adrien thomasson
 adrien truffert
+adrienbrody
 adrienrabiot
 adryelson
 advent
@@ -87856,6 +87925,7 @@ arsenal – wolves
 arsenal,  milan
 arsenalmanchesterunited
 arsene wenger
+arsenewenger
 arsenio puro
 arslan
 art basel
@@ -88017,6 +88087,7 @@ atalanta  salernitana
 atalanta  sporting cp
 atalanta - cagliari
 atalanta bergamo
+atalanta club brugge
 atalanta gegen roma
 atalanta villarreal
 atalanta – ac milan
@@ -88609,6 +88680,7 @@ barcelona  las palmas
 barcelona  mallorca
 barcelona  man utd
 barcelona  manchester city
+barcelona  rayo
 barcelona  real betis
 barcelona  real madrid
 barcelona  real sociedad
@@ -88677,6 +88749,7 @@ barcelone – manchester city
 barcelone – monaco
 barcelone – naples
 barcelone – osasuna
+barcelone – rayo
 barcelone – real madrid
 barcelone – real sociedad
 barcelone – séville
@@ -92354,10 +92427,12 @@ crash avion isère
 crash avion kazakhstan
 crash avion lac victoria
 crash avion militaire russe
+crash avion toronto
 crash avion vendée
 crash avion washington
 crash avion états-unis
 crashavionhelicopterewashington
+crashaviontoronto
 crashavionwashington
 crawl
 crazy stupid love
@@ -93247,6 +93322,7 @@ dfb-pokal-auslosung
 dfb-pokal/2021
 dfb-pokalfinale
 dgse
+dh
 dhl
 dhl flugzeugabsturz
 dhl-flugzeugabsturz
@@ -93552,6 +93628,7 @@ dominic lobalu
 dominic smith
 dominic stricker
 dominic thiem
+dominik kahun
 dominik moll
 dominik paris
 dominik schmid
@@ -94227,6 +94304,7 @@ eli wallach
 elia
 eliana burki
 eliane bürki
+eliane leiser srf
 eliane müller
 elias
 elias poignardé
@@ -94549,6 +94627,7 @@ enquête disparition émile
 enragé
 enrico maaßen
 enrico macias
+enricomacias
 enrique iglesias
 enrique steiger
 enrique tarrio
@@ -94600,6 +94679,7 @@ erdbeben griechenland santorini
 erdbeben italien
 erdbeben japan
 erdbeben kreta
+erdbeben lissabon
 erdbeben marokko heute
 erdbeben mexiko
 erdbeben mexiko-stadt
@@ -94614,6 +94694,7 @@ erdbeben tuerkei syrien
 erdbeben türkei
 erdbebengriechenlandsantorini
 erdbebenitalien
+erdbebenlissabon
 erdbebenschweiz
 erdogan
 erdrutsch schwanden
@@ -95902,7 +95983,9 @@ flugzeugabsturz russland
 flugzeugabsturz säntis
 flugzeugabsturz südkorea
 flugzeugabsturz tansania
+flugzeugabsturz toronto
 flugzeugabsturz washington
+flugzeugabsturztoronto
 flugzeugabsturzwashington
 flurona
 fluvius
@@ -96923,10 +97006,13 @@ genk-anderlecht
 genk-charleroi
 genoa  milan
 genoa  roma
+genoa  venezia
+genoa - venezia
 genoa – inter
 genoa – juventus
 genoa – naples
 genoa – roma
+genoa-venezia
 genocide
 genshin impact
 gent
@@ -97178,6 +97264,7 @@ gino retrouvé mort
 gino strada
 gino vermist
 giorgia meloni
+giorgiameloni
 giorgio armani
 giorgio napolitano
 giorgio parisi
@@ -97652,6 +97739,8 @@ groen
 groendekor
 groenland
 grok
+grok 3
+grok3
 groningen - ajax
 grossbrand sirnach tg
 grossbrand therwil
@@ -99464,6 +99553,7 @@ jack grealish
 jack hendry
 jack lang
 jack lemmon
+jack ma
 jack mimoun
 jack nicholson
 jack reacher
@@ -99672,6 +99762,7 @@ janja garnbret
 janjaem suwannapheng
 janjambon
 jankegelsoverlijden
+janne desmet
 janne puhakka
 jannie du plessis
 jannie haek nationale loterij
@@ -101813,6 +101904,7 @@ lady gaga
 lady louise windsor
 lady truckers
 ladydiana
+ladygaga
 laeticia hallyday
 laeticiahallyday
 laetitia avia
@@ -102159,6 +102251,7 @@ le mystère henri pick
 le mystère kendrick
 le negociateur
 le nom de la rose
+le nounou
 le nouveau jouet
 le noyau terrestre
 le pape benoît xvi
@@ -102771,6 +102864,7 @@ lillehammer
 lillers
 lillestrøm  antwerp
 lilly becker
+lillys verschwinden
 lilse bergen
 lilu
 lily allen
@@ -103259,6 +103353,7 @@ louise maraval
 louisiana
 louisiane
 louissandoublage
+loujeanmonnot
 loup
 loup gironde
 loups-garous
@@ -104250,6 +104345,7 @@ marco wölfli
 marcokohler
 marcoodermatt
 marcorossi
+marcorubio
 marcos acuña
 marcrochat
 marcus maurer charite
@@ -104937,6 +105033,7 @@ mayfield
 mayotte
 mazan
 mazda cx-60
+mazelen vaccinatie
 mazepin
 mazisi kunene
 mazout
@@ -106053,6 +106150,7 @@ moteurpuretech
 mother/android
 motion de censure
 motion de censure bayrou
+motion de censure parti socialiste
 motion de censure vote
 motiondecensure
 motiondecensurebayrou
@@ -107905,6 +108003,7 @@ papst franziskus
 paques
 paques 2022
 paques 2024
+paquita la del barrio
 paraboot
 paracetamol
 parade olympique
@@ -108197,6 +108296,7 @@ patrouille des glaciers
 patrouille des glaciers 2024
 patrouille des glaciers zermatt
 patrouille suisse
+patser
 patti smith
 pau
 pau fc – nantes
@@ -109138,9 +109238,11 @@ pressekonferenz bundesrat
 pret a gouter
 pret a manger
 pret a taux zero
+pret a taux zero 2025
 pret immobilier taux zero
 pret taux zero
 pretatauxzero
+pretatauxzero2025
 prete moi ta main
 pretenders
 pretoria
@@ -111798,6 +111900,7 @@ selectie rode duivels
 selena gomez
 selenagomez
 selenium
+selfiesandra
 selim amallah
 sellner einreiseverbot
 selma blair
@@ -111880,9 +111983,11 @@ sergueï lavrov
 serhat akin
 serie a
 serie b
+serie bref
 serie-b
 serie: a
 seriea
+seriebref
 serienmörder schwäbisch hall
 serine ayari
 serpent
@@ -114557,6 +114662,7 @@ tornades états-unis
 tornado italien
 tornado tschechien
 tornadotschechien
+toronto
 torpille f21
 tory lanez
 toscani
@@ -115220,6 +115326,7 @@ un gars, une fille (au pluriel
 un homme a la hauteur
 un homme abimé
 un homme et une femme
+un homme heureux
 un indien dans la ville
 un jour sans fin
 un long dimanche de fiançailles
@@ -115622,6 +115729,7 @@ vanessa matagne
 vanessa paradis
 vanessa schneider
 vanessakasper
+vanessaparadis
 vangelis
 vangogh
 vanilla
@@ -115929,6 +116037,8 @@ villarreal – real madrid
 villarreal – rennes
 villarreal. barcelona
 villars
+villefranche sur mer
+villefranchesurmer
 villeneuve-saint-georges
 villeneuve-sur-lot
 villers cotterets
@@ -116580,6 +116690,7 @@ wielrenner stijn v
 wien
 wiener opernball
 wiener opernball 2023
+wierer
 wiesbaden
 wigan – manchester united
 wijnaldum
