@@ -841,6 +841,7 @@ AC MILAN – BOLOGNE
 AC MILAN – CAGLIARI
 AC MILAN – DORTMUND
 AC MILAN – EMPOLI
+AC MILAN – FEYENOORD
 AC MILAN – FIORENTINA
 AC MILAN – GENOA
 AC MILAN – INTER
@@ -867,6 +868,7 @@ AC Milan – Bologne
 AC Milan – Cagliari
 AC Milan – Dortmund
 AC Milan – Empoli
+AC Milan – Feyenoord
 AC Milan – Fiorentina
 AC Milan – Genoa
 AC Milan – Inter
@@ -985,6 +987,7 @@ ACMilan–Bologne
 ACMilan–Cagliari
 ACMilan–Dortmund
 ACMilan–Empoli
+ACMilan–Feyenoord
 ACMilan–Fiorentina
 ACMilan–Genoa
 ACMilan–Inter
@@ -1295,6 +1298,7 @@ AIR BELGIUM
 AIR FRANCE VOLS MER ROUGE
 AIR LIQUIDE
 AIR ZERMATT
+AIRBAG TAKATA
 AIRBUS
 AIRBUS A340 EDELWEISS
 AIRCAR
@@ -4156,6 +4160,8 @@ AirPodsPro2
 AirTag
 AirZermatt
 Airalgerie
+Airbag Takata
+AirbagTakata
 Airbus
 Airbus A340 Edelweiss
 AirbusA340Edelweiss
@@ -7709,6 +7715,7 @@ BAGCorona
 BAGNAIA
 BAGNOLS-SUR CEZE
 BAGQuarantäne
+BAHNHOF AARAU SBB
 BAHNHOF LUZERN
 BAHNHOF OLTEN UNFALL
 BAHNHOFBUFFET OLTEN
@@ -8078,6 +8085,8 @@ BAYERN MÜNCHEN
 BAYERN – AUGSBOURG
 BAYERN – BARCELONA
 BAYERN – BENFICA
+BAYERN – CELTIC
+BAYERN – CELTIC GLASGOW
 BAYERN – COLOGNE
 BAYERN – DARMSTADT
 BAYERN – DINAMO ZAGREB
@@ -8362,6 +8371,7 @@ BENFICA – GIL VICENTE
 BENFICA – JUVENTUS
 BENFICA – LIVERPOOL
 BENFICA – MIDTJYLLAND
+BENFICA – MONACO
 BENFICA – PARIS-SG
 BENFICA – PORTO
 BENFICA – SPORTING
@@ -9034,6 +9044,7 @@ BONNE RENTRÉE
 BONNE SAINT-VALENTIN
 BONNES FETES
 BONNEUIL-EN-FRANCE
+BONNIE BLUE
 BONNIE TYLER
 BONNIE WRIGHT
 BONO
@@ -10464,6 +10475,8 @@ Bayern munchen
 Bayern – Augsbourg
 Bayern – Barcelona
 Bayern – Benfica
+Bayern – Celtic
+Bayern – Celtic Glasgow
 Bayern – Cologne
 Bayern – Darmstadt
 Bayern – Dinamo Zagreb
@@ -10527,6 +10540,8 @@ Bayernmunchen
 Bayern–Augsbourg
 Bayern–Barcelona
 Bayern–Benfica
+Bayern–Celtic
+Bayern–CelticGlasgow
 Bayern–Cologne
 Bayern–Darmstadt
 Bayern–DinamoZagreb
@@ -10947,6 +10962,7 @@ Benfica – Gil Vicente
 Benfica – Juventus
 Benfica – Liverpool
 Benfica – Midtjylland
+Benfica – Monaco
 Benfica – Porto
 Benfica – Sporting
 Benfica – Toulouse
@@ -10970,6 +10986,7 @@ Benfica–GilVicente
 Benfica–Juventus
 Benfica–Liverpool
 Benfica–Midtjylland
+Benfica–Monaco
 Benfica–Porto
 Benfica–Sporting
 Benfica–Toulouse
@@ -14054,6 +14071,7 @@ CHELSEA-LILLE
 CHELSEA-REAL MADRID
 CHELSY DAVY
 CHEMIEUNFALL ZÜRICH
+CHEMSDINE TALBI
 CHEMSEX
 CHENILLE PROCESSIONNAIRE
 CHENILLEPROCESSIONNAIRE
@@ -16741,6 +16759,8 @@ Chelsy Davy
 ChelsyDavy
 Chemieunfall Zürich
 ChemieunfallZürich
+Chemsdine Talbi
+ChemsdineTalbi
 Chemsex
 Chenille processionnaire
 Chenilleprocessionnaire
@@ -18776,6 +18796,7 @@ CÉLINE BOUTIER SCOTTISH OPEN
 CÉLINE DION
 CÉRÉMONIE D'OUVERTURE JO
 CÔME – JUVENTUS
+CÔTE BELGE
 CÔTE D'IVOIRE – ALGÉRIE
 CÔTE D'IVOIRE – GABON
 CÔTE D'IVOIRE – MAROC
@@ -22853,6 +22874,7 @@ ELISABETH BORNE
 ELISABETH BORNE SYNDICATS
 ELISABETH BORNE ÉMEUTES
 ELISABETH BOST
+ELISABETH GUIGOU
 ELISABETH LUCIE BAETEN
 ELISABETH MORENO
 ELISABETH NIEJAHR
@@ -22906,6 +22928,7 @@ ELODIEFREGE
 ELOHIM PRANDI
 ELON MUSK
 ELON MUSK DONALD TRUMP
+ELON MUSK GROK 3
 ELON MUSK IRAN
 ELON MUSK NAZI
 ELON MUSK NEURALINK
@@ -23294,6 +23317,7 @@ ERNESTO BERTARELLI
 EROS RAMAZZOTTI
 ERROL MUSK
 ERSILIA SOUDAIS
+ERTAN WITTWER
 ERUPTION VOLCAN BALI
 ERWACHSENER
 ERWAN DISPARITION
@@ -24328,6 +24352,7 @@ Elisabeth Borne
 Elisabeth Borne syndicats
 Elisabeth Borne émeutes
 Elisabeth Bost
+Elisabeth Guigou
 Elisabeth Lucie Baeten
 Elisabeth Moreno
 Elisabeth Niejahr
@@ -24337,6 +24362,7 @@ ElisabethBorne
 ElisabethBornesyndicats
 ElisabethBorneémeutes
 ElisabethBost
+ElisabethGuigou
 ElisabethLucieBaeten
 ElisabethMoreno
 ElisabethNiejahr
@@ -26006,6 +26032,7 @@ FALLOUT
 FALSTAFF
 FALUN
 FAMILIE
+FAMILLE BIBAS
 FAMILLE RETROUVEE MORTE CARANTEC
 FAMILLE ROYALE BELGE
 FAMILY BUSINESS
@@ -27692,8 +27719,10 @@ Fallout
 Falstaff
 Falun
 Familie
+Famille Bibas
 Famille retrouvee morte Carantec
 Famille royale belge
+FamilleBibas
 FamilleretrouveemorteCarantec
 Familleroyalebelge
 Family Business
@@ -35238,9 +35267,12 @@ I GOT YOU BABE
 I Got You Babe
 IA
 IA CHINOISE
+IA ELON MUSK GROK 3
+IA Elon Musk Grok 3
 IA FRANCAISE LUCIE
 IA chinoise
 IA francaise Lucie
+IAElonMuskGrok3
 IAN BAILEY
 IAN BROSSAT
 IAN GELDER
@@ -44085,6 +44117,7 @@ LEO MATTEI
 LEO VARADKAR
 LEO WALK
 LEOLIA JEANJEAN
+LEON DEBBOUZE
 LEON DRAISAITL
 LEON GAUTIER
 LEON MARCHAND
@@ -44728,6 +44761,7 @@ LONG COVID
 LONGO BORGHINI
 LONZA
 LOOK BOTH WAYS
+LOOKMAN
 LOOP EARPLUGS
 LOPETEGUI
 LORD LUCAN
@@ -47822,6 +47856,7 @@ LongoBorghini
 Lonza
 Look Both Ways
 LookBothWays
+Lookman
 Loop Earplugs
 LoopEarplugs
 Lopetegui
@@ -50588,6 +50623,7 @@ MIEL DEKIEN
 MIET SMET
 MIET WARLOP
 MIG-29
+MIGNOLET
 MIGROS ALKOHOL
 MIGROS BANK
 MIGROS ENTLASSUNGEN
@@ -50678,6 +50714,7 @@ MILAN PSG
 MILAN RADOICIC
 MILAN ROMA
 MILAN SAN REMO 2022
+MILAN VS FEYENOORD
 MILAN – ATALANTA
 MILAN – ATLÉTICO MADRID
 MILAN – BOLOGNE
@@ -54644,6 +54681,7 @@ MietSmet
 MietWarlop
 Mig-29
 Mig29
+Mignolet
 Migros Alkohol
 Migros Bank
 Migros Entlassungen
@@ -54780,6 +54818,7 @@ Milan gegen Inter
 Milan gegen RB Salzburg
 Milan gegen Tottenham
 Milan san remo 2022
+Milan vs Feyenoord
 Milan – Atalanta
 Milan – Atlético Madrid
 Milan – Bologne
@@ -54840,6 +54879,7 @@ MilangegenInter
 MilangegenRBSalzburg
 MilangegenTottenham
 Milansanremo2022
+MilanvsFeyenoord
 Milan–Atalanta
 Milan–AtléticoMadrid
 Milan–Bologne
@@ -56353,6 +56393,7 @@ NESTLE AKTIE
 NESTLÉ
 NESTLÉ EAUX MINÉRALES
 NETANYAHU
+NETFLIX
 NETFLIX ABO
 NETFLIX GAMES
 NETFLIX PARTAGE DE COMPTE
@@ -56409,6 +56450,7 @@ NEW YORK ERDBEBEN
 NEW YORK MARATHON 2023
 NEW YORK RB – BARCELONA
 NEW YORK TIMES
+NEW ZEALAND VS PAKISTAN
 NEWB
 NEWCASTLE
 NEWCASTLE - BOURNEMOUTH
@@ -56973,6 +57015,7 @@ NURI SAHIN
 NURIA GORRITE
 NUSA
 NUSSBAUMEN
+NUTELLA-ERFINDER GESTORBEN
 NUUD
 NVA
 NVIDIA
@@ -58547,6 +58590,9 @@ Nuria Gorrite
 NuriaGorrite
 Nusa
 Nussbaumen
+Nutella-Erfinder gestorben
+Nutella-Erfindergestorben
+NutellaErfinder gestorben
 Nuud
 Nvidia
 Nvidia Aktie
@@ -59176,6 +59222,7 @@ OUGANDA – ALGÉRIE
 OUGANDAISE JUMEAUX
 OUIGO
 OUIGO PARIS-BRUXELLES
+OUISTREHAM
 OULA PALVE
 OUMI
 OUNAHI
@@ -61085,6 +61132,7 @@ PIZZA
 PIZZA BUITONI
 PIÑERA
 PJANIC
+PKP
 PL
 PLACE DE LA CONCORDE
 PLACEBO
@@ -65058,6 +65106,7 @@ RACHELZEGLER
 RACHID M'BARKI
 RACHIDA BRAKNI
 RACHIDA DATI
+RACHIDA DATI AU SAHARA OCCIDENTAL
 RACHIDA DATI MINISTRE
 RACHIDA DATI MINISTRE CULTURE
 RACING 92
@@ -65436,6 +65485,7 @@ REAL MADRID – LAS PALMAS
 REAL MADRID – LIVERPOOL
 REAL MADRID – MAJORQUE
 REAL MADRID – MALLORCA
+REAL MADRID – MANCHESTER CITY
 REAL MADRID – MANCHESTER UNITED
 REAL MADRID – MILAN
 REAL MADRID – NAPLES
@@ -66300,6 +66350,7 @@ ROOS VAN ACKER
 ROOS VANOTTERDIJK
 ROQUEFIXADE
 RORQUAL
+RORQUAL COMMUN
 RORSCHACH
 RORSCHACHERBERG
 RORY CALLUM SYKES
@@ -66346,6 +66397,7 @@ ROUMANIE – PAYS-BAS
 ROUMANIE-KOSOVO
 ROUQUINE
 ROUSSEL
+ROUSSILLON
 ROUTE DU RHUM
 ROUTE DU RHUM 2022
 ROUTE DU RHUM DIRECT
@@ -66620,11 +66672,13 @@ RachidM'Barki
 Rachida Brakni
 Rachida DATI
 Rachida Dati
+Rachida Dati au Sahara occidental
 Rachida Dati ministre
 Rachida Dati ministre Culture
 RachidaBrakni
 RachidaDATI
 RachidaDati
+RachidaDatiauSaharaoccidental
 RachidaDatiministre
 RachidaDatiministreCulture
 Racing 92
@@ -67091,6 +67145,7 @@ Real Madrid – Las Palmas
 Real Madrid – Liverpool
 Real Madrid – Majorque
 Real Madrid – Mallorca
+Real Madrid – Manchester City
 Real Madrid – Manchester United
 Real Madrid – Milan
 Real Madrid – Naples
@@ -67204,6 +67259,7 @@ RealMadrid–LasPalmas
 RealMadrid–Liverpool
 RealMadrid–Majorque
 RealMadrid–Mallorca
+RealMadrid–ManchesterCity
 RealMadrid–ManchesterUnited
 RealMadrid–Milan
 RealMadrid–Naples
@@ -68629,6 +68685,8 @@ RoosVanAcker
 RoosVanotterdijk
 Roquefixade
 Rorqual
+Rorqual commun
+Rorqualcommun
 Rorschach
 Rorschacherberg
 Rory Sykes
@@ -76713,6 +76771,7 @@ TOMA NIKIFOROV
 TOMAS DE SOETE
 TOMAS ORAL
 TOMASO TRUSSARDI
+TOMB RAIDER
 TOMCRAFT
 TOMER SISLEY
 TOMHOLLAND
@@ -79942,6 +80001,7 @@ U21
 U21 SCHWEIZ
 U21 Schweiz
 U21Schweiz
+UAE TOUR
 UAE TOUR 2024
 UAE Tour 2024
 UAETour2024
@@ -80143,6 +80203,7 @@ UHR
 UHRZEIT
 UITSLAG VERKIEZINGEN
 UITSPRAAK DEPP HEARD
+UITVINDER NUTELLA OVERLEDEN
 UK OPEN DARTS
 UK OPEN DARTS 2022
 UK Open Darts
@@ -80237,6 +80298,7 @@ UNFALL A1
 UNFALL A1 HEUTE
 UNFALL A4
 UNFALL A8
+UNFALL AATHAL
 UNFALL AUTOBAHN A1
 UNFALL AUTOBAHN A2
 UNFALL AUTOBAHN GLATTBRUGG
@@ -81706,6 +81768,7 @@ VOLVO EM90
 VOLVO EX30
 VOLVO EX90
 VOLVO XC40
+VOLVO XC60
 VON DER LEYEN
 VONDROUSOVA
 VOODOO VILLAGE
@@ -82911,10 +82974,12 @@ Volvo EM90
 Volvo EX30
 Volvo EX90
 Volvo XC40
+Volvo XC60
 VolvoEM90
 VolvoEX30
 VolvoEX90
 VolvoXC40
+VolvoXC60
 Von der Leyen
 VonderLeyen
 Vondrousova
@@ -86066,6 +86131,7 @@ ac milan – bologne
 ac milan – cagliari
 ac milan – dortmund
 ac milan – empoli
+ac milan – feyenoord
 ac milan – fiorentina
 ac milan – genoa
 ac milan – inter
@@ -86459,6 +86525,7 @@ air belgium
 air france vols mer rouge
 air liquide
 air zermatt
+airbag takata
 airbus
 airbus a340 edelweiss
 aircar
@@ -87229,6 +87296,7 @@ andreas skov olsen
 andreas thiel
 andreas vollenweider
 andreas zollinger
+andreasglarner
 andreeva
 andreeva tennis
 andrehazes
@@ -87714,6 +87782,7 @@ ardeche
 ardentes
 arditi
 ardon jashari
+ardonjashari
 are
 are schweden
 arena
@@ -88552,8 +88621,10 @@ bag corona
 bag quarantäne
 bagnaia
 bagnols-sur ceze
+bahnhof aarau sbb
 bahnhof luzern
 bahnhof olten unfall
+bahnhofaarausbb
 bahnhofbuffet olten
 bahrain victorious
 bahrein
@@ -88928,6 +88999,8 @@ bayern münchen
 bayern – augsbourg
 bayern – barcelona
 bayern – benfica
+bayern – celtic
+bayern – celtic glasgow
 bayern – cologne
 bayern – darmstadt
 bayern – dinamo zagreb
@@ -89209,6 +89282,7 @@ benfica – gil vicente
 benfica – juventus
 benfica – liverpool
 benfica – midtjylland
+benfica – monaco
 benfica – paris-sg
 benfica – porto
 benfica – sporting
@@ -89861,8 +89935,10 @@ bonne rentrée
 bonne saint-valentin
 bonnes fetes
 bonneuil-en-france
+bonnie blue
 bonnie tyler
 bonnie wright
+bonnieblue
 bono
 bonobo
 bonucci
@@ -91453,6 +91529,7 @@ chelsea-lille
 chelsea-real madrid
 chelsy davy
 chemieunfall zürich
+chemsdine talbi
 chemsex
 chenille processionnaire
 chenilleprocessionnaire
@@ -92657,11 +92734,13 @@ céline boutier scottish open
 céline dion
 cérémonie d'ouverture jo
 côme – juventus
+côte belge
 côte d'ivoire – algérie
 côte d'ivoire – gabon
 côte d'ivoire – maroc
 côte d'ivoire – nigeria
 côte d'ivoire – égypte
+côtebelge
 cömert
 cüneyt arkin
 d'argent et de sang
@@ -94334,6 +94413,7 @@ elisabeth borne
 elisabeth borne syndicats
 elisabeth borne émeutes
 elisabeth bost
+elisabeth guigou
 elisabeth lucie baeten
 elisabeth moreno
 elisabeth niejahr
@@ -94391,6 +94471,7 @@ elodiefrege
 elohim prandi
 elon musk
 elon musk donald trump
+elon musk grok 3
 elon musk iran
 elon musk nazi
 elon musk neuralink
@@ -94399,6 +94480,7 @@ elon musk tweets
 elon musk twitter
 elon musk twitter ultimatum
 elonmuskdonaldtrump
+elonmuskgrok3
 elonmusktesla
 eloy de jong
 els ampe
@@ -94767,6 +94849,8 @@ ernesto bertarelli
 eros ramazzotti
 errol musk
 ersilia soudais
+ertan wittwer
+ertanwittwer
 eruption volcan bali
 erwachsener
 erwan disparition
@@ -95330,6 +95414,7 @@ fallout
 falstaff
 falun
 familie
+famille bibas
 famille retrouvee morte carantec
 famille royale belge
 family business
@@ -98773,6 +98858,7 @@ iPhoneSE2022
 iPod
 ia
 ia chinoise
+ia elon musk grok 3
 ia francaise lucie
 ian bailey
 ian brossat
@@ -102511,6 +102597,7 @@ leo mattei
 leo varadkar
 leo walk
 leolia jeanjean
+leon debbouze
 leon draisaitl
 leon gautier
 leon marchand
@@ -102525,6 +102612,7 @@ leonardo del vecchio
 leonardo dicaprio
 leonardo spinazzola
 leonardpeltier
+leondebbouze
 leonidas
 leonor
 leonor von spanien
@@ -103165,6 +103253,7 @@ long covid
 longo borghini
 lonza
 look both ways
+lookman
 loop earplugs
 lopetegui
 lord lucan
@@ -105587,6 +105676,7 @@ miet smet
 miet warlop
 mietwarlop
 mig-29
+mignolet
 migros alkohol
 migros bank
 migros entlassungen
@@ -105678,6 +105768,7 @@ milan psg
 milan radoicic
 milan roma
 milan san remo 2022
+milan vs feyenoord
 milan – atalanta
 milan – atlético madrid
 milan – bologne
@@ -106683,6 +106774,7 @@ nestle aktie
 nestlé
 nestlé eaux minérales
 netanyahu
+netflix
 netflix abo
 netflix games
 netflix partage de compte
@@ -106739,6 +106831,7 @@ new york erdbeben
 new york marathon 2023
 new york rb – barcelona
 new york times
+new zealand vs pakistan
 newb
 newcastle
 newcastle  bournemouth
@@ -106764,6 +106857,7 @@ newcastle–wolves
 newglenn
 news
 news heute
+newzealandvspakistan
 nexity
 neymar
 neymar jair bolsonaro
@@ -107281,6 +107375,7 @@ nuria gorrite
 nurisahin
 nusa
 nussbaumen
+nutella-erfinder gestorben
 nuud
 nva
 nvidia
@@ -107815,10 +107910,12 @@ oudejaarsavond
 ouderschapsverlof
 oudsbergen
 ouest-france
+ouestfrance
 ouganda – algérie
 ougandaise jumeaux
 ouigo
 ouigo paris-bruxelles
+ouistreham
 oula palve
 oumi
 ounahi
@@ -108860,6 +108957,7 @@ pizza
 pizza buitoni
 piñera
 pjanic
+pkp
 pl
 place de la concorde
 placebo
@@ -109688,6 +109786,7 @@ rachelzegler
 rachid m'barki
 rachida brakni
 rachida dati
+rachida dati au sahara occidental
 rachida dati ministre
 rachida dati ministre culture
 racing 92
@@ -110012,6 +110111,7 @@ real madrid – las palmas
 real madrid – liverpool
 real madrid – majorque
 real madrid – mallorca
+real madrid – manchester city
 real madrid – manchester united
 real madrid – milan
 real madrid – naples
@@ -110289,6 +110389,7 @@ rentrée des classes
 rentrée scolaire
 rentrée scolaire 2024
 renzo blumenthal
+renzoblumenthal
 rené benko
 rené froger
 rené robert
@@ -110867,6 +110968,7 @@ roos van acker
 roos vanotterdijk
 roquefixade
 rorqual
+rorqual commun
 rorschach
 rorschacherberg
 rory callum sykes
@@ -110915,6 +111017,7 @@ roumanie – pays-bas
 roumanie-kosovo
 rouquine
 roussel
+roussillon
 route du rhum
 route du rhum 2022
 route du rhum direct
@@ -114575,6 +114678,8 @@ toma nikiforov
 tomas de soete
 tomas oral
 tomaso trussardi
+tomb raider
+tombraider
 tomcraft
 tomcruise
 tomer sisley
@@ -115164,7 +115269,9 @@ u20 wm eishockey
 u20-wm eishockey
 u21
 u21 schweiz
+uae tour
 uae tour 2024
+uaetour
 ub40
 ubb
 ubb clermont
@@ -115276,6 +115383,8 @@ uhr
 uhrzeit
 uitslag verkiezingen
 uitspraak depp heard
+uitvinder nutella overleden
+uitvindernutellaoverleden
 uk open darts
 uk open darts 2022
 ukraine
@@ -115366,6 +115475,7 @@ unfall a1
 unfall a1 heute
 unfall a4
 unfall a8
+unfall aathal
 unfall autobahn a1
 unfall autobahn a2
 unfall autobahn glattbrugg
@@ -115391,6 +115501,7 @@ unfall regensdorf
 unfall sargans
 unfall uster aathal
 unfalla4
+unfallaathal
 unfallbrüttisellen
 unfalllengnauag
 unfrosted
@@ -116259,6 +116370,7 @@ volvo em90
 volvo ex30
 volvo ex90
 volvo xc40
+volvo xc60
 von der leyen
 vondrousova
 voodoo village
