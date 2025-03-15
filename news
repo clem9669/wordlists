@@ -1170,6 +1170,7 @@ AEROPORT CHARLEROI
 AEROPORT GENEVE
 AEROPORT MONTPELLIER
 AEROSMITH
+AESH
 AFASIE
 AFC RICHMOND
 AFC Richmond
@@ -1909,6 +1910,7 @@ AMERICAN GANGSTER
 AMERICAN SNIPER
 AMERICAN STAFF
 AMERICAN STAFFORDSHIRE TERRIER
+AMERIKAANSE PRESIDENTEN
 AMERSFOORT
 AMETI
 AMHERD
@@ -9333,6 +9335,7 @@ BRAND LUZERN
 BRAND MEILEN
 BRAND PFAFFNAU
 BRAND PRATTELN
+BRAND RICHENTHAL
 BRAND ROTKREUZ
 BRAND SCHLEITHEIM
 BRAND SCHOTEN
@@ -14536,6 +14539,7 @@ CLASSEMENT LIGUE EUROPA
 CLASSEMENT LYCÉES
 CLASSEMENT MEDAILLE JO 2020
 CLASSEMENT MEDAILLES JO
+CLASSEMENT PARIS NICE 2025
 CLASSEMENT PAYS LES PLUS HEUREUX
 CLASSEMENT PISA 2023
 CLASSEMENT PRÉSIDENTIELLE 2022
@@ -20275,6 +20279,7 @@ DUNE 2
 DUNE : PROPHECY
 DUNEDIN
 DUNKERQUE
+DUNKERQUE METZ
 DUNKIN' DONUTS
 DUO FISCHBACH
 DUOLINGO
@@ -23845,6 +23850,7 @@ EUROPA LEAGUE LOTING
 EUROPA LEAGUE-FINAL
 EUROPA LEAGUE: AUSLOSUNG
 EUROPA PARK
+EUROPA PARK EURO MIR
 EUROPA-CONFERENCE LEAGUE
 EUROPA-LEAGUE
 EUROPA-LEAGUE-AUSLOSUNG
@@ -26036,6 +26042,7 @@ F1 2022
 F1 2023
 F1 ABU DHABI
 F1 AUSTIN
+F1 AUSTRALIA
 F1 AUSTRALIE
 F1 AUTRICHE
 F1 Abu Dhabi
@@ -27213,6 +27220,7 @@ FORMULAIRE ENTREE SUISSE
 FORMULE 1
 FORMULE 1 2022
 FORMULE 1 2023
+FORMULE 1 2025
 FORMULE 1 ZANDVOORT
 FORMULE E
 FORREST GUMP
@@ -30674,6 +30682,7 @@ GERT VERHULST
 GERVAIS MARTEL
 GERVONTA DAVIS
 GERWYN PRICE
+GESAMTWELTCUP SKI
 GESTERN WAREN WIR NOCH KINDER
 GESTORBEN
 GET READY!
@@ -41510,6 +41519,7 @@ KASH PATEL
 KASIA GALLANIO
 KASIA LENHARDT
 KASIDIT SAMREJ
+KASIMPAŞA – ALANYASPOR
 KASIMPAŞA – GALATASARAY
 KASPER DOLBERG
 KASPER SCHMEICHEL
@@ -41642,6 +41652,7 @@ KENNEDY JR
 KENNETH ANGER
 KENNETH EUGENE SMITH
 KENNETH MITCHELL
+KENO
 KENOSHA
 KENTUCKY
 KENYA
@@ -50149,6 +50160,7 @@ MARTIN RÜTTER
 MARTIN SCHLEGEL
 MARTIN SCORSESE
 MARTIN SELLNER
+MARTIN SHORT
 MARTIN SOLVEIG
 MARTIN SUTER
 MARTIN TERRIER
@@ -50971,6 +50983,7 @@ MICHELLE HUNZIKER NEWS
 MICHELLE MARTIN
 MICHELLE OBAMA
 MICHELLE PERROT
+MICHELLE PFEIFFER
 MICHELLE WILLIAMS
 MICHELLE YEOH
 MICHELLEHUNZIKER
@@ -56996,6 +57009,7 @@ NICO DENZ
 NICO GONZALEZ
 NICO GONZÁLEZ
 NICO HISCHIER
+NICO PERFEKTE DINNER
 NICO SANTOS
 NICO SCHULZ
 NICO STURM
@@ -59592,6 +59606,7 @@ OSCAR 2022
 OSCAR 2023
 OSCAR 2024
 OSCAR AND THE WOLF
+OSCAR AND THE WOLF SPORTPALEIS
 OSCAR FREIRE
 OSCAR JEGOU
 OSCAR LOMBARDOT
@@ -80639,6 +80654,7 @@ UDINESE ROMA
 UDINESE – AC MILAN
 UDINESE – ATALANTA
 UDINESE – CHELSEA
+UDINESE – HELLAS VÉRONE
 UDINESE – INTER
 UDINESE – ROMA
 UDO JÜRGENS
@@ -80892,6 +80908,7 @@ UNFALL ESSLINGEN
 UNFALL FRUTIGEN
 UNFALL FÜLLINSDORF
 UNFALL GEBENSTORF
+UNFALL GOSSAU SG
 UNFALL GÜTTINGEN
 UNFALL HAMBURG JUNGFERNSTIEG
 UNFALL HEUTE
@@ -80996,6 +81013,7 @@ UNWETTER DEUTSCHLAND
 UNWETTER EMMENTAL
 UNWETTER GEWITTER
 UNWETTER ITALIEN
+UNWETTER ITALIEN TOSKANA
 UNWETTER KRETA HERAKLION
 UNWETTER SCHWEIZ
 UNWETTER SCHWEIZ HEUTE
@@ -87017,6 +87035,7 @@ aeroport charleroi
 aeroport geneve
 aeroport montpellier
 aerosmith
+aesh
 afasie
 afc richmond
 afd
@@ -87770,6 +87789,8 @@ american gangster
 american sniper
 american staff
 american staffordshire terrier
+amerikaanse presidenten
+amerikaansepresidenten
 amersfoort
 ameti
 amherd
@@ -90876,6 +90897,7 @@ brand luzern
 brand meilen
 brand pfaffnau
 brand pratteln
+brand richenthal
 brand rotkreuz
 brand schleitheim
 brand schoten
@@ -90889,6 +90911,7 @@ brand wolfenschiessen
 brandenburg
 brandkaiseraugst
 brandon wen
+brandrichenthal
 brandschoten
 brandstofprijzen
 brandy melville
@@ -92669,6 +92692,7 @@ classement ligue europa
 classement lycées
 classement medaille jo 2020
 classement medailles jo
+classement paris nice 2025
 classement pays les plus heureux
 classement pisa 2023
 classement présidentielle 2022
@@ -92681,6 +92705,7 @@ classement vuelta 2023
 classementeuro
 classementeuro2020
 classementeuro2021
+classementparisnice2025
 classementtourdefrance
 classementtourdefrance2021
 classico organisé
@@ -94840,6 +94865,8 @@ dune 2
 dune : prophecy
 dunedin
 dunkerque
+dunkerque metz
+dunkerquemetz
 dunkin' donuts
 duo fischbach
 duolingo
@@ -96055,11 +96082,13 @@ europa league loting
 europa league-final
 europa league: auslosung
 europa park
+europa park euro mir
 europa-conference league
 europa-league
 europa-league-auslosung
 europa-park
 europaleagueauslosung
+europaparkeuromir
 europawahl 2024
 europe
 europe 1
@@ -96121,6 +96150,7 @@ eva wannenmacher srf
 eva wildi cortes
 eva-jane
 evaelle harcèlement
+evalongoria
 evalys
 evan ellingson
 evan fournier
@@ -96215,6 +96245,7 @@ f1 2022
 f1 2023
 f1 abu dhabi
 f1 austin
+f1 australia
 f1 australie
 f1 autriche
 f1 bahrain
@@ -96253,6 +96284,7 @@ f1 turkije
 f1 usa
 f1 zandvoort
 f1-qualifying
+f1australia
 f1tv
 f2
 f35
@@ -97093,9 +97125,11 @@ formulaire entree suisse
 formule 1
 formule 1 2022
 formule 1 2023
+formule 1 2025
 formule 1 zandvoort
 formule e
 formule1
+formule12025
 forrest gump
 forspoken
 fort boyard
@@ -97329,6 +97363,7 @@ france-uruguay
 france.tv
 franceaustralie
 francefoot
+francegall
 francehongrie
 franceinfo
 franceportugal
@@ -98205,6 +98240,8 @@ gert verhulst
 gervais martel
 gervonta davis
 gerwyn price
+gesamtweltcup ski
+gesamtweltcupski
 gestern waren wir noch kinder
 gestorben
 get ready!
@@ -99140,6 +99177,7 @@ hanne gaby odiele
 hanne k3
 hanne troonbeeckx
 hanne verbruggen
+hannedesmet
 hanneke faber
 hannelore knuts
 hannes van duysen
@@ -100978,6 +101016,7 @@ jd
 jd vance
 jdd
 jdd geoffroy lejeune
+jdvance
 je ne me laisserai plus faire
 je te promets
 je te promets saison 3
@@ -102175,7 +102214,9 @@ kasteel tivoli
 kasteelmoord
 kasteeltivoli
 kastriot imeri
+kasımpaşa – alanyaspor
 kasımpaşa – galatasaray
+kasımpaşa–alanyaspor
 kasımpaşa–galatasaray
 kat
 kat kerkhofs
@@ -102301,6 +102342,7 @@ kennedy jr
 kenneth anger
 kenneth eugene smith
 kenneth mitchell
+keno
 kenosha
 kentucky
 kenya
@@ -105981,6 +106023,7 @@ martin rütter
 martin schlegel
 martin scorsese
 martin sellner
+martin short
 martin solveig
 martin suter
 martin terrier
@@ -106003,6 +106046,7 @@ martinique gendarme caf rsa
 martinique vie chère
 martinpfister
 martinpfisterbundesrat
+martinshort
 martinsloch
 martinstag
 martullo-blocher
@@ -106827,10 +106871,12 @@ michelle hunziker news
 michelle martin
 michelle obama
 michelle perrot
+michelle pfeiffer
 michelle williams
 michelle yeoh
 michellegisin
 michellehunziker
+michellepfeiffer
 michelpolnareff
 michiel de meyer
 michou
@@ -108174,6 +108220,7 @@ nico denz
 nico gonzalez
 nico gonzález
 nico hischier
+nico perfekte dinner
 nico santos
 nico schulz
 nico sturm
@@ -108240,6 +108287,7 @@ nicole schmidhofer
 nicole shanahan
 nicolekidman
 nicoletta
+nicoperfektedinner
 niederlande
 niederlande gegen argentinien
 niederlande tschechien
@@ -109112,6 +109160,7 @@ oscar 2022
 oscar 2023
 oscar 2024
 oscar and the wolf
+oscar and the wolf sportpaleis
 oscar freire
 oscar jegou
 oscar lombardot
@@ -109120,6 +109169,7 @@ oscar nominations 2025
 oscar otte
 oscar piastri
 oscar pistorius
+oscarandthewolfsportpaleis
 oscarlombardot
 oscars
 oscars 2022
@@ -116758,9 +116808,11 @@ udinese roma
 udinese – ac milan
 udinese – atalanta
 udinese – chelsea
+udinese – hellas vérone
 udinese – inter
 udinese – roma
 udinese–atalanta
+udinese–hellasvérone
 udinese–roma
 udo jürgens
 udo lindenberg
@@ -116949,6 +117001,7 @@ unfall esslingen
 unfall frutigen
 unfall füllinsdorf
 unfall gebenstorf
+unfall gossau sg
 unfall güttingen
 unfall hamburg jungfernstieg
 unfall heute
@@ -116964,6 +117017,7 @@ unfall uster heute
 unfalla4
 unfallaathal
 unfallbrüttisellen
+unfallgossausg
 unfalllengnauag
 unfallusterheute
 unfrosted
@@ -117058,6 +117112,7 @@ unwetter deutschland
 unwetter emmental
 unwetter gewitter
 unwetter italien
+unwetter italien toskana
 unwetter kreta heraklion
 unwetter schweiz
 unwetter schweiz heute
@@ -117067,6 +117122,7 @@ unwetter südafrika
 unwetter südtirol
 unwetter zürich
 unwetter österreich
+unwetteritalientoskana
 unwetterschweiz
 unwetterwarnung
 upamecano
@@ -119094,6 +119150,7 @@ zürich–servette
 ÈveGilles,MissFrance2024
 ÈveGillesMissFrance2024
 ÉCLIPSE SOLAIRE 14 OCTOBRE
+ÉCOLE
 ÉCOSSE – ANGLETERRE
 ÉCOSSE – ESPAGNE
 ÉCOSSE – PORTUGAL
@@ -119345,6 +119402,7 @@ zürich–servette
 ève gilles miss france 2024
 ève gilles, miss france 2024
 éclipse solaire 14 octobre
+école
 écosse – angleterre
 écosse – espagne
 écosse – portugal
