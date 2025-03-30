@@ -1507,6 +1507,7 @@ ALCAZAR
 ALDERWEIRELD
 ALDI
 ALDI FILIALE EINTRITTSGELD
+ALDI SCHOKOLADEN RÜCKRUF
 ALDI SUISSE
 ALDO MACCIONE
 ALEC BALDWIN
@@ -9620,6 +9621,7 @@ BRUGELETTE
 BRUGES
 BRUGES - BENFICA
 BRUGES - GENK
+BRUGES ANDERLECHT
 BRUGES DORTMUND
 BRUGES FIORENTINA
 BRUGES FOOT
@@ -13343,6 +13345,7 @@ CAEN – RODEZ
 CAEN – SOCHAUX
 CAF
 CAF FEVRIER
+CAGLIARI - MONZA
 CAGNOTTE POLICIER
 CAGNOTTE POLICIERS NAHEL
 CAHORS
@@ -13611,6 +13614,7 @@ CARMEN NEBEL
 CARNAC
 CARNAVAL DE NICE
 CARNAVAL DE NICE 2025
+CARNAVAL HALLE 2025
 CAROL ARNAULD
 CAROLE BOUQUET
 CAROLE DELGA
@@ -14158,6 +14162,7 @@ CHATEAU DE VERSAILLES
 CHATEAUROUX
 CHATEL
 CHATGPT
+CHATILLON
 CHAUVE-SOURIS
 CHAUVIGNY
 CHAYENNE VAN AARLE
@@ -15146,6 +15151,7 @@ COUPE DU MONDE U17
 COUPE DU MONDE U20
 COUPE DU MONDE U20 RUGBY
 COUPE DU ROI
+COUPE GAMBARDELLA
 COUPE SUISSE
 COUPED'EUROPE2021
 COUPEDUMONDE
@@ -27069,6 +27075,7 @@ FIONA SCOTT MORTON
 FIORENTINA
 FIORENTINA  JUVENTUS
 FIORENTINA  MILAN
+FIORENTINA - ATALANTA
 FIORENTINA - COMO
 FIORENTINA - INTER
 FIORENTINA - TORINO
@@ -27919,6 +27926,7 @@ FUSSBALL WM
 FUSSBALL WM 2022
 FUSSBALL WM FRAUEN
 FUSÉE INDIENNE LUNE
+FUSÉE SPECTRUM
 FUT WEB APP
 FUTSAL
 FUTUROSCOPE
@@ -30779,6 +30787,7 @@ GETAFE – BARCELONA
 GETAFE – BARCELONE
 GETAFE – REAL
 GETAFE – SÉVILLE
+GETAFE – VILLARREAL
 GEUENSEE
 GEWICHTSDECKE
 GEWITTER
@@ -33896,6 +33905,7 @@ HARCÈLEMENT SCOLAIRE LUCAS
 HARD SELTZER
 HARDROCK 100
 HARDWELL
+HARDY
 HARDY FRANCOISE
 HARDY KRUGER
 HARDY KRÜGER
@@ -41752,6 +41762,7 @@ KELVIN KIPTUM
 KEMBA WALKER
 KEMI BADENOCH
 KEMI SEBA
+KEMMELBERG
 KEMMERIBODEN-BAD
 KEN BLOCK
 KEN BLOCK TOT
@@ -42116,6 +42127,7 @@ KORTRIJK  STANDARD
 KORTRIJK  UNION
 KORTRIJK  ZULTE-WAREGEM
 KORTRIJK - ANDERLECHT
+KORTRIJK - CERCLE
 KORTRIJK-ANTWERP
 KOS
 KOSMOS ZÜRICH
@@ -62581,6 +62593,7 @@ PSV  SEVILLA
 PSV  SJACHTAR
 PSV  Sevilla
 PSV  Sjachtar
+PSV - AJAX
 PSV EINDHOVEN
 PSV EINDHOVEN GEGEN DORTMUND
 PSV EINDHOVEN GEGEN ZÜRICH
@@ -62655,6 +62668,7 @@ PUNAISE
 PUNAISE DE LIT
 PUNAISES DE LIT BELGIQUE
 PUNEETH RAJKUMAR
+PUNTA CANA
 PUPILLE
 PURE C
 PURPLE HEARTS
@@ -66609,6 +66623,7 @@ RICHARD BERRY
 RICHARD BOHRINGER
 RICHARD BRANSON
 RICHARD CARAPAZ
+RICHARD CHAMBERLAIN
 RICHARD CLAYDERMAN
 RICHARD COCCIANTE
 RICHARD DAVID PRECHT
@@ -77221,6 +77236,7 @@ THIBAU NYS
 THIBAUD VERLINDEN
 THIBAULT DE MONTAIGU
 THIBAULT DE MONTALEMBERT
+THIBAULT PORET
 THIBAUT COLLET
 THIBAUT COURTOIS
 THIBAUT PINOT
@@ -84195,6 +84211,7 @@ WERELDLICHTJESDAG
 WERK OHNE AUTOR
 WERKTUIGENDAGEN
 WERNER SALZMANN
+WERNER SCHLEGEL
 WERNER VAN GENT
 WERO
 WES
@@ -87619,7 +87636,9 @@ alcazar
 alderweireld
 aldi
 aldi filiale eintrittsgeld
+aldi schokoladen rückruf
 aldi suisse
+aldischokoladenrückruf
 aldisuisse
 aldo maccione
 alec baldwin
@@ -91458,10 +91477,12 @@ brugelette
 bruges
 bruges - benfica
 bruges - genk
+bruges anderlecht
 bruges dortmund
 bruges fiorentina
 bruges foot
 bruges leipzig
+brugesanderlecht
 brugge
 brugge anderlecht
 brugge fc
@@ -91740,6 +91761,9 @@ caen – sochaux
 caf
 caf fevrier
 caffevrier
+cagliari  monza
+cagliari - monza
+cagliari-monza
 cagnotte policier
 cagnotte policiers nahel
 cahors
@@ -92015,8 +92039,10 @@ carmen nebel
 carnac
 carnaval de nice
 carnaval de nice 2025
+carnaval halle 2025
 carnavaldenice
 carnavaldenice2025
+carnavalhalle2025
 carol arnauld
 carole bouquet
 carole delga
@@ -92578,6 +92604,7 @@ chateauroux
 chatel
 chatgpt
 chatgtp
+chatillon
 chauve-souris
 chauvigny
 chayenne van aarle
@@ -93587,10 +93614,12 @@ coupe du monde u17
 coupe du monde u20
 coupe du monde u20 rugby
 coupe du roi
+coupe gambardella
 coupe suisse
 couped'europe2021
 coupedavis
 coupedumonde
+coupegambardella
 couple
 couple disparu voiture retrouvée
 couple disparue madere
@@ -97289,10 +97318,12 @@ fiona gelin
 fiona harvey
 fiona scott morton
 fiorentina
+fiorentina  atalanta
 fiorentina  como
 fiorentina  juventus
 fiorentina  milan
 fiorentina  torino
+fiorentina - atalanta
 fiorentina - como
 fiorentina - inter
 fiorentina - torino
@@ -97301,6 +97332,7 @@ fiorentina – ac milan
 fiorentina – côme
 fiorentina – inter
 fiorentina – juventus
+fiorentina-atalanta
 fiorentina-como
 fiorentina-torino
 fiorentina–côme
@@ -98164,6 +98196,8 @@ fussball wm
 fussball wm 2022
 fussball wm frauen
 fusée indienne lune
+fusée spectrum
+fuséespectrum
 fut web app
 futsal
 futuroscope
@@ -98670,7 +98704,9 @@ getafe – barcelona
 getafe – barcelone
 getafe – real
 getafe – séville
+getafe – villarreal
 getafe–séville
+getafe–villarreal
 geuensee
 gewichtsdecke
 gewitter
@@ -99669,6 +99705,7 @@ harcèlement scolaire lucas
 hard seltzer
 hardrock 100
 hardwell
+hardy
 hardy francoise
 hardy kruger
 hardy krüger
@@ -100454,6 +100491,7 @@ ilenikhena
 iles feroe
 iles lavezzi
 iles tonga
+ilestonga
 ilicic
 iliman ndiaye
 ilka van de vyver
@@ -102811,6 +102849,7 @@ kelvin kiptum
 kemba walker
 kemi badenoch
 kemi seba
+kemmelberg
 kemmeriboden-bad
 ken block
 ken block tot
@@ -103182,8 +103221,10 @@ kortrijk  standard
 kortrijk  union
 kortrijk  zulte-waregem
 kortrijk - anderlecht
+kortrijk - cercle
 kortrijk-anderlecht
 kortrijk-antwerp
+kortrijk-cercle
 kos
 kosmos zürich
 kosovo
@@ -111595,6 +111636,7 @@ psg-reims
 psg-strasbourg
 psg-toulouse
 psv
+psv  ajax
 psv  club brugge
 psv  eindhoven
 psv  emmen
@@ -111604,6 +111646,7 @@ psv  hfc
 psv  rkc
 psv  sevilla
 psv  sjachtar
+psv - ajax
 psv eindhoven
 psv eindhoven gegen dortmund
 psv eindhoven gegen zürich
@@ -111615,6 +111658,7 @@ psv eindhoven – monaco
 psv eindhoven – séville
 psv galatasaray
 psv sevilla
+psv-ajax
 psychiatriezentrum münsingen
 ptb
 publibike
@@ -111647,6 +111691,8 @@ punaise
 punaise de lit
 punaises de lit belgique
 puneeth rajkumar
+punta cana
+puntacana
 pupille
 pure c
 purple hearts
@@ -112563,6 +112609,7 @@ richard berry
 richard bohringer
 richard branson
 richard carapaz
+richard chamberlain
 richard clayderman
 richard cocciante
 richard david precht
@@ -112585,6 +112632,7 @@ richard roundtree
 richard serra
 richard simmons
 richard van der venne
+richardchamberlain
 richarddonner
 richardgasquet
 richardson 100m
@@ -116508,6 +116556,8 @@ thibau nys
 thibaud verlinden
 thibault de montaigu
 thibault de montalembert
+thibault poret
+thibaultporet
 thibaut collet
 thibaut courtois
 thibaut pinot
@@ -116601,6 +116651,7 @@ thomas vints
 thomas voeckler
 thomasbriels
 thomasmeunier
+thomasmüller
 thomaspesquet
 thomasruyant
 thomassüssli
@@ -116856,6 +116907,7 @@ tomas oral
 tomaso trussardi
 tomb raider
 tombastiaanse
+tomboonen
 tombraider
 tomcraft
 tomcruise
@@ -118982,7 +119034,9 @@ wereldlichtjesdag
 werk ohne autor
 werktuigendagen
 werner salzmann
+werner schlegel
 werner van gent
+wernerschlegel
 wero
 wes
 wes anderson
@@ -119211,6 +119265,7 @@ winterthur – lausanne-sport
 winterthur – lugano
 winterthur – luzern
 winterthur – zürich
+winterthur–fcb
 wintertijd
 winterzeit zeitumstellung
 wintzenheim
