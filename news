@@ -927,6 +927,7 @@ ACCIDENT A16
 ACCIDENT A31 METZ
 ACCIDENT A47
 ACCIDENT A7
+ACCIDENT A87
 ACCIDENT A9
 ACCIDENT ACTEUR JÉRÉMY RENNER
 ACCIDENT ANCENIS
@@ -9366,6 +9367,7 @@ BRAND EINSIEDELN
 BRAND FRACHTSCHIFF NORDSEE
 BRAND FRUTIGEN
 BRAND GOSSAU SCHWEINESTALL
+BRAND HALLE
 BRAND HERENTALS
 BRAND HOEGAARDEN
 BRAND KAISERAUGST
@@ -19162,6 +19164,7 @@ DANIEL CARR
 DANIEL COHEN
 DANIEL COHN-BENDIT MACRON
 DANIEL CRAIG
+DANIEL CRAIG JAMES BOND
 DANIEL DAY-LEWIS
 DANIEL DEFILIPI
 DANIEL DONSKOY
@@ -19708,6 +19711,7 @@ DEUX FEMMES
 DEUX PLONGEURS DISPARUS
 DEUX-SÈVRES
 DEVA CASSEL
+DEVIL MAY CRY
 DEVILLE
 DEVIN AI
 DEXTER
@@ -19837,6 +19841,7 @@ DIEUDONNÉ
 DIEUDONNé
 DIEUMERCI MBOKANI
 DIEUWERTJE BLOK
+DIEZ MINUTOS
 DIGI
 DIGI ONTSLAGEN
 DIGITEC
@@ -20092,6 +20097,7 @@ DOMINIQUE TAPIE
 DOMINIQUE VAN MALDER
 DOMINIQUE VOYNET
 DOMINIQUE WARLUZEL
+DON BOSCO HALLE
 DON DU SANG
 DON LEMON
 DON MAYOTTE
@@ -35726,6 +35732,7 @@ ICBM
 ICC
 ICE ROAD
 ICE SPICE
+ICEBERG
 ICI PARIS XL
 ICI Paris XL
 ICIParisXL
@@ -44048,6 +44055,7 @@ LADJIDOUCOURé
 LADY DIANA
 LADY GABRIELLA WINDSOR
 LADY GAGA
+LADY GAGA CONCERT BELGIQUE
 LADY GAGA SPORTPALEIS
 LADY LOUISE WINDSOR
 LADY TRUCKERS
@@ -44060,6 +44068,7 @@ LAETITIA COLOMBANI
 LAETITIA KRUPA
 LAETITIA MILOT
 LAFARGE
+LAFC – INTER MIAMI
 LAFESSE
 LAFINEFLEUR
 LAFLEURDUMAL
@@ -57372,6 +57381,7 @@ NINA ENSMANN
 NINA HAGEN
 NINA KENNEDY
 NINA METAYER
+NINA MEURISSE
 NINA O'BRIEN
 NINA ORTLIEB
 NINA ORTLIEB STURZ
@@ -57600,6 +57610,7 @@ NOVAK DJOKOVIC
 NOVAK DJOKOVIC NEWS
 NOVAK ĐOKOVIĆ
 NOVARTIS
+NOVARTIS AKTIE
 NOVARTIS PUURS
 NOVARTIS-AKTIE
 NOVASTAR
@@ -60942,6 +60953,7 @@ PAPEFRANcOIS
 PAPEFRANÇOIS
 PAPEFRANçOIS
 PAPILLOMAVIRUS
+PAPIN
 PAPOTIN EMMANUEL MACRON
 PAPST BENEDIKT
 PAPST BENEDIKT XVI
@@ -87111,6 +87123,7 @@ accident a16
 accident a31 metz
 accident a47
 accident a7
+accident a87
 accident a9
 accident acteur jérémy renner
 accident ancenis
@@ -87179,6 +87192,7 @@ accident télésièges espagne
 accident villeneuve-d'ascq
 accident voiture sofian kiyine
 accidenta31metz
+accidenta87
 accidentancenis
 accidentcamionchambery
 accidentcampingcar
@@ -91265,6 +91279,7 @@ brand einsiedeln
 brand frachtschiff nordsee
 brand frutigen
 brand gossau schweinestall
+brand halle
 brand herentals
 brand hoegaarden
 brand kaiseraugst
@@ -91288,6 +91303,7 @@ brand wattwil
 brand wiler bei utzenstorf
 brand wolfenschiessen
 brandenburg
+brandhalle
 brandkaiseraugst
 brandon wen
 brandrichenthal
@@ -94134,6 +94150,7 @@ daniel carr
 daniel cohen
 daniel cohn-bendit macron
 daniel craig
+daniel craig james bond
 daniel day-lewis
 daniel defilipi
 daniel donskoy
@@ -94170,6 +94187,7 @@ daniela milanese
 daniela prepeliuc
 daniela ryf
 danielcarr
+danielcraigjamesbond
 daniele de rossi
 daniele negroni
 daniele obono
@@ -94699,7 +94717,9 @@ deux femmes
 deux plongeurs disparus
 deux-sèvres
 deva cassel
+devil may cry
 deville
+devilmaycry
 devin ai
 dexter
 dexter new blood
@@ -94820,6 +94840,8 @@ dieudonné
 dieumerci mbokani
 dieuwertje blok
 dieuwertjeblok
+diez minutos
+diezminutos
 digi
 digi ontslagen
 digiontslagen
@@ -95058,6 +95080,7 @@ dominique voynet
 dominique warluzel
 dominiquedevillepin
 dominiquepelicot
+don bosco halle
 don du sang
 don lemon
 don mayotte
@@ -95082,6 +95105,7 @@ donaldtusk
 donatella versace
 donatellaversace
 donbass
+donboscohalle
 donda
 donda 2
 donetsk
@@ -100511,6 +100535,7 @@ icbm
 icc
 ice road
 ice spice
+iceberg
 ici paris xl
 icon of the seas
 id geneve
@@ -103785,11 +103810,13 @@ ladjidoucouré
 lady diana
 lady gabriella windsor
 lady gaga
+lady gaga concert belgique
 lady gaga sportpaleis
 lady louise windsor
 lady truckers
 ladydiana
 ladygaga
+ladygagaconcertbelgique
 ladygagasportpaleis
 laeticia hallyday
 laeticiahallyday
@@ -103799,6 +103826,8 @@ laetitia colombani
 laetitia krupa
 laetitia milot
 lafarge
+lafc – inter miami
+lafc–intermiami
 lafesse
 lafinefleur
 lafleurdumal
@@ -109109,11 +109138,13 @@ nina ensmann
 nina hagen
 nina kennedy
 nina metayer
+nina meurisse
 nina o'brien
 nina ortlieb
 nina ortlieb sturz
 nina sterckx
 ninahagen
+ninameurisse
 ninho
 ninho stade de france
 ninja warrior
@@ -109347,8 +109378,10 @@ novak djokovic news
 novak đoković
 novakdjokovic
 novartis
+novartis aktie
 novartis puurs
 novartis-aktie
+novartisaktie
 novartispuurs
 novastar
 novavax
@@ -110164,6 +110197,7 @@ pape louvain-la-neuve
 papefrancois
 papefrançois
 papillomavirus
+papin
 papotin emmanuel macron
 papst benedikt
 papst benedikt xvi
@@ -117673,6 +117707,7 @@ ubs
 ubs aktie
 ubs credit suisse
 ubs-aktie
+ubsaktie
 ucb
 ucl
 uclouvain
