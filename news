@@ -976,6 +976,7 @@ ACCIDENT MARCINELLE
 ACCIDENT MARCQ ENGHIEN
 ACCIDENT METRO PARISIEN
 ACCIDENT MINIBUS HOUEILLES
+ACCIDENT MONTAGNE HAUTES PYRÉNÉES
 ACCIDENT MORTEL
 ACCIDENT MORTEL KOBA LAD
 ACCIDENT MORTEL LUNA PARK
@@ -8035,6 +8036,7 @@ BARD GOOGLE
 BARDONECCHIA
 BAREME IMPOT 2025
 BARES FÜR RARES
+BARIL
 BARKLEY MARATHON
 BARNABAS VARGA
 BARNAOUI
@@ -13302,6 +13304,7 @@ BÖRNI
 BÖRSE
 BÖRSE HEUTE
 BÖRSE KOPENHAGEN
+BÖRSEN
 BÖÖGG
 BÖÖGG-VERBRENNUNG HEIDEN
 BÜLACH
@@ -15035,6 +15038,7 @@ COPPA ITALIA
 COQUELUCHE
 CORA
 CORA BLOCAGE
+CORA FERMETURE
 CORA SCHUMACHER
 CORALIE DUBOST
 CORALIE PORROVECCHIO
@@ -33903,6 +33907,7 @@ HANDBALL-WM 2025
 HANDBALL-WM FINALE
 HANDELSZEITUNG
 HANDMAID'S TALE
+HANG SENG INDEX
 HANNA SCHEURING
 HANNA SCHYGULLA
 HANNA SÖKELAND
@@ -42047,6 +42052,7 @@ KKL LUZERN
 KKL Luzern
 KKLLuzern
 KLAAS VERPLANCKE
+KLAASJE MEIJER
 KLAPP
 KLAUS BARBIE
 KLAUS KINSKI
@@ -45577,6 +45583,7 @@ LR
 LR ERIC CIOTTI
 LR Eric Ciotti
 LREricCiotti
+LSG VS KKR
 LUAN PERES
 LUANA ALONSO
 LUANA BELMONDO
@@ -57375,6 +57382,8 @@ NIKE
 NIKI LAUDA
 NIKITA DRAGUN
 NIKKEI
+NIKKEI 225
+NIKKEI INDEX
 NIKKI GLASER
 NIKKI HALEY
 NIKKI JANSSENS
@@ -66646,6 +66655,7 @@ REUTLINGEN
 REUZEGOM
 REUZEGOM UITSPRAAK
 REUZEN ANTWERPEN
+REUZENWOLF
 REVALORISATION CAF
 REVALORISATION DES RETRAITES
 REVEILLON
@@ -72005,6 +72015,7 @@ STOMY BUGSY
 STOMYBUGSY
 STONE
 STONEHENGE
+STOOKOLIEPRIJS
 STOOS
 STOOS-SCHWINGET
 STOP INVASION
@@ -81251,6 +81262,7 @@ UNFALL LACHEN
 UNFALL LENGNAU AG
 UNFALL MAUTSTELLE ITALIEN
 UNFALL MÄRSTETTEN
+UNFALL RAPPERSWIL SEEDAMM
 UNFALL REGENSDORF
 UNFALL SARGANS
 UNFALL SCHÖFTLAND
@@ -82330,6 +82342,7 @@ VERLINDEN
 VERLOREN MAANDAG
 VERMAELEN
 VERMEER
+VERMISSTE FRAU TOT AUFGEFUNDEN
 VERMISSTE JOURNALISTIN
 VERMISSTE SKITOURENGÄNGER ZERMATT
 VERMISSTE VALERIIA DÖBELN LEICHE
@@ -82709,6 +82722,7 @@ VOLLMOND
 VOLLMOND 13 JANUAR
 VOLLMOND 2022
 VOLLMOND 2022 JUNI
+VOLLMOND APRIL 2025
 VOLLMOND AUGUST 2021
 VOLLMOND AUGUST 2024
 VOLLMOND FEBRUAR 2024
@@ -84377,6 +84391,7 @@ WETTEN, DASS
 WETTER
 WETTER BADEN
 WETTER GIFTIGE WOLKE
+WETTER GRIECHENLAND SCHNEE
 WETTER MALLORCA
 WETTER NEW YORK
 WETTER SCHNEE
@@ -87222,6 +87237,7 @@ accident marcinelle
 accident marcq enghien
 accident metro parisien
 accident minibus houeilles
+accident montagne hautes pyrénées
 accident mortel
 accident mortel koba lad
 accident mortel luna park
@@ -87251,6 +87267,7 @@ accidentancenis
 accidentcamionchambery
 accidentcampingcar
 accidentclavier
+accidentmontagnehautespyrénées
 accidents au sénégal
 accidentsaintghislain
 accidenttélésiège
@@ -89987,6 +90004,7 @@ bardonecchia
 bareme impot 2025
 baremeimpot2025
 bares für rares
+baril
 barkley marathon
 barnabas varga
 barnaoui
@@ -91879,6 +91897,7 @@ börse
 börse heute
 börse kopenhagen
 börseheute
+börsen
 böögg
 böögg-verbrennung heiden
 bülach
@@ -93624,8 +93643,10 @@ coppa italia
 coqueluche
 cora
 cora blocage
+cora fermeture
 cora schumacher
 corablocage
+corafermeture
 coralie dubost
 coralie porrovecchio
 cord cutting
@@ -93636,6 +93657,7 @@ coree du nord
 coree du sud
 coreedusud
 corentin moutet
+corentinmoutet
 corey taylor
 corgi
 corgis
@@ -95892,6 +95914,7 @@ elisabeth guigou
 elisabeth lucie baeten
 elisabeth moreno
 elisabeth niejahr
+elisabethborne
 elisabethluciebaeten
 elise buckle
 elise lucet
@@ -99852,6 +99875,8 @@ handball-wm 2025
 handball-wm finale
 handelszeitung
 handmaid's tale
+hang seng index
+hangsengindex
 hanna scheuring
 hanna schygulla
 hanna sökeland
@@ -103305,6 +103330,8 @@ kiwi
 kiyoshi kuromiya
 kkl luzern
 klaas verplancke
+klaasje meijer
+klaasjemeijer
 klapp
 klaus barbie
 klaus kinski
@@ -105498,6 +105525,8 @@ loïk le priol
 loïs openda
 lr
 lr eric ciotti
+lsg vs kkr
+lsgvskkr
 luan peres
 luana alonso
 luana belmondo
@@ -109221,6 +109250,10 @@ nike
 niki lauda
 nikita dragun
 nikkei
+nikkei 225
+nikkei index
+nikkei225
+nikkeiindex
 nikki glaser
 nikki haley
 nikki janssens
@@ -109555,6 +109588,7 @@ numerus clausus
 nuno borges
 nuno mendes
 nuno tavares
+nunoborges
 nupes
 nupes france
 nuri sahin
@@ -110724,6 +110758,7 @@ paula moltzan
 paulabadosa
 paulaccola
 pauldesaintsernin
+paulelkharrat
 paulette nardal
 paulgheysens
 pauline courtin
@@ -112743,6 +112778,7 @@ renzoblumenthalmisterschweiz
 rené benko
 rené froger
 rené robert
+renébenko
 renée zellweger
 renéezellweger
 repousse cheveux edouard philippe
@@ -112836,6 +112872,7 @@ reutlingen
 reuzegom
 reuzegom uitspraak
 reuzen antwerpen
+reuzenwolf
 revalorisation caf
 revalorisation des retraites
 revalorisationcaf
@@ -115709,6 +115746,7 @@ stojkovic
 stomy bugsy
 stone
 stonehenge
+stookolieprijs
 stoos
 stoos-schwinget
 stop invasion
@@ -118077,6 +118115,7 @@ unfall lachen
 unfall lengnau ag
 unfall mautstelle italien
 unfall märstetten
+unfall rapperswil seedamm
 unfall regensdorf
 unfall sargans
 unfall schöftland
@@ -118087,6 +118126,7 @@ unfallaathal
 unfallbrüttisellen
 unfallgossausg
 unfalllengnauag
+unfallrapperswilseedamm
 unfallschöftland
 unfallusterheute
 unfrosted
@@ -118596,10 +118636,12 @@ verloren maandag
 verlorenmaandag
 vermaelen
 vermeer
+vermisste frau tot aufgefunden
 vermisste journalistin
 vermisste skitourengänger zermatt
 vermisste valeriia döbeln leiche
 vermisste valeriia döbeln schule
+vermisstefrautotaufgefunden
 vermisstenfall rebecca reusch
 vermisster arian
 vermisster arian bremervörde
@@ -118990,6 +119032,7 @@ vollmond
 vollmond 13 januar
 vollmond 2022
 vollmond 2022 juni
+vollmond april 2025
 vollmond august 2021
 vollmond august 2024
 vollmond februar 2024
@@ -119000,6 +119043,7 @@ vollmond oktober
 vollmond schneemond
 vollmond september
 vollmond13januar
+vollmondapril2025
 volodymyr zelensky
 volodymyrzelensky
 volos
@@ -119423,6 +119467,7 @@ wetten, dass
 wetter
 wetter baden
 wetter giftige wolke
+wetter griechenland schnee
 wetter mallorca
 wetter new york
 wetter schnee
@@ -119432,6 +119477,7 @@ wetter schweiz saharastaub
 wetter st.gallen
 wetter tessin
 wetteren
+wettergriechenlandschnee
 wetterradar
 wetzikon
 wework
