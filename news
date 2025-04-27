@@ -1216,6 +1216,7 @@ AFFAIRE JUBILLAR
 AFFAIRE LE SCOUARNEC
 AFFAIRE LOLA
 AFFAIRE MADDIE MCCANN
+AFFAIRE SAINT AUBIN
 AFFAIRE THEO
 AFFAIRE TROADEC
 AFFAIRE ÉMILE GRAND-PÈRE
@@ -1390,6 +1391,7 @@ AJAX  VOLENDAM
 AJAX  WILLEM II
 AJAX - FEYENOORD
 AJAX - GA EAGLES
+AJAX - SPARTA ROTTERDAM
 AJAX FEYENOORD
 AJAX GEGEN UNION BERLIN
 AJAX – GO AHEAD EAGLES
@@ -1540,6 +1542,7 @@ ALEC JOHN SUCH
 ALEC MUSSER
 ALEC SEGAERT
 ALEF MODEL A
+ALEJANDRO DAVIDOVICH FOKINA
 ALEJANDRO GARNACHO
 ALEKSANDAR TRAJKOVSKI
 ALEKSANDER AAMODT KILDE
@@ -2214,6 +2217,7 @@ ANGERS SCO
 ANGERS – BORDEAUX
 ANGERS – BREST
 ANGERS – LENS
+ANGERS – LILLE
 ANGERS – LYON
 ANGERS – MARSEILLE
 ANGERS – MONACO
@@ -9339,6 +9343,7 @@ BOURNEMOUTH – ARSENAL
 BOURNEMOUTH – LIVERPOOL
 BOURNEMOUTH – LUTON TOWN
 BOURNEMOUTH – MANCHESTER CITY
+BOURNEMOUTH – MANCHESTER UNITED
 BOURSE
 BOURSE CAC 40
 BOURSE DE COPENHAGUE
@@ -13328,6 +13333,7 @@ BvbAjax
 Bybit
 Bystronic
 BÂLE – FIORENTINA
+BÂLE – LAUSANNE
 BÂLE – MARSEILLE
 BÄCKERANLAGE
 BÄCKERANLAGE ZÜRICH
@@ -30756,6 +30762,7 @@ GENK  WEST HAM
 GENK  ZULTE-WAREGEM
 GENK  ČUKARIČKI
 GENK - ANDERLECHT
+GENK - ANTWERP
 GENK ANDERLECHT
 GENK ANTWERP
 GENK BRUGGE
@@ -35896,6 +35903,7 @@ IDRISS ABERKANE
 IDRISSA GANA GUEYE PSG
 IDgeneve
 IEL
+IEM MELBOURNE
 IERLAND - BELGIË
 IERLAND SONGFESTIVAL 2024
 IERLAND.  BELGIË
@@ -36245,6 +36253,7 @@ INTER MIAMI – SPORTING KC
 INTER MILAN
 INTER NAPOLI
 INTER VS BENFICA
+INTER VS ROMA
 INTER miami gegen Sporting kc
 INTER – AC MILAN
 INTER – ARSENAL
@@ -36364,6 +36373,7 @@ IRAK
 IRAN
 IRAN  VERENIGDE STATEN
 IRAN ATTAQUE ISRAEL
+IRAN EXPLOSION HAFEN
 IRAN ISRAEL
 IRAN ISRAEL ANGRIFF
 IRAN ISRAËL
@@ -45405,6 +45415,7 @@ LIZE FERYN ZWANGER
 LIZY
 LIZZO
 LIÈGE - BASTOGNE - LIÈGE 2023
+LIÈGE-BASTOGNE-LIÈGE 2025
 LKQ
 LLORIS
 LLOYD AUSTIN
@@ -51039,6 +51050,7 @@ MELANIE OESCH
 MELANIE THIERRY
 MELANIE WINIGER
 MELANOOM
+MELBOURNE
 MELCHSEE
 MELENCHON
 MELEXIS
@@ -57310,6 +57322,7 @@ NEW ZEALAND VS SOUTH AFRICA
 NEWB
 NEWCASTLE
 NEWCASTLE - BOURNEMOUTH
+NEWCASTLE - IPSWICH
 NEWCASTLE - MANCHESTER CITY
 NEWCASTLE UNITED
 NEWCASTLE – AC MILAN
@@ -67213,6 +67226,7 @@ ROLAND BERTIN
 ROLAND CASTRO
 ROLAND GARROS
 ROLAND GARROS 2024
+ROLAND GARROS 2025
 ROLAND GARROS LIVE
 ROLAND GIRAUD
 ROLAND JACCARD
@@ -70228,6 +70242,7 @@ SAIGON
 SAILOR ET LULA
 SAINT AMOUR
 SAINT ANTOINE
+SAINT BARTHÉLÉMY
 SAINT ELOI
 SAINT ETIENNE
 SAINT ETIENNE FOOT
@@ -72570,6 +72585,7 @@ SUPERTALENT 2024
 SUPERVULKAN ITALIEN
 SUPPORTER SUISSE
 SUPPORTERSUISSE
+SUPPRESSION AGENCES ETAT
 SUPPRESSION CORPS DIPLOMATIQUE
 SUPPRESSION DU TIMBRE POSTE
 SUPREME
@@ -78137,6 +78153,7 @@ TOUR DE PROVENCE 2022
 TOUR DE ROMANDIE
 TOUR DE ROMANDIE 2022
 TOUR DE ROMANDIE 2023
+TOUR DE ROMANDIE 2025
 TOUR DE ROMANDIE FEMININ
 TOUR DE ROMANDIE LA CHAUX-DE-FONDS
 TOUR DE SKI LENZERHEIDE
@@ -87736,6 +87753,7 @@ affaire jubillar
 affaire le scouarnec
 affaire lola
 affaire maddie mccann
+affaire saint aubin
 affaire theo
 affaire troadec
 affaire émile grand-père
@@ -87744,6 +87762,7 @@ affairebetharrambayrou
 affairelescouarnec
 affaires etrangeres
 affaires étrangères
+affairesaintaubin
 affairesetrangeres
 affairesétrangères
 affairetroadec
@@ -87909,11 +87928,13 @@ ajax  feyenoord
 ajax  ga eagles
 ajax  groningen
 ajax  leeds
+ajax  sparta rotterdam
 ajax  union
 ajax  volendam
 ajax  willem ii
 ajax - feyenoord
 ajax - ga eagles
+ajax - sparta rotterdam
 ajax feyenoord
 ajax gegen union berlin
 ajax – go ahead eagles
@@ -87924,6 +87945,7 @@ ajax – rangers
 ajax – union saint-gilloise
 ajax-feyenoord
 ajax-gaeagles
+ajax-spartarotterdam
 ajax–goaheadeagles
 ajla del ponte
 ajoie chaux-de-fonds
@@ -88079,7 +88101,9 @@ alec john such
 alec musser
 alec segaert
 alef model a
+alejandro davidovich fokina
 alejandro garnacho
+alejandrodavidovichfokina
 aleksandar trajkovski
 aleksander aamodt kilde
 aleksej navalny
@@ -88776,6 +88800,7 @@ angers sco
 angers – bordeaux
 angers – brest
 angers – lens
+angers – lille
 angers – lyon
 angers – marseille
 angers – monaco
@@ -88784,6 +88809,7 @@ angers – nice
 angers – paris-sg
 angers – rennes
 angers – saint-étienne
+angers–lille
 anggun
 angleterre
 angleterre  ecosse
@@ -91625,6 +91651,8 @@ bournemouth – arsenal
 bournemouth – liverpool
 bournemouth – luton town
 bournemouth – manchester city
+bournemouth – manchester united
+bournemouth–manchesterunited
 bourse
 bourse cac 40
 bourse de copenhague
@@ -91678,6 +91706,7 @@ braderienantes
 bradley barcola
 bradley cooper
 bradley wiggins
+bradleycooper
 braga  benfica
 braga  union
 braga – benfica
@@ -92233,7 +92262,9 @@ byd seal u
 bydauto
 bystronic
 bâle – fiorentina
+bâle – lausanne
 bâle – marseille
+bâle–lausanne
 bäckeranlage
 bäckeranlage zürich
 bäckerei
@@ -97616,12 +97647,14 @@ fcb gegen stade-lausanne
 fcb gegen winterthur
 fcb gegen yverdon-sport
 fcb – lausanne-sport
+fcb – lausannesport
 fcb – luzern
 fcb – st. gallen
 fcb – winterthur
 fcbarcelona
 fcbasel
 fcbaseltickets
+fcb–lausanne-sport
 fcfulham–liverpool
 fcg
 fcl
@@ -99224,6 +99257,7 @@ genk  west ham
 genk  zulte-waregem
 genk  čukarički
 genk - anderlecht
+genk - antwerp
 genk anderlecht
 genk antwerp
 genk brugge
@@ -99242,6 +99276,7 @@ genk – olympiakos
 genk – standard
 genk – union saint-gilloise
 genk-anderlecht
+genk-antwerp
 genk-charleroi
 genkunion
 genoa  milan
@@ -101198,6 +101233,8 @@ idris elba
 idriss aberkane
 idrissa gana gueye psg
 iel
+iem melbourne
+iemmelbourne
 ierland - belgië
 ierland songfestival 2024
 ierland.  belgië
@@ -101567,6 +101604,7 @@ inter miami – sporting kc
 inter milan
 inter napoli
 inter vs benfica
+inter vs roma
 inter – ac milan
 inter – arsenal
 inter – atalanta
@@ -101617,6 +101655,8 @@ interpol
 intervallfasten schädlich
 intervention militaire au niger
 interview prince harry
+intervsroma
+inter–roma
 intifada
 intuitive machines
 inuikii
@@ -101691,6 +101731,7 @@ irak
 iran
 iran  verenigde staten
 iran attaque israel
+iran explosion hafen
 iran israel
 iran israel angriff
 iran israël
@@ -101698,6 +101739,7 @@ iran olivier vandecasteele
 iran präsident raisi
 iran vs usa
 iran – états-unis
+iranexplosionhafen
 ireen sheer
 ireen wust
 irene cadurisch
@@ -105791,6 +105833,9 @@ lizeferynzwanger
 lizy
 lizzo
 liège - bastogne - liège 2023
+liège-bastogne-liège 2025
+liège-bastogne-liège2025
+liègebastogneliège 2025
 lkq
 lloris
 lloyd austin
@@ -108021,6 +108066,7 @@ melanie thierry
 melanie winiger
 melaniemachiels
 melanoom
+melbourne
 melchsee
 melenchon
 melexis
@@ -109659,7 +109705,9 @@ new zealand vs south africa
 newb
 newcastle
 newcastle  bournemouth
+newcastle  ipswich
 newcastle - bournemouth
+newcastle - ipswich
 newcastle - manchester city
 newcastle united
 newcastle – ac milan
@@ -109678,6 +109726,7 @@ newcastle – southampton
 newcastle – west ham
 newcastle – wolves
 newcastle-bournemouth
+newcastle-ipswich
 newcastle–bournemouth
 newcastle–brighton
 newcastle–nottmforest
@@ -113952,6 +114001,7 @@ roland bertin
 roland castro
 roland garros
 roland garros 2024
+roland garros 2025
 roland garros live
 roland giraud
 roland jaccard
@@ -113963,6 +114013,7 @@ roland-garros 2023
 roland-garros 2024
 roland-garros programme
 rolandgarros
+rolandgarros2025
 rolex
 rolex carl f. bucherer
 rolex paris masters
@@ -114477,6 +114528,7 @@ saigon
 sailor et lula
 saint amour
 saint antoine
+saint barthélémy
 saint eloi
 saint etienne
 saint etienne foot
@@ -114561,6 +114613,7 @@ saint-étienne – rennes
 saint-étienne – rodez
 saint-étienne – troyes
 saint-étienne–nantes
+saintbarthélémy
 sainte cecile
 sainte-anne
 sainte-barbe
@@ -116855,8 +116908,10 @@ supertalent 2024
 supervulkan italien
 supporter suisse
 supportersuisse
+suppression agences etat
 suppression corps diplomatique
 suppression du timbre poste
+suppressionagencesetat
 supreme
 supreme court
 sur la route de madison
@@ -118288,6 +118343,7 @@ tour de provence 2022
 tour de romandie
 tour de romandie 2022
 tour de romandie 2023
+tour de romandie 2025
 tour de romandie feminin
 tour de romandie la chaux-de-fonds
 tour de ski lenzerheide
@@ -118333,6 +118389,7 @@ tourdefrance2021etapedujour
 tourdefranceclassement
 tourdefrancedirect
 tourdefrancevandaag
+tourderomandie2025
 tourdesabruzzes2025
 tourdesalpes
 tourdesflandres2025
@@ -119028,6 +119085,7 @@ union saint-gilloise – union berlin
 union saint-gilloise – westerlo
 union saint-gilloise – zulte waregem
 union-charleroi
+unionclubbrugge
 uniper
 uniqlo
 united barca
@@ -121174,6 +121232,7 @@ zürichmarathon
 zürichsee fähre
 zürichseefähre
 zürich–servette
+ÁLEX MÁRQUEZ
 ÄGERISEE
 ÄGYPTEN
 ÄLTESTE FRAU GESTORBEN
@@ -121444,6 +121503,8 @@ zürich–servette
 ÜberschwemmungenNewYork
 ÜberschwemmungenNorwegen
 ÜberschwemmungeninLibyen
+álex márquez
+álexmárquez
 ägerisee
 ägypten
 älteste frau gestorben
