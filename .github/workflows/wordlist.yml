@@ -1,9 +1,10 @@
-name: Wordlist-news
+name: Wordlist Collection
 
 # Controls when the action will run. 
 on:
   schedule:
     - cron: "15 13 * * *" # At 13:15 UTC everyday.
+  workflow_dispatch: # Allow manual trigger
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

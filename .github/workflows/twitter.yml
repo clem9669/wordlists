@@ -1,9 +1,10 @@
-name: Twitter-trends
+name: Twitter Data Collection
 
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "43 * * * *" # At minute 40 past every hour.
+    - cron: '0 0 * * *'  # Run daily at midnight
+  workflow_dispatch: # Allow manual trigger
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

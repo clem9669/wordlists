@@ -4,6 +4,7 @@ name: Music-trends-lastFM
 on:
   schedule:
     - cron: "09 04 * * MON" # At 04:09 on Monday.
+  workflow_dispatch: # Allow manual trigger
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
