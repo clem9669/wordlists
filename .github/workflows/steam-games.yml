@@ -39,7 +39,7 @@ jobs:
                     data = response.json()
                     
                     # Write new games to a temporary file
-                    with open('new_games.txt', 'w', encoding='utf-8') as f:
+                    with open('new_games', 'w', encoding='utf-8') as f:
                         for category_key, category_data in data.items():
                             if isinstance(category_data, dict):
                                 if 'items' in category_data:
@@ -71,15 +71,68 @@ jobs:
         
         # Process files using bash
         echo "Processing files..."
+        
+        # Function to process text files
+        process_file() {
+            local input=$1
+            local base=${input%.*}
+            
+            echo "Processing $input..."
+            
+            # Create variations
+            awk '{print tolower($0)}' "$input" > "${base}_lower"
+            awk '{print toupper($0)}' "$input" > "${base}_upper"
+            sed "s/ //g" "$input" > "${base}_nospaces"
+            sed "s/-//g" "$input" > "${base}_nodash"
+            sed "s/'//g" "$input" > "${base}_quote"
+            
+            # Handle accents
+            iconv -f UTF-8 -t ASCII//TRANSLIT "$input" "${base}_lower" "${base}_quote" "${base}_upper" "${base}_nodash" "${base}_nospaces" > "${base}_noaccent" 2>/dev/null || echo "Warning: Some accent conversions failed"
+            
+            # Create additional permutations
+            # First letter uppercase
+            awk '{print toupper(substr($0,1,1)) substr($0,2)}' "$input" > "${base}_titlecase"
+            # First letter of each word uppercase
+            awk '{for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2)}1' "$input" > "${base}_propercase"
+            # Remove special characters
+            sed 's/[^a-zA-Z0-9]//g' "$input" > "${base}_alphanum"
+            # Replace spaces with common separators
+            sed 's/ /_/g' "$input" > "${base}_underscore"
+            sed 's/ /-/g' "$input" > "${base}_hyphen"
+            sed 's/ /./g' "$input" > "${base}_dot"
+            
+            # Print statistics for this file
+            echo "Statistics for $input:"
+            echo "Original lines: $(wc -l < "$input")"
+            echo "Unique lines: $(sort -u "$input" | wc -l)"
+            echo "Average length: $(awk '{sum+=length($0)} END {print sum/NR}' "$input")"
+            echo "Max length: $(awk '{if(length($0)>max) max=length($0)} END {print max}' "$input")"
+            echo "Min length: $(awk 'NR==1{min=length($0)} {if(length($0)<min) min=length($0)} END {print min}' "$input")"
+            echo "---"
+        }
+        
+        # Process the new games file
+        process_file "new_games"
+        
+        # Combine all variations
+        cat new_games* >> new_games_combined
               
         # Combine files, sort, and remove duplicates
-        cat videogames new_games.txt | sort -u > videogames.new
+        cat videogames new_games_combined | sort -u > videogames.new
         
         # Replace the original file
         mv videogames.new videogames
         
+        # Print overall statistics
+        echo "Overall Statistics:"
+        echo "Total unique entries: $(cat videogames | sort -u | wc -l)"
+        echo "Total entries with variations: $(cat videogames | wc -l)"
+        echo "Most common patterns:"
+        cat videogames | sort | uniq -c | sort -nr | head -n 10
+        echo "---"
+        
         # Clean up temporary files
-        rm new_games.txt
+        rm new_games* new_games_combined
     
     - name: Commit and push changes
       run: |
