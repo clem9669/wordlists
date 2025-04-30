@@ -223,16 +223,27 @@ jobs:
           # Process each type
           for type in artists albums songs; do
             echo "Processing $type..."
-            cat ${type}_temp* >> pourquoit_${type}
-            LC_ALL=C sort -u pourquoit_${type} > ${type}
+            
+            # Step 4: Combine all data into one temp file
+            cat ${type}_temp* > ${type}_temp_all
+            
+            # Step 5: Combine temp file into existing file (if it exists)
+            if [ -f "$type" ]; then
+              cat "$type" ${type}_temp_all > ${type}_combined
+            else
+              mv ${type}_temp_all ${type}_combined
+            fi
+            
+            # Step 6: Sort and deduplicate the file
+            LC_ALL=C sort -u ${type}_combined > $type
           done
           
           echo "Final file statistics:"
           ls -la
-          wc -l artists* albums* songs*
+          wc -l artists albums songs
           
           # Cleanup temporary files
-          rm -f *_temp* pourquoit_* *.json *.html
+          rm -f *_temp* *_combined *.json *.html
 
       # Runs a set of commands using the runners shell
       - name: Git commit and push
@@ -240,6 +251,17 @@ jobs:
           echo "Committing changes..."
           git config user.name "Music-bot"
           git config user.email ""
+          
+          # Merge new data with existing files
+          for file in artists albums songs; do
+            if [ -f "$file" ]; then
+              # Combine existing and new data, sort and deduplicate
+              cat "$file" "${file}_new" 2>/dev/null | LC_ALL=C sort -u > "${file}_merged"
+              mv "${file}_merged" "$file"
+            fi
+          done
+          
           git add artists albums songs
           git commit -m "[Bot] Music trends from $(date +'%Y_%m_%d')"
+          git pull --rebase origin master
           git push origin master
