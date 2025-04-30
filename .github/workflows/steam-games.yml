@@ -79,7 +79,7 @@ jobs:
         mv videogames.new videogames
         
         # Clean up temporary files
-        rm new_games.txt videogames.bak
+        rm new_games.txt
     
     - name: Commit and push changes
       run: |
