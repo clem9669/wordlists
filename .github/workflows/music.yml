@@ -16,7 +16,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       
       - name: Update & install dependencies
         run: |
@@ -252,16 +252,30 @@ jobs:
           git config user.name "Music-bot"
           git config user.email ""
           
-          # Merge new data with existing files
-          for file in artists albums songs; do
-            if [ -f "$file" ]; then
-              # Combine existing and new data, sort and deduplicate
-              cat "$file" "${file}_new" 2>/dev/null | LC_ALL=C sort -u > "${file}_merged"
-              mv "${file}_merged" "$file"
-            fi
-          done
+          # Check if files have changed
+          if git diff --quiet artists albums songs; then
+            echo "No changes detected, skipping commit"
+            exit 0
+          fi
           
           git add artists albums songs
           git commit -m "[Bot] Music trends from $(date +'%Y_%m_%d')"
-          git pull --rebase origin master
-          git push origin master
+          
+          # Pull with rebase to avoid conflicts
+          echo "Pulling latest changes..."
+          git pull --rebase origin master || {
+            echo "Error: Failed to pull latest changes"
+            echo "Attempting to resolve..."
+            git status
+            git merge --abort || true
+            echo "Please check the repository manually"
+            exit 1
+          }
+          
+          # Push changes
+          echo "Pushing changes..."
+          git push origin master || {
+            echo "Error: Failed to push changes"
+            echo "Please check the repository manually"
+            exit 1
+          }
