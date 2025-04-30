@@ -95,6 +95,10 @@ jobs:
         
         # Clean up
         rm -f new_games*
+        
+        # Show diff
+        echo "Changes made:"
+        git diff videogames
     
     - name: Commit and push changes
       run: |
