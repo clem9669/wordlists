@@ -1,0 +1,85 @@
+name: Steam Games Collection
+
+on:
+  schedule:
+    - cron: '23 3 * * *'  # Run at 3:23 UTC every day
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  collect-games:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Collect Steam games
+      run: |
+        # First get the Steam data
+        python << 'EOF'
+        import requests
+        import json
+        
+        def get_steam_data():
+            try:
+                print("Fetching Steam data...")
+                response = requests.get('https://store.steampowered.com/api/featuredcategories')
+                if response.status_code == 200:
+                    data = response.json()
+                    
+                    # Write new games to a temporary file
+                    with open('new_games.txt', 'w', encoding='utf-8') as f:
+                        for category_key, category_data in data.items():
+                            if isinstance(category_data, dict):
+                                if 'items' in category_data:
+                                    for item in category_data.get('items', []):
+                                        if isinstance(item, dict):
+                                            name = item.get('name', '').strip()
+                                            if name:
+                                                f.write(f"{name}\n")
+                                            headline = item.get('headline', '').strip()
+                                            if headline:
+                                                f.write(f"{headline}\n")
+                    
+                    print("Successfully wrote new games to temporary file")
+                    return True
+                else:
+                    print(f"Error: Status code {response.status_code}")
+                    return False
+        
+            except requests.exceptions.RequestException as e:
+                print(f"Network error collecting Steam data: {str(e)}")
+                return False
+            except Exception as e:
+                print(f"Error collecting Steam data: {str(e)}")
+                return False
+        
+        # Run the collection
+        get_steam_data()
+        EOF
+        
+        # Process files using bash
+        echo "Processing files..."
+              
+        # Combine files, sort, and remove duplicates
+        cat videogames new_games.txt | sort -u > videogames.new
+        
+        # Replace the original file
+        mv videogames.new videogames
+        
+        # Clean up temporary files
+        rm new_games.txt videogames.bak
+    
+    - name: Commit and push changes
+      run: |
+        git config user.name "Steam-bot"
+        git config user.email ""
+        git add videogames
+        git commit -m "[Bot] Update videogames list - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+        git push 

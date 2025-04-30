@@ -3,7 +3,7 @@ name: Wordlist-news
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "15 13 * * *" # At 13:25 UTC everyday.
+    - cron: "15 13 * * *" # At 13:15 UTC everyday.
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -17,44 +17,115 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - name: Update & install xmllint
-        run: sudo apt update && sudo apt-get install libxml2-utils curl -y
-
-      - name: Run a one-line script FR - old RSS feed google
-        run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=FR' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_FR
-
-      - name: Run a one-line script BE - old RSS feed google
-        run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=BE' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_BE
-
-      - name: Run a one-line script CH - old RSS feed google
-        run: curl -s 'https://trends.google.com/trends/trendingsearches/daily/rss?geo=CH' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_CH
-
-      - name: Run a one-line script FR
-        run: curl -s 'https://trends.google.com/trending/rss?geo=FR' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_FR
-
-      - name: Run a one-line script BE
-        run: curl -s 'https://trends.google.com/trending/rss?geo=BE' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_BE
-
-      - name: Run a one-line script CH
-        run: curl -s 'https://trends.google.com/trending/rss?geo=CH' | xmllint --xpath "//item/title" - | sed -e 's/<[^>]*>//g' >> news_CH
-
-      - name: Permutations options
+      - name: Update & install dependencies
         run: |
-            cat news_FR news_BE news_CH | awk '{print tolower($0)}' > news_lower;
-            cat news_FR news_BE news_CH | awk '{print toupper($0)}' > news_upper;
-            sed "s/ //g" news_FR news_BE news_CH > news_nospaces;
-            sed "s/-//g" news_FR news_BE news_CH > news_nodash;
+          echo "Installing required packages..."
+          sudo apt update && sudo apt-get install libxml2-utils curl jq -y
+          echo "Available disk space:"
+          df -h
+          echo "Available memory:"
+          free -h
 
-      # TODO: fix it
-      # - name: Accent options
-      #   run: iconv -f latin1 -t ascii//TRANSLIT news_FR news_CH news_BE news_nodash news_nospaces news_lower news_upper > news_noaccent
+      - name: Fetch Google Trends data
+        run: |
+          echo "Fetching Google Trends data..."
+          
+          # Function to fetch and validate RSS feed
+          fetch_trends() {
+            local country=$1
+            local output_file=$2
+            local retry_count=0
+            local max_retries=3
+            
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Fetching trends for $country (attempt $((retry_count + 1)))"
+              
+              # Fetch from new RSS feed
+              curl -s -A "Mozilla/5.0" --retry 3 --retry-delay 2 \
+                "https://trends.google.com/trending/rss?geo=$country" | \
+                xmllint --xpath "//item/title" - 2>/dev/null | \
+                sed -e 's/<[^>]*>//g' > "$output_file"
+              
+              # Validate content
+              if [ -s "$output_file" ]; then
+                echo "Successfully fetched trends for $country"
+                break
+              fi
+              
+              retry_count=$((retry_count + 1))
+              if [ $retry_count -lt $max_retries ]; then
+                echo "Retrying in 5 seconds..."
+                sleep 5
+              fi
+            done
+            
+            if [ ! -s "$output_file" ]; then
+              echo "Warning: Failed to fetch trends for $country after $max_retries attempts"
+              echo "No trends available" > "$output_file"
+            fi
+          }
+          
+          # Fetch trends for each country
+          fetch_trends "FR" "news_FR"
+          sleep 2  # Rate limiting
+          fetch_trends "BE" "news_BE"
+          sleep 2  # Rate limiting
+          fetch_trends "CH" "news_CH"
+          
+          echo "Current directory contents:"
+          ls -la
+          echo "File sizes:"
+          wc -l news_*
 
-      - name: Run sort and uniq
-        run: cat news* >> pourquoi; sort -u pourquoi > news; ls -la; wc -l news*;
+      - name: Process and transform data
+        run: |
+          echo "Processing news data..."
+          
+          # Function to process text files
+          process_file() {
+            local input=$1
+            local base=${input%.*}
+            
+            echo "Processing $input..."
+            
+            # Create variations
+            awk '{print tolower($0)}' "$input" > "${base}_lower"
+            awk '{print toupper($0)}' "$input" > "${base}_upper"
+            sed "s/ //g" "$input" > "${base}_nospaces"
+            sed "s/-//g" "$input" > "${base}_nodash"
+            sed "s/'//g" "$input" > "${base}_quote"
+            
+            # Handle accents
+            iconv -f UTF-8 -t ASCII//TRANSLIT "$input" "${base}_lower" "${base}_quote" "${base}_upper" "${base}_nodash" "${base}_nospaces" > "${base}_noaccent" 2>/dev/null || echo "Warning: Some accent conversions failed"
+          }
+          
+          # Process each country's news
+          for country in FR BE CH; do
+            process_file "news_$country"
+          done
+          
+          echo "Current directory contents:"
+          ls -la
+          echo "File sizes:"
+          wc -l news_*
+
+      - name: Combine and deduplicate
+        run: |
+          echo "Combining and deduplicating news..."
+          cat news* >> pourquoi
+          LC_ALL=C sort -u pourquoi > news
+          
+          echo "Final file statistics:"
+          ls -la
+          wc -l news*
+          
+          # Cleanup temporary files
+          rm -f *_lower *_upper *_nospaces *_nodash *_quote *_noaccent pourquoi
 
       # Runs a set of commands using the runners shell
       - name: Git commit and push
         run: |
+          echo "Committing changes..."
           git config user.name "News-bot"
           git config user.email ""
           git add news

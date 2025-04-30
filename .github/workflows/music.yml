@@ -17,79 +17,226 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - name: Update & install curl, iconv & jq
-        run: sudo apt update && sudo apt-get install libxml2-utils curl libc-bin jq -y
-
-      - name: Get acces to spotify api
+      - name: Update & install dependencies
         run: |
-          curl -s -X "POST" -H "Authorization: Basic ${{ secrets.SPOTIFY_API }}" -d grant_type=client_credentials https://accounts.spotify.com/api/token | jq '.access_token' | tr -d '"' > token
+          echo "Installing required packages..."
+          sudo apt update && sudo apt-get install libxml2-utils curl libc-bin jq html-xml-utils -y
+          echo "Available disk space:"
+          df -h
+          echo "Available memory:"
+          free -h
 
-      - name: Grab artist
+      - name: Get Spotify API token
+        id: spotify_token
         run: |
-          curl -s "https://kma.kkbox.com/charts/api/v1/daily?category=390&date=$(date --date=yesterday --iso-8601)&lang=en&limit=50&terr=sg&type=newrelease" | jq '.data.charts.newrelease[].artist_name' | tr -d '"' | sed 's/, /\n/g' > artists_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.artists[].name' | tr -d '"' >> artists_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DX4HGSmd79ENf/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.artists[].name' | tr -d '"' >> artists_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZEVXbIPWwFssbupI/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.artists[].name' | tr -d '"' >> artists_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/1kEdw1CTrPTyrsW6LOS3qV/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.artists[].name' | tr -d '"' >> artists_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.artists[].name' | tr -d '"' >> artists_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DWVuV87wUBNwc/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.artists[].name' | tr -d '"' >> artists_temp
+          echo "Getting Spotify API token..."
+          response=$(curl -s -X "POST" \
+            -H "Authorization: Basic ${{ secrets.SPOTIFY_API }}" \
+            -d grant_type=client_credentials \
+            https://accounts.spotify.com/api/token)
+          
+          if echo "$response" | jq -e '.access_token' > /dev/null; then
+            echo "$response" | jq -r '.access_token' > token
+            echo "Successfully obtained Spotify token"
+          else
+            echo "Error: Failed to get Spotify token"
+            echo "Response: $response"
+            exit 1
+          fi
 
-      - name: Grab album
+      - name: Fetch music data
         run: |
-          curl -s "https://kma.kkbox.com/charts/api/v1/daily?category=390&date=$(date --date=yesterday --iso-8601)&lang=en&limit=50&terr=sg&type=newrelease" | jq '.data.charts.newrelease[].album_name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' > albums_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' >> albums_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DX4HGSmd79ENf/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' >> albums_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZEVXbIPWwFssbupI/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' >> albums_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/1kEdw1CTrPTyrsW6LOS3qV/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' >> albums_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' >> albums_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DWVuV87wUBNwc/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.album.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' >> albums_temp
+          echo "Fetching music data..."
+          
+          # Function to fetch data with retries
+          fetch_data() {
+            local url=$1
+            local output=$2
+            local retry_count=0
+            local max_retries=3
+            
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Fetching data from $url (attempt $((retry_count + 1)))"
+              
+              if curl -s -X "GET" "$url" \
+                -H "Accept: application/json" \
+                -H "Content-Type: application/json" \
+                -H "Authorization: Bearer $(cat token)" > "$output"; then
+                
+                if [ -s "$output" ]; then
+                  echo "Successfully fetched data"
+                  break
+                fi
+              fi
+              
+              retry_count=$((retry_count + 1))
+              if [ $retry_count -lt $max_retries ]; then
+                echo "Retrying in 5 seconds..."
+                sleep 5
+              fi
+            done
+            
+            if [ ! -s "$output" ]; then
+              echo "Warning: Failed to fetch data after $max_retries attempts"
+              echo "[]" > "$output"
+            fi
+          }
 
-      - name: Grab song name
-        run: |
-          curl -s "https://kma.kkbox.com/charts/api/v1/daily?category=390&date=$(date --date=yesterday --iso-8601)&lang=en&limit=50&terr=sg&type=newrelease" | jq '.data.charts.newrelease[].song_name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' > songs_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DX4HGSmd79ENf/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZEVXbIPWwFssbupI/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/1kEdw1CTrPTyrsW6LOS3qV/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
-          curl -s -X "GET" "https://api.spotify.com/v1/playlists/37i9dQZF1DWVuV87wUBNwc/tracks" -H "Accept: application/json" -H "Content-Type: application/json" -H "Authorization: Bearer $(cat token)" | jq '.items[].track.name' | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
+          # Function to fetch and parse KKBOX chart
+          fetch_kkbox_chart() {
+            local url=$1
+            local output=$2
+            local retry_count=0
+            local max_retries=3
+            
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Fetching KKBOX chart from $url (attempt $((retry_count + 1)))"
+              
+              # Fetch the page with proper headers
+              if curl -s -A "Mozilla/5.0" \
+                -H "Accept: text/html,application/xhtml+xml" \
+                -H "Accept-Language: en-US,en;q=0.9" \
+                "$url" > "$output"; then
+                
+                if [ -s "$output" ]; then
+                  echo "Successfully fetched KKBOX chart"
+                  break
+                fi
+              fi
+              
+              retry_count=$((retry_count + 1))
+              if [ $retry_count -lt $max_retries ]; then
+                echo "Retrying in 5 seconds..."
+                sleep 5
+              fi
+            done
+            
+            if [ ! -s "$output" ]; then
+              echo "Warning: Failed to fetch KKBOX chart after $max_retries attempts"
+              echo "" > "$output"
+            fi
+          }
+          
+          # Fetch KKBOX daily singles chart
+          echo "Fetching KKBOX daily singles chart..."
+          fetch_kkbox_chart "https://kma.kkbox.com/charts/daily/song?cate=390&category=297&lang=en&terr=sg" "kkbox_singles.html"
+          
+          # Extract data from singles chart
+          echo "Extracting data from singles chart..."
+          grep -o 'var chart = \[.*\];' kkbox_singles.html > raw_chart_data.txt
+          sed 's/var chart = //;s/;$//' raw_chart_data.txt | \
+              sed 's/\\"/"/g' | \
+              sed 's/\\\//\//g' | \
+              sed 's/\\\\/\\/g' > chart_data.json
+          
+          # Process the JSON data
+          jq -r '.[] | select(.artist_name != null) | .artist_name' chart_data.json > artists_temp
+          jq -r '.[] | select(.song_name != null) | .song_name' chart_data.json > songs_temp
+          jq -r '.[] | select(.album_name != null) | .album_name' chart_data.json > albums_temp
+          
+          # Fetch KKBOX new releases chart
+          echo "Fetching KKBOX new releases chart..."
+          fetch_kkbox_chart "https://kma.kkbox.com/charts/daily/newrelease?cate=390&category=297&lang=en&terr=sg" "kkbox_newreleases.html"
+          
+          # Extract data from new releases chart
+          echo "Extracting data from new releases chart..."
+          grep -o 'var chart = \[.*\];' kkbox_newreleases.html > raw_newreleases_data.txt
+          sed 's/var chart = //;s/;$//' raw_newreleases_data.txt | \
+              sed 's/\\"/"/g' | \
+              sed 's/\\\//\//g' | \
+              sed 's/\\\\/\\/g' > newreleases_data.json
+          
+          # Process the JSON data
+          jq -r '.[] | select(.artist_name != null) | .artist_name' newreleases_data.json >> artists_temp
+          jq -r '.[] | select(.song_name != null) | .song_name' newreleases_data.json >> songs_temp
+          jq -r '.[] | select(.album_name != null) | .album_name' newreleases_data.json >> albums_temp
+          
+          # Spotify playlists to fetch
+          declare -a playlists=(
+            "37i9dQZEVXbMDoHDwVN2tF"
+            "37i9dQZF1DX4HGSmd79ENf"
+            "37i9dQZEVXbIPWwFssbupI"
+            "1kEdw1CTrPTyrsW6LOS3qV"
+            "37i9dQZF1DXcBWIGoYBM5M"
+            "37i9dQZF1DWVuV87wUBNwc"
+          )
+          
+          # Fetch Spotify data
+          for playlist in "${playlists[@]}"; do
+            echo "Fetching Spotify playlist $playlist..."
+            fetch_data "https://api.spotify.com/v1/playlists/$playlist/tracks" "playlist_${playlist}.json"
+            
+            # Process artists
+            jq '.items[].track.album.artists[].name' "playlist_${playlist}.json" | tr -d '"' >> artists_temp
+            
+            # Process albums
+            jq '.items[].track.album.name' "playlist_${playlist}.json" | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' >> albums_temp
+            
+            # Process songs
+            jq '.items[].track.name' "playlist_${playlist}.json" | tr -d '"' | sed 's/(/\n/g' | tr -d ')' | sed 's/,/\n/g' | sed 's/ - /\n/g' >> songs_temp
+            
+            sleep 1  # Rate limiting
+          done
+          
+          echo "Current directory contents:"
+          ls -la
+          echo "File sizes:"
+          wc -l *_temp
 
-      - name: Permutations options artists
+      - name: Process and transform data
         run: |
-            cat artists_temp | awk '{print tolower($0)}' > artists_lower;
-            cat artists_temp | awk '{print toupper($0)}' > artists_upper;
-            sed "s/ //g" artists_temp > artists_nospaces;
-            sed "s/-//g" artists_temp > artists_nodash;
-            sed "s/'//g" artists_temp > artists_quote;
-            sed 'y/ÖöËÇçÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECcAaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' artists_temp artists_lower artists_quote artists_upper artists_nodash artists_nospaces > artists_noaccent;
+          echo "Processing music data..."
+          
+          # Function to process text files
+          process_file() {
+            local input=$1
+            local base=${input%.*}
+            
+            echo "Processing $input..."
+            
+            # Create variations
+            awk '{print tolower($0)}' "$input" > "${base}_lower"
+            awk '{print toupper($0)}' "$input" > "${base}_upper"
+            sed "s/ //g" "$input" > "${base}_nospaces"
+            sed "s/-//g" "$input" > "${base}_nodash"
+            sed "s/'//g" "$input" > "${base}_quote"
+            
+            # Handle accents
+            iconv -f UTF-8 -t ASCII//TRANSLIT "$input" "${base}_lower" "${base}_quote" "${base}_upper" "${base}_nodash" "${base}_nospaces" > "${base}_noaccent" 2>/dev/null || echo "Warning: Some accent conversions failed"
+          }
+          
+          # Process each type of data
+          process_file "artists_temp"
+          process_file "albums_temp"
+          process_file "songs_temp"
+          
+          echo "Current directory contents:"
+          ls -la
+          echo "File sizes:"
+          wc -l *_temp*
 
-      - name: Permutations options albums
+      - name: Combine and deduplicate
         run: |
-            cat albums_temp | awk '{print tolower($0)}' > artists_lower;
-            cat albums_temp | awk '{print toupper($0)}' > artists_upper;
-            sed "s/ //g" albums_temp > artists_nospaces;
-            sed "s/-//g" albums_temp > artists_nodash;
-            sed "s/'//g" albums_temp > artists_quote;
-            sed 'y/ÖöËÇçÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECcAaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' artists_quote artists_nodash artists_nospaces artists_upper artists_lower albums_temp > albums_noaccent;
+          echo "Combining and deduplicating data..."
+          
+          # Process each type
+          for type in artists albums songs; do
+            echo "Processing $type..."
+            cat ${type}_temp* >> pourquoit_${type}
+            LC_ALL=C sort -u pourquoit_${type} > ${type}
+          done
+          
+          echo "Final file statistics:"
+          ls -la
+          wc -l artists* albums* songs*
+          
+          # Cleanup temporary files
+          rm -f *_temp* pourquoit_* *.json *.html
 
-      - name: Permutations options songs
-        run: |
-            cat songs_temp | awk '{print tolower($0)}' > songs_lower;
-            cat songs_temp | awk '{print toupper($0)}' > songs_upper;
-            sed "s/ //g" songs_temp > songs_nospaces;
-            sed "s/-//g" songs_temp > songs_nodash;
-            sed "s/'//g" songs_temp > songs_quote;
-            sed 'y/ÖöËÇçÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECcAaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' songs_quote songs_nodash songs_nospaces songs_upper songs_lower songs_temp > songs_noaccent;
-
-      - name: Run sort and uniq
-        run: |
-          cat artists* >> pourquoit_artists;LC_ALL=C sort -u pourquoit_artists > artists; ls -la; wc -l artists*;
-          cat albums* >> pourquoit_albums;LC_ALL=C sort -u pourquoit_albums > albums; ls -la; wc -l albums*;
-          cat songs* >> pourquoit_songs;LC_ALL=C sort -u pourquoit_songs > songs; ls -la; wc -l songs*;
-      
       # Runs a set of commands using the runners shell
       - name: Git commit and push
         run: |
+          echo "Committing changes..."
           git config user.name "Music-bot"
           git config user.email ""
           git add artists albums songs

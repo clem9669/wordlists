@@ -17,48 +17,136 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
-      - name: Update & install curl, iconv & jq
-        run: sudo apt update && sudo apt-get install libxml2-utils curl libc-bin jq -y
-
-      - name: Run a one-line script FR geo
+      - name: Update & install dependencies
         run: |
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=france&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_fr
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=france&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_fr
+          echo "Installing required packages..."
+          sudo apt update && sudo apt-get install libxml2-utils curl libc-bin jq -y
+          echo "Available disk space:"
+          df -h
+          echo "Available memory:"
+          free -h
 
-      - name: Run a one-line script BE geo
+      - name: Fetch LastFM data
         run: |
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_be
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_be
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=belgium&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_be
+          echo "Fetching LastFM data..."
+          
+          # Function to fetch data with retries
+          fetch_lastfm() {
+            local url=$1
+            local output=$2
+            local retry_count=0
+            local max_retries=3
+            
+            while [ $retry_count -lt $max_retries ]; do
+              echo "Fetching data from $url (attempt $((retry_count + 1)))"
+              
+              if curl -s -A "Mozilla/5.0" --retry 3 --retry-delay 2 "$url" > "$output"; then
+                if [ -s "$output" ]; then
+                  echo "Successfully fetched data"
+                  break
+                fi
+              fi
+              
+              retry_count=$((retry_count + 1))
+              if [ $retry_count -lt $max_retries ]; then
+                echo "Retrying in 5 seconds..."
+                sleep 5
+              fi
+            done
+            
+            if [ ! -s "$output" ]; then
+              echo "Warning: Failed to fetch data after $max_retries attempts"
+              echo "[]" > "$output"
+            fi
+          }
+          
+          # Function to process country data
+          process_country() {
+            local country=$1
+            local country_code=$2
+            local output_file="lastfm_${country_code}"
+            
+            echo "Processing $country data..."
+            
+            # Fetch top artists
+            fetch_lastfm "https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=${country}&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000" "artists_${country_code}.json"
+            jq '.topartists.artist[].name' "artists_${country_code}.json" | tr -d '"' > "$output_file"
+            
+            # Fetch top tracks
+            fetch_lastfm "https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=${country}&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000" "tracks_${country_code}.json"
+            jq '.tracks.track[].name' "tracks_${country_code}.json" | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> "$output_file"
+            jq '.tracks.track[].artist.name' "tracks_${country_code}.json" | tr -d '"' >> "$output_file"
+            
+            sleep 1  # Rate limiting
+          }
+          
+          # Process each country
+          process_country "france" "fr"
+          process_country "belgium" "be"
+          process_country "switzerland" "ch"
+          
+          # Fetch global charts
+          echo "Fetching global charts..."
+          fetch_lastfm "http://ws.audioscrobbler.com/2.0/?method=chart.gettopartists&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000" "global_artists.json"
+          jq '.artists.artist[].name' "global_artists.json" | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          
+          fetch_lastfm "http://ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000" "global_tracks.json"
+          jq '.tracks.track[].name' "global_tracks.json" | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          jq '.tracks.track[].artist.name' "global_tracks.json" | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          
+          echo "Current directory contents:"
+          ls -la
+          echo "File sizes:"
+          wc -l lastfm_*
 
-      - name: Run a one-line script CH geo
+      - name: Process and transform data
         run: |
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.topartists.artist[].name' | tr -d '"' > lastfm_ch
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"' | cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_ch
-          curl -s 'https://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&country=switzerland&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name' | tr -d '"' >> lastfm_ch
+          echo "Processing LastFM data..."
+          
+          # Function to process text files
+          process_file() {
+            local input=$1
+            local base=${input%.*}
+            
+            echo "Processing $input..."
+            
+            # Create variations
+            awk '{print tolower($0)}' "$input" > "${base}_lower"
+            awk '{print toupper($0)}' "$input" > "${base}_upper"
+            sed "s/ //g" "$input" > "${base}_nospaces"
+            sed "s/-//g" "$input" > "${base}_nodash"
+            sed "s/'//g" "$input" > "${base}_quote"
+            
+            # Handle accents
+            iconv -f UTF-8 -t ASCII//TRANSLIT "$input" "${base}_lower" "${base}_quote" "${base}_upper" "${base}_nodash" "${base}_nospaces" > "${base}_noaccent" 2>/dev/null || echo "Warning: Some accent conversions failed"
+          }
+          
+          # Process each country's data
+          for country in fr be ch; do
+            process_file "lastfm_$country"
+          done
+          
+          echo "Current directory contents:"
+          ls -la
+          echo "File sizes:"
+          wc -l lastfm_*
 
-      - name: Get top chart
+      - name: Combine and deduplicate
         run: |
-          curl -s 'http://ws.audioscrobbler.com/2.0/?method=chart.gettopartists&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.artists.artist[].name' | tr -d '"'| cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
-          curl -s 'http://ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].name' | tr -d '"'| cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
-          curl -s 'http://ws.audioscrobbler.com/2.0/?method=chart.gettoptracks&api_key=${{ secrets.LASTFM_API }}&format=json&limit=1000' | jq '.tracks.track[].artist.name'| tr -d '"'| cut -d '(' -f 1 | sed 's/ $//g' >> lastfm_fr
+          echo "Combining and deduplicating data..."
+          cat lastfm* >> pourquoit
+          LC_ALL=C sort -u pourquoit > lastfm
+          
+          echo "Final file statistics:"
+          ls -la
+          wc -l lastfm*
+          
+          # Cleanup temporary files
+          rm -f *_lower *_upper *_nospaces *_nodash *_quote *_noaccent pourquoit *.json
 
-      - name: Permutations options
-        run: |
-            cat lastfm_fr lastfm_be lastfm_ch | awk '{print tolower($0)}' > lastfm_lower;
-            cat lastfm_fr lastfm_be lastfm_ch | awk '{print toupper($0)}' > lastfm_upper;
-            sed "s/ //g" lastfm_fr lastfm_be lastfm_ch > lastfm_nospaces;
-            sed "s/-//g" lastfm_fr lastfm_be lastfm_ch > lastfm_nodash;
-            sed "s/'//g" lastfm_fr lastfm_be lastfm_ch > lastfm_quote;
-            sed 'y/ÖöËÇçÀāáǎàëēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀÉĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÏÜ/OoECcAaaaaeeeeeiiiioooouuuuuuuuAAAAEEEEEIIIIOOOOUUUUUUUUIU/' lastfm_quote lastfm_upper lastfm_lower lastfm_nodash lastfm_fr lastfm_be lastfm_ch > lastfm_noaccent;
-
-      - name: Run sort and uniq
-        run: cat lastfm* >> pourquoit;LC_ALL=C sort -u pourquoit > lastfm; ls -la; wc -l lastfm*;
-      
-      # Runs a set of commands using the runners shell
       - name: Git commit and push
         run: |
+          echo "Committing changes..."
           git config user.name "Music-bot"
           git config user.email ""
           git add lastfm
