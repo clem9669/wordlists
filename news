@@ -273,7 +273,9 @@
 1ER AVRIL
 1ER FÉVRIER
 1ER MAI
+1ER MAI FERIE EN SUISSE
 1ER MAI FÉRIÉ
+1ER MAI FÉRIÉ EN SUISSE
 1ER MINISTRE FRANCE
 1ER NOVEMBRE
 1ER NOVEMBRE FÉRIÉ
@@ -293,7 +295,9 @@
 1er avril
 1er février
 1er mai
+1er mai ferie en suisse
 1er mai férié
+1er mai férié en suisse
 1er ministre France
 1er ministre france
 1er novembre
@@ -311,7 +315,9 @@
 1eravril
 1erfévrier
 1ermai
+1ermaiferieensuisse
 1ermaiférié
+1ermaifériéensuisse
 1erministreFrance
 1ernovembre
 1ernovembreférié
@@ -1916,6 +1922,7 @@ AMAZON BLACK FRIDAY
 AMAZON PRIME
 AMAZON PRIME DAY
 AMAZON PRIME VIDEO
+AMAZON TRUMP
 AMAZON TÉLÉTRAVAIL
 AMAZON-AKTIE
 AMAZONPRIMEDAY
@@ -2526,6 +2533,7 @@ ANTWERP GENK
 ANTWERP KORTRIJK
 ANTWERP PORT EPIC
 ANTWERP PRIDE
+ANTWERP VS ANDERLECHT
 ANTWERP – GENK
 ANTWERP – KAS EUPEN
 ANTWERP – STANDARD
@@ -8436,6 +8444,7 @@ BELGIQUEEURO2021
 BELGIQUEFINLANDE
 BELGIQUEPORTUGAL
 BELGIQUESUISSE
+BELGISCHE PRO LEAGUE
 BELGISCHE VLAG
 BELGIUM
 BELGIUM CATS
@@ -14849,6 +14858,7 @@ CLUB BRUGGE  WESTERLO
 CLUB BRUGGE  ZULTE-WAREGEM
 CLUB BRUGGE  ZULTEWAREGEM
 CLUB BRUGGE - CERCLE
+CLUB BRUGGE - GENT
 CLUB BRUGGE - STANDARD
 CLUB BRUGGE ASTON VILLA
 CLUB BRUGGE ATALANTA
@@ -26641,6 +26651,7 @@ FC Liverpool
 FC Lorient
 FC Lugano
 FC Luzern
+FC MENZO REINACH
 FC METZ
 FC Metz
 FC MÜNSINGEN
@@ -27054,6 +27065,7 @@ FEU DE LA SAINT JEAN
 FEU DE LA SAINT-JEAN
 FEU JURA
 FEUERLAUF
+FEUERWEHR HERISAU
 FEUERWERK
 FEUERWERK 1. AUGUST
 FEUERWERK ZÜRICH
@@ -27734,6 +27746,7 @@ FRANCIS LALANNE
 FRANCIS NGANNOU
 FRANCIS PERRIN
 FRANCIS SCOTT KEY BRIDGE
+FRANCISCO CERUNDOLO
 FRANCISCO CERÚNDOLO
 FRANCK BERRIER
 FRANCK COURTES
@@ -36265,6 +36278,7 @@ INTER LIVERPOOL
 INTER MAILAND
 INTER MIAMI
 INTER MIAMI - SPORTING KC
+INTER MIAMI - WHITECAPS
 INTER MIAMI GEGEN SPORTING KC
 INTER MIAMI – BARCELONA
 INTER MIAMI – CAVALIER
@@ -36272,6 +36286,7 @@ INTER MIAMI – DC UNITED
 INTER MIAMI – HOUSTON DYNAMO
 INTER MIAMI – NASHVILLE
 INTER MIAMI – SPORTING KC
+INTER MIAMI – WHITECAPS
 INTER MILAN
 INTER NAPOLI
 INTER VS BENFICA
@@ -38037,6 +38052,7 @@ JAKOB INGEBRIGTSEN
 JAKOB LILJA
 JAKOBSEN
 JAKUB JANKTO
+JAKUB MENSIK
 JAKUB MENŠÍK
 JALE İNAN
 JALEN HURTS
@@ -44295,6 +44311,7 @@ LAKE PARADE
 LAKE PARADE GENEVE
 LAKEN RILEY
 LAKERS
+LAKERS - TIMBERWOLVES
 LAKERS – BUCKS
 LAKERS – CAVALIERS
 LAKERS – CLIPPERS
@@ -50682,6 +50699,8 @@ MASS-VOLL
 MASSACHUSETTS
 MASSACRE À LA TRONÇONNEUSE
 MASSAD BOULOS
+MASSIF DES ECRINS
+MASSIF DES ÉCRINS
 MASSIF DU CAROUX
 MASSIMO GILETTI
 MASSIVE ATTACK
@@ -51118,6 +51137,7 @@ MENORCA
 MENOTTI
 MENOWIN FRÖHLICH
 MENOWIN FRÖHLICH DSDS
+MENSIK
 MENSONGES
 MENSONGES TF1
 MENTISSA
@@ -66843,6 +66863,7 @@ RESPONSIBLE YOUNG DRIVERS
 RESTAURANT LÖCHLIBAD
 RESTAURANT MISVERSTAND
 RESTAURANT PASS SANITAIRE
+RESTAURANT ROSINLI
 RESTAURANT SONNE SEUZACH
 RESTO DU COEUR
 RESTRICTION COVID BELGIQUE
@@ -67198,6 +67219,8 @@ ROCK WERCHTER 2025
 ROCK WERCHTER ENCORE
 ROCK ZOTTEGEM
 ROCKETMAN
+ROCKETS - WARRIORS
+ROCKETS – WARRIORS
 ROD LAVER
 ROD STEWART
 RODA JC
@@ -67384,6 +67407,7 @@ RONDE VAN LOMBARDIJE
 RONDE VAN LOMBARDIJE 2021
 RONDE VAN LOMBARDIJE 2023
 RONDE VAN NOORWEGEN
+RONDE VAN ROMANDIE 2025
 RONDE VAN SPANJE 2022
 RONDE VAN VLAAMS-BRABANT
 RONDE VAN VLAANDEREN
@@ -70797,6 +70821,7 @@ SCHWEIZ
 SCHWEIZ - GHANA
 SCHWEIZ - KANADA
 SCHWEIZ - ÖSTERREICH
+SCHWEIZ 1 MAI FEIERTAG
 SCHWEIZ ABSTIMMUNGEN
 SCHWEIZ AKTUELL
 SCHWEIZ ANDORRA EM-QUALI
@@ -70838,6 +70863,7 @@ SCHWEIZ U21
 SCHWEIZ UNGARN
 SCHWEIZ – AUSTRALIEN
 SCHWEIZER ARMEE
+SCHWEIZER ARMEE UNFALL
 SCHWEIZER BAUER
 SCHWEIZER BUNDESFEIERTAG
 SCHWEIZER CUP
@@ -86351,6 +86377,7 @@ YUZURU HANYU
 YVAN ATTAL
 YVAN BURAVAN
 YVAN COLONNA
+YVAN LE BOLLOC'H
 YVELINES
 YVERDON
 YVERDON SPORT
@@ -88537,9 +88564,11 @@ amazon black friday
 amazon prime
 amazon prime day
 amazon prime video
+amazon trump
 amazon télétravail
 amazon-aktie
 amazonprimeday
+amazontrump
 ambassadeur algérie
 ambassadeur de france
 ambassadeur français russie
@@ -89176,6 +89205,7 @@ antwerp genk
 antwerp kortrijk
 antwerp port epic
 antwerp pride
+antwerp vs anderlecht
 antwerp – genk
 antwerp – kas eupen
 antwerp – standard
@@ -89191,6 +89221,7 @@ antwerp-union
 antwerp. anderlecht
 antwerpen vuurwerk
 antwerpen-centraal
+antwerpvsanderlecht
 anuna de wever
 anya taylor-joy
 anydesk
@@ -90783,7 +90814,9 @@ belgiqueeuro2021
 belgiquefinlande
 belgiqueportugal
 belgiquesuisse
+belgische pro league
 belgische vlag
+belgischeproleague
 belgium
 belgium cats
 belgium got talent
@@ -93046,6 +93079,7 @@ championnat de france cyclisme
 championnat du monde cyclisme
 championnat du monde cyclo cross 2025
 championnat du monde de snooker
+championnatdebelgique
 championnatdefrancecyclisme
 championnatdumondecyclocross2025
 champions
@@ -93874,6 +93908,7 @@ club brugge  westerlo
 club brugge  zulte-waregem
 club brugge  zultewaregem
 club brugge - cercle
+club brugge - gent
 club brugge - standard
 club brugge aston villa
 club brugge atalanta
@@ -93897,6 +93932,7 @@ clubafricain–egsgafsa
 clubafricain–olympiquebéja
 clubafricain–ustataouine
 clubbrugge
+clubbrugge-gent
 clubbrugge-standard
 clubbruggeastonvilla
 clubbruggekortrijk
@@ -97684,6 +97720,7 @@ fc liverpool
 fc lorient
 fc lugano
 fc luzern
+fc menzo reinach
 fc metz
 fc münsingen
 fc nantes
@@ -97747,6 +97784,7 @@ fcb–lausanne-sport
 fcfulham–liverpool
 fcg
 fcl
+fcmenzoreinach
 fcn
 fcn – hsv
 fcn–hsv
@@ -97956,6 +97994,8 @@ feu de la saint jean
 feu de la saint-jean
 feu jura
 feuerlauf
+feuerwehr herisau
+feuerwehrherisau
 feuerwerk
 feuerwerk 1. august
 feuerwerk zürich
@@ -98638,7 +98678,9 @@ francis ngannou
 francis perrin
 francis scott key bridge
 franciscabrel
+francisco cerundolo
 francisco cerúndolo
+franciscocerundolo
 franciscocerúndolo
 francishallé
 franck berrier
@@ -101688,6 +101730,7 @@ inter mailand
 inter miami
 inter miami  sporting kc
 inter miami - sporting kc
+inter miami - whitecaps
 inter miami gegen sporting kc
 inter miami – barcelona
 inter miami – cavalier
@@ -101695,6 +101738,7 @@ inter miami – dc united
 inter miami – houston dynamo
 inter miami – nashville
 inter miami – sporting kc
+inter miami – whitecaps
 inter milan
 inter napoli
 inter vs benfica
@@ -101734,8 +101778,10 @@ interlaken
 intermarché
 intermiami
 intermiami-sportingkc
+intermiami-whitecaps
 intermiami–cavalier
 intermiami–sportingkc
+intermiami–whitecaps
 intermittent fasting
 intermittent living
 international women's day
@@ -102243,7 +102289,9 @@ jakob ingebrigtsen
 jakob lilja
 jakobsen
 jakub jankto
+jakub mensik
 jakub menšík
+jakubmensik
 jakubmenšík
 jale inan
 jalen hurts
@@ -103348,6 +103396,7 @@ jupiler pro league
 jupiler pro league 2021
 jupiler pro league 2022
 jupiler pro league playoffs
+jupilerproleague
 jupiter en venus
 jura
 jura sud – ajaccio
@@ -104702,6 +104751,7 @@ lake parade
 lake parade geneve
 laken riley
 lakers
+lakers - timberwolves
 lakers – bucks
 lakers – cavaliers
 lakers – clippers
@@ -104712,6 +104762,7 @@ lakers – rockets
 lakers – spurs
 lakers – timberwolves
 lakers – warriors
+lakers-timberwolves
 lakers–bucks
 lakers–clippers
 lakers–hornets
@@ -107760,7 +107811,11 @@ mass-voll
 massachusetts
 massacre à la tronçonneuse
 massad boulos
+massif des ecrins
+massif des écrins
 massif du caroux
+massifdesecrins
+massifdesécrins
 massimo giletti
 massive attack
 massnahmen schweiz
@@ -108217,6 +108272,7 @@ menorca
 menotti
 menowin fröhlich
 menowin fröhlich dsds
+mensik
 mensonges
 mensonges tf1
 mentissa
@@ -112718,6 +112774,7 @@ programme tv maintenant
 programme zemmour
 programmepaleo2025
 programmetvmaintenant
+proleague
 promi big brother
 promi big brother 2021
 promi büssen
@@ -113712,7 +113769,9 @@ responsible young drivers
 restaurant löchlibad
 restaurant misverstand
 restaurant pass sanitaire
+restaurant rosinli
 restaurant sonne seuzach
+restaurantrosinli
 resto du coeur
 restriction covid belgique
 restriction covid suisse
@@ -114064,6 +114123,10 @@ rock werchter 2025
 rock werchter encore
 rock zottegem
 rocketman
+rockets - warriors
+rockets – warriors
+rockets-warriors
+rockets–warriors
 rockwerchter
 rod laver
 rod stewart
@@ -114256,6 +114319,7 @@ ronde van lombardije
 ronde van lombardije 2021
 ronde van lombardije 2023
 ronde van noorwegen
+ronde van romandie 2025
 ronde van spanje 2022
 ronde van vlaams-brabant
 ronde van vlaanderen
@@ -114268,6 +114332,7 @@ ronde van zwitserland 2022
 rondevanfrankrijk
 rondevanfrankrijk2021
 rondevanlimburg
+rondevanromandie2025
 ronit elkabetz
 ronja furrer
 ronja jansen
@@ -115196,6 +115261,7 @@ schweiz
 schweiz - ghana
 schweiz - kanada
 schweiz - österreich
+schweiz 1 mai feiertag
 schweiz abstimmungen
 schweiz aktuell
 schweiz andorra em-quali
@@ -115234,7 +115300,9 @@ schweiz turkei 2005
 schweiz u21
 schweiz ungarn
 schweiz – australien
+schweiz1maifeiertag
 schweizer armee
+schweizer armee unfall
 schweizer bauer
 schweizer bundesfeiertag
 schweizer cup
@@ -115247,6 +115315,7 @@ schweizer nationalfeiertag
 schweizer nationalmannschaft spieler
 schweizer schriftsteller gestorben
 schweizerarmee
+schweizerarmeeunfall
 schweizerbauer
 schweizergarde
 schweizerhalle
@@ -121050,6 +121119,9 @@ yuzuru hanyu
 yvan attal
 yvan buravan
 yvan colonna
+yvan le bolloc'h
+yvan le bolloch
+yvanlebolloc'h
 yvelines
 yverdon
 yverdon sport
