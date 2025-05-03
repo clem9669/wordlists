@@ -1502,6 +1502,9 @@ ALARME
 ALARME SUISSE
 ALASKA
 ALASKA FLUGZEUGABSTURZ
+ALAVES - ATLETICO MADRID
+ALAVES – ATLÉTICO MADRID
+ALAVÉS - ATLÉTICO MADRID
 ALBA BAPTISTA
 ALBA FESTIVAL
 ALBA-FESTIVAL
@@ -1575,6 +1578,7 @@ ALERTE COBRA CHRISTIAN OLIVER
 ALERTE ENLÈVEMENT
 ALERTE ENLÉVEMENT SANTIAGO
 ALERTE METEO
+ALERTE ORAGE BELGIQUE
 ALERTE ROUGE
 ALERTE ROUGE ALPES-MARITIMES
 ALERTE TSUNAMI
@@ -3001,11 +3005,14 @@ ASTON MARTIN DB12
 ASTON MARTIN F1
 ASTON VILLA
 ASTON VILLA  MANCHESTER CITY
+ASTON VILLA - FC FULHAM
+ASTON VILLA - FULHAM
 ASTON VILLA GEGEN ARSENAL
 ASTON VILLA GEGEN LIVERPOOL
 ASTON VILLA – ARSENAL
 ASTON VILLA – BAYERN
 ASTON VILLA – CHELSEA
+ASTON VILLA – FC FULHAM
 ASTON VILLA – JUVENTUS
 ASTON VILLA – LIVERPOOL
 ASTON VILLA – MAN CITY
@@ -13972,6 +13979,7 @@ CERCLE  STVV
 CERCLE  UNION
 CERCLE  ZULTE-WAREGEM
 CERCLE - CLUB BRUGGE
+CERCLE - KORTRIJK
 CERCLE BRUGES – ANDERLECHT
 CERCLE BRUGES – ANTWERP
 CERCLE BRUGES – STANDARD
@@ -15256,6 +15264,7 @@ COUPE DE BELGIQUE
 COUPE DE FRANCE
 COUPE DE FRANCE 2025
 COUPE DE FRANCE DE FOOTBALL
+COUPE DE FRANCE FEMININE
 COUPE DE FRANCE FÉMININE
 COUPE DE FRANCE RÉSULTATS
 COUPE DE SUISSE
@@ -19383,7 +19392,9 @@ DARKO LAZOVIC
 DARLIGEN
 DARMANIN
 DARMSTADT
+DARMSTADT 98 - HSV
 DARMSTADT 98 GEGEN BAYERN
+DARMSTADT 98 – HSV
 DARMSTADT – BAYERN
 DARON ACEMOGLU
 DARRELL BROOKS
@@ -19741,6 +19752,8 @@ DEPECHE MODE
 DEPECHE MODE GHOSTS AGAIN
 DEPECHE MODE MEMENTO MORI
 DEPECHE MODE SPORTPALEIS
+DEPORTIVO ALAVES - ATLETICO MADRID
+DEPORTIVO ALAVÉS – ATLÉTICO MADRID
 DEPORTIVO ALAVÉS – GETAFE
 DEPORTIVO ALAVÉS – REAL MADRID
 DEPOT
@@ -23112,6 +23125,7 @@ EISHOCKEY
 EISHOCKEY OLYMPIA 2022
 EISHOCKEY PLAYOFFS
 EISHOCKEY SCHWEIZ
+EISHOCKEY WM 2025
 EISHOCKEY-WM
 EISHOCKEY-WM 2022
 EISHOCKEY-WM 2023
@@ -24183,10 +24197,12 @@ EVERGRANDE
 EVERGRANDE AKTIE
 EVERLY BROTHERS
 EVERTON
+EVERTON - IPSWICH TOWN
 EVERTON GEGEN ARSENAL
 EVERTON – ARSENAL
 EVERTON – BRIGHTON
 EVERTON – CHELSEA
+EVERTON – IPSWICH TOWN
 EVERTON – LIVERPOOL
 EVERTON – MAN CITY
 EVERTON – MANCHESTER CITY
@@ -38975,6 +38991,7 @@ JSK
 JUAN ARBELAEZ
 JUAN BRANCO
 JUAN IZQUIERDO
+JUAN LUIS CIPRIANI THORNE
 JUAN MATA
 JUAN SOTO
 JUBILLAR
@@ -44814,6 +44831,7 @@ LEGOZelda
 LEGUAAN
 LEHMANN
 LEICESTER
+LEICESTER - SOUTHAMPTON
 LEICESTER CITY
 LEICESTER CITY  EVERTON
 LEICESTER CITY ( LIVERPOOL
@@ -44829,6 +44847,7 @@ LEICESTER – MANCHESTER UNITED
 LEICESTER – NAPLES
 LEICESTER – QPR
 LEICESTER – RENNES
+LEICESTER – SOUTHAMPTON
 LEICESTER – TOTTENHAM
 LEICESTER – WEST HAM
 LEICHTATHLETIK PARALYMPICS
@@ -45535,6 +45554,7 @@ LOKEREN TEMSE
 LOKEREN-TEMSE
 LOKEREN-TEMSE  CLUB NXT
 LOKEREN-TEMSE  EUPEN
+LOKEREN-TEMSE - PATRO EISDEN
 LOKERSE FEESTEN
 LOKERSE FEESTEN 2021
 LOKERSEFEESTEN2021
@@ -51919,6 +51939,7 @@ MONACO – TRABZONSPOR
 MONACO – TROYES
 MONACO – ÉTOILE ROUGE
 MONACO-REAL SOCIEDAD
+MONCHENGLADBACH - HOFFENHEIM
 MOND-NEUJAHR
 MONDFINSTERNIS
 MONDIAL
@@ -56847,6 +56868,7 @@ MÖNCHENGLADBACH GEGEN SCHALKE
 MÖNCHENGLADBACH GEGEN VFB STUTTGART
 MÖNCHENGLADBACH – BAYERN
 MÖNCHENGLADBACH – FRIBOURG
+MÖNCHENGLADBACH – HOFFENHEIM
 MÜHLE HUNZIKEN
 MÜHLEHORN BRAND
 MÜMLISWIL
@@ -66413,6 +66435,7 @@ RAYO – REAL MADRID
 RAYON
 RB LEIPZIG
 RB LEIPZIG  STUTTGART
+RB LEIPZIG - BAYERN
 RB LEIPZIG GEGEN BAYERN
 RB LEIPZIG GEGEN CELTIC
 RB LEIPZIG GEGEN DORTMUND
@@ -82824,6 +82847,7 @@ VIGILANCE ORANGE ORAGES
 VIGILANCE ORANGE PLUIE-INONDATION
 VIGILANCE ORANGE PLUIE/INONDATION
 VIGILANCE ORANGE VENT VIOLENT
+VIGILANCE PRECIPITATIONS
 VIGILANCE PRÉCIPITATIONS
 VIGILANCE ROUGE ALPES-MARITIMES
 VIGILANCE ROUGE CANICULE
@@ -84762,6 +84786,7 @@ WETTER
 WETTER BADEN
 WETTER GIFTIGE WOLKE
 WETTER GRIECHENLAND SCHNEE
+WETTER HAGEL
 WETTER MALLORCA
 WETTER NEW YORK
 WETTER SCHNEE
@@ -88149,6 +88174,14 @@ alarme suisse
 alarmesuisse
 alaska
 alaska flugzeugabsturz
+alaves  atletico madrid
+alaves - atletico madrid
+alaves – atlético madrid
+alaves-atleticomadrid
+alaves–atléticomadrid
+alavés  atlético madrid
+alavés - atlético madrid
+alavés-atléticomadrid
 alba baptista
 alba festival
 alba-festival
@@ -88227,6 +88260,7 @@ alerte cobra christian oliver
 alerte enlèvement
 alerte enlévement santiago
 alerte meteo
+alerte orage belgique
 alerte rouge
 alerte rouge alpes-maritimes
 alerte tsunami
@@ -88235,6 +88269,7 @@ alerte tsunami caraïbes
 alerte tsunami japon
 alerte à la bombe
 alerte à malibu
+alerteoragebelgique
 alertetsunamicaraibes
 alertetsunamijapon
 ales
@@ -88343,6 +88378,7 @@ alfa romeo milano
 alfa romeo tonale
 alfies
 alfons schuhbeck
+alfonsschuhbeck
 alfortville
 alfred biolek
 alfred gantner
@@ -89690,12 +89726,16 @@ aston martin
 aston martin db12
 aston martin f1
 aston villa
+aston villa  fulham
 aston villa  manchester city
+aston villa - fc fulham
+aston villa - fulham
 aston villa gegen arsenal
 aston villa gegen liverpool
 aston villa – arsenal
 aston villa – bayern
 aston villa – chelsea
+aston villa – fc fulham
 aston villa – juventus
 aston villa – liverpool
 aston villa – man city
@@ -89705,6 +89745,9 @@ aston villa – newcastle
 aston villa – olympiakos
 aston villa – southampton
 astonvilla
+astonvilla-fcfulham
+astonvilla-fulham
+astonvilla–fcfulham
 astra-bridge
 astrazeneca
 astrazeneca vaccin covid
@@ -89795,6 +89838,7 @@ atleliemcgrath
 atletico
 atletico madrid
 atletico-madrid
+atleticomadrid
 atletiek paralympische spelen
 atlético madrid gegen inter
 atlético madrid – ath bilbao
@@ -92997,6 +93041,7 @@ cercle  charleroi
 cercle  club brugge
 cercle  dender
 cercle  kilmarnock
+cercle  kortrijk
 cercle  mechelen
 cercle  molde
 cercle  standard
@@ -93004,6 +93049,7 @@ cercle  stvv
 cercle  union
 cercle  zulte-waregem
 cercle - club brugge
+cercle - kortrijk
 cercle bruges – anderlecht
 cercle bruges – antwerp
 cercle bruges – standard
@@ -93013,6 +93059,7 @@ cercle brügge – st.gallen
 cercle-anderlecht
 cercle-club brugge
 cercle-clubbrugge
+cercle-kortrijk
 cercueils tour eiffel
 ceremonie cloture jo
 ceremonie cloture jo 2024
@@ -94341,6 +94388,7 @@ coupe de belgique
 coupe de france
 coupe de france 2025
 coupe de france de football
+coupe de france feminine
 coupe de france féminine
 coupe de france résultats
 coupe de suisse
@@ -94367,6 +94415,8 @@ coupe gambardella
 coupe suisse
 couped'europe2021
 coupedavis
+coupedefrancefeminine
+coupedefranceféminine
 coupedumonde
 coupedumondebeachsoccer2025
 coupegambardella
@@ -94937,8 +94987,12 @@ darko lazovic
 darligen
 darmanin
 darmstadt
+darmstadt 98 - hsv
 darmstadt 98 gegen bayern
+darmstadt 98 – hsv
 darmstadt – bayern
+darmstadt98-hsv
+darmstadt98–hsv
 daron acemoglu
 darrell brooks
 darren kent
@@ -95314,8 +95368,12 @@ depeche mode
 depeche mode ghosts again
 depeche mode memento mori
 depeche mode sportpaleis
+deportivo alaves - atletico madrid
+deportivo alavés – atlético madrid
 deportivo alavés – getafe
 deportivo alavés – real madrid
+deportivoalaves-atleticomadrid
+deportivoalavés–atléticomadrid
 deportivoalavés–getafe
 deportivoalavés–realmadrid
 depot
@@ -96373,6 +96431,7 @@ eishockey
 eishockey olympia 2022
 eishockey playoffs
 eishockey schweiz
+eishockey wm 2025
 eishockey-wm
 eishockey-wm 2022
 eishockey-wm 2023
@@ -96380,6 +96439,7 @@ eishockey-wm 2024
 eishockey-wm finale
 eishockey-wm schweiz
 eishockey-wm: schweiz
+eishockeywm2025
 eishöhle island eingestürzt
 eiskunstläuferin alexandra paul
 eisregen
@@ -97430,10 +97490,12 @@ evergrande
 evergrande aktie
 everly brothers
 everton
+everton - ipswich town
 everton gegen arsenal
 everton – arsenal
 everton – brighton
 everton – chelsea
+everton – ipswich town
 everton – liverpool
 everton – man city
 everton – manchester city
@@ -97441,7 +97503,9 @@ everton – manchester united
 everton – manunited
 everton – newcastle
 everton – tottenham
+everton-ipswichtown
 everton–arsenal
+everton–ipswichtown
 everton–manchestercity
 everton–manchesterunited
 everton–mancity
@@ -103275,8 +103339,10 @@ jsk
 juan arbelaez
 juan branco
 juan izquierdo
+juan luis cipriani thorne
 juan mata
 juan soto
+juanluisciprianithorne
 jubillar
 jubillar delphine
 jubillardelphine
@@ -105331,6 +105397,7 @@ lehavre–brest
 lehavre–lens
 lehmann
 leicester
+leicester - southampton
 leicester city
 leicester city  everton
 leicester city ( liverpool
@@ -105346,10 +105413,13 @@ leicester – manchester united
 leicester – naples
 leicester – qpr
 leicester – rennes
+leicester – southampton
 leicester – tottenham
 leicester – west ham
+leicester-southampton
 leicester–arsenal
 leicester–qpr
+leicester–southampton
 leichtathletik paralympics
 leichtathletik zürich
 leichtathletik-em 2024
@@ -106102,7 +106172,10 @@ lokeren temse
 lokeren-temse
 lokeren-temse  club nxt
 lokeren-temse  eupen
+lokeren-temse - patro eisden
+lokeren-temse-patroeisden
 lokerentemse
+lokerentemse  patro eisden
 lokerse feesten
 lokerse feesten 2021
 lokersefeesten
@@ -109120,6 +109193,8 @@ monaco – trabzonspor
 monaco – troyes
 monaco – étoile rouge
 monaco-real sociedad
+monchengladbach - hoffenheim
+monchengladbach-hoffenheim
 mond-neujahr
 mondfinsternis
 mondial
@@ -109488,7 +109563,9 @@ mönchengladbach gegen schalke
 mönchengladbach gegen vfb stuttgart
 mönchengladbach – bayern
 mönchengladbach – fribourg
+mönchengladbach – hoffenheim
 mönchengladbach–fribourg
+mönchengladbach–hoffenheim
 mühle hunziken
 mühlehorn brand
 mümliswil
@@ -113388,6 +113465,7 @@ rayo-valencia
 rayon
 rb leipzig
 rb leipzig  stuttgart
+rb leipzig - bayern
 rb leipzig gegen bayern
 rb leipzig gegen celtic
 rb leipzig gegen dortmund
@@ -113413,6 +113491,8 @@ rb salzburg gegen chelsea
 rb salzburg – bayern
 rb salzburg – brest
 rb salzburg – lille
+rbleipzig-bayern
+rbleipzig–bayern
 rbleipzig–hoffenheim
 rbs
 rc lens
@@ -119922,6 +120002,7 @@ vigilance orange orages
 vigilance orange pluie-inondation
 vigilance orange pluie/inondation
 vigilance orange vent violent
+vigilance precipitations
 vigilance précipitations
 vigilance rouge alpes-maritimes
 vigilance rouge canicule
@@ -119930,6 +120011,7 @@ vigilance vent
 vigilancejauneorages
 vigilanceorages
 vigilanceorangeorages
+vigilanceprecipitations
 vigilanceprécipitations
 vigilancevent
 vignette 2022
@@ -120649,6 +120731,7 @@ wetter
 wetter baden
 wetter giftige wolke
 wetter griechenland schnee
+wetter hagel
 wetter mallorca
 wetter new york
 wetter schnee
@@ -120659,6 +120742,7 @@ wetter st.gallen
 wetter tessin
 wetteren
 wettergriechenlandschnee
+wetterhagel
 wetterradar
 wettersturz
 wetzikon
