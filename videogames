@@ -55,6 +55,8 @@
 100 Aztec Cats   Artbook
 100 Aztec Cats - Artbook
 100 Aztec Cats Soundtrack
+100 CRIME CATS
+100 Crime Cats
 100 FOREST CATS
 100 Forest Cats
 100 HIDDEN PANDAS: VILLAGE
@@ -64,6 +66,7 @@
 100 aztec cats
 100 aztec cats - artbook
 100 aztec cats soundtrack
+100 crime cats
 100 forest cats
 100 hidden pandas: village
 100 men vs gorilla
@@ -71,6 +74,7 @@
 100AztecCats
 100AztecCats-Artbook
 100AztecCatsSoundtrack
+100CrimeCats
 100ForestCats
 100HiddenPandas:Village
 100MenVSGorilla
@@ -745,6 +749,7 @@
 ?? | Kwun Tong
 ??,????????!
 ??.????
+??2 Next Business Trip
 ???
 ??? Wild Web
 ??? | Phantom Reckoning
@@ -755,6 +760,7 @@
 ???? Ipet
 ???? Roaming Backrooms
 ????(Book Shooter) Demo
+????(Gong GO Girl) Soundtrack
 ????-???.??.??.??
 ????-????
 ????:??
@@ -763,6 +769,7 @@
 ????? Super Kalavinka
 ?????,?????!Lost in the secret!
 ?????-???+??????
+?????-??????DLC
 ?????? / Depths Debris
 ?????? ??????? ?????
 ?????? Happy Sisters Life
@@ -1149,6 +1156,7 @@ AEROBLASTERS
 AEROFIGHTERS
 AEROWINGS
 AES
+AESOP ROCK'S BLACK HOLE SUPERETTE EXPERIENCE
 AETHELRED
 AETHELSWITH
 AETHELWULF
@@ -2907,6 +2915,9 @@ Aero Fighters
 AeroBlasters
 AeroFighters
 AeroWings
+Aesop Rock s Black Hole Superette Experience
+Aesop Rock's Black Hole Superette Experience
+AesopRock'sBlackHoleSuperetteExperience
 Aethelred
 Aethelswith
 Aethelwulf
@@ -4929,6 +4940,7 @@ BELCHA
 BELIAL
 BELISARIO
 BELL
+BELL & HOOF: THE SILENT JOURNEY
 BELL CORPORATION
 BELLCORPORATION
 BELLE
@@ -5747,6 +5759,7 @@ BOOTS
 BORAI
 BORAI CHO
 BORAICHO
+BORDER OVERLOAD
 BORDERLANDS
 BORIS
 BORIS DIME
@@ -6824,7 +6837,10 @@ Belcha
 Belial
 Belisario
 Bell
+Bell   Hoof: The Silent Journey
+Bell & Hoof: The Silent Journey
 Bell Corporation
+Bell&Hoof:TheSilentJourney
 BellCorporation
 Belle
 Bellic
@@ -7621,6 +7637,8 @@ BoomerBrawler
 Bootant
 Bootleg
 Boots
+Border Overload
+BorderOverload
 Borderlands
 Boris
 Boris Dime
@@ -8436,6 +8454,7 @@ CARBONATED GAMES
 CARBONATEDGAMES
 CARBONGAMES
 CARD
+CARDBOARD HERO
 CAREERSOFT
 CARET
 CARGO SHOP SIMULATOR
@@ -8543,6 +8562,7 @@ CASSIECAGE
 CASSIEDRAKE
 CASTING CLICKER
 CASTLE
+CASTLE BOMBER RED
 CASTLE OF ILLUSION
 CASTLE OF SECRETS
 CASTLE SHIKIGAMI
@@ -10557,6 +10577,8 @@ Carbonated
 Carbonated Games
 CarbonatedGames
 Card
+Cardboard Hero
+CardboardHero
 CareerSoft
 Caret
 Cargo Shop Simulator
@@ -10668,9 +10690,11 @@ CassieDrake
 Casting Clicker
 CastingClicker
 Castle
+Castle Bomber RED
 Castle Shikigami
 Castle of Illusion
 Castle of Secrets
+CastleBomberRED
 CastleShikigami
 CastleofIllusion
 CastleofSecrets
@@ -12772,6 +12796,7 @@ DAYSOFWONDER
 DAYTONA
 DAYTONA USA
 DAYTONAUSA
+DAYZ
 DAZE
 DAZZ
 DB-SOFT
@@ -13165,6 +13190,7 @@ DIABLOII
 DIABLOTY
 DIABLOTY DIABLOTY
 DIABLOTYDIABLOTY
+DIABLO® IV: VESSEL OF HATRED™ - EXPANSION BUNDLE
 DIABOLIK
 DIABOLIK LOVERS
 DIABOLIKLOVERS
@@ -13475,6 +13501,7 @@ DMITRY
 DMITRY LUKASH
 DMITRYLUKASH
 DO
+DO NOT DISTURB
 DOA
 DOC
 DOC DOC
@@ -13489,6 +13516,7 @@ DOCTEURGEYSER
 DOCTEURKADOWAKI
 DOCTOR
 DOCTOR ENTERTAINMENT
+DOCTOR LIFE SIMULATOR
 DOCTORENTERTAINMENT
 DOCTRINE
 DOCTRINE DARK
@@ -13551,6 +13579,7 @@ DON RESETTI
 DON'T
 DON'T ASK SUCCUBUS
 DON'T DROP THE SOAP
+DON'T FORGET THE BEAR
 DON'T POP MY BUBBLE
 DON'T STEP
 DON'T STEP ON
@@ -14373,6 +14402,7 @@ Day of the Tentacle Maniac Mansion
 Day of the Tentacle, Maniac Mansion
 Day1
 Day1Studios
+DayZ
 Daydam Knight
 DaydamKnight
 DayoftheTentacle
@@ -14761,9 +14791,13 @@ Dezign
 Dhalsim
 Dia
 Diablo
+Diablo(R) IV: Vessel of Hatred(TM) - Expansion Bundle
 Diabloty
 Diabloty Diabloty
 DiablotyDiabloty
+Diablo® IV: Vessel of Hatred™   Expansion Bundle
+Diablo® IV: Vessel of Hatred™ - Expansion Bundle
+Diablo®IV:VesselofHatred™-ExpansionBundle
 Diabolik
 Diabolik Lovers
 DiabolikLovers
@@ -15060,7 +15094,9 @@ Dmitry
 Dmitry Lukash
 DmitryLukash
 Do
+Do Not Disturb
 DoDonPachi
+DoNotDisturb
 Doc
 Doc Doc
 DocDoc
@@ -15073,7 +15109,9 @@ DocteurGeyser
 DocteurKadowaki
 Doctor
 Doctor Entertainment
+Doctor Life Simulator
 DoctorEntertainment
+DoctorLifeSimulator
 Doctrine
 Doctrine Dark
 DoctrineDark
@@ -15131,10 +15169,12 @@ Don Percival
 Don Resetti
 Don t Ask Succubus
 Don t Drop The Soap
+Don t Forget The Bear
 Don t Pop My Bubble
 Don't
 Don't Ask Succubus
 Don't Drop The Soap
+Don't Forget The Bear
 Don't Pop My Bubble
 Don't Step
 Don't Step On
@@ -15142,6 +15182,7 @@ Don't Step On The
 Don't Step On The Cracks
 Don'tAskSuccubus
 Don'tDropTheSoap
+Don'tForgetTheBear
 Don'tPopMyBubble
 Don'tStep
 Don'tStepOn
@@ -16724,8 +16765,11 @@ EYEOF
 EYEOFENDER
 EYEOFTHEBEHOLDER
 EZ
+EZ Crosshair
 EZ SOFT
 EZ Soft
+EZ-CROSSHAIR
+EZ-Crosshair
 EZMOBO
 EZSOFT
 EZSoft
@@ -18686,6 +18730,7 @@ FTLGAMES
 FTLGames
 FU
 FUCHS
+FUCKSTONE
 FUCKSTONE DEMO
 FUEL
 FUEL GAMES
@@ -19800,6 +19845,7 @@ Frères
 Fu
 FuRyu
 Fuchs
+Fuckstone
 Fuckstone Demo
 FuckstoneDemo
 Fuel
@@ -20536,6 +20582,7 @@ GIDEONWYBORN
 GIFLE
 GIFLE GIFLE
 GIFLEGIFLE
+GIFTED: THE TOMBS DEMO
 GIGA
 GIGANTE
 GIGAS
@@ -21939,6 +21986,8 @@ GideonWyborn
 Gifle
 Gifle Gifle
 GifleGifle
+Gifted: The Tombs Demo
+Gifted:TheTombsDemo
 Giga
 GigaWing
 Gigante
@@ -23083,6 +23132,7 @@ HEART_OF_THE_SEA
 HEAT
 HEAT PHANPHAN
 HEAT PHANPHAN HEAT PHANPHAN
+HEAT SEEKERS
 HEAT THE
 HEAT THE SOUL
 HEATPHANPHAN
@@ -24019,10 +24069,12 @@ Hearts
 Heat
 Heat Phanphan
 Heat Phanphan Heat Phanphan
+Heat Seekers
 Heat the
 Heat the Soul
 HeatPhanphan
 HeatPhanphanHeatPhanphan
+HeatSeekers
 Heatthe
 HeattheSoul
 Heaven
@@ -24911,6 +24963,7 @@ IMax
 IN
 IN A BIT OF TALES
 IN DEATH WE LOVE
+IN PURR-SUIT
 IN UTERO
 IN-HOUSE
 INARIUS
@@ -25581,6 +25634,8 @@ Impulse Games
 ImpulseGames
 Impérial
 In
+In Purr Suit
+In Purr-Suit
 In Utero
 In a Bit of Tales
 In-House
@@ -25595,6 +25650,7 @@ InMotion Software, LLC
 InMotionSoftware
 InMotionSoftware,LLC
 InMotionSoftwareLLC
+InPurr-Suit
 InUtero
 InXile
 InXile Entertainment
@@ -26609,6 +26665,7 @@ JUMPGAMES
 JUMPGAMESPVT.LTD
 JUMPGAMESPVTLTD
 JUMPING JAZZ CATS
+JUMPSCARE SLAYER
 JUN
 JUN HAYASE
 JUN KAZAMA
@@ -27255,6 +27312,8 @@ JumpGamesPvt.Ltd
 JumpGamesPvtLtd
 Jumping Jazz Cats
 JumpingJazzCats
+Jumpscare Slayer
+JumpscareSlayer
 JumptheTrack
 Jun
 Jun Hayase
@@ -32096,6 +32155,7 @@ MAGMACUBESPAWN
 MAGMACUBESPAWNEGG
 MAGNA
 MAGNAVOX
+MAGNECUBE
 MAGNETIC
 MAGNETIC FIELDS
 MAGNETIC IMAGES
@@ -32180,6 +32240,7 @@ MAKAIMURA
 MAKE
 MAKE IT COUNT
 MAKE SOFTWARE
+MAKE TRACKS GREAT AGAIN
 MAKEBARI
 MAKER
 MAKESOFTWARE
@@ -34403,6 +34464,7 @@ MagmaCubeSpawn
 MagmaCubeSpawnEgg
 Magna
 Magnavox
+Magnecube
 Magnetic
 Magnetic Fields
 Magnetic Images
@@ -34482,8 +34544,10 @@ Makaimura
 Make
 Make It Count
 Make Software
+Make Tracks Great Again
 MakeItCount
 MakeSoftware
+MakeTracksGreatAgain
 Makebari
 Maker
 Maki
@@ -37080,6 +37144,7 @@ NIGELWEIR
 NIGHT
 NIGHT GRIP
 NIGHT MARKET SIMULATOR
+NIGHT OF THE STARS
 NIGHT SWARM DEMO
 NIGHT TERROR
 NIGHT TRAP
@@ -37869,6 +37934,7 @@ Night Market Simulator
 Night Swarm Demo
 Night Terror
 Night Trap
+Night of the Stars
 NightGrip
 NightMarketSimulator
 NightSwarmDemo
@@ -37880,6 +37946,7 @@ NightlightStudios
 Nightmare
 Nightmare Visions Chapter 1
 NightmareVisionsChapter1
+NightoftheStars
 Nights
 Nights (Gameloft)
 Nights (Sega)
@@ -41241,6 +41308,7 @@ POPPY
 POPTOP
 POPTOP SOFTWARE
 POPTOPSOFTWARE
+POPUCOM
 POPULOUS
 POQUETTE
 PORC
@@ -41357,6 +41425,7 @@ POWERSTRIKE
 PQUBE
 PQube
 PR21
+PRACTICAL PINBALL
 PREDATOR
 PREFABGIRL
 PREISS
@@ -43143,6 +43212,8 @@ Powerful
 Powerhead
 Powerhead Games
 PowerheadGames
+Practical Pinball
+PracticalPinball
 Predator
 PrefabGirl
 Preiss
@@ -46962,6 +47033,7 @@ SEIKACORP
 SEIKACORPORATION
 SEISMIC
 SEK
+SEKIRO™: SHADOWS DIE TWICE - GOTY EDITION
 SEKTOR
 SELCHOW
 SELCHOW &
@@ -47104,6 +47176,7 @@ SHADOW OF COLOSSUS
 SHADOW OF THE BEAST
 SHADOW OF THE COLOSSUS
 SHADOW SOFTWARE
+SHADOW TACTICS: BLADES OF THE SHOGUN
 SHADOW THE HEDGEHOG
 SHADOW TOR
 SHADOW TOR STUDIOS
@@ -47494,6 +47567,7 @@ SILVERFISHSPAWN
 SILVERFISHSPAWNEGG
 SILVERFOX
 SILVERGUN
+SILVERLAKE
 SILVERNEELSEN
 SILVERSTAR
 SILVERSTARJAPAN
@@ -49843,6 +49917,10 @@ SeikaAizawa
 SeikaCorp
 SeikaCorporation
 Seismic
+Sekiro(TM): Shadows Die Twice - GOTY Edition
+Sekiro™: Shadows Die Twice   GOTY Edition
+Sekiro™: Shadows Die Twice - GOTY Edition
+Sekiro™:ShadowsDieTwice-GOTYEdition
 Sektor
 Selchow
 Selchow &
@@ -49972,6 +50050,7 @@ Shadow Development
 Shadow Fight
 Shadow Hearts
 Shadow Software
+Shadow Tactics: Blades of the Shogun
 Shadow Tor
 Shadow Tor Studios
 Shadow Warrior
@@ -49982,6 +50061,7 @@ ShadowDevelopment
 ShadowFight
 ShadowHearts
 ShadowSoftware
+ShadowTactics:BladesoftheShogun
 ShadowTor
 ShadowTorStudios
 ShadowWarrior
@@ -50378,6 +50458,7 @@ SilverfishSpawn
 SilverfishSpawnEgg
 Silverfox
 Silvergun
+Silverlake
 SilvertheHedgehog
 Silvio
 Silvio Caruso
@@ -52763,6 +52844,7 @@ THE CREATIVE
 THE CREATIVE ASSEMBLY
 THE CRIMSON LYRE
 THE DARK PROJECT
+THE DARKBLADE
 THE DARKBLADE DEMO
 THE DEADALUS ENCOUNTER
 THE DEADSEAT
@@ -53361,6 +53443,7 @@ TINY TOON ADVENTURES
 TINY TOON ADVENTURES: ACME ALL-STARS
 TINY TOON ADVENTURES: ACME ALLSTARS
 TINY TOONS WACKY SPORTS
+TINYCRAFT TOWN
 TINYKONG
 TINYTIGER
 TINYTOONADVENTURES
@@ -54815,6 +54898,7 @@ The Corruption
 The Creative
 The Creative Assembly
 The Crimson Lyre
+The Darkblade
 The Darkblade Demo
 The Deadalus Encounter
 The Deadseat
@@ -55006,6 +55090,7 @@ TheCorruption
 TheCreative
 TheCreativeAssembly
 TheCrimsonLyre
+TheDarkblade
 TheDarkbladeDemo
 TheDeadalusEncounter
 TheDeadseat
@@ -55362,6 +55447,8 @@ Tiny Toon Adventures
 Tiny Toon Adventures: ACME All-Stars
 Tiny Toon Adventures: ACME AllStars
 Tiny Toons Wacky Sports
+TinyCraft Town
+TinyCraftTown
 TinyDino
 TinyKong
 TinyTiger
@@ -57744,6 +57831,7 @@ WAHL
 WAHOO
 WAHOO STUDIOS
 WAHOOSTUDIOS
+WAITING FOR YOU AT THE END OF TIME
 WAKABA
 WAKER
 WAKKA
@@ -58452,6 +58540,8 @@ Wahl
 Wahoo
 Wahoo Studios
 WahooStudios
+Waiting for you at the end of time
+Waitingforyouattheendoftime
 Wakaba
 Wakka
 Walaber
@@ -60273,6 +60363,8 @@ Zwei
 Zynga
 Zyrinx
 ZÈBRE
+[????]
+[开路先锋]
 a
 a café couple's joyful life of resistance
 a eddy
@@ -60600,6 +60692,7 @@ aeroblasters
 aerofighters
 aerowings
 aes
+aesop rock's black hole superette experience
 aethelred
 aethelswith
 aethelwulf
@@ -62684,6 +62777,7 @@ belcha
 belial
 belisario
 bell
+bell & hoof: the silent journey
 bell corporation
 bellcorporation
 belle
@@ -63492,6 +63586,7 @@ boots
 borai
 borai cho
 boraicho
+border overload
 borderlands
 boris
 boris dime
@@ -64307,6 +64402,7 @@ carbonated games
 carbonatedgames
 carbongames
 card
+cardboard hero
 careersoft
 caret
 cargo shop simulator
@@ -64416,6 +64512,7 @@ cassiecage
 cassiedrake
 casting clicker
 castle
+castle bomber red
 castle of illusion
 castle of secrets
 castle shikigami
@@ -66597,6 +66694,7 @@ daysofwonder
 daytona
 daytona usa
 daytonausa
+dayz
 daze
 dazz
 db-soft
@@ -66989,6 +67087,7 @@ diabloii
 diabloty
 diabloty diabloty
 diablotydiabloty
+diablo® iv: vessel of hatred™ - expansion bundle
 diabolik
 diabolik lovers
 diaboliklovers
@@ -67293,6 +67392,7 @@ dmitry
 dmitry lukash
 dmitrylukash
 do
+do not disturb
 doa
 doc
 doc doc
@@ -67307,6 +67407,7 @@ docteurgeyser
 docteurkadowaki
 doctor
 doctor entertainment
+doctor life simulator
 doctorentertainment
 doctrine
 doctrine dark
@@ -67369,6 +67470,7 @@ don resetti
 don't
 don't ask succubus
 don't drop the soap
+don't forget the bear
 don't pop my bubble
 don't step
 don't step on
@@ -68955,6 +69057,7 @@ eyeofender
 eyeofthebeholder
 ez
 ez soft
+ez-crosshair
 ezmobo
 ezsoft
 f
@@ -69967,6 +70070,7 @@ ftl: faster than light
 ftlgames
 fu
 fuchs
+fuckstone
 fuckstone demo
 fuel
 fuel games
@@ -70700,6 +70804,7 @@ gideonwyborn
 gifle
 gifle gifle
 giflegifle
+gifted: the tombs demo
 giga
 gigante
 gigas
@@ -71948,6 +72053,7 @@ hearts
 heat
 heat phanphan
 heat phanphan heat phanphan
+heat seekers
 heat the
 heat the soul
 heatphanphan
@@ -72836,6 +72942,7 @@ in
 in Death we Love
 in a bit of tales
 in death we love
+in purr-suit
 in utero
 in-house
 inDeathweLove
@@ -73883,6 +73990,7 @@ jumpgames
 jumpgamespvt.ltd
 jumpgamespvtltd
 jumping jazz cats
+jumpscare slayer
 jun
 jun hayase
 jun kazama
@@ -76558,6 +76666,7 @@ magmacubespawn
 magmacubespawnegg
 magna
 magnavox
+magnecube
 magnetic
 magnetic fields
 magnetic images
@@ -76642,6 +76751,7 @@ makaimura
 make
 make it count
 make software
+make tracks great again
 makebari
 maker
 makesoftware
@@ -79243,6 +79353,7 @@ nigelweir
 night
 night grip
 night market simulator
+night of the stars
 night swarm demo
 night terror
 night trap
@@ -81832,6 +81943,7 @@ poppy
 poptop
 poptop software
 poptopsoftware
+popucom
 populous
 poquette
 porc
@@ -81947,6 +82059,7 @@ powerstone2
 powerstrike
 pqube
 pr21
+practical pinball
 predator
 prefabgirl
 preiss
@@ -84393,6 +84506,7 @@ seikacorp
 seikacorporation
 seismic
 sek
+sekiro™: shadows die twice - goty edition
 sektor
 selchow
 selchow &
@@ -84529,6 +84643,7 @@ shadow of colossus
 shadow of the beast
 shadow of the colossus
 shadow software
+shadow tactics: blades of the shogun
 shadow the hedgehog
 shadow tor
 shadow tor studios
@@ -84919,6 +85034,7 @@ silverfishspawn
 silverfishspawnegg
 silverfox
 silvergun
+silverlake
 silverneelsen
 silverstar
 silverstarjapan
@@ -87364,6 +87480,7 @@ the creative
 the creative assembly
 the crimson lyre
 the dark project
+the darkblade
 the darkblade demo
 the deadalus encounter
 the deadseat
@@ -87956,6 +88073,7 @@ tiny toon adventures
 tiny toon adventures: acme all-stars
 tiny toon adventures: acme allstars
 tiny toons wacky sports
+tinycraft town
 tinykong
 tinytiger
 tinytoonadventures
@@ -89630,6 +89748,7 @@ wahl
 wahoo
 wahoo studios
 wahoostudios
+waiting for you at the end of time
 wakaba
 waker
 wakka
@@ -90970,6 +91089,10 @@ zèbre
 三国.兵临城下
 侦探，请守护我的秘密吧！
 光域
+出張2 NEXT BUSINESS TRIP
+出張2 Next Business Trip
+出張2 next business trip
+出張2NextBusinessTrip
 刷啊刷
 回煞录   Phantom Reckoning
 回煞录 | PHANTOM RECKONING
@@ -90993,6 +91116,9 @@ zèbre
 挂机三国 无限升级
 挂机三国-无限升级
 末日卡牌
+汉武大帝传 虞姬专属飒装DLC
+汉武大帝传-虞姬专属飒装DLC
+汉武大帝传-虞姬专属飒装dlc
 消失的航班，还有她她她！LOST IN THE SECRET!
 消失的航班，还有她她她！Lost in the secret!
 消失的航班，还有她她她！Lostinthesecret!
@@ -91040,3 +91166,8 @@ zèbre
 龍躍九天   情繫江湖
 龍躍九天 - 情繫江湖
 龍躍九天-情繫江湖
+공고소녀 Gong GO Girl  Soundtrack
+공고소녀(GONG GO GIRL) SOUNDTRACK
+공고소녀(Gong GO Girl) Soundtrack
+공고소녀(GongGOGirl)Soundtrack
+공고소녀(gong go girl) soundtrack
