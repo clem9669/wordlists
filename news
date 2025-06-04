@@ -9300,6 +9300,8 @@ BOMBARDIER GLOBAL 7500
 BOMBE NUCLÉAIRE
 BOMBE SALE
 BOMBE SECONDE GUERRE MONDIALE
+BOMBENENTSCHARFUNG KOLN
+BOMBENENTSCHÄRFUNG KÖLN
 BOMMELDING OOSTENDE
 BOMPARD
 BON BON
@@ -14605,6 +14607,7 @@ CHRISTIAN JÜRGENS
 CHRISTIAN KAREMBEU
 CHRISTIAN KOHLUND
 CHRISTIAN KRACHT
+CHRISTIAN MORIN
 CHRISTIAN OLIVER
 CHRISTIAN QUESADA
 CHRISTIAN RÄTSCH
@@ -23144,6 +23147,7 @@ EDITORS
 EDMOND DÉDÉ
 EDMOND ROSTAND
 EDMONTON OILERS
+EDMUND WHITE
 EDOARDO BOVE
 EDOUARD BAER
 EDOUARD LOUIS
@@ -24413,6 +24417,7 @@ EXPOSITION HARRY POTTER PARIS
 EXPULSION IMAM MAHJOUBI
 EXTINCTION REBELLION
 EXTRA TIME
+EXTRACTION MOHAMED AMRA
 EXTREMA
 EXTREMA OUTDOOR
 EXTREMAOUTDOOR
@@ -27924,6 +27929,7 @@ FRANCE-SUISSE
 FRANCE-TUNISIE
 FRANCE-URUGUAY
 FRANCE.TV
+FRANCE2
 FRANCEAUSTRALIE
 FRANCEFOOT
 FRANCEHONGRIE
@@ -36379,6 +36385,7 @@ INCENDIE PARIS
 INCENDIE PARIS GARE SAINT-LAZARE
 INCENDIE PORTUGAL
 INCENDIE ROUEN
+INCENDIE SPA PLACE VERTE
 INCENDIE STAINS
 INCENDIE TOUR KENNEDY LIÈGE
 INCENDIE VALAIS
@@ -70914,6 +70921,7 @@ SALON MADE IN FRANCE
 SALT
 SALT BAE
 SALT INTERNET STÖRUNG
+SALT LAKE CITY
 SALT STÖRUNG
 SALTBURN
 SALTO
@@ -71339,6 +71347,7 @@ SCHWEIZ TuRKEI
 SCHWEIZ TuRKEI 2005
 SCHWEIZ U21
 SCHWEIZ UNGARN
+SCHWEIZ UNWETTER
 SCHWEIZ – AUSTRALIEN
 SCHWEIZER ARMEE
 SCHWEIZER ARMEE UNFALL
@@ -78329,6 +78338,7 @@ TICKETS RESTAURANT
 TICKETS RESTAURANTS JANVIER 2024
 TICKETS-RESTAURANTS
 TIDJANE THIAM
+TIE BREAK
 TIELEMANS
 TIELT
 TIEN OM TE ZIEN
@@ -83246,6 +83256,7 @@ VERLINDEN
 VERLOREN MAANDAG
 VERMAELEN
 VERMEER
+VERMISST WALTENSCHWIL
 VERMISSTE FRAU TOT AUFGEFUNDEN
 VERMISSTE JOURNALISTIN
 VERMISSTE KINDER NIEDERLANDE
@@ -89253,6 +89264,7 @@ amelie de montchalin
 amelie lens
 amelie mauresmo
 amelie oudea castera
+ameliemauresmo
 amende
 amenra
 america's cup
@@ -92337,6 +92349,10 @@ bombardier global 7500
 bombe nucléaire
 bombe sale
 bombe seconde guerre mondiale
+bombenentscharfung koln
+bombenentscharfungkoln
+bombenentschärfung köln
+bombenentschärfungköln
 bombesecondeguerremondiale
 bommelding oostende
 bompard
@@ -94320,6 +94336,7 @@ christian jürgens
 christian karembeu
 christian kohlund
 christian kracht
+christian morin
 christian oliver
 christian quesada
 christian rätsch
@@ -94337,6 +94354,7 @@ christiane taubira
 christianebrunner
 christianeleisterverstorben
 christiangentner
+christianmorin
 christin okpara
 christin stark
 christina aguilera
@@ -97126,6 +97144,8 @@ editors
 edmond dédé
 edmond rostand
 edmonton oilers
+edmund white
+edmundwhite
 edoardo bove
 edouard baer
 edouard louis
@@ -98410,6 +98430,8 @@ exposition harry potter paris
 expulsion imam mahjoubi
 extinction rebellion
 extra time
+extraction mohamed amra
+extractionmohamedamra
 extrema
 extrema outdoor
 extremaoutdoor
@@ -99655,6 +99677,7 @@ france-suisse
 france-tunisie
 france-uruguay
 france.tv
+france2
 franceaustralie
 franceespagne
 francefoot
@@ -102696,6 +102719,7 @@ incendie paris
 incendie paris gare saint-lazare
 incendie portugal
 incendie rouen
+incendie spa place verte
 incendie stains
 incendie tour kennedy liège
 incendie valais
@@ -102712,6 +102736,7 @@ incendies californie
 incendies los angeles
 incendiescalifornie
 incendieslosangeles
+incendiespaplaceverte
 inception
 incident diplomatique israël
 incident metro bruxelles
@@ -104411,6 +104436,7 @@ joya marleen
 joybräu
 joyce de troch
 joyce jonathan
+joycejonathan
 joyeuse paques
 joyeuse saint valentin
 joyeuse saint-valentin
@@ -111479,6 +111505,7 @@ nicole overleden
 nicole reist
 nicole schmidhofer
 nicole shanahan
+nicolecroisille
 nicolekidman
 nicoletta
 nicoperfektedinner
@@ -112090,6 +112117,7 @@ olivia trappeniers
 olivia wilde
 olivia williams
 oliviagregoire
+oliviatrappeniers
 oliviawilde
 oliviawilliams
 olivier cousi
@@ -113504,6 +113532,7 @@ philippe torreton
 philippe warrin
 philippedebelgique
 philippefaucon
+philippelabro
 philippetabarot
 philippine
 philippine leroy-beaulieu
@@ -116441,8 +116470,10 @@ salondel'agriculture
 salt
 salt bae
 salt internet störung
+salt lake city
 salt störung
 saltburn
+saltlakecity
 salto
 salvador
 salvador ramos
@@ -116882,6 +116913,7 @@ schweiz turkei
 schweiz turkei 2005
 schweiz u21
 schweiz ungarn
+schweiz unwetter
 schweiz – australien
 schweiz1maifeiertag
 schweizer armee
@@ -116909,6 +116941,7 @@ schweizfrankreichem
 schweizspanien
 schweizturkei
 schweizturkei2005
+schweizunwetter
 schwendisee
 schwere hepatitis fälle bei kindern
 schwere unwetter mallorca
@@ -119783,6 +119816,8 @@ tickets restaurant
 tickets restaurants janvier 2024
 tickets-restaurants
 tidjane thiam
+tie break
+tiebreak
 tielemans
 tielt
 tien om te zien
@@ -121505,6 +121540,7 @@ verloren maandag
 verlorenmaandag
 vermaelen
 vermeer
+vermisst waltenschwil
 vermisste frau tot aufgefunden
 vermisste journalistin
 vermisste kinder niederlande
@@ -121520,6 +121556,7 @@ vermisstes kind bingen sigmaringen
 vermisstes mädchen döbeln
 vermisstmeldung rachel wiss
 vermisstmeldungrachelwiss
+vermisstwaltenschwil
 vermiste franse peuter emile
 vernet
 vernis rouge
