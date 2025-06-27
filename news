@@ -982,6 +982,7 @@ ACCIDENT A16
 ACCIDENT A31 METZ
 ACCIDENT A47
 ACCIDENT A7
+ACCIDENT A8
 ACCIDENT A87
 ACCIDENT A9
 ACCIDENT ACTEUR JÉRÉMY RENNER
@@ -1660,6 +1661,7 @@ ALEX COLLADO
 ALEX COLLINS
 ALEX DE MINAUR
 ALEX DOWSETT
+ALEX DUNNE
 ALEX FERGUSON
 ALEX FIVA
 ALEX FORMENTON
@@ -20291,6 +20293,7 @@ DIPLOPIE
 DIRECT MAIL
 DIRECT MAIL COMPANY
 DIRECTRICE ÉCOLE TROIS-PONTS
+DIRECTVELO
 DIRK BACH
 DIRK DE WACHTER
 DIRK DE WOLF
@@ -23910,6 +23913,8 @@ ENLÈVEMENT DE SANTIAGO
 ENNETBÜRGEN
 ENOLA HOLMES
 ENOLA HOLMES 2
+ENORA MALAGRE
+ENORA MALAGRÉ
 ENQUETE A COEUR OUVERT
 ENQUÊTE DISPARITION LINA
 ENQUÊTE DISPARITION ÉMILE
@@ -26818,6 +26823,7 @@ FACupFinal
 FAENZA
 FAES
 FAGIOLI
+FAHRZEUGBRAND THUSIS
 FAIRPHONE 4
 FAIRPHONE 5
 FAIRPHONE 6
@@ -39322,6 +39328,7 @@ JONAS LÜSCHER
 JONAS SIEGENTHALER
 JONAS VINGEGAARD
 JONASSIEGENTHALER
+JONATHAN ANDERSON
 JONATHAN CLAUSS
 JONATHAN COHEN
 JONATHAN DESTIN
@@ -42253,6 +42260,7 @@ KAA GENT
 KAA GENT – STANDARD
 KAA Gent
 KAAGent
+KAAIMAN
 KAAMELOTT
 KAAMELOTT, PREMIER VOLET
 KAAT BOLLEN
@@ -44880,6 +44888,7 @@ LALIBRE
 LALIGA
 LALLA LATIFA
 LALLA SALMA
+LALO SCHIFRIN
 LALUQUE
 LAMBERT WILSON
 LAMBORGHINI
@@ -50871,6 +50880,7 @@ MARGARET QUALLEY
 MARGARET THATCHER
 MARGARIDA CORCEIRO
 MARGAUX N'OUBLIEZ PAS LES PAROLES
+MARGE SIMPSONS
 MARGOT CHEVRIER
 MARGOT ROBBIE
 MARGOT SIMOND SKI
@@ -60811,6 +60821,7 @@ ORLANDO BLOOM
 ORLY
 ORNELLA MUTI
 ORPEA
+ORPI RIMA HASSAN
 ORPIERRE
 ORQUE
 ORQUE DANS LA SEINE
@@ -61906,7 +61917,9 @@ PANNE MICROSOFT OUTLOOK
 PANNE ORANGE
 PANNE PAIEMENT CARTE BANCAIRE CARREFOUR
 PANNE PROXIMUS TV
+PANNE RESEAU ORANGE
 PANNE RESEAU TELENET
+PANNE RÉSEAU ORANGE
 PANNE SFR
 PANNE SPOTIFY
 PANNE WHATSAPP
@@ -71332,6 +71345,7 @@ SAMUEL KOCH
 SAMUEL LE BIHAN
 SAMUEL MBANGULA
 SAMUEL PATY
+SAMUEL PLUS BELLE LA VIE
 SAMUEL THEIS
 SAMUEL THEIS ACTEUR
 SAMUEL UMTITI
@@ -77962,6 +77976,7 @@ TAI-LUC
 TAIS-TOI
 TAIWAN
 TAJON BUCHANAN
+TAKAHIRO SHIRAISHI
 TAKE THAT
 TAKEN
 TAKEN 2
@@ -79245,6 +79260,7 @@ TRAIN FEU
 TRAIN WORLD
 TRAINS GRÈVE SNCF
 TRAJKOVSKI
+TRAKTOR
 TRAM ACCIDENT GENEVE
 TRAM ENTGLEIST BERN
 TRAM LIÈGE
@@ -79515,6 +79531,7 @@ TWITCH-RECAP
 TWITTER
 TWITTER DOWN
 TWITTER ELON MUSK
+TWITTER KILLER
 TWITTER X
 TWITTER-AKTIE
 TWO SUMMERS
@@ -82479,6 +82496,7 @@ UN MOMENT D'ÉGAREMENT
 UN OURS DANS LE JURA
 UN P'TIT TRUC EN PLUS
 UN SI GRAND SOLEIL
+UN SI GRAND SOLEIL 27 JUIN 2025
 UN SI GRAND SOLEIL CE SOIR
 UN SINGE EN HIVER
 UN TOUR CHEZ MA FILLE
@@ -82539,6 +82557,7 @@ UNFALL LENGNAU AG
 UNFALL MAUTSTELLE ITALIEN
 UNFALL MÄRSTETTEN
 UNFALL MÜNCHENSTEIN
+UNFALL OBFELDEN
 UNFALL RAPPERSWIL SEEDAMM
 UNFALL REGENSDORF
 UNFALL REINACH BL
@@ -88603,6 +88622,7 @@ accident a16
 accident a31 metz
 accident a47
 accident a7
+accident a8
 accident a87
 accident a9
 accident acteur jérémy renner
@@ -88684,6 +88704,7 @@ accident télésièges espagne
 accident villeneuve-d'ascq
 accident voiture sofian kiyine
 accidenta31metz
+accidenta8
 accidenta87
 accidentancenis
 accidentautoroutea81
@@ -89330,6 +89351,7 @@ alex collado
 alex collins
 alex de minaur
 alex dowsett
+alex dunne
 alex ferguson
 alex fiva
 alex formenton
@@ -89405,6 +89427,7 @@ alexandremuller
 alexandremüller
 alexandrevarga
 alexdeminaur
+alexdunne
 alexei navalny
 alexej nawalny
 alexeï navalny
@@ -89600,6 +89623,7 @@ allianz
 allianz arena
 allianz cinema
 allianzarena
+allianzcinema
 allier
 alligatoah
 allison mack
@@ -90593,6 +90617,7 @@ ari assuied cafeyn
 ari boulogne
 ariana debose
 ariana grande
+arianagrande
 ariane 5
 ariane 6
 ariane 6 lancement
@@ -97120,6 +97145,7 @@ diplopie
 direct mail
 direct mail company
 directrice école trois-ponts
+directvelo
 dirk bach
 dirk de wachter
 dirk de wolf
@@ -98471,6 +98497,10 @@ enlèvement de santiago
 ennetbürgen
 enola holmes
 enola holmes 2
+enora malagre
+enora malagré
+enoramalagre
+enoramalagré
 enquete a coeur ouvert
 enquête disparition lina
 enquête disparition émile
@@ -99280,6 +99310,8 @@ facup
 faenza
 faes
 fagioli
+fahrzeugbrand thusis
+fahrzeugbrandthusis
 fairphone 4
 fairphone 5
 fairphone 6
@@ -105165,6 +105197,7 @@ jonas kaufmann
 jonas lüscher
 jonas siegenthaler
 jonas vingegaard
+jonathan anderson
 jonathan clauss
 jonathan cohen
 jonathan destin
@@ -105172,6 +105205,7 @@ jonathan glazer
 jonathan lambert
 jonathan majors
 jonathan milan
+jonathananderson
 jonathann daval
 jones miocic
 jong genk
@@ -105660,6 +105694,7 @@ k3reunie
 k3tickets
 kaa gent
 kaa gent – standard
+kaaiman
 kaamelott
 kaamelott, premier volet
 kaat bollen
@@ -106952,6 +106987,8 @@ laligatabelle
 lalla latifa
 lalla salma
 lallasalma
+lalo schifrin
+laloschifrin
 laluque
 lambert wilson
 lamborghini
@@ -109643,6 +109680,8 @@ margaret thatcher
 margarida corceiro
 margaridacorceiro
 margaux n'oubliez pas les paroles
+marge simpsons
+margesimpsons
 margot chevrier
 margot robbie
 margot simond ski
@@ -113473,7 +113512,9 @@ orlando bloom
 orly
 ornella muti
 orpea
+orpi rima hassan
 orpierre
+orpirimahassan
 orque
 orque dans la seine
 orque la panne
@@ -113719,7 +113760,9 @@ panne microsoft outlook
 panne orange
 panne paiement carte bancaire carrefour
 panne proximus tv
+panne reseau orange
 panne reseau telenet
+panne réseau orange
 panne sfr
 panne spotify
 panne whatsapp
@@ -113731,6 +113774,8 @@ pannenkoeken
 pannenkoeken recept
 pannenkoekenrecept
 panneproximustv
+pannereseauorange
+panneréseauorange
 pannespotify
 pannex
 pano
@@ -117662,11 +117707,13 @@ samuel koch
 samuel le bihan
 samuel mbangula
 samuel paty
+samuel plus belle la vie
 samuel theis
 samuel theis acteur
 samuel umtiti
 samuel-paty
 samuelgiger
+samuelplusbellelavie
 san andreas
 san bernardino
 san marco village
@@ -120209,6 +120256,8 @@ tai-luc
 tais-toi
 taiwan
 tajon buchanan
+takahiro shiraishi
+takahiroshiraishi
 take that
 taken
 taken 2
@@ -121591,6 +121640,7 @@ train world
 trainfeu
 trains grève sncf
 trajkovski
+traktor
 tram accident geneve
 tram entgleist bern
 tram liège
@@ -121869,9 +121919,11 @@ twitch-recap
 twitter
 twitter down
 twitter elon musk
+twitter killer
 twitter x
 twitter-aktie
 twitterdown
+twitterkiller
 two summers
 twomad
 tx group
@@ -122121,6 +122173,7 @@ un moment d'égarement
 un ours dans le jura
 un p'tit truc en plus
 un si grand soleil
+un si grand soleil 27 juin 2025
 un si grand soleil ce soir
 un singe en hiver
 un tour chez ma fille
@@ -122186,6 +122239,7 @@ unfall lengnau ag
 unfall mautstelle italien
 unfall märstetten
 unfall münchenstein
+unfall obfelden
 unfall rapperswil seedamm
 unfall regensdorf
 unfall reinach bl
@@ -122207,6 +122261,7 @@ unfallkolliken
 unfallkölliken
 unfalllengnauag
 unfallmünchenstein
+unfallobfelden
 unfallrapperswilseedamm
 unfallreinachbl
 unfallschöftland
@@ -122307,6 +122362,7 @@ unplanned
 unrecord
 unrwa
 unsigrandsoleil
+unsigrandsoleil27juin2025
 unsigrandsoleilcesoir
 unspunnen
 unspunnen-schwinget
