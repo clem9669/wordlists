@@ -186,16 +186,22 @@
 11septembre2001queljour
 12 COUPS DE MIDI
 12 COUPS DE MIDI EMILIEN
+12 COUPS DE MIDI EMILIEN ELIMINE
+12 COUPS DE MIDI EMILIEN ÉLIMINÉ
 12 COUPS DE MIDI ÉTOILE MYSTÉRIEUSE
 12 FEBRUAR VOLLMOND
 12 coups de midi
 12 coups de midi emilien
+12 coups de midi emilien elimine
+12 coups de midi emilien éliminé
 12 coups de midi étoile mystérieuse
 12 februar vollmond
 12-12
 1212
 12coupsdemidi
 12coupsdemidiemilien
+12coupsdemidiemilienelimine
+12coupsdemidiemilienéliminé
 12coupsdemidiétoilemystérieuse
 12februarvollmond
 13 NOVEMBRE
@@ -8025,6 +8031,8 @@ BALEN
 BALENCIAGA
 BALEXERT
 BALI
+BALI FAHRE
+BALI FÄHRE
 BALIKWISHA
 BALKAN BEATS
 BALKANY
@@ -24590,6 +24598,7 @@ EXPLOSION KÖLN
 EXPLOSION LIEGE
 EXPLOSION MARSEILLE
 EXPLOSION PARIS
+EXPLOSION ROME
 EXPLOSION RÉPUBLIQUE DOMINICAINE
 EXPLOSION TARN
 EXPLOSION USINE SAIPOL SETE
@@ -27784,6 +27793,7 @@ FLUGHAFEN HAMBURG BOMBENDROHUNG
 FLUGHAFEN ZURICH
 FLUGHAFEN ZÜRICH
 FLUGHAFEN ZÜRICH POLIZEIEINSATZ
+FLUGLOTSENSTREIK FRANKREICH
 FLUGZEUG AFGHANISTAN
 FLUGZEUGABSTURZ
 FLUGZEUGABSTURZ BOEING 737
@@ -28061,6 +28071,8 @@ FRANCE TUNISIE BASKET
 FRANCE TURQUIE
 FRANCE TV
 FRANCE TV DIRECT
+FRANCE U-20 - PAYS DE GALLES U-20
+FRANCE U-20 – PAYS DE GALLES U-20
 FRANCE UKRAINE
 FRANCE UKRAINE HANDBALL
 FRANCE URUGUAY FEMININ
@@ -39108,6 +39120,7 @@ JEUNE INTERMITTENT
 JEUNE LOUP
 JEUX DU MOIS PS PLUS AVRIL 2025
 JEUX INTERDITS
+JEUX INTERVILLES
 JEUX OLYMPIQUES
 JEUX OLYMPIQUES 2021
 JEUX OLYMPIQUES 2024
@@ -46318,6 +46331,7 @@ LOTO 29 SEPTEMBRE 2021
 LOTO 3 JUILLET 2021
 LOTO 3 MAI 2023
 LOTO 30 OCTOBRE 2021
+LOTO 4 JUILLET 2025
 LOTO 4 MAI 2024
 LOTO 4 OCTOBRE 2023
 LOTO 7 AOUT 2023
@@ -50315,6 +50329,8 @@ MACRON LOURDES
 MACRON MARSEILLE
 MACRON MBAPPE
 MACRON MONTRE
+MACRON NOUVELLE CALEDONIE
+MACRON NOUVELLE CALÉDONIE
 MACRON PAYS-BAS
 MACRON PUTIN
 MACRON QATAR
@@ -50420,6 +50436,7 @@ MAHSA AMINI IRAN
 MAIA SANDU
 MAIBAUM-UNFALL
 MAIENZUG AARAU
+MAIENZUG VORABEND AARAU
 MAIGNAN
 MAIGRET
 MAIKE BOERDAM
@@ -67741,6 +67758,7 @@ RESULTAT BAC 2021
 RESULTAT BAC 2022
 RESULTAT BAC 2023
 RESULTAT BAC 2024
+RESULTAT BAC 2025
 RESULTAT BAC FRANCAIS 2021
 RESULTAT BACCALAUREAT
 RESULTAT BREVET 2022
@@ -71674,6 +71692,7 @@ SCHLAG DEN BESTEN
 SCHLAG DEN STAR
 SCHLAGER
 SCHLANGENINSEL
+SCHLANGENZOO ESCHLIKON
 SCHLEITHEIM
 SCHLESWIG-HOLSTEIN
 SCHLICK
@@ -72651,6 +72670,7 @@ SOPHIA ARAM CYRIL HANOUNA
 SOPHIA BUSH
 SOPHIA CHIKIROU
 SOPHIA CHIKIROU JEAN-LUC MÉLENCHON
+SOPHIA HUTCHINS
 SOPHIA LOREN
 SOPHIA THIEL
 SOPHIA THOMALLA
@@ -86158,6 +86178,7 @@ WMSpielplan
 WMSpielplan2022
 WMqualifikation
 WNBA
+WNBA STANDINGS
 WOESTIJNBUIZERD
 WOHLENSEE
 WOHNUNG
@@ -91611,6 +91632,10 @@ balen
 balenciaga
 balexert
 bali
+bali fahre
+bali fähre
+balifahre
+balifähre
 balikwisha
 balkan beats
 balkany
@@ -97189,6 +97214,7 @@ die verräter
 die zeit
 die ärzte
 diede van den heuvel
+diegeissens
 diegem
 diegem cross
 diego costa
@@ -99315,11 +99341,13 @@ explosion köln
 explosion liege
 explosion marseille
 explosion paris
+explosion rome
 explosion république dominicaine
 explosion tarn
 explosion usine saipol sete
 explosion voiture canada etats-unis
 explosion wasserkraftwerk italien
+explosionrome
 explosiontarn
 exposition harry potter paris
 expulsion imam mahjoubi
@@ -100251,6 +100279,8 @@ flughafen zürich
 flughafen zürich polizeieinsatz
 flughafenzurich
 flughafenzürich
+fluglotsenstreik frankreich
+fluglotsenstreikfrankreich
 flugzeug afghanistan
 flugzeugabsturz
 flugzeugabsturz boeing 737
@@ -100543,6 +100573,10 @@ france tunisie basket
 france turquie
 france tv
 france tv direct
+france u-20 - pays de galles u-20
+france u-20 – pays de galles u-20
+france u20 - pays de galles u20
+france u20 – pays de galles u20
 france ukraine
 france ukraine handball
 france uruguay feminin
@@ -100634,6 +100668,8 @@ francestiafoe
 francesuisse
 francetv
 francetvdirect
+franceu-20-paysdegallesu-20
+franceu-20–paysdegallesu-20
 france–suisse
 francine jordi
 francine leca
@@ -105109,6 +105145,7 @@ jeune loup
 jeunegardeantifasciste
 jeux du mois ps plus avril 2025
 jeux interdits
+jeux intervilles
 jeux olympiques
 jeux olympiques 2021
 jeux olympiques 2024
@@ -105119,6 +105156,7 @@ jeux paralympiques
 jeux paralympiques 2020
 jeux paralympiques 2021
 jeuxdumoispsplusavril2025
+jeuxintervilles
 jewgeni prigoschin
 jeļena ostapenko
 jeļenaostapenko
@@ -108681,6 +108719,7 @@ loto 29 septembre 2021
 loto 3 juillet 2021
 loto 3 mai 2023
 loto 30 octobre 2021
+loto 4 juillet 2025
 loto 4 mai 2024
 loto 4 octobre 2023
 loto 7 aout 2023
@@ -108705,6 +108744,7 @@ loto vendredi 13
 loto vendredi 13 octobre 2023
 loto26juin2021
 loto3juillet2021
+loto4juillet2025
 loto7juillet2021
 lotomba
 lotte de clerck
@@ -109218,12 +109258,16 @@ macron lourdes
 macron marseille
 macron mbappe
 macron montre
+macron nouvelle caledonie
+macron nouvelle calédonie
 macron pays-bas
 macron putin
 macron qatar
 macron senegal
 macron stade de france
 macron tf1
+macronnouvellecaledonie
+macronnouvellecalédonie
 macronsenegal
 macumba boite de nuit
 macumbaboitedenuit
@@ -109329,6 +109373,8 @@ mahsa amini iran
 maia sandu
 maibaum-unfall
 maienzug aarau
+maienzug vorabend aarau
+maienzugvorabendaarau
 maignan
 maigret
 maike boerdam
@@ -112774,6 +112820,7 @@ nicoletta
 nicolo tresoldi
 nicolotresoldi
 nicoperfektedinner
+nicowilliams
 niederhelfenschwil hühner
 niederhelfenschwilhühner
 niederlande
@@ -116713,6 +116760,7 @@ resultat bac 2021
 resultat bac 2022
 resultat bac 2023
 resultat bac 2024
+resultat bac 2025
 resultat bac francais 2021
 resultat baccalaureat
 resultat brevet 2022
@@ -116735,6 +116783,7 @@ resultat top 14
 resultat votation 18 juin
 resultat24hdumans2025
 resultatbac2021
+resultatbac2025
 resultatbaccalaureat
 resultatbacfrancais2021
 resultatelection
@@ -118221,6 +118270,8 @@ schlag den besten
 schlag den star
 schlager
 schlangeninsel
+schlangenzoo eschlikon
+schlangenzooeschlikon
 schleitheim
 schleswig-holstein
 schlick
@@ -119239,11 +119290,13 @@ sophia aram cyril hanouna
 sophia bush
 sophia chikirou
 sophia chikirou jean-luc mélenchon
+sophia hutchins
 sophia loren
 sophia thiel
 sophia thomalla
 sophia thomalla krankheit
 sophia urista
+sophiahutchins
 sophiathomalla
 sophie
 sophie adenot
@@ -124286,6 +124339,8 @@ wm-quali auslosung
 wm-qualifikation 2022
 wm-spielplan
 wnba
+wnba standings
+wnbastandings
 woestijnbuizerd
 wohlensee
 wohnung
