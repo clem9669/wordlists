@@ -3467,6 +3467,7 @@ AUTOROUTE A13
 AUTOROUTE A13 FERMÉE
 AUTOROUTE A47 ACCIDENT
 AUTOROUTE A69
+AUTOROUTE A7
 AUTOROUTE E411 FERMEE
 AUTOROUTE E411 FERMÉE
 AUTOROUTE E42
@@ -14913,6 +14914,7 @@ CLARA LUCIANI
 CLARA MORGANE
 CLARA YSÉ
 CLARALUCIANI
+CLARASPITAL
 CLARENCE GILYARD
 CLARENCE SEEDORF
 CLARIANT
@@ -20020,6 +20022,7 @@ DENISE BOMBARDIER
 DENISE DOWSE
 DENISE FABRE
 DENISE HOLSTEIN
+DENISE RICHARDS
 DENITSA IKONOMOVA
 DENIZ UNDAV
 DENN SIE WISSEN NICHT, WAS PASSIERT
@@ -31071,6 +31074,7 @@ GAME AWARDS 2021
 GAME AWARDS 2022
 GAME AWARDS 2023
 GAME AWARDS 2024
+GAME MANIA
 GAME OF THRONES
 GAMEBOY
 GAMEIRO
@@ -31723,6 +31727,7 @@ GOOD GIRLS
 GOOD LUCK TO YOU, LEO GRANDE
 GOOD MORNING, VIETNAM
 GOOD SINGERS
+GOODBYE DEUTSCHLAND KOMA
 GOODBYE DEUTSCHLAND OLAF HEIDTKE
 GOODBYE DEUTSCHLAND SANSIBAR FRANZI
 GOODBYE-DEUTSCHLAND
@@ -38574,6 +38579,7 @@ JACQUELINE HARPMAN
 JACQUELINE JENCQUEL
 JACQUELINE-CHARLOTTE DUFRESNOY
 JACQUEMUS
+JACQUES ANQUETIL
 JACQUES ATTALI
 JACQUES AUDIARD
 JACQUES BOEL
@@ -42549,6 +42555,7 @@ KATE BUSH
 KATE MIDDLETON
 KATE MIDDLETON CANCER
 KATE MIDDLETON EUROVISION
+KATE MIDDLETON MACRON
 KATE MIDDLETON MALADIE
 KATE MIDDLETON NEWS
 KATE MOSS
@@ -45097,6 +45104,7 @@ LAURA MÜLLER
 LAURA MÜLLER SCHWANGER
 LAURA OMLOOP
 LAURA PAUSINI
+LAURA SIEGEMUND
 LAURA TENOUDJI
 LAURA TESORO
 LAURA WEYEL GNTM
@@ -71477,6 +71485,7 @@ SAMUEL LE BIHAN
 SAMUEL MBANGULA
 SAMUEL PATY
 SAMUEL PLUS BELLE LA VIE
+SAMUEL PLUS BELLE LA VIE MORT
 SAMUEL THEIS
 SAMUEL THEIS ACTEUR
 SAMUEL UMTITI
@@ -72261,6 +72270,7 @@ SIDONIE BONNEC
 SIEBE VAN DER HEYDEN
 SIEBENSCHLÄFERTAG
 SIEG DE DONCKER
+SIEGEMUND
 SIEGEN
 SIEMENS
 SIEMENS ENERGY AKTIE
@@ -72559,6 +72569,7 @@ SNCF billet
 SNCFConnect
 SNCFbillet
 SNEEUW
+SNEEUW OOSTENRIJK
 SNEEUW WOENSDAG
 SNEEUWVAL
 SNEEUWVAL ZUID-AFRIKA
@@ -78768,6 +78779,7 @@ THOMAS DIDILLON
 THOMAS DUTRONC
 THOMAS DÜRR
 THOMAS FUCHS
+THOMAS GACHIGNARD
 THOMAS GOTTSCHALK
 THOMAS HAYO
 THOMAS HEFTI
@@ -91409,9 +91421,11 @@ autoroute a13
 autoroute a13 fermée
 autoroute a47 accident
 autoroute a69
+autoroute a7
 autoroute e411 fermee
 autoroute e411 fermée
 autoroute e42
+autoroutea7
 autoroutee411fermee
 autoroutee411fermée
 autoroutee42
@@ -95363,6 +95377,7 @@ clara morgane
 clara ysé
 clarachappaz
 claraluciani
+claraspital
 clarence gilyard
 clarence seedorf
 clariant
@@ -97041,7 +97056,9 @@ denise bombardier
 denise dowse
 denise fabre
 denise holstein
+denise richards
 denisebetsema
+deniserichards
 denisvanweynbergh
 denisvilleneuve
 denisvipret
@@ -101324,10 +101341,12 @@ game awards 2021
 game awards 2022
 game awards 2023
 game awards 2024
+game mania
 game of thrones
 gameboy
 gameiro
 gamekult
+gamemania
 games
 gamescom
 gamescom 2024
@@ -102023,9 +102042,11 @@ good luck to you, leo grande
 good morning, vietnam
 good singers
 goodamericanfamily
+goodbye deutschland koma
 goodbye deutschland olaf heidtke
 goodbye deutschland sansibar franzi
 goodbye-deutschland
+goodbyedeutschlandkoma
 goodbyedeutschlandolafheidtke
 goodbyedeutschlandsansibarfranzi
 goodplanet
@@ -102569,6 +102590,7 @@ guillaume pley
 guillaume sanchez
 guillaume tell
 guillaumebresson
+guillaumemartin
 guillaumemeurice
 guillaumepley
 guillermo del toro
@@ -104616,6 +104638,7 @@ jacqueline jencquel
 jacqueline-charlotte dufresnoy
 jacquelinefehr
 jacquemus
+jacques anquetil
 jacques attali
 jacques audiard
 jacques boel
@@ -104643,6 +104666,7 @@ jacques villeneuve
 jacques villeret
 jacques weber
 jacques-brel
+jacquesanquetil
 jacquesaudiard
 jacqueslegros
 jacqueslegrostf1
@@ -106241,6 +106265,7 @@ kate bush
 kate middleton
 kate middleton cancer
 kate middleton eurovision
+kate middleton macron
 kate middleton maladie
 kate middleton news
 kate moss
@@ -106248,6 +106273,7 @@ kate nash
 kate ryan
 kate winslet
 katemiddleton
+katemiddletonmacron
 katerina tikhonova
 katewinslet
 kathleen aerts
@@ -107453,6 +107479,7 @@ laura müller
 laura müller schwanger
 laura omloop
 laura pausini
+laura siegemund
 laura tenoudji
 laura tesoro
 laura weyel gntm
@@ -107460,6 +107487,7 @@ laura winter
 laura wontorra
 laurafelpin
 lauramuller
+laurasiegemund
 laure adler
 laure balon
 laure boulleau
@@ -118119,12 +118147,14 @@ samuel le bihan
 samuel mbangula
 samuel paty
 samuel plus belle la vie
+samuel plus belle la vie mort
 samuel theis
 samuel theis acteur
 samuel umtiti
 samuel-paty
 samuelgiger
 samuelplusbellelavie
+samuelplusbellelaviemort
 san andreas
 san bernardino
 san marco village
@@ -118940,6 +118970,7 @@ sidoniebonnec
 siebe van der heyden
 siebenschläfertag
 sieg de doncker
+siegemund
 siegen
 siemens
 siemens energy aktie
@@ -119242,7 +119273,9 @@ sncf
 sncf billet
 sncf connect
 sneeuw
+sneeuw oostenrijk
 sneeuw woensdag
+sneeuwoostenrijk
 sneeuwval
 sneeuwval zuid-afrika
 sniffy
@@ -121366,6 +121399,7 @@ thomas didillon
 thomas dutronc
 thomas dürr
 thomas fuchs
+thomas gachignard
 thomas gottschalk
 thomas hayo
 thomas hefti
@@ -121401,6 +121435,7 @@ thomas voeckler
 thomasaeschihochzeit
 thomasbriels
 thomasbrunnernationalrat
+thomasgachignard
 thomashenry
 thomasmann
 thomasmeunier
@@ -122873,6 +122908,7 @@ ursula andress
 ursula cantieni
 ursula haverbeck
 ursula von der leyen
+ursulavonderleyen
 ursus &amp; nadeschkin
 ursus und nadeschkin
 uruguay
