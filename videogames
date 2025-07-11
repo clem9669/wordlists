@@ -847,6 +847,7 @@
 ??? Wild Web
 ??? | Phantom Reckoning
 ???----?????
+???:LexiLoong
 ????
 ???? - ????
 ???? - ?????
@@ -1772,6 +1773,7 @@ AMERICAN MULTIPLE INDUSTRIES
 AMERICAN SAMMY
 AMERICAN SOFTWORKS
 AMERICAN TECHNOS
+AMERICAN TRUCK SIMULATOR - IOWA
 AMERICAN VIDEO
 AMERICAN VIDEO ENTERTAINMENT
 AMERICAN VIDEOGAME
@@ -1988,6 +1990,7 @@ ANNO
 ANNO 1800
 ANODE HEART
 ANOMALY BUS
+ANOMALY ROOMS
 ANOMEN
 ANOMEN DELRYN
 ANOMENDELRYN
@@ -2744,6 +2747,7 @@ AUREOLE - WINGS OF HOPE ORIGINAL SOUNDTRACK
 AURIEL
 AURON
 AURORA
+AURORA DEFENSE
 AURORA FEINT
 AURORA FEINT INC
 AURORAFEINT
@@ -3590,6 +3594,8 @@ American Multiple Industries
 American Sammy
 American Softworks
 American Technos
+American Truck Simulator   Iowa
+American Truck Simulator - Iowa
 American Video
 American Video Entertainment
 American Videogame
@@ -3606,6 +3612,7 @@ AmericanMultipleIndustries
 AmericanSammy
 AmericanSoftworks
 AmericanTechnos
+AmericanTruckSimulator-Iowa
 AmericanVideo
 AmericanVideoEntertainment
 AmericanVideogame
@@ -3806,7 +3813,9 @@ Anno1800
 Anode Heart
 AnodeHeart
 Anomaly Bus
+Anomaly Rooms
 AnomalyBus
+AnomalyRooms
 Anomen
 Anomen Delryn
 AnomenDelryn
@@ -4527,8 +4536,10 @@ Aureole-WingsofHopeOriginalSoundtrack
 Auriel
 Auron
 Aurora
+Aurora Defense
 Aurora Feint
 Aurora Feint Inc
+AuroraDefense
 AuroraFeint
 AuroraFeintInc
 Aurore
@@ -5431,6 +5442,7 @@ BEYOND INTERACTIVE
 BEYOND OASIS
 BEYOND REALITY
 BEYOND REALITY GAMES
+BEYOND SILENCE
 BEYOND THE RED DOOR
 BEYONDARTS
 BEYONDGAMES
@@ -6695,6 +6707,7 @@ BURNOUT3
 BURNOUT3:TAKEDOWN
 BURNOUT3TAKEDOWN
 BURNWOOD
+BURR PUZZLE
 BUSHIDO
 BUSHIDO BLADE
 BUSHIDOBLADE
@@ -7444,6 +7457,7 @@ Beyond Interactive
 Beyond Oasis
 Beyond Reality
 Beyond Reality Games
+Beyond Silence
 Beyond the Red Door
 BeyondArts
 BeyondGames
@@ -7453,6 +7467,7 @@ BeyondInteractive
 BeyondOasis
 BeyondReality
 BeyondRealityGames
+BeyondSilence
 BeyondtheRedDoor
 Bheds
 BiP
@@ -8726,6 +8741,8 @@ Burnis Burnis
 BurnisBurnis
 Burnout
 Burnwood
+Burr Puzzle
+BurrPuzzle
 Bushido
 Bushido Blade
 BushidoBlade
@@ -9347,6 +9364,7 @@ CELES CHERE
 CELESCHERE
 CELESTE
 CELESTIAL
+CELESTIAL CITY FANTASY
 CELESTIAL DIGITAL
 CELESTIAL DIGITAL ENTERTAINMENT
 CELESTIAL GAMES
@@ -10435,6 +10453,7 @@ CORE DESIGN LTD
 COREDESIGN
 COREDESIGNLTD
 CORELAND
+CORELESS
 COREPLAY
 COREPLAY GAMES
 COREPLAYGAMES
@@ -10517,6 +10536,7 @@ COTTEDEMAILLES
 COTTON
 COTTON 2
 COTTON2
+COUCH RACERS
 COUGARS
 COUNT
 COUNTER
@@ -10897,6 +10917,7 @@ CTADEVELOPMENTS
 CTADevelopments
 CTXM
 CUBE
+CUBE CRAWLER
 CUBE ESCAPE
 CUBE JUMP GAME
 CUBE SLAYER
@@ -11508,9 +11529,11 @@ Celes Chere
 CelesChere
 Celeste
 Celestial
+Celestial City Fantasy
 Celestial Digital
 Celestial Digital Entertainment
 Celestial Games
+CelestialCityFantasy
 CelestialDigital
 CelestialDigitalEntertainment
 CelestialGames
@@ -12592,6 +12615,7 @@ Core Design Ltd
 CoreDesign
 CoreDesignLtd
 Coreland
+Coreless
 Coreplay
 Coreplay Games
 CoreplayGames
@@ -12678,6 +12702,8 @@ Cottedemailles
 Cotton
 Cotton 2
 Cotton2
+Couch Racers
+CouchRacers
 Cougars
 Count
 Counter
@@ -13052,11 +13078,13 @@ Créationdeflèchesempoisonnées
 Créature
 Crétins
 Cube
+Cube Crawler
 Cube Escape
 Cube Field+
 Cube Jump Game
 Cube Slayer
 Cube-Field+
+CubeCrawler
 CubeEscape
 CubeJumpGame
 CubeSlayer
@@ -14171,6 +14199,7 @@ DIG
 DIG DUG
 DIGDOG
 DIGDUG
+DIGGING DOGS
 DIGI-BOY
 DIGI-GUYS
 DIGIBOY
@@ -14739,6 +14768,7 @@ DRAGON'SBREATH
 DRAGON'SCURSE
 DRAGON'SLAIR
 DRAGON'SLAIRLLC
+DRAGON-SLAYING WAR GOD
 DRAGONAGE
 DRAGONBALLADVANCEDADVENTURE
 DRAGONBALLGT
@@ -14789,6 +14819,7 @@ DRAMAERA
 DRAQ
 DRBOSKONOVITCH
 DRCLASH
+DREAD FLATS
 DREAD: THE COLD CASE
 DREADOUT: REMASTERED COLLECTION
 DREADTOME
@@ -14984,6 +15015,8 @@ DUNGEON HUNTER
 DUNGEON KEEPER
 DUNGEON MANA
 DUNGEON MASTER
+DUNGEON PARKOUR BLOCK PUZZLE ADVENTURE
+DUNGEON SURVIVOR
 DUNGEONBORNE SETTLEMENT
 DUNGEONEXPLORER
 DUNGEONHUNTER
@@ -15899,6 +15932,8 @@ Dig
 Dig Dug
 DigDog
 DigDug
+Digging Dogs
+DiggingDogs
 Digi-Boy
 Digi-Guys
 DigiBoy
@@ -16474,6 +16509,7 @@ Dragon Quest
 Dragon Quest 8
 Dragon Slayer
 Dragon Slayer and The Leaf Town
+Dragon Slaying War God
 Dragon Warrior
 Dragon de Glace
 Dragon slayer
@@ -16486,6 +16522,8 @@ Dragon'sBreath
 Dragon'sCurse
 Dragon'sLair
 Dragon'sLairLLC
+Dragon-Slaying War God
+Dragon-SlayingWarGod
 DragonAge
 DragonBallAdvancedAdventure
 DragonBallGT
@@ -16540,8 +16578,10 @@ Drakula's Ascension
 Drakula'sAscension
 Dramaera
 Draq
+Dread Flats
 Dread: The Cold Case
 Dread:TheColdCase
+DreadFlats
 DreadOut: Remastered Collection
 DreadOut:RemasteredCollection
 Dream
@@ -16706,6 +16746,8 @@ Dungeon Hunter
 Dungeon Keeper
 Dungeon Mana
 Dungeon Master
+Dungeon Parkour Block Puzzle Adventure
+Dungeon Survivor
 DungeonAdventure
 DungeonCompAInions
 DungeonExplorer
@@ -16713,6 +16755,8 @@ DungeonHunter
 DungeonKeeper
 DungeonMana
 DungeonMaster
+DungeonParkourBlockPuzzleAdventure
+DungeonSurvivor
 Dungeonborne Settlement
 DungeonborneSettlement
 Dungeons
@@ -17868,6 +17912,7 @@ EXORSTUDIOS
 EXORStudios
 EXORTUS
 EXPERIENCE
+EXPERIMENTS
 EXPLODING
 EXPLORER
 EXPLORING FRISCOTT
@@ -19329,10 +19374,12 @@ FILM
 FILMS
 FILTER
 FINAL
+FINAL ECHO
 FINAL FALL
 FINAL FANTASY
 FINAL FANTASY CRYSTAL CHRONICLES
 FINAL FANTASY IV
+FINAL FANTASY IX
 FINAL FANTASY TACTICS
 FINAL FANTASY TACTICS A2
 FINAL FANTASY TACTICS ADVANCE
@@ -19341,6 +19388,10 @@ FINAL FANTASY VI
 FINAL FANTASY VII
 FINAL FANTASY VII REBIRTH
 FINAL FANTASY X
+FINAL FANTASY X/X 2 HD Remaster
+FINAL FANTASY X/X-2 HD REMASTER
+FINAL FANTASY X/X-2 HD Remaster
+FINAL FANTASY XVI COMPLETE EDITION
 FINAL FIGHT
 FINAL LAP 2000
 FINAL MATCH TENNIS
@@ -19354,13 +19405,17 @@ FINAL ZONE 「(FZ戦記アクシス」
 FINALFANTASY
 FINALFANTASYCRYSTALCHRONICLES
 FINALFANTASYIV
+FINALFANTASYIX
 FINALFANTASYTACTICS
 FINALFANTASYTACTICSA2
 FINALFANTASYTACTICSADVANCE
 FINALFANTASYV2
 FINALFANTASYVI
 FINALFANTASYVII
+FINALFANTASYVIIREBIRTH
 FINALFANTASYX
+FINALFANTASYX/X-2HDRemaster
+FINALFANTASYXVICOMPLETEEDITION
 FINALFIGHT
 FINALLAP2000
 FINALMATCHTENNIS
@@ -20534,6 +20589,7 @@ Films
 Filter
 FinBlade
 Final
+Final Echo
 Final Fall
 Final Fantasy
 Final Fantasy Crystal Chronicles
@@ -20556,6 +20612,7 @@ Final War: Frozen Defense
 Final Zone ?(FZ???????
 Final Zone 「 FZ戦記アクシス」
 Final Zone 「(FZ戦記アクシス」
+FinalEcho
 FinalFall
 FinalFantasy
 FinalFantasyCrystalChronicles
@@ -22313,6 +22370,8 @@ GOOFTROOP
 GOOMBA
 GOONIES
 GOORUSOFT
+GOP STOP AUTO
+GOPSTOPAUTO
 GORDIYCHUK
 GORDO
 GORDON
@@ -22885,6 +22944,7 @@ GX
 GX-4000
 GX4000
 GYM CAMP SIMULATOR
+GYRE
 GYROIDE
 GYRUSS
 Gabbiani
@@ -24208,6 +24268,7 @@ Guérisseur
 Gwen
 Gym Camp Simulator
 GymCampSimulator
+Gyre
 Gyroide
 Gyruss
 Géant
@@ -25039,6 +25100,7 @@ HOMMEMYSTERIEUX
 HONDA
 HONEY
 HONEY BOTTLE
+HONEY GLADE
 HONEY HONEY
 HONEY THE CAT
 HONEYBOTTLE
@@ -26084,9 +26146,11 @@ Hommemystérieux
 Honda
 Honey
 Honey Bottle
+Honey Glade
 Honey Honey
 Honey the Cat
 HoneyBottle
+HoneyGlade
 HoneyHoney
 Honeycomb
 HoneytheCat
@@ -26646,6 +26710,7 @@ IMPULSEGAMES
 IMax
 IN
 IN A BIT OF TALES
+IN A WORLD AFTER PEOPLE DEMO
 IN DEATH WE LOVE
 IN PURR-SUIT
 IN THE MIDST OF A NEVERENDING SEASON
@@ -26822,6 +26887,7 @@ INNOBEC
 INNOBEC TECHNOLOGIES
 INNOBECTECHNOLOGIES
 INNOCENT
+INNOCENT AU-PAIR
 INNOVATIONS
 INNOVENTIONS
 INOHARA
@@ -27357,6 +27423,7 @@ In Purr Suit
 In Purr-Suit
 In Utero
 In a Bit of Tales
+In a World After People Demo
 In the Midst of a Neverending Season
 In-House
 InHome
@@ -27376,6 +27443,7 @@ InXile
 InXile Entertainment
 InXileEntertainment
 InaBitofTales
+InaWorldAfterPeopleDemo
 Inarius
 Inaya
 Inazuma
@@ -27531,6 +27599,9 @@ Innobec
 Innobec Technologies
 InnobecTechnologies
 Innocent
+Innocent Au pair
+Innocent Au-pair
+InnocentAu-pair
 Innovations
 Innoventions
 Inohara
@@ -28478,6 +28549,7 @@ JUPITER MULTIMEDIA
 JUPITERCORPORATION
 JUPITERMULTIMEDIA
 JURAH
+JURASSIC WORLD EVOLUTION 2
 JURI
 JURI HAN
 JURIHAN
@@ -29148,6 +29220,8 @@ Jupiter Multimedia
 JupiterCorporation
 JupiterMultimedia
 Jurah
+Jurassic World Evolution 2
+JurassicWorldEvolution2
 Juri
 Juri Han
 JuriHan
@@ -29813,6 +29887,7 @@ KNOW
 KNOWLEDGE
 KNOWLEDGE BOOK
 KNOWLEDGEBOOK
+KNOWMAD
 KNOWWONDER
 KNUCKLE
 KNUCKLE JOE
@@ -29949,6 +30024,7 @@ KORNER
 KORNER ENTERTAINMENT
 KORNERENTERTAINMENT
 KORO
+KORO-SAN'S HOME "WAN!" DERBY
 KOSAKA
 KOSHIKI
 KOSMOS
@@ -30732,6 +30808,7 @@ KnowWonder
 Knowledge
 Knowledge Book
 KnowledgeBook
+Knowmad
 Knuckle
 Knuckle Joe
 Knuckle Joe Knuckle Joe
@@ -30863,6 +30940,10 @@ Korialstrasz
 Korner
 Korner Entertainment
 KornerEntertainment
+Koro san's Home "WAN!" Derby
+Koro-san s Home "WAN!" Derby
+Koro-san's Home "WAN!" Derby
+Koro-san'sHome"WAN!"Derby
 Kosaka
 Koshiki
 Kosmos
@@ -35128,6 +35209,7 @@ METAMINIONS
 METAMINIONS METAMINIONS
 METAMINIONSMETAMINIONS
 METAMORF
+METAPHOR: REFANTAZIO
 METARICA
 METHOD
 METHOD SOLUTIONS
@@ -36336,6 +36418,7 @@ MY LIFE IN A MONSTER GIRL PARADISE
 MY MATES DEMO
 MY MENTALLY UNSTABLE STREAMER GIRLFRIEND IS AN ABUSIVE SADIST
 MY PET FLESH MONSTER
+MYCOPUNK
 MYLSTAR
 MYLSTAR ELECTRONICS
 MYLSTAR ELECTRONICS INC
@@ -37505,6 +37588,8 @@ Metaminions
 Metaminions Metaminions
 MetaminionsMetaminions
 Metamorf
+Metaphor: ReFantazio
+Metaphor:ReFantazio
 Metarica
 Method
 Method Solutions
@@ -38679,6 +38764,7 @@ MyLifeInAMonsterGirlParadise
 MyMatesDemo
 MyMentallyUnstableStreamerGirlfriendIsanAbusiveSadist
 MyPetFleshMonster
+Mycopunk
 Mylstar
 Mylstar Electronics
 Mylstar Electronics Inc
@@ -41414,6 +41500,7 @@ OUMBOUM
 OUMBOUM OUMBOUM
 OUMBOUMOUMBOUM
 OUR SUMMER FESTIVAL 2
+OUR WAR: FIREPOWER SUPPRESSION
 OURS
 OURSIN
 OURSULA
@@ -42245,7 +42332,9 @@ Oumboum
 Oumboum Oumboum
 OumboumOumboum
 Our Summer Festival 2
+Our War: Firepower Suppression
 OurSummerFestival2
+OurWar:FirepowerSuppression
 Ours
 Oursin
 Oursula
@@ -42716,6 +42805,7 @@ PASARAPASARA
 PASCAL
 PASCAL GARCIA
 PASCAL LABREVOIS
+PASCAL'S REQUIEM
 PASCALGARCIA
 PASCALLABREVOIS
 PASSION
@@ -42729,6 +42819,8 @@ PATA
 PATA PATA
 PATAPATA
 PATAPON
+PATAPON 1+2 REPLAY
+PATAPON1+2REPLAY
 PATAVERT
 PATCH
 PATH
@@ -43876,6 +43968,7 @@ POWER INSTINCT
 POWER STONE
 POWER STONE 2
 POWER STRIKE
+POWER THE FUTURE
 POWERAND
 POWERANDMAGIC
 POWERDRIFT
@@ -44237,6 +44330,7 @@ PULLBACKRACERS
 PULLUM
 PULLUM PURNA
 PULLUMPURNA
+PULSAR CRASH
 PULSE
 PULSTAR
 PUMP
@@ -44710,6 +44804,9 @@ PasaraPasara
 Pascal
 Pascal Garcia
 Pascal Labrevois
+Pascal s Requiem
+Pascal's Requiem
+Pascal'sRequiem
 PascalGarcia
 PascalLabrevois
 Passion
@@ -45777,6 +45874,7 @@ Power Stone 2
 Power Strike
 Power and
 Power and Magic
+Power the Future
 PowerDrift
 PowerInstinct
 PowerStone
@@ -45791,6 +45889,7 @@ Powerful
 Powerhead
 Powerhead Games
 PowerheadGames
+PowertheFuture
 Practical Pinball
 PracticalPinball
 Predator
@@ -46135,6 +46234,8 @@ Pukey
 Pullum
 Pullum Purna
 PullumPurna
+Pulsar Crash
+PulsarCrash
 Pulse
 Pulstar
 Pump
@@ -46772,6 +46873,7 @@ RAVAGER_SPAWN_EGG
 RAVAGEUR
 RAVEN
 RAVEN SOFTWARE
+RAVENHILLE: AWAKENED
 RAVENOUS
 RAVENOUS GAMES
 RAVENOUS HORDE DEMO
@@ -48063,6 +48165,8 @@ RavagerSpawnEgg
 Raven
 Raven Software
 RavenSoftware
+Ravenhille: Awakened
+Ravenhille:Awakened
 Ravenous
 Ravenous Games
 Ravenous Horde Demo
@@ -49379,6 +49483,10 @@ SAMUSSANSARMURE
 SAMUSSOMBRE
 SAN
 SAN ANDREAS
+SANAE s sylphid breeze
+SANAE'S SYLPHID BREEZE
+SANAE's sylphid breeze
+SANAE'ssylphidbreeze
 SANAI
 SANAI ENTERPRISE
 SANAI ENTERPRISE INC
@@ -50022,6 +50130,7 @@ SHADOWOFTHEBEAST
 SHADOWOFTHECOLOSSUS
 SHADOWPROTOCOL
 SHADOWS
+SHADOWS LABYRINTH
 SHADOWS OF AMN
 SHADOWSOFAMN
 SHADOWSOFT
@@ -50525,6 +50634,7 @@ SIX BY
 SIX BY NINE
 SIXBY
 SIXBYNINE
+SIXTAR GATE: STARGAZER
 SIXTEEN
 SIXTEEN TONS
 SIXTEEN TONS ENTERTAINMENT
@@ -51598,6 +51708,7 @@ STEALTH STUDIOS
 STEALTHSTUDIOS
 STEAM
 STEAM DECK
+STEAM DECK - VALVE CERTIFIED REFURBISHED
 STEAM HEART'S Saturn Tribute
 STEAM-HEART S Saturn Tribute
 STEAM-HEART'S SATURN TRIBUTE
@@ -53088,6 +53199,8 @@ Shadowgeist
 ShadowoftheBeast
 ShadowoftheColossus
 Shadows
+Shadows Labyrinth
+ShadowsLabyrinth
 Shadowsoft
 Shadowsoft Inc
 ShadowsoftInc
@@ -53608,6 +53721,8 @@ Six By
 Six By Nine
 SixBy
 SixByNine
+Sixtar Gate: STARGAZER
+SixtarGate:STARGAZER
 Sixteen
 Sixteen Tons
 Sixteen Tons Entertainment
@@ -54626,7 +54741,10 @@ Stealth Studios
 StealthStudios
 Steam
 Steam Deck
+Steam Deck   Valve Certified Refurbished
+Steam Deck - Valve Certified Refurbished
 SteamDeck
+SteamDeck-ValveCertifiedRefurbished
 SteamWorld
 SteamWorld Dig 2
 SteamWorldDig2
@@ -55554,6 +55672,7 @@ TALIANA
 TALIANA MARTINEZ
 TALIANAMARTINEZ
 TALIM
+TALISMAN: DIGITAL 5TH EDITION
 TALKING
 TALKING TOM AND
 TALKING TOM AND FRIENDS
@@ -56053,6 +56172,7 @@ THE 5TH DOOR
 THE 7TH GUEST
 THE 8TH
 THE 8TH DAY
+THE AC130 SLAYS THE ZOMBIES.
 THE ADVENTURE
 THE ADVENTURE COMPANY
 THE ALCHEMIST'S CARDS
@@ -56273,6 +56393,7 @@ THE ORIGINAL MOORHUHN HUNT
 THE OTHERS
 THE OUTLAST TRIALS
 THE PADDOCK
+THE PALE DEEP
 THE PATH OF BLADES
 THE PIXOTRON 49
 THE PLANET CRAFTER
@@ -56289,6 +56410,7 @@ THE RITUAL
 THE RIVER
 THE ROOM STALKER
 THE RPG: MY FIRST DUNGEON SMELLS
+THE SACRED SIX CRYSTAL: A HERO'S JOURNEY
 THE SALES
 THE SALES CURVE
 THE SANDS OF TIME
@@ -56303,6 +56425,7 @@ THE SILENT WITNESS
 THE SILENT WITNESS DEMO
 THE SIMPSONS
 THE SIMS
+THE SIMS™ 4 ENCHANTED BY NATURE EXPANSION PACK
 THE SKULL
 THE SLORMANCER
 THE SOFTWARE
@@ -56994,6 +57117,7 @@ TONY DEMARCO
 TONY HAWK PRO SKATER
 TONY HAWK'S
 TONY HAWK'S PRO SKATER 2
+TONY HAWK'S™ PRO SKATER™ 3 + 4
 TONY HAWKS
 TONY HAWKS PRO SKATER 2
 TONY LA RUSSA
@@ -57171,6 +57295,7 @@ TRACK & FIELD
 TRACK AND
 TRACK AND FIELD
 TRACK N FIELD
+TRACK RACING: THE HOLY ROSARY
 TRACK&FIELD
 TRACK7
 TRACK7 GAMES
@@ -57251,6 +57376,7 @@ TRASHBASHERTRASHBASHER
 TRASHRALLY
 TRAUCMAHR
 TRAVELER LOST
+TRAVELER OF LIGHT
 TRAVELLER'S
 TRAVELLER'S TALES
 TRAVELLER'STALES
@@ -57768,6 +57894,8 @@ Taliana
 Taliana Martinez
 TalianaMartinez
 Talim
+Talisman: Digital 5th Edition
+Talisman:Digital5thEdition
 Talking
 Talking Tom and
 Talking Tom and Friends
@@ -58261,6 +58389,7 @@ The 5th Door
 The 7th Guest
 The 8th
 The 8th day
+The AC130 slays the zombies.
 The Adventure
 The Adventure Company
 The Alchemist s Cards
@@ -58452,6 +58581,7 @@ The Original Moorhuhn Hunt
 The Others
 The Outlast Trials
 The Paddock
+The Pale Deep
 The Path of Blades
 The Pixotron 49
 The Planet Crafter
@@ -58468,6 +58598,8 @@ The Rewinder 2
 The Ritual
 The River
 The Room Stalker
+The Sacred Six Crystal: A Hero s Journey
+The Sacred Six Crystal: A Hero's Journey
 The Sales
 The Sales Curve
 The Shadow of the Warring States Period
@@ -58478,6 +58610,8 @@ The Silent Forests
 The Silent Witness
 The Silent Witness Demo
 The Simpsons
+The Sims(TM) 4 Enchanted by Nature Expansion Pack
+The Sims™ 4 Enchanted by Nature Expansion Pack
 The Skull
 The Slormancer
 The Software
@@ -58511,6 +58645,7 @@ The7thGuest
 The8th
 The8thday
 The:
+TheAC130slaysthezombies.
 TheAdventure
 TheAdventureCompany
 TheAlchemist'sCards
@@ -58698,6 +58833,7 @@ TheOriginalMoorhuhnHunt
 TheOthers
 TheOutlastTrials
 ThePaddock
+ThePaleDeep
 ThePathofBlades
 ThePixotron49
 ThePlanetCrafter
@@ -58714,6 +58850,7 @@ TheRewinder2
 TheRitual
 TheRiver
 TheRoomStalker
+TheSacredSixCrystal:AHero'sJourney
 TheSales
 TheSalesCurve
 TheShadowoftheWarringStatesPeriod
@@ -58724,6 +58861,7 @@ TheSilentForests
 TheSilentWitness
 TheSilentWitnessDemo
 TheSimpsons
+TheSims™4EnchantedbyNatureExpansionPack
 TheSkull
 TheSlormancer
 TheSoftware
@@ -59203,12 +59341,16 @@ Tons
 Tony
 Tony DeMarco
 Tony Hawk Pro Skater
+Tony Hawk s™ Pro Skater™ 3 + 4
 Tony Hawk's
+Tony Hawk's(TM) Pro Skater(TM) 3 + 4
+Tony Hawk's™ Pro Skater™ 3 + 4
 Tony Hawks
 Tony La Russa
 Tony La Russa Baseball
 TonyDeMarco
 TonyHawk's
+TonyHawk's™ProSkater™3+4
 TonyHawkProSkater
 TonyHawks
 TonyLaRussa
@@ -59381,6 +59523,7 @@ Tracey
 Track
 Track  Field
 Track & Field
+Track Racing: The Holy Rosary
 Track and
 Track and Field
 Track n Field
@@ -59393,6 +59536,7 @@ TrackDown:Genesis
 TrackField
 TrackMania
 TrackMania2
+TrackRacing:TheHolyRosary
 Trackand
 TrackandField
 Trackers
@@ -59465,7 +59609,9 @@ TrashGoblin
 TrashRally
 Traucmahr
 Traveler Lost
+Traveler Of Light
 TravelerLost
+TravelerOfLight
 Traveller's
 Traveller's Tales
 Traveller'sTales
@@ -65064,6 +65210,7 @@ american multiple industries
 american sammy
 american softworks
 american technos
+american truck simulator - iowa
 american video
 american video entertainment
 american videogame
@@ -65277,6 +65424,7 @@ anno 1800
 année
 anode heart
 anomaly bus
+anomaly rooms
 anomen
 anomen delryn
 anomendelryn
@@ -66003,6 +66151,7 @@ aureole - wings of hope original soundtrack
 auriel
 auron
 aurora
+aurora defense
 aurora feint
 aurora feint inc
 aurorafeint
@@ -66901,6 +67050,7 @@ beyond interactive
 beyond oasis
 beyond reality
 beyond reality games
+beyond silence
 beyond the red door
 beyondarts
 beyondgames
@@ -68153,6 +68303,7 @@ burnout3
 burnout3:takedown
 burnout3takedown
 burnwood
+burr puzzle
 bushido
 bushido blade
 bushidoblade
@@ -68733,6 +68884,7 @@ celes chere
 celeschere
 celeste
 celestial
+celestial city fantasy
 celestial digital
 celestial digital entertainment
 celestial games
@@ -69823,6 +69975,7 @@ core design ltd
 coredesign
 coredesignltd
 coreland
+coreless
 coreplay
 coreplay games
 coreplaygames
@@ -69905,6 +70058,7 @@ cottedemailles
 cotton
 cotton 2
 cotton2
+couch racers
 cougars
 count
 counter
@@ -70285,6 +70439,7 @@ cta developments
 ctadevelopments
 ctxm
 cube
+cube crawler
 cube escape
 cube jump game
 cube slayer
@@ -71361,6 +71516,7 @@ dig
 dig dug
 digdog
 digdug
+digging dogs
 digi-boy
 digi-guys
 digiboy
@@ -71919,6 +72075,7 @@ dragon'sbreath
 dragon'scurse
 dragon'slair
 dragon'slairllc
+dragon-slaying war god
 dragon\'s
 dragon\'s den
 dragon\'s den unlimited
@@ -71970,6 +72127,7 @@ dramaera
 draq
 drboskonovitch
 drclash
+dread flats
 dread: the cold case
 dreadout: remastered collection
 dreadtome
@@ -72161,6 +72319,8 @@ dungeon hunter
 dungeon keeper
 dungeon mana
 dungeon master
+dungeon parkour block puzzle adventure
+dungeon survivor
 dungeonborne settlement
 dungeonexplorer
 dungeonhunter
@@ -73284,6 +73444,7 @@ exorcist simulator
 exorstudios
 exortus
 experience
+experiments
 exploding
 explorer
 exploring friscott
@@ -73720,17 +73881,22 @@ film
 films
 filter
 final
+final echo
 final fall
 final fantasy
 final fantasy crystal chronicles
 final fantasy iv
+final fantasy ix
 final fantasy tactics
 final fantasy tactics a2
 final fantasy tactics advance
 final fantasy v2
 final fantasy vi
 final fantasy vii
+final fantasy vii rebirth
 final fantasy x
+final fantasy x/x-2 hd remaster
+final fantasy xvi complete edition
 final fight
 final lap 2000
 final match tennis
@@ -75475,6 +75641,7 @@ gooftroop
 goomba
 goonies
 goorusoft
+gop stop auto
 gordiychuk
 gordo
 gordon
@@ -76017,6 +76184,7 @@ gx
 gx-4000
 gx4000
 gym camp simulator
+gyre
 gyroide
 gyruss
 géant
@@ -76843,6 +77011,7 @@ hommemystérieux
 honda
 honey
 honey bottle
+honey glade
 honey honey
 honey the cat
 honey_bottle
@@ -77391,6 +77560,7 @@ impérial
 in
 in Death we Love
 in a bit of tales
+in a world after people demo
 in death we love
 in purr-suit
 in the midst of a neverending season
@@ -77569,6 +77739,7 @@ innobec
 innobec technologies
 innobectechnologies
 innocent
+innocent au-pair
 innovations
 innoventions
 inohara
@@ -78518,6 +78689,7 @@ jupiter multimedia
 jupitercorporation
 jupitermultimedia
 jurah
+jurassic world evolution 2
 juri
 juri han
 jurihan
@@ -79175,6 +79347,7 @@ know
 knowledge
 knowledge book
 knowledgebook
+knowmad
 knowwonder
 knuckle
 knuckle joe
@@ -79309,6 +79482,7 @@ korner
 korner entertainment
 kornerentertainment
 koro
+koro-san's home "wan!" derby
 kosaka
 koshiki
 kosmos
@@ -82191,6 +82365,7 @@ metaminions
 metaminions metaminions
 metaminionsmetaminions
 metamorf
+metaphor: refantazio
 metarica
 method
 method solutions
@@ -83386,6 +83561,7 @@ my life in a monster girl paradise
 my mates demo
 my mentally unstable streamer girlfriend is an abusive sadist
 my pet flesh monster
+mycopunk
 mylstar
 mylstar electronics
 mylstar electronics inc
@@ -85198,6 +85374,7 @@ oumboum
 oumboum oumboum
 oumboumoumboum
 our summer festival 2
+our war: firepower suppression
 ours
 oursin
 oursula
@@ -85657,6 +85834,7 @@ pasarapasara
 pascal
 pascal garcia
 pascal labrevois
+pascal's requiem
 pascalgarcia
 pascallabrevois
 passion
@@ -85670,6 +85848,7 @@ pata
 pata pata
 patapata
 patapon
+patapon 1+2 replay
 patavert
 patch
 path
@@ -86796,6 +86975,7 @@ power instinct
 power stone
 power stone 2
 power strike
+power the future
 powerand
 powerandmagic
 powerdrift
@@ -87162,6 +87342,7 @@ pullback racers
 pullum
 pullum purna
 pullumpurna
+pulsar crash
 pulse
 pulstar
 pump
@@ -87659,6 +87840,7 @@ ravagerspawnegg
 ravageur
 raven
 raven software
+ravenhille: awakened
 ravenous
 ravenous games
 ravenous horde demo
@@ -88934,6 +89116,7 @@ samussansarmure
 samussombre
 san
 san andreas
+sanae's sylphid breeze
 sanai
 sanai enterprise
 sanai enterprise inc
@@ -89524,6 +89707,7 @@ shadowofcolossus
 shadowofthebeast
 shadowofthecolossus
 shadows
+shadows labyrinth
 shadows of amn
 shadowsofamn
 shadowsoft
@@ -90027,6 +90211,7 @@ six by
 six by nine
 sixby
 sixbynine
+sixtar gate: stargazer
 sixteen
 sixteen tons
 sixteen tons entertainment
@@ -91069,6 +91254,7 @@ stealth studios
 stealthstudios
 steam
 steam deck
+steam deck - valve certified refurbished
 steam-heart's saturn tribute
 steamworld
 steamworld dig 2
@@ -91940,6 +92126,7 @@ taliana
 taliana martinez
 talianamartinez
 talim
+talisman: digital 5th edition
 talking
 talking tom and
 talking tom and friends
@@ -92435,6 +92622,7 @@ the 8th day
 the Devil rais d the storm
 the Devil rais'd the storm
 the Shadow of Swallow
+the ac130 slays the zombies.
 the adventure
 the adventure company
 the alchemist's cards
@@ -92652,6 +92840,7 @@ the original moorhuhn hunt
 the others
 the outlast trials
 the paddock
+the pale deep
 the path of blades
 the pixotron 49
 the planet crafter
@@ -92668,6 +92857,7 @@ the ritual
 the river
 the room stalker
 the rpg: my first dungeon smells
+the sacred six crystal: a hero's journey
 the sales
 the sales curve
 the sands of time
@@ -92682,6 +92872,7 @@ the silent witness
 the silent witness demo
 the simpsons
 the sims
+the sims™ 4 enchanted by nature expansion pack
 the skull
 the slormancer
 the software
@@ -93364,6 +93555,7 @@ tony demarco
 tony hawk pro skater
 tony hawk's
 tony hawk's pro skater 2
+tony hawk's™ pro skater™ 3 + 4
 tony hawks
 tony hawks pro skater 2
 tony la russa
@@ -93542,6 +93734,7 @@ track & field
 track and
 track and field
 track n field
+track racing: the holy rosary
 track&field
 track7
 track7 games
@@ -93622,6 +93815,7 @@ trashbashertrashbasher
 trashrally
 traucmahr
 traveler lost
+traveler of light
 traveller's
 traveller's tales
 traveller'stales
@@ -96461,6 +96655,9 @@ zèbre
 觀塘 | Kwun Tong
 觀塘 | kwun tong
 觀塘|KwunTong
+词力牌：LEXILOONG
+词力牌：LexiLoong
+词力牌：lexiloong
 诗意塔罗牌
 贝如塔之家 BETA HOUSE
 贝如塔之家 Beta House
