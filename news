@@ -1005,6 +1005,7 @@ ACCIDENT ARIEGE
 ACCIDENT AURORE MORISSE
 ACCIDENT AUTOROUTE
 ACCIDENT AUTOROUTE A1
+ACCIDENT AUTOROUTE A13
 ACCIDENT AUTOROUTE A43
 ACCIDENT AUTOROUTE A81
 ACCIDENT AVION TORONTO
@@ -1433,6 +1434,7 @@ AIR FRANCE
 AIR FRANCE VOLS MER ROUGE
 AIR INDIA
 AIR INDIA ABSTURZ
+AIR INDIA CRASH
 AIR LIQUIDE
 AIR ZERMATT
 AIRBAG TAKATA
@@ -7973,7 +7975,9 @@ BACKA TOPOLA – LUGANO
 BACKSTREET BOYS
 BACNord
 BACRI
+BACTERIE MER DU NORD
 BACTÉRIE E.COLI
+BACTÉRIE MER DU NORD
 BAD BONN KILBI
 BAD BOYS 4
 BAD BUNNY
@@ -9348,6 +9352,7 @@ BOEING
 BOEING 737
 BOEING 737 MAX
 BOEING 787
+BOEING 787 AIR INDIA
 BOEING STARLINER
 BOEING WHISTLEBLOWER TOT
 BOEKTOPIA KORTRIJK
@@ -27523,6 +27528,7 @@ FEUX DE FORÊT DANS LE VAR
 FEYENOORD
 FEYENOORD  CLUB BRUGGE
 FEYENOORD  PSV
+FEYENOORD - UNION
 FEYENOORD GEGEN STURM GRAZ
 FEYENOORD – LEVERKUSEN
 FEYENOORD – UTRECHT
@@ -31605,6 +31611,7 @@ GIRO 2025
 GIRO D'ITALIA
 GIRO D'ITALIA 2022
 GIRO D'ITALIA 2025
+GIRO D'ITALIA FRAUEN 2025
 GIRO DIRECT
 GIRO LIVE
 GIRO LIVE KIJKEN
@@ -42531,6 +42538,7 @@ KARL OLIVE
 KARL TREMBLAY
 KARLA SOFIA
 KARLA SOFÍA GASCÓN
+KARLHEINZ HAUSER SOHN
 KARLSRUHE GEISELNAHME
 KAROL G
 KAROLINA SHIINO
@@ -45899,6 +45907,7 @@ LIESTAL
 LIEUWE WESTRA
 LIEVEN ANNEMANS
 LIEVIN
+LIFFRE
 LIFT YOU UP'VTM
 LIGA
 LIGA EUROPA
@@ -45989,6 +45998,7 @@ LILY-ROSE DEPP
 LIMAY
 LIMBURG UNITED
 LIMOGES
+LIMONE SPERRT STRAND
 LINA
 LINA DISPARITION
 LINA DISPARITION INQUIÉTANTE
@@ -57915,6 +57925,7 @@ NASHVILLE SC GEGEN INTER MIAMI
 NASRALLAH
 NASSER AL-KHELAÏFI
 NASSOURDINE IMAVOV
+NASTASIA NADAUD
 NASTJA CLAESSENS
 NAT WOLFF
 NATACHA CALESTREME
@@ -62721,6 +62732,7 @@ PETER CHERIF
 PETER DE GRAEF
 PETER DE ROOVER
 PETER DOHERTY
+PETER EGGENBERGER
 PETER ET SLOANE
 PETER FALK
 PETER FOX
@@ -63730,6 +63742,7 @@ PSG BRUGES
 PSG Bayern
 PSG Brest
 PSG Bruges
+PSG CHELSEA
 PSG CLERMONT
 PSG Clermont
 PSG DORTMUND
@@ -71657,6 +71670,7 @@ SARAJEVO
 SARCO
 SARDAIGNE
 SARDAR AZMOUN
+SARDINIEN UNFALL LUFTHANSA CHEF
 SARDOU
 SARGANS
 SARINA NOWAK
@@ -82498,6 +82512,7 @@ UEFA EURO 2021
 UEFA EURO 2024
 UEFA EURO 2024 TICKETS
 UEFA EURO 2024 tickets
+UEFA EURO 2025
 UEFA EUROPA LEAGUE
 UEFA Euro 2020
 UEFA Europa League
@@ -82505,6 +82520,7 @@ UEFA NATIONS LEAGUE
 UEFA Nations League
 UEFA SUPER CUP
 UEFA Super Cup
+UEFA TICKETS
 UEFA WOMEN'S EURO 2025
 UEFA WOMEN'S NATIONS LEAGUE
 UEFA Women's EURO 2025
@@ -84026,6 +84042,8 @@ VIKING POLARIS
 VIKINGS : VALHALLA
 VIKINGS: VALHALLA
 VIKINGUR
+VIKTOR GYOKERES
+VIKTOR GYÖKERES
 VIKTOR ORBAN
 VIKTOR ORBAN ZÜRICH
 VIKTOR ORBÁN
@@ -84167,6 +84185,7 @@ VITESSE ANDERLECHT
 VITILIGO
 VITINHA
 VITO BRAET
+VITRE
 VITTORIA CERETTI
 VITTORIO BOIOCCHI
 VITTORIO EMANUELE
@@ -88848,6 +88867,7 @@ accident ariege
 accident aurore morisse
 accident autoroute
 accident autoroute a1
+accident autoroute a13
 accident autoroute a43
 accident autoroute a81
 accident avion toronto
@@ -88925,6 +88945,7 @@ accidenta31metz
 accidenta8
 accidenta87
 accidentancenis
+accidentautoroutea13
 accidentautoroutea81
 accidentcamionchambery
 accidentcampingcar
@@ -89287,6 +89308,7 @@ air france
 air france vols mer rouge
 air india
 air india absturz
+air india crash
 air liquide
 air zermatt
 airbag takata
@@ -89300,6 +89322,7 @@ airco
 airfrance
 airindia
 airindiaabsturz
+airindiacrash
 airpods
 airpods (pro
 airpods 4
@@ -91680,7 +91703,11 @@ back to the future
 backa topola – lugano
 backstreet boys
 bacri
+bacterie mer du nord
+bacteriemerdunord
 bactérie e.coli
+bactérie mer du nord
+bactériemerdunord
 bad bonn kilbi
 bad boys 4
 bad bunny
@@ -93113,8 +93140,10 @@ boeing
 boeing 737
 boeing 737 max
 boeing 787
+boeing 787 air india
 boeing starliner
 boeing whistleblower tot
+boeing787airindia
 boektopia kortrijk
 boer zkt vrouw
 boer zoekt vrouw
@@ -100141,10 +100170,13 @@ feux de forêt dans le var
 feyenoord
 feyenoord  club brugge
 feyenoord  psv
+feyenoord  union
+feyenoord - union
 feyenoord gegen sturm graz
 feyenoord – leverkusen
 feyenoord – utrecht
 feyenoord-psv
+feyenoord-union
 feyenoord–utrecht
 ffp2
 ffp2-maske
@@ -101983,12 +102015,15 @@ giro 2025
 giro d'italia
 giro d'italia 2022
 giro d'italia 2025
+giro d'italia frauen 2025
 giro direct
 giro ditalia 2025
+giro ditalia frauen 2025
 giro live
 giro live kijken
 giro2025
 girod'italia2025
+girod'italiafrauen2025
 girodirect
 girolivekijken
 girona
@@ -106301,6 +106336,8 @@ karl tremblay
 karla sofia
 karla sofía gascón
 karlerivanhaubmoskau
+karlheinz hauser sohn
+karlheinzhausersohn
 karlsruhe geiselnahme
 karol g
 karolina shiino
@@ -107452,6 +107489,7 @@ lamine sy
 lamine yamal
 lamine yamal vater
 laminesy
+lamineyamal
 lamkel ze
 lamonnaie
 lamont jacobs
@@ -108410,6 +108448,7 @@ liestal
 lieuwe westra
 lieven annemans
 lievin
+liffre
 lift you up'vtm
 liga
 liga europa
@@ -108504,6 +108543,8 @@ lilycollins
 limay
 limburg united
 limoges
+limone sperrt strand
+limonesperrtstrand
 lina
 lina disparition
 lina disparition inquiétante
@@ -112546,6 +112587,8 @@ nashville sc gegen inter miami
 nasrallah
 nasser al-khelaïfi
 nassourdine imavov
+nastasia nadaud
+nastasianadaud
 nastja claessens
 nastjaclaessens
 nat wolff
@@ -114080,6 +114123,7 @@ oss 117 : rio ne répond plus
 ostapenko
 ostend beach
 ostend night run
+ostendbeach
 ostende
 osterkuchen rezept
 ostermontag
@@ -114962,6 +115006,7 @@ peter cherif
 peter de graef
 peter de roover
 peter doherty
+peter eggenberger
 peter et sloane
 peter falk
 peter fox
@@ -115010,6 +115055,7 @@ peterbos
 peterbos anderlecht
 peterbosanderlecht
 peterderoover
+petereggenberger
 peterknabel
 peterknäbel
 peterr.devries
@@ -116015,6 +116061,7 @@ psg bayern
 psg billetterie
 psg brest
 psg bruges
+psg chelsea
 psg clermont
 psg dortmund
 psg gegen barcelona
@@ -116065,6 +116112,7 @@ psg-reims
 psg-strasbourg
 psg-toulouse
 psgarsenal
+psgchelsea
 psv
 psv  ajax
 psv  club brugge
@@ -118416,6 +118464,8 @@ sarajevo
 sarco
 sardaigne
 sardar azmoun
+sardinien unfall lufthansa chef
+sardinienunfalllufthansachef
 sardou
 sargans
 sarina nowak
@@ -120012,6 +120062,7 @@ standard – westerlo
 standard – zulte waregem
 standard-beerschot
 standard-seraing
+standarddeliege
 standarddeliège
 standard–antwerp
 standard–dender
@@ -122635,14 +122686,18 @@ uefa euro 2020
 uefa euro 2021
 uefa euro 2024
 uefa euro 2024 tickets
+uefa euro 2025
 uefa europa league
 uefa nations league
 uefa super cup
+uefa tickets
 uefa women's euro 2025
 uefa women's nations league
 uefa2020
 uefachampionsleague
 uefaeuro2020
+uefaeuro2025
+uefatickets
 ueli maurer
 ueli schmezer
 uerkheim tote
@@ -122958,6 +123013,7 @@ union saint-gilloise – zulte waregem
 union-charleroi
 unionclubbrugge
 uniongent
+unionsaintgilloise
 unionsaintgilloiselagantoise
 uniper
 uniqlo
@@ -123619,10 +123675,14 @@ viking polaris
 vikings : valhalla
 vikings: valhalla
 vikingur
+viktor gyokeres
+viktor gyökeres
 viktor orban
 viktor orban zürich
 viktor orbán
 viktor verhulst
+viktorgyokeres
+viktorgyökeres
 viktoria pilsen  bayern
 viktoria pilsen gegen barcelona
 viktoria pilsen gegen bayern
@@ -123771,6 +123831,7 @@ vitesse anderlecht
 vitiligo
 vitinha
 vito braet
+vitre
 vittoria ceretti
 vittorio boiocchi
 vittorio emanuele
