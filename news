@@ -190,12 +190,14 @@
 12 COUPS DE MIDI
 12 COUPS DE MIDI EMILIEN
 12 COUPS DE MIDI EMILIEN ELIMINE
+12 COUPS DE MIDI EMILIEN XAVIER
 12 COUPS DE MIDI EMILIEN ÉLIMINÉ
 12 COUPS DE MIDI ÉTOILE MYSTÉRIEUSE
 12 FEBRUAR VOLLMOND
 12 coups de midi
 12 coups de midi emilien
 12 coups de midi emilien elimine
+12 coups de midi emilien xavier
 12 coups de midi emilien éliminé
 12 coups de midi étoile mystérieuse
 12 februar vollmond
@@ -204,6 +206,7 @@
 12coupsdemidi
 12coupsdemidiemilien
 12coupsdemidiemilienelimine
+12coupsdemidiemilienxavier
 12coupsdemidiemilienéliminé
 12coupsdemidiétoilemystérieuse
 12februarvollmond
@@ -1946,6 +1949,8 @@ ALLYSON FELIX
 ALMA DUFOUR
 ALMACI
 ALMATY
+ALMEIDA
+ALMEIDA JOAO
 ALMERE – AJAX
 ALMERÍA 'ATLÉTICO MADRID
 ALMERÍA – REAL MADRID
@@ -8089,6 +8094,7 @@ BANANE MASK SINGER
 BANCONTACT
 BANDEROLE NICE-PSG
 BANGLADESH
+BANGLADESH NATIONAL CRICKET TEAM VS SRI LANKA NATIONAL CRICKET TEAM MATCH SCORECARD
 BANGLADESH VS INDIA
 BANGLADESH VS SINGAPORE
 BANGLADESH VS SRI LANKA
@@ -8869,6 +8875,7 @@ BERNIE MARSDEN
 BERNIE SANDERS
 BERNINA EXPRESS
 BERNINAPASS
+BERNISCH KANTONALES SCHWINGFEST
 BERRE
 BERRETTINI
 BERSERK
@@ -13846,6 +13853,7 @@ CANTONA
 CANU17
 CANUA ISLAND
 CANVA
+CANYON
 CAP
 CAP D'AGDE
 CAP HORN
@@ -20689,6 +20697,7 @@ DOW JONES
 DOW JONES INDEX
 DOWNDETECTOR
 DOWNTON ABBEY
+DOXING
 DOYLE BRUNSON
 DPD
 DPG MEDIA
@@ -23994,6 +24003,7 @@ ENGSTLIGENALP
 ENLÈVEMENT
 ENLÈVEMENT DE SANTIAGO
 ENNETBÜRGEN
+ENNEZAT
 ENOLA HOLMES
 ENOLA HOLMES 2
 ENORA MALAGRE
@@ -27663,6 +27673,7 @@ FINALE TOP 14
 FINALE WIMBLEDON
 FINALE WIMBLEDON 2022
 FINALE WIMBLEDON 2023
+FINALE WIMBLEDON 2025
 FINALE WK DARTS
 FINALEEURO2021
 FINALISSIMA
@@ -34990,6 +35001,7 @@ HEURE D'HIVER
 HEURE SUISSE
 HEUSDEN-ZOLDER
 HEUTE
+HEVIGE REGENVAL SPANJE
 HEXAGON
 HEY! ORANGE
 HEYGEN
@@ -39269,6 +39281,7 @@ JOANA ZIMMER
 JOANNA GARLAND
 JOANNE HANNAFORD
 JOANNEHANNAFORD
+JOAO ALMEIDA
 JOAO CANCELO
 JOAO FELIX
 JOAO FONSECA
@@ -39453,6 +39466,7 @@ JONAS DE ROECK
 JONAS DEICHMANN
 JONAS KAUFMANN
 JONAS LÜSCHER
+JONAS RICKAERT
 JONAS SIEGENTHALER
 JONAS VINGEGAARD
 JONASSIEGENTHALER
@@ -63461,6 +63475,8 @@ PRESIDENTIELLE FRANCE
 PRESIDENTS
 PRESIDENTSVERKIEZINGEN RUSLAND
 PRESSEKONFERENZ BUNDESRAT
+PRESTON NORTH END - LIVERPOOL
+PRESTON NORTH END – LIVERPOOL
 PRET A GOUTER
 PRET A MANGER
 PRET A TAUX ZERO
@@ -63478,6 +63494,7 @@ PRIDE ANTWERPEN
 PRIDE BRUSSEL
 PRIDE BRUSSELS 2023
 PRIDE BRUXELLES
+PRIDE HASSELT
 PRIDE MONTH
 PRIDE PARADE 2023
 PRIDE ZURICH 2023
@@ -78181,6 +78198,7 @@ TAHAR RAHIM
 TAHITI
 TAI EMERY
 TAI-LUC
+TAIN L'HERMITAGE
 TAIS-TOI
 TAIWAN
 TAJON BUCHANAN
@@ -86131,6 +86149,8 @@ WIMBLEDON 2022
 WIMBLEDON 2023
 WIMBLEDON BRAD PITT
 WIMBLEDON CHAMPIONSHIPS
+WIMBLEDON FINAL
+WIMBLEDON FINALE 2025
 WIMBLEDON-FINAL
 WIMBLEDON2021
 WIN BUTLER
@@ -89893,6 +89913,9 @@ allyson felix
 alma dufour
 almaci
 almaty
+almeida
+almeida joao
+almeidajoao
 almere – ajax
 almere–ajax
 almería 'atlético madrid
@@ -91824,9 +91847,11 @@ banane mask singer
 bancontact
 banderole nice-psg
 bangladesh
+bangladesh national cricket team vs sri lanka national cricket team match scorecard
 bangladesh vs india
 bangladesh vs singapore
 bangladesh vs sri lanka
+bangladeshnationalcricketteamvssrilankanationalcricketteammatchscorecard
 bangladeshvsindia
 bangladeshvssingapore
 bangladeshvssrilanka
@@ -92655,6 +92680,8 @@ bernie marsden
 bernie sanders
 bernina express
 berninapass
+bernisch kantonales schwingfest
+bernischkantonalesschwingfest
 berre
 berrettini
 berserk
@@ -94290,6 +94317,7 @@ cantal
 cantona
 canua island
 canva
+canyon
 cap
 cap d'agde
 cap horn
@@ -97833,6 +97861,7 @@ dowjones
 dowjonesindex
 downdetector
 downton abbey
+doxing
 doyle brunson
 dpd
 dpg media
@@ -98873,6 +98902,7 @@ engstligenalp
 enlèvement
 enlèvement de santiago
 ennetbürgen
+ennezat
 enola holmes
 enola holmes 2
 enora malagre
@@ -100288,8 +100318,10 @@ finale top 14
 finale wimbledon
 finale wimbledon 2022
 finale wimbledon 2023
+finale wimbledon 2025
 finale wk darts
 finaleeuro2021
+finalewimbledon2025
 finalissima
 finalissima 2022
 finance
@@ -103359,6 +103391,8 @@ heure d'hiver
 heure suisse
 heusden-zolder
 heute
+hevige regenval spanje
+hevigeregenvalspanje
 hexagon
 hey! orange
 heygen
@@ -105468,11 +105502,13 @@ joanna garland
 joannagarland
 joanne hannaford
 joannehannaford
+joao almeida
 joao cancelo
 joao felix
 joao fonseca
 joao neves
 joao neves psg
+joaoalmeida
 joaofelix
 joaofonseca
 joaonevespsg
@@ -105666,8 +105702,10 @@ jonas de roeck
 jonas deichmann
 jonas kaufmann
 jonas lüscher
+jonas rickaert
 jonas siegenthaler
 jonas vingegaard
+jonasrickaert
 jonasvingegaard
 jonathan anderson
 jonathan clauss
@@ -109030,6 +109068,7 @@ lottozahlen
 lotus bakeries
 lotus emira
 lotus one swiss ag
+lotusbakeries
 lotusemira
 lotusgeburt
 lotusoneswissag
@@ -115799,6 +115838,10 @@ presidentielle france
 presidents
 presidentsverkiezingen rusland
 pressekonferenz bundesrat
+preston north end - liverpool
+preston north end – liverpool
+prestonnorthend-liverpool
+prestonnorthend–liverpool
 pret a gouter
 pret a manger
 pret a taux zero
@@ -115818,11 +115861,13 @@ pride antwerpen
 pride brussel
 pride brussels 2023
 pride bruxelles
+pride hasselt
 pride month
 pride parade 2023
 pride zurich 2023
 pride zürich
 pridebrussel
+pridehasselt
 priere aid el-fitr
 priere aéroport roissy
 prijs diesel
@@ -119260,6 +119305,7 @@ sinner djokovic
 sinner doping
 sinner shelton
 sinner tennis
+sinneralcaraz
 sint
 sint-gillis-waas
 sint-lievens-houtem
@@ -120892,6 +120938,9 @@ tahar rahim
 tahiti
 tai emery
 tai-luc
+tain l'hermitage
+tain lhermitage
+tainl'hermitage
 tais-toi
 taiwan
 tajon buchanan
@@ -124587,8 +124636,12 @@ wimbledon 2022
 wimbledon 2023
 wimbledon brad pitt
 wimbledon championships
+wimbledon final
+wimbledon finale 2025
 wimbledon-final
 wimbledon2021
+wimbledonfinal
+wimbledonfinale2025
 wimopbrouck
 win butler
 wincent weiss
