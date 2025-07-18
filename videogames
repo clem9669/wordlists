@@ -1308,6 +1308,7 @@ AEDDYGOLDFARBANDASSOCIATES
 AEGWYNN
 AEGWYNN MAGNA
 AEGWYNNMAGNA
+AENIGMARCH
 AEON
 AEON FLAME
 AEONFLAME
@@ -1841,6 +1842,7 @@ AMONGTHIEVES
 AMP
 AMPED
 AMPHINOBI
+AMPLEXUS PROTOCOL
 AMPLITUDE
 AMPLITUDE STUDIOS
 AMPLITUDESTUDIOS
@@ -3172,6 +3174,7 @@ AdventuresoftLtd
 Aegwynn
 Aegwynn Magna
 AegwynnMagna
+Aenigmarch
 Aeon
 Aeon Flame
 AeonFlame
@@ -3669,6 +3672,8 @@ AmongUs3D
 Amp
 Amped
 Amphinobi
+Amplexus Protocol
+AmplexusProtocol
 Amplitude
 Amplitude Studios
 AmplitudeStudios
@@ -4747,6 +4752,7 @@ BACK ALLEY BRAWL
 BACK BASS
 BACK TO SCHOOL
 BACK TO THE COLLEGE
+BACK TO THE DAWN
 BACK TURNED
 BACKBASS
 BACKBASSTHE
@@ -5217,6 +5223,7 @@ BEAM
 BEAM ENTERTAINMENT
 BEAM SOFTWARE
 BEAMENTERTAINMENT
+BEAMNG.DRIVE
 BEAMRIDER
 BEAMSOFTWARE
 BEAN
@@ -5764,6 +5771,7 @@ BLACK ROCK STUDIO
 BLACK SEA
 BLACK SEA STUDIOS
 BLACK SHADOW
+BLACK STIGMA
 BLACK TIGER
 BLACKBANNER
 BLACKBEAN
@@ -5806,6 +5814,7 @@ BLACKSMITH GAMES
 BLACKSMITH MASTER
 BLACKSMITH: IGNITE THE FORGE
 BLACKSMITHGAMES
+BLACKSTIGMA
 BLACKTIGER
 BLACKWELL
 BLACK_DYE
@@ -6824,6 +6833,7 @@ Back Bass
 Back To School
 Back Turned
 Back to the College
+Back to the Dawn
 Back:Fade
 BackAlleyBrawl
 BackBass
@@ -6845,6 +6855,7 @@ Backrooms:FinalExam
 Backrooms:Run For Your Life!
 Backrooms:RunForYourLife!
 BacktotheCollege
+BacktotheDawn
 Backyard
 Backyard Baseball  01
 Backyard Baseball '01
@@ -7227,6 +7238,7 @@ Beam
 Beam Entertainment
 Beam Software
 BeamEntertainment
+BeamNG.drive
 BeamSoftware
 Beamrider
 Bean
@@ -9139,6 +9151,7 @@ CARD SHOP SIMULATOR MULTIPLAYER
 CARDBOARD HERO
 CARDCASTER
 CARDS, THE UNIVERSE AND EVERYTHING
+CARDSCRAWL
 CAREERSOFT
 CARET
 CARGO SHOP SIMULATOR
@@ -11377,6 +11390,7 @@ Carbonated Games
 CarbonatedGames
 Card
 Card Shop Simulator Multiplayer
+CardScrawl
 CardShopSimulatorMultiplayer
 Cardboard Hero
 CardboardHero
@@ -13585,6 +13599,7 @@ DARK INVESTIGATION : EXPERIMENT
 DARK KAHN
 DARK MALGUS
 DARK MINE
+DARK NEIGHBORS
 DARK OAK
 DARK OAK BOAT
 DARK OAK DOOR
@@ -14087,6 +14102,7 @@ DESKTOP ENGINE
 DESKTOP FISHING
 DESKTOP MY CAT
 DESKTOP PALS 2
+DESKTOP PASTURE
 DESKTOP SURVIVORS 98
 DESMOND
 DESMOND MILES
@@ -14608,6 +14624,8 @@ DOMESTIQUE
 DOMINATED BY SADISTIC RICH TRIO
 DOMINATED BY: THE SADISTIC NERD NEXT DOOR
 DOMINATED BY: YANDERE GOTH BUNNY
+DOMINATED BY: YANDERE GOTH LIFEGUARD
+DOMINATED BY: YANDERE GOTH MOMMY
 DOMINIONS
 DON
 DON BLUTH
@@ -14970,6 +14988,7 @@ DRIFTER
 DRIFTER DRIFTER
 DRIFTERDRIFTER
 DRILL
+DRILL CORE
 DRILL DOZER
 DRILLDOZER
 DRILLER
@@ -15013,6 +15032,7 @@ DRUIDE
 DRUM
 DRUMMANIA
 DRUNK
+DRUNKN BAR FIGHT
 DRYABUI
 DRYABUIDRYABUI
 DS
@@ -15113,6 +15133,7 @@ DUNGEON MASTER
 DUNGEON PARKOUR BLOCK PUZZLE ADVENTURE
 DUNGEON SURVIVOR
 DUNGEON TRACER
+DUNGEON WEIQI
 DUNGEONBORNE SETTLEMENT
 DUNGEONEXPLORER
 DUNGEONHUNTER
@@ -15141,6 +15162,7 @@ DUSKY CAP
 DUSKY DONOVAN
 DUSKYDONOVAN
 DUST
+DUST RAIDERS
 DUSTWARD
 DUSTWIND: RESISTANCE
 DUTY
@@ -15352,6 +15374,7 @@ Dark Investigation : Experiment
 Dark Kahn
 Dark Malgus
 Dark Mine
+Dark Neighbors
 Dark Oak
 Dark Oak Boat
 Dark Oak Door
@@ -15374,6 +15397,7 @@ DarkInvestigation:Experiment
 DarkKahn
 DarkMalgus
 DarkMine
+DarkNeighbors
 DarkOak
 DarkOakBoat
 DarkOakDoor
@@ -15840,10 +15864,12 @@ Desktank
 Desktop Engine
 Desktop Fishing
 Desktop Pals 2
+Desktop Pasture
 Desktop Survivors 98
 DesktopEngine
 DesktopFishing
 DesktopPals2
+DesktopPasture
 DesktopSurvivors98
 Desmond
 Desmond Miles
@@ -16349,8 +16375,12 @@ Dome
 Dominated by Sadistic Rich Trio
 Dominated by: The Sadistic Nerd Next Door
 Dominated by: Yandere Goth Bunny
+Dominated by: Yandere Goth Lifeguard
+Dominated by: Yandere Goth Mommy
 Dominatedby:TheSadisticNerdNextDoor
 Dominatedby:YandereGothBunny
+Dominatedby:YandereGothLifeguard
+Dominatedby:YandereGothMommy
 DominatedbySadisticRichTrio
 Dominions
 Don
@@ -16756,7 +16786,9 @@ Drifter
 Drifter Drifter
 DrifterDrifter
 Drill
+Drill Core
 Drill Dozer
+DrillCore
 DrillDozer
 Driller
 Drive
@@ -16791,6 +16823,8 @@ Druide
 Drum
 DrumMania
 Drunk
+Drunkn Bar Fight
+DrunknBarFight
 DuGalle
 DuGalle Gerard
 DuGalle Gérard
@@ -16866,6 +16900,7 @@ Dungeon Master
 Dungeon Parkour Block Puzzle Adventure
 Dungeon Survivor
 Dungeon Tracer
+Dungeon Weiqi
 DungeonAdventure
 DungeonCompAInions
 DungeonExplorer
@@ -16876,6 +16911,7 @@ DungeonMaster
 DungeonParkourBlockPuzzleAdventure
 DungeonSurvivor
 DungeonTracer
+DungeonWeiqi
 Dungeonborne Settlement
 DungeonborneSettlement
 Dungeons
@@ -16903,6 +16939,8 @@ Dusky Donovan
 DuskyCap
 DuskyDonovan
 Dust
+Dust Raiders
+DustRaiders
 Dustward
 Dustwind: Resistance
 Dustwind:Resistance
@@ -17154,6 +17192,7 @@ ECHIDNA
 ECHO
 ECHO PEAK
 ECHOES OF MK-ULTRA
+ECHOES OF STEEL
 ECHOES OF THE SUN
 ECHOES OF THE WILD
 ECHOES OF TIME
@@ -17184,6 +17223,7 @@ ED MAGNIN
 ED MAGNIN AND
 ED MAGNIN AND ASSOCIATES
 EDAIR
+EDD-E
 EDDIE
 EDDIE LOW
 EDDIE TOH
@@ -17451,6 +17491,7 @@ ELEKTROGAMES
 ELEKTRUC
 ELEMENT
 ELEMENTAL COLOSSUS
+ELEMENTAL RUSH
 ELEMENTAL RUSH DEMO
 ELEMENTAL TOWERS DEMO
 ELEMENTAL WAR CLASH
@@ -18193,10 +18234,12 @@ Echo Peak
 EchoPeak
 Echoes of MK ULTRA
 Echoes of MK-ULTRA
+Echoes of Steel
 Echoes of Time
 Echoes of the Sun
 Echoes of the Wild
 EchoesofMK-ULTRA
+EchoesofSteel
 EchoesofTime
 EchoesoftheSun
 EchoesoftheWild
@@ -18229,6 +18272,8 @@ EdMagnin
 EdMagninand
 EdMagninandAssociates
 Edair
+Edd E
+Edd-E
 Eddie
 Eddie Low
 Eddie Toh
@@ -18452,10 +18497,12 @@ EleftheriosChristodoulatos
 Elektrogames
 Elektruc
 Element
+Elemental Rush
 Elemental Rush Demo
 Elemental Towers Demo
 Elemental War Clash
 Elemental colossus
+ElementalRush
 ElementalRushDemo
 ElementalTowersDemo
 ElementalWarClash
@@ -19811,6 +19858,7 @@ FLOWTRIS
 FLOWorlds
 FLOYD
 FLUFFY MEMORIES
+FLUFFY SHOWDOWN
 FLUFFYINN DEMO
 FLUFFYLOGIC
 FLUID
@@ -19887,6 +19935,7 @@ FOR
 FOR AEROLITE
 FOR THE GREATER GOOD
 FORBIDDEN
+FORBIDDEN OFFERING
 FORBIDDEN SIREN
 FORBIDDEN ZONE
 FORBIDDENSIREN
@@ -21036,10 +21085,12 @@ FlowerPot
 Flowtris
 Floyd
 Fluffy Memories
+Fluffy Showdown
 FluffyInn Demo
 FluffyInnDemo
 FluffyLogic
 FluffyMemories
+FluffyShowdown
 Fluid
 Fluid Studios
 FluidStudios
@@ -21124,8 +21175,10 @@ ForS
 ForS Software
 ForSSoftware
 Forbidden
+Forbidden Offering
 Forbidden Siren
 Forbidden zone
+ForbiddenOffering
 ForbiddenSiren
 Forbiddenzone
 Force
@@ -22712,6 +22765,7 @@ GRAVEBOUND
 GRAVELLI
 GRAVITEE
 GRAVITY
+GRAVITY CIRCUIT
 GRAY
 GRAY BANNER
 GRAY BED
@@ -24122,6 +24176,8 @@ Gravebound
 Gravelli
 Gravitee
 Gravity
+Gravity Circuit
+GravityCircuit
 Gray
 Gray Banner
 Gray Bed
@@ -24861,6 +24917,7 @@ HD INTERACTIVE
 HD Interactive
 HDINTERACTIVE
 HDInteractive
+HE IS COMING
 HEAD
 HEAD GAMES
 HEAD OVER HEELS
@@ -24983,6 +25040,7 @@ HENTAI MAGIC
 HENTAI MATURE MILF
 HENTAI MERMAID SIRENA
 HENTAI SENPAI: KAIRAKU NO MAID SERVICE ORIGINAL SOUNDTRACK
+HENTAI SHANTI
 HENTAI STORE
 HENTAI SUMMER SWAP
 HENTAI TALES: ACADEMY'S RECORD
@@ -25340,6 +25398,7 @@ HORI ELECTRIC
 HORIELECTRIC
 HORIZON
 HORIZON FORBIDDEN WEST™ COMPLETE EDITION
+HORIZON VALLEY
 HORIZON ZERO DAWN™ COMPLETE EDITION
 HORN
 HORNE
@@ -25881,6 +25940,7 @@ HayatoNekketsu
 Hayden
 Hayden Software
 HaydenSoftware
+He is Coming
 HeXpunk
 Head
 Head Games
@@ -25960,6 +26020,7 @@ Heike
 Heike Heike
 HeikeHeike
 Heineman
+HeisComing
 Heist.exe
 Helaine
 Helhigan
@@ -26012,6 +26073,7 @@ Hentai Magic
 Hentai Mature Milf
 Hentai Mermaid Sirena
 Hentai Senpai: Kairaku no Maid Service Original Soundtrack
+Hentai Shanti
 Hentai Store
 Hentai Summer Swap
 Hentai Tales: Academy s Record
@@ -26031,6 +26093,7 @@ HentaiMagic
 HentaiMatureMilf
 HentaiMermaidSirena
 HentaiSenpai:KairakunoMaidServiceOriginalSoundtrack
+HentaiShanti
 HentaiStore
 HentaiSummerSwap
 HentaiTales:Academy'sRecord
@@ -26407,9 +26470,11 @@ HoriElectric
 Horizon
 Horizon Forbidden West(TM) Complete Edition
 Horizon Forbidden West™ Complete Edition
+Horizon Valley
 Horizon Zero Dawn(TM) Complete Edition
 Horizon Zero Dawn™ Complete Edition
 HorizonForbiddenWest™CompleteEdition
+HorizonValley
 HorizonZeroDawn™CompleteEdition
 Horn
 Horne
@@ -32325,6 +32390,7 @@ LIGHT BLUE
 LIGHT BLUE BANNER
 LIGHT BLUE BED
 LIGHT BLUE DYE
+LIGHT BRINGER
 LIGHT GAIA
 LIGHT GAÏA
 LIGHT GRAY
@@ -32342,6 +32408,7 @@ LIGHT&
 LIGHT&SHADOWS
 LIGHT&SHADOWS.INC
 LIGHT&SHADOWSINC
+LIGHT-BRINGER
 LIGHTBLUE
 LIGHTBLUEBANNER
 LIGHTBLUEBED
@@ -42888,6 +42955,7 @@ PAIGE
 PAIGE HARRIS
 PAIGEHARRIS
 PAIN
+PAIN 'N DAVE: THE MAZE OF MALICE
 PAINE
 PAINT
 PAINT ROLLER
@@ -43483,6 +43551,7 @@ PERSIA:
 PERSISTANTE
 PERSO À CHARGE
 PERSONA
+PERSONA 3 RELOAD
 PERSONA 4
 PERSONA 5 ROYAL
 PERSONA4
@@ -44902,6 +44971,9 @@ Paige
 Paige Harris
 PaigeHarris
 Pain
+Pain  n Dave: The Maze of Malice
+Pain 'n Dave: The Maze of Malice
+Pain'nDave:TheMazeofMalice
 Paine
 Paint
 Paint Roller
@@ -45409,7 +45481,9 @@ PerpetualFXCreative
 Persia
 Perso à charge
 Persona
+Persona 3 Reload
 Persona 5 Royal
+Persona3Reload
 Persona5: The Phantom X
 Persona5:ThePhantomX
 Persona5Royal
@@ -46920,6 +46994,7 @@ QUEST
 QUEST FOR
 QUEST FOR GLORY
 QUEST OF LEGEND
+QUEST OF THE HERO
 QUESTBOARD
 QUESTFOR
 QUESTFORGLORY
@@ -47019,10 +47094,12 @@ Quest
 Quest for
 Quest for Glory
 Quest of Legend
+Quest of the Hero
 Questboard
 Questfor
 QuestforGlory
 QuestofLegend
+QuestoftheHero
 Questwood
 Questy Chess
 QuestyChess
@@ -47575,6 +47652,7 @@ REGARDS
 REGARDS SAS
 REGARDSSAS
 REGENCY
+REGEX GAME
 REGIS
 REIDARASSON
 REIKA
@@ -47693,6 +47771,7 @@ RETROSTUDIOS
 RETSU
 RETURN
 RETURN FIRE
+RETURN FROM CORE
 RETURNFIRE
 RETURNS
 REUNION: AUTUMN LEAF - FINAL RELEASE
@@ -47926,6 +48005,7 @@ ROBO ALESTE
 ROBO CATCHER ZERO (DEMO)
 ROBOALESTE
 ROBOCOP
+ROBOCOP: ROGUE CITY - UNFINISHED BUSINESS
 ROBOMARTO
 ROBOPON
 ROBOT
@@ -48311,6 +48391,7 @@ RUMINANASE
 RUMOR RAIDERS
 RUMOURS OF A ROMAN EMPIRE
 RUN
+RUNA ILLUSTRA
 RUNABOUT
 RUNAWAY
 RUNAWAY CHEATER
@@ -48879,6 +48960,8 @@ Regards
 Regards SAS
 RegardsSAS
 Regency
+Regex Game
+RegexGame
 Regis
 Reidarasson
 Reika
@@ -48999,7 +49082,9 @@ RetroStudios
 Retsu
 Return
 Return Fire
+Return from Core
 ReturnFire
+ReturnfromCore
 Returns
 Rev
 Reva
@@ -49244,6 +49329,9 @@ Robo Catcher Zero  Demo
 Robo Catcher Zero (Demo)
 RoboAleste
 RoboCatcherZero(Demo)
+RoboCop: Rogue City   Unfinished Business
+RoboCop: Rogue City - Unfinished Business
+RoboCop:RogueCity-UnfinishedBusiness
 Robocop
 Robomarto
 Robopon
@@ -49614,6 +49702,8 @@ RumoursofaRomanEmpire
 Run
 RunPunk: The parkour game
 RunPunk:Theparkourgame
+Runa Illustra
+RunaIllustra
 Runabout
 Runaway
 Runaway Cheater
@@ -50561,6 +50651,7 @@ SHADOW
 SHADOW DEVELOPMENT
 SHADOW FIGHT
 SHADOW HEARTS
+SHADOW LABYRINTH
 SHADOW OF COLOSSUS
 SHADOW OF THE BEAST
 SHADOW OF THE COLOSSUS
@@ -50759,6 +50850,7 @@ SHIORI HASEGAWA
 SHIORIHASEGAWA
 SHIP, INC.
 SHIP, INC. DEMO
+SHIPWRECKED: A QUICK AUTOMATION
 SHIRO
 SHIRO TAGACHI
 SHIROTAGACHI
@@ -50790,6 +50882,7 @@ SHOOTING MEDAL
 SHOOTINGMEDAL
 SHOOT\'EM\'UP
 SHOOT\EM\UP
+SHOP MISTRESS NTR
 SHORE
 SHORES
 SHORT HOP
@@ -51395,6 +51488,7 @@ SOCIETE
 SOCIETY
 SOCOM
 SODA
+SODAHAZARD: TASTE TEST
 SODOM
 SOFEL
 SOFIA
@@ -51680,6 +51774,7 @@ SOULREAVER
 SOULS
 SOULSTONE SURVIVORS
 SOUND
+SOUND OF SUMMER THUNDER: DAY 1
 SOUND TECHNOLOGY
 SOUNDCAT
 SOUNDS OF HER LOVE 2
@@ -52448,6 +52543,7 @@ SUBATOMICSTUDIOS
 SUBDUED
 SUBDUED GAMES
 SUBDUEDGAMES
+SUBLIME ELEMENT
 SUBLOGIC
 SUBMERSED 2 - THE HIVE
 SUBMERSIBLE
@@ -52797,6 +52893,7 @@ SWEET BERRIES
 SWEET DELIVERY
 SWEET DUNGEON
 SWEET GIRLS COLLECTION
+SWEET RESTAURANT
 SWEET ROCK PAPER SCISSORS
 SWEET RUN
 SWEET THEME PARK
@@ -53652,6 +53749,7 @@ Shadow
 Shadow Development
 Shadow Fight
 Shadow Hearts
+Shadow Labyrinth
 Shadow Software
 Shadow Tactics: Blades of the Shogun
 Shadow Tor
@@ -53663,6 +53761,7 @@ Shadow the Hedgehog
 ShadowDevelopment
 ShadowFight
 ShadowHearts
+ShadowLabyrinth
 ShadowSoftware
 ShadowTactics:BladesoftheShogun
 ShadowTor
@@ -53859,6 +53958,8 @@ Ship, Inc.
 Ship, Inc. Demo
 Ship,Inc.
 Ship,Inc.Demo
+Shipwrecked: A Quick Automation
+Shipwrecked:AQuickAutomation
 Shiro
 Shiro Tagachi
 ShiroTagachi
@@ -53893,6 +53994,8 @@ Shoot\em\Up
 Shooting
 Shooting Medal
 ShootingMedal
+Shop Mistress NTR
+ShopMistressNTR
 Shore
 Shores
 Short hop
@@ -54478,6 +54581,8 @@ Soccer Boss
 SoccerBoss
 Society
 Soda
+Sodahazard: Taste Test
+Sodahazard:TasteTest
 Sodom
 Sofel
 Sofia
@@ -54747,8 +54852,10 @@ Soulstone Survivors
 SoulstoneSurvivors
 Sound
 Sound Technology
+Sound of Summer Thunder: Day 1
 SoundCat
 SoundTechnology
+SoundofSummerThunder:Day1
 Sounds of Her Love 2
 Sounds of Shadows
 SoundsofHerLove2
@@ -55542,6 +55649,8 @@ SubatomicStudios
 Subdued
 Subdued Games
 SubduedGames
+Sublime element
+Sublimeelement
 Sublogic
 Submersed 2   The Hive
 Submersed 2 - The Hive
@@ -55896,6 +56005,7 @@ Sweet Berries
 Sweet Delivery
 Sweet Dungeon
 Sweet Girls Collection
+Sweet Restaurant
 Sweet Rock Paper Scissors
 Sweet Run
 Sweet Theme Park
@@ -55905,6 +56015,7 @@ SweetBerries
 SweetDelivery
 SweetDungeon
 SweetGirlsCollection
+SweetRestaurant
 SweetRockPaperScissors
 SweetRun
 SweetThemePark
@@ -56756,6 +56867,7 @@ THE DONUT GALLERY
 THE DRAWSTRING DUNGEON
 THE DREAM
 THE DREAM MACHINE
+THE DRIFTER
 THE ECHO PARADOX
 THE EDGE
 THE ELDER SCROLLS
@@ -56886,6 +56998,7 @@ THE MONSTER BREEDER
 THE MOSQUITO GANG
 THE MOUNTAIN AND THE MORON
 THE MR. RABBIT MAGIC SHOW
+THE NAUGHTY VAMPIRE AND THE MOANING FOREST
 THE NEED FOR SPEED
 THE NEW FLESH
 THE NIGHT JACKALS VOL. 1
@@ -56959,6 +57072,7 @@ THE VISION FACTORY
 THE VOXEL
 THE VOXEL AGENTS
 THE WALKING DEAD
+THE WANDERING VILLAGE
 THE WARP
 THE WARP FACTORY
 THE WAY OF THE EXPLODING FIST
@@ -58235,6 +58349,7 @@ TWEETER
 TWELVE
 TWELVE INTERACTIVE
 TWELVEINTERACTIVE
+TWELVES:SHADOW
 TWILIGHT
 TWILIGHT TAILS
 TWIN
@@ -58992,6 +59107,7 @@ The Donut Gallery
 The Drawstring Dungeon
 The Dream
 The Dream Machine
+The Drifter
 The Echo Paradox
 The Edge
 The Elder Scrolls
@@ -59094,6 +59210,7 @@ The Monster Breeder
 The Mosquito Gang
 The Mountain And The Moron
 The Mr. Rabbit Magic Show
+The Naughty Vampire and the Moaning Forest
 The Need for Speed
 The New Flesh
 The Night Jackals Vol. 1
@@ -59164,6 +59281,7 @@ The Vision
 The Vision Factory
 The Voxel
 The Voxel Agents
+The Wandering Village
 The Warp
 The Warp Factory
 The Way of the Exploding Fist
@@ -59257,6 +59375,7 @@ TheDonutGallery
 TheDrawstringDungeon
 TheDream
 TheDreamMachine
+TheDrifter
 TheEchoParadox
 TheEdge
 TheElderScrolls
@@ -59356,6 +59475,7 @@ TheMonsterBreeder
 TheMosquitoGang
 TheMountainAndTheMoron
 TheMr.RabbitMagicShow
+TheNaughtyVampireandtheMoaningForest
 TheNeedforSpeed
 TheNewFlesh
 TheNightJackalsVol.1
@@ -59422,6 +59542,7 @@ TheVision
 TheVisionFactory
 TheVoxel
 TheVoxelAgents
+TheWanderingVillage
 TheWarp
 TheWarpFactory
 TheWayoftheExplodingFist
@@ -60448,6 +60569,7 @@ Tweeter
 Twelve
 Twelve Interactive
 TwelveInteractive
+Twelves:Shadow
 Twilight
 Twilight Tails
 TwilightTails
@@ -62644,6 +62766,7 @@ WHITEMOON DREAMS
 WHITEMOONDREAMS
 WHITE_DYE
 WHITING
+WHO'S AT THE DOOR?
 WHOMP
 WHOMPER
 WHOOPEE
@@ -62786,6 +62909,7 @@ WIRTTHEPEGLEG
 WISDOM
 WISDOM TREE
 WISDOMTREE
+WISE IN THE HEIGHTS
 WISH
 WISP
 WISP GUNNER
@@ -63411,6 +63535,9 @@ WhiteMoonDreams
 Whiteboard
 Whitehead
 Whiting
+Who s at the door?
+Who's at the door?
+Who'satthedoor?
 Whomp
 Whomper
 Whoopee
@@ -63552,6 +63679,8 @@ WirtThePegLeg
 Wisdom
 Wisdom Tree
 WisdomTree
+Wise in the Heights
+WiseintheHeights
 Wish
 Wisp
 Wisp Gunner
@@ -63957,6 +64086,9 @@ Xseed Games
 XseedGames
 Xylos
 Xzar
+Y2ROLL SOUNDTRACK
+Y2ROLL Soundtrack
+Y2ROLLSoundtrack
 YABAN
 YABAN YABAN
 YABANYABAN
@@ -65357,6 +65489,7 @@ aeddygoldfarbandassociates
 aegwynn
 aegwynn magna
 aegwynnmagna
+aenigmarch
 aeon
 aeon flame
 aeonflame
@@ -65873,6 +66006,7 @@ amongthieves
 amp
 amped
 amphinobi
+amplexus protocol
 amplitude
 amplitude studios
 amplitudestudios
@@ -66948,6 +67082,7 @@ back alley brawl
 back bass
 back to school
 back to the college
+back to the dawn
 back turned
 backbass
 backbassthe
@@ -67413,6 +67548,7 @@ beam
 beam entertainment
 beam software
 beamentertainment
+beamng.drive
 beamrider
 beamsoftware
 bean
@@ -67956,6 +68092,7 @@ black rock studio
 black sea
 black sea studios
 black shadow
+black stigma
 black tiger
 black_dye
 blackbanner
@@ -69264,6 +69401,7 @@ card shop simulator multiplayer
 cardboard hero
 cardcaster
 cards, the universe and everything
+cardscrawl
 careersoft
 caret
 cargo shop simulator
@@ -71475,6 +71613,7 @@ dark investigation : experiment
 dark kahn
 dark malgus
 dark mine
+dark neighbors
 dark oak
 dark oak boat
 dark oak door
@@ -71957,6 +72096,7 @@ desktop engine
 desktop fishing
 desktop my cat
 desktop pals 2
+desktop pasture
 desktop survivors 98
 desktopmycat
 desmond
@@ -72469,6 +72609,8 @@ domestique
 dominated by sadistic rich trio
 dominated by: the sadistic nerd next door
 dominated by: yandere goth bunny
+dominated by: yandere goth lifeguard
+dominated by: yandere goth mommy
 dominions
 don
 don bluth
@@ -72828,6 +72970,7 @@ drifter
 drifter drifter
 drifterdrifter
 drill
+drill core
 drill dozer
 drilldozer
 driller
@@ -72871,6 +73014,7 @@ druide
 drum
 drummania
 drunk
+drunkn bar fight
 dryabui
 dryabuidryabui
 ds
@@ -72967,6 +73111,7 @@ dungeon master
 dungeon parkour block puzzle adventure
 dungeon survivor
 dungeon tracer
+dungeon weiqi
 dungeonborne settlement
 dungeonexplorer
 dungeonhunter
@@ -72995,6 +73140,7 @@ dusky cap
 dusky donovan
 duskydonovan
 dust
+dust raiders
 dustward
 dustwind: resistance
 duty
@@ -73211,6 +73357,7 @@ echidna
 echo
 echo peak
 echoes of mk-ultra
+echoes of steel
 echoes of the sun
 echoes of the wild
 echoes of time
@@ -73245,6 +73392,7 @@ ed magnin
 ed magnin and
 ed magnin and associates
 edair
+edd-e
 eddie
 eddie low
 eddie toh
@@ -73495,6 +73643,7 @@ elektrogames
 elektruc
 element
 elemental colossus
+elemental rush
 elemental rush demo
 elemental towers demo
 elemental war clash
@@ -74834,6 +74983,7 @@ flowtris
 floyd
 fluXis
 fluffy memories
+fluffy showdown
 fluffyinn demo
 fluffylogic
 fluid
@@ -74915,6 +75065,7 @@ for
 for aerolite
 for the greater good
 forbidden
+forbidden offering
 forbidden siren
 forbidden zone
 forbiddensiren
@@ -76488,6 +76639,7 @@ gravebound
 gravelli
 gravitee
 gravity
+gravity circuit
 gray
 gray banner
 gray bed
@@ -77256,6 +77408,7 @@ hbstudios
 hd
 hd interactive
 hdinteractive
+he is coming
 head
 head games
 head over heels
@@ -77376,6 +77529,7 @@ hentai magic
 hentai mature milf
 hentai mermaid sirena
 hentai senpai: kairaku no maid service original soundtrack
+hentai shanti
 hentai store
 hentai summer swap
 hentai tales: academy's record
@@ -77734,6 +77888,7 @@ hori electric
 horielectric
 horizon
 horizon forbidden west™ complete edition
+horizon valley
 horizon zero dawn™ complete edition
 horn
 horne
@@ -81339,6 +81494,7 @@ light&
 light&shadows
 light&shadows.inc
 light&shadowsinc
+light-bringer
 lightblue
 lightbluebanner
 lightbluebed
@@ -86271,6 +86427,7 @@ paige
 paige harris
 paigeharris
 pain
+pain 'n dave: the maze of malice
 paine
 paint
 paint roller
@@ -86828,6 +86985,7 @@ persia:
 persistante
 perso à charge
 persona
+persona 3 reload
 persona 4
 persona 5 royal
 persona4
@@ -88333,6 +88491,7 @@ quest
 quest for
 quest for glory
 quest of legend
+quest of the hero
 questboard
 questfor
 questforglory
@@ -88868,6 +89027,7 @@ regards
 regards sas
 regardssas
 regency
+regex game
 regis
 reidarasson
 reika
@@ -88986,6 +89146,7 @@ retrostudios
 retsu
 return
 return fire
+return from core
 returnfire
 returns
 reunion: autumn leaf - final release
@@ -89215,6 +89376,7 @@ robo aleste
 robo catcher zero (demo)
 roboaleste
 robocop
+robocop: rogue city - unfinished business
 robomarto
 robopon
 robot
@@ -89586,6 +89748,7 @@ ruminanase
 rumor raiders
 rumours of a roman empire
 run
+runa illustra
 runabout
 runaway
 runaway cheater
@@ -90451,6 +90614,7 @@ shadow
 shadow development
 shadow fight
 shadow hearts
+shadow labyrinth
 shadow of colossus
 shadow of the beast
 shadow of the colossus
@@ -90649,6 +90813,7 @@ shiori hasegawa
 shiorihasegawa
 ship, inc.
 ship, inc. demo
+shipwrecked: a quick automation
 shiro
 shiro tagachi
 shirotagachi
@@ -90680,6 +90845,7 @@ shoot\em\up
 shooting
 shooting medal
 shootingmedal
+shop mistress ntr
 shore
 shores
 short hop
@@ -91263,6 +91429,7 @@ society
 société
 socom
 soda
+sodahazard: taste test
 sodom
 sofel
 sofia
@@ -91544,6 +91711,7 @@ soulreaver
 souls
 soulstone survivors
 sound
+sound of summer thunder: day 1
 sound technology
 soundcat
 sounds of her love 2
@@ -92302,6 +92470,7 @@ subatomicstudios
 subdued
 subdued games
 subduedgames
+sublime element
 sublogic
 submersed 2 - the hive
 submersible
@@ -92648,6 +92817,7 @@ sweet berries
 sweet delivery
 sweet dungeon
 sweet girls collection
+sweet restaurant
 sweet rock paper scissors
 sweet run
 sweet theme park
@@ -93483,6 +93653,7 @@ the donut gallery
 the drawstring dungeon
 the dream
 the dream machine
+the drifter
 the echo paradox
 the edge
 the elder scrolls
@@ -93610,6 +93781,7 @@ the monster breeder
 the mosquito gang
 the mountain and the moron
 the mr. rabbit magic show
+the naughty vampire and the moaning forest
 the need for speed
 the new flesh
 the night jackals vol. 1
@@ -93683,6 +93855,7 @@ the vision factory
 the voxel
 the voxel agents
 the walking dead
+the wandering village
 the warp
 the warp factory
 the way of the exploding fist
@@ -94929,6 +95102,7 @@ tweeter
 twelve
 twelve interactive
 twelveinteractive
+twelves:shadow
 twilight
 twilight tails
 twin
@@ -96258,6 +96432,7 @@ whitemoon
 whitemoon dreams
 whitemoondreams
 whiting
+who's at the door?
 whomp
 whomper
 whoopee
@@ -96400,6 +96575,7 @@ wirtthepegleg
 wisdom
 wisdom tree
 wisdomtree
+wise in the heights
 wish
 wisp
 wisp gunner
@@ -96705,6 +96881,7 @@ xxvii
 xylos
 xyrality
 xzar
+y2roll soundtrack
 y\'sk
 y\sk
 yaban
