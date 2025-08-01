@@ -900,6 +900,7 @@
 ????-???.??.??.??
 ????-????
 ????-edge- Demo
+????.????
 ????/LoseGraceTale
 ????:??
 ????:????
@@ -965,6 +966,8 @@ A GAME ABOUT BUILDING A TOWER
 A GAME ABOUT MINING ROCKS
 A Game About Building A Tower
 A Game About Mining Rocks
+A HUNDRED YEARS OF LOVE AND DEATH
+A Hundred Years of Love and Death
 A JOURNEY THROUGH SHADOW, TO REACH THE LIGHT.
 A LINK TO PAST
 A LINK TO THE PAST
@@ -1406,6 +1409,7 @@ AFishyRPG
 AG
 AGAHNIM
 AGAIN!? THE SHERIFF’S KINKY JUSTICE
+AGAINST THE STORM - NIGHTWATCHERS
 AGAINST TWILIGHT
 AGATSUMA
 AGATSUMA ENTERTAINMENT
@@ -1459,6 +1463,7 @@ AGONY
 AGameAboutBuildingATower
 AGameAboutMiningRocks
 AHRENS
+AHundredYearsofLoveandDeath
 AI
 AI FACTORY
 AI Factory
@@ -2024,6 +2029,7 @@ ANIMATIONMAGICINC
 ANIMATIONS
 ANIMAUX
 ANIME DREAM MATCH: PRIMATES
+ANIME SCARY TEACHER 3D
 ANIROG
 ANJU
 ANKAMA
@@ -2066,6 +2072,7 @@ ANOR WORLD
 ANORWORLD
 ANOTHER
 ANOTHER BLUE
+ANOTHER FARM ROGUELIKE: REBIRTH
 ANOTHER WAY
 ANOTHER WAY 2PLAY
 ANOTHER WORLD
@@ -2747,6 +2754,7 @@ ATOMIC
 ATOMIC ELBOW
 ATOMIC GAMES
 ATOMIC HEART
+ATOMIC OWL
 ATOMIC PLANET
 ATOMIC PLANET ENTERTAINMENT
 ATOMICELBOW
@@ -3292,7 +3300,10 @@ Again!? The Sheriff's Kinky Justice
 Again!? The Sheriff’s Kinky Justice
 Again!?TheSheriff’sKinkyJustice
 Against Twilight
+Against the Storm   Nightwatchers
+Against the Storm - Nightwatchers
 AgainstTwilight
+AgainsttheStorm-Nightwatchers
 Agatsuma
 Agatsuma Entertainment
 AgatsumaEntertainment
@@ -3879,7 +3890,9 @@ AnimationMagicInc
 Animations
 Animaux
 Anime Dream Match: Primates
+Anime Scary Teacher 3D
 AnimeDreamMatch:Primates
+AnimeScaryTeacher3D
 Anirog
 Anju
 Ankama
@@ -3925,12 +3938,14 @@ Anomen Delryn
 AnomenDelryn
 Another
 Another Blue
+Another Farm Roguelike: Rebirth
 Another Way
 Another Way 2Play
 Another World
 Another World Series  Slit Mouth Woman VS AOONI 
 Another World Series -Slit Mouth Woman VS AOONI-
 AnotherBlue
+AnotherFarmRoguelike:Rebirth
 AnotherWay
 AnotherWay2Play
 AnotherWorld
@@ -4581,11 +4596,13 @@ Atomic
 Atomic Elbow
 Atomic Games
 Atomic Heart
+Atomic Owl
 Atomic Planet
 Atomic Planet Entertainment
 AtomicElbow
 AtomicGames
 AtomicHeart
+AtomicOwl
 AtomicPlanet
 AtomicPlanetEntertainment
 Atreid
@@ -5274,6 +5291,7 @@ BATTLEARENATOSHINDEN
 BATTLEBORNE
 BATTLECIRCUIT
 BATTLEFIELD
+BATTLEFIELD™ 6
 BATTLEFRONT
 BATTLEGOAT
 BATTLEGOAT STUDIOS
@@ -7324,6 +7342,9 @@ BattleSquadron
 BattleTrain
 Battleborne
 Battlefield
+Battlefield(TM) 6
+Battlefield™ 6
+Battlefield™6
 Battlefront
 Battleground
 Battler
@@ -9417,6 +9438,7 @@ CAT
 CAT CRAZY
 CAT DADDY
 CAT DADDY GAMES
+CAT HOSTEL 开一间猫咪民宿吧！
 CAT SPAWN
 CAT SPAWN EGG
 CAT'S SHOWDOWN
@@ -9800,6 +9822,7 @@ CHEFSHITAKE
 CHEFSHITAKECHEFSHITAKE
 CHELSEA
 CHELTENHAM
+CHEMICAL PLANT WORKER SIMULATOR
 CHEMISTRY
 CHEN
 CHEN LIN
@@ -10154,6 +10177,7 @@ CLAIRE
 CLAIRE REDFIELD
 CLAIREREDFIELD
 CLAN
+CLAN DURAMONT
 CLAN NOCTURNUS
 CLANCY'S
 CLANCYS
@@ -10604,6 +10628,7 @@ CONWAY
 COO
 COO COO
 COOCOO
+COOK SERVE FOREVER
 COOKED
 COOKED CHICKEN
 COOKED COD
@@ -10655,6 +10680,7 @@ COPPER
 COPPER INGOT
 COPPERINGOT
 COPPER_INGOT
+COPY: TWO MAN TOO MANY
 COPYA
 COPYA SYSTEMS
 COPYASYSTEMS
@@ -10674,6 +10700,7 @@ CORDEON
 CORE
 CORE DESIGN
 CORE DESIGN LTD
+CORE OF MAGIC
 COREDESIGN
 COREDESIGNLTD
 CORELAND
@@ -11121,6 +11148,7 @@ CRYSTAL CASTLES
 CRYSTAL CAVERNS
 CRYSTAL COMPUTER
 CRYSTAL DYNAMICS
+CRYSTAL KEEPER
 CRYSTALCASTLES
 CRYSTALCOMPUTER
 CRYSTALDYNAMICS
@@ -11267,6 +11295,7 @@ CYBERLORE
 CYBERLORE STUDIOS
 CYBERLORESTUDIOS
 CYBERNETIC FAULT
+CYBERPONG AI
 CYBERPUNK
 CYBERPUNK 2077
 CYBERPUNK 2077: PHANTOM LIBERTY
@@ -11721,6 +11750,8 @@ Cat
 Cat Crazy
 Cat Daddy
 Cat Daddy Games
+Cat Hostel ????????!
+Cat Hostel 开一间猫咪民宿吧！
 Cat Spawn
 Cat Spawn Egg
 Cat s Showdown
@@ -11729,6 +11760,7 @@ Cat'sShowdown
 CatCrazy
 CatDaddy
 CatDaddyGames
+CatHostel开一间猫咪民宿吧！
 CatSpawn
 CatSpawnEgg
 Cataboum
@@ -12034,6 +12066,8 @@ ChefShitake
 ChefShitakeChefShitake
 Chelsea
 Cheltenham
+Chemical Plant Worker Simulator
+ChemicalPlantWorkerSimulator
 Chemistry
 Chen
 Chen Lin
@@ -12387,7 +12421,9 @@ Claire
 Claire Redfield
 ClaireRedfield
 Clan
+Clan Duramont
 Clan Nocturnus
+ClanDuramont
 ClanNocturnus
 Clancy's
 Clancys
@@ -12830,6 +12866,8 @@ Conway
 Coo
 Coo Coo
 CooCoo
+Cook Serve Forever
+CookServeForever
 Cooked
 Cooked Chicken
 Cooked Cod
@@ -12883,6 +12921,8 @@ CoplinSoftware
 Copper
 Copper Ingot
 CopperIngot
+Copy: Two Man Too Many
+Copy:TwoManTooMany
 Copya
 Copya Systems
 CopyaSystems
@@ -12904,8 +12944,10 @@ Cordéon
 Core
 Core Design
 Core Design Ltd
+Core Of Magic
 CoreDesign
 CoreDesignLtd
+CoreOfMagic
 Coreland
 Coreless
 Coreplay
@@ -13366,10 +13408,12 @@ Crystal Castles
 Crystal Caverns
 Crystal Computer
 Crystal Dynamics
+Crystal Keeper
 CrystalCastles
 CrystalCaverns
 CrystalComputer
 CrystalDynamics
+CrystalKeeper
 Crystalis
 Crystals
 Crytek
@@ -13507,6 +13551,8 @@ CyberDungeonXMonsterGirls
 CyberFarmerDemo
 CyberFront
 CyberKnights:Flashpoint
+CyberPong AI
+CyberPongAI
 CyberSoulX
 CyberSub-Zero
 CyberSubZero
@@ -13864,6 +13910,7 @@ DARKOBREVIC
 DARKOBREVIĆ
 DARKPIT
 DARKPROJECT
+DARKROOM
 DARKSAMUS
 DARKSEID
 DARKSOLDIER
@@ -14043,6 +14090,7 @@ DEAD BY DAYLIGHT
 DEAD BY DAYLIGHT: FIVE NIGHTS AT FREDDY’S
 DEAD BY DAYLIGHT: FIVE NIGHTS AT FREDDY’S EDITION
 DEAD BY DAYLIGHT: THE WALKING DEAD
+DEAD CAT BOUNCE
 DEAD CELLS
 DEAD ISLAND
 DEAD OR
@@ -14116,6 +14164,9 @@ DECKARD CAIN
 DECKARDCAIN
 DECKLINE
 DECO
+DECON PROTOCOL
+DECON Protocol
+DECONProtocol
 DECOPHAGE
 DECORATIFS
 DECRYPTO PROJECT DEMO
@@ -15263,6 +15314,7 @@ DROP ADVENTURE - مغامرة قطرة
 DROP DROP
 DROP DUCHY
 DROPDROP
+DROPPY BALL
 DROPZONE
 DROTTOORT-MEYER
 DROTTOORTMEYER
@@ -15669,6 +15721,7 @@ Darko Brevic
 Darko Brević
 DarkoBrevic
 DarkoBrević
+Darkroom
 Darkseid
 Darkstalkers
 Darkwing
@@ -15818,6 +15871,7 @@ DeSean
 DeVir
 DeWitt
 Dead
+Dead Cat Bounce
 Dead Cells
 Dead Island
 Dead Or Alive 2
@@ -15835,6 +15889,7 @@ Dead or Alive
 Dead or Alive 2
 Dead to
 Dead to Rights
+DeadCatBounce
 DeadCells
 DeadIsland
 DeadOrAlive2
@@ -17104,6 +17159,8 @@ Drop Duchy
 DropAdventure-مغامرةقطرة
 DropDrop
 DropDuchy
+Droppy Ball
+DroppyBall
 Dropzone
 Drowned
 Drowned Spawn
@@ -18186,10 +18243,12 @@ ESCALATION
 ESCALATION STUDIOS
 ESCALATIONSTUDIOS
 ESCAPE
+ESCAPE EVERLIT
 ESCAPE FROM BUTCHER BAY
 ESCAPE FROM CHANCELLOR'S CHAMBERS
 ESCAPE FROM TIMOKHA 2: ARMY
 ESCAPE FROM TUNG TUNG SAHUR
+ESCAPE HOUSE
 ESCAPE OF THE SCHOOL
 ESCAPE PROTOCOL: HOSPITAL
 ESCAPE THE MONSTALKERS!
@@ -19202,7 +19261,9 @@ Escalation
 Escalation Studios
 EscalationStudios
 Escape
+Escape Everlit
 Escape From Tung Tung Sahur
+Escape House
 Escape Protocol: Hospital
 Escape The MonStalkers!
 Escape Z
@@ -19212,7 +19273,9 @@ Escape from Chancellor's Chambers
 Escape of the school
 Escape to the Italian brainrot
 Escape30DayCircle
+EscapeEverlit
 EscapeFromTungTungSahur
+EscapeHouse
 EscapeProtocol:Hospital
 EscapeTheMonStalkers!
 EscapeZ
@@ -20264,6 +20327,7 @@ FOOD
 FOOD FIGHT
 FOOD TRUCK MONOPOLY
 FOODFIGHT
+FOOS
 FOOT
 FOOTBALL
 FOOTBALL MANAGER
@@ -20570,6 +20634,7 @@ FRONTSTREET
 FRONTSTREETPUBLISHING
 FROST
 FROSTBITE FRENZY
+FROSTHAVEN
 FROSTPUNK 2
 FROZEN
 FROZEN CODEBASE
@@ -21849,6 +21914,7 @@ FrontlineStudios
 Frost
 Frostbite Frenzy
 FrostbiteFrenzy
+Frosthaven
 Frostpunk 2
 Frostpunk2
 Frozen
@@ -22150,6 +22216,7 @@ GALANETWORKS
 GALANETWORKSEUROPE
 GALAXIAN
 GALAXY
+GALAXY DEFENDERS (CLASSIC TD)
 GALAXY ENGINE
 GALAXY HIGHWAYS
 GALAXY ON
@@ -22563,6 +22630,7 @@ GESTAHL
 GESTION
 GET
 GET 0UT
+GET IN TIMELESSNESS
 GET SET
 GET SET GAMES
 GET'TRUMP`ED TRIVIA
@@ -22770,6 +22838,7 @@ GLOUSSEUSEGLOUSSEUSE
 GLOVER
 GLOW
 GLOW BERRIES
+GLOW CUBES
 GLOW INK
 GLOW INK SAC
 GLOW ITEM
@@ -23632,10 +23701,13 @@ Galaga88
 Galaga90
 Galaxian
 Galaxy
+Galaxy Defenders  Classic TD 
+Galaxy Defenders (Classic TD)
 Galaxy Engine
 Galaxy Highways
 Galaxy on
 Galaxy on Fire
+GalaxyDefenders(ClassicTD)
 GalaxyEngine
 GalaxyHighways
 Galaxyon
@@ -24051,11 +24123,13 @@ Gertrude
 Gestahl
 Gestion
 Get
+Get In Timelessness
 Get Set
 Get Set Games
 Get TRUMP`ed Trivia
 Get'TRUMP`ed Trivia
 Get'TRUMP`edTrivia
+GetInTimelessness
 GetSet
 GetSetGames
 Getaway
@@ -24248,6 +24322,7 @@ GlousseuseGlousseuse
 Glover
 Glow
 Glow Berries
+Glow Cubes
 Glow Ink
 Glow Ink Sac
 Glow Item
@@ -24256,6 +24331,7 @@ Glow Squid
 Glow Squid Spawn
 Glow Squid Spawn Egg
 GlowBerries
+GlowCubes
 GlowInk
 GlowInkSac
 GlowItem
@@ -25476,6 +25552,7 @@ HENTAI CLICKER: ALERINNA IS STREAMING
 HENTAI CLICKER: CATHY IS STREAMING
 HENTAI FURRY BUNNY
 HENTAI FURRY FOXY
+HENTAI FURRY PONY
 HENTAI GIRLS: LUST [18+]
 HENTAI LADYBOY REN
 HENTAI MAGIC
@@ -25892,6 +25969,7 @@ HOSEKNOFUSA
 HOSEKNof
 HOSEKNofUSA
 HOT AND LOVELY : SEDUCTION WAIFU
+HOT LAVA
 HOT SHOT MONKEY
 HOT-B
 HOT-B USA
@@ -26539,6 +26617,7 @@ Hentai Clicker: Alerinna is streaming
 Hentai Clicker: Cathy is streaming
 Hentai Furry Bunny
 Hentai Furry Foxy
+Hentai Furry Pony
 Hentai Girls: Lust [18+]
 Hentai Ladyboy Ren
 Hentai Magic
@@ -26563,6 +26642,7 @@ HentaiClicker:Alerinnaisstreaming
 HentaiClicker:Cathyisstreaming
 HentaiFurryBunny
 HentaiFurryFoxy
+HentaiFurryPony
 HentaiGirls:Lust[18+]
 HentaiLadyboyRen
 HentaiMagic
@@ -27009,6 +27089,7 @@ HorsePlinko
 HorseSpawn
 HorseSpawnEgg
 Hose
+Hot Lava
 Hot Shot Monkey
 Hot and Lovely : Seduction waifu
 Hot-B
@@ -27017,6 +27098,7 @@ Hot-BUSA
 HotB
 HotB USA
 HotBUSA
+HotLava
 HotShotMonkey
 HotandLovely:Seductionwaifu
 Hotaru
@@ -33053,6 +33135,7 @@ LIMELIGHT SOFTWARE
 LIMELIGHTSOFTWARE
 LIMINAL SHIFT
 LIMINALSHIFT
+LIMIT BREAK
 LIMITED
 LIMPITOYABLE
 LIMSCAPE : THE LIMINAL SPACE EXPLORER
@@ -34496,6 +34579,8 @@ LimeDye
 Limelight
 Limelight Software
 LimelightSoftware
+Limit Break
+LimitBreak
 Limited
 Lin
 Line
@@ -35988,6 +36073,7 @@ MEDSYSTEMS
 MEDSYSTEMSSOFTWARE
 MEDUSA
 MEDUSELECTRIQUE
+MEER'S: ESCAPE
 MEGA
 MEGA AMP V1
 MEGA AMP V2
@@ -38429,6 +38515,9 @@ Medl Mobile
 MedlMobile
 Medolie
 Meduselectrique
+Meer s: Escape
+Meer's: Escape
+Meer's:Escape
 Mega
 Mega AMP v1
 Mega AMP v2
@@ -40696,6 +40785,8 @@ NINEPOUND
 NINEPOUNDSTUDIOS
 NINJA
 NINJA GAIDEN
+NINJA GAIDEN: RAGEBOUND
+NINJA GAIDEN: Ragebound
 NINJA GOLF
 NINJA JAJAMARU-KUN
 NINJA JAJAMARUKUN
@@ -40706,6 +40797,7 @@ NINJA SPIRIT
 NINJA THEORY
 NINJABEE
 NINJAGAIDEN
+NINJAGAIDEN:Ragebound
 NINJAGOLF
 NINJAJAJAMARU-KUN
 NINJAJAJAMARUKUN
@@ -43754,6 +43846,7 @@ PAINTINGBYNUMBERS.LTD
 PAINTINGBYNUMBERSLTD
 PAINTROLLER
 PAINTROLLERPAINTROLLER
+PAIR A DICE
 PAIR MASTER
 PAISANO
 PAISANO PRODUCTIONS
@@ -44056,6 +44149,7 @@ PATAVERT
 PATCH
 PATCH OF HEAVEN
 PATH
+PATH OF GEAR: BLACKSMITH'S LEGEND DEMO
 PATH OF THE ABYSS
 PATHLESS MAZE TD
 PATHS OF THE VISIONARIES
@@ -44409,6 +44503,7 @@ PHANTO
 PHANTOM
 PHANTOM COMPASS
 PHANTOM MEMBRANE
+PHANTOM NECRO
 PHANTOM SPAWN
 PHANTOM SPAWN EGG
 PHANTOMCOMPASS
@@ -44996,6 +45091,7 @@ POLAR SHIFT
 POLARBEAR
 POLARBEARSPAWN
 POLARBEARSPAWNEGG
+POLARIBALL
 POLARIS
 POLARWARE
 POLE
@@ -45275,6 +45371,7 @@ PRESTONEDOWNS
 PRESTOSTUDIOS
 PRETTY PECULIAR LOVERS
 PRETTY SWEET! HEALING GUARDIAN
+PRICE OF A LIFE
 PRIMA MATERIA XXV
 PRIMAL PLANET
 PRIMAL PLANET SOUNDTRACK
@@ -45792,7 +45889,9 @@ Painting by NumbersLtd
 Paintingby
 PaintingbyNumbers.Ltd
 PaintingbyNumbersLtd
+Pair A Dice
 Pair Master
+PairADice
 PairMaster
 Paisano
 Paisano Productions
@@ -46099,10 +46198,13 @@ Patch
 Patch of Heaven
 PatchofHeaven
 Path
+Path of Gear: Blacksmith s Legend Demo
+Path of Gear: Blacksmith's Legend Demo
 Path of the Abyss
 PathSketch
 Pathless Maze TD
 PathlessMazeTD
+PathofGear:Blacksmith'sLegendDemo
 PathoftheAbyss
 Paths of the Visionaries
 PathsoftheVisionaries
@@ -46346,10 +46448,12 @@ Phanto
 Phantom
 Phantom Compass
 Phantom Membrane
+Phantom Necro
 Phantom Spawn
 Phantom Spawn Egg
 PhantomCompass
 PhantomMembrane
+PhantomNecro
 PhantomSpawn
 PhantomSpawnEgg
 Pharah
@@ -46951,6 +47055,7 @@ PolarBear
 PolarBearSpawn
 PolarBearSpawnEgg
 PolarShift
+Polariball
 Polaris
 Polarware
 Pole
@@ -47240,6 +47345,8 @@ Pretty Peculiar Lovers
 Pretty Sweet! Healing Guardian
 PrettyPeculiarLovers
 PrettySweet!HealingGuardian
+Price of a life
+Priceofalife
 Prima Materia XXV
 PrimaMateriaXXV
 Primal Planet
@@ -47988,6 +48095,9 @@ R.C.PRO-AM
 R.C.PROAM
 R.C.Pro-Am
 R.C.ProAm
+R.E.M. RAGE
+R.E.M. Rage
+R.E.M.Rage
 R.E.P.O.
 R.O.B
 R2
@@ -51894,6 +52004,7 @@ SIEURLAHACHE
 SIEURLALANCE
 SIEURLAMASSE
 SIEURTRIDENT
+SIFU
 SIGFRIED
 SIGFRIED SIGFRIED
 SIGFRIEDSIGFRIED
@@ -53117,6 +53228,7 @@ STAR WARS: KNIGHTS OF THE OLD REPUBLIC
 STAR WARS: TIE FIGHTER
 STAR WARS™ BATTLEFRONT™ II
 STAR WARS™ Battlefront™ II
+STAR'S PEACES: MEMORIAL EDITION
 STARARC ECHO
 STARBAG
 STARBREEZE
@@ -53288,6 +53400,7 @@ STEVEFOX
 STEVEHAINES
 STEVEHOFFMAN
 STEVEKROPINAK
+STEVENTON STREET: DELUXE EDITION
 STEVIE
 STEW
 STEWART
@@ -53532,6 +53645,7 @@ SUCREES
 SUDDEN
 SUDDEN STRIKE
 SUDDENSTRIKE
+SUDOKU ACRES
 SUGAR
 SUGAR CANE
 SUGARCANE
@@ -53857,6 +53971,7 @@ SWEEPIN' XS
 SWEET
 SWEET AGE
 SWEET BERRIES
+SWEET CHEONGSAM
 SWEET DELIVERY
 SWEET DRIVER
 SWEET DUNGEON
@@ -55075,6 +55190,7 @@ SieurLahache
 SieurLalance
 SieurLamasse
 SieurTrident
+Sifu
 Sigfried
 Sigfried Sigfried
 SigfriedSigfried
@@ -56289,6 +56405,9 @@ Star Wars Outlaws
 Star Wars Rogue Squadron
 Star Wars Rogue Squadron 2
 Star Wars Trilogy
+Star s Peaces: Memorial Edition
+Star's Peaces: Memorial Edition
+Star'sPeaces:MemorialEdition
 StarArc Echo
 StarArcEcho
 StarClickerOdyssey
@@ -56456,6 +56575,8 @@ SteveFox
 SteveHaines
 SteveHoffman
 SteveKropinak
+Steventon Street: Deluxe Edition
+SteventonStreet:DeluxeEdition
 Stevie
 Stew
 Stewart
@@ -56723,6 +56844,8 @@ Sucre
 Sudden
 Sudden Strike
 SuddenStrike
+Sudoku Acres
+SudokuAcres
 Sugar
 Sugar Cane
 SugarCane
@@ -57054,6 +57177,7 @@ Sweepin'XS
 Sweet
 Sweet Age
 Sweet Berries
+Sweet Cheongsam
 Sweet Delivery
 Sweet Driver
 Sweet Dungeon
@@ -57065,6 +57189,7 @@ Sweet Theme Park
 Sweet Train
 SweetAge
 SweetBerries
+SweetCheongsam
 SweetDelivery
 SweetDriver
 SweetDungeon
@@ -57387,6 +57512,7 @@ TANK
 TANK CATABOUM
 TANKAZOOKA
 TANKCATABOUM
+TANKS!
 TANNHAUSER
 TANNHAUSER GATE
 TANNHAUSERGATE
@@ -59450,6 +59576,7 @@ TWILIGHT
 TWILIGHT SYNDICATE
 TWILIGHT TAILS
 TWIN
+TWIN TRIALS
 TWINBEE
 TWINDIGO
 TWINKLE
@@ -59678,6 +59805,7 @@ Tank
 Tank Cataboum
 TankCataboum
 Tankazooka
+Tanks!
 Tannhauser
 Tannhauser Gate
 TannhauserGate
@@ -61747,7 +61875,9 @@ Twilight Tails
 TwilightSyndicate
 TwilightTails
 Twin
+Twin Trials
 TwinBee
+TwinTrials
 Twinbee
 Twindigo
 Twinkle
@@ -64141,6 +64271,7 @@ WIREDDEVELOPMENTSPTY
 WIREDDEVELOPMENTSPTYLTD
 WIREDPRODUCTIONS
 WIRELESS
+WIRES AND WHISKERS
 WIRT
 WIRT 
 WIRT THE PEG-LEG
@@ -64295,6 +64426,7 @@ WORLD OF WARCRAFT
 WORLD RALLY
 WORLD RALLY CHAMPIONSHIP
 WORLD WAR II ARMORED RECON
+WORLD WONDERS: HIDDEN HISTORIES
 WORLDHEROES
 WORLDOF
 WORLDOFILLUSION
@@ -64949,6 +65081,8 @@ WiredDevelopmentsPty
 WiredDevelopmentsPtyLtd
 WiredProductions
 Wireless
+Wires And Whiskers
+WiresAndWhiskers
 Wirt
 Wirt 
 Wirt The Peg-Leg
@@ -65112,6 +65246,7 @@ World Heroes
 World Rally
 World Rally Championship
 World War II Armored Recon
+World Wonders: Hidden Histories
 World of
 World of Illusion
 World of Subways
@@ -65120,6 +65255,7 @@ WorldRally
 WorldRallyChampionship
 WorldShadow
 WorldWarIIArmoredRecon
+WorldWonders:HiddenHistories
 Worldof
 WorldofIllusion
 WorldofSubways
@@ -66474,6 +66610,7 @@ a eddy goldfarb and associates
 a fishy rpg
 a game about building a tower
 a game about mining rocks
+a hundred years of love and death
 a journey through shadow, to reach the light.
 a link to past
 a link to the past
@@ -66851,6 +66988,7 @@ aftershockinnovations
 ag
 agahnim
 again!? the sheriff’s kinky justice
+against the storm - nightwatchers
 against twilight
 agatsuma
 agatsuma entertainment
@@ -67456,6 +67594,7 @@ animationmagicinc
 animations
 animaux
 anime dream match: primates
+anime scary teacher 3d
 anirog
 anju
 ankama
@@ -67499,6 +67638,7 @@ anor world
 anorworld
 another
 another blue
+another farm roguelike: rebirth
 another way
 another way 2play
 another world
@@ -68157,6 +68297,7 @@ atomic
 atomic elbow
 atomic games
 atomic heart
+atomic owl
 atomic planet
 atomic planet entertainment
 atomicelbow
@@ -68846,6 +68987,7 @@ battlearenatoshinden
 battleborne
 battlecircuit
 battlefield
+battlefield™ 6
 battlefront
 battlegoat
 battlegoat studios
@@ -70884,6 +71026,7 @@ cat
 cat crazy
 cat daddy
 cat daddy games
+cat hostel 开一间猫咪民宿吧！
 cat spawn
 cat spawn egg
 cat's showdown
@@ -71229,6 +71372,7 @@ chefshitake
 chefshitakechefshitake
 chelsea
 cheltenham
+chemical plant worker simulator
 chemistry
 chen
 chen lin
@@ -71581,6 +71725,7 @@ claire
 claire redfield
 claireredfield
 clan
+clan duramont
 clan nocturnus
 clancy's
 clancys
@@ -72029,6 +72174,7 @@ conway
 coo
 coo coo
 coocoo
+cook serve forever
 cooked
 cooked chicken
 cooked cod
@@ -72080,6 +72226,7 @@ copper
 copper ingot
 copper_ingot
 copperingot
+copy: two man too many
 copya
 copya systems
 copyasystems
@@ -72100,6 +72247,7 @@ cordéon
 core
 core design
 core design ltd
+core of magic
 coredesign
 coredesignltd
 coreland
@@ -72548,6 +72696,7 @@ crystal castles
 crystal caverns
 crystal computer
 crystal dynamics
+crystal keeper
 crystalcastles
 crystalcomputer
 crystaldynamics
@@ -72695,6 +72844,7 @@ cyberlore
 cyberlore studios
 cyberlorestudios
 cybernetic fault
+cyberpong ai
 cyberpunk
 cyberpunk 2077
 cyberpunk 2077: phantom liberty
@@ -73029,6 +73179,7 @@ darkobrevic
 darkobrević
 darkpit
 darkproject
+darkroom
 darksamus
 darkseid
 darksoldier
@@ -73198,6 +73349,7 @@ dead by daylight
 dead by daylight: five nights at freddy’s
 dead by daylight: five nights at freddy’s edition
 dead by daylight: the walking dead
+dead cat bounce
 dead cells
 dead island
 dead or
@@ -73269,6 +73421,7 @@ deckard cain
 deckardcain
 deckline
 deco
+decon protocol
 decophage
 decoratifs
 decrypto project demo
@@ -74401,6 +74554,7 @@ drop adventure - مغامرة قطرة
 drop drop
 drop duchy
 dropdrop
+droppy ball
 dropzone
 drottoort-meyer
 drottoortmeyer
@@ -75460,10 +75614,12 @@ escalation
 escalation studios
 escalationstudios
 escape
+escape everlit
 escape from butcher bay
 escape from chancellor's chambers
 escape from timokha 2: army
 escape from tung tung sahur
+escape house
 escape of the school
 escape protocol: hospital
 escape the monstalkers!
@@ -76482,6 +76638,7 @@ food
 food fight
 food truck monopoly
 foodfight
+foos
 foot
 football
 football manager
@@ -76788,6 +76945,7 @@ frontstreet
 frontstreetpublishing
 frost
 frostbite frenzy
+frosthaven
 frostpunk 2
 frozen
 frozen codebase
@@ -77084,6 +77242,7 @@ galanetworks
 galanetworkseurope
 galaxian
 galaxy
+galaxy defenders (classic td)
 galaxy engine
 galaxy highways
 galaxy on
@@ -77497,6 +77656,7 @@ gestahl
 gestion
 get
 get 0ut
+get in timelessness
 get set
 get set games
 get'trump`ed trivia
@@ -77698,6 +77858,7 @@ glousseuseglousseuse
 glover
 glow
 glow berries
+glow cubes
 glow ink
 glow ink sac
 glow item
@@ -78982,6 +79143,7 @@ hentai clicker: alerinna is streaming
 hentai clicker: cathy is streaming
 hentai furry bunny
 hentai furry foxy
+hentai furry pony
 hentai girls: lust [18+]
 hentai ladyboy ren
 hentai magic
@@ -79397,6 +79559,7 @@ hosekn of usa
 hoseknof
 hoseknofusa
 hot and lovely : seduction waifu
+hot lava
 hot shot monkey
 hot-b
 hot-b usa
@@ -83062,6 +83225,7 @@ limelight
 limelight software
 limelightsoftware
 liminal shift
+limit break
 limited
 limpitoyable
 limscape : the liminal space explorer
@@ -84531,6 +84695,7 @@ medsystems
 medsystemssoftware
 medusa
 meduselectrique
+meer's: escape
 mega
 mega amp v1
 mega amp v2
@@ -86694,6 +86859,7 @@ ninepound
 ninepoundstudios
 ninja
 ninja gaiden
+ninja gaiden: ragebound
 ninja golf
 ninja jajamaru-kun
 ninja jajamarukun
@@ -88019,6 +88185,7 @@ paintingbynumbers.ltd
 paintingbynumbersltd
 paintroller
 paintrollerpaintroller
+pair a dice
 pair master
 paisano
 paisano productions
@@ -88326,6 +88493,7 @@ patavert
 patch
 patch of heaven
 path
+path of gear: blacksmith's legend demo
 path of the abyss
 pathless maze td
 paths of the visionaries
@@ -88630,6 +88798,7 @@ phanto
 phantom
 phantom compass
 phantom membrane
+phantom necro
 phantom spawn
 phantom spawn egg
 phantom_membrane
@@ -89237,6 +89406,7 @@ polar shift
 polarbear
 polarbearspawn
 polarbearspawnegg
+polariball
 polaris
 polarware
 pole
@@ -89521,6 +89691,7 @@ prestonedowns
 prestostudios
 pretty peculiar lovers
 pretty sweet! healing guardian
+price of a life
 prima materia xxv
 primal planet
 primal planet soundtrack
@@ -90129,6 +90300,7 @@ r.c. pro-am
 r.c. proam
 r.c.pro-am
 r.c.proam
+r.e.m. rage
 r.e.p.o.
 r.o.b
 r2
@@ -92565,6 +92737,7 @@ sieurlahache
 sieurlalance
 sieurlamasse
 sieurtrident
+sifu
 sigfried
 sigfried sigfried
 sigfriedsigfried
@@ -93757,6 +93930,7 @@ star wars: knights of old republic
 star wars: knights of the old republic
 star wars: tie fighter
 star wars™ battlefront™ ii
+star's peaces: memorial edition
 stararc echo
 starbag
 starbreeze
@@ -93921,6 +94095,7 @@ stevefox
 stevehaines
 stevehoffman
 stevekropinak
+steventon street: deluxe edition
 stevie
 stew
 stewart
@@ -94165,6 +94340,7 @@ sucrées
 sudden
 sudden strike
 suddenstrike
+sudoku acres
 sugar
 sugar cane
 sugarcane
@@ -94487,6 +94663,7 @@ sweepin' xs
 sweet
 sweet age
 sweet berries
+sweet cheongsam
 sweet delivery
 sweet driver
 sweet dungeon
@@ -94793,6 +94970,7 @@ tank
 tank cataboum
 tankazooka
 tankcataboum
+tanks!
 tannhauser
 tannhauser gate
 tannhausergate
@@ -96816,6 +96994,7 @@ twilight
 twilight syndicate
 twilight tails
 twin
+twin trials
 twinbee
 twindigo
 twinkle
@@ -98306,6 +98485,7 @@ wireddevelopmentspty
 wireddevelopmentsptyltd
 wiredproductions
 wireless
+wires and whiskers
 wirt
 wirt 
 wirt the peg-leg
@@ -98458,6 +98638,7 @@ world of warcraft
 world rally
 world rally championship
 world war ii armored recon
+world wonders: hidden histories
 worldheroes
 worldof
 worldofillusion
@@ -99391,6 +99572,7 @@ zèbre
 漫游后室 roaming backrooms
 漫游后室RoamingBackrooms
 火起雪中寺
+烈焰屠龙·神兵觉醒
 狂野网 WILD WEB
 狂野网 Wild Web
 狂野网 wild web
