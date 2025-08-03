@@ -861,6 +861,7 @@ AB INBEV KOERS
 AB InBev koers
 ABANDON DE POSTE
 ABANDONED
+ABATTEMENT FISCAL RETRAITES
 ABATTEMENT FISCAL RETRAITÉS
 ABAYA
 ABB
@@ -1502,6 +1503,7 @@ AJAX  WILLEM II
 AJAX - FEYENOORD
 AJAX - GA EAGLES
 AJAX - HIBERNIAN
+AJAX - MONACO
 AJAX - PAOK
 AJAX - SPARTA ROTTERDAM
 AJAX - TWENTE
@@ -1510,6 +1512,7 @@ AJAX GEGEN UNION BERLIN
 AJAX – GO AHEAD EAGLES
 AJAX – LIVERPOOL
 AJAX – MARSEILLE
+AJAX – MONACO
 AJAX – NAPLES
 AJAX – RANGERS
 AJAX – UNION SAINT-GILLOISE
@@ -8803,6 +8806,7 @@ BENJAMIN MILLEPIED
 BENJAMIN NETANJAHU
 BENJAMIN NETANYAHU
 BENJAMIN PAVARD
+BENJAMIN SESKO
 BENJAMIN STORA
 BENJAMIN THOMAS
 BENJAMIN VEDRINES
@@ -13881,6 +13885,7 @@ CANAL +
 CANAL DE CORINTHE
 CANAL DE PANAMA
 CANAL DU MIDI
+CANAL+
 CANAL9
 CANARISCHE EILANDEN
 CANCALE
@@ -14301,8 +14306,10 @@ CERCLE  STANDARD
 CERCLE  STVV
 CERCLE  UNION
 CERCLE  ZULTE-WAREGEM
+CERCLE - ANDERLECHT
 CERCLE - CLUB BRUGGE
 CERCLE - KORTRIJK
+CERCLE BRUGES - ANDERLECHT
 CERCLE BRUGES – ANDERLECHT
 CERCLE BRUGES – ANTWERP
 CERCLE BRUGES – STANDARD
@@ -24192,6 +24199,7 @@ ERDBEBEN MEXIKO-STADT
 ERDBEBEN NEAPEL
 ERDBEBEN NEPAL
 ERDBEBEN NEUSEELAND
+ERDBEBEN NEW YORK
 ERDBEBEN PERU
 ERDBEBEN PHILIPPINEN TSUNAMI
 ERDBEBEN PORTUGAL
@@ -26852,6 +26860,7 @@ F1 FRANCE
 F1 France
 F1 GP JAPON
 F1 GP Japon
+F1 HEUTE
 F1 IMOLA
 F1 IMOLA 2022
 F1 Imola
@@ -27261,10 +27270,12 @@ FC St. Gallen
 FC St.Gallen
 FC St.Gallen 1879
 FC THUN
+FC THUN - LAUSANNE-SPORT
 FC THUN GEGEN FC AARAU
 FC THUN GEGEN LUZERN
 FC THUN GEGEN WINTERTHUR
 FC THUN – GRASSHOPPERS
+FC THUN – LAUSANNE-SPORT
 FC TWENTE
 FC Thun
 FC Thun gegen FC Aarau
@@ -31456,6 +31467,7 @@ GENK KRC
 GENK ON STAGE
 GENK UNION
 GENK VOETBAL
+GENK VS ANTWERP
 GENK WESTERLO
 GENK – CHARLEROI SC
 GENK – CLUB BRUGGE
@@ -35445,6 +35457,7 @@ HUMORISTE WAHID BOUZIDI MORT
 HUMPHRIES
 HUMZA YOUSAF
 HUNDWIL
+HUNGARORING
 HUNGER GAMES
 HUNGERGAMES
 HUNTER BIDEN
@@ -42910,6 +42923,8 @@ KENO
 KENOSHA
 KENTUCKY
 KENYA
+KENYA - RD CONGO
+KENYA – RD CONGO
 KENZA AMELOOT
 KENZA FORTAS
 KEPA
@@ -45723,6 +45738,7 @@ LEGUAAN
 LEHECKA
 LEHMANN
 LEICESTER
+LEICESTER - FIORENTINA
 LEICESTER - IPSWICH TOWN
 LEICESTER - SOUTHAMPTON
 LEICESTER CITY
@@ -45733,6 +45749,7 @@ LEICESTER – ARSENAL
 LEICESTER – CHELSEA
 LEICESTER – CRYSTAL PALACE
 LEICESTER – EVERTON
+LEICESTER – FIORENTINA
 LEICESTER – IPSWICH TOWN
 LEICESTER – LIVERPOOL
 LEICESTER – MAN CITY
@@ -46336,6 +46353,7 @@ LIUDMILA SAMSONOVA
 LIVAKOVIC
 LIVE IS LIVE
 LIVE NATION
+LIVE TV
 LIVENATION
 LIVERPOOL
 LIVERPOOL  ASTON VILLA
@@ -79599,6 +79617,7 @@ TOTTENHAM GEGEN EINTRACHT FRANKFURT
 TOTTENHAM GEGEN LEICESTER
 TOTTENHAM GEGEN MAN CITY
 TOTTENHAM GEGEN MILAN
+TOTTENHAM VS NEWCASTLE
 TOTTENHAM – AC MILAN
 TOTTENHAM – ARSENAL
 TOTTENHAM – ASTON VILLA
@@ -89124,7 +89143,9 @@ aarontaylor-johnson
 ab inbev koers
 abandon de poste
 abandoned
+abattement fiscal retraites
 abattement fiscal retraités
+abattementfiscalretraites
 abattementfiscalretraités
 abaya
 abb
@@ -89775,6 +89796,7 @@ ajax  ga eagles
 ajax  groningen
 ajax  hibernian
 ajax  leeds
+ajax  monaco
 ajax  paok
 ajax  sparta rotterdam
 ajax  twente
@@ -89784,6 +89806,7 @@ ajax  willem ii
 ajax - feyenoord
 ajax - ga eagles
 ajax - hibernian
+ajax - monaco
 ajax - paok
 ajax - sparta rotterdam
 ajax - twente
@@ -89792,16 +89815,19 @@ ajax gegen union berlin
 ajax – go ahead eagles
 ajax – liverpool
 ajax – marseille
+ajax – monaco
 ajax – naples
 ajax – rangers
 ajax – union saint-gilloise
 ajax-feyenoord
 ajax-gaeagles
 ajax-hibernian
+ajax-monaco
 ajax-paok
 ajax-spartarotterdam
 ajax-twente
 ajax–goaheadeagles
+ajax–monaco
 ajla del ponte
 ajoie chaux-de-fonds
 akamai
@@ -93004,6 +93030,7 @@ benjamin millepied
 benjamin netanjahu
 benjamin netanyahu
 benjamin pavard
+benjamin sesko
 benjamin stora
 benjamin thomas
 benjamin vedrines
@@ -93011,6 +93038,7 @@ benjamin voisin
 benjamin védrines
 benjamin zephaniah
 benjamingriveaux
+benjaminsesko
 benjaminstora
 benjaminvedrines
 benjaminvédrines
@@ -95241,8 +95269,10 @@ cercle  standard
 cercle  stvv
 cercle  union
 cercle  zulte-waregem
+cercle - anderlecht
 cercle - club brugge
 cercle - kortrijk
+cercle bruges - anderlecht
 cercle bruges – anderlecht
 cercle bruges – antwerp
 cercle bruges – standard
@@ -95253,6 +95283,8 @@ cercle-anderlecht
 cercle-club brugge
 cercle-clubbrugge
 cercle-kortrijk
+cerclebruges-anderlecht
+cerclebruges–anderlecht
 cerclebrugge
 cercueils tour eiffel
 ceremonie cloture jo
@@ -99559,6 +99591,7 @@ erdbeben mexiko-stadt
 erdbeben neapel
 erdbeben nepal
 erdbeben neuseeland
+erdbeben new york
 erdbeben peru
 erdbeben philippinen tsunami
 erdbeben portugal
@@ -99576,6 +99609,7 @@ erdbebenitalien
 erdbebenlissabon
 erdbebenneapel
 erdbebenneuseeland
+erdbebennewyork
 erdbebenschweiz
 erdbebenthailand
 erdbebentsunamiwarnung
@@ -100205,6 +100239,7 @@ f1 canada
 f1 classement
 f1 france
 f1 gp japon
+f1 heute
 f1 imola
 f1 imola 2022
 f1 japan
@@ -100243,6 +100278,7 @@ f1-qualifying
 f16
 f1australia
 f1classement
+f1heute
 f1live
 f1michaelschumacher
 f1monaco
@@ -100496,10 +100532,14 @@ fc st. gallen
 fc st.gallen
 fc st.gallen 1879
 fc thun
+fc thun - lausanne-sport
+fc thun - lausannesport
 fc thun gegen fc aarau
 fc thun gegen luzern
 fc thun gegen winterthur
 fc thun – grasshoppers
+fc thun – lausanne-sport
+fc thun – lausannesport
 fc twente
 fc union berlin
 fc urnäsch
@@ -100550,6 +100590,8 @@ fcsg
 fcsion
 fcsion-zurich
 fcsion–zürich
+fcthun-lausanne-sport
+fcthun–lausanne-sport
 fcw
 fcwil–fcaarau
 fcwil–fcthun
@@ -102348,6 +102390,7 @@ genk krc
 genk on stage
 genk union
 genk voetbal
+genk vs antwerp
 genk westerlo
 genk – charleroi sc
 genk – club brugge
@@ -102360,6 +102403,7 @@ genk-antwerp
 genk-charleroi
 genkbrugge
 genkunion
+genkvsantwerp
 genoa  milan
 genoa  roma
 genoa  venezia
@@ -104388,6 +104432,7 @@ humoriste wahid bouzidi mort
 humphries
 humza yousaf
 hundwil
+hungaroring
 hunger games
 hunter biden
 hunter schafer
@@ -105206,6 +105251,7 @@ isabellehuppert
 isabelleithurburu
 isabellemorini-bosc
 isack hadjar
+isackhadjar
 isaia cordinier
 isaiah stewart
 isak
@@ -107301,6 +107347,10 @@ keno
 kenosha
 kentucky
 kenya
+kenya - rd congo
+kenya – rd congo
+kenya-rdcongo
+kenya–rdcongo
 kenza ameloot
 kenza fortas
 kenzafortas
@@ -108805,6 +108855,7 @@ lehavre–lens
 lehecka
 lehmann
 leicester
+leicester - fiorentina
 leicester - ipswich town
 leicester - southampton
 leicester city
@@ -108815,6 +108866,7 @@ leicester – arsenal
 leicester – chelsea
 leicester – crystal palace
 leicester – everton
+leicester – fiorentina
 leicester – ipswich town
 leicester – liverpool
 leicester – man city
@@ -108826,9 +108878,11 @@ leicester – rennes
 leicester – southampton
 leicester – tottenham
 leicester – west ham
+leicester-fiorentina
 leicester-ipswichtown
 leicester-southampton
 leicester–arsenal
+leicester–fiorentina
 leicester–ipswichtown
 leicester–qpr
 leicester–southampton
@@ -109489,6 +109543,7 @@ liudmilasamsonova
 livakovic
 live is live
 live nation
+live tv
 livenation
 liverpool
 liverpool  aston villa
@@ -109559,6 +109614,7 @@ liverpool–milan
 liverpool–westham
 liverpool–wolves
 livescore
+livetv
 livia rossi
 livingroom 102
 livret a
@@ -123139,6 +123195,7 @@ tottenham gegen eintracht frankfurt
 tottenham gegen leicester
 tottenham gegen man city
 tottenham gegen milan
+tottenham vs newcastle
 tottenham – ac milan
 tottenham – arsenal
 tottenham – aston villa
@@ -123163,6 +123220,7 @@ tottenham – wolves
 tottenham-crystalpalace
 tottenham-rennes
 tottenham-wycombe
+tottenhamvsnewcastle
 tottenham–bournemouth
 tottenham–crystalpalace
 tottenham–leicester
@@ -125358,6 +125416,7 @@ warmtepompboiler
 warnung vor sturmböen
 warren buffett
 warren jeffs
+warrenbuffett
 warriors – celtics
 warriors – grizzlies
 warriors – lakers
