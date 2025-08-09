@@ -70,6 +70,8 @@
 100 FOREST CATS
 100 Fantasy Cats
 100 Forest Cats
+100 GREECE CATS
+100 Greece Cats
 100 HIDDEN PANDAS: VILLAGE
 100 Hidden Pandas: Village
 100 ITALY CATS
@@ -90,6 +92,7 @@
 100 crime cats
 100 fantasy cats
 100 forest cats
+100 greece cats
 100 hidden pandas: village
 100 italy cats
 100 men vs gorilla
@@ -106,6 +109,7 @@
 100CrimeCats
 100FantasyCats
 100ForestCats
+100GreeceCats
 100HiddenPandas:Village
 100ItalyCats
 100MenVSGorilla
@@ -945,8 +949,10 @@
 ?????RPG ~mysterious~
 ??Online
 A
+A BLOCC WORLD
 A BOTTLED UP ISLAND
 A BUILDING FULL OF CATS 2
+A Blocc World
 A Bottled Up Island
 A Building Full of Cats 2
 A CAFÉ COUPLE'S JOYFUL LIFE OF RESISTANCE
@@ -1114,6 +1120,7 @@ ABYSSAL
 ABYSSAL BLADE
 ABYSSALBLADE
 ABYSSGAME
+ABloccWorld
 ABottledUpIsland
 ABuildingFullofCats2
 AC COBRA
@@ -11024,6 +11031,7 @@ CRAZY CAR
 CRAZY CARPENTER
 CRAZY CARS
 CRAZY CASTLE
+CRAZY PUZZLE - COSPLAY
 CRAZY ROBOT
 CRAZY ROBOT BALL
 CRAZY ROBOT GAMES
@@ -13327,6 +13335,8 @@ Crazy Car
 Crazy Carpenter
 Crazy Cars
 Crazy Castle
+Crazy Puzzle   Cosplay
+Crazy Puzzle - Cosplay
 Crazy Robot
 Crazy Robot Ball
 Crazy Robot Games
@@ -13335,6 +13345,7 @@ CrazyCar
 CrazyCarpenter
 CrazyCars
 CrazyCastle
+CrazyPuzzle-Cosplay
 CrazyRobot
 CrazyRobotBall
 CrazyRobotGames
@@ -14218,6 +14229,7 @@ DD64
 DE
 DE'ARNISE
 DEAD
+DEAD BY BACKROOMS ANOMALY
 DEAD BY DAYLIGHT
 DEAD BY DAYLIGHT: FIVE NIGHTS AT FREDDY’S
 DEAD BY DAYLIGHT: FIVE NIGHTS AT FREDDY’S EDITION
@@ -14398,6 +14410,7 @@ DELRYN
 DELTA
 DELTA 4
 DELTA 4 INTERACTIVE
+DELTA 78: THE PASSENGER
 DELTA4
 DELTA4INTERACTIVE
 DELTAQDELTA
@@ -15581,6 +15594,7 @@ DUNGEON KEEPER
 DUNGEON MANA
 DUNGEON MASTER
 DUNGEON PARKOUR BLOCK PUZZLE ADVENTURE
+DUNGEON SAPIRANGA
 DUNGEON SURVIVOR
 DUNGEON TRACER
 DUNGEON WEIQI
@@ -16028,6 +16042,7 @@ Dead Or Alive 2
 Dead Rising
 Dead Space
 Dead Tapes: Fading Father
+Dead by Backrooms Anomaly
 Dead by Daylight
 Dead by Daylight: Five Nights at Freddy's
 Dead by Daylight: Five Nights at Freddy's Edition
@@ -16048,6 +16063,7 @@ DeadRising
 DeadSpace
 DeadTapes:FadingFather
 Deadalus
+DeadbyBackroomsAnomaly
 DeadbyDaylight
 DeadbyDaylight:FiveNightsatFreddy’s
 DeadbyDaylight:FiveNightsatFreddy’sEdition
@@ -16229,8 +16245,10 @@ Delryn
 Delta
 Delta 4
 Delta 4 Interactive
+Delta 78: The Passenger
 Delta4
 Delta4Interactive
+Delta78:ThePassenger
 DeltaQDelta
 Deluxe
 Dementia
@@ -17430,6 +17448,7 @@ Dungeon Keeper
 Dungeon Mana
 Dungeon Master
 Dungeon Parkour Block Puzzle Adventure
+Dungeon Sapiranga
 Dungeon Survivor
 Dungeon Tracer
 Dungeon Weiqi
@@ -17442,6 +17461,7 @@ DungeonKeeper
 DungeonMana
 DungeonMaster
 DungeonParkourBlockPuzzleAdventure
+DungeonSapiranga
 DungeonSurvivor
 DungeonTracer
 DungeonWeiqi
@@ -18454,6 +18474,7 @@ ESPGALUDA
 ESPIO
 ESPIO THE CHAMELEON
 ESPIOTHECHAMELEON
+ESPIRE 1: VR OPERATIVE
 ESPIRITO DELUSION
 ESPN
 ESPRIT
@@ -18490,6 +18511,7 @@ ETERNALDARKNESS
 ETHAN
 ETHAN WINTERS
 ETHANWINTERS
+ETHEREAL SUNDER
 ETIQUETTE
 ETOILE
 ETOILE DE FEU
@@ -19492,6 +19514,8 @@ Espgaluda
 Espio
 Espio the Chameleon
 EspiotheChameleon
+Espire 1: VR Operative
+Espire1:VROperative
 Espirito Delusion
 EspiritoDelusion
 Esprit
@@ -19526,6 +19550,8 @@ EternalDecaySouls
 Ethan
 Ethan Winters
 EthanWinters
+Ethereal Sunder
+EtherealSunder
 Etiquette
 Etoile
 Etoile de feu
@@ -19859,6 +19885,8 @@ FALL LINE STUDIO
 FALL OF GORITHIA: NYM'S FATE (DEMO)
 FALLEN ANGEL: HELL SURVIVAL
 FALLEN ARENA
+FALLEN ECHO
+FALLEN HUNTER
 FALLEN HUNTER DEMO
 FALLEN KING [HELL MODE+NIGHTMARE MODE+DEATH MODE]
 FALLEN RELICS
@@ -20639,6 +20667,7 @@ FOURDOOR
 FOURDOORLEMON
 FOURHOUSES
 FOURMILI
+FOURMIWORLD
 FOURNIER
 FOURRETOUT
 FOURSAKEN
@@ -21142,11 +21171,15 @@ FallLine
 FallLineStudio
 Fallen Angel: Hell Survival
 Fallen Arena
+Fallen Echo
+Fallen Hunter
 Fallen Hunter Demo
 Fallen King [Hell Mode+Nightmare Mode+Death Mode]
 Fallen Relics
 FallenAngel:HellSurvival
 FallenArena
+FallenEcho
+FallenHunter
 FallenHunterDemo
 FallenKing[HellMode+NightmareMode+DeathMode]
 FallenRelics
@@ -21937,6 +21970,7 @@ FourDoor
 FourDoorLemon
 FourHouses
 Fourmili
+Fourmiworld
 Fournier
 Fourretout
 Foursaken
@@ -23589,6 +23623,7 @@ GRIGORIIGRIGORII
 GRIGSBY
 GRIM
 GRIM FANDANGO
+GRIM TALES: PRISONERS OF THE PAST COLLECTOR'S EDITION
 GRIM-CHAN'S SOUL FIGHT
 GRIMES
 GRIMFANDANGO
@@ -25040,10 +25075,13 @@ Grigorii
 Grigorii Grigorii
 GrigoriiGrigorii
 Grigsby
+Grim Tales: Prisoners of the Past Collector s Edition
+Grim Tales: Prisoners of the Past Collector's Edition
 Grim chan's Soul Fight
 Grim-chan s Soul Fight
 Grim-chan's Soul Fight
 Grim-chan'sSoulFight
+GrimTales:PrisonersofthePastCollector'sEdition
 Grimes
 Grimoire
 Grinder
@@ -28347,6 +28385,7 @@ ISIAH
 ISKANDAR
 ISKATU
 ISLAND
+ISLAND LIFE WITH MAYALALA
 ISLAND OF CORRUPTION
 ISLAND OFF OUTER DARKNESS
 ISLAND ROBOT FARM
@@ -29076,9 +29115,11 @@ Isiah
 Iskandar
 Iskatu
 Island
+Island Life With Mayalala
 Island Off Outer Darkness
 Island Robot Farm
 Island of Corruption
+IslandLifeWithMayalala
 IslandOffOuterDarkness
 IslandRobotFarm
 IslandofCorruption
@@ -30564,6 +30605,7 @@ KACTIKACTI
 KADAJ,
 KADAJ, YAZOO ET LOZ
 KADAJ,YAZOOETLOZ
+KADIN THE SOUL EATER
 KADOKAWA
 KADOKAWA SHOTEN
 KADOKAWASHOTEN
@@ -31002,6 +31044,7 @@ KINGOFTHEMONSTERS
 KINGRECORDS
 KINGS
 KINGS FIELD
+KINGS OF CRATIA
 KINGS OF CRATIA DEMO
 KINGS OF THE BEACH
 KINGS QUEST
@@ -31519,6 +31562,8 @@ KactiKacti
 Kadaj,
 Kadaj, Yazoo et Loz
 Kadaj,YazooetLoz
+Kadin the Soul Eater
+KadintheSoulEater
 Kadokawa
 Kadokawa Shoten
 KadokawaShoten
@@ -31961,6 +32006,7 @@ KingoftheMonsters
 Kings
 Kings Field
 Kings Quest
+Kings of Cratia
 Kings of Cratia Demo
 Kings of the Beach
 KingsField
@@ -31968,6 +32014,7 @@ KingsQuest
 Kingsley
 Kingsley Harrison
 KingsleyHarrison
+KingsofCratia
 KingsofCratiaDemo
 Kingsoft
 KingsoftheBeach
@@ -33961,10 +34008,14 @@ LUNE
 LUPINO
 LUPPA
 LUSCHER
+LUST   MAGIC ✨
+LUST & MAGIC ?
+LUST & MAGIC ✨
 LUST ETERNAL 🔞
 LUST Eternal ?
 LUST Eternal 🔞
 LUST SISTERS 🔞
+LUST&MAGIC✨
 LUSTBORN
 LUSTEternal🔞
 LUSTFUL BUTLER AND CHARMING SISTERS
@@ -36208,6 +36259,7 @@ MATCH UP
 MATCHBOX
 MATCHMAKER: DUNGEON HEART
 MATCHUP
+MATE IN ELEVEN
 MATELOT
 MATERIALS
 MATH CLIMBER
@@ -36290,6 +36342,7 @@ MAZDAK LE MAUDIT
 MAZDAKLEMAUDIT
 MAZE
 MAZE CRAZE
+MAZE ESTATE ESCAPE
 MAZE IN YOUR MIND
 MAZE LOVERS MEMORIAL
 MAZE OF GALLIOUS
@@ -37448,12 +37501,14 @@ MONSTER OPS 9
 MONSTER RANCHER
 MONSTER TRAIN 2
 MONSTER TRAIN 2 SOUNDTRACK
+MONSTER WAR
 MONSTERGAMES
 MONSTERGASM
 MONSTERHUNTER
 MONSTERRANCHER
 MONSTERS
 MONSTERS LOOT SWAG
+MONSTERWAR
 MONSTRE
 MONSTRE DES JOUETS
 MONSTRE FIGURE
@@ -37507,6 +37562,7 @@ MOONMAN:THEGAME
 MOONPATROL
 MOONSHARK
 MOONSHOT
+MOONSTEEL
 MOONSTONE
 MOONWALKER
 MOORHUHN
@@ -38675,6 +38731,8 @@ Matchbox
 Matchmaker: Dungeon Heart
 Matchmaker:DungeonHeart
 Matchup
+Mate in Eleven
+MateinEleven
 Matelot
 Materials
 Math Climber
@@ -38759,11 +38817,13 @@ Mazdak le maudit
 Mazdaklemaudit
 Maze
 Maze Craze
+Maze Estate Escape
 Maze In Your Mind
 Maze Lovers Memorial
 Maze of Gallious
 Maze of Perdition
 MazeCraze
+MazeEstateEscape
 MazeInYourMind
 MazeLoversMemorial
 MazeofGallious
@@ -39973,6 +40033,7 @@ MoonTropica
 Moonlight Traveler
 MoonlightTraveler
 Moonshark
+Moonsteel
 Moonstone
 Moonwalker
 Moorhuhn
@@ -43038,6 +43099,7 @@ OPERAHOUSE
 OPERASOFT
 OPERATING
 OPERATION
+OPERATION DIMERA
 OPERATION FLASHPOINT
 OPERATION NIGHT STRIKERS
 OPERATION NINURTA - ERIS PORTAL
@@ -43899,6 +43961,7 @@ OperaHouse
 OperaSoft
 Operating
 Operation
+Operation Dimera
 Operation Flashpoint
 Operation Night Strikers
 Operation Ninurta   Eris Portal
@@ -43907,6 +43970,7 @@ Operation REMODE
 Operation Wolf
 Operation: Surface Takeover
 Operation:SurfaceTakeover
+OperationDimera
 OperationFlashpoint
 OperationNightStrikers
 OperationNinurta-ErisPortal
@@ -44383,6 +44447,8 @@ PANZERDRAGOON2
 PANZERDRAGOONORTA
 PANZERDRAGOONSAGA
 PANZERGENERAL
+PANZERKAMPF(R)
+PANZERKAMPF®
 PANZERSTRIKE
 PAOLO
 PAON
@@ -44504,6 +44570,7 @@ PARITYBIT
 PARK
 PARK BEYOND
 PARK IT!
+PARK OF HIDDEN DESIRES
 PARK PLACE
 PARK PLACE PRODUCTIONS
 PARK SUN-WOO
@@ -44605,6 +44672,7 @@ PAULPHOENIX
 PAVEL
 PAVEL BARAK
 PAVELBARAK
+PAWN.OS()
 PAWSKY
 PAX
 PAX SOFTONICA
@@ -44872,6 +44940,7 @@ PERSONNAGESBONUS
 PERSONNAGESSECONDAIRES
 PERSOÀCHARGE
 PERTUISANNE
+PERVERTS
 PES
 PET HERO VS ZOMBIE
 PETER
@@ -46065,6 +46134,7 @@ PSYCHOFOX
 PSYCHONAUTS
 PSYCHOSCOPY
 PSYCLAPSE
+PSYCUTLERY
 PSYGNOSIS
 PSYONIX
 PSYWORKS
@@ -46559,6 +46629,7 @@ Park Place
 Park Place Productions
 Park Sun-woo
 Park Sunwoo
+Park of Hidden Desires
 ParkBeyond
 ParkIt!
 ParkPlace
@@ -46568,6 +46639,7 @@ ParkSunwoo
 Parker
 Parker Brothers
 ParkerBrothers
+ParkofHiddenDesires
 Parodia
 Parodius
 Parodius DA!
@@ -46667,6 +46739,8 @@ Paulito
 Pavel
 Pavel Barak
 PavelBarak
+Pawn.OS  
+Pawn.OS()
 Pawsky
 Pax
 Pax Softonica
@@ -48071,6 +48145,7 @@ Psychoc Psychoc
 PsychocPsychoc
 Psychoscopy
 Psyclapse
+Psycutlery
 Psygnosis
 Psyonix
 Psyworks
@@ -48376,6 +48451,7 @@ QUEEN B
 QUEEN B.
 QUEENB
 QUEENB.
+QUEENS CASINO
 QUEENS CLIMAX
 QUELL
 QUEN
@@ -48474,7 +48550,9 @@ Queen B
 Queen B.
 QueenB
 QueenB.
+Queens Casino
 Queens Climax
+QueensCasino
 QueensClimax
 Quell
 Quen
@@ -48847,6 +48925,7 @@ RDASYSTEMS
 RDASystems
 RDMOBILE
 RDMobile
+RE:CALL
 REACTIONS
 READER
 READY
@@ -50171,6 +50250,7 @@ Razorback
 Razorback Developments
 RazorbackDevelopments
 Razorworks
+Re:Call
 ReCharge RC: High Voltage Demo
 ReChargeRC:HighVoltageDemo
 ReWire
@@ -52637,6 +52717,7 @@ SIMONS
 SIMONTHE
 SIMONTHESORCERER
 SIMONWALES
+SIMPING FOR MY HOT GOTH GIRLFRIEND
 SIMPSONS
 SIMS
 SIMS &
@@ -52699,6 +52780,7 @@ SIRIUS SOFTWARE
 SIRIUSSOFTWARE
 SIRTECH
 SIRÈNE
+SISTER SOPHIE'S CREED TO BREED
 SISTERS
 SITH
 SIVAR RACE EL SALVADOR
@@ -53410,6 +53492,7 @@ SPARKFRONT: ONLINE
 SPARKI
 SPARKI SPARKI
 SPARKISPARKI
+SPARKLE POP
 SPARKS
 SPARKUNLIMITED
 SPARKY
@@ -54161,6 +54244,7 @@ SULLIVANBLUTHINTERACTIVEMEDIA
 SUMIGAMI
 SUMII
 SUMMER
+SUMMER PASSION
 SUMMER POCKETS REFLECTION BLUE
 SUMMIT : STEPS OF SOLACE
 SUMMON
@@ -55877,6 +55961,8 @@ SimonWales
 Simons
 Simonthe
 SimontheSorcerer
+Simping for My Hot Goth Girlfriend
+SimpingforMyHotGothGirlfriend
 Simpsons
 Sims
 Sims Carnival
@@ -55940,6 +56026,9 @@ Sirius
 Sirius Software
 SiriusSoftware
 Sirène
+Sister Sophie s Creed to Breed
+Sister Sophie's Creed to Breed
+SisterSophie'sCreedtoBreed
 Sisters
 Sith
 Sivar Race El Salvador
@@ -56638,6 +56727,8 @@ Sparkfront:Online
 Sparki
 Sparki Sparki
 SparkiSparki
+Sparkle Pop
+SparklePop
 Sparks
 Sparky
 Sparrow
@@ -57422,7 +57513,9 @@ SullivanBluthInteractiveMedia
 Sumigami
 Sumii
 Summer
+Summer Passion
 Summer Pockets REFLECTION BLUE
+SummerPassion
 SummerPocketsREFLECTIONBLUE
 Summit : Steps of Solace
 Summit:StepsofSolace
@@ -58619,6 +58712,7 @@ THE DEAD HOUSE
 THE DEADALUS ENCOUNTER
 THE DEADSEAT
 THE DEATH FOREST
+THE DEATHMIND
 THE DEEPWOODS
 THE DEVIL RAIS'D THE STORM
 THE DOME
@@ -58750,6 +58844,7 @@ THE LEGEND OF ZELDA: THE WIND WAKER
 THE LEGEND RETURNS
 THE LEGENDS OF MAUI
 THE LIFE AND SUFFERING OF SIR BRANTE
+THE LIGHT AND THE SHADOW
 THE LIGHTNING STRUCK ORPHAN
 THE LILLIPUT WORKSHOP
 THE LIQUID JET
@@ -59118,6 +59213,7 @@ THIRDWIREPRODUCTIONS
 THIRTY2M
 THIS GAME WILL END IN 205 CLICKS.
 THIS GAME WILL END IN 205 CLICKS. THE ARTBOOK
+THIS GRAND LIFE 2
 THIS IS LOVE
 THIS SHIP GOES BRRR
 THIS WILL NOT GO WELL
@@ -59589,6 +59685,7 @@ TOPWAREINTERACTIVE
 TOR
 TORBJORN
 TORBJÖRN
+TOREE SATURN
 TORI
 TORION
 TORIUO
@@ -60083,6 +60180,7 @@ TUKONI: FOREST KEEPERS DEMO
 TULSI
 TULSI MAYALA
 TULSIMAYALA
+TUMBLE EGG
 TUMBLEBOY
 TUNA
 TUNE IN TO THE SHOW
@@ -60935,6 +61033,7 @@ The Darkblade Demo
 The Dead House
 The Deadalus Encounter
 The Deadseat
+The Deathmind
 The Deepwoods
 The Dome
 The Dome Software
@@ -61037,6 +61136,7 @@ The Legend of Gandar III
 The Legend of Zelda
 The Legends of Maui
 The Life and Suffering of Sir Brante
+The Light and the Shadow
 The Lightning Struck Orphan
 The Lilliput Workshop
 The Liquid Jet
@@ -61241,6 +61341,7 @@ TheDarkbladeDemo
 TheDeadHouse
 TheDeadalusEncounter
 TheDeadseat
+TheDeathmind
 TheDeepwoods
 TheDome
 TheDomeSoftware
@@ -61339,6 +61440,7 @@ TheLegendofGandarIII
 TheLegendofZelda
 TheLegendsofMaui
 TheLifeandSufferingofSirBrante
+TheLightandtheShadow
 TheLightningStruckOrphan
 TheLilliputWorkshop
 TheLiquidJet
@@ -61505,9 +61607,11 @@ Third Wire Productions
 ThirdWire
 ThirdWireProductions
 Thirty2m
+This Grand Life 2
 This Ship Goes Brrr
 This is Love
 This will not go well
+ThisGrandLife2
 ThisShipGoesBrrr
 ThisisLove
 Thiswillnotgowell
@@ -61963,6 +62067,8 @@ Toptier
 Tor
 Torbjorn
 Torbjörn
+Toree Saturn
+ToreeSaturn
 Tori
 Torion
 Toriuo
@@ -62424,7 +62530,9 @@ Tukoni:ForestKeepersDemo
 Tulsi
 Tulsi Mayala
 TulsiMayala
+Tumble Egg
 TumbleBoy
+TumbleEgg
 Tuna
 Tune in to the show
 Tuneintotheshow
@@ -64753,6 +64861,7 @@ WHIPTAIL INTERACTIVE
 WHIPTAILINTERACTIVE
 WHIRLWIND MAGICIAN
 WHISKER
+WHISKER WANDERLUST: THE WONDROUS JOURNEY
 WHISKERS
 WHISKERS WHISKERS
 WHISKERSWHISKERS
@@ -65084,6 +65193,7 @@ WORLD OF WARCRAFT
 WORLD RALLY
 WORLD RALLY CHAMPIONSHIP
 WORLD WAR II ARMORED RECON
+WORLD WONDERS HIDDEN HISTORIES 3
 WORLD WONDERS: HIDDEN HISTORIES
 WORLDHEROES
 WORLDOF
@@ -65561,6 +65671,8 @@ WhiptailInteractive
 Whirlwind Magician
 WhirlwindMagician
 Whisker
+Whisker Wanderlust: The Wondrous Journey
+WhiskerWanderlust:TheWondrousJourney
 Whiskers
 Whiskers Whiskers
 WhiskersWhiskers
@@ -65921,6 +66033,7 @@ World Heroes
 World Rally
 World Rally Championship
 World War II Armored Recon
+World Wonders Hidden Histories 3
 World Wonders: Hidden Histories
 World of
 World of Illusion
@@ -65931,6 +66044,7 @@ WorldRallyChampionship
 WorldShadow
 WorldWarIIArmoredRecon
 WorldWonders:HiddenHistories
+WorldWondersHiddenHistories3
 Worldof
 WorldofIllusion
 WorldofSubways
@@ -66985,6 +67099,7 @@ ZOOMBINIS
 ZOOMBINISLES
 ZOOMERS VERSUS BOOMERS
 ZOONAMI
+ZOOPARASITE
 ZOOS
 ZOOS ZOOS
 ZOOSZOOS
@@ -67278,6 +67393,7 @@ ZoombinisLes
 Zoomers Versus Boomers
 ZoomersVersusBoomers
 Zoonami
+Zooparasite
 Zoos
 Zoos Zoos
 ZoosZoos
@@ -67307,6 +67423,7 @@ ZÈBRE
 [开路先锋]
 a
 a Difficult game about Wheelchair
+a blocc world
 a bottled up island
 a building full of cats 2
 a café couple's joyful life of resistance
@@ -73236,6 +73353,7 @@ crazy car
 crazy carpenter
 crazy cars
 crazy castle
+crazy puzzle - cosplay
 crazy robot
 crazy robot ball
 crazy robot games
@@ -74097,6 +74215,7 @@ de'Arnise
 de'arnise
 deArnise
 dead
+dead by backrooms anomaly
 dead by daylight
 dead by daylight: five nights at freddy’s
 dead by daylight: five nights at freddy’s edition
@@ -74275,6 +74394,7 @@ delryn
 delta
 delta 4
 delta 4 interactive
+delta 78: the passenger
 delta4
 delta4interactive
 deltaqdelta
@@ -75436,6 +75556,7 @@ dungeon keeper
 dungeon mana
 dungeon master
 dungeon parkour block puzzle adventure
+dungeon sapiranga
 dungeon survivor
 dungeon tracer
 dungeon weiqi
@@ -76413,6 +76534,7 @@ espgaluda
 espio
 espio the chameleon
 espiothechameleon
+espire 1: vr operative
 espirito delusion
 espn
 esprit
@@ -76448,6 +76570,7 @@ eternaldarkness
 ethan
 ethan winters
 ethanwinters
+ethereal sunder
 etiquette
 etoile
 etoile de feu
@@ -76754,6 +76877,8 @@ fall line studio
 fall of gorithia: nym's fate (demo)
 fallen angel: hell survival
 fallen arena
+fallen echo
+fallen hunter
 fallen hunter demo
 fallen king [hell mode+nightmare mode+death mode]
 fallen relics
@@ -77525,6 +77650,7 @@ fourdoor
 fourdoorlemon
 fourhouses
 fourmili
+fourmiworld
 fournier
 fourretout
 foursaken
@@ -79151,6 +79277,7 @@ grigoriigrigorii
 grigsby
 grim
 grim fandango
+grim tales: prisoners of the past collector's edition
 grim-chan's soul fight
 grimes
 grimfandango
@@ -81309,6 +81436,7 @@ isiah
 iskandar
 iskatu
 island
+island life with mayalala
 island of corruption
 island off outer darkness
 island robot farm
@@ -82105,6 +82233,7 @@ kactikacti
 kadaj,
 kadaj, yazoo et loz
 kadaj,yazooetloz
+kadin the soul eater
 kadokawa
 kadokawa shoten
 kadokawashoten
@@ -82531,6 +82660,7 @@ kingofthemonsters
 kingrecords
 kings
 kings field
+kings of cratia
 kings of cratia demo
 kings of the beach
 kings quest
@@ -84539,6 +84669,7 @@ lune
 lupino
 luppa
 luscher
+lust & magic ✨
 lust eternal 🔞
 lust sisters 🔞
 lustborn
@@ -85312,6 +85443,7 @@ match up
 matchbox
 matchmaker: dungeon heart
 matchup
+mate in eleven
 matelot
 materials
 math climber
@@ -85396,6 +85528,7 @@ mazdak le maudit
 mazdaklemaudit
 maze
 maze craze
+maze estate escape
 maze in your mind
 maze lovers memorial
 maze of gallious
@@ -86542,6 +86675,7 @@ monster ops 9
 monster rancher
 monster train 2
 monster train 2 soundtrack
+monster war
 monstergames
 monstergasm
 monsterhunter
@@ -86603,6 +86737,7 @@ moonman: the game
 moonpatrol
 moonshark
 moonshot
+moonsteel
 moonstone
 moonwalker
 moorhuhn
@@ -88703,6 +88838,7 @@ operahouse
 operasoft
 operating
 operation
+operation dimera
 operation flashpoint
 operation night strikers
 operation ninurta - eris portal
@@ -89152,6 +89288,7 @@ panzerdragoon2
 panzerdragoonorta
 panzerdragoonsaga
 panzergeneral
+panzerkampf®
 panzerstrike
 paolo
 paon
@@ -89280,6 +89417,7 @@ paritybit
 park
 park beyond
 park it!
+park of hidden desires
 park place
 park place productions
 park sun-woo
@@ -89381,6 +89519,7 @@ paulphoenix
 pavel
 pavel barak
 pavelbarak
+pawn.os()
 pawsky
 pax
 pax softonica
@@ -89605,6 +89744,7 @@ personnagesbonus
 personnagessecondaires
 persoàcharge
 pertuisanne
+perverts
 pes
 pet hero vs zombie
 peter
@@ -90830,6 +90970,7 @@ psychofox
 psychonauts
 psychoscopy
 psyclapse
+psycutlery
 psygnosis
 psyonix
 psyworks
@@ -91111,6 +91252,7 @@ queen b
 queen b.
 queenb
 queenb.
+queens casino
 queens climax
 quell
 quen
@@ -91457,6 +91599,7 @@ rda
 rda systems
 rdasystems
 rdmobile
+re:call
 reactions
 reader
 ready
@@ -93772,6 +93915,7 @@ simons
 simonthe
 simonthesorcerer
 simonwales
+simping for my hot goth girlfriend
 simpsons
 sims
 sims &
@@ -93834,6 +93978,7 @@ sirius software
 siriussoftware
 sirtech
 sirène
+sister sophie's creed to breed
 sisters
 sith
 sivar race el salvador
@@ -94517,6 +94662,7 @@ sparkfront: online
 sparki
 sparki sparki
 sparkisparki
+sparkle pop
 sparks
 sparkunlimited
 sparky
@@ -95258,6 +95404,7 @@ sullivanbluthinteractivemedia
 sumigami
 sumii
 summer
+summer passion
 summer pockets reflection blue
 summit : steps of solace
 summon
@@ -96411,6 +96558,7 @@ the dead house
 the deadalus encounter
 the deadseat
 the death forest
+the deathmind
 the deepwoods
 the devil rais'd the storm
 the dome
@@ -96538,6 +96686,7 @@ the legend of zelda: the wind waker
 the legend returns
 the legends of maui
 the life and suffering of sir brante
+the light and the shadow
 the lightning struck orphan
 the lilliput workshop
 the liquid jet
@@ -96909,6 +97058,7 @@ thirdwireproductions
 thirty2m
 this game will end in 205 clicks.
 this game will end in 205 clicks. the artbook
+this grand life 2
 this is love
 this ship goes brrr
 this will not go well
@@ -97368,6 +97518,7 @@ topwareinteractive
 tor
 torbjorn
 torbjörn
+toree saturn
 tori
 torion
 toriuo
@@ -97842,6 +97993,7 @@ tukoni: forest keepers demo
 tulsi
 tulsi mayala
 tulsimayala
+tumble egg
 tumbleboy
 tuna
 tune in to the show
@@ -99248,6 +99400,7 @@ whiptail interactive
 whiptailinteractive
 whirlwind magician
 whisker
+whisker wanderlust: the wondrous journey
 whiskers
 whiskers whiskers
 whiskerswhiskers
@@ -99577,6 +99730,7 @@ world of warcraft
 world rally
 world rally championship
 world war ii armored recon
+world wonders hidden histories 3
 world wonders: hidden histories
 worldheroes
 worldof
@@ -100271,6 +100425,7 @@ zoombinis
 zoombinisles
 zoomers versus boomers
 zoonami
+zooparasite
 zoos
 zoos zoos
 zooszoos
@@ -100422,6 +100577,7 @@ zèbre
 千军纵横 专服版
 千军纵横-专服版
 叛逆の守護者
+合金子弹
 呪いの穢れ唄　鳴海龍也の回奇録
 咕噜咕噜海洋馆
 喵探
