@@ -499,12 +499,15 @@
 3
 3 COUNT BOUT
 3 Count Bout
+3 DAY LAUNCH SPECIAL
 3 count bout
 3-D
 3-D ULTRA
 3-D ULTRA PINBALL
 3-D Ultra
 3-D Ultra Pinball
+3-DAY LAUNCH SPECIAL
+3-DAYLAUNCHSPECIAL
 3-DULTRA
 3-DULTRAPINBALL
 3-DUltra
@@ -512,6 +515,7 @@
 3-d
 3-d ultra
 3-d ultra pinball
+3-day launch special
 3-dultra
 3-dultrapinball
 3.0
@@ -879,6 +883,7 @@
 ??.????
 ??2 Next Business Trip
 ??2001???
+??:????,????
 ???
 ??? -Fukiage-
 ??? ??? Demo
@@ -902,6 +907,7 @@
 ???? Mobile era
 ???? Roaming Backrooms
 ???? ~?????!~
+????(????)
 ????(Book Shooter) Demo
 ????(Dungeon Killing)
 ????(GigaSlave)
@@ -1617,6 +1623,7 @@ ALCATRAZ ENTERTAINMENT SOFTWARE
 ALCATRAZENTERTAINMENT
 ALCATRAZENTERTAINMENTSOFTWARE
 ALCHEMIST
+ALCHEMY OF THE EARTH
 ALCHEMY PASSAGE
 ALCOMI
 ALCUIN
@@ -3500,7 +3507,9 @@ AlcatrazEntertainment
 AlcatrazEntertainmentSoftware
 Alchemist
 Alchemy Passage
+Alchemy of the Earth
 AlchemyPassage
+AlchemyoftheEarth
 Alcomi
 Alcuin
 Alcuin Alcuin
@@ -5572,6 +5581,7 @@ BEND
 BENEATH
 BENEATH A STEEL SKY
 BENEATH THE BLEEDING MOON
+BENEATH THE SIX
 BENEATHASTEELSKY
 BENEDICTUS
 BENESECK
@@ -6037,6 +6047,7 @@ BLANCHE
 BLANCHE DE GLACE
 BLANCHEDEGLACE
 BLANKA
+BLANK_01
 BLARGG
 BLASFEMIA
 BLASPHEMOUS
@@ -6231,6 +6242,7 @@ BLUEPLANETSOFTWARE
 BLUEPOINT
 BLUEPOINT GAMES
 BLUEPOINTGAMES
+BLUEPRINT BOB
 BLUESHIFT
 BLUESIDE
 BLUESIDE STUDIOS
@@ -6422,6 +6434,7 @@ BOOMER
 BOOMER BOOMER
 BOOMER BRAWLER
 BOOMERBOOMER
+BOOSTER
 BOOTANT
 BOOTLEG
 BOOTS
@@ -7638,8 +7651,10 @@ Bemer
 Ben
 Bend
 Beneath
+Beneath The Six
 Beneath a Steel Sky
 Beneath the Bleeding Moon
+BeneathTheSix
 BeneathaSteelSky
 BeneaththeBleedingMoon
 Benedictus
@@ -8331,6 +8346,8 @@ BlueWingBlitz
 Bluepoint
 Bluepoint Games
 BluepointGames
+Blueprint Bob
+BlueprintBob
 Blueside
 Blueside Studios
 BluesideStudios
@@ -8503,6 +8520,7 @@ Boomer Boomer
 Boomer Brawler
 BoomerBoomer
 BoomerBrawler
+Booster
 Bootant
 Bootleg
 Boots
@@ -10273,6 +10291,7 @@ CITY INTERACTIVE
 CITY LIGHTS, OLD FLAMES
 CITY NOODLE SHOP SIMULATOR
 CITY TRANSPORT SIMULATOR - BUS DLC: MAN LION'S CITY A23
+CITY TRANSPORT SIMULATOR - TRAM DLC: GT6
 CITY TRANSPORT SIMULATOR: BUS
 CITY TRANSPORT SIMULATOR: BUS DLC - GRÄF/STEYR NG235
 CITY-DEFENCE
@@ -12574,8 +12593,10 @@ City Interactive
 City Lights, Old Flames
 City Noodle Shop Simulator
 City Transport Simulator   Bus DLC: MAN Lion's City A23
+City Transport Simulator   Tram DLC: GT6
 City Transport Simulator - Bus DLC: MAN Lion s City A23
 City Transport Simulator - Bus DLC: MAN Lion's City A23
+City Transport Simulator - Tram DLC: GT6
 City Transport Simulator: Bus
 City Transport Simulator: Bus DLC   Gräf/Steyr NG235
 City Transport Simulator: Bus DLC - Graf/Steyr NG235
@@ -12586,6 +12607,7 @@ CityInteractive
 CityLights,OldFlames
 CityNoodleShopSimulator
 CityTransportSimulator-BusDLC:MANLion'sCityA23
+CityTransportSimulator-TramDLC:GT6
 CityTransportSimulator:Bus
 CityTransportSimulator:BusDLC-Gräf/SteyrNG235
 Civet
@@ -20811,6 +20833,7 @@ FOX_SPAWN_EGG
 FPS
 FRACTALUS
 FRACTIV
+FRACTURED CORE
 FRAGLAB.AT
 FRAGLABAT
 FRAGMENTS
@@ -22121,6 +22144,8 @@ Foxlore
 Foxysofts
 Fractalus
 Fractiv
+Fractured Core
+FracturedCore
 Fragments
 Fragments de Netherite
 FragmentsdeNetherite
@@ -22915,6 +22940,7 @@ GELID GAMES, INC
 GELIDGAMES
 GELIDGAMES,INC
 GELIDGAMESINC
+GELLDONIA
 GEM
 GEM GENERIC
 GEM GENERIC LABEL
@@ -24000,6 +24026,7 @@ GUNSTAR HEROES
 GUNSTARHEROES
 GUNSURVIVOR
 GUNSWITCH
+GURAQUEST
 GURU GURU DEMO
 GUS
 GUS GUS
@@ -24421,6 +24448,7 @@ Gelid Games, Inc
 GelidGames
 GelidGames,Inc
 GelidGamesInc
+Gelldonia
 Gem
 Gem Generic
 Gem Generic Label
@@ -25400,6 +25428,7 @@ Gunstar
 Gunstar Heroes
 GunstarHeroes
 Gunswitch
+GuraQuest
 Guru Guru Demo
 GuruGuruDemo
 Gus
@@ -28176,6 +28205,7 @@ INFINITY
 INFINITY CO.LTD
 INFINITY COLTD
 INFINITY RAGE
+INFINITY RAGE DEMO
 INFINITY WARD
 INFINITYCO.LTD
 INFINITYCOLTD
@@ -28933,10 +28963,12 @@ Infinity
 Infinity Co.Ltd
 Infinity CoLtd
 Infinity Rage
+Infinity Rage Demo
 Infinity Ward
 InfinityCo.Ltd
 InfinityCoLtd
 InfinityRage
+InfinityRageDemo
 InfinityWard
 Info Fighter
 InfoFighter
@@ -29848,6 +29880,7 @@ JOUNI
 JOUNI EROLA
 JOUNIEROLA
 JOURNEY
+JOURNEY OF REALM：DAWN DEW
 JOURNEY OF REINCARNATION
 JOURNEY QUEST
 JOURNEY THROUGH THE NIGHTMARE REALM II
@@ -30543,9 +30576,12 @@ Jouni Erola
 JouniErola
 Journey Quest
 Journey Through The Nightmare Realm II
+Journey of Realm:Dawn Dew
+Journey of Realm：Dawn Dew
 Journey to the Dao
 JourneyQuest
 JourneyThroughTheNightmareRealmII
+JourneyofRealm：DawnDew
 JourneytotheDao
 Joust
 Jovian Drive
@@ -30983,6 +31019,7 @@ KEEP 'EM OUT!
 KEEP AND DASH HORROR
 KEEP FIRE
 KEEP IT SHUT
+KEEP ME GIFTED
 KEEPER
 KEFKA
 KEFKA PALAZZO
@@ -31050,6 +31087,7 @@ KEVIN
 KEVIN CALDERONE
 KEVIN LEGGETT
 KEVIN RYAN
+KEVIN TOMS FOOTBALL STAR MANAGER
 KEVINCALDERONE
 KEVINLEGGETT
 KEVINRYAN
@@ -31145,6 +31183,7 @@ KIMIE SUGAWARA
 KIMIESUGAWARA
 KIMIHARA
 KIMOCHII CLASSROOM
+KIMONO CATS
 KINDERGARTEN 3
 KINDFOLX
 KING
@@ -31929,10 +31968,12 @@ KeenGames
 Keep  Em Out!
 Keep 'Em Out!
 Keep Fire
+Keep Me Gifted
 Keep and Dash Horror
 Keep it shut
 Keep'EmOut!
 KeepFire
+KeepMeGifted
 KeepandDashHorror
 Keeper
 Keepitshut
@@ -31999,9 +32040,11 @@ Kevin
 Kevin Calderone
 Kevin Leggett
 Kevin Ryan
+Kevin Toms Football Star Manager
 KevinCalderone
 KevinLeggett
 KevinRyan
+KevinTomsFootballStarManager
 Key
 Key Game
 KeyGame
@@ -32103,6 +32146,8 @@ KimieSugawara
 Kimihara
 Kimochii Classroom
 KimochiiClassroom
+Kimono Cats
+KimonoCats
 KindFolx
 Kindergarten 3
 Kindergarten3
@@ -32991,6 +33036,7 @@ LASIRÈNE
 LAST
 LAST EPOCH
 LAST HEIST
+LAST JOURNAL
 LAST NINJA
 LAST OF US
 LAST PRESENCE
@@ -34452,6 +34498,7 @@ Lasers
 Last
 Last Epoch
 Last Heist
+Last Journal
 Last Ninja
 Last Presence
 Last Report
@@ -34460,6 +34507,7 @@ Last Vanguard
 Last of Us
 LastEpoch
 LastHeist
+LastJournal
 LastNinja
 LastPresence
 LastReport
@@ -37042,6 +37090,7 @@ MICROSMITHS INC
 MICROSMITHSINC
 MICROSOFT
 MICROSOFT ARCADE
+MICROSOFT FLIGHT SIMULATOR (2020) 40TH ANNIVERSARY EDITION
 MICROSOFT GAME
 MICROSOFT GAME STUDIOS
 MICROSOFT GAMES
@@ -37505,6 +37554,7 @@ MOBILE
 MOBILE AMUSEMENTS
 MOBILE APP
 MOBILE APP CENTER
+MOBILE BUNCHA
 MOBILE FORCE
 MOBILE GAME
 MOBILE GAME STUDIO
@@ -39516,6 +39566,8 @@ Microsmiths Inc
 MicrosmithsInc
 Microsoft
 Microsoft Arcade
+Microsoft Flight Simulator  2020  40th Anniversary Edition
+Microsoft Flight Simulator (2020) 40th Anniversary Edition
 Microsoft Game
 Microsoft Game Studios
 Microsoft Games
@@ -39523,6 +39575,7 @@ Microsoft MSX
 Microsoft MSX2
 Microsoft Xbox
 MicrosoftArcade
+MicrosoftFlightSimulator(2020)40thAnniversaryEdition
 MicrosoftGame
 MicrosoftGameStudios
 MicrosoftGames
@@ -39987,6 +40040,7 @@ Mobile
 Mobile Amusements
 Mobile App
 Mobile App Center
+Mobile Buncha
 Mobile Force
 Mobile Game
 Mobile Game Studio
@@ -39994,6 +40048,7 @@ Mobile Police Officer EARTH Gumble
 MobileAmusements
 MobileApp
 MobileAppCenter
+MobileBuncha
 MobileForce
 MobileGame
 MobileGameStudio
@@ -41085,6 +41140,7 @@ NEON DIGITAL
 NEON HEARTS CITY
 NEON PLAY
 NEON SHIFT
+NEON SHOT
 NEON STUDIOS
 NEON WARFIELD
 NEONPLAY
@@ -41507,6 +41563,7 @@ NITROS
 NITROS OXIDE
 NITROSOXIDE
 NITRUS
+NIUMA
 NIVAL
 NIVAL INTERACTIVE
 NIVALINTERACTIVE
@@ -42028,12 +42085,14 @@ Neon Digital
 Neon Hearts City
 Neon Play
 Neon Shift
+Neon Shot
 Neon Studios
 Neon Warfield
 NeonDigital
 NeonHeartsCity
 NeonPlay
 NeonShift
+NeonShot
 NeonStudios
 NeonWarfield
 Neopica
@@ -42374,6 +42433,7 @@ Nitros
 Nitros Oxide
 NitrosOxide
 Nitrus
+NiuMa
 Nival
 Nival Interactive
 NivalInteractive
@@ -48668,6 +48728,7 @@ QUESTFORGLORY
 QUESTWOOD
 QUESTY CHESS
 QUICKIE: A LOVE HOTEL STORY
+QUICKMAZE
 QUICKSILVA
 QUICKSILVA LTD
 QUICKSILVALTD
@@ -48773,6 +48834,7 @@ QuestoftheHero
 Questwood
 Questy Chess
 QuestyChess
+QuickMaze
 Quickie: A Love Hotel Story
 Quickie:ALoveHotelStory
 Quicksilva
@@ -49378,6 +49440,7 @@ REMEDY
 REMEDY ENTERTAINMENT
 REMEDYENTERTAINMENT
 REMEMBER
+REMEMBERING EMILY
 REMINISCENCE
 REMNANTS OF THE RIFT
 REMO
@@ -50751,6 +50814,8 @@ Remedy
 Remedy Entertainment
 RemedyEntertainment
 Remember
+Remembering Emily
+RememberingEmily
 Reminiscence
 Remnants of the Rift
 RemnantsoftheRift
@@ -53947,6 +54012,7 @@ SQUID SPAWN EGG
 SQUIDDICUS
 SQUIDSPAWN
 SQUIDSPAWNEGG
+SQUIGGLE FOOTBALL
 SQUIRREL
 SQUIRRELS GONE NUTS
 SQUIRT
@@ -54232,6 +54298,7 @@ STICKS THE BADGER
 STICKSTHEBADGER
 STILL WAKES THE DEEP: SIREN’S REST
 STING
+STINGEREP1
 STOCKAGE
 STOLEN LEGACY RISE OF THE FALLEN
 STOMPER
@@ -54443,6 +54510,7 @@ SUBLOGIC
 SUBMERSED 2 - THE HIVE
 SUBMERSIBLE
 SUBNAUTICA
+SUBNAUTICA: BELOW ZERO
 SUBSISTENCE
 SUBSPACE RETICULUM
 SUBTRACTO
@@ -54484,6 +54552,7 @@ SULLIVAN BLUTH INTERACTIVE MEDIA
 SULLIVANBLUTH
 SULLIVANBLUTHINTERACTIVE
 SULLIVANBLUTHINTERACTIVEMEDIA
+SUM
 SUMIGAMI
 SUMII
 SUMMER
@@ -57221,6 +57290,8 @@ Squid Spawn Egg
 SquidSpawn
 SquidSpawnEgg
 Squiddicus
+Squiggle Football
+SquiggleFootball
 Squirrel
 Squirrels Gone Nuts
 SquirrelsGoneNuts
@@ -57502,6 +57573,7 @@ Still Wakes the Deep: Siren's Rest
 Still Wakes the Deep: Siren’s Rest
 StillWakestheDeep:Siren’sRest
 Sting
+StingerEP1
 Stolen Legacy Rise of The Fallen
 StolenLegacyRiseofTheFallen
 Stomper
@@ -57735,6 +57807,8 @@ Submersed 2   The Hive
 Submersed 2 - The Hive
 Submersed2-TheHive
 Subnautica
+Subnautica: Below Zero
+Subnautica:BelowZero
 Subsistence
 Subspace Reticulum
 SubspaceReticulum
@@ -58932,6 +59006,7 @@ THE BARD'S TALE
 THE BARD'S TALES
 THE BARDS TALE
 THE BARDS TALES
+THE BAZAAR
 THE BEARDED
 THE BEARDED LADIES
 THE BEARDED LADIES CONSULTING
@@ -59153,6 +59228,7 @@ THE NAUGHTY VAMPIRE AND THE MOANING FOREST
 THE NEED FOR SPEED
 THE NEST
 THE NEW FLESH
+THE NIGHT GYM
 THE NIGHT JACKALS VOL. 1
 THE NIGHT SHE TOOK CONTROL ~SOUGANKYO~
 THE NOBODY WOODS : LUCY DEMO
@@ -59641,6 +59717,7 @@ TIKIMON
 TIKIPILOTE
 TIKITONG
 TILE TIDES
+TILEGUESSER
 TILMITT
 TILTNTWIST
 TILTNTWIST LLC
@@ -60051,6 +60128,7 @@ TOUHOU SPELL CARNIVAL
 TOUHOU VOLLEYBALL
 TOUHOU VOLLEYBALL DANMAKU
 TOUHOUPROJECT
+TOUQI
 TOUR
 TOUR DE FRANCE 2025
 TOURNAMENT
@@ -60187,6 +60265,7 @@ TRASHBASHER
 TRASHBASHERTRASHBASHER
 TRASHRALLY
 TRAUCMAHR
+TRAUMA FOOTBALL
 TRAVEL CUISINE 2: SWEET LIFE
 TRAVELER LOST
 TRAVELER OF LIGHT
@@ -61263,6 +61342,7 @@ The Bard's Tale
 The Bard's Tales
 The Bards Tale
 The Bards Tales
+The Bazaar
 The Bearded
 The Bearded Ladies
 The Bearded Ladies Consulting
@@ -61452,6 +61532,7 @@ The Naughty Vampire and the Moaning Forest
 The Need for Speed
 The Nest
 The New Flesh
+The Night Gym
 The Night Jackals Vol. 1
 The Night She Took Control ~Sougankyo~
 The Nobody Woods : Lucy Demo
@@ -61573,6 +61654,7 @@ TheBard'sTale
 TheBard'sTales
 TheBardsTale
 TheBardsTales
+TheBazaar
 TheBearded
 TheBeardedLadies
 TheBeardedLadiesConsulting
@@ -61759,6 +61841,7 @@ TheNaughtyVampireandtheMoaningForest
 TheNeedforSpeed
 TheNest
 TheNewFlesh
+TheNightGym
 TheNightJackalsVol.1
 TheNightSheTookControl~Sougankyo~
 TheNobodyWoods:LucyDemo
@@ -62029,6 +62112,7 @@ TikiPilote
 TikiTong
 Tikimon
 Tile Tides
+TileGuesser
 TileTides
 Tilmitt
 TiltnTwist
@@ -62598,6 +62682,8 @@ TrashCollectorSimulator:SurviveEdition
 TrashGoblin
 TrashRally
 Traucmahr
+Trauma Football
+TraumaFootball
 Travel Cuisine 2: Sweet Life
 TravelCuisine2:SweetLife
 Traveler Lost
@@ -64019,6 +64105,7 @@ VIRUS
 VIS
 VIS INTERACTIVE
 VIS Interactive
+VISCERA CLEANUP DETAIL
 VISCERAL
 VISCERAL GAMES
 VISCERALGAMES
@@ -64621,6 +64708,8 @@ Virtue'sHeaven
 Virtuos
 Virulent
 Virus
+Viscera Cleanup Detail
+VisceraCleanupDetail
 Visceral
 Visceral Games
 VisceralGames
@@ -64797,6 +64886,7 @@ WADJET EYE
 WADJET EYE GAMES
 WADJETEYE
 WADJETEYEGAMES
+WAG
 WAGON
 WAGONNET
 WAGONNET A ENTONNOIR
@@ -66626,6 +66716,7 @@ Xzar
 Y2ROLL SOUNDTRACK
 Y2ROLL Soundtrack
 Y2ROLLSoundtrack
+YAARMI TYCOON
 YABAN
 YABAN YABAN
 YABANYABAN
@@ -66869,6 +66960,8 @@ Y\'SK
 Y\'sk
 Y\SK
 Y\sk
+Yaarmi Tycoon
+YaarmiTycoon
 Yaban
 Yaban Yaban
 YabanYaban
@@ -68310,6 +68403,7 @@ alcatraz entertainment software
 alcatrazentertainment
 alcatrazentertainmentsoftware
 alchemist
+alchemy of the earth
 alchemy passage
 alcomi
 alcuin
@@ -70353,6 +70447,7 @@ bend
 beneath
 beneath a steel sky
 beneath the bleeding moon
+beneath the six
 beneathasteelsky
 benedictus
 beneseck
@@ -70812,6 +70907,7 @@ blanca
 blanche
 blanche de glace
 blanchedeglace
+blank_01
 blanka
 blargg
 blasfemia
@@ -71008,6 +71104,7 @@ blueplanetsoftware
 bluepoint
 bluepoint games
 bluepointgames
+blueprint bob
 blueshift
 blueside
 blueside studios
@@ -71190,6 +71287,7 @@ boomer
 boomer boomer
 boomer brawler
 boomerboomer
+booster
 bootant
 bootleg
 boots
@@ -72891,6 +72989,7 @@ city interactive
 city lights, old flames
 city noodle shop simulator
 city transport simulator - bus dlc: man lion's city a23
+city transport simulator - tram dlc: gt6
 city transport simulator: bus
 city transport simulator: bus dlc - gräf/steyr ng235
 city-defence
@@ -78040,6 +78139,7 @@ foxysofts
 fps
 fractalus
 fractiv
+fractured core
 fraglab.at
 fraglabat
 fragments
@@ -78823,6 +78923,7 @@ gelid games, inc
 gelidgames
 gelidgames,inc
 gelidgamesinc
+gelldonia
 gem
 gem generic
 gem generic label
@@ -79856,6 +79957,7 @@ gunstar heroes
 gunstarheroes
 gunsurvivor
 gunswitch
+guraquest
 guru guru demo
 gus
 gus gus
@@ -81465,6 +81567,7 @@ infinity
 infinity co.ltd
 infinity coltd
 infinity rage
+infinity rage demo
 infinity ward
 infinityco.ltd
 infinitycoltd
@@ -82383,6 +82486,7 @@ jouni
 jouni erola
 jounierola
 journey
+journey of realm：dawn dew
 journey of reincarnation
 journey quest
 journey through the nightmare realm ii
@@ -82820,6 +82924,7 @@ keep 'em out!
 keep and dash horror
 keep fire
 keep it shut
+keep me gifted
 keeper
 kefka
 kefka palazzo
@@ -82886,6 +82991,7 @@ kevin
 kevin calderone
 kevin leggett
 kevin ryan
+kevin toms football star manager
 kevincalderone
 kevinleggett
 kevinryan
@@ -82979,6 +83085,7 @@ kimie sugawara
 kimiesugawara
 kimihara
 kimochii classroom
+kimono cats
 kindergarten 3
 kindfolx
 king
@@ -83864,6 +83971,7 @@ lasirène
 last
 last epoch
 last heist
+last journal
 last ninja
 last of us
 last presence
@@ -86428,6 +86536,7 @@ microsmiths inc
 microsmithsinc
 microsoft
 microsoft arcade
+microsoft flight simulator (2020) 40th anniversary edition
 microsoft game
 microsoft game studios
 microsoft games
@@ -86886,6 +86995,7 @@ mobile
 mobile amusements
 mobile app
 mobile app center
+mobile buncha
 mobile force
 mobile game
 mobile game studio
@@ -87914,6 +88024,7 @@ neon digital
 neon hearts city
 neon play
 neon shift
+neon shot
 neon studios
 neon warfield
 neonplay
@@ -88304,6 +88415,7 @@ nitros
 nitros oxide
 nitrosoxide
 nitrus
+niuma
 nival
 nival interactive
 nivalinteractive
@@ -91654,6 +91766,7 @@ questforglory
 questwood
 questy chess
 quickie: a love hotel story
+quickmaze
 quicksilva
 quicksilva ltd
 quicksilvaltd
@@ -92237,6 +92350,7 @@ remedy
 remedy entertainment
 remedyentertainment
 remember
+remembering emily
 reminiscence
 remnants of the rift
 remo
@@ -95279,6 +95393,7 @@ squid spawn egg
 squiddicus
 squidspawn
 squidspawnegg
+squiggle football
 squirrel
 squirrels gone nuts
 squirt
@@ -95555,6 +95670,7 @@ sticks the badger
 sticksthebadger
 still wakes the deep: siren’s rest
 sting
+stingerep1
 stockage
 stolen legacy rise of the fallen
 stomper
@@ -95766,6 +95882,7 @@ sublogic
 submersed 2 - the hive
 submersible
 subnautica
+subnautica: below zero
 subsistence
 subspace reticulum
 subtracto
@@ -95807,6 +95924,7 @@ sullivan bluth interactive media
 sullivanbluth
 sullivanbluthinteractive
 sullivanbluthinteractivemedia
+sum
 sumigami
 sumii
 summer
@@ -96914,6 +97032,7 @@ the bard's tale
 the bard's tales
 the bards tale
 the bards tales
+the bazaar
 the bearded
 the bearded ladies
 the bearded ladies consulting
@@ -97131,6 +97250,7 @@ the naughty vampire and the moaning forest
 the need for speed
 the nest
 the new flesh
+the night gym
 the night jackals vol. 1
 the night she took control ~sougankyo~
 the nobody woods : lucy demo
@@ -97615,6 +97735,7 @@ tikimon
 tikipilote
 tikitong
 tile tides
+tileguesser
 tilmitt
 tiltntwist
 tiltntwist llc
@@ -98021,6 +98142,7 @@ touhou spell carnival
 touhou volleyball
 touhou volleyball danmaku
 touhouproject
+touqi
 tour
 tour de france 2025
 tournament
@@ -98157,6 +98279,7 @@ trashbasher
 trashbashertrashbasher
 trashrally
 traucmahr
+trauma football
 travel cuisine 2: sweet life
 traveler lost
 traveler of light
@@ -99277,6 +99400,7 @@ virulent
 virus
 vis
 vis interactive
+viscera cleanup detail
 visceral
 visceral games
 visceralgames
@@ -99459,6 +99583,7 @@ wadjet eye
 wadjet eye games
 wadjeteye
 wadjeteyegames
+wag
 wagon
 wagonnet
 wagonnet a entonnoir
@@ -100330,6 +100455,7 @@ xzar
 y2roll soundtrack
 y\'sk
 y\sk
+yaarmi tycoon
 yaban
 yaban yaban
 yabanyaban
@@ -101068,6 +101194,8 @@ zèbre
 挂机工厂 afk industarry
 挂机工厂AFKIndustarry
 挂机手游模拟器
+文字遊戯 日本語版 
+文字遊戯(日本語版)
 时漏界限 edge  Demo
 时漏界限-EDGE- DEMO
 时漏界限-edge- Demo
@@ -101082,6 +101210,7 @@ zèbre
 東方エターナルフロンティア(touhoueternalfrontier)
 東方凸凹遊戯
 東１局５３本場
+极速营救
 构想彼方 IMAGINEFUTURE DEMO
 构想彼方 ImagineFuture Demo
 构想彼方 imaginefuture demo
@@ -101169,6 +101298,7 @@ zèbre
 觀塘 | Kwun Tong
 觀塘 | kwun tong
 觀塘|KwunTong
+规则：醒来之后，请别叫我
 词力牌：LEXILOONG
 词力牌：LexiLoong
 词力牌：lexiloong
