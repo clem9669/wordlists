@@ -58,10 +58,13 @@
 100 BERLIN CATS
 100 Berlin Cats
 100 CATS BELGRADE
+100 CATS LOST IN CANADA FIND & COLOR
 100 CATS LOST IN JAPAN FIND & COLOR
 100 CHINA CATS
 100 CRIME CATS
 100 Cats Belgrade
+100 Cats Lost In Canada Find   Color
+100 Cats Lost In Canada Find & Color
 100 Cats Lost In Japan Find   Color
 100 Cats Lost In Japan Find & Color
 100 China Cats
@@ -89,6 +92,7 @@
 100 aztec cats soundtrack
 100 berlin cats
 100 cats belgrade
+100 cats lost in canada find & color
 100 cats lost in japan find & color
 100 china cats
 100 crime cats
@@ -107,6 +111,7 @@
 100AztecCatsSoundtrack
 100BerlinCats
 100CatsBelgrade
+100CatsLostInCanadaFind&Color
 100CatsLostInJapanFind&Color
 100ChinaCats
 100CrimeCats
@@ -930,6 +935,7 @@
 ???? Roaming Backrooms
 ???? ~?????!~
 ????(????)
+????(Book Shooter)
 ????(Book Shooter) Demo
 ????(Dungeon Killing)
 ????(GigaSlave)
@@ -1541,6 +1547,8 @@ AI MATH DASH
 AI Math Dash
 AI PAINTER: PAINTING SIMULATOR
 AI PAINTER: Painting Simulator
+AI SPELCRAFT
+AI Spelcraft
 AI deal Rays
 AI-DEAL-RAYS
 AI-deal-Rays
@@ -1587,6 +1595,7 @@ AIRZONK
 AISYSTEM
 AISYSTEM TOKYO
 AISYSTEMTOKYO
+AISpelcraft
 AIWA
 AIZAWA
 AJANTIS
@@ -1851,6 +1860,7 @@ ALTERNATIVE SOFTWARE
 ALTERNATIVE SOFTWARE LTD
 ALTERNATIVESOFTWARE
 ALTERNATIVESOFTWARELTD
+ALTHEIA: THE WRATH OF AFERI
 ALTHI
 ALTRON
 ALTRON CORPORATION
@@ -2171,6 +2181,7 @@ ANSWER SOFTWARE CORP
 ANSWERSOFTWARE
 ANSWERSOFTWARECORP
 ANT GUARDIANS
+ANT WORKERS SIMULATOR
 ANTAGONISTES
 ANTARCTIC
 ANTARCTIC ADVENTURE
@@ -2399,6 +2410,7 @@ ARCSYSTEMWORKS
 ARCTHE
 ARCTHELAD
 ARCTURUS
+ARC’S GLITCH DEFENDER
 ARE
 AREA
 AREA 51
@@ -2694,6 +2706,7 @@ ASSASSIN'S
 ASSASSIN'S CREED
 ASSASSIN'S CREED 2
 ASSASSIN'S CREED II
+ASSASSIN'S CREED® ORIGINS
 ASSASSIN'SCREED
 ASSASSIN'SCREED2
 ASSASSIN'SCREEDII
@@ -3759,6 +3772,8 @@ Alternative Software
 Alternative Software Ltd
 AlternativeSoftware
 AlternativeSoftwareLtd
+Altheia: The Wrath of Aferi
+Altheia:TheWrathofAferi
 Althi
 Altron
 Altron Corporation
@@ -4088,7 +4103,9 @@ Answer Software Corp
 AnswerSoftware
 AnswerSoftwareCorp
 Ant Guardians
+Ant Workers Simulator
 AntGuardians
+AntWorkersSimulator
 Antagonistes
 Antarctic
 Antarctic Adventure
@@ -4271,6 +4288,7 @@ Arc System Works
 Arc developments
 Arc the
 Arc the Lad
+Arc's Glitch Defender
 ArcEntertainment
 ArcSystem
 ArcSystemWorks
@@ -4322,6 +4340,8 @@ Archons-Soundtrack
 Arcthe
 ArctheLad
 Arcturus
+Arc’s Glitch Defender
+Arc’sGlitchDefender
 Are
 Area
 Area 51
@@ -4589,9 +4609,13 @@ Aspect
 Asphalt
 Asphodelium
 Aspyr
+Assassin s Creed® Origins
 Assassin's
 Assassin's Creed
+Assassin's Creed(R) Origins
+Assassin's Creed® Origins
 Assassin'sCreed
+Assassin'sCreed®Origins
 Assassins
 Assassins Arena Demo
 Assassins Creed
@@ -4971,6 +4995,7 @@ B-Project
 B.
 B. LOCKER
 B. Locker
+B.A.N.K.
 B.B.
 B.I
 B.I.T.S
@@ -5383,6 +5408,7 @@ BASTIAN SCHICK
 BASTIANSCHICK
 BASTION
 BAT
+BAT & BALL
 BAT SPAWN
 BAT SPAWN EGG
 BATABON
@@ -5453,6 +5479,7 @@ BATTLEBORNE
 BATTLECIRCUIT
 BATTLEFIELD
 BATTLEFIELD™ 1
+BATTLEFIELD™ 2042
 BATTLEFIELD™ 6
 BATTLEFRONT
 BATTLEGOAT
@@ -6137,6 +6164,7 @@ BLASFEMIA
 BLASPHEMOUS
 BLAST
 BLAST CORPS
+BLAST RUSH LS
 BLAST!
 BLASTCORPS
 BLASTED DICE
@@ -6236,6 +6264,7 @@ BLOOD
 BLOOD FALCON
 BLOOD MONEY
 BLOOD RAVEN
+BLOOD STORM: ALIEN PURGE
 BLOODAXE
 BLOODBORNE
 BLOODBOUND KNIGHTS
@@ -6283,6 +6312,7 @@ BLUE ENERGY LABS LLC
 BLUE FANG
 BLUE FANG GAMES
 BLUE GNC
+BLUE HAWAII ANIKI'S SOFT ORE DEMAND DEBUT
 BLUE HILL WENDIGO
 BLUE LABEL
 BLUE LABEL ENTERTAINMENT
@@ -7473,8 +7503,11 @@ Bastian Schick
 BastianSchick
 Bastion
 Bat
+Bat   Ball
+Bat & Ball
 Bat Spawn
 Bat Spawn Egg
+Bat&Ball
 BatSpawn
 BatSpawnEgg
 Batabon
@@ -7545,10 +7578,13 @@ BattleTrain
 Battleborne
 Battlefield
 Battlefield(TM) 1
+Battlefield(TM) 2042
 Battlefield(TM) 6
 Battlefield™ 1
+Battlefield™ 2042
 Battlefield™ 6
 Battlefield™1
+Battlefield™2042
 Battlefield™6
 Battlefront
 Battleground
@@ -8241,8 +8277,10 @@ Blasfemia
 Blasphemous
 Blast
 Blast Corps
+Blast Rush LS
 Blast!
 BlastCorps
+BlastRushLS
 Blasted Dice
 BlastedDice
 Blasten!!
@@ -8346,11 +8384,13 @@ BlooberTeam
 Blood
 Blood Falcon
 Blood Raven
+Blood Storm: Alien Purge
 BloodBound Knights
 BloodBoundKnights
 BloodFalcon
 BloodRaven
 BloodRayne
+BloodStorm:AlienPurge
 Bloodaxe
 Bloodhouse
 Bloodhouse Ltd
@@ -8395,6 +8435,8 @@ Blue Energy Labs
 Blue Energy Labs LLC
 Blue Fang
 Blue Fang Games
+Blue Hawaii Aniki s Soft Ore Demand DEBUT
+Blue Hawaii Aniki's Soft Ore Demand DEBUT
 Blue Hill Wendigo
 Blue Label
 Blue Label Entertainment
@@ -8428,6 +8470,7 @@ BlueEnergyLabs
 BlueEnergyLabsLLC
 BlueFang
 BlueFangGames
+BlueHawaiiAniki'sSoftOreDemandDEBUT
 BlueHillWendigo
 BlueLabel
 BlueLabelEntertainment
@@ -9526,6 +9569,7 @@ CAR DEALER SIMULATOR
 CAR MECHANIC
 CAR MECHANIC SIMULATOR
 CAR PARKOUR X: ZOZO EDITION
+CAR SERVICE SIMULATOR
 CAR TUNING GARAGE SIMULATOR
 CAR-TOON CHAOS
 CARACTERISTIQUES
@@ -11870,6 +11914,7 @@ Car Dealer Simulator
 Car Mechanic
 Car Mechanic Simulator
 Car Parkour X: Zozo Edition
+Car Service Simulator
 Car Toon Chaos
 Car Tuning Garage Simulator
 Car Tuning Garage Simulator
@@ -11879,6 +11924,7 @@ CarDealerSimulator
 CarMechanic
 CarMechanicSimulator
 CarParkourX:ZozoEdition
+CarServiceSimulator
 CarTuning Garage Simulator
 Caracteristiques
 Caractéristiques
@@ -14560,6 +14606,7 @@ DECEASEDPIXELLLC
 DECEPTION
 DECK
 DECK 13
+DECK DASH
 DECK DEFENSE
 DECK OF HAUNTS
 DECK13
@@ -14604,6 +14651,7 @@ DEEP SEA ARENA
 DEEP SHADOWS
 DEEP SILVER
 DEEP SKY DERELICTS
+DEEP SLEEP: LABYRINTH OF THE FORSAKEN
 DEEPDUCKTROUBLESTARRINGDONALDDUCK
 DEEPFRIED
 DEEPFRIEDENTERTAINMENT
@@ -15164,6 +15212,7 @@ DIRTY TEACHERS
 DIRTYTEACHERS
 DISC
 DISCO
+DISCOUNTY
 DISCOVERY
 DISCOVERY GAMES
 DISCOVERY SOFTWARE
@@ -15353,6 +15402,7 @@ DON'T ASK SUCCUBUS
 DON'T BREAK
 DON'T BREATHE IN!
 DON'T DROP THE SOAP
+DON'T ESCAPE: 4 DAYS TO SURVIVE
 DON'T FALL
 DON'T FLIP FIRST
 DON'T FOOL ME, BEAUTIES!
@@ -16410,9 +16460,11 @@ DeceasedPixelLLC
 Deception
 Deck
 Deck 13
+Deck Dash
 Deck Defense
 Deck of Haunts
 Deck13
+DeckDash
 DeckDefense
 Deckard
 Deckard Cain
@@ -16454,6 +16506,7 @@ Deep Sea Arena
 Deep Shadows
 Deep Silver
 Deep Sky Derelicts
+Deep Sleep: Labyrinth of the Forsaken
 DeepBlue:DevourandEvolve
 DeepBlue:DevourandEvolveDemo
 DeepCuts
@@ -16469,6 +16522,7 @@ DeepSeaArena
 DeepShadows
 DeepSilver
 DeepSkyDerelicts
+DeepSleep:LabyrinthoftheForsaken
 Deepground
 Deer
 Deer Hunter
@@ -17037,6 +17091,7 @@ DirtyFantasy
 DirtyPianoLessons🍓
 Disc
 Disco
+Discounty
 Discovery
 Discovery Games
 Discovery Software
@@ -17223,6 +17278,7 @@ Don Resetti
 Don t Ask Succubus
 Don t Break
 Don t Drop The Soap
+Don t Escape: 4 Days to Survive
 Don t FOOL ME, Beauties!
 Don t Fall
 Don t Flip First
@@ -17236,6 +17292,7 @@ Don't
 Don't Ask Succubus
 Don't Break
 Don't Drop The Soap
+Don't Escape: 4 Days to Survive
 Don't FOOL ME, Beauties!
 Don't Fall
 Don't Flip First
@@ -17253,6 +17310,7 @@ Don't breathe in!
 Don'tAskSuccubus
 Don'tBreak
 Don'tDropTheSoap
+Don'tEscape:4DaystoSurvive
 Don'tFOOLME,Beauties!
 Don'tFall
 Don'tFlipFirst
@@ -25951,6 +26009,7 @@ HAPPINESS! SAKURA CELEBRATION!
 HAPPY
 HAPPY BLUE
 HAPPY BLUE FISH
+HAPPY COOKIES
 HAPPY NUCLEAR
 HAPPY PET
 HAPPY PIGGY 2
@@ -26049,6 +26108,7 @@ HATSUNEMIKUPROJECTDIVA
 HATSUNEMINASE
 HATTER
 HAUNTED HOUSE RENOVATOR
+HAUNTED ROOM : 205
 HAUNTEDMANAGER
 HAUS
 HAUS OF IRNDROUS
@@ -26323,6 +26383,7 @@ HERALD: THE INTERACTIVE PERIOD DRAMA – COMPLETE EDITION
 HERBERT
 HERBIZARRE
 HERCULE
+HERDLING
 HEREFRITH
 HEREFRITH HEREFRITH
 HEREFRITHHEREFRITH
@@ -26412,6 +26473,8 @@ HIBRIDYA
 HICOM
 HIDDEN
 HIDDEN CATS - ICE CREAM DAY
+HIDDEN CATS 4: AETHERPUNK
+HIDDEN CATS 4: Aetherpunk
 HIDDEN CATS : ZOMBIE HUNTER
 HIDDEN CATS IN RIO DE JANEIRO
 HIDDEN CATS: ROME
@@ -26421,6 +26484,7 @@ HIDDEN FLOOR
 HIDDEN MEMORIES OF THE GARDENS BETWEEN
 HIDDEN PATH
 HIDDEN PATH ENTERTAINMENT
+HIDDENCATS4:Aetherpunk
 HIDDENCITY
 HIDDENCITYGAMES
 HIDDENFLOOR
@@ -26693,6 +26757,7 @@ HORNY HAUNTS
 HORNY SLUTS IN SPACE
 HORROR
 HORROR CAMP
+HORROR IN THE FOREST
 HORROR NIGHT WITH TUNG TUNG TUNG SAHUR
 HORROR SOFT
 HORROR TRAMP
@@ -26786,6 +26851,7 @@ HUGE
 HUGHES
 HUGO
 HUGUES
+HUI-SHUO
 HULK
 HUMAGADE
 HUMAIN
@@ -27029,6 +27095,7 @@ Happiness!SakuraCelebration!
 Happy
 Happy Blue
 Happy Blue Fish
+Happy Cookies
 Happy Nuclear
 Happy Pet
 Happy Piggy 2
@@ -27037,6 +27104,7 @@ Happy Treasure King
 HappyAppy
 HappyBlue
 HappyBlueFish
+HappyCookies
 HappyNuclear
 HappyPet
 HappyPiggy2
@@ -27137,8 +27205,10 @@ HatsuneMikuProjectDIVA
 HatsuneMinase
 Hatter
 Haunted House Renovator
+Haunted Room : 205
 HauntedHouseRenovator
 HauntedManager
+HauntedRoom:205
 Haus
 Haus Of Irndrous
 Haus Teknikka
@@ -27448,6 +27518,7 @@ Herald:TheInteractivePeriodDrama–CompleteEdition
 Herbert
 Herbizarre
 Hercule
+Herdling
 Herefrith
 Herefrith Herefrith
 HerefrithHerefrith
@@ -27860,6 +27931,7 @@ Horror Night with Tung Tung Tung Sahur
 Horror Soft
 Horror Tramp
 Horror Tramp Horror Tramp
+Horror in the forest
 HorrorCamp
 HorrorNightwithTungTungTungSahur
 HorrorSoft
@@ -27868,6 +27940,7 @@ HorrorTramp
 HorrorTrampHorrorTramp
 Horrorillo Brainrotillo
 HorrorilloBrainrotillo
+Horrorintheforest
 Horse
 Horse Life
 Horse Plinko
@@ -27955,6 +28028,8 @@ Huge
 Hughes
 Hugo
 Hugues
+Hui Shuo
+Hui-Shuo
 Hulk
 Humagade
 Humain
@@ -28549,6 +28624,7 @@ INHOME
 INHOME SOFTWARE
 INHOMESOFTWARE
 INHOUSE
+INIMICUS
 INIS
 INITIAL
 INITIAL D
@@ -28871,6 +28947,7 @@ ISKANDAR
 ISKATU
 ISLAND
 ISLAND LIFE WITH MAYALALA
+ISLAND MARKET SIMULATOR: PROLOGUE
 ISLAND OF CORRUPTION
 ISLAND OFF OUTER DARKNESS
 ISLAND ROBOT FARM
@@ -29621,10 +29698,12 @@ Iskandar
 Iskatu
 Island
 Island Life With Mayalala
+Island Market Simulator: Prologue
 Island Off Outer Darkness
 Island Robot Farm
 Island of Corruption
 IslandLifeWithMayalala
+IslandMarketSimulator:Prologue
 IslandOffOuterDarkness
 IslandRobotFarm
 IslandofCorruption
@@ -31482,8 +31561,10 @@ KIKIJENKINS
 KIL'JAEDEN
 KILIK
 KILJAEDEN
+KILL THE BRICKMAN
 KILL THE CLOCK
 KILL THE CLOCK – DISGUISE PACK
+KILL THE MUSIC
 KILL THE SKELETONS
 KILLAWARE
 KILLBEAT
@@ -31703,6 +31784,7 @@ KNIGHT LOLITA DEMO
 KNIGHT LORE
 KNIGHT TECHNOLOGIES
 KNIGHT:
+KNIGHTICA
 KNIGHTLORE
 KNIGHTMARE
 KNIGHTS
@@ -32451,9 +32533,12 @@ Kiljaeden
 Kill The Clock
 Kill The Clock - Disguise Pack
 Kill The Clock – Disguise Pack
+Kill The Music
 Kill The Skeletons
+Kill the Brickman
 KillTheClock
 KillTheClock–DisguisePack
+KillTheMusic
 KillTheSkeletons
 Killaware
 Killeen
@@ -32476,6 +32561,7 @@ KillingTime
 Killspace
 Killspace Entertainment
 KillspaceEntertainment
+KilltheBrickman
 Killzone
 Kilmer
 Kilmer Software
@@ -32697,6 +32783,7 @@ KnightCrawler
 KnightLolitaDemo
 KnightLore
 KnightTechnologies
+Knightica
 Knightmare
 Knights
 Knights In A Different SpaceTime Demo
@@ -34200,6 +34287,7 @@ LITTLE MAC
 LITTLE ORBIT
 LITTLE SAMSON
 LITTLE TOWN SECRETS
+LITTLE WITCH SURVIVORS
 LITTLE WORLDS
 LITTLE WORLDS STUDIO
 LITTLEBATTLERS
@@ -35667,6 +35755,7 @@ Little Mac
 Little Orbit
 Little Samson
 Little Town Secrets
+Little Witch Survivors
 Little Worlds
 Little Worlds Studio
 LittleBattlers
@@ -35681,6 +35770,7 @@ LittleMac
 LittleOrbit
 LittleSamson
 LittleTownSecrets
+LittleWitchSurvivors
 LittleWorlds
 LittleWorldsStudio
 Litvert
@@ -36419,6 +36509,7 @@ MAJORAS MASK
 MAJORASMASK
 MAJORDEVELOPMENTS
 MAJORIS NIGHTMARE
+MAJOR\MINOR 2.0: (RE)VISION
 MAKABE
 MAKAIMURA
 MAKE
@@ -36820,6 +36911,7 @@ MASTER NECKY SR.
 MASTER OF
 MASTER OF 4 SWORDS
 MASTER OF ORION
+MASTER OF PIECE: PROLOGUE
 MASTER PENGY
 MASTER PENGY MASTER PENGY
 MASTER RAVEN
@@ -38567,6 +38659,7 @@ MY FURRY PROTOGEN 3 🐾
 MY LIFE IN A MONSTER GIRL PARADISE
 MY MATES DEMO
 MY MENTALLY UNSTABLE STREAMER GIRLFRIEND IS AN ABUSIVE SADIST
+MY MONEY GROWS ON TREES
 MY PET FLESH MONSTER
 MY RUSTY SUBMARINE - NEW WATERS
 MY SPLITTING IMAGE
@@ -38903,6 +38996,9 @@ MajesticSoftware
 Major
 Major Developments
 MajorDevelopments
+Major\Minor 2.0:  Re Vision
+Major\Minor 2.0: (Re)Vision
+Major\Minor2.0:(Re)Vision
 Majora
 Majoris Nightmare
 MajorisNightmare
@@ -39315,6 +39411,7 @@ Master System
 Master of
 Master of 4 Swords
 Master of Orion
+Master of Piece: Prologue
 MasterCreating
 MasterDesigner
 MasterDesignerSoftware
@@ -39329,6 +39426,7 @@ MasterSystem
 Masterof
 Masterof4Swords
 MasterofOrion
+MasterofPiece:Prologue
 Masterpieces
 Masters
 Mastertronic
@@ -41030,6 +41128,7 @@ My Furry Protogen 3 🐾
 My Life In A Monster Girl Paradise
 My Mates Demo
 My Mentally Unstable Streamer Girlfriend Is an Abusive Sadist
+My Money Grows On Trees
 My Pet Flesh Monster
 My Rusty Submarine   New Waters
 My Rusty Submarine - New Waters
@@ -41043,6 +41142,7 @@ MyFurryProtogen3🐾
 MyLifeInAMonsterGirlParadise
 MyMatesDemo
 MyMentallyUnstableStreamerGirlfriendIsanAbusiveSadist
+MyMoneyGrowsOnTrees
 MyPetFleshMonster
 MyRustySubmarine-NewWaters
 MySplittingImage
@@ -45788,6 +45888,7 @@ PIEUVRE
 PIG
 PIG SPAWN
 PIG SPAWN EGG
+PIGEON COO-LETTE
 PIGLIN
 PIGLIN BANNER
 PIGLIN BANNER PATTERN
@@ -47773,6 +47874,9 @@ Pig Spawn
 Pig Spawn Egg
 PigSpawn
 PigSpawnEgg
+Pigeon Coo lette
+Pigeon Coo-lette
+PigeonCoo-lette
 Piglin
 Piglin Brute
 Piglin Brute Spawn
@@ -49689,6 +49793,7 @@ REALTIME
 REALTIME ASSOCIATES
 REALTIME GAMES
 REALTIME GAMES SOFTWARE
+REALTIME SCREEN OCR TRANSLATOR
 REALTIMEASSOCIATES
 REALTIMEGAMES
 REALTIMEGAMESSOFTWARE
@@ -50672,6 +50777,7 @@ RUSTY
 RUSTY FLESH
 RUSTY HEIGHTS
 RUSTY WALRUS
+RUSTY'S ADVENTURE
 RUSTYWALRUS
 RUTO
 RUTUBO
@@ -51055,9 +51161,11 @@ Realtime
 Realtime Associates
 Realtime Games
 Realtime Games Software
+Realtime Screen OCR Translator
 RealtimeAssociates
 RealtimeGames
 RealtimeGamesSoftware
+RealtimeScreenOCRTranslator
 Reap
 Reaper Recon
 ReaperRecon
@@ -52094,6 +52202,9 @@ Rusty
 Rusty Flesh
 Rusty Heights
 Rusty Walrus
+Rusty s Adventure
+Rusty's Adventure
+Rusty'sAdventure
 RustyFlesh
 RustyHeights
 RustyWalrus
@@ -53881,6 +53992,7 @@ SNOW BROTHERS
 SNOW JOB
 SNOW PLOWING SIMULATOR
 SNOW VILLIERS
+SNOW • FALL
 SNOWBALL
 SNOWBLIND
 SNOWBLIND STUDIOS
@@ -57163,6 +57275,8 @@ Snow Brothers
 Snow Job
 Snow Plowing Simulator
 Snow Villiers
+Snow o Fall
+Snow • Fall
 SnowBrothers
 SnowJob
 SnowPlowingSimulator
@@ -57183,6 +57297,7 @@ Snowboarding
 Snowl
 Snowl Snowl
 SnowlSnowl
+Snow•Fall
 Snyder
 Soap
 Sobieska
@@ -58906,7 +59021,10 @@ T-800
 T.
 T.B.M ~ DIMES PACK 300
 T.B.M ~ Dimes Pack 300
+T.B.M ~THE BLUEPPERS MAYHEM~
+T.B.M ~The Blueppers Mayhem~
 T.B.M~DimesPack300
+T.B.M~TheBlueppersMayhem~
 T.FORTUNE
 T.Fortune
 T.S.S
@@ -59032,6 +59150,7 @@ TALES BEYOND THE TOMB - WHITE SILENCE
 TALES FROM HOIA BACIU FOREST
 TALES FROM THE DANCING MOON
 TALES OF
+TALES OF EDEN: MIDGARD
 TALES OF NOVARIEL
 TALES OF THE NIGHTMARES: SEASON ONE
 TALES OF THE SHIRE: A THE LORD OF THE RINGS™ GAME
@@ -59685,6 +59804,7 @@ THE GAME FACTORY
 THE GARDEN OF HERMENEUS
 THE GAZEBO
 THE GIANT CRAB IN SPACE
+THE GIRL FROM ARKANYA
 THE GOLDEN RETREAT
 THE GOONIES
 THE GRAND
@@ -61379,6 +61499,7 @@ Tales From Hoia Baciu Forest
 Tales Of The Nightmares: Season one
 Tales from The Dancing Moon
 Tales of
+Tales of Eden: Midgard
 Tales of Novariel
 Tales of the Shire: A The Lord of The Rings(TM) Game
 Tales of the Shire: A The Lord of The Rings(TM) Game - Official Soundtrack
@@ -61391,6 +61512,7 @@ TalesFromHoiaBaciuForest
 TalesOfTheNightmares:Seasonone
 TalesfromTheDancingMoon
 Talesof
+TalesofEden:Midgard
 TalesofNovariel
 TalesoftheShire:ATheLordofTheRings™Game
 TalesoftheShire:ATheLordofTheRings™Game-OfficialSoundtrack
@@ -62034,6 +62156,7 @@ The Game Factory
 The Garden of Hermeneus
 The Gazebo
 The Giant Crab in Space
+The Girl from Arkanya
 The Golden Retreat
 The Goonies
 The Grand
@@ -62358,6 +62481,7 @@ TheGameFactory
 TheGardenofHermeneus
 TheGazebo
 TheGiantCrabinSpace
+TheGirlfromArkanya
 TheGoldenRetreat
 TheGoonies
 TheGrand
@@ -65787,6 +65911,7 @@ WAYFORWARD
 WAYFORWARD TECHNOLOGIES
 WAYFORWARDTECHNOLOGIES
 WAYS
+WAYS OF ALCHEMY
 WAYSTONES
 WB
 WB GAMES
@@ -66622,6 +66747,8 @@ Wayforward
 Wayforward Technologies
 WayforwardTechnologies
 Ways
+Ways of Alchemy
+WaysofAlchemy
 Waystones
 WaytoTown
 We
@@ -67464,6 +67591,7 @@ YET TO BE NAMED ENTERPRISE
 YETARIAN
 YETI
 YETI STUDIOS
+YETIPARTY
 YETISTUDIOS
 YETTO
 YETTOBE
@@ -67724,6 +67852,7 @@ Yet to be Named Enterprise
 Yetarian
 Yeti
 Yeti Studios
+YetiParty
 YetiStudios
 Yetto
 Yettobe
@@ -68987,6 +69116,7 @@ ai
 ai factory
 ai math dash
 ai painter: painting simulator
+ai spelcraft
 ai-deal-rays
 aic
 aicom
@@ -69292,6 +69422,7 @@ alternative software
 alternative software ltd
 alternativesoftware
 alternativesoftwareltd
+altheia: the wrath of aferi
 althi
 altron
 altron corporation
@@ -69608,6 +69739,7 @@ answer software corp
 answersoftware
 answersoftwarecorp
 ant guardians
+ant workers simulator
 antagonistes
 antarctic
 antarctic adventure
@@ -69835,6 +69967,7 @@ arcsystemworks
 arcthe
 arcthelad
 arcturus
+arc’s glitch defender
 are
 area
 area 51
@@ -70114,6 +70247,7 @@ assassin's
 assassin's creed
 assassin's creed 2
 assassin's creed ii
+assassin's creed® origins
 assassin'screed
 assassin'screed2
 assassin'screedii
@@ -70481,6 +70615,7 @@ b-fly
 b-project
 b.
 b. locker
+b.a.n.k.
 b.b.
 b.i
 b.i.t.s
@@ -70889,6 +71024,7 @@ bastian schick
 bastianschick
 bastion
 bat
+bat & ball
 bat spawn
 bat spawn egg
 batabon
@@ -70961,6 +71097,7 @@ battleborne
 battlecircuit
 battlefield
 battlefield™ 1
+battlefield™ 2042
 battlefield™ 6
 battlefront
 battlegoat
@@ -71630,6 +71767,7 @@ blasfemia
 blasphemous
 blast
 blast corps
+blast rush ls
 blast!
 blastcorps
 blasted dice
@@ -71729,6 +71867,7 @@ blood
 blood falcon
 blood money
 blood raven
+blood storm: alien purge
 bloodaxe
 bloodborne
 bloodbound knights
@@ -71776,6 +71915,7 @@ blue energy labs llc
 blue fang
 blue fang games
 blue gnc
+blue hawaii aniki's soft ore demand debut
 blue hill wendigo
 blue label
 blue label entertainment
@@ -72869,6 +73009,7 @@ car dealer simulator
 car mechanic
 car mechanic simulator
 car parkour x: zozo edition
+car service simulator
 car tuning garage simulator
 car-toon chaos
 caracteristiques
@@ -75466,6 +75607,7 @@ deceasedpixelllc
 deception
 deck
 deck 13
+deck dash
 deck defense
 deck of haunts
 deck13
@@ -75510,6 +75652,7 @@ deep sea arena
 deep shadows
 deep silver
 deep sky derelicts
+deep sleep: labyrinth of the forsaken
 deepducktroublestarringdonaldduck
 deepfried
 deepfriedentertainment
@@ -76064,6 +76207,7 @@ dirty piano lessons 🍓
 dirty teachers
 disc
 disco
+discounty
 discovery
 discovery games
 discovery software
@@ -76247,6 +76391,7 @@ don't ask succubus
 don't break
 don't breathe in!
 don't drop the soap
+don't escape: 4 days to survive
 don't fall
 don't flip first
 don't fool me, beauties!
@@ -80963,6 +81108,7 @@ happiness! sakura celebration!
 happy
 happy blue
 happy blue fish
+happy cookies
 happy nuclear
 happy pet
 happy piggy 2
@@ -81061,6 +81207,7 @@ hatsunemikuprojectdiva
 hatsuneminase
 hatter
 haunted house renovator
+haunted room : 205
 hauntedmanager
 haus
 haus of irndrous
@@ -81342,6 +81489,7 @@ herald: the interactive period drama – complete edition
 herbert
 herbizarre
 hercule
+herdling
 herefrith
 herefrith herefrith
 herefrithherefrith
@@ -81430,6 +81578,7 @@ hibridya
 hicom
 hidden
 hidden cats - ice cream day
+hidden cats 4: aetherpunk
 hidden cats : zombie hunter
 hidden cats in rio de janeiro
 hidden cats: rome
@@ -81715,6 +81864,7 @@ horny haunts
 horny sluts in space
 horror
 horror camp
+horror in the forest
 horror night with tung tung tung sahur
 horror soft
 horror tramp
@@ -81804,6 +81954,7 @@ huge
 hughes
 hugo
 hugues
+hui-shuo
 hulk
 humagade
 humain
@@ -82389,6 +82540,7 @@ inhome
 inhome software
 inhomesoftware
 inhouse
+inimicus
 inis
 initial
 initial d
@@ -82702,6 +82854,7 @@ iskandar
 iskatu
 island
 island life with mayalala
+island market simulator: prologue
 island of corruption
 island off outer darkness
 island robot farm
@@ -83847,8 +84000,10 @@ kikijenkins
 kil'jaeden
 kilik
 kiljaeden
+kill the brickman
 kill the clock
 kill the clock – disguise pack
+kill the music
 kill the skeletons
 killaware
 killbeat
@@ -84067,6 +84222,7 @@ knight lolita demo
 knight lore
 knight technologies
 knight:
+knightica
 knightlore
 knightmare
 knights
@@ -85593,6 +85749,7 @@ little mac
 little orbit
 little samson
 little town secrets
+little witch survivors
 little worlds
 little worlds studio
 littlebattlers
@@ -86293,6 +86450,7 @@ majestic software
 majesticsoftware
 major
 major developments
+major\minor 2.0: (re)vision
 majora
 majora's
 majora's mask
@@ -86710,6 +86868,7 @@ master necky sr.
 master of
 master of 4 swords
 master of orion
+master of piece: prologue
 master pengy
 master pengy master pengy
 master raven
@@ -88434,6 +88593,7 @@ my furry protogen 3 🐾
 my life in a monster girl paradise
 my mates demo
 my mentally unstable streamer girlfriend is an abusive sadist
+my money grows on trees
 my pet flesh monster
 my rusty submarine - new waters
 my splitting image
@@ -91243,6 +91403,7 @@ pieuvre
 pig
 pig spawn
 pig spawn egg
+pigeon coo-lette
 piglin
 piglin banner
 piglin banner pattern
@@ -92991,6 +93152,7 @@ realtime
 realtime associates
 realtime games
 realtime games software
+realtime screen ocr translator
 realtimeassociates
 realtimegames
 realtimegamessoftware
@@ -93954,6 +94116,7 @@ rusty
 rusty flesh
 rusty heights
 rusty walrus
+rusty's adventure
 rustywalrus
 ruto
 rutubo
@@ -95637,6 +95800,7 @@ snow brothers
 snow job
 snow plowing simulator
 snow villiers
+snow • fall
 snowball
 snowblind
 snowblind studios
@@ -97263,6 +97427,7 @@ t&esoftinc
 t-800
 t.
 t.b.m ~ dimes pack 300
+t.b.m ~the blueppers mayhem~
 t.fortune
 t.s.s
 t.t.i
@@ -97377,6 +97542,7 @@ tales beyond the tomb - white silence
 tales from hoia baciu forest
 tales from the dancing moon
 tales of
+tales of eden: midgard
 tales of novariel
 tales of the nightmares: season one
 tales of the shire: a the lord of the rings™ game
@@ -98023,6 +98189,7 @@ the game factory
 the garden of hermeneus
 the gazebo
 the giant crab in space
+the girl from arkanya
 the golden retreat
 the goonies
 the grand
@@ -100748,6 +100915,7 @@ wayforward
 wayforward technologies
 wayforwardtechnologies
 ways
+ways of alchemy
 waystones
 wb
 wb games
@@ -101439,6 +101607,7 @@ yet to be named enterprise
 yetarian
 yeti
 yeti studios
+yetiparty
 yetistudios
 yetto
 yettobe
@@ -102289,9 +102458,13 @@ zèbre
 鬼灵的冒险GUILING's Adventure
 鬼灵的冒险GUILING'sAdventure
 鬼灵的冒险guiling's adventure
+魔书射爆（BOOK SHOOTER）
 魔书射爆（BOOK SHOOTER） DEMO
+魔书射爆（Book Shooter）
 魔书射爆（Book Shooter） Demo
+魔书射爆（BookShooter）
 魔书射爆（BookShooter）Demo
+魔书射爆（book shooter）
 魔书射爆（book shooter） demo
 魔法少女ノ魔女裁判
 龍躍九天   情繫江湖
