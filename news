@@ -2708,6 +2708,7 @@ ANTWERP 'UNION
 ANTWERP - AEK
 ANTWERP - ANDERLECHT
 ANTWERP - CLUB BRUGGE
+ANTWERP - MECHELEN
 ANTWERP - OMONIA
 ANTWERP - UNION
 ANTWERP 10 MILES
@@ -15816,6 +15817,7 @@ COWBOY BEBOP
 CPAM
 CPI
 CR7
+CRACKER BARREL
 CRAIG BREEN
 CRAMMEROCK
 CRANS MONTANA
@@ -15964,6 +15966,7 @@ CRYPTONEWS
 CRYSTAL PALACE
 CRYSTAL PALACE  WEST HAM
 CRYSTAL PALACE - MILLWALL
+CRYSTAL PALACE - NOTTM FOREST
 CRYSTAL PALACE GEGEN ARSENAL
 CRYSTAL PALACE – ARSENAL
 CRYSTAL PALACE – BRENTFORD
@@ -15974,6 +15977,7 @@ CRYSTAL PALACE – MAN CITY
 CRYSTAL PALACE – MANCHESTER CITY
 CRYSTAL PALACE – MANCHESTER UNITED
 CRYSTAL PALACE – MILLWALL
+CRYSTAL PALACE – NOTTM FOREST
 CRYSTAL PALACE – TOTTENHAM
 CRYSTAL PALACE – WOLVES
 CRYSTAL POOL
@@ -20014,7 +20018,9 @@ DBS GROUP
 DBS Group
 DBSGroup
 DC UNITED
+DC UNITED - INTER MIAMI
 DC UNITED – BAYERN
+DC UNITED – INTER MIAMI
 DC United
 DC United – Bayern
 DCD
@@ -24842,6 +24848,7 @@ EVERGRANDE
 EVERGRANDE AKTIE
 EVERLY BROTHERS
 EVERTON
+EVERTON - BRIGHTON
 EVERTON - IPSWICH TOWN
 EVERTON GEGEN ARSENAL
 EVERTON – ARSENAL
@@ -28832,6 +28839,7 @@ FUJIFILM X100VI
 FUKUSHIMA
 FULGINI
 FULHAM - EVERTON
+FULHAM F.C. VS MANCHESTER UNITED F.C. TIMELINE
 FULHAM – ARSENAL
 FULHAM – ASTON VILLA
 FULHAM – CHELSEA
@@ -31902,6 +31910,7 @@ GIOVANNI MPETSHI PERRICARD
 GIOVANNI SIMEONE
 GIOVANNI TOTI
 GIOVANNI ZARRELLA
+GIOVANNI ZARRELLA SHOW
 GIRL
 GIRMAY
 GIRO
@@ -31939,6 +31948,7 @@ GIULIA GWINN
 GIULIA STEINGRUBER
 GIULIA TANNO
 GIULIA TRAMONTANO
+GIUSEPPA
 GIUSEPPA ET PAGA
 GIVAUDAN
 GIVE PEACE A CHANCE
@@ -32259,11 +32269,13 @@ GRASPOP 2022
 GRASPOP 2023
 GRASPOP LINE-UP
 GRASSE
+GRASSHOPPERS - WINTERTHUR
 GRASSHOPPERS GEGEN FCB
 GRASSHOPPERS GEGEN LAUSANNE-SPORT
 GRASSHOPPERS – FC SION
 GRASSHOPPERS – SERVETTE
 GRASSHOPPERS – ST. GALLEN
+GRASSHOPPERS – WINTERTHUR
 GRASSHOPPERS – ZÜRICH
 GRATTE-CIEL CHINE INCENDIE
 GRAU DU ROI
@@ -37443,6 +37455,7 @@ IRONMAN KNOKKE
 IRONMAN NICE
 IRONMAN RAPPERSWIL
 IRONMAN THUN
+IRONMAN THUN STRECKE
 IRPIN
 IRRÉDUCTIBLE
 IS REDDIT DOWN
@@ -39514,6 +39527,7 @@ JEROME POWELL
 JEROME RIVIERE
 JEROME RODRIGUES
 JEROOM
+JERRY ADLER
 JERRY DOUGLAS
 JERRY HALL
 JERRY LAWSON
@@ -46778,6 +46792,7 @@ LORI GLORI
 LORIE
 LORIE PESTER
 LORIENT
+LORIENT - RENNES
 LORIENT – ANGERS
 LORIENT – AUXERRE
 LORIENT – CLERMONT
@@ -50807,6 +50822,7 @@ MAAIKE DE VREESE
 MAAIKE VANDENHOVE ONGEVAL
 MAALTIJDCHEQUES
 MAANROCK
+MAANROCK 2025
 MAANSVERDUISTERING
 MAARTEN ALEXANDER
 MAARTEN BOSMANS
@@ -72740,6 +72756,7 @@ SENEGAL GUINEE
 SENEGAL ZIMBABWE
 SENEGAL-CAP-VERT
 SENEGALCAPVERT
+SENNE LAMMENS
 SENNE LYNEN
 SENS COMMUN
 SENTA BERGER
@@ -73745,6 +73762,7 @@ SRF2
 SRF3
 SRFArena
 SRFArenaSandroBrotz
+SRFC
 SRFLIVE
 SRFModeratorin
 SRFNews
@@ -73784,6 +73802,9 @@ ST. GALLEN – LAUSANNE-SPORT
 ST. GALLEN – SERVETTE
 ST. GALLEN – SION
 ST. JOHANN
+ST. MIRREN - GLASGOW RANGERS
+ST. MIRREN - RANGERS
+ST. MIRREN – GLASGOW RANGERS
 ST. NIKOLAUS
 ST. PATRICK
 ST. PATRICK'S DAY
@@ -88908,6 +88929,7 @@ ZOO DE BEAUVAL
 ZOO DE LA FLECHE
 ZOO LEIPZIG SCHLAFERT TIGERBABYS EIN
 ZOO LEIPZIG SCHLÄFERT TIGERBABYS EIN
+ZOO ZURICH
 ZOO ZÜRICH
 ZOOM
 ZORA DEL BUONO
@@ -91564,6 +91586,7 @@ antwerp 'union
 antwerp - aek
 antwerp - anderlecht
 antwerp - club brugge
+antwerp - mechelen
 antwerp - omonia
 antwerp - union
 antwerp 10 miles
@@ -91586,11 +91609,13 @@ antwerp-beerschot
 antwerp-cercle
 antwerp-club brugge
 antwerp-clubbrugge
+antwerp-mechelen
 antwerp-union
 antwerp. anderlecht
 antwerpcharleroi
 antwerpen vuurwerk
 antwerpen-centraal
+antwerpfc
 antwerpportepic
 antwerppride
 antwerpvsanderlecht
@@ -97383,6 +97408,8 @@ cowboy bebop
 cpam
 cpi
 cr7
+cracker barrel
+crackerbarrel
 craig breen
 crammerock
 crans montana
@@ -97551,6 +97578,7 @@ crystal palace
 crystal palace  millwall
 crystal palace  west ham
 crystal palace - millwall
+crystal palace - nottm forest
 crystal palace gegen arsenal
 crystal palace – arsenal
 crystal palace – brentford
@@ -97561,14 +97589,17 @@ crystal palace – man city
 crystal palace – manchester city
 crystal palace – manchester united
 crystal palace – millwall
+crystal palace – nottm forest
 crystal palace – tottenham
 crystal palace – wolves
 crystal pool
 crystalpalace
 crystalpalace-millwall
+crystalpalace-nottmforest
 crystalpalace–brentford
 crystalpalace–brighton
 crystalpalace–millwall
+crystalpalace–nottmforest
 crépol
 cs
 cs-aktie
@@ -98097,8 +98128,12 @@ dayle haddon
 dazn
 dbs group
 dc united
+dc united - inter miami
 dc united – bayern
+dc united – inter miami
 dcd
+dcunited-intermiami
+dcunited–intermiami
 ddl zan
 de bende
 de blankaart
@@ -100784,6 +100819,7 @@ evergrande
 evergrande aktie
 everly brothers
 everton
+everton - brighton
 everton - ipswich town
 everton gegen arsenal
 everton – arsenal
@@ -100797,8 +100833,10 @@ everton – manchester united
 everton – manunited
 everton – newcastle
 everton – tottenham
+everton-brighton
 everton-ipswichtown
 everton–arsenal
+everton–brighton
 everton–ipswichtown
 everton–manchestercity
 everton–manchesterunited
@@ -102629,6 +102667,7 @@ fujifilm x100vi
 fukushima
 fulgini
 fulham - everton
+fulham f.c. vs manchester united f.c. timeline
 fulham – arsenal
 fulham – aston villa
 fulham – chelsea
@@ -102638,6 +102677,7 @@ fulham – manchester city
 fulham – manchester united
 fulham – tottenham
 fulham-everton
+fulhamf.c.vsmanchesterunitedf.c.timeline
 fulham–chelsea
 fulham–everton
 fulham–liverpool
@@ -103414,9 +103454,11 @@ giovanni mpetshi perricard
 giovanni simeone
 giovanni toti
 giovanni zarrella
+giovanni zarrella show
 giovannibattistare
 giovannimpetshiperricard
 giovannisimeone
+giovannizarrellashow
 girl
 girmay
 giro
@@ -103465,6 +103507,7 @@ giulia gwinn
 giulia steingruber
 giulia tanno
 giulia tramontano
+giuseppa
 giuseppa et paga
 giuseppaetpaga
 givaudan
@@ -103765,13 +103808,17 @@ graspop 2022
 graspop 2023
 graspop line-up
 grasse
+grasshoppers - winterthur
 grasshoppers gegen fcb
 grasshoppers gegen lausanne-sport
 grasshoppers – fc sion
 grasshoppers – servette
 grasshoppers – st. gallen
+grasshoppers – winterthur
 grasshoppers – zürich
+grasshoppers-winterthur
 grasshoppers–fcsion
+grasshoppers–winterthur
 gratte-ciel chine incendie
 grau du roi
 grauduroi
@@ -104433,6 +104480,7 @@ hans-peter portmann
 hans-ueli vogt
 hansi flick
 hansi hinterseer
+hansihinterseer
 hansimgluck
 hansimglück
 hansjörg wyss
@@ -105986,7 +106034,9 @@ ironman knokke
 ironman nice
 ironman rapperswil
 ironman thun
+ironman thun strecke
 ironmanthun
+ironmanthunstrecke
 irpin
 irréductible
 is reddit down
@@ -106897,12 +106947,14 @@ jerome riviere
 jerome rodrigues
 jeromepowell
 jeroom
+jerry adler
 jerry douglas
 jerry hall
 jerry lawson
 jerry lee lewis
 jerry seinfeld
 jerry springer
+jerryadler
 jersey
 jesper skibby
 jessa ziekenhuis
@@ -110626,6 +110678,7 @@ lori glori
 lorie
 lorie pester
 lorient
+lorient - rennes
 lorient – angers
 lorient – auxerre
 lorient – clermont
@@ -110647,6 +110700,8 @@ lorient – rennes
 lorient – saint-étienne
 lorient – toulouse
 lorient – troyes
+lorient-rennes
+lorient–rennes
 lorin parys
 loriot
 loris the voice
@@ -111204,6 +111259,8 @@ maaikedevreese
 maaikevandenhoveongeval
 maaltijdcheques
 maanrock
+maanrock 2025
+maanrock2025
 maansverduistering
 maarten alexander
 maarten bosmans
@@ -118987,6 +119044,7 @@ renato carettoni
 renato marin
 renato sanches
 renatomarin
+renatosanches
 renaud
 renaud capuçon
 renaud chanteur
@@ -121031,7 +121089,9 @@ senegal guinee
 senegal zimbabwe
 senegal-cap-vert
 senegal-congo
+senne lammens
 senne lynen
+sennelammens
 sens commun
 senta berger
 sentinel 6
@@ -122080,6 +122140,7 @@ srf.chsport
 srf2
 srf2live
 srf3
+srfc
 srflive
 srflivesport
 srfmeteo
@@ -122115,6 +122176,10 @@ st. gallen – lausannesport
 st. gallen – servette
 st. gallen – sion
 st. johann
+st. mirren  rangers
+st. mirren - glasgow rangers
+st. mirren - rangers
+st. mirren – glasgow rangers
 st. nikolaus
 st. patrick
 st. patrick's day
@@ -122137,6 +122202,9 @@ st.gallen – winterthur
 st.gallen – śląsk wrocław
 st.gallen–lausanne-sport
 st.gallen–servette
+st.mirren-glasgowrangers
+st.mirren-rangers
+st.mirren–glasgowrangers
 st.patrick's day
 st.patricks day
 staatsbon belgie
@@ -122340,6 +122408,7 @@ stefanie fleckenstein
 stefanie giesinger
 stefanie heinzmann
 stefanie hertel
+stefanmross
 stefanos kasselakis syriza
 stefanraabesc
 stefanrogentin
@@ -127665,10 +127734,13 @@ zoo de beauval
 zoo de la fleche
 zoo leipzig schlafert tigerbabys ein
 zoo leipzig schläfert tigerbabys ein
+zoo zurich
 zoo zürich
 zooleipzigschlaferttigerbabysein
 zooleipzigschläferttigerbabysein
 zoom
+zoozurich
+zoozürich
 zora del buono
 zorg en gezondheid
 zorgboerderij huppeldepup
