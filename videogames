@@ -956,7 +956,9 @@
 ????.????
 ????/LoseGraceTale
 ????:??
+????:???
 ????:????
+????:??????
 ?????
 ????? -The Cursed Underground Parking Lot-
 ????? Beta House
@@ -5503,6 +5505,7 @@ BATTA? BATTA!
 BATTERY
 BATTERY ACID
 BATTERY ACID GAMES
+BATTERY FARM
 BATTERYACID
 BATTERYACIDGAMES
 BATTLE
@@ -6257,6 +6260,7 @@ BLEACH:HEATTHE
 BLEACH:HEATTHESOUL
 BLEACHHEATTHESOUL
 BLEAK
+BLEAKLIGHT FALLS DEMO
 BLEB
 BLEDAR
 BLEDAR MORINA
@@ -6540,6 +6544,7 @@ BOMBINETTE
 BOMBINETTE NOKO
 BOMBINETTENOKO
 BOMBJACK
+BOMBMACHINE GUNZOHG
 BOMBY
 BON
 BONANZA
@@ -7607,8 +7612,10 @@ Batta?Batta!
 Battery
 Battery Acid
 Battery Acid Games
+Battery Farm
 BatteryAcid
 BatteryAcidGames
+BatteryFarm
 Battle
 Battle Against the Acolytes of Science
 Battle Arena
@@ -8382,6 +8389,8 @@ Bleach:Heatthe
 Bleach:HeattheSoul
 BleachHeattheSoul
 Bleak
+Bleaklight Falls Demo
+BleaklightFallsDemo
 Bleb
 Bledar
 Bledar Morina
@@ -8641,6 +8650,8 @@ Bomb Bomb
 Bomb Jack
 BombBomb
 BombJack
+BombMachine Gunzohg
+BombMachineGunzohg
 Bomballon
 Bomballon Bomballon
 BomballonBomballon
@@ -9625,6 +9636,7 @@ CAPTAINFIRAT
 CAPTAINGOODNIGHT
 CAPTAINMARVEL
 CAPTURE NEXUS
+CAPUT MORTUM
 CAPYBARA
 CAPYBARA GAMES
 CAPYBARAGAMES
@@ -9675,6 +9687,7 @@ CARMEN SANDIEGO
 CARMENORTIZ
 CARMENSANDIEGO
 CARNAGE BATTLE ARENA DEMO
+CARNAL SINS: MALUM INCARNATUM + CARNE VESCENS
 CARNIVAL
 CARNIVAL GAMES
 CARNIVAL HAPPY DAY
@@ -10308,6 +10321,7 @@ CHINOWSKI
 CHIP
 CHIP CHIP
 CHIP DAMAGE
+CHIP ‘N CLAWZ VS. THE BRAINIOIDS
 CHIP'N
 CHIP'N DALE RESCUE RANGERS
 CHIP'N DALE RESCUE RANGERS 1  2
@@ -11481,6 +11495,8 @@ CRL GROUP
 CRL Group
 CRLGROUP
 CRLGroup
+CROAK CAFE : FROM POND TO PLATE
+CROAKCAFE:FROMPONDTOPLATE
 CROAPULE
 CROC ROYALE
 CROCKET
@@ -11976,6 +11992,8 @@ CaptainMarvel
 CaptainofIndustry
 Capture Nexus
 CaptureNexus
+Caput Mortum
+CaputMortum
 Capybara
 Capybara Games
 CapybaraGames
@@ -12041,6 +12059,8 @@ CarmenOrtiz
 CarmenSandiego
 Carnage Battle Arena Demo
 CarnageBattleArenaDemo
+Carnal Sins: Malum Incarnatum + Carne Vescens
+CarnalSins:MalumIncarnatum+CarneVescens
 Carnival
 Carnival Games
 Carnival Happy Day
@@ -12640,8 +12660,10 @@ ChineseChessWay
 ChinoRondo
 Chinowski
 Chip
+Chip 'n Clawz vs. The Brainioids
 Chip Chip
 Chip Damage
+Chip ‘n Clawz vs. The Brainioids
 Chip'n
 Chip'n Dale Rescue Rangers
 Chip'n Dale Rescue Rangers 1  2
@@ -12664,6 +12686,7 @@ ChipnDaleRescueRangers12
 Chips
 Chips Challenge
 ChipsChallenge
+Chip‘nClawzvs.TheBrainioids
 Chisheng
 ChittyChittyBangBang
 Chivalry 2
@@ -14901,6 +14924,7 @@ DESEAN
 DESERT
 DESERT FALCON
 DESERT STRIKE
+DESERTER: PROLOGUE
 DESERTFALCON
 DESERTSTRIKE
 DESIGN
@@ -15470,6 +15494,7 @@ DOMINATED BY: YANDERE GOTH GAMER GIRL 2
 DOMINATED BY: YANDERE GOTH GIRLFRIEND 4
 DOMINATED BY: YANDERE GOTH LIFEGUARD
 DOMINATED BY: YANDERE GOTH MAID
+DOMINATED BY: YANDERE GOTH MILF
 DOMINATED BY: YANDERE GOTH MILF MAID
 DOMINATED BY: YANDERE GOTH MOMMY
 DOMINATED BY: YANDERE GOTH WEEB GIRLFRIEND
@@ -16028,6 +16053,7 @@ DUNGEONS & DRAGONS: DRAGONSHARD
 DUNGEONS OF UHR DEMO
 DUNGEONS&DRAGONS
 DUNGEONSDRAGONS
+DUNGERO
 DUO
 DUO DUCK HUNT
 DUODUCKHUNT
@@ -16779,6 +16805,8 @@ Desert Falcon
 Desert Strike
 DesertFalcon
 DesertStrike
+Deserter: Prologue
+Deserter:Prologue
 Design
 Design and Conjure Demo
 DesignStar
@@ -17344,6 +17372,7 @@ Dominated by: Yandere Goth Gamer Girl
 Dominated by: Yandere Goth Gamer Girl 2
 Dominated by: Yandere Goth Girlfriend 4
 Dominated by: Yandere Goth Lifeguard
+Dominated by: Yandere Goth MILF
 Dominated by: Yandere Goth MILF Maid
 Dominated by: Yandere Goth Maid
 Dominated by: Yandere Goth Mommy
@@ -17356,6 +17385,7 @@ Dominatedby:YandereGothGamerGirl
 Dominatedby:YandereGothGamerGirl2
 Dominatedby:YandereGothGirlfriend4
 Dominatedby:YandereGothLifeguard
+Dominatedby:YandereGothMILF
 Dominatedby:YandereGothMILFMaid
 Dominatedby:YandereGothMaid
 Dominatedby:YandereGothMommy
@@ -17961,6 +17991,7 @@ Dungeons&Dragons
 Dungeons&Dragons:Dragonshard
 DungeonsDragons
 DungeonsofUhrDemo
+Dungero
 Duo
 Duo Duck Hunt
 DuoDuckHunt
@@ -18242,6 +18273,7 @@ ECHO PROTOCOL: ESCAPE ROOM
 ECHOES OF FORGOTTEN DREAMS
 ECHOES OF FORGOTTEN DREAMS DIGITAL ART BOOK
 ECHOES OF MK-ULTRA
+ECHOES OF SEASONS
 ECHOES OF STEEL
 ECHOES OF THE END
 ECHOES OF THE SUN
@@ -19222,6 +19254,7 @@ EYEDIP
 EYEOF
 EYEOFENDER
 EYEOFTHEBEHOLDER
+EYES OF HELLFIRE
 EYES OF RAIN
 EYES ON THE EXAM
 EYESONTHEEXAM
@@ -19323,6 +19356,7 @@ Echoes of Forgotten Dreams
 Echoes of Forgotten Dreams Digital Art Book
 Echoes of MK ULTRA
 Echoes of MK-ULTRA
+Echoes of Seasons
 Echoes of Steel
 Echoes of Time
 Echoes of Vasteria
@@ -19332,6 +19366,7 @@ Echoes of the Wild
 EchoesofForgottenDreams
 EchoesofForgottenDreamsDigitalArtBook
 EchoesofMK-ULTRA
+EchoesofSeasons
 EchoesofSteel
 EchoesofTime
 EchoesofVasteria
@@ -20290,7 +20325,9 @@ Eyedip
 Eyeof
 EyeofEnder
 EyeoftheBeholder
+Eyes of Hellfire
 Eyes of Rain
+EyesofHellfire
 EyesofRain
 Ezmobo
 F
@@ -20939,6 +20976,7 @@ FLAPPYFLAPPY
 FLASH
 FLASHBACK
 FLASHING LIGHTS - POLICE, FIREFIGHTING, EMERGENCY SERVICES (EMS) SIMULATOR
+FLASHMASTER
 FLASHPOINT
 FLASHPOINT PRODUCTIONS
 FLASHPOINTPRODUCTIONS
@@ -22258,6 +22296,7 @@ Flashing Lights   Police, Firefighting, Emergency Services (EMS) Simulator
 Flashing Lights - Police, Firefighting, Emergency Services  EMS  Simulator
 Flashing Lights - Police, Firefighting, Emergency Services (EMS) Simulator
 FlashingLights-Police,Firefighting,EmergencyServices(EMS)Simulator
+Flashmaster
 Flashpoint
 Flashpoint Productions
 FlashpointProductions
@@ -23362,6 +23401,7 @@ GEARGAMES
 GEARS
 GEARS OF
 GEARS OF WAR
+GEARS OF WAR: RELOADED
 GEARSOF
 GEARSOFWAR
 GEARY
@@ -24879,8 +24919,10 @@ GearboxSoftware
 Gears
 Gears of
 Gears of War
+Gears of War: Reloaded
 Gearsof
 GearsofWar
+GearsofWar:Reloaded
 Geary
 Gebelli
 Gebelli Software
@@ -26210,6 +26252,7 @@ HARUMI
 HARUMI KIMIHARA
 HARUMIKIMIHARA
 HARVEST
+HARVEST LOOP
 HARVEST MOON
 HARVESTMOON
 HASARD
@@ -27319,7 +27362,9 @@ Harumi
 Harumi Kimihara
 HarumiKimihara
 Harvest
+Harvest Loop
 Harvest Moon
+HarvestLoop
 HarvestMoon
 Hasard
 Hasbro
@@ -33577,6 +33622,8 @@ LAPISLAZULI
 LAPLAND
 LAPLAND STUDIO
 LAPLANDSTUDIO
+LAPPY GAMES
+LAPPYGAMES
 LAPRINCESSEFEEBANANE
 LARA
 LARAIGNEE
@@ -34696,6 +34743,7 @@ LOURANT
 LOVE
 LOVE AND HATRED
 LOVE BATTLE SPIRIT
+LOVE BEGINS WITH GOODBYE
 LOVE CULT
 LOVE HOTEL MANAGER
 LOVE IS ALL AROUND 2
@@ -36183,12 +36231,14 @@ Loupiot
 Lourant
 Love
 Love Battle Spirit
+Love Begins With Goodbye
 Love Cult
 Love Hotel Manager
 Love and Hatred
 Love is All Around 2
 Love n Life: Happy Student
 LoveBattleSpirit
+LoveBeginsWithGoodbye
 LoveCult
 LoveHotelManager
 LoveandHatred
@@ -41878,6 +41928,7 @@ NEPTUNE
 NEPTUNE INTERACTIVE
 NEPTUNEINTERACTIVE
 NEPTUNIA
+NEPTUNIA GAME MAKER R:EVOLUTION
 NEPTUNIA RIDERS VS DOGOOS
 NER'ZHUL
 NERO
@@ -42834,7 +42885,9 @@ Neptune
 Neptune Interactive
 NeptuneInteractive
 Neptunia
+Neptunia Game Maker R:Evolution
 Neptunia Riders VS Dogoos
+NeptuniaGameMakerR:Evolution
 NeptuniaRidersVSDogoos
 Ner'zhul
 Nero
@@ -45647,6 +45700,7 @@ PASSION
 PASSOS
 PAST
 PASTAGAMES
+PASTEL☆PARADE
 PASTEQUE
 PASTOPIA DEMO
 PASTÈQUE
@@ -47737,6 +47791,8 @@ Passion
 Passos
 Past
 Pastagames
+Pastel?Parade
+Pastel☆Parade
 Pastopia Demo
 PastopiaDemo
 Pata
@@ -49461,6 +49517,7 @@ QPet Zoo
 QPetZoo
 QQQ
 QU ZONE
+QUACK ATTACK
 QUACKSHOT
 QUADROFRIEND
 QUAIL CROSSING
@@ -49507,6 +49564,7 @@ QUARKDATA
 QUARTERBACK
 QUARTERMASTER
 QUARTERS
+QUARTET
 QUARTZ
 QUARTZ DU NETHER
 QUARTZDUNETHER
@@ -49577,6 +49635,8 @@ QUTE
 Qiwang
 Qu Zone
 QuZone
+Quack Attack
+QuackAttack
 Quackshot
 Quadrofriend
 Quail Crossing
@@ -49615,6 +49675,7 @@ QuarkData
 Quarterback
 Quartermaster
 Quarters
+Quartet
 Quartz
 Quartz du Nether
 QuartzduNether
@@ -53662,6 +53723,7 @@ SHOGI
 SHOMA
 SHOMA SAWAMURA
 SHOMASAWAMURA
+SHOOMER BOOTER
 SHOOT & NEON
 SHOOT FOR THE STARS
 SHOOTING
@@ -54664,6 +54726,7 @@ SPACE SHUTTLE
 SPACE STORM
 SPACE WARS
 SPACEBAR
+SPACEBAR X
 SPACECHANNEL
 SPACECHANNEL5
 SPACECORP: 2025-2300AD
@@ -55205,6 +55268,7 @@ STILL WAKES THE DEEP: SIREN’S REST
 STING
 STINGEREP1
 STOCKAGE
+STOCKS
 STOLEN LEGACY RISE OF THE FALLEN
 STOMACH
 STOMPER
@@ -55268,6 +55332,7 @@ STRATEGIC
 STRATEGIC SIMULATIONS
 STRATEGIC SIMULATIONS INC
 STRATEGIC SIMULATIONS, INC
+STRATEGIC STALEMATE
 STRATEGICSIMULATIONS
 STRATEGICSIMULATIONS,INC
 STRATEGICSIMULATIONSINC
@@ -55873,6 +55938,7 @@ SYNERGISTICSOFTWAREINC
 SYNERGY
 SYNETIC
 SYNSOFT
+SYNTHWAVE BURNOUT VR
 SYNTHWAVE DREAM '85
 SYPHON
 SYPHON FILTER
@@ -56954,6 +57020,8 @@ Shogi
 Shoma
 Shoma Sawamura
 ShomaSawamura
+Shoomer Booter
+ShoomerBooter
 Shoot   Neon
 Shoot & Neon
 Shoot For The Stars
@@ -57990,6 +58058,8 @@ SpaceSexLab🚀
 SpaceShuttle
 SpaceWars
 Spacebar
+Spacebar X
+SpacebarX
 Spacefighter Rukia 2
 SpacefighterRukia2
 Spaceflux
@@ -58543,6 +58613,7 @@ Still Wakes the Deep: Siren’s Rest
 StillWakestheDeep:Siren’sRest
 Sting
 StingerEP1
+Stocks
 Stolen Legacy Rise of The Fallen
 StolenLegacyRiseofTheFallen
 Stomach
@@ -58617,9 +58688,11 @@ Strategic
 Strategic Simulations
 Strategic Simulations Inc
 Strategic Simulations, Inc
+Strategic Stalemate
 StrategicSimulations
 StrategicSimulations,Inc
 StrategicSimulationsInc
+StrategicStalemate
 Strategy
 Strategy First
 StrategyFirst
@@ -59264,8 +59337,10 @@ SynergisticSoftware,Inc
 SynergisticSoftwareInc
 Synergy
 Synetic
+Synthwave Burnout VR
 Synthwave Dream  85
 Synthwave Dream '85
+SynthwaveBurnoutVR
 SynthwaveDream'85
 Syphon
 Syphon Filter
@@ -60028,6 +60103,7 @@ THE CARTOON
 THE CARTOON MAVERICKS
 THE CHAOS ENGINE
 THE CHROMA: FROM THE WASTELAND
+THE CHRONICLES OF LANCELOT COMBO
 THE CHRONICLES OF RIDDICK
 THE COALITION
 THE CODE
@@ -60231,6 +60307,7 @@ THE MINDGATE CONSPIRACY
 THE MINES
 THE MONSTER BREEDER
 THE MOSQUITO GANG
+THE MOST EPICEST SNOWBALL FIGHT EVER!
 THE MOUNTAIN AND THE MORON
 THE MR. RABBIT MAGIC SHOW
 THE NARCOTIC OPERATION
@@ -60308,6 +60385,7 @@ THE SOFTWARE TOOLWORKS
 THE SQUIRREL & SEA
 THE STAIRWELL
 THE STILL
+THE SUPPER: NEW BLOOD
 THE TAVERN IN THE WOODS
 THE THISTLE AND THE FLOWER
 THE THREE KINGDOMS: THE TALES OF JIAN AN
@@ -61555,6 +61633,7 @@ TTR WORLDWIDE
 TTR Worldwide
 TTRWORLDWIDE
 TTRWorldwide
+TU PRIMA
 TU VECINA
 TUCKER
 TUFF
@@ -61580,6 +61659,7 @@ TUNIQUE EN CUIR
 TUNIQUEENCUIR
 TUNNEL
 TUOKIO
+TUPRIMA
 TURAI
 TURAI OSSA
 TURAIOSSA
@@ -62409,6 +62489,7 @@ The Cartoon
 The Cartoon Mavericks
 The Chaos Engine
 The Chroma: from the wasteland
+The Chronicles of Lancelot COMBO
 The Chronicles of Riddick
 The Coalition
 The Code
@@ -62579,6 +62660,7 @@ The Mindgate Conspiracy
 The Mines
 The Monster Breeder
 The Mosquito Gang
+The Most Epicest Snowball Fight Ever!
 The Mountain And The Moron
 The Mr. Rabbit Magic Show
 The Narcotic Operation
@@ -62656,6 +62738,7 @@ The Squirrel   Sea
 The Squirrel & Sea
 The Stairwell
 The Still
+The Supper: New Blood
 The Tavern In the Woods
 The Thistle and the Flower
 The Three Kingdoms: The Tales of Jian An
@@ -62742,6 +62825,7 @@ TheCartoonMavericks
 TheChaosEngine
 TheChineseRoom
 TheChroma:fromthewasteland
+TheChroniclesofLancelotCOMBO
 TheChroniclesofRiddick
 TheCoalition
 TheCode
@@ -62907,6 +62991,7 @@ TheMindgateConspiracy
 TheMines
 TheMonsterBreeder
 TheMosquitoGang
+TheMostEpicestSnowballFightEver!
 TheMountainAndTheMoron
 TheMr.RabbitMagicShow
 TheNarcoticOperation
@@ -62978,6 +63063,7 @@ TheSoftwareToolworks
 TheSquirrel&Sea
 TheStairwell
 TheStill
+TheSupper:NewBlood
 TheTavernIntheWoods
 TheThistleandtheFlower
 TheThreeKingdoms:TheTalesofJianAn
@@ -64350,10 +64436,14 @@ UNCHARTED 2
 UNCHARTED 2 AMONG THIEVES
 UNCHARTED 2: AMONG THIEVES
 UNCHARTED WATERS
+UNCHARTED(TM): Legacy of Thieves Collection
 UNCHARTED2
 UNCHARTED2:AMONGTHIEVES
 UNCHARTED2AMONGTHIEVES
 UNCHARTEDWATERS
+UNCHARTED™: LEGACY OF THIEVES COLLECTION
+UNCHARTED™: Legacy of Thieves Collection
+UNCHARTED™:LegacyofThievesCollection
 UNCLE CHUCK INCORPORATED
 UNCLE NOOK'S SURVIVORS
 UNCLEOFFICE:UNCLE DATING SIMULATOR
@@ -64434,6 +64524,7 @@ UNLIGHTED
 UNLIMITED
 UNLIMITED SOFTWARE
 UNLIMITEDSOFTWARE
+UNPREDICTABLE STAR
 UNREAL
 UNREAL TOURNAMENT
 UNREALTOURNAMENT
@@ -64735,6 +64826,8 @@ Unlighted
 Unlimited
 Unlimited Software
 UnlimitedSoftware
+Unpredictable Star
+UnpredictableStar
 Unreal
 Unreal Tournament
 UnrealTournament
@@ -65987,6 +66080,7 @@ W2FITTRAINER
 W2FitTrainer
 W2SPORTS
 WACKY
+WACKY WEST
 WADDLE
 WADDLE DEE
 WADDLE DEE LANCE
@@ -66381,6 +66475,7 @@ WHERE IT ALL BEGAN - SEASON 1
 WHERE'S MY FUTA DECK?
 WHERE'S THAT CLOWN?!
 WHERE’S MY FUTA DECK? BONEKEEP
+WHILE TRUE: LEARN()
 WHIPPY
 WHIPPY WHIPPY
 WHIPPYWHIPPY
@@ -66393,8 +66488,10 @@ WHISKER WANDERLUST: THE WONDROUS JOURNEY
 WHISKERS
 WHISKERS WHISKERS
 WHISKERSWHISKERS
+WHISPER OF THE HOUSE
 WHISPERED SECRETS: CURSED WEALTH COLLECTOR'S EDITION
 WHISPERED SECRETS: ENFANT TERRIBLE COLLECTOR'S EDITION
+WHISPERED SECRETS: EVERBURNING CANDLE COLLECTOR'S EDITION
 WHISPERED SECRETS: FORGOTTEN SINS COLLECTOR'S EDITION
 WHISPERED SECRETS: MORBID OBSESSION COLLECTOR'S EDITION
 WHISPERED SECRETS: PURRFECT HORROR COLLECTOR'S EDITION
@@ -66805,6 +66902,8 @@ WXPGAMES
 WXPGames
 WYBORN
 Wacky
+Wacky West
+WackyWest
 Waddle
 Waddle Dee
 Waddle Dee Lance
@@ -67234,10 +67333,13 @@ WhiskerWanderlust:TheWondrousJourney
 Whiskers
 Whiskers Whiskers
 WhiskersWhiskers
+Whisper of the House
 Whispered Secrets: Cursed Wealth Collector s Edition
 Whispered Secrets: Cursed Wealth Collector's Edition
 Whispered Secrets: Enfant Terrible Collector s Edition
 Whispered Secrets: Enfant Terrible Collector's Edition
+Whispered Secrets: Everburning Candle Collector s Edition
+Whispered Secrets: Everburning Candle Collector's Edition
 Whispered Secrets: Forgotten Sins Collector s Edition
 Whispered Secrets: Forgotten Sins Collector's Edition
 Whispered Secrets: Morbid Obsession Collector s Edition
@@ -67248,10 +67350,12 @@ Whispered Secrets: Song of Sorrow Collector s Edition
 Whispered Secrets: Song of Sorrow Collector's Edition
 WhisperedSecrets:CursedWealthCollector'sEdition
 WhisperedSecrets:EnfantTerribleCollector'sEdition
+WhisperedSecrets:EverburningCandleCollector'sEdition
 WhisperedSecrets:ForgottenSinsCollector'sEdition
 WhisperedSecrets:MorbidObsessionCollector'sEdition
 WhisperedSecrets:PurrfectHorrorCollector'sEdition
 WhisperedSecrets:SongofSorrowCollector'sEdition
+WhisperoftheHouse
 Whispers From The Rift
 Whispers from the Star
 Whispers of Kelsden
@@ -67909,6 +68013,7 @@ YAKUZA
 YAKYU
 YAKYŪ
 YAMASA
+YANDERE GOTH DELINQUENT TROUBLE 2
 YANG
 YANG CHISHENG
 YANGCHISHENG
@@ -68162,6 +68267,8 @@ Yakuza
 Yakyu
 Yakyū
 Yamasa
+Yandere Goth Delinquent Trouble 2
+YandereGothDelinquentTrouble2
 Yang
 Yang Chisheng
 YangChisheng
@@ -71470,6 +71577,7 @@ batta? batta!
 battery
 battery acid
 battery acid games
+battery farm
 batteryacid
 batteryacidgames
 battle
@@ -72206,6 +72314,7 @@ bleach:heatthe
 bleach:heatthesoul
 bleachheatthesoul
 bleak
+bleaklight falls demo
 bleb
 bledar
 bledar morina
@@ -72479,6 +72588,7 @@ bombinette
 bombinette noko
 bombinettenoko
 bombjack
+bombmachine gunzohg
 bomby
 bon
 bonanza
@@ -73399,6 +73509,7 @@ captainfalcon
 captaingoodnight
 captainmarvel
 capture nexus
+caput mortum
 capybara
 capybara games
 capybaragames
@@ -73450,6 +73561,7 @@ carmen sandiego
 carmenortiz
 carmensandiego
 carnage battle arena demo
+carnal sins: malum incarnatum + carne vescens
 carnival
 carnival games
 carnival happy day
@@ -74045,6 +74157,7 @@ chinowski
 chip
 chip chip
 chip damage
+chip ‘n clawz vs. the brainioids
 chip'n
 chip'n dale rescue rangers
 chip'n dale rescue rangers 1  2
@@ -75218,6 +75331,7 @@ crixus: life of free gladiator
 crl
 crl group
 crlgroup
+croak cafe : from pond to plate
 croapule
 croc royale
 crocket
@@ -76221,6 +76335,7 @@ desean
 desert
 desert falcon
 desert strike
+deserter: prologue
 desertfalcon
 desertstrike
 design
@@ -76781,6 +76896,7 @@ dominated by: yandere goth gamer girl 2
 dominated by: yandere goth girlfriend 4
 dominated by: yandere goth lifeguard
 dominated by: yandere goth maid
+dominated by: yandere goth milf
 dominated by: yandere goth milf maid
 dominated by: yandere goth mommy
 dominated by: yandere goth weeb girlfriend
@@ -77328,6 +77444,7 @@ dungeons & dragons: dragonshard
 dungeons of uhr demo
 dungeons&dragons
 dungeonsdragons
+dungero
 duo
 duo duck hunt
 duoduckhunt
@@ -77567,6 +77684,7 @@ echo protocol: escape room
 echoes of forgotten dreams
 echoes of forgotten dreams digital art book
 echoes of mk-ultra
+echoes of seasons
 echoes of steel
 echoes of the end
 echoes of the sun
@@ -78541,6 +78659,7 @@ eyedip
 eyeof
 eyeofender
 eyeofthebeholder
+eyes of hellfire
 eyes of rain
 eyes on the exam
 ez
@@ -79154,6 +79273,7 @@ flappyflappy
 flash
 flashback
 flashing lights - police, firefighting, emergency services (ems) simulator
+flashmaster
 flashpoint
 flashpoint productions
 flashpointproductions
@@ -80238,6 +80358,7 @@ geargames
 gears
 gears of
 gears of war
+gears of war: reloaded
 gearsof
 gearsofwar
 geary
@@ -81604,6 +81725,7 @@ harumi
 harumi kimihara
 harumikimihara
 harvest
+harvest loop
 harvest moon
 harvestmoon
 hasard
@@ -85275,6 +85397,7 @@ lapislazuli
 lapland
 lapland studio
 laplandstudio
+lappy games
 laprincessefeebanane
 laprincesseféebanane
 lara
@@ -86419,6 +86542,7 @@ lourant
 love
 love and hatred
 love battle spirit
+love begins with goodbye
 love cult
 love hotel manager
 love is all around 2
@@ -89478,6 +89602,7 @@ neptune
 neptune interactive
 neptuneinteractive
 neptunia
+neptunia game maker r:evolution
 neptunia riders vs dogoos
 ner'zhul
 nero
@@ -91424,6 +91549,7 @@ passion
 passos
 past
 pastagames
+pastel☆parade
 pasteque
 pastopia demo
 pastèque
@@ -93152,6 +93278,7 @@ qng
 qpet zoo
 qqq
 qu zone
+quack attack
 quackshot
 quadrofriend
 quail crossing
@@ -93198,6 +93325,7 @@ quarkdata
 quarterback
 quartermaster
 quarters
+quartet
 quartz
 quartz du nether
 quartzdunether
@@ -95681,6 +95809,7 @@ shogi
 shoma
 shoma sawamura
 shomasawamura
+shoomer booter
 shoot & neon
 shoot for the stars
 shoot\'em\'up
@@ -96657,6 +96786,7 @@ space shuttle
 space storm
 space wars
 spacebar
+spacebar x
 spacechannel
 spacechannel5
 spacecorp: 2025-2300ad
@@ -97188,6 +97318,7 @@ still wakes the deep: siren’s rest
 sting
 stingerep1
 stockage
+stocks
 stolen legacy rise of the fallen
 stomach
 stomper
@@ -97251,6 +97382,7 @@ strategic
 strategic simulations
 strategic simulations inc
 strategic simulations, inc
+strategic stalemate
 strategicsimulations
 strategicsimulations,inc
 strategicsimulationsinc
@@ -97851,6 +97983,7 @@ synergisticsoftwareinc
 synergy
 synetic
 synsoft
+synthwave burnout vr
 synthwave dream '85
 syphon
 syphon filter
@@ -98589,6 +98722,7 @@ the cartoon
 the cartoon mavericks
 the chaos engine
 the chroma: from the wasteland
+the chronicles of lancelot combo
 the chronicles of riddick
 the coalition
 the code
@@ -98786,6 +98920,7 @@ the mindgate conspiracy
 the mines
 the monster breeder
 the mosquito gang
+the most epicest snowball fight ever!
 the mountain and the moron
 the mr. rabbit magic show
 the narcotic operation
@@ -98863,6 +98998,7 @@ the software toolworks
 the squirrel & sea
 the stairwell
 the still
+the supper: new blood
 the tavern in the woods
 the thistle and the flower
 the three kingdoms: the tales of jian an
@@ -100080,6 +100216,7 @@ ttiturbotechnologiesinc
 ttr
 ttr worldwide
 ttrworldwide
+tu prima
 tu vecina
 tucker
 tuff
@@ -100403,6 +100540,7 @@ uncharted2
 uncharted2:amongthieves
 uncharted2amongthieves
 unchartedwaters
+uncharted™: legacy of thieves collection
 uncle chuck incorporated
 uncle nook's survivors
 uncleoffice:uncle dating simulator
@@ -100482,6 +100620,7 @@ unlighted
 unlimited
 unlimited software
 unlimitedsoftware
+unpredictable star
 unreal
 unreal tournament
 unrealtournament
@@ -101128,6 +101267,7 @@ w2 sports
 w2fittrainer
 w2sports
 wacky
+wacky west
 waddle
 waddle dee
 waddle dee lance
@@ -101516,6 +101656,10 @@ where it all began - season 1
 where's my futa deck?
 where's that clown?!
 where’s my futa deck? bonekeep
+while True: learn  
+while True: learn()
+while true: learn()
+whileTrue:learn()
 whippy
 whippy whippy
 whippywhippy
@@ -101528,8 +101672,10 @@ whisker wanderlust: the wondrous journey
 whiskers
 whiskers whiskers
 whiskerswhiskers
+whisper of the house
 whispered secrets: cursed wealth collector's edition
 whispered secrets: enfant terrible collector's edition
+whispered secrets: everburning candle collector's edition
 whispered secrets: forgotten sins collector's edition
 whispered secrets: morbid obsession collector's edition
 whispered secrets: purrfect horror collector's edition
@@ -102058,6 +102204,7 @@ yakuza
 yakyu
 yakyū
 yamasa
+yandere goth delinquent trouble 2
 yang
 yang chisheng
 yangchisheng
@@ -102704,6 +102851,7 @@ zèbre
 你救世主播？
 侦探，请守护我的秘密吧！
 修仙记——消消乐乱斗
+傲世血魔
 光域
 八つ灯   Yatsuakari
 八つ灯 | YATSUAKARI
@@ -102716,6 +102864,7 @@ zèbre
 出張2 next business trip
 出張2NextBusinessTrip
 刷啊刷
+刻痕之屿：暖洋上的遗孤
 勇氣ONLINE
 勇氣Online
 勇氣online
@@ -102756,6 +102905,7 @@ zèbre
 少年名将
 工地四重奏
 开家小店
+心动恋旅：樱花篇
 思嘉哪儿去了？ 44 HIDDEN NAOMIS
 思嘉哪儿去了？ 44 Hidden Naomis
 思嘉哪儿去了？ 44 hidden naomis
