@@ -100,6 +100,8 @@
 100 Sea Cats
 100 TRIALS
 100 Trials
+100 WORDS
+100 Words
 100 ZOMBIE CATS
 100 Zombie Cats
 100 aztec cats
@@ -122,6 +124,7 @@
 100 miami cats
 100 sea cats
 100 trials
+100 words
 100 zombie cats
 1000
 100AztecCats
@@ -144,6 +147,7 @@
 100MiamiCats
 100SeaCats
 100Trials
+100Words
 100ZombieCats
 101 CATS HIDDEN IN BARCELONA
 101 CATS HIDDEN IN CHENNAI
@@ -1018,6 +1022,7 @@
 ?????????-Dandelion Planet-
 ??????????
 ???????????
+??????????? -goodbye world index
 ?????????????(TouhouEternalFrontier)
 ????????????SSB
 ???????????II~??????????????~
@@ -9678,6 +9683,7 @@ CANDYGUN
 CANDYGUN GAMES
 CANDYGUNGAMES
 CANDYKONG
+CANDYLANDS JOURNEY
 CANDYSTAND
 CANE
 CANNE
@@ -10861,6 +10867,8 @@ CODE
 CODE MONKEYS
 CODE MYSTICS
 CODE VEIN
+CODE: PANDORA 2
+CODE:PANDORA2
 CODEBASE
 CODEMASTERS
 CODEMONKEYS
@@ -11101,6 +11109,7 @@ CONGAZUMA
 CONGO
 CONGO BONGO
 CONGOBONGO
+CONGRUENCE
 CONJURATEUR
 CONJURED
 CONJURED REALMS
@@ -12046,6 +12055,8 @@ CandyKong
 Candygun
 Candygun Games
 CandygunGames
+Candylands Journey
+CandylandsJourney
 Candystand
 Cane
 Canne
@@ -13476,6 +13487,7 @@ Congazuma
 Congo
 Congo Bongo
 CongoBongo
+Congruence
 Conjurateur
 Conjured
 Conjured Realms
@@ -14411,6 +14423,7 @@ DAEDALIC
 DAEDALIC ENTERTAINMENT
 DAEDALICENTERTAINMENT
 DAEGON
+DAEMON SIGIL
 DAEMON X MACHINA
 DAEMONXMACHINA
 DAG
@@ -15277,6 +15290,7 @@ DIAMOND HOE
 DIAMOND HORSE
 DIAMOND HORSE ARMOR
 DIAMOND LEGGINGS
+DIAMOND PAINTING
 DIAMOND PICKAXE
 DIAMOND SHOVEL
 DIAMOND SOFTWARE
@@ -16059,6 +16073,7 @@ DRIED KELP
 DRIEDKELP
 DRIED_KELP
 DRIFT
+DRIFT HIGHWAY: RETRO CONSOLE EDITION
 DRIFT LEGENDS 2
 DRIFTER
 DRIFTER DRIFTER
@@ -16170,6 +16185,7 @@ DUC HACHE VIANDE
 DUCHACHEVIANDE
 DUCK
 DUCK BLOCK
+DUCK DASH
 DUCK DUCK GOOSE
 DUCK HUNT
 DUCK TALES
@@ -16327,6 +16343,8 @@ Daedalic
 Daedalic Entertainment
 DaedalicEntertainment
 Daegon
+Daemon Sigil
+DaemonSigil
 Dag
 Dag Nithisson
 Dag Nithisson Dag Nithisson
@@ -17182,6 +17200,7 @@ Diamond Hoe
 Diamond Horse
 Diamond Horse Armor
 Diamond Leggings
+Diamond Painting
 Diamond Pickaxe
 Diamond Shovel
 Diamond Software
@@ -17194,6 +17213,7 @@ DiamondHoe
 DiamondHorse
 DiamondHorseArmor
 DiamondLeggings
+DiamondPainting
 DiamondPickaxe
 DiamondShovel
 DiamondSoftware
@@ -18046,7 +18066,9 @@ Dried
 Dried Kelp
 DriedKelp
 Drift
+Drift Highway: Retro Console Edition
 Drift Legends 2
+DriftHighway:RetroConsoleEdition
 DriftLegends2
 Drifter
 Drifter Drifter
@@ -18124,10 +18146,12 @@ Duc Hache Viande
 DucHacheViande
 Duck
 Duck Block
+Duck Dash
 Duck Duck Goose
 Duck Hunt
 Duck Tales
 DuckBlock
+DuckDash
 DuckDuckGoose
 DuckHunt
 DuckTales
@@ -18948,6 +18972,7 @@ EMPTY
 EMPTY CLIP
 EMPTY CLIP STUDIOS
 EMPTY MAP
+EMPTY WORLD
 EMPTYCLIP
 EMPTYCLIPSTUDIOS
 EMPTYMAP
@@ -19275,6 +19300,7 @@ ETHAN WINTERS
 ETHANWINTERS
 ETHEREAL SUNDER
 ETIQUETTE
+ETIQUETTE ELEGANCE
 ETOILE
 ETOILE DE FEU
 ETOILE DE FEU D'ARTIFICE
@@ -19338,6 +19364,7 @@ EVELYNKLEIN
 EVENT
 EVENT HORIZON
 EVENT HORIZON SOFTWARE
+EVENT RACE
 EVENTHORIZON
 EVENTHORIZONSOFTWARE
 EVERLIFE
@@ -19349,10 +19376,13 @@ EVERSPACE(TM) 2
 EVERSPACE™ 2
 EVERSPACE™2
 EVERT
+EVERYBODY S GOLF HOT SHOTS
 EVERYBODY'S
 EVERYBODY'S GOLF
+EVERYBODY'S GOLF HOT SHOTS
 EVERYBODY'S TENNIS
 EVERYBODY'SGOLF
+EVERYBODY'SGOLFHOTSHOTS
 EVERYBODY'STENNIS
 EVERYBODYS
 EVERYBODYS GOLF
@@ -20026,9 +20056,11 @@ Empty
 Empty Clip
 Empty Clip Studios
 Empty Map
+Empty World
 EmptyClip
 EmptyClipStudios
 EmptyMap
+EmptyWorld
 Empyreal
 EmyLiveShow: King of Desires
 EmyLiveShow:KingofDesires
@@ -20343,6 +20375,8 @@ EthanWinters
 Ethereal Sunder
 EtherealSunder
 Etiquette
+Etiquette Elegance
+EtiquetteElegance
 Etoile
 Etoile de feu
 Etoile de feu d'artifice
@@ -20410,8 +20444,10 @@ EvelynKlein
 Event
 Event Horizon
 Event Horizon Software
+Event Race
 EventHorizon
 EventHorizonSoftware
+EventRace
 Everlife
 Everplay
 Evershade The Forgotten Mansion
@@ -24230,6 +24266,7 @@ GONGO
 GONZO
 GOOD
 GOOD FEEL
+GOOD FOR NOTHING
 GOOD LORD! EVERYONE AT THE REUNION FOR MY RELIGIOUS ALL-GIRLS SCHOOL IS A TRANS MAN... AND THEY'RE HOT?!
 GOODBYE
 GOODBYE GALAXY
@@ -24473,6 +24510,7 @@ GREATCOLTD
 GREATEFFECTS
 GREATEFFECTSDEVELOPMENT
 GREATEST
+GREATEST ANGELS
 GREATNAVAL
 GREATNAVALBATTLES
 GREAVY
@@ -25750,10 +25788,12 @@ Gongo
 Gonzo
 Good
 Good Feel
+Good For Nothing
 Good Lord! Everyone at the Reunion For My Religious All Girls School Is a Trans Man... And They're Hot?!
 Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They re Hot?!
 Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They're Hot?!
 GoodFeel
+GoodForNothing
 GoodLord!EveryoneattheReunionForMyReligiousAll-GirlsSchoolIsaTransMan...AndThey'reHot?!
 GoodMan
 Goodbye
@@ -25968,6 +26008,8 @@ GreatNaval
 GreatNavalBattles
 GreatToughBikini6
 Greatest
+Greatest Angels
+GreatestAngels
 Greavy
 Greek Kitchen Frenzy: Dionysus
 GreekKitchenFrenzy:Dionysus
@@ -26729,6 +26771,7 @@ HEADGAMESPUBLISHING
 HEADING OVER IT WITH THE TWINS
 HEADOVERHEELS
 HEADROOM
+HEADS WILL ROLL: REFORGED
 HEADSHOT ROULETTE
 HEADSTRONG
 HEADSTRONG GAMES
@@ -26813,6 +26856,7 @@ HELL
 HELL AND BACK
 HELL BUILDER
 HELL CLOCK
+HELL IS US
 HELL LET LOOSE - OPERATION OVERLORD UNITS
 HELL'S 8TH AVENUE: MIORI'S MYSTERIOUS NOTEBOOK
 HELLDIVERS(TM) 2
@@ -26840,6 +26884,7 @@ HENDERSON
 HENRI
 HENTAI AGE BEACH
 HENTAI AGE ISLAND
+HENTAI AQUA LORELEI
 HENTAI BAE PINKY
 HENTAI BOXING MAGGIE
 HENTAI CELESTIA
@@ -26856,6 +26901,7 @@ HENTAI MATURE MILF
 HENTAI MERMAID SIRENA
 HENTAI NIGHT CLUB
 HENTAI SENPAI: KAIRAKU NO MAID SERVICE ORIGINAL SOUNDTRACK
+HENTAI SENPAI: SEIEKI AKUMA-TACHI ORIGINAL SOUNDTRACK
 HENTAI SHANTI
 HENTAI STORE
 HENTAI SUMMER SWAP
@@ -27155,6 +27201,9 @@ HOLLCROFT
 HOLLOW FLOOR
 HOLLOW JUMP
 HOLLOW KNIGHT
+HOLLOW KNIGHT: SILKSONG
+HOLLOW KNIGHT: SILKSONG & SOUNDTRACK
+HOLLOW KNIGHT: SILKSONG - OFFICIAL SOUNDTRACK
 HOLLOWAY
 HOLLYWARE
 HOLLYWARE ENTERTAINMENT
@@ -27391,6 +27440,7 @@ HUNT
 HUNTA
 HUNTA HUNTA
 HUNTAHUNTA
+HUNTED WITHIN: THE WALLS
 HUNTER
 HUNTER ROULETTE
 HUNTER SCARFY
@@ -27851,6 +27901,8 @@ Headfirst
 Heading Over It with The Twins
 HeadingOverItwithTheTwins
 Headroom
+Heads Will Roll: Reforged
+HeadsWillRoll:Reforged
 Headshot Roulette
 HeadshotRoulette
 Headstrong
@@ -27944,6 +27996,7 @@ Hell Builder
 Hell Clock
 Hell Let Loose   Operation Overlord Units
 Hell Let Loose - Operation Overlord Units
+Hell is Us
 Hell s 8th Avenue: Miori s Mysterious Notebook
 Hell's 8th Avenue: Miori's Mysterious Notebook
 Hell's8thAvenue:Miori'sMysteriousNotebook
@@ -27951,6 +28004,7 @@ HellAndBack
 HellBuilder
 HellClock
 HellLetLoose-OperationOverlordUnits
+HellisUs
 Hellkind
 Hello
 Hello Games
@@ -27976,6 +28030,7 @@ Henderson
 Henri
 Hentai Age Beach
 Hentai Age Island
+Hentai Aqua Lorelei
 Hentai Bae Pinky
 Hentai Boxing Maggie
 Hentai Celestia
@@ -27992,6 +28047,8 @@ Hentai Mature Milf
 Hentai Mermaid Sirena
 Hentai Night Club
 Hentai Senpai: Kairaku no Maid Service Original Soundtrack
+Hentai Senpai: Seieki Akuma Tachi Original Soundtrack
+Hentai Senpai: Seieki Akuma-Tachi Original Soundtrack
 Hentai Shanti
 Hentai Store
 Hentai Summer Swap
@@ -28006,6 +28063,7 @@ Hentai World Relax
 Hentai Zombie Moriana
 HentaiAgeBeach
 HentaiAgeIsland
+HentaiAquaLorelei
 HentaiBaePinky
 HentaiBoxingMaggie
 HentaiCelestia
@@ -28022,6 +28080,7 @@ HentaiMatureMilf
 HentaiMermaidSirena
 HentaiNightClub
 HentaiSenpai:KairakunoMaidServiceOriginalSoundtrack
+HentaiSenpai:SeiekiAkuma-TachiOriginalSoundtrack
 HentaiShanti
 HentaiStore
 HentaiSummerSwap
@@ -28340,9 +28399,17 @@ Hollcroft
 Hollow Floor
 Hollow Jump
 Hollow Knight
+Hollow Knight: Silksong
+Hollow Knight: Silksong   Official Soundtrack
+Hollow Knight: Silksong   Soundtrack
+Hollow Knight: Silksong & Soundtrack
+Hollow Knight: Silksong - Official Soundtrack
 HollowFloor
 HollowJump
 HollowKnight
+HollowKnight:Silksong
+HollowKnight:Silksong&Soundtrack
+HollowKnight:Silksong-OfficialSoundtrack
 Holloway
 Hollyware
 Hollyware Entertainment
@@ -28612,6 +28679,8 @@ Hunt
 Hunta
 Hunta Hunta
 HuntaHunta
+Hunted Within: The Walls
+HuntedWithin:TheWalls
 Hunter
 Hunter Roulette
 Hunter Scarfy
@@ -30783,6 +30852,7 @@ JOHN E
 JOHN E HARTZOG
 JOHN E. HARTZOG
 JOHN GRAVELLI
+JOHN PARKOUR
 JOHN SWIDERSKI
 JOHN TANAKA
 JOHN VAN
@@ -30817,6 +30887,8 @@ JOINDOTS
 JOJIMA
 JOJO
 JOJON WIK
+JOJOVSDIO
+JOJOvsDIO
 JOKER
 JOKERSOFT
 JOKO
@@ -31489,6 +31561,7 @@ John E
 John E Hartzog
 John E. Hartzog
 John Gravelli
+John Parkour
 John Swiderski
 John Tanaka
 John Van
@@ -31498,6 +31571,7 @@ JohnE
 JohnE.Hartzog
 JohnEHartzog
 JohnGravelli
+JohnParkour
 JohnSwiderski
 JohnTanaka
 JohnVan
@@ -37677,6 +37751,7 @@ MAYALA
 MAYHEM
 MAYHEM STUDIOS
 MAYHEMSTUDIOS
+MAYOI SHOPPING STREET
 MAYU
 MAYU SHIINA
 MAYUSHIINA
@@ -40222,6 +40297,8 @@ Mayala
 Mayhem
 Mayhem Studios
 MayhemStudios
+Mayoi Shopping Street
+MayoiShoppingStreet
 Mayu
 Mayu Shiina
 MayuShiina
@@ -44594,6 +44671,7 @@ ONGAKUKAN
 ONI
 ONI ONSEN
 ONIGIRI RUN
+ONIGIRI SHOP SIMULATOR
 ONIGIRIRUN
 ONIMUSHA
 ONIMUSHA 2: SAMURAI'S DESTINY
@@ -44602,6 +44680,7 @@ ONIRIC GAMES
 ONIRICGAMES
 ONLINE
 ONLINE RECORDS: UNKNOWN SELLER
+ONLY CARDS
 ONLY HARD
 ONLY WHORES SURVIVE 🔞
 ONLYHARD
@@ -45483,6 +45562,8 @@ Ongakukan
 Oni
 Oni Onsen
 OniOnsen
+Onigiri Shop Simulator
+OnigiriShopSimulator
 Onimusha
 Onimusha 2: Samurai s Destiny
 Onimusha 2: Samurai's Destiny
@@ -45493,8 +45574,10 @@ OniricGames
 Online
 Online Records: Unknown Seller
 OnlineRecords:UnknownSeller
+Only Cards
 Only Whores Survive ?
 Only Whores Survive 🔞
+OnlyCards
 OnlyWhoresSurvive🔞
 Onox
 Onyxia
@@ -46914,6 +46997,7 @@ PIXELSHIRE
 PIXELSTORM
 PIXELTORQUE
 PIXELTOYS
+PIXELUM
 PIXIUSOFT
 PIXOWL
 PIXOWL INC
@@ -47182,6 +47266,7 @@ POKEMONMINI
 POKEMONREDANDBLUE
 POKEMONSTADIUM
 POKER CRUSH
+POKERCHINKO
 POKEY
 POKITAIRE DEMO
 POKO
@@ -48947,6 +49032,7 @@ PixelTroopers
 Pixelheart
 Pixels
 Pixelshire
+Pixelum
 Pixiusoft
 Pixowl
 Pixowl Inc
@@ -49222,6 +49308,7 @@ PokemonMini
 PokemonStadium
 Poker Crush
 PokerCrush
+Pokerchinko
 Pokey
 Pokitaire Demo
 PokitaireDemo
@@ -55878,6 +55965,7 @@ STICK FIGURE COMBAT
 STICK INFINITE KINGDOM
 STICK RPG 2: DIRECTOR'S CUT
 STICKMAN
+STICKMAN BEACH VOLLEYBALL DELUXE
 STICKMEN
 STICKMEN STUDIOS
 STICKMENSTUDIOS
@@ -56431,6 +56519,7 @@ SURVIVE THE FALL - ORIGINAL SOUNDTRACK
 SURVIVE THE GRID
 SURVIVE THE LABYRINTH
 SURVIVE THE SILENCE
+SURVIVING MARS: PIONEER
 SURVIVOR
 SUSHI VS BURGER RACE
 SUSHI vs BURGER Race
@@ -56475,6 +56564,7 @@ SWEEP
 SWEEPIN' XS
 SWEET
 SWEET AGE
+SWEET BATHHOUSE
 SWEET BERRIES
 SWEET CHEONGSAM
 SWEET DELIVERY
@@ -59281,6 +59371,8 @@ StickInfiniteKingdom
 StickRPG2:Director'sCut
 StickandStack
 Stickman
+Stickman Beach Volleyball DELUXE
+StickmanBeachVolleyballDELUXE
 Stickmen
 Stickmen Studios
 StickmenStudios
@@ -59886,6 +59978,8 @@ SurvivetheFall-OriginalSoundtrack
 SurvivetheGrid
 SurvivetheLabyrinth
 SurvivetheSilence
+Surviving Mars: Pioneer
+SurvivingMars:Pioneer
 Survivor
 Susie
 Susie Susie
@@ -59929,6 +60023,7 @@ Sweepin' XS
 Sweepin'XS
 Sweet
 Sweet Age
+Sweet Bathhouse
 Sweet Berries
 Sweet Cheongsam
 Sweet Delivery
@@ -59944,6 +60039,7 @@ Sweet Theme Park
 Sweet Train
 Sweet Vampire
 SweetAge
+SweetBathhouse
 SweetBerries
 SweetCheongsam
 SweetDelivery
@@ -60267,6 +60363,7 @@ TALON
 TALON'S BLADE
 TALONSOFT
 TALRASHA
+TAMAGO
 TAMAO
 TAMARA
 TAMSOFT
@@ -60425,6 +60522,7 @@ TDS-TowerDefenseStrategy
 TEACHER
 TEACHER CREATURE
 TEACHERCREATURE
+TEACHING ASSISTANT LIFE
 TEAFORE
 TEAFORE MAXWELL-DAVIES
 TEAFORE MAXWELLDAVIES
@@ -61051,6 +61149,7 @@ THE OLIVER
 THE OLIVER TWINS
 THE ORIGINAL MOORHUHN HUNT
 THE OTHERS
+THE OUTER WORLDS
 THE OUTLAST TRIALS
 THE OVERNIGHT SCREENING
 THE PADDOCK
@@ -61495,6 +61594,7 @@ TICK TICK
 TICKTHROW
 TICKTICK
 TICTACRANGERSDURISQUE
+TICTACTOE SETS井字棋合集
 TICY ADVENTURE CLUB : QUEEN OF THE SPRING
 TIDES
 TIDES OF DARKNESS
@@ -61740,6 +61840,7 @@ TOKYO
 TOKYO HOEI
 TOKYO HOEI TV
 TOKYO SHOSEKI
+TOKYO UNDERGROUND KILLER
 TOKYOHOEI
 TOKYOHOEITV
 TOKYOSHOSEKI
@@ -62829,6 +62930,8 @@ TayutamaKissonMyDeity
 Teacher
 Teacher Creature
 TeacherCreature
+Teaching Assistant Life
+TeachingAssistantLife
 Teafore
 Teafore Maxwell-Davies
 Teafore MaxwellDavies
@@ -63439,6 +63542,7 @@ The Oliver
 The Oliver Twins
 The Original Moorhuhn Hunt
 The Others
+The Outer Worlds
 The Outlast Trials
 The Overnight Screening
 The Paddock
@@ -63779,6 +63883,7 @@ TheOliver
 TheOliverTwins
 TheOriginalMoorhuhnHunt
 TheOthers
+TheOuterWorlds
 TheOutlastTrials
 TheOvernightScreening
 ThePaddock
@@ -64018,6 +64123,9 @@ Tick Tick
 Tick throw
 TickTick
 Tickthrow
+Tictactoe Sets?????
+Tictactoe Sets井字棋合集
+TictactoeSets井字棋合集
 Ticy Adventure Club : Queen of the Spring
 TicyAdventureClub:QueenoftheSpring
 Tidus
@@ -64268,9 +64376,11 @@ Tokyo
 Tokyo Hoei
 Tokyo Hoei TV
 Tokyo Shoseki
+Tokyo Underground Killer
 TokyoHoei
 TokyoHoeiTV
 TokyoShoseki
+TokyoUndergroundKiller
 Tom
 Tom Clancy's
 Tom Clancy's Ghost
@@ -67068,6 +67178,8 @@ WARHAMMER 40,000: MECHANICUS
 WARHAMMER 40,000: ROGUE TRADER
 WARHAMMER 40,000: SPACE MARINE - MASTER CRAFTED EDITION
 WARHAMMER 40,000: SPACE MARINE 2
+WARHAMMER 40,000: SPACE MARINE 2 - SEASON PASS 1 + 2
+WARHAMMER 40,000: SPACE MARINE 2 - SEASON PASS 2
 WARIO
 WARIO LAND
 WARIO LAND 4
@@ -67906,6 +68018,10 @@ Warhammer 40,000: Rogue Trader
 Warhammer 40,000: Space Marine   Master Crafted Edition
 Warhammer 40,000: Space Marine - Master Crafted Edition
 Warhammer 40,000: Space Marine 2
+Warhammer 40,000: Space Marine 2   Season Pass 1 + 2
+Warhammer 40,000: Space Marine 2   Season Pass 2
+Warhammer 40,000: Space Marine 2 - Season Pass 1 + 2
+Warhammer 40,000: Space Marine 2 - Season Pass 2
 Warhammer40,000:Boltgun-WordsofVengeance
 Warhammer40,000:Darktide
 Warhammer40,000:Darktide-ArbitesClass
@@ -67915,6 +68031,8 @@ Warhammer40,000:Mechanicus
 Warhammer40,000:RogueTrader
 Warhammer40,000:SpaceMarine-MasterCraftedEdition
 Warhammer40,000:SpaceMarine2
+Warhammer40,000:SpaceMarine2-SeasonPass1+2
+Warhammer40,000:SpaceMarine2-SeasonPass2
 Wario
 Wario Land
 Wario Land 4
@@ -68601,12 +68719,15 @@ Wunderkind
 Wyborn
 X
 X MULTIPLY
+X Magnifier
 X Multiply
 X WAR Demo
 X-COM
+X-MAGNIFIER
 X-MEN
 X-MEN VS STREET FIGHTER
 X-MENVSSTREETFIGHTER
+X-Magnifier
 X-Men
 X-Men VS Street Fighter
 X-MenVSStreetFighter
@@ -68844,6 +68965,7 @@ YAKUZA
 YAKYU
 YAKYŪ
 YAMASA
+YANDERE GOTH BDSM
 YANDERE GOTH DELINQUENT TROUBLE 2
 YANG
 YANG CHISHENG
@@ -69099,7 +69221,9 @@ Yakuza
 Yakyu
 Yakyū
 Yamasa
+Yandere Goth BDSM
 Yandere Goth Delinquent Trouble 2
+YandereGothBDSM
 YandereGothDelinquentTrouble2
 Yang
 Yang Chisheng
@@ -74305,6 +74429,7 @@ candygun
 candygun games
 candygungames
 candykong
+candylands journey
 candystand
 cane
 canne
@@ -75451,6 +75576,7 @@ code
 code monkeys
 code mystics
 code vein
+code: pandora 2
 codebase
 codemasters
 codemonkeys
@@ -75688,6 +75814,7 @@ congazuma
 congo
 congo bongo
 congobongo
+congruence
 conjurateur
 conjured
 conjured realms
@@ -76569,6 +76696,7 @@ daedalic
 daedalic entertainment
 daedalicentertainment
 daegon
+daemon sigil
 daemon x machina
 dag
 dag nithisson
@@ -77405,6 +77533,7 @@ diamond hoe
 diamond horse
 diamond horse armor
 diamond leggings
+diamond painting
 diamond pickaxe
 diamond shovel
 diamond software
@@ -78176,6 +78305,7 @@ dried kelp
 dried_kelp
 driedkelp
 drift
+drift highway: retro console edition
 drift legends 2
 drifter
 drifter drifter
@@ -78279,6 +78409,7 @@ duc hache viande
 duchacheviande
 duck
 duck block
+duck dash
 duck duck goose
 duck hunt
 duck tales
@@ -79036,6 +79167,7 @@ empty
 empty clip
 empty clip studios
 empty map
+empty world
 emptyclip
 emptyclipstudios
 emptymap
@@ -79366,6 +79498,7 @@ ethan winters
 ethanwinters
 ethereal sunder
 etiquette
+etiquette elegance
 etoile
 etoile de feu
 etoile de feu d'artifice
@@ -79431,6 +79564,7 @@ evelynklein
 event
 event horizon
 event horizon software
+event race
 eventhorizon
 eventhorizonsoftware
 everlife
@@ -79442,6 +79576,7 @@ everspace™ 2
 evert
 everybody's
 everybody's golf
+everybody's golf hot shots
 everybody's tennis
 everybody'sgolf
 everybody'stennis
@@ -81811,6 +81946,7 @@ gongo
 gonzo
 good
 good feel
+good for nothing
 good lord! everyone at the reunion for my religious all-girls school is a trans man... and they're hot?!
 goodbye
 goodbye galaxy
@@ -82055,6 +82191,7 @@ greatcoltd
 greateffects
 greateffectsdevelopment
 greatest
+greatest angels
 greatnaval
 greatnavalbattles
 greavy
@@ -82834,6 +82971,7 @@ headgamespublishing
 heading over it with the twins
 headoverheels
 headroom
+heads will roll: reforged
 headshot roulette
 headstrong
 headstrong games
@@ -82918,6 +83056,7 @@ hell
 hell and back
 hell builder
 hell clock
+hell is us
 hell let loose - operation overlord units
 hell's 8th avenue: miori's mysterious notebook
 helldivers™ 2
@@ -82943,6 +83082,7 @@ henderson
 henri
 hentai age beach
 hentai age island
+hentai aqua lorelei
 hentai bae pinky
 hentai boxing maggie
 hentai celestia
@@ -82959,6 +83099,7 @@ hentai mature milf
 hentai mermaid sirena
 hentai night club
 hentai senpai: kairaku no maid service original soundtrack
+hentai senpai: seieki akuma-tachi original soundtrack
 hentai shanti
 hentai store
 hentai summer swap
@@ -83253,6 +83394,9 @@ hollcroft
 hollow floor
 hollow jump
 hollow knight
+hollow knight: silksong
+hollow knight: silksong & soundtrack
+hollow knight: silksong - official soundtrack
 holloway
 hollyware
 hollyware entertainment
@@ -83489,6 +83633,7 @@ hunt
 hunta
 hunta hunta
 huntahunta
+hunted within: the walls
 hunter
 hunter roulette
 hunter scarfy
@@ -84870,6 +85015,7 @@ john e
 john e hartzog
 john e. hartzog
 john gravelli
+john parkour
 john swiderski
 john tanaka
 john van
@@ -84904,6 +85050,7 @@ joindots
 jojima
 jojo
 jojon wik
+jojovsdio
 joker
 jokersoft
 joko
@@ -88517,6 +88664,7 @@ mayala
 mayhem
 mayhem studios
 mayhemstudios
+mayoi shopping street
 mayu
 mayu shiina
 mayushiina
@@ -91867,6 +92015,7 @@ ongakukan
 oni
 oni onsen
 onigiri run
+onigiri shop simulator
 onimusha
 onimusha 2: samurai's destiny
 oniric
@@ -91874,6 +92023,7 @@ oniric games
 oniricgames
 online
 online records: unknown seller
+only cards
 only hard
 only whores survive 🔞
 onox
@@ -93215,6 +93365,7 @@ pixelshire
 pixelstorm
 pixeltorque
 pixeltoys
+pixelum
 pixiusoft
 pixowl
 pixowl inc
@@ -93491,6 +93642,7 @@ pokemonmini
 pokemonredandblue
 pokemonstadium
 poker crush
+pokerchinko
 pokey
 pokitaire demo
 poko
@@ -98367,6 +98519,7 @@ stick figure combat
 stick infinite kingdom
 stick rpg 2: director's cut
 stickman
+stickman beach volleyball deluxe
 stickmen
 stickmen studios
 stickmenstudios
@@ -98916,6 +99069,7 @@ survive the fall - original soundtrack
 survive the grid
 survive the labyrinth
 survive the silence
+surviving mars: pioneer
 survivor
 sushi vs burger race
 susie
@@ -98958,6 +99112,7 @@ sweep
 sweepin' xs
 sweet
 sweet age
+sweet bathhouse
 sweet berries
 sweet cheongsam
 sweet delivery
@@ -99255,6 +99410,7 @@ talon
 talon's blade
 talonsoft
 talrasha
+tamago
 tamao
 tamara
 tamsoft
@@ -99406,6 +99562,7 @@ tds - tower defense strategy
 teacher
 teacher creature
 teachercreature
+teaching assistant life
 teafore
 teafore maxwell-davies
 teafore maxwelldavies
@@ -100029,6 +100186,7 @@ the oliver
 the oliver twins
 the original moorhuhn hunt
 the others
+the outer worlds
 the outlast trials
 the overnight screening
 the paddock
@@ -100469,6 +100627,7 @@ tick tick
 tickthrow
 ticktick
 tictacrangersdurisque
+tictactoe sets井字棋合集
 ticy adventure club : queen of the spring
 tides
 tides of darkness
@@ -100709,6 +100868,7 @@ tokyo
 tokyo hoei
 tokyo hoei tv
 tokyo shoseki
+tokyo underground killer
 tokyohoei
 tokyohoeitv
 tokyoshoseki
@@ -102555,6 +102715,8 @@ warhammer 40,000: mechanicus
 warhammer 40,000: rogue trader
 warhammer 40,000: space marine - master crafted edition
 warhammer 40,000: space marine 2
+warhammer 40,000: space marine 2 - season pass 1 + 2
+warhammer 40,000: space marine 2 - season pass 2
 wario
 wario land
 wario land 4
@@ -103184,6 +103346,7 @@ wyborn
 x
 x multiply
 x-com
+x-magnifier
 x-men
 x-men vs street fighter
 x-menvsstreetfighter
@@ -103318,6 +103481,7 @@ yakuza
 yakyu
 yakyū
 yamasa
+yandere goth bdsm
 yandere goth delinquent trouble 2
 yang
 yang chisheng
@@ -103942,6 +104106,10 @@ zèbre
 たんぽぽプラネット-DandelionPlanet-
 たんぽぽプラネット-dandelion planet-
 ちゅーちゅーパンケーキ
+はじめるセカイの理想論  goodbye world index
+はじめるセカイの理想論 -GOODBYE WORLD INDEX
+はじめるセカイの理想論 -goodbye world index
+はじめるセカイの理想論-goodbyeworldindex
 イロハニホヘト
 オーガの野望 ～OGRE'S AMBITION～
 オーガの野望 ～Ogre s Ambition～
