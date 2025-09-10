@@ -651,6 +651,7 @@
 3KIT GmbH
 3KITGMBH
 3KITGmbH
+3XTINCTION
 3arc unlock
 3countbout
 3d
@@ -678,6 +679,7 @@
 3kit
 3kit gmbh
 3kitgmbh
+3xtinction
 4
 4 HEAD
 4 HEAD STUDIOS
@@ -959,6 +961,7 @@
 ??? | Phantom Reckoning
 ??? | Yatsuakari
 ???----?????
+???:??????
 ???:LexiLoong
 ????
 ???? (Bagua Alley)
@@ -1021,6 +1024,7 @@
 ???????
 ??????? - Demonic Mahjong
 ??????? 44 Hidden Naomis
+??????? ?????!2
 ???????? / Escape the School
 ????????! Momo's Revitalization Project!
 ?????????
@@ -2513,6 +2517,7 @@ ARGONAUT AGENCY: GOD OF STORMS
 ARGONAUT GAMES
 ARGONAUTGAMES
 ARGONAUTS AGENCY: GORGON MEDUSA
+ARGONAUTS AGENCY: WRATH OF OLYMPUS
 ARGOSAX
 ARGOSAX THE CHAOS
 ARGOSAXTHECHAOS
@@ -4496,7 +4501,9 @@ Argonaut Games
 ArgonautAgency:GodofStorms
 ArgonautGames
 Argonauts Agency: Gorgon Medusa
+Argonauts Agency: Wrath of Olympus
 ArgonautsAgency:GorgonMedusa
+ArgonautsAgency:WrathofOlympus
 Argosax
 Argosax the Chaos
 ArgosaxtheChaos
@@ -5204,6 +5211,7 @@ BACKFLIP STUDIOS
 BACKFLIPSTUDIOS
 BACKPACK BATTLES
 BACKPACK SCAVENGER
+BACKPACKBATTLECHESS
 BACKROOM LOOP
 BACKROOMLOOP
 BACKROOMS LIMINAL ESCAPE
@@ -7388,6 +7396,7 @@ Backflip Studios
 BackflipStudios
 Backpack Battles
 Backpack Scavenger
+BackpackBattleChess
 BackpackBattles
 BackpackScavenger
 Backrooms Maze 2D
@@ -9737,6 +9746,7 @@ CANDIVITY: UNDER WATER DLC
 CANDY
 CANDY DAWN
 CANDY KONG
+CANDY SHOP SIMULATOR
 CANDYDAWN
 CANDYGUN
 CANDYGUN GAMES
@@ -10025,6 +10035,7 @@ CATTLE
 CATTLE CALL
 CATTLE COUNTRY
 CATTLECALL
+CATTO BOI COLLECTION
 CATTO'S POST OFFICE
 CATWOMAN
 CATpillAr
@@ -10365,6 +10376,7 @@ CHAVIS
 CHAVRINA
 CHAÏ
 CHBIB
+CHECKED OUT
 CHECKOUT BLITZ: THE SHOPPING DEAD
 CHEEKS
 CHEEP-CHEEP
@@ -12115,8 +12127,10 @@ Candivity:UnderWaterDLC
 Candy
 Candy Dawn
 Candy Kong
+Candy Shop Simulator
 CandyDawn
 CandyKong
+CandyShopSimulator
 Candygun
 Candygun Games
 CandygunGames
@@ -12465,9 +12479,11 @@ Cattle Call
 Cattle Country
 CattleCall
 CattleCountry
+Catto Boi Collection
 Catto s Post Office
 Catto's Post Office
 Catto'sPostOffice
+CattoBoiCollection
 Catwoman
 Cauchemar
 Cauchemar Cauchemar
@@ -12730,6 +12746,8 @@ Chavis
 Chavrina
 Chaï
 Chbib
+Checked Out
+CheckedOut
 Checkout Blitz: The Shopping Dead
 CheckoutBlitz:TheShoppingDead
 Cheeks
@@ -14836,6 +14854,7 @@ DAVY BONES
 DAVYBONES
 DAWKINS
 DAWN
+DAWN AFTER DUSK
 DAWN OF
 DAWN OF PLAY
 DAWNOF
@@ -15592,6 +15611,7 @@ DIRTY PIANO LESSONS 🍓
 DIRTY TEACHERS
 DIRTYTEACHERS
 DISC
+DISC GOLF CITY
 DISCO
 DISCOUNTY
 DISCOVERY
@@ -16011,6 +16031,7 @@ DRAGO
 DRAGON
 DRAGON AGE
 DRAGON BALL ADVANCED ADVENTURE
+DRAGON BALL GEKISHIN SQUADRA
 DRAGON BALL GT
 DRAGON BALL SUPER
 DRAGON BALL Z
@@ -16046,6 +16067,7 @@ DRAGON'SLAIRLLC
 DRAGON-SLAYING WAR GOD
 DRAGONAGE
 DRAGONBALLADVANCEDADVENTURE
+DRAGONBALLGEKISHINSQUADRA
 DRAGONBALLGT
 DRAGONBALLSUPER
 DRAGONBALLZ
@@ -16726,8 +16748,10 @@ Davy Bones
 DavyBones
 Dawkins
 Dawn
+Dawn After Dusk
 Dawn of
 Dawn of Play
+DawnAfterDusk
 Dawnof
 DawnofPlay
 Dawson
@@ -17530,6 +17554,8 @@ Dirty Piano Lessons 🍓
 DirtyFantasy
 DirtyPianoLessons🍓
 Disc
+Disc Golf City
+DiscGolfCity
 Disco
 Discounty
 Discovery
@@ -18571,6 +18597,7 @@ EASaltLake
 EASports
 EASportsBIG
 EASportsF1
+EAT THE RICH: GREED GAMES
 EATER
 EATIBURON
 EATiburon
@@ -18612,6 +18639,7 @@ ECHO PEAK
 ECHO PROTOCOL: ESCAPE ROOM
 ECHO RE:KILL
 ECHO Re:Kill
+ECHOES OF BAIKAL
 ECHOES OF FORGOTTEN DREAMS
 ECHOES OF FORGOTTEN DREAMS DIGITAL ART BOOK
 ECHOES OF MK-ULTRA
@@ -18944,6 +18972,7 @@ ELF
 ELF ADVENTURE: THE LOST CASTLE
 ELF WORLD ADVENTURE 6
 ELF WORLD ADVENTURE 8
+ELF WORLD ADVENTURE 9: SUMMER EPISODE!
 ELFE
 ELFE NOIR
 ELFENOIR
@@ -19683,7 +19712,9 @@ Easy8Software
 EasyInteractive
 EasyStudio
 EasyStudioSuzhou
+Eat the Rich: Greed Games
 Eater
+EattheRich:GreedGames
 Ebenezer
 Ebenezer Von Clutch
 EbenezerVonClutch
@@ -19707,6 +19738,7 @@ Echo Peak
 Echo Protocol: Escape Room
 EchoPeak
 EchoProtocol:EscapeRoom
+Echoes of Baikal
 Echoes of Forgotten Dreams
 Echoes of Forgotten Dreams Digital Art Book
 Echoes of MK ULTRA
@@ -19718,6 +19750,7 @@ Echoes of Vasteria
 Echoes of the End
 Echoes of the Sun
 Echoes of the Wild
+EchoesofBaikal
 EchoesofForgottenDreams
 EchoesofForgottenDreamsDigitalArtBook
 EchoesofMK-ULTRA
@@ -20014,10 +20047,12 @@ Elf
 Elf Adventure: The Lost Castle
 Elf World Adventure 6
 Elf World Adventure 8
+Elf World Adventure 9: Summer Episode!
 ElfAdventure:TheLostCastle
 ElfMiner
 ElfWorldAdventure6
 ElfWorldAdventure8
+ElfWorldAdventure9:SummerEpisode!
 Elfe
 Elfe Noir
 ElfeNoir
@@ -21239,6 +21274,7 @@ FIRECHARGE
 FIREEMBLEM
 FIREEMBLEMPATHOFRADIANCE
 FIREEMBLEMSHADOWDRAGON
+FIREFIGHTING SIMULATOR: IGNITE
 FIREFLY
 FIREFLY STUDIOS
 FIREFLY VILLAGE
@@ -22582,6 +22618,8 @@ Firebrand
 Firebrand Games
 FirebrandGames
 Firecam
+Firefighting Simulator: Ignite
+FirefightingSimulator:Ignite
 Firefly
 Firefly Studios
 Firefly Village
@@ -23741,6 +23779,7 @@ GARDIENS
 GARETH
 GARETH TUCKER
 GARETHTUCKER
+GARFIELD KART 2 - ALL YOU CAN DRIFT
 GARGANTULUS
 GARGOYLE'S
 GARGOYLE'S QUEST
@@ -25295,6 +25334,9 @@ Gardiendemétal
 Gareth
 Gareth Tucker
 GarethTucker
+Garfield Kart 2   All You Can Drift
+Garfield Kart 2 - All You Can Drift
+GarfieldKart2-AllYouCanDrift
 Gargantulus
 Gargoyle's
 Gargoyle's Quest
@@ -27031,6 +27073,7 @@ HENTAI CLICKER: CATHY IS STREAMING
 HENTAI FURRY BUNNY
 HENTAI FURRY FOXY
 HENTAI FURRY PONY
+HENTAI GIRLS : SEXY MAID PARTY
 HENTAI GIRLS: LUST [18+]
 HENTAI LADYBOY REN
 HENTAI MAGIC
@@ -27086,6 +27129,7 @@ HEROES OF MIGHT AND
 HEROES OF MIGHT AND MAGIC
 HEROES OF MIGHT AND MAGIC 2
 HEROES OF MOUNT DRAGON
+HEROES OF THE SEVEN ISLANDS
 HEROES UNHINGED
 HEROES' CALL - A CASUAL MMO GUILD SIM
 HEROES:
@@ -28185,6 +28229,7 @@ Hentai Clicker: Cathy is streaming
 Hentai Furry Bunny
 Hentai Furry Foxy
 Hentai Furry Pony
+Hentai Girls : Sexy Maid Party
 Hentai Girls: Lust [18+]
 Hentai Ladyboy Ren
 Hentai Magic
@@ -28221,6 +28266,7 @@ HentaiFurryBunny
 HentaiFurryFoxy
 HentaiFurryPony
 HentaiGirls:Lust[18+]
+HentaiGirls:SexyMaidParty
 HentaiLadyboyRen
 HentaiMagic
 HentaiMagicAcademy
@@ -28280,6 +28326,7 @@ Heroes of Might and
 Heroes of Might and Magic
 Heroes of Might and Magic 2
 Heroes of Mount Dragon
+Heroes of the Seven Islands
 Heroes' Call   A Casual MMO Guild Sim
 Heroes' Call - A Casual MMO Guild Sim
 Heroes'Call-ACasualMMOGuildSim
@@ -28299,6 +28346,7 @@ HeroesofMightand
 HeroesofMightandMagic
 HeroesofMightandMagic2
 HeroesofMountDragon
+HeroesoftheSevenIslands
 Heroic Aegisio: Origins
 HeroicAegisio:Origins
 Heroin Hero
@@ -30871,6 +30919,7 @@ JEFF
 JEFF MINTER (INDIVIDU)
 JEFFMINTER(INDIVIDU)
 JEGOROV
+JELLY FARM
 JELLYFISH BLIND BOX 水母盲盒
 JELLYVISION
 JENKINS
@@ -31588,6 +31637,8 @@ Jeff
 Jeff Minter (Individu)
 JeffMinter(Individu)
 Jegorov
+Jelly Farm
+JellyFarm
 Jellyfish blind box ????
 Jellyfish blind box 水母盲盒
 Jellyfishblindbox水母盲盒
@@ -34565,6 +34616,7 @@ LEGEND OF HEROES
 LEGEND OF HEROES: TRAILS IN THE SKY
 LEGEND OF HEROES: TRAILS OF COLD STEEL
 LEGEND OF KYRANDIA
+LEGEND OF MORTAL SOUNDTRACK VOL.2
 LEGEND OF THE MYSTICAL NINJA
 LEGEND OF ZELDA
 LEGENDARY
@@ -34939,6 +34991,7 @@ LIFE IS
 LIFE IS STRANGE
 LIFE OF A DISPATCH ENGLISH TEACHER IN JAPAN
 LIFE WITH A HOMUNCULUS
+LIFE'S A BEACH
 LIFEFORCE
 LIFEIS
 LIFEISSTRANGE
@@ -35158,6 +35211,7 @@ LITTLE KINGDOM RTS
 LITTLE LAPS
 LITTLE MAC
 LITTLE ORBIT
+LITTLE PROBLEMS: A COZY DETECTIVE GAME
 LITTLE SAMSON
 LITTLE TOWN SECRETS
 LITTLE WITCH SURVIVORS
@@ -36095,6 +36149,7 @@ Legend of Heroes
 Legend of Heroes: Trails in the Sky
 Legend of Heroes: Trails of Cold Steel
 Legend of Kyrandia
+Legend of Mortal Soundtrack Vol.2
 Legend of Zelda
 Legend of the Mystical Ninja
 Legendary
@@ -36121,6 +36176,7 @@ LegendofHeroesTrailsintheSkyThe
 LegendofHeroesTrailsofColdSteelThe
 LegendofKyrandia
 LegendofKyrandiaThe
+LegendofMortalSoundtrackVol.2
 LegendofZelda
 LegendofZeldaThe
 LegendoftheMysticalNinja
@@ -36651,6 +36707,7 @@ Little Kingdom RTS
 Little Laps
 Little Mac
 Little Orbit
+Little Problems: A Cozy Detective Game
 Little Samson
 Little Town Secrets
 Little Witch Survivors
@@ -36667,6 +36724,7 @@ LittleKingdomRTS
 LittleLaps
 LittleMac
 LittleOrbit
+LittleProblems:ACozyDetectiveGame
 LittleSamson
 LittleTownSecrets
 LittleWitchSurvivors
@@ -37506,6 +37564,7 @@ MANA
 MANACASTER
 MANAGER
 MANAGERS
+MANALIA NOTES -A MEMORY OF INNOCENCE-
 MANBOW
 MANCHESTER
 MANDARIN
@@ -37837,6 +37896,7 @@ MASTER NECKY SR
 MASTER NECKY SR.
 MASTER OF
 MASTER OF 4 SWORDS
+MASTER OF CHESS
 MASTER OF ORION
 MASTER OF PIECE: PROLOGUE
 MASTER PENGY
@@ -38674,7 +38734,11 @@ MILES PROWER
 MILESCOMPUTING
 MILESPROWER
 MILESTONE
+MILFS OF SUNVILLE - SEASON 2
 MILFY WAY: SPACE ORGASM 🪐🔞
+MILFs of Sunville   Season 2
+MILFs of Sunville - Season 2
+MILFsofSunville-Season2
 MILIPEDE
 MILITARY
 MILITARY MADNESS
@@ -40056,6 +40120,9 @@ Mana
 Manacaster
 Manager
 Managers
+Manalia Notes  A memory of innocence 
+Manalia Notes -A memory of innocence-
+ManaliaNotes-Amemoryofinnocence-
 Manbow
 Manchester
 Mandarin
@@ -40390,6 +40457,7 @@ Master Raven
 Master System
 Master of
 Master of 4 Swords
+Master of Chess
 Master of Orion
 Master of Piece: Prologue
 MasterCreating
@@ -40405,6 +40473,7 @@ MasterRaven
 MasterSystem
 Masterof
 Masterof4Swords
+MasterofChess
 MasterofOrion
 MasterofPiece:Prologue
 Masterpieces
@@ -44884,6 +44953,7 @@ ONE'S OWN EXILE
 ONE-EYED LIKHO
 ONE-IN
 ONEECHANBARA
+ONEFLESH
 ONEIL
 ONEPIECE
 ONEPIECE:GRANDBATTLESWANCOLOSSEUM
@@ -45770,6 +45840,7 @@ One-Eyed Likho
 One-EyedLikho
 One-In
 OneDayAtATime
+OneFlesh
 OneLastToast
 OneMan´sTrash
 OneMan´sTrashDemo
@@ -46135,6 +46206,9 @@ P.Z.KarenCo.DevelopmentGroup
 P1
 P1 SPORTS
 P1 Sports
+P1: ANCHOR LIGHT
+P1: Anchor Light
+P1:AnchorLight
 P1SPORTS
 P1Sports
 PA
@@ -48032,11 +48106,14 @@ PS4
 PSEUDO
 PSEUDO INTERACTIVE
 PSEUDOINTERACTIVE
+PSI MASQUERADE DEADLY WONDERLAND
+PSI Masquerade Deadly Wonderland
 PSI-OPS
 PSI-OPS:
 PSI-OPS: THE MINDGATE CONSPIRACY
 PSI-OPS:THEMINDGATECONSPIRACY
 PSIKYO
+PSIMasqueradeDeadlyWonderland
 PSION
 PSION SOFTWARE
 PSIONIC
@@ -54646,6 +54723,7 @@ SHIONJUJO
 SHIORI
 SHIORI HASEGAWA
 SHIORIHASEGAWA
+SHIP GRAVEYARD SIMULATOR
 SHIP, INC.
 SHIP, INC. DEMO
 SHIPCRAFTER DEMO
@@ -58001,12 +58079,14 @@ ShionJujo
 Shiori
 Shiori Hasegawa
 ShioriHasegawa
+Ship Graveyard Simulator
 Ship, Inc.
 Ship, Inc. Demo
 Ship,Inc.
 Ship,Inc.Demo
 ShipCrafter Demo
 ShipCrafterDemo
+ShipGraveyardSimulator
 Shipwrecked: A Quick Automation
 Shipwrecked:AQuickAutomation
 Shiro
@@ -61196,6 +61276,7 @@ THE BULLET HELL
 THE BUTCHER
 THE CARTOON
 THE CARTOON MAVERICKS
+THE CASE OF ANDREW D.
 THE CHAOS ENGINE
 THE CHROMA: FROM THE WASTELAND
 THE CHRONICLES OF LANCELOT COMBO
@@ -61214,6 +61295,7 @@ THE CORNSOFT
 THE CORNSOFT GROUP
 THE CORRUPTION
 THE COUNT OF MONTE CLICKER
+THE CRAWLING DEAD
 THE CREATIVE
 THE CREATIVE ASSEMBLY
 THE CRIMSON DIAMOND
@@ -61344,6 +61426,7 @@ THE LAST DIG
 THE LAST EARTH FIGHTER
 THE LAST GOLFER
 THE LAST GUILD
+THE LAST HOPE
 THE LAST OF US
 THE LAST OF US™ PART II REMASTERED
 THE LAST REUNION
@@ -61385,6 +61468,7 @@ THE LILLIPUT WORKSHOP
 THE LIQUID JET
 THE LITTLE PIXEL THAT COULD
 THE LITTLE SHELTER DEMO
+THE LITTLE TOMB: THE MAHOLOVA CLUB AND THE SEARCH FOR A DEAD BODY
 THE LOCKED ROOM
 THE LONG FALL HOME
 THE LONG TALE
@@ -61522,6 +61606,7 @@ THE WARP
 THE WARP FACTORY
 THE WARRIOR
 THE WAY OF THE EXPLODING FIST
+THE WEAVER DEMO
 THE WEEK WITH GRUGLES
 THE WILD EIGHT
 THE WIND WAKER
@@ -63636,6 +63721,7 @@ The Bullet Hell
 The Butcher
 The Cartoon
 The Cartoon Mavericks
+The Case of Andrew D.
 The Chaos Engine
 The Chroma: from the wasteland
 The Chronicles of Lancelot COMBO
@@ -63654,6 +63740,7 @@ The Cornsoft
 The Cornsoft Group
 The Corruption
 The Count of Monte Clicker
+The Crawling Dead
 The Creative
 The Creative Assembly
 The Crimson Diamond
@@ -63776,6 +63863,7 @@ The Last Reunion
 The Last Ski Trip
 The Last Strand
 The Last Visit: 98th
+The Last hope
 The Last of Us(TM) Part II Remastered
 The Last of Us™ Part II Remastered
 The Learning
@@ -63793,6 +63881,7 @@ The Lilliput Workshop
 The Liquid Jet
 The Little Pixel That Could
 The Little Shelter Demo
+The Little Tomb: The Maholova Club and the Search for a Dead Body
 The Locked Room
 The Long Fall Home
 The Long Tale
@@ -63930,6 +64019,7 @@ The Warp
 The Warp Factory
 The Warrior
 The Way of the Exploding Fist
+The Weaver Demo
 The Week With Grugles
 The Wild Eight
 The Winter Mind
@@ -63992,6 +64082,7 @@ TheBulletHell
 TheButcher
 TheCartoon
 TheCartoonMavericks
+TheCaseofAndrewD.
 TheChaosEngine
 TheChineseRoom
 TheChroma:fromthewasteland
@@ -64012,6 +64103,7 @@ TheCornsoft
 TheCornsoftGroup
 TheCorruption
 TheCountofMonteClicker
+TheCrawlingDead
 TheCreative
 TheCreativeAssembly
 TheCrimsonDiamond
@@ -64129,6 +64221,7 @@ TheLastReunion
 TheLastSkiTrip
 TheLastStrand
 TheLastVisit:98th
+TheLasthope
 TheLastofUs™PartIIRemastered
 TheLearning
 TheLearningCompany
@@ -64145,6 +64238,7 @@ TheLilliputWorkshop
 TheLiquidJet
 TheLittlePixelThatCould
 TheLittleShelterDemo
+TheLittleTomb:TheMaholovaClubandtheSearchforaDeadBody
 TheLockedRoom
 TheLongFallHome
 TheLongTale
@@ -64274,6 +64368,7 @@ TheWarp
 TheWarpFactory
 TheWarrior
 TheWayoftheExplodingFist
+TheWeaverDemo
 TheWeekWithGrugles
 TheWildEight
 TheWinterMind
@@ -66518,6 +66613,7 @@ VIRTUAL GIRL @ WORLD’S END
 VIRTUAL GIRLFRIEND
 VIRTUAL ON
 VIRTUAL PLAYGROUND
+VIRTUAL READER (PERSONAL VR LIBRARY)
 VIRTUAL RIDES 3 - FUNFAIR SIMULATOR
 VIRTUAL SPAGHETTI
 VIRTUAL STUDIO
@@ -67142,6 +67238,8 @@ Virtual Frenzy- Nexus Corps
 Virtual Girlfriend
 Virtual On
 Virtual Playground
+Virtual Reader  Personal VR Library 
+Virtual Reader (Personal VR Library)
 Virtual Rides 3   Funfair Simulator
 Virtual Rides 3 - Funfair Simulator
 Virtual Spaghetti
@@ -67156,6 +67254,7 @@ VirtualFrenzy-NexusCorps
 VirtualGirlfriend
 VirtualOn
 VirtualPlayground
+VirtualReader(PersonalVRLibrary)
 VirtualRides3-FunfairSimulator
 VirtualSpaghetti
 VirtualStudio
@@ -67811,6 +67910,7 @@ WIDELOADGAMES
 WIDESCREEN
 WIDESCREEN GAMES
 WIDESCREENGAMES
+WIDGET WARRIORS
 WIGGLER
 WIGMUND
 WIGMUND WIGMUND
@@ -68709,6 +68809,8 @@ WideScreenGames
 Wideload
 Wideload Games
 WideloadGames
+Widget Warriors
+WidgetWarriors
 Wiggler
 Wigmund
 Wigmund Wigmund
@@ -69321,6 +69423,7 @@ YAMASA
 YANDERE GOTH BDSM
 YANDERE GOTH BDSM 3
 YANDERE GOTH BDSM 4
+YANDERE GOTH BDSM 5
 YANDERE GOTH DELINQUENT TROUBLE 2
 YANG
 YANG CHISHENG
@@ -69579,10 +69682,12 @@ Yamasa
 Yandere Goth BDSM
 Yandere Goth BDSM 3
 Yandere Goth BDSM 4
+Yandere Goth BDSM 5
 Yandere Goth Delinquent Trouble 2
 YandereGothBDSM
 YandereGothBDSM3
 YandereGothBDSM4
+YandereGothBDSM5
 YandereGothDelinquentTrouble2
 Yang
 Yang Chisheng
@@ -71817,6 +71922,7 @@ argonaut agency: god of storms
 argonaut games
 argonautgames
 argonauts agency: gorgon medusa
+argonauts agency: wrath of olympus
 argosax
 argosax the chaos
 argosaxthechaos
@@ -72512,6 +72618,7 @@ backflip studios
 backflipstudios
 backpack battles
 backpack scavenger
+backpackbattlechess
 backroom loop
 backrooms liminal escape
 backrooms maze 2d
@@ -74804,6 +74911,7 @@ candivity: under water dlc
 candy
 candy dawn
 candy kong
+candy shop simulator
 candydawn
 candygun
 candygun games
@@ -75094,6 +75202,7 @@ cattle
 cattle call
 cattle country
 cattlecall
+catto boi collection
 catto's post office
 catwoman
 cauchemar
@@ -75396,6 +75505,7 @@ chavis
 chavrina
 chaï
 chbib
+checked out
 checkout blitz: the shopping dead
 cheeks
 cheep-cheep
@@ -77403,6 +77513,7 @@ davy bones
 davybones
 dawkins
 dawn
+dawn after dusk
 dawn of
 dawn of play
 dawnof
@@ -78144,6 +78255,7 @@ dirty fantasy
 dirty piano lessons 🍓
 dirty teachers
 disc
+disc golf city
 disco
 discounty
 discovery
@@ -78555,6 +78667,7 @@ dragon age
 dragon ball GT
 dragon ball Super
 dragon ball advanced adventure
+dragon ball gekishin squadra
 dragon ball gt
 dragon ball super
 dragon ball z
@@ -79077,6 +79190,7 @@ easyinc
 easyinteractive
 easystudio
 easystudiosuzhou
+eat the rich: greed games
 eater
 eatiburon
 eavancouver
@@ -79109,6 +79223,7 @@ echo
 echo peak
 echo protocol: escape room
 echo re:kill
+echoes of baikal
 echoes of forgotten dreams
 echoes of forgotten dreams digital art book
 echoes of mk-ultra
@@ -79425,6 +79540,7 @@ elf
 elf adventure: the lost castle
 elf world adventure 6
 elf world adventure 8
+elf world adventure 9: summer episode!
 elfe
 elfe noir
 elfenoir
@@ -80604,6 +80720,7 @@ firecharge
 fireemblem
 fireemblempathofradiance
 fireemblemshadowdragon
+firefighting simulator: ignite
 firefly
 firefly studios
 firefly village
@@ -81724,6 +81841,7 @@ gardiens
 gareth
 gareth tucker
 garethtucker
+garfield kart 2 - all you can drift
 gargantulus
 gargoyle's
 gargoyle's quest
@@ -83499,6 +83617,7 @@ hentai clicker: cathy is streaming
 hentai furry bunny
 hentai furry foxy
 hentai furry pony
+hentai girls : sexy maid party
 hentai girls: lust [18+]
 hentai ladyboy ren
 hentai magic
@@ -83553,6 +83672,7 @@ heroes of might and
 heroes of might and magic
 heroes of might and magic 2
 heroes of mount dragon
+heroes of the seven islands
 heroes unhinged
 heroes' call - a casual mmo guild sim
 heroes:
@@ -85293,6 +85413,7 @@ jeff
 jeff minter (individu)
 jeffminter(individu)
 jegorov
+jelly farm
 jellyfish blind box 水母盲盒
 jellyvision
 jenkins
@@ -87251,6 +87372,7 @@ legend of heroes
 legend of heroes: trails in the sky
 legend of heroes: trails of cold steel
 legend of kyrandia
+legend of mortal soundtrack vol.2
 legend of the mystical ninja
 legend of zelda
 legendary
@@ -87632,7 +87754,10 @@ life force
 life is
 life is strange
 life of a dispatch english teacher in japan
+life s a beach
 life with a homunculus
+life's a beach
+life'sabeach
 lifeforce
 lifeis
 lifeisstrange
@@ -87849,6 +87974,7 @@ little kingdom rts
 little laps
 little mac
 little orbit
+little problems: a cozy detective game
 little samson
 little town secrets
 little witch survivors
@@ -88652,6 +88778,7 @@ mana
 manacaster
 manager
 managers
+manalia notes -a memory of innocence-
 manbow
 manchester
 mandarin
@@ -88987,6 +89114,7 @@ master necky sr
 master necky sr.
 master of
 master of 4 swords
+master of chess
 master of orion
 master of piece: prologue
 master pengy
@@ -89814,6 +89942,7 @@ miles prower
 milescomputing
 milesprower
 milestone
+milfs of sunville - season 2
 milfy way: space orgasm 🪐🔞
 milipede
 military
@@ -92449,6 +92578,7 @@ one's own exile
 one-eyed likho
 one-in
 oneechanbara
+oneflesh
 oneil
 onepiece
 onepiece:grandbattleswancolosseum
@@ -92764,6 +92894,7 @@ p.z.karenco.development
 p.z.karenco.developmentgroup
 p1
 p1 sports
+p1: anchor light
 p1sports
 pa
 pablo
@@ -94650,6 +94781,7 @@ ps4
 pseudo
 pseudo interactive
 pseudointeractive
+psi masquerade deadly wonderland
 psi-ops
 psi-ops:
 psi-ops: the mindgate conspiracy
@@ -97434,6 +97566,7 @@ shionjujo
 shiori
 shiori hasegawa
 shiorihasegawa
+ship graveyard simulator
 ship, inc.
 ship, inc. demo
 shipcrafter demo
@@ -100422,6 +100555,7 @@ the bullet hell
 the butcher
 the cartoon
 the cartoon mavericks
+the case of andrew d.
 the chaos engine
 the chroma: from the wasteland
 the chronicles of lancelot combo
@@ -100440,6 +100574,7 @@ the cornsoft
 the cornsoft group
 the corruption
 the count of monte clicker
+the crawling dead
 the creative
 the creative assembly
 the crimson diamond
@@ -100565,6 +100700,7 @@ the last dig
 the last earth fighter
 the last golfer
 the last guild
+the last hope
 the last of us
 the last of us™ part ii remastered
 the last reunion
@@ -100605,6 +100741,7 @@ the lilliput workshop
 the liquid jet
 the little pixel that could
 the little shelter demo
+the little tomb: the maholova club and the search for a dead body
 the locked room
 the long fall home
 the long tale
@@ -100742,6 +100879,7 @@ the warp
 the warp factory
 the warrior
 the way of the exploding fist
+the weaver demo
 the week with grugles
 the wild eight
 the wind waker
@@ -102824,6 +102962,7 @@ virtual girl @ world’s end
 virtual girlfriend
 virtual on
 virtual playground
+virtual reader (personal vr library)
 virtual rides 3 - funfair simulator
 virtual spaghetti
 virtual studio
@@ -103489,6 +103628,7 @@ wideloadgames
 widescreen
 widescreen games
 widescreengames
+widget warriors
 wiggler
 wigmund
 wigmund wigmund
@@ -103972,6 +104112,7 @@ yamasa
 yandere goth bdsm
 yandere goth bdsm 3
 yandere goth bdsm 4
+yandere goth bdsm 5
 yandere goth delinquent trouble 2
 yang
 yang chisheng
@@ -104632,6 +104773,8 @@ zèbre
 不帰上-Fukiage-
 不思議な世界の観光日記Ⅱ～パクルワールドとセジカの逆襲～
 不思議な世界の観光日記ⅱ～パクルワールドとセジカの逆襲～
+不思議の大冒険 チルノ見参！２
+不思議の大冒険チルノ見参！２
 九州剑歌
 二零将棋
 你救世主播？
@@ -104712,6 +104855,7 @@ zèbre
 怪物的王座 soundtrack
 怪物的王座Soundtrack
 怪谈调查局
+恋爱猪脚饭
 意识分裂 开篇季
 意识分裂开篇季
 我亲爱的妹妹 HAPPY SISTERS LIFE
@@ -104839,6 +104983,7 @@ zèbre
 神的名字
 米姆米姆哈
 纸房子
+缚戎人：唐建中十三年
 美女，请别影响我成仙
 美少女大戦RPG ～MYSTERIOUS～
 美少女大戦RPG ～mysterious～
