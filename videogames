@@ -69,6 +69,7 @@
 100 CATS BELGRADE
 100 CATS LOST IN CANADA FIND & COLOR
 100 CATS LOST IN JAPAN FIND & COLOR
+100 CATS LOST IN THAILAND FIND & COLOR
 100 CHINA CATS
 100 CRIME CATS
 100 Cats Belgrade
@@ -76,6 +77,8 @@
 100 Cats Lost In Canada Find & Color
 100 Cats Lost In Japan Find   Color
 100 Cats Lost In Japan Find & Color
+100 Cats Lost in Thailand Find   Color
+100 Cats Lost in Thailand Find & Color
 100 China Cats
 100 Crime Cats
 100 DOGS IN BRAZIL
@@ -111,6 +114,7 @@
 100 cats belgrade
 100 cats lost in canada find & color
 100 cats lost in japan find & color
+100 cats lost in thailand find & color
 100 china cats
 100 crime cats
 100 dogs in brazil
@@ -134,6 +138,7 @@
 100CatsBelgrade
 100CatsLostInCanadaFind&Color
 100CatsLostInJapanFind&Color
+100CatsLostinThailandFind&Color
 100ChinaCats
 100CrimeCats
 100DogsinBrazil
@@ -952,6 +957,7 @@
 ?? | Kwun Tong
 ??,???????
 ??,????????!
+??.??
 ??.????
 ??2 Next Business Trip
 ??2001???
@@ -1116,8 +1122,10 @@ A Solitaire Mystery
 A Spooky Item Game
 A TALE OF BROTHERS
 A TITHE IN BLOOD
+A TWISTED PLACE
 A Tale of Brothers
 A Tithe in Blood
+A Twisted Place
 A WEBBING JOURNEY
 A WEEKEND TRIP
 A WORLD OF KEFLINGS
@@ -2999,6 +3007,7 @@ ATaleofBrothers
 ATitheinBlood
 ATono
 ATrain
+ATwistedPlace
 AUBERGE
 AUBERGE DE BRAS-AMICAL
 AUBERGE DE BRASAMICAL
@@ -3156,6 +3165,7 @@ AX BATTLER - A LEGEND OF GOLDEN AXE
 AXBATTLER-ALEGENDOFGOLDENAXE
 AXBATTLERALEGENDOFGOLDENAXE
 AXE
+AXE & BOW LAND
 AXEL
 AXES
 AXES ART
@@ -5105,6 +5115,9 @@ Ax Battler - A Legend of Golden Axe
 AxBattler-ALegendofGoldenAxe
 AxBattlerALegendofGoldenAxe
 Axe
+Axe   Bow Land
+Axe & Bow Land
+Axe&BowLand
 Axel
 Axes
 Axes Art
@@ -5282,6 +5295,7 @@ BAKER
 BAKERS
 BAKERY CAFE SIMULATOR
 BAKERY CAFE SIMULATOR: PROLOGUE
+BAKI HANMA: BLOOD ARENA
 BAKU
 BAKU  バク 
 BAKU -??-
@@ -7483,6 +7497,8 @@ Bakery Cafe Simulator
 Bakery Cafe Simulator: Prologue
 BakeryCafeSimulator
 BakeryCafeSimulator:Prologue
+Baki Hanma: Blood Arena
+BakiHanma:BloodArena
 Baku
 Baku Baku Animal
 BakuBakuAnimal
@@ -10654,6 +10670,7 @@ CHRONICLESOFRIDDICK
 CHRONICLESOFRIDDICK:ESCAPEFROMBUTCHERBAY
 CHRONO
 CHRONO CROSS
+CHRONO GEAR: WARDEN OF TIME
 CHRONO PORT : HEROES OF ALL TIME
 CHRONO TRIGGER
 CHRONOCROSS
@@ -11796,6 +11813,7 @@ CRYSTAL COVENANT
 CRYSTAL DYNAMICS
 CRYSTAL GAIDEN ORIGINS
 CRYSTAL KEEPER
+CRYSTAL MAIDENS: UNLEASHED
 CRYSTALCASTLES
 CRYSTALCOMPUTER
 CRYSTALDYNAMICS
@@ -13045,9 +13063,11 @@ ChroniclesofRiddick
 ChroniclesofRiddick:EscapefromButcherBay
 Chrono
 Chrono Cross
+Chrono Gear: Warden of Time
 Chrono Port : Heroes of All Time
 Chrono Trigger
 ChronoCross
+ChronoGear:WardenofTime
 ChronoPort:HeroesofAllTime
 ChronoSoft
 ChronoTrigger
@@ -14222,6 +14242,7 @@ Crystal Covenant
 Crystal Dynamics
 Crystal Gaiden Origins
 Crystal Keeper
+Crystal Maidens: Unleashed
 CrystalCastles
 CrystalCaverns
 CrystalComputer
@@ -14229,6 +14250,7 @@ CrystalCovenant
 CrystalDynamics
 CrystalGaidenOrigins
 CrystalKeeper
+CrystalMaidens:Unleashed
 Crystalis
 Crystals
 Crytek
@@ -14941,6 +14963,7 @@ DEAD ISLAND
 DEAD OR
 DEAD OR ALIVE
 DEAD OR ALIVE 2
+DEAD RESET
 DEAD RISING
 DEAD SPACE
 DEAD TAPES: FADING FATHER
@@ -14948,6 +14971,8 @@ DEAD TO
 DEAD TO RIGHTS
 DEADALUS
 DEADISLAND
+DEADLAND: FALLEN APARTMENT DLC 禁闭乐园：堕罪之寓 DLC
+DEADLAND: FALLEN APARTMENT 禁闭乐园：堕罪之寓
 DEADLINE
 DEADLINE GAMES
 DEADLINEGAMES
@@ -15102,6 +15127,7 @@ DELETE
 DELFINI
 DELGADO
 DELIGHT
+DELIVE R US
 DELIVER THIS!
 DELIVER US THE MOON
 DELIVERY
@@ -15972,6 +15998,7 @@ DOUBLEHELIXGAMES
 DOUBLEJUMP
 DOUBLESIX
 DOUBLEUSE
+DOUCHEBAG: ULTIMATE BRO PACK
 DOUGLAS
 DOUGLAS E
 DOUGLAS E SMITH
@@ -16373,6 +16400,8 @@ DUNGEONS
 DUNGEONS  DRAGONS
 DUNGEONS & DRAGONS
 DUNGEONS & DRAGONS: DRAGONSHARD
+DUNGEONS OF ETERNITY
+DUNGEONS OF ETERNITY ORIGINAL SOUNDTRACK
 DUNGEONS OF UHR DEMO
 DUNGEONS&DRAGONS
 DUNGEONSDRAGONS
@@ -16823,6 +16852,7 @@ Dead Cells
 Dead In Your TrackZ
 Dead Island
 Dead Or Alive 2
+Dead Reset
 Dead Rising
 Dead Space
 Dead Tapes: Fading Father
@@ -16845,6 +16875,7 @@ DeadCells
 DeadInYourTrackZ
 DeadIsland
 DeadOrAlive2
+DeadReset
 DeadRising
 DeadSpace
 DeadTapes:FadingFather
@@ -16855,6 +16886,12 @@ DeadbyDaylight:FiveNightsatFreddy’s
 DeadbyDaylight:FiveNightsatFreddy’sEdition
 DeadbyDaylight:TheWalkingDead
 DeadbyHeadshot
+Deadland: Fallen Apartment ????:????
+Deadland: Fallen Apartment DLC ????:???? DLC
+Deadland: Fallen Apartment DLC 禁闭乐园：堕罪之寓 DLC
+Deadland: Fallen Apartment 禁闭乐园：堕罪之寓
+Deadland:FallenApartmentDLC禁闭乐园：堕罪之寓DLC
+Deadland:FallenApartment禁闭乐园：堕罪之寓
 Deadline
 Deadline Games
 DeadlineGames
@@ -17033,6 +17070,8 @@ Delahunt
 Delfini
 Delgado
 Delight
+Delive R us
+DeliveRus
 Deliver This!
 Deliver Us The Moon
 DeliverThis!
@@ -17945,6 +17984,8 @@ DoubleTrip
 Doublejump
 Doublesix
 Doubleuse
+Douchebag: Ultimate Bro Pack
+Douchebag:UltimateBroPack
 Douglas
 Douglas E
 Douglas E Smith
@@ -18376,10 +18417,14 @@ Dungeons   Dragons: Dragonshard
 Dungeons  Dragons
 Dungeons & Dragons
 Dungeons & Dragons: Dragonshard
+Dungeons of Eternity
+Dungeons of Eternity Original Soundtrack
 Dungeons of Uhr Demo
 Dungeons&Dragons
 Dungeons&Dragons:Dragonshard
 DungeonsDragons
+DungeonsofEternity
+DungeonsofEternityOriginalSoundtrack
 DungeonsofUhrDemo
 Dungero
 Dunkadillo
@@ -21332,6 +21377,7 @@ FIRST
 FIRST STAR
 FIRST STAR SOFTWARE
 FIRST STAR SOFTWARE INC
+FIRST STEPS IN LEARNING ABOUT PREGNANCY
 FIRST SURVIVORS
 FIRST5
 FIRST5 GAMES
@@ -22019,6 +22065,7 @@ FUNBOX
 FUNBOX MEDIA
 FUNBOXMEDIA
 FUNCOM
+FUNGAL COLONY SIM 2
 FUNGI CROSSING
 FUNGUS
 FUNKY
@@ -22674,6 +22721,7 @@ First
 First Star
 First Star Software
 First Star Software Inc
+First Steps in Learning about Pregnancy
 First Survivors
 First5
 First5 Games
@@ -22681,6 +22729,7 @@ First5Games
 FirstStar
 FirstStarSoftware
 FirstStarSoftwareInc
+FirstStepsinLearningaboutPregnancy
 FirstSurvivors
 Fischer s Fishing Journey
 Fischer's Fishing Journey
@@ -23408,6 +23457,8 @@ Funbox
 Funbox Media
 FunboxMedia
 Funcom
+Fungal Colony Sim 2
+FungalColonySim2
 Fungi Crossing
 FungiCrossing
 Fungus
@@ -27110,6 +27161,7 @@ HENTAI FURRY PONY
 HENTAI GIRLS : SEXY MAID PARTY
 HENTAI GIRLS: LUST [18+]
 HENTAI LADYBOY REN
+HENTAI LUNARA
 HENTAI MAGIC
 HENTAI MAGIC ACADEMY
 HENTAI MATURE MILF
@@ -28268,6 +28320,7 @@ Hentai Furry Pony
 Hentai Girls : Sexy Maid Party
 Hentai Girls: Lust [18+]
 Hentai Ladyboy Ren
+Hentai Lunara
 Hentai Magic
 Hentai Magic Academy
 Hentai Mature Milf
@@ -28304,6 +28357,7 @@ HentaiFurryPony
 HentaiGirls:Lust[18+]
 HentaiGirls:SexyMaidParty
 HentaiLadyboyRen
+HentaiLunara
 HentaiMagic
 HentaiMagicAcademy
 HentaiMatureMilf
@@ -29157,6 +29211,7 @@ IDLE COLORS
 IDLE CRITTER ADVENTURE
 IDLE CRYPTO MINING
 IDLE CULTIVATION
+IDLE IDLE
 IDLE LAND OF EXILE
 IDLE PIXELS
 IDLE STREAMING BONANZA
@@ -29970,6 +30025,7 @@ Idle Colors
 Idle Critter Adventure
 Idle Crypto Mining
 Idle Cultivation
+Idle Idle
 Idle Land of Exile
 Idle Pixels
 Idle Streaming Bonanza
@@ -29980,6 +30036,7 @@ IdleColors
 IdleCritterAdventure
 IdleCryptoMining
 IdleCultivation
+IdleIdle
 IdleLandofExile
 IdlePixels
 IdleStreamingBonanza
@@ -30870,6 +30927,7 @@ JAPANARTMEDIA(JAM)
 JAPANDATAWORKS
 JAPANDATAWORKSINC
 JAPANESE LOVE
+JAPANESE SALARYMAN DEMO
 JAPANESELOVE
 JAPANMEDIA
 JAPANMEDIAPROGRAMMING
@@ -31321,6 +31379,8 @@ JURI
 JURI HAN
 JURIHAN
 JUST
+JUST A GUY :  ONLINE MULTIPLAYER RAGDOLL GAME DEMO
+JUST A GUY :  Online Multiplayer Ragdoll Game Demo
 JUST ADD
 JUST ADD MONSTERS
 JUST ADD WATER
@@ -31344,6 +31404,7 @@ JUSTADD
 JUSTADDMONSTERS
 JUSTADDWATER
 JUSTADDWATERDEVELOPMENTS
+JUSTAGUY:OnlineMultiplayerRagdollGameDemo
 JUSTCAUSE
 JUSTDANCE
 JUSTE
@@ -31596,6 +31657,8 @@ JapanMediaProgramming
 JapanSystem
 JapanSystemSupply
 JapanVistec
+Japanese Salaryman Demo
+JapaneseSalarymanDemo
 Jar
 Jar Head
 Jar Head Games
@@ -32376,6 +32439,7 @@ KEEN GAMES
 KEENGAMES
 KEEP 'EM OUT!
 KEEP AND DASH HORROR
+KEEP DIGGING
 KEEP FIRE
 KEEP IT SHUT
 KEEP ME GIFTED
@@ -32746,6 +32810,7 @@ KNIGHTSOFTHEROUND
 KNIGHTSOFVALOUR
 KNIGHTTECHNOLOGIES
 KNOCK DOWN
+KNOCK ON THE WINDOW
 KNOCKDOWN
 KNOCKOUT
 KNOCKOUT KINGS
@@ -33346,11 +33411,13 @@ Keen Games
 KeenGames
 Keep  Em Out!
 Keep 'Em Out!
+Keep Digging
 Keep Fire
 Keep Me Gifted
 Keep and Dash Horror
 Keep it shut
 Keep'EmOut!
+KeepDigging
 KeepFire
 KeepMeGifted
 KeepandDashHorror
@@ -33753,7 +33820,9 @@ KnightsofValour
 KnightsoftheCrusades
 KnightsoftheRound
 Knock Down
+Knock On The Window
 KnockDown
+KnockOnTheWindow
 Knockout
 Knockout Kings
 Knockout Master
@@ -35108,6 +35177,7 @@ LILIROCHEFORT
 LILITH
 LILONG
 LILY
+LILY'S LIL VIDEO SHOP!
 LIMA
 LIMA SKY
 LIMASKY
@@ -36616,6 +36686,9 @@ LiliRochefort
 Liliane
 Lilith
 Lily
+Lily s Lil Video Shop!
+Lily's Lil Video Shop!
+Lily'sLilVideoShop!
 Lima
 Lima Sky
 LimaSky
@@ -39657,6 +39730,7 @@ MUMBIES MUMBIES
 MUMBIESMUMBIES
 MUMBO
 MUMBO JUMBO
+MUMBO SHUFFLE DEMO
 MUMBOJUMBO
 MUMIN
 MUNDI
@@ -39742,6 +39816,7 @@ MY MONEY GROWS ON TREES
 MY OPPAI MOMMY MAKES ME WANT TO SPILL ALL OF MY COMPANY SECRETS
 MY PET FLESH MONSTER
 MY RUSTY SUBMARINE - NEW WATERS
+MY SADISTIC GIRLFRIENDS
 MY SPLITTING IMAGE
 MYCOPSYCHOSYS: REMASTERED
 MYCOPUNK
@@ -42202,7 +42277,9 @@ Mumbies Mumbies
 MumbiesMumbies
 Mumbo
 Mumbo Jumbo
+Mumbo Shuffle Demo
 MumboJumbo
+MumboShuffleDemo
 Mumin
 Mundi
 Mundus
@@ -42269,6 +42346,7 @@ My Oppai Mommy Makes Me Want To Spill All Of My Company Secrets
 My Pet Flesh Monster
 My Rusty Submarine   New Waters
 My Rusty Submarine - New Waters
+My Sadistic Girlfriends
 My Splitting Image
 MyAdventureBook
 MyCozyRoomDemo
@@ -42287,6 +42365,7 @@ MyMoneyGrowsOnTrees
 MyOppaiMommyMakesMeWantToSpillAllOfMyCompanySecrets
 MyPetFleshMonster
 MyRustySubmarine-NewWaters
+MySadisticGirlfriends
 MySplittingImage
 Mycopsychosys: Remastered
 Mycopsychosys:Remastered
@@ -45000,6 +45079,7 @@ ONCEUPONATIME
 ONDINE: PROTOTYPE
 ONE
 ONE DAY AT A TIME
+ONE HIT WIZARD
 ONE LAST TOAST
 ONE MAN´S TRASH
 ONE MAN´S TRASH DEMO
@@ -45884,6 +45964,7 @@ Ondine:Prototype
 One
 One Day At A Time
 One Eyed Likho
+One Hit Wizard
 One In
 One Last Toast
 One Man's Trash
@@ -45905,6 +45986,7 @@ One-EyedLikho
 One-In
 OneDayAtATime
 OneFlesh
+OneHitWizard
 OneLastToast
 OneMan´sTrash
 OneMan´sTrashDemo
@@ -47377,6 +47459,7 @@ PIXU STUDIOS
 PIXUSTUDIOS
 PIZZA DELIVERY IN A STORM
 PJ
+PKWAR
 PLACE
 PLACIDE
 PLAIN TEXT STICKY NOTES
@@ -47787,6 +47870,7 @@ PORKEN
 PORT
 PORT ROYALE 4
 PORT SHIPPING TYCOON
+PORT TOWN: SURVIVAL
 PORTAL
 PORTAL 2
 PORTAL FOXES TD
@@ -49859,8 +49943,10 @@ Porken
 Port
 Port Royale 4
 Port Shipping Tycoon
+Port Town: Survival
 PortRoyale4
 PortShippingTycoon
+PortTown:Survival
 Portal
 Portal Foxes TD
 PortalFoxesTD
@@ -52000,12 +52086,16 @@ ROOM 4
 ROOM 4 GAMES
 ROOM ESCAPE: MARK'S ROOM
 ROOM FOOTBALL   Sand Storm
+ROOM FOOTBALL   Shipyard
 ROOM FOOTBALL - SAND STORM
+ROOM FOOTBALL - SHIPYARD
 ROOM FOOTBALL - Sand Storm
+ROOM FOOTBALL - Shipyard
 ROOM FOR ONE!
 ROOM4
 ROOM4GAMES
 ROOMFOOTBALL-SandStorm
+ROOMFOOTBALL-Shipyard
 ROOT9
 ROOT9 MEDIALAB
 ROOT9 MEDIALAB GMBH
@@ -54316,6 +54406,7 @@ SEEDS
 SEEDSTUDIOS
 SEEK AND SEDUCE: NAOMIE
 SEEKER OF THE RUINS
+SEEMA'S POGO
 SEEZAK
 SEGA
 SEGA / LANDHO!
@@ -55134,6 +55225,7 @@ SINNA
 SINODA
 SINPUNISHMENT
 SIP FISHER
+SIPS AND SONNETS
 SIPSSASSIN
 SIR
 SIR EBRUM
@@ -55499,6 +55591,7 @@ SOFEL
 SOFIA
 SOFIA IN EXCHANGE FOR LIES
 SOFIA LAMB
+SOFIA'S DARK FANTASIES
 SOFIALAMB
 SOFIX
 SOFIX CORPORATION
@@ -56206,6 +56299,7 @@ STAR WARS™ Battlefront™ II
 STAR'S PEACES: MEMORIAL EDITION
 STARARC ECHO
 STARBAG
+STARBOI
 STARBREEZE
 STARBYTE
 STARBYTE SOFTWARE
@@ -56672,10 +56766,12 @@ SUMII
 SUMMER
 SUMMER PASSION
 SUMMER POCKETS REFLECTION BLUE
+SUMMER REUNION
 SUMMIT : STEPS OF SOLACE
 SUMMON
 SUMMON NIGHT
 SUMMONARK -DECK BUILDING ROGUELITE-
+SUMMONERS WAR: RUSH
 SUMMONNIGHT
 SUMO
 SUMO DIGITAL
@@ -56944,6 +57040,8 @@ SURVIVE THE FALL - ORIGINAL SOUNDTRACK
 SURVIVE THE GRID
 SURVIVE THE LABYRINTH
 SURVIVE THE SILENCE
+SURVIVE, RESIST, COLLABORATE - A WORLD WAR 2 CHOICE-BASED STORY
+SURVIVING MARS
 SURVIVING MARS: PIONEER
 SURVIVOR
 SURVIVORS LAST STAND
@@ -56998,6 +57096,7 @@ SWEET DRIVER
 SWEET DUNGEON
 SWEET GIRLS COLLECTION
 SWEET KIMONO
+SWEET PORTAL
 SWEET RESTAURANT
 SWEET ROCK PAPER SCISSORS
 SWEET ROOM
@@ -57689,6 +57788,9 @@ Seek and Seduce: Naomie
 SeekandSeduce:Naomie
 Seeker of the Ruins
 SeekeroftheRuins
+Seema s Pogo
+Seema's Pogo
+Seema'sPogo
 Seezak
 Sega
 Sega / LandHo!
@@ -58527,6 +58629,8 @@ Sinna
 Sinoda
 Sip Fisher
 SipFisher
+Sips and Sonnets
+SipsandSonnets
 Sipssassin
 Sir
 Sir Ebrum
@@ -58885,6 +58989,9 @@ Sofel
 Sofia
 Sofia Lamb
 Sofia in Exchange for Lies
+Sofia s Dark Fantasies
+Sofia's Dark Fantasies
+Sofia'sDarkFantasies
 SofiaLamb
 SofiainExchangeforLies
 Sofix
@@ -59661,6 +59768,7 @@ StarWarsRogueSquadron
 StarWarsRogueSquadron2
 StarWarsTrilogy
 Starbag
+Starboi
 Starbreeze
 Starbyte
 Starbyte Software
@@ -60141,8 +60249,10 @@ Sumii
 Summer
 Summer Passion
 Summer Pockets REFLECTION BLUE
+Summer Reunion
 SummerPassion
 SummerPocketsREFLECTIONBLUE
+SummerReunion
 Summit : Steps of Solace
 Summit:StepsofSolace
 Summon
@@ -60151,6 +60261,8 @@ SummonArk  Deck Building Roguelite
 SummonArk -Deck Building Roguelite-
 SummonArk-DeckBuildingRoguelite-
 SummonNight
+Summoners War: RUSH
+SummonersWar:RUSH
 Sumo
 Sumo Digital
 Sumo Digital Ltd
@@ -60423,6 +60535,9 @@ Survive the Fall - Original Soundtrack
 Survive the Grid
 Survive the Labyrinth
 Survive the Silence
+Survive, Resist, Collaborate   a World War 2 Choice Based Story
+Survive, Resist, Collaborate - a World War 2 Choice-Based Story
+Survive,Resist,Collaborate-aWorldWar2Choice-BasedStory
 SurviveSociety
 SurvivetheDescent
 SurvivetheFall
@@ -60430,7 +60545,9 @@ SurvivetheFall-OriginalSoundtrack
 SurvivetheGrid
 SurvivetheLabyrinth
 SurvivetheSilence
+Surviving Mars
 Surviving Mars: Pioneer
+SurvivingMars
 SurvivingMars:Pioneer
 Survivor
 Survivors Last Stand
@@ -60485,6 +60602,7 @@ Sweet Driver
 Sweet Dungeon
 Sweet Girls Collection
 Sweet Kimono
+Sweet Portal
 Sweet Restaurant
 Sweet Rock Paper Scissors
 Sweet Room
@@ -60501,6 +60619,7 @@ SweetDriver
 SweetDungeon
 SweetGirlsCollection
 SweetKimono
+SweetPortal
 SweetRestaurant
 SweetRockPaperScissors
 SweetRoom
@@ -62761,6 +62880,7 @@ TRIFFIX ENTERTAINMENT INC
 TRIFFIXENTERTAINMENT
 TRIFFIXENTERTAINMENTINC
 TRIGGER
+TRIGGER LAND
 TRIGGER OF TIME
 TRIJJA
 TRILLIUM
@@ -62871,6 +62991,7 @@ TRY CO.LTD
 TRY COLTD
 TRY Co.Ltd
 TRY CoLtd
+TRY TO DRIVE
 TRYCO.LTD
 TRYCOLTD
 TRYCo.Ltd
@@ -65368,7 +65489,9 @@ Triffix Entertainment Inc
 TriffixEntertainment
 TriffixEntertainmentInc
 Trigger
+Trigger Land
 Trigger of Time
+TriggerLand
 TriggerofTime
 Trijja
 Trillium
@@ -65485,6 +65608,8 @@ TrueLoveStory
 TrueNightmare-RoadsideСafe
 Trump Trade War
 TrumpTradeWar
+Try To Drive
+TryToDrive
 Trytka
 Tsuchiya
 Tsuji
@@ -70728,6 +70853,7 @@ a solitaire mystery
 a spooky item game
 a tale of brothers
 a tithe in blood
+a twisted place
 a webbing journey
 a weekend trip
 a world of keflings
@@ -72640,6 +72766,7 @@ ax battler - a legend of golden axe
 axbattler-alegendofgoldenaxe
 axbattleralegendofgoldenaxe
 axe
+axe & bow land
 axel
 axes
 axes art
@@ -72805,6 +72932,7 @@ baker
 bakers
 bakery cafe simulator
 bakery cafe simulator: prologue
+baki hanma: blood arena
 baku
 baku -バク-
 baku baku animal
@@ -75898,6 +76026,7 @@ chroniclesofriddick
 chroniclesofriddick:escapefrombutcherbay
 chrono
 chrono cross
+chrono gear: warden of time
 chrono port : heroes of all time
 chrono trigger
 chronocross
@@ -77031,6 +77160,7 @@ crystal covenant
 crystal dynamics
 crystal gaiden origins
 crystal keeper
+crystal maidens: unleashed
 crystalcastles
 crystalcomputer
 crystaldynamics
@@ -77708,6 +77838,7 @@ dead island
 dead or
 dead or alive
 dead or alive 2
+dead reset
 dead rising
 dead space
 dead tapes: fading father
@@ -77715,6 +77846,8 @@ dead to
 dead to rights
 deadalus
 deadisland
+deadland: fallen apartment dlc 禁闭乐园：堕罪之寓 dlc
+deadland: fallen apartment 禁闭乐园：堕罪之寓
 deadline
 deadline games
 deadlinegames
@@ -77866,6 +77999,7 @@ delete
 delfini
 delgado
 delight
+delive r us
 deliver this!
 deliver us the moon
 delivery
@@ -78718,6 +78852,7 @@ doublehelixgames
 doublejump
 doublesix
 doubleuse
+douchebag: ultimate bro pack
 douglas
 douglas e
 douglas e smith
@@ -79110,6 +79245,8 @@ dungeons
 dungeons  dragons
 dungeons & dragons
 dungeons & dragons: dragonshard
+dungeons of eternity
+dungeons of eternity original soundtrack
 dungeons of uhr demo
 dungeons&dragons
 dungeonsdragons
@@ -80879,6 +81016,7 @@ first
 first star
 first star software
 first star software inc
+first steps in learning about pregnancy
 first survivors
 first5
 first5 games
@@ -81567,6 +81705,7 @@ funbox
 funbox media
 funboxmedia
 funcom
+fungal colony sim 2
 fungi crossing
 fungus
 funky
@@ -83753,6 +83892,7 @@ hentai furry pony
 hentai girls : sexy maid party
 hentai girls: lust [18+]
 hentai ladyboy ren
+hentai lunara
 hentai magic
 hentai magic academy
 hentai mature milf
@@ -84537,6 +84677,7 @@ idle colors
 idle critter adventure
 idle crypto mining
 idle cultivation
+idle idle
 idle land of exile
 idle pixels
 idle streaming bonanza
@@ -85458,6 +85599,7 @@ japanartmedia(jam)
 japandataworks
 japandataworksinc
 japanese love
+japanese salaryman demo
 japanmedia
 japanmediaprogramming
 japansystem
@@ -85897,6 +86039,7 @@ juri
 juri han
 jurihan
 just
+just a guy :  online multiplayer ragdoll game demo
 just add
 just add monsters
 just add water
@@ -86222,6 +86365,7 @@ keen games
 keengames
 keep 'em out!
 keep and dash horror
+keep digging
 keep fire
 keep it shut
 keep me gifted
@@ -86588,6 +86732,7 @@ knightsoftheround
 knightsofvalour
 knighttechnologies
 knock down
+knock on the window
 knockdown
 knockout
 knockout kings
@@ -87963,6 +88108,7 @@ lilirochefort
 lilith
 lilong
 lily
+lily's lil video shop!
 lima
 lima sky
 limasky
@@ -90938,6 +91084,7 @@ mumbies mumbies
 mumbiesmumbies
 mumbo
 mumbo jumbo
+mumbo shuffle demo
 mumbojumbo
 mumin
 mundi
@@ -91013,6 +91160,7 @@ my money grows on trees
 my oppai mommy makes me want to spill all of my company secrets
 my pet flesh monster
 my rusty submarine - new waters
+my sadistic girlfriends
 my splitting image
 mycopsychosys: remastered
 mycopunk
@@ -92706,6 +92854,7 @@ onceuponatime
 ondine: prototype
 one
 one day at a time
+one hit wizard
 one last toast
 one man´s trash
 one man´s trash demo
@@ -94095,6 +94244,7 @@ pixu studios
 pixustudios
 pizza delivery in a storm
 pj
+pkwar
 place
 placide
 plain text sticky notes
@@ -94525,6 +94675,7 @@ porken
 port
 port royale 4
 port shipping tycoon
+port town: survival
 portal
 portal 2
 portal foxes td
@@ -96473,6 +96624,7 @@ room 4
 room 4 games
 room escape: mark's room
 room football - sand storm
+room football - shipyard
 room for one!
 room4
 room4games
@@ -97262,6 +97414,7 @@ seeds
 seedstudios
 seek and seduce: naomie
 seeker of the ruins
+seema's pogo
 seezak
 sega
 sega / landho!
@@ -98048,6 +98201,7 @@ sinna
 sinoda
 sinpunishment
 sip fisher
+sips and sonnets
 sipssassin
 sir
 sir ebrum
@@ -98389,6 +98543,7 @@ sofel
 sofia
 sofia in exchange for lies
 sofia lamb
+sofia's dark fantasies
 sofialamb
 sofix
 sofix corporation
@@ -99089,6 +99244,7 @@ star wars™ battlefront™ ii
 star's peaces: memorial edition
 stararc echo
 starbag
+starboi
 starbreeze
 starbyte
 starbyte software
@@ -99546,10 +99702,12 @@ sumii
 summer
 summer passion
 summer pockets reflection blue
+summer reunion
 summit : steps of solace
 summon
 summon night
 summonark -deck building roguelite-
+summoners war: rush
 summonnight
 sumo
 sumo digital
@@ -99816,6 +99974,8 @@ survive the fall - original soundtrack
 survive the grid
 survive the labyrinth
 survive the silence
+survive, resist, collaborate - a world war 2 choice-based story
+surviving mars
 surviving mars: pioneer
 survivor
 survivors last stand
@@ -99868,6 +100028,7 @@ sweet driver
 sweet dungeon
 sweet girls collection
 sweet kimono
+sweet portal
 sweet restaurant
 sweet rock paper scissors
 sweet room
@@ -102084,6 +102245,7 @@ triffix entertainment inc
 triffixentertainment
 triffixentertainmentinc
 trigger
+trigger land
 trigger of time
 trijja
 trillium
@@ -102196,6 +102358,7 @@ trump trade war
 try
 try co.ltd
 try coltd
+try to drive
 tryco.ltd
 trycoltd
 trytka
@@ -104927,6 +105090,7 @@ zèbre
 マスターオブモンスターズSSB
 マスターオブモンスターズssb
 メダルのなる木
+三国.争霸
 三国.兵临城下
 下道珍走倶楽部
 不帰上  Fukiage 
@@ -105155,6 +105319,7 @@ zèbre
 群島物語   實習鍊金術士的 90 天之旅
 群島物語 - 實習鍊金術士的 90 天之旅
 群島物語-實習鍊金術士的90天之旅
+聊斋.鬼王争霸
 色情團地 LIBIDO ESTATES
 色情團地 Libido Estates
 色情團地 libido estates
