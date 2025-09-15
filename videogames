@@ -995,6 +995,7 @@
 ???? ?????
 ???? AFK Industarry
 ???? Arcane Mahjong
+???? Demo
 ???? Dragons and elves
 ???? Eternal Night Metro
 ???? ImagineFuture Demo
@@ -1104,8 +1105,10 @@ A Few Quick Matches
 A Fishy RPG
 A GAME ABOUT BUILDING A TOWER
 A GAME ABOUT CARDS
+A GAME ABOUT CUTTING A TREE
 A GAME ABOUT MINING ROCKS
 A Game About Building A Tower
+A Game About Cutting A Tree
 A Game About Mining Rocks
 A HUNDRED YEARS OF LOVE AND DEATH
 A Hundred Years of Love and Death
@@ -1640,6 +1643,7 @@ AGNÈS
 AGONY
 AGU
 AGameAboutBuildingATower
+AGameAboutCuttingATree
 AGameAboutMiningRocks
 AHRENS
 AHundredYearsofLoveandDeath
@@ -5259,6 +5263,7 @@ BACKPACK BATTLES
 BACKPACK SCAVENGER
 BACKPACKBATTLECHESS
 BACKROOM LOOP
+BACKROOM:GONE
 BACKROOMLOOP
 BACKROOMS LIMINAL ESCAPE
 BACKROOMS MAZE 2D
@@ -7453,6 +7458,7 @@ Backpack Scavenger
 BackpackBattleChess
 BackpackBattles
 BackpackScavenger
+Backroom:Gone
 Backrooms Maze 2D
 Backrooms: Final Exam
 Backrooms: Forgotten Floors
@@ -19703,6 +19709,7 @@ EXORCIST SIMULATOR
 EXORSTUDIOS
 EXORStudios
 EXORTUS
+EXOSPACE COMBAT ENGINEER
 EXPERIENCE
 EXPERIMENTS
 EXPLODING
@@ -26870,6 +26877,10 @@ HAPPYBLUE
 HAPPYBLUEFISH
 HAPPYLATTE
 HAPPYTRAILS
+HARBINGER   Legacy Edition
+HARBINGER - LEGACY EDITION
+HARBINGER - Legacy Edition
+HARBINGER-LegacyEdition
 HARD
 HARD DRIVIN
 HARD TRUCK
@@ -26906,6 +26917,7 @@ HARMONY
 HAROLD
 HAROLD "HARRY" PARSON
 HAROLD DARBY
+HAROLD HALIBUT
 HAROLD JOSEPH
 HAROLD"HARRY"PARSON
 HAROLDDARBY
@@ -27742,6 +27754,7 @@ HUDSON SOFT
 HUDSONSOFT
 HUE HOOLIGANS - DEMO TAPE
 HUES OF THE VOID
+HUFVUDSTA
 HUG ME, SENPAI!
 HUGE
 HUGHES
@@ -28058,9 +28071,11 @@ Harmony
 Harold
 Harold "Harry" Parson
 Harold Darby
+Harold Halibut
 Harold Joseph
 Harold"Harry"Parson
 HaroldDarby
+HaroldHalibut
 HaroldJoseph
 Harpoon
 Harpoon Classic  97
@@ -29010,6 +29025,7 @@ Hue Hooligans - Demo Tape
 HueHooligans-DemoTape
 Hues of the Void
 HuesoftheVoid
+Hufvudsta
 Hug Me, Senpai!
 HugMe,Senpai!
 Huge
@@ -29138,8 +29154,11 @@ I
 I AM BUSY DIGGING A HOLE
 I Am Busy Digging A Hole
 I BEAT MY MEAT TO MY YANDERE GOTH FRIEND'S MOM
+I BECAME MY PUNK SON'S FAKE GIRLFRIEND
 I Beat My Meat to My Yandere Goth Friend s Mom
 I Beat My Meat to My Yandere Goth Friend's Mom
+I Became my Punk Son s Fake Girlfriend
+I Became my Punk Son's Fake Girlfriend
 I DRINK SORREL COFFEE TO REBOOT REALITY, BUT I'M BEING HUNTED BY MONSTER GIRLS AND ARMED AGENTS
 I HATE ORCS: IN MY GARDEN
 I Hate Orcs: In My Garden
@@ -29157,7 +29176,12 @@ I Rock Games
 I SPY
 I Spy
 I WANNA PLAY THAT PICTURE PUZZLE WITH NUMBERS ALL DAY!
+I WANT TO BELIEVE
+I WANT TO BELIEVE - ROSWOOD RADIO
 I Wanna Play That Picture Puzzle with Numbers All Day!
+I Want to Believe
+I Want to Believe   Roswood Radio
+I Want to Believe - Roswood Radio
 I d KILL YOU as a Worm
 I drink Sorrel Coffee to reboot reality, but I m being hunted by Monster Girls and armed agents
 I drink Sorrel Coffee to reboot reality, but I'm being hunted by Monster Girls and armed agents
@@ -29217,6 +29241,7 @@ IBMPCMSDOS
 IBN
 IBUKI
 IBeatMyMeattoMyYandereGothFriend'sMom
+IBecamemyPunkSon'sFakeGirlfriend
 ICARUS
 ICD
 ICE
@@ -29564,6 +29589,7 @@ INDUSTRIAL
 INDUSTRIES
 INDUSTRIES.INC
 INDUSTRIESINC
+INERBYS
 INEVITABLE
 INEVITABLE ENTERTAINMENT
 INEVITABLEENTERTAINMENT
@@ -29824,6 +29850,7 @@ INVOCATEUR
 INVOCATION
 INVOCATION DE GHOST
 INVOCATIONDEGHOST
+INVOKER TACTICS
 INVOKEURS
 INVOKEURS ET GARDIENS
 INVOKEURSETGARDIENS
@@ -30034,6 +30061,8 @@ IVY
 IVYSAUR
 IWIN
 IWannaPlayThatPicturePuzzlewithNumbersAllDay!
+IWanttoBelieve
+IWanttoBelieve-RoswoodRadio
 IX
 IZSHA
 IZUAL
@@ -30358,6 +30387,7 @@ Industrial
 Industries
 Industries.Inc
 IndustriesInc
+Inerbys
 Inevitable
 Inevitable Entertainment
 InevitableEntertainment
@@ -30629,6 +30659,8 @@ Invocateur
 Invocation
 Invocation de Ghost
 InvocationdeGhost
+Invoker Tactics
+InvokerTactics
 Invokeurs
 Invokeurs et gardiens
 Invokeursetgardiens
@@ -30999,6 +31031,7 @@ JANE
 JANHKE
 JANITORI
 JANJANSEN
+JANKLADY
 JANO
 JANSEN
 JANSHI
@@ -35427,6 +35460,7 @@ LITTLE ORBIT
 LITTLE PROBLEMS: A COZY DETECTIVE GAME
 LITTLE SAMSON
 LITTLE TOWN SECRETS
+LITTLE WITCH IN THE WOODS
 LITTLE WITCH SURVIVORS
 LITTLE WORLDS
 LITTLE WORLDS STUDIO
@@ -36932,6 +36966,7 @@ Little Problems: A Cozy Detective Game
 Little Samson
 Little Town Secrets
 Little Witch Survivors
+Little Witch in the Woods
 Little Worlds
 Little Worlds Studio
 LittleBattlers
@@ -36949,6 +36984,7 @@ LittleProblems:ACozyDetectiveGame
 LittleSamson
 LittleTownSecrets
 LittleWitchSurvivors
+LittleWitchintheWoods
 LittleWorlds
 LittleWorldsStudio
 Litvert
@@ -37416,6 +37452,9 @@ M. Chip
 M. Chip M. Chip
 M. K
 M.A.D
+M.A.S.S. BUILDER
+M.A.S.S. Builder
+M.A.S.S.Builder
 M.B
 M.BISON
 M.Bison
@@ -45462,6 +45501,7 @@ OUTLAST
 OUTLAW
 OUTLAW PRODUCTIONS
 OUTLAWPRODUCTIONS
+OUTLYING ISLANDS
 OUTOFTHEBIT
 OUTOFTHEPARK
 OUTOFTHEPARKBASEBALL
@@ -46378,6 +46418,8 @@ Outlast
 Outlaw
 Outlaw Productions
 OutlawProductions
+Outlying Islands
+OutlyingIslands
 OutofthePark
 OutoftheParkBaseball
 Outpost Assault
@@ -48144,6 +48186,7 @@ PRESTOSTUDIOS
 PRETTY PECULIAR LOVERS
 PRETTY SWEET! HEALING GUARDIAN
 PRICE OF A LIFE
+PRIESTESS LUST
 PRIMA MATERIA XXV
 PRIMAL PLANET
 PRIMAL PLANET SOUNDTRACK
@@ -50223,6 +50266,8 @@ PrettyPeculiarLovers
 PrettySweet!HealingGuardian
 Price of a life
 Priceofalife
+Priestess Lust
+PriestessLust
 Prima Materia XXV
 PrimaMateriaXXV
 Primal Planet
@@ -50806,6 +50851,7 @@ QUANTIC
 QUANTIC DREAM
 QUANTICDREAM
 QUANTUM
+QUANTUM BEAST
 QUANTUM DOGFIGHT
 QUANTUM RESONANCE
 QUANTUMPULSE 2A
@@ -50920,8 +50966,10 @@ Quantic
 Quantic Dream
 QuanticDream
 Quantum
+Quantum Beast
 Quantum Dogfight
 Quantum Resonance
+QuantumBeast
 QuantumDogfight
 QuantumPulse 2A
 QuantumPulse2A
@@ -51634,6 +51682,7 @@ REPEATER
 REPETEUR
 REPETEUR DE REDSTONE
 REPETEURDEREDSTONE
+REPLACE THE LAMP: THE LAST SHIFT
 REPLY
 REPOSITION DEFENSE
 REPTILE
@@ -53061,6 +53110,8 @@ RenovationGame
 Rentlord
 Renée
 Repeater
+Replace the Lamp: The Last Shift
+ReplacetheLamp:TheLastShift
 Reply
 Reposition Defense
 RepositionDefense
@@ -54773,6 +54824,7 @@ SEX DORM🔞
 SEX EMPIRE - EPISODE 1
 SEX GAME - GAY AFFAIR - EPISODE 2
 SEX GAME - NAUGHTY COUPLE - EPISODE 5
+SEX GAME - NAUGHTY COUPLE - EPISODE 6
 SEX GAME - NAUGHTY GIRLS - EPISODE 1
 SEX GAME - NAUGHTY GIRLS - EPISODE 2
 SEX GAME - NAUGHTY GIRLS - EPISODE 3
@@ -56204,6 +56256,7 @@ SPIKECHUNSOFT
 SPIKEHEAD
 SPIKEHEAD SPIKEHEAD
 SPIKEHEADSPIKEHEAD
+SPIKERMAN GAME
 SPIKERS
 SPIKEY
 SPIKEY SPIKEY
@@ -56387,6 +56440,7 @@ STANDAARD MULTIMEDIA
 STANDAARDMULTIMEDIA
 STANLEY
 STANLEY POOLE
+STANLEY SAYS
 STANLEYPOOLE
 STAR
 STAR ASH FLEET
@@ -58145,12 +58199,14 @@ Sex Empire   Episode 1
 Sex Empire - Episode 1
 Sex Game   Gay Affair   Episode 2
 Sex Game   Naughty Couple   Episode 5
+Sex Game   Naughty Couple   Episode 6
 Sex Game   Naughty Girls   Episode 1
 Sex Game   Naughty Girls   Episode 2
 Sex Game   Naughty Girls   Episode 3
 Sex Game   Threesome   Episode 1
 Sex Game - Gay Affair - Episode 2
 Sex Game - Naughty Couple - Episode 5
+Sex Game - Naughty Couple - Episode 6
 Sex Game - Naughty Girls - Episode 1
 Sex Game - Naughty Girls - Episode 2
 Sex Game - Naughty Girls - Episode 3
@@ -58166,6 +58222,7 @@ SexDorm🔞
 SexEmpire-Episode1
 SexGame-GayAffair-Episode2
 SexGame-NaughtyCouple-Episode5
+SexGame-NaughtyCouple-Episode6
 SexGame-NaughtyGirls-Episode1
 SexGame-NaughtyGirls-Episode2
 SexGame-NaughtyGirls-Episode3
@@ -59643,6 +59700,8 @@ SpikeChunsoft
 Spikehead
 Spikehead Spikehead
 SpikeheadSpikehead
+SpikerMan Game
+SpikerManGame
 Spikers
 Spikey
 Spikey Spikey
@@ -59841,7 +59900,9 @@ Standaard Multimedia
 StandaardMultimedia
 Stanley
 Stanley Poole
+Stanley Says
 StanleyPoole
+StanleySays
 Star
 Star Ash Fleet
 Star Birds
@@ -61925,6 +61986,7 @@ THE ROYAL WRIT
 THE RPG: MY FIRST DUNGEON SMELLS
 THE RULE OF SHE
 THE SACRED SIX CRYSTAL: A HERO'S JOURNEY
+THE SACRILEGE
 THE SALES
 THE SALES CURVE
 THE SANDS OF TIME
@@ -62143,6 +62205,7 @@ THEPUNISHER
 THEQUESTFORCOLOUR
 THERE EXISTS
 THERE WILL BE LIGHT
+THERE'S NO WAY THE DOOR IS THERE!
 THESALES
 THESALESCURVE
 THESANDSOFTIME
@@ -64356,6 +64419,7 @@ The Royal Writ
 The Rule Of SHE
 The Sacred Six Crystal: A Hero s Journey
 The Sacred Six Crystal: A Hero's Journey
+The Sacrilege
 The Sales
 The Sales Curve
 The Scientist Battles
@@ -64713,6 +64777,7 @@ TheRoomTwo
 TheRoyalWrit
 TheRuleOfSHE
 TheSacredSixCrystal:AHero'sJourney
+TheSacrilege
 TheSales
 TheSalesCurve
 TheScientistBattles
@@ -64785,6 +64850,9 @@ Theoldmansion:EternalnightDemo
 Theory
 There Exists
 There Will Be Light
+There s no way the door is there!
+There's no way the door is there!
+There'snowaythedooristhere!
 ThereExists
 ThereWillBeLight
 These Are Them
@@ -67014,6 +67082,7 @@ VIRTUAFIGHTER
 VIRTUAFIGHTER2
 VIRTUAFIGHTER4
 VIRTUAL
+VIRTUAL ABC JOURNEY
 VIRTUAL AIR
 VIRTUAL AIR GUITAR
 VIRTUAL AIR GUITAR COMPANY
@@ -67640,6 +67709,7 @@ VirtuaRacingDeluxe
 VirtuaStriker
 VirtuaTennis
 Virtual
+Virtual ABC Journey
 Virtual Air
 Virtual Air Guitar
 Virtual Air Guitar Company
@@ -67657,6 +67727,7 @@ Virtual Rides 3 - Funfair Simulator
 Virtual Spaghetti
 Virtual Studio
 Virtual Toys
+VirtualABCJourney
 VirtualAir
 VirtualAirGuitar
 VirtualAirGuitarCompany
@@ -68209,6 +68280,7 @@ WEST
 WESTER
 WESTER WESTER
 WESTERN
+WESTERN GUN SHOP SIMULATOR
 WESTERN TECHNOLOGIES
 WESTERNTECHNOLOGIES
 WESTERWESTER
@@ -69080,7 +69152,9 @@ Wester
 Wester Wester
 WesterWester
 Western
+Western Gun Shop Simulator
 Western Technologies
+WesternGunShopSimulator
 WesternTechnologies
 Weston
 Westone
@@ -71012,6 +71086,7 @@ a few quick matches
 a fishy rpg
 a game about building a tower
 a game about cards
+a game about cutting a tree
 a game about mining rocks
 a hundred years of love and death
 a journey through shadow, to reach the light.
@@ -73051,6 +73126,7 @@ backpack battles
 backpack scavenger
 backpackbattlechess
 backroom loop
+backroom:gone
 backrooms liminal escape
 backrooms maze 2d
 backrooms: apprehension
@@ -79546,6 +79622,8 @@ e4csolutions
 e4csolutions,llc
 e4csolutionsllc
 eReader
+eXoSpace Combat Engineer
+eXoSpaceCombatEngineer
 ea
 ea big
 ea black
@@ -80615,6 +80693,7 @@ exor studios
 exorcist simulator
 exorstudios
 exortus
+exospace combat engineer
 experience
 experiments
 exploding
@@ -83729,6 +83808,7 @@ happyblue
 happybluefish
 happylatte
 happytrails
+harbinger - legacy edition
 hard
 hard drivin
 hard truck
@@ -83765,6 +83845,7 @@ harmony
 harold
 harold "harry" parson
 harold darby
+harold halibut
 harold joseph
 harold"harry"parson
 harolddarby
@@ -84601,6 +84682,7 @@ hudson soft
 hudsonsoft
 hue hooligans - demo tape
 hues of the void
+hufvudsta
 hug me, senpai!
 huge
 hughes
@@ -84714,6 +84796,7 @@ héros
 i
 i am busy digging a hole
 i beat my meat to my yandere goth friend's mom
+i became my punk son's fake girlfriend
 i drink sorrel coffee to reboot reality, but i'm being hunted by monster girls and armed agents
 i hate orcs: in my garden
 i know this place..? (chapter ii)
@@ -84723,6 +84806,8 @@ i rock
 i rock games
 i spy
 i wanna play that picture puzzle with numbers all day!
+i want to believe
+i want to believe - roswood radio
 i'd kill you as a worm
 i'max
 i*motion
@@ -85141,6 +85226,7 @@ industrial
 industries
 industries.inc
 industriesinc
+inerbys
 inevitable
 inevitable entertainment
 inevitableentertainment
@@ -85399,6 +85485,7 @@ invocateur
 invocation
 invocation de ghost
 invocationdeghost
+invoker tactics
 invokeurs
 invokeurs et gardiens
 invokeursetgardiens
@@ -85786,6 +85873,7 @@ jane
 janhke
 janitori
 janjansen
+janklady
 jano
 jansen
 janshi
@@ -88466,6 +88554,7 @@ little orbit
 little problems: a cozy detective game
 little samson
 little town secrets
+little witch in the woods
 little witch survivors
 little worlds
 little worlds studio
@@ -88909,6 +88998,7 @@ m. chip
 m. chip m. chip
 m. k
 m.a.d
+m.a.s.s. builder
 m.b
 m.bison
 m.c.itrouille
@@ -93322,6 +93412,7 @@ outlast
 outlaw
 outlaw productions
 outlawproductions
+outlying islands
 outofthebit
 outofthepark
 outoftheparkbaseball
@@ -95042,6 +95133,7 @@ prestostudios
 pretty peculiar lovers
 pretty sweet! healing guardian
 price of a life
+priestess lust
 prima materia xxv
 primal planet
 primal planet soundtrack
@@ -95583,6 +95675,7 @@ quantic
 quantic dream
 quanticdream
 quantum
+quantum beast
 quantum dogfight
 quantum resonance
 quantumpulse 2a
@@ -96269,6 +96362,7 @@ repeater
 repeteur
 repeteur de redstone
 repeteurderedstone
+replace the lamp: the last shift
 reply
 reposition defense
 reptile
@@ -97848,6 +97942,7 @@ sex dorm🔞
 sex empire - episode 1
 sex game - gay affair - episode 2
 sex game - naughty couple - episode 5
+sex game - naughty couple - episode 6
 sex game - naughty girls - episode 1
 sex game - naughty girls - episode 2
 sex game - naughty girls - episode 3
@@ -99235,6 +99330,7 @@ spikechunsoft
 spikehead
 spikehead spikehead
 spikeheadspikehead
+spikerman game
 spikers
 spikey
 spikey spikey
@@ -99419,6 +99515,7 @@ standaard multimedia
 standaardmultimedia
 stanley
 stanley poole
+stanley says
 stanleypoole
 star
 star ash fleet
@@ -101372,6 +101469,7 @@ the royal writ
 the rpg: my first dungeon smells
 the rule of she
 the sacred six crystal: a hero's journey
+the sacrilege
 the sales
 the sales curve
 the sands of time
@@ -101591,6 +101689,7 @@ thepunisher
 thequestforcolour
 there exists
 there will be light
+there's no way the door is there!
 thesales
 thesalescurve
 thesandsoftime
@@ -103506,6 +103605,7 @@ virtuafighter
 virtuafighter2
 virtuafighter4
 virtual
+virtual abc journey
 virtual air
 virtual air guitar
 virtual air guitar company
@@ -104070,6 +104170,7 @@ west
 wester
 wester wester
 western
+western gun shop simulator
 western technologies
 westerntechnologies
 westerwester
@@ -105414,6 +105515,7 @@ zèbre
 怪物的王座 soundtrack
 怪物的王座Soundtrack
 怪谈调查局
+恋与未歇之雨
 恋爱猪脚饭
 意识分裂 开篇季
 意识分裂开篇季
@@ -105456,6 +105558,7 @@ zèbre
 时漏界限-edge- demo
 时漏界限-edge-Demo
 春琉ト怪夜
+時巡る宝石精霊
 暮雨流花+
 未择之路
 末日卡牌
@@ -105489,6 +105592,10 @@ zèbre
 汉武大帝传 虞姬专属飒装DLC
 汉武大帝传-虞姬专属飒装DLC
 汉武大帝传-虞姬专属飒装dlc
+江山北望 DEMO
+江山北望 Demo
+江山北望 demo
+江山北望Demo
 沉默传奇
 浊令
 海钓少女食堂试用版 FISHING GIRL'S FANTASY DEMO
