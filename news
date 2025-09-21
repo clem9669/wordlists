@@ -9735,13 +9735,16 @@ BOURGOGNE
 BOURIGEAUD
 BOURNEMOUTH - BRIGHTON
 BOURNEMOUTH - LUTON
+BOURNEMOUTH - NEWCASTLE
 BOURNEMOUTH - WOLVES
+BOURNEMOUTH VS NEWCASTLE
 BOURNEMOUTH – ARSENAL
 BOURNEMOUTH – BRIGHTON
 BOURNEMOUTH – LIVERPOOL
 BOURNEMOUTH – LUTON TOWN
 BOURNEMOUTH – MANCHESTER CITY
 BOURNEMOUTH – MANCHESTER UNITED
+BOURNEMOUTH – NEWCASTLE
 BOURNEMOUTH – WOLVES
 BOURSE
 BOURSE CAC 40
@@ -15161,6 +15164,7 @@ CITROEN C3
 CITROUILLE - HALLOWEEN
 CITY
 CITY 2 BRUXELLES
+CITY ARSENAL
 CITY OF LIES
 CITYMESH
 CIVIL WAR
@@ -24757,6 +24761,7 @@ ETOILE DE BESSÈGES
 ETOILE DE DAVID
 ETOILE DE MIDI
 ETOILE FILANTE
+ETOILE MYSTERIEUSE 12 COUPS DE MIDI
 ETRETAT
 ETTERBEEK
 ETZEBETH
@@ -27169,6 +27174,7 @@ F1 SPA
 F1 SPA 2023
 F1 SPANJE
 F1 SPRINT
+F1 STAND
 F1 STANDINGS
 F1 Saudi arabia
 F1 Silverstone
@@ -27830,6 +27836,7 @@ FERRARI F40
 FERRARI F80
 FERRARI PUROSANGUE
 FERRARI ROMA
+FERRE REGGERS
 FERRERO
 FERRY 2
 FESPO
@@ -35476,10 +35483,12 @@ HERTHA BSC – BAYERN
 HERTHA GEGEN BAYERN
 HERTHA GEGEN DORTMUND
 HERTHA GEGEN LEVERKUSEN
+HERVE MORIN
 HERVE RENARD
 HERVE REVELLI
 HERVE TEMIME
 HERVÉ BERVILLE
+HERVÉ MORIN
 HERVÉ PIERRE
 HERVÉ RENARD
 HERVÉ REVELLI
@@ -35689,6 +35698,7 @@ HOROSCOPE DU 11 AOÛT
 HOROSCOPE DU 12 JUIN 2025
 HOROSCOPE DU 13 MAI VERSEAU
 HOROSCOPE DU 20 JUIN 2025
+HOROSCOPE DU 21 SEPTEMBRE
 HOROSCOPE DU 30 MAI 2025
 HOROSCOPE DU 6 JUILLET 2025
 HOROSCOPE DU 7 MARS 2025
@@ -43454,6 +43464,7 @@ KIEL
 KIERAN CULKIN
 KIEV
 KIEWIT
+KIGALI
 KIKI MÄDER
 KILCHBERG
 KILDE
@@ -45876,6 +45887,7 @@ LAURENT LUYAT
 LAURENT MACRON
 LAURENT MAISTRET
 LAURENT MARCANGELI
+LAURENT MEKIES
 LAURENT MIGNON BPCE
 LAURENT MINGUET
 LAURENT NICOLLIN
@@ -46300,6 +46312,7 @@ LEO
 LEO ANGUENOT
 LEO GRASSET
 LEO MATTEI
+LEO NEUGEBAUER
 LEO VARADKAR
 LEO WALK
 LEOLIA JEANJEAN
@@ -51281,6 +51294,8 @@ MAJECKI
 MAJOR LAZER
 MAJORANA 1
 MAJORQUE
+MAJORQUE - ATLETICO MADRID
+MAJORQUE – ATLÉTICO MADRID
 MAJORQUE – BARCELONE
 MAJORQUE – REAL
 MAJORQUE – REAL MADRID
@@ -52070,6 +52085,7 @@ MARSEILLE - LYON
 MARSEILLE FEYENOORD
 MARSEILLE GEGEN EINTRACHT FRANKFURT
 MARSEILLE GEGEN PSG
+MARSEILLE PSG
 MARSEILLE SAINT-ETIENNE
 MARSEILLE VS PSG
 MARSEILLE – AEK ATHÈNES
@@ -52716,6 +52732,7 @@ MERCREDI
 MERCREDI DES CENDRES
 MERCREDI SAISON 2
 MERE
+MEREL MAES
 MERET SCHNEIDER
 MERGIM BERISHA
 MERIBEL
@@ -63415,6 +63432,7 @@ PAULINE DEROULEDE
 PAULINE DÉROULÈDE ACCIDENT
 PAULINE ESTER
 PAULINE FERRAND PREVOT
+PAULINE FERRAND PRÉVÔT
 PAULINE FERRAND-PRÉVOT
 PAULINE SLANGEN
 PAULKOULAK
@@ -69649,6 +69667,7 @@ RUSSIE-DANEMARK
 RUSSIEDANEMARK
 RUSSISCH VLIEGTUIG NEERGESTORT
 RUSSISCHE KAMPFJETS ESTLAND
+RUSSISCHE KAMPFJETS NATO
 RUSSISCHE STRIJDKRACHTEN
 RUSSLAND
 RUSSLAND DANEMARK
@@ -74208,6 +74227,7 @@ STADE DE REIMS
 STADE FRANCAIS
 STADE FRANÇAIS – LA ROCHELLE
 STADE FRANÇAIS – TOULOUSE
+STADE JEAN BOUIN
 STADE JEAN-BOUIN
 STADE LAUSANNE-OUCHY
 STADE LAVALLOIS
@@ -74388,6 +74408,7 @@ STEPHAN EICHER
 STEPHAN VAN BELLINGHEN
 STEPHANE BAK
 STEPHANE BERN
+STEPHANE DIAGANA
 STEPHANE EIMER
 STEPHANE GUILLON
 STEPHANE KRAFFT
@@ -80345,6 +80366,7 @@ TORI BOWIE
 TORI SPELLING
 TORINO  JUVENTUS
 TORINO  MILAN
+TORINO - ATALANTA
 TORINO - UDINESE
 TORINO – AC MILAN
 TORINO – INTER
@@ -80771,6 +80793,7 @@ TRUMP NIEUWS
 TRUMP PAILLE PLASTIQUE
 TRUMP TWITTER
 TRUMP UKRAINE
+TRUMP VISA
 TRUMP ZÖLLE KANADA
 TRUSOVA
 TRUTH SOCIAL
@@ -87210,6 +87233,7 @@ WESTERLO  MECHELEN
 WESTERLO  UNION
 WESTERLO  ZULTE-WAREGEM
 WESTERLO - GENK
+WESTERLO - STANDARD
 WESTERLO - ZULTE-WAREGEM
 WESTERLO SERAING UTD
 WESTERLO – ANDERLECHT
@@ -94990,18 +95014,24 @@ bourgogne
 bourigeaud
 bournemouth - brighton
 bournemouth - luton
+bournemouth - newcastle
 bournemouth - wolves
+bournemouth vs newcastle
 bournemouth – arsenal
 bournemouth – brighton
 bournemouth – liverpool
 bournemouth – luton town
 bournemouth – manchester city
 bournemouth – manchester united
+bournemouth – newcastle
 bournemouth – wolves
 bournemouth-brighton
+bournemouth-newcastle
 bournemouth-wolves
+bournemouthvsnewcastle
 bournemouth–brighton
 bournemouth–manchesterunited
+bournemouth–newcastle
 bournemouth–wolves
 bourse
 bourse cac 40
@@ -97224,7 +97254,9 @@ citroenc3
 citrouille - halloween
 city
 city 2 bruxelles
+city arsenal
 city of lies
+cityarsenal
 citymesh
 civil war
 civilisation orelsan
@@ -101298,7 +101330,9 @@ etoile de bessèges
 etoile de david
 etoile de midi
 etoile filante
+etoile mysterieuse 12 coups de midi
 etoiledebessèges
+etoilemysterieuse12coupsdemidi
 etretat
 etterbeek
 etzebeth
@@ -101688,6 +101722,7 @@ f1 spa
 f1 spa 2023
 f1 spanje
 f1 sprint
+f1 stand
 f1 standings
 f1 turkije
 f1 tv
@@ -101707,6 +101742,7 @@ f1qualifying
 f1spa
 f1spanje
 f1sprint
+f1stand
 f1standings
 f1tv
 f2
@@ -102160,6 +102196,8 @@ ferrari f40
 ferrari f80
 ferrari purosangue
 ferrari roma
+ferre reggers
+ferrereggers
 ferrero
 ferry 2
 fespo
@@ -105648,14 +105686,18 @@ hertha bsc – bayern
 hertha gegen bayern
 hertha gegen dortmund
 hertha gegen leverkusen
+herve morin
 herve renard
 herve revelli
 herve temime
+hervemorin
 herverevelli
 hervé berville
+hervé morin
 hervé pierre
 hervé renard
 hervé revelli
+hervémorin
 hervérevelli
 herz
 herzele
@@ -105883,6 +105925,7 @@ horoscope du 11 août
 horoscope du 12 juin 2025
 horoscope du 13 mai verseau
 horoscope du 20 juin 2025
+horoscope du 21 septembre
 horoscope du 30 mai 2025
 horoscope du 6 juillet 2025
 horoscope du 7 mars 2025
@@ -105910,6 +105953,7 @@ horoscopedu11août
 horoscopedu12juin2025
 horoscopedu13maiverseau
 horoscopedu20juin2025
+horoscopedu21septembre
 horoscopedu30mai2025
 horoscopedu6juillet2025
 horoscopedu7mars2025
@@ -109224,6 +109268,7 @@ kieran culkin
 kieranculkin
 kiev
 kiewit
+kigali
 kiki mäder
 kilchberg
 kilde
@@ -110328,6 +110373,7 @@ laurent luyat
 laurent macron
 laurent maistret
 laurent marcangeli
+laurent mekies
 laurent mignon bpce
 laurent minguet
 laurent nicollin
@@ -110349,6 +110395,7 @@ laurentjalabert
 laurentlouyet
 laurentluyat
 laurentmacron
+laurentmekies
 laurentnicollin
 laurentvoulzy
 laurier-cerise
@@ -110796,6 +110843,7 @@ leo
 leo anguenot
 leo grasset
 leo mattei
+leo neugebauer
 leo varadkar
 leo walk
 leolia jeanjean
@@ -110815,6 +110863,7 @@ leonardo dicaprio
 leonardo spinazzola
 leonardpeltier
 leondebbouze
+leoneugebauer
 leonidas
 leonmarchand
 leonor
@@ -112458,9 +112507,13 @@ majecki
 major lazer
 majorana 1
 majorque
+majorque - atletico madrid
+majorque – atlético madrid
 majorque – barcelone
 majorque – real
 majorque – real madrid
+majorque-atleticomadrid
+majorque–atléticomadrid
 makan traoré
 makro
 maladie cerf zombie
@@ -113343,6 +113396,7 @@ marseille - lyon
 marseille feyenoord
 marseille gegen eintracht frankfurt
 marseille gegen psg
+marseille psg
 marseille saint-etienne
 marseille vs psg
 marseille – aek athènes
@@ -113380,6 +113434,7 @@ marseille-cassis
 marseille-cassis 2022
 marseille-cassis 2024
 marseille-lyon
+marseillepsg
 marstetten unfall
 marstettenunfall
 marta bassino
@@ -114048,6 +114103,8 @@ mercredi saison 2
 mercredisaison2
 merdunord
 mere
+merel maes
+merelmaes
 meret schneider
 mergim berisha
 meribel
@@ -116880,6 +116937,7 @@ omnium
 omoda
 omonia – manchester united
 omparisfc
+ompsg
 omr
 oms
 on
@@ -117882,9 +117940,12 @@ pauline deroulede
 pauline déroulède accident
 pauline ester
 pauline ferrand prevot
+pauline ferrand prévôt
 pauline ferrand-prévot
 pauline slangen
 paulinedéroulèdeaccident
+paulineferrandprevot
+paulineferrandprévôt
 paulkoulak
 paulloupsulitzer
 paulmirabel
@@ -121176,8 +121237,10 @@ russiedanemark
 russieukraineguerre
 russisch vliegtuig neergestort
 russische kampfjets estland
+russische kampfjets nato
 russische strijdkrachten
 russischekampfjetsestland
+russischekampfjetsnato
 russischvliegtuigneergestort
 russland
 russland danemark
@@ -123430,6 +123493,7 @@ stade de reims
 stade francais
 stade français – la rochelle
 stade français – toulouse
+stade jean bouin
 stade jean-bouin
 stade lausanne-ouchy
 stade lavallois
@@ -123441,6 +123505,7 @@ stade roi baudouin
 stade toulousain
 stadedefrance
 stadefrançais–larochelle
+stadejeanbouin
 stadelhofen
 stadelhofen bahnhof
 staderennais
@@ -123643,6 +123708,7 @@ stephan eicher
 stephan van bellinghen
 stephane bak
 stephane bern
+stephane diagana
 stephane eimer
 stephane guillon
 stephane krafft
@@ -123650,6 +123716,7 @@ stephane plaza
 stephane ravier
 stephane sejourne
 stephanebern
+stephanediagana
 stephanekrafft
 stephanie aeffner tod
 stephanie berger
@@ -125621,13 +125688,16 @@ topuria
 torgon
 tori bowie
 tori spelling
+torino  atalanta
 torino  juventus
 torino  milan
 torino  udinese
+torino - atalanta
 torino - udinese
 torino – ac milan
 torino – inter
 torino – juventus
+torino-atalanta
 torino-udinese
 torispelling
 tornade allemagne
@@ -126120,6 +126190,7 @@ trump nieuws
 trump paille plastique
 trump twitter
 trump ukraine
+trump visa
 trump zölle kanada
 trumpamtseinführung
 trumpcoin
@@ -126128,6 +126199,7 @@ trumpgaza
 trumpgazavideo
 trumpmort
 trumpukraine
+trumpvisa
 trumpzöllekanada
 trusova
 truth social
@@ -128238,6 +128310,7 @@ westerlo  union
 westerlo  zulte-waregem
 westerlo  zultewaregem
 westerlo - genk
+westerlo - standard
 westerlo - zulte-waregem
 westerlo seraing utd
 westerlo – anderlecht
@@ -128245,7 +128318,9 @@ westerlo – cercle bruges
 westerlo – charleroi sc
 westerlo – rwdm
 westerlo – standard
+westerlo-standard
 westerlo-zulte-waregem
+westerlo–standard
 westham-crystalpalace
 westham-nottmforest
 westham–bournemouth
