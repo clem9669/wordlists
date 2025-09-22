@@ -980,6 +980,7 @@
 ? ?(One Shot)
 ?1?53??
 ??
+?? ? ???? (After-school Confession)
 ?? Demo
 ?? grandmother
 ?? | Kwun Tong
@@ -996,6 +997,7 @@
 ??? -Cha-No-Ma-
 ??? -Fukiage-
 ??? ??? Demo
+??? The Brick
 ??? Wild Web
 ??? | Phantom Reckoning
 ??? | Yatsuakari
@@ -5796,6 +5798,7 @@ BATTLER
 BATTLERS
 BATTLES
 BATTLESHADOWARENA
+BATTLESMITHS: BLADE & FORGE
 BATTLESQUADRON
 BATTLETOADS
 BATTLEZONE
@@ -5842,6 +5845,7 @@ BEAR
 BEARDED
 BEARLY ALIVE
 BEARLY BAKING
+BEARZERK
 BEAST
 BEAST BRIGADE
 BEASTLY TACTICS: ROCK PAPER SCISSORS
@@ -6098,6 +6102,7 @@ BEYOND SILENCE
 BEYOND SUNSET
 BEYOND THE RED DOOR
 BEYOND THE SPACE WALL
+BEYOND YOUR WALL
 BEYONDARTS
 BEYONDGAMES
 BEYONDGOOD&EVIL
@@ -7967,6 +7972,9 @@ BattleofRebels
 Battler
 Battlers
 Battles
+Battlesmiths: Blade   Forge
+Battlesmiths: Blade & Forge
+Battlesmiths:Blade&Forge
 Battletoads
 Battlezone
 Baudville
@@ -8001,6 +8009,7 @@ Bearly Alive
 Bearly Baking
 BearlyAlive
 BearlyBaking
+Bearzerk
 Beast
 Beast Brigade
 BeastBrigade
@@ -8283,6 +8292,7 @@ Beyond Reality Games
 Beyond Silence
 Beyond Sunset
 Beyond The Space Wall
+Beyond Your Wall
 Beyond the Red Door
 BeyondArts
 BeyondGames
@@ -8295,6 +8305,7 @@ BeyondRealityGames
 BeyondSilence
 BeyondSunset
 BeyondTheSpaceWall
+BeyondYourWall
 BeyondtheRedDoor
 Bheds
 BiP
@@ -10454,6 +10465,7 @@ CHAMPIGNONBISCORNUSURUNBATON
 CHAMPIGNONS
 CHAMPIMEUH
 CHAMPIONS
+CHAMPIONS OF THE COSMOS
 CHAMPIONS TACTICS REFORGED
 CHAMPIONSHIP
 CHANCE
@@ -11060,6 +11072,7 @@ CLOUD CANNON
 CLOUD CANNON CLOUD CANNON
 CLOUD CATS` LAND
 CLOUD POPPER (TODDLER/EARLY YEARS GAME)
+CLOUD SERVER SIMULATOR
 CLOUD STRIFE
 CLOUDCANNON
 CLOUDCANNONCLOUDCANNON
@@ -12839,8 +12852,10 @@ Champignonbiscornu
 Champignonbiscornusurunbaton
 Champions
 Champions Tactics Reforged
+Champions of The Cosmos
 ChampionsTacticsReforged
 Championship
+ChampionsofTheCosmos
 Chance
 Chance Vettin
 ChanceLot TD: Merge Wars
@@ -13485,11 +13500,13 @@ Cloud Cannon Cloud Cannon
 Cloud Cats` Land
 Cloud Popper  Toddler/Early Years Game 
 Cloud Popper (Toddler/Early Years Game)
+Cloud Server Simulator
 Cloud Strife
 CloudCannon
 CloudCannonCloudCannon
 CloudCats`Land
 CloudPopper(Toddler/EarlyYearsGame)
+CloudServerSimulator
 CloudStrife
 Cloudtop Chaos
 Cloudtop Chaos Demo
@@ -15238,6 +15255,7 @@ DECK 13
 DECK DASH
 DECK DEFENSE
 DECK OF HAUNTS
+DECK OF MANDATE
 DECK OF MANDATE DEMO
 DECK13
 DECKARD
@@ -16012,6 +16030,7 @@ DOKAPON
 DOKI
 DOKI DENKI
 DOKI DENKI STUDIO
+DOKI DOKI LITERATURE CLUB PLUS!
 DOKIDENKI
 DOKIDENKISTUDIO
 DOKIDOKI
@@ -17189,6 +17208,7 @@ Deck 13
 Deck Dash
 Deck Defense
 Deck of Haunts
+Deck of Mandate
 Deck of Mandate Demo
 Deck13
 DeckDash
@@ -17198,6 +17218,7 @@ Deckard Cain
 DeckardCain
 Deckline
 DeckofHaunts
+DeckofMandate
 DeckofMandateDemo
 Deco
 Decophage
@@ -17993,8 +18014,10 @@ Dokapon
 Doki
 Doki Denki
 Doki Denki Studio
+Doki Doki Literature Club Plus!
 DokiDenki
 DokiDenkiStudio
+DokiDokiLiteratureClubPlus!
 Dokidoki
 Dokidoki Penguin Land
 DokidokiPenguinLand
@@ -21860,6 +21883,7 @@ FLOWER IN US
 FLOWER POT
 FLOWERBANNER
 FLOWERBANNERPATTERN
+FLOWERDROPS
 FLOWERPOT
 FLOWERS AND FAVOURS: FLORIST SIMULATOR
 FLOWERSHOP MASTER YUUKARIN!
@@ -23222,6 +23246,7 @@ Flower Pot
 Flower in Us
 FlowerEscape
 FlowerPot
+Flowerdrops
 FlowerinUs
 Flowers And Favours: Florist Simulator
 FlowersAndFavours:FloristSimulator
@@ -28148,6 +28173,8 @@ HYPERSPACECOWGIRLS
 HYPERSPACED
 HYPERSPORTS
 HYPERWARE
+HYPERXFANTASY
+HYPERxFANTASY
 HYPNOSIS KNIGHT-PRINCESS
 HYPNOTIX
 HYRULE
@@ -31562,6 +31589,7 @@ JIMPOWER
 JIMUSHO
 JIN
 JIN KAZAMA
+JINCHOU
 JINGUKAN
 JINGUKAN POLARIS
 JINGUKANPOLARIS
@@ -32299,6 +32327,7 @@ Jimusho
 Jin
 Jin Kazama
 JinKazama
+Jinchou
 Jingukan
 Jingukan Polaris
 JingukanPolaris
@@ -38219,6 +38248,7 @@ MANFRED
 MANFRED VON KARMA
 MANFREDVONKARMA
 MANG OJEK: DRIVING TEST
+MANGACO
 MANGO
 MANGORUBY
 MANHUNT
@@ -40811,6 +40841,7 @@ Manfred von Karma
 ManfredvonKarma
 Mang Ojek: Driving Test
 MangOjek:DrivingTest
+MangaCo
 Mango
 Mangoruby
 Manhunt
@@ -48995,6 +49026,7 @@ PUNCHENTERTAINMENT
 PUNCHINELLO
 PUNCHINELLO-SAX
 PUNCHINELLOSAX
+PUNCHIT!
 PUNCHOUT
 PUNCHOUT!!
 PUNCPUNC
@@ -49045,6 +49077,7 @@ PUZZLE GAME
 PUZZLE KINGS
 PUZZLE NATURE
 PUZZLE PANIC
+PUZZLE PLEASANT
 PUZZLE QUEST
 PUZZLE SERIES
 PUZZLE TEMPTATION: ANIME REVEAL
@@ -51096,6 +51129,7 @@ Punch Out!!
 Punch to Glory
 Punch-Out!!
 PunchEntertainment
+PunchIt!
 PunchOut
 PunchOut!!
 Punchinello
@@ -51152,6 +51186,7 @@ Puzzle Bobble Mini
 Puzzle Kings
 Puzzle Nature
 Puzzle Panic
+Puzzle Pleasant
 Puzzle Quest
 Puzzle Series
 Puzzle Temptation: Anime Reveal
@@ -51163,6 +51198,7 @@ PuzzleBobbleMini
 PuzzleKings
 PuzzleNature
 PuzzlePanic
+PuzzlePleasant
 PuzzleQuest
 PuzzleSeries
 PuzzleTemptation:AnimeReveal
@@ -57761,8 +57797,10 @@ SURVIVOR
 SURVIVOR THESE GIRLS
 SURVIVORS LAST STAND
 SUSHI BEN
+SUSHI DELIVERY
 SUSHI VS BURGER RACE
 SUSHI vs BURGER Race
+SUSHIDELIVERY
 SUSHIvsBURGERRace
 SUSIE
 SUSIE PARALLELE
@@ -57864,6 +57902,7 @@ SWORDFIGHTER
 SWORDFISH
 SWORDFISH STUDIOS
 SWORDFISHSTUDIOS
+SWORDMANCY DEMO
 SWORDOFMANA
 SWORDORY
 SWORDORY SWORDORY
@@ -61456,6 +61495,8 @@ Swordfighter
 Swordfish
 Swordfish Studios
 SwordfishStudios
+Swordmancy Demo
+SwordmancyDemo
 SwordofMana
 SwordoftheSea
 Swordory
@@ -74273,6 +74314,7 @@ battlement
 battler
 battlers
 battles
+battlesmiths: blade & forge
 battlesquadron
 battletoads
 battlezone
@@ -74311,6 +74353,7 @@ bear
 bearded
 bearly alive
 bearly baking
+bearzerk
 beast
 beast brigade
 beastly tactics: rock paper scissors
@@ -74567,6 +74610,7 @@ beyond silence
 beyond sunset
 beyond the red door
 beyond the space wall
+beyond your wall
 beyondarts
 beyondgames
 beyondgood&evil
@@ -76620,6 +76664,7 @@ champignonbiscornusurunbaton
 champignons
 champimeuh
 champions
+champions of the cosmos
 champions tactics reforged
 championship
 chance
@@ -77224,6 +77269,7 @@ cloud cannon
 cloud cannon cloud cannon
 cloud cats` land
 cloud popper (toddler/early years game)
+cloud server simulator
 cloud strife
 cloudcannon
 cloudcannoncloudcannon
@@ -78887,6 +78933,7 @@ deck 13
 deck dash
 deck defense
 deck of haunts
+deck of mandate
 deck of mandate demo
 deck13
 deckard
@@ -79646,6 +79693,7 @@ dokapon
 doki
 doki denki
 doki denki studio
+doki doki literature club plus!
 dokidenki
 dokidenkistudio
 dokidoki
@@ -82219,6 +82267,7 @@ flower pot
 flower_banner_pattern
 flowerbanner
 flowerbannerpattern
+flowerdrops
 flowerpot
 flowers and favours: florist simulator
 flowershop master yuukarin!
@@ -85552,6 +85601,7 @@ hyperspacecowgirls
 hyperspaced
 hypersports
 hyperware
+hyperxfantasy
 hypnosis knight-princess
 hypnotix
 hyrule
@@ -86847,6 +86897,7 @@ jimpower
 jimusho
 jin
 jin kazama
+jinchou
 jingukan
 jingukan polaris
 jingukanpolaris
@@ -90164,6 +90215,7 @@ manfred
 manfred von karma
 manfredvonkarma
 mang ojek: driving test
+mangaco
 mango
 mangoruby
 manhunt
@@ -96312,6 +96364,7 @@ punchentertainment
 punchinello
 punchinello-sax
 punchinellosax
+punchit!
 punchout
 punchout!!
 puncpunc
@@ -96363,6 +96416,7 @@ puzzle game
 puzzle kings
 puzzle nature
 puzzle panic
+puzzle pleasant
 puzzle quest
 puzzle series
 puzzle temptation: anime reveal
@@ -101160,6 +101214,7 @@ survivor
 survivor these girls
 survivors last stand
 sushi ben
+sushi delivery
 sushi vs burger race
 susie
 susie parallele
@@ -101259,6 +101314,7 @@ swordfighter
 swordfish
 swordfish studios
 swordfishstudios
+swordmancy demo
 swordofmana
 swordory
 swordory swordory
@@ -106444,6 +106500,10 @@ zèbre
 手机时代 mobile era
 手机时代Mobileera
 打炮的女孩
+打砖块 THE BRICK
+打砖块 The Brick
+打砖块 the brick
+打砖块TheBrick
 报答老板
 挂机三国 无限升级
 挂机三国-无限升级
@@ -106692,6 +106752,12 @@ zèbre
 도형세계에서 렙업하자 - Calamity
 도형세계에서 렙업하자 - calamity
 도형세계에서렙업하자-Calamity
+방과 후 특별지도  After-school Confession 
+방과 후 특별지도 (AFTER-SCHOOL CONFESSION)
+방과 후 특별지도 (After school Confession)
+방과 후 특별지도 (After-school Confession)
+방과 후 특별지도 (after-school confession)
+방과후특별지도(After-schoolConfession)
 원 샷 One Shot 
 원 샷(ONE SHOT)
 원 샷(One Shot)
