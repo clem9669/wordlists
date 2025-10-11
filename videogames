@@ -1,4 +1,5 @@
  BURIED TAPES  The Cleaner
+ BURIED TAPES  The Parking
 !
 "HARRY"
 "Harry"
@@ -11,8 +12,11 @@
 'burger'
 'n
 (BURIED TAPES) THE CLEANER
+(BURIED TAPES) THE PARKING
 (BURIED TAPES) The Cleaner
+(BURIED TAPES) The Parking
 (BURIEDTAPES)TheCleaner
+(BURIEDTAPES)TheParking
 (GAMELOFT)
 (Gameloft)
 (INDIVIDU)
@@ -25,6 +29,7 @@
 (SEGA)
 (Sega)
 (buried tapes) the cleaner
+(buried tapes) the parking
 (gameloft)
 (individu)
 (jam)
@@ -75,6 +80,7 @@
 100 CATS LOST IN THAILAND FIND & COLOR
 100 CHINA CATS
 100 CRIME CATS
+100 CYPRUS CATS
 100 Cats Beijing
 100 Cats Belgrade
 100 Cats Lost In Canada Find   Color
@@ -85,6 +91,7 @@
 100 Cats Lost in Thailand Find & Color
 100 China Cats
 100 Crime Cats
+100 Cyprus Cats
 100 DAY TERM
 100 DOGS IN BRAZIL
 100 Day Term
@@ -133,6 +140,7 @@
 100 cats lost in thailand find & color
 100 china cats
 100 crime cats
+100 cyprus cats
 100 day term
 100 dogs in brazil
 100 fantasy cats
@@ -167,6 +175,7 @@
 100CatsLostinThailandFind&Color
 100ChinaCats
 100CrimeCats
+100CyprusCats
 100DayTerm
 100DogsinBrazil
 100FantasyCats
@@ -882,6 +891,8 @@
 50CentsPlease
 50Minutes'TilImpact
 51
+5125M
+5125m
 52
 52 / 0 = ?
 52 / 0 = ∞
@@ -5548,6 +5559,7 @@ BACTERIAN
 BAD
 BAD CHEESE
 BAD CREDIT? NO PROBLEM!
+BAD DREAM: AFTERLIFE
 BAD GOLF
 BAD MIDWIFE
 BAD MONKEE
@@ -5983,6 +5995,7 @@ BATTLEFIELD
 BATTLEFIELD™ 1
 BATTLEFIELD™ 2042
 BATTLEFIELD™ 6
+BATTLEFIELD™ 6 - PHANTOM UPGRADE
 BATTLEFRONT
 BATTLEGOAT
 BATTLEGOAT STUDIOS
@@ -7815,12 +7828,14 @@ Bacterian
 Bad
 Bad Cheese
 Bad Credit? No Problem!
+Bad Dream: Afterlife
 Bad Golf
 Bad Midwife
 Bad Monkee
 Bad Rayman
 BadCheese
 BadCredit?NoProblem!
+BadDream:Afterlife
 BadGolf
 BadMidwife
 BadMonkee
@@ -8213,12 +8228,16 @@ Battlefield
 Battlefield(TM) 1
 Battlefield(TM) 2042
 Battlefield(TM) 6
+Battlefield(TM) 6 - Phantom Upgrade
 Battlefield™ 1
 Battlefield™ 2042
 Battlefield™ 6
+Battlefield™ 6   Phantom Upgrade
+Battlefield™ 6 - Phantom Upgrade
 Battlefield™1
 Battlefield™2042
 Battlefield™6
+Battlefield™6-PhantomUpgrade
 Battlefront
 Battleground
 Battlement
@@ -11907,6 +11926,7 @@ CORTHALA
 COSMI
 COSMI CORPORATION
 COSMIC
+COSMIC CARGO
 COSMIC CAT
 COSMIC CHASM
 COSMIC COLISEUM
@@ -14413,6 +14433,7 @@ Cosmi
 Cosmi Corporation
 CosmiCorporation
 Cosmic
+Cosmic Cargo
 Cosmic Cat
 Cosmic Chasm
 Cosmic Coliseum
@@ -14421,6 +14442,7 @@ Cosmic Star Lounge
 Cosmic Swarm
 Cosmic Tails Demo
 Cosmic Waves
+CosmicCargo
 CosmicCat
 CosmicChasm
 CosmicColiseum
@@ -15595,6 +15617,7 @@ DD64
 DE
 DE'ARNISE
 DEAD
+DEAD 2 RISE
 DEAD ABOVE
 DEAD APPLES DARE
 DEAD BY BACKROOMS ANOMALY
@@ -15790,6 +15813,7 @@ DELIVERY
 DELIVERY MAN
 DELIVERY MAN DELIVERY MAN
 DELIVERY PALS
+DELIVERY TO GRAVEYARD MANOR
 DELIVERY UP
 DELIVERYMAN
 DELIVERYMANDELIVERYMAN
@@ -16119,6 +16143,7 @@ DIANE MCCLINTOCK
 DIANEMCCLINTOCK
 DICE
 DICE BATTLES MAGNUM OPUS
+DICE LEGENDS
 DICE TO PAY
 DICEBALL
 DICER
@@ -16257,6 +16282,7 @@ DIGITOYSINC
 DIGITUM
 DILEMMA: THE GAME
 DILLO'S DILEMMA
+DIMAWORLD
 DIME
 DIMENSIO
 DIMENSION
@@ -17548,6 +17574,7 @@ DeSean
 DeVir
 DeWitt
 Dead
+Dead 2 Rise
 Dead Above
 Dead Apples Dare
 Dead Cat Bounce
@@ -17574,6 +17601,7 @@ Dead or Alive
 Dead or Alive 2
 Dead to
 Dead to Rights
+Dead2Rise
 DeadAbove
 DeadApplesDare
 DeadCatBounce
@@ -17801,9 +17829,11 @@ Delivery
 Delivery Man
 Delivery Man Delivery Man
 Delivery Up
+Delivery to Graveyard Manor
 DeliveryMan
 DeliveryManDeliveryMan
 DeliveryUp
+DeliverytoGraveyardManor
 Dellahunt
 Delphine
 Delphine Software
@@ -18128,8 +18158,10 @@ Diane McClintock
 DianeMcClintock
 Dice
 Dice Battles Magnum Opus
+Dice Legends
 Dice To Pay
 DiceBattlesMagnumOpus
+DiceLegends
 DiceToPay
 Diceball
 Dicer
@@ -20039,6 +20071,7 @@ ENDLESS™Legend2
 ENDLING
 ENDOR AWAKENS: ROGUELITE DRPG
 ENDURCI
+ENDURE: THE MIDDLE AGE
 ENDURO
 ENDURO RACER
 ENDURORACER
@@ -20219,6 +20252,7 @@ ERE INFORMATIQUE
 EREADER
 EREDARS
 EREINFORMATIQUE
+ERGOSPHERE
 ERI
 ERI NISHINA
 ERIC
@@ -21164,6 +21198,8 @@ Endlessmind
 Endlesswavessurvival
 Endor Awakens: Roguelite DRPG
 EndorAwakens:RogueliteDRPG
+Endure: The Middle Age
+Endure:TheMiddleAge
 Enduro
 Enduro Racer
 EnduroRacer
@@ -21332,6 +21368,7 @@ ErbeSoftware
 Ere
 Ere Informatique
 EreInformatique
+Ergosphere
 Eri
 Eri Nishina
 EriNishina
@@ -21757,6 +21794,7 @@ FACTOR
 FACTOR 5
 FACTOR5
 FACTORY
+FACTORY PLANNER: FIRST SPARKS
 FAETERRA
 FAHRENHEIT
 FAIR
@@ -21934,6 +21972,7 @@ FASELEI
 FAST GEAR
 FAST HANDS
 FAST ROYAL
+FASTER BUNNIES
 FAT
 FATAL
 FATAL FURY
@@ -23138,6 +23177,8 @@ Factor
 Factor 5
 Factor5
 Factory
+Factory Planner: First Sparks
+FactoryPlanner:FirstSparks
 FaeTerra
 Fahrenheit
 Fair
@@ -23327,6 +23368,8 @@ Fast Royal
 FastGear
 FastHands
 FastRoyal
+Faster Bunnies
+FasterBunnies
 Fat
 Fatal
 Fatal Fury
@@ -28511,6 +28554,7 @@ HISCORESOFTWARE
 HISTOIRE
 HISTOIRE COMMUNE
 HISTOIRECOMMUNE
+HISTORIC HELIX
 HISTORY
 HISTORY IN THE MAKING
 HISTORYINTHEMAKING
@@ -28882,6 +28926,7 @@ HYDRA HELI
 HYDRAVISION
 HYDRO
 HYDRO THUNDER
+HYDRODYNAMICS OF HOPE & OPTIMISM
 HYDROPAWNICS
 HYDROTHUNDER
 HYDROTICK: WATER REMINDER & AQUARIUM MANAGER
@@ -29812,6 +29857,8 @@ HisakoKajiura
 Histoire
 Histoire commune
 Histoirecommune
+Historic Helix
+HistoricHelix
 History
 History in the Making
 HistoryintheMaking
@@ -30248,6 +30295,9 @@ HydroThunder
 HydroTick: Water Reminder   Aquarium Manager
 HydroTick: Water Reminder & Aquarium Manager
 HydroTick:WaterReminder&AquariumManager
+Hydrodynamics of Hope   Optimism
+Hydrodynamics of Hope & Optimism
+HydrodynamicsofHope&Optimism
 Hydropawnics
 Hyo
 Hyo Imawano
@@ -36577,6 +36627,7 @@ LIL' SNOT: MOON ESCAPE
 LILA
 LILI
 LILI ROCHEFORT
+LILIALETTE'S HUSTLE: GETTING MY HANDS DIRTY TO SAVE MY GUILD
 LILIANE
 LILIROCHEFORT
 LILITH
@@ -38151,6 +38202,9 @@ Lila
 Lili
 Lili Rochefort
 LiliRochefort
+Lilialette s Hustle: Getting My Hands Dirty to Save My Guild
+Lilialette's Hustle: Getting My Hands Dirty to Save My Guild
+Lilialette'sHustle:GettingMyHandsDirtytoSaveMyGuild
 Liliane
 Lilith
 Lily
@@ -39002,6 +39056,7 @@ MAGICAL COMPANY
 MAGICAL DROP
 MAGICAL DROP 3
 MAGICAL GIRL OPAL
+MAGICAL MASSAGE DEMO
 MAGICAL NUT IKUNO
 MAGICAL RUNES
 MAGICALANGELFAIRYPRINCESS
@@ -40401,9 +40456,12 @@ MILESPROWER
 MILESTONE
 MILF EXPRESS
 MILF Express
+MILF SEX HOUSE
+MILF Sex House
 MILFExpress
 MILFS OF SUNVILLE - SEASON 2
 MILFS OF SUNVILLE - SEASON 2 EXTRA CONTENT
+MILFSexHouse
 MILFY WAY: SPACE ORGASM 🪐🔞
 MILFs of Sunville   Season 2
 MILFs of Sunville   Season 2 Extra Content
@@ -41130,6 +41188,7 @@ MOTORSPORT
 MOTORSTORM
 MOTOSHOTZO
 MOTOSHOTZOMOTOSHOTZO
+MOTOTRIALS
 MOTOWN
 MOTOWN GAMES
 MOTOWNGAMES
@@ -41388,6 +41447,7 @@ MY GIRLFRIEND IS AN EGG
 MY GOTH BULLY LIKES SITTING ON MY FACE
 MY LIFE IN A MONSTER GIRL PARADISE
 MY LIMINAL NIGHTMARE
+MY LOCAL BEE CULT
 MY MATES DEMO
 MY MENTALLY UNSTABLE STREAMER GIRLFRIEND IS AN ABUSIVE SADIST
 MY MONEY GROWS ON TREES
@@ -41635,6 +41695,7 @@ Magical Company
 Magical Drop
 Magical Drop 3
 Magical Girl Opal
+Magical Massage Demo
 Magical Nut Ikuno
 Magical Runes
 Magical advertence
@@ -41644,6 +41705,7 @@ MagicalCompany
 MagicalDrop
 MagicalDrop3
 MagicalGirlOpal
+MagicalMassageDemo
 MagicalNutIkuno
 MagicalRunes
 Magicaladvertence
@@ -43761,6 +43823,7 @@ Moto Shotzo Moto Shotzo
 MotoRacer
 MotoShotzo
 MotoShotzoMotoShotzo
+MotoTrials
 Motocross
 Motocross Maniacs
 Motocross Maniacs 2
@@ -44014,6 +44077,7 @@ My Girlfriend Is an Egg
 My Goth Bully Likes Sitting on My Face
 My Life In A Monster Girl Paradise
 My Liminal Nightmare
+My Local Bee Cult
 My Mates Demo
 My Mentally Unstable Streamer Girlfriend Is an Abusive Sadist
 My Money Grows On Trees
@@ -44043,6 +44107,7 @@ MyGirlfriendIsanEgg
 MyGothBullyLikesSittingonMyFace
 MyLifeInAMonsterGirlParadise
 MyLiminalNightmare
+MyLocalBeeCult
 MyMatesDemo
 MyMentallyUnstableStreamerGirlfriendIsanAbusiveSadist
 MyMoneyGrowsOnTrees
@@ -46723,6 +46788,7 @@ OFFICE AFTER HOURS
 OFFICE ASIA
 OFFICE ASIA KENKYUUSHO
 OFFICE KOUKAN
+OFFICE LADY: VORE GAME
 OFFICE OUTBREAK SAVIOR
 OFFICE PERKS
 OFFICEASIA
@@ -47615,12 +47681,14 @@ Office After Hours
 Office Asia
 Office Asia Kenkyuusho
 Office Koukan
+Office Lady: Vore Game
 Office Outbreak Savior
 Office Perks
 OfficeAfterHours
 OfficeAsia
 OfficeAsiaKenkyuusho
 OfficeKoukan
+OfficeLady:VoreGame
 OfficeOutbreakSavior
 OfficePerks
 Offre du weekend
@@ -48528,6 +48596,7 @@ PARSON
 PARSTYLE
 PARTICLE HEARTS
 PARTICULE
+PARTISANS 1941
 PARTY
 PARTY GAME
 PARTY MADNESS
@@ -50033,6 +50102,7 @@ PROJECT SKYWARD
 PROJECT SOUL
 PROJECT THREE
 PROJECT THREE INTERACTIVE
+PROJECT UNKNOWN
 PROJECT WARLOCK
 PROJECT WARLOCK II
 PROJECT X
@@ -50700,6 +50770,8 @@ Parson
 Parstyle
 Particle Hearts
 ParticleHearts
+Partisans 1941
+Partisans1941
 Party
 Party Madness
 Party Management
@@ -52192,6 +52264,7 @@ Project Skyward
 Project Soul
 Project Three
 Project Three Interactive
+Project Unknown
 Project Warlock
 Project Warlock II
 Project X
@@ -52219,6 +52292,7 @@ ProjectSkyward
 ProjectSoul
 ProjectThree
 ProjectThreeInteractive
+ProjectUnknown
 ProjectWarlock
 ProjectWarlockII
 ProjectX
@@ -53214,6 +53288,7 @@ REALTIMEGAMESSOFTWARE
 REALTIMEWORLDS
 REALVISION
 REAP
+REAP AND SOW
 REAPER RECON
 REAVER
 REBECCA
@@ -53777,6 +53852,7 @@ ROBOT
 ROBOT DOMESTIQUE
 ROBOT DRAGON DE GLACE
 ROBOT ENTERTAINMENT
+ROBOT MIL
 ROBOT STAMPEDE
 ROBOT-DINOSAURE
 ROBOT-MAIL RUSH
@@ -54645,6 +54721,8 @@ RealtimeGames
 RealtimeGamesSoftware
 RealtimeScreenOCRTranslator
 Reap
+Reap and Sow
+ReapandSow
 Reaper Recon
 ReaperRecon
 Reaver
@@ -55272,6 +55350,7 @@ Robot
 Robot Dragon de Glace
 Robot Entertainment
 Robot Mail Rush
+Robot Mil
 Robot Stampede
 Robot domestique
 Robot-Dinosaure
@@ -55280,6 +55359,7 @@ Robot-MailRush
 RobotDinosaure
 RobotDragondeGlace
 RobotEntertainment
+RobotMil
 RobotStampede
 Robotdomestique
 Robotnik
@@ -56345,6 +56425,7 @@ SCULPTURE
 SCULPTURED
 SCULPTURED SOFTWARE
 SCULPTUREDSOFTWARE
+SCURGE: HIVE
 SCURRI
 SCUTE
 SCi
@@ -57622,6 +57703,7 @@ SNKVSCAPCOMCARDFIGHTERS
 SNKVSCAPCOMMATCHOFTHEMILLENIUM
 SNKvsCapcomCardFighters
 SNKvsCapcomMatchoftheMillenium
+SNOOPY & THE GREAT MYSTERY CLUB
 SNOOZE: A CHOICE
 SNOPPY
 SNOPPY SNOPPY
@@ -57936,6 +58018,7 @@ SOUL BLAZER
 SOUL CALIBUR
 SOUL CARDS
 SOUL EDGE
+SOUL MATES
 SOUL REAVER
 SOUL RIDERS
 SOUL SIGHT
@@ -58037,6 +58120,7 @@ SPACEHULK
 SPACEINVADERS
 SPACEMAMA
 SPACEMANBOW
+SPACENAP
 SPACEQUEST
 SPACESHEEP
 SPACESHIP MAN 2
@@ -59083,6 +59167,7 @@ SUPERMONO
 SUPERMONO STUDIOS
 SUPERMONOSTUDIOS
 SUPEROFFROAD
+SUPERPACKER
 SUPERPACMAN
 SUPERPICROSS
 SUPERPLAY
@@ -59837,6 +59922,8 @@ SculpteurMalchor
 Sculptured
 Sculptured Software
 SculpturedSoftware
+Scurge: Hive
+Scurge:Hive
 Scurri
 Scute
 SdLL
@@ -61155,6 +61242,9 @@ SniperStudios
 Snipper
 Snipper Snipper
 SnipperSnipper
+Snoopy   The Great Mystery Club
+Snoopy & The Great Mystery Club
+Snoopy&TheGreatMysteryClub
 Snooze: A Choice
 Snooze:AChoice
 Snoppy
@@ -61466,6 +61556,7 @@ Soul Blazer
 Soul Calibur
 Soul Cards
 Soul Edge
+Soul Mates
 Soul Reaver
 Soul Riders
 Soul Sight
@@ -61487,6 +61578,7 @@ SoulCaliburIV
 SoulCaliburSoulEdge
 SoulCards
 SoulEdge
+SoulMates
 SoulReaver
 SoulRiders
 SoulSight
@@ -61602,6 +61694,7 @@ SpacebarX
 Spacefighter Rukia 2
 SpacefighterRukia2
 Spaceflux
+Spacenap
 Spaceship Man 2
 SpaceshipMan2
 Spacestorm
@@ -62736,6 +62829,7 @@ SuperMonkeyBall
 SuperMonkeyBall2
 SuperOffRoad
 SuperPacMan
+SuperPacker
 SuperPaparazzi
 SuperPicross
 SuperPolished
@@ -63854,6 +63948,7 @@ THE CREATOR DEMO
 THE CRIMSON DIAMOND
 THE CRIMSON LYRE
 THE CRUCIBALL
+THE CUNICULUS OF PARADISE
 THE DAILY LIFE OF SERVING DOLL
 THE DARK BETWEEN
 THE DARK CROWN: GENESIS DEMAKE
@@ -63905,6 +64000,7 @@ THE EYES
 THE FACTORY
 THE FALLING STAR
 THE FARMER & THE CHICKEN
+THE FARMER WAS REPLACED
 THE FIELD BETWEEN
 THE FIFTH BELL
 THE FINAL
@@ -63967,6 +64063,7 @@ THE HOTEL
 THE HOUSE BELOW
 THE HOUSE OF DA VINCI
 THE HOUSE OF TESLA
+THE HOUSE: MYSTERY ESCAPE
 THE HUNTER'S PATH
 THE ICONFACTORY
 THE INCITE
@@ -64185,6 +64282,7 @@ THE UNTOLD LEGENDS: BABA YAGA
 THE UPPER HAND
 THE VAULT: LOGIC PUZZLE BOX
 THE VENDING MACHINE
+THE VERSAILLES VILLAGE
 THE VISION
 THE VISION FACTORY
 THE VOXEL
@@ -66405,6 +66503,7 @@ The Creator Demo
 The Crimson Diamond
 The Crimson Lyre
 The Cruciball
+The Cuniculus of Paradise
 The Daily Life of Serving Doll
 The Dark Between
 The Dark Crown: Genesis Demake
@@ -66447,6 +66546,7 @@ The Factory
 The Falling Star
 The Farmer   the Chicken
 The Farmer & the Chicken
+The Farmer Was Replaced
 The Field Between
 The Fifth Bell
 The Final
@@ -66503,6 +66603,7 @@ The Hotel
 The House Below
 The House of Da Vinci
 The House of Tesla
+The House: Mystery Escape
 The Hunter s Path
 The Hunter's Path
 The Iconfactory
@@ -66703,6 +66804,7 @@ The Untold Legends: Baba Yaga
 The Upper Hand
 The Vault: Logic Puzzle Box
 The Vending Machine
+The Versailles Village
 The Vision
 The Vision Factory
 The Voxel
@@ -66810,6 +66912,7 @@ TheCreatorDemo
 TheCrimsonDiamond
 TheCrimsonLyre
 TheCruciball
+TheCuniculusofParadise
 TheDailyLifeofServingDoll
 TheDarkBetween
 TheDarkCrown:GenesisDemake
@@ -66850,6 +66953,7 @@ TheEyes
 TheFactory
 TheFallingStar
 TheFarmer&theChicken
+TheFarmerWasReplaced
 TheFieldBetween
 TheFifthBell
 TheFinal
@@ -66900,6 +67004,7 @@ TheHobbit
 TheHollowLighthouse
 TheHorroratHighrook
 TheHotel
+TheHouse:MysteryEscape
 TheHouseBelow
 TheHouseofDaVinci
 TheHouseofTesla
@@ -67093,6 +67198,7 @@ TheUntoldLegends:BabaYaga
 TheUpperHand
 TheVault:LogicPuzzleBox
 TheVendingMachine
+TheVersaillesVillage
 TheVision
 TheVisionFactory
 TheVoxel
@@ -69144,6 +69250,7 @@ VANISHED
 VANOVA'S STORIES
 VANPOOL
 VANQUISH EVIL
+VANQUISH THE ETERNAL
 VAP
 VAP INC
 VAPINC
@@ -69767,7 +69874,9 @@ Vanova's Stories
 Vanova'sStories
 Vanpool
 Vanquish Evil
+Vanquish The Eternal
 VanquishEvil
+VanquishTheEternal
 Vap
 Vap Inc
 VapInc
@@ -70771,6 +70880,7 @@ WHOOPEE CAMP
 WHOOPEECAMP
 WHY DID YOU LEAVE ME LIKE THIS?
 WHY DO BOYS PLAY GAMES?
+WHY IS DRIVING SO HARD?
 WICKSTEAD
 WICKSTEAD DESIGN
 WICKSTEADDESIGN
@@ -71696,8 +71806,10 @@ Whoopee Camp
 WhoopeeCamp
 Why Did You Leave Me Like This?
 Why Do Boys Play Games?
+Why Is Driving So Hard?
 WhyDidYouLeaveMeLikeThis?
 WhyDoBoysPlayGames?
+WhyIsDrivingSoHard?
 Wickstead
 Wickstead Design
 WicksteadDesign
@@ -72514,6 +72626,7 @@ YOYOGAMES
 YOYOGAMESLTD
 YS
 YS NET
+YS VS. TRAILS IN THE SKY: ALTERNATIVE SAGA
 YS X: PROUD NORDICS
 YSNET
 YUAN
@@ -72840,8 +72953,10 @@ YoutubersLife
 Ys
 Ys Net
 Ys X: Proud Nordics
+Ys vs. Trails in the Sky: Alternative Saga
 YsNet
 YsX:ProudNordics
+Ysvs.TrailsintheSky:AlternativeSaga
 Yuan
 Yuan Works
 YuanWorks
@@ -75698,6 +75813,7 @@ bacterian
 bad
 bad cheese
 bad credit? no problem!
+bad dream: afterlife
 bad golf
 bad midwife
 bad monkee
@@ -76131,6 +76247,7 @@ battlefield
 battlefield™ 1
 battlefield™ 2042
 battlefield™ 6
+battlefield™ 6 - phantom upgrade
 battlefront
 battlegoat
 battlegoat studios
@@ -79648,6 +79765,7 @@ corthala
 cosmi
 cosmi corporation
 cosmic
+cosmic cargo
 cosmic cat
 cosmic chasm
 cosmic coliseum
@@ -80748,6 +80866,7 @@ de'Arnise
 de'arnise
 deArnise
 dead
+dead 2 rise
 dead above
 dead apples dare
 dead by backrooms anomaly
@@ -80940,6 +81059,7 @@ delivery
 delivery man
 delivery man delivery man
 delivery pals
+delivery to graveyard manor
 delivery up
 deliveryman
 deliverymandeliveryman
@@ -81260,6 +81380,7 @@ diane mcclintock
 dianemcclintock
 dice
 dice battles magnum opus
+dice legends
 dice to pay
 diceball
 dicer
@@ -81398,6 +81519,7 @@ digitoysinc
 digitum
 dilemma: the game
 dillo's dilemma
+dimaworld
 dime
 dimensio
 dimension
@@ -82982,6 +83104,7 @@ endless™ legend 2
 endling
 endor awakens: roguelite drpg
 endurci
+endure: the middle age
 enduro
 enduro racer
 enduroracer
@@ -83170,6 +83293,7 @@ ere
 ere informatique
 ereader
 ereinformatique
+ergosphere
 eri
 eri nishina
 eric
@@ -83544,6 +83668,7 @@ factor
 factor 5
 factor5
 factory
+factory planner: first sparks
 faeterra
 fahrenheit
 fair
@@ -83709,6 +83834,7 @@ faselei
 fast gear
 fast hands
 fast royal
+faster bunnies
 fat
 fatal
 fatal fury
@@ -87221,6 +87347,7 @@ hiscoresoftware
 histoire
 histoire commune
 histoirecommune
+historic helix
 history
 history in the making
 historyinthemaking
@@ -87590,6 +87717,7 @@ hydra heli
 hydravision
 hydro
 hydro thunder
+hydrodynamics of hope & optimism
 hydropawnics
 hydrothunder
 hydrotick: water reminder & aquarium manager
@@ -91297,6 +91425,7 @@ lil' snot: moon escape
 lila
 lili
 lili rochefort
+lilialette's hustle: getting my hands dirty to save my guild
 liliane
 lilirochefort
 lilith
@@ -92076,6 +92205,7 @@ magical company
 magical drop
 magical drop 3
 magical girl opal
+magical massage demo
 magical nut ikuno
 magical runes
 magicalcapture
@@ -93469,6 +93599,7 @@ milescomputing
 milesprower
 milestone
 milf express
+milf sex house
 milfs of sunville - season 2
 milfs of sunville - season 2 extra content
 milfy way: space orgasm 🪐🔞
@@ -94182,6 +94313,7 @@ motorsport
 motorstorm
 motoshotzo
 motoshotzomotoshotzo
+mototrials
 motown
 motown games
 motowngames
@@ -94425,6 +94557,7 @@ my girlfriend is an egg
 my goth bully likes sitting on my face
 my life in a monster girl paradise
 my liminal nightmare
+my local bee cult
 my mates demo
 my mentally unstable streamer girlfriend is an abusive sadist
 my money grows on trees
@@ -96049,6 +96182,7 @@ office after hours
 office asia
 office asia kenkyuusho
 office koukan
+office lady: vore game
 office outbreak savior
 office perks
 officeasia
@@ -96872,6 +97006,7 @@ parson
 parstyle
 particle hearts
 particule
+partisans 1941
 party
 party game
 party madness
@@ -98359,6 +98494,7 @@ project skyward
 project soul
 project three
 project three interactive
+project unknown
 project warlock
 project warlock ii
 project x
@@ -99189,6 +99325,7 @@ realtimegamessoftware
 realtimeworlds
 realvision
 reap
+reap and sow
 reaper recon
 reaver
 rebecca
@@ -99743,6 +99880,7 @@ robot
 robot domestique
 robot dragon de glace
 robot entertainment
+robot mil
 robot stampede
 robot-dinosaure
 robot-mail rush
@@ -100730,6 +100868,7 @@ sculpture
 sculptured
 sculptured software
 sculpturedsoftware
+scurge: hive
 scurri
 scute
 sdll
@@ -101943,6 +102082,7 @@ snkneogeopocketcolor
 snkplaymore
 snkvscapcomcardfighters
 snkvscapcommatchofthemillenium
+snoopy & the great mystery club
 snooze: a choice
 snoppy
 snoppy snoppy
@@ -102251,6 +102391,7 @@ soul blazer
 soul calibur
 soul cards
 soul edge
+soul mates
 soul reaver
 soul riders
 soul sight
@@ -102355,6 +102496,7 @@ spacehulk
 spaceinvaders
 spacemama
 spacemanbow
+spacenap
 spacequest
 spacesheep
 spaceship man 2
@@ -103389,6 +103531,7 @@ supermono
 supermono studios
 supermonostudios
 superoffroad
+superpacker
 superpacman
 superpicross
 superplay
@@ -104414,6 +104557,7 @@ the creator demo
 the crimson diamond
 the crimson lyre
 the cruciball
+the cuniculus of paradise
 the daily life of serving doll
 the dark between
 the dark crown: genesis demake
@@ -104464,6 +104608,7 @@ the eyes
 the factory
 the falling star
 the farmer & the chicken
+the farmer was replaced
 the field between
 the fifth bell
 the final
@@ -104520,6 +104665,7 @@ the hotel
 the house below
 the house of da vinci
 the house of tesla
+the house: mystery escape
 the hunter's path
 the iconfactory
 the incite
@@ -104737,6 +104883,7 @@ the untold legends: baba yaga
 the upper hand
 the vault: logic puzzle box
 the vending machine
+the versailles village
 the vision
 the vision factory
 the voxel
@@ -106574,6 +106721,7 @@ vanished
 vanova's stories
 vanpool
 vanquish evil
+vanquish the eternal
 vap
 vap inc
 vapinc
@@ -107551,6 +107699,7 @@ whoopee camp
 whoopeecamp
 why did you leave me like this?
 why do boys play games?
+why is driving so hard?
 wickstead
 wickstead design
 wicksteaddesign
@@ -108228,6 +108377,7 @@ yoyogames
 yoyogamesltd
 ys
 ys net
+ys vs. trails in the sky: alternative saga
 ys x: proud nordics
 ysnet
 yuan
