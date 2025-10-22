@@ -3349,6 +3349,7 @@ AVALAVE
 AVALON
 AVALON HILL
 AVALON INTERACTIVE
+AVALON JEWELS
 AVALONHILL
 AVALONINTERACTIVE
 AVANQUEST
@@ -5411,8 +5412,10 @@ Avalave
 Avalon
 Avalon Hill
 Avalon Interactive
+Avalon Jewels
 AvalonHill
 AvalonInteractive
+AvalonJewels
 Avanquest
 Avanquest Software
 AvanquestSoftware
@@ -6114,6 +6117,7 @@ BEA
 BEACH
 BEACH SPIKERS
 BEACHSPIKERS
+BEAK FORCE (EARLY ACCESS)
 BEAM
 BEAM ENTERTAINMENT
 BEAM SOFTWARE
@@ -7145,6 +7149,7 @@ BONDI
 BONDING, NOW
 BONE
 BONE MEAL
+BONE SOULS
 BONEHEAD
 BONEHEAD BONEHEAD
 BONEHEADBONEHEAD
@@ -8364,6 +8369,9 @@ Bea
 Beach
 Beach Spikers
 BeachSpikers
+Beak Force  Early Access 
+Beak Force (Early Access)
+BeakForce(EarlyAccess)
 Beam
 Beam Entertainment
 Beam Software
@@ -9450,7 +9458,9 @@ Bonding, Now
 Bonding,Now
 Bone
 Bone Meal
+Bone Souls
 BoneMeal
+BoneSouls
 Bonehead
 Bonehead Bonehead
 BoneheadBonehead
@@ -12387,6 +12397,7 @@ CRI
 CRIBBISH
 CRICKET
 CRICKET CAPTAIN 2025
+CRIME DETECTIVE: RED FLAGS
 CRIMEBLOC
 CRIMP
 CRIMP CRIMP
@@ -14973,7 +14984,9 @@ Cribbish
 Cricket
 Cricket Captain 2025
 CricketCaptain2025
+Crime Detective: Red Flags
 CrimeBloc
+CrimeDetective:RedFlags
 Crimp
 Crimp Crimp
 CrimpCrimp
@@ -16071,6 +16084,7 @@ DEMON RESIDENT
 DEMON SLAYER -KIMETSU NO YAIBA- THE HINOKAMI CHRONICLES 2
 DEMON'S SOULBOUND
 DEMONATTACK
+DEMONBORG MINING CO
 DEMONFROG
 DEMONFROGDEMONFROG
 DEMONHEART: THE CURSED TRIAL
@@ -16895,6 +16909,7 @@ DOUBLE DIAMOND SPORTS
 DOUBLE DOWN
 DOUBLE DRAGON
 DOUBLE DRAGON 2
+DOUBLE DRAGON DODGEBALL
 DOUBLE FINE
 DOUBLE FINE PRODUCTIONS
 DOUBLE HAWK
@@ -17265,6 +17280,7 @@ DUBIORJR
 DUBIORJR.
 DUBIORJR.DUBIORJR.
 DUBIORJRDUBIORJR
+DUBIOUS DEPOT
 DUBMAN
 DUC
 DUC HACHE VIANDE
@@ -17278,6 +17294,7 @@ DUCK TALES
 DUCKHUNT
 DUCKTALES
 DUDLEY
+DUELYST: BLITZ
 DUET
 DUG
 DUGALLE
@@ -18115,6 +18132,8 @@ DemonGoblinandMr.Knight
 DemonQuest
 DemonResident
 DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2
+Demonborg Mining Co
+DemonborgMiningCo
 Demonheart: The Cursed Trial
 Demonheart:TheCursedTrial
 Demonherd
@@ -18998,6 +19017,7 @@ Double Diamond Sports
 Double Down
 Double Dragon
 Double Dragon 2
+Double Dragon Dodgeball
 Double Fine
 Double Fine Productions
 Double Hawk
@@ -19011,6 +19031,7 @@ DoubleDiamondSports
 DoubleDown
 DoubleDragon
 DoubleDragon2
+DoubleDragonDodgeball
 DoubleFine
 DoubleFineProductions
 DoubleHawk
@@ -19392,6 +19413,8 @@ DubiorJr
 DubiorJr.
 DubiorJr.DubiorJr.
 DubiorJrDubiorJr
+Dubious Depot
+DubiousDepot
 Dubman
 Duc
 Duc Hache Viande
@@ -19408,6 +19431,8 @@ DuckDuckGoose
 DuckHunt
 DuckTales
 Dudley
+Duelyst: Blitz
+Duelyst:Blitz
 Dug
 Duke
 Duke Edmund
@@ -19977,6 +20002,7 @@ EGG CHICKEN FARM
 EGG FINDER
 EGGBALL
 EGGERLAND
+EGGLINGS
 EGGMAN
 EGGO-DIL
 EGGODIL
@@ -20626,6 +20652,7 @@ ETERNALEXILE:BENEATHTHEDARKNESS
 ETHAN
 ETHAN WINTERS
 ETHANWINTERS
+ETHER CORE
 ETHEREAL SUNDER
 ETIQUETTE
 ETIQUETTE ELEGANCE
@@ -20776,6 +20803,7 @@ EXILE
 EXILIUM: KIRO
 EXIT
 EXIT - N.F.
+EXIT DREAM
 EXIT STRATEGY
 EXIT TOGETHER
 EXKEE
@@ -21108,6 +21136,7 @@ EggBall
 EggChickenFarm
 EggFinder
 Eggerland
+Egglings
 Eggman
 Eggo-Dil
 EggoDil
@@ -21768,6 +21797,8 @@ EternalRising
 Ethan
 Ethan Winters
 EthanWinters
+Ether Core
+EtherCore
 Ethereal Sunder
 EtherealSunder
 Etiquette
@@ -21927,9 +21958,11 @@ Exilium:Kiro
 Exit
 Exit   N.F.
 Exit - N.F.
+Exit Dream
 Exit Strategy
 Exit Together
 Exit-N.F.
+ExitDream
 ExitStrategy
 ExitTogether
 Exkee
@@ -22395,6 +22428,7 @@ FEMME-RASOIR
 FEMMERASOIR
 FEMTAZIO
 FENCED IN
+FENCES 6
 FENG
 FENG WEI
 FENGWEI
@@ -22552,6 +22586,7 @@ FIND MY FROGS
 FINDER
 FINDING COOL STICKS
 FINDING IVY
+FINDING PARADISE
 FINDING POTS & PETS
 FINDLAY
 FINDLAY TYCHUS
@@ -22580,6 +22615,7 @@ FIRE CHARGE
 FIRE EMBLEM
 FIRE EMBLEM PATH OF RADIANCE
 FIRE EMBLEM SHADOW DRAGON
+FIRE HERO - PIXEL RESCUE
 FIRE HOSE
 FIRE HOSE GAMES
 FIRE IN THE HOLE
@@ -22609,6 +22645,7 @@ FIREMINT
 FIREPRO
 FIREPROWRESTLING
 FIRESIDE FEELINGS
+FIRESIDE JOURNEY: THE CREATIVE PATH OF FIRESIDE FEELINGS
 FIRESTART
 FIREWORK
 FIREWORK ROCKET
@@ -23828,6 +23865,8 @@ FemmeRasoir
 Femtazio
 Fenced In
 FencedIn
+Fences 6
+Fences6
 Feng
 Feng Wei
 FengWei
@@ -23982,10 +24021,12 @@ FindMyFrogs
 Finder
 Finding Cool Sticks
 Finding Ivy
+Finding Paradise
 Finding Pots   Pets
 Finding Pots & Pets
 FindingCoolSticks
 FindingIvy
+FindingParadise
 FindingPots&Pets
 Findlay
 Findlay Tychus
@@ -24014,6 +24055,8 @@ Fire Charge
 Fire Emblem
 Fire Emblem Path of Radiance
 Fire Emblem Shadow Dragon
+Fire Hero   Pixel Rescue
+Fire Hero - Pixel Rescue
 Fire Hose
 Fire Hose Games
 Fire Maple
@@ -24025,6 +24068,7 @@ FireCharge
 FireEmblem
 FireEmblemPathofRadiance
 FireEmblemShadowDragon
+FireHero-PixelRescue
 FireHose
 FireHoseGames
 FireMaple
@@ -24046,7 +24090,9 @@ FireflyVillage
 FireintheHole
 Firemint
 Fireside Feelings
+Fireside Journey: The Creative Path of Fireside Feelings
 FiresideFeelings
+FiresideJourney:TheCreativePathofFiresideFeelings
 Firestart
 Firework
 Firework Rocket
@@ -25826,6 +25872,7 @@ GOBLINS
 GOBO & SPIKE
 GOD
 GOD EATER
+GOD FORSAKEN
 GOD HAND
 GOD IN A CLOSET
 GOD OF
@@ -25838,6 +25885,7 @@ GOD TIER
 GOD'S CONTINENT
 GODDESS SCROLL - THE LAST STARLIGHT
 GODEATER
+GODFORSAKEN
 GODHAND
 GODOF
 GODOFWAR
@@ -26376,6 +26424,7 @@ GSI LIMITED
 GSI Limited
 GSILIMITED
 GSILimited
+GSK
 GST
 GST VIDEO
 GST Video
@@ -26544,6 +26593,7 @@ GUNSTAR HEROES
 GUNSTARHEROES
 GUNSURVIVOR
 GUNSWITCH
+GUNVOLUTION
 GURAQUEST
 GURU GURU DEMO
 GUS
@@ -28081,6 +28131,7 @@ Gunstar
 Gunstar Heroes
 GunstarHeroes
 Gunswitch
+Gunvolution
 GuraQuest
 Guru Guru Demo
 GuruGuruDemo
@@ -28255,6 +28306,7 @@ HALFLIFE2
 HALFLIFECOUNTERSTRIKE
 HALFORCEN
 HALFSSON
+HALFTIME ADVENTURES
 HALIFAX
 HALKEN
 HALL
@@ -29053,6 +29105,7 @@ HOLD ON IN THE DUNGEONS
 HOLD.FOR.HUMANS
 HOLDEN
 HOLE
+HOLES
 HOLGER
 HOLIDAY MOTEL SIMULATOR
 HOLLCROFT
@@ -29390,6 +29443,7 @@ HYPERVIOLENT
 HYPERWARE
 HYPERXFANTASY
 HYPERxFANTASY
+HYPNO HALO
 HYPNOSIS KNIGHT-PRINCESS
 HYPNOTIX
 HYPT
@@ -29474,6 +29528,8 @@ Halfdan Ragnarsson
 HalfdanRagnarsson
 Halforcen
 Halfsson
+Halftime Adventures
+HalftimeAdventures
 Halifax
 Halken
 Hall
@@ -30778,6 +30834,8 @@ Hyperspace Cowgirls
 HyperspaceCowgirls
 Hyperspaced
 Hyperware
+Hypno Halo
+HypnoHalo
 Hypnosis Knight Princess
 Hypnosis Knight-Princess
 HypnosisKnight-Princess
@@ -34440,6 +34498,7 @@ KIKIJENKINS
 KIL'JAEDEN
 KILIK
 KILJAEDEN
+KILL RALPH
 KILL THE BRICKMAN
 KILL THE CLOCK
 KILL THE CLOCK – DISGUISE PACK
@@ -35444,12 +35503,14 @@ KikiJenkins
 Kil'jaeden
 Kilik
 Kiljaeden
+Kill Ralph
 Kill The Clock
 Kill The Clock - Disguise Pack
 Kill The Clock – Disguise Pack
 Kill The Music
 Kill The Skeletons
 Kill the Brickman
+KillRalph
 KillTheClock
 KillTheClock–DisguisePack
 KillTheMusic
@@ -36486,6 +36547,7 @@ LAZY
 LAZY 8
 LAZY 8 STUDIOS
 LAZY ANGEL MIKA
+LAZY LORD: WAR ON THE DESKTOP
 LAZY WRITER DEMO
 LAZY8
 LAZY8STUDIOS
@@ -37065,6 +37127,7 @@ LIGHT GRAY BANNER
 LIGHT GRAY BED
 LIGHT GRAY DYE
 LIGHT IN THE WOODS
+LIGHT NIGHT STREET
 LIGHT OF COCO
 LIGHT OF REVERSING DESTINY
 LIGHT OF THE ETERNAL NIGHT
@@ -38081,10 +38144,12 @@ Lazy
 Lazy 8
 Lazy 8 Studios
 Lazy Angel Mika
+Lazy Lord: War on the Desktop
 Lazy Writer Demo
 Lazy8
 Lazy8Studios
 LazyAngelMika
+LazyLord:WarontheDesktop
 LazyWriterDemo
 Le
 Le Boucher 
@@ -38651,6 +38716,7 @@ Light Gray
 Light Gray Banner
 Light Gray Bed
 Light Gray Dye
+Light Night Street
 Light Shock
 Light Shock Software
 Light Shock Software s.n.c
@@ -38677,6 +38743,7 @@ LightGray
 LightGrayBanner
 LightGrayBed
 LightGrayDye
+LightNightStreet
 LightShock
 LightShockSoftware
 LightShockSoftwares.n.c
@@ -41133,6 +41200,7 @@ MINISMARIO
 MINISTRE
 MINISTRE BRIOS
 MINISTREBRIOS
+MINISTRY OF STOIC
 MINIWHISPYWOODS
 MINMIN
 MINORITY
@@ -43826,6 +43894,8 @@ MinisMario
 Ministre
 Ministre Brios
 MinistreBrios
+Ministry of Stoic
+MinistryofStoic
 Minority
 Minsc
 Minter
@@ -49085,6 +49155,7 @@ PAPERMARIOTHETHOUSANDYEARSDOOR
 PAPIER
 PAPU
 PAPU PAPU
+PAPUAN DOMINATRIXES ARE THE BEST
 PAPUPAPU
 PAPY
 PAPY CHAMPI
@@ -50237,6 +50308,7 @@ POKEMONSTADIUM
 POKER CRUSH
 POKERCHINKO
 POKEY
+POKITAIRE
 POKITAIRE DEMO
 POKO
 POKUS
@@ -51264,6 +51336,8 @@ Papier
 Papu
 Papu Papu
 PapuPapu
+Papuan Dominatrixes Are the Best
+PapuanDominatrixesAretheBest
 Papy
 Papy Champi
 PapyChampi
@@ -52387,6 +52461,7 @@ Poker Crush
 PokerCrush
 Pokerchinko
 Pokey
+Pokitaire
 Pokitaire Demo
 PokitaireDemo
 Poko
@@ -54158,6 +54233,7 @@ RELENTLESSSOFTWARE
 RELIC
 RELIC DIGGER
 RELIC ENTERTAINMENT
+RELIC GUARDIAN - TOWER DEFENSE
 RELICBOUND
 RELICENTERTAINMENT
 RELICTUS: BLACKOUT
@@ -54938,6 +55014,7 @@ RUFUS
 RUFUS SHINRA
 RUFUSSHINRA
 RUGBY LEAGUE 26
+RUINSSTORY
 RULES
 RUMI
 RUMI NANASE
@@ -55002,6 +55079,9 @@ RUTUBO
 RUTUBO GAMES
 RUTUBOGAMES
 RUYN HD
+RV THERE YET?
+RV There Yet?
+RVThereYet?
 RYAN
 RYDER
 RYGAR
@@ -55634,8 +55714,11 @@ RelentlessSoftware
 Relic
 Relic Digger
 Relic Entertainment
+Relic Guardian   Tower Defense
+Relic Guardian - Tower Defense
 RelicDigger
 RelicEntertainment
+RelicGuardian-TowerDefense
 RelicWar
 Relicbound
 Relictus: Blackout
@@ -56453,6 +56536,7 @@ Rufus Shinra
 RufusShinra
 Rugby League 26
 RugbyLeague26
+RuinsStory
 Rules
 Rumi
 Rumi Nanase
@@ -56631,6 +56715,7 @@ SACHIKO KENJOU
 SACHIKOKENJOU
 SACNOTH
 SACOM
+SACRED WORLD
 SAD
 SAD CAT
 SAD CAT SOFTWARE
@@ -57759,7 +57844,9 @@ SHOCK TROOPERS
 SHOCKTROOPERS
 SHOCKWAVE
 SHOCKWAVE 2
+SHOCKWAVE TRIGGERS
 SHOCKWAVE2
+SHOCKWAVETRIGGERS
 SHODOWN
 SHOE-STRING
 SHOE-STRING SOFTWARE
@@ -58234,6 +58321,7 @@ SLANTSIX
 SLANTSIXGAMES
 SLAPAROO
 SLAPSTICK BOSSES
+SLASHER
 SLATE
 SLAVANIA — THE POWER OF DRUM
 SLAVE SECRETARY
@@ -59347,6 +59435,7 @@ STELLAR
 STELLAR BLADE™
 STELLAR BLADE™ COMPLETE EDITION
 STELLAR OUTCAST: ARENA
+STELLAR REACH
 STELLAR STONE
 STELLARFISH
 STELLARIS: BIOGENESIS
@@ -60215,6 +60304,8 @@ Sachiko Kenjou
 SachikoKenjou
 Sacnoth
 Sacom
+Sacred World
+SacredWorld
 Sad
 Sad Cat
 Sad Cat Software
@@ -61832,6 +61923,7 @@ SlantSixGames
 Slaparoo
 Slapstick Bosses
 SlapstickBosses
+Slasher
 Slate
 Slavania -- The Power of Drum
 Slavania — The Power of Drum
@@ -63001,11 +63093,13 @@ Stellar Blade(TM) Complete Edition
 Stellar Blade™
 Stellar Blade™ Complete Edition
 Stellar Outcast: Arena
+Stellar Reach
 Stellar Stone
 StellarBlade™
 StellarBlade™CompleteEdition
 StellarFish
 StellarOutcast:Arena
+StellarReach
 StellarStone
 Stellaris: BioGenesis
 Stellaris: Season 09   Expansion Pass
@@ -64712,6 +64806,7 @@ THE BINARY
 THE BINARY MILL
 THE BITMAP
 THE BITMAP BROTHERS
+THE BLACK POOL: ARENA SURVIVORS
 THE BLACK VAULT
 THE BLEAKEST KEEP
 THE BLOODY CROSS
@@ -64754,6 +64849,7 @@ THE CURSE OF NORDIC COVE
 THE DAILY LIFE OF SERVING DOLL
 THE DARK BETWEEN
 THE DARK CROWN: GENESIS DEMAKE
+THE DARK MIND
 THE DARK PROJECT
 THE DARK QUEEN OF MORTHOLME
 THE DARKBLADE
@@ -65031,6 +65127,7 @@ THE RED SHIFT
 THE RESCUE OF MERMAIDS
 THE REWINDER 2
 THE RIFTBREAKER
+THE RITE HOLDS
 THE RITUAL
 THE RIVER
 THE ROACH HOTEL
@@ -65844,6 +65941,7 @@ TONYHAWKS
 TONYHAWKSPROSKATER2
 TONYLARUSSA
 TONYLARUSSABASEBALL
+TOO MANY BOTS
 TOOIE
 TOOLWORKS
 TOON
@@ -67302,6 +67400,7 @@ The Binary
 The Binary Mill
 The Bitmap
 The Bitmap Brothers
+The Black Pool: Arena Survivors
 The Black Vault
 The Bleakest Keep
 The Bloody Cross
@@ -67344,6 +67443,7 @@ The Curse of Nordic Cove
 The Daily Life of Serving Doll
 The Dark Between
 The Dark Crown: Genesis Demake
+The Dark Mind
 The Dark Queen of Mortholme
 The Darkblade
 The Darkblade Demo
@@ -67588,6 +67688,7 @@ The Red Shift
 The Rescue of Mermaids
 The Rewinder 2
 The Riftbreaker
+The Rite Holds
 The Ritual
 The River
 The Roach Hotel
@@ -67722,6 +67823,7 @@ TheBinary
 TheBinaryMill
 TheBitmap
 TheBitmapBrothers
+TheBlackPool:ArenaSurvivors
 TheBlackVault
 TheBleakestKeep
 TheBloodyCross
@@ -67766,6 +67868,7 @@ TheCurseofNordicCove
 TheDailyLifeofServingDoll
 TheDarkBetween
 TheDarkCrown:GenesisDemake
+TheDarkMind
 TheDarkQueenofMortholme
 TheDarkblade
 TheDarkbladeDemo
@@ -67999,6 +68102,7 @@ TheRedShift
 TheRescueofMermaids
 TheRewinder2
 TheRiftbreaker
+TheRiteHolds
 TheRitual
 TheRiver
 TheRoachHotel
@@ -68624,6 +68728,8 @@ TonyHawks
 TonyLaRussa
 TonyLaRussaBaseball
 Tonya
+Too Many Bots
+TooManyBots
 Tooie
 Toolworks
 Toon
@@ -70626,6 +70732,9 @@ VOYOUS
 VR
 VR HENTAI MMA
 VR Hentai MMA
+VR IKARE (CRAZY)
+VR Ikare  Crazy 
+VR Ikare (Crazy)
 VR Kanojo
 VR LANDER: LUNAR EDITION
 VR Lander: Lunar Edition
@@ -70640,6 +70749,7 @@ VRCFACETRACKING
 VRCFaceTracking
 VRHentaiMMA
 VRIDER SBK™
+VRIkare(Crazy)
 VRLander:LunarEdition
 VRMFRONTVIEW
 VRNaughty
@@ -73212,6 +73322,7 @@ XENO
 XENO GIRLFRIEND
 XENO GIRLFRIEND 2
 XENO GIRLFRIEND 3
+XENO GIRLFRIEND 4
 XENO STRIKERS HYPER SQUADRON
 XENO'S ADVENTURE
 XENOBLADE
@@ -73333,6 +73444,7 @@ Xeno
 Xeno Girlfriend
 Xeno Girlfriend 2
 Xeno Girlfriend 3
+Xeno Girlfriend 4
 Xeno Strikers Hyper Squadron
 Xeno s Adventure
 Xeno's Adventure
@@ -73340,6 +73452,7 @@ Xeno'sAdventure
 XenoGirlfriend
 XenoGirlfriend2
 XenoGirlfriend3
+XenoGirlfriend4
 XenoStrikersHyperSquadron
 Xenoblade
 Xenoblade Chronicles
@@ -74196,6 +74309,7 @@ ZOGLIN SPAWN EGG
 ZOGLINSPAWN
 ZOGLINSPAWNEGG
 ZOGLIN_SPAWN_EGG
+ZOHRAN'S RUN
 ZOIDS
 ZOLTAN
 ZOLTAN KOVACS
@@ -74497,6 +74611,9 @@ Zoglin Spawn
 Zoglin Spawn Egg
 ZoglinSpawn
 ZoglinSpawnEgg
+Zohran s Run
+Zohran's Run
+Zohran'sRun
 Zoids
 Zoltan
 Zoltan Kovacs
@@ -76599,6 +76716,7 @@ avalave
 avalon
 avalon hill
 avalon interactive
+avalon jewels
 avalonhill
 avaloninteractive
 avanquest
@@ -77267,6 +77385,7 @@ bea
 beach
 beach spikers
 beachspikers
+beak force (early access)
 beam
 beam entertainment
 beam software
@@ -78275,6 +78394,7 @@ bondi
 bonding, now
 bone
 bone meal
+bone souls
 bonehead
 bonehead bonehead
 boneheadbonehead
@@ -81100,6 +81220,7 @@ cri
 cribbish
 cricket
 cricket captain 2025
+crime detective: red flags
 crimebloc
 crimp
 crimp crimp
@@ -82134,6 +82255,7 @@ demon resident
 demon slayer -kimetsu no yaiba- the hinokami chronicles 2
 demon's soulbound
 demonattack
+demonborg mining co
 demonfrog
 demonfrogdemonfrog
 demonheart: the cursed trial
@@ -82943,6 +83065,7 @@ double diamond sports
 double down
 double dragon
 double dragon 2
+double dragon dodgeball
 double fine
 double fine productions
 double hawk
@@ -83300,6 +83423,7 @@ dubiorjr
 dubiorjr.
 dubiorjr.dubiorjr.
 dubiorjrdubiorjr
+dubious depot
 dubman
 duc
 duc hache viande
@@ -83313,6 +83437,7 @@ duck tales
 duckhunt
 ducktales
 dudley
+duelyst: blitz
 duet
 dug
 dugalle
@@ -83794,6 +83919,7 @@ egg chicken farm
 egg finder
 eggball
 eggerland
+egglings
 eggman
 eggo-dil
 eggodil
@@ -84444,6 +84570,7 @@ eternaldarkness
 ethan
 ethan winters
 ethanwinters
+ether core
 ethereal sunder
 etiquette
 etiquette elegance
@@ -84590,6 +84717,7 @@ exile
 exilium: kiro
 exit
 exit - n.f.
+exit dream
 exit strategy
 exit together
 exkee
@@ -85000,6 +85128,7 @@ femme-rasoir
 femmerasoir
 femtazio
 fenced in
+fences 6
 feng
 feng wei
 fengwei
@@ -85152,6 +85281,7 @@ find my frogs
 finder
 finding cool sticks
 finding ivy
+finding paradise
 finding pots & pets
 findlay
 findlay tychus
@@ -85184,6 +85314,7 @@ fire charge
 fire emblem
 fire emblem path of radiance
 fire emblem shadow dragon
+fire hero - pixel rescue
 fire hose
 fire hose games
 fire in the hole
@@ -85213,6 +85344,7 @@ firemint
 firepro
 fireprowrestling
 fireside feelings
+fireside journey: the creative path of fireside feelings
 firestart
 firework
 firework rocket
@@ -86903,6 +87035,7 @@ goblins
 gobo & spike
 god
 god eater
+god forsaken
 god hand
 god in a closet
 god of
@@ -87436,6 +87569,7 @@ gscworldpublishing
 gsi
 gsi limited
 gsilimited
+gsk
 gst
 gst video
 gst wars
@@ -87581,6 +87715,7 @@ gunstar heroes
 gunstarheroes
 gunsurvivor
 gunswitch
+gunvolution
 guraquest
 guru guru demo
 gus
@@ -87741,6 +87876,7 @@ halflife2
 halflifecounterstrike
 halforcen
 halfsson
+halftime adventures
 halifax
 halken
 hall
@@ -88533,6 +88669,7 @@ hold on in the dungeons
 hold.for.humans
 holden
 hole
+holes
 holger
 holiday motel simulator
 hollcroft
@@ -88860,6 +88997,7 @@ hypersports
 hyperviolent
 hyperware
 hyperxfantasy
+hypno halo
 hypnosis knight-princess
 hypnotix
 hypt
@@ -90904,6 +91042,7 @@ kikijenkins
 kil'jaeden
 kilik
 kiljaeden
+kill ralph
 kill the brickman
 kill the clock
 kill the clock – disguise pack
@@ -91926,6 +92065,7 @@ lazy
 lazy 8
 lazy 8 studios
 lazy angel mika
+lazy lord: war on the desktop
 lazy writer demo
 lazy8
 lazy8studios
@@ -92503,6 +92643,7 @@ light gray banner
 light gray bed
 light gray dye
 light in the woods
+light night street
 light of coco
 light of reversing destiny
 light of the eternal night
@@ -94880,6 +95021,7 @@ minismario
 ministre
 ministre brios
 ministrebrios
+ministry of stoic
 miniwhispywoods
 minmin
 minority
@@ -98041,6 +98183,7 @@ papermariothethousandyearsdoor
 papier
 papu
 papu papu
+papuan dominatrixes are the best
 papupapu
 papy
 papy champi
@@ -99166,6 +99309,7 @@ pokemonstadium
 poker crush
 pokerchinko
 pokey
+pokitaire
 pokitaire demo
 poko
 pokus
@@ -100710,6 +100854,7 @@ relentlesssoftware
 relic
 relic digger
 relic entertainment
+relic guardian - tower defense
 relicbound
 relicentertainment
 relictus: blackout
@@ -101462,6 +101607,7 @@ rufus
 rufus shinra
 rufusshinra
 rugby league 26
+ruinsstory
 rules
 rumi
 rumi nanase
@@ -101526,6 +101672,7 @@ rutubo
 rutubo games
 rutubogames
 ruyn hd
+rv there yet?
 ryan
 ryder
 rygar
@@ -101608,6 +101755,7 @@ sachiko kenjou
 sachikokenjou
 sacnoth
 sacom
+sacred world
 sad
 sad cat
 sad cat software
@@ -102657,6 +102805,7 @@ shock troopers
 shocktroopers
 shockwave
 shockwave 2
+shockwave triggers
 shockwave2
 shodown
 shoe-string
@@ -103129,6 +103278,7 @@ slantsix
 slantsixgames
 slaparoo
 slapstick bosses
+slasher
 slate
 slavania — the power of drum
 slave secretary
@@ -104207,6 +104357,7 @@ stellar
 stellar blade™
 stellar blade™ complete edition
 stellar outcast: arena
+stellar reach
 stellar stone
 stellarfish
 stellaris: biogenesis
@@ -105760,6 +105911,7 @@ the binary
 the binary mill
 the bitmap
 the bitmap brothers
+the black pool: arena survivors
 the black vault
 the bleakest keep
 the bloody cross
@@ -105802,6 +105954,7 @@ the curse of nordic cove
 the daily life of serving doll
 the dark between
 the dark crown: genesis demake
+the dark mind
 the dark project
 the dark queen of mortholme
 the darkblade
@@ -106071,6 +106224,7 @@ the red shift
 the rescue of mermaids
 the rewinder 2
 the riftbreaker
+the rite holds
 the ritual
 the river
 the roach hotel
@@ -106871,6 +107025,7 @@ tonyhawks
 tonyhawksproskater2
 tonylarussa
 tonylarussabaseball
+too many bots
 tooie
 toolworks
 toon
@@ -108463,6 +108618,7 @@ voyeur
 voyous
 vr
 vr hentai mma
+vr ikare (crazy)
 vr lander: lunar edition
 vr naughty
 vr-1
@@ -109408,6 +109564,7 @@ xeno
 xeno girlfriend
 xeno girlfriend 2
 xeno girlfriend 3
+xeno girlfriend 4
 xeno strikers hyper squadron
 xeno's adventure
 xenoblade
@@ -109952,6 +110109,7 @@ zoglin spawn egg
 zoglin_spawn_egg
 zoglinspawn
 zoglinspawnegg
+zohran's run
 zoids
 zoltan
 zoltan kovacs
@@ -110200,6 +110358,7 @@ zèbre
 你救世主播？
 你的牛子
 侦探，请守护我的秘密吧！
+修仙实操手册
 修仙记——消消乐乱斗
 傲世血魔
 光域
