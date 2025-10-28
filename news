@@ -9906,6 +9906,7 @@ BRAND BRUGGE
 BRAND BÜLACH
 BRAND EGERKINGEN
 BRAND EINSIEDELN
+BRAND FEHRALTORF
 BRAND FORST LANGENBUHL
 BRAND FORST LÄNGENBÜHL
 BRAND FRACHTSCHIFF NORDSEE
@@ -28413,6 +28414,7 @@ FLORENCE AND THE MACHINE
 FLORENCE ARTHAUD
 FLORENCE FORESTI
 FLORENCE FOSTER JENKINS
+FLORENCE HAINAUT
 FLORENCE HARDOUIN
 FLORENCE LOIRET CAILLE
 FLORENCE MENDEZ
@@ -32871,6 +32873,7 @@ GROENLAND
 GROENVELD STEENOKKERZEEL
 GROK
 GROK 3
+GROKIPEDIA
 GRONINGEN - AJAX
 GRONINGEN - FEYENOORD
 GROSSBRAND IN HALLAU
@@ -35505,6 +35508,7 @@ HAUTE SAONE
 HAUTE-LOIRE
 HAUTE-MARNE
 HAUTE-SAVOIE
+HAVE I BEEN PWNED
 HAVEIBEENPWNED
 HAWAII
 HAWAII 5-0
@@ -39563,6 +39567,7 @@ JALEN HURTS
 JALIL LESPERT
 JAM'IN JETTE
 JAMAICA
+JAMAIKA HURRIKAN MELISSA
 JAMAIQUE
 JAMAIS PLUS
 JAMAL BEN SADDIK
@@ -40381,6 +40386,7 @@ JONAS KAUFMANN
 JONAS LÜSCHER
 JONAS RICKAERT
 JONAS SIEGENTHALER
+JONAS TAIBEL
 JONAS VINGEGAARD
 JONASSIEGENTHALER
 JONATHAN ANDERSON
@@ -40444,6 +40450,8 @@ JOSE DE LA TORRE
 JOSEE DAYAN
 JOSEF FRITZL
 JOSELU
+JOSEP MARTINEZ
+JOSEP MARTÍNEZ
 JOSEPH AOUN
 JOSEPH AOUN LIBAN
 JOSEPH GATT
@@ -46013,6 +46021,7 @@ LAKE PARADE GENEVE
 LAKEN RILEY
 LAKERS
 LAKERS - TIMBERWOLVES
+LAKERS - TRAIL BLAZERS
 LAKERS - WARRIORS
 LAKERS – BUCKS
 LAKERS – CAVALIERS
@@ -46023,6 +46032,7 @@ LAKERS – PELICANS
 LAKERS – ROCKETS
 LAKERS – SPURS
 LAKERS – TIMBERWOLVES
+LAKERS – TRAIL BLAZERS
 LAKERS – WARRIORS
 LALIBRE
 LALIGA
@@ -46192,6 +46202,7 @@ LAURENCE VAN TONGERLOO
 LAURENS DE PLUS
 LAURENS DEVOS
 LAURENT ACHARD
+LAURENT ALEXANDRE
 LAURENT BAFFIE
 LAURENT BERGER
 LAURENT BIGNOLAS
@@ -62420,6 +62431,8 @@ OURAGAN HELENE
 OURAGAN IAN
 OURAGAN IDALIA FLORIDE
 OURAGAN KIRK
+OURAGAN MELISSA JAMAIQUE
+OURAGAN MELISSA JAMAÏQUE
 OURAGAN MEXIQUE
 OURAGAN MILTON
 OURAGAN TAMMY
@@ -65088,6 +65101,7 @@ PROVINCE DE LIÈGE
 PROVINCIESTRAAT ANTWERPEN
 PROXIMA
 PROZESS JOHNNY DEPP AMBER HEARD
+PRUNELLA SCALES
 PReSIDENTS
 PRÄMIEN 2024
 PRÄSIDENTSCHAFTSWAHL USA 2024
@@ -68737,6 +68751,7 @@ RAPHINHA
 RAPINOE
 RAPPEL CANETTE COCA COLA
 RAPPEL CONSO
+RAPPEL DE PRODUIT
 RAPPEL GRAND FRAIS
 RAPPEL LAIT
 RAPPEL LARDONS LISTERIA
@@ -75079,6 +75094,7 @@ STORM FRANKLIN
 STORM HERMINIA
 STORM ISHA
 STORM LOUIS
+STORM MELISSA
 STORM PIA
 STORM POLY
 STORM SPANJE
@@ -81471,6 +81487,7 @@ TUNNEL ITALIEN
 TUPAC
 TUPPERWARE
 TURIN
+TURKEI ERDBEBEN HEUTE
 TURKEI URLAUB REISEWARNUNG
 TURKEI WALES
 TURKEIWALES
@@ -84187,6 +84204,7 @@ TÖTUNGSDELIKT BERIKON AG
 TÖTUNGSDELIKT HEERBRUGG
 TÖTUNGSDELIKT LIECHTENSTEIN
 TÜRKEI
+TÜRKEI ERDBEBEN HEUTE
 TÜRKEI ERDBEBEN ISTANBUL
 TÜRKEI KROATIEN
 TÜRKEI LETTLAND
@@ -85623,6 +85641,7 @@ VAR FRANKRIJK
 VAR MATIN
 VAR PARC AQUATIQUE STRUCTURE GONFLABLE
 VAR-MATIN
+VARAGES
 VARANE
 VARGAS
 VARIANT COLOMBIEN
@@ -95573,6 +95592,7 @@ bobblehead
 bobby caldwell
 bobby charlton
 bobcat
+bobdylan
 bobigny
 bobital
 bobragason
@@ -95967,6 +95987,7 @@ brand brugge
 brand bülach
 brand egerkingen
 brand einsiedeln
+brand fehraltorf
 brand forst langenbuhl
 brand forst längenbühl
 brand frachtschiff nordsee
@@ -96016,6 +96037,7 @@ brandadliswil
 brandanderlecht
 brandbelchentunnel
 brandenburg
+brandfehraltorf
 brandforstlangenbuhl
 brandforstlängenbühl
 brandgent
@@ -103692,6 +103714,7 @@ florence and the machine
 florence arthaud
 florence foresti
 florence foster jenkins
+florence hainaut
 florence hardouin
 florence loiret caille
 florence mendez
@@ -103699,6 +103722,7 @@ florence parly
 florence pernel
 florence porcel
 florence pugh
+florencehainaut
 florenceporcel
 florencepugh
 florennes
@@ -106035,6 +106059,7 @@ groenveldsteenokkerzeel
 grok
 grok 3
 grok3
+grokipedia
 groningen  feyenoord
 groningen - ajax
 groningen - feyenoord
@@ -106643,6 +106668,7 @@ haute-marne
 haute-savoie
 hauteloire
 hautesaone
+have i been pwned
 haveibeenpwned
 hawaii
 hawaii 5-0
@@ -108624,6 +108650,8 @@ jalenhurts
 jalil lespert
 jam'in jette
 jamaica
+jamaika hurrikan melissa
+jamaikahurrikanmelissa
 jamaique
 jamais plus
 jamaisplus
@@ -109548,8 +109576,10 @@ jonas kaufmann
 jonas lüscher
 jonas rickaert
 jonas siegenthaler
+jonas taibel
 jonas vingegaard
 jonasrickaert
+jonastaibel
 jonasvingegaard
 jonathan anderson
 jonathan clauss
@@ -109621,6 +109651,8 @@ josedecauwer
 josee dayan
 josef fritzl
 joselu
+josep martinez
+josep martínez
 joseph aoun
 joseph aoun liban
 joseph gatt
@@ -109633,6 +109665,8 @@ josephine chaplin
 josephine drai
 josephine tewson
 josephinedrai
+josepmartinez
+josepmartínez
 josh cavallo
 josh duggar
 josh freese
@@ -111479,6 +111513,7 @@ laken riley
 lakeparadegeneve
 lakers
 lakers - timberwolves
+lakers - trail blazers
 lakers - warriors
 lakers – bucks
 lakers – cavaliers
@@ -111489,8 +111524,10 @@ lakers – pelicans
 lakers – rockets
 lakers – spurs
 lakers – timberwolves
+lakers – trail blazers
 lakers – warriors
 lakers-timberwolves
+lakers-trailblazers
 lakers-warriors
 lakers–bucks
 lakers–clippers
@@ -111500,6 +111537,7 @@ lakers–pelicans
 lakers–rockets
 lakers–spurs
 lakers–timberwolves
+lakers–trailblazers
 lakers–warriors
 lalibre
 laliga
@@ -111708,6 +111746,7 @@ laurenmacuga
 laurens de plus
 laurens devos
 laurent achard
+laurent alexandre
 laurent baffie
 laurent berger
 laurent bignolas
@@ -111752,6 +111791,7 @@ laurent vinatier
 laurent voulzy
 laurent wauquiez
 laurent weil
+laurentalexandre
 laurentbignolas
 laurentboyer
 laurentdelahousse
@@ -112590,6 +112630,7 @@ liga
 liga europa
 liga nos
 ligaeuropa
+liganos
 lighthouse
 lignano sabbiadoro
 lignanosabbiadoro
@@ -118898,11 +118939,15 @@ ouragan helene
 ouragan ian
 ouragan idalia floride
 ouragan kirk
+ouragan melissa jamaique
+ouragan melissa jamaïque
 ouragan mexique
 ouragan milton
 ouragan tammy
 ouragan tammy guadeloupe
 ouraganamysuisse
+ouraganmelissajamaique
+ouraganmelissajamaïque
 ourika
 ours malais
 ousmane dembele
@@ -120943,6 +120988,8 @@ provinciestraat antwerpen
 provinciestraatantwerpen
 proxima
 prozess johnny depp amber heard
+prunella scales
+prunellascales
 prämien 2024
 präsidentschaftswahl usa 2024
 prättigau
@@ -121471,6 +121518,7 @@ raphinha
 rapinoe
 rappel canette coca cola
 rappel conso
+rappel de produit
 rappel grand frais
 rappel lait
 rappel lardons listeria
@@ -121483,6 +121531,7 @@ rappel saumon fumé listeria
 rappel viande leclerc
 rappelcanettecocacola
 rappelconso
+rappeldeproduit
 rappelgrandfrais
 rappelmedicamentshypertension
 rappelmédicamentshypertension
@@ -125691,11 +125740,13 @@ storm franklin
 storm herminia
 storm isha
 storm louis
+storm melissa
 storm pia
 storm poly
 storm spanje
 stormbenjaminbelgie
 stormbenjaminbelgium
+stormmelissa
 stormschade
 stormspanje
 stormy daniels
@@ -126308,6 +126359,7 @@ séisme russie
 séisme suisse
 séisme turquie
 séismecalifornie
+séismeguadeloupe
 séismeiran
 séismelima
 séismenaples
@@ -128233,8 +128285,10 @@ tunnelitalien
 tupac
 tupperware
 turin
+turkei erdbeben heute
 turkei urlaub reisewarnung
 turkei wales
+turkeierdbebenheute
 turkeiurlaubreisewarnung
 turkeiwales
 turkey
@@ -128347,6 +128401,7 @@ tötungsdelikt liechtenstein
 tötungsdeliktberikonag
 tötungsdeliktheerbrugg
 türkei
+türkei erdbeben heute
 türkei erdbeben istanbul
 türkei kroatien
 türkei lettland
@@ -128355,6 +128410,7 @@ türkei urlaub reisewarnung
 türkei wahlen
 türkei österreich
 türkei – wales
+türkeierdbebenheute
 türkeierdbebenistanbul
 türkeiurlaubreisewarnung
 u boot ostsee russland
@@ -129175,6 +129231,7 @@ var frankrijk
 var matin
 var parc aquatique structure gonflable
 var-matin
+varages
 varane
 vargas
 variant colombien
@@ -129473,6 +129530,7 @@ victoriabeckham
 victoriamboko
 victoriamonfort
 victorinox
+victorwembanyama
 vidauban
 vide grenier
 vieilles charrues
