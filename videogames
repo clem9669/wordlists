@@ -205,6 +205,7 @@
 101 CATS HIDDEN IN BARCELONA
 101 CATS HIDDEN IN CHENNAI
 101 CATS HIDDEN IN GREECE
+101 CATS HIDDEN IN JAKARTA
 101 CATS HIDDEN IN MACAU
 101 CATS HIDDEN IN MUMBAI
 101 CATS HIDDEN IN PRAGUE
@@ -212,6 +213,7 @@
 101 Cats Hidden in Barcelona
 101 Cats Hidden in Chennai
 101 Cats Hidden in Greece
+101 Cats Hidden in Jakarta
 101 Cats Hidden in Macau
 101 Cats Hidden in Mumbai
 101 Cats Hidden in Prague
@@ -233,6 +235,7 @@
 101 cats hidden in barcelona
 101 cats hidden in chennai
 101 cats hidden in greece
+101 cats hidden in jakarta
 101 cats hidden in macau
 101 cats hidden in mumbai
 101 cats hidden in prague
@@ -247,6 +250,7 @@
 101CatsHiddeninBarcelona
 101CatsHiddeninChennai
 101CatsHiddeninGreece
+101CatsHiddeninJakarta
 101CatsHiddeninMacau
 101CatsHiddeninMumbai
 101CatsHiddeninPrague
@@ -1931,6 +1935,7 @@ AIRHEART
 AIRPLAY
 AIRRIDER
 AIRRIDERAIRRIDER
+AIRSHOOSHOO
 AIRTIGHT
 AIRTIGHT GAMES
 AIRTIGHTGAMES
@@ -2635,8 +2640,10 @@ APCooper
 APCooperAssociates
 APE
 APE ESCAPE
+APE OUT
 APE STUDIOS
 APEESCAPE
+APEOUT
 APES VS. EVERYONE
 APESTUDIOS
 APEX
@@ -3169,6 +3176,8 @@ ASSAULT SUIT
 ASSAULTSUIT
 ASSAUT SUR TOUS LES FRONTS
 ASSEMBLY
+ASSETTO CORSA COMPETIZIONE
+ASSETTO CORSA RALLY
 ASSISTANTS
 ASSISTANTS DE LABORATOIRE
 ASSISTANTSDELABORATOIRE
@@ -4022,6 +4031,7 @@ AirHockeyRoguelike
 AirPlay
 AirRider
 AirRiderAirRider
+AirShooShoo
 AirZonk
 Airborne
 Airborne Kingdom
@@ -5325,6 +5335,10 @@ AssaultSuit
 Assaut sur tous les fronts
 Assautsurtouslesfronts
 Assembly
+Assetto Corsa Competizione
+Assetto Corsa Rally
+AssettoCorsaCompetizione
+AssettoCorsaRally
 Associates
 Association
 Assoria
@@ -5821,7 +5835,9 @@ BACKSEAT DRIVERS
 BACKTURNED
 BACKYARD
 BACKYARD BASEBALL '01
+BACKYARD BASKETBALL '01
 BACKYARD DIGGER
+BACKYARD HOCKEY '02
 BACKYARD SPORTS
 BACKYARDSPORTS
 BACK：FADE
@@ -8023,6 +8039,7 @@ BUSCABIT: A TREASURE HUNTER ADVENTURE
 BUSHIDO
 BUSHIDO BLADE
 BUSHIDOBLADE
+BUSHIDON'T: RHYTHM BATTLES AND THE UNNECESSARILY LONG SUBTITLE
 BUSSAN
 BUST
 BUST A MOVE
@@ -8161,10 +8178,16 @@ BacktotheDawn
 Backyard
 Backyard Baseball  01
 Backyard Baseball '01
+Backyard Basketball  01
+Backyard Basketball '01
 Backyard Digger
+Backyard Hockey  02
+Backyard Hockey '02
 Backyard Sports
 BackyardBaseball'01
+BackyardBasketball'01
 BackyardDigger
+BackyardHockey'02
 BackyardSports
 Back：Fade
 Bacon
@@ -10460,6 +10483,9 @@ Buscabit:Atreasurehunteradventure
 Bushido
 Bushido Blade
 BushidoBlade
+Bushidon t: Rhythm battles and the unnecessarily long subtitle
+Bushidon't: Rhythm battles and the unnecessarily long subtitle
+Bushidon't:Rhythmbattlesandtheunnecessarilylongsubtitle
 Bussan
 Bust
 Bust A Move
@@ -10605,6 +10631,7 @@ CADRELUISANT
 CADRES
 CADRES DE LA SHINRA
 CADRESDELASHINRA
+CAEMDALE
 CAFARDO
 CAFE
 CAFE DREAMLAND
@@ -12294,6 +12321,7 @@ CONTINUUM KEEPER
 CONTRA
 CONTRA 3
 CONTRA3
+CONTRABAND POLICE
 CONTRACT OF ASHES DEMO
 CONTRACTVILLE
 CONTRAINDICATION DIGITAL ARTBOOK
@@ -13130,6 +13158,7 @@ Cadreluisant
 Cadres
 Cadres de la Shinra
 CadresdelaShinra
+Caemdale
 Cafardo
 Cafe DReAMLAND
 CafeDReAMLAND
@@ -14932,6 +14961,8 @@ ContinuumKeeper
 Contra
 Contra 3
 Contra3
+Contraband Police
+ContrabandPolice
 Contract of Ashes Demo
 ContractVille
 ContractofAshesDemo
@@ -16106,6 +16137,7 @@ DARK HOURS
 DARK HUNTING GROUND
 DARK INVESTIGATION : EXPERIMENT
 DARK KAHN
+DARK LORD LEONA
 DARK MALGUS
 DARK MINE
 DARK MOON
@@ -17207,6 +17239,7 @@ DMITRY
 DMITRY LUKASH
 DMITRYLUKASH
 DO
+DO IT TOGETHER
 DO NOT DISTURB
 DO NOT SAY 21!
 DOA
@@ -18163,6 +18196,7 @@ Dark Hours
 Dark Hunting Ground
 Dark Investigation : Experiment
 Dark Kahn
+Dark Lord Leona
 Dark Malgus
 Dark Mine
 Dark Moon
@@ -18194,6 +18228,7 @@ DarkHours
 DarkHuntingGround
 DarkInvestigation:Experiment
 DarkKahn
+DarkLordLeona
 DarkMalgus
 DarkMine
 DarkMoon
@@ -19344,9 +19379,11 @@ Dmitry
 Dmitry Lukash
 DmitryLukash
 Do
+Do It Together
 Do NOT say 21!
 Do Not Disturb
 DoDonPachi
+DoItTogether
 DoNOTsay21!
 DoNotDisturb
 Doc
@@ -20905,6 +20942,7 @@ EMMA KLIESEN
 EMMA'S UMBRELLA
 EMMAKLIESEN
 EMME
+EMOJIFICATION
 EMOTION
 EMOTIONAL
 EMOTIONAL ROBOTS
@@ -21220,6 +21258,9 @@ ESCAPE FROM CHANCELLOR'S CHAMBERS
 ESCAPE FROM DUCKOV
 ESCAPE FROM HADRIAN'S WALL
 ESCAPE FROM MANDRILLIA: LOCAL ASYMMETRIC VR+PC
+ESCAPE FROM TARKOV
+ESCAPE FROM TARKOV - PREPARE FOR ESCAPE EDITION
+ESCAPE FROM TARKOV: PVE ZONE
 ESCAPE FROM TIMOKHA 2: ARMY
 ESCAPE FROM TUNG TUNG SAHUR
 ESCAPE HOUSE
@@ -22072,6 +22113,7 @@ Emma's Umbrella
 Emma'sUmbrella
 EmmaKliesen
 Emme
+Emojification
 Emotion
 Emotional
 Emotional Robots
@@ -22389,6 +22431,10 @@ Escape from Chancellor s Chambers
 Escape from Chancellor's Chambers
 Escape from Hadrian s Wall
 Escape from Hadrian's Wall
+Escape from Tarkov
+Escape from Tarkov   Prepare for Escape Edition
+Escape from Tarkov - Prepare for Escape Edition
+Escape from Tarkov: PVE Zone
 Escape from Tung Tung Sahur
 Escape of the school
 Escape the Maze
@@ -22410,6 +22456,9 @@ EscapeZ
 EscapefromButcherBay
 EscapefromChancellor'sChambers
 EscapefromHadrian'sWall
+EscapefromTarkov
+EscapefromTarkov-PrepareforEscapeEdition
+EscapefromTarkov:PVEZone
 EscapefromTungTungSahur
 Escapen t
 Escapen't
@@ -23861,6 +23910,7 @@ FRANTZFUCHS
 FRANZISKA
 FRANZISKA VON KARMA
 FRANZISKAVONKARMA
+FRAUD CAMP: SURVIVAL ESCAPE
 FRAZER
 FREAK
 FRED
@@ -23973,6 +24023,7 @@ FROGGY
 FROGGY SOFTWARE
 FROGGYSOFTWARE
 FROGMIND
+FROGSHOT ADVENTURE
 FROGTOSS
 FROGTOSS GAMES
 FROGTOSSGAMES
@@ -25417,6 +25468,8 @@ FrantzFuchs
 Franziska
 Franziska von Karma
 FranziskavonKarma
+Fraud Camp: Survival Escape
+FraudCamp:SurvivalEscape
 Frazer
 Freak
 Fred
@@ -25538,6 +25591,8 @@ Froggy
 Froggy Software
 FroggySoftware
 Frogmind
+Frogshot Adventure
+FrogshotAdventure
 Frogtoss
 Frogtoss Games
 FrogtossGames
@@ -26463,6 +26518,7 @@ GIFTED: THE TOMBS DEMO
 GIGA
 GIGANTE
 GIGAS
+GIGASWORD
 GIGAWING
 GIGAWINGS
 GIGAWINGS 2
@@ -26521,6 +26577,7 @@ GLASS BOTTLE
 GLASS CANNON
 GLASS MASQUERADE 4: CONSTELLATIONS
 GLASSBOTTLE
+GLASSBREAKERS: CHAMPIONS OF MOSS
 GLAZED MIRROR : MYRIAD CARDS
 GLEBOV
 GLENN
@@ -28169,6 +28226,8 @@ Glass Masquerade 4: Constellations
 GlassBottle
 GlassCannon
 GlassMasquerade4:Constellations
+Glassbreakers: Champions of Moss
+Glassbreakers:ChampionsofMoss
 Glazed Mirror : Myriad Cards
 GlazedMirror:MyriadCards
 Glebov
@@ -28782,6 +28841,7 @@ Grigorii
 Grigorii Grigorii
 GrigoriiGrigorii
 Grigsby
+Grim
 Grim Pastures: Outlaws
 Grim Tales: Prisoners of the Past Collector s Edition
 Grim Tales: Prisoners of the Past Collector's Edition
@@ -29528,6 +29588,7 @@ HEARST ENTERTAINMENT
 HEARSTENTERTAINMENT
 HEART
 HEART BEAT
+HEART CAGE
 HEART IN THE CELL: REBIRTH
 HEART KEEPER
 HEART OF
@@ -29659,6 +29720,7 @@ HENTAI FURRY FOXY
 HENTAI FURRY PONY
 HENTAI GIRLS : SEXY MAID PARTY
 HENTAI GIRLS: LUST [18+]
+HENTAI HARUKO
 HENTAI HINA
 HENTAI LADYBOY REN
 HENTAI LUNARA
@@ -30281,6 +30343,7 @@ HUNTER SCARFY
 HUNTER SCARFY HUNTER SCARFY
 HUNTER'S JOURNEY: TEARS OF THE LAKE COLLECTOR'S EDITION
 HUNTER'S SEAL DEMO
+HUNTER: THE RECKONING — A TIME OF MONSTERS
 HUNTERS INC
 HUNTERSCARFY
 HUNTERSCARFYHUNTERSCARFY
@@ -30801,6 +30864,7 @@ Hearst Entertainment
 HearstEntertainment
 Heart
 Heart Beat
+Heart Cage
 Heart Keeper
 Heart Snatcher
 Heart in the Cell: Rebirth
@@ -30810,6 +30874,7 @@ Heart of Ice by Dave Morris
 Heart of the
 Heart of the Sea
 HeartBeat
+HeartCage
 HeartKeeper
 HeartSnatcher
 Heartbeat in Thailand
@@ -30957,6 +31022,7 @@ Hentai Furry Foxy
 Hentai Furry Pony
 Hentai Girls : Sexy Maid Party
 Hentai Girls: Lust [18+]
+Hentai Haruko
 Hentai Hina
 Hentai Ladyboy Ren
 Hentai Lunara
@@ -31011,6 +31077,7 @@ HentaiFurryFoxy
 HentaiFurryPony
 HentaiGirls:Lust[18+]
 HentaiGirls:SexyMaidParty
+HentaiHaruko
 HentaiHina
 HentaiLadyboyRen
 HentaiLunara
@@ -31732,6 +31799,9 @@ Hunter's Journey: Tears of the Lake Collector's Edition
 Hunter's Seal Demo
 Hunter'sJourney:TearsoftheLakeCollector'sEdition
 Hunter'sSealDemo
+Hunter: The Reckoning -- A Time of Monsters
+Hunter: The Reckoning — A Time of Monsters
+Hunter:TheReckoning—ATimeofMonsters
 HunterHunted
 HunterRoulette
 HunterScarfy
@@ -34306,6 +34376,7 @@ JURIHAN
 JUST
 JUST A GUY :  ONLINE MULTIPLAYER RAGDOLL GAME DEMO
 JUST A GUY :  Online Multiplayer Ragdoll Game Demo
+JUST A PIXEL CHARACTER CREATOR
 JUST ADD
 JUST ADD MONSTERS
 JUST ADD WATER
@@ -35062,6 +35133,7 @@ Juri
 Juri Han
 JuriHan
 Just
+Just A Pixel Character Creator
 Just Add
 Just Add Monsters
 Just Add Water
@@ -35082,6 +35154,7 @@ Just Updated
 Just Updated   New Content Added!
 Just Updated - New Content Added!
 Just Waiting Cats
+JustAPixelCharacterCreator
 JustAdd
 JustAddMonsters
 JustAddWater
@@ -35782,6 +35855,7 @@ KNIGHTLORE
 KNIGHTMARE
 KNIGHTS
 KNIGHTS IN A DIFFERENT SPACETIME DEMO
+KNIGHTS OF MESSIAH IF: CASTLE IN AN ALTERNATE DIMENSION
 KNIGHTS OF MILFGAARD
 KNIGHTS OF OLD REPUBLIC
 KNIGHTS OF THE CRUSADES
@@ -36841,11 +36915,13 @@ KnightofJustice
 Knights
 Knights In A Different SpaceTime Demo
 Knights of MILFgaard
+Knights of Messiah IF: Castle in an Alternate Dimension
 Knights of Valour
 Knights of the Crusades
 Knights of the Round
 KnightsInADifferentSpaceTimeDemo
 KnightsofMILFgaard
+KnightsofMessiahIF:CastleinanAlternateDimension
 KnightsofValour
 KnightsoftheCrusades
 KnightsoftheRound
@@ -38611,6 +38687,7 @@ LOOKING
 LOOKING GLASS
 LOOKINGGLASS
 LOOP
+LOOP MY CRANK
 LOOT LINE
 LOOT OF BAAL
 LOOTMAGE
@@ -40263,6 +40340,8 @@ Looking
 Looking Glass
 LookingGlass
 Loop
+Loop My Crank
+LoopMyCrank
 Loot Line
 Loot of Baal
 LootLine
@@ -41456,6 +41535,7 @@ MAWMAW
 MAX
 MAX FLEXER
 MAX FLEXER MAX FLEXER
+MAX MANOS 2
 MAX MAX
 MAX PAYNE
 MAXFLEXER
@@ -42110,6 +42190,7 @@ MIDNIGHT MAZESOBA
 MIDNIGHT MURDER MAZE
 MIDNIGHT RIFF
 MIDNIGHT SNACK
+MIDNIGHT STUDY
 MIDNIGHT YAMMY | 8-BIT TRICKSTER SHOW
 MIDNIGHT'S CURSE
 MIDNIGHTCLUB
@@ -42237,10 +42318,12 @@ MILES PROWER
 MILESCOMPUTING
 MILESPROWER
 MILESTONE
+MILF CRIMSON DESIRE
 MILF EXPRESS
 MILF Express
 MILF SEX HOUSE
 MILF Sex House
+MILFCRIMSONDESIRE
 MILFExpress
 MILFS OF SUNVILLE - SEASON 2
 MILFS OF SUNVILLE - SEASON 2 EXTRA CONTENT
@@ -42267,6 +42350,7 @@ MILLENIUMINTERACTIVE
 MILLENNIUM
 MILLENNIUM INTERACTIVE
 MILLENNIUM INTERACTIVE LTD
+MILLENNIUM RUNNERS
 MILLENNIUMINTERACTIVE
 MILLENNIUMINTERACTIVELTD
 MILLER
@@ -42390,6 +42474,7 @@ MINING SURVIVORS
 MINIPEC
 MINIPEC MINIPEC
 MINIPECMINIPEC
+MINIPO
 MINIS-MARIO
 MINISMARIO
 MINISTRE
@@ -42818,6 +42903,7 @@ MOONBYTE
 MOONBYTESTUDIOS
 MOONDUSK MASQUERADE
 MOONFALL: PROTOCOL
+MOONLIGHT CHESS
 MOONLIGHT TRAVELER
 MOONLIGHTER
 MOONMAN: THE GAME
@@ -43026,6 +43112,7 @@ MOUTON CRU
 MOUTON CUIT
 MOUTONCRU
 MOUTONCUIT
+MOVAVI VIDEO EDITOR 2026
 MOVE
 MOVE INTERACTIVE
 MOVEINTERACTIVE
@@ -44207,10 +44294,12 @@ MawMaw
 Max
 Max Flexer
 Max Flexer Max Flexer
+Max Manos 2
 Max Max
 Max Payne
 MaxFlexer
 MaxFlexerMaxFlexer
+MaxManos2
 MaxMax
 MaxPayne
 Maxi
@@ -44853,6 +44942,7 @@ Midnight Mazesoba
 Midnight Murder Maze
 Midnight Riff
 Midnight Snack
+Midnight Study
 Midnight Yammy   8-Bit Trickster Show
 Midnight Yammy | 8 Bit Trickster Show
 Midnight Yammy | 8-Bit Trickster Show
@@ -44868,6 +44958,7 @@ MidnightMazesoba
 MidnightMurderMaze
 MidnightRiff
 MidnightSnack
+MidnightStudy
 MidnightYammy|8-BitTricksterShow
 Midnightsoft
 Midnite
@@ -45005,8 +45096,10 @@ MilleniumInteractive
 Millennium
 Millennium Interactive
 Millennium Interactive Ltd
+Millennium Runners
 MillenniumInteractive
 MillenniumInteractiveLtd
+MillenniumRunners
 Miller
 Millie Megavolte 8: Millie and the Mole King
 MillieMegavolte8:MillieandtheMoleKing
@@ -45154,6 +45247,7 @@ MiningSurvivors
 Minipec
 Minipec Minipec
 MinipecMinipec
+Minipo
 Minis-Mario
 MinisMario
 Ministre
@@ -45581,7 +45675,9 @@ Moondusk Masquerade
 MoonduskMasquerade
 Moonfall: Protocol
 Moonfall:Protocol
+Moonlight Chess
 Moonlight Traveler
+MoonlightChess
 MoonlightTraveler
 Moonlighter
 Moonshark
@@ -45782,6 +45878,8 @@ Mouton cru
 Mouton cuit
 Moutoncru
 Moutoncuit
+Movavi Video Editor 2026
+MovaviVideoEditor2026
 Move
 Move Interactive
 MoveInteractive
@@ -48864,6 +48962,7 @@ OKAZU   Fish Counting Chill Game
 OKAZU - FISH COUNTING CHILL GAME -
 OKAZU - Fish Counting Chill Game -
 OKAZU-FishCountingChillGame-
+OKINAWA JOURNAL
 OKUGI
 OLD
 OLD SCHOOL
@@ -49787,6 +49886,8 @@ Oiseau jaune
 Oiseaujaune
 Okami
 Okazaki
+Okinawa Journal
+OkinawaJournal
 Okugi
 Old
 Old School
@@ -52025,6 +52126,7 @@ PQUBE
 PQube
 PR21
 PRACTICAL PINBALL
+PRE-LOAD NOW
 PREDATOR
 PREFABGIRL
 PREISS
@@ -52298,6 +52400,7 @@ PROPWIZ
 PROSTAGMA VOULOME
 PROSTAGMEVOULOME
 PROSTATE CLICKER: A TOUCH OF LOVE
+PROTEAN FOX
 PROTECTING SEAGRASS 保护海草
 PROTOSS
 PROTOTYPE
@@ -54261,6 +54364,9 @@ PowerheadGames
 PowertheFuture
 Practical Pinball
 PracticalPinball
+Pre load now
+Pre-load now
+Pre-loadnow
 Predator
 PrefabGirl
 Preiss
@@ -54576,6 +54682,8 @@ ProphecyofAshenDemp
 ProstagmeVoulome
 Prostate Clicker: A Touch of Love
 ProstateClicker:ATouchofLove
+Protean Fox
+ProteanFox
 Protecting seagrass ????
 Protecting seagrass 保护海草
 Protectingseagrass保护海草
@@ -60600,6 +60708,7 @@ SOUTHLOGICSTUDIOS
 SOUTHPEAK
 SOUTHPEAK INTERACTIVE
 SOUTHPEAKINTERACTIVE
+SOY SUPREMACY
 SPACE
 SPACE ACE
 SPACE ADVENTURE COBRA - THE AWAKENING
@@ -61147,6 +61256,7 @@ STEAMWORLD
 STEAMWORLD DIG 2
 STEEL
 STEEL DEFENCE
+STEEL HAIL
 STEEL KNIGHT'S ARMIS
 STEEL MONKEYS
 STEEL PANTHERS
@@ -61883,6 +61993,7 @@ SWEET GIRLS COLLECTION
 SWEET HOLES
 SWEET HOME: LOOK AND FIND 4 COLLECTOR'S EDITION
 SWEET KIMONO
+SWEET PET
 SWEET PORTAL
 SWEET PROMOTER
 SWEET RESTAURANT
@@ -64332,6 +64443,8 @@ SouthlogicStudios
 Southpeak
 Southpeak Interactive
 SouthpeakInteractive
+Soy Supremacy
+SoySupremacy
 Space
 Space Ace
 Space Adventure Cobra   The Awakening
@@ -64942,12 +65055,14 @@ SteamWorld Dig 2
 SteamWorldDig2
 Steel
 Steel Defence
+Steel Hail
 Steel Knight s ARMIS
 Steel Knight's ARMIS
 Steel Monkeys
 Steel Panthers
 Steel Swarm: APOCALYPSE
 SteelDefence
+SteelHail
 SteelKnight'sARMIS
 SteelMonkeys
 SteelPanthers
@@ -65800,6 +65915,7 @@ Sweet Girls Collection
 Sweet Home: Look and Find 4 Collector s Edition
 Sweet Home: Look and Find 4 Collector's Edition
 Sweet Kimono
+Sweet Pet
 Sweet Portal
 Sweet Promoter
 Sweet Restaurant
@@ -65824,6 +65940,7 @@ SweetFarm
 SweetGirlsCollection
 SweetHome:LookandFind4Collector'sEdition
 SweetKimono
+SweetPet
 SweetPortal
 SweetPromoter
 SweetRestaurant
@@ -66173,6 +66290,7 @@ TALON'S BLADE
 TALONSOFT
 TALRASHA
 TAMAGO
+TAMAMOJI
 TAMAO
 TAMARA
 TAMSOFT
@@ -66691,6 +66809,7 @@ THALASSAGRIMOIRE
 THALES
 THALION
 THANK YOU FOR YOUR APPLICATION!
+THAT'S NOT MY KIND
 THATCH
 THE
 THE 1500 YEAR OLD FOREST ELF AND MY ANTI-MATERIEL SNIPER RIFLE
@@ -66821,6 +66940,7 @@ THE DREAM'S EXIT
 THE DREAMERS FORESIGHT SOUNDTRACK
 THE DRIFTER
 THE DROWNED DEAL
+THE EARTHEN REIGN
 THE EASTERN SACRIFICE
 THE ECHO PARADOX
 THE EDGE
@@ -66846,6 +66966,7 @@ THE EYES
 THE FACTORY
 THE FALCONEER: REVOLUTION REMASTER
 THE FALLING STAR
+THE FALSE CULPRIT
 THE FARMER & THE CHICKEN
 THE FARMER WAS REPLACED
 THE FAT CAT FEST
@@ -67116,6 +67237,7 @@ THE SACRED SIX CRYSTAL: A HERO'S JOURNEY
 THE SACRILEGE
 THE SALES
 THE SALES CURVE
+THE SALESMAN
 THE SANDS OF TIME
 THE SCIENTIST BATTLES
 THE SECRET OF MONKEY ISLAND
@@ -68154,6 +68276,7 @@ TRADERLLAMASPAWN
 TRADERLLAMASPAWNEGG
 TRADER_LLAMA_SPAWN_EGG
 TRADEWEST
+TRAIL OF STARS
 TRAILS
 TRAILS IN THE SKY
 TRAILS IN THE SKY 1ST CHAPTER
@@ -68843,6 +68966,7 @@ Talon's Blade
 Talon'sBlade
 Talonsoft
 TamTam
+Tamamoji
 Tamao
 Tamara
 Tamsoft
@@ -69379,6 +69503,9 @@ Thales
 Thalion
 Thank You For Your Application!
 ThankYouForYourApplication!
+That s Not My Kind
+That's Not My Kind
+That'sNotMyKind
 Thatch
 The
 The 1500 Year Old Forest Elf and My Anti Materiel Sniper Rifle
@@ -69509,6 +69636,7 @@ The Dream Machine
 The Dreamers Foresight Soundtrack
 The Drifter
 The Drowned Deal
+The Earthen Reign
 The Eastern Sacrifice
 The Echo Paradox
 The Edge
@@ -69530,6 +69658,7 @@ The Eyes
 The Factory
 The Falconeer: Revolution Remaster
 The Falling Star
+The False Culprit
 The Farmer   the Chicken
 The Farmer & the Chicken
 The Farmer Was Replaced
@@ -69775,6 +69904,7 @@ The Sacred Six Crystal: A Hero's Journey
 The Sacrilege
 The Sales
 The Sales Curve
+The Salesman
 The Scientist Battles
 The Shadow of the Warring States Period
 The Shafts of Damnation
@@ -69979,6 +70109,7 @@ TheDreamMachine
 TheDreamersForesightSoundtrack
 TheDrifter
 TheDrownedDeal
+TheEarthenReign
 TheEasternSacrifice
 TheEchoParadox
 TheEdge
@@ -69998,6 +70129,7 @@ TheEyes
 TheFactory
 TheFalconeer:RevolutionRemaster
 TheFallingStar
+TheFalseCulprit
 TheFarmer&theChicken
 TheFarmerWasReplaced
 TheFatCatFest
@@ -70232,6 +70364,7 @@ TheSacredSixCrystal:AHero'sJourney
 TheSacrilege
 TheSales
 TheSalesCurve
+TheSalesman
 TheScientistBattles
 TheShadowoftheWarringStatesPeriod
 TheShaftsofDamnation
@@ -71126,6 +71259,8 @@ TraderLlama
 TraderLlamaSpawn
 TraderLlamaSpawnEgg
 Tradewest
+Trail of Stars
+TrailofStars
 Trails
 Trails in the Sky
 Trails in the Sky 1st Chapter
@@ -72586,6 +72721,7 @@ VEX SPAWN EGG
 VEXSPAWN
 VEXSPAWNEGG
 VEXTORIAL
+VEYLOR
 VHS COLLECTION: BURIED ALIVE
 VHS Collection: Buried Alive
 VHS ROMANCE
@@ -73253,6 +73389,7 @@ Vex Spawn Egg
 VexSpawn
 VexSpawnEgg
 Vextorial
+Veylor
 Vi
 Vi Viane
 Vi Viane Vi Viane
@@ -77674,6 +77811,7 @@ airheart
 airplay
 airrider
 airriderairrider
+airshooshoo
 airtight
 airtight games
 airtightgames
@@ -78369,6 +78507,7 @@ apcooper
 apcooperassociates
 ape
 ape escape
+ape out
 ape studios
 apeescape
 apes vs. everyone
@@ -78875,6 +79014,8 @@ assault suit
 assaultsuit
 assaut sur tous les fronts
 assembly
+assetto corsa competizione
+assetto corsa rally
 assistants
 assistants de laboratoire
 assistantsdelaboratoire
@@ -79328,7 +79469,9 @@ backseat drivers
 backturned
 backyard
 backyard baseball '01
+backyard basketball '01
 backyard digger
+backyard hockey '02
 backyard sports
 backyardsports
 back：fade
@@ -81482,6 +81625,7 @@ buscabit: a treasure hunter adventure
 bushido
 bushido blade
 bushidoblade
+bushidon't: rhythm battles and the unnecessarily long subtitle
 bussan
 bust
 bust a move
@@ -81617,6 +81761,7 @@ cadreluisant
 cadres
 cadres de la shinra
 cadresdelashinra
+caemdale
 cafardo
 cafe
 cafe dreamland
@@ -83259,6 +83404,7 @@ continuum keeper
 contra
 contra 3
 contra3
+contraband police
 contract of ashes demo
 contractville
 contraindication digital artbook
@@ -84328,6 +84474,7 @@ dark hours
 dark hunting ground
 dark investigation : experiment
 dark kahn
+dark lord leona
 dark malgus
 dark mine
 dark moon
@@ -85393,6 +85540,7 @@ dmitry
 dmitry lukash
 dmitrylukash
 do
+do it together
 do not disturb
 do not say 21!
 doa
@@ -86763,6 +86911,7 @@ emma kliesen
 emma's umbrella
 emmakliesen
 emme
+emojification
 emotion
 emotional
 emotional robots
@@ -87087,6 +87236,9 @@ escape from chancellor's chambers
 escape from duckov
 escape from hadrian's wall
 escape from mandrillia: local asymmetric vr+pc
+escape from tarkov
+escape from tarkov - prepare for escape edition
+escape from tarkov: pve zone
 escape from timokha 2: army
 escape from tung tung sahur
 escape house
@@ -88462,6 +88614,7 @@ frantzfuchs
 franziska
 franziska von karma
 franziskavonkarma
+fraud camp: survival escape
 frazer
 freak
 fred
@@ -88573,6 +88726,7 @@ froggy
 froggy software
 froggysoftware
 frogmind
+frogshot adventure
 frogtoss
 frogtoss games
 frogtossgames
@@ -89461,6 +89615,7 @@ gifted: the tombs demo
 giga
 gigante
 gigas
+gigasword
 gigawing
 gigawings
 gigawings 2
@@ -89516,6 +89671,7 @@ glass bottle
 glass cannon
 glass masquerade 4: constellations
 glassbottle
+glassbreakers: champions of moss
 glazed mirror : myriad cards
 glebov
 glenn
@@ -90884,6 +91040,7 @@ hearst entertainment
 hearstentertainment
 heart
 heart beat
+heart cage
 heart in the cell: rebirth
 heart keeper
 heart of
@@ -91013,6 +91170,7 @@ hentai furry foxy
 hentai furry pony
 hentai girls : sexy maid party
 hentai girls: lust [18+]
+hentai haruko
 hentai hina
 hentai ladyboy ren
 hentai lunara
@@ -91627,6 +91785,7 @@ hunter scarfy
 hunter scarfy hunter scarfy
 hunter's journey: tears of the lake collector's edition
 hunter's seal demo
+hunter: the reckoning — a time of monsters
 hunters inc
 hunterscarfy
 hunterscarfyhunterscarfy
@@ -93298,6 +93457,7 @@ juri han
 jurihan
 just
 just a guy :  online multiplayer ragdoll game demo
+just a pixel character creator
 just add
 just add monsters
 just add water
@@ -94003,6 +94163,7 @@ knightlore
 knightmare
 knights
 knights in a different spacetime demo
+knights of messiah if: castle in an alternate dimension
 knights of milfgaard
 knights of old republic
 knights of the crusades
@@ -95775,6 +95936,7 @@ looking
 looking glass
 lookingglass
 loop
+loop my crank
 loot line
 loot of baal
 lootmage
@@ -96900,6 +97062,7 @@ mawmaw
 max
 max flexer
 max flexer max flexer
+max manos 2
 max max
 max payne
 maxflexer
@@ -97538,6 +97701,7 @@ midnight mazesoba
 midnight murder maze
 midnight riff
 midnight snack
+midnight study
 midnight yammy | 8-bit trickster show
 midnight's curse
 midnightclub
@@ -97665,6 +97829,7 @@ miles prower
 milescomputing
 milesprower
 milestone
+milf crimson desire
 milf express
 milf sex house
 milfs of sunville - season 2
@@ -97685,6 +97850,7 @@ milleniuminteractive
 millennium
 millennium interactive
 millennium interactive ltd
+millennium runners
 millenniuminteractive
 millenniuminteractiveltd
 miller
@@ -97810,6 +97976,7 @@ mining survivors
 minipec
 minipec minipec
 minipecminipec
+minipo
 minis-mario
 minismario
 ministre
@@ -98229,6 +98396,7 @@ moonbyte
 moonbytestudios
 moondusk masquerade
 moonfall: protocol
+moonlight chess
 moonlight traveler
 moonlighter
 moonman: the game
@@ -98436,6 +98604,7 @@ mouton cru
 mouton cuit
 moutoncru
 moutoncuit
+movavi video editor 2026
 move
 move interactive
 moveinteractive
@@ -100364,6 +100533,7 @@ oiseaujaune
 okami
 okazaki
 okazu - fish counting chill game -
+okinawa journal
 okugi
 old
 old school
@@ -102476,6 +102646,7 @@ powerwash simulator 2
 pqube
 pr21
 practical pinball
+pre-load now
 predator
 prefabgirl
 preiss
@@ -102756,6 +102927,7 @@ propwiz
 prostagma voulome
 prostagmevoulome
 prostate clicker: a touch of love
+protean fox
 protecting seagrass 保护海草
 protoss
 prototype
@@ -106805,6 +106977,7 @@ southlogicstudios
 southpeak
 southpeak interactive
 southpeakinteractive
+soy supremacy
 space
 space ace
 space adventure cobra - the awakening
@@ -107341,6 +107514,7 @@ steamworld
 steamworld dig 2
 steel
 steel defence
+steel hail
 steel knight's armis
 steel monkeys
 steel panthers
@@ -108068,6 +108242,7 @@ sweet girls collection
 sweet holes
 sweet home: look and find 4 collector's edition
 sweet kimono
+sweet pet
 sweet portal
 sweet promoter
 sweet restaurant
@@ -108385,6 +108560,7 @@ talon's blade
 talonsoft
 talrasha
 tamago
+tamamoji
 tamao
 tamara
 tamsoft
@@ -108894,6 +109070,7 @@ thalassagrimoire
 thales
 thalion
 thank you for your application!
+that's not my kind
 thatch
 the
 the 1500 year old forest elf and my anti-materiel sniper rifle
@@ -109026,6 +109203,7 @@ the dream's exit
 the dreamers foresight soundtrack
 the drifter
 the drowned deal
+the earthen reign
 the eastern sacrifice
 the echo paradox
 the edge
@@ -109051,6 +109229,7 @@ the eyes
 the factory
 the falconeer: revolution remaster
 the falling star
+the false culprit
 the farmer & the chicken
 the farmer was replaced
 the fat cat fest
@@ -109314,6 +109493,7 @@ the sacred six crystal: a hero's journey
 the sacrilege
 the sales
 the sales curve
+the salesman
 the sands of time
 the scientist battles
 the secret of monkey island
@@ -110336,6 +110516,7 @@ traderllama
 traderllamaspawn
 traderllamaspawnegg
 tradewest
+trail of stars
 trails
 trails in the sky
 trails in the sky 1st chapter
@@ -111397,6 +111578,7 @@ vex spawn egg
 vexspawn
 vexspawnegg
 vextorial
+veylor
 vhs collection: buried alive
 vhs romance
 vi
@@ -113512,6 +113694,7 @@ zèbre
 オーガの野望 ～Ogre's Ambition～
 オーガの野望 ～ogre's ambition～
 オーガの野望～Ogre'sAmbition～
+キー暴動
 サキュバスクエスト ～SUCCUBUS QUEST～
 サキュバスクエスト ～succubus quest～
 サキュバスクエスト～succubusquest～
