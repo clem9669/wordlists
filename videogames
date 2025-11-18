@@ -1127,17 +1127,20 @@
 ???:LexiLoong
 ????
 ???? (Bagua Alley)
+???? (lost curse)
 ???? - ????
 ???? - ?????
 ???? - ??????? 90 ???
 ???? ? ????: ???? ?? ????????? ???????????
 ???? ???
+???? ????
 ???? ?????
 ???? AFK Industarry
 ???? Arcane Mahjong
 ???? Demo
 ???? Dragons and elves
 ???? Eternal Night Metro
+???? GolfKings
 ???? ImagineFuture Demo
 ???? Ipet
 ???? Libido Estates
@@ -1456,6 +1459,7 @@ ABINTERACTIVE
 ABIOTIC FACTOR
 ABInteractive
 ABOUT AN ELF
+ABRA-COOKING-DABRA
 ABRAHAM
 ABREZ
 ABSOLUM
@@ -3622,6 +3626,8 @@ Abiotic Factor
 AbioticFactor
 About an Elf
 AboutanElf
+Abra Cooking Dabra
+Abra-Cooking-Dabra
 Abraham
 Abrez
 Absolum
@@ -7279,6 +7285,7 @@ BLUEY
 BLUEY LE MORSE
 BLUEYLEMORSE
 BLUE_DYE
+BLUMA
 BLUMENIA - HISTORIAS DE UN MUNDO DE PLANTAS
 BLUPI
 BLUSTERGAS
@@ -11866,6 +11873,7 @@ CLADUN X3
 CLAIR
 CLAIR OBSCUR: EXPEDITION 33
 CLAIRE
+CLAIRE A LA MODE
 CLAIRE REDFIELD
 CLAIREREDFIELD
 CLAN
@@ -13059,6 +13067,7 @@ CURIOSITY
 CURLY
 CURLY MONSTERS
 CURLYMONSTERS
+CURRENTDAY
 CURSE
 CURSE OF WONEY
 CURSED ARMOR 2
@@ -14491,7 +14500,9 @@ Clair Obscur: Expedition 33
 ClairObscur:Expedition33
 Claire
 Claire Redfield
+Claire a la Mode
 ClaireRedfield
+ClairealaMode
 Clan
 Clan Duramont
 Clan Nocturnus
@@ -15793,6 +15804,7 @@ Curiosity
 Curly
 Curly Monsters
 CurlyMonsters
+CurrentDay
 Curse
 Curse of Woney
 Cursed Armor 2
@@ -16839,6 +16851,7 @@ DESTINY 2: YEAR OF PROPHECY
 DESTINY 2: YEAR OF PROPHECY ULTIMATE EDITION
 DESTROY
 DESTROY ALL HUMANS!
+DESTROY! MOSAIC!
 DESTROYALLHUMANS!
 DESTRUCTION
 DESTRUCTION DERBY
@@ -17514,6 +17527,7 @@ DOOMER SIMULATOR
 DOOMERSIMULATOR
 DOOMFIST
 DOOMHAMMER
+DOOMRIDERZ
 DOOMS
 DOOMS EYE
 DOOMSEYE
@@ -18980,6 +18994,8 @@ Destiny2:YearofProphecy
 Destiny2:YearofProphecyUltimateEdition
 Destroy
 Destroy All Humans!
+Destroy! Mosaic!
+Destroy!Mosaic!
 DestroyAllHumans!
 Destruction
 Destruction Derby
@@ -19705,6 +19721,7 @@ Doom'sEye
 DoomDrive
 Doomfist
 Doomhammer
+Doomriderz
 Dooms
 Dooms Eye
 DoomsEye
@@ -21078,6 +21095,7 @@ ENCOUNTER
 ENCOUNTERS
 END
 END CRYSTAL
+END THEM, SOLDIER!
 ENDCRYSTAL
 ENDER
 ENDER PEARL
@@ -21404,6 +21422,7 @@ ETERNAL EXILE: BENEATH THE DARKNESS
 ETERNAL NIGHT - SPOOKY SOLITAIRE
 ETERNAL ONE
 ETERNAL RISING
+ETERNAL SIEGE
 ETERNALCHAMPIONS
 ETERNALDARKNESS
 ETERNALEXILE:BENEATHTHEDARKNESS
@@ -22260,7 +22279,9 @@ Encounter
 Encounters
 End
 End Crystal
+End Them, Soldier!
 EndCrystal
+EndThem,Soldier!
 Ender
 Ender Pearl
 EnderPearl
@@ -22593,6 +22614,7 @@ Eternal Night   Spooky Solitaire
 Eternal Night - Spooky Solitaire
 Eternal ONE
 Eternal Rising
+Eternal Siege
 EternalAffairs
 EternalChampions
 EternalCircus:DancingwithMissiles
@@ -22601,6 +22623,7 @@ EternalDecaySouls
 EternalNight-SpookySolitaire
 EternalONE
 EternalRising
+EternalSiege
 Ethan
 Ethan Winters
 Ethan s Flag Quiz Game
@@ -23137,6 +23160,7 @@ FAST ROYAL
 FASTER BUNNIES
 FAT
 FATAL
+FATAL CLAW
 FATAL FURY
 FATAL FURY REAL BOUT FATAL FURY
 FATAL FURY, REAL BOUT FATAL FURY
@@ -24646,9 +24670,11 @@ Faster Bunnies
 FasterBunnies
 Fat
 Fatal
+Fatal Claw
 Fatal Fury
 Fatal Fury Real Bout Fatal Fury
 Fatal Fury, Real Bout Fatal Fury
+FatalClaw
 FatalFury
 FatalFury,RealBoutFatalFury
 FatalFuryRealBoutFatalFury
@@ -26268,6 +26294,7 @@ GARDIEN
 GARDIEN DE METAL
 GARDIENDEMETAL
 GARDIENS
+GARENBURG PENITENCE: UNARCHIVED (NOVELIZATION)
 GARETH
 GARETH TUCKER
 GARETHTUCKER
@@ -26606,9 +26633,12 @@ GIANTMEDIAGROUP
 GIDEON
 GIDEON WYBORN
 GIDEONWYBORN
+GIF PAL
+GIF Pal
 GIFLE
 GIFLE GIFLE
 GIFLEGIFLE
+GIFPal
 GIFTED: THE TOMBS DEMO
 GIGA
 GIGANTE
@@ -27080,6 +27110,7 @@ GRAINESDEPASTEQUE
 GRAINESDEPASTÈQUE
 GRAMMAR GRIND
 GRAN
+GRAN THEFT LURE
 GRAN TURISMO
 GRAN TURISMO 3
 GRAND
@@ -27914,6 +27945,9 @@ Gardien de metal
 Gardien de métal
 Gardiendemetal
 Gardiendemétal
+Garenburg Penitence: Unarchived  Novelization 
+Garenburg Penitence: Unarchived (Novelization)
+GarenburgPenitence:Unarchived(Novelization)
 Gareth
 Gareth Tucker
 GarethTucker
@@ -28735,7 +28769,9 @@ Grainesdepastèque
 Grammar Grind
 GrammarGrind
 Gran
+Gran Theft Lure
 Gran Turismo
+GranTheftLure
 GranTurismo
 Grand
 Grand Battle Swan Colosseum
@@ -29424,6 +29460,7 @@ HAPPY
 HAPPY BLUE
 HAPPY BLUE FISH
 HAPPY COOKIES
+HAPPY DAY
 HAPPY ISLAND FANTASY
 HAPPY MONSTER
 HAPPY NUCLEAR
@@ -30200,6 +30237,7 @@ HOME ENTERTAINMENT
 HOME ENTERTAINMENT SUPPLIERS
 HOME FOR FRIENDS: BELOVED PETS COLLECTOR'S EDITION
 HOME RUN
+HOME SWEET HOMECOMING
 HOME VISION
 HOMEBODY HOSTESS
 HOMEBREW
@@ -30691,6 +30729,7 @@ Happy
 Happy Blue
 Happy Blue Fish
 Happy Cookies
+Happy Day
 Happy Island Fantasy
 Happy Monster
 Happy Nuclear
@@ -30703,6 +30742,7 @@ HappyAppy
 HappyBlue
 HappyBlueFish
 HappyCookies
+HappyDay
 HappyIslandFantasy
 HappyMonster
 HappyNuclear
@@ -31615,6 +31655,7 @@ Home Data
 Home Entertainment
 Home Entertainment Suppliers
 Home Run
+Home Sweet Homecoming
 Home Vision
 Home for Friends: Beloved Pets Collector s Edition
 Home for Friends: Beloved Pets Collector's Edition
@@ -31626,6 +31667,7 @@ HomeEntertainment
 HomeEntertainmentSuppliers
 HomeMedia
 HomeRun
+HomeSweetHomecoming
 HomeVision
 Homebody Hostess
 HomebodyHostess
@@ -32499,6 +32541,7 @@ INEVITABLE
 INEVITABLE ENTERTAINMENT
 INEVITABLEENTERTAINMENT
 INFAMOUS
+INFECT CAM
 INFERNAL
 INFERNAL BYTE
 INFERNAL BYTE SYSTEMS
@@ -33345,6 +33388,8 @@ Inevitable
 Inevitable Entertainment
 InevitableEntertainment
 Infamous
+Infect Cam
+InfectCam
 Infernal
 Infernal Byte
 Infernal Byte Systems
@@ -37903,6 +37948,7 @@ LEAD
 LEAD HORIZON
 LEAD PURSUIT
 LEAD THE WAY PACK - BATTLEFIELD™ 6 AND REDSEC
+LEADCOUNT
 LEADERS
 LEADERS ASSOCIATION
 LEADERSASSOCIATION
@@ -38334,6 +38380,7 @@ LEWD MOD: NOIR
 LEX
 LEX LUTHOR
 LEXICON
+LEXIROGUE
 LEXIS
 LEXIS NUMERIQUE
 LEXIS NUMÃ©RIQUE
@@ -38626,6 +38673,7 @@ LITORANGE
 LITROSE
 LITROUGE
 LITTLE
+LITTLE AVIARY
 LITTLE BATTLERS
 LITTLE BATTLERS EXPERIENCE
 LITTLE BIG ADVENTURE
@@ -39573,6 +39621,7 @@ Lead Pursuit
 Lead the Way Pack   Battlefield™ 6 and REDSEC
 Lead the Way Pack - Battlefield(TM) 6 and REDSEC
 Lead the Way Pack - Battlefield™ 6 and REDSEC
+LeadCount
 LeadHorizon
 LeadPursuit
 Leaders
@@ -39975,6 +40024,7 @@ LewdMod:Noir
 Lex
 Lex Luthor
 LexLuthor
+LexiRogue
 Lexicon
 Lexis
 Lexis NumÃ©rique
@@ -40264,6 +40314,7 @@ Litorange
 Litrose
 Litrouge
 Little
+Little Aviary
 Little Battlers
 Little Battlers Experience
 Little Big Adventure
@@ -40287,6 +40338,7 @@ Little Witch Survivors
 Little Witch in the Woods
 Little Worlds
 Little Worlds Studio
+LittleAviary
 LittleBattlers
 LittleBattlersExperience
 LittleBigAdventure
@@ -42518,6 +42570,7 @@ MILTON
 MILTON BRADLEY
 MILTONBRADLEY
 MIMESIS
+MIMI IN MEOWNDERING HOUSE
 MIMIC
 MIN
 MIN MIN
@@ -43158,6 +43211,7 @@ MORUEDANSUNSEAU
 MORVUX
 MORVUX MORVUX
 MORVUXMORVUX
+MOSQUITO
 MOSSMOUTH
 MOST
 MOST QUIETLY
@@ -45273,7 +45327,9 @@ Milos
 Milton
 Milton Bradley
 MiltonBradley
+Mimi in Meowndering House
 Mimic
+MimiinMeownderingHouse
 Min
 Min Min
 MinMin
@@ -47564,6 +47620,7 @@ NUGGET
 NUICE INDUSTRIES
 NUIT
 NUKEM
+NUM ONE: REVISED EDITION - YUME WO KATARE THEME
 NUMBER
 NUMBER NONE
 NUMBER NONE INC
@@ -48558,6 +48615,9 @@ Nuice Industries
 NuiceIndustries
 Nuit
 Nukem
+Num One: Revised Edition   Yume wo Katare Theme
+Num One: Revised Edition - Yume wo Katare Theme
+NumOne:RevisedEdition-YumewoKatareTheme
 Number
 Number None
 Number None Inc
@@ -50629,6 +50689,7 @@ PACKIEMCREARY
 PACKIN
 PACKIN VIDEO
 PACKINVIDEO
+PACKONOMY
 PACMAN
 PACMAN VS
 PACMANIA
@@ -50831,6 +50892,7 @@ PAPER SOCCER
 PAPER WARS
 PAPERBOY
 PAPERKLAY
+PAPERMANCER
 PAPERMARIO
 PAPERMARIO&THETHOUSANDYEARSDOOR
 PAPERMARIOTHETHOUSANDYEARSDOOR
@@ -52864,6 +52926,7 @@ PackInVideo
 Packie
 Packie McReary
 PackieMcReary
+Packonomy
 Pacmania
 Pacto
 Pacto Pacto
@@ -53063,6 +53126,7 @@ PaperWars
 Paperboy
 Papercut
 PaperdanceEngine
+Papermancer
 Papers, Please
 Papers,Please
 Papier
@@ -55558,6 +55622,7 @@ RAGOUT DE LAPIN
 RAGOUTDELAPIN
 RAID
 RAID ON AREA 51
+RAIDBOUND
 RAIDEN
 RAIDER
 RAIDOU REMASTERED: THE MYSTERY OF THE SOULLESS ARMY
@@ -56208,6 +56273,9 @@ REVERGE
 REVERGE LABS
 REVERGELABS
 REVERSE FISHING
+REVERSI XVSX
+REVERSI xVSx
+REVERSIxVSx
 REVISTRONIC
 REVIVAL
 REVIVAL AND EXPLORATION
@@ -56873,6 +56941,7 @@ RUFUS
 RUFUS SHINRA
 RUFUSSHINRA
 RUGBY LEAGUE 26
+RUINA
 RUINSSTORY
 RULES
 RUMI
@@ -57063,6 +57132,7 @@ RaiX UG
 RaiXUG
 Raid
 Raid on Area 51
+Raidbound
 Raiden
 Raider
 RaidonArea51
@@ -58481,6 +58551,7 @@ Rufus Shinra
 RufusShinra
 Rugby League 26
 RugbyLeague26
+Ruina
 RuinsStory
 Rules
 Rumi
@@ -58626,6 +58697,9 @@ S.MARSAULT
 S.Marsault
 S.N.C
 S.P.L.I.T
+S.T.A.L.K.E.R. 2: HEART OF CHORNOBYL
+S.T.A.L.K.E.R. 2: Heart of Chornobyl
+S.T.A.L.K.E.R.2:HeartofChornobyl
 SA
 SA-X
 SABAN
@@ -59383,6 +59457,8 @@ SEIZE THE CHEESE
 SEK
 SEKIRO™: SHADOWS DIE TWICE - GOTY EDITION
 SEKTOR
+SEKTORI
+SEKTORI OFFICIAL SOUNDTRACK
 SELCHOW
 SELCHOW &
 SELCHOW & RIGHTER
@@ -59689,6 +59765,7 @@ SHEEP FOR THE STARS
 SHEEP SPAWN
 SHEEP SPAWN EGG
 SHEEP SWEEP
+SHEEPHERDS!
 SHEEPSPAWN
 SHEEPSPAWNEGG
 SHEEVA
@@ -59713,6 +59790,7 @@ SHENMUE 2
 SHENMUE2
 SHEPHERD PLANET
 SHERLOCK
+SHERLOCK HOLMES: CRIMES AND PUNISHMENTS
 SHETI
 SHI-LONG
 SHI-LONG LANG
@@ -61427,6 +61505,7 @@ STATION
 STATION 0 - المحطة 0
 STATION TO STATION
 STAXXI
+STAY ALIVE FOR ME
 STCLAIR
 STCLAIRAPPS
 STEAK
@@ -62116,6 +62195,7 @@ SURVIVE THE FALL
 SURVIVE THE FALL - ORIGINAL SOUNDTRACK
 SURVIVE THE GRID
 SURVIVE THE LABYRINTH
+SURVIVE THE RIFT
 SURVIVE THE SILENCE
 SURVIVE, RESIST, COLLABORATE - A WORLD WAR 2 CHOICE-BASED STORY
 SURVIVING MARS
@@ -63038,6 +63118,9 @@ Sekiro™: Shadows Die Twice   GOTY Edition
 Sekiro™: Shadows Die Twice - GOTY Edition
 Sekiro™:ShadowsDieTwice-GOTYEdition
 Sektor
+Sektori
+Sektori Official Soundtrack
+SektoriOfficialSoundtrack
 Selas
 Selchow
 Selchow &
@@ -63395,6 +63478,7 @@ SheepSpawn
 SheepSpawnEgg
 SheepSweep
 SheepfortheStars
+Sheepherds!
 Sheeva
 Sheffield
 Sheffield House
@@ -63419,6 +63503,8 @@ Shenmue2
 Shepherd Planet
 ShepherdPlanet
 Sherlock
+Sherlock Holmes: Crimes and Punishments
+SherlockHolmes:CrimesandPunishments
 Sheti
 Shi-Long
 Shi-Long Lang
@@ -65242,6 +65328,8 @@ Station to Station
 Station0-المحطة0
 StationtoStation
 Staxxi
+Stay Alive For Me
+StayAliveForMe
 Steak
 Steal It
 Steal The Pig
@@ -66046,6 +66134,7 @@ Survive the Fall   Original Soundtrack
 Survive the Fall - Original Soundtrack
 Survive the Grid
 Survive the Labyrinth
+Survive the Rift
 Survive the Silence
 Survive, Resist, Collaborate   a World War 2 Choice Based Story
 Survive, Resist, Collaborate - a World War 2 Choice-Based Story
@@ -66057,6 +66146,7 @@ SurvivetheFall
 SurvivetheFall-OriginalSoundtrack
 SurvivetheGrid
 SurvivetheLabyrinth
+SurvivetheRift
 SurvivetheSilence
 Surviving Mars
 Surviving Mars: Pioneer
@@ -67263,6 +67353,7 @@ THE HOUSE OF TOYS
 THE HOUSE REMEMBERS
 THE HOUSE SHE HAUNTS
 THE HOUSE: MYSTERY ESCAPE
+THE HUNDRED YOUKAI MASTER
 THE HUNTER'S PATH
 THE ICONFACTORY
 THE INCITE
@@ -67305,6 +67396,7 @@ THE LAST PURGE
 THE LAST REUNION
 THE LAST SHORES
 THE LAST SKI TRIP
+THE LAST STAR WALKER - SEASON 1
 THE LAST STRAND
 THE LAST THRONE
 THE LAST TRAIN: BAQUEDANO
@@ -67422,6 +67514,7 @@ THE PATH OF BLADES
 THE PHOENIX GENE VR
 THE PIXOTRON 49
 THE PLANET CRAFTER
+THE PLANET CRAFTER - TOXICITY
 THE PRECINCT
 THE PRECINCT SOUNDTRACK
 THE PREDECESSOR
@@ -67902,6 +67995,7 @@ TIC  TAC RANGERS DU RISQUE
 TIC & TAC RANGERS DU RISQUE
 TIC&TACRANGERSDURISQUE
 TICHONDRIUS
+TICHU
 TICK
 TICK THROW
 TICK TICK
@@ -69953,6 +70047,7 @@ The House of Da Vinci
 The House of Tesla
 The House of Toys
 The House: Mystery Escape
+The Hundred Youkai Master
 The Hunter s Path
 The Hunter's Path
 The Iconfactory
@@ -69994,6 +70089,8 @@ The Last Purge
 The Last Reunion
 The Last Shores
 The Last Ski Trip
+The Last Star Walker   Season 1
+The Last Star Walker - Season 1
 The Last Strand
 The Last Visit: 98th
 The Last Werewolf
@@ -70092,6 +70189,8 @@ The Path of Blades
 The Phoenix Gene VR
 The Pixotron 49
 The Planet Crafter
+The Planet Crafter   Toxicity
+The Planet Crafter - Toxicity
 The Precinct
 The Precinct Soundtrack
 The Predecessor
@@ -70425,6 +70524,7 @@ TheHouseSheHaunts
 TheHouseofDaVinci
 TheHouseofTesla
 TheHouseofToys
+TheHundredYoukaiMaster
 TheHunter'sPath
 TheIconfactory
 TheIncite
@@ -70464,6 +70564,7 @@ TheLastPurge
 TheLastReunion
 TheLastShores
 TheLastSkiTrip
+TheLastStarWalker-Season1
 TheLastStrand
 TheLastVisit:98th
 TheLastWerewolf
@@ -70558,6 +70659,7 @@ ThePathofBlades
 ThePhoenixGeneVR
 ThePixotron49
 ThePlanetCrafter
+ThePlanetCrafter-Toxicity
 ThePrecinct
 ThePrecinctSoundtrack
 ThePredecessor
@@ -70848,6 +70950,7 @@ Tic & Tac Rangers du Risque
 Tic&TacRangersduRisque
 TicTacRangersduRisque
 Tichondrius
+Tichu
 Tick
 Tick Tick
 Tick throw
@@ -72287,6 +72390,7 @@ UNLIGHTED
 UNLIMITED
 UNLIMITED SOFTWARE
 UNLIMITEDSOFTWARE
+UNMOURNED
 UNPREDICTABLE STAR
 UNPROTECTED
 UNREAL
@@ -72636,6 +72740,7 @@ Unlighted
 Unlimited
 Unlimited Software
 UnlimitedSoftware
+Unmourned
 Unpredictable Star
 UnpredictableStar
 Unprotected
@@ -73092,6 +73197,7 @@ VINGT-ET-UNSYSTEMS
 VINGTETUN
 VINGTETUN SYSTEMS
 VINGTETUNSYSTEMS
+VINYLS
 VIOLATED PRINCESS
 VIOLET
 VIOLETTE
@@ -73765,6 +73871,7 @@ Vingt-et-unSystems
 Vingtetun
 Vingtetun Systems
 VingtetunSystems
+Vinyls
 Violated Princess
 ViolatedPrincess
 Violet
@@ -77642,6 +77749,7 @@ abimes
 abinteractive
 abiotic factor
 about an elf
+abra-cooking-dabra
 abraham
 abrez
 absolum
@@ -81125,6 +81233,7 @@ bluewingblitz
 bluey
 bluey le morse
 blueylemorse
+bluma
 blumenia - historias de un mundo de plantas
 blupi
 blustergas
@@ -83183,6 +83292,7 @@ cladun x3
 clair
 clair obscur: expedition 33
 claire
+claire a la mode
 claire redfield
 claireredfield
 clan
@@ -84370,6 +84480,7 @@ curiosity
 curly
 curly monsters
 curlymonsters
+currentday
 curse
 curse of woney
 cursed armor 2
@@ -85366,6 +85477,7 @@ destiny 2: year of prophecy
 destiny 2: year of prophecy ultimate edition
 destroy
 destroy all humans!
+destroy! mosaic!
 destroyallhumans!
 destruction
 destruction derby
@@ -86020,6 +86132,7 @@ doom: the dark ages
 doomer simulator
 doomfist
 doomhammer
+doomriderz
 dooms
 dooms eye
 doomseye
@@ -87260,6 +87373,7 @@ encounter
 encounters
 end
 end crystal
+end them, soldier!
 endcrystal
 ender
 ender pearl
@@ -87585,6 +87699,7 @@ eternal exile: beneath the darkness
 eternal night - spooky solitaire
 eternal one
 eternal rising
+eternal siege
 eternalchampions
 eternaldarkness
 ethan
@@ -88062,6 +88177,7 @@ fast royal
 faster bunnies
 fat
 fatal
+fatal claw
 fatal fury
 fatal fury real bout fatal fury
 fatal fury, real bout fatal fury
@@ -89569,6 +89685,7 @@ gardien de métal
 gardiendemetal
 gardiendemétal
 gardiens
+garenburg penitence: unarchived (novelization)
 gareth
 gareth tucker
 garethtucker
@@ -89893,6 +90010,7 @@ giantmediagroup
 gideon
 gideon wyborn
 gideonwyborn
+gif pal
 gifle
 gifle gifle
 giflegifle
@@ -90354,6 +90472,7 @@ grainesdepasteque
 grainesdepastèque
 grammar grind
 gran
+gran theft lure
 gran turismo
 gran turismo 3
 grand
@@ -91060,6 +91179,7 @@ happy
 happy blue
 happy blue fish
 happy cookies
+happy day
 happy island fantasy
 happy monster
 happy nuclear
@@ -91834,6 +91954,7 @@ home entertainment
 home entertainment suppliers
 home for friends: beloved pets collector's edition
 home run
+home sweet homecoming
 home vision
 homebody hostess
 homebrew
@@ -92619,6 +92740,7 @@ inevitable
 inevitable entertainment
 inevitableentertainment
 infamous
+infect cam
 infernal
 infernal byte
 infernal byte systems
@@ -95319,6 +95441,7 @@ lead
 lead horizon
 lead pursuit
 lead the way pack - battlefield™ 6 and redsec
+leadcount
 leaders
 leaders association
 leadersassociation
@@ -95761,6 +95884,7 @@ lewd mod: noir
 lex
 lex luthor
 lexicon
+lexirogue
 lexis
 lexis numerique
 lexis numã©rique
@@ -96043,6 +96167,7 @@ litorange
 litrose
 litrouge
 little
+little aviary
 little battlers
 little battlers experience
 little big adventure
@@ -98171,6 +98296,7 @@ milton
 milton bradley
 miltonbradley
 mimesis
+mimi in meowndering house
 mimic
 min
 min min
@@ -98802,6 +98928,7 @@ moruedansunseau
 morvux
 morvux morvux
 morvuxmorvux
+mosquito
 mossmouth
 most
 most quietly
@@ -100256,6 +100383,7 @@ nugget
 nuice industries
 nuit
 nukem
+num one: revised edition - yume wo katare theme
 number
 number none
 number none inc
@@ -101326,6 +101454,7 @@ packiemcreary
 packin
 packin video
 packinvideo
+packonomy
 pacman
 pacman vs
 pacmania
@@ -101516,6 +101645,7 @@ paper soccer
 paper wars
 paperboy
 paperklay
+papermancer
 papermario
 papermario&thethousandyearsdoor
 papermariothethousandyearsdoor
@@ -103763,6 +103893,7 @@ ragout de lapin
 ragoutdelapin
 raid
 raid on area 51
+raidbound
 raiden
 raider
 raidou remastered: the mystery of the soulless army
@@ -104394,6 +104525,7 @@ reverge
 reverge labs
 revergelabs
 reverse fishing
+reversi xvsx
 revistronic
 revival
 revival and exploration
@@ -105032,6 +105164,7 @@ rufus
 rufus shinra
 rufusshinra
 rugby league 26
+ruina
 ruinsstory
 rules
 rumi
@@ -105146,6 +105279,7 @@ s.l
 s.marsault
 s.n.c
 s.p.l.i.t
+s.t.a.l.k.e.r. 2: heart of chornobyl
 sa
 sa-x
 saban
@@ -105844,6 +105978,8 @@ seize the cheese
 sek
 sekiro™: shadows die twice - goty edition
 sektor
+sektori
+sektori official soundtrack
 selchow
 selchow &
 selchow & righter
@@ -106134,6 +106270,7 @@ sheep for the stars
 sheep spawn
 sheep spawn egg
 sheep sweep
+sheepherds!
 sheepspawn
 sheepspawnegg
 sheeva
@@ -106158,6 +106295,7 @@ shenmue 2
 shenmue2
 shepherd planet
 sherlock
+sherlock holmes: crimes and punishments
 sheti
 shi-long
 shi-long lang
@@ -107823,6 +107961,7 @@ station
 station 0 - المحطة 0
 station to station
 staxxi
+stay alive for me
 stclair
 stclairapps
 steak
@@ -108503,6 +108642,7 @@ survive the fall
 survive the fall - original soundtrack
 survive the grid
 survive the labyrinth
+survive the rift
 survive the silence
 survive, resist, collaborate - a world war 2 choice-based story
 surviving mars
@@ -109634,6 +109774,7 @@ the house of toys
 the house remembers
 the house she haunts
 the house: mystery escape
+the hundred youkai master
 the hunter's path
 the iconfactory
 the incite
@@ -109676,6 +109817,7 @@ the last purge
 the last reunion
 the last shores
 the last ski trip
+the last star walker - season 1
 the last strand
 the last throne
 the last train: baquedano
@@ -109792,6 +109934,7 @@ the path of blades
 the phoenix gene vr
 the pixotron 49
 the planet crafter
+the planet crafter - toxicity
 the precinct
 the precinct soundtrack
 the predecessor
@@ -110265,6 +110408,7 @@ tic  tac rangers du risque
 tic & tac rangers du risque
 tic&tacrangersdurisque
 tichondrius
+tichu
 tick
 tick throw
 tick tick
@@ -111603,6 +111747,7 @@ unlighted
 unlimited
 unlimited software
 unlimitedsoftware
+unmourned
 unpredictable star
 unprotected
 unreal
@@ -112048,6 +112193,7 @@ vingt-et-unsystems
 vingtetun
 vingtetun systems
 vingtetunsystems
+vinyls
 violated princess
 violet
 violette
@@ -114107,6 +114253,10 @@ zèbre
 即时象棋：旧棋新弈HyperChineseChess
 厨师今天不做菜
 叛逆の守護者
+古咒迷途  lost curse 
+古咒迷途 (LOST CURSE)
+古咒迷途 (lost curse)
+古咒迷途(lostcurse)
 史小坑的黑暗料理
 合金子弹
 呪いの穢れ唄　鳴海龍也の回奇録
@@ -114343,6 +114493,8 @@ zèbre
 王异工坊FANCRAFT
 王异工坊FanCraft
 王异工坊fancraft
+琉球異聞 朱桜の繋
+琉球異聞朱桜の繋
 生命蟲子
 男娘恋爱物语
 番言薯语
@@ -114507,6 +114659,7 @@ zèbre
 金砂梦咒golden sand dream curse
 阳光物语
 除灵事务所
+雷霆之眼
 霓渊之城：爱神觉醒
 霸世狂刀
 飢界
@@ -114519,6 +114672,10 @@ zèbre
 骤雨终日 Demo
 骤雨终日 demo
 骤雨终日Demo
+高球王者 GOLFKINGS
+高球王者 GolfKings
+高球王者 golfkings
+高球王者GolfKings
 鬼灵的冒险GUILING s Adventure
 鬼灵的冒险GUILING'S ADVENTURE
 鬼灵的冒险GUILING's Adventure
