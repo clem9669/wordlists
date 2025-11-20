@@ -3644,6 +3644,7 @@ AURÉLIEN TACHÉ
 AUS AKTUELLEM ANLASS ZDF ÄNDERT PROGRAMM
 AUSCHWITZ
 AUSLOSUNG EM 2024
+AUSLOSUNG WM PLAYOFFS
 AUSTIN BUTLER
 AUSTIN MAJORS
 AUSTIN MAJORS MORT
@@ -8491,6 +8492,7 @@ BARRAGE
 BARRAGE CAP DE LONG
 BARRAGE COUPE DU MONDE
 BARRAGE COUPE DU MONDE 2022
+BARRAGE COUPE DU MONDE 2026
 BARRAGE DE BIMONT
 BARRAGE EUPEN
 BARRAGE UKRAINE
@@ -9949,6 +9951,8 @@ BRAND ALTSTETTEN
 BRAND ANDERLECHT
 BRAND ARENDONK
 BRAND BELCHENTUNNEL
+BRAND BEROMUNSTER
+BRAND BEROMÜNSTER
 BRAND BISCHOFSZELL
 BRAND BRUGGE
 BRAND BRUSSEL
@@ -15994,6 +15998,7 @@ COSTA RICA GEGEN DEUTSCHLAND
 COSTA RICA – ALLEMAGNE
 COSTA TITCH
 COSTA-GAVRAS
+COSTCO SCHWEIZ
 COTE D'IVOIRE
 COTE D'IVOIRE EGYPTE
 COTE D'IVOIRE FOOT
@@ -16252,6 +16257,7 @@ CROWDHOUSE
 CROWDSTRIKE
 CROWN JEWEL 2021
 CROWN JEWEL 2025
+CROZET
 CROZON
 CRS 8
 CRS8
@@ -32940,6 +32946,7 @@ GREVE MARDI 2 AVRIL 2024
 GREVE MARDI 28 MARS
 GREVE MEDECIN
 GREVE NATIONALE
+GREVE NATIONALE 26 NOVEMBRE
 GREVE NATIONALE BELGIQUE 13 FEVRIER
 GREVE NOVEMBRE 2025
 GREVE ORLY
@@ -33043,6 +33050,7 @@ GRÈVE ILLIMITÉE CHEZ LIDL
 GRÈVE MÉDECINS GÉNÉRALISTES
 GRÈVE NATIONALE
 GRÈVE NATIONALE 22 MAI
+GRÈVE NATIONALE 26 NOVEMBRE
 GRÈVE SNCB
 GRÈVE SNCB 17 MARS
 GRÈVE SNCB 28 FÉVRIER
@@ -33101,6 +33109,7 @@ GUERLAIN CRÈME QUANTIQUE
 GUERRE
 GUERRE EN UKRAINE
 GUERRE EN UKRAINE RUSSIE
+GUERRE FRANCE RUSSIE
 GUERRE FROIDE
 GUERRE IRAN ISRAEL
 GUERRE IRAN ISRAËL
@@ -36104,6 +36113,7 @@ HOROSCOPE DU 7 MARS 2025
 HOROSCOPE DU 8 MAI 2025
 HOROSCOPE DU DOUBLE EXPRESSO
 HOROSCOPE DU JOUR RTL
+HOROSCOPE NOUVELLE LUNE
 HOROSCOPE OCTOBRE
 HOROSCOPE SEMAINE
 HOROSCOPE SEMAINE DU 5 MAI 2025
@@ -62084,6 +62094,7 @@ OERLIKON
 OESCHINENSEE
 OETWIL AM SEE
 OEUF MIMOSA
+OEUFS
 OEUFS CONTAMINÉS
 OEUFS SALMONELLE
 OFENBACH
@@ -74619,6 +74630,7 @@ SOFINA
 SOFOOT
 SOFTBALL
 SOFYAN AMRABAT
+SOITEC
 SOL BAMBA
 SOLANA
 SOLANA PROGNOSE
@@ -74771,6 +74783,7 @@ SORJ CHALANDON
 SOROS
 SORTEGGI CHAMPIONS
 SORTEGGIO CHAMPIONS LEAGUE
+SORTEGGIO SPAREGGI MONDIALI
 SOS FANTÔMES L'HÉRITAGE
 SOS Fantômes l'héritage
 SOSFantômesl'héritage
@@ -81179,6 +81192,7 @@ TODESANZEIGE JOY MATTER
 TODESANZEIGE SABINE SIEBER
 TODESFALLE ROTES MEER
 TODIBO
+TODLICHER UNFALL
 TODLICHER VERKEHRSUNFALL B253 ESCHENBURG
 TOESLAGENAFFAIRE
 TOETANCHAMON
@@ -81907,6 +81921,7 @@ TW Classic 2023
 TWClassic
 TWClassic2022
 TWClassic2023
+TWEAKERS
 TWENTE  AJAX
 TWENTE - AJAX
 TWENTE - PSV
@@ -84551,6 +84566,7 @@ TÉLÉMATIN JULIA VIGNALI
 TÉLÉTRAVAIL OBLIGATOIRE
 TÉLÉVIE 2024
 TÉRENCE ATMANE
+TÖDLICHER UNFALL
 TÖDLICHER UNFALL URNÄSCH
 TÖDLICHER VERKEHRSUNFALL B253 ESCHENBURG
 TÖTUNGSDELIKT BERIKON AG
@@ -86114,6 +86130,8 @@ VERKEHRSUNFALL A2 BASEL
 VERKEHRSUNFALL BIEL
 VERKEHRSUNFALL GERA KIND TOT
 VERKEHRSUNFALL GLATTBRUGG
+VERKEHRSUNFALL GRAUBUNDEN
+VERKEHRSUNFALL GRAUBÜNDEN
 VERKEHRSUNFALL KLOTEN
 VERKEHRSUNFALL SCHWARZENBERG FUssGANGER
 VERKEHRSUNFALL SCHWARZENBERG FUßGÄNGER
@@ -90422,6 +90440,7 @@ ZILVERMEER MOL
 ZIMBABWE
 ZIMBABWE VS BOTSWANA
 ZIMBABWE VS PAKISTAN
+ZIMBABWE VS SRI LANKA
 ZINCHENKO
 ZINEB EL RHAZOUI
 ZINEDINE ZIDANE
@@ -94253,6 +94272,8 @@ aus aktuellem anlass zdf ändert programm
 ausaktuellemanlasszdfändertprogramm
 auschwitz
 auslosung em 2024
+auslosung wm playoffs
+auslosungwmplayoffs
 austin butler
 austin majors
 austin majors mort
@@ -94854,10 +94875,12 @@ barrage
 barrage cap de long
 barrage coupe du monde
 barrage coupe du monde 2022
+barrage coupe du monde 2026
 barrage de bimont
 barrage eupen
 barrage ukraine
 barragecapdelong
+barragecoupedumonde2026
 barron trump
 barry callebaut
 barry humphries
@@ -96461,6 +96484,8 @@ brand altstetten
 brand anderlecht
 brand arendonk
 brand belchentunnel
+brand beromunster
+brand beromünster
 brand bischofszell
 brand brugge
 brand brussel
@@ -96518,6 +96543,8 @@ brand wädenswil
 brandadliswil
 brandanderlecht
 brandbelchentunnel
+brandberomunster
+brandberomünster
 brandbrussel
 branddottingen
 branddöttingen
@@ -99456,6 +99483,8 @@ costa rica gegen deutschland
 costa rica – allemagne
 costa titch
 costa-gavras
+costco schweiz
+costcoschweiz
 cote d'ivoire
 cote d'ivoire egypte
 cote d'ivoire foot
@@ -99751,6 +99780,7 @@ crowdstrike
 crown jewel 2021
 crown jewel 2025
 crownjewel2025
+crozet
 crozon
 crs 8
 crudivorisme thierry casasnovas
@@ -105832,6 +105862,7 @@ geraldine maillet
 geraldine nakache
 geraldine ruckstuhl
 geraldineknie
+geraldinemaillet
 gerard barray
 gerard chaillou camera cafe
 gerard collomb
@@ -106610,6 +106641,7 @@ greve mardi 2 avril 2024
 greve mardi 28 mars
 greve medecin
 greve nationale
+greve nationale 26 novembre
 greve nationale belgique 13 fevrier
 greve novembre 2025
 greve orly
@@ -106631,6 +106663,7 @@ grevebpost
 grevebruxelles
 greveenseignement7avril
 grevenationale
+grevenationale26novembre
 grevenationalebelgique13fevrier
 grevenovembre2025
 greveryanair
@@ -106747,6 +106780,7 @@ grève illimitée chez lidl
 grève médecins généralistes
 grève nationale
 grève nationale 22 mai
+grève nationale 26 novembre
 grève sncb
 grève sncb 17 mars
 grève sncb 28 février
@@ -106755,6 +106789,7 @@ grèvebpost
 grèvebpostcolis
 grèvebruxelles
 grèvenationale
+grèvenationale26novembre
 grèves 13 octobre
 grèves ratp
 grèves sncf
@@ -106819,6 +106854,7 @@ guerlain crème quantique
 guerre
 guerre en ukraine
 guerre en ukraine russie
+guerre france russie
 guerre froide
 guerre iran israel
 guerre iran israël
@@ -106838,6 +106874,7 @@ guerre ukraine russie centrale nucléaire
 guerre ukraine russie kiev
 guerre ukraine russie vladimir poutine
 guerreenukraine
+guerrefrancerussie
 guerreiranisrael
 guerreiranisraël
 guerremondiale
@@ -107835,6 +107872,7 @@ horoscope du 7 mars 2025
 horoscope du 8 mai 2025
 horoscope du double expresso
 horoscope du jour rtl
+horoscope nouvelle lune
 horoscope octobre
 horoscope semaine
 horoscope semaine du 5 mai 2025
@@ -107868,6 +107906,7 @@ horoscopedu7mars2025
 horoscopedu8mai2025
 horoscopedudoubleexpresso
 horoscopedujourrtl
+horoscopenouvellelune
 horoscopeoctobre
 horoscopes christine haas
 horoscopeschristinehaas
@@ -119244,6 +119283,7 @@ oerlikon
 oeschinensee
 oetwil am see
 oeuf mimosa
+oeufs
 oeufs contaminés
 oeufs salmonelle
 ofenbach
@@ -121063,6 +121103,7 @@ pierrebailanimateurrtl
 pierrecroce
 pierredelrockjournaliste
 pierreedouardsterin
+pierregarnier
 pierregasly
 pierrehugues herbert
 pierrelellouche
@@ -122073,6 +122114,7 @@ publibike
 puccini
 puck moonen
 puck pieterse
+puckmoonen
 puerto rico
 puerto rico  argentinie
 puerto rico  argentinië
@@ -125883,6 +125925,7 @@ sofina
 sofoot
 softball
 sofyan amrabat
+soitec
 sol bamba
 solana
 solana prognose
@@ -126058,7 +126101,9 @@ soros
 sorteggi champions
 sorteggichampions
 sorteggio champions league
+sorteggio spareggi mondiali
 sorteggiochampionsleague
+sorteggiospareggimondiali
 sos fantômes l'héritage
 sotoca
 souchon
@@ -128532,6 +128577,7 @@ tirage europa league
 tirage ligue des champions
 tirage ligue europa
 tirageausortchampionsleague
+tirageausortcoupedumonde2026
 tirageausorteuropaleague
 tirageausortliguedeschampions
 tiragechampionsleague
@@ -128581,7 +128627,9 @@ todesanzeigesabinesieber
 todesfalle rotes meer
 todesfallerotesmeer
 todibo
+todlicher unfall
 todlicher verkehrsunfall b253 eschenburg
+todlicherunfall
 todlicherverkehrsunfallb253eschenburg
 toeslagenaffaire
 toetanchamon
@@ -129440,6 +129488,7 @@ tvorchi
 tw classic
 tw classic 2022
 tw classic 2023
+tweakers
 twente  ajax
 twente  psv
 twente - ajax
@@ -129498,8 +129547,10 @@ télétravail obligatoire
 télévie 2024
 térence atmane
 térenceatmane
+tödlicher unfall
 tödlicher unfall urnäsch
 tödlicher verkehrsunfall b253 eschenburg
+tödlicherunfall
 tödlicherverkehrsunfallb253eschenburg
 tötungsdelikt berikon ag
 tötungsdelikt heerbrugg
@@ -130489,6 +130540,8 @@ verkehrsunfall a2 basel
 verkehrsunfall biel
 verkehrsunfall gera kind tot
 verkehrsunfall glattbrugg
+verkehrsunfall graubunden
+verkehrsunfall graubünden
 verkehrsunfall kloten
 verkehrsunfall schwarzenberg fussganger
 verkehrsunfall schwarzenberg fußgänger
@@ -130496,6 +130549,8 @@ verkehrsunfall thüringen
 verkehrsunfalla2basel
 verkehrsunfallgerakindtot
 verkehrsunfallglattbrugg
+verkehrsunfallgraubunden
+verkehrsunfallgraubünden
 verkehrsunfallkloten
 verkehrsunfallschwarzenbergfussganger
 verkehrsunfallschwarzenbergfußgänger
@@ -132434,8 +132489,10 @@ zilvermeer mol
 zimbabwe
 zimbabwe vs botswana
 zimbabwe vs pakistan
+zimbabwe vs sri lanka
 zimbabwevsbotswana
 zimbabwevspakistan
+zimbabwevssrilanka
 zinchenko
 zineb el rhazoui
 zinedine zidane
@@ -133104,6 +133161,8 @@ zürich–servette
 Ĵoe Biden
 ĴoeBiden
 ĵoe biden
+ŒUFS
+œufs
 ŚLĄSK WROCŁAW – ST.GALLEN
 Śląsk wrocław – St.Gallen
 Śląskwrocław–St.Gallen
