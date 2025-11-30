@@ -1220,6 +1220,7 @@
 ??????? - Demonic Mahjong
 ??????? 44 Hidden Naomis
 ??????? ?????!2
+??????? NullKitchenException
 ??????? Taihe's Crazy Farm
 ???????(KAMITSUBAKI ACADEMY NEWSPAPER CLUB)
 ????????
@@ -1251,6 +1252,7 @@
 ?????II-???DLC(??)??????
 ?????RPG ~mysterious~
 ?????Tempo and tempo
+?????Yinghuo
 ????DLC??? - ??????
 ????FanCraft
 ????Golden Sand Dream Curse
@@ -6447,6 +6449,7 @@ BEAN
 BEAN BEASTS
 BEAN QUEST
 BEAN THE DYNAMITE
+BEAN THERE, SWUNG THAT
 BEANS
 BEANTHEDYNAMITE
 BEAR
@@ -8799,9 +8802,11 @@ Beamrider
 Bean
 Bean Beasts
 Bean Quest
+Bean There, Swung That
 Bean the Dynamite
 BeanBeasts
 BeanQuest
+BeanThere,SwungThat
 Beans
 BeantheDynamite
 Bear
@@ -12260,6 +12265,7 @@ COHORT STUDIOS
 COHORTSTUDIOS
 COIN FLIPPIN'
 COIN HUNTER
+COIN IDLE
 COIN PUSH RPG
 COINFLATE!!
 COINS ONLY!
@@ -13076,6 +13082,7 @@ CROWN
 CROWN AND ADVENTURE
 CROWNBOUND - FANTASY KINGDOM SIM
 CROY
+CRT_SYNTHESIZER
 CRU
 CRUE
 CRUEL
@@ -14938,9 +14945,11 @@ Coin Flippin
 Coin Flippin'
 Coin Hunter
 Coin Push RPG
+Coin idle
 CoinFlippin'
 CoinHunter
 CoinPushRPG
+Coinidle
 Coins Only!
 CoinsOnly!
 CokeM
@@ -21836,6 +21845,7 @@ EVOLUTION GAMES
 EVOLUTION STUDIOS
 EVOLUTIONGAMES
 EVOLUTIONSTUDIOS
+EVOLVE OR DIE
 EVOLVED
 EVOLVED GAMES
 EVOLVEDGAMES
@@ -23071,9 +23081,11 @@ Evolution Games
 Evolution Studios
 EvolutionGames
 EvolutionStudios
+Evolve or Die
 Evolved
 Evolved Games
 EvolvedGames
+EvolveorDie
 Evoscape
 Evryware
 Ex
@@ -23834,6 +23846,7 @@ FIREPROWRESTLING
 FIRESIDE FEELINGS
 FIRESIDE JOURNEY: THE CREATIVE PATH OF FIRESIDE FEELINGS
 FIRESTART
+FIREWHEELS SHOP SIMULATOR DEMO
 FIREWORK
 FIREWORK ROCKET
 FIREWORK STAR
@@ -25375,6 +25388,8 @@ Fireside Journey: The Creative Path of Fireside Feelings
 FiresideFeelings
 FiresideJourney:TheCreativePathofFiresideFeelings
 Firestart
+Firewheels Shop Simulator Demo
+FirewheelsShopSimulatorDemo
 Firework
 Firework Rocket
 Firework Star
@@ -27192,6 +27207,7 @@ GLUMOBILE
 GLUTIN
 GLUTON
 GLYPHS
+GLYPHSCAPE
 GLYPHX
 GLYPHX GAMES
 GLYPHXGAMES
@@ -28864,6 +28880,7 @@ GluMobile
 Gluigi
 Glutin
 Gluton
+Glyphscape
 Glyphx
 Glyphx Games
 GlyphxGames
@@ -30113,6 +30130,7 @@ HAYATE
 HAYATO
 HAYATO NEKKETSU
 HAYATONEKKETSU
+HAYBALE
 HAYDEN
 HAYDEN SOFTWARE
 HAYDENSOFTWARE
@@ -31441,6 +31459,7 @@ Hayate
 Hayato
 Hayato Nekketsu
 HayatoNekketsu
+Haybale
 Hayden
 Hayden Software
 HaydenSoftware
@@ -36286,6 +36305,7 @@ KEYPUNCH SOFTWARE
 KEYPUNCHSOFTWARE
 KEYTAMINE
 KHADGAR
+KHALCO FARM
 KHALID
 KHAMELEON
 KHAN-UR
@@ -37313,6 +37333,8 @@ Keypunch Software
 KeypunchSoftware
 Keytamine
 Khadgar
+Khalco Farm
+KhalcoFarm
 Khalid
 Khameleon
 Khan-Ur
@@ -38660,6 +38682,7 @@ LEGENDOFZELDATHE
 LEGENDOFZELDAWINDWAKER
 LEGENDS
 LEGENDS OF GEMS
+LEGENDS OF HIRO
 LEGENDS OF OLD
 LEGENERALCARAWAY
 LEGGETT
@@ -40325,8 +40348,10 @@ LegendofZeldaThe
 LegendoftheMysticalNinja
 Legends
 Legends of Gems
+Legends of Hiro
 Legends of Old
 LegendsofGems
+LegendsofHiro
 LegendsofOld
 Leggett
 Leggings
@@ -41913,6 +41938,7 @@ MANDATORY FUN
 MANDO
 MANDRILL
 MANEATER
+MANEKIN: THE LOST ISLAND
 MANFRED
 MANFRED VON KARMA
 MANFREDVONKARMA
@@ -42451,6 +42477,7 @@ MECHAKOOPA
 MECHANIC
 MECHANIC ARMS
 MECHANICAL CHESS: REAL-TIME
+MECHANICAL FURY - PROLOGUE
 MECHANICAL LAB
 MECHANICARMS
 MECHASONIC
@@ -43203,6 +43230,7 @@ MIND OVER MONARCHY
 MIND THE CLOWN
 MIND WITHIN
 MINDCRAFT
+MINDESCAPE
 MINDFALL: SONG OF THE ECHO
 MINDGAME
 MINDGAMES
@@ -44212,6 +44240,7 @@ MYCOPSYCHOSYS: REMASTERED
 MYCOPUNK
 MYCROFT HOLMES SIMULATOR
 MYFATHERLIED
+MYKROSCURSOR
 MYLSTAR
 MYLSTAR ELECTRONICS
 MYLSTAR ELECTRONICS INC
@@ -44690,6 +44719,8 @@ MandatoryFun
 Mando
 Mandrill
 Maneater
+Manekin: The Lost Island
+Manekin:TheLostIsland
 Manfred
 Manfred von Karma
 ManfredvonKarma
@@ -45247,8 +45278,11 @@ Mechanic Arms
 MechanicArms
 Mechanical Chess: Real time
 Mechanical Chess: Real-time
+Mechanical Fury   Prologue
+Mechanical Fury - Prologue
 Mechanical Lab
 MechanicalChess:Real-time
+MechanicalFury-Prologue
 MechanicalLab
 Mechwarrior
 Mechwarrior 2
@@ -46002,6 +46036,7 @@ MindControl:BloodyRenaissance
 MindControl:EveoftheBattle
 MindDiver
 MindEchoes:RemnantsofthePastCollector'sEdition
+MindEscape
 MindLoop
 MindOverMonarchy
 MindRec
@@ -47060,6 +47095,7 @@ Mycopsychosys:Remastered
 Mycopunk
 Mycroft Holmes Simulator
 MycroftHolmesSimulator
+MykrosCursor
 Mylstar
 Mylstar Electronics
 Mylstar Electronics Inc
@@ -52438,6 +52474,7 @@ PINSKY PROTOCOL
 PINSTRIPE
 PINSTRIPE POTOROO
 PINSTRIPEPOTOROO
+PINT SIZED DEMO
 PINTERN
 PIOCHE
 PIOCHE EN BOIS
@@ -53568,6 +53605,7 @@ PURRATES
 PURRFECT  STALL
 PURRRFECT SPA DEMO
 PURSUIT
+PUSH AND PLUNDER DEMO
 PUSH DEFENSE
 PUTREFIEE
 PUTRIKA 1ST.CUT:THE REASON SHE MUST PERISH
@@ -54632,6 +54670,8 @@ PinskyProtocol
 Pinstripe
 Pinstripe Potoroo
 PinstripePotoroo
+Pint Sized Demo
+PintSizedDemo
 Pintern
 Pioche
 Pioche en Netherite
@@ -55872,7 +55912,9 @@ Purrrfect Spa Demo
 PurrrfectSpaDemo
 Pursuit
 Push Defense
+Push and Plunder Demo
 PushDefense
+PushandPlunderDemo
 Putrika 1st.cut:The Reason She Must Perish
 Putrika1st.cut:TheReasonSheMustPerish
 Putt
@@ -62298,6 +62340,10 @@ STARARC ECHO
 STARBAG
 STARBOI
 STARBREEZE
+STARBREW STATION - AUTO-MAINTENANCE DROID UNIT
+STARBREW STATION - INTERIOR DECORATOR'S PACK
+STARBREW STATION - STATION MASCOT 'PIP' UNIT
+STARBREW STATION - THE GALACTIC TYCOON UNIT
 STARBUG TROOPERS : THE 4 HORSEFLIES OF THE APOCALYPSE
 STARBYTE
 STARBYTE SOFTWARE
@@ -62745,6 +62791,8 @@ SUBATOMICSTUDIOS
 SUBDUED
 SUBDUED GAMES
 SUBDUEDGAMES
+SUBJECT 33
+SUBJECT33
 SUBLIME ELEMENT
 SUBLOGIC
 SUBMERSED 2 - THE HIVE
@@ -62923,6 +62971,7 @@ SUPER MOVIE TYCOON
 SUPER OFF ROAD
 SUPER PAC MAN
 SUPER PAPARAZZI
+SUPER PERSON RUN DELUXE
 SUPER PICROSS
 SUPER POLISHED
 SUPER PSYCHO BASEBALL
@@ -66222,6 +66271,20 @@ StarWarsTrilogy
 Starbag
 Starboi
 Starbreeze
+Starbrew Station   Auto Maintenance Droid Unit
+Starbrew Station   Interior Decorator's Pack
+Starbrew Station   Station Mascot 'Pip' Unit
+Starbrew Station   The Galactic Tycoon Unit
+Starbrew Station - Auto-Maintenance Droid Unit
+Starbrew Station - Interior Decorator s Pack
+Starbrew Station - Interior Decorator's Pack
+Starbrew Station - Station Mascot  Pip  Unit
+Starbrew Station - Station Mascot 'Pip' Unit
+Starbrew Station - The Galactic Tycoon Unit
+StarbrewStation-Auto-MaintenanceDroidUnit
+StarbrewStation-InteriorDecorator'sPack
+StarbrewStation-StationMascot'Pip'Unit
+StarbrewStation-TheGalacticTycoonUnit
 Starbug Troopers : The 4 horseflies of the apocalypse
 StarbugTroopers:The4horsefliesoftheapocalypse
 Starbyte
@@ -66918,6 +66981,7 @@ Super Movie Tycoon
 Super Off Road
 Super Pac Man
 Super Paparazzi
+Super Person Run Deluxe
 Super Picross
 Super Polished
 Super Psycho Baseball
@@ -67011,6 +67075,7 @@ SuperOffRoad
 SuperPacMan
 SuperPacker
 SuperPaparazzi
+SuperPersonRunDeluxe
 SuperPicross
 SuperPolished
 SuperPsychoBaseball
@@ -75897,6 +75962,7 @@ WINDOWS95/98
 WINDOWS9598
 WINDOWS98
 WINDOWSXP
+WINDS OF VALEN
 WINDSWEPT
 WINDWAKER
 WING
@@ -76923,6 +76989,8 @@ Windows95/98
 Windows9598
 Windows98
 WindowsXP
+Winds of Valen
+WindsofValen
 Windswept
 Wing
 Wing Commander
@@ -81551,6 +81619,7 @@ bean
 bean beasts
 bean quest
 bean the dynamite
+bean there, swung that
 beans
 beanthedynamite
 bear
@@ -84768,6 +84837,7 @@ cohort studios
 cohortstudios
 coin flippin'
 coin hunter
+coin idle
 coin push rpg
 coinflate!!
 coins only!
@@ -85584,6 +85654,7 @@ crown
 crown and adventure
 crownbound - fantasy kingdom sim
 croy
+crt_synthesizer
 cru
 crue
 cruel
@@ -89116,6 +89187,7 @@ evolution games
 evolution studios
 evolutiongames
 evolutionstudios
+evolve or die
 evolved
 evolved games
 evolvedgames
@@ -89808,6 +89880,7 @@ fireprowrestling
 fireside feelings
 fireside journey: the creative path of fireside feelings
 firestart
+firewheels shop simulator demo
 firework
 firework rocket
 firework star
@@ -91507,6 +91580,7 @@ glumobile
 glutin
 gluton
 glyphs
+glyphscape
 glyphx
 glyphx games
 glyphxgames
@@ -92750,6 +92824,7 @@ hayate
 hayato
 hayato nekketsu
 hayatonekketsu
+haybale
 hayden
 hayden software
 haydensoftware
@@ -95672,6 +95747,7 @@ keypunch software
 keypunchsoftware
 keytamine
 khadgar
+khalco farm
 khalid
 khameleon
 khan-ur
@@ -96972,6 +97048,7 @@ legendofzeldathe
 legendofzeldawindwaker
 legends
 legends of gems
+legends of hiro
 legends of old
 legeneralcaraway
 leggett
@@ -98451,6 +98528,7 @@ mandatory fun
 mando
 mandrill
 maneater
+manekin: the lost island
 manfred
 manfred von karma
 manfredvonkarma
@@ -98987,6 +99065,7 @@ mechakoopa
 mechanic
 mechanic arms
 mechanical chess: real-time
+mechanical fury - prologue
 mechanical lab
 mechanicarms
 mechasonic
@@ -99717,6 +99796,7 @@ mind over monarchy
 mind the clown
 mind within
 mindcraft
+mindescape
 mindfall: song of the echo
 mindgame
 mindgames
@@ -100699,6 +100779,7 @@ my witch wants elixirs!
 mycopsychosys: remastered
 mycopunk
 mycroft holmes simulator
+mykroscursor
 mylstar
 mylstar electronics
 mylstar electronics inc
@@ -103845,6 +103926,7 @@ pinsky protocol
 pinstripe
 pinstripe potoroo
 pinstripepotoroo
+pint sized demo
 pintern
 pioche
 pioche en bois
@@ -104993,6 +105075,7 @@ purrates
 purrfect  stall
 purrrfect spa demo
 pursuit
+push and plunder demo
 push defense
 putrefiee
 putrika 1st.cut:the reason she must perish
@@ -109367,6 +109450,10 @@ stararc echo
 starbag
 starboi
 starbreeze
+starbrew station - auto-maintenance droid unit
+starbrew station - interior decorator's pack
+starbrew station - station mascot 'pip' unit
+starbrew station - the galactic tycoon unit
 starbug troopers : the 4 horseflies of the apocalypse
 starbyte
 starbyte software
@@ -109805,6 +109892,7 @@ subatomicstudios
 subdued
 subdued games
 subduedgames
+subject 33
 sublime element
 sublogic
 submersed 2 - the hive
@@ -109983,6 +110071,7 @@ super movie tycoon
 super off road
 super pac man
 super paparazzi
+super person run deluxe
 super picross
 super polished
 super psycho baseball
@@ -114629,6 +114718,7 @@ windows95/98
 windows9598
 windows98
 windowsxp
+winds of valen
 windswept
 windwaker
 wing
@@ -115991,6 +116081,10 @@ zèbre
 春琉ト怪夜
 時巡る宝石精霊
 暮雨流花+
+有病才能当牛马 NULLKITCHENEXCEPTION
+有病才能当牛马 NullKitchenException
+有病才能当牛马 nullkitchenexception
+有病才能当牛马NullKitchenException
 未择之路
 末日卡牌
 末日战姬 二次元.策略.卡牌.游戏
@@ -116194,6 +116288,10 @@ zèbre
 茶ノ魔 -Cha-No-Ma-
 茶ノ魔 -cha-no-ma-
 茶ノ魔-Cha-No-Ma-
+荒岛钓鱼记
+荧惑焚心录YINGHUO
+荧惑焚心录Yinghuo
+荧惑焚心录yinghuo
 落恩典记/LOSEGRACETALE
 落恩典记/LoseGraceTale
 落恩典记/losegracetale
