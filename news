@@ -789,6 +789,7 @@
 99ProzentInitiative
 9EuroTicket
 ??? ???? ?????
+???? ????????
 ????? ?? ???????
 ?????? ?? ???? ????
 ?????? ???????
@@ -1136,6 +1137,7 @@ ACCIDENT SKI ENFANT GRAND-BORNAND
 ACCIDENT SPA-FRANCORCHAMPS
 ACCIDENT STRUCTURE GONFLABLE
 ACCIDENT TELEPHERIQUE ITALIE
+ACCIDENT TELESIEGE
 ACCIDENT TRAIN ALLEMAGNE
 ACCIDENT TRAM BRUXELLES
 ACCIDENT TRAM LIÈGE
@@ -9580,6 +9582,7 @@ BLESSURE EDEN HAZARD
 BLESSUREDEBRUYNE
 BLESSUREEDENHAZARD
 BLESSY
+BLICK NEWS
 BLIND GEKOCHT
 BLIND GESPRONGEN
 BLIND GETROUWD
@@ -10030,6 +10033,7 @@ BRAND ADLISWIL
 BRAND ALTSTETTEN
 BRAND ANDERLECHT
 BRAND ARENDONK
+BRAND BECKENRIED HEUTE
 BRAND BELCHENTUNNEL
 BRAND BERINGEN
 BRAND BERN
@@ -37951,6 +37955,7 @@ INCENDIE OTTIGNIES
 INCENDIE PARIS
 INCENDIE PARIS GARE SAINT-LAZARE
 INCENDIE PORTUGAL
+INCENDIE RECYDEL
 INCENDIE ROUEN
 INCENDIE SPA PLACE VERTE
 INCENDIE STAINS
@@ -38267,6 +38272,7 @@ IPHONE 16
 IPHONE 16 PRO BLACK FRIDAY
 IPHONE 16E
 IPHONE 17
+IPHONE 18
 IPHONE BLACK FRIDAY
 IPHONE POCKET
 IPHONE SE
@@ -41044,6 +41050,7 @@ JULIAN ASSANGE
 JULIAN BUGIER
 JULIAN DRAXLER
 JULIAN FIGUEROA
+JULIAN HOCHZEIT AUF DEN ERSTEN BLICK
 JULIAN NAGELSMANN
 JULIAN ORTEGA
 JULIAN ORTEGA ELITE
@@ -46585,6 +46592,7 @@ LARA TAVEIRNE
 LARAFABIAN
 LARCEVEAU
 LARCHER
+LAREDO
 LARGIE RAMAZANI
 LARGO
 LARIAM
@@ -46734,6 +46742,7 @@ LAURENT RUQUIER
 LAURENT TIRARD
 LAURENT VIMONT
 LAURENT VINATIER
+LAURENT VINATIER RUSSIE
 LAURENT VOULZY
 LAURENT WAUQUIEZ
 LAURENT WEIL
@@ -53509,6 +53518,7 @@ MBAPPÉ REAL MADRID
 MBAYE LEYE
 MBEUMO
 MBOKANI
+MC DONALD
 MC SOLAAR
 MC Solaar
 MCDONALD'S
@@ -60370,6 +60380,7 @@ NIEUWJAARSWENSEN 2025
 NIEUWPOORT
 NIEUWS
 NIEUWS VANDAAG
+NIEUWSBLAD
 NIEUWZUIDANTWERPEN
 NIEWIADOMA
 NIGEL FARAGE
@@ -64171,6 +64182,7 @@ PAPST BENEDIKT XVI
 PAPST FRANZISKUS
 PAPST FRANZISKUS AKTUELL
 PAPST FRANZISKUS VATIKAN
+PAPST LEO
 PAPST LEO XIV
 PAPST RATZINGER
 PAPSTWAHL KONKLAVE
@@ -64414,6 +64426,7 @@ PATEK PHILIPPE
 PATENT OCHSNER
 PATENTOCHSNER
 PATH OF EXILE 2
+PATHE
 PATHE CISS
 PATINAGE ARTISTIQUE
 PATISSIERE NINA METAYER
@@ -64836,6 +64849,7 @@ PETIT EMILE
 PETIT EMILE DISPARU
 PETIT EMILE DISPARUE
 PETIT PAPA NOEL
+PETIT ÉMILE
 PETIT ÉMILE DISPARITION
 PETITION FRANCE SUISSE
 PETITION FRANCE-SUISSE
@@ -76005,6 +76019,7 @@ STROMAUSFALL BASELLAND
 STROMAUSFALL BERN
 STROMAUSFALL BRUGG
 STROMAUSFALL BURGDORF
+STROMAUSFALL LANGENTHAL
 STROMAUSFALL LUPFIG
 STROMAUSFALL LUZERN
 STROMAUSFALL RHEINFELDEN
@@ -82440,6 +82455,7 @@ TUVALU
 TV GIDS
 TV OOST
 TV PROGRAMM HEUTE
+TV PROGRAMME
 TV Programm heute
 TV TOTAL
 TV TOTAL AUTOBALL EM 2024
@@ -88796,6 +88812,7 @@ WEIssE WEIHNACHTEN
 WEIßE WEIHNACHTEN
 WEJDENE
 WELEDA
+WELKE WINKELS ZIJN OPEN OP KERSTDAG
 WELLINGTON ARCH
 WELS
 WELTBILD
@@ -89094,6 +89111,7 @@ WINGLES
 WINGO
 WINGS FOR LIFE
 WINGSUIT
+WINKELS OPEN OP KERSTMIS
 WINNAAR BIG BROTHER 2024
 WINNAAR EUROSONG 2024
 WINNIPEG JETS
@@ -92008,6 +92026,7 @@ accident ski enfant grand-bornand
 accident spa-francorchamps
 accident structure gonflable
 accident telepherique italie
+accident telesiege
 accident train allemagne
 accident tram bruxelles
 accident tram liège
@@ -92062,6 +92081,7 @@ accidentrallyedelafourmedambert
 accidents au sénégal
 accidentsaintghislain
 accidenttelepheriqueitalie
+accidenttelesiege
 accidenttrainallemagne
 accidenttramliège
 accidenttélésiège
@@ -96745,6 +96765,8 @@ blessure eden hazard
 blessuredebruyne
 blessureedenhazard
 blessy
+blick news
+blicknews
 blind gekocht
 blind gesprongen
 blind getrouwd
@@ -97249,6 +97271,7 @@ brand adliswil
 brand altstetten
 brand anderlecht
 brand arendonk
+brand beckenried heute
 brand belchentunnel
 brand beringen
 brand bern
@@ -97311,6 +97334,7 @@ brand wolfenschiessen
 brand wädenswil
 brandadliswil
 brandanderlecht
+brandbeckenriedheute
 brandbelchentunnel
 brandberingen
 brandbern
@@ -109550,6 +109574,7 @@ incendie ottignies
 incendie paris
 incendie paris gare saint-lazare
 incendie portugal
+incendie recydel
 incendie rouen
 incendie spa place verte
 incendie stains
@@ -109572,6 +109597,7 @@ incendieherault
 incendiehuy
 incendiekoekelberg
 incendienancy
+incendierecydel
 incendies
 incendies californie
 incendies canada
@@ -109931,11 +109957,13 @@ iphone 16
 iphone 16 pro black friday
 iphone 16e
 iphone 17
+iphone 18
 iphone black friday
 iphone pocket
 iphone se
 iphone se 2022
 iphone17
+iphone18
 iphonepocket
 ipod
 ippodromo snai la maura
@@ -111704,6 +111732,7 @@ julian assange
 julian bugier
 julian draxler
 julian figueroa
+julian hochzeit auf den ersten blick
 julian nagelsmann
 julian ortega
 julian ortega elite
@@ -111713,6 +111742,7 @@ julian sands
 julianakanaal
 julianalaphilippe
 julianbugier
+julianhochzeitaufdenerstenblick
 juliaroberts
 juliavakulenko
 juliavignali
@@ -113608,6 +113638,7 @@ laragut
 laragut-behrami
 larceveau
 larcher
+laredo
 lareformedesretraites
 lareunion
 largie ramazani
@@ -113784,6 +113815,7 @@ laurent ruquier
 laurent tirard
 laurent vimont
 laurent vinatier
+laurent vinatier russie
 laurent voulzy
 laurent wauquiez
 laurent weil
@@ -113802,6 +113834,7 @@ laurentnicollin
 laurentnunezministre
 laurentnuñezministre
 laurentvinatier
+laurentvinatierrussie
 laurentvoulzy
 laurier-cerise
 laury perez
@@ -117609,7 +117642,9 @@ mbappérealmadrid
 mbaye leye
 mbeumo
 mbokani
+mc donald
 mc solaar
+mcdonald
 mcdonald's
 mcdonalds
 mcfit-gründer rainer schaller
@@ -120083,6 +120118,7 @@ nieuwpodiumtomorrowland
 nieuwpoort
 nieuws
 nieuws vandaag
+nieuwsblad
 nieuwzuidantwerpen
 niewiadoma
 nigel farage
@@ -121546,10 +121582,12 @@ papst benedikt xvi
 papst franziskus
 papst franziskus aktuell
 papst franziskus vatikan
+papst leo
 papst leo xiv
 papst ratzinger
 papstfranziskus
 papstfranziskusvatikan
+papstleo
 papstleoxiv
 papstratzinger
 papstwahl konklave
@@ -121825,6 +121863,7 @@ patek philippe
 patent ochsner
 patentochsner
 path of exile 2
+pathe
 pathe ciss
 patinage artistique
 patissiere nina metayer
@@ -122304,6 +122343,7 @@ petit emile
 petit emile disparu
 petit emile disparue
 petit papa noel
+petit émile
 petit émile disparition
 petitemile
 petition france suisse
@@ -122313,6 +122353,7 @@ petition match france suisse
 petitionfrance-suisse
 petitionfrancesuisse
 petitionmatchfrancesuisse
+petitémile
 petkovic
 petr cech
 petra
@@ -123487,6 +123528,7 @@ ps5 black friday
 ps5 pro
 ps5 pro 30th anniversary
 ps5 slim
+ps5pro
 ps6
 ps6 date de sortie
 ps6datedesortie
@@ -123835,6 +123877,7 @@ radio nova
 radio1
 radio2
 radio2live
+radio2top2000
 radja
 radja nainggolan
 radjanainggolan
@@ -124433,6 +124476,7 @@ reformeretraites
 reformhaus
 refus d'obtempérer paris
 regaip kandili
+regaipkandili
 regeerakkoord de wever
 regenbogen
 regensburg
@@ -128553,12 +128597,14 @@ stromausfall baselland
 stromausfall bern
 stromausfall brugg
 stromausfall burgdorf
+stromausfall langenthal
 stromausfall lupfig
 stromausfall luzern
 stromausfall rheinfelden
 stromausfall spanien
 stromausfall thun
 stromausfallbern
+stromausfalllangenthal
 stromausfalllupfig
 stromausfallluzern
 stromausfallspanien
@@ -131218,6 +131264,7 @@ tuvalu
 tv gids
 tv oost
 tv programm heute
+tv programme
 tv total
 tv total autoball em 2024
 tv total turmspringen
@@ -131229,6 +131276,7 @@ tvgids
 tvh
 tvoost
 tvorchi
+tvprogramme
 tw classic
 tw classic 2022
 tw classic 2023
@@ -131856,6 +131904,7 @@ urawa reds – manchester city
 urbanus
 urbex
 urbi et orbi
+urbietorbi
 urgence palestine
 urgencepalestine
 urgo
@@ -133333,6 +133382,8 @@ weiße weihnachten
 weißeweihnachten
 wejdene
 weleda
+welke winkels zijn open op kerstdag
+welkewinkelszijnopenopkerstdag
 wellington arch
 wels
 weltbild
@@ -133693,6 +133744,8 @@ wingles
 wingo
 wings for life
 wingsuit
+winkels open op kerstmis
+winkelsopenopkerstmis
 winnaar big brother 2024
 winnaar eurosong 2024
 winnipeg jets
@@ -135055,7 +135108,10 @@ zürich–servette
 Ștefania Mărăcineanu
 ȘtefaniaMărăcineanu
 ștefania mărăcineanu
+ВЕРА АЛЕНТОВА
 ТИГРАН КЕОСАЯН
+вера алентова
+вераалентова
 тигран кеосаян
 тигранкеосаян
 الريال ضد سلتا فيغو
