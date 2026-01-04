@@ -1650,6 +1650,7 @@ ACE
 ACE ATTORNEY
 ACE COMBAT
 ACE OF ACES
+ACE OF SPACE
 ACE OVERHEAT
 ACE Overheat
 ACE TEAM
@@ -3906,10 +3907,12 @@ Ace Attorney
 Ace Combat
 Ace Team
 Ace of Aces
+Ace of Space
 AceAttorney
 AceCombat
 AceTeam
 AceofAces
+AceofSpace
 Aces
 Achievement Monster
 AchievementMonster
@@ -17858,6 +17861,7 @@ DGOTTLIEB&
 DGOTTLIEB&CO
 DGottlieb&
 DGottlieb&Co
+DHADOOM!
 DHALSIM
 DHM
 DHM INTERACTIVE
@@ -20132,6 +20136,7 @@ DexSweeper
 Dexter
 Dezaemon
 Dezign
+Dhadoom!
 Dhalsim
 Dia
 Diablo
@@ -29141,6 +29146,7 @@ GUNS
 GUNS CANT WALK
 GUNSLINGER
 GUNSLINGER STRATOS
+GUNSLINGER SURVIVOR
 GUNSLINGERSTRATOS
 GUNSTAR
 GUNSTAR HEROES
@@ -30826,7 +30832,9 @@ Guns Cant Walk
 GunsCantWalk
 Gunslinger
 Gunslinger Stratos
+Gunslinger survivor
 GunslingerStratos
+Gunslingersurvivor
 Gunstar
 Gunstar Heroes
 GunstarHeroes
@@ -37850,6 +37858,7 @@ KING'SQUEST
 KINGBACK
 KINGBACK2
 KINGBACK3
+KINGBACK4:末世降临
 KINGDEDEDE
 KINGDOM
 KINGDOM ASCENSION
@@ -38925,6 +38934,8 @@ KingArthur:Knight'sTale
 KingBack
 KingBack2
 KingBack3
+KingBack4:????
+KingBack4:末世降临
 KingDedede
 KingK.Rool
 KingKRool
@@ -45843,6 +45854,7 @@ MXvsATV
 MY
 MY ADVENTURE BOOK
 MY AUTO CLICKER
+MY BEST LIFE MY PEST LIFE
 MY BUNDLE CAR
 MY CLASSMATE IS AV ACTRESS
 MY COZY ROOM DEMO
@@ -54864,6 +54876,7 @@ POKEMONMINI
 POKEMONREDANDBLUE
 POKEMONSTADIUM
 POKER CRUSH
+POKER FATE - ACG TEXAS HOLD'EM
 POKERCHINKO
 POKERTOWN: CHEATER'S PARADISE
 POKEY
@@ -57175,7 +57188,11 @@ PokemonDonjonMystere
 PokemonMini
 PokemonStadium
 Poker Crush
+Poker Fate   ACG Texas Hold'em
+Poker Fate - ACG Texas Hold em
+Poker Fate - ACG Texas Hold'em
 PokerCrush
+PokerFate-ACGTexasHold'em
 Pokerchinko
 Pokertown: Cheater s Paradise
 Pokertown: Cheater's Paradise
@@ -59125,6 +59142,7 @@ RELM ARROWNY
 RELMARROWNY
 RELSU
 REMATCH
+REMBRUNIR 2
 REMEDY
 REMEDY ENTERTAINMENT
 REMEDYENTERTAINMENT
@@ -59686,6 +59704,7 @@ ROGUE SLOTS
 ROGUE TACTICS
 ROGUE TEMPLAR
 ROGUE WORLDS
+ROGUEBLOCK
 ROGUECRAFT
 ROGUES
 ROGUETEMPLAR
@@ -60770,6 +60789,8 @@ Relinquished:SoulsAsylum
 Relm
 Relm Arrowny
 RelmArrowny
+Rembrunir 2
+Rembrunir2
 Remedy
 Remedy Entertainment
 RemedyEntertainment
@@ -61407,6 +61428,7 @@ RogueSlots
 RogueTactics
 RogueTemplar
 RogueWorlds
+Rogueblock
 Rogues
 Roguevive
 Roi
@@ -63240,6 +63262,7 @@ SILASCOBB
 SILENCE FOREST
 SILENT
 SILENT CLEANING
+SILENT CORE NIGHT – HOLIDAY EDITION
 SILENT FLEET
 SILENT GROVE
 SILENT GROVE STUDIOS
@@ -67200,6 +67223,8 @@ Silence Forest
 SilenceForest
 Silent
 Silent Cleaning
+Silent Core Night - Holiday Edition
+Silent Core Night – Holiday Edition
 Silent Fleet
 Silent Grove
 Silent Grove Studios
@@ -67215,6 +67240,7 @@ Silent Service
 Silent Software
 Silent Watcher
 SilentCleaning
+SilentCoreNight–HolidayEdition
 SilentFleet
 SilentGrove
 SilentGroveStudios
@@ -82275,6 +82301,7 @@ ace
 ace attorney
 ace combat
 ace of aces
+ace of space
 ace overheat
 ace team
 aceattorney
@@ -90334,6 +90361,7 @@ dfekt
 dfx
 dgottlieb&
 dgottlieb&co
+dhadoom!
 dhalsim
 dhm
 dhm interactive
@@ -95925,6 +95953,7 @@ guns
 guns cant walk
 gunslinger
 gunslinger stratos
+gunslinger survivor
 gunslingerstratos
 gunstar
 gunstar heroes
@@ -99542,6 +99571,7 @@ king'squest
 kingback
 kingback2
 kingback3
+kingback4:末世降临
 kingdedede
 kingdom
 kingdom ascension
@@ -104519,8 +104549,10 @@ mxvs
 mxvs.atv
 mxvsatv
 my
+my BEST life my PEST life
 my adventure book
 my auto clicker
+my best life my pest life
 my bundle car
 my classmate is av actress
 my cozy room demo
@@ -104573,6 +104605,7 @@ my wife threw out my card collection (so i bought a dump to find them all) ⭐
 my wife wants to be a professional cosplayer?!
 my winter car
 my witch wants elixirs!
+myBESTlifemyPESTlife
 mycopsychosys: remastered
 mycopunk
 mycroft holmes simulator
@@ -108208,6 +108241,7 @@ pokemonmini
 pokemonredandblue
 pokemonstadium
 poker crush
+poker fate - acg texas hold'em
 pokerchinko
 pokertown: cheater's paradise
 pokey
@@ -109867,6 +109901,7 @@ relm arrowny
 relmarrowny
 relsu
 rematch
+rembrunir 2
 remedy
 remedy entertainment
 remedyentertainment
@@ -110413,6 +110448,7 @@ rogue slots
 rogue tactics
 rogue templar
 rogue worlds
+rogueblock
 roguecraft
 rogues
 roguetemplar
@@ -112105,6 +112141,7 @@ silascobb
 silence forest
 silent
 silent cleaning
+silent core night – holiday edition
 silent fleet
 silent grove
 silent grove studios
