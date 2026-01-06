@@ -124,6 +124,8 @@
 100 India Cats
 100 Indonesia Cats
 100 Italy Cats
+100 LOS ANGELES CATS
+100 Los Angeles Cats
 100 MEN VS 1 GORILLA
 100 MEN VS GORILLA
 100 MIAMI CATS
@@ -173,6 +175,7 @@
 100 india cats
 100 indonesia cats
 100 italy cats
+100 los angeles cats
 100 men vs 1 gorilla
 100 men vs gorilla
 100 miami cats
@@ -214,6 +217,7 @@
 100IndiaCats
 100IndonesiaCats
 100ItalyCats
+100LosAngelesCats
 100MenVSGorilla
 100Menvs1Gorilla
 100MiamiCats
@@ -1083,8 +1087,11 @@
 88 at an exhibition
 88atanExhibition
 8AM: THE OFFICE
+8AM: THE SWIMMING POOL
 8AM: The Office
+8AM: The Swimming Pool
 8AM:TheOffice
+8AM:TheSwimmingPool
 8BIT
 8BIT GAMES
 8BITGAMES
@@ -1092,6 +1099,7 @@
 8ING
 8TH
 8am: the office
+8am: the swimming pool
 8bit
 8bit Games
 8bit games
@@ -1189,6 +1197,7 @@
 ???:LexiLoong
 ????
 ???? (Bagua Alley)
+???? (Colorless World)
 ???? (lost curse)
 ???? - ????
 ???? - ?????
@@ -1977,6 +1986,7 @@ AGE OF EMPIRES 2
 AGE OF EMPIRES 3
 AGE OF EMPIRES I
 AGE OF EMPIRES II
+AGE OF EMPIRES II: DEFINITIVE EDITION
 AGE OF EMPIRES III
 AGE OF EMPIRES IV: ANNIVERSARY EDITION
 AGE OF HISTORY II
@@ -3406,6 +3416,7 @@ ASTEAM
 ASTER SYMPHONA
 ASTERIX
 ASTEROID FORWARD
+ASTEROID ODYSSEY
 ASTEROID REQUIEM
 ASTEROIDIA
 ASTEROIDS
@@ -4201,6 +4212,7 @@ Age Of Blocks
 Age of
 Age of Discovery
 Age of Empires
+Age of Empires II: Definitive Edition
 Age of Empires IV: Anniversary Edition
 Age of History II
 Age of Reforging:The Freelands
@@ -4222,6 +4234,7 @@ Agents
 Ageof
 AgeofDiscovery
 AgeofEmpires
+AgeofEmpiresII:DefinitiveEdition
 AgeofEmpiresIV:AnniversaryEdition
 AgeofHistoryII
 AgeofReforging:TheFreelands
@@ -5688,8 +5701,10 @@ Aster Symphona
 AsterSymphona
 Asterix
 Asteroid Forward
+Asteroid Odyssey
 Asteroid Requiem
 AsteroidForward
+AsteroidOdyssey
 AsteroidRequiem
 Asteroidia
 Asteroids
@@ -6180,6 +6195,7 @@ BACKROOMS: GLITCHFIELD
 BACKROOMS: HIDE TOGETHER
 BACKROOMS: NOISE
 BACKROOMS: RECODE
+BACKROOMS: THE TRUE LEVEL
 BACKROOMS:APPREHENSION
 BACKROOMS:RUN FOR YOUR LIFE!
 BACKROOMSLIMINALESCAPE
@@ -8626,6 +8642,7 @@ Backrooms: Glitchfield
 Backrooms: Hide Together
 Backrooms: Noise
 Backrooms: Recode
+Backrooms: The True Level
 Backrooms:FacilityUnknown
 Backrooms:FinalExam
 Backrooms:ForgottenFloors
@@ -8635,6 +8652,7 @@ Backrooms:Noise
 Backrooms:Recode
 Backrooms:Run For Your Life!
 Backrooms:RunForYourLife!
+Backrooms:TheTrueLevel
 BackroomsMaze2D
 BackroomsMedia
 BackroomsSanta
@@ -11230,8 +11248,11 @@ C.P.Brain
 C.U.T.S
 C2MATRIX
 C2Matrix
+C4 CLICKER: FIRST MINT
+C4 Clicker: First Mint
 C4: DEMO
 C4:DEMO
+C4Clicker:FirstMint
 C4M
 CABAL
 CABALL: SUNSET HOUR
@@ -12419,6 +12440,7 @@ CINNABARSOFT
 CINQ
 CIPHER ZERO
 CIPHERZERO
+CIPHEUR - TRIVIA: GEOGRAPHY
 CIRCLE
 CIRCLE ENTERTAINMENT
 CIRCLE JERK
@@ -12474,6 +12496,7 @@ CITY TRANSPORT SIMULATOR - TRAM DLC: GT6
 CITY TRANSPORT SIMULATOR: BUS
 CITY TRANSPORT SIMULATOR: BUS DLC - GRÄF/STEYR NG235
 CITY-DEFENCE
+CITY-RACING
 CITYBUILDERSIMPRESSIONGAMES
 CITYINTERACTIVE
 CITYVENTORY
@@ -12558,6 +12581,7 @@ CLAYSIMMONS
 CLAYSIMONS
 CLE
 CLEA
+CLEAN STACK
 CLEAN UP EARTH DEMO
 CLEANER COMPANY PROLOGUE
 CLERC
@@ -13543,6 +13567,7 @@ CRITICAL THOUGHT GAMES
 CRITICALFINISH
 CRITICALTHOUGHT
 CRITICALTHOUGHTGAMES
+CRITTER BOX
 CRITTER DRIFTERS
 CRITTER ISLE
 CRITTER ISLE - SUPPORTER PACK
@@ -15177,6 +15202,9 @@ Cing
 Cinnabar
 Cinnabar Soft
 CinnabarSoft
+Cipheur   Trivia: Geography
+Cipheur - Trivia: Geography
+Cipheur-Trivia:Geography
 Circle
 Circle Entertainment
 Circle Jerk
@@ -15240,6 +15268,7 @@ City Defense Z
 City Interactive
 City Lights, Old Flames
 City Noodle Shop Simulator
+City Racing
 City Transport Simulator   Bus DLC: MAN Lion's City A23
 City Transport Simulator   Tram DLC: GT6
 City Transport Simulator - Bus DLC: MAN Lion s City A23
@@ -15255,6 +15284,7 @@ City of Springs
 City of Springs   Deluxe Edition
 City of Springs - Deluxe Edition
 City-Defence
+City-Racing
 CityBuildersImpressionGames
 CityDefenseZ
 CityInteractive
@@ -15343,7 +15373,9 @@ Clayn Clayn
 ClaynClayn
 Cle
 Clea
+Clean Stack
 Clean Up Earth Demo
+CleanStack
 CleanUpEarthDemo
 Cleaner Company Prologue
 CleanerCompanyPrologue
@@ -16432,11 +16464,13 @@ Critical Thought
 Critical Thought Games
 CriticalThought
 CriticalThoughtGames
+Critter Box
 Critter Drifters
 Critter Isle
 Critter Isle   Supporter Pack
 Critter Isle - Supporter Pack
 Critter Isle Soundtrack
+CritterBox
 CritterDrifters
 CritterGarden
 CritterIsle
@@ -17362,6 +17396,7 @@ DEAD FREQUENCY
 DEAD FREQUENCY DEMO
 DEAD IN YOUR TRACKZ
 DEAD ISLAND
+DEAD ISLAND 2
 DEAD OIL
 DEAD OR
 DEAD OR ALIVE
@@ -18969,6 +19004,7 @@ DUNE: AWAKENING
 DUNE: AWAKENING - DELUXE EDITION
 DUNE: AWAKENING - LOST HARVEST DLC
 DUNE: AWAKENING - ULTIMATE EDITION
+DUNECRAWL
 DUNEII
 DUNGEON
 DUNGEON & ROGUE
@@ -19050,6 +19086,7 @@ DVide Arts Inc
 DVideArts
 DVideArtsInc
 DVorah
+DWARFARE: ALL FOR THE FORGE
 DWAYNE
 DWAYNE FORGE
 DWAYNEFORGE
@@ -19517,6 +19554,7 @@ Dead Frequency
 Dead Frequency Demo
 Dead In Your TrackZ
 Dead Island
+Dead Island 2
 Dead Oil
 Dead Or Alive 2
 Dead Reset
@@ -19552,6 +19590,7 @@ DeadFrequency
 DeadFrequencyDemo
 DeadInYourTrackZ
 DeadIsland
+DeadIsland2
 DeadOil
 DeadOrAlive2
 DeadReset
@@ -21377,6 +21416,7 @@ Dune:Awakening
 Dune:Awakening-DeluxeEdition
 Dune:Awakening-LostHarvestDLC
 Dune:Awakening-UltimateEdition
+DuneCrawl
 DuneII
 DuneRaider
 Dungeon
@@ -21476,6 +21516,8 @@ Dustward
 Dustwind: Resistance
 Dustwind:Resistance
 Duty
+Dwarfare: All For The Forge
+Dwarfare:AllForTheForge
 Dwayne
 Dwayne Forge
 DwayneForge
@@ -24664,6 +24706,7 @@ FIGARO
 FIGHT
 FIGHT AGAINST CORONA
 FIGHT NIGHT
+FIGHT POKER
 FIGHT WITH VALKYRIES [18+]
 FIGHTCUM - FURRY & HENTAI
 FIGHTCUM – ORIGINAL SOUNDTRACK: GROOVES, LUST & COMBAT
@@ -24798,6 +24841,7 @@ FIOLEDEMIEL
 FIOLEDEXPERIENCE
 FIRAXIS
 FIRE
+FIRE & CROWN: A DEMO OF THE HUNDRED YEARS' WAR
 FIRE CHARGE
 FIRE EMBLEM
 FIRE EMBLEM PATH OF RADIANCE
@@ -26241,6 +26285,7 @@ Figaro
 Fight
 Fight Against Corona
 Fight Night
+Fight Poker
 Fight With Valkyries [18+]
 FightAgainstCorona
 FightCum   Furry & Hentai
@@ -26252,6 +26297,7 @@ FightCum – Original Soundtrack: Grooves, Lust & Combat
 FightCum-Furry&Hentai
 FightCum–OriginalSoundtrack:Grooves,Lust&Combat
 FightNight
+FightPoker
 FightWithValkyries[18+]
 Fighter
 Fighter:
@@ -26391,6 +26437,8 @@ Fioledemiel
 Fioledexpérience
 Firaxis
 Fire
+Fire   Crown: A Demo of the Hundred Years  War
+Fire & Crown: A Demo of the Hundred Years' War
 Fire Charge
 Fire Emblem
 Fire Emblem Path of Radiance
@@ -26405,6 +26453,7 @@ Fire Pro
 Fire Pro Wrestling
 Fire in the Hole
 Fire of Life: New Day
+Fire&Crown:ADemooftheHundredYears'War
 FireCharge
 FireEmblem
 FireEmblemPathofRadiance
@@ -28501,6 +28550,7 @@ GOLDFISH
 GOLDINGOT
 GOLDNUGGET
 GOLF
+GOLF WITH YOUR FRIENDS
 GOLFSLINGER
 GOLFTACULAR!
 GOLGALIAN
@@ -28875,6 +28925,9 @@ GREatEffects
 GREatEffectsDevelopment
 GRIBOUILLE
 GRIDKEEPER
+GRIEFS TEXTURE RIPPER
+GRIEFS Texture Ripper
+GRIEFSTextureRipper
 GRIEVING (BERDUKA)
 GRIFTLANDS
 GRIGNOTE
@@ -29130,6 +29183,7 @@ GUN JACK
 GUN PARADISE
 GUN SHOOTING RANGE AIM MASTER
 GUN SURVIVOR
+GUNBIRD - 2
 GUNBOT DIPLOMACY
 GUNCASTER
 GUNDROID
@@ -30239,6 +30293,8 @@ Goldfarb
 Goldfish
 GoldforRetirementSoundtrack
 Golf
+Golf With Your Friends
+GolfWithYourFriends
 Golfslinger
 Golftacular!
 Golgalian
@@ -30803,6 +30859,9 @@ Gun Jack
 Gun Paradise
 Gun Shooting Range Aim Master
 Gun Survivor
+GunBird   2
+GunBird - 2
+GunBird-2
 GunCenterSimulator
 GunJack
 GunParadise
@@ -31495,6 +31554,7 @@ HELLO, YOUR ORDER...
 HELLOGAMES
 HELMET
 HELMETFIRE
+HELP! I'M TURNING INTO A MERMAID!
 HEMERA
 HEMERA SOUNDTRACK
 HEMISPHERE
@@ -32903,6 +32963,9 @@ HelloKittyIslandAdventure
 HellomyWorld!Lily.
 Helmet
 HelmetFire
+Help! I m Turning Into A Mermaid!
+Help! I'm Turning Into A Mermaid!
+Help!I'mTurningIntoAMermaid!
 Hemera
 Hemera Soundtrack
 HemeraSoundtrack
@@ -37977,6 +38040,7 @@ KITE
 KITKOSMOS
 KITKOSMOSKITKOSMOS
 KITTY
+KITTY CAN COOK
 KITTY CAULDRON
 KITTY COLLAPSE
 KITTY COMBAT
@@ -39069,6 +39133,7 @@ Kitchen Wars
 KitchenWars
 Kite
 Kitty
+Kitty Can Cook
 Kitty Cauldron
 Kitty Collapse
 Kitty Combat
@@ -39077,6 +39142,7 @@ Kitty Loves Birds
 Kitty s Last Adventure
 Kitty's Last Adventure
 Kitty'sLastAdventure
+KittyCanCook
 KittyCauldron
 KittyCollapse
 KittyCombat
@@ -39750,6 +39816,7 @@ LAME
 LAME DE LUNE
 LAMEBRULANTE
 LAMEDELUNE
+LAMENTS OF A PLATINUM ROSE
 LAMIE
 LAMINAR
 LAMINAR RESEARCH
@@ -41074,6 +41141,7 @@ LOVE AND SEX: FIRST BASE
 LOVE AND SEX: SECOND BASE - SHAWN'S STORY
 LOVE BATTLE SPIRIT
 LOVE BEGINS WITH GOODBYE
+LOVE BLADES AND RUN
 LOVE CULT
 LOVE HOTEL MANAGER
 LOVE IS ALL AROUND 2
@@ -41240,6 +41308,7 @@ LUNCH: THE CARD GAME
 LUNE
 LUPINO
 LUPPA
+LURE OF PASSION
 LUSCHER
 LUST   MAGIC ✨
 LUST & MAGIC ?
@@ -41404,6 +41473,8 @@ Lame
 Lame de Lune
 Lamebrulante
 LamedeLune
+Laments of a Platinum Rose
+LamentsofaPlatinumRose
 Lamie
 Laminar
 Laminar Research
@@ -42851,6 +42922,7 @@ Loutra:InauguralGroupShow
 Love
 Love Battle Spirit
 Love Begins With Goodbye
+Love Blades and Run
 Love Cult
 Love Hotel Manager
 Love Lust and a Little Evil
@@ -42870,6 +42942,7 @@ Love, Peace, and Roseleaf
 Love,Peace,andRoseleaf
 LoveBattleSpirit
 LoveBeginsWithGoodbye
+LoveBladesandRun
 LoveCult
 LoveHotelManager
 LoveLustandaLittleEvil
@@ -43046,6 +43119,8 @@ Lunch:TheCardGame
 Lune
 Lupino
 Luppa
+Lure Of Passion
+LureOfPassion
 Luscher
 Lust Effect [18+]
 Lust Sisters ?
@@ -49790,6 +49865,7 @@ NIGHTMARE TRAIN
 NIGHTMARE VISIONS CHAPTER 1
 NIGHTMARE VISIONS CHAPTER 2
 NIGHTMARISE
+NIGHTORK ADVENTURES 3 - ARENA
 NIGHTPYRE DEMO
 NIGHTS
 NIGHTS (GAMELOFT)
@@ -50177,6 +50253,8 @@ NRUFF NRUFF
 NRUFFNRUFF
 NSPACE
 NTECH
+NTR FANTASY
+NTR Fantasy
 NTR LIFE
 NTR NEKO MAID: EROTIC FAVOR
 NTR Neko Maid: Erotic Favor
@@ -50199,6 +50277,7 @@ NTREEVSOFTCO
 NTREEVSOFTCO,LTD
 NTREEVSOFTCO.,LTD
 NTREEVSOFTCOLTD
+NTRFantasy
 NTRLIFE
 NTRNekoMaid:EroticFavor
 NTROffice
@@ -50866,6 +50945,9 @@ NightmareVisionsChapter2
 Nightmarise
 NightoftheStars
 Nightoftheoldbrand
+Nightork Adventures 3   Arena
+Nightork Adventures 3 - Arena
+NightorkAdventures3-Arena
 Nightpyre Demo
 NightpyreDemo
 Nights
@@ -54970,6 +55052,7 @@ POMMEDOREE
 POMMEDOREEENCHANTEE
 POMODORO TRAIN IN JAPAN
 POMOFISH
+POMOTRAIN: RABBIT TOWN
 POMPEY
 POMPEY POMPEY
 POMPEYPOMPEY
@@ -55470,6 +55553,7 @@ PROSTATE CLICKER: A TOUCH OF LOVE
 PROSTITUTE CASINO
 PROTEAN FOX
 PROTECTING SEAGRASS 保护海草
+PROTOCOL NIGHTMARE
 PROTOCOL X
 PROTOSS
 PROTOTYPE
@@ -57308,6 +57392,8 @@ Pommedeterreempoisonnée
 Pommedorée
 Pommedoréeenchantée
 PomoFish
+PomoTrain: Rabbit Town
+PomoTrain:RabbitTown
 Pomodoro Train in Japan
 PomodoroTraininJapan
 Pompey
@@ -57864,7 +57950,9 @@ ProteanFox
 Protecting seagrass ????
 Protecting seagrass 保护海草
 Protectingseagrass保护海草
+Protocol Nightmare
 Protocol X
+ProtocolNightmare
 ProtocolX
 Protoss
 Prototype
@@ -59259,6 +59347,7 @@ RETRO
 RETRO DREAMER
 RETRO GOLF MANIA
 RETRO JUMP
+RETRO RELICS
 RETRO REWIND - VIDEO STORE SIMULATOR DEMO
 RETRO STUDIOS
 RETRO-BIT
@@ -60925,6 +61014,7 @@ Retro
 Retro Dreamer
 Retro Golf Mania
 Retro Jump
+Retro Relics
 Retro Rewind   Video Store Simulator Demo
 Retro Rewind - Video Store Simulator Demo
 Retro Studios
@@ -60934,6 +61024,7 @@ RetroDreamer
 RetroFlux
 RetroGolfMania
 RetroJump
+RetroRelics
 RetroRewind-VideoStoreSimulatorDemo
 RetroStudios
 Retsu
@@ -63748,6 +63839,7 @@ SMARTBOMBINTERACTIVE
 SMARTDOG
 SMASH
 SMASH BROS
+SMASH OUT COLONY
 SMASH TENNIS
 SMASH TV
 SMASHBROS
@@ -65510,6 +65602,7 @@ SUPERX
 SUPERXSTUDIOS
 SUPPLIERS
 SUPPLY
+SUPRALAND
 SUPRE-IMMUNE
 SUPRSKETCH
 SUR
@@ -67770,9 +67863,11 @@ SmartBombInteractive
 Smartdog
 Smash
 Smash Bros
+Smash Out Colony
 Smash TV
 Smash Tennis
 SmashBros
+SmashOutColony
 SmashTV
 SmashTennis
 Smasher
@@ -69752,6 +69847,7 @@ Supervision
 Suppliers
 Supply
 SuprSketch
+Supraland
 Supre Immune
 Supre-Immune
 Sur
@@ -70724,6 +70820,7 @@ TERMINULL BRIGADE™
 TERRA
 TERRA BRANFORD
 TERRA FIRMA 2 DEMO
+TERRA INVICTA
 TERRA NOVA
 TERRA PIT
 TERRA REQUEST
@@ -72228,6 +72325,7 @@ TORIUO
 TORMENT
 TORMENTOR
 TORMENTOR - COMIC BOOK
+TORNADO CHASER
 TORNADON
 TORNADON TORNADON
 TORNADONTORNADON
@@ -72354,6 +72452,7 @@ TOWER OF DRUAGA
 TOWER OF TIME
 TOWER OF WISHES 4: SHAKA
 TOWER STUDIOS
+TOWER WAR
 TOWERDEFENSE BLOBSMASH
 TOWEROFDRUAGA
 TOWERS HERITAGE DEMO
@@ -73614,11 +73713,13 @@ TerrY
 Terra
 Terra Branford
 Terra Firma 2 Demo
+Terra Invicta
 Terra Nova
 Terra Pit
 Terra Request
 TerraBranford
 TerraFirma2Demo
+TerraInvicta
 TerraNova
 TerraPit
 TerraRequest
@@ -75514,6 +75615,8 @@ Torment
 Tormentor   Comic Book
 Tormentor - Comic Book
 Tormentor-ComicBook
+Tornado Chaser
+TornadoChaser
 Tornadon
 Tornadon Tornadon
 TornadonTornadon
@@ -75669,6 +75772,7 @@ Tower Dominion - Soundtrack
 Tower Lords
 Tower Of Wishes 4: Shaka
 Tower Studios
+Tower War
 Tower of Druaga
 Tower of Time
 TowerArenaSurvive
@@ -75679,6 +75783,7 @@ TowerDominion-Soundtrack
 TowerLords
 TowerOfWishes4:Shaka
 TowerStudios
+TowerWar
 TowerofDruaga
 TowerofTime
 Towers Heritage Demo
@@ -76609,6 +76714,7 @@ UNTITLED CAR GAME
 UNTITLED HAND GAME: TITLED EDITION
 UNTO DEEPEST DEPTHS
 UNTO THE AURORA
+UNTOLD STORY
 UNWANTED DUNGEON DEMO
 UNYIELDER
 UOZUMI
@@ -76991,6 +77097,8 @@ UntitledHandGame:TitledEdition
 Unto Deepest Depths
 Unto the Aurora
 UntoDeepestDepths
+Untold Story
+UntoldStory
 UntotheAurora
 Unwanted Dungeon Demo
 UnwantedDungeonDemo
@@ -79195,6 +79303,7 @@ WIZARDSOFTHECOAST
 WIZARDSOFTHECOASTLLC
 WIZARDVIDEO
 WIZARDVIDEOGAMES
+WIZARD’S GAMBIT
 WIZPIG
 WIZZER
 WIZZER WIZZER
@@ -80281,6 +80390,7 @@ Wizard Video
 Wizard Video Games
 Wizard of Legend 2
 Wizard s Warp
+Wizard's Gambit
 Wizard's Warp
 Wizard'sWarp
 WizardSoft
@@ -80297,6 +80407,8 @@ Wizardsof
 Wizardsofthe
 WizardsoftheCoast
 WizardsoftheCoastLLC
+Wizard’s Gambit
+Wizard’sGambit
 Wizpig
 Wizzer
 Wizzer Wizzer
@@ -82103,6 +82215,7 @@ ZÈBRE
 [ MURMUR ]
 [ murmur ]
 [????]
+[BEAT:KEEPER]
 [DON'T] LET GO
 [Don t] Let Go
 [Don't] Let Go
@@ -82114,6 +82227,7 @@ ZÈBRE
 [MURMUR]
 [Mulmiyac] for 3D Motion Sickness
 [Mulmiyac]for3DMotionSickness
+[beat:keeper]
 [don't] let go
 [english] absentedage 2: ghostbound
 [mulmiyac] for 3d motion sickness
@@ -82603,6 +82717,7 @@ age of empires 2
 age of empires 3
 age of empires i
 age of empires ii
+age of empires ii: definitive edition
 age of empires iii
 age of empires iv: anniversary edition
 age of history ii
@@ -83960,6 +84075,7 @@ asteam
 aster symphona
 asterix
 asteroid forward
+asteroid odyssey
 asteroid requiem
 asteroidia
 asteroids
@@ -84404,6 +84520,7 @@ backrooms: glitchfield
 backrooms: hide together
 backrooms: noise
 backrooms: recode
+backrooms: the true level
 backrooms:run for your life!
 backseat drivers
 backshot brothel
@@ -86769,6 +86886,7 @@ c.p. brain
 c.p.brain
 c.u.t.s
 c2matrix
+c4 clicker: first mint
 c4: demo
 c4m
 cLocked In
@@ -87921,6 +88039,7 @@ cinnabar soft
 cinnabarsoft
 cinq
 cipher zero
+cipheur - trivia: geography
 circle
 circle entertainment
 circle jerk
@@ -87976,6 +88095,7 @@ city transport simulator - tram dlc: gt6
 city transport simulator: bus
 city transport simulator: bus dlc - gräf/steyr ng235
 city-defence
+city-racing
 citybuildersimpressiongames
 cityinteractive
 cityventory
@@ -88056,6 +88176,7 @@ claysimmons
 claysimons
 cle
 clea
+clean stack
 clean up earth demo
 cleaner company prologue
 clerc
@@ -89039,6 +89160,7 @@ critical thought games
 criticalfinish
 criticalthought
 criticalthoughtgames
+critter box
 critter drifters
 critter isle
 critter isle - supporter pack
@@ -89884,6 +90006,7 @@ dead frequency
 dead frequency demo
 dead in your trackz
 dead island
+dead island 2
 dead oil
 dead or
 dead or alive
@@ -91453,6 +91576,7 @@ dune: awakening
 dune: awakening - deluxe edition
 dune: awakening - lost harvest dlc
 dune: awakening - ultimate edition
+dunecrawl
 duneii
 dungeon
 dungeon & rogue
@@ -91527,6 +91651,7 @@ dvide arts inc
 dvidearts
 dvideartsinc
 dvorah
+dwarfare: all for the forge
 dwayne
 dwayne forge
 dwayneforge
@@ -93288,6 +93413,7 @@ figaro
 fight
 fight against corona
 fight night
+fight poker
 fight with valkyries [18+]
 fightcum - furry & hentai
 fightcum – original soundtrack: grooves, lust & combat
@@ -93419,6 +93545,7 @@ fioledexperience
 fioledexpérience
 firaxis
 fire
+fire & crown: a demo of the hundred years' war
 fire charge
 fire emblem
 fire emblem path of radiance
@@ -95366,6 +95493,7 @@ goldfish
 goldingot
 goldnugget
 golf
+golf with your friends
 golfslinger
 golftacular!
 golgalian
@@ -95730,6 +95858,7 @@ greybox
 grezzo
 gribouille
 gridkeeper
+griefs texture ripper
 grieving (berduka)
 griftlands
 grignote
@@ -95950,6 +96079,7 @@ gun jack
 gun paradise
 gun shooting range aim master
 gun survivor
+gunbird - 2
 gunbot diplomacy
 guncaster
 gundroid
@@ -96616,6 +96746,7 @@ hello, your order...
 hellogames
 helmet
 helmetfire
+help! i'm turning into a mermaid!
 hemera
 hemera soundtrack
 hemisphere
@@ -99699,6 +99830,7 @@ kite
 kitkosmos
 kitkosmoskitkosmos
 kitty
+kitty can cook
 kitty cauldron
 kitty collapse
 kitty combat
@@ -100344,6 +100476,7 @@ lame
 lame de lune
 lamebrulante
 lamedelune
+laments of a platinum rose
 lamie
 laminar
 laminar research
@@ -101683,6 +101816,7 @@ love and sex: first base
 love and sex: second base - shawn's story
 love battle spirit
 love begins with goodbye
+love blades and run
 love cult
 love hotel manager
 love is all around 2
@@ -101845,6 +101979,7 @@ lunch: the card game
 lune
 lupino
 luppa
+lure of passion
 luscher
 lust & magic ✨
 lust effect [18+]
@@ -105374,6 +105509,7 @@ nightmare train
 nightmare visions chapter 1
 nightmare visions chapter 2
 nightmarise
+nightork adventures 3 - arena
 nightpyre demo
 nights
 nights (gameloft)
@@ -105750,6 +105886,7 @@ nruff nruff
 nruffnruff
 nspace
 ntech
+ntr fantasy
 ntr life
 ntr neko maid: erotic favor
 ntr office
@@ -108359,6 +108496,7 @@ pommedorée
 pommedoréeenchantée
 pomodoro train in japan
 pomofish
+pomotrain: rabbit town
 pompey
 pompey pompey
 pompeypompey
@@ -108861,6 +108999,7 @@ prostate clicker: a touch of love
 prostitute casino
 protean fox
 protecting seagrass 保护海草
+protocol nightmare
 protocol x
 protoss
 prototype
@@ -110029,6 +110168,7 @@ retro
 retro dreamer
 retro golf mania
 retro jump
+retro relics
 retro rewind - video store simulator demo
 retro studios
 retro-bit
@@ -112626,6 +112766,7 @@ smartbombinteractive
 smartdog
 smash
 smash bros
+smash out colony
 smash tennis
 smash tv
 smashbros
@@ -114342,6 +114483,7 @@ superx
 superxstudios
 suppliers
 supply
+supraland
 supre-immune
 suprsketch
 sur
@@ -115218,6 +115360,7 @@ terrY
 terra
 terra branford
 terra firma 2 demo
+terra invicta
 terra nova
 terra pit
 terra request
@@ -116697,6 +116840,7 @@ toriuo
 torment
 tormentor
 tormentor - comic book
+tornado chaser
 tornadon
 tornadon tornadon
 tornadontornadon
@@ -116823,6 +116967,7 @@ tower of druaga
 tower of time
 tower of wishes 4: shaka
 tower studios
+tower war
 towerdefense blobsmash
 towerofdruaga
 towers heritage demo
@@ -117689,6 +117834,7 @@ untitled car game
 untitled hand game: titled edition
 unto deepest depths
 unto the aurora
+untold story
 unwanted dungeon demo
 unyielder
 uozumi
@@ -119150,6 +119296,7 @@ wizardsofthecoast
 wizardsofthecoastllc
 wizardvideo
 wizardvideogames
+wizard’s gambit
 wizpig
 wizzer
 wizzer wizzer
@@ -120480,6 +120627,11 @@ zèbre
 文字城邦
 文字遊戯 日本語版 
 文字遊戯(日本語版)
+无色世界  Colorless World 
+无色世界 (COLORLESS WORLD)
+无色世界 (Colorless World)
+无色世界 (colorless world)
+无色世界(ColorlessWorld)
 无限升级的战士传说
 时光传奇
 时漏界限 edge  Demo
@@ -120738,6 +120890,7 @@ zèbre
 荧惑焚心录YINGHUO
 荧惑焚心录Yinghuo
 荧惑焚心录yinghuo
+萍城异闻录
 落恩典记/LOSEGRACETALE
 落恩典记/LoseGraceTale
 落恩典记/losegracetale
