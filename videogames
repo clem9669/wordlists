@@ -1288,6 +1288,7 @@
 ?????? ~ Touhou Dystopian
 ?????? ~Ogre's Ambition~
 ?????? ~special~
+??????100?????
 ???????
 ??????? - Demonic Mahjong
 ??????? 44 Hidden Naomis
@@ -2581,6 +2582,7 @@ ANCHOR
 ANCHORS AWEIGH
 ANCIENT
 ANCIENT ARCHER
+ANCIENT FARM
 ANCIENT GUARDIANS: THE DRAGON
 ANCIENT TD
 ANCIENT YS VANISHED OMEN
@@ -4802,10 +4804,12 @@ Anchors Aweigh
 AnchorsAweigh
 Ancient
 Ancient Archer
+Ancient Farm
 Ancient Guardians: The Dragon
 Ancient TD
 Ancient Ys Vanished Omen
 AncientArcher
+AncientFarm
 AncientGuardians:TheDragon
 AncientTD
 AncientYsVanishedOmen
@@ -7523,6 +7527,7 @@ BLINDSIMULATOR
 BLING BLING BANKRUPTCY
 BLING: FORTUNE MEMORIES
 BLIPPO+
+BLISS VALLEY: AFTER DARK
 BLITTER
 BLITTER ANIMATIONS
 BLITTERANIMATIONS
@@ -10037,6 +10042,8 @@ Bling: Fortune Memories
 Bling:FortuneMemories
 BlingBlingBankruptcy
 Blippo+
+Bliss Valley: After Dark
+BlissValley:AfterDark
 Blitter
 Blitter Animations
 BlitterAnimations
@@ -13243,6 +13250,7 @@ COSMOS
 COSMOS INTERACTIVE
 COSMOSINTERACTIVE
 COSMOTHESEEDRIAN
+COSMOTILES
 COSPLAYER'S QUEST
 COSTO
 COSTO COSTO
@@ -13342,6 +13350,7 @@ CRACK-TWEET
 CRACK-TWEET CRACK-TWEET
 CRACK-TWEETCRACK-TWEET
 CRACKDOWN
+CRACKED
 CRACKER
 CRACKER JACK
 CRACKERJACK
@@ -16121,6 +16130,7 @@ Cosmos
 Cosmos Interactive
 CosmosInteractive
 CosmotheSeedrian
+Cosmotiles
 Cosplayer s Quest
 Cosplayer's Quest
 Cosplayer'sQuest
@@ -17365,6 +17375,7 @@ DAY1
 DAY1STUDIOS
 DAYDAM KNIGHT
 DAYMARE TOWN
+DAYOFF: MOONRIVER INCIDENT
 DAYOFTENTACLE
 DAYOFTHERISINGDEAD
 DAYOFTHETENTACLE
@@ -19038,6 +19049,7 @@ DUNGEON
 DUNGEON & ROGUE
 DUNGEON (W)HOARDERS
 DUNGEON ADVENTURE
+DUNGEON ANTIQUA 2
 DUNGEON COMPAINIONS
 DUNGEON DESTROYER
 DUNGEON DEVOTION
@@ -19090,6 +19102,7 @@ DURANSAMIR
 DURELL
 DURIEL
 DUROTAN
+DUSKBOUND
 DUSKPUNK
 DUSKY
 DUSKY CAP
@@ -19536,6 +19549,8 @@ Day of the Tentacle Maniac Mansion
 Day of the Tentacle, Maniac Mansion
 Day1
 Day1Studios
+DayOff: Moonriver incident
+DayOff:Moonriverincident
 DayTradingSimulator
 DayZ
 Daydam Knight
@@ -21465,6 +21480,7 @@ Dungeon  W Hoarders
 Dungeon & Rogue
 Dungeon (W)Hoarders
 Dungeon Adventure
+Dungeon Antiqua 2
 Dungeon CompAInions
 Dungeon Destroyer
 Dungeon Devotion
@@ -21487,6 +21503,7 @@ Dungeon World
 Dungeon&Rogue
 Dungeon(W)Hoarders
 DungeonAdventure
+DungeonAntiqua2
 DungeonCompAInions
 DungeonCrawlers
 DungeonDestroyer
@@ -21543,6 +21560,7 @@ Duranik
 Durell
 Duriel
 Durotan
+Duskbound
 Duskpunk
 Dusky
 Dusky Cap
@@ -22817,6 +22835,7 @@ EVERYBODYS GOLF
 EVERYBODYS TENNIS
 EVERYBODYSGOLF
 EVERYBODYSTENNIS
+EVERYDAY DEVIL
 EVERYMORNINGMYALARMCLOCKKILLSME
 EVERYTHING I KNOW, AND EVERYTHING I'M EVER GONNA KNOW DEMO
 EVIL
@@ -22825,6 +22844,7 @@ EVIL DOLL
 EVIL EGG
 EVIL'S VEIL
 EVILSLAYER
+EVOCREO
 EVOGA
 EVOGA ENTERTAINMENT
 EVOGAENTERTAINMENT
@@ -24101,6 +24121,8 @@ Everybodys Golf
 Everybodys Tennis
 EverybodysGolf
 EverybodysTennis
+Everyday Devil
+EverydayDevil
 Everything I Know, and Everything I m Ever Gonna Know Demo
 Everything I Know, and Everything I'm Ever Gonna Know Demo
 EverythingIKnow,andEverythingI'mEverGonnaKnowDemo
@@ -24115,6 +24137,7 @@ EvilBirdSimulator
 EvilDoll
 EvilEgg
 EvilSlayer
+EvoCreo
 EvoSprout
 Evoga
 Evoga Entertainment
@@ -24732,6 +24755,7 @@ FEVES DE CACAO
 FEVESDECACAO
 FEY
 FICELLE
+FICKLE CARD LEGEND
 FICTION
 FIELD
 FIELD OF SCREAMS
@@ -25107,6 +25131,7 @@ FLINTAND
 FLINTANDSTEEL
 FLIPPER
 FLIPPUP
+FLIPSCAPES
 FLIPSIDE5
 FLIPTO
 FLOOD
@@ -26322,6 +26347,8 @@ Fever Meme
 FeverMeme
 Fey
 Ficelle
+Fickle Card Legend
+FickleCardLegend
 Fiction
 Field
 Field Of Screams
@@ -26739,6 +26766,7 @@ Flint and
 Flint and Steel
 Flintand
 FlintandSteel
+FlipScapes
 FlipSide5
 FlippUp
 Flipper
@@ -27925,6 +27953,7 @@ GARRIOTT
 GARROSH
 GARROSH HURLENFER
 GARROSHHURLENFER
+GARRY'S MOD
 GARTISTS
 GARUDA
 GARY
@@ -28622,6 +28651,7 @@ GONERILGONERIL
 GONG GO GIRL
 GONGO
 GONZO
+GOO GO
 GOOBER DASH
 GOOD
 GOOD FEEL
@@ -29654,6 +29684,9 @@ Garriott
 Garrosh
 Garrosh Hurlenfer
 GarroshHurlenfer
+Garry s Mod
+Garry's Mod
+Garry'sMod
 Garuda
 Gary
 Gary Grigsby
@@ -30366,6 +30399,8 @@ Gong GO Girl
 GongGOGirl
 Gongo
 Gonzo
+Goo Go
+GooGo
 Goober Dash
 GooberDash
 Good
@@ -31649,6 +31684,7 @@ HENTAI HAREM: XMAS TALE
 HENTAI HARUKO
 HENTAI HINA
 HENTAI HORNY ELF
+HENTAI HORNY MAID
 HENTAI LADYBOY REN
 HENTAI LUNARA
 HENTAI MAGIC
@@ -31829,6 +31865,7 @@ HIDDEN PAIRS 3: LOVELY BIRDS
 HIDDEN PARADISE: KIWI CHRISTMAS COLLECTOR'S EDITION
 HIDDEN PATH
 HIDDEN PATH ENTERTAINMENT
+HIDDEN THROUGH TIME
 HIDDENCATS4:Aetherpunk
 HIDDENCATS5:MagicTree
 HIDDENCATS8:HappyNewYear🎄🥂🎅
@@ -33064,6 +33101,7 @@ Hentai Harem: Xmas tale
 Hentai Haruko
 Hentai Hina
 Hentai Horny Elf
+Hentai Horny Maid
 Hentai Ladyboy Ren
 Hentai Lunara
 Hentai Magic
@@ -33136,6 +33174,7 @@ HentaiHarem:Xmastale
 HentaiHaruko
 HentaiHina
 HentaiHornyElf
+HentaiHornyMaid
 HentaiLadyboyRen
 HentaiLunara
 HentaiMagic
@@ -33335,6 +33374,7 @@ Hidden Paradise: Kiwi Christmas Collector s Edition
 Hidden Paradise: Kiwi Christmas Collector's Edition
 Hidden Path
 Hidden Path Entertainment
+Hidden Through Time
 HiddenCats-IceCreamDay
 HiddenCats:Rome
 HiddenCats:ZombieHunter
@@ -33351,6 +33391,7 @@ HiddenPairs3:LovelyBirds
 HiddenParadise:KiwiChristmasCollector'sEdition
 HiddenPath
 HiddenPathEntertainment
+HiddenThroughTime
 Hide
 Hideo
 Hideo Shimazu
@@ -34448,6 +34489,7 @@ IN DEATH WE LOVE
 IN OUR PARLOR
 IN PURR-SUIT
 IN SILENT WALLS : SUJET 13
+IN THE BLUE MOONLIGHT
 IN THE MIDST OF A NEVERENDING SEASON
 IN UTERO
 IN-HOUSE
@@ -38006,6 +38048,7 @@ KINGDOM UNDER FIRE
 KINGDOM WARS
 KINGDOMHEARTS
 KINGDOMS
+KINGDOMS AND SLAVES
 KINGDOMS OF DICE - THE ELONIA CHRONICLES
 KINGDOMS OF THE DUMP
 KINGDOMUNDER
@@ -38479,6 +38522,7 @@ KUJU ENTERTAINMENT
 KUJUENTERTAINMENT
 KULLE
 KUMA
+KUMASAMA
 KUMO
 KUNG
 KUNG FU
@@ -39098,9 +39142,11 @@ KingdomUnderFire
 KingdomWars
 KingdomofNight
 Kingdoms
+Kingdoms And Slaves
 Kingdoms of Dice   The Elonia Chronicles
 Kingdoms of Dice - The Elonia Chronicles
 Kingdoms of the Dump
+KingdomsAndSlaves
 KingdomsofDice-TheEloniaChronicles
 KingdomsoftheDump
 KingforaKnight
@@ -39900,6 +39946,7 @@ LANDMINE PRINCESS
 LANDOMAYZER
 LANDON'S PUZZLE PARTAY
 LANDRY
+LANDSLIP
 LANDSTALKER
 LANDWARF
 LANESPLIT DEMO
@@ -40125,6 +40172,7 @@ LE MANS ULTIMATE - ELMS PACK 1
 LE MANS ULTIMATE - ELMS PACK 2
 LE MANS ULTIMATE - ELMS SEASON PASS
 LE MUSICIEN
+LE PETIT RACCOON
 LE PHOTOGRAPHE
 LE POISSON-REVE
 LE POISSONREVE
@@ -41102,6 +41150,7 @@ LOOKING GLASS
 LOOKINGGLASS
 LOOP
 LOOP MY CRANK
+LOOT AND ORDER
 LOOT LINE
 LOOT LINE - SEASON 2
 LOOT OF BAAL
@@ -41563,6 +41612,7 @@ Landon s Puzzle ParTAY
 Landon's Puzzle ParTAY
 Landon'sPuzzleParTAY
 Landry
+Landslip
 Landstalker
 Landwarf
 Lang
@@ -41816,6 +41866,7 @@ Le Mans Ultimate - ELMS Pack 1
 Le Mans Ultimate - ELMS Pack 2
 Le Mans Ultimate - ELMS Season Pass
 Le Musicien
+Le Petit Raccoon
 Le Photographe
 Le Poisson-Reve
 Le PoissonReve
@@ -41869,6 +41920,7 @@ LeMansUltimate-ELMSPack2
 LeMansUltimate-ELMSSeasonPass
 LeMaster
 LeMusicien
+LePetitRaccoon
 LePhotographe
 LePoisson-Reve
 LePoissonReve
@@ -42855,11 +42907,13 @@ LookingGlass
 Loop
 Loop My Crank
 LoopMyCrank
+Loot And Order
 Loot Line
 Loot Line   Season 2
 Loot Line - Season 2
 Loot of Baal
 Loot of Idle
+LootAndOrder
 LootLine
 LootLine-Season2
 LootMage
@@ -43753,6 +43807,7 @@ MARBLE DROP
 MARBLE HEARTSTRINGS
 MARBLE MADNESS
 MARBLE QUEST
+MARBLE'S MARBLES
 MARBLEMADNESS
 MARCEL
 MARCELO
@@ -44138,6 +44193,7 @@ MAXWELLDAVIES
 MAY
 MAYA
 MAYA FEY
+MAYA, VALENTINA, NAOMI
 MAYAFEY
 MAYALA
 MAYHEM
@@ -46026,6 +46082,7 @@ MY GIANT SEXY SENSEI BULLIES ME 3
 MY GIANT SEXY SENSEI BULLIES ME 4
 MY GIRLFRIEND IS AN EGG
 MY GOTH BULLY LIKES SITTING ON MY FACE
+MY LANDLORD IS A SADISTIC MILF
 MY LAST STAND: SURVIVORS
 MY LIFE IN A MONSTER GIRL PARADISE
 MY LIMINAL NIGHTMARE
@@ -46633,6 +46690,9 @@ Marble Drop
 Marble Heartstrings
 Marble Madness
 Marble Quest
+Marble s Marbles
+Marble's Marbles
+Marble'sMarbles
 MarbleDrop
 MarbleHeartstrings
 MarbleMadness
@@ -47045,6 +47105,8 @@ MaxwellDavies
 May
 Maya
 Maya Fey
+Maya, Valentina, Naomi
+Maya,Valentina,Naomi
 MayaFey
 Mayala
 Mayhem
@@ -48964,6 +49026,7 @@ My Giant Sexy Sensei Bullies Me 3
 My Giant Sexy Sensei Bullies Me 4
 My Girlfriend Is an Egg
 My Goth Bully Likes Sitting on My Face
+My Landlord Is a Sadistic MILF
 My Last Stand: Survivors
 My Life In A Monster Girl Paradise
 My Liminal Nightmare
@@ -49018,6 +49081,7 @@ MyGiantSexySenseiBulliesMe3
 MyGiantSexySenseiBulliesMe4
 MyGirlfriendIsanEgg
 MyGothBullyLikesSittingonMyFace
+MyLandlordIsaSadisticMILF
 MyLastStand:Survivors
 MyLifeInAMonsterGirlParadise
 MyLiminalNightmare
@@ -50197,6 +50261,7 @@ NODE:TheLastFavoroftheAntarii
 NOEL
 NOEL KREISS
 NOELKREISS
+NOELLE
 NOEMIE
 NOFOG
 NOHANSEN
@@ -51302,6 +51367,7 @@ NodeMath
 Noel
 Noel Kreiss
 NoelKreiss
+Noelle
 Noemie
 Noforgiveness
 Nohansen
@@ -52321,6 +52387,7 @@ ORIGIN8TECHNOLOGIES
 ORIGINAL
 ORIGINSYSTEMS
 ORIHARA
+ORIKO DAYS
 ORION
 ORION SHOOTER   オリオンシューター
 ORION SHOOTER - ?????????
@@ -53338,6 +53405,8 @@ Origin8Technologies
 OriginSystems
 Original
 Orihara
+Oriko Days
+OrikoDays
 Orion
 Orisa
 Orlando
@@ -54196,6 +54265,7 @@ PELOO
 PELOO PELOO
 PELOOPELOO
 PELOSI
+PENCIL STORIES
 PENDRAGON
 PENDULO
 PENDULO STUDIOS
@@ -54460,6 +54530,7 @@ PICARO
 PICDUR
 PICDUR PICDUR
 PICDURPICDUR
+PICHENETTE
 PICHIKURI
 PICHIKURI PICHIKURI
 PICHIKURIPICHIKURI
@@ -54735,6 +54806,7 @@ PIXELART CHARACTER CREATOR
 PIXELATE TD
 PIXELBLUE
 PIXELBURG
+PIXELEGEND
 PIXELFEDERATION
 PIXELHEART
 PIXELJUNK
@@ -55814,6 +55886,7 @@ PUSH DEFENSE
 PUTREFIEE
 PUTRIKA 1ST.CUT:THE REASON SHE MUST PERISH
 PUTT
+PUTT IT IN ORBIT
 PUYO
 PUYO POP
 PUYO PUYO
@@ -56469,6 +56542,8 @@ Peloo
 Peloo Peloo
 PelooPeloo
 Pelosi
+Pencil Stories
+PencilStories
 Pendragon
 Pendulo
 Pendulo Studios
@@ -56727,6 +56802,7 @@ Picaro
 Picdur
 Picdur Picdur
 PicdurPicdur
+Pichenette
 Pichikuri
 Pichikuri Pichikuri
 PichikuriPichikuri
@@ -57042,6 +57118,7 @@ Pixelart Character Creator
 PixelartCharacterCreator
 Pixelate TD
 PixelateTD
+Pixelegend
 Pixelheart
 Pixelogic: Nonograms Unlimited
 Pixelogic:NonogramsUnlimited
@@ -58213,6 +58290,8 @@ PushandPlunderDemo
 Putrika 1st.cut:The Reason She Must Perish
 Putrika1st.cut:TheReasonSheMustPerish
 Putt
+Putt It In Orbit
+PuttItInOrbit
 Puyo
 Puyo Pop
 Puyo Puyo
@@ -63291,6 +63370,7 @@ SHIRO
 SHIRO TAGACHI
 SHIROTAGACHI
 SHITAKE
+SHMUP BOSS
 SHNURGLE
 SHOBOU
 SHOCK
@@ -63310,6 +63390,7 @@ SHOESTRING SOFTWARE
 SHOESTRINGSOFTWARE
 SHOGAKUKAN
 SHOGI
+SHOJINDEN
 SHOMA
 SHOMA SAWAMURA
 SHOMASAWAMURA
@@ -65405,6 +65486,7 @@ SUMMER
 SUMMER  14 Days Vacation 
 SUMMER -14 DAYS VACATION-
 SUMMER -14 Days Vacation-
+SUMMER BEACH
 SUMMER DELICIOUS SIMULATOR: PROLOGUE
 SUMMER PASSION
 SUMMER POCKETS REFLECTION BLUE
@@ -65865,6 +65947,7 @@ SWORDS
 SWORDS & BONES 5
 SWORDS & SOULS LEGACY COLLECTION
 SWORDS AND SANDALS 3 REDUX
+SWORDS, ARROWS & SHIELDS
 SWORN
 SYBERIA
 SYBERIA - REMASTERED
@@ -67238,7 +67321,10 @@ Shiro
 Shiro Tagachi
 ShiroTagachi
 Shitake
+Shmup Boss
+ShmupBoss
 Shnurgle
+ShoJinDen
 Shobou
 Shock
 Shock Troopers
@@ -69624,10 +69710,12 @@ SullivanBluthInteractiveMedia
 Sumigami
 Sumii
 Summer
+Summer Beach
 Summer Delicious Simulator: Prologue
 Summer Passion
 Summer Pockets REFLECTION BLUE
 Summer Reunion
+SummerBeach
 SummerDeliciousSimulator:Prologue
 SummerPassion
 SummerPocketsREFLECTIONBLUE
@@ -70171,6 +70259,9 @@ Swords & Souls Legacy Collection
 Swords and Sandals 3 Redux
 Swords&Bones5
 Swords&SoulsLegacyCollection
+Swords, Arrows   Shields
+Swords, Arrows & Shields
+Swords,Arrows&Shields
 SwordsandSandals3Redux
 Syberia
 Syberia   Remastered
@@ -71760,6 +71851,7 @@ THERE ARE NO ORCS
 THERE EXISTS
 THERE IS NO ESCAPE
 THERE WILL BE LIGHT
+THERE'S NO DIFFERENCES: CAKE
 THERE'S NO WAY THE DOOR IS THERE!
 THERE'S NOTHING UNDERGROUND
 THESALES
@@ -75048,10 +75140,13 @@ There Are No Orcs
 There Exists
 There Is No Escape
 There Will Be Light
+There s No Differences: Cake
 There s Nothing Underground
 There s no way the door is there!
+There's No Differences: Cake
 There's Nothing Underground
 There's no way the door is there!
+There'sNoDifferences:Cake
 There'sNothingUnderground
 There'snowaythedooristhere!
 ThereAreNoOrcs
@@ -77807,6 +77902,7 @@ VISUALCONCEPTS
 VISUALIMPACT
 VISUALSCIENCES
 VITA
+VITAL SHELL
 VITAMIN
 VITAMIN G
 VITAMIN G STUDIOS
@@ -78521,6 +78617,8 @@ VisualConcepts
 VisualImpact
 VisualSciences
 Vita
+Vital Shell
+VitalShell
 Vitamin
 Vitamin G
 Vitamin G Studios
@@ -83391,6 +83489,7 @@ anchor
 anchors aweigh
 ancient
 ancient archer
+ancient farm
 ancient guardians: the dragon
 ancient td
 ancient ys vanished omen
@@ -85929,6 +86028,7 @@ blindsimulator
 bling bling bankruptcy
 bling: fortune memories
 blippo+
+bliss valley: after dark
 blitter
 blitter animations
 blitteranimations
@@ -88948,6 +89048,7 @@ cosmos
 cosmos interactive
 cosmosinteractive
 cosmotheseedrian
+cosmotiles
 cosplayer's quest
 costo
 costo costo
@@ -89045,6 +89146,7 @@ crack-tweet
 crack-tweet crack-tweet
 crack-tweetcrack-tweet
 crackdown
+cracked
 cracker
 cracker jack
 crackerjack
@@ -90081,6 +90183,7 @@ day1
 day1studios
 daydam knight
 daymare town
+dayoff: moonriver incident
 dayoftentacle
 dayofthetentacle
 dayofthetentacle,maniacmansion
@@ -91713,6 +91816,7 @@ dungeon
 dungeon & rogue
 dungeon (w)hoarders
 dungeon adventure
+dungeon antiqua 2
 dungeon compainions
 dungeon destroyer
 dungeon devotion
@@ -91765,6 +91869,7 @@ duransamir
 durell
 duriel
 durotan
+duskbound
 duskpunk
 dusky
 dusky cap
@@ -92973,6 +93078,7 @@ everybodys golf
 everybodys tennis
 everybodysgolf
 everybodystennis
+everyday devil
 everything i know, and everything i'm ever gonna know demo
 evil
 evil bird simulator
@@ -92980,6 +93086,7 @@ evil doll
 evil egg
 evil's veil
 evilslayer
+evocreo
 evoga
 evoga entertainment
 evogaentertainment
@@ -93529,6 +93636,7 @@ feves de cacao
 fevesdecacao
 fey
 ficelle
+fickle card legend
 fiction
 field
 field of screams
@@ -93897,6 +94005,7 @@ flintand
 flintandsteel
 flipper
 flippup
+flipscapes
 flipside5
 flipto
 flood
@@ -94979,6 +95088,7 @@ garriott
 garrosh
 garrosh hurlenfer
 garroshhurlenfer
+garry's mod
 gartists
 garuda
 gary
@@ -95647,6 +95757,7 @@ gonerilgoneril
 gong go girl
 gongo
 gonzo
+goo go
 goober dash
 good
 good feel
@@ -96924,6 +97035,7 @@ hentai harem: xmas tale
 hentai haruko
 hentai hina
 hentai horny elf
+hentai horny maid
 hentai ladyboy ren
 hentai lunara
 hentai magic
@@ -97096,6 +97208,7 @@ hidden pairs 3: lovely birds
 hidden paradise: kiwi christmas collector's edition
 hidden path
 hidden path entertainment
+hidden through time
 hiddencity
 hiddencitygames
 hiddenfloor
@@ -98046,6 +98159,8 @@ in death we love
 in our parlor
 in purr-suit
 in silent walls : sujet 13
+in the Blue Moonlight
+in the blue moonlight
 in the midst of a neverending season
 in utero
 in-house
@@ -98380,6 +98495,7 @@ interstate76
 interstel
 interstel corporation
 interstelcorporation
+intheBlueMoonlight
 inti
 inti creates
 inticreates
@@ -99878,6 +99994,7 @@ kingdom under fire
 kingdom wars
 kingdomhearts
 kingdoms
+kingdoms and slaves
 kingdoms of dice - the elonia chronicles
 kingdoms of the dump
 kingdomunder
@@ -100337,6 +100454,7 @@ kuju entertainment
 kujuentertainment
 kulle
 kuma
+kumasama
 kumo
 kung
 kung fu
@@ -100640,6 +100758,7 @@ landmine princess
 landomayzer
 landon's puzzle partay
 landry
+landslip
 landstalker
 landwarf
 lanesplit demo
@@ -100885,6 +101004,7 @@ le mans ultimate - elms pack 1
 le mans ultimate - elms pack 2
 le mans ultimate - elms season pass
 le musicien
+le petit raccoon
 le photographe
 le poisson-reve
 le poissonreve
@@ -101858,6 +101978,7 @@ looking glass
 lookingglass
 loop
 loop my crank
+loot and order
 loot line
 loot line - season 2
 loot of baal
@@ -102658,6 +102779,7 @@ marble drop
 marble heartstrings
 marble madness
 marble quest
+marble's marbles
 marblemadness
 marcel
 marcelo
@@ -103047,6 +103169,7 @@ maxwelldavies
 may
 maya
 maya fey
+maya, valentina, naomi
 mayafey
 mayala
 mayhem
@@ -104875,6 +104998,7 @@ my giant sexy sensei bullies me 3
 my giant sexy sensei bullies me 4
 my girlfriend is an egg
 my goth bully likes sitting on my face
+my landlord is a sadistic milf
 my last stand: survivors
 my life in a monster girl paradise
 my liminal nightmare
@@ -105905,6 +106029,7 @@ node: the last favor of the antarii
 noel
 noel kreiss
 noelkreiss
+noelle
 noemie
 nofog
 nohansen
@@ -106930,6 +107055,7 @@ origin8technologies
 original
 originsystems
 orihara
+oriko days
 orion
 orion shooter - オリオンシューター
 orisa
@@ -107704,6 +107830,7 @@ peloo
 peloo peloo
 peloopeloo
 pelosi
+pencil stories
 pendragon
 pendulo
 pendulo studios
@@ -107959,6 +108086,7 @@ picaro
 picdur
 picdur picdur
 picdurpicdur
+pichenette
 pichikuri
 pichikuri pichikuri
 pichikuripichikuri
@@ -108238,6 +108366,7 @@ pixelart character creator
 pixelate td
 pixelblue
 pixelburg
+pixelegend
 pixelfederation
 pixelheart
 pixeljunk
@@ -109329,6 +109458,7 @@ putrefiee
 putrika 1st.cut:the reason she must perish
 putréfiée
 putt
+putt it in orbit
 puyo
 puyo pop
 puyo puyo
@@ -112298,6 +112428,7 @@ shiro
 shiro tagachi
 shirotagachi
 shitake
+shmup boss
 shnurgle
 shobou
 shock
@@ -112316,6 +112447,7 @@ shoestring software
 shoestringsoftware
 shogakukan
 shogi
+shojinden
 shoma
 shoma sawamura
 shomasawamura
@@ -114359,6 +114491,7 @@ sumigami
 sumii
 summer
 summer -14 days vacation-
+summer beach
 summer delicious simulator: prologue
 summer passion
 summer pockets reflection blue
@@ -114808,6 +114941,7 @@ swords
 swords & bones 5
 swords & souls legacy collection
 swords and sandals 3 redux
+swords, arrows & shields
 sworn
 syberia
 syberia - remastered
@@ -116351,6 +116485,7 @@ there are no orcs
 there exists
 there is no escape
 there will be light
+there's no differences: cake
 there's no way the door is there!
 there's nothing underground
 thesales
@@ -118568,6 +118703,7 @@ visualconcepts
 visualimpact
 visualsciences
 vita
+vital shell
 vitamin
 vitamin g
 vitamin g studios
@@ -120531,6 +120667,7 @@ zèbre
 オーガの野望 ～Ogre's Ambition～
 オーガの野望 ～ogre's ambition～
 オーガの野望～Ogre'sAmbition～
+カワサキデビルズ
 キー暴動
 サキュバスクエスト ～SUCCUBUS QUEST～
 サキュバスクエスト ～succubus quest～
@@ -120655,6 +120792,7 @@ zèbre
 回煞录 | phantom reckoning
 回煞录|PhantomReckoning
 在异世界打怪的修仙者
+在赛博世界和100个道侣修仙
 地禍駐車場  The Cursed Underground Parking Lot 
 地禍駐車場 -THE CURSED UNDERGROUND PARKING LOT-
 地禍駐車場 -The Cursed Underground Parking Lot-
