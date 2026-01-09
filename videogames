@@ -86,6 +86,7 @@
 100 CATS BELGRADE
 100 CATS LOST IN CANADA FIND & COLOR
 100 CATS LOST IN CHINA FIND & COLOR
+100 CATS LOST IN ENGLAND FIND & COLOR
 100 CATS LOST IN JAPAN FIND & COLOR
 100 CATS LOST IN THAILAND FIND & COLOR
 100 CHINA CATS
@@ -95,6 +96,8 @@
 100 Cats Belgrade
 100 Cats Lost In Canada Find   Color
 100 Cats Lost In Canada Find & Color
+100 Cats Lost In England Find   Color
+100 Cats Lost In England Find & Color
 100 Cats Lost In Japan Find   Color
 100 Cats Lost In Japan Find & Color
 100 Cats Lost in China Find   Color
@@ -160,6 +163,7 @@
 100 cats belgrade
 100 cats lost in canada find & color
 100 cats lost in china find & color
+100 cats lost in england find & color
 100 cats lost in japan find & color
 100 cats lost in thailand find & color
 100 china cats
@@ -201,6 +205,7 @@
 100CatsBeijing
 100CatsBelgrade
 100CatsLostInCanadaFind&Color
+100CatsLostInEnglandFind&Color
 100CatsLostInJapanFind&Color
 100CatsLostinChinaFind&Color
 100CatsLostinThailandFind&Color
@@ -1443,9 +1448,11 @@ A NIGHT FILLED WITH THE SOUND OF RAIN
 A Night Filled With the Sound of Rain
 A PIG GAME: A PEE WEE PREMIERE
 A PINBALL GAME THAT MAKES YOU MAD
+A PLAGUE TALE: INNOCENCE
 A PORTER STORY
 A PROMISE BEST LEFT UNKEPT - AYA EDITION
 A Pinball Game That Makes You Mad
+A Plague Tale: Innocence
 A Porter Story
 A Promise Best Left Unkept   Aya Edition
 A Promise Best Left Unkept - Aya Edition
@@ -2087,6 +2094,7 @@ AIMTechnology
 AIMathDash
 AIPAINTER:PaintingSimulator
 AIR
+AIR BLITZ
 AIR CONTROL
 AIR DASH: SKY RACING SIMULATOR
 AIR FLEET
@@ -2919,6 +2927,7 @@ APh Technological Consulting
 APhTechnological
 APhTechnologicalConsulting
 APinballGameThatMakesYouMad
+APlagueTale:Innocence
 APorterStory
 APromiseBestLeftUnkept-AyaEdition
 AQ
@@ -3426,6 +3435,7 @@ ASTEROIDS DELUXE
 ASTEROIDSDELUXE
 ASTRA
 ASTRA IGNOTA
+ASTRACORDIS ACCESS TERMINAL
 ASTRAGON
 ASTRAL
 ASTRAL : STEAM EDITION
@@ -4283,6 +4293,7 @@ AimTrainerBeePro
 Aime
 Aimé
 Air
+Air Blitz
 Air Control
 Air Dash: Sky Racing Simulator
 Air Fleet
@@ -4290,6 +4301,7 @@ Air Hockey Roguelike
 Air Rider
 Air Rider Air Rider
 Air Zonk
+AirBlitz
 AirControl
 AirDash:SkyRacingSimulator
 AirFleet
@@ -5718,6 +5730,8 @@ AsteroidsDeluxe
 Astra
 Astra Ignota
 AstraIgnota
+Astracordis Access Terminal
+AstracordisAccessTerminal
 Astragon
 Astral
 Astral : Steam Edition
@@ -13317,6 +13331,7 @@ COYOTE
 COYOTE DEVELOPMENTS
 COYOTEDEVELOPMENTS
 COZESOUCI
+COZY CARAVAN
 COZY CRUNCH
 COZY CULT
 COZY FARM
@@ -16204,6 +16219,7 @@ Coyote
 Coyote Developments
 CoyoteDevelopments
 Cozesouci
+Cozy Caravan
 Cozy Crunch
 Cozy Farm
 Cozy Fish Game
@@ -16213,6 +16229,7 @@ Cozy Jigsaw Puzzles
 Cozy Jozy
 Cozy Organizer
 Cozy Space Shooter
+CozyCaravan
 CozyCrunch
 CozyFarm
 CozyFishGame
@@ -17057,6 +17074,9 @@ DAMIA
 DAMIANO
 DAMIANO MAZZELLA
 DAMIANOMAZZELLA
+DAMN GRAVITY!
+DAMN Gravity!
+DAMNGravity!
 DAMOUR
 DAMPIERRE
 DAN
@@ -17462,6 +17482,7 @@ DEADORALIVE
 DEADORALIVE2
 DEADRISING
 DEADROCK REDEMPTION 2
+DEADROCK SALVATION
 DEADSIDE
 DEADSPACE
 DEADTIME DEFENDERS
@@ -19676,7 +19697,9 @@ Deador
 DeadorAlive
 DeadorAlive2
 Deadrock Redemption 2
+Deadrock Salvation
 DeadrockRedemption2
+DeadrockSalvation
 Deadside
 Deadtime Defenders
 DeadtimeDefenders
@@ -22499,6 +22522,8 @@ ENTERTAINMENT
 ENTERTAINMENT INT
 ENTERTAINMENTINT
 ENTEX
+ENTITY: THE BLACK DAY
+ENTITY:THEBLACKDAY
 ENTONNOIR
 ENTRAINEUR
 ENTRAINEURL
@@ -22836,6 +22861,7 @@ EVERYBODYS TENNIS
 EVERYBODYSGOLF
 EVERYBODYSTENNIS
 EVERYDAY DEVIL
+EVERYDAY I PLAY BOARD GAMES WITH A SUMMONED ELDRITCH GIRL
 EVERYMORNINGMYALARMCLOCKKILLSME
 EVERYTHING I KNOW, AND EVERYTHING I'M EVER GONNA KNOW DEMO
 EVIL
@@ -24122,7 +24148,9 @@ Everybodys Tennis
 EverybodysGolf
 EverybodysTennis
 Everyday Devil
+Everyday I Play Board Games with a Summoned Eldritch Girl
 EverydayDevil
+EverydayIPlayBoardGameswithaSummonedEldritchGirl
 Everything I Know, and Everything I m Ever Gonna Know Demo
 Everything I Know, and Everything I'm Ever Gonna Know Demo
 EverythingIKnow,andEverythingI'mEverGonnaKnowDemo
@@ -28881,6 +28909,7 @@ GRAVE BROS
 GRAVEBOUND
 GRAVEHOLD: SURVIVAL
 GRAVELLI
+GRAVICHESS
 GRAVITEE
 GRAVITON FLUX
 GRAVITRIX
@@ -30612,6 +30641,7 @@ Gravebound
 Gravehold: Survival
 Gravehold:Survival
 Gravelli
+GraviChess
 Gravitee
 Graviton Flux
 GravitonFlux
@@ -31676,6 +31706,7 @@ HENTAI CLICKER: CATHY IS STREAMING
 HENTAI CLICKER: VALENTINE IS STREAMING
 HENTAI CLICKER: YUMI IS STREAMING
 HENTAI FURRY BUNNY
+HENTAI FURRY COW
 HENTAI FURRY FOXY
 HENTAI FURRY PONY
 HENTAI GIRLS : SEXY MAID PARTY
@@ -31750,6 +31781,7 @@ HERMANTOOTHROT
 HERO
 HERO IN AN ALL-FORGIVING FANTASY WORLD RPG
 HERO OF THE HIVE
+HERO SEEKERS
 HEROCRAFT
 HEROES
 HEROES OF HAMMERWATCH II
@@ -33093,6 +33125,7 @@ Hentai Clicker: Cathy is streaming
 Hentai Clicker: Valentine is streaming
 Hentai Clicker: Yumi is streaming
 Hentai Furry Bunny
+Hentai Furry Cow
 Hentai Furry Foxy
 Hentai Furry Pony
 Hentai Girls : Sexy Maid Party
@@ -33166,6 +33199,7 @@ HentaiClicker:Cathyisstreaming
 HentaiClicker:Valentineisstreaming
 HentaiClicker:Yumiisstreaming
 HentaiFurryBunny
+HentaiFurryCow
 HentaiFurryFoxy
 HentaiFurryPony
 HentaiGirls:Lust[18+]
@@ -33240,10 +33274,12 @@ Herman
 Herman Toothrot
 HermanToothrot
 Hero
+Hero Seekers
 Hero in an All Forgiving Fantasy World RPG
 Hero in an All-Forgiving Fantasy World RPG
 Hero of the Hive
 HeroCraft
+HeroSeekers
 HeroSquare
 Heroes
 Heroes  Call - A Casual MMO Guild Sim
@@ -36494,6 +36530,7 @@ JOLLY
 JOLLY JUNCTION: STATIC SCREAMS
 JOLLY LAND ADVENTURE
 JOLTSTONE
+JOLTT - BATTLE PILLARS
 JON
 JONAS
 JONATHAN
@@ -37257,6 +37294,9 @@ Jolly Land Adventure
 JollyJunction:StaticScreams
 JollyLandAdventure
 Joltstone
+Joltt   Battle Pillars
+Joltt - Battle Pillars
+Joltt-BattlePillars
 Jon
 Jonas
 Jonathan
@@ -38082,6 +38122,7 @@ KINKAIDE
 KINKY CATS 🔞
 KINNEAS
 KINO
+KINSFOLK
 KINTARO
 KIP
 KIRA
@@ -39180,6 +39221,7 @@ Kinky Cats 🔞
 KinkyCats🔞
 Kinneas
 Kino
+Kinsfolk
 Kintaro
 Kip
 Kira
@@ -40701,6 +40743,7 @@ LIF
 LIF LIF
 LIFE
 LIFE FORCE
+LIFE IN RIO
 LIFE IS
 LIFE IS STRANGE
 LIFE OF A DISPATCH ENGLISH TEACHER IN JAPAN
@@ -42415,12 +42458,14 @@ Life
 Life Force
 Life Is
 Life Is Strange
+Life in Rio
 Life of a Dispatch English Teacher in Japan
 Life with a Homunculus
 LifeDie
 LifeForce
 LifeIs
 LifeIsStrange
+LifeinRio
 LifeofaDispatchEnglishTeacherinJapan
 LifewithaHomunculus
 Liftoff(R): Micro Drones
@@ -43805,6 +43850,7 @@ MARATHON
 MARBLE
 MARBLE DROP
 MARBLE HEARTSTRINGS
+MARBLE HERO
 MARBLE MADNESS
 MARBLE QUEST
 MARBLE'S MARBLES
@@ -45613,6 +45659,7 @@ MOONLIGHT CHESS
 MOONLIGHT TRAVELER
 MOONLIGHTER
 MOONLIGHTER 2: THE ENDLESS VAULT
+MOONLOST
 MOONMAN: THE GAME
 MOONMAN:THEGAME
 MOONPATROL
@@ -46688,6 +46735,7 @@ Marathon
 Marble
 Marble Drop
 Marble Heartstrings
+Marble Hero
 Marble Madness
 Marble Quest
 Marble s Marbles
@@ -46695,6 +46743,7 @@ Marble's Marbles
 Marble'sMarbles
 MarbleDrop
 MarbleHeartstrings
+MarbleHero
 MarbleMadness
 MarbleQuest
 Marcel
@@ -48560,6 +48609,7 @@ MoonActive
 MoonByte
 MoonByteStudios
 MoonCarrier
+MoonLost
 MoonPatrol
 MoonShot
 MoonTropica
@@ -52244,6 +52294,7 @@ ONIRISM
 ONLINE
 ONLINE RECORDS: UNKNOWN SELLER
 ONLY CARDS
+ONLY DOWN: NOT UP!
 ONLY DWARVES DIG PROPER HOLES
 ONLY DWARVES DIG PROPER HOLES DEMO
 ONLY HARD
@@ -52471,6 +52522,7 @@ OURS
 OURSIN
 OURSULA
 OUT
+OUT OF ORDER ZERO
 OUT OF STOCK!
 OUT OF THE PARK
 OUT OF THE PARK BASEBALL
@@ -53242,11 +53294,13 @@ OnlineRecords:UnknownSeller
 Only Cards
 Only DWARVES DIG Proper HOLES
 Only DWARVES DIG Proper HOLES Demo
+Only Down: Not Up!
 Only Whores Survive ?
 Only Whores Survive 🔞
 OnlyCards
 OnlyDWARVESDIGProperHOLES
 OnlyDWARVESDIGProperHOLESDemo
+OnlyDown:NotUp!
 OnlySluts: WAIFU MATCH <3
 OnlySluts: WAIFU MATCH 💖
 OnlySluts:WAIFUMATCH💖
@@ -53484,6 +53538,7 @@ Oursin
 Oursula
 Out
 Out Run
+Out of Order zero
 Out of Stock!
 Out of the Park
 Out of the Park Baseball
@@ -53516,6 +53571,7 @@ Outlaw Productions
 OutlawProductions
 Outlying Islands
 OutlyingIslands
+OutofOrderzero
 OutofStock!
 OutofthePark
 OutoftheParkBaseball
@@ -59373,6 +59429,7 @@ REINE DES ABEILLES
 REINEDESABEILLES
 REINHARDT
 REIZEI
+RELA
 RELAPSE
 RELATIONAL
 RELATIONAL SYSTEMS
@@ -59407,6 +59464,7 @@ REMEMBER
 REMEMBER ME
 REMEMBERING EMILY
 REMINISCENCE
+REMINISCENCE OF GUSUKU: CARD AND EXPLORE
 REMNANTS OF THE RIFT
 REMO
 REMOTE MINER CO.
@@ -60248,6 +60306,7 @@ RUMINANASE
 RUMOR RAIDERS
 RUMOURS OF A ROMAN EMPIRE
 RUN
+RUN QUAD RUN
 RUN, VEGGIES!
 RUNA ILLUSTRA
 RUNABOUT
@@ -61014,6 +61073,7 @@ Reine des abeilles
 Reinedesabeilles
 Reinhardt
 Reizei
+Rela
 Relapse
 Relational
 Relational Systems
@@ -61059,6 +61119,8 @@ RememberMe
 Remembering Emily
 RememberingEmily
 Reminiscence
+Reminiscence of Gusuku: Card and Explore
+ReminiscenceofGusuku:CardandExplore
 Remnants of the Rift
 RemnantsoftheRift
 Remo
@@ -61968,10 +62030,12 @@ RumorRaiders
 Rumours of a Roman Empire
 RumoursofaRomanEmpire
 Run
+Run Quad Run
 Run, Veggies!
 Run,Veggies!
 RunPunk: The parkour game
 RunPunk:Theparkourgame
+RunQuadRun
 Runa Illustra
 RunaIllustra
 Runabout
@@ -62681,6 +62745,7 @@ SCREENSIDE STATION
 SCREENWOLF
 SCREEPS: ARENA
 SCREWBALL
+SCRIBBLE BOTS
 SCRIPTED LAND
 SCROLLS
 SCRONGLY
@@ -62803,6 +62868,7 @@ SEEDRIAN
 SEEDS
 SEEDS OF CALAMITY
 SEEDSTUDIOS
+SEEING RED
 SEEK AND SEDUCE: NAOMIE
 SEEKER OF THE RUINS
 SEEMA'S POGO
@@ -64119,6 +64185,7 @@ SNOPPY
 SNOPPY SNOPPY
 SNOPPYSNOPPY
 SNOW
+SNOW ASH
 SNOW BROTHERS
 SNOW JOB
 SNOW PLOWING SIMULATOR
@@ -64287,6 +64354,7 @@ SOME:TheHouse
 SOMECOMPANY
 SOMEONE CREEPY
 SOMETIMES TOAST IS O.K.
+SONG OF TWILIGHT
 SONGBIRD
 SONGBIRD PRODUCTIONS
 SONGBIRDPRODUCTIONS
@@ -66561,6 +66629,8 @@ ScreensideStation
 Screeps: Arena
 Screeps:Arena
 Screwball
+Scribble Bots
+ScribbleBots
 Scripted Land
 ScriptedLand
 Scrolls
@@ -66698,6 +66768,8 @@ Seedrian
 Seeds
 Seeds of Calamity
 SeedsofCalamity
+Seeing Red
+SeeingRed
 Seek and Seduce: Naomie
 SeekandSeduce:Naomie
 Seeker of the Ruins
@@ -68124,6 +68196,7 @@ Snoppy
 Snoppy Snoppy
 SnoppySnoppy
 Snow
+Snow Ash
 Snow Brothers
 Snow Job
 Snow Plowing Simulator
@@ -68131,6 +68204,7 @@ Snow Villiers
 Snow o Fall
 Snow x Hime
 Snow • Fall
+SnowAsh
 SnowBrothers
 SnowJob
 SnowPlowingSimulator
@@ -68315,9 +68389,11 @@ Someone Creepy
 SomeoneCreepy
 Sometimes Toast is O.K.
 SometimesToastisO.K.
+Song of Twilight
 Songbird
 Songbird Productions
 SongbirdProductions
+SongofTwilight
 Songs of Conquest
 SongsofConquest
 Sonia
@@ -71166,6 +71242,7 @@ THE BLACK POOL: ARENA SURVIVORS
 THE BLACK VAULT
 THE BLEAKEST KEEP
 THE BLOODY CROSS
+THE BOMB SPLIT
 THE BOOK OF AARU
 THE BOOK OF OUTCASTS
 THE BROTHERS HOTEL
@@ -71267,6 +71344,7 @@ THE ELF ON THE SHELF®: CHRISTMAS HEROES
 THE END GROWS
 THE END OF GAMEPLAY
 THE END OF HISTORY
+THE END OF PARADISE
 THE ENIGMA LOUNGE
 THE ENTITY WITHIN
 THE ERASED STUDENT
@@ -71402,6 +71480,7 @@ THE JUDGE
 THE KEY
 THE KINDLING
 THE KING IS WATCHING
+THE KING OF ASSASSINS - THE KINGDOM
 THE KING OF FIGHTERS
 THE KITCHEN KNIFE
 THE KREMLIN
@@ -71565,6 +71644,7 @@ THE PRECINCT SOUNDTRACK
 THE PREDECESSOR
 THE PRESIDENTIAL ASSASSINS
 THE PRESIDENTIAL ASSASSINS DEMO
+THE PRINCESS FACTORY
 THE PROTAGONIST
 THE PUB LIFE SIMULATOR: PROLOGUE
 THE PUNISHER
@@ -72336,6 +72416,7 @@ TOHOCOMPANY
 TOHOSUNRISE
 TOI 2 ATTACK
 TOILET BATTLE HERO
+TOILET FEMDOM 3: CHRISTMAS PUNKS
 TOILET FEMDOM: CHRISTMAS PARTY
 TOKA
 TOKAI
@@ -74093,6 +74174,7 @@ The Black Pool: Arena Survivors
 The Black Vault
 The Bleakest Keep
 The Bloody Cross
+The Bomb Split
 The Book of Aaru
 The Book of Outcasts
 The Brothers Hotel
@@ -74312,6 +74394,8 @@ The Judge
 The Key
 The Kindling
 The King is Watching
+The King of Assassins   The Kingdom
+The King of Assassins - The Kingdom
 The King of Fighters
 The Kitchen Knife
 The Kremlin
@@ -74456,6 +74540,7 @@ The Precinct Soundtrack
 The Predecessor
 The Presidential Assassins
 The Presidential Assassins Demo
+The Princess Factory
 The Protagonist
 The Pub Life Simulator: Prologue
 The Punisher
@@ -74585,6 +74670,7 @@ The Witcher 3: Wild Hunt - Complete Edition
 The World Ends in Ohio
 The Yapori Show Maker
 The death forest
+The end of paradise
 The evil mouse
 The happiness of maggots
 The last throne
@@ -74657,6 +74743,7 @@ TheBlackPool:ArenaSurvivors
 TheBlackVault
 TheBleakestKeep
 TheBloodyCross
+TheBombSplit
 TheBookofAaru
 TheBookofOutcasts
 TheBrothersHotel
@@ -74869,6 +74956,7 @@ TheJudge
 TheKey
 TheKindling
 TheKingisWatching
+TheKingofAssassins-TheKingdom
 TheKingofFighters
 TheKitchenKnife
 TheKremlin
@@ -75005,6 +75093,7 @@ ThePrecinctSoundtrack
 ThePredecessor
 ThePresidentialAssassins
 ThePresidentialAssassinsDemo
+ThePrincessFactory
 TheProtagonist
 ThePubLifeSimulator:Prologue
 ThePunisher
@@ -75122,6 +75211,7 @@ TheYaporiShowMaker
 Theanthria
 Theater
 Thedeathforest
+Theendofparadise
 Theevilmouse
 Theft
 Thehappinessofmaggots
@@ -75629,8 +75719,10 @@ TohoSunrise
 Toi 2 Attack
 Toi2Attack
 Toilet Battle Hero
+Toilet Femdom 3: Christmas Punks
 Toilet Femdom: Christmas Party
 ToiletBattleHero
+ToiletFemdom3:ChristmasPunks
 ToiletFemdom:ChristmasParty
 Toka
 Tokai
@@ -76935,6 +77027,7 @@ UPGRADE! INC.
 UPIN & IPIN UNIVERSE
 UPL
 UPLAN
+UPLOAD
 UPLOAD LABS
 UPON
 UPSTAR
@@ -77583,6 +77676,7 @@ VER
 VERA
 VERA JONES
 VERAN
+VERBMEISTER
 VEREESA
 VEREESA COURSEVENT
 VEREESACOURSEVENT
@@ -78285,6 +78379,7 @@ Vera
 Vera Jones
 VeraJones
 Veran
+VerbMeister
 Vereesa
 Vereesa Coursevent
 VereesaCoursevent
@@ -79050,9 +79145,11 @@ WATCH
 WATCH DOGS
 WATCH THE CORNLINE VR
 WATCH THE PET
+WATCH?
 WATCHDOGS
 WATCHER FROM THE VOID
 WATCHER'S EYE
+WATCH▷
 WATER
 WATER BUCKET
 WATER OF M
@@ -79693,6 +79790,8 @@ WTC : THE MANCHESTER REPORT
 WTC : The Manchester Report
 WTC:Love'sLabour'sLost
 WTC:TheManchesterReport
+WTF AM I PLAYING?!
+WTFAMIPLAYING?!
 WU XING  CHESS
 WUCHANG: FALLEN FEATHERS
 WUCHANG: Fallen Feathers
@@ -82002,6 +82101,7 @@ ZOMBI EFEM
 ZOMBIE
 ZOMBIE ANTS VR: DEFINITIVE EDITION
 ZOMBIE CITY
+ZOMBIE DEATH DAY
 ZOMBIE DEMOLITION: INFINITE ZOMBIE SHOOTER
 ZOMBIE DINER SIMULATOR 🥩 💀
 ZOMBIE GRAVEYARD SIMULATOR
@@ -82318,6 +82418,7 @@ ZombiEfem
 Zombie
 Zombie Ants VR: Definitive Edition
 Zombie City
+Zombie Death Day
 Zombie Demolition: Infinite Zombie Shooter
 Zombie Diner Simulator ? ?
 Zombie Diner Simulator 🥩 💀
@@ -82343,6 +82444,7 @@ Zombie Villager Spawn
 Zombie Villager Spawn Egg
 ZombieAntsVR:DefinitiveEdition
 ZombieCity
+ZombieDeathDay
 ZombieDemolition:InfiniteZombieShooter
 ZombieDinerSimulator🥩💀
 ZombieGraveyardSimulator
@@ -82499,6 +82601,7 @@ a night filled with the sound of rain
 a pig game: A Pee Wee Premiere
 a pig game: a pee wee premiere
 a pinball game that makes you mad
+a plague tale: innocence
 a porter story
 a promise best left unkept - aya edition
 a realm of eternity
@@ -83011,6 +83114,7 @@ aime
 aimtechnology
 aimé
 air
+air blitz
 air control
 air dash: sky racing simulator
 air fleet
@@ -84301,6 +84405,7 @@ asteroids deluxe
 asteroidsdeluxe
 astra
 astra ignota
+astracordis access terminal
 astragon
 astral
 astral : steam edition
@@ -89113,6 +89218,7 @@ coyote
 coyote developments
 coyotedevelopments
 cozesouci
+cozy caravan
 cozy crunch
 cozy cult
 cozy farm
@@ -89881,6 +89987,7 @@ damia
 damiano
 damiano mazzella
 damianomazzella
+damn gravity!
 damour
 dampierre
 daméthyste
@@ -90267,6 +90374,7 @@ deadoralive
 deadoralive2
 deadrising
 deadrock redemption 2
+deadrock salvation
 deadside
 deadspace
 deadtime defenders
@@ -92741,6 +92849,7 @@ entertainment
 entertainment int
 entertainmentint
 entex
+entity: the black day
 entonnoir
 entraineur
 entraineurl
@@ -93079,6 +93188,7 @@ everybodys tennis
 everybodysgolf
 everybodystennis
 everyday devil
+everyday i play board games with a summoned eldritch girl
 everything i know, and everything i'm ever gonna know demo
 evil
 evil bird simulator
@@ -95984,6 +96094,7 @@ grave bros
 gravebound
 gravehold: survival
 gravelli
+gravichess
 gravitee
 graviton flux
 gravitrix
@@ -97027,6 +97138,7 @@ hentai clicker: cathy is streaming
 hentai clicker: valentine is streaming
 hentai clicker: yumi is streaming
 hentai furry bunny
+hentai furry cow
 hentai furry foxy
 hentai furry pony
 hentai girls : sexy maid party
@@ -97100,6 +97212,7 @@ hermantoothrot
 hero
 hero in an all-forgiving fantasy world rpg
 hero of the hive
+hero seekers
 herocraft
 heroes
 heroes of hammerwatch ii
@@ -99241,6 +99354,7 @@ jolly
 jolly junction: static screams
 jolly land adventure
 joltstone
+joltt - battle pillars
 jon
 jonas
 jonathan
@@ -100028,6 +100142,7 @@ kinkaide
 kinky cats 🔞
 kinneas
 kino
+kinsfolk
 kintaro
 kip
 kira
@@ -101536,6 +101651,7 @@ lif
 lif lif
 life
 life force
+life in rio
 life is
 life is strange
 life of a dispatch english teacher in japan
@@ -102777,6 +102893,7 @@ marathon
 marble
 marble drop
 marble heartstrings
+marble hero
 marble madness
 marble quest
 marble's marbles
@@ -104549,6 +104666,7 @@ moonlight chess
 moonlight traveler
 moonlighter
 moonlighter 2: the endless vault
+moonlost
 moonman: the game
 moonpatrol
 moonshark
@@ -106915,6 +107033,7 @@ onirism
 online
 online records: unknown seller
 only cards
+only down: not up!
 only dwarves dig proper holes
 only dwarves dig proper holes demo
 only hard
@@ -107131,6 +107250,7 @@ ours
 oursin
 oursula
 out
+out of order zero
 out of stock!
 out of the park
 out of the park baseball
@@ -110315,6 +110435,7 @@ reine des abeilles
 reinedesabeilles
 reinhardt
 reizei
+rela
 relapse
 relational
 relational systems
@@ -110349,6 +110470,7 @@ remember
 remember me
 remembering emily
 reminiscence
+reminiscence of gusuku: card and explore
 remnants of the rift
 remo
 remote miner co.
@@ -111156,6 +111278,7 @@ ruminanase
 rumor raiders
 rumours of a roman empire
 run
+run quad run
 run, veggies!
 runa illustra
 runabout
@@ -111786,6 +111909,7 @@ screenside station
 screenwolf
 screeps: arena
 screwball
+scribble bots
 scripted land
 scrolls
 scrongly
@@ -111901,6 +112025,7 @@ seedrian
 seeds
 seeds of calamity
 seedstudios
+seeing red
 seek and seduce: naomie
 seeker of the ruins
 seema's pogo
@@ -113146,6 +113271,7 @@ snoppy
 snoppy snoppy
 snoppysnoppy
 snow
+snow ash
 snow brothers
 snow job
 snow plowing simulator
@@ -113315,6 +113441,7 @@ some: the house
 somecompany
 someone creepy
 sometimes toast is o.k.
+song of twilight
 songbird
 songbird productions
 songbirdproductions
@@ -115812,6 +115939,7 @@ the black pool: arena survivors
 the black vault
 the bleakest keep
 the bloody cross
+the bomb split
 the book of aaru
 the book of outcasts
 the brothers hotel
@@ -115912,6 +116040,7 @@ the elf on the shelf®: christmas heroes
 the end grows
 the end of gameplay
 the end of history
+the end of paradise
 the enigma lounge
 the entity within
 the erased student
@@ -116039,6 +116168,7 @@ the judge
 the key
 the kindling
 the king is watching
+the king of assassins - the kingdom
 the king of fighters
 the kitchen knife
 the kremlin
@@ -116201,6 +116331,7 @@ the precinct soundtrack
 the predecessor
 the presidential assassins
 the presidential assassins demo
+the princess factory
 the protagonist
 the pub life simulator: prologue
 the punisher
@@ -116957,6 +117088,7 @@ tohocompany
 tohosunrise
 toi 2 attack
 toilet battle hero
+toilet femdom 3: christmas punks
 toilet femdom: christmas party
 toka
 tokai
@@ -118140,6 +118272,7 @@ upgrade! inc.
 upin & ipin universe
 upl
 uplan
+upload
 upload labs
 upon
 upstar
@@ -118396,6 +118529,7 @@ ver
 vera
 vera jones
 veran
+verbmeister
 vereesa
 vereesa coursevent
 vereesacoursevent
@@ -119137,6 +119271,7 @@ watch the pet
 watchdogs
 watcher from the void
 watcher's eye
+watch▷
 water
 water bucket
 water of m
@@ -119757,6 +119892,7 @@ wrock
 wrockgames
 wtc : love's labour's lost
 wtc : the manchester report
+wtf am i playing?!
 wu xing  chess
 wuchang: fallen feathers
 wuhu
@@ -120436,6 +120572,7 @@ zombi efem
 zombie
 zombie ants vr: definitive edition
 zombie city
+zombie death day
 zombie demolition: infinite zombie shooter
 zombie diner simulator 🥩 💀
 zombie graveyard simulator
@@ -121198,6 +121335,7 @@ zèbre
 蜀汉再临：源起 Restart ShuHan Dynasty:Origin
 蜀汉再临：源起 restart shuhan dynasty:origin
 蜀汉再临：源起RestartShuHanDynasty:Origin
+蜉蝣之国的囚徒
 血姬：双生  Vampiress: Eternal Duet 
 血姬：双生 (VAMPIRESS: ETERNAL DUET)
 血姬：双生 (Vampiress: Eternal Duet)
