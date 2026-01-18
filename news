@@ -9814,8 +9814,10 @@ BOLOGNA INTER
 BOLOGNA MILAN
 BOLOGNA,  INTER
 BOLOGNE
+BOLOGNE - FIORENTINA
 BOLOGNE – AC MILAN
 BOLOGNE – CAGLIARI
+BOLOGNE – FIORENTINA
 BOLOGNE – INTER
 BOLOGNE – JUVENTUS
 BOLOGNE – LAZIO
@@ -32501,6 +32503,7 @@ GENT  STANDARD
 GENT  STVV
 GENT  UNION
 GENT  ZULTE-WAREGEM
+GENT - ANDERLECHT
 GENT - BEERSCHOT VA
 GENT - CLUB BRUGGE
 GENT - EUPEN
@@ -36234,6 +36237,7 @@ HENRI PFR
 HENRI SANNIER
 HENRI TACHAN
 HENRI VERNES
+HENRIK KRISTOFFERSEN
 HENRIQUE ROCHA
 HENRY BERNET
 HENRY CAVILL
@@ -44633,7 +44637,9 @@ KOBA LAD
 KOBBIE MAINOO
 KOBE BRYANT
 KOCAELISPOR - GALATASARAY
+KOCAELISPOR - TRABZONSPOR
 KOCAELISPOR – GALATASARAY
+KOCAELISPOR – TRABZONSPOR
 KODAK BLACK
 KOEKELARE
 KOEN BOUWMAN
@@ -46499,6 +46505,7 @@ LA FRANCE INSOUMISE
 LA FRENCH
 LA FUGUEUSE
 LA GANTOISE
+LA GANTOISE - ANDERLECHT
 LA GANTOISE – ANDERLECHT
 LA GANTOISE – OH LOUVAIN
 LA GANTOISE – STANDARD
@@ -53280,6 +53287,7 @@ MAROKKO GEGEN BRASILIEN
 MAROKKO GEGEN KROATIEN
 MAROKKO GEGEN PORTUGAL
 MAROKKO GEGEN SPANIEN
+MAROKKO SENEGAL
 MAROKKO SPANIEN
 MAROKKO WESTELIJKE SAHARA
 MAROON 5 CHAMBORD
@@ -64644,6 +64652,7 @@ PARKINSON MICHAEL J. FOX
 PARKWAY DRIVE
 PARLEMENT BRUXELLOIS
 PARMA - FIORENTINA
+PARMA - GENOA
 PARME - UDINESE
 PARME – BOLOGNE
 PARME – UDINESE
@@ -74902,6 +74911,7 @@ SERRES ROYALES DE LAEKEN
 SERVAL
 SERVETTE
 SERVETTE  RANGERS
+SERVETTE - ZURICH
 SERVETTE BRAGA
 SERVETTE CHELSEA
 SERVETTE FC
@@ -76331,6 +76341,7 @@ STRASBOURG – LILLE
 STRASBOURG – LORIENT
 STRASBOURG – LYON
 STRASBOURG – MARSEILLE
+STRASBOURG – METZ
 STRASBOURG – MONACO
 STRASBOURG – MONTPELLIER
 STRASBOURG – NICE
@@ -82538,6 +82549,7 @@ TOURNOI DE FRANCE
 TOURNOI DES 6 NATIONS
 TOURNOI DES 6 NATIONS 2022
 TOURNOI DES 6 NATIONS 2023
+TOURNOI DES 6 NATIONS 2026
 TOURNOI DES 6 NATIONS FÉMININ
 TOURNOI DES SIX NATIONS
 TOURNOIDES6NATIONS
@@ -82655,6 +82667,7 @@ TRENT ALEXANDER-ARNOLD
 TRENTINO
 TREUENBRIETZEN
 TREVISAN
+TREVISE
 TREVOR FRANCIS
 TREVOR NOAH
 TREVOR STRNAD
@@ -89726,6 +89739,7 @@ WOLVERHAMPTON GEGEN LIVERPOOL
 WOLVES - BRIGHTON
 WOLVES - EVERTON
 WOLVES - LEEDS UNITED
+WOLVES - NEWCASTLE
 WOLVES – ARSENAL
 WOLVES – BRIGHTON
 WOLVES – EVERTON
@@ -89734,6 +89748,7 @@ WOLVES – LEICESTER
 WOLVES – LIVERPOOL
 WOLVES – MAN CITY
 WOLVES – MANCHESTER UNITED
+WOLVES – NEWCASTLE
 WOLVES – TOTTENHAM
 WOMEN'S DAY
 WOMEN'S WORLD CUP 2023
@@ -97464,14 +97479,18 @@ bologna inter
 bologna milan
 bologna,  inter
 bologne
+bologne - fiorentina
 bologne – ac milan
 bologne – cagliari
+bologne – fiorentina
 bologne – inter
 bologne – juventus
 bologne – lazio
 bologne – lille
 bologne – milan
+bologne-fiorentina
 bologne–cagliari
+bologne–fiorentina
 bologne–lazio
 bolsonaro
 boltanski
@@ -101668,6 +101687,7 @@ daniellevy
 danielmickelson
 danielpolette
 danielradcliffe
+danielyule
 daniil medvedev
 daniil medwedew
 daniilmedvedev
@@ -107523,6 +107543,7 @@ gent  standard
 gent  stvv
 gent  union
 gent  zulte-waregem
+gent - anderlecht
 gent - beerschot va
 gent - club brugge
 gent - eupen
@@ -107535,6 +107556,7 @@ gent oostende
 gent qarabag
 gent voetbal
 gent wevelgem 2022
+gent-anderlecht
 gent-beerschotva
 gent-paok
 gent-standard
@@ -109400,6 +109422,8 @@ henri tachan
 henri vernes
 henrigiscardd'estaing
 henriguybet
+henrik kristoffersen
+henrikkristoffersen
 henrique rocha
 henriquerocha
 henrisannier
@@ -111211,6 +111235,7 @@ jacques villeret
 jacques weber
 jacques-brel
 jacquesanquetil
+jacquesattali
 jacquesaudiard
 jacqueslegros
 jacqueslegrostf1
@@ -113624,9 +113649,13 @@ kobbiemainoo
 kobe bryant
 kocaelispor  galatasaray
 kocaelispor - galatasaray
+kocaelispor - trabzonspor
 kocaelispor – galatasaray
+kocaelispor – trabzonspor
 kocaelispor-galatasaray
+kocaelispor-trabzonspor
 kocaelispor–galatasaray
+kocaelispor–trabzonspor
 kodak black
 koekelare
 koen bouwman
@@ -114102,6 +114131,7 @@ la france insoumise
 la french
 la fugueuse
 la gantoise
+la gantoise - anderlecht
 la gantoise – anderlecht
 la gantoise – oh louvain
 la gantoise – standard
@@ -114307,6 +114337,8 @@ lafesse
 lafinefleur
 lafleurdumal
 lafouinesionsouslesetoiles
+lagantoise-anderlecht
+lagantoise–anderlecht
 lage landenlijst
 lago di molveno
 lago konstanz
@@ -118010,8 +118042,10 @@ marokko gegen brasilien
 marokko gegen kroatien
 marokko gegen portugal
 marokko gegen spanien
+marokko senegal
 marokko spanien
 marokko westelijke sahara
+marokkosenegal
 marokkowestelijkesahara
 maroon 5 chambord
 maroon5chambord
@@ -122794,8 +122828,11 @@ parkinson michael j. fox
 parkway drive
 parlement bruxellois
 parma  fiorentina
+parma  genoa
 parma - fiorentina
+parma - genoa
 parma-fiorentina
+parma-genoa
 parme - udinese
 parme – bologne
 parme – udinese
@@ -128061,6 +128098,7 @@ serres royales de laeken
 serval
 servette
 servette  rangers
+servette - zurich
 servette braga
 servette chelsea
 servette fc
@@ -128080,9 +128118,11 @@ servette – luzern
 servette – st.gallen
 servette – winterthur
 servette – zürich
+servette-zurich
 servettefc
 servette–bâle
 servette–fcb
+servette–zürich
 service militaire obligatoire belgique
 servië  zwitserland
 servus tv
@@ -129697,6 +129737,7 @@ strasbourg – lille
 strasbourg – lorient
 strasbourg – lyon
 strasbourg – marseille
+strasbourg – metz
 strasbourg – monaco
 strasbourg – montpellier
 strasbourg – nice
@@ -129705,8 +129746,10 @@ strasbourg – reims
 strasbourg – rennes
 strasbourg – saint-étienne
 strasbourg-brest
+strasbourg-metz
 strasbourgdunkerque
 strasbourg–brest
+strasbourg–metz
 strasse von hormus
 strassenverkehrsamt zürich
 strassevonhormus
@@ -132101,8 +132144,10 @@ tournoi de france
 tournoi des 6 nations
 tournoi des 6 nations 2022
 tournoi des 6 nations 2023
+tournoi des 6 nations 2026
 tournoi des 6 nations féminin
 tournoi des six nations
+tournoides6nations2026
 tourofbritain2025
 tourofbritainlive
 tours
@@ -132242,6 +132287,7 @@ trentalexander-arnold
 trentino
 treuenbrietzen
 trevisan
+trevise
 trevor francis
 trevor noah
 trevor strnad
@@ -135164,6 +135210,7 @@ wolverhampton-brighton
 wolves - brighton
 wolves - everton
 wolves - leeds united
+wolves - newcastle
 wolves – arsenal
 wolves – brighton
 wolves – everton
@@ -135172,14 +135219,17 @@ wolves – leicester
 wolves – liverpool
 wolves – man city
 wolves – manchester united
+wolves – newcastle
 wolves – tottenham
 wolves-brighton
 wolves-everton
 wolves-leedsunited
+wolves-newcastle
 wolves–brighton
 wolves–everton
 wolves–leedsunited
 wolves–leicester
+wolves–newcastle
 wolves–tottenham
 women's day
 women's world cup 2023
