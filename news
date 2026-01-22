@@ -199,6 +199,7 @@
 12 COUPS DE MIDI EMILIEN ELIMINE
 12 COUPS DE MIDI EMILIEN XAVIER
 12 COUPS DE MIDI EMILIEN ÉLIMINÉ
+12 COUPS DE MIDI ETOILE MYSTERIEUSE
 12 COUPS DE MIDI ÉTOILE MYSTÉRIEUSE
 12 FEBRUAR VOLLMOND
 12 coups de midi
@@ -206,6 +207,7 @@
 12 coups de midi emilien elimine
 12 coups de midi emilien xavier
 12 coups de midi emilien éliminé
+12 coups de midi etoile mysterieuse
 12 coups de midi étoile mystérieuse
 12 februar vollmond
 12-12
@@ -215,6 +217,7 @@
 12coupsdemidiemilienelimine
 12coupsdemidiemilienxavier
 12coupsdemidiemilienéliminé
+12coupsdemidietoilemysterieuse
 12coupsdemidiétoilemystérieuse
 12februarvollmond
 13 NOVEMBRE
@@ -3126,6 +3129,7 @@ ARK: Survival Ascended
 ARK:SurvivalAscended
 ARKEA ULTIM CHALLENGE
 ARKEMA
+ARKNIGHTS ENDFIELD
 ARLANXEO
 ARLES
 ARLETTE CHABOT
@@ -3751,6 +3755,7 @@ AUSTRALIAN OPEN
 AUSTRALIAN OPEN 2023
 AUSTRALIAN OPEN 2024
 AUSTRALIAN OPEN 2025
+AUSTRALIAN OPEN 2026
 AUSTRALIE
 AUSTRALIE FRANCE
 AUSTRALIE GEORGIE
@@ -9726,6 +9731,7 @@ BO BRAGASON
 BO COOLSAET
 BO HENRIKSEN
 BO VAN SPILBEECK
+BOARD OF PEACE
 BOATENG
 BOB BARKER
 BOB BRYAR
@@ -20286,6 +20292,7 @@ DAHBIA B
 DAHBIA BENKIRED
 DAHLIA SKY
 DAHMER
+DAILLENS
 DAISY JONES AND THE SIX
 DAISY RIDLEY
 DAKAR 2022
@@ -32963,6 +32970,7 @@ GOLF DU MEXIQUE
 GOLF VON MEXIKO
 GOLF-OLYMPIA
 GOLFCLUB
+GOLFE DE GASCOGNE
 GOLFVONMEXIKO
 GOLO ET RITCHIE
 GOLSHIFTEH FARAHANI
@@ -54128,6 +54136,7 @@ METEO REUNION CYCLONE FREDDY
 METEO SCHWEIZ
 METEO SUISSE
 METEO TEMPETE EOWYN
+METEO TEMPETE INGRID
 METEO VIGILANCE NEIGE-VERGLAS
 METEO WATERLOO
 METEO ZURICH
@@ -60421,6 +60430,7 @@ NEURALINK. ELON MUSK
 NEUROFIBROMATOSE
 NEUROPATHIE
 NEUSCHWANSTEIN
+NEUSEELAND ERDRUTSCH
 NEUSEELAND UNWETTER
 NEVER HAVE I EVER
 NEVERS
@@ -66177,6 +66187,7 @@ PRONOTE
 PROROGER
 PROSIEBEN
 PROSTATAKREBS JOE BIDEN
+PROSULFOCARBE
 PROTECTION UNIT
 PROTOCOLE SANITAIRE ECOLE
 PROTOXYDE D'AZOTE
@@ -69444,6 +69455,7 @@ QUARANTÄNE-REGELN
 QUART DE FINALE COUPE DU MONDE 2022
 QUATAR
 QUATENNENS
+QUATRE JEUNES DISPARUS
 QUAVO
 QUE FAIRE
 QUEBEC
@@ -70300,6 +70312,7 @@ REIMS – RENNES
 REIMS – SAINT-ÉTIENNE
 REIMS – STRASBOURG
 REIMS – USL DUNKERQUE
+REIN VAN HELDEN
 REINE BERTHE
 REINE CONSORT
 REINE ELIZABETH
@@ -70936,6 +70949,7 @@ ROI CHARLES III
 ROI D'ESPAGNE
 ROI DU MAROC
 ROI PHILIPPE
+ROI PHILIPPE DONALD TRUMP
 ROI PHILIPPE ET REINE MATHILDE
 ROIS MAGES
 ROISIN MURPHY
@@ -81657,6 +81671,7 @@ THE DARKEST MINDS
 THE DAY BEFORE
 THE DAY BEFORE TOMORROW
 THE DEMON HOUSE
+THE DINING ROOM
 THE DOORS
 THE DUCHESS
 THE DUKE
@@ -82018,6 +82033,7 @@ TICKET MASTER
 TICKETMASTER
 TICKETMASTER BAD BUNNY
 TICKETMASTER BRUNO MARS
+TICKETMASTER BTS
 TICKETMASTER TAYLOR SWIFT
 TICKETMASTER UK
 TICKETS BRUCE SPRINGSTEEN
@@ -86213,6 +86229,7 @@ URUGUAY – BRASILIEN
 URUGUAY – CORÉE DU SUD
 URUGUAY – FRANCE
 URUGUAY-NAMIBIE
+US HANDELSMINISTER AUSGEBUHT
 US INFLATIONSDATEN
 US OPEN
 US OPEN 2021
@@ -87303,6 +87320,7 @@ VIANNEY
 VIAPLAY
 VICE-VERSA 2
 VICENTE FERNANDEZ
+VICHY
 VICKY KRIEPS
 VICKY LEANDROS
 VICTIME
@@ -94864,6 +94882,8 @@ arjen lubach
 ark: survival ascended
 arkea ultim challenge
 arkema
+arknights endfield
+arknightsendfield
 arlanxeo
 arles
 arlette chabot
@@ -95573,8 +95593,10 @@ australian open
 australian open 2023
 australian open 2024
 australian open 2025
+australian open 2026
 australianopen
 australianopen2025
+australianopen2026
 australiavsindia
 australiavssouthafrica
 australie
@@ -97440,6 +97462,8 @@ bo bragason
 bo coolsaet
 bo henriksen
 bo van spilbeeck
+board of peace
+boardofpeace
 boateng
 bob barker
 bob bryar
@@ -100106,6 +100130,7 @@ christine ockrent
 christine thürmer
 christineengrand
 christinekelly
+christinelagarde
 christmas
 christo
 christo popov
@@ -101625,6 +101650,7 @@ dahbia benkired
 dahbiabenkired
 dahlia sky
 dahmer
+daillens
 daisy jones and the six
 daisy ridley
 dakar 2022
@@ -108148,6 +108174,8 @@ golf von mexiko
 golf-olympia
 golfclub
 golfdumexique
+golfe de gascogne
+golfedegascogne
 golfvonmexiko
 golo et ritchie
 golshifteh farahani
@@ -119092,6 +119120,7 @@ meteo reunion cyclone freddy
 meteo schweiz
 meteo suisse
 meteo tempete eowyn
+meteo tempete ingrid
 meteo vigilance neige-verglas
 meteo waterloo
 meteo zurich
@@ -119111,6 +119140,7 @@ meteorite brest
 meteorologischer frühlingsanfang
 meteoschweiz
 meteosuisse
+meteotempeteingrid
 meteovista
 metformin
 methode singapour
@@ -120949,7 +120979,9 @@ neuralink. elon musk
 neurofibromatose
 neuropathie
 neuschwanstein
+neuseeland erdrutsch
 neuseeland unwetter
+neuseelanderdrutsch
 never have i ever
 nevers
 new balance
@@ -124607,6 +124639,7 @@ prinzernstaugustvonhannover
 prinzessin kate
 prinzessin kate krebs
 prisca thevenot
+priscathevenot
 priscilla hon
 priscilla pointer
 priscilla presley
@@ -124721,6 +124754,7 @@ proroger
 prosieben
 prostatakrebs joe biden
 prostatakrebsjoebiden
+prosulfocarbe
 protection unit
 protocole sanitaire ecole
 protoxyde d'azote
@@ -124997,6 +125031,8 @@ quarantäne-regeln
 quart de finale coupe du monde 2022
 quatar
 quatennens
+quatre jeunes disparus
+quatrejeunesdisparus
 quavo
 que faire
 quebec
@@ -125785,6 +125821,7 @@ reims – strasbourg
 reims – usl dunkerque
 reims-usldunkerque
 reims–usldunkerque
+rein van helden
 reine berthe
 reine consort
 reine elizabeth
@@ -125797,6 +125834,7 @@ reiner calmund
 reinhard mey
 reinhilde decleir
 reinhold messner
+reinvanhelden
 reisbeperkingen spanje
 reiteralm
 reitschule bern
@@ -126492,9 +126530,11 @@ roi charles iii
 roi d'espagne
 roi du maroc
 roi philippe
+roi philippe donald trump
 roi philippe et reine mathilde
 roicharles
 roiphilippe
+roiphilippedonaldtrump
 rois mages
 roisin murphy
 rokhaya diallo
@@ -131147,6 +131187,7 @@ the darkest minds
 the day before
 the day before tomorrow
 the demon house
+the dining room
 the doors
 the duchess
 the duke
@@ -131319,6 +131360,7 @@ thebatman2
 thebeastinme
 thecry
 thecure
+thediningroom
 thegreatlakesstate
 thehuntforgollum
 thelastofus3
@@ -131566,10 +131608,12 @@ ticket master
 ticketmaster
 ticketmaster bad bunny
 ticketmaster bruno mars
+ticketmaster bts
 ticketmaster taylor swift
 ticketmaster uk
 ticketmasterbadbunny
 ticketmasterbrunomars
+ticketmasterbts
 ticketmasteruk
 tickets bruce springsteen
 tickets madonna
@@ -133361,6 +133405,7 @@ uruguay – brasilien
 uruguay – corée du sud
 uruguay – france
 uruguay-namibie
+us handelsminister ausgebuht
 us inflationsdaten
 us open
 us open 2021
@@ -133401,6 +133446,7 @@ usb-c
 uschi glas
 usdt
 usha vance
+ushandelsministerausgebuht
 ushavance
 usher
 ushuaia
@@ -133970,6 +134016,7 @@ vianney
 viaplay
 vice-versa 2
 vicente fernandez
+vichy
 vicky krieps
 vicky leandros
 victime
