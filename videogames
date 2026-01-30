@@ -1090,12 +1090,15 @@
 6rooms
 7
 7 DAYS
+7 DAYS TO DIE
 7 Days
+7 Days to Die
 7 STUDIOS
 7 Studios
 7 WONDERS
 7 Wonders
 7 days
+7 days to die
 7 studios
 7 wonders
 75 DEMONS
@@ -1109,6 +1112,7 @@
 7821 akuji
 7821Akuji
 7Days
+7DaystoDie
 7STUDIOS
 7Studios
 7TH
@@ -1346,6 +1350,7 @@
 ??????? - Demonic Mahjong
 ??????? 44 Hidden Naomis
 ??????? ?????!2
+??????? ???????????? in ???????
 ??????? NullKitchenException
 ??????? Taihe's Crazy Farm
 ??????? ~parallel~
@@ -1364,6 +1369,8 @@
 ????????? ~ Endless Black Song
 ????????? ~succubus quest~
 ?????????-Dandelion Planet-
+?????????2.5
+?????????2.5:?????
 ??????????
 ???????????
 ??????????? -goodbye world index
@@ -1395,6 +1402,7 @@
 ????Ninth Identity
 ????TASOGARE
 ???Shankala
+???|KOKUTOTO
 ??CEO????!
 ??Online
 ??Ready!
@@ -3759,6 +3767,7 @@ AUTHORITIES
 AUTO
 AUTO CRISIS
 AUTO DUNGEON
+AUTO FARM
 AUTO JURASSIC KNIGHTS DEMO
 AUTO SNAKES IN OUTER SPACE
 AUTO-CRISIS
@@ -3777,6 +3786,7 @@ AUTOMATEDSIMULATIONS
 AUTOMATEDSIMULATIONS,INC
 AUTOMATEDSIMULATIONSINC
 AUTOMATIC GUARD IMPACT
+AUTOMATIC KINGDOM
 AUTOMATICGUARDIMPACT
 AUTRES
 AUTRES ESPECES
@@ -6085,10 +6095,12 @@ Austin
 Australia
 Auto
 Auto Dungeon
+Auto Farm
 Auto Jurassic Knights Demo
 Auto Snakes in Outer Space
 AutoCraft
 AutoDungeon
+AutoFarm
 AutoJurassicKnightsDemo
 AutoSnakesinOuterSpace
 Autobahn Police Simulator 3   Police Motorcycle
@@ -6110,7 +6122,9 @@ AutomatedSimulations
 AutomatedSimulations,Inc
 AutomatedSimulationsInc
 Automatic Guard Impact
+Automatic Kingdom
 AutomaticGuardImpact
+AutomaticKingdom
 Autres
 Autres especes
 Autres espèces
@@ -6395,6 +6409,7 @@ BAD JANITOR
 BAD MIDWIFE
 BAD MONKEE
 BAD RAYMAN
+BADASS BRIGADE DEMO
 BADD
 BADGER
 BADMAN
@@ -7132,6 +7147,7 @@ BENT
 BENT ON DESTRUCTION
 BENT SPOON
 BENT SPOON GAMES
+BENTO BLOCKS
 BENTSPOON
 BENTSPOONGAMES
 BERCTHUN
@@ -8399,6 +8415,7 @@ BRIANLARACRICKET
 BRIANO'TOOLE
 BRIANOTOOLE
 BRICK
+BRICK LAYER
 BRICKED UP
 BRIDGE
 BRIDGE RACE: BUSY DLC
@@ -8695,6 +8712,7 @@ BURNED ONE
 BURNER
 BURNERSPHERE
 BURNING
+BURNING BOUNDARIES PART 1
 BURNING RANGERS
 BURNINGRANGERS
 BURNIS
@@ -8918,6 +8936,8 @@ BadJanitor
 BadMidwife
 BadMonkee
 BadRayman
+Badass Brigade Demo
+BadassBrigadeDemo
 Badd
 Badger
 Badman
@@ -9650,6 +9670,8 @@ Bent Spoon Games
 Bent on Destruction
 BentSpoon
 BentSpoonGames
+Bento Blocks
+BentoBlocks
 BentonDestruction
 Bercthun
 Bercthun Bercthun
@@ -11034,6 +11056,8 @@ BrianLaraCricket
 BrianO'Toole
 BrianOToole
 Brick
+Brick Layer
+BrickLayer
 Bricked Up
 BrickedUp
 Bridge
@@ -11375,7 +11399,9 @@ BurnedOne
 Burner
 BurnerSphere
 Burning
+Burning Boundaries Part 1
 Burning Rangers
+BurningBoundariesPart1
 BurningRangers
 Burnis
 Burnis Burnis
@@ -11874,6 +11900,7 @@ CARRY LAB
 CARRYLAB
 CARS
 CART CAPERS
+CART PANIC! OS - E-COMMERCE TYCOON
 CARTAIGH
 CARTE
 CARTE DES ANKHEGS
@@ -12793,6 +12820,7 @@ CITY NOODLE SHOP SIMULATOR
 CITY OF SIN - THE NOCTURNE FILES [EP1]
 CITY OF SPRINGS
 CITY OF SPRINGS - DELUXE EDITION
+CITY TALES - MEDIEVAL ERA
 CITY TRANSPORT SIMULATOR - BUS DLC: MAN LION'S CITY A23
 CITY TRANSPORT SIMULATOR - TRAM DLC: GT6
 CITY TRANSPORT SIMULATOR: BUS
@@ -13043,6 +13071,12 @@ CODE MONKEYS
 CODE MYSTICS
 CODE VEIN
 CODE VEIN II
+CODE VEIN II   Deluxe Upgrade Pack
+CODE VEIN II   Ultimate Upgrade Pack
+CODE VEIN II - DELUXE UPGRADE PACK
+CODE VEIN II - Deluxe Upgrade Pack
+CODE VEIN II - ULTIMATE UPGRADE PACK
+CODE VEIN II - Ultimate Upgrade Pack
 CODE: PANDORA 2
 CODE:PANDORA2
 CODEBASE
@@ -13056,6 +13090,8 @@ CODERCHILD
 CODERS
 CODEVEIN
 CODEVEINII
+CODEVEINII-DeluxeUpgradePack
+CODEVEINII-UltimateUpgradePack
 CODIM
 CODIM INTERACTIVE
 CODIM INTERACTIVE MEDIA
@@ -13887,6 +13923,7 @@ CRITERION STUDIOS
 CRITERIONSTUDIOS
 CRITICAL
 CRITICAL FINISH
+CRITICAL INTERROGATOR: MESSIAH HUNT
 CRITICAL THOUGHT
 CRITICAL THOUGHT GAMES
 CRITICALFINISH
@@ -14658,7 +14695,10 @@ Carry Lab
 CarryLab
 Cars
 Cart Capers
+Cart Panic! OS   E Commerce Tycoon
+Cart Panic! OS - E-Commerce Tycoon
 CartCapers
+CartPanic!OS-E-CommerceTycoon
 Cartaigh
 Carte
 Carte des ankhegs
@@ -15631,6 +15671,8 @@ City Interactive
 City Lights, Old Flames
 City Noodle Shop Simulator
 City Racing
+City Tales   Medieval Era
+City Tales - Medieval Era
 City Transport Simulator   Bus DLC: MAN Lion's City A23
 City Transport Simulator   Tram DLC: GT6
 City Transport Simulator - Bus DLC: MAN Lion s City A23
@@ -15652,6 +15694,7 @@ CityDefenseZ
 CityInteractive
 CityLights,OldFlames
 CityNoodleShopSimulator
+CityTales-MedievalEra
 CityTransportSimulator-BusDLC:MANLion'sCityA23
 CityTransportSimulator-TramDLC:GT6
 CityTransportSimulator:Bus
@@ -16852,8 +16895,10 @@ Criterion
 Criterion Studios
 CriterionStudios
 Critical
+Critical Interrogator: Messiah Hunt
 Critical Thought
 Critical Thought Games
+CriticalInterrogator:MessiahHunt
 CriticalThought
 CriticalThoughtGames
 Critter Box
@@ -17578,6 +17623,7 @@ DARK WIZARDS WORLD PACK
 DARKBLACK
 DARKCHAMBERS
 DARKENERGY
+DARKEST DUNGEON®
 DARKFANTASY
 DARKFIGHTER
 DARKFORCES
@@ -19032,6 +19078,7 @@ DOUGLASESMITH
 DOURS
 DOVE DAYS : TIME FLIES
 DOWN THE RABBIT HOLE FLATTENED
+DOWN WITH HELL: CRYSTAL
 DOWN WITH THE SHIP DEMO
 DOWNMOUSE
 DOWNS
@@ -19127,6 +19174,8 @@ DRAGON QUEST 8
 DRAGON QUEST III HD 2D Remake
 DRAGON QUEST III HD-2D REMAKE
 DRAGON QUEST III HD-2D Remake
+DRAGON QUEST VII REIMAGINED
+DRAGON QUEST VII Reimagined
 DRAGON SLAYER
 DRAGON SLAYER AND THE LEAF TOWN
 DRAGON SLEUTH BRITTANY
@@ -19161,6 +19210,7 @@ DRAGONLORE
 DRAGONQUEST
 DRAGONQUEST8
 DRAGONQUESTIIIHD-2DRemake
+DRAGONQUESTVIIReimagined
 DRAGONS
 DRAGONS BREATH
 DRAGONS CURSE
@@ -19830,6 +19880,9 @@ DarkTaranzaDarkTaranza
 DarkTechnologies
 DarkWizardsWorldPack
 Darkblack
+Darkest Dungeon(R)
+Darkest Dungeon®
+DarkestDungeon®
 Darkness
 Darko
 Darko Brevic
@@ -21481,8 +21534,10 @@ DouglasE.Smith
 DouglasESmith
 Dove Days : Time Flies
 DoveDays:TimeFlies
+Down With Hell: Crystal
 Down the Rabbit Hole Flattened
 Down with the Ship Demo
+DownWithHell:Crystal
 Downs
 DowntheRabbitHoleFlattened
 Downtown
@@ -22353,6 +22408,7 @@ ECHOES OF SEASONS
 ECHOES OF STEEL
 ECHOES OF THE COURT
 ECHOES OF THE END
+ECHOES OF THE REST
 ECHOES OF THE SUN
 ECHOES OF THE WILD
 ECHOES OF THE WIND
@@ -23606,6 +23662,7 @@ Echoes of Time
 Echoes of Vasteria
 Echoes of the Court
 Echoes of the End
+Echoes of the Rest
 Echoes of the Sun
 Echoes of the Wild
 Echoes of the Wind
@@ -23620,6 +23677,7 @@ EchoesofTime
 EchoesofVasteria
 EchoesoftheCourt
 EchoesoftheEnd
+EchoesoftheRest
 EchoesoftheSun
 EchoesoftheWild
 EchoesoftheWind
@@ -28547,6 +28605,7 @@ GANBAREGOEMON
 GANCHAN
 GANG
 GANGSTAR
+GANGSTER WARS
 GANGSTERS IN LOVE
 GANISURUGI
 GANJA QUEST RPG
@@ -30299,6 +30358,8 @@ GanbareGoemon
 Ganchan
 Gang
 Gangstar
+Gangster Wars
+GangsterWars
 Gangsters in Love
 GangstersinLove
 Ganja Quest RPG
@@ -38733,6 +38794,7 @@ KEEP AND DASH HORROR
 KEEP DIGGING
 KEEP FIRE
 KEEP GAMBLING
+KEEP IT CONTAINED DEMO
 KEEP IT SHUT
 KEEP ME GIFTED
 KEEP THE BALANCE
@@ -39796,6 +39858,7 @@ Keep  Em Out!
 Keep 'Em Out!
 Keep Digging
 Keep Fire
+Keep It Contained Demo
 Keep Me Gifted
 Keep and Dash Horror
 Keep it shut
@@ -39803,6 +39866,7 @@ Keep the Balance
 Keep'EmOut!
 KeepDigging
 KeepFire
+KeepItContainedDemo
 KeepMeGifted
 KeepandDashHorror
 Keeper
@@ -40889,6 +40953,7 @@ LANCEHAFFNERGAMES
 LAND
 LAND OF ANIMA: THE RESEARCH OF ARTIFICER DEMO
 LAND RUN
+LANDED
 LANDHO!
 LANDIA
 LANDIA LANDIA
@@ -45637,6 +45702,7 @@ META-MINIONS
 META-MINIONS META-MINIONS
 META-MINIONSMETA-MINIONS
 METABOSS
+METACHESS
 METADOS
 METAHORROR THERAPY SESSION
 METAKNIGHT
@@ -46256,6 +46322,7 @@ MIRACLEDESIGNS
 MIRACLEGAMES
 MIRAGE
 MIRAGE INTERACTIVE
+MIRAGE OF TOWER
 MIRAGEINTERACTIVE
 MIRAI'S MIDNIGHT STREAM
 MIRAPHONIC
@@ -46305,6 +46372,7 @@ MISSIONCRITICAL
 MISSIONCRITICALSTUDIOS
 MISSIONEQUITATION
 MISSY
+MISSY'S BUGTASTIC LITTLE PLANET
 MISTER
 MISTER L
 MISTERL
@@ -48625,6 +48693,7 @@ Meta Knight Meta Knight
 Meta-minions
 Meta-minions Meta-minions
 Meta-minionsMeta-minions
+MetaChess
 MetaDOS
 MetaKnight
 MetaKnightMetaKnight
@@ -49253,7 +49322,9 @@ MiracleDesigns
 MiracleGames
 Mirage
 Mirage Interactive
+Mirage Of Tower
 MirageInteractive
+MirageOfTower
 Mirai s Midnight Stream
 Mirai's Midnight Stream
 Mirai'sMidnightStream
@@ -49309,6 +49380,9 @@ MissionCriticalStudios
 MissionEquitation
 MissionWhilkas
 Missy
+Missy s Bugtastic Little Planet
+Missy's Bugtastic Little Planet
+Missy'sBugtasticLittlePlanet
 Mister
 Mister L
 MisterL
@@ -50845,6 +50919,7 @@ NEON DIVIDE
 NEON FANTASY: FAIRIES
 NEON HEARTS CITY
 NEON INFERNO
+NEON MIND
 NEON OVERDRIVE
 NEON PADDLES: REVENGE OF THE BALL
 NEON PLAY
@@ -51628,6 +51703,7 @@ NUMSKULL GAMES
 NUMSKULLGAMES
 NUMÃ©RIQUE
 NUOXYGEN
+NUTS AND BOLTS
 NUVATEC
 NUVATEC INC
 NUVATEC, INC
@@ -51976,6 +52052,7 @@ Neon Divide
 Neon Fantasy: Fairies
 Neon Hearts City
 Neon Inferno
+Neon Mind
 Neon Overdrive
 Neon Paddles: Revenge of the Ball
 Neon Play
@@ -51989,6 +52066,7 @@ NeonDivide
 NeonFantasy:Fairies
 NeonHeartsCity
 NeonInferno
+NeonMind
 NeonOverdrive
 NeonPaddles:RevengeoftheBall
 NeonPlay
@@ -52752,6 +52830,8 @@ Numskull Games
 NumskullGames
 NumÃ©rique
 Numérique
+Nuts and Bolts
+NutsandBolts
 Nuvatec
 Nuvatec Inc
 Nuvatec, Inc
@@ -52832,6 +52912,7 @@ OBJETSDIVERSETDECORATIFS
 OBLIVION
 OBNULENIE
 OBRIESKI
+OBSCURE FIGURES
 OBSCURE HORRORS
 OBSCURINTH
 OBSCURITE MAGIE 3: THE DIVINE STONES
@@ -53822,7 +53903,9 @@ Objetsdiverset
 Objetsdiversetdécoratifs
 Obnulenie
 Obrieski
+Obscure Figures
 Obscure Horrors
+ObscureFigures
 ObscureHorrors
 Obscurinth
 Obscurite Magie 3: The Divine Stones
@@ -55204,6 +55287,7 @@ PARAGON PUBLISHING
 PARAGON5
 PARAGONPUBLISHING
 PARALLEL
+PARALLEL DUNGEONS
 PARALLEL EXPERIMENT
 PARALLELE
 PARALLÈLE
@@ -57565,7 +57649,9 @@ Paragon Publishing
 Paragon5
 ParagonPublishing
 Parallel
+Parallel Dungeons
 Parallel Experiment
+ParallelDungeons
 ParallelExperiment
 Paramount
 Paramount Digital
@@ -61139,6 +61225,9 @@ RIX
 RIX SOFT
 RIXSOFT
 RIZAL
+RK OVERRIDE
+RK Override
+RKOverride
 RNGESUS SLAYER
 ROAD
 ROAD FIGHTER
@@ -64666,6 +64755,7 @@ SHADOWTOR
 SHADOWTORSTUDIOS
 SHADOWVERSE: WORLDS BEYOND
 SHADOWWARRIOR
+SHADY O'GRADY'S™ OVERNIGHT SENSATION DEMO
 SHAHEEN
 SHAHRA
 SHAMBLES: SONS OF APOCALYPSE
@@ -64736,6 +64826,7 @@ SHAUN
 SHAUN HASTINGS
 SHAUNHASTINGS
 SHAW
+SHAWARMA WARS
 SHE PLAYS DIRTY
 SHE WAS 98
 SHE'S LEAVING
@@ -66311,6 +66402,7 @@ SPREADCHEAT
 SPREEKONZEPT
 SPRIGGAN
 SPRING ESCAPE DEEP DOWN DEMO
+SPRING TALES
 SPRINGUINS
 SPRINT
 SPRITE
@@ -67271,6 +67363,7 @@ SUPERMONKEYBALL2
 SUPERMONO
 SUPERMONO STUDIOS
 SUPERMONOSTUDIOS
+SUPERNATURAL VISUAL NOVEL "THE FOURTEENTH Ξ (GUZAI) VOL. 1 & 2"
 SUPEROFFROAD
 SUPERPACKER
 SUPERPACMAN
@@ -67491,6 +67584,7 @@ SWORD MISTRESS OF THE DUNGEON TOWN
 SWORD OF JUSTICE
 SWORD OF MANA
 SWORD OF THE SEA
+SWORD SANCTUARY
 SWORD WORLD VR
 SWORDFIGHTER
 SWORDFISH
@@ -68697,6 +68791,10 @@ ShadowsofthePast
 ShadowtheHedgehog
 Shadowverse: Worlds Beyond
 Shadowverse:WorldsBeyond
+Shady O Grady s™ Overnight Sensation Demo
+Shady O'Grady's(TM) Overnight Sensation Demo
+Shady O'Grady's™ Overnight Sensation Demo
+ShadyO'Grady's™OvernightSensationDemo
 Shaheen
 Shahra
 Shambles: Sons of Apocalypse
@@ -68774,6 +68872,8 @@ Shaun
 Shaun Hastings
 ShaunHastings
 Shaw
+Shawarma Wars
+ShawarmaWars
 She Plays Dirty
 She s Leaving
 She's Leaving
@@ -70536,7 +70636,9 @@ SpreadTheLove
 Spreekonzept
 Spriggan
 Spring Escape Deep Down Demo
+Spring Tales
 SpringEscapeDeepDownDemo
+SpringTales
 Springuins
 Sprint
 Sprite
@@ -71687,6 +71789,10 @@ Supermaze
 Supermono
 Supermono Studios
 SupermonoStudios
+Supernatural Visual Novel "The Fourteenth ? (Guzai) Vol. 1 & 2"
+Supernatural Visual Novel "The Fourteenth Ξ  Guzai  Vol. 1   2"
+Supernatural Visual Novel "The Fourteenth Ξ (Guzai) Vol. 1 & 2"
+SupernaturalVisualNovel"TheFourteenthΞ(Guzai)Vol.1&2"
 Superplay
 Superplay Games
 SuperplayGames
@@ -71917,12 +72023,14 @@ Sword
 Sword Art Online: Fatal Bullet
 Sword Duel
 Sword Mistress of the Dungeon Town
+Sword Sanctuary
 Sword World VR
 Sword of Mana
 Sword of the Sea
 SwordArtOnline:FatalBullet
 SwordDuel
 SwordMistressoftheDungeonTown
+SwordSanctuary
 SwordWorldVR
 Swordfighter
 Swordfish
@@ -72830,6 +72938,7 @@ THE APOTHECARY OF TRUBIZ
 THE APP
 THE APP FARM
 THE APPRENTICE
+THE ARENA
 THE ART OF RA RA BOOM
 THE ART OF REFLECTION
 THE ARTIFACT PROTOCOL
@@ -73233,6 +73342,7 @@ THE MINES
 THE MINISTER
 THE MONSTER BREEDER
 THE MOSQUITO GANG
+THE MOST DIFFICULT BALL GAME
 THE MOST EPICEST SNOWBALL FIGHT EVER!
 THE MOUNTAIN AND THE MORON
 THE MR. RABBIT MAGIC SHOW
@@ -73367,6 +73477,7 @@ THE SPIRAL
 THE SQUIRREL & SEA
 THE STAIRWELL
 THE STILL
+THE SUMMIT
 THE SUPPER: NEW BLOOD
 THE SUSHI HOUSE
 THE SWARM 2
@@ -73702,6 +73813,7 @@ THIS AIN’T EVEN POKER, YA JOKER
 THIS BE MUTINY
 THIS CAP IS SO FUN, NO CAP DEMO
 THIS GAME COSTS 10 DOLLARS
+THIS GAME COSTS 200 DOLLARS
 THIS GAME WILL END IN 205 CLICKS.
 THIS GAME WILL END IN 205 CLICKS. THE ARTBOOK
 THIS GRAND LIFE 2
@@ -75835,6 +75947,7 @@ The Apothecary of Trubiz
 The App
 The App Farm
 The Apprentice
+The Arena
 The Art of Ra Ra BOOM
 The Art of Reflection
 The Artifact Protocol
@@ -76208,6 +76321,7 @@ The Mines
 The Minister
 The Monster Breeder
 The Mosquito Gang
+The Most Difficult Ball Game
 The Most Epicest Snowball Fight Ever!
 The Mountain And The Moron
 The Mr. Rabbit Magic Show
@@ -76346,6 +76460,7 @@ The Squirrel   Sea
 The Squirrel & Sea
 The Stairwell
 The Still
+The Summit
 The Supper: New Blood
 The Sushi House
 The Swarm 2
@@ -76442,6 +76557,7 @@ TheApothecaryofTrubiz
 TheApp
 TheAppFarm
 TheApprentice
+TheArena
 TheArtifactProtocol
 TheArtofRaRaBOOM
 TheArtofReflection
@@ -76795,6 +76911,7 @@ TheMines
 TheMinister
 TheMonsterBreeder
 TheMosquitoGang
+TheMostDifficultBallGame
 TheMostEpicestSnowballFightEver!
 TheMountainAndTheMoron
 TheMr.RabbitMagicShow
@@ -76920,6 +77037,7 @@ TheSpiral
 TheSquirrel&Sea
 TheStairwell
 TheStill
+TheSummit
 TheSupper:NewBlood
 TheSushiHouse
 TheSwarm2
@@ -77077,6 +77195,7 @@ This Ain't Even Poker, Ya Joker
 This Ain’t Even Poker, Ya Joker
 This Be Mutiny
 This Game Costs 10 Dollars
+This Game Costs 200 Dollars
 This Grand Life 2
 This Is Why We Don t Play Golf
 This Is Why We Don't Play Golf
@@ -77088,6 +77207,7 @@ This will not go well
 ThisAin’tEvenPoker,YaJoker
 ThisBeMutiny
 ThisGameCosts10Dollars
+ThisGameCosts200Dollars
 ThisGrandLife2
 ThisIsWhyWeDon'tPlayGolf
 ThisShipGoesBrrr
@@ -78861,6 +78981,7 @@ URAMESHIYA
 URAMESHIYA URAMESHIYA
 URAMESHIYAURAMESHIYA
 URBAN DISC GOLF
+URBAN RUNAWAY
 URBAN SUPERMARKET SIMULATOR DEMO
 URBAN UNDERGROUNDS
 URBANSCAN
@@ -79265,9 +79386,11 @@ UrameshiyaUrameshiya
 Urban Disc Golf
 Urban Supermarket Simulator Demo
 Urban Undergrounds
+Urban runaway
 UrbanDiscGolf
 UrbanSupermarketSimulatorDemo
 UrbanUndergrounds
+Urbanrunaway
 Urbanscan
 Urbosa
 Uridium
@@ -86592,6 +86715,7 @@ autarkis
 authorities
 auto
 auto dungeon
+auto farm
 auto jurassic knights demo
 auto snakes in outer space
 auto-crisis
@@ -86610,6 +86734,7 @@ automatedsimulations
 automatedsimulations,inc
 automatedsimulationsinc
 automatic guard impact
+automatic kingdom
 automaticguardimpact
 autres
 autres especes
@@ -86866,6 +86991,7 @@ bad janitor
 bad midwife
 bad monkee
 bad rayman
+badass brigade demo
 badd
 badger
 badman
@@ -87578,6 +87704,7 @@ bent
 bent on destruction
 bent spoon
 bent spoon games
+bento blocks
 bentspoon
 bentspoongames
 bercthun
@@ -88809,6 +88936,7 @@ brianlaracricket
 briano'toole
 brianotoole
 brick
+brick layer
 bricked up
 bridge
 bridge race: busy dlc
@@ -89100,6 +89228,7 @@ burned one
 burner
 burnersphere
 burning
+burning boundaries part 1
 burning rangers
 burningrangers
 burnis
@@ -89585,6 +89714,7 @@ carry lab
 carrylab
 cars
 cart capers
+cart panic! os - e-commerce tycoon
 cartaigh
 carte
 carte des ankhegs
@@ -90462,6 +90592,7 @@ city noodle shop simulator
 city of sin - the nocturne files [ep1]
 city of springs
 city of springs - deluxe edition
+city tales - medieval era
 city transport simulator - bus dlc: man lion's city a23
 city transport simulator - tram dlc: gt6
 city transport simulator: bus
@@ -90707,6 +90838,8 @@ code monkeys
 code mystics
 code vein
 code vein ii
+code vein ii - deluxe upgrade pack
+code vein ii - ultimate upgrade pack
 code: pandora 2
 codebase
 codelock
@@ -91546,6 +91679,7 @@ criterion studios
 criterionstudios
 critical
 critical finish
+critical interrogator: messiah hunt
 critical thought
 critical thought games
 criticalfinish
@@ -92193,6 +92327,7 @@ dark wizards world pack
 darkblack
 darkchambers
 darkenergy
+darkest dungeon®
 darkfighter
 darkforces
 darkforces2
@@ -93609,6 +93744,7 @@ douglasesmith
 dours
 dove days : time flies
 down the rabbit hole flattened
+down with hell: crystal
 down with the ship demo
 downmouse
 downs
@@ -93702,6 +93838,7 @@ dragon maiden: blossoms of the past
 dragon quest
 dragon quest 8
 dragon quest iii hd-2d remake
+dragon quest vii reimagined
 dragon slayer
 dragon slayer and the leaf town
 dragon sleuth brittany
@@ -94330,6 +94467,7 @@ echoes of seasons
 echoes of steel
 echoes of the court
 echoes of the end
+echoes of the rest
 echoes of the sun
 echoes of the wild
 echoes of the wind
@@ -97287,6 +97425,7 @@ ganbaregoemon
 ganchan
 gang
 gangstar
+gangster wars
 gangsters in love
 ganisurugi
 ganja quest rpg
@@ -102121,6 +102260,7 @@ keep and dash horror
 keep digging
 keep fire
 keep gambling
+keep it contained demo
 keep it shut
 keep me gifted
 keep the balance
@@ -103116,6 +103256,7 @@ lancehaffnergames
 land
 land of anima: the research of artificer demo
 land run
+landed
 landho!
 landia
 landia landia
@@ -105953,6 +106094,7 @@ meta-minions
 meta-minions meta-minions
 meta-minionsmeta-minions
 metaboss
+metachess
 metados
 metahorror therapy session
 metaknight
@@ -106554,6 +106696,7 @@ miracledesigns
 miraclegames
 mirage
 mirage interactive
+mirage of tower
 mirageinteractive
 mirai's midnight stream
 miraphonic
@@ -106605,6 +106748,7 @@ missioncriticalstudios
 missionequitation
 missionéquitation
 missy
+missy's bugtastic little planet
 mister
 mister l
 misterl
@@ -107935,6 +108079,7 @@ neon divide
 neon fantasy: fairies
 neon hearts city
 neon inferno
+neon mind
 neon overdrive
 neon paddles: revenge of the ball
 neon play
@@ -108666,6 +108811,7 @@ numskullgames
 numã©rique
 numérique
 nuoxygen
+nuts and bolts
 nuvatec
 nuvatec inc
 nuvatec, inc
@@ -108747,6 +108893,7 @@ objetsdiversetdécoratifs
 oblivion
 obnulenie
 obrieski
+obscure figures
 obscure horrors
 obscurinth
 obscurite magie 3: the divine stones
@@ -110025,6 +110172,7 @@ paragon publishing
 paragon5
 paragonpublishing
 parallel
+parallel dungeons
 parallel experiment
 parallele
 parallèle
@@ -113211,6 +113359,7 @@ rix
 rix soft
 rixsoft
 rizal
+rk override
 rngesus slayer
 road
 road fighter
@@ -114801,6 +114950,7 @@ shadowtor
 shadowtorstudios
 shadowverse: worlds beyond
 shadowwarrior
+shady o'grady's™ overnight sensation demo
 shaheen
 shahra
 shambles: sons of apocalypse
@@ -114872,6 +115022,7 @@ shaun
 shaun hastings
 shaunhastings
 shaw
+shawarma wars
 she plays dirty
 she was 98
 she's leaving
@@ -116397,6 +116548,7 @@ spreadcheat
 spreekonzept
 spriggan
 spring escape deep down demo
+spring tales
 springuins
 sprint
 sprite
@@ -117336,6 +117488,7 @@ supermonkeyball2
 supermono
 supermono studios
 supermonostudios
+supernatural visual novel "the fourteenth ξ (guzai) vol. 1 & 2"
 superoffroad
 superpacker
 superpacman
@@ -117547,6 +117700,7 @@ sword mistress of the dungeon town
 sword of justice
 sword of mana
 sword of the sea
+sword sanctuary
 sword world vr
 swordfighter
 swordfish
@@ -118409,6 +118563,7 @@ the apothecary of trubiz
 the app
 the app farm
 the apprentice
+the arena
 the art of ra ra boom
 the art of reflection
 the artifact protocol
@@ -118802,6 +118957,7 @@ the mines
 the minister
 the monster breeder
 the mosquito gang
+the most difficult ball game
 the most epicest snowball fight ever!
 the mountain and the moron
 the mr. rabbit magic show
@@ -118936,6 +119092,7 @@ the spiral
 the squirrel & sea
 the stairwell
 the still
+the summit
 the supper: new blood
 the sushi house
 the swarm 2
@@ -119266,6 +119423,7 @@ this ain’t even poker, ya joker
 this be mutiny
 this cap is so fun, no cap demo
 this game costs 10 dollars
+this game costs 200 dollars
 this game will end in 205 clicks.
 this game will end in 205 clicks. the artbook
 this grand life 2
@@ -120849,6 +121007,7 @@ urameshiya
 urameshiya urameshiya
 urameshiyaurameshiya
 urban disc golf
+urban runaway
 urban supermarket simulator demo
 urban undergrounds
 urbanscan
@@ -123429,11 +123588,16 @@ zèbre
 スローライフサバイバー／slowlife survivor
 トリと木の実
 ドリームランド
+ハルスベリヤ叙事詩2.5
+ハルスベリヤ叙事詩2.5：設定資料集
 ビョーキなGENERATION  クレーンキャッチャーの亡霊 
 ビョーキなGENERATION -クレーンキャッチャーの亡霊-
 ビョーキなGENERATION-クレーンキャッチャーの亡霊-
 ビョーキなgeneration -クレーンキャッチャーの亡霊-
 プレイすると死ぬゲーム
+ホロダンジョン 博衣こよりとホロウライブ IN ホンシャタワー
+ホロダンジョン 博衣こよりとホロウライブ in ホンシャタワー
+ホロダンジョン博衣こよりとホロウライブinホンシャタワー
 ホロライブオールスター バトルタイルズ
 ホロライブオールスターバトルタイルズ
 ボクがオニね
@@ -123501,6 +123665,7 @@ zèbre
 八つ灯|Yatsuakari
 再上一层
 冰雪传奇
+凡人修仙传奇
 出将入相
 出張2 NEXT BUSINESS TRIP
 出張2 Next Business Trip
@@ -124106,6 +124271,8 @@ zèbre
 鸿运修仙传
 黑丝袜：鲁智深
 黑白都市の隐秘恋曲
+黒洞々｜KOKUTOTO
+黒洞々｜kokutoto
 龍躍九天   情繫江湖
 龍躍九天 - 情繫江湖
 龍躍九天-情繫江湖
