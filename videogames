@@ -1688,6 +1688,7 @@ ABSURD STORY: BACK HOME
 ABSURDINTERACTIVE
 ABYLIGHT
 ABYSS
+ABYSS BISTRO
 ABYSS CHASER
 ABYSS DUNGEON
 ABYSS ESCHATON SURVIVORS
@@ -2759,6 +2760,7 @@ ANIGE ANIGE
 ANIGEANIGE
 ANIKI
 ANIMA
+ANIMA CODEX
 ANIMA GAME
 ANIMA GAME STUDIO
 ANIMA GATE OF MEMORIES: I&II REMASTER
@@ -3992,12 +3994,14 @@ AbsurdInteractive
 AbsurdStory:BackHome
 Abylight
 Abyss
+Abyss Bistro
 Abyss Chaser
 Abyss Dungeon
 Abyss Eschaton Survivors
 Abyss Game
 Abyss Manager Idle
 Abyss Protection
+AbyssBistro
 AbyssChaser
 AbyssDungeon
 AbyssEschatonSurvivors
@@ -5039,10 +5043,12 @@ Anige Anige
 AnigeAnige
 Aniki
 Anima
+Anima Codex
 Anima Game
 Anima Game Studio
 Anima Gate of Memories: I II Remaster
 Anima Gate of Memories: I&II Remaster
+AnimaCodex
 AnimaGame
 AnimaGameStudio
 AnimaGateofMemories:I&IIRemaster
@@ -12733,6 +12739,7 @@ CHUCKIE EGG
 CHUCKIECHUCKIE
 CHUCKIEEGG
 CHULIN
+CHUMINI: TINY ARMY
 CHUN-LI
 CHUNKY
 CHUNKY KONG
@@ -12762,6 +12769,8 @@ CINDYMELTZER
 CINEMALANDVR
 CINEMAWARE
 CINEMAX
+CINERIS IV
+CINERISIV
 CING
 CINNABAR
 CINNABAR SOFT
@@ -13552,6 +13561,7 @@ COSMI
 COSMI CORPORATION
 COSMIC
 COSMIC CARGO
+COSMIC CARNAGE
 COSMIC CAT
 COSMIC CHASM
 COSMIC COLISEUM
@@ -13595,6 +13605,7 @@ COTELETTE DE PORC CUITE
 COTELETTEDEPORC
 COTELETTEDEPORCCRUE
 COTELETTEDEPORCCUITE
+COTS
 COTTE
 COTTE DE MAILLES
 COTTEDEMAILLES
@@ -14086,6 +14097,7 @@ CUBE BURST 3D
 CUBE CRAWLER
 CUBE DODGER 3D
 CUBE ESCAPE
+CUBE FOUNDRY
 CUBE HITS CORNER
 CUBE JUMP GAME
 CUBE PARKOUR
@@ -15577,6 +15589,8 @@ Chuckie Egg
 ChuckieChuckie
 ChuckieEgg
 Chulin
+Chumini: Tiny Army
+Chumini:TinyArmy
 Chun-Li
 ChunLi
 Chunky
@@ -16489,6 +16503,7 @@ Cosmi Corporation
 CosmiCorporation
 Cosmic
 Cosmic Cargo
+Cosmic Carnage
 Cosmic Cat
 Cosmic Chasm
 Cosmic Coliseum
@@ -16499,6 +16514,7 @@ Cosmic Swarm
 Cosmic Tails Demo
 Cosmic Waves
 CosmicCargo
+CosmicCarnage
 CosmicCat
 CosmicChasm
 CosmicColiseum
@@ -17079,6 +17095,7 @@ Cube Crawler
 Cube Dodger 3D
 Cube Escape
 Cube Field+
+Cube Foundry
 Cube Jump Game
 Cube Parkour
 Cube Shooter
@@ -17088,6 +17105,7 @@ CubeBurst3D
 CubeCrawler
 CubeDodger3D
 CubeEscape
+CubeFoundry
 CubeJumpGame
 CubeParkour
 CubeShooter
@@ -17991,6 +18009,7 @@ DEEP
 DEEP BLUE: DEVOUR AND EVOLVE
 DEEP BLUE: DEVOUR AND EVOLVE DEMO
 DEEP CUTS
+DEEP DIVE
 DEEP DUCK TROUBLE STARRING DONALD DUCK
 DEEP FRIED
 DEEP FRIED ENTERTAINMENT
@@ -19080,6 +19099,7 @@ DOVE DAYS : TIME FLIES
 DOWN THE RABBIT HOLE FLATTENED
 DOWN WITH HELL: CRYSTAL
 DOWN WITH THE SHIP DEMO
+DOWNFALL MMORPG
 DOWNMOUSE
 DOWNS
 DOWNTOWN
@@ -19571,6 +19591,7 @@ DUSKY CAP
 DUSKY DONOVAN
 DUSKYDONOVAN
 DUST
+DUST AND SORCERY
 DUST RAIDERS
 DUSTWARD
 DUSTWIND: RESISTANCE
@@ -20288,6 +20309,7 @@ Deep
 Deep Blue: Devour and Evolve
 Deep Blue: Devour and Evolve Demo
 Deep Cuts
+Deep Dive
 Deep Duck Trouble Starring Donald Duck
 Deep Fried
 Deep Fried Entertainment
@@ -20308,6 +20330,7 @@ Deep Sleep: Labyrinth of the Forsaken
 DeepBlue:DevourandEvolve
 DeepBlue:DevourandEvolveDemo
 DeepCuts
+DeepDive
 DeepDuckTroubleStarringDonaldDuck
 DeepFried
 DeepFriedEntertainment
@@ -21538,6 +21561,8 @@ Down With Hell: Crystal
 Down the Rabbit Hole Flattened
 Down with the Ship Demo
 DownWithHell:Crystal
+Downfall MMORPG
+DownfallMMORPG
 Downs
 DowntheRabbitHoleFlattened
 Downtown
@@ -22106,7 +22131,9 @@ DuskyCap
 DuskyDonovan
 Dust
 Dust Raiders
+Dust and Sorcery
 DustRaiders
+DustandSorcery
 Dustward
 Dustwind: Resistance
 Dustwind:Resistance
@@ -25596,6 +25623,8 @@ FISH
 FISH 'N SHIPS
 FISH COLLECTOR: AQUARIUM STORY
 FISH GO
+FISH HUNTERS 🐟 SUPPORTER PACK
+FISH HUNTERS: MOST LETHAL FISHING SIMULATOR 🐟
 FISH TO DISH: IDLE SUSHI
 FISH3: FIRST CATCH
 FISHBONE
@@ -27264,10 +27293,16 @@ Fish  n Ships
 Fish 'n Ships
 Fish Collector: Aquarium Story
 Fish Go
+Fish Hunters ? Supporter Pack
+Fish Hunters 🐟 Supporter Pack
+Fish Hunters: Most Lethal Fishing Simulator ?
+Fish Hunters: Most Lethal Fishing Simulator 🐟
 Fish to Dish: Idle Sushi
 Fish'nShips
 FishCollector:AquariumStory
 FishGo
+FishHunters:MostLethalFishingSimulator🐟
+FishHunters🐟SupporterPack
 Fishbone
 Fishbone Fishbone
 FishboneFishbone
@@ -28754,6 +28789,7 @@ GEARBOXSOFTWARE
 GEARGAMES
 GEARS
 GEARS OF
+GEARS OF DISSENT
 GEARS OF GLORY DEMO
 GEARS OF WAR
 GEARS OF WAR: RELOADED
@@ -29439,6 +29475,7 @@ GOSDOOMA DEMO
 GOSDOOMA Demo
 GOSDOOMADemo
 GOSHOW
+GOSPODAR'S TALES DEMO
 GOST
 GOST PUBLISHING
 GOSTPUBLISHING
@@ -30514,12 +30551,14 @@ Gearbox Software
 GearboxSoftware
 Gears
 Gears of
+Gears of Dissent
 Gears of Glory Demo
 Gears of War
 Gears of War: Reloaded
 Gearshift Velocity
 GearshiftVelocity
 Gearsof
+GearsofDissent
 GearsofGloryDemo
 GearsofWar
 GearsofWar:Reloaded
@@ -31234,6 +31273,9 @@ Goroh
 Goruk
 Goréa
 Goshow
+Gospodar s Tales Demo
+Gospodar's Tales Demo
+Gospodar'sTalesDemo
 Gost
 Gost Publishing
 GostPublishing
@@ -31876,6 +31918,7 @@ H3Team
 H4CT0PL45M
 H=ZERO
 HABBO HOTEL: ORIGINS
+HABIT PUZZLES
 HABOT
 HACHE
 HACHE EN BOIS
@@ -31951,6 +31994,8 @@ HALBU
 HALE
 HALEY: ONLINE
 HALEY: ONLINE - PRIVATE PROFILE
+HALF SWORD
+HALF SWORD - SUPPORTER EDITION
 HALF-A-CADO
 HALF-LIFE
 HALF-LIFE 2
@@ -33113,6 +33158,7 @@ HOUSE OF THE DEAD
 HOUSE OF THE DEAD 2
 HOUSE OF THE VIGIL
 HOUSE PARTY
+HOUSE PARTY - NOCTURNAL TEMPTATIONS EXPANSION PACK
 HOUSEMARQUE
 HOUSEOFTHEDEAD
 HOUSEOFTHEDEAD2
@@ -33290,6 +33336,8 @@ HYTHAM HYTHAM
 HYTHAMHYTHAM
 Habbo Hotel: Origins
 HabboHotel:Origins
+Habit Puzzles
+HabitPuzzles
 Habot
 Hache
 Hache en Netherite
@@ -33353,6 +33401,9 @@ Haley:Online-PrivateProfile
 Half Life Legacy
 Half Life: Alyx
 Half Life: Cross Product Multiplayer
+Half Sword
+Half Sword   Supporter Edition
+Half Sword - Supporter Edition
 Half-Life
 Half-Life Counter Strike
 Half-Life Legacy
@@ -33371,6 +33422,8 @@ HalfLife,
 HalfLife, Counter Strike
 HalfLife,CounterStrike
 HalfLifeCounterStrike
+HalfSword
+HalfSword-SupporterEdition
 Halfbrick
 Halfdan
 Halfdan Ragnarsson
@@ -34752,6 +34805,8 @@ House Flipper 2
 House Flipper 2   Scooby Doo DLC
 House Flipper 2 - Scooby-Doo DLC
 House Party
+House Party   Nocturnal Temptations Expansion Pack
+House Party - Nocturnal Temptations Expansion Pack
 House of Necrosis
 House of the Dead
 House of the Dead 2
@@ -34760,6 +34815,7 @@ HouseFighters:TotalMess
 HouseFlipper2
 HouseFlipper2-Scooby-DooDLC
 HouseParty
+HouseParty-NocturnalTemptationsExpansionPack
 Housemarque
 HouseofNecrosis
 HouseoftheDead
@@ -35407,6 +35463,9 @@ IMPRESSIONSGAMES
 IMPULSE
 IMPULSE GAMES
 IMPULSEGAMES
+IMRY DEMO
+IMRY Demo
+IMRYDemo
 IMarriedMyGiantYandereGothBully
 IMax
 IN
@@ -41121,6 +41180,7 @@ LAVIO
 LAW
 LAW SCHOOL - SEASON 1
 LAW SCHOOL - SEASON 1 - OFFICIAL WALKTHROUGH
+LAWNMOWER MANIAC
 LAWRENCE
 LAY-UP
 LAYER
@@ -42858,6 +42918,8 @@ Law School - Season 1
 Law School - Season 1 - Official Walkthrough
 LawSchool-Season1
 LawSchool-Season1-OfficialWalkthrough
+Lawnmower Maniac
+LawnmowerManiac
 Lawrence
 Lay-Up
 LayUp
@@ -44816,6 +44878,7 @@ MALLYX LIMPITOYABLE
 MALLYXL'IMPITOYABLE
 MALLYXLIMPITOYABLE
 MALON
+MALOOMIFY THE OCEAN
 MALTHAEL
 MALTHAËL
 MALYGOS
@@ -47213,6 +47276,7 @@ MY
 MY ADVENTURE BOOK
 MY AUTO CLICKER
 MY BEST LIFE MY PEST LIFE
+MY BUILDING
 MY BUNDLE CAR
 MY CLASSMATE IS AV ACTRESS
 MY COZY ROOM DEMO
@@ -47727,6 +47791,8 @@ Mallyx limpitoyable
 Mallyxl'impitoyable
 Mallyxlimpitoyable
 Malon
+Maloomify the Ocean
+MaloomifytheOcean
 Malthael
 Malthaël
 Malygos
@@ -50225,6 +50291,7 @@ Muzza
 My
 My Adventure Book
 My Auto Clicker
+My Building
 My Bundle Car
 My Classmate is AV Actress
 My Cozy Room Demo
@@ -50288,6 +50355,7 @@ My fair damnation
 My sexy Neighbour 2
 MyAdventureBook
 MyAutoClicker
+MyBuilding
 MyBundleCar
 MyClassmateisAVActress
 MyCozyRoomDemo
@@ -52931,6 +52999,7 @@ OCCAMYGAMES
 OCCASIONNELS
 OCCLUDE
 OCCUPY
+OCCUPY MARS: THE GAME
 OCEAN
 OCEAN FISHOOTER
 OCEAN KEEPER: DOME SURVIVAL
@@ -53924,6 +53993,8 @@ Occamy Games
 OccamyGames
 Occlude
 Occupy
+Occupy Mars: The Game
+OccupyMars:TheGame
 Ocean
 Ocean Fishooter
 Ocean Keeper: Dome Survival
@@ -55625,6 +55696,7 @@ PENGUIN
 PENGUIN ADVENTURE
 PENGUIN ASCENSION
 PENGUIN LAND
+PENGUIN QUEST
 PENGUIN ROCKETEER
 PENGUIN SOFTWARE
 PENGUINADVENTURE
@@ -55702,6 +55774,7 @@ PERFORMANCEDESIGNED
 PERFORMANCEDESIGNEDPRODUCTS
 PERIOD
 PERIODIC TABLE GAME
+PERISHED TRUTH
 PERLANNE
 PERLANNE PERLANNE
 PERLANNEPERLANNE
@@ -57008,6 +57081,7 @@ PROJECT MOTOR RACING: GROUP 5 REVIVAL PACK
 PROJECT MOTOR RACING: GTE DECADE PACK
 PROJECT MOTOR RACING: YEAR 1 SEASON PASS
 PROJECT N.E.K.O.
+PROJECT REBEARTH
 PROJECT SIGNAL
 PROJECT SKYWARD
 PROJECT SOUL
@@ -57055,6 +57129,7 @@ PROPER
 PROPER GAMES
 PROPERGAMES
 PROPERTIES
+PROPHECY OF ASHEN
 PROPHECY OF ASHEN DEMP
 PROPINBALL
 PROPWIZ
@@ -57308,6 +57383,7 @@ PYRE FIERTIR
 PYREFIERTIR
 PYRO
 PYRO STUDIOS
+PYROMANIAC
 PYROSTUDIOS
 PYROSYNCHIST
 PZKAREN
@@ -57941,11 +58017,13 @@ PengiPengi
 Penguin
 Penguin Ascension
 Penguin Land
+Penguin Quest
 Penguin Rocketeer
 Penguin Software
 Penguin adventure
 PenguinAscension
 PenguinLand
+PenguinQuest
 PenguinRocketeer
 PenguinSoftware
 Penguinadventure
@@ -58023,6 +58101,8 @@ PerformanceDesignedProducts
 Period
 Periodic Table Game
 PeriodicTableGame
+Perished Truth
+PerishedTruth
 Perlanne
 Perlanne Perlanne
 PerlannePerlanne
@@ -59442,6 +59522,7 @@ Project Motor Racing: GTE Decade Pack
 Project Motor Racing: Group 5 Revival Pack
 Project Motor Racing: Year 1 Season Pass
 Project N.E.K.O.
+Project Rebearth
 Project Signal
 Project Skyward
 Project Soul
@@ -59480,6 +59561,7 @@ ProjectMotorRacing:GTEDecadePack
 ProjectMotorRacing:Group5RevivalPack
 ProjectMotorRacing:Year1SeasonPass
 ProjectN.E.K.O.
+ProjectRebearth
 ProjectSignal
 ProjectSkyward
 ProjectSoul
@@ -59513,7 +59595,9 @@ Proper
 Proper Games
 ProperGames
 Properties
+Prophecy of Ashen
 Prophecy of Ashen Demp
+ProphecyofAshen
 ProphecyofAshenDemp
 ProstagmeVoulome
 Prostate Clicker: A Touch of Love
@@ -59773,6 +59857,7 @@ PyreFiertir
 Pyro
 Pyro Studios
 PyroStudios
+Pyromaniac
 Pyrosynchist
 PÈRE
 PÈRE NOEL
@@ -61228,6 +61313,9 @@ RIZAL
 RK OVERRIDE
 RK Override
 RKOverride
+RLLL: TOWER OF CHOICES
+RLLL: Tower of Choices
+RLLL:TowerofChoices
 RNGESUS SLAYER
 ROAD
 ROAD FIGHTER
@@ -61763,6 +61851,7 @@ RUNNER
 RUNNER FROG
 RUNNING
 RUNNING BEEHIND
+RUNNING FABLE PETITE PARTY
 RUNNING WITH
 RUNNING WITH SCISSORS
 RUNNINGWITH
@@ -61789,6 +61878,7 @@ RUSSIAN PARKOUR SIMULATOR
 RUSSIAN PRISON
 RUSSIAN PSYCHIATRIC PASTORAL: PROLOGUE
 RUST
+RUST BORN : DEMO
 RUST RUNNERS
 RUSTED FLESH
 RUSTFORGE SIGN PAINTER
@@ -63556,11 +63646,13 @@ Runner Frog
 RunnerFrog
 Running
 Running Beehind
+Running Fable Petite Party
 Running With
 Running With Scissors
 Running with
 Running with Scissors
 RunningBeehind
+RunningFablePetiteParty
 RunningWith
 RunningWithScissors
 Runningwith
@@ -63590,7 +63682,9 @@ RussianParkourSimulator
 RussianPsychiatricPastoral:Prologue
 Russianprison
 Rust
+Rust Born : DEMO
 Rust Runners
+RustBorn:DEMO
 RustForge Sign Painter
 RustForgeSignPainter
 RustRunners
@@ -64103,6 +64197,9 @@ SAZH KATZROY
 SAZHKATZROY
 SBMFR
 SCALE MAIL
+SCAMMER  99
+SCAMMER '99
+SCAMMER'99
 SCANNER SOMBRE
 SCAPE
 SCAPEGOAT & RATIONAL
@@ -66240,6 +66337,7 @@ SPEC OPS
 SPECIAL
 SPECIAL FX
 SPECIAL FX LTD
+SPECIAL REQUEST: CHAPTER 1
 SPECIALFX
 SPECIALFXLTD
 SPECIALTIES
@@ -66287,6 +66385,7 @@ SPELLFORCE
 SPELUNKY
 SPHENOID
 SPHERE
+SPHERE FIGHT SOUNDTRACK
 SPHERECORE SURVIVAL
 SPICY
 SPICY HORSE
@@ -67411,6 +67510,7 @@ SUPERX
 SUPERXSTUDIOS
 SUPPLIERS
 SUPPLY
+SUPPORTER EDITION BUNDLE
 SUPRALAND
 SUPRE-IMMUNE
 SUPRSKETCH
@@ -70428,8 +70528,10 @@ SpecOps
 Special
 Special FX
 Special FX Ltd
+Special Request: Chapter 1
 SpecialFX
 SpecialFXLtd
+SpecialRequest:Chapter1
 Specialties
 Spectator 2
 Spectator 3
@@ -70488,8 +70590,10 @@ Spellbound:MalachiteCoven
 SpellboundBeauties
 Sphenoid
 Sphere
+Sphere Fight Soundtrack
 SphereCore Survival
 SphereCoreSurvival
+SphereFightSoundtrack
 Spicy
 Spicy Horse
 SpicyHorse
@@ -71803,6 +71907,8 @@ Superstar
 Supervision
 Suppliers
 Supply
+Supporter Edition Bundle
+SupporterEditionBundle
 SuprSketch
 Supraland
 Supre Immune
@@ -72544,6 +72650,7 @@ TEAM BONDI
 TEAM CHAOTIX
 TEAM DTR
 TEAM FORTRESS 2
+TEAM FORTRESS 2 CLASSIFIED
 TEAM FORTRESS 2: GOLD RUSH
 TEAM FUSION
 TEAM HOI
@@ -73391,6 +73498,7 @@ THE PATH HOME
 THE PATH OF BLADES
 THE PERFECT TOWER II
 THE PHOENIX GENE VR
+THE PHYSICAL
 THE PIVOT OF TAO – SIX FALLS
 THE PIXOTRON 49
 THE PLANET CRAFTER
@@ -75092,6 +75200,7 @@ TYNESOFTCOMPUTERSOFTWARE
 TYPE
 TYPE DRIVERS
 TYPE HER TO SLEEP
+TYPE THE RHYTHM DEMO
 TYPE-NOISE: SHONEN SHOJO
 TYPHOON
 TYPHOON GAMES
@@ -75497,6 +75606,7 @@ Team Aquila
 Team Bondi
 Team Chaotix
 Team DTR
+Team Fortress 2 Classified
 Team Fortress 2: Gold Rush
 Team Fusion
 Team Hoi
@@ -75511,6 +75621,7 @@ TeamBondi
 TeamChaotix
 TeamDTR
 TeamFortress2:GoldRush
+TeamFortress2Classified
 TeamFusion
 TeamHoi
 TeamLava
@@ -76369,6 +76480,7 @@ The Path Home
 The Path of Blades
 The Perfect Tower II
 The Phoenix Gene VR
+The Physical
 The Pivot of Tao - Six Falls
 The Pivot of Tao – Six Falls
 The Pixotron 49
@@ -76957,6 +77069,7 @@ ThePathHome
 ThePathofBlades
 ThePerfectTowerII
 ThePhoenixGeneVR
+ThePhysical
 ThePivotofTao–SixFalls
 ThePixotron49
 ThePlanetCrafter
@@ -78591,10 +78704,12 @@ TypInc.
 Type Drivers
 Type Her to Sleep
 Type NOISE: Shonen Shojo
+Type The Rhythm Demo
 Type-NOISE: Shonen Shojo
 Type-NOISE:ShonenShojo
 TypeDrivers
 TypeHertoSleep
+TypeTheRhythmDemo
 Typhoon
 Typhoon Games
 TyphoonGames
@@ -81120,6 +81235,7 @@ WARRIV
 WARS
 WARS ACROSS THE WORLD: CORSICA 1764
 WARS:
+WARSIM: THE REALM OF ASLONA
 WARSPACE 2
 WART
 WARTALES
@@ -81683,6 +81799,7 @@ WONDERKING
 WONDERLAND ON DESKTOP
 WONDERLANG JAPANESE
 WONDERLANG KOREAN
+WONDERLANG MANDARIN CHINESE DEMO
 WONDERLANG POLYGLOT
 WONDERS
 WONDERSWAN
@@ -82157,6 +82274,8 @@ Warriv
 Wars
 Wars Across The World: Corsica 1764
 WarsAcrossTheWorld:Corsica1764
+Warsim: The Realm of Aslona
+Warsim:TheRealmofAslona
 Warspace 2
 Warspace2
 Wart
@@ -82823,9 +82942,11 @@ WonderBoyDragon'sTrap
 WonderBoyDragonsTrap
 WonderLang Japanese
 WonderLang Korean
+WonderLang Mandarin Chinese Demo
 WonderLang Polyglot
 WonderLangJapanese
 WonderLangKorean
+WonderLangMandarinChineseDemo
 WonderLangPolyglot
 WonderSwan
 WonderWoman
@@ -84799,6 +84920,7 @@ absurd story: back home
 absurdinteractive
 abylight
 abyss
+abyss bistro
 abyss chaser
 abyss dungeon
 abyss eschaton survivors
@@ -85778,6 +85900,7 @@ anige anige
 anigeanige
 aniki
 anima
+anima codex
 anima game
 anima game studio
 anima gate of memories: i&ii remaster
@@ -90506,6 +90629,7 @@ chuckie egg
 chuckiechuckie
 chuckieegg
 chulin
+chumini: tiny army
 chun-li
 chunky
 chunky kong
@@ -90535,6 +90659,7 @@ cindymeltzer
 cinemalandvr
 cinemaware
 cinemax
+cineris iv
 cing
 cinnabar
 cinnabar soft
@@ -91311,6 +91436,7 @@ cosmi
 cosmi corporation
 cosmic
 cosmic cargo
+cosmic carnage
 cosmic cat
 cosmic chasm
 cosmic coliseum
@@ -91354,6 +91480,7 @@ cotelette de porc cuite
 cotelettedeporc
 cotelettedeporccrue
 cotelettedeporccuite
+cots
 cotte
 cotte de mailles
 cottedemailles
@@ -91835,6 +91962,7 @@ cube burst 3d
 cube crawler
 cube dodger 3d
 cube escape
+cube foundry
 cube hits corner
 cube jump game
 cube parkour
@@ -92679,6 +92807,7 @@ deep
 deep blue: devour and evolve
 deep blue: devour and evolve demo
 deep cuts
+deep dive
 deep duck trouble starring donald duck
 deep fried
 deep fried entertainment
@@ -93746,6 +93875,7 @@ dove days : time flies
 down the rabbit hole flattened
 down with hell: crystal
 down with the ship demo
+downfall mmorpg
 downmouse
 downs
 downtown
@@ -94220,6 +94350,7 @@ dusky cap
 dusky donovan
 duskydonovan
 dust
+dust and sorcery
 dust raiders
 dustward
 dustwind: resistance
@@ -96236,6 +96367,8 @@ fish
 fish 'n ships
 fish collector: aquarium story
 fish go
+fish hunters 🐟 supporter pack
+fish hunters: most lethal fishing simulator 🐟
 fish to dish: idle sushi
 fishbone
 fishbone fishbone
@@ -97572,6 +97705,7 @@ gearboxsoftware
 geargames
 gears
 gears of
+gears of dissent
 gears of glory demo
 gears of war
 gears of war: reloaded
@@ -98229,6 +98363,7 @@ goruk
 goréa
 gosdooma demo
 goshow
+gospodar's tales demo
 gost
 gost publishing
 gostpublishing
@@ -98865,6 +99000,7 @@ h3team
 h4ct0pl45m
 h=zero
 habbo hotel: origins
+habit puzzles
 habot
 hache
 hache en bois
@@ -98935,6 +99071,8 @@ hale
 haley: online
 haley: online - private profile
 half a cado
+half sword
+half sword - supporter edition
 half-a-cado
 half-life
 half-life 2
@@ -100075,6 +100213,7 @@ house of the dead
 house of the dead 2
 house of the vigil
 house party
+house party - nocturnal temptations expansion pack
 housemarque
 houseofthedead
 houseofthedead2
@@ -100627,6 +100766,7 @@ impulse
 impulse games
 impulsegames
 impérial
+imry demo
 in
 in Death we Love
 in a bit of tales
@@ -103451,6 +103591,7 @@ lavio
 law
 law school - season 1
 law school - season 1 - official walkthrough
+lawnmower maniac
 lawrence
 lay-up
 layer
@@ -105214,6 +105355,7 @@ mallyx limpitoyable
 mallyxl'impitoyable
 mallyxlimpitoyable
 malon
+maloomify the ocean
 malthael
 malthaël
 malygos
@@ -107554,6 +107696,7 @@ my BEST life my PEST life
 my adventure book
 my auto clicker
 my best life my pest life
+my building
 my bundle car
 my classmate is av actress
 my cozy room demo
@@ -108912,6 +109055,7 @@ occamygames
 occasionnels
 occlude
 occupy
+occupy mars: the game
 ocean
 ocean fishooter
 ocean keeper: dome survival
@@ -110475,6 +110619,7 @@ penguin
 penguin adventure
 penguin ascension
 penguin land
+penguin quest
 penguin rocketeer
 penguin software
 penguinadventure
@@ -110551,6 +110696,7 @@ performancedesigned
 performancedesignedproducts
 period
 periodic table game
+perished truth
 perlanne
 perlanne perlanne
 perlanneperlanne
@@ -111868,6 +112014,7 @@ project motor racing: group 5 revival pack
 project motor racing: gte decade pack
 project motor racing: year 1 season pass
 project n.e.k.o.
+project rebearth
 project signal
 project skyward
 project soul
@@ -111914,6 +112061,7 @@ proper
 proper games
 propergames
 properties
+prophecy of ashen
 prophecy of ashen demp
 propinball
 propwiz
@@ -112158,6 +112306,7 @@ pyre fiertir
 pyrefiertir
 pyro
 pyro studios
+pyromaniac
 pyrostudios
 pyrosynchist
 pzkaren
@@ -113360,6 +113509,7 @@ rix soft
 rixsoft
 rizal
 rk override
+rlll: tower of choices
 rngesus slayer
 road
 road fighter
@@ -113873,6 +114023,7 @@ runner
 runner frog
 running
 running beehind
+running fable petite party
 running with
 running with scissors
 runningwith
@@ -113899,6 +114050,7 @@ russian parkour simulator
 russian prison
 russian psychiatric pastoral: prologue
 rust
+rust born : demo
 rust runners
 rusted flesh
 rustforge sign painter
@@ -114367,6 +114519,7 @@ sazh katzroy
 sazhkatzroy
 sbmfr
 scale mail
+scammer '99
 scanner sombre
 scape
 scapegoat & rational
@@ -116386,6 +116539,7 @@ spec ops
 special
 special fx
 special fx ltd
+special request: chapter 1
 specialfx
 specialfxltd
 specialties
@@ -116433,6 +116587,7 @@ spellforce
 spelunky
 sphenoid
 sphere
+sphere fight soundtrack
 spherecore survival
 spicy
 spicy horse
@@ -117534,6 +117689,7 @@ superx
 superxstudios
 suppliers
 supply
+supporter edition bundle
 supraland
 supre-immune
 suprsketch
@@ -118168,6 +118324,7 @@ team bondi
 team chaotix
 team dtr
 team fortress 2
+team fortress 2 classified
 team fortress 2: gold rush
 team fusion
 team hoi
@@ -119006,6 +119163,7 @@ the path home
 the path of blades
 the perfect tower ii
 the phoenix gene vr
+the physical
 the pivot of tao – six falls
 the pixotron 49
 the planet crafter
@@ -120661,6 +120819,7 @@ tynesoftcomputersoftware
 type
 type drivers
 type her to sleep
+type the rhythm demo
 type-noise: shonen shojo
 typhoon
 typhoon games
@@ -121990,6 +122149,7 @@ warriv
 wars
 wars across the world: corsica 1764
 wars:
+warsim: the realm of aslona
 warspace 2
 wart
 wartales
@@ -122534,6 +122694,7 @@ wonderking
 wonderland on desktop
 wonderlang japanese
 wonderlang korean
+wonderlang mandarin chinese demo
 wonderlang polyglot
 wonders
 wonderswan
@@ -124041,6 +124202,7 @@ zèbre
 百鬼图鉴 国风·挂机·卡牌·游戏
 百鬼图鉴-国风·挂机·卡牌·游戏
 看不见的我们
+矩阵破冰者
 矿物猎人 MINERAL HUNTER
 矿物猎人 Mineral Hunter
 矿物猎人 mineral hunter
