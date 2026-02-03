@@ -82,6 +82,7 @@
 100 Aztec Cats Soundtrack
 100 BERLIN CATS
 100 Berlin Cats
+100 CAMP CATS
 100 CATS BEIJING
 100 CATS BELGRADE
 100 CATS LOST IN CANADA FIND & COLOR
@@ -92,6 +93,7 @@
 100 CHINA CATS
 100 CRIME CATS
 100 CYPRUS CATS
+100 Camp Cats
 100 Cats Beijing
 100 Cats Belgrade
 100 Cats Lost In Canada Find   Color
@@ -161,6 +163,7 @@
 100 aztec cats - artbook
 100 aztec cats soundtrack
 100 berlin cats
+100 camp cats
 100 cats beijing
 100 cats belgrade
 100 cats lost in canada find & color
@@ -205,6 +208,7 @@
 100AztecCats-Artbook
 100AztecCatsSoundtrack
 100BerlinCats
+100CampCats
 100CatsBeijing
 100CatsBelgrade
 100CatsLostInCanadaFind&Color
@@ -1211,6 +1215,7 @@
 ?? ? ???? (After-school Confession)
 ?? ??? 3 (Cute Warrior Girl 3)
 ?? ???????? ?? ???????
+?? Block
 ?? Demo
 ?? Pictective
 ?? Soil of Rebirth
@@ -1443,11 +1448,13 @@ A Christmas Carol: But With Anime Girls
 A Corgi s Cozy Hike
 A Corgi's Cozy Hike
 A Cozy Classics: Color Lines
+A DATE WITH CHESTER 2
 A DAY'S WORK
 A DIFFICULT GAME ABOUT LETTERS
 A DIFFICULT GAME ABOUT WHEELCHAIR
 A DIRECTIONLESS CYCLE
 A DOCTOR'S TERM
+A Date With Chester 2
 A Day s Work
 A Day's Work
 A Difficult Game About Letters
@@ -1759,6 +1766,7 @@ ACECOMBAT
 ACEOFACES
 ACEOverheat
 ACES
+ACES OF THUNDER
 ACETEAM
 ACETeam
 ACHIEVEMENT MANAGER
@@ -1979,6 +1987,7 @@ ADVENTURESOFTLTD
 ADVENTURESPLANET
 ADVENTURESPLANETSRL
 ADVENTUREVISION
+ADateWithChester2
 ADay'sWork
 ADifficultGameAboutLetters
 ADirectionlessCycle
@@ -3397,6 +3406,7 @@ ARUZE
 ARVIS KNOCK OUT!
 ARVIS Knock Out!
 ARVISKnockOut!
+ARVOCH ALLIANCE SE
 ARXEL
 ARXEL TRIBE
 ARXELTRIBE
@@ -4061,6 +4071,8 @@ AceTeam
 AceofAces
 AceofSpace
 Aces
+Aces of Thunder
+AcesofThunder
 Achievement Manager
 Achievement Monster
 AchievementManager
@@ -5747,6 +5759,8 @@ Artwick
 Artworks
 Artworx
 Aruze
+Arvoch Alliance SE
+ArvochAllianceSE
 Arxel
 Arxel Tribe
 ArxelTribe
@@ -11856,6 +11870,7 @@ CARCERI DEMO
 CARD
 CARD ARTISAN
 CARD CODER DEMO
+CARD ROGUELIKE OF MUSOU FARMING DEMO
 CARD SHOP SIMULATOR MULTIPLAYER
 CARDBOARD HERO
 CARDCASTER
@@ -12945,6 +12960,7 @@ CLEA
 CLEAN STACK
 CLEAN UP EARTH DEMO
 CLEANER COMPANY PROLOGUE
+CLEANING.INC
 CLERC
 CLERCVOLEUR
 CLETUS
@@ -13254,6 +13270,7 @@ COMBOT
 COMFY GIRL: LOFI COMPANION
 COMIC
 COMING SOON
+COMINGHOME
 COMIX
 COMIX ZONE
 COMIXZONE
@@ -13588,6 +13605,7 @@ COSMIC CHASM
 COSMIC COLISEUM
 COSMIC COOP
 COSMIC MINERS
+COSMIC SCRAMBLE
 COSMIC STAR LOUNGE
 COSMIC SWARM
 COSMIC TAILS DEMO
@@ -14649,6 +14667,7 @@ Card
 Card Artisan
 Card Coder Demo
 Card Shop Simulator Multiplayer
+Card roguelike of musou farming Demo
 CardArtisan
 CardCoderDemo
 CardScrawl
@@ -14656,6 +14675,7 @@ CardShopSimulatorMultiplayer
 Cardboard Hero
 CardboardHero
 Cardcaster
+CardroguelikeofmusoufarmingDemo
 Cardrunners
 Cards and Towers
 Cards, the Universe and Everything
@@ -16162,6 +16182,7 @@ Comfy Girl: Lofi Companion
 ComfyGirl:LofiCompanion
 Comic
 Coming Soon
+ComingHome
 ComingSoon
 Comix
 Comix Zone
@@ -16535,6 +16556,7 @@ Cosmic Chasm
 Cosmic Coliseum
 Cosmic Coop
 Cosmic Miners
+Cosmic Scramble
 Cosmic Star Lounge
 Cosmic Swarm
 Cosmic Tails Demo
@@ -16546,6 +16568,7 @@ CosmicChasm
 CosmicColiseum
 CosmicCoop
 CosmicMiners
+CosmicScramble
 CosmicStarLounge
 CosmicSwarm
 CosmicTailsDemo
@@ -17831,6 +17854,7 @@ DAXTER
 DAY
 DAY 1
 DAY 1 STUDIOS
+DAY AND NIGHT
 DAY OF TENTACLE
 DAY OF THE RISING DEAD
 DAY OF THE SHELL
@@ -18497,6 +18521,7 @@ DICE
 DICE BATTLES MAGNUM OPUS
 DICE LEGENDS
 DICE OF KALMA
+DICE SHAPER
 DICE TO PAY
 DICEBALL
 DICEEEE
@@ -19379,6 +19404,7 @@ DRIFT
 DRIFT HIGHWAY: RETRO CONSOLE EDITION
 DRIFT LEGENDS 2
 DRIFT OFF
+DRIFT-تفحيط
 DRIFTER
 DRIFTER DRIFTER
 DRIFTER STAR: EVOLUTION
@@ -20067,6 +20093,7 @@ Day
 Day 1
 Day 1 Studios
 Day Trading Simulator
+Day and Night
 Day of the Shell
 Day of the Shell: Prologue
 Day of the Tentacle
@@ -20078,6 +20105,7 @@ DayOff: Moonriver incident
 DayOff:Moonriverincident
 DayTradingSimulator
 DayZ
+DayandNight
 Daydam Knight
 DaydamKnight
 Daymare Town
@@ -20863,10 +20891,12 @@ DiarrheaDisaster
 Dice
 Dice Battles Magnum Opus
 Dice Legends
+Dice Shaper
 Dice To Pay
 Dice of Kalma
 DiceBattlesMagnumOpus
 DiceLegends
+DiceShaper
 DiceToPay
 Diceball
 Diceeee
@@ -21907,6 +21937,9 @@ Drift
 Drift Highway: Retro Console Edition
 Drift Legends 2
 Drift Off
+Drift تفحيط
+Drift-?????
+Drift-تفحيط
 DriftHighway:RetroConsoleEdition
 DriftLegends2
 DriftOff
@@ -23544,6 +23577,7 @@ EXORCIST SIMULATOR
 EXORSTUDIOS
 EXORStudios
 EXORTUS
+EXORUSH
 EXOSPACE COMBAT ENGINEER
 EXOTICA 2: PET SHOP SIMULATOR
 EXOVORE
@@ -24883,6 +24917,7 @@ Exorcist of Lust: Kaede
 ExorcistSimulator
 ExorcistofLust:Kaede
 Exortus
+Exorush
 Exotica 2: Pet Shop Simulator
 Exotica2:PetShopSimulator
 Exovore
@@ -25532,6 +25567,7 @@ FINAL STAND
 FINAL STRIKE
 FINAL STRIKE GAMES
 FINAL WAR: FROZEN DEFENSE
+FINAL WORD ROYALE
 FINAL ZONE 「(FZ戦記アクシス」
 FINALFANTASY
 FINALFANTASYCRYSTALCHRONICLES
@@ -27170,6 +27206,7 @@ Final Stand
 Final Strike
 Final Strike Games
 Final War: Frozen Defense
+Final Word Royale
 Final Zone ?(FZ???????
 Final Zone 「 FZ戦記アクシス」
 Final Zone 「(FZ戦記アクシス」
@@ -27197,6 +27234,7 @@ FinalStand
 FinalStrike
 FinalStrikeGames
 FinalWar:FrozenDefense
+FinalWordRoyale
 FinalZone「(FZ戦記アクシス」
 Finalbattleinzhifudao
 Find All Things: Christmas
@@ -30114,6 +30152,7 @@ GUNILLAGUNILLA
 GUNION
 GUNJACK
 GUNMA'S AMBITION -YOU AND ME ARE GUNMA- REIWA 2ND NATIONAL CENSUS EDITION
+GUNMAN
 GUNNAR
 GUNNAR GUNNAR
 GUNNARGUNNAR
@@ -31846,6 +31885,7 @@ GunBird - 2
 GunBird-2
 GunCenterSimulator
 GunJack
+GunMan
 GunParadise
 GunShootingRangeAimMaster
 GunSurvivor
@@ -32052,6 +32092,7 @@ HALEY: ONLINE - PRIVATE PROFILE
 HALF SWORD
 HALF SWORD - SUPPORTER EDITION
 HALF-A-CADO
+HALF-CAT
 HALF-LIFE
 HALF-LIFE 2
 HALF-LIFE COUNTER STRIKE
@@ -32536,6 +32577,7 @@ HELL CLOCK
 HELL IS US
 HELL LET LOOSE - OPERATION OVERLORD UNITS
 HELL'S 8TH AVENUE: MIORI'S MYSTERIOUS NOTEBOOK
+HELLBOUND
 HELLBRELLA SOUNDTRACK
 HELLBRELLA – HELL CATS
 HELLDIVERS(TM) 2
@@ -32980,9 +33022,11 @@ HOKUTOMIZUKAMI
 HOLD ME STILL
 HOLD ME TIGHT ALL NIGHT, ONII-CHAN!
 HOLD ON IN THE DUNGEONS
+HOLD THE LINE
 HOLD.FOR.HUMANS
 HOLDEN
 HOLDER OF PLACE
+HOLDTHELINE
 HOLE
 HOLES
 HOLGER
@@ -33453,12 +33497,14 @@ Haley: Online   Private Profile
 Haley: Online - Private Profile
 Haley:Online
 Haley:Online-PrivateProfile
+Half Cat
 Half Life Legacy
 Half Life: Alyx
 Half Life: Cross Product Multiplayer
 Half Sword
 Half Sword   Supporter Edition
 Half Sword - Supporter Edition
+Half-Cat
 Half-Life
 Half-Life Counter Strike
 Half-Life Legacy
@@ -44705,6 +44751,7 @@ MAELSLIME
 MAELSTROM
 MAELSTROM LEGACY: THE TESLA MYSTERY
 MAELSTROM LEGACY: The Tesla Mystery
+MAELSTROM: THE BATTLE FOR EARTH BEGINS ENHANCED
 MAELSTROMLEGACY:TheTeslaMystery
 MAEMAE
 MAESTRO LEVEL EDITOR
@@ -46712,6 +46759,7 @@ MOM WHERE ARE YOU
 MOMENTO DEMO
 MOMENTUM ART BLAST
 MOMENTUMARTBLAST
+MOMENTUMBALL
 MOMIFIE
 MOMMA
 MOMMA GAME
@@ -46831,6 +46879,7 @@ MONSTER RANCHER
 MONSTER SLAYER: MOTION EDITION
 MONSTER TRAIN 2
 MONSTER TRAIN 2 SOUNDTRACK
+MONSTER TRAIN 2: DESTINY OF THE RAILFORGED
 MONSTER TRUCK DEMOLITION DERBY
 MONSTER WAR
 MONSTERGAMES
@@ -46872,6 +46921,7 @@ MONTPELLIER
 MONTRE
 MONTREAL
 MONTRÃƑÂ©AL
+MONUMENT
 MONUMENT DEMO
 MONUMENT VALLEY 3
 MONUMENTAL
@@ -47594,6 +47644,8 @@ Maelle
 Maellis
 Maelslime
 Maelstrom
+Maelstrom: The Battle for Earth Begins Enhanced
+Maelstrom:TheBattleforEarthBeginsEnhanced
 Maestro Level Editor
 MaestroLevelEditor
 Mafia
@@ -49709,6 +49761,7 @@ MomStoleninSpace
 MomWhereAreYou
 Momento Demo
 MomentoDemo
+MomentumBall
 Momma
 Momma Game
 Momma Game House
@@ -49826,6 +49879,7 @@ Monster Rancher
 Monster Slayer: Motion Edition
 Monster Train 2
 Monster Train 2 Soundtrack
+Monster Train 2: Destiny of the Railforged
 Monster Truck Demolition Derby
 MonsterCareSimulator
 MonsterGames
@@ -49850,6 +49904,7 @@ MonsterPath
 MonsterRancher
 MonsterSlayer:MotionEdition
 MonsterTrain2
+MonsterTrain2:DestinyoftheRailforged
 MonsterTrain2Soundtrack
 MonsterTruckDemolitionDerby
 Monstergasm
@@ -49892,6 +49947,7 @@ Montre
 Montreal
 MontrÃƒÂ©al
 Montréal
+Monument
 Monument Demo
 Monument Valley 3
 MonumentDemo
@@ -51203,6 +51259,7 @@ NEVERSOFTENTERTAINMENT
 NEVRAX
 NEW
 NEW CONTENT NOW AVAILABLE
+NEW FACE ON THE BLOCK
 NEW KID
 NEW KID CO
 NEW LIFE: SILENT RIVER
@@ -52331,6 +52388,7 @@ NeversoftEntertainment
 Nevrax
 New
 New Content Now Available
+New Face On The Block
 New Kid
 New Kid Co
 New Life: SILENT RIVER
@@ -52341,6 +52399,7 @@ New World
 New World Computing
 New Zealand Story
 NewContentNowAvailable
+NewFaceOnTheBlock
 NewKid
 NewKidCo
 NewLife:SILENTRIVER
@@ -56087,6 +56146,7 @@ PICROSSS
 PICTURES
 PIDGIT
 PIE
+PIE IN THE SKY
 PIECE
 PIECE:
 PIECES
@@ -57391,6 +57451,7 @@ PUNE
 PUNGO
 PUNISH ME
 PUNISHER
+PUNISHING: GRAY RAVEN
 PUNISHME
 PUNISHMENT
 PUNK
@@ -58415,6 +58476,7 @@ Picrosse
 Pictures
 Pidgit
 Pie
+Pie in the Sky
 Piece
 Piece:
 Pieces
@@ -58422,6 +58484,7 @@ Pieces Interactive
 Pieces of me
 PiecesInteractive
 Piecesofme
+PieintheSky
 Pierce
 Pierce Pierce
 PiercePierce
@@ -59857,6 +59920,8 @@ PunchtoGlory
 Pune
 Pungo
 Punisher
+Punishing: Gray Raven
+Punishing:GrayRaven
 Punishment
 Punk
 Punk Development
@@ -60381,6 +60446,10 @@ R-Type Delta: HD Boosted
 R-TypeComplete
 R-TypeDX
 R-TypeDelta:HDBoosted
+R.A.T.: HUMAN ERROR – EPISODE ONE
+R.A.T.: Human Error - Episode One
+R.A.T.: Human Error – Episode One
+R.A.T.:HumanError–EpisodeOne
 R.C
 R.C.
 R.C. PRO-AM
@@ -63998,6 +64067,7 @@ SAKON
 SAKURA
 SAKURA BUNNY GIRLS 2
 SAKURA KASUGANO
+SAKURA SUCCUBUS 10
 SAKURA TSUCHIYA
 SAKURA WARS
 SAKURAKASUGANO
@@ -64159,6 +64229,7 @@ SANDSOFTIME
 SANDSPEED: CAMEL RACING
 SANDSPEED:CAMELRACING
 SANDSTORM
+SANDY
 SANI YANG'S LABORATORY
 SANITY BREAK
 SANITY LOOPS
@@ -64395,6 +64466,7 @@ SCHOLASTICINC
 SCHOOL
 SCHOOL 666
 SCHOOL GHOST STORIES
+SCHOOL QUEST
 SCHOOLBOY ESCAPE 2: VILLAGE
 SCHOOLGIRL CARD PULL SIMULATOR
 SCHOOLS
@@ -66254,6 +66326,7 @@ SORCIÈRE MASQUEE
 SORCIÈREMASQUEE
 SORT HEXA TILES
 SORT ITEMS
+SORT PAWZZLE: PAWS OF PHARAOH
 SORT TILES
 SORTIE
 SOS
@@ -67157,6 +67230,7 @@ STREET FIGHTER: THE MOVIE
 STREET FIGHTER™ 6
 STREET FIGHTER™ 6 YEARS 1-2 FIGHTERS EDITION
 STREET LIFE SIMULATOR
+STREET TAKOYAKI
 STREETDOG BMX
 STREETFIGHTER
 STREETFIGHTER2
@@ -67476,6 +67550,7 @@ SUPER PAC MAN
 SUPER PAPARAZZI
 SUPER PERSON RUN DELUXE
 SUPER PICROSS
+SUPER PLATFORM TAG
 SUPER POLISHED
 SUPER PSYCHO BASEBALL
 SUPER PUNCH OUT
@@ -67484,6 +67559,7 @@ SUPER PUZZLE FIGHTER II TURBO
 SUPER ROBOT
 SUPER ROBOT TAISEN
 SUPER ROBOT WARS Y
+SUPER SHADOW BREAK : SHOWDOWN! NINJA VS THE THREE KAIJUS
 SUPER SHARPE KNIGHT
 SUPER SIDEKICKS
 SUPER SKIDMARKS
@@ -67763,6 +67839,7 @@ SWEETBERRIES
 SWEETHOLES
 SWEETIE CANDY MAZE: BROWN CHOCOLATE
 SWEETIE CANDY MAZE: GREEN APPLE
+SWEETIE CANDY MAZE: VIOLET PLUM
 SWEETLAND SLUMBER PARTY
 SWEET_BERRIES
 SWIDERSKI
@@ -68012,10 +68089,12 @@ Sakon
 Sakura
 Sakura Bunny Girls 2
 Sakura Kasugano
+Sakura Succubus 10
 Sakura Tsuchiya
 Sakura Wars
 SakuraBunnyGirls2
 SakuraKasugano
+SakuraSuccubus10
 SakuraTsuchiya
 SakuraWars
 Salamander
@@ -68161,6 +68240,7 @@ Sandrotten: Ekera
 Sandrotten:Ekera
 Sands of Hope
 SandsofHope
+Sandy
 Sani Yang s Laboratory
 Sani Yang's Laboratory
 SaniYang'sLaboratory
@@ -68388,8 +68468,10 @@ ScholasticInc
 School
 School 666
 School Ghost Stories
+School Quest
 School666
 SchoolGhostStories
+SchoolQuest
 Schoolboy Escape 2: Village
 SchoolboyEscape2:Village
 Schoolgirl Card Pull Simulator
@@ -70418,9 +70500,11 @@ Sorcière masquée
 Sorcièremasquée
 Sort Hexa Tiles
 Sort Items
+Sort Pawzzle: Paws of Pharaoh
 Sort Tiles
 SortHexaTiles
 SortItems
+SortPawzzle:PawsofPharaoh
 SortTiles
 Souffle
 Souffle de dragon
@@ -71489,6 +71573,7 @@ Street Fighter™ 6
 Street Fighter™ 6 Years 1 2 Fighters Edition
 Street Fighter™ 6 Years 1-2 Fighters Edition
 Street Life Simulator
+Street Takoyaki
 StreetDogLegend
 StreetFighter
 StreetFighter2
@@ -71507,6 +71592,7 @@ StreetFighterZero3
 StreetFighter™6
 StreetFighter™6Years1-2FightersEdition
 StreetLifeSimulator
+StreetTakoyaki
 Streetdog BMX
 StreetdogBMX
 Streetoir
@@ -71869,6 +71955,7 @@ Super Pac Man
 Super Paparazzi
 Super Person Run Deluxe
 Super Picross
+Super Platform Tag
 Super Polished
 Super Psycho Baseball
 Super Punch Out
@@ -71876,6 +71963,7 @@ Super Puzzle Fighter 2 Turbo
 Super Puzzle Fighter II Turbo
 Super Robot
 Super Robot Taisen
+Super Shadow Break : Showdown! NINJA VS The Three KAIJUs
 Super Sharpe Knight
 Super Sidekicks
 Super Skidmarks
@@ -71973,6 +72061,7 @@ SuperPacker
 SuperPaparazzi
 SuperPersonRunDeluxe
 SuperPicross
+SuperPlatformTag
 SuperPolished
 SuperPsychoBaseball
 SuperPunchOut
@@ -71981,6 +72070,7 @@ SuperPuzzleFighterIITurbo
 SuperQuest
 SuperRobot
 SuperRobotTaisen
+SuperShadowBreak:Showdown!NINJAVSTheThreeKAIJUs
 SuperSharpeKnight
 SuperSidekicks
 SuperSkidmarks
@@ -72234,8 +72324,10 @@ SweetWife
 Sweetex
 Sweetie Candy Maze: Brown Chocolate
 Sweetie Candy Maze: Green Apple
+Sweetie Candy Maze: Violet Plum
 SweetieCandyMaze:BrownChocolate
 SweetieCandyMaze:GreenApple
+SweetieCandyMaze:VioletPlum
 Sweetland Slumber Party
 SweetlandSlumberParty
 Swiderski
@@ -72821,6 +72913,7 @@ TEAPOT SPINNER
 TEAR
 TEARITUP® REMIX
 TEARS OF VANFELL: NEW BEGINNING
+TEARSCAPE
 TEASE AND PLEASE: CHARLOTTE EDITION
 TEBA
 TEC
@@ -74758,6 +74851,7 @@ TOWER OF WISHES 4: SHAKA
 TOWER STUDIOS
 TOWER WAR
 TOWERDEFENSE BLOBSMASH
+TOWERFOLK
 TOWEROFDRUAGA
 TOWERS HERITAGE DEMO
 TOWERSTUDIOS
@@ -75790,6 +75884,7 @@ TearItUp(R) Remix
 TearItUp® Remix
 TearItUp®Remix
 Tears of Vanfell: New Beginning
+Tearscape
 TearsofVanfell:NewBeginning
 Tease and Please: Charlotte Edition
 TeaseandPlease:CharlotteEdition
@@ -78268,6 +78363,7 @@ TowerLords
 TowerOfWishes4:Shaka
 TowerStudios
 TowerWar
+Towerfolk
 TowerofDruaga
 TowerofTime
 Towers Heritage Demo
@@ -80303,6 +80399,9 @@ VOID SOUL
 VOID STALKERS
 VOID WAR
 VOID/BREAKER
+VOID81: THE BACKROOMS
+VOID81: The Backrooms
+VOID81:TheBackrooms
 VOIDNOMALY
 VOIDRONAUT
 VOIDSAYER
@@ -84942,6 +85041,7 @@ a chicken in the office
 a christmas carol: but with anime girls
 a corgi's cozy hike
 a cozy classics: color lines
+a date with chester 2
 a day's work
 a difficult game about letters
 a difficult game about wheelchair
@@ -85148,6 +85248,7 @@ aceattorney
 acecombat
 aceofaces
 aces
+aces of thunder
 aceteam
 achievement manager
 achievement monster
@@ -86681,6 +86782,7 @@ artworks
 artworx
 aruze
 arvis knock out!
+arvoch alliance se
 arxel
 arxel tribe
 arxeltribe
@@ -89949,6 +90051,7 @@ carceri demo
 card
 card artisan
 card coder demo
+card roguelike of musou farming demo
 card shop simulator multiplayer
 cardboard hero
 cardcaster
@@ -90991,6 +91094,7 @@ clea
 clean stack
 clean up earth demo
 cleaner company prologue
+cleaning.inc
 clerc
 clercvoleur
 cletus
@@ -91287,6 +91391,7 @@ combot
 comfy girl: lofi companion
 comic
 coming soon
+cominghome
 comix
 comix zone
 comixzone
@@ -91625,6 +91730,7 @@ cosmic chasm
 cosmic coliseum
 cosmic coop
 cosmic miners
+cosmic scramble
 cosmic star lounge
 cosmic swarm
 cosmic tails demo
@@ -92791,6 +92897,7 @@ daxter
 day
 day 1
 day 1 studios
+day and night
 day of tentacle
 day of the rising dead
 day of the shell
@@ -93443,6 +93550,7 @@ dice
 dice battles magnum opus
 dice legends
 dice of kalma
+dice shaper
 dice to pay
 diceball
 diceeee
@@ -94304,6 +94412,7 @@ drift
 drift highway: retro console edition
 drift legends 2
 drift off
+drift-تفحيط
 drifter
 drifter drifter
 drifter star: evolution
@@ -95839,6 +95948,7 @@ exorcist of lust: kaede
 exorcist simulator
 exorstudios
 exortus
+exorush
 exospace combat engineer
 exotica 2: pet shop simulator
 exovore
@@ -96428,6 +96538,7 @@ final stand
 final strike
 final strike games
 final war: frozen defense
+final word royale
 final zone 「(fz戦記アクシス」
 finalfantasy
 finalfantasycrystalchronicles
@@ -99101,6 +99212,7 @@ gunillagunilla
 gunion
 gunjack
 gunma's ambition -you and me are gunma- reiwa 2nd national census edition
+gunman
 gunnar
 gunnar gunnar
 gunnargunnar
@@ -99267,6 +99379,7 @@ half a cado
 half sword
 half sword - supporter edition
 half-a-cado
+half-cat
 half-life
 half-life 2
 half-life counter strike
@@ -99754,6 +99867,7 @@ hell clock
 hell is us
 hell let loose - operation overlord units
 hell's 8th avenue: miori's mysterious notebook
+hellbound
 hellbrella soundtrack
 hellbrella – hell cats
 helldivers™ 2
@@ -100182,6 +100296,7 @@ hokutomizukami
 hold me still
 hold me tight all night, onii-chan!
 hold on in the dungeons
+hold the line
 hold.for.humans
 holden
 holder of place
@@ -105304,6 +105419,7 @@ maellis
 maelslime
 maelstrom
 maelstrom legacy: the tesla mystery
+maelstrom: the battle for earth begins enhanced
 maemae
 maestro level editor
 mafia
@@ -107271,6 +107387,7 @@ mom stolen in space
 mom where are you
 momento demo
 momentum art blast
+momentumball
 momifie
 momifié
 momma
@@ -107389,6 +107506,7 @@ monster rancher
 monster slayer: motion edition
 monster train 2
 monster train 2 soundtrack
+monster train 2: destiny of the railforged
 monster truck demolition derby
 monster war
 monstergames
@@ -107432,6 +107550,7 @@ montre
 montreal
 montrãƒâ©al
 montréal
+monument
 monument demo
 monument valley 3
 monumental
@@ -108551,6 +108670,7 @@ neversoftentertainment
 nevrax
 new
 new content now available
+new face on the block
 new kid
 new kid co
 new life: silent river
@@ -111114,6 +111234,7 @@ picrosss
 pictures
 pidgit
 pie
+pie in the sky
 piece
 piece:
 pieces
@@ -112432,6 +112553,7 @@ pune
 pungo
 punish me
 punisher
+punishing: gray raven
 punishment
 punk
 punk development
@@ -112734,6 +112856,7 @@ r-type delta: hd boosted
 r-type dx
 r-typecomplete
 r-typedx
+r.a.t.: human error – episode one
 r.c
 r.c.
 r.c. pro-am
@@ -114441,6 +114564,7 @@ sakon
 sakura
 sakura bunny girls 2
 sakura kasugano
+sakura succubus 10
 sakura tsuchiya
 sakura wars
 sakurakasugano
@@ -114598,6 +114722,7 @@ sands of time
 sandsoftime
 sandspeed: camel racing
 sandstorm
+sandy
 sani yang's laboratory
 sanity break
 sanity loops
@@ -114808,6 +114933,7 @@ scholasticinc
 school
 school 666
 school ghost stories
+school quest
 schoolboy escape 2: village
 schoolgirl card pull simulator
 schools
@@ -116571,6 +116697,7 @@ sorcièremasquee
 sorcièremasquée
 sort hexa tiles
 sort items
+sort pawzzle: paws of pharaoh
 sort tiles
 sortie
 sos
@@ -117452,6 +117579,7 @@ street fighter: the movie
 street fighter™ 6
 street fighter™ 6 years 1-2 fighters edition
 street life simulator
+street takoyaki
 streetdog bmx
 streetfighter
 streetfighter2
@@ -117768,6 +117896,7 @@ super pac man
 super paparazzi
 super person run deluxe
 super picross
+super platform tag
 super polished
 super psycho baseball
 super punch out
@@ -117776,6 +117905,7 @@ super puzzle fighter ii turbo
 super robot
 super robot taisen
 super robot wars y
+super shadow break : showdown! ninja vs the three kaijus
 super sharpe knight
 super sidekicks
 super skidmarks
@@ -118049,6 +118179,7 @@ sweet_berries
 sweetberries
 sweetie candy maze: brown chocolate
 sweetie candy maze: green apple
+sweetie candy maze: violet plum
 sweetland slumber party
 swiderski
 swim
@@ -118583,6 +118714,7 @@ teapot spinner
 tear
 tearitup® remix
 tears of vanfell: new beginning
+tearscape
 tease and please: charlotte edition
 teba
 tec
@@ -120494,6 +120626,7 @@ tower of wishes 4: shaka
 tower studios
 tower war
 towerdefense blobsmash
+towerfolk
 towerofdruaga
 towers heritage demo
 towerstudios
@@ -122029,6 +122162,7 @@ void soul
 void stalkers
 void war
 void/breaker
+void81: the backrooms
 voidnomaly
 voidronaut
 voidsayer
@@ -124268,6 +124402,10 @@ zèbre
 文字城邦
 文字遊戯 日本語版 
 文字遊戯(日本語版)
+方块 BLOCK
+方块 Block
+方块 block
+方块Block
 无色世界  Colorless World 
 无色世界 (COLORLESS WORLD)
 无色世界 (Colorless World)
