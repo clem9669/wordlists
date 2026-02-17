@@ -278,6 +278,7 @@
 101 DOGS HIDDEN IN IRELAND
 101 DOGS HIDDEN IN LAS VEGAS
 101 DOGS HIDDEN IN LOS ANGELES
+101 DOGS HIDDEN IN MADRID
 101 DOGS HIDDEN IN SHANGHAI
 101 Dogs Hidden
 101 Dogs Hidden in Amsterdam
@@ -287,6 +288,7 @@
 101 Dogs Hidden in Ireland
 101 Dogs Hidden in Las Vegas
 101 Dogs Hidden in Los Angeles
+101 Dogs Hidden in Madrid
 101 Dogs Hidden in Shanghai
 101 cats hidden in barcelona
 101 cats hidden in beijing
@@ -309,6 +311,7 @@
 101 dogs hidden in ireland
 101 dogs hidden in las vegas
 101 dogs hidden in los angeles
+101 dogs hidden in madrid
 101 dogs hidden in shanghai
 101CatsHiddeninBarcelona
 101CatsHiddeninBeijing
@@ -331,6 +334,7 @@
 101DogsHiddeninIreland
 101DogsHiddeninLasVegas
 101DogsHiddeninLosAngeles
+101DogsHiddeninMadrid
 101DogsHiddeninShanghai
 101ST AIRBORNE IN NORMANDY
 101st Airborne in Normandy
@@ -2026,6 +2030,7 @@ AERIA
 AERIA GAMES
 AERIAGAMES
 AERIAL ACES
+AERIAL_KNIGHT'S DROPSHOT
 AERIE
 AERIS
 AERIS GAINSBOROUGH
@@ -2395,6 +2400,7 @@ ALIEN BROTHERS 2
 ALIEN CARTOGRAPHER
 ALIEN INFESTATION
 ALIEN MARKET SIMULATOR
+ALIEN MORGUE
 ALIEN RAID
 ALIEN SOLDIER
 ALIEN STORM
@@ -3473,6 +3479,7 @@ ASGEIR APAIZDRAGON
 ASGEIRAPAIZDRAGON
 ASHE
 ASHEARA
+ASHES OF AMBITION
 ASHES OF CREATION
 ASHLEY
 ASHLEY BUTLER
@@ -3618,6 +3625,7 @@ ASTROPORT
 ASTRORAGE2049
 ASTRUMIS - SURVIVE TOGETHER
 ASUKA
+ASUKA IDOL JOURNEY
 ASUKA KAZAMA
 ASUKAKAZAMA
 ASV SOCCER
@@ -4325,6 +4333,9 @@ Aeria Games
 AeriaGames
 Aerial Aces
 AerialAces
+Aerial_Knight s DropShot
+Aerial_Knight's DropShot
+Aerial_Knight'sDropShot
 Aerie
 Aeris
 Aeris Gainsborough
@@ -4672,6 +4683,7 @@ Alien Brothers 2
 Alien Cartographer
 Alien Infestation
 Alien Market Simulator
+Alien Morgue
 Alien Raid
 Alien Soldier
 Alien Storm
@@ -4689,6 +4701,7 @@ AlienBrothers2
 AlienCartographer
 AlienInfestation
 AlienMarketSimulator
+AlienMorgue
 AlienRaid
 AlienSoldier
 AlienStorm
@@ -5858,7 +5871,9 @@ Asgeir Apaizdragon
 AsgeirApaizdragon
 Ashe
 Asheara
+Ashes of Ambition
 Ashes of Creation
+AshesofAmbition
 AshesofCreation
 Ashley
 Ashley Butler
@@ -6021,7 +6036,9 @@ Astrumis   Survive Together
 Astrumis - Survive Together
 Astrumis-SurviveTogether
 Asuka
+Asuka Idol Journey
 Asuka Kazama
+AsukaIdolJourney
 AsukaKazama
 Asvara
 Asylum
@@ -8069,6 +8086,7 @@ BNM
 BNWO
 BO
 BO BO
+BO LE JUDGING HORSES
 BO'RAI
 BO'RAI CHO
 BO'RAICHO
@@ -8219,6 +8237,7 @@ BOOK
 BOOK AND
 BOOK AND QUILL
 BOOK INSIDE
+BOOK SMUGGLERS
 BOOKAND
 BOOKANDQUILL
 BOOKEM
@@ -10699,10 +10718,12 @@ Blé
 BnM
 Bo
 Bo Bo
+Bo Le Judging Horses
 Bo'Rai
 Bo'Rai Cho
 Bo'RaiCho
 BoBo
+BoLeJudgingHorses
 BoRai
 BoRai Cho
 BoRaiCho
@@ -10867,9 +10888,11 @@ Boogie Cruise
 BoogieCruise
 Book
 Book Inside
+Book Smugglers
 Book and
 Book and Quill
 BookInside
+BookSmugglers
 Bookand
 BookandQuill
 Bookem
@@ -12080,6 +12103,7 @@ CARMECHANICSIMULATOR
 CARMEN
 CARMEN ORTIZ
 CARMEN SANDIEGO
+CARMENCARMEN
 CARMENORTIZ
 CARMENSANDIEGO
 CARNAGE BATTLE ARENA DEMO
@@ -12253,6 +12277,7 @@ CATGIRLS DO PORN
 CATGIRLSDOPORN
 CATHIE
 CATJONG 2: PAWPRINTS IN THE SNOW
+CATJONG 3: PURRL OF THE EAST
 CATNIP
 CATNIP GAMES
 CATNIPGAMES
@@ -13012,6 +13037,7 @@ CIPHER ZERO
 CIPHERZERO
 CIPHEUR - TRIVIA: GEOGRAPHY
 CIRCLE
+CIRCLE BEGINS DEMO
 CIRCLE ENTERTAINMENT
 CIRCLE JERK
 CIRCLE JERK SOUNDTRACK
@@ -13399,6 +13425,7 @@ COLACOLA
 COLD
 COLD BEAM
 COLD BEAM GAMES
+COLD CALLING
 COLD TRIGGER
 COLDBEAM
 COLDBEAMGAMES
@@ -14943,6 +14970,7 @@ Carmen Ortiz
 Carmen Sandiego
 CarmenOrtiz
 CarmenSandiego
+Carmencarmen
 Carnage Battle Arena Demo
 CarnageBattleArenaDemo
 Carnal Sins: Malum Incarnatum + Carne Vescens
@@ -15162,7 +15190,9 @@ Catfish Idle Pond
 CatfishIdlePond
 Cathie
 Catjong 2: Pawprints in the Snow
+Catjong 3: Purrl of the East
 Catjong2:PawprintsintheSnow
+Catjong3:PurrloftheEast
 Catnip
 Catnip Games
 CatnipGames
@@ -15928,10 +15958,12 @@ Cipheur   Trivia: Geography
 Cipheur - Trivia: Geography
 Cipheur-Trivia:Geography
 Circle
+Circle Begins Demo
 Circle Entertainment
 Circle Jerk
 Circle Jerk Soundtrack
 Circle Studios
+CircleBeginsDemo
 CircleEntertainment
 CircleJerk
 CircleJerkSoundtrack
@@ -16363,9 +16395,11 @@ ColaCola
 Cold
 Cold Beam
 Cold Beam Games
+Cold Calling
 Cold Trigger
 ColdBeam
 ColdBeamGames
+ColdCalling
 ColdSide: Retro Edition
 ColdSide:RetroEdition
 ColdTrigger
@@ -18596,6 +18630,7 @@ DESERTSTRIKE
 DESIDERATUM
 DESIGN
 DESIGN AND CONJURE DEMO
+DESIGNATED DRIVER SIMULATOR SOUNDTRACK
 DESIGNED
 DESIGNED LOGICALLY
 DESIGNED LOGICALLY LIMITED
@@ -19181,6 +19216,7 @@ DO IT TOGETHER
 DO NOT DISTURB
 DO NOT SAY 21!
 DOA
+DOBBEL DUNGEON
 DOC
 DOC DOC
 DOCDOC
@@ -21004,6 +21040,8 @@ DesignWare, Inc
 DesignWare,Inc
 DesignWareInc
 DesignandConjureDemo
+Designated Driver Simulator Soundtrack
+DesignatedDriverSimulatorSoundtrack
 Designed
 Designed Logically
 Designed Logically Limited
@@ -21644,6 +21682,8 @@ DoGoatsDreamofGoldenGrass?
 DoItTogether
 DoNOTsay21!
 DoNotDisturb
+Dobbel Dungeon
+DobbelDungeon
 Doc
 Doc Doc
 DocDoc
@@ -23254,6 +23294,7 @@ ELENA
 ELENA FISHER
 ELENAFISHER
 ELEPHANTS
+ELETTA DEMO
 ELEVATOR
 ELEVATOR ACTION
 ELEVATORACTION
@@ -24512,6 +24553,8 @@ Elements
 Elena
 Elena Fisher
 ElenaFisher
+Eletta Demo
+ElettaDemo
 Elevator
 Elevator Action
 ElevatorAction
@@ -26212,6 +26255,8 @@ FLAC FLAC
 FLACFLAC
 FLAG
 FLAG HIPPO
+FLAG O TRON
+FLAG-O-TRON
 FLAGHIPPO
 FLAGSHIP
 FLAGSHIP STUDIOS
@@ -32693,6 +32738,7 @@ HAMMOND&LEYLAND
 HAMPY'S GREAT ADVENTURE
 HAMSTER
 HAMSTER HUSTLE
+HAMSTERMIND
 HAMSUMO
 HAN
 HANA
@@ -35945,6 +35991,7 @@ IDEAWORKS3D
 IDEAWORKS3D!
 IDEAWORKSGAME
 IDEAWORKSGAMESTUDIO
+IDIOM ROYALE
 IDL
 IDL GROUP
 IDL Group
@@ -36882,6 +36929,8 @@ Ideaworks Game Studio
 Ideaworks3D
 IdeaworksGame
 IdeaworksGameStudio
+Idiom Royale
+IdiomRoyale
 Idle Adventurer
 Idle Car Clicker
 Idle Colors
@@ -39926,6 +39975,7 @@ KIT
 KIT KOSMOS
 KIT KOSMOS KIT KOSMOS
 KITANA
+KITCHEN DELIGHTS
 KITCHEN WARS
 KITE
 KITKOSMOS
@@ -41053,7 +41103,9 @@ Kit Kosmos Kit Kosmos
 KitKosmos
 KitKosmosKitKosmos
 Kitana
+Kitchen Delights
 Kitchen Wars
+KitchenDelights
 KitchenWars
 Kite
 Kitty
@@ -57673,6 +57725,7 @@ POLYGLOCK
 POLYGON
 POLYGON GAMES
 POLYGON MAGIC
+POLYGON PANIC
 POLYGON TOYS
 POLYGONGAMES
 POLYGONMAGIC
@@ -60112,9 +60165,11 @@ Polygames
 Polygon
 Polygon Games
 Polygon Magic
+Polygon Panic
 Polygon Toys
 PolygonGames
 PolygonMagic
+PolygonPanic
 PolygonToys
 Polyjump
 Polyphony
@@ -61009,6 +61064,9 @@ Q.D - QUALTRONIC DEVICES, INC
 Q.D - Qualtronic Devices, Inc
 Q.D-QUALTRONICDEVICES,INC
 Q.D-QualtronicDevices,Inc
+QA SIMULATOR
+QA Simulator
+QASimulator
 QBOB: REMASTERED
 QBob: Remastered
 QBob:Remastered
@@ -61471,6 +61529,7 @@ RADEON
 RADEON LABS
 RADEONLABS
 RADIANCE
+RADIANCE OF SOULS
 RADIANCE SOFTWARE
 RADIANCESOFTWARE
 RADIANT
@@ -62303,6 +62362,7 @@ RICHARDGARRIOTT
 RICHARDORBAN
 RICHARDS
 RICHARDWILSON
+RICHES IN THE DEEP
 RICHTER
 RICK
 RICK HENDERSON
@@ -63119,7 +63179,9 @@ Radeon Labs
 RadeonLabs
 Radiance
 Radiance Software
+Radiance of Souls
 RadianceSoftware
+RadianceofSouls
 Radiant
 Radiant Exodus
 Radiant Silvergun
@@ -64046,6 +64108,8 @@ RichardGarriott
 RichardOrban
 RichardWilson
 Richards
+Riches In the Deep
+RichesIntheDeep
 Richter
 Rick
 Rick Henderson
@@ -65516,6 +65580,7 @@ SCRAMBLE
 SCRAP
 SCRATCHIES
 SCREAMER
+SCREAMING HEAD
 SCREAMING SAVAGE BLOOD DEATH
 SCREEN BOY
 SCREEN GREENS
@@ -65607,6 +65672,7 @@ SEBASTIANGATES
 SEBI 16
 SEBI16
 SECHEE
+SECLUSA
 SECOND
 SECOND CHANCES
 SECOND SIGHT
@@ -65898,6 +65964,7 @@ SEVEN DAYS UNTIL MORNING
 SEVEN HEARTS
 SEVEN SCARECROWS
 SEVEN SINNERS
+SEWERCIDE
 SEX & COFFEE ☕️🤎
 SEX ADVENTURES - INCEST FAMILY - EPISODE 8
 SEX ADVENTURES - INCEST FAMILY - EPISODE 9
@@ -67164,6 +67231,7 @@ SOLDOUT
 SOLDOUTSOFTWARE
 SOLE SALVATION DEMO
 SOLEIL
+SOLE_BLOCKDEFENDERS
 SOLICITORZ
 SOLID
 SOLID SOFTWARE
@@ -68160,6 +68228,7 @@ STORM8
 STORMBASIC
 STORMBASIC GAMES
 STORMBASICGAMES
+STORMBRIDGE
 STORMCITY
 STORMCITYGAMES
 STORMCORE
@@ -68324,6 +68393,7 @@ STRYKER
 STUBBS
 STUCK IN THE PRESENT
 STUCK TOGETHER
+STUDENT STATION DEMO
 STUDIO
 STUDIO 33
 STUDIO 3DO
@@ -69569,7 +69639,9 @@ Scramble
 Scrap
 Scratchies
 Screamer
+Screaming Head
 Screaming Savage Blood Death
+ScreamingHead
 ScreamingSavageBloodDeath
 Screen Boy
 Screen Greens
@@ -69668,6 +69740,7 @@ Seaudeneigepoudreuse
 Sebastian
 Sebastian Gates
 SebastianGates
+Seclusa
 Second
 Second Chances
 Second Sight
@@ -71381,6 +71454,7 @@ SoldatRépublicain
 Soldier
 Sole Salvation Demo
 SoleSalvationDemo
+Sole_BlockDefenders
 Soleil
 SolicitorZ
 Solid
@@ -72552,6 +72626,7 @@ StormCity
 StormCityGames
 StormCore
 StormHorseSimulatorDemo
+Stormbridge
 Stormfront
 Stormfront Studios
 StormfrontStudios
@@ -72758,6 +72833,8 @@ Stuck Together
 Stuck in the Present
 StuckTogether
 StuckinthePresent
+Student Station Demo
+StudentStationDemo
 Studio
 Studio 33
 Studio 3DO
@@ -74225,6 +74302,7 @@ TENGOKU
 TENNIS
 TENNIS ELBOW
 TENNISELBOW
+TENSE PARKING
 TENSEI
 TENTACALIENS: MAKING ENDS MEET IN A NEW WORLD
 TENTACLE
@@ -74703,6 +74781,7 @@ THE KINDLING
 THE KING IS WATCHING
 THE KING OF ASSASSINS - THE KINGDOM
 THE KING OF FIGHTERS
+THE KING OF GO
 THE KITCHEN KNIFE
 THE KREMLIN
 THE KULKA
@@ -75994,6 +76073,7 @@ TOWER DOMINION
 TOWER DOMINION - SOUNDTRACK
 TOWER LORDS
 TOWER OF DRUAGA
+TOWER OF JANK
 TOWER OF TIME
 TOWER OF WISHES 4: SHAKA
 TOWER STUDIOS
@@ -76319,6 +76399,9 @@ TROPY
 TROUBLE
 TROUBLE IN COOKIE TOWN
 TROUBLED WATERS
+TROUBLESHOOTER: ABANDONED CHILDREN
+TROUBLESHOOTER: Abandoned Children
+TROUBLESHOOTER:AbandonedChildren
 TROUPE
 TROUPE GRIMOIRE
 TROUPEGRIMOIRE
@@ -77252,6 +77335,8 @@ Tengoku
 Tennis
 Tennis Elbow
 TennisElbow
+Tense Parking
+TenseParking
 Tensei
 Tentacaliens: Making Ends Meet in a New World
 Tentacaliens:MakingEndsMeetinaNewWorld
@@ -77761,6 +77846,7 @@ The King is Watching
 The King of Assassins   The Kingdom
 The King of Assassins - The Kingdom
 The King of Fighters
+The King of Go
 The Kitchen Knife
 The Kremlin
 The Lacerator
@@ -78388,6 +78474,7 @@ TheKindling
 TheKingisWatching
 TheKingofAssassins-TheKingdom
 TheKingofFighters
+TheKingofGo
 TheKitchenKnife
 TheKremlin
 TheLacerator
@@ -79583,6 +79670,7 @@ Tower Of Wishes 4: Shaka
 Tower Studios
 Tower War
 Tower of Druaga
+Tower of Jank
 Tower of Time
 TowerArenaSurvive
 TowerDefense BlobSmash
@@ -79595,6 +79683,7 @@ TowerStudios
 TowerWar
 Towerfolk
 TowerofDruaga
+TowerofJank
 TowerofTime
 Towers Heritage Demo
 TowersHeritageDemo
@@ -82664,6 +82753,7 @@ WAR OF DOTS
 WAR UNTOLD
 WARASHI
 WARBIRDS
+WARBITS+
 WARBORNE ABOVE ASHES
 WARCRAFT
 WARCRAFT 2
@@ -83441,6 +83531,7 @@ WORLDSHADOW
 WORLDWIDE
 WORLDWIDE RUSH
 WORM
+WORM IN HORROR PLACE
 WORM WHOMPER
 WORMS
 WORMS FRANCHISE ADVERTISING APP
@@ -83702,6 +83793,7 @@ WarUntold
 WarandPolitics
 Warashi
 Warbirds
+Warbits+
 Warborne Above Ashes
 WarborneAboveAshes
 Warcraft
@@ -84639,7 +84731,9 @@ Worldwide Rush
 WorldwideRush
 Worm
 Worm Whomper
+Worm in horror place
 WormWhomper
+Worminhorrorplace
 Worms
 Worms Franchise Advertising App
 WormsFranchiseAdvertisingApp
@@ -86814,6 +86908,7 @@ aeria
 aeria games
 aeriagames
 aerial aces
+aerial_knight's dropshot
 aerie
 aeris
 aeris gainsborough
@@ -87138,6 +87233,7 @@ alien brothers 2
 alien cartographer
 alien infestation
 alien market simulator
+alien morgue
 alien raid
 alien soldier
 alien storm
@@ -88179,6 +88275,7 @@ asgeir apaizdragon
 asgeirapaizdragon
 ashe
 asheara
+ashes of ambition
 ashes of creation
 ashley
 ashley butler
@@ -88317,6 +88414,7 @@ astroport
 astrorage2049
 astrumis - survive together
 asuka
+asuka idol journey
 asuka kazama
 asukakazama
 asv soccer
@@ -90265,6 +90363,7 @@ bnm
 bnwo
 bo
 bo bo
+bo le judging horses
 bo'rai
 bo'rai cho
 bo'raicho
@@ -90412,6 +90511,7 @@ book
 book and
 book and quill
 book inside
+book smugglers
 bookand
 bookandquill
 bookem
@@ -91491,6 +91591,7 @@ carmechanicsimulator
 carmen
 carmen ortiz
 carmen sandiego
+carmencarmen
 carmenortiz
 carmensandiego
 carnage battle arena demo
@@ -91663,6 +91764,7 @@ catgirlbloodhunt
 catgirls do porn
 cathie
 catjong 2: pawprints in the snow
+catjong 3: purrl of the east
 catnip
 catnip games
 catnipgames
@@ -92380,6 +92482,7 @@ cinq
 cipher zero
 cipheur - trivia: geography
 circle
+circle begins demo
 circle entertainment
 circle jerk
 circle jerk soundtrack
@@ -92748,6 +92851,7 @@ colacola
 cold
 cold beam
 cold beam games
+cold calling
 cold trigger
 coldbeam
 coldbeamgames
@@ -94777,6 +94881,7 @@ desertstrike
 desideratum
 design
 design and conjure demo
+designated driver simulator soundtrack
 designed
 designed logically
 designed logically limited
@@ -95349,6 +95454,7 @@ do it together
 do not disturb
 do not say 21!
 doa
+dobbel dungeon
 doc
 doc doc
 docdoc
@@ -96707,6 +96813,7 @@ elena
 elena fisher
 elenafisher
 elephants
+eletta demo
 elevator
 elevator action
 elevatoraction
@@ -98234,6 +98341,7 @@ flac flac
 flacflac
 flag
 flag hippo
+flag-o-tron
 flaghippo
 flagship
 flagship studios
@@ -100973,6 +101081,7 @@ hammond&leyland
 hampy's great adventure
 hamster
 hamster hustle
+hamstermind
 hamsumo
 han
 hana
@@ -102427,6 +102536,7 @@ ideaworks3d
 ideaworks3d!
 ideaworksgame
 ideaworksgamestudio
+idiom royale
 idl
 idl group
 idle adventurer
@@ -104595,6 +104705,7 @@ kit
 kit kosmos
 kit kosmos kit kosmos
 kitana
+kitchen delights
 kitchen wars
 kite
 kitkosmos
@@ -113524,6 +113635,7 @@ polyglock
 polygon
 polygon games
 polygon magic
+polygon panic
 polygon toys
 polygongames
 polygonmagic
@@ -114339,6 +114451,7 @@ q-up
 q.d
 q.d - qualtronic devices, inc
 q.d-qualtronicdevices,inc
+qa simulator
 qbob: remastered
 qd
 qd 
@@ -114586,6 +114699,7 @@ radeon
 radeon labs
 radeonlabs
 radiance
+radiance of souls
 radiance software
 radiancesoftware
 radiant
@@ -115383,6 +115497,7 @@ richardgarriott
 richardorban
 richards
 richardwilson
+riches in the deep
 richter
 rick
 rick henderson
@@ -116671,6 +116786,7 @@ scramble
 scrap
 scratchies
 screamer
+screaming head
 screaming savage blood death
 screen boy
 screen greens
@@ -116754,6 +116870,7 @@ sebastian gates
 sebastiangates
 sebi 16
 sechee
+seclusa
 second
 second chances
 second sight
@@ -117027,6 +117144,7 @@ seven days until morning
 seven hearts
 seven scarecrows
 seven sinners
+sewercide
 sex & coffee ☕️🤎
 sex adventures - incest family - episode 8
 sex adventures - incest family - episode 9
@@ -118228,6 +118346,7 @@ soldier
 soldout
 soldoutsoftware
 sole salvation demo
+sole_blockdefenders
 soleil
 solicitorz
 solid
@@ -119202,6 +119321,7 @@ storm8
 stormbasic
 stormbasic games
 stormbasicgames
+stormbridge
 stormcity
 stormcitygames
 stormcore
@@ -119363,6 +119483,7 @@ stryker
 stubbs
 stuck in the present
 stuck together
+student station demo
 studio
 studio 33
 studio 3do
@@ -120636,6 +120757,7 @@ tengoku
 tennis
 tennis elbow
 tenniselbow
+tense parking
 tensei
 tentacaliens: making ends meet in a new world
 tentacle
@@ -121108,6 +121230,7 @@ the kindling
 the king is watching
 the king of assassins - the kingdom
 the king of fighters
+the king of go
 the kitchen knife
 the kremlin
 the kulka
@@ -122381,6 +122504,7 @@ tower dominion
 tower dominion - soundtrack
 tower lords
 tower of druaga
+tower of jank
 tower of time
 tower of wishes 4: shaka
 tower studios
@@ -122712,6 +122836,7 @@ tropy
 trouble
 trouble in cookie town
 troubled waters
+troubleshooter: abandoned children
 troupe
 troupe grimoire
 troupegrimoire
@@ -124187,6 +124312,7 @@ war of dots
 war untold
 warashi
 warbirds
+warbits+
 warborne above ashes
 warcraft
 warcraft 2
@@ -124939,6 +125065,7 @@ worldshadow
 worldwide
 worldwide rush
 worm
+worm in horror place
 worm whomper
 worms
 worms franchise advertising app
@@ -126063,6 +126190,7 @@ zèbre
 回煞录 | Phantom Reckoning
 回煞录 | phantom reckoning
 回煞录|PhantomReckoning
+回避男
 在异世界打怪的修仙者
 在赛博世界和100个道侣修仙
 地禍駐車場  The Cursed Underground Parking Lot 
