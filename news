@@ -3516,6 +3516,8 @@ ATALANTA  SPORTING CP
 ATALANTA - CAGLIARI
 ATALANTA - GENOA
 ATALANTA - LECCE
+ATALANTA - NAPLES
+ATALANTA - NAPOLI
 ATALANTA - SASSUOLO
 ATALANTA - VENEZIA
 ATALANTA BERGAMO
@@ -3865,6 +3867,7 @@ AUVIO RTBF
 AUX ARBRES CITOYENS
 AUXERRE
 AUXERRE - LYON
+AUXERRE - RENNES
 AUXERRE MARSEILLE
 AUXERRE SAINT-ETIENNE
 AUXERRE – AJACCIO
@@ -14455,6 +14458,7 @@ CAN2024
 CAN2025
 CANADA
 CANADA ELECTION RESULTS
+CANADA USA HOCKEY
 CANADA VS NEW ZEALAND
 CANADA – MAROC
 CANADAIR
@@ -14842,6 +14846,7 @@ CEDRIC SCHILD
 CEDRIC VILLANI
 CEDRICJUBILLAR
 CEDRINE KERBAOL
+CELEBRINI
 CELERI VERT COLRUYT
 CELESTINI
 CELIA DELVER
@@ -16153,6 +16158,7 @@ CONGÉS PAYÉS ACQUIS ARRÊT MALADIE
 CONNAITRE SON BUREAU DE VOTE
 CONNER ROUSSEAU
 CONNIE FRANCIS
+CONNOR MCDAVID
 CONOR MCGREGOR
 CONORMCGREGOR
 CONRAD JANSSENS
@@ -28983,6 +28989,7 @@ FLAT WHITE
 FLAUBERT
 FLAVIA WASSERFALLEN
 FLAVIE FLAMENT
+FLAVIEN COTON
 FLAVIEN TERMET
 FLAVIO BRIATORE
 FLAVIO COBOLLI
@@ -36630,6 +36637,7 @@ HOCKEY OLYMPISCHE SPELEN
 HOCKEY PRO LEAGUE
 HOCKEY SUR GLACE
 HOCKEY SUR GLACE AUX JEUX OLYMPIQUES D'HIVER 2026
+HOCKEY SUR GLACE JO 2026
 HOCKEY-WM
 HOCUS POCUS
 HOEI
@@ -48768,6 +48776,7 @@ LUCHS
 LUCHTAANVAL
 LUCHTHAVEN CHARLEROI
 LUCIA-FEST
+LUCIANO CAPASSO
 LUCIANO DARDERI
 LUCID AIR
 LUCIE AUBRAC
@@ -54580,6 +54589,7 @@ MICHAEL TYLO
 MICHAEL VAN GERWEN
 MICHAEL VAN PEEL
 MICHAEL VENOM PAGE
+MICHAEL VOGT
 MICHAEL WEINMANN
 MICHAEL WEINMANN SRF
 MICHAEL WENDLER
@@ -61302,16 +61312,19 @@ NOTRUFNUMMERN SCHWEIZ
 NOTRUFNUMMERNSCHWEIZ
 NOTTINGHAM
 NOTTINGHAM - CHELSEA
+NOTTINGHAM - LIVERPOOL
 NOTTINGHAM - MAN CITY
 NOTTINGHAM FOREST
 NOTTINGHAM GEGEN ARSENAL
 NOTTINGHAM GEGEN CHELSEA
 NOTTINGHAM – CHELSEA
+NOTTINGHAM – LIVERPOOL
 NOTTINGHAM – MAN CITY
 NOTTM FOREST - BRIGHTON
 NOTTM FOREST - CHELSEA
 NOTTM FOREST - CRYSTAL PALACE
 NOTTM FOREST - LEEDS UNITED
+NOTTM FOREST - LIVERPOOL
 NOTTM FOREST - MANCHESTER CITY
 NOTTM FOREST - TOTTENHAM
 NOTTM FOREST VS MAN CITY
@@ -63584,6 +63597,7 @@ OOSTENDE – STANDARD
 OOSTENRIJK DENEMARKEN
 OOSTENRIJK LOCKDOWN
 OOSTKAMP
+OOSTMALLE
 OPEC
 OPEN AI
 OPEN AIR ST.GALLEN
@@ -75811,6 +75825,7 @@ SKIRENNEN LIVE
 SKIRENNEN SÖLDEN
 SKIRENNEN ZERMATT
 SKISPRINGEN
+SKIUNFALL
 SKIUNFALL KLOSTERS
 SKIUNFALL TSCHIERTSCHEN
 SKODA ELROQ
@@ -77105,11 +77120,13 @@ SUMY
 SUN VALLEY
 SUNDERLAND
 SUNDERLAND - BRENTFORD
+SUNDERLAND - FULHAM
 SUNDERLAND - LEEDS UNITED
 SUNDERLAND - NEWCASTLE
 SUNDERLAND - WEST HAM
 SUNDERLAND - WOLVES
 SUNDERLAND – BRENTFORD
+SUNDERLAND – FULHAM
 SUNDERLAND – LEEDS UNITED
 SUNDERLAND – NEWCASTLE
 SUNDERLAND – WEST HAM
@@ -95878,6 +95895,7 @@ atalanta  genoa
 atalanta  juventus
 atalanta  lecce
 atalanta  milan
+atalanta  napoli
 atalanta  roma
 atalanta  salernitana
 atalanta  sassuolo
@@ -95886,6 +95904,8 @@ atalanta  venezia
 atalanta - cagliari
 atalanta - genoa
 atalanta - lecce
+atalanta - naples
+atalanta - napoli
 atalanta - sassuolo
 atalanta - venezia
 atalanta bergamo
@@ -95909,12 +95929,15 @@ atalanta – venezia
 atalanta-cagliari
 atalanta-genoa
 atalanta-lecce
+atalanta-naples
+atalanta-napoli
 atalanta-sassuolo
 atalanta-venezia
 atalanta-villarreal
 atalanta–cagliari
 atalanta–genoa
 atalanta–lecce
+atalanta–naples
 atalanta–venezia
 atatürk
 atatürk olympic stadium
@@ -96278,6 +96301,7 @@ auvio rtbf
 aux arbres citoyens
 auxerre
 auxerre - lyon
+auxerre - rennes
 auxerre marseille
 auxerre saint-etienne
 auxerre – ajaccio
@@ -96297,8 +96321,10 @@ auxerre – rodez
 auxerre – saint-étienne
 auxerre – strasbourg
 auxerre-lyon
+auxerre-rennes
 auxerremarseille
 auxerre–lyon
+auxerre–rennes
 ava gardner
 ava kris tyson
 ava max
@@ -99581,10 +99607,12 @@ can u17
 can yaman
 canada
 canada election results
+canada usa hockey
 canada vs new zealand
 canada – maroc
 canadaelectionresults
 canadair
+canadausahockey
 canadavsnewzealand
 canadese fijnstraal
 canal
@@ -100035,6 +100063,7 @@ cedricjubillar
 cedricschild
 cedricvillani
 cedrine kerbaol
+celebrini
 celeri vert colruyt
 celerivertcolruyt
 celestini
@@ -101570,6 +101599,8 @@ conner rousseau
 connerrousseau
 connie francis
 conniefrancis
+connor mcdavid
+connormcdavid
 conor mcgregor
 conormcgregor
 conrad janssens
@@ -106945,7 +106976,9 @@ flaubert
 flavia wasserfallen
 flavie flament
 flavieflament
+flavien coton
 flavien termet
+flaviencoton
 flavio briatore
 flavio cobolli
 flaviobriatore
@@ -107598,6 +107631,7 @@ francois verove
 francois villeroy de galhau
 francois xavier demaison
 francoisbayrou
+francoisberleand
 francoiscivil
 francoise arnoul
 francoise bertieaux
@@ -110660,10 +110694,12 @@ hockey pro league
 hockey sur glace
 hockey sur glace aux jeux olympiques d'hiver 2026
 hockey sur glace aux jeux olympiques dhiver 2026
+hockey sur glace jo 2026
 hockey-wm
 hockeyjo2026
 hockeysurglace
 hockeysurglaceauxjeuxolympiquesd'hiver2026
+hockeysurglacejo2026
 hocus pocus
 hoei
 hoeilaart
@@ -117689,7 +117725,9 @@ luchs
 luchtaanval
 luchthaven charleroi
 lucia-fest
+luciano capasso
 luciano darderi
+lucianocapasso
 lucianodarderi
 lucid air
 lucidair
@@ -119659,6 +119697,7 @@ mathilde panot marion maréchal
 mathilde seigner
 mathildegremaud
 mathildehignet
+mathildeseigner
 mathis bellon
 mathis eboue
 mathis lambourde
@@ -120432,6 +120471,7 @@ michael tylo
 michael van gerwen
 michael van peel
 michael venom page
+michael vogt
 michael weinmann
 michael weinmann srf
 michael wendler
@@ -120455,6 +120495,7 @@ michaelschumacher
 michaelschumacherskiunfall
 michaelt.weiss
 michaelvangerwen
+michaelvogt
 michaelweinmann
 michaelwendler
 michail antonio
@@ -122820,21 +122861,26 @@ notrufnummern schweiz
 notrufnummernschweiz
 nottingham
 nottingham - chelsea
+nottingham - liverpool
 nottingham - man city
 nottingham forest
 nottingham gegen arsenal
 nottingham gegen chelsea
 nottingham – chelsea
+nottingham – liverpool
 nottingham – man city
 nottingham-chelsea
+nottingham-liverpool
 nottingham-mancity
 nottinghamforest
 nottingham–chelsea
+nottingham–liverpool
 nottingham–mancity
 nottm forest - brighton
 nottm forest - chelsea
 nottm forest - crystal palace
 nottm forest - leeds united
+nottm forest - liverpool
 nottm forest - manchester city
 nottm forest - tottenham
 nottm forest vs man city
@@ -122852,6 +122898,7 @@ nottmforest-brighton
 nottmforest-chelsea
 nottmforest-crystalpalace
 nottmforest-leedsunited
+nottmforest-liverpool
 nottmforest-manchestercity
 nottmforest-tottenham
 nottmforestvsmancity
@@ -122860,6 +122907,7 @@ nottmforest–chelsea
 nottmforest–crystalpalace
 nottmforest–everton
 nottmforest–leedsunited
+nottmforest–liverpool
 nottmforest–manchestercity
 nottmforest–southampton
 nottmforest–tottenham
@@ -123556,6 +123604,7 @@ oostende – standard
 oostenrijk denemarken
 oostenrijk lockdown
 oostkamp
+oostmalle
 opec
 open ai
 open air st.gallen
@@ -130173,6 +130222,7 @@ skirennen zermatt
 skirennenheute
 skirennenlive
 skispringen
+skiunfall
 skiunfall klosters
 skiunfall tschiertschen
 skiunfalltschiertschen
@@ -131661,21 +131711,25 @@ sumy
 sun valley
 sunderland
 sunderland - brentford
+sunderland - fulham
 sunderland - leeds united
 sunderland - newcastle
 sunderland - west ham
 sunderland - wolves
 sunderland – brentford
+sunderland – fulham
 sunderland – leeds united
 sunderland – newcastle
 sunderland – west ham
 sunderland – wolves
 sunderland-brentford
+sunderland-fulham
 sunderland-leedsunited
 sunderland-newcastle
 sunderland-westham
 sunderland-wolves
 sunderland–brentford
+sunderland–fulham
 sunderland–leedsunited
 sunderland–newcastle
 sunderland–westham
