@@ -1219,6 +1219,7 @@
 9thSentinelSisters
 :
 :3
+<Unknown_Terminal>
 ?
 ? ?(One Shot)
 ? Not So Hot Potato: 2025 Final Boss ?
@@ -1483,6 +1484,7 @@ A DIFFICULT GAME ABOUT LETTERS
 A DIFFICULT GAME ABOUT WHEELCHAIR
 A DIRECTIONLESS CYCLE
 A DOCTOR'S TERM
+A DREAMER'S WHITE NIGHT
 A Date With Chester 2
 A Day s Work
 A Day's Work
@@ -1490,6 +1492,8 @@ A Difficult Game About Letters
 A Directionless Cycle
 A Doctor s Term
 A Doctor's Term
+A Dreamer s White Night
+A Dreamer's White Night
 A EDDY
 A EDDY GOLDFARB
 A EDDY GOLDFARB AND
@@ -1599,12 +1603,14 @@ A TALE OF BROTHERS
 A TALE OF SHADOWS: FRAGMENTS PART I
 A TINY SNOW GAME
 A TITHE IN BLOOD
+A TOTALLY CENSORED GAME
 A TRIP TO THE MALL AT NIGHT
 A TWISTED PLACE
 A Tale Of Shadows: Fragments Part I
 A Tale of Brothers
 A Tiny Snow Game
 A Tithe in Blood
+A Totally Censored Game
 A Trip to the Mall at Night
 A Twisted Place
 A VERY FOOLISH REMASTER OF BERETTA MONDATTA
@@ -2029,6 +2035,7 @@ ADay'sWork
 ADifficultGameAboutLetters
 ADirectionlessCycle
 ADoctor'sTerm
+ADreamer'sWhiteNight
 AEDDY
 AEDDYGOLDFARB
 AEDDYGOLDFARBAND
@@ -3258,9 +3265,12 @@ ARIYATRAKOOL
 ARK RE:CODE
 ARK: LOST COLONY EXPANSION PASS
 ARK: Lost Colony Expansion Pass
+ARK: SURVIVAL ASCENDED
 ARK: SURVIVAL EVOLVED
+ARK: Survival Ascended
 ARK: Survival Evolved
 ARK:LostColonyExpansionPass
+ARK:SurvivalAscended
 ARK:SurvivalEvolved
 ARKADIJ
 ARKADIJ JEGOROV
@@ -3795,6 +3805,7 @@ ATaleofBrothers
 ATinySnowGame
 ATitheinBlood
 ATono
+ATotallyCensoredGame
 ATrain
 ATriptotheMallatNight
 ATwistedPlace
@@ -7235,6 +7246,7 @@ BEENOXSTUDIOS
 BEEP
 BEEP INDUSTRIES
 BEEPINDUSTRIES
+BEER CLICKER
 BEER RUNNER
 BEERCRUSH
 BEESHU
@@ -7998,6 +8010,7 @@ BLOODY
 BLOODY ROAR
 BLOODYROAR
 BLOOM N BUZZ
+BLOOMING ASHES
 BLOONS
 BLOPPER
 BLOPPER BLOPPER
@@ -9810,7 +9823,9 @@ BeenoxStudios
 Beep
 Beep Industries
 BeepIndustries
+Beer Clicker
 Beer Runner
+BeerClicker
 BeerRunner
 Beeshu
 Beetroot
@@ -10671,6 +10686,8 @@ Bloody Roar
 BloodyRoar
 Bloom N Buzz
 BloomNBuzz
+Blooming Ashes
+BloomingAshes
 Bloons
 Blopper
 Blopper Blopper
@@ -12676,6 +12693,8 @@ CHAOTIX
 CHAPEAU
 CHAPEAU EN CUIR
 CHAPEAUENCUIR
+CHAQS 44
+CHAQS44
 CHARACTER
 CHARACTER SOFT
 CHARACTER VOICE MAKER STUDIO
@@ -13438,6 +13457,7 @@ CODE VEIN II - DELUXE UPGRADE PACK
 CODE VEIN II - Deluxe Upgrade Pack
 CODE VEIN II - ULTIMATE UPGRADE PACK
 CODE VEIN II - Ultimate Upgrade Pack
+CODE-KNIGHT
 CODE: PANDORA 2
 CODE:PANDORA2
 CODEBASE
@@ -13645,6 +13665,7 @@ COMPASS
 COMPATI
 COMPATI HERO
 COMPATIHERO
+COMPETITIVE TICTACTOE
 COMPILATION
 COMPILE
 COMPILE HEART
@@ -14525,6 +14546,7 @@ CUPHEAD & THE DELICIOUS LAST COURSE
 CUPIDARD
 CUPIDARD CUPIDARD
 CUPIDARDCUPIDARD
+CUPIES
 CUPIG'S KEY COLLECTATHON
 CURE FOR DEATH
 CURIO
@@ -16426,8 +16448,10 @@ Cod Spawn Egg
 CodSpawn
 CodSpawnEgg
 Code
+Code Knight
 Code Monkeys
 Code Mystics
+Code-Knight
 CodeMonkeys
 CodeMystics
 Codebase
@@ -16646,6 +16670,8 @@ Compass
 Compati
 Compati Hero
 CompatiHero
+Competitive TicTacToe
+CompetitiveTicTacToe
 Compilation
 Compile
 Compile Heart
@@ -18092,6 +18118,7 @@ DARK MALGUS
 DARK MEMORIES: PROLOGUE
 DARK MINE
 DARK MOON
+DARK MÉXICO
 DARK NEIGHBORS
 DARK NIGHTS - REFLECTIONS
 DARK OAK
@@ -20398,8 +20425,10 @@ Dark Lord Leona
 Dark Lord Verkins
 Dark Malgus
 Dark Memories: Prologue
+Dark Mexico
 Dark Mine
 Dark Moon
+Dark México
 Dark Neighbors
 Dark Nights   Reflections
 Dark Nights - Reflections
@@ -20441,6 +20470,7 @@ DarkMalgus
 DarkMemories:Prologue
 DarkMine
 DarkMoon
+DarkMéxico
 DarkNeighbors
 DarkNights-Reflections
 DarkOak
@@ -23915,6 +23945,7 @@ ESCAPE THE MONSTALKERS!
 ESCAPE THE PYRAMID
 ESCAPE THE WOJAK GOTY
 ESCAPE TO THE ITALIAN BRAINROT
+ESCAPE UP
 ESCAPE Z
 ESCAPE30DAYCIRCLE
 ESCAPEFROMBUTCHERBAY
@@ -24170,6 +24201,7 @@ EXOPAL
 EXOR
 EXOR STUDIOS
 EXOR Studios
+EXORCISM OF MONTAGUE MANOR
 EXORCIST OF LUST: KAEDE
 EXORCIST SIMULATOR
 EXORSTUDIOS
@@ -25199,6 +25231,7 @@ Escape The Labyrinth
 Escape The MonStalkers!
 Escape The Pyramid
 Escape The Wojak GOTY
+Escape Up
 Escape Z
 Escape from Butcher Bay
 Escape from Chancellor s Chambers
@@ -25239,6 +25272,7 @@ EscapeTheLabyrinth
 EscapeTheMonStalkers!
 EscapeThePyramid
 EscapeTheWojakGOTY
+EscapeUp
 EscapeZ
 EscapefromButcherBay
 EscapefromChancellor'sChambers
@@ -25544,6 +25578,8 @@ ExoDigger
 ExoTrain Demo
 ExoTrainDemo
 Exopal
+Exorcism of Montague Manor
+ExorcismofMontagueManor
 Exorcist Simulator
 Exorcist of Lust: Kaede
 ExorcistSimulator
@@ -30230,6 +30266,7 @@ GOLDFISH
 GOLDINGOT
 GOLDNUGGET
 GOLF
+GOLF WITH YOUR ENEMIES
 GOLF WITH YOUR FRIENDS
 GOLFSLINGER
 GOLFTACULAR!
@@ -32049,9 +32086,11 @@ Goldfish
 GoldforRetirementSoundtrack
 Golf
 Golf With Your Friends
+Golf with Your Enemies
 GolfWithYourFriends
 Golfslinger
 Golftacular!
+GolfwithYourEnemies
 Golgalian
 Gomar
 Gomar  Shioh
@@ -32912,6 +32951,7 @@ HALIFAX
 HALKEN
 HALL
 HALLABORATORY
+HALLOWEEN FILLED WITH CATS
 HALLOWEEN NIGHT
 HALLOWEEN STORIES: THE DEATH CARD COLLECTOR'S EDITION
 HALLOWEEN TROUBLE 7: THE APPRENTICE
@@ -33426,6 +33466,7 @@ HENTAI CLEOPATRA 2
 HENTAI CLICKER: ALERINNA IS STREAMING
 HENTAI CLICKER: CASSANDRA IS STREAMING
 HENTAI CLICKER: CATHY IS STREAMING
+HENTAI CLICKER: SUNNY IS STREAMING
 HENTAI CLICKER: VALENTINE IS STREAMING
 HENTAI CLICKER: VICKY IS STREAMING
 HENTAI CLICKER: YUMI IS STREAMING
@@ -33843,6 +33884,7 @@ HOLDEN
 HOLDER OF PLACE
 HOLDTHELINE
 HOLE
+HOLE YOUR HORSES: CHAMPION EDITION
 HOLES
 HOLGER
 HOLIDAY HARRY
@@ -34368,10 +34410,12 @@ HalftimeAdventures
 Halifax
 Halken
 Hall
+Halloween Filled With Cats
 Halloween Night
 Halloween Stories: The Death Card Collector s Edition
 Halloween Stories: The Death Card Collector's Edition
 Halloween Trouble 7: The Apprentice
+HalloweenFilledWithCats
 HalloweenNight
 HalloweenStories:TheDeathCardCollector'sEdition
 HalloweenTrouble7:TheApprentice
@@ -34956,6 +35000,7 @@ Hentai Cleopatra 2
 Hentai Clicker: Alerinna is streaming
 Hentai Clicker: Cassandra is streaming
 Hentai Clicker: Cathy is streaming
+Hentai Clicker: Sunny is streaming
 Hentai Clicker: Valentine is streaming
 Hentai Clicker: Vicky is streaming
 Hentai Clicker: Yumi is streaming
@@ -35051,6 +35096,7 @@ HentaiCleopatra2
 HentaiClicker:Alerinnaisstreaming
 HentaiClicker:Cassandraisstreaming
 HentaiClicker:Cathyisstreaming
+HentaiClicker:Sunnyisstreaming
 HentaiClicker:Valentineisstreaming
 HentaiClicker:Vickyisstreaming
 HentaiClicker:Yumiisstreaming
@@ -35502,6 +35548,8 @@ Holder of Place
 HolderofPlace
 HoldonintheDungeons
 Hole
+Hole Your Horses: Champion Edition
+HoleYourHorses:ChampionEdition
 Holger
 Holiday Harry
 Holiday Motel Simulator
@@ -37008,6 +37056,7 @@ ISLAND MARKET SIMULATOR: PROLOGUE
 ISLAND OF CORRUPTION
 ISLAND OF ENCHANTMENT
 ISLAND OFF OUTER DARKNESS
+ISLAND ON CLOUD
 ISLAND PARADISE
 ISLAND ROBOT FARM
 ISLANDS
@@ -37943,6 +37992,7 @@ Island Off Outer Darkness
 Island Paradise
 Island Robot Farm
 Island of Corruption
+Island on cloud
 IslandLifeWithMayalala
 IslandMarketSimulator:Prologue
 IslandOfEnchantment
@@ -37950,6 +38000,7 @@ IslandOffOuterDarkness
 IslandParadise
 IslandRobotFarm
 IslandofCorruption
+Islandoncloud
 Islands
 Isle
 Isle Plateau Demo
@@ -40142,6 +40193,7 @@ KINGDOM ASCENSION
 KINGDOM COME: DELIVERANCE II
 KINGDOM COME: DELIVERANCE ROYAL EDITION
 KINGDOM HEARTS
+KINGDOM OF CHOICES
 KINGDOM OF NIGHT
 KINGDOM UNDER
 KINGDOM UNDER FIRE
@@ -41266,6 +41318,7 @@ Kingdom Ascension
 Kingdom Come: Deliverance II
 Kingdom Come: Deliverance Royal Edition
 Kingdom Hearts
+Kingdom Of Choices
 Kingdom Under
 Kingdom Under Fire
 Kingdom Wars
@@ -41274,6 +41327,7 @@ KingdomAscension
 KingdomCome:DeliveranceII
 KingdomCome:DeliveranceRoyalEdition
 KingdomHearts
+KingdomOfChoices
 KingdomUnder
 KingdomUnderFire
 KingdomWars
@@ -42211,6 +42265,7 @@ LAST
 LAST EPOCH
 LAST HEIST
 LAST JOURNAL
+LAST MAGE
 LAST MILE
 LAST NINJA
 LAST OF US
@@ -43402,6 +43457,7 @@ LOST IN BLUE
 LOST IN LOFI
 LOST IN LOSS
 LOST IN RANDOM: THE ETERNAL DIE
+LOST IN REEFS
 LOST IN SPACE - THE FIRST ADVENTURE
 LOST IN THE WORLD OF SUCCUBI
 LOST IN TRANSIT
@@ -43957,6 +44013,7 @@ Last
 Last Epoch
 Last Heist
 Last Journal
+Last Mage
 Last Ninja
 Last Orders
 Last Outpost
@@ -43971,6 +44028,7 @@ Last of Us
 LastEpoch
 LastHeist
 LastJournal
+LastMage
 LastNinja
 LastOrders
 LastOutpost
@@ -45303,6 +45361,7 @@ Lost in
 Lost in Blue
 Lost in Loss
 Lost in Random: The Eternal Die
+Lost in Reefs
 Lost in the World of Succubi
 Lost my Collection of 600 Stars
 Lost:TabooForest
@@ -45330,6 +45389,7 @@ Lostin
 LostinBlue
 LostinLoss
 LostinRandom:TheEternalDie
+LostinReefs
 LostintheWorldofSuccubi
 LostmyCollectionof600Stars
 Lothar
@@ -45968,6 +46028,7 @@ MAILLONMAILLON
 MAIN
 MAIN CHARACTER
 MAINCHARACTER
+MAINFRAME MEN
 MAINNOIRE
 MAIRE
 MAIRE LEN BLUSTERGAS
@@ -46056,6 +46117,7 @@ MALLORIE BARDASBELLIC
 MALLORIEBARDAS-BELLIC
 MALLORIEBARDASBELLIC
 MALLORY
+MALLOW
 MALLYX
 MALLYX L'IMPITOYABLE
 MALLYX LIMPITOYABLE
@@ -47681,6 +47743,7 @@ MIX
 MIX IT!
 MIX-UP
 MIYA & AYA: HENTAI PUZZLE 18+
+MIYA MIGHT BREAK
 MIYAMI
 MIYANOKOUJI
 MIYAZAWA
@@ -48939,6 +49002,8 @@ MaillonMaillon
 Main
 Main character
 Maincharacter
+Mainframe Men
+MainframeMen
 Mainnoire
 Maire
 Maire Len Blustergas
@@ -49033,6 +49098,7 @@ Mallorie BardasBellic
 MallorieBardas-Bellic
 MallorieBardasBellic
 Mallory
+Mallow
 Mallyx
 Mallyx l'impitoyable
 Mallyx limpitoyable
@@ -50782,7 +50848,9 @@ Mix-up
 Mixit!
 Miya   Aya: Hentai Puzzle 18+
 Miya & Aya: Hentai Puzzle 18+
+Miya Might Break
 Miya&Aya:HentaiPuzzle18+
+MiyaMightBreak
 Miyami
 Miyanokouji
 Miyazawa
@@ -61935,6 +62003,7 @@ RADICAL
 RADICAL ENTERTAINMENT
 RADICALENTERTAINMENT
 RADIO
+RADIO BUDDY
 RADIO COMMANDER
 RADIO SHACK
 RADIOACTIVE
@@ -62217,7 +62286,9 @@ RDASYSTEMS
 RDASystems
 RDMOBILE
 RDMobile
+RE VIVED
 RE-ACTIVATED
+RE-VIVED
 RE:CALL
 REACH
 REACH TO TSUKUYOMI
@@ -62857,6 +62928,7 @@ RIPParty
 RISC
 RISE OF ATOM
 RISE OF INDUSTRY 2
+RISE OF PIRACY
 RISE OF THE PENGUINS 2: PENGUIN'S DARK ASCENT
 RISE OF THE SUCCESSOR
 RISE OF THE TOMB RAIDER™
@@ -63451,6 +63523,7 @@ RUNE FACTORY: GUARDIANS OF AZUMA
 RUNE LEGACY IDLE
 RUNEBLADE AUTOMATON
 RUNECRAFT
+RUNEOMICON: TRAINING ROOM
 RUNES OF MADNESS
 RUNESCAPE: DRAGONWILDS
 RUNEWOOD: HUNDRED NIGHTS
@@ -63604,8 +63677,10 @@ Radical
 Radical Entertainment
 RadicalEntertainment
 Radio
+Radio Buddy
 Radio Commander
 Radio Shack
+RadioBuddy
 RadioCommander
 RadioShack
 Radioactive
@@ -64632,6 +64707,7 @@ RippleIslandKyleandCal’sRestaurant
 Rise To Mayhem
 Rise of Atom
 Rise of Industry 2
+Rise of Piracy
 Rise of the Penguins 2: Penguin s Dark Ascent
 Rise of the Penguins 2: Penguin's Dark Ascent
 Rise of the Successor
@@ -64644,6 +64720,7 @@ RiseToMayhem
 Risen
 RiseofAtom
 RiseofIndustry2
+RiseofPiracy
 RiseofthePenguins2:Penguin'sDarkAscent
 RiseoftheSuccessor
 RiseoftheTombRaider™
@@ -65290,6 +65367,8 @@ RuneScape:Dragonwilds
 Runeblade Automaton
 RunebladeAutomaton
 Runecraft
+Runeomicon: Training Room
+Runeomicon:TrainingRoom
 Runes of Madness
 RunesofMadness
 Runewood: Hundred Nights
@@ -66111,6 +66190,7 @@ SECHEE
 SECLUSA
 SECOND
 SECOND CHANCES
+SECOND HUMANITY - (CAPÍTULO 1)
 SECOND SIGHT
 SECONDAIRES
 SECONDS TILL DESTRUCTION
@@ -67966,6 +68046,7 @@ SPACE HULK
 SPACE HULK: DEATHWING ENHANCED EDITION
 SPACE INVADERS
 SPACE IS RED
+SPACE LORA - ADULT ONLY
 SPACE MAMA
 SPACE MANBOW
 SPACE MEMORY: CHINCHILLAS
@@ -68112,6 +68193,7 @@ SPIDER CANYON
 SPIDER EYE
 SPIDER FIGHTER
 SPIDER MAZE
+SPIDER ROULETTE
 SPIDER SPAWN
 SPIDER SPAWN EGG
 SPIDEREYE
@@ -68636,6 +68718,7 @@ STICKMENSTUDIOS
 STICKS
 STICKS THE BADGER
 STICKSTHEBADGER
+STILL HERE
 STILL IT RUNS
 STILL SPACE
 STILL WAKES THE DEEP: SIREN’S REST
@@ -68934,6 +69017,7 @@ SUCRE
 SUCREES
 SUDDEN
 SUDDEN STRIKE
+SUDDEN STRIKE 4
 SUDDENSTRIKE
 SUDOKI-DOKI: A HENTAI SUDOKU GAME!
 SUDOKU ACRES
@@ -68981,6 +69065,7 @@ SUMMIT DRIVE A GAME BY LUKE KIM
 SUMMON
 SUMMON NIGHT
 SUMMONARK -DECK BUILDING ROGUELITE-
+SUMMONER REBORN
 SUMMONERS WAR: RUSH
 SUMMONNIGHT
 SUMO
@@ -69213,6 +69298,7 @@ SUPERMONO
 SUPERMONO STUDIOS
 SUPERMONOSTUDIOS
 SUPERNATURAL VISUAL NOVEL "THE FOURTEENTH Ξ (GUZAI) VOL. 1 & 2"
+SUPERNOVA
 SUPEROFFROAD
 SUPERPACKER
 SUPERPACMAN
@@ -70210,8 +70296,13 @@ SebastianGates
 Seclusa
 Second
 Second Chances
+Second Humanity   (Capítulo 1)
+Second Humanity -  Capítulo 1 
+Second Humanity - (Capitulo 1)
+Second Humanity - (Capítulo 1)
 Second Sight
 SecondChances
+SecondHumanity-(Capítulo1)
 SecondSight
 Seconds Till Destruction
 SecondsTillDestruction
@@ -72244,6 +72335,8 @@ Space Hitchhiker Stop
 Space Hulk
 Space Hulk: Deathwing Enhanced Edition
 Space Invaders
+Space Lora   Adult Only
+Space Lora - Adult Only
 Space Mama
 Space Manbow
 Space Memory: Chinchillas
@@ -72290,6 +72383,7 @@ SpaceHitchhikerStop
 SpaceHulk
 SpaceHulk:DeathwingEnhancedEdition
 SpaceInvaders
+SpaceLora-AdultOnly
 SpaceMama
 SpaceManbow
 SpaceMemory:Chinchillas
@@ -72445,12 +72539,14 @@ Spider Canyon
 Spider Eye
 Spider Fighter
 Spider Maze
+Spider Roulette
 Spider Spawn
 Spider Spawn Egg
 SpiderCanyon
 SpiderEye
 SpiderFighter
 SpiderMaze
+SpiderRoulette
 SpiderSpawn
 SpiderSpawnEgg
 Spiders
@@ -73047,10 +73143,12 @@ StickmenStudios
 Sticks
 Sticks the Badger
 StickstheBadger
+Still Here
 Still It Runs
 Still Space
 Still Wakes the Deep: Siren's Rest
 Still Wakes the Deep: Siren’s Rest
+StillHere
 StillItRuns
 StillSpace
 StillWakestheDeep:Siren’sRest
@@ -73429,7 +73527,9 @@ SuckerPunch
 Sucre
 Sudden
 Sudden Strike
+Sudden Strike 4
 SuddenStrike
+SuddenStrike4
 Sudoku Acres
 Sudoku Dreams
 Sudoku Dungeon
@@ -73490,6 +73590,8 @@ SummonArk  Deck Building Roguelite
 SummonArk -Deck Building Roguelite-
 SummonArk-DeckBuildingRoguelite-
 SummonNight
+Summoner Reborn
+SummonerReborn
 Summoners War: RUSH
 SummonersWar:RUSH
 Sumo
@@ -75107,6 +75209,7 @@ THE DONUT GALLERY
 THE DOOMED KNIGHT
 THE DOUBLE
 THE DRAWSTRING DUNGEON
+THE DREADED FOREST
 THE DREAM
 THE DREAM COLLECTOR
 THE DREAM MACHINE
@@ -75481,6 +75584,7 @@ THE REASON MY WIFE HAS GOTTEN MORE BEAUTIFUL
 THE RED SHIFT
 THE RESCUE OF MERMAIDS
 THE REWINDER 2
+THE RIFT REBELS
 THE RIFTBREAKER
 THE RITE HOLDS
 THE RITUAL
@@ -75551,6 +75655,7 @@ THE SUSHI HOUSE
 THE SWARM 2
 THE TALE OF OATH
 THE TALE OF RELM
+THE TALL MAN TAPES
 THE TAMING MASSAGE PARLOR ~MARI'S STORY~
 THE TAVERN IN THE WOODS
 THE TEMPLE OF ELEMENTAL EVIL
@@ -78200,6 +78305,7 @@ The Dome Software Developments
 The Donut Gallery
 The Doomed Knight
 The Drawstring Dungeon
+The Dreaded Forest
 The Dream
 The Dream Collector
 The Dream Machine
@@ -78551,6 +78657,7 @@ The Reason for Your Smile
 The Red Shift
 The Rescue of Mermaids
 The Rewinder 2
+The Rift Rebels
 The Riftbreaker
 The Rite Holds
 The Ritual
@@ -78623,6 +78730,7 @@ The Sushi House
 The Swarm 2
 The Tale of Oath
 The Tale of Relm
+The Tall Man Tapes
 The Taming Massage Parlor ~Mari s Story~
 The Taming Massage Parlor ~Mari's Story~
 The Tavern In the Woods
@@ -78848,6 +78956,7 @@ TheDomeSoftwareDevelopments
 TheDonutGallery
 TheDoomedKnight
 TheDrawstringDungeon
+TheDreadedForest
 TheDream
 TheDreamCollector
 TheDreamMachine
@@ -79173,6 +79282,7 @@ TheReasonforYourSmile
 TheRedShift
 TheRescueofMermaids
 TheRewinder2
+TheRiftRebels
 TheRiftbreaker
 TheRiteHolds
 TheRitual
@@ -79236,6 +79346,7 @@ TheSushiHouse
 TheSwarm2
 TheTaleofOath
 TheTaleofRelm
+TheTallManTapes
 TheTamingMassageParlor~Mari'sStory~
 TheTavernIntheWoods
 TheTempleofElementalEvil
@@ -81780,6 +81891,7 @@ VAMPIRE
 VAMPIRE CAT DEMO
 VAMPIRE INSTINCT
 VAMPIRE KILLER
+VAMPIRE LEGENDS 🦇
 VAMPIRE PRISON
 VAMPIRE SKUF
 VAMPIRE THE MASQUERADE BLOODLINES
@@ -82495,6 +82607,8 @@ Vampirates
 Vampire
 Vampire Cat Demo
 Vampire Instinct
+Vampire Legends ?
+Vampire Legends 🦇
 Vampire Prison
 Vampire Skuf
 Vampire The Masquerade Bloodlines
@@ -82511,6 +82625,7 @@ Vampire: The Masquerade® - Bloodlines™ 2
 Vampire:TheMasquerade®-Bloodlines™2
 VampireCatDemo
 VampireInstinct
+VampireLegends🦇
 VampirePrison
 VampireSkuf
 VampireTheMasqueradeBloodlines
@@ -83217,6 +83332,7 @@ WAHOOSTUDIOS
 WAIFU BUNNY CLUB
 WAIFU DAYS
 WAIFU RANCHER 2
+WAIFU WEAVE
 WAIL
 WAIT FOR THE EGG TO HATCH
 WAITFORIT
@@ -84241,9 +84357,11 @@ WahooStudios
 Waifu Bunny Club
 Waifu Days
 Waifu Rancher 2
+Waifu Weave
 WaifuBunnyClub
 WaifuDays
 WaifuRancher2
+WaifuWeave
 Wail
 Wait for the Egg to Hatch
 WaitfortheEggtoHatch
@@ -85817,6 +85935,7 @@ YOSHIYUKIKABURAGI
 YOU
 YOU ARE A FUCKING IDIOT!
 YOU ARE SPEED
+YOU ARE THE BOMB: A GAME ABOUT ROLLING BOMBS
 YOU ARE THE LIGHT – AN AUDIOVISUAL VR JOURNEY
 YOU BELONG HERE
 YOU CAN'T CORRUPT ME! ~TALE OF A NAIVE ELVEN SWORDSWOMAN~
@@ -86206,6 +86325,7 @@ You Were There  君はそこにいた
 You Were There -???????-
 You Were There -君はそこにいた-
 You are a Fucking Idiot!
+You are the Bomb: A Game About Rolling Bombs
 You are the light - An Audiovisual VR Journey
 You are the light – An Audiovisual VR Journey
 You reincarnated into the game world and fucked the NPCs! Animation 
@@ -86227,6 +86347,7 @@ YouOweMe
 YouSuckAtFootball
 YouWereThere-君はそこにいた-
 YouareaFuckingIdiot!
+YouaretheBomb:AGameAboutRollingBombs
 Youarethelight–AnAudiovisualVRJourney
 Youchosis
 Youda
@@ -87097,6 +87218,7 @@ a difficult game about letters
 a difficult game about wheelchair
 a directionless cycle
 a doctor's term
+a dreamer's white night
 a eddy
 a eddy goldfarb
 a eddy goldfarb and
@@ -87153,6 +87275,7 @@ a tale of brothers
 a tale of shadows: fragments part i
 a tiny snow game
 a tithe in blood
+a totally censored game
 a trip to the mall at night
 a twisted place
 a very foolish remaster of beretta mondatta
@@ -88658,6 +88781,7 @@ arius
 ariyatrakool
 ark re:code
 ark: lost colony expansion pass
+ark: survival ascended
 ark: survival evolved
 arkadij
 arkadij jegorov
@@ -90118,6 +90242,7 @@ beenoxstudios
 beep
 beep industries
 beepindustries
+beer clicker
 beer runner
 beercrush
 beeshu
@@ -90866,6 +90991,7 @@ bloody
 bloody roar
 bloodyroar
 bloom n buzz
+blooming ashes
 bloons
 blopper
 blopper blopper
@@ -92673,6 +92799,7 @@ chaotix
 chapeau
 chapeau en cuir
 chapeauencuir
+chaqs 44
 character
 character soft
 character voice maker studio
@@ -93422,6 +93549,7 @@ code vein
 code vein ii
 code vein ii - deluxe upgrade pack
 code vein ii - ultimate upgrade pack
+code-knight
 code: pandora 2
 codebase
 codelock
@@ -93621,6 +93749,7 @@ compass
 compati
 compati hero
 compatihero
+competitive tictactoe
 compilation
 compile
 compile heart
@@ -94492,6 +94621,7 @@ cuphead & the delicious last course
 cupidard
 cupidard cupidard
 cupidardcupidard
+cupies
 cupig's key collectathon
 cure for death
 curio
@@ -94905,6 +95035,7 @@ dark malgus
 dark memories: prologue
 dark mine
 dark moon
+dark méxico
 dark neighbors
 dark nights - reflections
 dark oak
@@ -97952,6 +98083,7 @@ escape the monstalkers!
 escape the pyramid
 escape the wojak goty
 escape to the italian brainrot
+escape up
 escape z
 escape30daycircle
 escapefrombutcherbay
@@ -98197,6 +98329,7 @@ exodus2
 exopal
 exor
 exor studios
+exorcism of montague manor
 exorcist of lust: kaede
 exorcist simulator
 exorstudios
@@ -100881,6 +101014,7 @@ goldfish
 goldingot
 goldnugget
 golf
+golf with your enemies
 golf with your friends
 golfslinger
 golftacular!
@@ -101715,6 +101849,7 @@ halifax
 halken
 hall
 hallaboratory
+halloween filled with cats
 halloween night
 halloween stories: the death card collector's edition
 halloween trouble 7: the apprentice
@@ -102230,6 +102365,7 @@ hentai cleopatra 2
 hentai clicker: alerinna is streaming
 hentai clicker: cassandra is streaming
 hentai clicker: cathy is streaming
+hentai clicker: sunny is streaming
 hentai clicker: valentine is streaming
 hentai clicker: vicky is streaming
 hentai clicker: yumi is streaming
@@ -102627,6 +102763,7 @@ hold.for.humans
 holden
 holder of place
 hole
+hole your horses: champion edition
 holes
 holger
 holiday harry
@@ -103952,6 +104089,7 @@ island market simulator: prologue
 island of corruption
 island of enchantment
 island off outer darkness
+island on cloud
 island paradise
 island robot farm
 islands
@@ -105301,6 +105439,7 @@ kingdom ascension
 kingdom come: deliverance ii
 kingdom come: deliverance royal edition
 kingdom hearts
+kingdom of choices
 kingdom of night
 kingdom under
 kingdom under fire
@@ -106221,6 +106360,7 @@ last
 last epoch
 last heist
 last journal
+last mage
 last mile
 last ninja
 last of us
@@ -107404,6 +107544,7 @@ lost in blue
 lost in lofi
 lost in loss
 lost in random: the eternal die
+lost in reefs
 lost in space - the first adventure
 lost in the world of succubi
 lost in transit
@@ -107978,6 +108119,7 @@ maillonmaillon
 main
 main character
 maincharacter
+mainframe men
 mainnoire
 maire
 maire len blustergas
@@ -108066,6 +108208,7 @@ mallorie bardasbellic
 malloriebardas-bellic
 malloriebardasbellic
 mallory
+mallow
 mallyx
 mallyx l'impitoyable
 mallyx limpitoyable
@@ -109669,6 +109812,7 @@ mix
 mix it!
 mix-up
 miya & aya: hentai puzzle 18+
+miya might break
 miyami
 miyanokouji
 miyazawa
@@ -115443,6 +115587,7 @@ radical
 radical entertainment
 radicalentertainment
 radio
+radio buddy
 radio commander
 radio shack
 radioactive
@@ -115710,6 +115855,7 @@ rda systems
 rdasystems
 rdmobile
 re-activated
+re-vived
 re:call
 reach
 reach to tsukuyomi
@@ -116325,6 +116471,7 @@ rippleisland kyle and cal’s restaurant
 risc
 rise of atom
 rise of industry 2
+rise of piracy
 rise of the penguins 2: penguin's dark ascent
 rise of the successor
 rise of the tomb raider™
@@ -116889,6 +117036,7 @@ rune factory: guardians of azuma
 rune legacy idle
 runeblade automaton
 runecraft
+runeomicon: training room
 runes of madness
 runescape: dragonwilds
 runewood: hundred nights
@@ -117619,6 +117767,7 @@ sechee
 seclusa
 second
 second chances
+second humanity - (capítulo 1)
 second sight
 secondaires
 seconds till destruction
@@ -119384,6 +119533,7 @@ space hulk
 space hulk: deathwing enhanced edition
 space invaders
 space is red
+space lora - adult only
 space mama
 space manbow
 space memory: chinchillas
@@ -119528,6 +119678,7 @@ spider canyon
 spider eye
 spider fighter
 spider maze
+spider roulette
 spider spawn
 spider spawn egg
 spidereye
@@ -120033,6 +120184,7 @@ stickmenstudios
 sticks
 sticks the badger
 sticksthebadger
+still here
 still it runs
 still space
 still wakes the deep: siren’s rest
@@ -120328,6 +120480,7 @@ sucrees
 sucrées
 sudden
 sudden strike
+sudden strike 4
 suddenstrike
 sudoki-doki: a hentai sudoku game!
 sudoku acres
@@ -120372,6 +120525,7 @@ summit drive a game by luke kim
 summon
 summon night
 summonark -deck building roguelite-
+summoner reborn
 summoners war: rush
 summonnight
 sumo
@@ -120604,6 +120758,7 @@ supermono
 supermono studios
 supermonostudios
 supernatural visual novel "the fourteenth ξ (guzai) vol. 1 & 2"
+supernova
 superoffroad
 superpacker
 superpacman
@@ -121831,6 +121986,7 @@ the donut gallery
 the doomed knight
 the double
 the drawstring dungeon
+the dreaded forest
 the dream
 the dream collector
 the dream machine
@@ -122195,6 +122351,7 @@ the reason my wife has gotten more beautiful
 the red shift
 the rescue of mermaids
 the rewinder 2
+the rift rebels
 the riftbreaker
 the rite holds
 the ritual
@@ -122265,6 +122422,7 @@ the sushi house
 the swarm 2
 the tale of oath
 the tale of relm
+the tall man tapes
 the taming massage parlor ~mari's story~
 the tavern in the woods
 the temple of elemental evil
@@ -124340,6 +124498,7 @@ vampire
 vampire cat demo
 vampire instinct
 vampire killer
+vampire legends 🦇
 vampire prison
 vampire skuf
 vampire the masquerade bloodlines
@@ -124998,6 +125157,7 @@ wahoostudios
 waifu bunny club
 waifu days
 waifu rancher 2
+waifu weave
 wail
 wait for the egg to hatch
 waitforit
@@ -126223,6 +126383,7 @@ yoshiyukikaburagi
 you
 you are a fucking idiot!
 you are speed
+you are the bomb: a game about rolling bombs
 you are the light – an audiovisual vr journey
 you belong here
 you can't corrupt me! ~tale of a naive elven swordswoman~
@@ -126798,6 +126959,9 @@ zèbre
 ※ThisGameIsNotReal. Demo
 ※ThisGameIsNotReal.Demo
 ※thisgameisnotreal. demo
+⟨UNKNOWN_TERMINAL⟩
+⟨Unknown_Terminal⟩
+⟨unknown_terminal⟩
 【REDACTED】：SEXCP-069
 【REDACTED】：SexCP 069
 【REDACTED】：SexCP-069
