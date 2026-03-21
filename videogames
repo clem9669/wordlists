@@ -292,6 +292,7 @@
 101 DOGS HIDDEN IN LOS ANGELES
 101 DOGS HIDDEN IN MADRID
 101 DOGS HIDDEN IN SHANGHAI
+101 DOGS HIDDEN IN SINGAPORE
 101 Dogs Hidden
 101 Dogs Hidden in Amsterdam
 101 Dogs Hidden in Australia
@@ -302,6 +303,7 @@
 101 Dogs Hidden in Los Angeles
 101 Dogs Hidden in Madrid
 101 Dogs Hidden in Shanghai
+101 Dogs Hidden in Singapore
 101 cats hidden in barcelona
 101 cats hidden in beijing
 101 cats hidden in belgium
@@ -326,6 +328,7 @@
 101 dogs hidden in los angeles
 101 dogs hidden in madrid
 101 dogs hidden in shanghai
+101 dogs hidden in singapore
 101CatsHiddeninBarcelona
 101CatsHiddeninBeijing
 101CatsHiddeninBelgium
@@ -350,6 +353,7 @@
 101DogsHiddeninLosAngeles
 101DogsHiddeninMadrid
 101DogsHiddeninShanghai
+101DogsHiddeninSingapore
 101ST AIRBORNE IN NORMANDY
 101st Airborne in Normandy
 101st airborne in normandy
@@ -1136,14 +1140,17 @@
 6rooms
 7
 7 DAYS
+7 DAYS AWAKE
 7 DAYS TO DIE
 7 Days
+7 Days Awake
 7 Days to Die
 7 STUDIOS
 7 Studios
 7 WONDERS
 7 Wonders
 7 days
+7 days awake
 7 days to die
 7 studios
 7 wonders
@@ -1158,6 +1165,7 @@
 7821 akuji
 7821Akuji
 7Days
+7DaysAwake
 7DaystoDie
 7STUDIOS
 7Studios
@@ -1248,6 +1256,7 @@
 ?!????
 ?1?53??
 ??
+??  Curse of the Shadow
 ?? - if -
 ?? 1645/1937 Demo
 ?? ? ???? (After-school Confession)
@@ -2261,8 +2270,10 @@ AI PAINTER: Painting Simulator
 AI PROTOCOL
 AI Protocol
 AI SCRIPT: INFINITE TEXT ADVENTURES
+AI SOCIETY
 AI SPELCRAFT
 AI Script: Infinite Text Adventures
+AI Society
 AI Spelcraft
 AI TALK 33 CAR ROBOT MODAVUJ MARKET SIMULATOR
 AI TALK 33 Car Robot Modavuj Market Simulator
@@ -2330,6 +2341,7 @@ AISYSTEM
 AISYSTEM TOKYO
 AISYSTEMTOKYO
 AIScript:InfiniteTextAdventures
+AISociety
 AISpelcraft
 AITALK33CarRobotModavujMarketSimulator
 AIWA
@@ -2793,6 +2805,7 @@ AMaiden'sSerenade
 AMax
 AMomentofBliss
 AN ABYSS OF DREAMS
+AN ALTERED STATE
 AN EXORCISM
 AN IMP AND AN IMPOSTOR
 AN ORDINARY TOP-DOWN SHOOTER
@@ -5179,11 +5192,13 @@ Amy Rose
 AmyHatesRobots
 AmyRose
 An Abyss of Dreams
+An Altered State
 An Exorcism
 An Imp and an Impostor
 An Ordinary Top Down Shooter
 An Ordinary Top-Down Shooter
 AnAbyssofDreams
+AnAlteredState
 AnExorcism
 AnImpandanImpostor
 AnOrdinaryTop-DownShooter
@@ -12387,6 +12402,7 @@ CAPITAINECONDORCAPITAINECONDOR
 CAPITAINEISAYE
 CAPITAINEWHISKER
 CAPITAINEWHITING
+CAPIVARA ZEN
 CAPPENOIS
 CAPPENOIS CAPPENOIS
 CAPPENOISCAPPENOIS
@@ -13910,6 +13926,7 @@ COLORDREAMS,INC
 COLORDREAMSINC
 COLORING GAME 10K
 COLORING VOXELS
+COLORNOVA
 COLOSSAL KICKOFF
 COLOSSAL KICKOFF SOUNDTRACK
 COLOSSEUM
@@ -15323,6 +15340,8 @@ CapitaineCondorCapitaineCondor
 CapitaineIsaye
 CapitaineWhisker
 CapitaineWhiting
+Capivara Zen
+CapivaraZen
 Cappenois
 Cappenois Cappenois
 CappenoisCappenois
@@ -19407,6 +19426,7 @@ DETECTIVE
 DETECTIVE   Scene Crime
 DETECTIVE - SCENE CRIME
 DETECTIVE - Scene Crime
+DETECTIVE 26
 DETECTIVE ARAKA
 DETECTIVE DANA
 DETECTIVE INSTINCT: FAREWELL, MY BELOVED
@@ -21946,10 +21966,12 @@ Detana!!TwinBee
 Detecti Meow
 DetectiMeow
 Detective
+Detective 26
 Detective Araka
 Detective Dana
 Detective Instinct: Farewell, My Beloved
 Detective Malinowski The Truth Will Be Revealed
+Detective26
 DetectiveAraka
 DetectiveDana
 DetectiveInstinct:Farewell,MyBeloved
@@ -24881,6 +24903,7 @@ EVOGA
 EVOGA ENTERTAINMENT
 EVOGAENTERTAINMENT
 EVOIDS
+EVOKE - OFFICIAL SOUNDTRACK
 EVOKER
 EVOKER SPAWN
 EVOKER SPAWN EGG
@@ -25036,6 +25059,7 @@ EZ Soft
 EZ-CROSSHAIR
 EZ-Crosshair
 EZMOBO
+EZOTORIA
 EZSOFT
 EZSoft
 Ea
@@ -26289,6 +26313,9 @@ Evoga
 Evoga Entertainment
 EvogaEntertainment
 Evoids
+Evoke   Official Soundtrack
+Evoke - Official Soundtrack
+Evoke-OfficialSoundtrack
 Evoker
 Evoker Spawn
 Evoker Spawn Egg
@@ -26454,6 +26481,7 @@ Eyes of Rain
 EyesofHellfire
 EyesofRain
 Ezmobo
+Ezotoria
 F
 F-15
 F-15 STRIKE EAGLE
@@ -26955,6 +26983,7 @@ FEY
 FICELLE
 FICKLE CARD LEGEND
 FICTION
+FIDGET WIDGET
 FIELD
 FIELD OF SCREAMS
 FIELDS
@@ -28702,6 +28731,8 @@ Ficelle
 Fickle Card Legend
 FickleCardLegend
 Fiction
+Fidget Widget
+FidgetWidget
 Field
 Field Of Screams
 FieldOfScreams
@@ -30281,6 +30312,7 @@ GAMANIADIGITALENTERTAINMENT
 GAMBARION
 GAMBETTE
 GAMBLE YOUR BREATH
+GAMBLER'S FALLACY
 GAMBLERS
 GAMBLERS TABLE
 GAME
@@ -31064,9 +31096,11 @@ GOA
 GOAL3
 GOAN
 GOAT
+GOAT FPS
 GOAT SPAWN
 GOAT SPAWN EGG
 GOAT STAND AND TURTLE GUY
+GOATFPS
 GOATSPAWN
 GOATSPAWNEGG
 GOAT_SPAWN_EGG
@@ -31630,6 +31664,7 @@ GRIZZLEE
 GRIZZLEE GRIZZLEE
 GRIZZLEEGRIZZLEE
 GRIZZLY
+GRIZZLY CUP TURBO CHALLENGE '92
 GRIZZLY PANDA
 GRIZZLYPANDA
 GRODRAGON
@@ -32073,6 +32108,9 @@ Gambarion
 Gambette
 Gamble Your Breath
 GambleYourBreath
+Gambler s Fallacy
+Gambler's Fallacy
+Gambler'sFallacy
 Gamblers
 Gamblers Table
 GamblersTable
@@ -33493,7 +33531,10 @@ Grizzlee
 Grizzlee Grizzlee
 GrizzleeGrizzlee
 Grizzly
+Grizzly Cup Turbo Challenge  92
+Grizzly Cup Turbo Challenge '92
 Grizzly Panda
+GrizzlyCupTurboChallenge'92
 GrizzlyPanda
 Grodragon
 Grognon
@@ -37839,6 +37880,7 @@ INKLING
 INKOID
 INKSAC
 INKVENTURE
+INKY BLINKY BOB
 INKYPEN
 INLAND
 INLAND PRODUCTIONS
@@ -38228,6 +38270,7 @@ IT TAKES TWO
 IT WATCHES
 IT'S HARD TO BE A SUPPORT
 IT'S JOHN'S HOUSE
+IT'S LOCKED
 IT'S TIME, YOUR MAJESTY
 ITALIAN BRAINROT: IN PRISON
 ITANKSTER.COM
@@ -38805,6 +38848,8 @@ InkSac
 Inkling
 Inkoid
 Inkventure
+Inky Blinky Bob
+InkyBlinkyBob
 InkyPen
 Inland
 Inland Productions
@@ -39196,12 +39241,15 @@ It
 It Takes Two
 It s Hard To Be A Support
 It s John s House
+It s Locked
 It s time, Your Majesty
 It's Hard To Be A Support
 It's John's House
+It's Locked
 It's time, Your Majesty
 It'sHardToBeASupport
 It'sJohn'sHouse
+It'sLocked
 It'stime,YourMajesty
 ItTakesTwo
 Italian Brainrot: In Prison
@@ -43804,6 +43852,7 @@ LEGEND OF KYRANDIA
 LEGEND OF MORTAL SOUNDTRACK VOL.2
 LEGEND OF SWORDS II
 LEGEND OF THE COIN KNIGHT
+LEGEND OF THE MASTER BAITER ORIGINS: GILLS GONE WILD
 LEGEND OF THE MYSTICAL NINJA
 LEGEND OF ZELDA
 LEGENDARY
@@ -45676,6 +45725,7 @@ Legend of Mortal Soundtrack Vol.2
 Legend of Swords II
 Legend of Zelda
 Legend of the Coin Knight
+Legend of the Master Baiter Origins: Gills Gone Wild
 Legend of the Mystical Ninja
 LegendBowl
 Legendary
@@ -45709,6 +45759,7 @@ LegendofSwordsII
 LegendofZelda
 LegendofZeldaThe
 LegendoftheCoinKnight
+LegendoftheMasterBaiterOrigins:GillsGoneWild
 LegendoftheMysticalNinja
 Legends
 Legends of Cumans
@@ -47748,6 +47799,7 @@ MARK OF SLAVERY
 MARK PARCHEZZI III
 MARK PURAYAH II
 MARK'S POWER
+MARKED SOULS
 MARKETING
 MARKMELTZER
 MARKPARCHEZZIIII
@@ -48312,6 +48364,7 @@ MELMAN MELMAN
 MELMANMELMAN
 MELO
 MELODRAW
+MELODY FRIENDS
 MELON
 MELON DEZIGN
 MELON MAN
@@ -49004,6 +49057,7 @@ MINI PAINTER
 MINI RACER CAR SHOP SIMULATOR
 MINI SETTLERS
 MINI STAR QUEST
+MINI UP
 MINI WARRIOR DEFENSE
 MINI WHISPY WOODS
 MINI-BOSS
@@ -50825,6 +50879,8 @@ Mark'sPower
 MarkMeltzer
 MarkParchezziIII
 MarkPurayahII
+Marked Souls
+MarkedSouls
 Marketing
 Markofslavery
 Marl
@@ -51435,6 +51491,8 @@ Melman Melman
 MelmanMelman
 Melo
 Melodraw
+Melody Friends
+MelodyFriends
 Melon
 Melon Dezign
 Melon Man
@@ -52156,6 +52214,7 @@ Mini Painter
 Mini Racer Car Shop Simulator
 Mini Settlers
 Mini Star Quest
+Mini UP
 Mini Warrior Defense
 Mini Whispy Woods
 Mini-Boss
@@ -52171,6 +52230,7 @@ MiniPainter
 MiniRacerCarShopSimulator
 MiniSettlers
 MiniStarQuest
+MiniUP
 MiniWarriorDefense
 MiniWhispyWoods
 Miniature Shop Simulator: Demo
@@ -58508,6 +58568,7 @@ PARA MATIERE
 PARA MATIERE PARA MATIERE
 PARA MATIÈRE
 PARA MATIÈRE PARA MATIÈRE
+PARACESIUM
 PARACHUTE
 PARACHUTE PRESS
 PARACHUTEPRESS
@@ -58726,6 +58787,7 @@ PAXSOFTONICA
 PAY AT THE PUMP
 PAYNE
 PAYOUT - SHOP SIMULATOR
+PAYROLL
 PBA PRO BOWLING 2026
 PBA Pro Bowling 2026
 PBAProBowling2026
@@ -58960,6 +59022,7 @@ PERFECTGUARD
 PERFECTWORLD
 PERFECTWORLDENTERTAINMENT
 PERFORE THE PERFORIEN REQUEST
+PERFORE THE PRÉ-ADVENTURE
 PERFORMANCE
 PERFORMANCE DESIGNED
 PERFORMANCE DESIGNED PRODUCTS
@@ -59432,6 +59495,7 @@ PIXEL CROSS STITCH - BACK TO SCHOOL PACK
 PIXEL CROSS STITCH - SIMPLE NATURE PACK 2
 PIXEL CROSS STITCH - TINY VEHICLES PACK
 PIXEL DUNGEONS
+PIXEL EXILE
 PIXEL FEDERATION
 PIXEL FORGE
 PIXEL GAME ENGINE
@@ -59761,6 +59825,7 @@ POJANGMACHA : KOREAN STREET FOOD MANAGEMENT SIMULATOR DEMO
 POJANGMACHA : Korean Street Food Management Simulator Demo
 POJANGMACHA:KoreanStreetFoodManagementSimulatorDemo
 POKE
+POKE ALL TOADS
 POKEMON
 POKEMON COMPANY
 POKEMON DONJON MYSTERE
@@ -60973,6 +61038,7 @@ ParaMatiere
 ParaMatiereParaMatiere
 ParaMatière
 ParaMatièreParaMatière
+Paracesium
 Parachute
 Parachute Press
 ParachutePress
@@ -61230,6 +61296,7 @@ Payne
 Payout   Shop Simulator
 Payout - Shop Simulator
 Payout-ShopSimulator
+Payroll
 Peaceful Farm
 PeacefulFarm
 Peacequarium
@@ -61384,7 +61451,11 @@ PerfectWorld
 PerfectWorldEntertainment
 Perfectdom
 Perfore the perforien request
+Perfore the pre-adventure
+Perfore the pré adventure
+Perfore the pré-adventure
 Perforetheperforienrequest
+Perforethepré-adventure
 Performance
 Performance Designed
 Performance Designed Products
@@ -61892,6 +61963,7 @@ Pixel Cross Stitch - Back To School Pack
 Pixel Cross Stitch - Simple Nature Pack 2
 Pixel Cross Stitch - Tiny Vehicles Pack
 Pixel Dungeons
+Pixel Exile
 Pixel Federation
 Pixel Forge
 Pixel Game Engine
@@ -61915,6 +61987,7 @@ PixelCrossStitch-BackToSchoolPack
 PixelCrossStitch-SimpleNaturePack2
 PixelCrossStitch-TinyVehiclesPack
 PixelDungeons
+PixelExile
 PixelFederation
 PixelForge
 PixelGameEngine
@@ -62272,6 +62345,8 @@ Poissontropicaldans
 Poissontropicaldansunseau
 Poivrot
 Poke
+Poke ALL Toads
+PokeALLToads
 Pokemon
 Pokemon Donjon Mystere
 Pokemon Mini
@@ -64741,6 +64816,7 @@ RIMWORLD - ODYSSEY
 RIN
 RIN NATSUME
 RINA
+RINGBOUND
 RINGLER
 RINGLER STUDIOS
 RINGLERSTUDIOS
@@ -66588,6 +66664,7 @@ Rin
 Rin Natsume
 RinNatsume
 Rina
+Ringbound
 Ringler
 Ringler Studios
 RinglerStudios
@@ -70255,6 +70332,7 @@ SPIRALHOUSE
 SPIRE OF ASH
 SPIRES OF MOROSITH: GOSSAMER SUNDERED
 SPIRIT
+SPIRIT & STEEL
 SPIRIT MAGICIAN
 SPIRIT OF THE NORTH 2
 SPIRIT WHISPERER CONVERSATION WITH AKARI
@@ -71093,7 +71171,10 @@ SUMMER PASSION
 SUMMER POCKETS REFLECTION BLUE
 SUMMER REUNION
 SUMMER-14DaysVacation-
+SUMMER’S HEARTBEAT
 SUMMER’S HEARTBEAT DEMO
+SUMMER’S HEARTBEAT PHOTOBOOK
+SUMMER’S HEARTBEAT SOUNDTRACK
 SUMMIT : STEPS OF SOLACE
 SUMMIT DRIVE A GAME BY LUKE KIM
 SUMMON
@@ -74758,11 +74839,14 @@ SpireofAsh
 Spires of Morosith: Gossamer Sundered
 SpiresofMorosith:GossamerSundered
 Spirit
+Spirit   Steel
+Spirit & Steel
 Spirit Magician
 Spirit Sealing Tome
 Spirit Whisperer Conversation With Akari
 Spirit of the North 2
 Spirit s Shadow Maze: The Path of Possession 灵影迷宫：附身之途
+Spirit&Steel
 Spirit's Shadow Maze: The Path of Possession ????:????
 Spirit's Shadow Maze: The Path of Possession 灵影迷宫：附身之途
 Spirit'sShadowMaze:ThePathofPossession灵影迷宫：附身之途
@@ -75763,7 +75847,10 @@ Summer Delicious Simulator: Prologue
 Summer Passion
 Summer Pockets REFLECTION BLUE
 Summer Reunion
+Summer's Heartbeat
 Summer's Heartbeat Demo
+Summer's Heartbeat Photobook
+Summer's Heartbeat Soundtrack
 SummerAdventurers:Mediterranean
 SummerBeach
 SummerDeliciousSimulator
@@ -75771,8 +75858,14 @@ SummerDeliciousSimulator:Prologue
 SummerPassion
 SummerPocketsREFLECTIONBLUE
 SummerReunion
+Summer’s Heartbeat
 Summer’s Heartbeat Demo
+Summer’s Heartbeat Photobook
+Summer’s Heartbeat Soundtrack
+Summer’sHeartbeat
 Summer’sHeartbeatDemo
+Summer’sHeartbeatPhotobook
+Summer’sHeartbeatSoundtrack
 Summit : Steps of Solace
 Summit Drive a game by Luke Kim
 Summit:StepsofSolace
@@ -77360,6 +77453,7 @@ THE BOMB SPLIT
 THE BOOK OF AARU
 THE BOOK OF OUTCASTS
 THE BOOK OF PLAGUES
+THE BROKEN DAWN
 THE BROTHERS HOTEL
 THE BUBONICZ
 THE BULLET HELL
@@ -77368,6 +77462,7 @@ THE BUTCHER'S VILLAGE™
 THE CARTOON
 THE CARTOON MAVERICKS
 THE CASE OF ANDREW D.
+THE CASE OF ARCADIA SPRINGS
 THE CASE OF THE WORST DAY EVER
 THE CATS OF MONTE CRISTO
 THE CENSOR DX EDITION
@@ -77818,6 +77913,7 @@ THE PLANET CRAFTER
 THE PLANET CRAFTER - TOXICITY
 THE PLANT
 THE PORTAL PIRATE DEMO
+THE PORTSMOOR ABYSM
 THE POWER OF FISH
 THE PRECINCT
 THE PRECINCT SOUNDTRACK
@@ -80562,6 +80658,7 @@ The Bomb Split
 The Book of Aaru
 The Book of Outcasts
 The Book of Plagues
+The Broken Dawn
 The Brothers Hotel
 The BubonicZ
 The Bullet Hell
@@ -80572,6 +80669,7 @@ The Butcher's Village™
 The Cartoon
 The Cartoon Mavericks
 The Case of Andrew D.
+The Case of Arcadia Springs
 The Case of the Worst Day Ever
 The Cats of Monte Cristo
 The Censor DX Edition
@@ -80996,6 +81094,7 @@ The Planet Crafter   Toxicity
 The Planet Crafter - Toxicity
 The Plant
 The Portal Pirate Demo
+The Portsmoor Abysm
 The Power of Fish
 The Precinct
 The Precinct Soundtrack
@@ -81264,6 +81363,7 @@ TheBombSplit
 TheBookofAaru
 TheBookofOutcasts
 TheBookofPlagues
+TheBrokenDawn
 TheBrothersHotel
 TheBubonicZ
 TheBulletHell
@@ -81272,6 +81372,7 @@ TheButcher'sVillage™
 TheCartoon
 TheCartoonMavericks
 TheCaseofAndrewD.
+TheCaseofArcadiaSprings
 TheCaseoftheWorstDayEver
 TheCatsofMonteCristo
 TheCensorDXEdition
@@ -81667,6 +81768,7 @@ ThePlanetCrafter
 ThePlanetCrafter-Toxicity
 ThePlant
 ThePortalPirateDemo
+ThePortsmoorAbysm
 ThePowerofFish
 ThePrecinct
 ThePrecinctSoundtrack
@@ -83841,6 +83943,7 @@ UPLINK
 UPLOAD
 UPLOAD LABS
 UPON
+UPSTAIRS
 UPSTAR
 UPWARDS, RAIN! THE POST OFFICE OF FAREWELLS
 UPlan
@@ -84269,6 +84372,7 @@ Uplink
 Upload Labs
 UploadLabs
 Upon
+Upstairs
 Upstar
 Upwards, Rain! The Post Office of Farewells
 Upwards,Rain!ThePostOfficeofFarewells
@@ -84631,6 +84735,7 @@ VICARIOUSVISIONS
 VICCOM
 VICE
 VICE CITY
+VICE VERSA
 VICECITY
 VICELIN
 VICELIN VICELIN
@@ -84885,6 +84990,7 @@ VITAMING
 VITAMINGSTUDIOS
 VITRIFIED DEMO
 VITTORIO
+VITVITDRIVER 3D
 VIVA
 VIVARIUM
 VIVARIUMS
@@ -84916,6 +85022,7 @@ VLADIMIRGLEBOV
 VLADIMIRLEM
 VLAK
 VLAMBEER
+VLARE
 VLIPPER
 VOCABELUM
 VOGSTER
@@ -85388,6 +85495,8 @@ Vicarious
 Vicarious Visions
 VicariousVisions
 Viccom
+Vice Versa
+ViceVersa
 Vicelin
 Vicelin Vicelin
 VicelinVicelin
@@ -85701,6 +85810,7 @@ Vladimir Lem
 VladimirGlebov
 VladimirLem
 Vlambeer
+Vlare
 Vlipper
 Vocabelum
 Vogster
@@ -90438,6 +90548,7 @@ ai math dash
 ai painter: painting simulator
 ai protocol
 ai script: infinite text adventures
+ai society
 ai spelcraft
 ai talk 33 car robot modavuj market simulator
 ai-deal-rays
@@ -90939,6 +91050,7 @@ amy hates robots
 amy rose
 amyrose
 an abyss of dreams
+an altered state
 an exorcism
 an imp and an impostor
 an ordinary top-down shooter
@@ -95006,6 +95118,7 @@ capitainecondorcapitainecondor
 capitaineisaye
 capitainewhisker
 capitainewhiting
+capivara zen
 cappenois
 cappenois cappenois
 cappenoiscappenois
@@ -96458,6 +96571,7 @@ colordreams,inc
 colordreamsinc
 coloring game 10k
 coloring voxels
+colornova
 colossal kickoff
 colossal kickoff soundtrack
 colosseum
@@ -98597,6 +98711,7 @@ detana!!twinbee
 detecti meow
 detective
 detective - scene crime
+detective 26
 detective araka
 detective dana
 detective instinct: farewell, my beloved
@@ -101188,6 +101303,7 @@ evoga
 evoga entertainment
 evogaentertainment
 evoids
+evoke - official soundtrack
 evoker
 evoker spawn
 evoker spawn egg
@@ -101337,6 +101453,7 @@ ez
 ez soft
 ez-crosshair
 ezmobo
+ezotoria
 ezsoft
 f
 f-15
@@ -101779,6 +101896,7 @@ fey
 ficelle
 fickle card legend
 fiction
+fidget widget
 field
 field of screams
 fields
@@ -103115,6 +103233,7 @@ gamaniadigitalentertainment
 gambarion
 gambette
 gamble your breath
+gambler's fallacy
 gamblers
 gamblers table
 game
@@ -103867,6 +103986,7 @@ goa
 goal3
 goan
 goat
+goat fps
 goat spawn
 goat spawn egg
 goat stand and turtle guy
@@ -104422,6 +104542,7 @@ grizzlee
 grizzlee grizzlee
 grizzleegrizzlee
 grizzly
+grizzly cup turbo challenge '92
 grizzly panda
 grizzlypanda
 grodragon
@@ -106810,6 +106931,7 @@ inkling
 inkoid
 inksac
 inkventure
+inky blinky bob
 inkypen
 inland
 inland productions
@@ -107182,6 +107304,7 @@ it takes two
 it watches
 it's hard to be a support
 it's john's house
+it's locked
 it's time, your majesty
 italian brainrot: in prison
 itankster.com
@@ -109722,6 +109845,7 @@ legend of kyrandia
 legend of mortal soundtrack vol.2
 legend of swords ii
 legend of the coin knight
+legend of the master baiter origins: gills gone wild
 legend of the mystical ninja
 legend of zelda
 legendary
@@ -111591,6 +111715,7 @@ mark of slavery
 mark parchezzi iii
 mark purayah ii
 mark's power
+marked souls
 marketing
 markmeltzer
 markparchezziiii
@@ -112147,6 +112272,7 @@ melman melman
 melmanmelman
 melo
 melodraw
+melody friends
 melon
 melon dezign
 melon man
@@ -112818,6 +112944,7 @@ mini painter
 mini racer car shop simulator
 mini settlers
 mini star quest
+mini up
 mini warrior defense
 mini whispy woods
 mini-boss
@@ -116469,6 +116596,7 @@ para matiere
 para matiere para matiere
 para matière
 para matière para matière
+paracesium
 parachute
 parachute press
 parachutepress
@@ -116691,6 +116819,7 @@ paxsoftonica
 pay at the pump
 payne
 payout - shop simulator
+payroll
 pba pro bowling 2026
 pbm
 pbm software
@@ -116880,6 +117009,7 @@ perfectguard
 perfectworld
 perfectworldentertainment
 perfore the perforien request
+perfore the pré-adventure
 performance
 performance designed
 performance designed products
@@ -117350,6 +117480,7 @@ pixel cross stitch - back to school pack
 pixel cross stitch - simple nature pack 2
 pixel cross stitch - tiny vehicles pack
 pixel dungeons
+pixel exile
 pixel federation
 pixel forge
 pixel game engine
@@ -117678,6 +117809,7 @@ poissontropicaldansunseau
 poivrot
 pojangmacha : korean street food management simulator demo
 poke
+poke all toads
 pokemon
 pokemon company
 pokemon donjon mystere
@@ -119754,6 +119886,7 @@ rimworld - odyssey
 rin
 rin natsume
 rina
+ringbound
 ringler
 ringler studios
 ringlerstudios
@@ -123114,6 +123247,7 @@ spiralhouse
 spire of ash
 spires of morosith: gossamer sundered
 spirit
+spirit & steel
 spirit magician
 spirit of the north 2
 spirit whisperer conversation with akari
@@ -123924,7 +124058,10 @@ summer delicious simulator: prologue
 summer passion
 summer pockets reflection blue
 summer reunion
+summer’s heartbeat
 summer’s heartbeat demo
+summer’s heartbeat photobook
+summer’s heartbeat soundtrack
 summit : steps of solace
 summit drive a game by luke kim
 summon
@@ -125340,6 +125477,7 @@ the bomb split
 the book of aaru
 the book of outcasts
 the book of plagues
+the broken dawn
 the brothers hotel
 the bubonicz
 the bullet hell
@@ -125348,6 +125486,7 @@ the butcher's village™
 the cartoon
 the cartoon mavericks
 the case of andrew d.
+the case of arcadia springs
 the case of the worst day ever
 the cats of monte cristo
 the censor dx edition
@@ -125787,6 +125926,7 @@ the planet crafter
 the planet crafter - toxicity
 the plant
 the portal pirate demo
+the portsmoor abysm
 the power of fish
 the precinct
 the precinct soundtrack
@@ -127883,6 +128023,7 @@ uplink
 upload
 upload labs
 upon
+upstairs
 upstar
 upwards, rain! the post office of farewells
 urameshiya
@@ -128233,6 +128374,7 @@ vicariousvisions
 viccom
 vice
 vice city
+vice versa
 vicecity
 vicelin
 vicelin vicelin
@@ -128482,6 +128624,9 @@ vitaming
 vitamingstudios
 vitrified demo
 vittorio
+vitvitDRIVER 3D
+vitvitDRIVER3D
+vitvitdriver 3d
 viva
 vivarium
 vivariums
@@ -128513,6 +128658,7 @@ vladimirglebov
 vladimirlem
 vlak
 vlambeer
+vlare
 vlipper
 vocabelum
 vogster
@@ -130667,6 +130813,7 @@ zèbre
 九州剑歌
 九州：立志
 九霄御龙诀
+书恋与君：仙子线
 二零将棋
 仅你一人
 今夜无人入眠 NO ONE SLEEP TONIGHT
@@ -130739,6 +130886,10 @@ zèbre
 史小坑的黑暗料理
 合金子弹
 呪いの穢れ唄　鳴海龍也の回奇録
+咒影  CURSE OF THE SHADOW
+咒影  Curse of the Shadow
+咒影  curse of the shadow
+咒影CurseoftheShadow
 咕噜咕噜海洋馆
 哎呦!这么多美女呀!
 唯
