@@ -810,6 +810,7 @@
 ?????? ?? ???????
 ?????? ???????
 ?????? ??????????? ???? - 2026
+??????? ?? ???? ????????
 ????????
 ????????2026
 ?????????
@@ -819,6 +820,7 @@
 ???????????????
 ????????????????
 ????????????????????
+?????????????????????
 ?????????????????????-2026
 A BIGGER SPLASH
 A BOUT DE SOUFFLE
@@ -3486,6 +3488,7 @@ ASTON VILLA - MANCHESTER CITY
 ASTON VILLA - NEWCASTLE
 ASTON VILLA - NOTTINGHAM
 ASTON VILLA - NOTTM FOREST
+ASTON VILLA - WEST HAM
 ASTON VILLA - WOLVES
 ASTON VILLA GEGEN ARSENAL
 ASTON VILLA GEGEN LIVERPOOL
@@ -3507,6 +3510,7 @@ ASTON VILLA – NOTTINGHAM
 ASTON VILLA – NOTTM FOREST
 ASTON VILLA – OLYMPIAKOS
 ASTON VILLA – SOUTHAMPTON
+ASTON VILLA – WEST HAM
 ASTON VILLA – WOLVES
 ASTRA-BRIDGE
 ASTRAZENECA
@@ -3548,6 +3552,7 @@ ATALANTA  SALERNITANA
 ATALANTA  SPORTING CP
 ATALANTA - CAGLIARI
 ATALANTA - GENOA
+ATALANTA - HELLAS VERONE
 ATALANTA - LECCE
 ATALANTA - NAPLES
 ATALANTA - NAPOLI
@@ -3561,6 +3566,7 @@ ATALANTA – AC MILAN
 ATALANTA – ARSENAL
 ATALANTA – CAGLIARI
 ATALANTA – GENOA
+ATALANTA – HELLAS VÉRONE
 ATALANTA – INTER
 ATALANTA – JUVENTUS
 ATALANTA – LECCE
@@ -8618,6 +8624,8 @@ BARCELONA  VALENCIA
 BARCELONA  VILLARREAL
 BARCELONA - BAYERN
 BARCELONA - INTER
+BARCELONA - RAYO
+BARCELONA - RAYO VALLECANO
 BARCELONA - REAL MADRID
 BARCELONA FC
 BARCELONA GEGEN ALMERÍA
@@ -8651,6 +8659,7 @@ BARCELONA – NAPLES
 BARCELONA – OSASUNA
 BARCELONA – PUMAS UNAM
 BARCELONA – RAYO
+BARCELONA – RAYO VALLECANO
 BARCELONA – REAL
 BARCELONA – REAL SOCIEDAD
 BARCELONA – SEVILLA
@@ -8660,6 +8669,7 @@ BARCELONA – VALLADOLID
 BARCELONE
 BARCELONE - BREST
 BARCELONE - FRANCFORT
+BARCELONE - RAYO
 BARCELONE - REAL MADRID
 BARCELONE – ALMERÍA
 BARCELONE – ATH BILBAO
@@ -16153,6 +16163,7 @@ COME - FIORENTINA
 COME - INTER
 COME - JUVENTUS
 COME - LECCE
+COME - PISE
 COME - TORINO
 COME - UDINESE
 COME DANCE WITH ME
@@ -16177,6 +16188,7 @@ COMO - FIORENTINA
 COMO - JUVENTUS
 COMO - LECCE
 COMO - NAPOLI
+COMO - PISA
 COMO - UDINESE
 COMOMEER
 COMORES
@@ -20398,6 +20410,7 @@ CÔME – FIORENTINA
 CÔME – INTER
 CÔME – JUVENTUS
 CÔME – LECCE
+CÔME – PISE
 CÔME – TORINO
 CÔME – UDINESE
 CÔTE BELGE
@@ -28877,11 +28890,13 @@ FEUX INCENDIE ESPAGNE
 FEYENOORD
 FEYENOORD  CLUB BRUGGE
 FEYENOORD  PSV
+FEYENOORD - AJAX
 FEYENOORD - EXCELSIOR
 FEYENOORD - NEC
 FEYENOORD - PSV
 FEYENOORD - UNION
 FEYENOORD GEGEN STURM GRAZ
+FEYENOORD – AJAX
 FEYENOORD – EXCELSIOR
 FEYENOORD – LEVERKUSEN
 FEYENOORD – UTRECHT
@@ -38627,6 +38642,7 @@ INES RAU
 INES REG
 INES REG MALAISE
 INEZ WESKI
+INEZ ZONHOVEN
 INFANTICIDE
 INFANTINO
 INFECTION BACTERIENNE JAPON
@@ -40872,6 +40888,7 @@ JEAN JANSSENS
 JEAN LASSALLE
 JEAN LASSALLE APOLLINE DE MALHERBE
 JEAN LE CAM
+JEAN LOUIS BARCELONA
 JEAN LOUIS DEBRÉ
 JEAN LOUIS GASSET
 JEAN LUC DELARUE
@@ -49249,6 +49266,7 @@ LYON - CLERMONT
 LYON - JUVENTUS
 LYON - LE HAVRE
 LYON - LILLE
+LYON - MONACO
 LYON - TOULOUSE
 LYON - WEST HAM
 LYON CLERMONT FOOT
@@ -60924,6 +60942,7 @@ NEAPEL GEGEN JUVENTUS
 NEAPEL GEGEN UNION BERLIN
 NEAPEL – LAZIO
 NEC  PSV
+NEC - HEERENVEEN
 NECKERTAL
 NECPSV
 NEDER-OVER-HEEMBEEK
@@ -61099,6 +61118,7 @@ NEWCASTLE - IPSWICH
 NEWCASTLE - MANCHESTER CITY
 NEWCASTLE - NOTTM FOREST
 NEWCASTLE - PERPIGNAN
+NEWCASTLE - SUNDERLAND
 NEWCASTLE - WOLVES
 NEWCASTLE UNITED
 NEWCASTLE UNITED F.C. VS ARSENAL F.C. TIMELINE
@@ -61117,6 +61137,7 @@ NEWCASTLE – MANCHESTER UNITED
 NEWCASTLE – NOTTM FOREST
 NEWCASTLE – PERPIGNAN
 NEWCASTLE – SOUTHAMPTON
+NEWCASTLE – SUNDERLAND
 NEWCASTLE – WEST HAM
 NEWCASTLE – WOLVES
 NEWJEANS
@@ -75617,9 +75638,11 @@ SEBASTIEN LOEB
 SEBASTIEN POCOGNOLI
 SEBASTIEN RAOULT
 SEBASTIEN TELLIER
+SECHSELAUTEN 2026
 SECHSELÄUTEN
 SECHSELÄUTEN 2023
 SECHSELÄUTEN 2024
+SECHSELÄUTEN 2026
 SECOURS POPULAIRE
 SECRET INVASION
 SECRET SERVICE
@@ -83310,6 +83333,7 @@ TOTTENHAM - BURNLEY
 TOTTENHAM - CRYSTAL PALACE
 TOTTENHAM - MAN UTD
 TOTTENHAM - MANCHESTER UNITED
+TOTTENHAM - NOTTM FOREST
 TOTTENHAM - WYCOMBE
 TOTTENHAM GEGEN EINTRACHT FRANKFURT
 TOTTENHAM GEGEN LEICESTER
@@ -83333,6 +83357,7 @@ TOTTENHAM – MAN CITY
 TOTTENHAM – MANCHESTER CITY
 TOTTENHAM – MANCHESTER UNITED
 TOTTENHAM – NEWCASTLE
+TOTTENHAM – NOTTM FOREST
 TOTTENHAM – ROMA
 TOTTENHAM – SOUTHAMPTON
 TOTTENHAM – SPORTING
@@ -90594,6 +90619,7 @@ WINTERSONNENWENDE
 WINTERSPIELE 2022
 WINTERTHUR
 WINTERTHUR - FC SION
+WINTERTHUR - FCB
 WINTERTHUR GEGEN FCB
 WINTERTHUR – FC SION
 WINTERTHUR – FCB
@@ -95251,6 +95277,7 @@ andy rourke
 andy schmid
 andy taylor
 andy warhol
+andybaetens
 andybyroncoldplay
 andydiouf
 andymurray
@@ -96321,6 +96348,7 @@ aston villa - manchester city
 aston villa - newcastle
 aston villa - nottingham
 aston villa - nottm forest
+aston villa - west ham
 aston villa - wolves
 aston villa gegen arsenal
 aston villa gegen liverpool
@@ -96342,6 +96370,7 @@ aston villa – nottingham
 aston villa – nottm forest
 aston villa – olympiakos
 aston villa – southampton
+aston villa – west ham
 aston villa – wolves
 astonvilla
 astonvilla-arsenal
@@ -96354,6 +96383,7 @@ astonvilla-manchestercity
 astonvilla-newcastle
 astonvilla-nottingham
 astonvilla-nottmforest
+astonvilla-westham
 astonvilla-wolves
 astonvillavsmancity
 astonvilla–arsenal
@@ -96364,6 +96394,7 @@ astonvilla–fcfulham
 astonvilla–manchestercity
 astonvilla–nottingham
 astonvilla–nottmforest
+astonvilla–westham
 astonvilla–wolves
 astra-bridge
 astrazeneca
@@ -96412,6 +96443,7 @@ atalanta  sporting cp
 atalanta  venezia
 atalanta - cagliari
 atalanta - genoa
+atalanta - hellas verone
 atalanta - lecce
 atalanta - naples
 atalanta - napoli
@@ -96425,6 +96457,7 @@ atalanta – ac milan
 atalanta – arsenal
 atalanta – cagliari
 atalanta – genoa
+atalanta – hellas vérone
 atalanta – inter
 atalanta – juventus
 atalanta – lecce
@@ -96437,6 +96470,7 @@ atalanta – sturm graz
 atalanta – venezia
 atalanta-cagliari
 atalanta-genoa
+atalanta-hellasverone
 atalanta-lecce
 atalanta-naples
 atalanta-napoli
@@ -96445,6 +96479,7 @@ atalanta-venezia
 atalanta-villarreal
 atalanta–cagliari
 atalanta–genoa
+atalanta–hellasvérone
 atalanta–lecce
 atalanta–naples
 atalanta–venezia
@@ -97298,6 +97333,8 @@ barcelona  valencia
 barcelona  villarreal
 barcelona - bayern
 barcelona - inter
+barcelona - rayo
+barcelona - rayo vallecano
 barcelona - real madrid
 barcelona fc
 barcelona gegen almería
@@ -97331,17 +97368,22 @@ barcelona – naples
 barcelona – osasuna
 barcelona – pumas unam
 barcelona – rayo
+barcelona – rayo vallecano
 barcelona – real
 barcelona – real sociedad
 barcelona – sevilla
 barcelona – valence
 barcelona – valencia
 barcelona – valladolid
+barcelona-rayo
+barcelona-rayovallecano
 barcelonarealmadrid
 barcelona–alaves
+barcelona–rayovallecano
 barcelone
 barcelone - brest
 barcelone - francfort
+barcelone - rayo
 barcelone - real madrid
 barcelone – almería
 barcelone – ath bilbao
@@ -97368,9 +97410,11 @@ barcelone – tottenham
 barcelone – valence
 barcelone – valladolid
 barcelone – villarreal
+barcelone-rayo
 barcelone-realmadrid
 barcelone–celtavigo
 barcelone–deportivoalavés
+barcelone–rayo
 barcelone–realmadrid
 barcelonnette
 barco
@@ -102105,6 +102149,7 @@ come - fiorentina
 come - inter
 come - juventus
 come - lecce
+come - pise
 come - torino
 come - udinese
 come dance with me
@@ -102113,6 +102158,7 @@ come-fiorentina
 come-inter
 come-juventus
 come-lecce
+come-pise
 come-torino
 come-udinese
 comete
@@ -102139,18 +102185,21 @@ como  fiorentina
 como  juventus
 como  lecce
 como  napoli
+como  pisa
 como  udinese
 como - cagliari
 como - fiorentina
 como - juventus
 como - lecce
 como - napoli
+como - pisa
 como - udinese
 como-cagliari
 como-fiorentina
 como-juventus
 como-lecce
 como-napoli
+como-pisa
 como-udinese
 comomeer
 comores
@@ -102994,6 +103043,7 @@ côme – fiorentina
 côme – inter
 côme – juventus
 côme – lecce
+côme – pise
 côme – torino
 côme – udinese
 côme–atalanta
@@ -103002,6 +103052,7 @@ côme–fiorentina
 côme–inter
 côme–juventus
 côme–lecce
+côme–pise
 côme–torino
 côme–udinese
 côte belge
@@ -107437,23 +107488,28 @@ feux de forêt dans le var
 feux incendie espagne
 feuxincendieespagne
 feyenoord
+feyenoord  ajax
 feyenoord  club brugge
 feyenoord  excelsior
 feyenoord  nec
 feyenoord  psv
 feyenoord  union
+feyenoord - ajax
 feyenoord - excelsior
 feyenoord - nec
 feyenoord - psv
 feyenoord - union
 feyenoord gegen sturm graz
+feyenoord – ajax
 feyenoord – excelsior
 feyenoord – leverkusen
 feyenoord – utrecht
+feyenoord-ajax
 feyenoord-excelsior
 feyenoord-nec
 feyenoord-psv
 feyenoord-union
+feyenoord–ajax
 feyenoord–excelsior
 feyenoord–utrecht
 fff
@@ -112395,6 +112451,8 @@ ines reg
 ines reg malaise
 inesdelafressange
 inez weski
+inez zonhoven
+inezzonhoven
 infanticide
 infantino
 infection bacterienne japon
@@ -113572,6 +113630,7 @@ jean janssens
 jean lassalle
 jean lassalle apolline de malherbe
 jean le cam
+jean louis barcelona
 jean louis debré
 jean louis gasset
 jean luc delarue
@@ -113722,6 +113781,7 @@ jeanjacques goldman
 jeanjacquesgoldman
 jeanjean
 jeanjean tennis
+jeanlouisbarcelona
 jeanlouisdebré
 jeanlouisgasset
 jeanlucdelarue
@@ -114624,6 +114684,7 @@ julianbugier
 julianhochzeitaufdenerstenblick
 juliaroberts
 juliascheib
+juliasimon
 juliavakulenko
 juliavignali
 julie allemand
@@ -117346,6 +117407,7 @@ leila kaddour
 leila slimani
 leila wandeler
 leilabekhti
+leilakaddour
 leilaslimani
 leilawandeler
 leipzig
@@ -118980,6 +119042,7 @@ lyon - clermont
 lyon - juventus
 lyon - le havre
 lyon - lille
+lyon - monaco
 lyon - toulouse
 lyon - west ham
 lyon clermont foot
@@ -119027,6 +119090,7 @@ lyon-clermont
 lyon-lehavre
 lyon-lille
 lyon-marseille
+lyon-monaco
 lyon-toulouse
 lyon-turin
 lyons-la foret
@@ -119035,6 +119099,7 @@ lyon–brest
 lyon–clermont
 lyon–lehavre
 lyon–lille
+lyon–monaco
 lyon–psg
 lyon–reims
 lyon–toulouse
@@ -123121,7 +123186,10 @@ neapel gegen eintracht frankfurt
 neapel gegen juventus
 neapel gegen union berlin
 neapel – lazio
+nec  heerenveen
 nec  psv
+nec - heerenveen
+nec-heerenveen
 neckertal
 neder-over-heembeek
 nederland
@@ -123325,6 +123393,7 @@ newcastle - ipswich
 newcastle - manchester city
 newcastle - nottm forest
 newcastle - perpignan
+newcastle - sunderland
 newcastle - wolves
 newcastle united
 newcastle united f.c. vs arsenal f.c. timeline
@@ -123343,6 +123412,7 @@ newcastle – manchester united
 newcastle – nottm forest
 newcastle – perpignan
 newcastle – southampton
+newcastle – sunderland
 newcastle – west ham
 newcastle – wolves
 newcastle-astonvilla
@@ -123352,6 +123422,7 @@ newcastle-fulham
 newcastle-ipswich
 newcastle-nottmforest
 newcastle-perpignan
+newcastle-sunderland
 newcastle-wolves
 newcastleunitedf.c.vsarsenalf.c.timeline
 newcastle–astonvilla
@@ -123360,6 +123431,7 @@ newcastle–brighton
 newcastle–fulham
 newcastle–nottmforest
 newcastle–perpignan
+newcastle–sunderland
 newcastle–wolves
 newengland-intermiami
 newengland–intermiami
@@ -130770,9 +130842,13 @@ sebastien pocognoli
 sebastien raoult
 sebastien tellier
 sebastienpocognoli
+sechselauten 2026
+sechselauten2026
 sechseläuten
 sechseläuten 2023
 sechseläuten 2024
+sechseläuten 2026
+sechseläuten2026
 secours populaire
 secret invasion
 secret service
@@ -134930,6 +135006,7 @@ tottenham - burnley
 tottenham - crystal palace
 tottenham - man utd
 tottenham - manchester united
+tottenham - nottm forest
 tottenham - wycombe
 tottenham gegen eintracht frankfurt
 tottenham gegen leicester
@@ -134953,6 +135030,7 @@ tottenham – man city
 tottenham – manchester city
 tottenham – manchester united
 tottenham – newcastle
+tottenham – nottm forest
 tottenham – roma
 tottenham – southampton
 tottenham – sporting
@@ -134964,6 +135042,7 @@ tottenham-burnley
 tottenham-crystalpalace
 tottenham-manchesterunited
 tottenham-manutd
+tottenham-nottmforest
 tottenham-rennes
 tottenham-wycombe
 tottenhamvsnewcastle
@@ -134973,6 +135052,7 @@ tottenham–burnley
 tottenham–crystalpalace
 tottenham–leicester
 tottenham–manchesterunited
+tottenham–nottmforest
 tottenham–southampton
 totti
 totungsdelikt berikon ag
@@ -138267,6 +138347,7 @@ wintersonnenwende
 winterspiele 2022
 winterthur
 winterthur - fc sion
+winterthur - fcb
 winterthur gegen fcb
 winterthur – fc sion
 winterthur – fcb
@@ -138275,6 +138356,7 @@ winterthur – lausanne-sport
 winterthur – lugano
 winterthur – luzern
 winterthur – zürich
+winterthur-fcb
 winterthur-fcsion
 winterthur–fcb
 winterthur–fcsion
@@ -139717,6 +139799,8 @@ zürich–servette
 الطقس
 ايناس النجار
 ايناسالنجار
+برشلونة ضد رايو فاليكانو
+برشلونةضدرايوفاليكانو
 جمال ريان
 جمالريان
 دايجو ضد برشلونة
