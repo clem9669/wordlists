@@ -1126,7 +1126,10 @@
 5th cell
 5thcell
 6
+6 FLOORS
+6 Floors
 6 ROOMS
+6 floors
 6 rooms
 60 MINUTES TO EXTINCTION: ESCAPE ROOM
 60 Minutes to Extinction: Escape Room
@@ -1141,6 +1144,7 @@
 69 Days After
 69 days after
 69DaysAfter
+6Floors
 6rooms
 7
 7 DAYS
@@ -6713,6 +6717,7 @@ BABYLONROGUES
 BABYLONSOFTWARE
 BACK
 BACK ALLEY BRAWL
+BACK ALLEY CHRONICLE-EPISODE SAEKI-
 BACK BASS
 BACK FROM EARTH
 BACK TO HEARTH
@@ -6802,6 +6807,7 @@ BAEDE
 BAEK
 BAEK DOO SAN
 BAEKDOOSAN
+BAG OF DREAMS
 BAGGAGE HANDLER SIMULATOR
 BAGMAN
 BAGU
@@ -8894,6 +8900,7 @@ BRIDGE RACE: SPOOKY DLC
 BRIGGS
 BRIGHT
 BRIGHT IDEAS
+BRIGHTER DAYS
 BRIGHTGUNNER
 BRIGHTIDEAS
 BRIGHTSIDE
@@ -9312,6 +9319,8 @@ Back Bass
 Back From Earth
 Back To School
 Back Turned
+Back alley chronicle Episode saeki 
+Back alley chronicle-Episode saeki-
 Back to Hearth
 Back to the College
 Back to the Dawn
@@ -9325,6 +9334,7 @@ BackHome : เดินกลับบ้านในทางสามแยก
 BackHome:เดินกลับบ้านในทางสามแยก
 BackToSchool
 BackTurned
+Backalleychronicle-Episodesaeki-
 Backbone
 Backbone Entertainment
 BackboneEntertainment
@@ -9433,9 +9443,11 @@ Baede
 Baek
 Baek Doo San
 BaekDooSan
+Bag of Dreams
 BagMan
 Baggage Handler Simulator
 BaggageHandlerSimulator
+BagofDreams
 Bagu
 Bahamut
 Bahamut Lagoon
@@ -11707,6 +11719,8 @@ Bright
 Bright Ideas
 BrightGunner
 BrightIdeas
+Brighter Days
+BrighterDays
 Brightside
 Brightside Games
 BrightsideGames
@@ -20840,6 +20854,7 @@ DUSKYDONOVAN
 DUST
 DUST AND SORCERY
 DUST RAIDERS
+DUSTER BUSTER
 DUSTWARD
 DUSTWIND: RESISTANCE
 DUTY
@@ -23621,6 +23636,8 @@ Dust Raiders
 Dust and Sorcery
 DustRaiders
 DustandSorcery
+Duster Buster
+DusterBuster
 Dustward
 Dustwind: Resistance
 Dustwind:Resistance
@@ -26579,6 +26596,7 @@ F-ZeroAX
 F-ZeroGX
 F-ZeroX
 F.A.N.G
+F.E.R.Y.L.
 F1
 F1(R) 25
 F1-SPIRIT
@@ -27377,6 +27395,7 @@ FLAMBERGE
 FLAMBERGE FLAMBERGE
 FLAMBERGEFLAMBERGE
 FLAME
+FLAMES OF FREEDOM: 1821
 FLAMME
 FLAMME DEVOREUSE
 FLAMMEDEVOREUSE
@@ -29198,6 +29217,8 @@ Flamberge
 Flamberge Flamberge
 FlambergeFlamberge
 Flame
+Flames of Freedom: 1821
+FlamesofFreedom:1821
 Flamme
 Flamme Devoreuse
 Flamme Dévoreuse
@@ -30816,6 +30837,7 @@ GERHARD
 GERHARDT
 GERHARDT SOFTWARE
 GERHARDTSOFTWARE
+GERITMIA DEMO
 GERMINO
 GERMINO GERMINO
 GERMINOGERMINO
@@ -31576,6 +31598,7 @@ GRAVITY GAME
 GRAVITY STATION
 GRAVITY STORM - FIRST MISSION
 GRAVITY WHIPPED DEMO
+GRAVSCAPE
 GRAY
 GRAY BANNER
 GRAY BED
@@ -32669,6 +32692,8 @@ Gerhard
 Gerhardt
 Gerhardt Software
 GerhardtSoftware
+Geritmia Demo
+GeritmiaDemo
 Germino
 Germino Germino
 GerminoGermino
@@ -33445,6 +33470,7 @@ GravityGame
 GravityStation
 GravityStorm-FirstMission
 GravityWhippedDemo
+Gravscape
 Gray
 Gray Banner
 Gray Bed
@@ -34776,6 +34802,7 @@ HHTRAP:Reality'sGlitch
 HI
 HI TECH
 HI TECH EXPRESSIONS
+HI, I`M KALI
 HI-SCORE
 HI-SCORE SOFTWARE
 HI-SCORESOFTWARE
@@ -36494,6 +36521,8 @@ Hey!Pikmin
 Hi
 Hi Tech
 Hi Tech Expressions
+Hi, I`m Kali
+Hi,I`mKali
 Hi-Score
 Hi-Score Software
 Hi-ScoreSoftware
@@ -38310,6 +38339,7 @@ ISC/NihonTelenet
 ISCERRO
 ISCO
 ISEKAI ATTACK ON OPPAI
+ISEKAI MAGE
 ISEKAI REVITALIZER
 ISEKAI SEX BOUTIQUE
 ISEKAI SEX KINGDOM 👑
@@ -38323,6 +38353,8 @@ ISKATU
 ISLA HEARTS
 ISLAND
 ISLAND LIFE WITH MAYALALA
+ISLAND MARKET SIMULATOR
+ISLAND MARKET SIMULATOR SOUNDTRACK
 ISLAND MARKET SIMULATOR: PROLOGUE
 ISLAND OF CORRUPTION
 ISLAND OF ENCHANTMENT
@@ -39274,11 +39306,13 @@ IsakoTachikawa
 Isaye
 Iscerro
 Isekai Attack On Oppai
+Isekai Mage
 Isekai Revitalizer
 Isekai Sex Boutique
 Isekai Sex Kingdom ?
 Isekai Sex Kingdom 👑
 IsekaiAttackOnOppai
+IsekaiMage
 IsekaiRevitalizer
 IsekaiSexBoutique
 IsekaiSexKingdom👑
@@ -39294,6 +39328,8 @@ Isla Hearts
 IslaHearts
 Island
 Island Life With Mayalala
+Island Market Simulator
+Island Market Simulator Soundtrack
 Island Market Simulator: Prologue
 Island Of Enchantment
 Island Off Outer Darkness
@@ -39302,7 +39338,9 @@ Island Robot Farm
 Island of Corruption
 Island on cloud
 IslandLifeWithMayalala
+IslandMarketSimulator
 IslandMarketSimulator:Prologue
+IslandMarketSimulatorSoundtrack
 IslandOfEnchantment
 IslandOffOuterDarkness
 IslandParadise
@@ -39737,6 +39775,7 @@ JESTER INTERACTIVE
 JESTERINTERACTIVE
 JESTERS
 JESUS SIMULATOR
+JESUS TAKE THE WHEEL
 JET
 JET GUNNER: REFUELED
 JET SET
@@ -40542,7 +40581,9 @@ Jester Interactive
 JesterInteractive
 Jesters
 Jesus Simulator
+Jesus Take The Wheel
 JesusSimulator
+JesusTakeTheWheel
 Jet
 Jet Gunner: Refueled
 Jet Set
@@ -41732,6 +41773,7 @@ KLUMP
 KLUMSY
 KLumsy
 KNAARENS
+KNEAD, SQUEEZE, WRAP!
 KNIGHT
 KNIGHT AND CODE
 KNIGHT CASE FILES
@@ -42903,6 +42945,8 @@ Klubitii
 Kludge
 Klump
 Knaarens
+Knead, Squeeze, Wrap!
+Knead,Squeeze,Wrap!
 Knight
 Knight Case Files
 Knight Crawler
@@ -43965,6 +44009,7 @@ LEGENDARY  BOOB TRAP DUNGEON
 LEGENDARY AXE
 LEGENDARY CLASS BLIND DATE
 LEGENDARY STARFY
+LEGENDARY TALES - DAWN OF HISTORY
 LEGENDARYAXE
 LEGENDARYSTARFY
 LEGENDARYSTARFYTHE
@@ -45081,12 +45126,14 @@ LUDARO DEMO
 LUDIA
 LUDIA INC
 LUDIAINC
+LUDICRUM
 LUDIGAMES
 LUDIGER
 LUDIGER SOUNDTRACK
 LUDIZ
 LUDO XXL 2
 LUDUS MANAGER
+LUDWIG II - VIRTUAL: NEUSCHWANSTEIN
 LUFFI: HOMEBOUND
 LUFIA
 LUGUBRIOUS
@@ -45839,11 +45886,14 @@ Legendary  Boob Trap Dungeon
 Legendary Axe
 Legendary Class Blind Date
 Legendary Starfy
+Legendary Tales   Dawn of History
+Legendary Tales - Dawn of History
 LegendaryAxe
 LegendaryBoobTrapDungeon
 LegendaryClassBlindDate
 LegendaryStarfy
 LegendaryStarfyThe
+LegendaryTales-DawnofHistory
 Legende
 Legendo
 Legendo Entertainment
@@ -47084,6 +47134,7 @@ LudaroDemo
 Ludia
 Ludia Inc
 LudiaInc
+Ludicrum
 Ludigames
 Ludiger
 Ludiger Soundtrack
@@ -47093,6 +47144,9 @@ Ludo XXL 2
 LudoXXL2
 Ludus Manager
 LudusManager
+Ludwig II   Virtual: Neuschwanstein
+Ludwig II - Virtual: Neuschwanstein
+LudwigII-Virtual:Neuschwanstein
 Luffi: Homebound
 Luffi:Homebound
 Lufia
@@ -53778,6 +53832,7 @@ NANASEMIZUKAMI
 NANCY DREW: THE MISSING CROWLEY WILL
 NANCY-MI847J
 NANCYMI847J
+NANITE'S REVELRY
 NANJO
 NANNING
 NANOMON VIRTUAL PET
@@ -54812,6 +54867,7 @@ NOT MY WAR
 NOT RAISED BY WOLVES
 NOT SURVIVORS
 NOTEBOOK BATTLEGROUNDS
+NOTHING BEYOND THIS POINT
 NOTHMERE
 NOUMI
 NOUVEAUX
@@ -55043,6 +55099,9 @@ Nancy Drew: The Missing Crowley Will
 Nancy-MI847J
 NancyDrew:TheMissingCrowleyWill
 NancyMI847J
+Nanite s Revelry
+Nanite's Revelry
+Nanite'sRevelry
 Nanjo
 Nanning
 Nanomon Virtual Pet
@@ -56019,6 +56078,8 @@ NotSurvivors
 NotaDreamJob
 Notebook Battlegrounds
 NotebookBattlegrounds
+Nothing Beyond This Point
+NothingBeyondThisPoint
 Nothmere
 Noumi
 Nouveaux
@@ -56874,6 +56935,7 @@ OOBLE GARDENS
 OOBLETS
 OOLA
 OOLO
+OOPS! INC. EMERGENCY CENTER
 OORT PROTOCOL: PERIHELION
 OPALINE
 OPELIE
@@ -57968,6 +58030,8 @@ Ooble Gardens
 OobleGardens
 Ooblets
 Oola
+Oops! INC. Emergency Center
+Oops!INC.EmergencyCenter
 Oort Protocol: Perihelion
 OortProtocol:Perihelion
 Opaline
@@ -64174,6 +64238,7 @@ RANDY THE RACOON
 RANGER
 RANGERS
 RANHIBIKI
+RANK: WARMASTER BUNKER BUSTER
 RANMAN
 RANSOM
 RAPHAEL
@@ -64815,6 +64880,7 @@ REVENGE
 REVENGE OF THE GAMER
 REVENGE OF THE SAVAGE PLANET
 REVENGEFUL GHOST
+REVENGER
 REVENGER ORIGIN
 REVERB
 REVERGE
@@ -65064,6 +65130,7 @@ ROAD59　A Yakuza’s Last Stand
 ROAD59　AYakuza’sLastStand
 ROADCRAFT
 ROADCRAFT - REBUILD EDITION
+ROADCRAFT - RECLAIM EXPANSION
 ROADFIGHTER
 ROADRASH
 ROADS OF RAGE
@@ -65915,6 +65982,8 @@ Randy The Racoon
 RandyTheRacoon
 Ranger
 Rangers
+Rank: Warmaster Bunker Buster
+Rank:WarmasterBunkerBuster
 Ranman
 Ransom
 Raphael
@@ -66661,6 +66730,7 @@ Revengeful Ghost
 RevengefulGhost
 RevengeofTheGamer
 RevengeoftheSavagePlanet
+Revenger
 Revenger ORIGIN
 RevengerORIGIN
 Reverb
@@ -66931,8 +67001,11 @@ Road Trip to the End of the World
 Road to Karatl
 RoadCraft
 RoadCraft   Rebuild Edition
+RoadCraft   Reclaim Expansion
 RoadCraft - Rebuild Edition
+RoadCraft - Reclaim Expansion
 RoadCraft-RebuildEdition
+RoadCraft-ReclaimExpansion
 RoadFighter
 RoadRash
 RoadToEmpress
@@ -68627,6 +68700,7 @@ SERAH
 SERAH FARRON
 SERAHFARRON
 SERAPHONIN
+SERENE ESTATES: LAST GUY
 SERENE NIGHT DREAMLIGHT
 SERGEI
 SERGEI DRAGUNOV
@@ -69014,6 +69088,9 @@ SHINOBI: Art of Vengeance
 SHINOBI: Art of Vengeance Digital Deluxe Edition
 SHINOBI:ArtofVengeance
 SHINOBI:ArtofVengeanceDigitalDeluxeEdition
+SHINONOME ABYSS THE MAIDEN EXORCIST
+SHINONOME ABYSS The Maiden Exorcist
+SHINONOMEABYSSTheMaidenExorcist
 SHINRA
 SHINSEI
 SHINSEI KOGYO
@@ -69590,6 +69667,7 @@ SKYRIM
 SKYRIVER
 SKYRIVER STUDIOS
 SKYRIVERSTUDIOS
+SKYRUNNER
 SKYTHESCRAPER
 SKYVU
 SKYVU PICTURES
@@ -71008,6 +71086,7 @@ STONE PICKAXE
 STONE SHOVEL
 STONE SIMULATOR – JUST BE A ROCK
 STONE SWORD
+STONE TO SILICON - IDLE CLICKER
 STONEAXE
 STONEHOE
 STONEHOLD
@@ -72870,7 +72949,9 @@ Serah
 Serah Farron
 SerahFarron
 Seraphonin
+Serene Estates: Last Guy
 Serene Night Dreamlight
+SereneEstates:LastGuy
 SereneNightDreamlight
 Sergei
 Sergei Dragunov
@@ -73962,6 +74043,7 @@ SkyResort3
 SkyRiver
 SkyRiver Studios
 SkyRiverStudios
+SkyRunner
 SkyVu
 SkyVu Pictures
 SkyVuPictures
@@ -75611,6 +75693,8 @@ Stone Shovel
 Stone Simulator - Just Be a Rock
 Stone Simulator – Just Be a Rock
 Stone Sword
+Stone to Silicon   Idle Clicker
+Stone to Silicon - Idle Clicker
 Stone4Souls
 StoneAge
 StoneAxe
@@ -75620,6 +75704,7 @@ StoneShovel
 StoneSimulator–JustBeaRock
 StoneSword
 Stonehold
+StonetoSilicon-IdleClicker
 Storage Dealer Simulator
 Storage Looter
 StorageDealerSimulator
@@ -77429,6 +77514,7 @@ TERENAS MENETHIL
 TERENASMENETHIL
 TERMINAL
 TERMINAL BREACH: FINAL DAWN
+TERMINAL HACKER: OVERRIDE
 TERMINAL LUCIDITY
 TERMINAL REALITY
 TERMINALREALITY
@@ -77670,6 +77756,7 @@ THE COMPLEX CHAPTER 1: WHO, WHAT, WHERE?
 THE CONNELLEY
 THE CONNELLEY GROUP
 THE CONQUEST OF GO
+THE CONTROL GROUP
 THE CORNSOFT
 THE CORNSOFT GROUP
 THE CORRUPTION
@@ -77950,6 +78037,7 @@ THE LAST TRAIN: BAQUEDANO
 THE LAST TRAIN: Baquedano
 THE LAST VISIT: 98TH
 THE LAST WEREWOLF
+THE LATE GUEST SOUNDTRACK
 THE LAURENCIA -로렌스 기행문-
 THE LEARNING
 THE LEARNING COMPANY
@@ -79231,6 +79319,7 @@ TOUHOU KOUZOUGI　～ FLICKERFRAME SHUTTER FESTIVAL
 TOUHOU MAKUKA SAI ~ FANTASTIC DANMAKU FESTIVAL PART III OST
 TOUHOU MISTYSTORY
 TOUHOU PROJECT
+TOUHOU RANDOM TOWER DEFENSE
 TOUHOU SPELL CARNIVAL
 TOUHOU VOLLEYBALL
 TOUHOU VOLLEYBALL DANMAKU
@@ -80599,10 +80688,12 @@ Terenas Menethil
 TerenasMenethil
 Terminal
 Terminal Breach: Final Dawn
+Terminal Hacker: Override
 Terminal Lucidity
 Terminal Reality
 Terminal????
 TerminalBreach:FinalDawn
+TerminalHacker:Override
 TerminalLucidity
 TerminalReality
 Terminal命令合集
@@ -80886,6 +80977,7 @@ The Complex Chapter 1: Who, What, Where?
 The Connelley
 The Connelley Group
 The Conquest of Go
+The Control Group
 The Cornsoft
 The Cornsoft Group
 The Corruption
@@ -81150,6 +81242,7 @@ The Last Werewolf
 The Last hope
 The Last of Us(TM) Part II Remastered
 The Last of Us™ Part II Remastered
+The Late Guest Soundtrack
 The Laurencia  로렌스 기행문 
 The Laurencia -??? ???-
 The Laurencia -로렌스 기행문-
@@ -81592,6 +81685,7 @@ TheComplexChapter1:Who,What,Where?
 TheConnelley
 TheConnelleyGroup
 TheConquestofGo
+TheControlGroup
 TheCornsoft
 TheCornsoftGroup
 TheCorruption
@@ -81839,6 +81933,7 @@ TheLastVisit:98th
 TheLastWerewolf
 TheLasthope
 TheLastofUs™PartIIRemastered
+TheLateGuestSoundtrack
 TheLaurencia-로렌스기행문-
 TheLearning
 TheLearningCompany
@@ -83014,6 +83109,7 @@ Touhou Kouzougi ~ Flickerframe Shutter Festival
 Touhou Kouzougi　～ Flickerframe Shutter Festival
 Touhou Mistystory
 Touhou Project
+Touhou Random Tower Defense
 Touhou Spell Carnival
 Touhou Volleyball
 Touhou Volleyball Danmaku
@@ -83027,6 +83123,7 @@ TouhouKinjoukyou～FossilizedWonders.
 TouhouKouzougi　～FlickerframeShutterFestival
 TouhouMistystory
 TouhouProject
+TouhouRandomTowerDefense
 TouhouSpellCarnival
 TouhouVolleyball
 TouhouVolleyballDanmaku
@@ -84718,6 +84815,7 @@ VAMPIRE THE MASQUERADE BLOODLINES
 VAMPIRE'S BEST FRIEND
 VAMPIRE'S FALL 2
 VAMPIRE: THE MASQUERADE® - BLOODLINES™ 2
+VAMPIREBLAZE
 VAMPIREKILLER
 VAMPIRETHEMASQUERADEBLOODLINES
 VAMPYR
@@ -85467,6 +85565,7 @@ Vampire: The Masquerade(R) - Bloodlines(TM) 2
 Vampire: The Masquerade®   Bloodlines™ 2
 Vampire: The Masquerade® - Bloodlines™ 2
 Vampire:TheMasquerade®-Bloodlines™2
+VampireBlaze
 VampireCatDemo
 VampireInstinct
 VampireLegends🦇
@@ -86318,6 +86417,7 @@ WARD 777 - الجناح 777
 WARD ZABAC
 WARDEN
 WARDEN WATTS
+WARDENS OF WEN
 WARDENWATTS
 WARDZABAC
 WARE
@@ -87125,6 +87225,7 @@ WOWENTERTAINMENT
 WOWEntertainment
 WOZITDEV'S 3D CHESS
 WRACK: RECLAMATION
+WRAITH OF THE CARDS
 WRANGLE RANCH
 WRAPPED
 WRATH
@@ -87402,6 +87503,8 @@ WardZabac
 Warden
 Warden Watts
 WardenWatts
+Wardens of Wen
+WardensofWen
 Ware
 Warframe: Fulmin Battlekit
 Warframe: Gyre Prime Access   Complete
@@ -88405,6 +88508,8 @@ Worshiping deities and commemorating loved ones
 Worshipingdeitiesandcommemoratinglovedones
 Wrack: Reclamation
 Wrack:Reclamation
+Wraith of the Cards
+WraithoftheCards
 Wrangle Ranch
 WrangleRanch
 Wrapped
@@ -92569,6 +92674,7 @@ babylonrogues
 babylonsoftware
 back
 back alley brawl
+back alley chronicle-episode saeki-
 back bass
 back from earth
 back to hearth
@@ -92652,6 +92758,7 @@ baede
 baek
 baek doo san
 baekdoosan
+bag of dreams
 baggage handler simulator
 bagman
 bagu
@@ -94675,6 +94782,7 @@ bridge race: spooky dlc
 briggs
 bright
 bright ideas
+brighter days
 brightgunner
 brightideas
 brightside
@@ -100252,6 +100360,7 @@ duskydonovan
 dust
 dust and sorcery
 dust raiders
+duster buster
 dustward
 dustwind: resistance
 duty
@@ -101700,6 +101809,7 @@ f-zeroax
 f-zerogx
 f-zerox
 f.a.n.g
+f.e.r.y.l.
 f1
 f1-spirit
 f15
@@ -102438,6 +102548,7 @@ flamberge
 flamberge flamberge
 flambergeflamberge
 flame
+flames of freedom: 1821
 flamme
 flamme devoreuse
 flamme dévoreuse
@@ -103886,6 +103997,7 @@ gerhard
 gerhardt
 gerhardt software
 gerhardtsoftware
+geritmia demo
 germino
 germino germino
 germinogermino
@@ -104617,6 +104729,7 @@ gravity game
 gravity station
 gravity storm - first mission
 gravity whipped demo
+gravscape
 gray
 gray banner
 gray bed
@@ -105906,6 +106019,7 @@ hh trap: reality's glitch
 hi
 hi tech
 hi tech expressions
+hi, i`m kali
 hi-score
 hi-score software
 hi-scoresoftware
@@ -107491,6 +107605,7 @@ isc/nihontelenet
 iscerro
 isco
 isekai attack on oppai
+isekai mage
 isekai revitalizer
 isekai sex boutique
 isekai sex kingdom 👑
@@ -107504,6 +107619,8 @@ iskatu
 isla hearts
 island
 island life with mayalala
+island market simulator
+island market simulator soundtrack
 island market simulator: prologue
 island of corruption
 island of enchantment
@@ -107925,6 +108042,7 @@ jester interactive
 jesterinteractive
 jesters
 jesus simulator
+jesus take the wheel
 jet
 jet gunner: refueled
 jet set
@@ -109045,6 +109163,7 @@ kludge
 klump
 klumsy
 knaarens
+knead, squeeze, wrap!
 knight
 knight and code
 knight case files
@@ -110095,6 +110214,7 @@ legendary  boob trap dungeon
 legendary axe
 legendary class blind date
 legendary starfy
+legendary tales - dawn of history
 legendaryaxe
 legendarystarfy
 legendarystarfythe
@@ -111193,12 +111313,14 @@ ludaro demo
 ludia
 ludia inc
 ludiainc
+ludicrum
 ludigames
 ludiger
 ludiger soundtrack
 ludiz
 ludo xxl 2
 ludus manager
+ludwig ii - virtual: neuschwanstein
 luffi: homebound
 lufia
 lugubrious
@@ -114431,6 +114553,7 @@ nanasemizukami
 nancy drew: the missing crowley will
 nancy-mi847j
 nancymi847j
+nanite's revelry
 nanjo
 nanning
 nanomon virtual pet
@@ -115350,6 +115473,7 @@ not my war
 not raised by wolves
 not survivors
 notebook battlegrounds
+nothing beyond this point
 nothmere
 noumi
 nouveaux
@@ -116211,6 +116335,7 @@ ooble gardens
 ooblets
 oola
 oolo
+oops! inc. emergency center
 oort protocol: perihelion
 opaline
 opelie
@@ -119386,6 +119511,7 @@ randy the racoon
 ranger
 rangers
 ranhibiki
+rank: warmaster bunker buster
 ranman
 ransom
 raphael
@@ -120001,6 +120127,7 @@ revenge
 revenge of the gamer
 revenge of the savage planet
 revengeful ghost
+revenger
 revenger origin
 reverb
 reverge
@@ -120231,6 +120358,7 @@ road trip to the end of the world
 road59　a yakuza’s last stand
 roadcraft
 roadcraft - rebuild edition
+roadcraft - reclaim expansion
 roadfighter
 roadrash
 roads of rage
@@ -121723,6 +121851,7 @@ serah
 serah farron
 serahfarron
 seraphonin
+serene estates: last guy
 serene night dreamlight
 sergei
 sergei dragunov
@@ -122076,6 +122205,7 @@ shino's insatiable pursuit of knowledge
 shinobi
 shinobi: art of vengeance
 shinobi: art of vengeance digital deluxe edition
+shinonome abyss the maiden exorcist
 shinra
 shinsei
 shinsei kogyo
@@ -122639,6 +122769,7 @@ skyrim
 skyriver
 skyriver studios
 skyriverstudios
+skyrunner
 skyvu
 skyvu pictures
 skyvupictures
@@ -124001,6 +124132,7 @@ stone pickaxe
 stone shovel
 stone simulator – just be a rock
 stone sword
+stone to silicon - idle clicker
 stoneaxe
 stonehoe
 stonehold
@@ -125537,6 +125669,7 @@ terenas menethil
 terenasmenethil
 terminal
 terminal breach: final dawn
+terminal hacker: override
 terminal lucidity
 terminal reality
 terminalreality
@@ -125781,6 +125914,7 @@ the complex chapter 1: who, what, where?
 the connelley
 the connelley group
 the conquest of go
+the control group
 the cornsoft
 the cornsoft group
 the corruption
@@ -126051,6 +126185,7 @@ the last throne
 the last train: baquedano
 the last visit: 98th
 the last werewolf
+the late guest soundtrack
 the laurencia -로렌스 기행문-
 the learning
 the learning company
@@ -127313,6 +127448,7 @@ touhou kouzougi　～ flickerframe shutter festival
 touhou makuka sai ~ fantastic danmaku festival part iii ost
 touhou mistystory
 touhou project
+touhou random tower defense
 touhou spell carnival
 touhou volleyball
 touhou volleyball danmaku
@@ -128441,6 +128577,7 @@ vampire the masquerade bloodlines
 vampire's best friend
 vampire's fall 2
 vampire: the masquerade® - bloodlines™ 2
+vampireblaze
 vampirekiller
 vampirethemasqueradebloodlines
 vampyr
@@ -129232,6 +129369,7 @@ ward 777 - الجناح 777
 ward zabac
 warden
 warden watts
+wardens of wen
 wardenwatts
 wardzabac
 ware
@@ -130015,6 +130153,7 @@ wozitdev's 3D Chess
 wozitdev's 3d chess
 wozitdev's3DChess
 wrack: reclamation
+wraith of the cards
 wrangle ranch
 wrapped
 wrath
