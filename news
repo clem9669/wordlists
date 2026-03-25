@@ -803,6 +803,7 @@
 ???? ????
 ???? ?????
 ???? ????????
+?????
 ????? ?? ???????
 ????? ???
 ?????? ?? ???? ????
@@ -1453,6 +1454,7 @@ AFRICA CUP
 AFRICAN QUEEN
 AFRIKA CUP
 AFRIKA-CUP
+AFRIQUE
 AFRIQUE AUSTRALE
 AFRIQUE DU SUD
 AFRIQUE DU SUD ECOSSE
@@ -14641,6 +14643,7 @@ CARBIDSCHIETEN
 CARBURANT
 CARBURANT PRIX COUTANT LECLERC
 CARBURANT PRIX COÛTANT LECLERC
+CARBURANT REUNION
 CARBURANTS LECLERC PRIX COÛTANT
 CARCASSE
 CARCASSONNE
@@ -24629,6 +24632,7 @@ EILISH MCCOLGAN
 EIN GUTES NEUES JAHR 2024
 EIN MÄDCHEN WIRD VERMISST
 EINAR
+EINBRUCH
 EINDHOVEN AIRPORT
 EINE STARKE FAMILIE
 EINFACH MAL WAS SCHÖNES
@@ -25067,6 +25071,7 @@ EMILIEN ELIMINE 12 COUPS DE MIDI
 EMILIEN JACQUELIN
 EMILIEN LES 12 COUPS DE MIDI
 EMILIEN ÉLIMINÉ 12 COUPS DE MIDI
+EMILY GREGORY
 EMILY IN PARIS
 EMILY IN PARIS, SAISON 3
 EMILY RATAJKOWSKI
@@ -25940,6 +25945,7 @@ EXPATS
 EXPEDITIE: GROENLAND
 EXPENDABLES 2
 EXPENDABLES 3
+EXPLOSIE UGENT
 EXPLOSION
 EXPLOSION CAMION-CITERNE HAUTE-SAVOIE
 EXPLOSION GARE DE LYON
@@ -37069,6 +37075,7 @@ HUGO LLORIS
 HUGO MARADONA
 HUGO MILLAN
 HUGO PREVOST
+HUGO REUS
 HUGO SIQUET
 HUGO VETLESEN
 HUGOLLORIS
@@ -38517,6 +38524,7 @@ IMPÔT
 IMPÔTS RETRAITÉS
 IMRAN KHAN
 IN ALLER FREUNDSCHAFT
+IN ALLER FREUNDSCHAFT MARIA WEBER
 IN THE MOOD FOR LOVE
 IN TÖDLICHER MISSION
 INA AOGO
@@ -41583,6 +41591,7 @@ JORGE MENDES
 JORGE SAMPAIO
 JORGE VILDA
 JORGEMENDES
+JORGEN VAN LAER
 JORGINHO
 JORIS KAYEMBE
 JORNE SPILEERS
@@ -44986,6 +44995,7 @@ KIA EV6
 KIA NIRO
 KIABI
 KIABI DÉTOURNEMENT 100 MILLIONS
+KIBERLAIN
 KICK
 KICK KENNEDY
 KICK' KENNEDY
@@ -55464,6 +55474,7 @@ MOLLY CAMERON
 MOLLY MAE
 MOLNUPIRAVIR
 MOLOSSE DE CESTONI
+MOLRAT
 MON ANGE
 MON CHIEN STUPIDE
 MON CRIME
@@ -88337,6 +88348,7 @@ VICTOR OSIMHEN
 VICTOR RASK
 VICTOR STEEMAN
 VICTOR WEMBANYAMA
+VICTOR WEMBANYAMA MVP
 VICTOR WEMBANYAMA NBA
 VICTORIA ABRIL
 VICTORIA BECKHAM
@@ -88811,6 +88823,8 @@ VW AKTIE
 VW ID BUZZ USA
 VW ID EVERY1
 VW ID.7
+VW RUCKRUF ELEKTROAUTOS BRANDGEFAHR
+VW RÜCKRUF ELEKTROAUTOS BRANDGEFAHR
 VW TAYRON
 VW TRINITY
 VW Tayron
@@ -93962,6 +93976,7 @@ african queen
 afrika cup
 afrika-cup
 afrikacup
+afrique
 afrique australe
 afrique du sud
 afrique du sud ecosse
@@ -100406,8 +100421,10 @@ carbidschieten
 carburant
 carburant prix coutant leclerc
 carburant prix coûtant leclerc
+carburant reunion
 carburantprixcoutantleclerc
 carburantprixcoûtantleclerc
+carburantreunion
 carburants leclerc prix coûtant
 carcasse
 carcassonne
@@ -101079,6 +101096,7 @@ chantal gallia
 chantal goya
 chantal ladesou
 chantalgoya
+chantalladesou
 chanteur marcel amont
 chanteur, marcel amont
 chanteuse linda de suza
@@ -105271,6 +105289,7 @@ eilish mccolgan
 ein gutes neues jahr 2024
 ein mädchen wird vermisst
 einar
+einbruch
 eindhoven airport
 eine starke familie
 einfach mal was schönes
@@ -105765,9 +105784,11 @@ emilien12coupsdemidiélimination
 emilienelimine12coupsdemidi
 emilienjacquelin
 emilienéliminé12coupsdemidi
+emily gregory
 emily in paris
 emily in paris, saison 3
 emily ratajkowski
+emilygregory
 emilyinparis
 eminem
 emir du koweit mort
@@ -106761,6 +106782,8 @@ expats
 expeditie: groenland
 expendables 2
 expendables 3
+explosie ugent
+explosieugent
 explosion
 explosion camion-citerne haute-savoie
 explosion gare de lyon
@@ -111919,10 +111942,12 @@ hugo lloris
 hugo maradona
 hugo millan
 hugo prevost
+hugo reus
 hugo siquet
 hugo vetlesen
 hugobroos
 hugolloris
+hugoreus
 hugues aufray
 hugues hamelynck
 huguesaufray
@@ -112332,10 +112357,12 @@ impôts retraités
 impôtsretraités
 imran khan
 in aller freundschaft
+in aller freundschaft maria weber
 in the mood for love
 in tödlicher mission
 inZOI
 ina aogo
+inallerfreundschaftmariaweber
 incaprettamento
 incarville
 incassable
@@ -114535,6 +114562,8 @@ jorge mendes
 jorge sampaio
 jorge vilda
 jorgemartin
+jorgen van laer
+jorgenvanlaer
 jorginho
 joris kayembe
 jorne spileers
@@ -115659,6 +115688,7 @@ kia ev6
 kia niro
 kiabi
 kiabi détournement 100 millions
+kiberlain
 kick
 kick kennedy
 kick' kennedy
@@ -122289,6 +122319,7 @@ mohamed sifaoui
 mohamed sifaoui fonds marianne
 mohamed soumare
 mohamedamraextraction
+mohamedsalah
 mohamedsoumare
 mohammed ben salmane
 mohammed deif
@@ -122320,6 +122351,7 @@ molly cameron
 molly mae
 molnupiravir
 molosse de cestoni
+molrat
 mon ange
 mon chien stupide
 mon crime
@@ -126480,6 +126512,7 @@ pierregarnier
 pierregasly
 pierrehugues herbert
 pierrelellouche
+pierrelottin
 pierremaudet
 pierremenes
 pierreniney
@@ -134474,6 +134507,7 @@ thierryburkartjaninealbiez
 thierryburkartmelinasalaorni
 thierrycotillard
 thierryhenry
+thierrylhermitte
 thiers
 thijs römer
 thin-blue-line
@@ -137147,6 +137181,7 @@ victor osimhen
 victor rask
 victor steeman
 victor wembanyama
+victor wembanyama mvp
 victor wembanyama nba
 victoria abril
 victoria beckham
@@ -137160,6 +137195,7 @@ victoriamboko
 victoriamonfort
 victorinox
 victorwembanyama
+victorwembanyamamvp
 vidauban
 vide grenier
 vieilles charrues
@@ -137712,11 +137748,15 @@ vw aktie
 vw id buzz usa
 vw id every1
 vw id.7
+vw ruckruf elektroautos brandgefahr
+vw rückruf elektroautos brandgefahr
 vw tayron
 vw trinity
 vwaktie
 vwidbuzzusa
 vwidevery1
+vwruckrufelektroautosbrandgefahr
+vwrückrufelektroautosbrandgefahr
 vybz kartel
 véronique barbier rtbf
 véronique bédague
