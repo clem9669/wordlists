@@ -1521,11 +1521,13 @@ A BALL ID
 A BLOCC WORLD
 A BOTTLED UP ISLAND
 A BUILDING FULL OF CATS 2
+A BYTE WAR
 A Bad Christmas Story
 A Ball id
 A Blocc World
 A Bottled Up Island
 A Building Full of Cats 2
+A Byte War
 A CAFÉ COUPLE'S JOYFUL LIFE OF RESISTANCE
 A CALL FROM UNDER THE HOUSE
 A CAMERA DUEL!
@@ -1847,6 +1849,7 @@ ABallid
 ABloccWorld
 ABottledUpIsland
 ABuildingFullofCats2
+AByteWar
 AC COBRA
 AC Cobra
 ACACIA
@@ -2163,6 +2166,7 @@ AETERNUM GRAND PLAZA
 AETHELRED
 AETHELSWITH
 AETHELWULF
+AETHER & IRON
 AETHERMANCER
 AETHER’S ECHO: YAZID’S PARADOX
 AEZAKMI
@@ -3797,6 +3801,7 @@ ASTROBOYOMEGAFACTOR
 ASTROGEO
 ASTROHAULERS
 ASTROMATCH
+ASTRONEER
 ASTRONOOK
 ASTROPLANET
 ASTROPODS: STARSIDE GLAZE
@@ -4162,6 +4167,7 @@ AXES ART AMUSE
 AXESART
 AXESARTAMUSE
 AXESLINGER
+AXIOM VERGE
 AXION
 AXIS
 AXIS AND
@@ -4564,6 +4570,9 @@ AeternumGrandPlaza
 Aethelred
 Aethelswith
 Aethelwulf
+Aether   Iron
+Aether & Iron
+Aether&Iron
 Aether's Echo: Yazid's Paradox
 Aethermancer
 Aether’s Echo: Yazid’s Paradox
@@ -6633,6 +6642,8 @@ Axes Art
 Axes Art Amuse
 AxesArt
 AxesArtAmuse
+Axiom Verge
+AxiomVerge
 Axion
 Axis
 Axis Football 2026
@@ -13999,6 +14010,7 @@ COLIN MCRAE RALLY
 COLINMCRAE
 COLINMCRAERALLY
 COLLABSESSION
+COLLAPSE ZONE
 COLLECT ALL THESE STONES! (CATS)
 COLLECTICON
 COLLECTING
@@ -14330,6 +14342,7 @@ COQUETTE
 COQUETTE COQUETTE
 COQUETTECOQUETTE
 COR DRACONIS
+CORA
 CORAL
 CORAL ISLAND
 CORAN
@@ -14904,6 +14917,7 @@ CRUSADER KINGS III: CELESTIAL EDITION
 CRUSADER KINGS III: COLLECTION
 CRUSADER KINGS III: STARTER EDITION
 CRUSADERMAN
+CRUSADERS QUEST : HERO TOWN
 CRUSH
 CRUSH CRUSH - 10TH ANNIVERSARY ARTBOOK
 CRUSH DEPTH
@@ -15056,6 +15070,7 @@ CURSE OF WONEY
 CURSE OF YGGDRASIL
 CURSED ARMOR 2
 CURSED CASTLE
+CURSED DEAL
 CURSED HOUSE 15
 CURSED PRESENCE
 CURSED STATION
@@ -17148,6 +17163,8 @@ Colin McRae Rally
 ColinMcRae
 ColinMcRaeRally
 CollabSession
+Collapse Zone
+CollapseZone
 Collect All These Stones!  CATS 
 Collect All These Stones! (CATS)
 CollectAllTheseStones!(CATS)
@@ -18185,6 +18202,8 @@ CrusaderKingsIII:StarterEdition
 CrusaderKingsIIICreatorPack:HighMedievalWarfareAttire
 CrusaderKingsIIICreatorPack:HolyBuildings
 Crusaderman
+Crusaders Quest : Hero Town
+CrusadersQuest:HeroTown
 Crush
 Crush Crush   10th Anniversary Artbook
 Crush Crush - 10th Anniversary Artbook
@@ -18361,11 +18380,13 @@ Curse of the Ethereal Dragon
 Curse of the Mirror
 Cursed Armor 2
 Cursed Castle
+Cursed Deal
 Cursed House 15
 Cursed Presence
 Cursed station
 CursedArmor2
 CursedCastle
+CursedDeal
 CursedHouse15
 CursedPresence
 Cursedstation
@@ -20041,6 +20062,7 @@ DISTORTED SIGNAL
 DISTRACTOR DEMO
 DISTRIBUTION
 DISTRIBUTORS
+DISTRIBUTRAINS
 DISTRICT VR DEMO
 DISTRICT ZERO
 DIVA
@@ -22688,6 +22710,7 @@ Distractor Demo
 DistractorDemo
 Distribution
 Distributors
+Distributrains
 District VR Demo
 District Zero
 DistrictVRDemo
@@ -24433,6 +24456,7 @@ ELEMENTAL SOUL Demo
 ELEMENTAL TOWERS DEMO
 ELEMENTAL WAR CLASH
 ELEMENTALSOULDemo
+ELEMENTARY TROLLEYOLOGY
 ELEMENTS
 ELENA
 ELENA FISHER
@@ -25744,6 +25768,8 @@ ElementalRushDemo
 ElementalTowersDemo
 ElementalWarClash
 Elementalcolossus
+Elementary Trolleyology
+ElementaryTrolleyology
 Elements
 Elena
 Elena Fisher
@@ -27705,6 +27731,7 @@ FLOWER SURVIVORS
 FLOWERBANNER
 FLOWERBANNERPATTERN
 FLOWERDROPS
+FLOWEREVERIE
 FLOWERPOT
 FLOWERS AND FAVOURS: FLORIST SIMULATOR
 FLOWERSHOP MASTER YUUKARIN!
@@ -29560,6 +29587,7 @@ FlowerEscape
 FlowerPot
 FlowerSurvivors
 Flowerdrops
+Flowereverie
 FlowerinUs
 Flowers And Favours: Florist Simulator
 FlowersAndFavours:FloristSimulator
@@ -31055,6 +31083,7 @@ GET'TRUMP`ED TRIVIA
 GET0UT
 GETAWAY
 GETAWAYTHE
+GETOFFWORK
 GETOUT!Demo
 GETRIX
 GETSET
@@ -31425,6 +31454,7 @@ GOD HAND
 GOD IN A CLOSET
 GOD OF
 GOD OF MEDICINE
+GOD OF THIS WORLD
 GOD OF WAR
 GOD OF WAR 2
 GOD OF WAR II
@@ -31804,6 +31834,7 @@ GRAY MATTER
 GRAY MATTER INTERACTIVE
 GRAY MATTER INTERACTIVE STUDIOS
 GRAY PROTOCOL
+GRAY ZONE WARFARE
 GRAY ZONE WARFARE - SUPPORTER EDITION
 GRAYBANNER
 GRAYBED
@@ -32915,6 +32946,7 @@ Get'TRUMP`ed Trivia
 Get'TRUMP`edTrivia
 GetClucked
 GetInTimelessness
+GetOffWork
 GetSet
 GetSetGames
 Getaway
@@ -33286,6 +33318,7 @@ Gobo&Spike
 God
 God Eater
 God Hand
+God Of This World
 God in a Closet
 God of
 God of War
@@ -33299,6 +33332,7 @@ God's Continent
 God'sContinent
 GodEater
 GodHand
+GodOfThisWorld
 Godcraft Simulator
 GodcraftSimulator
 Goddess Scroll   The Last Starlight
@@ -33684,6 +33718,7 @@ Gray Matter
 Gray Matter Interactive
 Gray Matter Interactive Studios
 Gray Protocol
+Gray Zone Warfare
 Gray Zone Warfare   Supporter Edition
 Gray Zone Warfare - Supporter Edition
 GrayBanner
@@ -33694,6 +33729,7 @@ GrayMatter
 GrayMatterInteractive
 GrayMatterInteractiveStudios
 GrayProtocol
+GrayZoneWarfare
 GrayZoneWarfare-SupporterEdition
 Grease Monkey Grand Prix
 GreaseMonkeyGrandPrix
@@ -35002,6 +35038,7 @@ HEXBREAKER Ⅱ
 HEXCAVATOR
 HEXEN - MODULAR SYNTHESIZER
 HEXFACTORY
+HEXISLE
 HEXPUNK
 HEXWIND
 HEY!
@@ -35522,12 +35559,14 @@ HOUSING MARKET
 HOVER RANCHER
 HOVERCRAFTS X NIHILISM
 HOW 2 ESCAPE: LOST SUBMARINE
+HOW MANY SECRETS UNDER CEILING
 HOW SMART ARE YOU? IQ TEST
 HOW TO CREATE A WITCH
 HOW TO LOSE ONE'S VIRGINITY DEMO
 HOW YOUR PACKAGE GETS DELIVERED
 HOWARD
 HOWLKRAUL
+HOZY
 HQ
 HROTHGAR
 HROTHGAR HROTHGAR
@@ -36736,6 +36775,7 @@ Hexen   Modular Synthesizer
 Hexen - Modular Synthesizer
 Hexen-ModularSynthesizer
 Hexfactory
+Hexisle
 Hey!
 Hey! Pikmin
 Hey!Pikmin
@@ -37339,18 +37379,21 @@ HoverRancher
 Hovercrafts x Nihilism
 HovercraftsxNihilism
 How 2 Escape: Lost Submarine
+How Many Secrets Under Ceiling
 How Smart Are You? IQ Test
 How Your Package Gets Delivered
 How to create a witch
 How to lose one s virginity Demo
 How to lose one's virginity Demo
 How2Escape:LostSubmarine
+HowManySecretsUnderCeiling
 HowSmartAreYou?IQTest
 HowYourPackageGetsDelivered
 Howard
 HowlKraul
 Howtocreateawitch
 Howtoloseone'svirginityDemo
+Hozy
 Hrothgar
 Hrothgar Hrothgar
 HrothgarHrothgar
@@ -41750,6 +41793,7 @@ KIKIJENKINS
 KIL'JAEDEN
 KILIK
 KILJAEDEN
+KILL CAPTURE DESTROY
 KILL IT WITH FIRE! 2
 KILL RALPH
 KILL THE BRICKMAN
@@ -41890,6 +41934,7 @@ KINNEAS
 KINO
 KINSFOLK
 KINTARO
+KINTSUGI
 KIP
 KIRA
 KIRBY
@@ -42874,6 +42919,7 @@ KikiJenkins
 Kil'jaeden
 Kilik
 Kiljaeden
+Kill Capture Destroy
 Kill Ralph
 Kill The Clock
 Kill The Clock - Disguise Pack
@@ -42882,6 +42928,7 @@ Kill The Music
 Kill The Skeletons
 Kill the Brickman
 Kill the Demon Lord
+KillCaptureDestroy
 KillRalph
 KillTheClock
 KillTheClock–DisguisePack
@@ -43059,6 +43106,7 @@ Kinneas
 Kino
 Kinsfolk
 Kintaro
+Kintsugi
 Kip
 Kira
 Kirby
@@ -43993,6 +44041,7 @@ LASTRESORT
 LASTWAR2044
 LATE AMUSEMENT DEMO
 LATE HOURS
+LATE MING DYNASTY
 LATE NIGHT TALES
 LATER ELEVATOR
 LATIN SHADOWS - THE VISITOR
@@ -44743,6 +44792,7 @@ LIL GATOR GAME
 LIL' HENRY AND PENNY'S BIG ADVENTURE PACK
 LIL' SNOT: MOON ESCAPE
 LILA
+LILAC
 LILI
 LILI ROCHEFORT
 LILIALETTE'S HUSTLE: GETTING MY HANDS DIRTY TO SAVE MY GUILD
@@ -45821,9 +45871,11 @@ Lasérator Lasérator
 LasératorLasérator
 Late Amusement Demo
 Late Hours
+Late Ming Dynasty
 Late Night Tales
 LateAmusementDemo
 LateHours
+LateMingDynasty
 LateNightTales
 Later Elevator
 LaterElevator
@@ -46650,6 +46702,7 @@ Lil'Snot:MoonEscape
 LilElfredRe:Gifted
 LilGatorGame
 Lila
+Lilac
 Lili
 Lili Rochefort
 LiliRochefort
@@ -47633,6 +47686,7 @@ MABEL
 MABEL MABEL
 MABELMABEL
 MAC
+MACABER ZEALOT
 MACCOREMAC
 MACCOREMAC SOFTWARE
 MACCOREMACSOFTWARE
@@ -47796,6 +47850,7 @@ MAGICCUBE
 MAGICDREAM
 MAGICDREAMGAMES
 MAGICGAMES
+MAGICIANS OF MULTIPLICATION ISLAND
 MAGICIEN
 MAGICJUNGLE
 MAGICJUNGLESOFTWARE
@@ -50566,6 +50621,7 @@ MYLSTAR ELECTRONICS
 MYLSTAR ELECTRONICS INC
 MYLSTARELECTRONICS
 MYLSTARELECTRONICSINC
+MYOSOTIS: MY LIFE IS NOT YOURS TO TAKE
 MYRIAD REALMS: ASCEND TO SAGE
 MYRKWOOD: OFFSHOOT
 MYROBOT
@@ -50646,6 +50702,8 @@ MacCoreMac Software
 MacCoreMacSoftware
 MacLean
 MacSoft
+Macaber Zealot
+MacaberZealot
 Macha
 Machaon
 Machick 2
@@ -50838,6 +50896,8 @@ MagicalNutIkuno
 MagicalPrincessLily
 MagicalRunes
 Magicaladvertence
+Magicians of Multiplication Island
+MagiciansofMultiplicationIsland
 Magicien
 Magicsoft
 Magie
@@ -53868,6 +53928,8 @@ Mylstar Electronics
 Mylstar Electronics Inc
 MylstarElectronics
 MylstarElectronicsInc
+Myosotis: My Life Is Not Yours to Take
+Myosotis:MyLifeIsNotYourstoTake
 Myriad Realms: Ascend to Sage
 MyriadRealms:AscendtoSage
 Myrkwood: Offshoot
@@ -54353,6 +54415,7 @@ NECROLOGIUM
 NECROMANCE
 NECROMANCER FOR A WEEK
 NECROMANCIEN
+NECROTIDE
 NEDRA
 NEED
 NEED FOR
@@ -54743,6 +54806,7 @@ NIGHT CLERK
 NIGHT GRIP
 NIGHT INVASION
 NIGHT JACKAL: BLOOD DEBT
+NIGHT LIGHT
 NIGHT MARKET SIMULATOR
 NIGHT OF NIGHTMARE
 NIGHT OF THE OLDBRAND
@@ -54834,6 +54898,7 @@ NINAI GAMES
 NINAIGAMES
 NINAWILLIAMS
 NINE
+NINE NIGHTS TO EXPOSURE
 NINE POUND
 NINE POUND STUDIOS
 NINE SOLS
@@ -55528,6 +55593,7 @@ Necromance
 Necromancer For A Week
 NecromancerForAWeek
 Necromancien
+Necrotide
 Need
 Need For Scream
 Need for
@@ -55888,6 +55954,7 @@ Night Clerk
 Night Grip
 Night Invasion
 Night Jackal: Blood Debt
+Night Light
 Night Market Simulator
 Night Patrol Rules
 Night Patrol:Barracks
@@ -55910,6 +55977,7 @@ NightClerk
 NightGrip
 NightInvasion
 NightJackal:BloodDebt
+NightLight
 NightMare King
 NightMareKing
 NightMarketSimulator
@@ -56009,9 +56077,11 @@ Ninai
 Ninai Games
 NinaiGames
 Nine
+Nine Nights to Exposure
 Nine Pound
 Nine Pound Studios
 Nine Sols
+NineNightstoExposure
 NinePound
 NinePoundStudios
 NineSols
@@ -57064,6 +57134,8 @@ OLD SCHOOL
 OLD SCHOOL GAMES
 OLD SCHOOL RALLY
 OLD THIESS: THE WEREWOLF’S TRIAL
+OLD WORLD
+OLD WORLD - EMPIRES OF THE INDUS
 OLDEST GOLDEN TREASURE
 OLDSCHOOL
 OLDSCHOOLGAMES
@@ -57274,6 +57346,7 @@ OPERATIONWOLF
 OPERATIVES: REVOLVE DEMO
 OPERATIVES: Revolve Demo
 OPERATIVES:RevolveDemo
+OPERATOR UNKNOWN
 OPERIUS DX
 OPIC3D
 OPOLLO
@@ -58110,10 +58183,15 @@ Old School Games
 Old School Rally
 Old Thiess: The Werewolf's Trial
 Old Thiess: The Werewolf’s Trial
+Old World
+Old World   Empires of the Indus
+Old World - Empires of the Indus
 OldSchool
 OldSchoolGames
 OldSchoolRally
 OldThiess:TheWerewolf’sTrial
+OldWorld
+OldWorld-EmpiresoftheIndus
 Oldest Golden Treasure
 OldestGoldenTreasure
 Olga
@@ -58378,6 +58456,8 @@ Operational Art of War
 OperationalArtofWar
 OperationalArtofWarThe
 Operations
+Operator Unknown
+OperatorUnknown
 Operius DX
 OperiusDX
 Opic3D
@@ -58918,6 +58998,7 @@ PALOURDE
 PALOURDE GEANTE
 PALOURDEGEANTE
 PALPUS X ANNIHILATION
+PALS
 PALSOFT
 PALUTENA
 PALWAR
@@ -59319,6 +59400,8 @@ PC Engine CDROM²  TurboGraphxCD
 PC Engine CDROM² / TurboGraphxCD
 PC KID
 PC Kid
+PC STORE SIMULATOR
+PC Store Simulator
 PC-ENGINE
 PC-ENGINE CD
 PC-ENGINE CD ROM
@@ -59381,6 +59464,7 @@ PCEngineSuperGrafX
 PCKID
 PCKid
 PCMSDOS
+PCStoreSimulator
 PDAMILL
 PDAMill
 PEACEFUL FARM
@@ -61184,6 +61268,7 @@ PUSSY FUN
 PUTREFIEE
 PUTRIKA 1ST.CUT:THE REASON SHE MUST PERISH
 PUTT
+PUTT DOWN
 PUTT IN PARKS
 PUTT IT IN ORBIT
 PUYO
@@ -61205,6 +61290,7 @@ PUZZLE PLEASANT
 PUZZLE PRINCESS
 PUZZLE QUEST
 PUZZLE SERIES
+PUZZLE SPY INTERNATIONAL
 PUZZLE TEMPTATION: ANIME REVEAL
 PUZZLEAND
 PUZZLEANDACTION
@@ -63848,8 +63934,10 @@ PussyFun
 Putrika 1st.cut:The Reason She Must Perish
 Putrika1st.cut:TheReasonSheMustPerish
 Putt
+Putt Down
 Putt It In Orbit
 Putt in Parks
+PuttDown
 PuttItInOrbit
 PuttinParks
 Puyo
@@ -63868,6 +63956,7 @@ Puzzle Pleasant
 Puzzle Princess
 Puzzle Quest
 Puzzle Series
+Puzzle Spy International
 Puzzle Temptation: Anime Reveal
 Puzzle and
 Puzzle and Action
@@ -63882,6 +63971,7 @@ PuzzlePleasant
 PuzzlePrincess
 PuzzleQuest
 PuzzleSeries
+PuzzleSpyInternational
 PuzzleTemptation:AnimeReveal
 Puzzleand
 PuzzleandAction
@@ -70410,6 +70500,7 @@ SOFTWORKS
 SOFTWORKS FACTORY
 SOFTWORKSFACTORY
 SOGLIA
+SOHEE
 SOHO
 SOICHIRO
 SOICHIRO ITSUKUSHIMA
@@ -70670,6 +70761,7 @@ SOULCALLER'S TOWER
 SOULCROSSED
 SOULEDGE
 SOULGLASS
+SOULMASK
 SOULMASK - THE GOLDEN LEGEND
 SOULMON
 SOULREAVER
@@ -70874,6 +70966,7 @@ SPELL SLIDE
 SPELLBOUND
 SPELLBOUND BEAUTIES
 SPELLBOUND: MALACHITE COVEN
+SPELLCARVED
 SPELLFORCE
 SPELUNKY
 SPHENOID
@@ -74852,6 +74945,7 @@ Softworks
 Softworks Factory
 SoftworksFactory
 Soglia
+Sohee
 Soho
 Soichiro
 Soichiro Itsukushima
@@ -75143,6 +75237,7 @@ Soulcaller's Tower
 Soulcaller'sTower
 Soulcrossed
 Soulglass
+Soulmask
 Soulmask   The Golden Legend
 Soulmask - The Golden Legend
 Soulmask-TheGoldenLegend
@@ -75404,6 +75499,7 @@ Speedway Club Manager 25
 SpeedwayClubManager25
 SpelBrawl
 Spell Slide
+SpellCarved
 SpellForce
 SpellSlide
 Spellbound
@@ -77300,6 +77396,7 @@ T7 Games
 T7GAMES
 T7Games
 T800
+TABLE PARTY - TOCTOC WOODMAN
 TABLE TOP CREATURE TRACKER
 TABLEAU
 TABLETOP SIMULATOR
@@ -77385,6 +77482,7 @@ TAKASHIMA
 TAKE
 TAKE TWO
 TAKE TWO INTERACTIVE
+TAKE YOU HOME
 TAKEDA
 TAKEDA TAKAHASHI
 TAKEDATAKAHASHI
@@ -77766,6 +77864,7 @@ TEENY WEENY
 TEENY WEENY GAMES
 TEENYWEENY
 TEENYWEENYGAMES
+TEEPYTIME
 TEHKAN
 TEICHIKU
 TEICHIKU RECORDS
@@ -78201,6 +78300,7 @@ THE DEADALUS ENCOUNTER
 THE DEADSEAT
 THE DEATH FOREST
 THE DEATHMIND
+THE DEEP LIBRARY
 THE DEEPWOODS
 THE DEMON QUEEN'S DIRE DILEMMA
 THE DERAILED
@@ -78691,6 +78791,7 @@ THE STAIRWELL
 THE STATE OF NOWHERE
 THE STILL
 THE STRANGE LIGHTS
+THE STRUGGLE TO SURVIVE THE DRAGON SIEGE
 THE SUCCESSION OF CHANGING KINGS
 THE SUMMIT
 THE SUPPER: NEW BLOOD
@@ -79863,6 +79964,7 @@ TRAIN GOES RIGHT DEMO
 TRAIN MOLESTER BIG-TITTY UNDERCOVER AGENT ~HOT AND SEXY PREY~
 TRAIN SIM WORLD® 6
 TRAIN SIM WORLD® 6: AVANTI WEST COAST BR CLASS 805 EVERO BMU ADD-ON
+TRAIN SIM WORLD® 6: BR CLASS 90 ELECTRIC FREIGHT LOCO ADD-ON
 TRAIN SIM WORLD® 6: LIBEREC - STARÁ PAKA ROUTE ADD-ON
 TRAIN SIM WORLD® 6: NORTHEAST CORRIDOR METRO-NORTH: NEW YORK - STAMFORD ROUTE ADD-ON
 TRAIN SIM WORLD® 6: SOUTHERN BR CLASS 171 & BR CLASS 377/3 ADD-ON
@@ -80423,7 +80525,10 @@ TaVRn s Takedown - Naheulbeuk
 TaVRn's Takedown   Naheulbeuk
 TaVRn's Takedown - Naheulbeuk
 TaVRn'sTakedown-Naheulbeuk
+Table Party   TocToc Woodman
+Table Party - TocToc Woodman
 Table Top Creature Tracker
+TableParty-TocTocWoodman
 TableTopCreatureTracker
 Tableau
 Tabletop Simulator
@@ -80528,8 +80633,10 @@ Takashima
 Take
 Take Two
 Take Two Interactive
+Take You Home
 TakeTwo
 TakeTwoInteractive
+TakeYouHome
 Takeda
 Takeda Takahashi
 TakedaTakahashi
@@ -80959,6 +81066,7 @@ Teeny Weeny Games
 TeenyTidy
 TeenyWeeny
 TeenyWeenyGames
+TeepyTime
 Tehkan
 Teichiku
 Teichiku Records
@@ -81446,6 +81554,7 @@ The Dead House
 The Deadalus Encounter
 The Deadseat
 The Deathmind
+The Deep Library
 The Deepwoods
 The Demon Queen s Dire Dilemma
 The Demon Queen's Dire Dilemma
@@ -81916,6 +82025,7 @@ The Stairwell
 The State of Nowhere
 The Still
 The Strange Lights
+The Struggle to Survive the Dragon Siege
 The Succession of Changing Kings
 The Summit
 The Supper: New Blood
@@ -82163,6 +82273,7 @@ TheDeadHouse
 TheDeadalusEncounter
 TheDeadseat
 TheDeathmind
+TheDeepLibrary
 TheDeepwoods
 TheDemonQueen'sDireDilemma
 TheDerailed
@@ -82589,6 +82700,7 @@ TheStairwell
 TheStateofNowhere
 TheStill
 TheStrangeLights
+TheStruggletoSurvivetheDragonSiege
 TheSuccessionofChangingKings
 TheSummit
 TheSupper:NewBlood
@@ -83726,12 +83838,15 @@ Train Molester Big Titty Undercover Agent ~Hot and Sexy Prey~
 Train Molester Big-Titty Undercover Agent ~Hot and Sexy Prey~
 Train Sim World(R) 6
 Train Sim World(R) 6: Avanti West Coast BR Class 805 Evero BMU Add-On
+Train Sim World(R) 6: BR Class 90 Electric Freight Loco Add-On
 Train Sim World(R) 6: Liberec - Stara Paka Route Add-On
 Train Sim World(R) 6: Northeast Corridor Metro-North: New York - Stamford Route Add-On
 Train Sim World(R) 6: Southern BR Class 171 & BR Class 377/3 Add-On
 Train Sim World® 6
 Train Sim World® 6: Avanti West Coast BR Class 805 Evero BMU Add On
 Train Sim World® 6: Avanti West Coast BR Class 805 Evero BMU Add-On
+Train Sim World® 6: BR Class 90 Electric Freight Loco Add On
+Train Sim World® 6: BR Class 90 Electric Freight Loco Add-On
 Train Sim World® 6: Liberec   Stará Paka Route Add On
 Train Sim World® 6: Liberec - Stará Paka Route Add-On
 Train Sim World® 6: Northeast Corridor Metro North: New York   Stamford Route Add On
@@ -83748,6 +83863,7 @@ TrainGoesRightDemo
 TrainMolesterBig-TittyUndercoverAgent~HotandSexyPrey~
 TrainSimWorld®6
 TrainSimWorld®6:AvantiWestCoastBRClass805EveroBMUAdd-On
+TrainSimWorld®6:BRClass90ElectricFreightLocoAdd-On
 TrainSimWorld®6:Liberec-StaráPakaRouteAdd-On
 TrainSimWorld®6:NortheastCorridorMetro-North:NewYork-StamfordRouteAdd-On
 TrainSimWorld®6:SouthernBRClass171&BRClass377/3Add-On
@@ -84708,6 +84824,7 @@ URBAN RUNAWAY
 URBAN SUPERMARKET SIMULATOR DEMO
 URBAN UNDERGROUNDS
 URBANSCAN
+URBEX NIGTHMARE
 URBOSA
 URIDIUM
 URIEN
@@ -85148,6 +85265,8 @@ UrbanSupermarketSimulatorDemo
 UrbanUndergrounds
 Urbanrunaway
 Urbanscan
+Urbex Nigthmare
+UrbexNigthmare
 Urbosa
 Uridium
 Urien
@@ -86894,12 +87013,14 @@ WARCRAFTIITIDESOFDARKNESS
 WARD
 WARD 777 - الجناح 777
 WARD ZABAC
+WARDECK
 WARDEN
 WARDEN WATTS
 WARDENS OF WEN
 WARDENWATTS
 WARDZABAC
 WARE
+WAREHOUSE TYCOON
 WARFARE
 WARFRAME: EAT AND RUN COLLECTION
 WARFRAME: FULMIN BATTLEKIT
@@ -87967,6 +88088,7 @@ War Lords 战争领主
 War Untold
 War and Politics
 War of Dots
+WarDeck
 WarGridHero
 WarLords战争领主
 WarOS
@@ -87991,6 +88113,8 @@ WardenWatts
 Wardens of Wen
 WardensofWen
 Ware
+Warehouse Tycoon
+WarehouseTycoon
 Warframe: Eat and Run Collection
 Warframe: Fulmin Battlekit
 Warframe: Gyre Prime Access   Complete
@@ -90787,6 +90911,7 @@ a ball id
 a blocc world
 a bottled up island
 a building full of cats 2
+a byte war
 a café couple's joyful life of resistance
 a call from under the house
 a camera duel!
@@ -91252,6 +91377,7 @@ aeternum grand plaza
 aethelred
 aethelswith
 aethelwulf
+aether & iron
 aethermancer
 aether’s echo: yazid’s paradox
 aezakmi
@@ -92771,6 +92897,7 @@ astroboyomegafactor
 astrogeo
 astrohaulers
 astromatch
+astroneer
 astronook
 astroplanet
 astropods: starside glaze
@@ -93086,6 +93213,7 @@ axes art amuse
 axesart
 axesartamuse
 axeslinger
+axiom verge
 axion
 axis
 axis and
@@ -97383,6 +97511,7 @@ colin mcrae rally
 colinmcrae
 colinmcraerally
 collabsession
+collapse zone
 collect all these stones! (cats)
 collecticon
 collecting
@@ -97714,6 +97843,7 @@ coquette
 coquette coquette
 coquettecoquette
 cor draconis
+cora
 coral
 coral island
 coran
@@ -98278,6 +98408,7 @@ crusader kings iii: celestial edition
 crusader kings iii: collection
 crusader kings iii: starter edition
 crusaderman
+crusaders quest : hero town
 crush
 crush crush - 10th anniversary artbook
 crush depth
@@ -98427,6 +98558,7 @@ curse of woney
 curse of yggdrasil
 cursed armor 2
 cursed castle
+cursed deal
 cursed house 15
 cursed presence
 cursed station
@@ -100029,6 +100161,7 @@ distorted signal
 distractor demo
 distribution
 distributors
+distributrains
 district vr demo
 district zero
 diva
@@ -101486,6 +101619,7 @@ elemental rush demo
 elemental soul demo
 elemental towers demo
 elemental war clash
+elementary trolleyology
 elements
 elena
 elena fisher
@@ -103246,6 +103380,7 @@ flower_banner_pattern
 flowerbanner
 flowerbannerpattern
 flowerdrops
+flowereverie
 flowerpot
 flowers and favours: florist simulator
 flowershop master yuukarin!
@@ -104577,6 +104712,7 @@ get set games
 get'trump`ed trivia
 getaway
 getawaythe
+getoffwork
 getrix
 getset
 getsetgames
@@ -104923,6 +105059,7 @@ god hand
 god in a closet
 god of
 god of medicine
+god of this world
 god of war
 god of war 2
 god of war ii
@@ -105299,6 +105436,7 @@ gray matter
 gray matter interactive
 gray matter interactive studios
 gray protocol
+gray zone warfare
 gray zone warfare - supporter edition
 graybanner
 graybed
@@ -106576,6 +106714,7 @@ hexbreaker ⅱ
 hexcavator
 hexen - modular synthesizer
 hexfactory
+hexisle
 hexpunk
 hexwind
 hey!
@@ -107068,12 +107207,14 @@ housing market
 hover rancher
 hovercrafts x nihilism
 how 2 escape: lost submarine
+how many secrets under ceiling
 how smart are you? iq test
 how to create a witch
 how to lose one's virginity demo
 how your package gets delivered
 howard
 howlkraul
+hozy
 hq
 hrothgar
 hrothgar hrothgar
@@ -109483,6 +109624,7 @@ kikijenkins
 kil'jaeden
 kilik
 kiljaeden
+kill capture destroy
 kill it with fire! 2
 kill ralph
 kill the brickman
@@ -109622,6 +109764,7 @@ kinneas
 kino
 kinsfolk
 kintaro
+kintsugi
 kip
 kira
 kirby
@@ -110538,6 +110681,7 @@ lasérator lasérator
 lasératorlasérator
 late amusement demo
 late hours
+late ming dynasty
 late night tales
 later elevator
 latin shadows - the visitor
@@ -111288,6 +111432,7 @@ lil' henry and penny's big adventure pack
 lil' snot: moon escape
 lil'HenryandPenny'sBigAdventurePack
 lila
+lilac
 lili
 lili rochefort
 lilialette's hustle: getting my hands dirty to save my guild
@@ -112074,6 +112219,7 @@ mabel
 mabel mabel
 mabelmabel
 mac
+macaber zealot
 maccoremac
 maccoremac software
 maccoremacsoftware
@@ -112233,6 +112379,7 @@ magiccube
 magicdream
 magicdreamgames
 magicgames
+magicians of multiplication island
 magicien
 magicjungle
 magicjunglesoftware
@@ -114937,6 +115084,7 @@ mylstar electronics
 mylstar electronics inc
 mylstarelectronics
 mylstarelectronicsinc
+myosotis: my life is not yours to take
 myriad realms: ascend to sage
 myrkwood: offshoot
 myrobot
@@ -115318,6 +115466,7 @@ necrologium
 necromance
 necromancer for a week
 necromancien
+necrotide
 nedra
 need
 need for
@@ -115673,6 +115822,7 @@ night clerk
 night grip
 night invasion
 night jackal: blood debt
+night light
 night market simulator
 night of nightmare
 night of the oldbrand
@@ -115764,6 +115914,7 @@ ninai games
 ninaigames
 ninawilliams
 nine
+nine nights to exposure
 nine pound
 nine pound studios
 nine sols
@@ -116777,6 +116928,8 @@ old school
 old school games
 old school rally
 old thiess: the werewolf’s trial
+old world
+old world - empires of the indus
 oldest golden treasure
 oldschool
 oldschoolgames
@@ -116971,6 +117124,7 @@ operationflashpoint
 operations
 operationwolf
 operatives: revolve demo
+operator unknown
 operius dx
 opic3d
 opollo
@@ -117424,6 +117578,7 @@ palourde géante
 palourdegeante
 palourdegéante
 palpus x annihilation
+pals
 palsoft
 palutena
 palwar
@@ -117812,6 +117967,7 @@ pc engine cdrom²
 pc engine cdrom²  turbographxcd
 pc engine cdrom² / turbographxcd
 pc kid
+pc store simulator
 pc-engine
 pc-engine cd
 pc-engine cd rom
@@ -119641,6 +119797,7 @@ putrefiee
 putrika 1st.cut:the reason she must perish
 putréfiée
 putt
+putt down
 putt in parks
 putt it in orbit
 puyo
@@ -119662,6 +119819,7 @@ puzzle pleasant
 puzzle princess
 puzzle quest
 puzzle series
+puzzle spy international
 puzzle temptation: anime reveal
 puzzleand
 puzzleandaction
@@ -123743,6 +123901,7 @@ softworks
 softworks factory
 softworksfactory
 soglia
+sohee
 soho
 soichiro
 soichiro itsukushima
@@ -123996,6 +124155,7 @@ soulcaller's tower
 soulcrossed
 souledge
 soulglass
+soulmask
 soulmask - the golden legend
 soulmon
 soulreaver
@@ -124200,6 +124360,7 @@ spell slide
 spellbound
 spellbound beauties
 spellbound: malachite coven
+spellcarved
 spellforce
 spelunky
 sphenoid
@@ -125700,6 +125861,7 @@ t7
 t7 games
 t7games
 t800
+table party - toctoc woodman
 table top creature tracker
 tableau
 tabletop simulator
@@ -125784,6 +125946,7 @@ takashima
 take
 take two
 take two interactive
+take you home
 takeda
 takeda takahashi
 takedatakahashi
@@ -126157,6 +126320,7 @@ teeny weeny
 teeny weeny games
 teenyweeny
 teenyweenygames
+teepytime
 tehkan
 teichiku
 teichiku records
@@ -126590,6 +126754,7 @@ the deadalus encounter
 the deadseat
 the death forest
 the deathmind
+the deep library
 the deepwoods
 the demon queen's dire dilemma
 the derailed
@@ -127067,6 +127232,7 @@ the stairwell
 the state of nowhere
 the still
 the strange lights
+the struggle to survive the dragon siege
 the succession of changing kings
 the summit
 the supper: new blood
@@ -128217,6 +128383,7 @@ train goes right demo
 train molester big-titty undercover agent ~hot and sexy prey~
 train sim world® 6
 train sim world® 6: avanti west coast br class 805 evero bmu add-on
+train sim world® 6: br class 90 electric freight loco add-on
 train sim world® 6: liberec - stará paka route add-on
 train sim world® 6: northeast corridor metro-north: new york - stamford route add-on
 train sim world® 6: southern br class 171 & br class 377/3 add-on
@@ -129092,6 +129259,7 @@ urban runaway
 urban supermarket simulator demo
 urban undergrounds
 urbanscan
+urbex nigthmare
 urbosa
 uridium
 urien
@@ -130021,12 +130189,14 @@ warcraftiitidesofdarkness
 ward
 ward 777 - الجناح 777
 ward zabac
+wardeck
 warden
 warden watts
 wardens of wen
 wardenwatts
 wardzabac
 ware
+warehouse tycoon
 warfare
 warframe: eat and run collection
 warframe: fulmin battlekit
