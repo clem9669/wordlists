@@ -145,9 +145,11 @@
 100 SEA CATS
 100 SINGAPORE CATS
 100 SRI LANKA CATS
+100 STARPAWS CATS
 100 Sea Cats
 100 Singapore Cats
 100 Sri Lanka Cats
+100 StarPaws Cats
 100 THAILAND CATS
 100 TRIALS
 100 Thailand Cats
@@ -194,6 +196,7 @@
 100 sea cats
 100 singapore cats
 100 sri lanka cats
+100 starpaws cats
 100 thailand cats
 100 trials
 100 vampire cats
@@ -249,6 +252,7 @@
 100SeaCats
 100SingaporeCats
 100SriLankaCats
+100StarPawsCats
 100ThailandCats
 100Trials
 100VampireCats
@@ -1205,10 +1209,13 @@
 88 at an exhibition
 88atanExhibition
 8AM: THE OFFICE
+8AM: THE SHOPPING MALL
 8AM: THE SWIMMING POOL
 8AM: The Office
+8AM: The Shopping Mall
 8AM: The Swimming Pool
 8AM:TheOffice
+8AM:TheShoppingMall
 8AM:TheSwimmingPool
 8BIT
 8BIT GAMES
@@ -1218,6 +1225,7 @@
 8ING
 8TH
 8am: the office
+8am: the shopping mall
 8am: the swimming pool
 8bit
 8bit Games
@@ -1303,6 +1311,7 @@
 ??.????
 ??.?????
 ??2 Next Business Trip
+??2(CHUXIE2)
 ??2001???
 ??3:??
 ??:??
@@ -1648,7 +1657,9 @@ A Promise Best Left Unkept - Aya Edition
 A QUEST TO BE THE BEST
 A Quest to Be The Best
 A REALM OF ETERNITY
+A RIDICULOUS WASTE OF TIME
 A Realm of Eternity
+A Ridiculous Waste of Time
 A SEAGULL GAME
 A SERENE TRIP DEMO
 A SESSION WITH DR. LIEBNITZ - ULTIMATE EDITION DEMO
@@ -3630,6 +3641,7 @@ ARXEL TRIBE
 ARXELTRIBE
 ARZEST
 ARealmofEternity
+ARidiculousWasteofTime
 AS EXPECTED OF THE DEMON LORD
 AS I BEGAN TO DREAM
 AS LONG AS YOU'RE HERE
@@ -6752,6 +6764,7 @@ BABUT
 BABUT BABUT
 BABUTBABUT
 BABY STEPS
+BABY'S DAY OUT
 BABYLON
 BABYLON ROGUES
 BABYLON SOFTWARE
@@ -7884,11 +7897,14 @@ BINGO MACHINE
 BINGO ROULETTE
 BINOTEQ
 BIO
+BIO FAULT
+BIO Fault
 BIO GODDESS : DOOMSDAY BEGINS
 BIO INC. REDEMPTION
 BIO REX
 BIO SPARK
 BIO SPARK BIO SPARK
+BIOFault
 BIOKEPT
 BIOKINTON
 BIOMENACE REMASTERED
@@ -8894,6 +8910,7 @@ BREATH OF
 BREATH OF FIRE
 BREATH OF FIRE 1  2
 BREATH OF FIRE 1 & 2
+BREATH OF FIRE IV
 BREATH OF LIFE
 BREATH OF LIFE DEMO
 BREATH OF THE WILD
@@ -9358,7 +9375,10 @@ Babouin
 Babut
 Babut Babut
 BabutBabut
+Baby S Day Out
 Baby Steps
+Baby'S Day Out
+Baby'SDayOut
 BabySteps
 Babylon
 Babylon Rogues
@@ -11726,6 +11746,7 @@ Breath of
 Breath of Fire
 Breath of Fire 1  2
 Breath of Fire 1 & 2
+Breath of Fire IV
 Breath of Life
 Breath of Life Demo
 Breathbound
@@ -11733,6 +11754,7 @@ Breathof
 BreathofFire
 BreathofFire1&2
 BreathofFire12
+BreathofFireIV
 BreathofLife
 BreathofLifeDemo
 Breed
@@ -12798,6 +12820,7 @@ CATANKS
 CATCAT
 CATCH IT
 CATCH ME
+CATCH THE LIGHT DEMO
 CATCHING SPIRITS
 CATDADDY
 CATDADDYGAMES
@@ -13536,6 +13559,7 @@ CHRONOCROSS
 CHRONOMAZE: GRAVITY MAZE
 CHRONOMINION IDLER
 CHRONOQUARTZ
+CHRONOSMITH'S SAGA
 CHRONOSOFT
 CHRONOSURGE: ECHOES OF THE VOID
 CHRONOTRIGGER
@@ -14614,6 +14638,7 @@ CRAGGENROCK
 CRAHME
 CRAIG
 CRAIG MARDUK
+CRAIG'S CAVE
 CRAIGMARDUK
 CRAKOS
 CRANBERRY
@@ -15870,10 +15895,12 @@ Catanks
 CatatHome
 Catch Me
 Catch it
+Catch the Light Demo
 CatchMe
 Catching Spirits
 CatchingSpirits
 Catchit
+CatchtheLightDemo
 Catfish Idle Pond
 CatfishIdlePond
 Cathie
@@ -16634,6 +16661,9 @@ Chronomaze:GravityMaze
 Chronominion Idler
 ChronominionIdler
 Chronoquartz
+Chronosmith s Saga
+Chronosmith's Saga
+Chronosmith'sSaga
 Chronosurge: Echoes of the Void
 Chronosurge:EchoesoftheVoid
 Chu
@@ -17871,6 +17901,9 @@ Crahme
 Crahmé
 Craig
 Craig Marduk
+Craig s Cave
+Craig's Cave
+Craig'sCave
 CraigMarduk
 Crakos
 Cranberry
@@ -18949,6 +18982,7 @@ DARUNIA
 DARUNMISTER
 DARWIN
 DARWIN 4078
+DARWIN'S PARADOX!
 DARWIN4078
 DARWINIA
 DARXUN
@@ -19571,6 +19605,7 @@ DESKTOP FOREST
 DESKTOP GOLF
 DESKTOP HEROES
 DESKTOP IMMORTAL
+DESKTOP MATE GUMI DLC
 DESKTOP MATE WORK CAT DLC
 DESKTOP MY CAT
 DESKTOP PALS 2
@@ -21382,6 +21417,9 @@ DarunMister
 Darunia
 Darwin
 Darwin 4078
+Darwin s Paradox!
+Darwin's Paradox!
+Darwin'sParadox!
 Darwin4078
 Darwinia
 Darxun
@@ -22125,6 +22163,7 @@ Desktop Forest
 Desktop Golf
 Desktop Heroes
 Desktop Immortal
+Desktop Mate GUMI DLC
 Desktop Mate Work Cat DLC
 Desktop Pals 2
 Desktop Pasture
@@ -22149,6 +22188,7 @@ DesktopForest
 DesktopGolf
 DesktopHeroes
 DesktopImmortal
+DesktopMateGUMIDLC
 DesktopMateWorkCatDLC
 DesktopPals2
 DesktopPasture
@@ -31187,6 +31227,7 @@ GHOSTLY ACRES
 GHOSTMOONS - ARCADE
 GHOSTOFTHEDICEDSTEAK
 GHOSTPUBLISHING
+GHOSTRUNNER
 GHOSTS
 GHOSTS 'N
 GHOSTS 'N GOBLINS
@@ -31298,6 +31339,7 @@ GLANZELIUS
 GLASS
 GLASS BOTTLE
 GLASS CANNON
+GLASS CANNON DEFENSE
 GLASS MASQUERADE 4: CONSTELLATIONS
 GLASSBOTTLE
 GLASSBREAKERS: CHAMPIONS OF MOSS
@@ -31460,6 +31502,7 @@ GO BANANAS!
 GO SLIMEY GO!
 GO TO SLEEP
 GO!
+GO! GO! MISTER CHICKUMS
 GO! SLOTH
 GO1
 GOA
@@ -32349,6 +32392,7 @@ GUTHORMLESAGE
 GUTHRUM
 GUTHRUM GUTHRUM
 GUTHRUMGUTHRUM
+GUTTERPUNK
 GUY
 GUY ROUX
 GUY ROUX MANAGER
@@ -32363,6 +32407,7 @@ GYM CAMP SIMULATOR
 GYM SIMULATOR
 GYRE
 GYROIDE
+GYROPIA
 GYRUSS
 Gabbiani
 Gabin
@@ -33056,6 +33101,7 @@ Ghostmoons   Arcade
 Ghostmoons - Arcade
 Ghostmoons-Arcade
 GhostofTsushimaDIRECTOR'SCUT
+Ghostrunner
 Ghosts
 Ghosts 'n
 Ghosts 'n Goblins
@@ -33164,9 +33210,11 @@ Glanzelius
 Glass
 Glass Bottle
 Glass Cannon
+Glass Cannon Defense
 Glass Masquerade 4: Constellations
 GlassBottle
 GlassCannon
+GlassCannonDefense
 GlassMasquerade4:Constellations
 Glassbreakers: Champions of Moss
 Glassbreakers:ChampionsofMoss
@@ -33314,7 +33362,9 @@ Go Bananas!
 Go Slimey Go!
 Go To Sleep
 Go!
+Go! Go! Mister Chickums
 Go! Sloth
+Go!Go!MisterChickums
 Go!Sloth
 GoApeShip!
 GoBananas!
@@ -34219,6 +34269,7 @@ GuthormleSage
 Guthrum
 Guthrum Guthrum
 GuthrumGuthrum
+GutterPunk
 Guy
 Guy Roux
 Guy Roux Manager
@@ -35780,6 +35831,7 @@ HYPERWARE
 HYPERXFANTASY
 HYPERxFANTASY
 HYPNO HALO
+HYPNOPHOBIA; FROM YOUR SHADOW SOUNDTRACK
 HYPNOSIS KNIGHT-PRINCESS
 HYPNOTIC EYES
 HYPNOTICEYES
@@ -37647,6 +37699,8 @@ Hyperspaced
 Hyperware
 Hypno Halo
 HypnoHalo
+Hypnophobia; From Your Shadow Soundtrack
+Hypnophobia;FromYourShadowSoundtrack
 Hypnosis Knight Princess
 Hypnosis Knight-Princess
 HypnosisKnight-Princess
@@ -38179,6 +38233,7 @@ INCREDIBLEMACHINE
 INCREDIBLEMACHINETHE
 INCREDIBLETECHNOLOGIES
 INCREMENTAL DUNGEON
+INCRETYPER
 INCURSION
 INDEPENDANCE
 INDEPENDANCE WAR
@@ -39151,6 +39206,7 @@ IncredibleMachineThe
 IncredibleTechnologies
 Incremental Dungeon
 IncrementalDungeon
+Incretyper
 Incursion
 Independance
 Independance War
@@ -40016,6 +40072,7 @@ JAVIER DAVALOS
 JAVIERDAVALOS
 JAWLESS FISHTANK
 JAX
+JAX VS. THE WORLD
 JAXX BLORGIN'S UFO JAM
 JAY
 JAY NORRIS
@@ -40394,6 +40451,7 @@ JUCKLE JUCKLE
 JUCKLEJUCKLE
 JUDGEMENT ANGEL
 JUGE
+JUGGLE STAR DX
 JUGS BAY
 JUICE
 JUICE GAMES
@@ -40817,6 +40875,8 @@ JavierDavalos
 Jawless Fishtank
 JawlessFishtank
 Jax
+Jax Vs. The World
+JaxVs.TheWorld
 Jaxx Blorgin s UFO Jam
 Jaxx Blorgin's UFO Jam
 JaxxBlorgin'sUFOJam
@@ -41212,6 +41272,8 @@ Juckle Juckle
 JuckleJuckle
 Judgement Angel
 JudgementAngel
+Juggle Star DX
+JuggleStarDX
 Jugs Bay
 JugsBay
 Juice
@@ -42458,6 +42520,7 @@ KUNGFUFACTORY
 KUNGFUMASTER
 KUNGJIN
 KUNGLAO
+KUNGPAW
 KUNIMITSU
 KUNIO-KUN
 KUNIOKUN
@@ -43641,6 +43704,7 @@ KungFuFactory
 KungFuMaster
 KungJin
 KungLao
+KungPaw
 Kunimitsu
 Kunio-kun
 Kuniokun
@@ -48775,6 +48839,7 @@ MEDSYSTEMS
 MEDSYSTEMSSOFTWARE
 MEDUSA
 MEDUSELECTRIQUE
+MEEPIE
 MEER'S: ESCAPE
 MEETMEAT
 MEGA
@@ -49960,6 +50025,7 @@ MONDO PRODUCTIONS
 MONDOPRODUCTIONS
 MONEY
 MONEY THEFT 3 LAST MISSION
+MONEYCLICKER
 MONICA
 MONIQUE
 MONKEE
@@ -51909,6 +51975,7 @@ Medl Mobile
 MedlMobile
 Medolie
 Meduselectrique
+Meepie
 Meer s: Escape
 Meer's: Escape
 Meer's:Escape
@@ -53156,6 +53223,7 @@ Mondo
 Mondo Productions
 MondoProductions
 Money Theft 3 Last Mission
+MoneyClicker
 MoneyTheft3LastMission
 Monica
 Monique
@@ -61399,6 +61467,7 @@ PYRE FIERTIR
 PYREFIERTIR
 PYRO
 PYRO STUDIOS
+PYROKITE
 PYROMANIAC
 PYROSTUDIOS
 PYROSYNCHIST
@@ -64075,6 +64144,7 @@ Pyre Fiertir
 PyreFiertir
 Pyro
 Pyro Studios
+PyroKite
 PyroStudios
 Pyromaniac
 Pyrosynchist
@@ -65313,8 +65383,11 @@ RESETTI
 RESETgame
 RESIDENT
 RESIDENT EVIL
+RESIDENT EVIL (1996)
 RESIDENT EVIL 2
+RESIDENT EVIL 2 (1998)
 RESIDENT EVIL 3
+RESIDENT EVIL 3 NEMESIS (1999)
 RESIDENT EVIL 4
 RESIDENT EVIL 7 GOLD EDITION & VILLAGE GOLD EDITION
 RESIDENT EVIL CODE VERONICA
@@ -66203,6 +66276,7 @@ RUNE ARK
 RUNE CRAFT
 RUNE FACTORY: GUARDIANS OF AZUMA
 RUNE LEGACY IDLE
+RUNE TOWER INCREMENTAL
 RUNEBLADE AUTOMATON
 RUNECRAFT
 RUNEOMICON: TRAINING ROOM
@@ -67154,7 +67228,13 @@ ResearchStory
 Resetti
 Resident
 Resident Evil
+Resident Evil  1996 
+Resident Evil (1996)
+Resident Evil 2  1998 
+Resident Evil 2 (1998)
 Resident Evil 3
+Resident Evil 3 Nemesis  1999 
+Resident Evil 3 Nemesis (1999)
 Resident Evil 4
 Resident Evil 7 Gold Edition   Village Gold Edition
 Resident Evil 7 Gold Edition & Village Gold Edition
@@ -67163,7 +67243,10 @@ Resident Evil Requiem
 Resident Evil Village
 Resident Fear 3 : Ascension
 ResidentEvil
+ResidentEvil(1996)
+ResidentEvil2(1998)
 ResidentEvil3
+ResidentEvil3Nemesis(1999)
 ResidentEvil4
 ResidentEvil7GoldEdition&VillageGoldEdition
 ResidentEvilCodeVeronica
@@ -68139,12 +68222,14 @@ Rune Ark
 Rune Craft
 Rune Factory: Guardians of Azuma
 Rune Legacy Idle
+Rune Tower Incremental
 RuneArk
 RuneCraft
 RuneFactory:GuardiansofAzuma
 RuneLegacyIdle
 RuneScape: Dragonwilds
 RuneScape:Dragonwilds
+RuneTowerIncremental
 Runeblade Automaton
 RunebladeAutomaton
 Runecraft
@@ -69304,6 +69389,7 @@ SEVEN DAYS UNTIL MORNING
 SEVEN HEARTS
 SEVEN SCARECROWS
 SEVEN SINNERS
+SEVENS
 SEWERCIDE
 SEX & COFFEE ☕️🤎
 SEX ADVENTURES - INCEST FAMILY - EPISODE 8
@@ -69704,6 +69790,7 @@ SHOOTOUT
 SHOOT\'EM\'UP
 SHOOT\EM\UP
 SHOP MISTRESS NTR
+SHOP TOWN DOOTER
 SHOPKEEPER SIMULATOR
 SHOPLIFTER: NO ESCAPE
 SHORE
@@ -70829,6 +70916,7 @@ SOUL CARDS
 SOUL EDGE
 SOUL EYES DEMON: REMAKE EYES
 SOUL MATES
+SOUL MONSTERS CARD GAME
 SOUL REAVER
 SOUL REFLEX
 SOUL RIDERS
@@ -72496,6 +72584,7 @@ SYDNEYDEVELOPMENT
 SYDNEYDEVELOPMENTCORP
 SYLIA
 SYLPHIA
+SYMBOLIKA
 SYMMETRA
 SYMPHONY
 SYMPHONY OF NIGHT
@@ -74063,7 +74152,9 @@ Shooting
 Shooting Medal
 ShootingMedal
 Shop Mistress NTR
+Shop Town Dooter
 ShopMistressNTR
+ShopTownDooter
 Shopkeeper Simulator
 ShopkeeperSimulator
 Shoplifter: No Escape
@@ -75300,6 +75391,7 @@ Soul Cards
 Soul Edge
 Soul Eyes Demon: Remake Eyes
 Soul Mates
+Soul Monsters Card Game
 Soul Reaver
 Soul Reflex
 Soul Riders
@@ -75326,6 +75418,7 @@ SoulCards
 SoulEdge
 SoulEyesDemon:RemakeEyes
 SoulMates
+SoulMonstersCardGame
 SoulReaver
 SoulReflex
 SoulRiders
@@ -77370,6 +77463,7 @@ SydneyDevelopment
 SydneyDevelopmentCorp
 Sylia
 Sylphia
+Symbolika
 Symmetra
 SynSoft
 Synapse
@@ -77942,6 +78036,7 @@ TECHNOSJAPANCORP
 TECHNOSOFT
 TECHTRAP
 TECHWORLD
+TECKEL ADVENTURE
 TECMAGIK
 TECMO
 TECMO BOWL
@@ -78064,6 +78159,7 @@ TELLTALE
 TELLTALE GAMES
 TELLTALEGAMES
 TELSTAR
+TEMLEGEN: SYSTEM BREAKDOWN
 TEMPEST
 TEMPEST 2000
 TEMPEST RISING
@@ -78901,6 +78997,7 @@ THE SOUL COLLECTOR 2 - IDLE GAME
 THE SOVEREIGN
 THE SPACE BETWEEN (SUBATOMIC FORGE)
 THE SPIRAL
+THE SPIRIT WEAVER
 THE SPIRITING AWAY OF SAOONI VILLAGE
 THE SPOOKY ISLAND
 THE SQUIRREL & SEA
@@ -79555,6 +79652,7 @@ TINY TOON ADVENTURES: ACME ALLSTARS
 TINY TOONS WACKY SPORTS
 TINY TREATS
 TINY WHINY ISLAND
+TINY: THE LAST WAYFINDER
 TINYCRAFT TOWN
 TINYKONG
 TINYPAWS
@@ -81144,6 +81242,8 @@ TechnosJapan
 TechnosJapanCorp
 Technosoft
 Techtrap
+Teckel Adventure
+TeckelAdventure
 Tecmo
 Tecmo Bowl
 Tecmo Koei
@@ -81266,6 +81366,8 @@ Telltale
 Telltale Games
 TelltaleGames
 Telstar
+Temlegen: System Breakdown
+Temlegen:SystemBreakdown
 Tempest
 Tempest 2000
 Tempest Rising
@@ -82136,6 +82238,7 @@ The Sovereign
 The Space Between  Subatomic Forge 
 The Space Between (Subatomic Forge)
 The Spiral
+The Spirit Weaver
 The Spiriting Away of Saooni Village
 The Spooky Island
 The Squirrel   Sea
@@ -82813,6 +82916,7 @@ TheSoulCollector2-IdleGame
 TheSovereign
 TheSpaceBetween(SubatomicForge)
 TheSpiral
+TheSpiritWeaver
 TheSpiritingAwayofSaooniVillage
 TheSpookyIsland
 TheSquirrel&Sea
@@ -83330,6 +83434,8 @@ Tiny Toon Adventures: ACME AllStars
 Tiny Toons Wacky Sports
 Tiny Treats
 Tiny Whiny Island
+Tiny: The Last Wayfinder
+Tiny:TheLastWayfinder
 TinyBomberDemo
 TinyBookshop
 TinyBunny
@@ -86959,6 +87065,7 @@ WADDLE DEE WADDLE DEE
 WADDLE DOO
 WADDLE DOO WADDLE DOO
 WADDLE PADDLE
+WADDLE WORDS
 WADDLEDEE
 WADDLEDEELANCE
 WADDLEDEEMATELOT
@@ -87666,6 +87773,7 @@ WINDS OF VALEN
 WINDSTOP STRATEGY
 WINDSWEPT
 WINDWAKER
+WINDY DAY
 WING
 WING COMMANDER
 WING COMMANDER 3
@@ -88042,6 +88150,7 @@ Waddle Dee plume
 Waddle Doo
 Waddle Doo Waddle Doo
 Waddle Paddle
+Waddle Words
 WaddleDee
 WaddleDeeLance
 WaddleDeeMatelot
@@ -88052,6 +88161,7 @@ WaddleDeeplume
 WaddleDoo
 WaddleDooWaddleDoo
 WaddlePaddle
+WaddleWords
 Wade
 Wade Johnson
 WadeJohnson
@@ -88904,6 +89014,8 @@ WindowsXP
 Winds of Valen
 WindsofValen
 Windswept
+Windy Day
+WindyDay
 Wing
 Wing Commander
 Wing Commander 3
@@ -91097,6 +91209,7 @@ a porter story
 a promise best left unkept - aya edition
 a quest to be the best
 a realm of eternity
+a ridiculous waste of time
 a seagull game
 a serene trip demo
 a session with dr. liebnitz - ultimate edition demo
@@ -93423,6 +93536,7 @@ babut
 babut babut
 babutbabut
 baby steps
+baby's day out
 babylon
 babylon rogues
 babylon software
@@ -94515,6 +94629,7 @@ bingo machine
 bingo roulette
 binoteq
 bio
+bio fault
 bio goddess : doomsday begins
 bio inc. redemption
 bio rex
@@ -95490,6 +95605,7 @@ breath of
 breath of fire
 breath of fire 1  2
 breath of fire 1 & 2
+breath of fire iv
 breath of life
 breath of life demo
 breath of the wild
@@ -96483,6 +96599,7 @@ catanks
 catcat
 catch it
 catch me
+catch the light demo
 catching spirits
 catdaddy
 catdaddygames
@@ -97178,6 +97295,7 @@ chronocross
 chronomaze: gravity maze
 chronominion idler
 chronoquartz
+chronosmith's saga
 chronosoft
 chronosurge: echoes of the void
 chronotrigger
@@ -98230,6 +98348,7 @@ crahme
 crahmé
 craig
 craig marduk
+craig's cave
 craigmarduk
 crakos
 cranberry
@@ -99185,6 +99304,7 @@ darunia
 darunmister
 darwin
 darwin 4078
+darwin's paradox!
 darwin4078
 darwinia
 darxun
@@ -99781,6 +99901,7 @@ desktop forest
 desktop golf
 desktop heroes
 desktop immortal
+desktop mate gumi dlc
 desktop mate work cat dlc
 desktop my cat
 desktop pals 2
@@ -104907,6 +105028,7 @@ ghostlight
 ghostly acres
 ghostmoons - arcade
 ghostpublishing
+ghostrunner
 ghosts
 ghosts 'n
 ghosts 'n goblins
@@ -105011,6 +105133,7 @@ glanzelius
 glass
 glass bottle
 glass cannon
+glass cannon defense
 glass masquerade 4: constellations
 glassbottle
 glassbreakers: champions of moss
@@ -105165,6 +105288,7 @@ go bananas!
 go slimey go!
 go to sleep
 go!
+go! go! mister chickums
 go! sloth
 go1
 goa
@@ -106008,6 +106132,7 @@ guthormlesage
 guthrum
 guthrum guthrum
 guthrumguthrum
+gutterpunk
 guy
 guy roux
 guy roux manager
@@ -106023,6 +106148,7 @@ gym camp simulator
 gym simulator
 gyre
 gyroide
+gyropia
 gyruss
 géant
 géante
@@ -107515,6 +107641,7 @@ hypervox
 hyperware
 hyperxfantasy
 hypno halo
+hypnophobia; from your shadow soundtrack
 hypnosis knight-princess
 hypnotic eyes
 hypnotix
@@ -108003,6 +108130,7 @@ incrediblemachine
 incrediblemachinethe
 incredibletechnologies
 incremental dungeon
+incretyper
 incursion
 independance
 independance war
@@ -108817,6 +108945,7 @@ javier davalos
 javierdavalos
 jawless fishtank
 jax
+jax vs. the world
 jaxx blorgin's ufo jam
 jay
 jay norris
@@ -109177,6 +109306,7 @@ juckle juckle
 jucklejuckle
 judgement angel
 juge
+juggle star dx
 jugs bay
 juice
 juice games
@@ -110366,6 +110496,7 @@ kungfufactory
 kungfumaster
 kungjin
 kunglao
+kungpaw
 kunimitsu
 kunio-kun
 kuniokun
@@ -113394,6 +113525,7 @@ medsystems
 medsystemssoftware
 medusa
 meduselectrique
+meepie
 meer's: escape
 meetmeat
 mega
@@ -114538,6 +114670,7 @@ mondo productions
 mondoproductions
 money
 money theft 3 last mission
+moneyclicker
 monica
 monique
 monkee
@@ -120005,6 +120138,7 @@ pyre fiertir
 pyrefiertir
 pyro
 pyro studios
+pyrokite
 pyromaniac
 pyrostudios
 pyrosynchist
@@ -120972,8 +121106,11 @@ resetgame
 resetti
 resident
 resident evil
+resident evil (1996)
 resident evil 2
+resident evil 2 (1998)
 resident evil 3
+resident evil 3 nemesis (1999)
 resident evil 4
 resident evil 7 gold edition & village gold edition
 resident evil code veronica
@@ -121811,6 +121948,7 @@ rune ark
 rune craft
 rune factory: guardians of azuma
 rune legacy idle
+rune tower incremental
 runeblade automaton
 runecraft
 runeomicon: training room
@@ -122849,6 +122987,7 @@ seven days until morning
 seven hearts
 seven scarecrows
 seven sinners
+sevens
 sewercide
 sex & coffee ☕️🤎
 sex adventures - incest family - episode 8
@@ -123212,6 +123351,7 @@ shooting medal
 shootingmedal
 shootout
 shop mistress ntr
+shop town dooter
 shopkeeper simulator
 shoplifter: no escape
 shore
@@ -124291,6 +124431,7 @@ soul cards
 soul edge
 soul eyes demon: remake eyes
 soul mates
+soul monsters card game
 soul reaver
 soul reflex
 soul riders
@@ -125915,6 +126056,7 @@ sydneydevelopment
 sydneydevelopmentcorp
 sylia
 sylphia
+symbolika
 symmetra
 symphony
 symphony of night
@@ -126452,6 +126594,7 @@ technosjapancorp
 technosoft
 techtrap
 techworld
+teckel adventure
 tecmagik
 tecmo
 tecmo bowl
@@ -126571,6 +126714,7 @@ telltale
 telltale games
 telltalegames
 telstar
+temlegen: system breakdown
 tempest
 tempest 2000
 tempest rising
@@ -127395,6 +127539,7 @@ the soul collector 2 - idle game
 the sovereign
 the space between (subatomic forge)
 the spiral
+the spirit weaver
 the spiriting away of saooni village
 the spooky island
 the squirrel & sea
@@ -128035,6 +128180,7 @@ tiny toon adventures: acme allstars
 tiny toons wacky sports
 tiny treats
 tiny whiny island
+tiny: the last wayfinder
 tinycraft town
 tinykong
 tinypaws
@@ -130186,6 +130332,7 @@ waddle dee waddle dee
 waddle doo
 waddle doo waddle doo
 waddle paddle
+waddle words
 waddledee
 waddledeelance
 waddledeematelot
@@ -130867,6 +131014,7 @@ winds of valen
 windstop strategy
 windswept
 windwaker
+windy day
 wing
 wing commander
 wing commander 3
@@ -132921,6 +133069,9 @@ zèbre
 阳光物语
 附中學院79校慶
 除灵事务所
+除邪2 CHUXIE2 
+除邪2(CHUXIE2)
+除邪2(chuxie2)
 雷霆之眼
 霓渊之城：爱神觉醒
 霸世狂刀
