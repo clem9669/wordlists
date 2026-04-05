@@ -272,6 +272,7 @@
 101 CATS HIDDEN IN NAPLES
 101 CATS HIDDEN IN PRAGUE
 101 CATS HIDDEN IN VENICE
+101 CATS IN SAINT PETERSBURG
 101 Cats Hidden in Barcelona
 101 Cats Hidden in Beijing
 101 Cats Hidden in Belgium
@@ -286,6 +287,7 @@
 101 Cats Hidden in Naples
 101 Cats Hidden in Prague
 101 Cats Hidden in Venice
+101 Cats in Saint Petersburg
 101 DOGS HIDDEN
 101 DOGS HIDDEN IN AMSTERDAM
 101 DOGS HIDDEN IN AUSTRALIA
@@ -324,6 +326,7 @@
 101 cats hidden in naples
 101 cats hidden in prague
 101 cats hidden in venice
+101 cats in saint petersburg
 101 dogs hidden
 101 dogs hidden in amsterdam
 101 dogs hidden in australia
@@ -350,6 +353,7 @@
 101CatsHiddeninNaples
 101CatsHiddeninPrague
 101CatsHiddeninVenice
+101CatsinSaintPetersburg
 101DogsHidden
 101DogsHiddeninAmsterdam
 101DogsHiddeninAustralia
@@ -1359,6 +1363,7 @@
 ???? ???
 ???? ????
 ???? ?????
+???? ???????
 ???? AFK Industarry
 ???? Arcane Mahjong
 ???? Demo
@@ -1453,6 +1458,7 @@
 ?????? ~Ogre's Ambition~
 ?????? ~special~
 ??????100?????
+??????:????
 ???????
 ??????? - Demonic Mahjong
 ??????? 44 Hidden Naomis
@@ -3274,6 +3280,7 @@ AQUAPAZZA: AQUAPLUS DREAM MATCH
 AQUAPAZZA: Aquaplus Dream Match
 AQUAPAZZA:AquaplusDreamMatch
 AQUAPLUS
+AQUARIST
 AQUARIST - ASIAN FISH DLC
 AQUILA
 AQUIRIS
@@ -5745,6 +5752,7 @@ AquaPlus
 Aquales
 Aquanima
 Aquaplus
+Aquarist
 Aquarist   Asian Fish DLC
 Aquarist - Asian Fish DLC
 Aquarist-AsianFishDLC
@@ -13044,6 +13052,7 @@ CELESCHERE
 CELESTE
 CELESTIAL
 CELESTIAL ANOMALIES: A COSMIC EXPLORATION OF GRAPHICAL MODELS OF REASONING
+CELESTIAL BOND
 CELESTIAL CITY FANTASY
 CELESTIAL CROWNS
 CELESTIAL DIGITAL
@@ -16072,6 +16081,7 @@ CelesChere
 Celeste
 Celestial
 Celestial Anomalies: A Cosmic Exploration of Graphical Models Of Reasoning
+Celestial Bond
 Celestial City Fantasy
 Celestial Crowns
 Celestial Digital
@@ -16080,6 +16090,7 @@ Celestial Empire Soundtrack
 Celestial Games
 Celestial Visitor
 CelestialAnomalies:ACosmicExplorationofGraphicalModelsOfReasoning
+CelestialBond
 CelestialCityFantasy
 CelestialCrowns
 CelestialDigital
@@ -19290,6 +19301,7 @@ DEADWOOD DRIVE
 DEADZONE: ROGUE
 DEAL ME, DEVIL!
 DEAL WITH THE DEVIL CHAPTER: 2 - FROM TUONELA TO HELL
+DEALER BUST! | ROGUELIKE BLACKJACK
 DEALER'S LIFE LEGEND
 DEAN
 DEAN WINCHELL
@@ -20873,6 +20885,7 @@ DRIVE OUT
 DRIVECRAFT
 DRIVECRAZY
 DRIVER
+DRIVERSION
 DRIVIN
 DRJSSTEINMAN
 DRMARIO
@@ -21774,9 +21787,12 @@ Deal With The Devil Chapter: 2   From Tuonela to Hell
 Deal With The Devil Chapter: 2 - From Tuonela to Hell
 Deal me, Devil!
 DealWithTheDevilChapter:2-FromTuonelatoHell
+Dealer Bust!   Roguelike BlackJack
+Dealer Bust! | Roguelike BlackJack
 Dealer s Life Legend
 Dealer's Life Legend
 Dealer'sLifeLegend
+DealerBust!|RoguelikeBlackJack
 Dealme,Devil!
 Dean
 Dean Winchell
@@ -23667,6 +23683,7 @@ DriveCraft
 DriveCrazy
 DriveOut
 Driver
+Driversion
 Drognan
 Droid Must Deliver
 DroidMustDeliver
@@ -27483,6 +27500,7 @@ FILLINCAFECOLTD
 FILM
 FILMS
 FILTER
+FILTER MODE: COLOR BOOSTER | LIVE WALLPAPER | EYE PROTECTION & COLOR BLINDNESS
 FILTRATION
 FILTRATION SOUNDTRACK
 FINAL
@@ -27670,6 +27688,7 @@ FISH
 FISH 'N SHIPS
 FISH COLLECTOR: AQUARIUM STORY
 FISH GO
+FISH HOUSE SIMULATOR DEMO
 FISH HUNTERS 🐟 SUPPORTER PACK
 FISH HUNTERS: MOST LETHAL FISHING SIMULATOR 🐟
 FISH TO DISH: IDLE SUSHI
@@ -29269,6 +29288,9 @@ FillInCaféCoLtd
 Film
 Films
 Filter
+Filter Mode: Color Booster   Live Wallpaper   Eye Protection   Color Blindness
+Filter Mode: Color Booster | Live Wallpaper | Eye Protection & Color Blindness
+FilterMode:ColorBooster|LiveWallpaper|EyeProtection&ColorBlindness
 Filtration
 Filtration Soundtrack
 FiltrationSoundtrack
@@ -29486,6 +29508,7 @@ Fish  n Ships
 Fish 'n Ships
 Fish Collector: Aquarium Story
 Fish Go
+Fish House Simulator Demo
 Fish Hunters ? Supporter Pack
 Fish Hunters 🐟 Supporter Pack
 Fish Hunters: Most Lethal Fishing Simulator ?
@@ -29494,6 +29517,7 @@ Fish to Dish: Idle Sushi
 Fish'nShips
 FishCollector:AquariumStory
 FishGo
+FishHouseSimulatorDemo
 FishHunters:MostLethalFishingSimulator🐟
 FishHunters🐟SupporterPack
 Fishbone
@@ -31125,6 +31149,7 @@ GELIDGAMES,INC
 GELIDGAMESINC
 GELLDONIA
 GEM
+GEM CRUSH MATCH-3
 GEM GENERIC
 GEM GENERIC LABEL
 GEM HUNTER MATCH
@@ -31997,6 +32022,7 @@ GRAVELIX
 GRAVELLI
 GRAVETHORN
 GRAVICHESS
+GRAVITAS
 GRAVITEE
 GRAVITON FLUX
 GRAVITRIX
@@ -32161,6 +32187,7 @@ GRIN
 GRIND HERO: MMORPG
 GRIND MOMO
 GRINDER
+GRINDMASTER: AUTO CLICKER
 GRINDMOMO
 GRIP
 GRIP GAMES
@@ -32973,12 +33000,15 @@ GelidGames,Inc
 GelidGamesInc
 Gelldonia
 Gem
+Gem Crush Match 3
+Gem Crush Match-3
 Gem Generic
 Gem Generic Label
 Gem Hunter Match
 Gem International
 Gem International Corporation
 Gem Miner TD
+GemCrushMatch-3
 GemGeneric
 GemGenericLabel
 GemHunterMatch
@@ -34062,6 +34092,8 @@ Grimshire
 Grimslair
 Grind Hero: MMORPG
 GrindHero:MMORPG
+GrindMaster: Auto Clicker
+GrindMaster:AutoClicker
 Grinder
 Grip
 Grip Games
@@ -42093,6 +42125,7 @@ KIMONO CATS
 KIN AND QUARRY
 KINDERGARTEN 3
 KINDFOLX
+KINDLING
 KINDRED [HIGH TIDE]
 KINETIC
 KINETIC NEO ORNATE BOUT
@@ -43238,6 +43271,7 @@ KinandQuarry
 KindFolx
 Kindergarten 3
 Kindergarten3
+Kindling
 Kindred [High Tide]
 Kindred[HighTide]
 Kinetic
@@ -44545,6 +44579,7 @@ LEGEND OF SWORDS II
 LEGEND OF THE COIN KNIGHT
 LEGEND OF THE MASTER BAITER ORIGINS: GILLS GONE WILD
 LEGEND OF THE MYSTICAL NINJA
+LEGEND OF YMIR
 LEGEND OF ZELDA
 LEGENDARY
 LEGENDARY  BOOB TRAP DUNGEON
@@ -46432,6 +46467,7 @@ Legend of Heroes: Trails of Cold Steel
 Legend of Kyrandia
 Legend of Mortal Soundtrack Vol.2
 Legend of Swords II
+Legend of YMIR
 Legend of Zelda
 Legend of the Coin Knight
 Legend of the Master Baiter Origins: Gills Gone Wild
@@ -46468,6 +46504,7 @@ LegendofKyrandia
 LegendofKyrandiaThe
 LegendofMortalSoundtrackVol.2
 LegendofSwordsII
+LegendofYMIR
 LegendofZelda
 LegendofZeldaThe
 LegendoftheCoinKnight
@@ -57842,6 +57879,7 @@ OUT OF THE PARK BASEBALL
 OUT OF TIME
 OUT RUN
 OUT!!
+OUTAGE NAVIGATION
 OUTBACK
 OUTBACK PTY
 OUTBACK PTY LTD
@@ -58975,6 +59013,8 @@ Out of the Park Baseball
 Out!!
 OutOfTheBit
 OutRun
+Outage Navigation
+OutageNavigation
 Outback
 Outback Pty
 Outback Pty Ltd
@@ -65999,6 +66039,7 @@ ROCK PAPER CLASH
 ROCK PAPER SCISSORS PARTY DEMO
 ROCK RIDGE
 ROCK RIDGE GAMES
+ROCK THE BLOCK
 ROCK THE RIM
 ROCK-HARD REHAB: HOW TO SURVIVE A HOSPITAL HAREM
 ROCK-PAPER-DEATH
@@ -67914,6 +67955,7 @@ Rock Ridge
 Rock Ridge Games
 Rock and Scroll
 Rock and Stone
+Rock the Block
 Rock the Rim
 Rock-Hard Rehab: How to Survive a Hospital Harem
 Rock-HardRehab:HowtoSurviveaHospitalHarem
@@ -67989,6 +68031,7 @@ RockstarNorth
 RockstarSan
 RockstarSanDiego
 Rocksteady
+RocktheBlock
 RocktheRim
 Rocky
 Rocky Idle
@@ -69059,6 +69102,7 @@ SCEJAPANSTUDIO
 SCEJapan
 SCEJapanStudio
 SCENE INVESTIGATORS
+SCENE NO.0
 SCESANTA
 SCESANTAMONICA
 SCESANTAMONICASTUDIO
@@ -70003,6 +70047,7 @@ SHOW GUTS
 SHOWDOWN
 SHOWDOWN! MAHJONG TUTORIAL INCLUDED
 SHOYU RAMEN FOREVER
+SHRIMPACT
 SHRINE'S LEGACY
 SHRINK ROOMS
 SHROOMS! TOWER DEFENCE
@@ -70129,6 +70174,7 @@ SILENT HILL SHATTERED MEMORIES
 SILENT HILL f
 SILENT HILL f   Digital Deluxe Upgrade
 SILENT HILL f - Digital Deluxe Upgrade
+SILENT HOME
 SILENT HUNTER
 SILENT REEL
 SILENT RESIDENCE
@@ -73335,7 +73381,9 @@ ScaryTogether
 ScatoLogic
 Scav
 Scene Investigators
+Scene No.0
 SceneInvestigators
+SceneNo.0
 Schanz
 Schanz International
 Schanz International Consultants
@@ -74386,6 +74434,7 @@ Showdown! Mahjong Tutorial Included
 Showdown!MahjongTutorialIncluded
 Shoyu Ramen Forever
 ShoyuRamenForever
+Shrimpact
 Shrine s Legacy
 Shrine's Legacy
 Shrine'sLegacy
@@ -74520,6 +74569,7 @@ Silent Seeker
 Silent Service
 Silent Software
 Silent Watcher
+Silent home
 SilentCastle
 SilentCleaning
 SilentCoreNight–HolidayEdition
@@ -74537,6 +74587,7 @@ SilentSeeker
 SilentService
 SilentSoftware
 SilentWatcher
+Silenthome
 Silex
 Silhouette
 Silhouette of Fear
@@ -85321,6 +85372,7 @@ UTHER
 UTHER LIGHTBRINGER
 UTHERLIGHTBRINGER
 UTOPIA
+UTOPIA COLONY
 UTOPIA TECHNOLOGIES
 UTOPIA TECHNOLOGIES INC
 UTOPIATECHNOLOGIES
@@ -85749,8 +85801,10 @@ Uther
 Uther Lightbringer
 UtherLightbringer
 Utopia
+Utopia Colony
 Utopia Technologies
 Utopia Technologies Inc
+UtopiaColony
 UtopiaTechnologies
 UtopiaTechnologiesInc
 V
@@ -86317,6 +86371,7 @@ VISTEC
 VISUAL
 VISUAL CONCEPTS
 VISUAL IMPACT
+VISUAL NOVEL: CALL OF TOILET
 VISUAL SCIENCES
 VISUALCONCEPTS
 VISUALIMPACT
@@ -87118,9 +87173,11 @@ Vistec
 Visual
 Visual Concepts
 Visual Impact
+Visual Novel: Call of Toilet
 Visual Sciences
 VisualConcepts
 VisualImpact
+VisualNovel:CallofToilet
 VisualSciences
 Vita
 Vital Shell
@@ -88253,6 +88310,7 @@ WORLD OF TANKS — KIMONO PACK
 WORLD OF WARCRAFT
 WORLD OF WARSHIPS — PUBLISHER SALE GIFT
 WORLD OF Y
+WORLD POLE STONE DUSK: DIADEM OF THE POLE
 WORLD RALLY
 WORLD RALLY CHAMPIONSHIP
 WORLD WAR CHESS
@@ -89542,6 +89600,7 @@ Workshop
 World
 World Eternal Online
 World Heroes
+World Pole Stone Dusk: Diadem of the Pole
 World Rally
 World Rally Championship
 World War Chess
@@ -89566,6 +89625,7 @@ WorldEternalOnline
 WorldHeroes
 WorldLine: Game Saver
 WorldLine:GameSaver
+WorldPoleStoneDusk:DiademofthePole
 WorldRally
 WorldRallyChampionship
 WorldShadow
@@ -92876,6 +92936,7 @@ aquanox
 aquapacific
 aquapazza: aquaplus dream match
 aquaplus
+aquarist
 aquarist - asian fish dlc
 aquila
 aquiris
@@ -97001,6 +97062,7 @@ celeschere
 celeste
 celestial
 celestial anomalies: a cosmic exploration of graphical models of reasoning
+celestial bond
 celestial city fantasy
 celestial crowns
 celestial digital
@@ -99801,6 +99863,7 @@ deadwood drive
 deadzone: rogue
 deal me, devil!
 deal with the devil chapter: 2 - from tuonela to hell
+dealer bust! | roguelike blackjack
 dealer's life legend
 dean
 dean winchell
@@ -101327,6 +101390,7 @@ drive out
 drivecraft
 drivecrazy
 driver
+driversion
 drivin
 drjssteinman
 drmario
@@ -103521,6 +103585,7 @@ fillincafécoltd
 film
 films
 filter
+filter mode: color booster | live wallpaper | eye protection & color blindness
 filtration
 filtration soundtrack
 final
@@ -103695,6 +103760,7 @@ fish
 fish 'n ships
 fish collector: aquarium story
 fish go
+fish house simulator demo
 fish hunters 🐟 supporter pack
 fish hunters: most lethal fishing simulator 🐟
 fish to dish: idle sushi
@@ -105121,6 +105187,7 @@ gelidgames,inc
 gelidgamesinc
 gelldonia
 gem
+gem crush match-3
 gem generic
 gem generic label
 gem hunter match
@@ -105964,6 +106031,7 @@ gravelix
 gravelli
 gravethorn
 gravichess
+gravitas
 gravitee
 graviton flux
 gravitrix
@@ -106121,6 +106189,7 @@ grin
 grind hero: mmorpg
 grind momo
 grinder
+grindmaster: auto clicker
 grip
 grip games
 gripgames
@@ -110246,6 +110315,7 @@ kimono cats
 kin and quarry
 kindergarten 3
 kindfolx
+kindling
 kindred [high tide]
 kinetic
 kinetic neo ornate bout
@@ -111498,6 +111568,7 @@ legend of swords ii
 legend of the coin knight
 legend of the master baiter origins: gills gone wild
 legend of the mystical ninja
+legend of ymir
 legend of zelda
 legendary
 legendary  boob trap dungeon
@@ -117899,6 +117970,7 @@ out of the park baseball
 out of time
 out run
 out!!
+outage navigation
 outback
 outback pty
 outback pty ltd
@@ -121830,6 +121902,7 @@ rock paper clash
 rock paper scissors party demo
 rock ridge
 rock ridge games
+rock the block
 rock the rim
 rock-hard rehab: how to survive a hospital harem
 rockabilly
@@ -122834,6 +122907,7 @@ scei
 scejapan
 scejapanstudio
 scene investigators
+scene no.0
 scesanta
 scesantamonica
 scesantamonicastudio
@@ -123692,6 +123766,7 @@ show guts
 showdown
 showdown! mahjong tutorial included
 shoyu ramen forever
+shrimpact
 shrine's legacy
 shrink rooms
 shrooms! tower defence
@@ -123809,6 +123884,7 @@ silent hill 2 & silent hill f standard dual pack
 silent hill f
 silent hill f - digital deluxe upgrade
 silent hill shattered memories
+silent home
 silent hunter
 silent reel
 silent residence
@@ -129934,6 +130010,7 @@ uther
 uther lightbringer
 utherlightbringer
 utopia
+utopia colony
 utopia technologies
 utopia technologies inc
 utopiatechnologies
@@ -130484,6 +130561,7 @@ vistec
 visual
 visual concepts
 visual impact
+visual novel: call of toilet
 visual sciences
 visualconcepts
 visualimpact
@@ -131589,6 +131667,7 @@ world of tanks — kimono pack
 world of warcraft
 world of warships — publisher sale gift
 world of y
+world pole stone dusk: diadem of the pole
 world rally
 world rally championship
 world war chess
@@ -132563,6 +132642,8 @@ zèbre
 вторая степень покоя
 на недельку до второго
 петя и волк: дело об артефакте приключений
+عامل المزرعة
+عاملالمزرعة
 ฺBOB TO THE TOP
 ฺBob To The Top
 ฺBobToTheTop
@@ -133058,6 +133139,7 @@ zèbre
 核金风暴(gigaslave）
 桂花落
 桃香（を）ワッショイ
+梦境管理公司：渡魂行者
 梦幻传奇
 棋界新纪元 三维立体作战的 围棋.象棋.中国象棋.国际象棋.五子棋.黑白棋.等
 棋界新纪元三维立体作战的围棋.象棋.中国象棋.国际象棋.五子棋.黑白棋.等
@@ -133199,6 +133281,7 @@ zèbre
 百鬼图鉴-国风·挂机·卡牌·游戏
 皇帝游戏：天下 皇游天下
 皇帝游戏：天下-皇游天下
+盗梦诡探：神鬼出游
 看不见的我们
 矩阵破冰者
 矿物猎人 MINERAL HUNTER
