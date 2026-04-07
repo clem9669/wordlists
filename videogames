@@ -122,7 +122,9 @@
 100 GREECE CATS
 100 Greece Cats
 100 HIDDEN PANDAS: VILLAGE
+100 HONG KONG CATS
 100 Hidden Pandas: Village
+100 Hong Kong Cats
 100 INDIA CATS
 100 INDONESIA CATS
 100 ITALY CATS
@@ -183,6 +185,7 @@
 100 forest cats
 100 greece cats
 100 hidden pandas: village
+100 hong kong cats
 100 india cats
 100 indonesia cats
 100 italy cats
@@ -239,6 +242,7 @@
 100ForestCats
 100GreeceCats
 100HiddenPandas:Village
+100HongKongCats
 100IndiaCats
 100IndonesiaCats
 100ItalyCats
@@ -822,6 +826,8 @@
 3.0.
 3.1
 30
+30 MINUTES TO RESCUE
+30 minutes to rescue
 3000
 3000M TO WHATEVER’S UP THERE
 3000m to Whatever's Up There
@@ -829,6 +835,7 @@
 3000m to whatever’s up there
 3000mtoWhatever’sUpThere
 3096
+30minutestorescue
 31
 31 ROOM
 31 Room
@@ -2540,6 +2547,9 @@ ALEXKIDD
 ALEXSTRASZA
 ALFA
 ALFA SYSTEM
+ALFA: ANTITERROR
+ALFA: Antiterror
+ALFA:Antiterror
 ALFASYSTEM
 ALFRED
 ALFRED LE GRAND
@@ -2574,6 +2584,7 @@ ALIEN RAID
 ALIEN SOLDIER
 ALIEN STORM
 ALIEN TECHNOLOGY
+ALIEN TOGETHER
 ALIEN VIDEO GAME SCIENTIST
 ALIEN VS
 ALIEN VS PREDATOR
@@ -3543,6 +3554,7 @@ AROMA
 ARONDIGHT  ??????
 ARONDIGHT  アロンダイト
 ARONDIGHTアロンダイト
+AROUND THE BLOCK
 AROUND THE WORLD 2: TRAVEL TO CANADA COLLECTOR'S EDITION
 AROUND THE WORLD 5: BEAUTIFUL AMERICA COLLECTOR'S EDITION
 AROYA KNIGHT
@@ -4969,6 +4981,7 @@ Alien Raid
 Alien Soldier
 Alien Storm
 Alien Technology
+Alien Together
 Alien Video Game Scientist
 Alien vs
 Alien vs Predator
@@ -4987,6 +5000,7 @@ AlienRaid
 AlienSoldier
 AlienStorm
 AlienTechnology
+AlienTogether
 AlienVideoGameScientist
 Alienvs
 Alienvs.Predator
@@ -6015,10 +6029,12 @@ Arnowitz Studios
 ArnowitzStudios
 Arnstein
 Aroma
+Around the Block
 Around the World 2: Travel to Canada Collector s Edition
 Around the World 2: Travel to Canada Collector's Edition
 Around the World 5: Beautiful America Collector s Edition
 Around the World 5: Beautiful America Collector's Edition
+AroundtheBlock
 AroundtheWorld2:TraveltoCanadaCollector'sEdition
 AroundtheWorld5:BeautifulAmericaCollector'sEdition
 Aroya Knight
@@ -7261,6 +7277,7 @@ BARRY
 BARTUC
 BASARA
 BASCH
+BASE BREAKERS
 BASEBALL
 BASEBALL LEGACY MANAGER 26
 BASEBALL MOGUL
@@ -7622,6 +7639,7 @@ BELL CORPORATION
 BELL KNIGHT
 BELLCORPORATION
 BELLE
+BELLE CITIQUE
 BELLIC
 BELLWRIGHT
 BELLY
@@ -9877,6 +9895,8 @@ Barry
 Bartuc
 Basara
 Basch
+Base Breakers
+BaseBreakers
 Baseball
 Baseball Legacy Manager 26
 Baseball Mogul
@@ -10292,6 +10312,8 @@ Bell&Hoof:TheSilentJourney
 BellCorporation
 BellKnight
 Belle
+Belle Citique
+BelleCitique
 Bellic
 Bellwright
 Belly
@@ -20656,6 +20678,7 @@ DRAFT DAY SPORTS: COLLEGE BASKETBALL 2026
 DRAFT DAY SPORTS: COLLEGE FOOTBALL 2026
 DRAFT DAY SPORTS: PRO FOOTBALL 2026
 DRAG IT
+DRAG RACING KAOS - "ONE MORE RUN"
 DRAGENAS
 DRAGGIN'
 DRAGIT
@@ -23412,6 +23435,9 @@ Draft Day Sports: Pro Football 2026
 DraftDaySports:CollegeBasketball2026
 DraftDaySports:CollegeFootball2026
 DraftDaySports:ProFootball2026
+Drag Racing Kaos   "One More Run"
+Drag Racing Kaos - "One More Run"
+DragRacingKaos-"OneMoreRun"
 Dragenas
 Draggin 
 Draggin'
@@ -24274,12 +24300,14 @@ ECHO PEAK
 ECHO PROTOCOL: ESCAPE ROOM
 ECHO RE:KILL
 ECHO Re:Kill
+ECHO TOWER
 ECHOES FROM THE SOUL
 ECHOES IN THE DEEP - A FATEFORGE TALE
 ECHOES OF A THREAD
 ECHOES OF BAIKAL
 ECHOES OF FORGOTTEN DREAMS
 ECHOES OF FORGOTTEN DREAMS DIGITAL ART BOOK
+ECHOES OF ISOVIOS: A LEGACY UNDONE
 ECHOES OF MK-ULTRA
 ECHOES OF MYTH
 ECHOES OF RED
@@ -24717,6 +24745,7 @@ ELOHIM ETERNAL II: SON OF MAN
 ELOINTERACTIVE
 ELOQUENT
 ELSEWHERE ELECTRIC
+ELTON MANOR: REQUIEM OF THE CURSED ROSES
 ELTORRO
 ELUNE
 ELVEN DESIRE
@@ -25334,6 +25363,7 @@ EVIL'S VEIL
 EVILSLAYER
 EVILTRAP: PROLOGUE
 EVOCREO
+EVOCREO 2
 EVOGA
 EVOGA ENTERTAINMENT
 EVOGAENTERTAINMENT
@@ -25591,8 +25621,10 @@ Echidna
 Echo
 Echo Peak
 Echo Protocol: Escape Room
+Echo Tower
 EchoPeak
 EchoProtocol:EscapeRoom
+EchoTower
 Echoes From The Soul
 Echoes Runner
 Echoes in the Deep   A Fateforge Tale
@@ -25600,6 +25632,7 @@ Echoes in the Deep - A Fateforge Tale
 Echoes of Baikal
 Echoes of Forgotten Dreams
 Echoes of Forgotten Dreams Digital Art Book
+Echoes of Isovios: A Legacy Undone
 Echoes of MK ULTRA
 Echoes of MK-ULTRA
 Echoes of Myth
@@ -25622,6 +25655,7 @@ EchoesintheDeep-AFateforgeTale
 EchoesofBaikal
 EchoesofForgottenDreams
 EchoesofForgottenDreamsDigitalArtBook
+EchoesofIsovios:ALegacyUndone
 EchoesofMK-ULTRA
 EchoesofMyth
 EchoesofRed
@@ -26052,6 +26086,8 @@ ElohimEternalII:SonofMan
 Eloquent
 Elsewhere Electric
 ElsewhereElectric
+Elton Manor: Requiem of the Cursed Roses
+EltonManor:RequiemoftheCursedRoses
 Eltorro
 Elune
 Elven Desire
@@ -26767,6 +26803,8 @@ EvilSlayer
 EvilTrap: Prologue
 EvilTrap:Prologue
 EvoCreo
+EvoCreo 2
+EvoCreo2
 EvoSprout
 Evoga
 Evoga Entertainment
@@ -27155,6 +27193,7 @@ FANTASISTA ASUKA
 FANTASTIC DANMAKU FESTIVAL PART III SOUNDTRACK
 FANTASTIC FINDINGS HIDDEN SEASONS
 FANTASTIC PETTY
+FANTASTICAL MAZE
 FANTASY
 FANTASY CAR : CAR DESIGN SIMULATOR 造车模拟器
 FANTASY FOREST
@@ -28903,6 +28942,8 @@ Fantastic Petty
 FantasticDanmakuFestivalPartIIISoundtrack
 FantasticFindingsHiddenSeasons
 FantasticPetty
+Fantastical Maze
+FantasticalMaze
 Fantasy
 Fantasy Car : Car Design Simulator ?????
 Fantasy Car : Car Design Simulator 造车模拟器
@@ -35229,6 +35270,7 @@ HERO HAVEN TD
 HERO IN AN ALL-FORGIVING FANTASY WORLD RPG
 HERO OF THE HIVE
 HERO SEEKERS
+HERO SIEGE
 HEROCRAFT
 HEROES
 HEROES BATTLE AWAKENING
@@ -35332,6 +35374,7 @@ HIBOU
 HIBRIDYA
 HICOM
 HIDDEN
+HIDDEN AROUND THE WORLD
 HIDDEN CATS - ICE CREAM DAY
 HIDDEN CATS 10: VALENTINE'S DAY 😻🐾💖
 HIDDEN CATS 10: Valentine s Day 😻🐾💖
@@ -35928,6 +35971,7 @@ HURLY HURLY
 HURLYHURLY
 HURTBOX
 HUSH HUSH - ONLY YOUR LOVE CAN SAVE THEM
+HUSHED
 HUSK
 HUSK SPAWN
 HUSK SPAWN EGG
@@ -36955,12 +36999,14 @@ HermanToothrot
 Hero
 Hero Haven TD
 Hero Seekers
+Hero Siege
 Hero in an All Forgiving Fantasy World RPG
 Hero in an All-Forgiving Fantasy World RPG
 Hero of the Hive
 HeroCraft
 HeroHavenTD
 HeroSeekers
+HeroSiege
 HeroSquare
 Heroes
 Heroes  Call - A Casual MMO Guild Sim
@@ -37110,6 +37156,7 @@ Hidden Portals: Chronicles of the Sunbound Collector s Edition
 Hidden Portals: Chronicles of the Sunbound Collector's Edition
 Hidden Raccoons
 Hidden Through Time
+Hidden around the World
 HiddenCats-IceCreamDay
 HiddenCats:Rome
 HiddenCats:ZombieHunter
@@ -37129,6 +37176,7 @@ HiddenPathEntertainment
 HiddenPortals:ChroniclesoftheSunboundCollector'sEdition
 HiddenRaccoons
 HiddenThroughTime
+HiddenaroundtheWorld
 Hide
 Hideo
 Hideo Shimazu
@@ -42703,6 +42751,7 @@ KUJU
 KUJU ENTERTAINMENT
 KUJUENTERTAINMENT
 KULLE
+KULONIKU: BOWL UP!
 KUMA
 KUMASAMA
 KUMO
@@ -43890,6 +43939,8 @@ Kuju
 Kuju Entertainment
 KujuEntertainment
 Kulle
+KuloNiku: Bowl Up!
+KuloNiku:BowlUp!
 Kuma
 Kumo
 KunKunNest
@@ -44180,6 +44231,7 @@ LAGUNA
 LAGUNA LOIRE
 LAGUNALOIRE
 LAHACHE
+LAIKA'S SPACE DEFENCE
 LAINE
 LAIR
 LAISSE
@@ -44352,6 +44404,7 @@ LAST PRESENCE
 LAST REPORT
 LAST RESORT
 LAST SHIFT
+LAST SHIFT: GAS STATION
 LAST TERM
 LAST VANGUARD
 LAST WAR 2044
@@ -45204,6 +45257,8 @@ LINGXIAOYU
 LINK
 LINK CARTOON
 LINK ENFANT
+LINK PENGUINS
+LINK Penguins
 LINK'S
 LINK'S AWAKENING
 LINK'SAWAKENING
@@ -45212,6 +45267,7 @@ LINKCP
 LINKENFANT
 LINKIETANT
 LINKLE
+LINKPenguins
 LINKS
 LINKS AWAKENING
 LINKSAWAKENING
@@ -45987,6 +46043,9 @@ Laguna
 Laguna Loire
 LagunaLoire
 Lahache
+Laika s Space Defence
+Laika's Space Defence
+Laika'sSpaceDefence
 Laine
 Lair
 Laisse
@@ -46172,6 +46231,7 @@ Last Presence
 Last Report
 Last Resort
 Last Shift
+Last Shift: Gas Station
 Last Term
 Last Vanguard
 Last mile
@@ -46188,6 +46248,7 @@ LastPresence
 LastReport
 LastResort
 LastShift
+LastShift:GasStation
 LastTerm
 LastVanguard
 Lastmile
@@ -48615,6 +48676,7 @@ MARK PARCHEZZI III
 MARK PURAYAH II
 MARK'S POWER
 MARKED SOULS
+MARKET MAYHEM
 MARKETING
 MARKMELTZER
 MARKPARCHEZZIIII
@@ -49061,6 +49123,7 @@ MEETMEAT
 MEGA
 MEGA AMP V1
 MEGA AMP V2
+MEGA BUNNY BLAST 3D
 MEGA DIMENSION RIPPER 9000
 MEGA DRIVE
 MEGA DRIVE 
@@ -50926,6 +50989,7 @@ MY LAST STAND: SURVIVORS
 MY LIFE IN A MONSTER GIRL PARADISE
 MY LIMINAL NIGHTMARE
 MY LITTLE PUPPY
+MY LITTLE SOMEONE
 MY LITTLE SPIDER
 MY LOCAL BEE CULT
 MY LOVE FOR YOU IS EVERMORE
@@ -50972,6 +51036,7 @@ MYLSTAR ELECTRONICS
 MYLSTAR ELECTRONICS INC
 MYLSTARELECTRONICS
 MYLSTARELECTRONICSINC
+MYMEMORY
 MYOSOTIS: MY LIFE IS NOT YOURS TO TAKE
 MYRIAD REALMS: ASCEND TO SAGE
 MYRKWOOD: OFFSHOOT
@@ -51730,6 +51795,8 @@ MarkParchezziIII
 MarkPurayahII
 Marked Souls
 MarkedSouls
+Market Mayhem
+MarketMayhem
 Marketing
 Markofslavery
 Marl
@@ -52210,6 +52277,7 @@ MeetMeat
 Mega
 Mega AMP v1
 Mega AMP v2
+Mega Bunny Blast 3D
 Mega Dimension Ripper 9000
 Mega Drive
 Mega Drive 
@@ -52247,6 +52315,7 @@ Mega-CD-SegaCD
 Mega-Mix
 MegaAMPv1
 MegaAMPv2
+MegaBunnyBlast3D
 MegaCD
 MegaCD 
 MegaCD  Sega
@@ -54181,6 +54250,7 @@ My Last Stand: Survivors
 My Life In A Monster Girl Paradise
 My Liminal Nightmare
 My Little Puppy
+My Little Someone
 My Little Spider
 My Local Bee Cult
 My Love for You is Evermore
@@ -54255,6 +54325,7 @@ MyLastStand:Survivors
 MyLifeInAMonsterGirlParadise
 MyLiminalNightmare
 MyLittlePuppy
+MyLittleSomeone
 MyLittleSpider
 MyLocalBeeCult
 MyLoveforYouisEvermore
@@ -57785,6 +57856,7 @@ ORBITAL OVERDRIVE
 ORBITAL SIEGE
 ORBITALMEDIA
 ORBITEERS
+ORBITMINE
 ORBITOUS
 ORBITSOFT
 ORBLOOM
@@ -57825,6 +57897,7 @@ ORGRIMDOOMHAMMER
 ORIENTED
 ORIENTMAPLE.COM
 ORIENTMAPLECOM
+ORIGAMENT: A PAPER ADVENTURE
 ORIGIN
 ORIGIN SYSTEMS
 ORIGIN8
@@ -58914,6 +58987,7 @@ OrbitalMedia
 OrbitalOverdrive
 OrbitalSiege
 Orbiteers
+Orbitmine
 Orbitous
 Orbloom
 Orbot
@@ -58961,6 +59035,8 @@ OrgrimDoomhammer
 Oriented
 Orientmaple.com
 Orientmaplecom
+Origament: A Paper Adventure
+Origament:APaperAdventure
 Origin
 Origin Systems
 Origin8
@@ -59452,6 +59528,7 @@ PANGEA SOFTWARE
 PANGEASOFTWARE
 PANIC
 PANIC SELL
+PANIC SELL 2
 PANIK
 PANKAKU
 PANOPTICON
@@ -60445,6 +60522,7 @@ PIRANHAGAMES
 PIRANHAPLANT
 PIRATE COVE SIMULATOR
 PIRATE PATROL
+PIRATE PLATOON
 PIRATE'S DUAL
 PIRATEGATE
 PIRATES
@@ -60542,6 +60620,7 @@ PKWAR
 PLACE
 PLACID PLASTIC DECK - A QUIET QUEST
 PLACIDE
+PLAGUE INC: ALIENS & ANTI-VAXXERS
 PLAGUN - The Plague Goes On
 PLAGUN – THE PLAGUE GOES ON
 PLAGUN – The Plague Goes On
@@ -60965,6 +61044,7 @@ POOR ARTIFACT MAKER
 POORARTIFACTMAKER
 POOYAN
 POP
+POP OPTICS
 POP'N
 POP'N MUSIC
 POP'NMUSIC
@@ -61962,7 +62042,9 @@ Pangea Software
 PangeaSoftware
 Panic
 Panic Sell
+Panic Sell 2
 PanicSell
+PanicSell2
 Pankaku
 Panopticon
 Panser
@@ -62943,12 +63025,14 @@ PiranhaGames
 PiranhaPlant
 Pirate Cove Simulator
 Pirate Patrol
+Pirate Platoon
 Pirate s Dual
 Pirate's Dual
 Pirate'sDual
 PirateCoveSimulator
 PirateGate
 PiratePatrol
+PiratePlatoon
 Pirates
 Pirates !
 Pirates de l'espace
@@ -63084,6 +63168,10 @@ Placid Plastic Deck   A Quiet Quest
 Placid Plastic Deck - A Quiet Quest
 PlacidPlasticDeck-AQuietQuest
 Placide
+Plague Inc: Aliens   Anti-Vaxxers
+Plague Inc: Aliens & Anti Vaxxers
+Plague Inc: Aliens & Anti-Vaxxers
+PlagueInc:Aliens&Anti-Vaxxers
 Plain Text Sticky Notes
 PlainTextStickyNotes
 Plan
@@ -63563,12 +63651,14 @@ Pooping Cat
 PoopingCat
 Pooyan
 Pop
+Pop Optics
 Pop'n
 Pop'n Music
 Pop'nMusic
 PopCap
 PopCap Games
 PopCapGames
+PopOptics
 PopTop
 PopTop Software
 PopTopSoftware
@@ -65250,6 +65340,7 @@ RDMOBILE
 RDMobile
 RE ANIMATED
 RE VIVED
+RE'S AUTOCLICK
 RE-ACTIVATED
 RE-ANIMATED
 RE-VIVED
@@ -65976,6 +66067,7 @@ RIX
 RIX SOFT
 RIXSOFT
 RIZAL
+RIZUHURITAN! RHYTHMIC FLIP (RE)TURN
 RK OVERRIDE
 RK Override
 RKOverride
@@ -66996,6 +67088,9 @@ Razorback Developments
 RazorbackDevelopments
 Razorworks
 Re Activated
+Re s AutoClick
+Re's AutoClick
+Re'sAutoClick
 Re-Activated
 Re:Call
 ReCharge RC: High Voltage Demo
@@ -67882,6 +67977,9 @@ Rix
 Rix Soft
 RixSoft
 Rizal
+Rizuhuritan! Rhythmic Flip  Re Turn
+Rizuhuritan! Rhythmic Flip (Re)Turn
+Rizuhuritan!RhythmicFlip(Re)Turn
 RnGesus Slayer
 RnGesusSlayer
 Roach Post
@@ -69937,6 +70035,7 @@ SHEWAS98
 SHI-LONG
 SHI-LONG LANG
 SHI-LONGLANG
+SHIBA BOOP!
 SHIBUYA
 SHIBUYA BULLET
 SHIBUYA INTERACTIVE
@@ -70201,6 +70300,7 @@ SIGMAENTERPRISESINC
 SIGMATEAM
 SIGN
 SIGN CRAFT: SIMULATOR
+SIGNAL ZONE
 SIGNS OF LIFE
 SIGURD
 SIGURD STYRBJORNSON
@@ -74305,6 +74405,8 @@ Shi-LongLang
 ShiLong
 ShiLong Lang
 ShiLongLang
+Shiba Boop!
+ShibaBoop!
 Shibuya
 Shibuya Bullet
 Shibuya Interactive
@@ -74596,6 +74698,8 @@ Sigmateam
 Sign
 Sign Craft: Simulator
 SignCraft:Simulator
+Signal Zone
+SignalZone
 Signs Of Life
 SignsOfLife
 Sigurd
@@ -78800,6 +78904,7 @@ THE CRUCIBALL
 THE CUBE, SAVE US
 THE CUBIC AND THEIR SUPPORTERS
 THE CUNICULUS OF PARADISE
+THE CURE
 THE CURSE OF NORDIC COVE
 THE CURSE WE MADE
 THE CURSED GRAVE
@@ -78835,6 +78940,7 @@ THE DOME SOFTWARE DEVELOPMENTS
 THE DONUT GALLERY
 THE DOOMED KNIGHT
 THE DOUBLE
+THE DRAGON AND THE SWORD
 THE DRAWSTRING DUNGEON
 THE DREADED FOREST
 THE DREAM
@@ -79314,6 +79420,7 @@ THE SPIRAL
 THE SPIRIT WEAVER
 THE SPIRITING AWAY OF SAOONI VILLAGE
 THE SPOOKY ISLAND
+THE SPOTTER: DIG OR DIE
 THE SQUIRREL & SEA
 THE STAIRWELL
 THE STATE OF NOWHERE
@@ -82072,6 +82179,7 @@ The Crimson Lyre
 The Cruciball
 The Cubic and Their Supporters
 The Cuniculus of Paradise
+The Cure
 The Curse We Made
 The Curse of Nordic Cove
 The Cursed Grave
@@ -82104,6 +82212,7 @@ The Dome Software
 The Dome Software Developments
 The Donut Gallery
 The Doomed Knight
+The Dragon and the Sword
 The Drawstring Dungeon
 The Dreaded Forest
 The Dream
@@ -82563,6 +82672,7 @@ The Spiral
 The Spirit Weaver
 The Spiriting Away of Saooni Village
 The Spooky Island
+The Spotter: Dig or Die
 The Squirrel   Sea
 The Squirrel & Sea
 The Stairwell
@@ -82800,6 +82910,7 @@ TheCrimsonLyre
 TheCruciball
 TheCubicandTheirSupporters
 TheCuniculusofParadise
+TheCure
 TheCurseWeMade
 TheCursedGrave
 TheCursedHotel
@@ -82831,6 +82942,7 @@ TheDomeSoftware
 TheDomeSoftwareDevelopments
 TheDonutGallery
 TheDoomedKnight
+TheDragonandtheSword
 TheDrawstringDungeon
 TheDreadedForest
 TheDream
@@ -83249,6 +83361,7 @@ TheSpiral
 TheSpiritWeaver
 TheSpiritingAwayofSaooniVillage
 TheSpookyIsland
+TheSpotter:DigorDie
 TheSquirrel&Sea
 TheStairwell
 TheStateofNowhere
@@ -86585,6 +86698,10 @@ VRLander:LunarEdition
 VRMFRONTVIEW
 VRNaughty
 VROOM
+VRTI   VR Treadmill Interface
+VRTI - VR TREADMILL INTERFACE
+VRTI - VR Treadmill Interface
+VRTI-VRTreadmillInterface
 VRWaifu-Ciel
 VRally
 VRider SBK(TM)
@@ -91510,10 +91627,15 @@ ZÈBRE
 [MURMUR]
 [Mulmiyac] for 3D Motion Sickness
 [Mulmiyac]for3DMotionSickness
+[VLADIMERE LHORE'S] BONE FIRE EFFIGY
+[Vladimere Lhore s] Bone Fire Effigy
+[Vladimere Lhore's] Bone Fire Effigy
+[VladimereLhore's]BoneFireEffigy
 [beat:keeper]
 [don't] let go
 [english] absentedage 2: ghostbound
 [mulmiyac] for 3d motion sickness
+[vladimere lhore's] bone fire effigy
 [开路先锋]
 a
 a Difficult game about Wheelchair
@@ -92283,6 +92405,7 @@ alexkidd
 alexstrasza
 alfa
 alfa system
+alfa: antiterror
 alfasystem
 alfred
 alfred le grand
@@ -92319,6 +92442,7 @@ alien raid
 alien soldier
 alien storm
 alien technology
+alien together
 alien video game scientist
 alien vs
 alien vs predator
@@ -93240,6 +93364,7 @@ arnowitzstudios
 arnstein
 aroma
 arondight  アロンダイト
+around the block
 around the world 2: travel to canada collector's edition
 around the world 5: beautiful america collector's edition
 aroya knight
@@ -94359,6 +94484,7 @@ barry
 bartuc
 basara
 basch
+base breakers
 baseball
 baseball legacy manager 26
 baseball mogul
@@ -94706,6 +94832,7 @@ bell corporation
 bell knight
 bellcorporation
 belle
+belle citique
 bellic
 bellwright
 belly
@@ -101239,6 +101366,7 @@ draft day sports: college basketball 2026
 draft day sports: college football 2026
 draft day sports: pro football 2026
 drag it
+drag racing kaos - "one more run"
 dragenas
 draggin'
 dragnet
@@ -101943,12 +102071,14 @@ echo
 echo peak
 echo protocol: escape room
 echo re:kill
+echo tower
 echoes from the soul
 echoes in the deep - a fateforge tale
 echoes of a thread
 echoes of baikal
 echoes of forgotten dreams
 echoes of forgotten dreams digital art book
+echoes of isovios: a legacy undone
 echoes of mk-ultra
 echoes of myth
 echoes of red
@@ -102368,6 +102498,7 @@ elohim eternal ii: son of man
 elointeractive
 eloquent
 elsewhere electric
+elton manor: requiem of the cursed roses
 eltorro
 elune
 elven desire
@@ -102985,6 +103116,7 @@ evil's veil
 evilslayer
 eviltrap: prologue
 evocreo
+evocreo 2
 evoga
 evoga entertainment
 evogaentertainment
@@ -103327,6 +103459,7 @@ fantasista asuka
 fantastic danmaku festival part iii soundtrack
 fantastic findings hidden seasons
 fantastic petty
+fantastical maze
 fantasy
 fantasy car : car design simulator 造车模拟器
 fantasy forest
@@ -107347,6 +107480,7 @@ hero haven td
 hero in an all-forgiving fantasy world rpg
 hero of the hive
 hero seekers
+hero siege
 herocraft
 heroes
 heroes battle awakening
@@ -107443,6 +107577,7 @@ hibou
 hibridya
 hicom
 hidden
+hidden around the world
 hidden cats - ice cream day
 hidden cats 10: valentine's day 😻🐾💖
 hidden cats 4: aetherpunk
@@ -108013,6 +108148,7 @@ hurly hurly
 hurlyhurly
 hurtbox
 hush hush - only your love can save them
+hushed
 husk
 husk spawn
 husk spawn egg
@@ -110918,6 +111054,7 @@ kuju
 kuju entertainment
 kujuentertainment
 kulle
+kuloniku: bowl up!
 kuma
 kumasama
 kumo
@@ -111188,6 +111325,7 @@ laguna
 laguna loire
 lagunaloire
 lahache
+laika's space defence
 laine
 lair
 laisse
@@ -111386,6 +111524,7 @@ last presence
 last report
 last resort
 last shift
+last shift: gas station
 last term
 last vanguard
 last war 2044
@@ -112233,6 +112372,7 @@ lingxiaoyu
 link
 link cartoon
 link enfant
+link penguins
 link's
 link's awakening
 link'sawakening
@@ -113535,6 +113675,7 @@ mark parchezzi iii
 mark purayah ii
 mark's power
 marked souls
+market mayhem
 marketing
 markmeltzer
 markparchezziiii
@@ -113974,6 +114115,7 @@ meetmeat
 mega
 mega amp v1
 mega amp v2
+mega bunny blast 3d
 mega dimension ripper 9000
 mega drive
 mega drive 
@@ -115776,6 +115918,7 @@ my last stand: survivors
 my life in a monster girl paradise
 my liminal nightmare
 my little puppy
+my little someone
 my little spider
 my local bee cult
 my love for you is evermore
@@ -115820,6 +115963,7 @@ mylstar electronics
 mylstar electronics inc
 mylstarelectronics
 mylstarelectronicsinc
+mymemory
 myosotis: my life is not yours to take
 myriad realms: ascend to sage
 myrkwood: offshoot
@@ -117916,6 +118060,7 @@ orbital overdrive
 orbital siege
 orbitalmedia
 orbiteers
+orbitmine
 orbitous
 orbitsoft
 orbloom
@@ -117956,6 +118101,7 @@ orgrimdoomhammer
 oriented
 orientmaple.com
 orientmaplecom
+origament: a paper adventure
 origin
 origin systems
 origin8
@@ -118376,6 +118522,7 @@ pangea software
 pangeasoftware
 panic
 panic sell
+panic sell 2
 panik
 pankaku
 panopticon
@@ -119320,6 +119467,7 @@ piranhagames
 piranhaplant
 pirate cove simulator
 pirate patrol
+pirate platoon
 pirate's dual
 pirategate
 pirates
@@ -119418,6 +119566,7 @@ pkwar
 place
 placid plastic deck - a quiet quest
 placide
+plague inc: aliens & anti-vaxxers
 plagun – the plague goes on
 plain text sticky notes
 plan
@@ -119853,6 +120002,7 @@ pooping cat
 poor artifact maker
 pooyan
 pop
+pop optics
 pop'n
 pop'n music
 pop'nmusic
@@ -121177,6 +121327,7 @@ rda
 rda systems
 rdasystems
 rdmobile
+re's autoclick
 re-activated
 re-animated
 re-vived
@@ -121877,6 +122028,7 @@ rix
 rix soft
 rixsoft
 rizal
+rizuhuritan! rhythmic flip (re)turn
 rk override
 rlll: tower of choices
 rngesus slayer
@@ -123692,6 +123844,7 @@ sheti
 shi-long
 shi-long lang
 shi-longlang
+shiba boop!
 shibuya
 shibuya bullet
 shibuya interactive
@@ -123944,6 +124097,7 @@ sigmaenterprisesinc
 sigmateam
 sign
 sign craft: simulator
+signal zone
 signs of life
 sigurd
 sigurd styrbjornson
@@ -127520,6 +127674,7 @@ the cruciball
 the cube, save us
 the cubic and their supporters
 the cuniculus of paradise
+the cure
 the curse of nordic cove
 the curse we made
 the cursed grave
@@ -127555,6 +127710,7 @@ the dome software developments
 the donut gallery
 the doomed knight
 the double
+the dragon and the sword
 the drawstring dungeon
 the dreaded forest
 the dream
@@ -128021,6 +128177,7 @@ the spiral
 the spirit weaver
 the spiriting away of saooni village
 the spooky island
+the spotter: dig or die
 the squirrel & sea
 the stairwell
 the state of nowhere
@@ -130778,6 +130935,7 @@ vrcvideocacher
 vrider sbk™
 vrmfrontview
 vroom
+vrti - vr treadmill interface
 vs
 vs.
 vss
@@ -133305,6 +133463,7 @@ zèbre
 漫游后室 Roaming Backrooms
 漫游后室 roaming backrooms
 漫游后室RoamingBackrooms
+潔姊不要停
 火起雪中寺
 灰烬军团 命运协奏曲
 灰烬军团命运协奏曲
