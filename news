@@ -959,6 +959,8 @@ ABFAHRT MÄNNER HEUTE
 ABFAHRT OLYMPIA 2022
 ABFAHRT ZERMATT
 ABInBevkoers
+ABLOSUNG
+ABLÖSUNG
 ABNOUSSE SHALMANI
 ABONDANCE
 ABOU
@@ -21246,6 +21248,7 @@ DESPERATE HOUSEWIVES
 DESSEL
 DESTINATION X
 DESTITUTION MACRON
+DESTITUTION PRESIDENT AMERICAIN
 DETELEGRAAF
 DETROIT LIONS
 DEUIL NATIONAL
@@ -25407,6 +25410,7 @@ ERDBEBEN TÜRKEI ISTANBUL
 ERDBEBENSCHWEIZ
 ERDKERN
 ERDOGAN
+ERDRUTSCH ITALIEN
 ERDRUTSCH MALADERS
 ERDRUTSCH SCHWANDEN
 EREDIVISIE
@@ -29640,6 +29644,7 @@ FRANCE SLOVÉNIE
 FRANCE SUEDE
 FRANCE SUEDE HANDBALL
 FRANCE TELEVISION
+FRANCE TELEVISIONS
 FRANCE TRAVAIL
 FRANCE TRAVAIL CYBERATTAQUE
 FRANCE TUNISIE
@@ -29649,6 +29654,7 @@ FRANCE TV
 FRANCE TV DIRECT
 FRANCE TV SPORT
 FRANCE TV TOUR DE FRANCE
+FRANCE TÉLÉVISIONS
 FRANCE U-20 - PAYS DE GALLES U-20
 FRANCE U-20 – PAYS DE GALLES U-20
 FRANCE UKRAINE
@@ -33420,6 +33426,7 @@ GOLDEN GLOBES 2025
 GOLDEN LION
 GOLDEN STATE VALKYRIES
 GOLDEN STATE WARRIORS
+GOLDIWIL
 GOLDMAN
 GOLDPREIS
 GOLDPREIS CHF
@@ -33974,6 +33981,7 @@ GRÜNER PASS ITALIEN
 GSCHNITZ
 GSTAAD
 GSTAAD OPEN
+GT VS DC
 GTA 6
 GTA 6 RELEASE
 GTA 6 RELEASE DATE
@@ -36330,6 +36338,7 @@ HABECK
 HABIB BEYE
 HABIB MEYER
 HABITAT
+HACKER
 HACKSELMASCHINE
 HADDAD MAIA
 HADES
@@ -38583,6 +38592,7 @@ ILS SONT VIVANTS
 ILSE DE MEULEMEESTER
 ILSE DEGREEF
 ILSE DELANGE
+ILSE VAN HOECKE
 ILTIS
 IM ACADEMY
 IM NETZ DER CAMORRA
@@ -41257,6 +41267,7 @@ JEREMY HUNT
 JEREMY RENNER
 JEREMY RENNER ACCIDENT
 JEREMY RENNER UNFALL
+JEREMY TARAVEL
 JEROEN BROUWERS
 JEROEN LEENDERS
 JEROEN MAES
@@ -44568,6 +44579,7 @@ JÄGERSTUBE ZMUTT
 JÉRÉMIE MAKIESE
 JÉRÉMY CHATELAIN
 JÉRÉMY DOKU
+JÉRÉMY TARAVEL
 JÉRÔME BOATENG
 JÉRÔME CAHUZAC
 JÉRÔME HAMON GREFFE VISAGE
@@ -45024,6 +45036,7 @@ KERK BREE
 KERKRADE
 KERLOUAN
 KERMADEC
+KEROSENE
 KERST
 KERSTBOOM OUDENAARDE
 KERSTIN COOK
@@ -46942,6 +46955,7 @@ KÄSE
 KÄSE RÜCKRUF
 KÄSE RÜCKRUF ALDI
 KÉMI SÉBA
+KÉROSÈNE
 KÉTAMINE
 KÖLN
 KÖLN 50667
@@ -49373,6 +49387,7 @@ LUTON TOWN
 LUTON TOWN - TOTTENHAM
 LUTON TOWN – MANCHESTER CITY
 LUTON TOWN – TOTTENHAM
+LUTTE ANTI-DRONE
 LUTTO NAZIONALE SVIZZERA
 LUTZ PFANNENSTIEL
 LUTZPFANNENSTIEL
@@ -64170,6 +64185,7 @@ OPHéLIEWINTER
 OPI OMI
 OPI-OMI
 OPIOMI
+OPLICHTING
 OPPENHEIMER
 OPPENHEIMER FILM
 OPPO
@@ -66921,6 +66937,7 @@ PREMIER-LEAGUE
 PREMIERE LEAGUE
 PREMIÈRE MINISTRE BRITANNIQUE LIZ TRUSS
 PRESENTATRICE METEO CATHERINE LABORDE
+PRESIDENT
 PRESIDENT FRANCAIS
 PRESIDENT YOON SUK-YEOL
 PRESIDENTIELLE 2022
@@ -76474,6 +76491,7 @@ SKI-WM 2027
 SKIATHLON
 SKIBERGSTEIGEN
 SKICROSS OLYMPIA
+SKIEUR
 SKIFAHREN
 SKIGEBIET
 SKIHÜTTE OBERERBS
@@ -77154,6 +77172,7 @@ ST-NICOLAS
 ST-VALENTIN
 ST. ANTON
 ST. ETIENNE
+ST. GALLEN
 ST. GALLEN - FCB
 ST. GALLEN GEGEN LUZERN
 ST. GALLEN GEGEN SERVETTE
@@ -87260,6 +87279,7 @@ UNFALL HAMBURG JUNGFERNSTIEG
 UNFALL HASLE BEI BURGDORF
 UNFALL HEUTE
 UNFALL HINTERTUXER GLETSCHER
+UNFALL HINWIL
 UNFALL KIND KÖNIZ
 UNFALL KOLLIKEN
 UNFALL KÖLLIKEN
@@ -93661,6 +93681,8 @@ abfahrtkvitfjell2025
 abfahrtmannerheute
 abfahrtmännerheute
 abinbev
+ablosung
+ablösung
 abnousse shalmani
 abondance
 abou
@@ -101533,6 +101555,7 @@ charlotte vandermeersch
 charlotte würdig
 charlottearnould
 charlottecardin
+charlottedeturckheim
 charlottegriffiths
 charlottelebon
 charlottetimmers
@@ -103437,6 +103460,8 @@ cyril lignac
 cyril linette
 cyril ngonge
 cyrildetaeye
+cyrilferaud
+cyrilféraud
 cyrilhanouna
 cyrillignac
 cystische fibrose
@@ -104358,6 +104383,8 @@ desrayonsetdesombres
 dessel
 destination x
 destitution macron
+destitution president americain
+destitutionpresidentamericain
 destrainspascommelesautresbelgique
 detelegraaf
 detijd
@@ -106482,8 +106509,10 @@ erdbebentürkei
 erdbebentürkeiistanbul
 erdkern
 erdogan
+erdrutsch italien
 erdrutsch maladers
 erdrutsch schwanden
+erdrutschitalien
 erdrutschmaladers
 eredivisie
 erfan soltani
@@ -108704,6 +108733,7 @@ france slovénie
 france suede
 france suede handball
 france television
+france televisions
 france travail
 france travail cyberattaque
 france tunisie
@@ -108713,6 +108743,7 @@ france tv
 france tv direct
 france tv sport
 france tv tour de france
+france télévisions
 france u-20 - pays de galles u-20
 france u-20 – pays de galles u-20
 france u20 - pays de galles u20
@@ -108819,10 +108850,12 @@ francesco giorgi
 francestiafoe
 francesuisse
 francetelevision
+francetelevisions
 francetv
 francetvdirect
 francetvsport
 francetvtourdefrance
+francetélévisions
 franceu-20-paysdegallesu-20
 franceu-20–paysdegallesu-20
 france–suisse
@@ -110399,6 +110432,7 @@ golden lion
 golden state valkyries
 golden state warriors
 goldenstatevalkyries
+goldiwil
 goldman
 goldpreis
 goldpreis chf
@@ -111051,6 +111085,7 @@ grünerfeuerball
 gschnitz
 gstaad
 gstaad open
+gt vs dc
 gta 6
 gta 6 release
 gta 6 release date
@@ -111062,6 +111097,7 @@ gta6release
 gta6releasedate
 gtav
 gtavi
+gtvsdc
 guadeloupe
 guangdong
 guantanamo
@@ -111351,6 +111387,7 @@ habeck
 habib beye
 habib meyer
 habitat
+hacker
 hackselmaschine
 haddad maia
 hades
@@ -112753,6 +112790,8 @@ ils sont vivants
 ilse de meulemeester
 ilse degreef
 ilse delange
+ilse van hoecke
+ilsevanhoecke
 iltis
 im academy
 im netz der camorra
@@ -113726,6 +113765,7 @@ j'accuse
 j'irai au bout de mes rêves
 j. bernardt
 j.d. vance
+j.d.vance
 j.k. rowling
 ja drancy – nantes
 ja morant
@@ -114482,7 +114522,9 @@ jeremy hunt
 jeremy renner
 jeremy renner accident
 jeremy renner unfall
+jeremy taravel
 jeremyrenner
+jeremytaravel
 jeroen brouwers
 jeroen leenders
 jeroen maes
@@ -115560,6 +115602,8 @@ jägerstubezmutt
 jérémie makiese
 jérémy chatelain
 jérémy doku
+jérémy taravel
+jérémytaravel
 jérôme boateng
 jérôme cahuzac
 jérôme hamon greffe visage
@@ -116063,6 +116107,7 @@ kerk bree
 kerkrade
 kerlouan
 kermadec
+kerosene
 kerst
 kerstboom oudenaarde
 kerstin cook
@@ -116769,6 +116814,7 @@ käse rückruf aldi
 käserückruf
 käserückrufaldi
 kémi séba
+kérosène
 kétamine
 köln
 köln 50667
@@ -119595,6 +119641,9 @@ luton town – manchester city
 luton town – tottenham
 lutontown-tottenham
 lutontown–tottenham
+lutte anti-drone
+lutte antidrone
+lutteanti-drone
 lutto nazionale svizzera
 luttonazionalesvizzera
 lutz pfannenstiel
@@ -125510,6 +125559,7 @@ ophéliewinter
 opi omi
 opi-omi
 opiomi
+oplichting
 oppenheimer
 oppenheimer film
 oppenheimerfilm
@@ -127206,6 +127256,7 @@ pitbullkonzertschweiz
 pitbullsportpaleis
 pithiviers
 piton de la fournaise
+pitondelafournaise
 piuro
 pius schwizer
 pius suter
@@ -127760,6 +127811,7 @@ premierleaguedarts
 première ministre britannique liz truss
 presentatrice meteo catherine laborde
 presentatricemeteocatherinelaborde
+president
 president francais
 president yoon suk-yeol
 presidentielle 2022
@@ -132328,6 +132380,7 @@ skialpinbeavercreekabfahrt
 skiathlon
 skibergsteigen
 skicross olympia
+skieur
 skifahren
 skigebiet
 skihütte obererbs
@@ -133100,6 +133153,7 @@ st-nicolas
 st-valentin
 st. anton
 st. etienne
+st. gallen
 st. gallen - fcb
 st. gallen gegen luzern
 st. gallen gegen servette
@@ -136956,6 +137010,7 @@ unfall hamburg jungfernstieg
 unfall hasle bei burgdorf
 unfall heute
 unfall hintertuxer gletscher
+unfall hinwil
 unfall kind köniz
 unfall kolliken
 unfall kölliken
@@ -137000,6 +137055,7 @@ unfallgutschbahnluzern
 unfallgütschbahnluzern
 unfallhaslebeiburgdorf
 unfallhintertuxergletscher
+unfallhinwil
 unfallkolliken
 unfallkölliken
 unfalllengnauag
