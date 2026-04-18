@@ -2965,6 +2965,7 @@ ANTWERP - ANDERLECHT
 ANTWERP - CHARLEROI
 ANTWERP - CLUB BRUGGE
 ANTWERP - MECHELEN
+ANTWERP - OHL
 ANTWERP - OMONIA
 ANTWERP - UNION
 ANTWERP - ZULTE-WAREGEM
@@ -15683,6 +15684,7 @@ CHRISTIAN SILVAIN
 CHRISTIAN STREICH
 CHRISTIAN VAN EYKEN
 CHRISTIAN WITZIG
+CHRISTIAN WOLF
 CHRISTIANE BRUNNER
 CHRISTIANE F
 CHRISTIANE HÖRBIGER
@@ -16959,6 +16961,7 @@ CYLE LARIN
 CYNDI LAUPER
 CYNTHIA BOLINGO
 CYNTHIA FLEURY
+CYPRIEN
 CYPRIEN 12 COUPS DE MIDI
 CYPRIEN ETOILE MYSTERIEUSE
 CYPRIEN SARRAZIN
@@ -21295,6 +21298,7 @@ DESTITUTION MACRON
 DESTITUTION PRESIDENT AMERICAIN
 DETELEGRAAF
 DETROIT
+DETROIT D'ORMUZ
 DETROIT LIONS
 DEUIL NATIONAL
 DEUIL NATIONAL BELGIQUE
@@ -24446,6 +24450,7 @@ DÉPUTÉE RN CHRISTINE ENGRAND
 DÉSIGNÉ COUPABLE
 DÉSIRÉ DOUÉ
 DÉTROIT
+DÉTROIT D'ORMUZ
 DÔME DE CHALEUR
 DÜNEN-UNGLÜCK DÄNEMARK
 DÜNYA KADINLAR GÜNÜ
@@ -25662,6 +25667,7 @@ ESPANYOL – ATLÉTICO MADRID
 ESPANYOL – CELTA VIGO
 ESPANYOL – REAL
 ESPANYOL – REAL MADRID
+ESPERANCE
 ESPINASSE-VOZELLE
 ESPOSITO
 ESPRIT
@@ -29433,6 +29439,7 @@ FLYER HUTTWIL
 FLYING TIGER
 FLeche wallonne 2023
 FLechewallonne2023
+FLÈCHE BRABANÇONNE
 FLÜELAPASS
 FLÜGE
 FLÜGE BALI VULKANAUSBRUCH
@@ -36978,6 +36985,8 @@ HILDE VAUTMANS
 HILLARY CLINTON
 HIMARS
 HINDLEY
+HIPP BABYNAHRUNG RUCKRUF
+HIPP BABYNAHRUNG RÜCKRUF
 HIPPO
 HIPPOCRATE
 HIPPOCRATE SAISON 3
@@ -37045,6 +37054,7 @@ HOEI
 HOEILAART
 HOF VAN CLEVE
 HOFFENHEIM - BAYERN
+HOFFENHEIM - DORTMUND
 HOFFENHEIM - EINTRACHT FRANCFORT
 HOFFENHEIM - MAINZ
 HOFFENHEIM - MAINZ 05
@@ -39151,6 +39161,7 @@ IRAN  VERENIGDE STATEN
 IRAN ALI KHAMENEI
 IRAN ANGRIFF KATAR
 IRAN ATTAQUE ISRAEL
+IRAN DETROIT ORMUZ
 IRAN EXPLOSION HAFEN
 IRAN ISRAEL
 IRAN ISRAEL AKTUELL
@@ -39429,6 +39440,7 @@ ITALIEWALES
 ITALIEZWITSERLAND
 ITALIe  WALES
 ITALIeWALES
+ITALIË
 ITALIË  BELGIË
 ITALIË  WALES
 ITALIË  ZWITSERLAND
@@ -45504,6 +45516,7 @@ KORDA
 KORENSLANG
 KORIAN
 KORNEEL DE CLERCQ
+KORRESPONDENT
 KORSIKA
 KORSIKA: STREIK
 KORTRIJK
@@ -48087,11 +48100,13 @@ LEEDS UNITED
 LEEDS UNITED - ASTON VILLA
 LEEDS UNITED - BOURNEMOUTH
 LEEDS UNITED - MANCHESTER UNITED
+LEEDS UNITED - WOLVES
 LEEDS UNITED – ARSENAL
 LEEDS UNITED – ASTON VILLA
 LEEDS UNITED – BOURNEMOUTH
 LEEDS UNITED – MANCHESTER CITY
 LEEDS UNITED – MANCHESTER UNITED
+LEEDS UNITED – WOLVES
 LEEDS – TOTTENHAM
 LEEKANGIN
 LEEN BAKKER
@@ -48456,6 +48471,7 @@ LEVANTE – REAL
 LEVERKUSEN
 LEVERKUSEN  CLUB BRUGGE
 LEVERKUSEN  PORTO
+LEVERKUSEN - AUGSBURG
 LEVERKUSEN - BAYERN
 LEVERKUSEN - DORTMUND
 LEVERKUSEN - HOFFENHEIM
@@ -48469,6 +48485,7 @@ LEVERKUSEN GEGEN RB LEIPZIG
 LEVERKUSEN GEGEN VFB STUTTGART
 LEVERKUSEN QARABAG
 LEVERKUSEN – ATLÉTICO MADRID
+LEVERKUSEN – AUGSBURG
 LEVERKUSEN – BAYERN
 LEVERKUSEN – DORTMUND
 LEVERKUSEN – ELVERSBERG
@@ -71173,6 +71190,7 @@ RC Lens
 RC VANNES
 RC Vannes
 RCB VS CSK
+RCB VS DC
 RCLens
 RCT
 RCV
@@ -76408,6 +76426,7 @@ SID WILSON
 SIDA
 SIDEGRO
 SIDELINED 2
+SIDEMEN CHARITY MATCH 2026
 SIDEP
 SIDHARTH SHUKLA
 SIDNEY POITIER
@@ -78145,6 +78164,8 @@ SVWehengegenDortmund
 SVWehengegenRBLeipzig
 SWAN ET NEO
 SWANN ARLAUD
+SWANSEA - SOUTHAMPTON
+SWANSEA – SOUTHAMPTON
 SWATCH
 SWATCH AKTIE
 SWATCH BLANCPAIN
@@ -87118,6 +87139,7 @@ UDINESE  ROMA
 UDINESE - ATALANTA
 UDINESE - INTER
 UDINESE - NAPLES
+UDINESE - PARMA
 UDINESE GEGEN ROMA
 UDINESE NAPOLI
 UDINESE ROMA
@@ -96223,6 +96245,7 @@ antwerp  genk
 antwerp  gent
 antwerp  lillestrøm
 antwerp  mechelen
+antwerp  ohl
 antwerp  oostende
 antwerp  union
 antwerp  westerlo
@@ -96234,6 +96257,7 @@ antwerp - anderlecht
 antwerp - charleroi
 antwerp - club brugge
 antwerp - mechelen
+antwerp - ohl
 antwerp - omonia
 antwerp - union
 antwerp - zulte-waregem
@@ -96260,6 +96284,7 @@ antwerp-charleroi
 antwerp-club brugge
 antwerp-clubbrugge
 antwerp-mechelen
+antwerp-ohl
 antwerp-union
 antwerp-zulte-waregem
 antwerp. anderlecht
@@ -102117,6 +102142,7 @@ christian silvain
 christian streich
 christian van eyken
 christian witzig
+christian wolf
 christianbale
 christianbercaits
 christianberçaïts
@@ -102133,6 +102159,7 @@ christianhorner
 christianmorin
 christiannegre
 christiannègre
+christianwolf
 christin okpara
 christin stark
 christina aguilera
@@ -103687,6 +103714,7 @@ cyle larin
 cyndi lauper
 cynthia bolingo
 cynthia fleury
+cyprien
 cyprien 12 coups de midi
 cyprien etoile mysterieuse
 cyprien sarrazin
@@ -104642,7 +104670,10 @@ detelegraaf
 detijd
 detijdloze
 detroit
+detroit d'ormuz
+detroit dormuz
 detroit lions
+detroitd'ormuz
 deuil national
 deuil national belgique
 deutsch französischer freundschaftspass
@@ -105684,6 +105715,9 @@ députée rn christine engrand
 désigné coupable
 désiré doué
 détroit
+détroit d'ormuz
+détroit dormuz
+détroitd'ormuz
 dôme de chaleur
 dômedechaleur
 dünen-unglück dänemark
@@ -106987,6 +107021,7 @@ espanyol – real madrid
 espanyol-celtavigo
 espanyol–ath.bilbao
 espanyol–celtavigo
+esperance
 espinasse-vozelle
 esposito
 esprit
@@ -108712,6 +108747,8 @@ fly
 flyer
 flyer huttwil
 flying tiger
+flèche brabançonne
+flèchebrabançonne
 flüelapass
 flüge
 flüge bali vulkanausbruch
@@ -112371,6 +112408,10 @@ hildecrevits
 hillary clinton
 himars
 hindley
+hipp babynahrung ruckruf
+hipp babynahrung rückruf
+hippbabynahrungruckruf
+hippbabynahrungrückruf
 hippo
 hippocrate
 hippocrate saison 3
@@ -112451,6 +112492,7 @@ hoei
 hoeilaart
 hof van cleve
 hoffenheim - bayern
+hoffenheim - dortmund
 hoffenheim - eintracht francfort
 hoffenheim - mainz
 hoffenheim - mainz 05
@@ -112463,6 +112505,7 @@ hoffenheim – eintracht francfort
 hoffenheim – mainz
 hoffenheim – mainz 05
 hoffenheim-bayern
+hoffenheim-dortmund
 hoffenheim-eintrachtfrancfort
 hoffenheim-mainz
 hoffenheim-mainz05
@@ -113693,6 +113736,7 @@ iran  verenigde staten
 iran ali khamenei
 iran angriff katar
 iran attaque israel
+iran detroit ormuz
 iran explosion hafen
 iran israel
 iran israel aktuell
@@ -113709,6 +113753,7 @@ iran vs usa
 iran – états-unis
 iranalikhamenei
 iranangriffkatar
+irandetroitormuz
 iranexplosionhafen
 iranische raketen
 iranischeraketen
@@ -114024,6 +114069,7 @@ italiespanje
 italiesuisse
 italiewales
 italiezwitserland
+italië
 italië  belgië
 italië  wales
 italië  zwitserland
@@ -116885,6 +116931,7 @@ korenslang
 korian
 korneel de clercq
 korneeldeclercq
+korrespondent
 korsika
 korsika: streik
 kortrijk
@@ -118275,11 +118322,13 @@ leeds united
 leeds united - aston villa
 leeds united - bournemouth
 leeds united - manchester united
+leeds united - wolves
 leeds united – arsenal
 leeds united – aston villa
 leeds united – bournemouth
 leeds united – manchester city
 leeds united – manchester united
+leeds united – wolves
 leeds – tottenham
 leeds-manutd
 leeds-tottenham
@@ -118287,9 +118336,11 @@ leedsunited
 leedsunited-astonvilla
 leedsunited-bournemouth
 leedsunited-manchesterunited
+leedsunited-wolves
 leedsunited–astonvilla
 leedsunited–bournemouth
 leedsunited–manchesterunited
+leedsunited–wolves
 leeds–tottenham
 leekangin
 leen bakker
@@ -118752,6 +118803,7 @@ leverkusen
 leverkusen  bayern
 leverkusen  club brugge
 leverkusen  porto
+leverkusen - augsburg
 leverkusen - bayern
 leverkusen - dortmund
 leverkusen - hoffenheim
@@ -118765,6 +118817,7 @@ leverkusen gegen rb leipzig
 leverkusen gegen vfb stuttgart
 leverkusen qarabag
 leverkusen – atlético madrid
+leverkusen – augsburg
 leverkusen – bayern
 leverkusen – dortmund
 leverkusen – elversberg
@@ -118779,10 +118832,12 @@ leverkusen – union berlin
 leverkusen – vfb stuttgart
 leverkusen – west ham
 leverkusen – wolfsburg
+leverkusen-augsburg
 leverkusen-bayern
 leverkusen-dortmund
 leverkusen-hoffenheim
 leverkusen-mainz05
+leverkusen–augsburg
 leverkusen–bayern
 leverkusen–dortmund
 leverkusen–hoffenheim
@@ -129308,7 +129363,9 @@ rbsalzburg–ried
 rc lens
 rc vannes
 rcb vs csk
+rcb vs dc
 rcbvscsk
+rcbvsdc
 rct
 rcv
 rd congo - benin
@@ -132555,6 +132612,8 @@ sida
 sidegro
 sidelined 2
 sidelined2
+sidemen charity match 2026
+sidemencharitymatch2026
 sidep
 sidharth shukla
 sidney poitier
@@ -134598,6 +134657,10 @@ svp
 swan et neo
 swann arlaud
 swannarlaud
+swansea - southampton
+swansea – southampton
+swansea-southampton
+swansea–southampton
 swatch
 swatch aktie
 swatch blancpain
@@ -137182,10 +137245,12 @@ uclouvain
 ucm
 udinese  inter
 udinese  milan
+udinese  parma
 udinese  roma
 udinese - atalanta
 udinese - inter
 udinese - naples
+udinese - parma
 udinese gegen roma
 udinese napoli
 udinese roma
@@ -137199,6 +137264,7 @@ udinese – roma
 udinese-atalanta
 udinese-inter
 udinese-naples
+udinese-parma
 udinese–atalanta
 udinese–hellasvérone
 udinese–inter
