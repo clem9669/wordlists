@@ -1896,6 +1896,7 @@ ABSURDINTERACTIVE
 ABYLIGHT
 ABYSS
 ABYSS BISTRO
+ABYSS CARDS
 ABYSS CHASER
 ABYSS DUNGEON
 ABYSS ESCHATON SURVIVORS
@@ -2712,6 +2713,7 @@ ALMOSTHUMAN
 ALMOSTHUMANGAMES
 ALOFT
 ALONE
+ALONE AMONG THE RUINS
 ALONE IN THE
 ALONE IN THE DARK
 ALONE: SHATTERED TRIBES
@@ -4384,6 +4386,7 @@ AbsurdStory:BackHome
 Abylight
 Abyss
 Abyss Bistro
+Abyss Cards
 Abyss Chaser
 Abyss Dungeon
 Abyss Eschaton Survivors
@@ -4391,6 +4394,7 @@ Abyss Game
 Abyss Manager Idle
 Abyss Protection
 AbyssBistro
+AbyssCards
 AbyssChaser
 AbyssDungeon
 AbyssEschatonSurvivors
@@ -5152,10 +5156,12 @@ AlmostHumanGames
 Almostcertaindeath.
 Aloft
 Alone
+Alone Among the Ruins
 Alone in the
 Alone in the Dark
 Alone: Shattered Tribes
 Alone:ShatteredTribes
+AloneAmongtheRuins
 Aloneinthe
 AloneintheDark
 Along Came a Dragonfly
@@ -14885,6 +14891,7 @@ CRAFT THE WORLD - MAGIC MIRROR
 CRAFTAE
 CRAFTCRAFT: FANTASY MERCHANT SIMULATOR
 CRAFTER'S HOLLOW
+CRAFTIA ELEMENTS
 CRAFTING IN BERXLEY
 CRAFTLINGS
 CRAFTS
@@ -18210,6 +18217,8 @@ CraftTheWorld-MagicMirror
 Crafter s Hollow
 Crafter's Hollow
 Crafter'sHollow
+Craftia Elements
+CraftiaElements
 Crafting in Berxley
 CraftinginBerxley
 Craftlings
@@ -24579,6 +24588,7 @@ ECCOTHE
 ECCOTHEDOLPHIN
 ECHIDNA
 ECHO
+ECHO 91
 ECHO PEAK
 ECHO PROTOCOL: ESCAPE ROOM
 ECHO RE:KILL
@@ -25913,9 +25923,11 @@ Eccothe
 EccotheDolphin
 Echidna
 Echo
+Echo 91
 Echo Peak
 Echo Protocol: Escape Room
 Echo Tower
+Echo91
 EchoChamber: Not Welcome
 EchoChamber:NotWelcome
 EchoPeak
@@ -31187,6 +31199,7 @@ GALACTA KNIGHT
 GALACTA KNIGHT GALACTA KNIGHT
 GALACTAKNIGHT
 GALACTAKNIGHTGALACTAKNIGHT
+GALACTIC CONFLICT
 GALACTIC CONQUEST
 GALACTIC GLITCH
 GALACTIC OUTLAWS
@@ -32577,6 +32590,7 @@ GREVE GRAPHICS
 GREVEGRAPHICS
 GREY
 GREY BOX
+GREY HACK
 GREYBOX
 GREZZO
 GREat
@@ -33018,11 +33032,13 @@ Galacta Knight
 Galacta Knight Galacta Knight
 GalactaKnight
 GalactaKnightGalactaKnight
+Galactic Conflict
 Galactic Conquest
 Galactic Glitch
 Galactic Outlaws
 Galactic Pawns
 Galactic Vault
+GalacticConflict
 GalacticConquest
 GalacticGlitch
 GalacticOutlaws
@@ -34517,7 +34533,9 @@ Greve Graphics
 GreveGraphics
 Grey
 Grey Box
+Grey Hack
 GreyBox
+GreyHack
 Grezzo
 GridFall: Nine Grid
 GridFall: Nine-Grid
@@ -34957,6 +34975,7 @@ HACKER JACK
 HACKER SIMULATOR
 HACKERINTERNATIONAL
 HACKERJACK
+HACKERS: THE REVOLUTION BEGINS
 HACKGU
 HACKHACK
 HACKNET
@@ -36522,6 +36541,8 @@ Hacker Simulator
 HackerInternational
 HackerJack
 HackerSimulator
+Hackers: The Revolution Begins
+Hackers:TheRevolutionBegins
 Hacknet
 Hacksaw Massacre
 HacksawMassacre
@@ -46110,6 +46131,8 @@ LOOT LINE - SEASON 2
 LOOT OF BAAL
 LOOT OF IDLE
 LOOT SCOOT
+LOOT TYCOON
+LOOT TYCOON - SUPPORTER PACK
 LOOTERS
 LOOTMAGE
 LOPEZ
@@ -46383,6 +46406,7 @@ LULU
 LUMA
 LUMBER AND PLUNDER
 LUMBER VALLEY
+LUMENA
 LUMENKNIGHT
 LUMIERE
 LUMINARIA: DARK ECHOES
@@ -48107,6 +48131,9 @@ Loot Line
 Loot Line   Season 2
 Loot Line - Season 2
 Loot Scoot
+Loot Tycoon
+Loot Tycoon   Supporter Pack
+Loot Tycoon - Supporter Pack
 Loot of Baal
 Loot of Idle
 Loot&Ledger
@@ -48115,6 +48142,8 @@ LootLine
 LootLine-Season2
 LootMage
 LootScoot
+LootTycoon
+LootTycoon-SupporterPack
 Looters
 LootofBaal
 LootofIdle
@@ -48461,6 +48490,7 @@ Lumber and Plunder
 LumberValley
 LumberandPlunder
 LumenKnight
+Lumena
 Luminaria: Dark Echoes
 Luminaria:DarkEchoes
 Lumines
@@ -60673,6 +60703,7 @@ PCMSDOS
 PCStoreSimulator
 PDAMILL
 PDAMill
+PEACE INCARNATE
 PEACEFUL FARM
 PEACEQUARIUM
 PEACH
@@ -60918,6 +60949,7 @@ PGATOUR2K25ClubhousePassPremiumSeason6
 PGATOUR3
 PGATour
 PGATour3
+PHAIROS STUDIO
 PHAN
 PHAN PHAN
 PHAN PHAN PHAN PHAN
@@ -62088,6 +62120,7 @@ PRISMARINECRYSTALS
 PRISMARINESHARD
 PRISMKIKAKU
 PRISON ESCAPE SIMULATOR
+PRISON GLOW
 PRISON LOVE
 PRISON MINER
 PRISON OUT
@@ -63164,6 +63197,8 @@ Payout   Shop Simulator
 Payout - Shop Simulator
 Payout-ShopSimulator
 Payroll
+Peace Incarnate
+PeaceIncarnate
 Peaceful Farm
 PeacefulFarm
 Peacequarium
@@ -63407,6 +63442,8 @@ Petroglyph
 Petrov
 PetsIdle
 Petz
+Phairos Studio
+PhairosStudio
 Phan
 Phan Phan
 Phan Phan Phan Phan
@@ -64766,9 +64803,11 @@ PrismarineCrystals
 PrismarineShard
 PrismofYou
 Prison Escape Simulator
+Prison Glow
 Prison Miner
 Prison Out
 PrisonEscapeSimulator
+PrisonGlow
 PrisonMiner
 PrisonOut
 Prisonela MD
@@ -69636,6 +69675,7 @@ SAD CAT SOFTWARE
 SAD VIRUS DARKLAND
 SAD VIRUS HORROR
 SAD VIRUS JUNGLE
+SAD VIRUS MILITARY
 SAD VIRUS SHITCOIN
 SAD VIRUS SPACE
 SADA
@@ -70764,6 +70804,7 @@ SHANG
 SHANG TSUNG
 SHANGHAI
 SHANGTSUNG
+SHANHAI RANCH
 SHANTAE
 SHANTYTOWN
 SHAO
@@ -71996,6 +72037,7 @@ SOMEDAY YOULL GET THERE(언젠가는 도착해)
 SOMEONE CREEPY
 SOMETHING AWFUL: STATIC
 SOMETIMES TOAST IS O.K.
+SOMNIUM
 SOMNOLENCE
 SON OF THE EXORCIST
 SON-HIT ORIGINS
@@ -72262,6 +72304,7 @@ SPACE LORA - ADULT ONLY
 SPACE MAMA
 SPACE MANBOW
 SPACE MEMORY: CHINCHILLAS
+SPACE MEMORY: FAIRIES
 SPACE MEMORY: MUSHROOMS
 SPACE MEMORY: PREDATORS
 SPACE MENACE 2
@@ -73977,6 +74020,7 @@ Sad Cat Software
 Sad Virus Darkland
 Sad Virus Horror
 Sad Virus Jungle
+Sad Virus Military
 Sad Virus Shitcoin
 Sad Virus Space
 SadCat
@@ -73984,6 +74028,7 @@ SadCatSoftware
 SadVirusDarkland
 SadVirusHorror
 SadVirusJungle
+SadVirusMilitary
 SadVirusShitcoin
 SadVirusSpace
 Sada
@@ -75174,6 +75219,8 @@ Shang
 Shang Tsung
 ShangTsung
 Shanghai
+Shanhai Ranch
+ShanhaiRanch
 Shantae
 ShantyTown
 Shao
@@ -76570,6 +76617,7 @@ Something Awful: Static
 SomethingAwful:Static
 Sometimes Toast is O.K.
 SometimesToastisO.K.
+Somnium
 Somnolence
 Son Hit Origins
 Son Of The Exorcist
@@ -76855,6 +76903,7 @@ Space Lora - Adult Only
 Space Mama
 Space Manbow
 Space Memory: Chinchillas
+Space Memory: Fairies
 Space Memory: Mushrooms
 Space Memory: Predators
 Space Menace 2
@@ -76904,6 +76953,7 @@ SpaceLora-AdultOnly
 SpaceMama
 SpaceManbow
 SpaceMemory:Chinchillas
+SpaceMemory:Fairies
 SpaceMemory:Mushrooms
 SpaceMemory:Predators
 SpaceMenace2
@@ -82179,6 +82229,7 @@ TYPHOONGAMES
 TYPINC.
 TYPING BREAK
 TYPING CHALLENGE
+TYPING FARMER
 TYPING FIREWORKS
 TYPING FIREWORKS DEMO
 TYPING NINJA
@@ -86226,11 +86277,13 @@ Typhoon Games
 TyphoonGames
 Typing Break
 Typing Challenge
+Typing Farmer
 Typing Fireworks
 Typing Fireworks Demo
 Typing Ninja
 TypingBreak
 TypingChallenge
+TypingFarmer
 TypingFireworks
 TypingFireworksDemo
 TypingNinja
@@ -87716,6 +87769,7 @@ VISUAL
 VISUAL CONCEPTS
 VISUAL IMPACT
 VISUAL NOVEL: CALL OF TOILET
+VISUAL NOVEL: DASHING 90S
 VISUAL SCIENCES
 VISUALCONCEPTS
 VISUALIMPACT
@@ -88536,10 +88590,12 @@ Visual Concepts
 Visual Impact
 Visual Novel: Call of Toilet
 Visual Sciences
+Visual novel: Dashing 90s
 VisualConcepts
 VisualImpact
 VisualNovel:CallofToilet
 VisualSciences
+Visualnovel:Dashing90s
 Vita
 Vital Shell
 VitalShell
@@ -89726,6 +89782,7 @@ WORMS
 WORMS FRANCHISE ADVERTISING APP
 WORMWHOMPER
 WORSHIPING DEITIES AND COMMEMORATING LOVED ONES
+WORTHY OR NOT
 WOW
 WOW ENTERTAINMENT
 WOW Entertainment
@@ -91104,6 +91161,8 @@ Worms Franchise Advertising App
 WormsFranchiseAdvertisingApp
 Worshiping deities and commemorating loved ones
 Worshipingdeitiesandcommemoratinglovedones
+Worthy or Not
+WorthyorNot
 Wrack: Reclamation
 Wrack:Reclamation
 Wraith of the Cards
@@ -93106,6 +93165,7 @@ absurdinteractive
 abylight
 abyss
 abyss bistro
+abyss cards
 abyss chaser
 abyss dungeon
 abyss eschaton survivors
@@ -93816,6 +93876,7 @@ almosthuman
 almosthumangames
 aloft
 alone
+alone among the ruins
 alone in the
 alone in the dark
 alone: shattered tribes
@@ -100198,6 +100259,7 @@ craft the world - magic mirror
 craftae
 craftcraft: fantasy merchant simulator
 crafter's hollow
+craftia elements
 crafting in berxley
 craftlings
 crafts
@@ -103429,6 +103491,7 @@ eccothe
 eccothedolphin
 echidna
 echo
+echo 91
 echo peak
 echo protocol: escape room
 echo re:kill
@@ -106407,6 +106470,7 @@ galacta knight
 galacta knight galacta knight
 galactaknight
 galactaknightgalactaknight
+galactic conflict
 galactic conquest
 galactic glitch
 galactic outlaws
@@ -107760,6 +107824,7 @@ greve graphics
 grevegraphics
 grey
 grey box
+grey hack
 greybox
 grezzo
 gribouille
@@ -108172,6 +108237,7 @@ hacker jack
 hacker simulator
 hackerinternational
 hackerjack
+hackers: the revolution begins
 hackgu
 hackhack
 hacknet
@@ -114135,6 +114201,8 @@ loot line - season 2
 loot of baal
 loot of idle
 loot scoot
+loot tycoon
+loot tycoon - supporter pack
 looters
 lootmage
 lopez
@@ -114396,6 +114464,7 @@ lulu
 luma
 lumber and plunder
 lumber valley
+lumena
 lumenknight
 lumiere
 luminaria: dark echoes
@@ -120403,6 +120472,7 @@ pcenginesupergrafx
 pckid
 pcmsdos
 pdamill
+peace incarnate
 peaceful farm
 peacequarium
 peach
@@ -120636,6 +120706,7 @@ pga tour 2k25 clubhouse pass premium season 6
 pga tour 3
 pgatour
 pgatour3
+phairos studio
 phan
 phan phan
 phan phan phan phan
@@ -121823,6 +121894,7 @@ prismarinecrystals
 prismarineshard
 prismkikaku
 prison escape simulator
+prison glow
 prison love
 prison miner
 prison out
@@ -124270,6 +124342,7 @@ sad cat software
 sad virus darkland
 sad virus horror
 sad virus jungle
+sad virus military
 sad virus shitcoin
 sad virus space
 sada
@@ -125289,6 +125362,7 @@ shang
 shang tsung
 shanghai
 shangtsung
+shanhai ranch
 shantae
 shantytown
 shao
@@ -126469,6 +126543,7 @@ someday youll get there(언젠가는 도착해)
 someone creepy
 something awful: static
 sometimes toast is o.k.
+somnium
 somnolence
 son of the exorcist
 son-hit origins
@@ -126731,6 +126806,7 @@ space lora - adult only
 space mama
 space manbow
 space memory: chinchillas
+space memory: fairies
 space memory: mushrooms
 space memory: predators
 space menace 2
@@ -131496,6 +131572,7 @@ typhoongames
 typinc.
 typing break
 typing challenge
+typing farmer
 typing fireworks
 typing fireworks demo
 typing ninja
@@ -132463,6 +132540,7 @@ visual
 visual concepts
 visual impact
 visual novel: call of toilet
+visual novel: dashing 90s
 visual sciences
 visualconcepts
 visualimpact
@@ -133624,6 +133702,7 @@ worms
 worms franchise advertising app
 wormwhomper
 worshiping deities and commemorating loved ones
+worthy or not
 wow
 wow entertainment
 wowentertainment
@@ -135176,6 +135255,7 @@ zèbre
 狂野网 Wild Web
 狂野网 wild web
 狂野网WildWeb
+狩魔之旅
 猫猫旅行社欢迎你！ MOMO'S REVITALIZATION PROJECT!
 猫猫旅行社欢迎你！ Momo s Revitalization Project!
 猫猫旅行社欢迎你！ Momo's Revitalization Project!
@@ -135425,6 +135505,7 @@ zèbre
 遥豊のサレテ
 酒馆战争
 重生挖矿
+金泉风土记
 金砂梦咒GOLDEN SAND DREAM CURSE
 金砂梦咒Golden Sand Dream Curse
 金砂梦咒GoldenSandDreamCurse
