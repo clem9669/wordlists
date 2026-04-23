@@ -863,6 +863,7 @@ A-ha
 A1 UNFALL WILDESHAUSEN
 A13
 A13 AUTOBAHN UNFALL
+A2
 A2 UNFALL HERGISWIL
 A350
 A38 UNFALL
@@ -9072,6 +9073,7 @@ BEETHOVEN
 BEETLEJUICE
 BEEZER
 BEFIMMO
+BEGROTING
 BEGROTINGSAKKOORD
 BEGU
 BEHATI PRINSLOO
@@ -14847,6 +14849,7 @@ CARRO-BEL
 CARRY-ON
 CARSON BRANSTINE
 CARTE AVANTAGE SNCF
+CARTE BANCAIRE
 CARTE BELGIQUE
 CARTE COVID FRANCE
 CARTE DE NOEL
@@ -16900,6 +16903,7 @@ CSIO St.Gallen
 CSIOSt.Gallen
 CSK VS DC
 CSK VS KKR
+CSK VS MI
 CSK VS PBKS
 CSK VS RR
 CSP
@@ -21689,6 +21693,7 @@ DJERBA
 DJI
 DJI AVATA
 DJI Avata
+DJI LITO
 DJI MAVIC 3
 DJI MAVIC 3 PRO
 DJI MAVIC 4 PRO
@@ -24787,6 +24792,7 @@ EINREISEVERBOT USA
 EINSIEDELN
 EINSTEIN
 EINSTEIN MODERATOR TOBIAS MÜLLER
+EINSTURZ
 EINTRACHT FRANCFORT - LEVERKUSEN
 EINTRACHT FRANCFORT - SANKT PAULI
 EINTRACHT FRANCFORT - WERDER
@@ -29501,6 +29507,7 @@ FONDS INVESTISSEMENT DEFENSE
 FONDS MARIANNE
 FONDS MARIANNE : MARLÈNE SCHIAPPA
 FONDS MARIANNE MARLÈNE SCHIAPPA
+FONDS SOUVERAIN
 FONKY FAMILY
 FONQ
 FONS
@@ -36533,6 +36540,7 @@ HAN KANG
 HAN-SUR-LESSE
 HANAE MORI
 HANAU
+HANDBAGAGE
 HANDBALL
 HANDBALL 2023
 HANDBALL FEMININ
@@ -39150,6 +39158,7 @@ IOS 18.3
 IOS 19
 IOS 26
 IOS 26.1
+IOS 26.4 2
 IOWA
 IPAD
 IPAD BLACK FRIDAY
@@ -45215,6 +45224,7 @@ KEVIN LÖTSCHER
 KEVIN MAGNUSSEN
 KEVIN MAYER
 KEVIN MCCARTHY
+KEVIN MCKIDD
 KEVIN MIRALLAS
 KEVIN MITNICK
 KEVIN ROLLAND
@@ -49497,6 +49507,7 @@ LUKAS MÄRTENS
 LUKAS PODOLSKI
 LUKAS REIMANN
 LUKASCHENKO SELENSKYJ UKRAINE
+LUKASZ LITEWKA
 LUKE HUMPHRIES
 LUKE LITTLER
 LUKE MOCKRIDGE
@@ -53453,6 +53464,7 @@ MALAGA UNWETTER
 MALAISIE
 MALAMINE EFEKELE
 MALAMUTE
+MALANG SARR
 MALANS
 MALARIA
 MALAWI
@@ -66782,6 +66794,7 @@ PLUMELEC
 PLUS BELLE LA VIE
 PLUS BELLE LA VIE EN AVANCE
 PLUS BELLE LA VIE ENCORE PLUS BELLE
+PLUS BELLE LA VIE SPOILERS
 PLUS BELLE LA VIE TF1
 PLUS BELLE LA VIE, ENCORE PLUS BELLE
 PLUXEE
@@ -66890,6 +66903,7 @@ POLYMARKET
 POLYNÉSIE FRANÇAISE
 POMME
 POMMELIEN THIJS
+POMMELIEN THIJS AFAS DOME
 POMMELIEN THIJS DRUGS
 POMMELIEN THIJS SPORTPALEIS
 POMMELINE
@@ -75541,7 +75555,9 @@ SAMSUNG ONE UI 7
 SAMSUNG RING
 SAMSUNG Z FLIP 4
 SAMSUNSPOR - BESIKTAS
+SAMSUNSPOR - TRABZONSPOR
 SAMSUNSPOR – BESIKTAS
+SAMSUNSPOR – TRABZONSPOR
 SAMU HABER
 SAMUEL BAMBI
 SAMUEL EDOZIE
@@ -83233,6 +83249,7 @@ THE VIVIENNE
 THE VOICE
 THE VOICE 2022
 THE VOICE 2023
+THE VOICE : LA PLUS BELLE VOIX
 THE VOICE ALL STARS
 THE VOICE ALL-STARS
 THE VOICE BELGIQUE
@@ -87545,6 +87562,8 @@ UNFALL REGENSDORF
 UNFALL REINACH BL
 UNFALL SARGANS
 UNFALL SCHÖFTLAND
+UNFALL STAFA
+UNFALL STÄFA
 UNFALL SURSEE HEUTE
 UNFALL USTER AATHAL
 UNFALL USTER HEUTE
@@ -93828,6 +93847,7 @@ a13
 a13 autobahn unfall
 a13autobahnunfall
 a1unfallwildeshausen
+a2
 a2 unfall hergiswil
 a2unfallhergiswil
 a350
@@ -98458,6 +98478,7 @@ beethoven
 beetlejuice
 beezer
 befimmo
+begroting
 begrotingsakkoord
 begu
 behati prinsloo
@@ -101252,12 +101273,14 @@ carry-on
 carson branstine
 carsonbranstine
 carte avantage sncf
+carte bancaire
 carte belgique
 carte covid france
 carte de noel
 carte de voeux 2023
 carte grise
 carte vitale
+cartebancaire
 cartegrise
 carter reum
 cartevitale
@@ -103735,10 +103758,12 @@ csg
 csio st.gallen
 csk vs dc
 csk vs kkr
+csk vs mi
 csk vs pbks
 csk vs rr
 cskvsdc
 cskvskkr
+cskvsmi
 cskvspbks
 cskvsrr
 csp
@@ -105194,6 +105219,7 @@ djelika diallo
 djerba
 dji
 dji avata
+dji lito
 dji mavic 3
 dji mavic 3 pro
 dji mavic 4 pro
@@ -105204,6 +105230,7 @@ dji ronin 4d
 djibouti
 djibouti – algérie
 djibril cissé
+djilito
 djimavic4pro
 djimini5pro
 djimo
@@ -106110,6 +106137,7 @@ einreiseverbotusa
 einsiedeln
 einstein
 einstein moderator tobias müller
+einsturz
 eintracht francfort - leverkusen
 eintracht francfort - sankt pauli
 eintracht francfort - werder
@@ -108919,7 +108947,9 @@ fonds investissement defense
 fonds marianne
 fonds marianne : marlène schiappa
 fonds marianne marlène schiappa
+fonds souverain
 fondsinvestissementdefense
+fondssouverain
 fonky family
 fonq
 fons
@@ -111967,6 +111997,7 @@ han kang
 han-sur-lesse
 hanae mori
 hanau
+handbagage
 handball
 handball 2023
 handball feminin
@@ -113831,9 +113862,11 @@ ios 18.3
 ios 19
 ios 26
 ios 26.1
+ios 26.4 2
 ios19
 ios26
 ios26.1
+ios26.42
 iowa
 ipad
 ipad black friday
@@ -116677,6 +116710,7 @@ kevin lötscher
 kevin magnussen
 kevin mayer
 kevin mccarthy
+kevin mckidd
 kevin mirallas
 kevin mitnick
 kevin rolland
@@ -116692,6 +116726,7 @@ kevinbonaldo
 kevincostner
 kevindebruyne
 kevinescoffier
+kevinmckidd
 keylor navas
 keynote
 keynote apple
@@ -118502,6 +118537,7 @@ leedsunited–manchesterunited
 leedsunited–wolves
 leeds–tottenham
 leekangin
+leemiller
 leen bakker
 leen dendievel
 leenbakker
@@ -120158,6 +120194,8 @@ lukaschenkoselenskyjukraine
 lukasgahwilerubs
 lukasgähwilerubs
 lukaskoch
+lukasz litewka
+lukaszlitewka
 luke humphries
 luke littler
 luke mockridge
@@ -120711,6 +120749,8 @@ malaisie
 malamine efekele
 malamineefekele
 malamute
+malang sarr
+malangsarr
 malans
 malaria
 malawi
@@ -128039,11 +128079,13 @@ plumelec
 plus belle la vie
 plus belle la vie en avance
 plus belle la vie encore plus belle
+plus belle la vie spoilers
 plus belle la vie tf1
 plus belle la vie, encore plus belle
 plusbellelavie
 plusbellelavieenavance
 plusbellelavieencoreplusbelle
+plusbellelaviespoilers
 pluxee
 plymouth
 plymouth argyle – liverpool
@@ -128164,9 +128206,11 @@ polymarket
 polynésie française
 pomme
 pommelien thijs
+pommelien thijs afas dome
 pommelien thijs drugs
 pommelien thijs sportpaleis
 pommelienthijs
+pommelienthijsafasdome
 pommelienthijsdrugs
 pommelienthijssportpaleis
 pommeline
@@ -131675,9 +131719,13 @@ samsunggalaxys26
 samsunggalaxys26ultra
 samsungoneui7
 samsunspor - besiktas
+samsunspor - trabzonspor
 samsunspor – besiktas
+samsunspor – trabzonspor
 samsunspor-besiktas
+samsunspor-trabzonspor
 samsunspor–besiktas
+samsunspor–trabzonspor
 samu haber
 samuel bambi
 samuel edozie
@@ -135824,6 +135872,7 @@ the vivienne
 the voice
 the voice 2022
 the voice 2023
+the voice : la plus belle voix
 the voice all stars
 the voice all-stars
 the voice belgique
@@ -135917,6 +135966,7 @@ thesummeriturnedprettyseason3episode11
 thetomorrowwar
 theux
 thevenot
+thevoice:laplusbellevoix
 thevoiceflorentpagny
 thevoiceofgermany2025halbfinale
 thevoiceofhindrajab
@@ -137780,6 +137830,8 @@ unfall regensdorf
 unfall reinach bl
 unfall sargans
 unfall schöftland
+unfall stafa
+unfall stäfa
 unfall sursee heute
 unfall uster aathal
 unfall uster heute
@@ -137796,6 +137848,7 @@ unfallaathal
 unfallaesch
 unfallarbonheute
 unfallattiswilheute
+unfallautobahna2
 unfallautobahnstgallen
 unfallb4niedersachsen
 unfallbrüttisellen
@@ -137819,6 +137872,8 @@ unfallobfelden
 unfallrapperswilseedamm
 unfallreinachbl
 unfallschöftland
+unfallstafa
+unfallstäfa
 unfallsurseeheute
 unfallusterheute
 unfallwankdorfbahnhof
@@ -141490,6 +141545,9 @@ zürich–servette
 Ĵoe Biden
 ĴoeBiden
 ĵoe biden
+ŁUKASZ LITEWKA
+łukasz litewka
+łukaszlitewka
 ŒUFS
 œufs
 ŚLĄSK WROCŁAW – ST.GALLEN
