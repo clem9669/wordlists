@@ -730,6 +730,10 @@
 250MS2
 250ms2
 2600
+28 LEICESTER SQUARE
+28 Leicester Square
+28 leicester square
+28LeicesterSquare
 2:
 2BY3
 2BY3 GAMES
@@ -1218,6 +1222,10 @@
 75 demons
 75Demons
 76
+77P EGG: CUBICLE 77
+77p egg: Cubicle 77
+77p egg: cubicle 77
+77pegg:Cubicle77
 7800
 7821 AKUJI
 7821 Akuji
@@ -3497,6 +3505,7 @@ ARENA
 ARENA : RUN AND HIT
 ARENA BREAKOUT: INFINITE
 ARENA II
+ARENA OF SACRIFICE
 ARENA OF SUFFERING
 ARENANET
 ARESANT
@@ -6030,11 +6039,13 @@ Arena
 Arena : Run And Hit
 Arena Breakout: Infinite
 Arena II
+Arena of Sacrifice
 Arena of Suffering
 Arena:RunAndHit
 ArenaBreakout:Infinite
 ArenaII
 ArenaNet
+ArenaofSacrifice
 ArenaofSuffering
 Aresant
 Aretha
@@ -8863,6 +8874,7 @@ BOOMER
 BOOMER BOOMER
 BOOMER BRAWLER
 BOOMER SHOOTER
+BOOMERANG JACK
 BOOMERBOOMER
 BOOMERSHOOTER
 BOOMSHEETS
@@ -9131,6 +9143,7 @@ BREAD DOG VIBE
 BREADBOX
 BREADBULLS
 BREADWINNER SIMULATOR
+BREAK SHOOT
 BREAK SHOOT DEMO
 BREAK SIEGE
 BREAK-A-BOT
@@ -11702,6 +11715,8 @@ Boomer Boomer
 Boomer Brawler
 BoomerBoomer
 BoomerBrawler
+Boomerang Jack
+BoomerangJack
 Booster
 Bootant
 Bootleg
@@ -12023,10 +12038,12 @@ Breadbox
 Breadbulls
 Breadwinner Simulator
 BreadwinnerSimulator
+Break Shoot
 Break Shoot Demo
 Break Siege
 Break a bot
 Break-a-bot
+BreakShoot
 BreakShootDemo
 BreakSiege
 Breakaway
@@ -12956,6 +12973,7 @@ CAREFULLY STAMPED DEMO
 CARET
 CARGO SHOP SIMULATOR
 CARGOGO
+CARIBBEAN LEGEND - MARITIME STORIES
 CARIBBEAN LEGEND: AGE OF PIRATES
 CARIMARA: BENEATH THE FORLORN LIMBS
 CARIMARA: Beneath the forlorn limbs
@@ -13099,6 +13117,7 @@ CASTLE CRASHERS - PAINTER BOSS PARADISE
 CASTLE CREAMPUFF
 CASTLE FEMDOM: OFFICE BOT
 CASTLE FORBIDDEN
+CASTLE IDLER
 CASTLE OF HEART: RETOLD
 CASTLE OF ILLUSION
 CASTLE OF SECRETS
@@ -13140,6 +13159,7 @@ CATACOUACS
 CATALANO
 CATALINA'S HORROR ADVENTURE
 CATANKS
+CATAPULT LEGEND
 CATCAT
 CATCH IT
 CATCH ME
@@ -14159,6 +14179,7 @@ CLIMAX ENTERTAINMENT
 CLIMAXENTERTAINMENT
 CLIMB! NYARUMA ACTION PUZZLE
 CLIMBER
+CLIMBER TOYS: TOGETHER
 CLIMBERS
 CLIMBING GYM SIMULATOR DEMO
 CLINTON
@@ -14649,6 +14670,7 @@ CONTRA3
 CONTRABAND POLICE
 CONTRACT OF ASHES DEMO
 CONTRACT OF SWARM HUNTER
+CONTRACTORS SHOWDOWN : EXFILZONE - FIRETEAM ELITE
 CONTRACTVILLE
 CONTRAINDICATION DIGITAL ARTBOOK
 CONTREBANDIER
@@ -16047,7 +16069,10 @@ CarefullyStampedDemo
 Caret
 Cargo Shop Simulator
 CargoShopSimulator
+Caribbean Legend   Maritime Stories
+Caribbean Legend - Maritime Stories
 Caribbean Legend: Age of Pirates
+CaribbeanLegend-MaritimeStories
 CaribbeanLegend:AgeofPirates
 Carla
 Carlos
@@ -16287,6 +16312,8 @@ Catalina s Horror Adventure
 Catalina's Horror Adventure
 Catalina'sHorrorAdventure
 Catanks
+Catapult Legend
+CatapultLegend
 CatatHome
 Catch Me
 Catch it
@@ -17409,6 +17436,8 @@ ClimaxEntertainment
 Climb! NYARUMA Action Puzzle
 Climb!NYARUMAActionPuzzle
 Climber
+Climber Toys: Together
+ClimberToys:Together
 Climbers
 Climbing Gym Simulator Demo
 ClimbingGymSimulatorDemo
@@ -17950,6 +17979,9 @@ Contract of Swarm Hunter
 ContractVille
 ContractofAshesDemo
 ContractofSwarmHunter
+Contractors Showdown : ExfilZone   Fireteam Elite
+Contractors Showdown : ExfilZone - Fireteam Elite
+ContractorsShowdown:ExfilZone-FireteamElite
 Contraindication Digital Artbook
 ContraindicationDigitalArtbook
 Contrebandier
@@ -20617,8 +20649,10 @@ DISTRICT ZERO
 DIVA
 DIVERGENCE: BEYOND THE SINGULARITY (PART 1)
 DIVERS
+DIVINE OMEN
 DIVINE ORDERS
 DIVINE RUINS
+DIVINE WISH
 DIVINEBLAZE : MARCH TACTICS
 DIVING INTO ABYSS
 DIVINITY
@@ -21222,6 +21256,7 @@ DREAMCATCHER
 DREAMCATCHER 2003
 DREAMCATCHER INTERACTIVE
 DREAMCATCHERINTERACTIVE
+DREAMCORE: RABBIT HOLE
 DREAMER
 DREAMFAB
 DREAMFACTORY
@@ -21292,6 +21327,7 @@ DRILLER
 DRINK HUMAN BEANS
 DRINKHUMANBEANS
 DRISIAHFRIEDLANDER
+DRIVAPP
 DRIVE
 DRIVE AND UNWIND
 DRIVE BEYOND HORIZONS
@@ -23328,10 +23364,14 @@ DistrictZero
 Divergence: Beyond the Singularity  Part 1 
 Divergence: Beyond the Singularity (Part 1)
 Divergence:BeyondtheSingularity(Part1)
+Divine Omen
 Divine Orders
 Divine Ruins
+Divine Wish
+DivineOmen
 DivineOrders
 DivineRuins
+DivineWish
 Divineblaze : March Tactics
 Divineblaze:MarchTactics
 Diving into abyss
@@ -24062,6 +24102,8 @@ Dreamcatcher 2003
 Dreamcatcher Interactive
 Dreamcatcher2003
 DreamcatcherInteractive
+Dreamcore: Rabbit Hole
+Dreamcore:RabbitHole
 Dreamer
 Dreamfab
 Dreaming on the last light ??????
@@ -24143,6 +24185,7 @@ DrillDozer
 DrillRift
 DrillandDelve
 Driller
+DrivApp
 Drive
 Drive And Unwind
 Drive Beyond Horizons
@@ -25160,6 +25203,7 @@ ELINE
 ELINE ELINE
 ELINEELINE
 ELISE
+ELISE AND THE SPELLBINDING MARIONETTE
 ELITE
 ELITE BEAT AGENTS
 ELITE FRONTIER
@@ -26509,6 +26553,8 @@ Eline
 Eline Eline
 ElineEline
 Elise
+Elise and the Spellbinding Marionette
+EliseandtheSpellbindingMarionette
 Elite
 Elite Beat Agents
 Elite Frontier
@@ -27642,6 +27688,7 @@ FALLOUT NEW VEGAS ULTIMATE
 FALLOUT2
 FALLOUT3
 FALLSTREAK 2: TRAUM
+FALSE FLAG
 FALSTAD
 FAME
 FAME SOFT
@@ -28423,6 +28470,7 @@ FLIPSIDE5
 FLIPTO
 FLIRTING WITH GIRLS IN FANTASY WORLD
 FLOATING ISLE DAYS
+FLOCK AROUND
 FLOOD
 FLOOD RETURNS
 FLOODLIGHT
@@ -29421,6 +29469,8 @@ Fallout76:Atoms
 FalloutNewVegasUltimate
 Fallstreak 2: Traum
 Fallstreak2:Traum
+False Flag
+FalseFlag
 Falstad
 Famicom
 Familiar Findings
@@ -30339,6 +30389,8 @@ Flirting With Girls in Fantasy World
 FlirtingWithGirlsinFantasyWorld
 Floating Isle Days
 FloatingIsleDays
+Flock Around
+FlockAround
 Flood
 Flood Returns
 FloodReturns
@@ -31573,6 +31625,7 @@ GAMES DISTILLERY
 GAMES EXPRESS
 GAMES FACTORY
 GAMES FACTORY ONLINE
+GAMES TYCOON
 GAMESARE
 GAMESARE STUDIOS
 GAMESARESTUDIOS
@@ -33440,10 +33493,12 @@ Games Distillery
 Games Express
 Games Factory
 Games Factory Online
+Games Tycoon
 GamesDistillery
 GamesExpress
 GamesFactory
 GamesFactoryOnline
+GamesTycoon
 Gamesare
 Gamesare Studios
 GamesareStudios
@@ -35340,6 +35395,7 @@ HANDMADE SOFTWARE
 HANDMADESOFTWARE
 HANDMARK
 HANDS
+HANDS UP
 HANDS-ON
 HANDS-ON MOBILE
 HANDS-ONMOBILE
@@ -35987,6 +36043,7 @@ HEWSONCONSULTANTSLTD
 HEX BLAST
 HEXA'S GONE
 HEXACHESS
+HEXADEL
 HEXADRIVE
 HEXAGE.NET
 HEXAGENET
@@ -36912,6 +36969,7 @@ HandmadeSoftware
 Handmark
 HandofHexesDemo
 Hands
+Hands up
 Hands-On
 Hands-On Mobile
 Hands-OnMobile
@@ -36921,6 +36979,7 @@ HandsOnMobile
 Handstand Hank
 HandstandHank
 Handsum
+Handsup
 HandyGames
 Handyman Fantasy
 HandymanFantasy
@@ -39768,6 +39827,7 @@ ITRP _ Vacuum Bless
 ITRP_VacuumBless
 ITS TIME TO MEET GOD
 ITSUKUSHIMA
+ITSY BITSY SPIDER: VENGEANCE
 ITTY BITTY LITTLE KITTIES
 ITWATCHES
 ITWitchCase
@@ -40799,6 +40859,8 @@ Itrouille
 Its Time To Meet God
 ItsTimeToMeetGod
 Itsukushima
+Itsy Bitsy Spider: Vengeance
+ItsyBitsySpider:Vengeance
 Itty Bitty Little Kitties
 IttyBittyLittleKitties
 Iugo
@@ -42932,6 +42994,7 @@ KIKI
 KIKI JENKINS
 KIKIJENKINS
 KIL'JAEDEN
+KILAFLOW
 KILIK
 KILJAEDEN
 KILL CAPTURE DESTROY
@@ -43558,6 +43621,7 @@ KUNG-FU MASTER
 KUNG-FUMASTER
 KUNGFU
 KUNGFU MASTER
+KUNGFU2
 KUNGFUFACTORY
 KUNGFUMASTER
 KUNGJIN
@@ -44078,6 +44142,7 @@ Kiki
 Kiki Jenkins
 KikiJenkins
 Kil'jaeden
+KilaFlow
 Kilik
 Kiljaeden
 Kill Capture Destroy
@@ -44776,6 +44841,7 @@ KungFuMaster
 KungJin
 KungLao
 KungPaw
+Kungfu2
 Kunimitsu
 Kunio-kun
 Kuniokun
@@ -45893,6 +45959,7 @@ LICENSE TO GRILL
 LICENSED
 LICENSED 4U
 LICENSED4U
+LICHGATE: TOWER SURVIVOR
 LICO
 LIDIA
 LIDIA SOBIESKA
@@ -47824,6 +47891,8 @@ Licensed
 Licensed 4U
 Licensed4U
 LicensetoGrill
+Lichgate: Tower Survivor
+Lichgate:TowerSurvivor
 Lico
 Lidia
 Lidia Sobieska
@@ -50995,6 +51064,7 @@ MISTWARD
 MISTY
 MISTY FEY
 MISTY JUDGMENT
+MISTY LAND
 MISTY'S IDLE FISHING
 MISTYFEY
 MISTYPUZZLE
@@ -52037,6 +52107,7 @@ MYTHICONINC
 MYTHOLOGICAL
 MYTHOLOGICAL SOFTWARE
 MYTHOLOGICALSOFTWARE
+MYTHOS
 MYTHOS, BOOK ONE
 MYTHPEOPLE
 MYTHS ARE 100% TRUE
@@ -54278,11 +54349,13 @@ Mistward
 Misty
 Misty Fey
 Misty Judgment
+Misty Land
 Misty s Idle Fishing
 Misty's Idle Fishing
 Misty'sIdleFishing
 MistyFey
 MistyJudgment
+MistyLand
 MistyPuzzle
 Mitchell
 Mitchell Corporation
@@ -55446,6 +55519,7 @@ MythoLogical
 MythoLogical Software
 MythoLogicalSoftware
 MythofLumi
+Mythos
 Mythos, Book One
 Mythos,BookOne
 Myths are 100% True
@@ -56702,6 +56776,7 @@ NOVAK
 NOVALOGIC
 NOVANOVA
 NOVARAMA
+NOVEL CREATION -ICHISHIKI- DEMO
 NOVEL HAVEN
 NOVEL ROGUE
 NOVELSTUDIO
@@ -57973,8 +58048,11 @@ Novagen
 Novak
 Novalogic
 Novarama
+Novel Creation  Ichishiki  Demo
+Novel Creation -Ichishiki- Demo
 Novel Haven
 Novel Rogue
+NovelCreation-Ichishiki-Demo
 NovelHaven
 NovelRogue
 NovelStudio
@@ -60949,6 +61027,7 @@ PAW ALLIANCE
 PAWALLIANCE
 PAWFFICE
 PAWN PLANET
+PAWN SHOP SIMULATOR
 PAWN.OS()
 PAWS AGAINST THE WORLD
 PAWSKY
@@ -61919,6 +61998,7 @@ PLAYSTATION
 PLAYSTATION 2
 PLAYSTATION2
 PLAYTAINMENT
+PLAYTO
 PLAYTOONS
 PLAYTOWN 3
 PLESSIE
@@ -63533,9 +63613,11 @@ Pavel Barak
 PavelBarak
 Pawffice
 Pawn Planet
+Pawn Shop Simulator
 Pawn.OS  
 Pawn.OS()
 PawnPlanet
+PawnShopSimulator
 Paws Against the World
 PawsAgainsttheWorld
 Pawsky
@@ -64521,6 +64603,7 @@ Playstation
 Playstation 2
 Playstation2
 Playtainment
+Playto
 Playtoons
 Playtown 3
 Playtown3
@@ -66218,6 +66301,7 @@ RACE 'N DASH
 RACE JAM
 RACE MAX PRO DEMO
 RACER
+RACER OVERDRIVE
 RACHELLE
 RACHELLE JACQUES
 RACHELLEJACQUES
@@ -66341,6 +66425,9 @@ RAKE IN GRASS
 RAKEIN
 RAKEIN-ScoringBigWithMonsterGirls!
 RAKEINGRASS
+RAKKA: WAKE 01   SOOT
+RAKKA: WAKE 01 - SOOT
+RAKKA:WAKE01-SOOT
 RALEIGH
 RALENTISSEMENT
 RALENTISSEMENT DU POISON
@@ -67880,6 +67967,7 @@ RUNNINGWITH
 RUNNINGWITHRIFLES
 RUNNINGWITHSCISSORS
 RUNPUNK: THE PARKOUR GAME
+RUNWAY™
 RUPERT
 RUPERT CUNNINGHAM
 RUPERTCUNNINGHAM
@@ -67991,6 +68079,8 @@ Race'nDash
 RaceJam
 RaceMaxProDemo
 Racer
+Racer Overdrive
+RacerOverdrive
 Rachelle
 Rachelle Jacques
 RachelleJacques
@@ -69890,6 +69980,8 @@ RunningWithScissors
 Runningwith
 RunningwithScissors
 RunoftheLost
+Runway(TM)
+Runway™
 Rupert
 Rupert Cunningham
 RupertCunningham
@@ -72181,6 +72273,7 @@ SNAKE EYES
 SNAKE 贪吃蛇
 SNAKEEATER
 SNAKES
+SNAP & GRAB
 SNAPSHOT SPIRIT LIVE!
 SNAPSHOTS
 SNATCHER
@@ -76808,6 +76901,9 @@ Snake 贪吃蛇
 SnakeEyes
 Snakes
 Snake贪吃蛇
+Snap   Grab
+Snap & Grab
+Snap&Grab
 Snapshot Spirit Live!
 SnapshotSpiritLive!
 Snapshots
@@ -80625,6 +80721,7 @@ THE HIGH TOWER
 THE HIT SQUAD (OCEAN)
 THE HOBBIT
 THE HOLIDAY STORY
+THE HOLLOW
 THE HOLLOW LIGHTHOUSE
 THE HONEST LITTLE FISHER
 THE HORROR AT HIGHROOK
@@ -80646,6 +80743,7 @@ THE HUNT BEGINS
 THE HUNTER'S PATH
 THE ICE CREAM SHOP
 THE ICONFACTORY
+THE ILLUMINATI SIMULATOR
 THE IMMORTAL IS WATCHING
 THE INCITE
 THE INCITE GROUP
@@ -81051,6 +81149,7 @@ THE WIDE OPEN SKY IS RUNNING OUT OF CATFISH
 THE WILD EIGHT
 THE WILLIAMS FAMILY SACRIFICE
 THE WIND WAKER
+THE WINDOW 8:MILLENNIUM
 THE WINTER ADVENTURER
 THE WINTER MIND
 THE WITCH'S DISCIPLES
@@ -82725,6 +82824,7 @@ TYPE DRIVERS
 TYPE HER TO SLEEP
 TYPE THE RHYTHM DEMO
 TYPE-NOISE: SHONEN SHOJO
+TYPER SURVIVOR
 TYPHOON
 TYPHOON GAMES
 TYPHOONGAMES
@@ -83956,6 +84056,7 @@ The High Tower
 The Hit Squad (Ocean)
 The Hobbit
 The Holiday Story
+The Hollow
 The Hollow Lighthouse
 The Honest Little Fisher
 The Horror at Highrook
@@ -83979,6 +84080,7 @@ The Hunter s Path
 The Hunter's Path
 The Ice Cream Shop
 The Iconfactory
+The Illuminati Simulator
 The Immortal Is Watching
 The Incite
 The Incite Group
@@ -84388,6 +84490,7 @@ The Whittled Horse
 The Wide Open Sky is Running out of Catfish
 The Wild Eight
 The Williams Family Sacrifice
+The Window 8:Millennium
 The Winter Adventurer
 The Winter Mind
 The Witch s Disciples
@@ -84714,6 +84817,7 @@ TheHighTower
 TheHitSquad(Ocean)
 TheHobbit
 TheHolidayStory
+TheHollow
 TheHollowLighthouse
 TheHonestLittleFisher
 TheHorroratHighrook
@@ -84735,6 +84839,7 @@ TheHuntBegins
 TheHunter'sPath
 TheIceCreamShop
 TheIconfactory
+TheIlluminatiSimulator
 TheImmortalIsWatching
 TheIncite
 TheInciteGroup
@@ -85099,6 +85204,7 @@ TheWhittledHorse
 TheWideOpenSkyisRunningoutofCatfish
 TheWildEight
 TheWilliamsFamilySacrifice
+TheWindow8:Millennium
 TheWinterAdventurer
 TheWinterMind
 TheWitch'sDisciples
@@ -86805,6 +86911,8 @@ Type-NOISE:ShonenShojo
 TypeDrivers
 TypeHertoSleep
 TypeTheRhythmDemo
+Typer Survivor
+TyperSurvivor
 Typhoon
 Typhoon Games
 TyphoonGames
@@ -87957,6 +88065,8 @@ VENANENTERTAINMENT
 VENDETTA FOREVER
 VENDEUR
 VENDIGO CORPORATION
+VENDING MACHINE CO.
+VENDING MACHINE CO. - SUPPORTER PACK
 VENERABLE
 VENIKK
 VENIMEUSE
@@ -88106,11 +88216,13 @@ VICTORMUSICALINDUSTRIESINC
 VICTORSULLIVAN
 VIDA LOKA SIMULATOR
 VIDEO
+VIDEO CHAPEL
 VIDEO GEMS
 VIDEO OLYMPICS
 VIDEO SYSTEM
 VIDEO SYSTEM CO
 VIDEO VULTURE
+VIDEOCHAPEL
 VIDEOGAME
 VIDEOGEMS
 VIDEOHOLE: EPISODE II
@@ -88761,6 +88873,11 @@ Vendetta Forever
 VendettaForever
 Vendigo Corporation
 VendigoCorporation
+Vending Machine Co.
+Vending Machine Co.   Supporter Pack
+Vending Machine Co. - Supporter Pack
+VendingMachineCo.
+VendingMachineCo.-SupporterPack
 Venikk
 Venom
 Venom Games
@@ -95179,6 +95296,7 @@ arena
 arena : run and hit
 arena breakout: infinite
 arena ii
+arena of sacrifice
 arena of suffering
 arenanet
 aresant
@@ -97815,6 +97933,7 @@ boomer
 boomer boomer
 boomer brawler
 boomer shooter
+boomerang jack
 boomerboomer
 boomsheets
 booster
@@ -98074,6 +98193,7 @@ bread dog vibe
 breadbox
 breadbulls
 breadwinner simulator
+break shoot
 break shoot demo
 break siege
 break-a-bot
@@ -98918,6 +99038,7 @@ carefully stamped demo
 caret
 cargo shop simulator
 cargogo
+caribbean legend - maritime stories
 caribbean legend: age of pirates
 carimara: beneath the forlorn limbs
 carla
@@ -99058,10 +99179,12 @@ castle crashers - painter boss paradise
 castle creampuff
 castle femdom: office bot
 castle forbidden
+castle idler
 castle of heart: retold
 castle of illusion
 castle of secrets
 castle shikigami
+castleidler
 castleofillusion
 castles
 castleshikigami
@@ -99099,6 +99222,7 @@ catacouacs
 catalano
 catalina's horror adventure
 catanks
+catapult legend
 catcat
 catch it
 catch me
@@ -100068,6 +100192,7 @@ climax entertainment
 climaxentertainment
 climb! nyaruma action puzzle
 climber
+climber toys: together
 climbers
 climbing gym simulator demo
 clinton
@@ -100542,6 +100667,7 @@ contra3
 contraband police
 contract of ashes demo
 contract of swarm hunter
+contractors showdown : exfilzone - fireteam elite
 contractville
 contraindication digital artbook
 contrebandier
@@ -102986,8 +103112,10 @@ district zero
 diva
 divergence: beyond the singularity (part 1)
 divers
+divine omen
 divine orders
 divine ruins
+divine wish
 divineblaze : march tactics
 diving into abyss
 divinity
@@ -103553,6 +103681,7 @@ dreamcatcher
 dreamcatcher 2003
 dreamcatcher interactive
 dreamcatcherinteractive
+dreamcore: rabbit hole
 dreamer
 dreamfab
 dreamfactory
@@ -103620,6 +103749,7 @@ drilldozer
 driller
 drink human beans
 drisiahfriedlander
+drivapp
 drive
 drive and unwind
 drive beyond horizons
@@ -104505,6 +104635,7 @@ eline
 eline eline
 elineeline
 elise
+elise and the spellbinding marionette
 elite
 elite beat agents
 elite frontier
@@ -105483,6 +105614,7 @@ fallout new vegas ultimate
 fallout2
 fallout3
 fallstreak 2: traum
+false flag
 falstad
 fame
 fame soft
@@ -106214,6 +106346,7 @@ flipside5
 flipto
 flirting with girls in fantasy world
 floating isle days
+flock around
 flood
 flood returns
 floodlight
@@ -107269,6 +107402,7 @@ games distillery
 games express
 games factory
 games factory online
+games tycoon
 gamesare
 gamesare studios
 gamesarestudios
@@ -109016,6 +109150,7 @@ handmade software
 handmadesoftware
 handmark
 hands
+hands up
 hands-on
 hands-on mobile
 hands-onmobile
@@ -109660,6 +109795,7 @@ hewsonconsultantsltd
 hex blast
 hexa's gone
 hexachess
+hexadel
 hexadrive
 hexage.net
 hexagenet
@@ -111401,6 +111537,7 @@ itrouille
 itrp _ vacuum bless
 its time to meet god
 itsukushima
+itsy bitsy spider: vengeance
 itty bitty little kitties
 itzo
 iugo
@@ -112637,6 +112774,7 @@ kiki
 kiki jenkins
 kikijenkins
 kil'jaeden
+kilaflow
 kilik
 kiljaeden
 kill capture destroy
@@ -113244,6 +113382,7 @@ kung-fu master
 kung-fumaster
 kungfu
 kungfu master
+kungfu2
 kungfufactory
 kungfumaster
 kungjin
@@ -114371,6 +114510,7 @@ license to grill
 licensed
 licensed 4u
 licensed4u
+lichgate: tower survivor
 lico
 lidia
 lidia sobieska
@@ -117266,6 +117406,7 @@ mistward
 misty
 misty fey
 misty judgment
+misty land
 misty's idle fishing
 mistyfey
 mistypuzzle
@@ -118259,6 +118400,7 @@ mythiconinc
 mythological
 mythological software
 mythologicalsoftware
+mythos
 mythos, book one
 mythpeople
 myths are 100% true
@@ -119375,6 +119517,7 @@ novak
 novalogic
 novanova
 novarama
+novel creation -ichishiki- demo
 novel haven
 novel rogue
 novelstudio
@@ -121106,6 +121249,7 @@ pavelbarak
 paw alliance
 pawffice
 pawn planet
+pawn shop simulator
 pawn.os()
 paws against the world
 pawsky
@@ -122022,6 +122166,7 @@ playstation
 playstation 2
 playstation2
 playtainment
+playto
 playtoons
 playtown 3
 plessie
@@ -123330,6 +123475,7 @@ race 'n dash
 race jam
 race max pro demo
 racer
+racer overdrive
 rachelle
 rachelle jacques
 rachellejacques
@@ -123447,6 +123593,7 @@ rake in - scoring big with monster girls!
 rake in grass
 rakein
 rakeingrass
+rakka: wake 01 - soot
 raleigh
 ralentissement
 ralentissement du poison
@@ -124911,6 +125058,7 @@ running with scissors
 runningwith
 runningwithscissors
 runpunk: the parkour game
+runway™
 rupert
 rupert cunningham
 rupertcunningham
@@ -127026,6 +127174,7 @@ snake eyes
 snake 贪吃蛇
 snakeeater
 snakes
+snap & grab
 snapshot spirit live!
 snapshots
 snatcher
@@ -130279,6 +130428,7 @@ the high tower
 the hit squad (ocean)
 the hobbit
 the holiday story
+the hollow
 the hollow lighthouse
 the honest little fisher
 the horror at highrook
@@ -130300,6 +130450,7 @@ the hunt begins
 the hunter's path
 the ice cream shop
 the iconfactory
+the illuminati simulator
 the immortal is watching
 the incite
 the incite group
@@ -130703,6 +130854,7 @@ the wide open sky is running out of catfish
 the wild eight
 the williams family sacrifice
 the wind waker
+the window 8:millennium
 the winter adventurer
 the winter mind
 the witch's disciples
@@ -132326,6 +132478,7 @@ type drivers
 type her to sleep
 type the rhythm demo
 type-noise: shonen shojo
+typer survivor
 typhoon
 typhoon games
 typhoongames
@@ -132965,6 +133118,8 @@ venanentertainment
 vendetta forever
 vendeur
 vendigo corporation
+vending machine co.
+vending machine co. - supporter pack
 venerable
 venikk
 venimeuse
@@ -133105,6 +133260,7 @@ victormusicalindustriesinc
 victorsullivan
 vida loka simulator
 video
+video chapel
 video gems
 video olympics
 video system
