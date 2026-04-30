@@ -2168,6 +2168,7 @@ ALLEMAGNEHONGRIE
 ALLERHEILIGEN
 ALLERHEILIGEN 2021
 ALLERHEILIGEN WO FEIERTAG
+ALLERTA METEO
 ALLES IN DE STRIJD
 ALLEZ LES BLEUS
 ALLIANZ
@@ -3729,6 +3730,7 @@ ATP GENF
 ATP Genf
 ATP HALLE
 ATP Halle
+ATP MADRID
 ATP MIAMI
 ATP MONTPELLIER
 ATP PARIS
@@ -9876,6 +9878,7 @@ BLOCAGES AGRICULTEURS
 BLOCHER
 BLOCKBUSTER
 BLOCKCHAIN
+BLOCKX ALEXANDER
 BLOCTEL
 BLOEDPROCESSIE BRUGGE
 BLOEMEN
@@ -15368,6 +15371,7 @@ CHARLES DE VILMORIN
 CHARLES DUMONT
 CHARLES II
 CHARLES III
+CHARLES III VAN HET VERENIGD KONINKRIJK
 CHARLES INGRAM
 CHARLES K. KAO
 CHARLES KUSHNER
@@ -16958,6 +16962,7 @@ CURLING-WM FRAUEN
 CURRY NBA
 CURRY STEPHEN
 CVAE
+CVE-2026-31431
 CVETKOVIC
 CYBER MONDAY
 CYBER MONDAY 2021
@@ -45682,6 +45687,7 @@ KRANKENKASSENPRÄMIEN 2023
 KRANKENKASSENPRÄMIEN 2025
 KRANKENKASSENPRÄMIEN 2026
 KRANKHEIT X KONGO
+KRANT VAN WEST-VLAANDEREN
 KRAV MAGA
 KRAVEN THE HUNTER
 KRC GENK
@@ -49467,6 +49473,7 @@ LUCAS WALLMARK
 LUCASHERNANDEZ
 LUCASTRONCHE
 LUCCA
+LUCCA BRUGHMANS
 LUCERNE
 LUCERNE FESTIVAL
 LUCETTE MICHAUX-CHEVRY
@@ -49547,6 +49554,7 @@ LUIK-BASTENAKEN-LUIK 2023
 LUINO
 LUIS DE LA FUENTE
 LUIS DIAZ
+LUIS DÍAZ
 LUIS ENRIQUE
 LUIS RUBIALES
 LUIS STITZINGER
@@ -53390,6 +53398,7 @@ MADONNA GRAMMY 2023
 MADOU
 MADRES PARALELAS
 MADRID
+MADRID OPEN
 MADS MIKKELSEN
 MADS PEDERSEN
 MADUEKE
@@ -64467,6 +64476,7 @@ OPIOMI
 OPLICHTING
 OPPENHEIMER
 OPPENHEIMER FILM
+OPPERSTE LEIDER VAN IRAN
 OPPO
 OPPO FIND N
 OPPO FIND N2 FLIP
@@ -65691,6 +65701,7 @@ PANSEXUELLE
 PANTELLERIA
 PANTHEON
 PANTHÈRE DES NEIGES
+PANTIN
 PANTONE 448C
 PANZERHAUBITZE 2000
 PANZERI
@@ -77712,6 +77723,7 @@ STEAL THE DEAL
 STEALTHING
 STEAM DECK
 STEAM DECK OLED
+STEAM MACHINE
 STECKBORN
 STEEKPARTIJ GEEL
 STEEL PAN
@@ -78278,6 +78290,7 @@ SURFEUSE ESPADON
 SURI CRUISE
 SURINAME
 SURMULOT
+SURPRODUCTION
 SURSEE
 SURSES
 SURSIS DE PEINE
@@ -89335,6 +89348,7 @@ VOLKAN OEZDEMIR
 VOLKANOVSKI
 VOLKER LECHTENBRINK
 VOLKER WISSING
+VOLKETSWIL
 VOLKSWAGEN
 VOLLE MAAN
 VOLLEY
@@ -92793,6 +92807,7 @@ YELLOWSTONE
 YELLOWSTONE PARK
 YEMEN
 YEMISI OGUNLEYE
+YEN
 YEOH
 YESS
 YESTERDAY
@@ -95521,6 +95536,8 @@ allerheiligen
 allerheiligen 2021
 allerheiligen wo feiertag
 allerheiligenwofeiertag
+allerta meteo
+allertameteo
 alles in de strijd
 allez les bleus
 allianz
@@ -97393,6 +97410,7 @@ atp dubai
 atp finals
 atp genf
 atp halle
+atp madrid
 atp miami
 atp montpellier
 atp paris
@@ -97406,6 +97424,7 @@ atp stuttgart
 atp-ranking
 atpdubai
 atpfinals
+atpmadrid
 atpmiami
 atpmontpellier
 atpqueen's
@@ -99529,6 +99548,8 @@ blocages agriculteurs
 blocher
 blockbuster
 blockchain
+blockx alexander
+blockxalexander
 bloctel
 bloedprocessie brugge
 bloemen
@@ -102014,6 +102035,7 @@ charles de vilmorin
 charles dumont
 charles ii
 charles iii
+charles iii van het verenigd koninkrijk
 charles ingram
 charles k. kao
 charles kushner
@@ -102031,6 +102053,7 @@ charles villeneuve
 charles-antoine kouakou
 charlesberling
 charlesdegaulle
+charlesiiivanhetverenigdkoninkrijk
 charlesingram
 charlesleclerc
 charlesmorerod
@@ -103958,6 +103981,8 @@ curlingwm2025frauen
 curry nba
 curry stephen
 cvae
+cve-2026-31431
+cve202631431
 cvetkovic
 cyber monday
 cyber monday 2021
@@ -117431,6 +117456,9 @@ krankenkassenprämien 2025
 krankenkassenprämien 2026
 krankenkassenprämien2026
 krankheit x kongo
+krant van west-vlaanderen
+krant van westvlaanderen
+krantvanwest-vlaanderen
 krav maga
 kraven the hunter
 krc genk
@@ -120319,6 +120347,8 @@ lucavierstraete
 lucbellings
 lucbesson
 lucca
+lucca brughmans
+luccabrughmans
 lucerne
 lucerne festival
 lucette michaux-chevry
@@ -120421,6 +120451,7 @@ luikbastenakenluik2025
 luino
 luis de la fuente
 luis diaz
+luis díaz
 luis enrique
 luis rubiales
 luis stitzinger
@@ -120429,6 +120460,8 @@ luis suárez
 luis vassy
 luis vazquez
 luisa neubauer
+luisdiaz
+luisdíaz
 luise freudenberg
 luissuarez
 luissuárez
@@ -120835,6 +120868,8 @@ madonna grammy 2023
 madou
 madres paralelas
 madrid
+madrid open
+madridopen
 mads mikkelsen
 mads pedersen
 madueke
@@ -126519,6 +126554,8 @@ oplichting
 oppenheimer
 oppenheimer film
 oppenheimerfilm
+opperste leider van iran
+oppersteleidervaniran
 oppo
 oppo find n
 oppo find n2 flip
@@ -126961,6 +126998,7 @@ pansexuelle
 pantelleria
 pantheon
 panthère des neiges
+pantin
 pantone 448c
 panzerhaubitze 2000
 panzeri
@@ -130480,6 +130518,7 @@ resident evil 4
 resident evil 4 remake
 resident evil : infinite darkness
 resident evil netflix
+residentevil
 residentevil:infinitedarkness
 resilience
 resistance in belgium
@@ -133305,6 +133344,7 @@ simone thomalla
 simone veil
 simone weil
 simone-veil
+simonebiles
 simonehammer
 simonetta sommaruga
 simongauzy
@@ -134483,6 +134523,8 @@ steal the deal
 stealthing
 steam deck
 steam deck oled
+steam machine
+steammachine
 steckborn
 steekpartij geel
 steel pan
@@ -135170,6 +135212,7 @@ surfeuse espadon
 suri cruise
 suriname
 surmulot
+surproduction
 sursee
 surses
 sursis de peine
@@ -139547,6 +139590,7 @@ volkan oezdemir
 volkanovski
 volker lechtenbrink
 volker wissing
+volketswil
 volkswagen
 volle maan
 vollemaan
@@ -140873,6 +140917,7 @@ yellowstone park
 yellowstonepark
 yemen
 yemisi ogunleye
+yen
 yeoh
 yess
 yesterday
