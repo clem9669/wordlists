@@ -83,6 +83,7 @@
 1.August2022
 1.AugustSchweiz
 1.MAI FEIERTAG SCHWEIZ
+1.MAI FEIERTAG WO
 1.Mai-DemoZürich
 1.MaiBern
 1.MaiDeutschland
@@ -98,7 +99,9 @@
 1.augustSchweiz
 1.mai Feiertag Schweiz
 1.mai feiertag schweiz
+1.mai feiertag wo
 1.maiFeiertagSchweiz
+1.maifeiertagwo
 1.novemberFeiertag
 10 FÉVRIER HOROSCOPE
 10 JULI VOLLMOND
@@ -3933,6 +3936,7 @@ AUSWÄRTIGES AMT REISEWARNUNGEN ZYPERN
 AUSWÄRTIGES AMT WARNT VOR EU LAND
 AUTAIN
 AUTISMUS
+AUTO
 AUTO AUF SKIPISTE
 AUTO UNFALL AXENSTRASSE
 AUTOBAHN A2 BASEL
@@ -8910,6 +8914,7 @@ BAUER SUCHT FRAU NAMIBIA
 BAUER SUCHT FRAU RTL
 BAUER, LEDIG, SUCHT
 BAUERNHOF BRAND GÜNSBERG
+BAUERNREGEL
 BAUGERUST ZURICH OERLIKON
 BAUGERÜST ZÜRICH OERLIKON
 BAUKE MOLLEMA
@@ -16580,6 +16585,7 @@ COSTA TITCH
 COSTA-GAVRAS
 COSTCO
 COSTCO SCHWEIZ
+COTE BELGE
 COTE D'IVOIRE
 COTE D'IVOIRE EGYPTE
 COTE D'IVOIRE FOOT
@@ -20911,6 +20917,7 @@ DAS TRAUMSCHIFF
 DASSAULT RAFALE
 DASSAULT SYSTEMES BOURSE
 DASSAULT SYSTÈMES BOURSE
+DATALEK
 DATE LIMITE DÉCLARATION IMPÔTS REVENUS
 DATES DES SOLDES D'HIVER
 DAUM
@@ -28477,6 +28484,7 @@ FALLON SHERROCK
 FALLOUT
 FALLOUT 3 REMASTERED
 FALSCHE SERAFE MAILS
+FALSCHFAHRER
 FALSTAFF
 FALUN
 FAMILIE
@@ -39266,6 +39274,7 @@ IRAN ANGRIFF KATAR
 IRAN ATTAQUE ISRAEL
 IRAN DETROIT ORMUZ
 IRAN EXPLOSION HAFEN
+IRAN GUERRE
 IRAN ISRAEL
 IRAN ISRAEL AKTUELL
 IRAN ISRAEL ANGRIFF
@@ -47424,9 +47433,11 @@ LA FIEVRE
 LA FILLE AU BRACELET
 LA FILLE COUPÉE EN DEUX
 LA FINE FLEUR
+LA FLECHE
 LA FLECHE BRABANCONNE 2026
 LA FLECHE WALLONNE 2022
 LA FLEUR DU MAL
+LA FLÈCHE
 LA FOLLE HISTOIRE DE MAX ET LÉON
 LA FOUINE SION SOUS LES ETOILES
 LA FOULY
@@ -49163,6 +49174,7 @@ LONZA AKTIE
 LOOK BOTH WAYS
 LOOKMAN
 LOOM
+LOONINDEXERING
 LOOP EARPLUGS
 LOPETEGUI
 LORD LUCAN
@@ -72586,6 +72598,7 @@ ROYAN
 ROYAUME UNI GUERRE IRAN
 ROYAUME-UNI
 ROYAUME-UNI CIGARETTES
+RR VS DC
 RR VS LSG
 RR VS RCB
 RS VIRUS
@@ -77034,6 +77047,7 @@ SOL BAMBA
 SOLANA
 SOLANA PROGNOSE
 SOLANN
+SOLARSTROM
 SOLBAD SCHÖNBÜHL
 SOLDAT AMÉRICAIN CORÉE DU NORD
 SOLDATS NORD COREENS
@@ -83678,9 +83692,11 @@ TIM WALZ
 TIM WELLENS
 TIMAL
 TIMBERWOLVES - LAKERS
+TIMBERWOLVES - NUGGETS
 TIMBERWOLVES - THUNDER
 TIMBERWOLVES - WARRIORS
 TIMBERWOLVES – LAKERS
+TIMBERWOLVES – NUGGETS
 TIMBERWOLVES – THUNDER
 TIMBERWOLVES – WARRIORS
 TIME
@@ -97649,6 +97665,7 @@ auswärtigesamtreisewarnungenzypern
 auswärtigesamtwarntvoreuland
 autain
 autismus
+auto
 auto auf skipiste
 auto unfall axenstrasse
 autobahn a2 basel
@@ -98438,6 +98455,7 @@ bauer sucht frau rtl
 bauer, ledig, sucht
 bauerfriedrichbauersuchtfrauselina
 bauernhof brand günsberg
+bauernregel
 bauersuchtfraubauerfriedrichlaura
 bauersuchtfraufriedrich
 bauersuchtfrauinsachristoph
@@ -103078,6 +103096,7 @@ colin farrell
 colin powell
 coline berry
 coline serreau
+colineberry
 colinfarrell
 colle delle finestre
 colledellefinestre
@@ -103499,12 +103518,14 @@ costa-gavras
 costco
 costco schweiz
 costcoschweiz
+cote belge
 cote d'ivoire
 cote d'ivoire egypte
 cote d'ivoire foot
 cote d'ivoire nigeria
 cote divoire foot
 cote landaise
+cotebelge
 coted'ivoirefoot
 cotentin
 cotignac
@@ -104471,6 +104492,7 @@ dassault systèmes bourse
 dassaultrafale
 dassaultsystemesbourse
 dassaultsystèmesbourse
+datalek
 date limite déclaration impôts revenus
 dates des soldes d'hiver
 daum
@@ -108117,6 +108139,7 @@ fallout3remastered
 fallrebeccareusch
 falsche serafe mails
 falscheserafemails
+falschfahrer
 falstaff
 falun
 familie
@@ -114174,6 +114197,7 @@ iran angriff katar
 iran attaque israel
 iran detroit ormuz
 iran explosion hafen
+iran guerre
 iran israel
 iran israel aktuell
 iran israel angriff
@@ -114192,6 +114216,7 @@ iranalikhamenei
 iranangriffkatar
 irandetroitormuz
 iranexplosionhafen
+iranguerre
 iranische raketen
 iranischeraketen
 iranisrael
@@ -115206,6 +115231,7 @@ jeanne dielman
 jeanne du barry
 jeanne mas
 jeanne moreau
+jeannemas
 jeannette
 jeannie longo
 jeannoelbarrot
@@ -117795,9 +117821,11 @@ la fievre
 la fille au bracelet
 la fille coupée en deux
 la fine fleur
+la fleche
 la fleche brabanconne 2026
 la fleche wallonne 2022
 la fleur du mal
+la flèche
 la folle histoire de max et léon
 la fouine sion sous les etoiles
 la fouly
@@ -118020,8 +118048,10 @@ lafc–flamengo
 lafc–intermiami
 lafesse
 lafinefleur
+lafleche
 laflechebrabanconne2026
 lafleurdumal
+laflèche
 lafouinesionsouslesetoiles
 lafouly
 lafranceinsoumise
@@ -119971,6 +120001,7 @@ lonzaaktie
 look both ways
 lookman
 loom
+loonindexering
 loop earplugs
 lopetegui
 lord lucan
@@ -127865,6 +127896,7 @@ peterbos anderlecht
 peterbosanderlecht
 peterderoover
 petereggenberger
+peterfalk
 petergreene
 peterknabel
 peterknäbel
@@ -131408,8 +131440,10 @@ royaume-uni
 royaume-uni cigarettes
 royaumeuniguerreiran
 royayers
+rr vs dc
 rr vs lsg
 rr vs rcb
+rrvsdc
 rrvslsg
 rrvsrcb
 rs virus
@@ -133708,6 +133742,7 @@ solana
 solana prognose
 solanaprognose
 solann
+solarstrom
 solbad schönbühl
 soldat américain corée du nord
 soldats nord coreens
@@ -135560,6 +135595,7 @@ tag der frau 2024
 tag der pflege 2023
 tag heuer
 taganrog
+tagderarbeit
 tagderdeutscheneinheit
 tagdererde
 tages anzeiger
@@ -136643,15 +136679,19 @@ tim walz
 tim wellens
 timal
 timberwolves - lakers
+timberwolves - nuggets
 timberwolves - thunder
 timberwolves - warriors
 timberwolves – lakers
+timberwolves – nuggets
 timberwolves – thunder
 timberwolves – warriors
 timberwolves-lakers
+timberwolves-nuggets
 timberwolves-thunder
 timberwolves-warriors
 timberwolves–lakers
+timberwolves–nuggets
 timberwolves–thunder
 timberwolves–warriors
 time
