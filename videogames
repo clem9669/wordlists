@@ -1614,12 +1614,14 @@ A BALL ID
 A BLOCC WORLD
 A BOTTLED UP ISLAND
 A BUILDING FULL OF CATS 2
+A BUMPY RIDE
 A BYTE WAR
 A Bad Christmas Story
 A Ball id
 A Blocc World
 A Bottled Up Island
 A Building Full of Cats 2
+A Bumpy Ride
 A Byte War
 A CAFÉ COUPLE'S JOYFUL LIFE OF RESISTANCE
 A CALL FROM UNDER THE HOUSE
@@ -1969,6 +1971,7 @@ ABallid
 ABloccWorld
 ABottledUpIsland
 ABuildingFullofCats2
+ABumpyRide
 AByteWar
 AC COBRA
 AC Cobra
@@ -2305,7 +2308,10 @@ AFFECT
 AFFINITY
 AFK SHIFT
 AFK Shift
+AFK TACTICS
+AFK Tactics
 AFKShift
+AFKTactics
 AFL
 AFL 26
 AFL26
@@ -2360,6 +2366,7 @@ AGE OF EMPIRES II: DE – THE LAST CHIEFTAINS
 AGE OF EMPIRES II: DEFINITIVE EDITION
 AGE OF EMPIRES III
 AGE OF EMPIRES IV: ANNIVERSARY EDITION
+AGE OF GODS
 AGE OF HISTORY II
 AGE OF MEMOLOGY
 AGE OF MYTHOLOGY: RETOLD - EXPANSION PASS
@@ -2742,6 +2749,7 @@ ALL-STAR
 ALL-STAR BASEBALL
 ALL-STARBASEBALL
 ALL-STARS
+ALLELON
 ALLEN
 ALLEN SNIDER
 ALLENSNIDER
@@ -3829,8 +3837,11 @@ ASCGames
 ASCII
 ASCII ENTERTAINMENT
 ASCII RIFT
+ASCII SURVIVORS
+ASCII Survivors
 ASCII-RIFT
 ASCIIENTERTAINMENT
+ASCIISurvivors
 ASCIIWARE
 ASD
 ASFALIA: THE CRANKY VOLCANO SOUNDTRACK
@@ -4844,6 +4855,7 @@ Age of Empires II: DE - The Last Chieftains
 Age of Empires II: DE – The Last Chieftains
 Age of Empires II: Definitive Edition
 Age of Empires IV: Anniversary Edition
+Age of Gods
 Age of History II
 Age of Memology
 Age of Mythology: Retold   Expansion Pass
@@ -4879,6 +4891,7 @@ AgeofEmpires
 AgeofEmpiresII:DE–TheLastChieftains
 AgeofEmpiresII:DefinitiveEdition
 AgeofEmpiresIV:AnniversaryEdition
+AgeofGods
 AgeofHistoryII
 AgeofMemology
 AgeofMythology:Retold-ExpansionPass
@@ -5214,6 +5227,7 @@ AllStars
 AllSystemsOperational
 AllYouHavetoDoIsClicktheButton
 AllYourBaseAreBelongToUs
+Allelon
 Allen
 Allen Snider
 AllenSnider
@@ -7255,6 +7269,7 @@ BAM!
 BAM! ENTERTAINMENT
 BAM!ENTERTAINMENT
 BAMBAS!
+BANANA BELT MINER
 BANANA DRAMA
 BANANA LOCO
 BANANAGANZA
@@ -7958,6 +7973,7 @@ BERWICK
 BERWICK PRODUCTIONS
 BERWICKPRODUCTIONS
 BERZERK
+BESITUPIA: MEDIATOR
 BESNARD
 BEST
 BEST MEDIA
@@ -8552,6 +8568,7 @@ BLITZ
 BLITZ ARCADE
 BLITZ GAME
 BLITZ GAMES
+BLITZ HAUL
 BLITZARCADE
 BLITZGAME
 BLITZGAMES
@@ -9962,8 +9979,10 @@ Bam! Entertainment
 Bam!Entertainment
 BamBamBoom
 Bambas!
+Banana Belt Miner
 Banana Drama
 Banana Loco
+BananaBeltMiner
 BananaDrama
 BananaLoco
 Bananaganza
@@ -10708,6 +10727,8 @@ Berwick
 Berwick Productions
 BerwickProductions
 Berzerk
+Besitupia: Mediator
+Besitupia:Mediator
 Besnard
 Best
 Best Media
@@ -11373,9 +11394,11 @@ Blitz
 Blitz Arcade
 Blitz Game
 Blitz Games
+Blitz Haul
 BlitzArcade
 BlitzGame
 BlitzGames
+BlitzHaul
 Blitzkrieg Express
 BlitzkriegExpress
 Blitzstrike
@@ -12922,6 +12945,7 @@ CANDYKONG
 CANDYLANDS JOURNEY
 CANDYSTAND
 CANE
+CANINE DERBY MANAGER
 CANKENDAMA
 CANNE
 CANNE A PECHE
@@ -13249,6 +13273,7 @@ CAT SIMULATOR: MEOW
 CAT SPAWN
 CAT SPAWN EGG
 CAT SYNDICATE: ISTANBUL
+CAT WATCH
 CAT'S SHOWDOWN
 CATABOUM
 CATACLYSMIC BITE
@@ -13739,6 +13764,7 @@ CHESHIREENGINEERING
 CHESS AI
 CHESS EMPIRE
 CHESS HUNT
+CHESS KINGDOM
 CHESS OF FIVE ELEMENTS
 CHESS OF MANA
 CHESS WITH IDIOTS
@@ -13923,6 +13949,7 @@ CHOIROCCHOIROC
 CHOIROCGEANT
 CHOIROCGEANTCHOIROCGEANT
 CHOMP
+CHOO CHOO BOOM BOOM
 CHOOSE
 CHOOSE YOUR OWN ALTERNATIVE
 CHOP
@@ -15609,6 +15636,7 @@ CURSED CASTLE
 CURSED CORE
 CURSED DEAL
 CURSED HOUSE 15
+CURSED ISLE
 CURSED PRESENCE
 CURSED STATION
 CURSEWORDS
@@ -15979,6 +16007,8 @@ Candylands Journey
 CandylandsJourney
 Candystand
 Cane
+Canine Derby Manager
+CanineDerbyManager
 Canne
 Canne à
 Canne à peche
@@ -16394,6 +16424,7 @@ Cat Simulator: Meow
 Cat Spawn
 Cat Spawn Egg
 Cat Syndicate: Istanbul
+Cat Watch
 Cat at Home
 Cat carried Butterfly
 Cat s Showdown
@@ -16417,6 +16448,7 @@ CatSimulator:Meow
 CatSpawn
 CatSpawnEgg
 CatSyndicate:Istanbul
+CatWatch
 Cataboum
 Cataclysmic Bite
 CataclysmicBite
@@ -16882,6 +16914,7 @@ CheshireEngineering
 Chess AI
 Chess Empire
 Chess Hunt
+Chess Kingdom
 Chess With Idiots
 Chess of Five Elements
 Chess of Mana
@@ -16891,6 +16924,7 @@ ChessAI
 ChessBoyChess
 ChessEmpire
 ChessHunt
+ChessKingdom
 ChessMatch
 ChessRPG Demo
 ChessRPGDemo
@@ -17108,6 +17142,8 @@ ChoirocGeantChoirocGeant
 ChoirocGéant
 ChoirocGéantChoirocGéant
 Chomp
+Choo Choo Boom Boom
+ChooChooBoomBoom
 Choose
 Choose Your Own Alternative
 ChooseYourOwnAlternative
@@ -19074,6 +19110,7 @@ Cursed Castle
 Cursed Core
 Cursed Deal
 Cursed House 15
+Cursed Isle
 Cursed Presence
 Cursed station
 CursedArmor2
@@ -19081,6 +19118,7 @@ CursedCastle
 CursedCore
 CursedDeal
 CursedHouse15
+CursedIsle
 CursedPresence
 Cursedstation
 CurseofWoney
@@ -20518,6 +20556,7 @@ DIDI
 DIE
 DIE GUTE
 DIE GUTE FABRIK
+DIE IN THE DUNGEON
 DIEGO
 DIEGUTE
 DIEGUTEFABRIK
@@ -21121,6 +21160,7 @@ DORONDORON
 DOROTHEE
 DOROTHY'S JOB
 DOS
+DOSTAVKA
 DOT ART LOGIC
 DOT8
 DOT8 STUDIO
@@ -21480,6 +21520,7 @@ DRILLDOZER
 DRILLER
 DRINK HUMAN BEANS
 DRINKHUMANBEANS
+DRIPDRIP - MONITOR HORROR モニターホラー !
 DRISIAHFRIEDLANDER
 DRIVAPP
 DRIVE
@@ -23225,9 +23266,11 @@ DidyouvisitCommutatorApply
 Die
 Die Gute
 Die Gute Fabrik
+Die in the Dungeon
 DieGute
 DieGuteFabrik
 Diego
+DieintheDungeon
 Dieter
 Dieter Sonnekalb
 DieterSonnekalb
@@ -24380,6 +24423,10 @@ DrillDozer
 DrillRift
 DrillandDelve
 Driller
+DripDrip   Monitor Horror モニターホラー !
+DripDrip - Monitor Horror ??????? !
+DripDrip - Monitor Horror モニターホラー !
+DripDrip-MonitorHorrorモニターホラー!
 DrivApp
 Drive
 Drive And Unwind
@@ -25502,6 +25549,7 @@ EMMA KLIESEN
 EMMA'S UMBRELLA
 EMMAKLIESEN
 EMME
+EMOJI CATCHER
 EMOJIFICATION
 EMOTELAB
 EMOTION
@@ -26139,6 +26187,7 @@ EXILIUM: KIRO
 EXIT
 EXIT - N.F.
 EXIT DREAM
+EXIT LOOPS - STREET 001
 EXIT PLAN
 EXIT STRATEGY
 EXIT TOGETHER
@@ -26885,6 +26934,8 @@ Emma's Umbrella
 Emma'sUmbrella
 EmmaKliesen
 Emme
+Emoji Catcher
+EmojiCatcher
 Emojification
 EmoteLab
 Emotion
@@ -27619,6 +27670,8 @@ Exit
 Exit   N.F.
 Exit - N.F.
 Exit Dream
+Exit Loops   Street 001
+Exit Loops - Street 001
 Exit Plan
 Exit Strategy
 Exit Together
@@ -27626,6 +27679,7 @@ Exit-N.F.
 Exit: Echoes of insanity
 Exit:Echoesofinsanity
 ExitDream
+ExitLoops-Street001
 ExitPlan
 ExitStrategy
 ExitTogether
@@ -31773,6 +31827,7 @@ GAMANIADIGITAL
 GAMANIADIGITALENTERTAINMENT
 GAMBARION
 GAMBETTE
+GAMBLE WITH YOUR FRIENDS
 GAMBLE YOUR BREATH
 GAMBLER'S FALLACY
 GAMBLERS
@@ -32013,6 +32068,7 @@ GATEBREAKERS
 GATEOFTHUNDER
 GATES
 GATES OF EDEN
+GATHER CCG
 GATHERING
 GATHERING OF
 GATHERING OF DEVELOPERS
@@ -33626,7 +33682,9 @@ GamaniaDigital
 GamaniaDigitalEntertainment
 Gambarion
 Gambette
+Gamble With Your Friends
 Gamble Your Breath
+GambleWithYourFriends
 GambleYourBreath
 Gambler s Fallacy
 Gambler's Fallacy
@@ -33908,6 +33966,8 @@ GateofThunder
 Gates
 Gates of Eden
 GatesofEden
+Gather CCG
+GatherCCG
 Gathering
 Gathering of
 Gathering of Developers
@@ -35687,6 +35747,7 @@ HANRAHAN
 HANZ
 HANZO
 HAO
+HAP TO DAY
 HAPPINESS! SAKURA CELEBRATION!
 HAPPY
 HAPPY BLUE
@@ -35993,6 +36054,8 @@ HEARTOFTHESEA
 HEARTOPIA
 HEARTREASURE: STELLAR JOURNEY
 HEARTS
+HEARTS OF IRON IV
+HEARTS OF IRON IV: GENERAL EDITION
 HEARTSPELL: HORIZON ACADEMY
 HEART_OF_THE_SEA
 HEAT
@@ -37273,6 +37336,7 @@ Hanrahan
 Hanz
 Hanzo
 Hao
+Hap to Day
 Happiness! Sakura Celebration!
 Happiness!SakuraCelebration!
 Happy
@@ -37303,6 +37367,7 @@ HappyPiggy2
 HappyPuppy
 HappyTrails
 HappyTreasureKing
+HaptoDay
 Hard
 Hard Drive
 Hard Truck
@@ -37627,6 +37692,10 @@ Heartopia
 Heartreasure: Stellar Journey
 Heartreasure:StellarJourney
 Hearts
+Hearts of Iron IV
+Hearts of Iron IV: General Edition
+HeartsofIronIV
+HeartsofIronIV:GeneralEdition
 Heartspell: Horizon Academy
 Heartspell:HorizonAcademy
 Heat
@@ -41590,6 +41659,7 @@ JIGGLY STRIKE
 JIGGLYPUFF
 JIGSAW INDUSTRY
 JIGSAW PUZZLE
+JIGSAW PUZZLE PALACE
 JIINFENG
 JILL
 JILL VALENTINE
@@ -42407,8 +42477,10 @@ JigglyStrike
 Jigglypuff
 Jigsaw Industry
 Jigsaw Puzzle
+Jigsaw Puzzle Palace
 JigsawIndustry
 JigsawPuzzle
+JigsawPuzzlePalace
 JiinFeng
 Jill
 Jill Valentine
@@ -50513,6 +50585,7 @@ MEGASTORE SIMULATOR: PROLOGUE
 MEHDI
 MEI
 MEI LING
+MEI MUSIC
 MEI PARANORMIES
 MEIER'S
 MEIERS
@@ -50570,6 +50643,7 @@ MELONSMILKSHAKE:JUICYBATTLEFIELD
 MELSTORM GAME
 MELT ABYSS
 MELTING INTO AOI’S WORLD - AFTER STORY, ART & ANIMATION PACK
+MELTOPIA
 MELTZER
 MEMBRANE
 MEMBRANE DE PHANTOM
@@ -53757,8 +53831,10 @@ MegastoreSimulator:Prologue
 Mehdi
 Mei
 Mei Ling
+Mei Music
 Mei Paranormies
 MeiLing
+MeiMusic
 MeiParanormies
 Meier's
 Meiers
@@ -53824,6 +53900,7 @@ Melting into Aoi’s World   After Story, Art & Animation Pack
 Melting into Aoi’s World - After Story, Art   Animation Pack
 Melting into Aoi’s World - After Story, Art & Animation Pack
 MeltingintoAoi’sWorld-AfterStory,Art&AnimationPack
+Meltopia
 Meltzer
 Membrane
 Membrane de Phantom
@@ -73216,6 +73293,7 @@ SOULMASK
 SOULMASK - THE GOLDEN LEGEND
 SOULMASK: SHIFTING SANDS
 SOULMON
+SOULQUEST
 SOULREAVER
 SOULS
 SOULSTONE SURVIVORS
@@ -74012,6 +74090,7 @@ STICKMENSTUDIOS
 STICKS
 STICKS THE BADGER
 STICKSTHEBADGER
+STICKY FINGERS
 STIFF NECK
 STIGMA: THE SALEM LEGACY
 STIGMA: The Salem Legacy
@@ -74206,6 +74285,7 @@ STRIDER_SPAWN_EGG
 STRIFE
 STRIKE
 STRIKE & RESIST
+STRIKE AGAIN VR
 STRIKE BACK
 STRIKER
 STRIKERS
@@ -77874,6 +77954,7 @@ SoulEdge
 SoulEyesDemon:RemakeEyes
 SoulMates
 SoulMonstersCardGame
+SoulQuest
 SoulReaver
 SoulReflex
 SoulRiders
@@ -78861,6 +78942,8 @@ StickmenStudios
 Sticks
 Sticks the Badger
 StickstheBadger
+Sticky Fingers
+StickyFingers
 Stiff Neck
 StiffNeck
 Still Here
@@ -79104,8 +79187,10 @@ Strife
 Strike
 Strike   Resist
 Strike & Resist
+Strike Again VR
 Strike Back
 Strike&Resist
+StrikeAgainVR
 StrikeBack
 Striker
 Strikers
@@ -81005,6 +81090,7 @@ THE BROKEN DAWN
 THE BROTHERS HOTEL
 THE BUBONICZ
 THE BULLET HELL
+THE BUNKER NOTES - HORROR/DRAMA VISUAL NOVEL
 THE BUTCHER
 THE BUTCHER'S VILLAGE™
 THE BUTLER
@@ -81134,6 +81220,7 @@ THE END OF GAMEPLAY
 THE END OF HISTORY
 THE END OF PARADISE
 THE END OF THE WORLD AND HER ROOM
+THE ENDLESS VILLAGE
 THE ENIGMA LOUNGE
 THE ENTITY WITHIN
 THE ERASED STUDENT
@@ -81150,6 +81237,7 @@ THE FALCONEER: REVOLUTION REMASTER
 THE FALLING STAR
 THE FALSE CULPRIT
 THE FALSE GOD'S FOLD
+THE FAMILY TRIP
 THE FARMER & THE CHICKEN
 THE FARMER WAS REPLACED
 THE FAT CAT FEST
@@ -81162,6 +81250,7 @@ THE FIFTH BELL
 THE FINAL
 THE FINAL ESCAPE
 THE FINAL PRINT
+THE FINAL STAY - CHAPTER 1
 THE FINALS   Season 10 Ultimate Battle Pass Bundle
 THE FINALS   Season 7: Ultimate Battle Pass Bundle
 THE FINALS   Season 8: Ultimate Battle Pass Bundle
@@ -81394,6 +81483,7 @@ THE LONG TALE
 THE LONG WINTER: I AM NOT AN ANIMAL
 THE LOOP BELOW
 THE LORD OF THE RINGS: RETURN TO MORIA™
+THE LOST
 THE LOST SHEEP
 THE LOST VIKINGS
 THE LOVE'S ORDEAL
@@ -82266,6 +82356,7 @@ TINY PAWS
 TINY PIXELS VOL. 2 - STORMY KNIGHTS
 TINY RACING
 TINY SHADOWS INTERWOVEN HEARTS
+TINY SPACE PIRATE
 TINY TIGER
 TINY TOON ADVENTURES
 TINY TOON ADVENTURES: ACME ALL-STARS
@@ -84375,6 +84466,8 @@ The Broken Dawn
 The Brothers Hotel
 The BubonicZ
 The Bullet Hell
+The Bunker Notes   Horror/Drama Visual Novel
+The Bunker Notes - Horror/Drama Visual Novel
 The Butcher
 The Butcher s Village™
 The Butcher's Village(TM)
@@ -84497,6 +84590,7 @@ The End Is Nigh
 The End of Gameplay
 The End of History
 The End of the World and Her Room
+The Endless Village
 The Enigma Lounge
 The Entity Within
 The Erased Student
@@ -84514,6 +84608,7 @@ The Falling Star
 The False Culprit
 The False God s Fold
 The False God's Fold
+The Family Trip
 The Farmer   the Chicken
 The Farmer & the Chicken
 The Farmer Was Replaced
@@ -84527,6 +84622,8 @@ The Fifth Bell
 The Final
 The Final Escape
 The Final Print
+The Final Stay   Chapter 1
+The Final Stay - Chapter 1
 The Firm
 The First Foreigner
 The First Mine
@@ -84736,6 +84833,7 @@ The Long Winter: I Am Not an Animal
 The Loop Below
 The Lord of the Rings: Return to Moria(TM)
 The Lord of the Rings: Return to Moria™
+The Lost
 The Lost Sheep
 The Lost Vikings
 The Love s Ordeal
@@ -85154,6 +85252,7 @@ TheBrokenDawn
 TheBrothersHotel
 TheBubonicZ
 TheBulletHell
+TheBunkerNotes-Horror/DramaVisualNovel
 TheButcher
 TheButcher'sVillage™
 TheButler
@@ -85269,6 +85368,7 @@ TheEmptyEyes
 TheEmptyHalls
 TheEndGrows
 TheEndIsNigh
+TheEndlessVillage
 TheEndofGameplay
 TheEndofHistory
 TheEndoftheWorldandHerRoom
@@ -85287,6 +85387,7 @@ TheFalconeer:RevolutionRemaster
 TheFallingStar
 TheFalseCulprit
 TheFalseGod'sFold
+TheFamilyTrip
 TheFarmer&theChicken
 TheFarmerWasReplaced
 TheFatCatFest
@@ -85299,6 +85400,7 @@ TheFifthBell
 TheFinal
 TheFinalEscape
 TheFinalPrint
+TheFinalStay-Chapter1
 TheFirm
 TheFirstForeigner
 TheFirstMine
@@ -85491,6 +85593,7 @@ TheLongTale
 TheLongWinter:IAmNotanAnimal
 TheLoopBelow
 TheLordoftheRings:ReturntoMoria™
+TheLost
 TheLostSheep
 TheLostVikings
 TheLove'sOrdeal
@@ -86229,6 +86332,7 @@ Tiny Toon Adventures: ACME AllStars
 Tiny Toons Wacky Sports
 Tiny Treats
 Tiny Whiny Island
+Tiny space pirate
 Tiny: The Last Wayfinder
 Tiny:TheLastWayfinder
 TinyBomberDemo
@@ -86255,6 +86359,7 @@ TinyToonAdventures:ACMEAllStars
 TinyToonsWackySports
 TinyTreats
 TinyWhinyIsland
+Tinyspacepirate
 TipCat
 TipCat Mobile
 TipCatMobile
@@ -87858,6 +87963,7 @@ UNIVERSITY DAYS - SEASON 1
 UNIVERSITY IS HELL
 UNIVERSOMO
 UNKNOWN
+UNKNOWN ENTITY
 UNKNOWN EXPLORER
 UNKNOWN FLUFFY OBJECT
 UNKNOWN HOST
@@ -88293,9 +88399,11 @@ UniversityDays-Season1
 UniversityIsHell
 Universomo
 Unknown
+Unknown Entity
 Unknown Explorer
 Unknown Fluffy Object
 Unknown Host
+UnknownEntity
 UnknownExplorer
 UnknownFluffyObject
 UnknownHost
@@ -90998,6 +91106,7 @@ WORKSHOP
 WORLD
 WORLD ETERNAL ONLINE
 WORLD HEROES
+WORLD HEROES PERFECT
 WORLD OF
 WORLD OF EGGS: IDLE ADVENTURES DEMO
 WORLD OF ILLUSION
@@ -91018,6 +91127,7 @@ WORLD WAR Z VR
 WORLD WONDERS HIDDEN HISTORIES 3
 WORLD WONDERS: HIDDEN HISTORIES
 WORLDHEROES
+WORLDHEROESPERFECT
 WORLDLINE: GAME SAVER
 WORLDOF
 WORLDOFILLUSION
@@ -92837,6 +92947,7 @@ YASHA: LEGENDS OF THE DEMON BLADE - ARTBOOK
 YASHA: LEGENDS OF THE DEMON BLADE - ORIGINAL SOUNDTRACK
 YASHA: LEGENDS OF THE DEMON BLADE - SINGLES
 YASHICHI
+YAXI TAXI
 YAYA
 YAYA PANDA
 YAYAKO
@@ -92962,6 +93073,7 @@ YOU ARE THE BOMB: A GAME ABOUT ROLLING BOMBS
 YOU ARE THE LIGHT – AN AUDIOVISUAL VR JOURNEY
 YOU BELONG HERE
 YOU CAN'T CORRUPT ME! ~TALE OF A NAIVE ELVEN SWORDSWOMAN~
+YOU CAN'T RING IT
 YOU DIE TODAY
 YOU DON'T KNOW
 YOU DON'T KNOW JACK
@@ -93203,6 +93315,8 @@ Yasha:LegendsoftheDemonBlade-Artbook
 Yasha:LegendsoftheDemonBlade-OriginalSoundtrack
 Yasha:LegendsoftheDemonBlade-Singles
 Yashichi
+Yaxi Taxi
+YaxiTaxi
 Yaya
 Yaya Panda
 YayaPanda
@@ -93351,7 +93465,9 @@ You
 You Are Speed
 You Belong Here
 You Can t Corrupt Me! ~Tale of a Naive Elven Swordswoman~
+You Can t Ring It
 You Can't Corrupt Me! ~Tale of a Naive Elven Swordswoman~
+You Can't Ring It
 You Die Today
 You Don't Know
 You Don't Know Jack
@@ -93376,6 +93492,7 @@ You'veChangedDemo
 YouAreSpeed
 YouBelongHere
 YouCan'tCorruptMe!~TaleofaNaiveElvenSwordswoman~
+YouCan'tRingIt
 YouDieToday
 YouDon'tKnow
 YouDon'tKnowJack
@@ -94286,6 +94403,7 @@ a ball id
 a blocc world
 a bottled up island
 a building full of cats 2
+a bumpy ride
 a byte war
 a café couple's joyful life of resistance
 a call from under the house
@@ -94777,6 +94895,7 @@ affair
 affect
 affinity
 afk shift
+afk tactics
 afl
 afl 26
 after
@@ -94824,6 +94943,7 @@ age of empires ii: de – the last chieftains
 age of empires ii: definitive edition
 age of empires iii
 age of empires iv: anniversary edition
+age of gods
 age of history ii
 age of memology
 age of mythology: retold - expansion pass
@@ -95156,6 +95276,7 @@ all-star
 all-star baseball
 all-starbaseball
 all-stars
+allelon
 allen
 allen snider
 allensnider
@@ -96182,6 +96303,7 @@ ascension: the immortal alchemist
 ascgames
 ascii
 ascii entertainment
+ascii survivors
 ascii-rift
 asciientertainment
 asciiware
@@ -96943,6 +97065,7 @@ bam!
 bam! entertainment
 bam!entertainment
 bambas!
+banana belt miner
 banana drama
 banana loco
 bananaganza
@@ -97623,6 +97746,7 @@ berwick
 berwick productions
 berwickproductions
 berzerk
+besitupia: mediator
 besnard
 best
 best media
@@ -98201,6 +98325,7 @@ blitz
 blitz arcade
 blitz game
 blitz games
+blitz haul
 blitzarcade
 blitzgame
 blitzgames
@@ -99537,6 +99662,7 @@ candykong
 candylands journey
 candystand
 cane
+canine derby manager
 cankendama
 canne
 canne a peche
@@ -99861,6 +99987,7 @@ cat simulator: meow
 cat spawn
 cat spawn egg
 cat syndicate: istanbul
+cat watch
 cat's showdown
 cataboum
 cataclysmic bite
@@ -100306,6 +100433,7 @@ cheshireengineering
 chess ai
 chess empire
 chess hunt
+chess kingdom
 chess of five elements
 chess of mana
 chess with idiots
@@ -100491,6 +100619,7 @@ choirocgeantchoirocgeant
 choirocgéant
 choirocgéantchoirocgéant
 chomp
+choo choo boom boom
 choose
 choose your own alternative
 chop
@@ -102140,6 +102269,7 @@ cursed castle
 cursed core
 cursed deal
 cursed house 15
+cursed isle
 cursed presence
 cursed station
 cursor blast
@@ -103499,6 +103629,7 @@ didi
 die
 die gute
 die gute fabrik
+die in the dungeon
 diego
 diegute
 diegutefabrik
@@ -104082,6 +104213,7 @@ dorothy's job
 dorothée
 dorée
 dos
+dostavka
 dot art logic
 dot8
 dot8 studio
@@ -104422,6 +104554,7 @@ drill rift
 drilldozer
 driller
 drink human beans
+dripdrip - monitor horror モニターホラー !
 drisiahfriedlander
 drivapp
 drive
@@ -105415,6 +105548,7 @@ emma kliesen
 emma's umbrella
 emmakliesen
 emme
+emoji catcher
 emojification
 emotelab
 emotion
@@ -106049,6 +106183,7 @@ exilium: kiro
 exit
 exit - n.f.
 exit dream
+exit loops - street 001
 exit plan
 exit strategy
 exit together
@@ -107998,6 +108133,7 @@ gamaniadigital
 gamaniadigitalentertainment
 gambarion
 gambette
+gamble with your friends
 gamble your breath
 gambler's fallacy
 gamblers
@@ -108241,6 +108377,7 @@ gatebreakers
 gateofthunder
 gates
 gates of eden
+gather ccg
 gathering
 gathering of
 gathering of developers
@@ -109878,6 +110015,7 @@ hanrahan
 hanz
 hanzo
 hao
+hap to day
 happiness! sakura celebration!
 happy
 happy blue
@@ -110191,6 +110329,8 @@ heartofthesea
 heartopia
 heartreasure: stellar journey
 hearts
+hearts of iron iv
+hearts of iron iv: general edition
 heartspell: horizon academy
 heat
 heat or die
@@ -112667,6 +112807,7 @@ jiggly strike
 jigglypuff
 jigsaw industry
 jigsaw puzzle
+jigsaw puzzle palace
 jiinfeng
 jill
 jill valentine
@@ -117279,6 +117420,7 @@ megastore simulator: prologue
 mehdi
 mei
 mei ling
+mei music
 mei paranormies
 meier's
 meiers
@@ -117332,6 +117474,7 @@ melonslice
 melstorm game
 melt abyss
 melting into aoi’s world - after story, art & animation pack
+meltopia
 meltzer
 membrane
 membrane de phantom
@@ -128394,6 +128537,7 @@ soulmask
 soulmask - the golden legend
 soulmask: shifting sands
 soulmon
+soulquest
 soulreaver
 souls
 soulstone survivors
@@ -129161,6 +129305,7 @@ stickmenstudios
 sticks
 sticks the badger
 sticksthebadger
+sticky fingers
 stiff neck
 stigma: the salem legacy
 still here
@@ -129350,6 +129495,7 @@ striderspawnegg
 strife
 strike
 strike & resist
+strike again vr
 strike back
 striker
 strikers
@@ -130991,6 +131137,7 @@ the broken dawn
 the brothers hotel
 the bubonicz
 the bullet hell
+the bunker notes - horror/drama visual novel
 the butcher
 the butcher's village™
 the butler
@@ -131119,6 +131266,7 @@ the end of gameplay
 the end of history
 the end of paradise
 the end of the world and her room
+the endless village
 the enigma lounge
 the entity within
 the erased student
@@ -131135,6 +131283,7 @@ the falconeer: revolution remaster
 the falling star
 the false culprit
 the false god's fold
+the family trip
 the farmer & the chicken
 the farmer was replaced
 the fat cat fest
@@ -131147,6 +131296,7 @@ the fifth bell
 the final
 the final escape
 the final print
+the final stay - chapter 1
 the finals - season 10 ultimate battle pass bundle
 the finals - season 7: ultimate battle pass bundle
 the finals - season 8: ultimate battle pass bundle
@@ -131368,6 +131518,7 @@ the long tale
 the long winter: i am not an animal
 the loop below
 the lord of the rings: return to moria™
+the lost
 the lost sheep
 the lost vikings
 the love's ordeal
@@ -132224,6 +132375,7 @@ tiny paws
 tiny pixels vol. 2 - stormy knights
 tiny racing
 tiny shadows interwoven hearts
+tiny space pirate
 tiny tiger
 tiny toon adventures
 tiny toon adventures: acme all-stars
@@ -133607,6 +133759,7 @@ university days - season 1
 university is hell
 universomo
 unknown
+unknown entity
 unknown explorer
 unknown fluffy object
 unknown host
@@ -135399,6 +135552,7 @@ workshop
 world
 world eternal online
 world heroes
+world heroes perfect
 world of
 world of Y
 world of eggs: idle adventures demo
@@ -135707,6 +135861,7 @@ yasha: legends of the demon blade - artbook
 yasha: legends of the demon blade - original soundtrack
 yasha: legends of the demon blade - singles
 yashichi
+yaxi taxi
 yaya
 yaya panda
 yayako
@@ -135827,6 +135982,7 @@ you are the bomb: a game about rolling bombs
 you are the light – an audiovisual vr journey
 you belong here
 you can't corrupt me! ~tale of a naive elven swordswoman~
+you can't ring it
 you die today
 you don't know
 you don't know jack
@@ -137141,6 +137297,7 @@ zèbre
 群島物語   實習鍊金術士的 90 天之旅
 群島物語 - 實習鍊金術士的 90 天之旅
 群島物語-實習鍊金術士的90天之旅
+翻翻卡
 聊斋.鬼王争霸
 聲姿迴響
 背后3:阴戏
@@ -137277,6 +137434,7 @@ zèbre
 道渡しのオーレリアDemo
 遥豊のサレテ
 酒馆战争
+重启人生
 重生挖矿
 金泉风土记
 金砂梦咒GOLDEN SAND DREAM CURSE
