@@ -369,11 +369,14 @@
 2 Guns
 2 guns
 2. BUNDESLIGA
+2. BUNDESLIGA TABELLE
 2. Bundesliga
 2. bundesliga
+2. bundesliga tabelle
 2.BUNDESLIGA
 2.Bundesliga
 2.bundesliga
+2.bundesligatabelle
 20
 20 KM BRUSSEL
 20 KM DE BRUXELLES
@@ -1612,6 +1615,7 @@ AIRBAG TAKATA
 AIRBUS
 AIRBUS A220
 AIRBUS A319
+AIRBUS A320
 AIRBUS A340 EDELWEISS
 AIRBUS A350 MALAYSIA AIRLINES
 AIRCAR
@@ -2494,6 +2498,7 @@ ANDERLECHT CERCLE BRUGGE
 ANDERLECHT CLUB BRUGGE
 ANDERLECHT GENT
 ANDERLECHT LACI
+ANDERLECHT MALINES
 ANDERLECHT MATCH
 ANDERLECHT UNION
 ANDERLECHT VITESSE
@@ -3541,6 +3546,7 @@ ASTERIX MISSION CLEOPATRE
 ASTERIX UND DER GREIF
 ASTERIXETOBELIX
 ASTEROID CITY
+ASTEROIDE
 ASTEROIDE TERRE
 ASTEROIDEN 2024 YR4
 ASTON MARTIN
@@ -10534,6 +10540,7 @@ BRENT RENAUD
 BRENT VAN MOER
 BRENTFORD
 BRENTFORD - ASTON VILLA
+BRENTFORD - CRYSTAL PALACE
 BRENTFORD - FULHAM
 BRENTFORD - MANCHESTER UNITED
 BRENTFORD - MANUNITED
@@ -10545,6 +10552,7 @@ BRENTFORD – ARSENAL
 BRENTFORD – ASTON VILLA
 BRENTFORD – BRIGHTON
 BRENTFORD – CHELSEA
+BRENTFORD – CRYSTAL PALACE
 BRENTFORD – FULHAM
 BRENTFORD – LIVERPOOL
 BRENTFORD – MAN CITY
@@ -25258,6 +25266,7 @@ ELTON JOHN
 ELTON JOHN ZÜRICH
 ELTON-JOHN
 ELVEDINA MUZAFERIJA
+ELVERSBERG
 ELVIS
 ELVIS PRESLEY
 ELYA TOLEDANO
@@ -26193,6 +26202,7 @@ EVERTON - BRIGHTON
 EVERTON - CRYSTAL PALACE
 EVERTON - IPSWICH TOWN
 EVERTON - LIVERPOOL
+EVERTON - SUNDERLAND
 EVERTON GEGEN ARSENAL
 EVERTON – ARSENAL
 EVERTON – ASTON VILLA
@@ -26206,6 +26216,7 @@ EVERTON – MANCHESTER CITY
 EVERTON – MANCHESTER UNITED
 EVERTON – MANUNITED
 EVERTON – NEWCASTLE
+EVERTON – SUNDERLAND
 EVERTON – TOTTENHAM
 EVERYBODY KNOWS
 EVERYTHING EVERYWHERE ALL AT ONCE
@@ -38810,6 +38821,7 @@ ICI PARIS XL
 ICI Paris XL
 ICI TOUT COMMENCE
 ICI TOUT COMMENCE DU 17 SEPTEMBRE 2025
+ICI TOUT COMMENCE DU 20 MAI 2026
 ICI TOUT COMMENCE EPISODE 1203
 ICI TOUT COMMENCE EPISODE 1228
 ICI TOUT COMMENCE LOUP
@@ -38818,6 +38830,7 @@ ICI TOUT COMMENCE SOULEYMANE
 ICI TOUT COMMENCE ÉPISODE 1203
 ICI TOUT COMMENCE ÉPISODE 1228
 ICIParisXL
+ICON LEAGUE
 ICON OF THE SEAS
 ID GENEVE
 ID geneve
@@ -49709,10 +49722,12 @@ LUFTMATRATZE EXPLODIERT
 LUGA LUZERN
 LUGANO
 LUGANO  GENT
+LUGANO - BALE
 LUGANO - FC THUN
 LUGANO - ST. GALLEN
 LUGANO AMBRI
 LUGANO GEGEN ST. GALLEN
+LUGANO – BÂLE
 LUGANO – FC THUN
 LUGANO – GENT
 LUGANO – LAUSANNE
@@ -55031,6 +55046,7 @@ MAXIME LE FORESTIER
 MAXIME MEILAND
 MAXIME PANS
 MAXIME PRÉVOT
+MAXIME SAADA
 MAXIME TANDONNET
 MAXIME-GAËL NGAYAP HAMBOU
 MAXIMILIAN HEIDENREICH
@@ -56523,6 +56539,8 @@ MUTTERTAG SPRÜCHE
 MUTUALITÉ CHRÉTIENNE
 MUUR CLASSIC GERAARDSBERGEN
 MVP
+MVP NBA
+MVP NBA 2026
 MW2
 MXGP
 MY AI SNAPCHAT
@@ -67583,6 +67601,7 @@ PRINCESSECHARLeNEDEMONACO
 PRINCESSECHARLÈNEDEMONACO
 PRINCESSECHARLèNEDEMONACO
 PRINCEWILLIAM
+PRINS
 PRINS ANDREW
 PRINS BERNHARD
 PRINS CHARLES
@@ -76188,6 +76207,7 @@ SCHAFFHAUSER NACHRICHTEN
 SCHAFSEITENSPITZE
 SCHAFSKÄLTE
 SCHALKE
+SCHALKE - BTSV
 SCHALKE - DYNAMO
 SCHALKE - HANNOVER 96
 SCHALKE - HOLSTEIN
@@ -76198,6 +76218,7 @@ SCHALKE GEGEN HOFFENHEIM
 SCHALKE GEGEN VFB STUTTGART
 SCHALKE GEGEN WOLFSBURG
 SCHALKE – BAYERN
+SCHALKE – BTSV
 SCHALKE – DYNAMO
 SCHALKE – HANNOVER 96
 SCHALKE – HOLSTEIN
@@ -76993,6 +77014,7 @@ SINNER ALCARAZ
 SINNER BERRETTINI
 SINNER DJOKOVIC
 SINNER DOPING
+SINNER RUUD
 SINNER SHELTON
 SINNER TENNIS
 SINNERS MOVIE
@@ -77782,9 +77804,11 @@ ST-VALENTIN
 ST. ANTON
 ST. ETIENNE
 ST. GALLEN
+ST. GALLEN - FC THUN
 ST. GALLEN - FCB
 ST. GALLEN GEGEN LUZERN
 ST. GALLEN GEGEN SERVETTE
+ST. GALLEN – FC THUN
 ST. GALLEN – FCB
 ST. GALLEN – FIORENTINA
 ST. GALLEN – GRASSHOPPERS
@@ -77885,6 +77909,7 @@ STALLONE
 STAN LEE
 STAN VAN SAMANG
 STAN WAWRINKA
+STAND ANDERLECHT - KV MECHELEN
 STANDARD
 STANDARD  CLUB BRUGGE
 STANDARD  GENK
@@ -87840,6 +87865,7 @@ ULRIKE VON DER GROEBEN
 ULSTER TOULOUSE
 ULTIA
 ULTRA MARIN 2025
+ULTRAS
 ULURU
 UMA THURMAN
 UMAMI
@@ -95136,10 +95162,12 @@ airbelgium
 airbus
 airbus a220
 airbus a319
+airbus a320
 airbus a340 edelweiss
 airbus a350 malaysia airlines
 airbusa220
 airbusa319
+airbusa320
 airbusa350malaysiaairlines
 aircanadanewyork
 aircar
@@ -96250,6 +96278,7 @@ anderlecht cercle brugge
 anderlecht club brugge
 anderlecht gent
 anderlecht laci
+anderlecht malines
 anderlecht match
 anderlecht union
 anderlecht vitesse
@@ -96279,6 +96308,7 @@ anderlecht-westerlo
 anderlecht-zultewaregem
 anderlechtbruges
 anderlechtclubbrugge
+anderlechtmalines
 anderlechtmatch
 anderlechtunion
 anderlechtvsantwerp
@@ -97493,6 +97523,7 @@ asterix et obelix mission cleopatre
 asterix mission cleopatre
 asterix und der greif
 asteroid city
+asteroide
 asteroide terre
 asteroiden 2024 yr4
 aston martin
@@ -100708,6 +100739,7 @@ brent van moer
 brentford
 brentford  west ham
 brentford - aston villa
+brentford - crystal palace
 brentford - fulham
 brentford - manchester united
 brentford - manunited
@@ -100719,6 +100751,7 @@ brentford – arsenal
 brentford – aston villa
 brentford – brighton
 brentford – chelsea
+brentford – crystal palace
 brentford – fulham
 brentford – liverpool
 brentford – man city
@@ -100728,6 +100761,7 @@ brentford – manunited
 brentford – nottm forest
 brentford – tottenham
 brentford-astonvilla
+brentford-crystalpalace
 brentford-fulham
 brentford-manchesterunited
 brentford-manunited
@@ -100736,6 +100770,7 @@ brentford-westham
 brentford–astonvilla
 brentford–brighton
 brentford–chelsea
+brentford–crystalpalace
 brentford–fulham
 brentford–manchesterunited
 brentford–manunited
@@ -107233,6 +107268,7 @@ elton john zürich
 elton-john
 eltonjohn
 elvedina muzaferija
+elversberg
 elvis
 elvis presley
 elya toledano
@@ -108293,6 +108329,7 @@ everton - brighton
 everton - crystal palace
 everton - ipswich town
 everton - liverpool
+everton - sunderland
 everton gegen arsenal
 everton – arsenal
 everton – aston villa
@@ -108306,12 +108343,14 @@ everton – manchester city
 everton – manchester united
 everton – manunited
 everton – newcastle
+everton – sunderland
 everton – tottenham
 everton-astonvilla
 everton-brighton
 everton-crystalpalace
 everton-ipswichtown
 everton-liverpool
+everton-sunderland
 everton–arsenal
 everton–astonvilla
 everton–brighton
@@ -108322,6 +108361,7 @@ everton–manchestercity
 everton–manchesterunited
 everton–mancity
 everton–manunited
+everton–sunderland
 everton–tottenham
 everybody knows
 everything everywhere all at once
@@ -114029,6 +114069,7 @@ iceunfallkölnbetonplatte
 ici paris xl
 ici tout commence
 ici tout commence du 17 septembre 2025
+ici tout commence du 20 mai 2026
 ici tout commence episode 1203
 ici tout commence episode 1228
 ici tout commence loup
@@ -114038,6 +114079,7 @@ ici tout commence épisode 1203
 ici tout commence épisode 1228
 icitoutcommence
 icitoutcommencedu17septembre2025
+icitoutcommencedu20mai2026
 icitoutcommenceepisode1203
 icitoutcommenceepisode1228
 icitoutcommenceloup
@@ -114045,7 +114087,9 @@ icitoutcommencemalikmayagaspard
 icitoutcommencesouleymane
 icitoutcommenceépisode1203
 icitoutcommenceépisode1228
+icon league
 icon of the seas
+iconleague
 id geneve
 idahot
 idalia
@@ -119698,6 +119742,7 @@ leonardnolens
 leonardo del vecchio
 leonardo dicaprio
 leonardo spinazzola
+leonardodicaprio
 leonardpeltier
 leondebbouze
 leoneugebauer
@@ -121092,10 +121137,12 @@ luftmatratzeexplodiert
 luga luzern
 lugano
 lugano  gent
+lugano - bale
 lugano - fc thun
 lugano - st. gallen
 lugano ambri
 lugano gegen st. gallen
+lugano – bâle
 lugano – fc thun
 lugano – gent
 lugano – lausanne
@@ -121104,8 +121151,10 @@ lugano – partizan
 lugano – sion
 lugano – st. gallen
 lugano – union saint-gilloise
+lugano-bale
 lugano-fcthun
 lugano-st.gallen
+lugano–bâle
 lugano–fcthun
 lugano–st.gallen
 lugner
@@ -123336,6 +123385,7 @@ maxime le forestier
 maxime meiland
 maxime pans
 maxime prévot
+maxime saada
 maxime tandonnet
 maxime-gaël ngayap hambou
 maximecarabin
@@ -123344,6 +123394,7 @@ maximed'ornano
 maximedaye
 maximemeiland
 maximeprévot
+maximesaada
 maximilian heidenreich
 maximilian schell
 maxton hall
@@ -125104,6 +125155,10 @@ mutualité chrétienne
 muur classic geraardsbergen
 muurclassicgeraardsbergen
 mvp
+mvp nba
+mvp nba 2026
+mvpnba
+mvpnba2026
 mw2
 mxgp
 my ai snapchat
@@ -129762,6 +129817,7 @@ princessemettemaritdenorvège
 princessesofiadesuede
 princessesofiadesuède
 princewilliam
+prins
 prins andrew
 prins bernhard
 prins charles
@@ -133240,6 +133296,7 @@ schaffhausernachrichten
 schafseitenspitze
 schafskälte
 schalke
+schalke - btsv
 schalke - dynamo
 schalke - hannover 96
 schalke - holstein
@@ -133250,12 +133307,15 @@ schalke gegen hoffenheim
 schalke gegen vfb stuttgart
 schalke gegen wolfsburg
 schalke – bayern
+schalke – btsv
 schalke – dynamo
 schalke – hannover 96
 schalke – holstein
+schalke-btsv
 schalke-dynamo
 schalke-hannover96
 schalke-holstein
+schalke–btsv
 schalke–dynamo
 schalke–hannover96
 schalke–holstein
@@ -134195,10 +134255,12 @@ sinner alcaraz
 sinner berrettini
 sinner djokovic
 sinner doping
+sinner ruud
 sinner shelton
 sinner tennis
 sinneralcaraz
 sinnerdjokovic
+sinnerruud
 sinners movie
 sinnersmovie
 sint
@@ -135107,9 +135169,11 @@ st-valentin
 st. anton
 st. etienne
 st. gallen
+st. gallen - fc thun
 st. gallen - fcb
 st. gallen gegen luzern
 st. gallen gegen servette
+st. gallen – fc thun
 st. gallen – fcb
 st. gallen – fiorentina
 st. gallen – grasshoppers
@@ -135145,7 +135209,9 @@ st.gallen – tobol
 st.gallen – winterthur
 st.gallen – śląsk wrocław
 st.gallen-fcb
+st.gallen-fcthun
 st.gallen–fcb
+st.gallen–fcthun
 st.gallen–lausanne-sport
 st.gallen–servette
 st.mirren-glasgowrangers
@@ -135237,6 +135303,9 @@ stallone
 stan lee
 stan van samang
 stan wawrinka
+stand anderlecht  kv mechelen
+stand anderlecht - kv mechelen
+standanderlecht-kvmechelen
 standard
 standard  club brugge
 standard  genk
@@ -138958,6 +139027,7 @@ ulster toulouse
 ultia
 ultra marin 2025
 ultramarin2025
+ultras
 uluru
 uma thurman
 umami
