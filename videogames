@@ -64,7 +64,11 @@
 /TRACE
 /trace
 007
+007 FIRST LIGHT
+007 First Light
+007 first light
 0073735963
+007FirstLight
 1
 1 IN A MILLION | A GAME OF ODDS
 1 TRILLION CREDITS IN DEBT
@@ -1560,6 +1564,7 @@
 ?????? ??????? ?????
 ?????? ????????
 ?????? Alter in Cube City
+?????? Attack of the worker
 ?????? Happy Sisters Life
 ?????? KOWAKUNAI CELEBRATION
 ?????? MY COLD GIRLFRIEND
@@ -2761,6 +2766,7 @@ ALIEN BREED
 ALIEN BREED SPECIAL EDITION 92
 ALIEN BROTHERS 2
 ALIEN CARTOGRAPHER
+ALIEN HISTORY
 ALIEN INFESTATION
 ALIEN MARKET SIMULATOR
 ALIEN MORGUE
@@ -3085,6 +3091,7 @@ AN ALTERED STATE
 AN EASTER TO REMEMBER
 AN EXORCISM
 AN IMP AND AN IMPOSTOR
+AN INCREMENTAL GAME ABOUT PLACING BLOCKS
 AN ORDINARY TOP-DOWN SHOOTER
 AN UNPLAYABLE GAME?!
 ANA
@@ -4476,6 +4483,7 @@ AXION
 AXIS
 AXIS AND
 AXIS AND ALLIES
+AXIS ESCAPE
 AXIS FOOTBALL 2026
 AXISAND
 AXISANDALLIES
@@ -5280,6 +5288,7 @@ Alien Breed
 Alien Breed Special Edition 92
 Alien Brothers 2
 Alien Cartographer
+Alien History
 Alien Infestation
 Alien Market Simulator
 Alien Morgue
@@ -5299,6 +5308,7 @@ AlienBreed
 AlienBreedSpecialEdition92
 AlienBrothers2
 AlienCartographer
+AlienHistory
 AlienInfestation
 AlienMarketSimulator
 AlienMorgue
@@ -5624,6 +5634,7 @@ An Altered State
 An Easter to Remember
 An Exorcism
 An Imp and an Impostor
+An Incremental Game About Placing Blocks
 An Ordinary Top Down Shooter
 An Ordinary Top-Down Shooter
 AnAbyssofDreams
@@ -5631,6 +5642,7 @@ AnAlteredState
 AnEastertoRemember
 AnExorcism
 AnImpandanImpostor
+AnIncrementalGameAboutPlacingBlocks
 AnOrdinaryTop-DownShooter
 Ana
 Anabelle
@@ -7103,9 +7115,11 @@ Axiom Verge
 AxiomVerge
 Axion
 Axis
+Axis Escape
 Axis Football 2026
 Axis and
 Axis and Allies
+AxisEscape
 AxisFootball2026
 Axisand
 AxisandAllies
@@ -7244,6 +7258,7 @@ BACKPACK JIANGHU
 BACKPACK SCAVENGER
 BACKPACK SURVIVORS
 BACKPACKBATTLECHESS
+BACKPACKER GUILD
 BACKROOM LOOP
 BACKROOM:GONE
 BACKROOMLOOP
@@ -8073,6 +8088,7 @@ BELOW: FOOTAGE 1
 BELTION: BEYOND RITUAL
 BEMER
 BEN
+BENCH SIMULATOR
 BEND
 BENDY AND THE DARK REVIVAL
 BENDY: LONE WOLF
@@ -8135,6 +8151,7 @@ BERSERK WARRIOR: INFINITE ROGUELIKE
 BERSERKER
 BERSERKER BERSERKER
 BERSERKER GIRL
+BERSERKER ONSLAUGHT
 BERSERKER WORKS
 BERSERKERBERSERKER
 BERSERKERWORKS
@@ -8786,6 +8803,7 @@ BLOOBERTEAM
 BLOOD
 BLOOD ALIENS 3
 BLOOD BEAR
+BLOOD BRIDES
 BLOOD CLICKER
 BLOOD COUNTRY
 BLOOD FALCON
@@ -9468,6 +9486,7 @@ BRETON
 BREVE BUG: CHAMPIONS OF DESTINY
 BREVIC
 BREVIĆ
+BREW OR DIE
 BREWING
 BREWING STAND
 BREWINGSTAND
@@ -9687,6 +9706,7 @@ BUENA VISTA GAMES
 BUENAVISTA
 BUENAVISTAGAMES
 BUENO
+BUFO JUMP
 BUG
 BUG BANE SURVIVORS
 BUGBEAR
@@ -9785,6 +9805,7 @@ BUNNY'S TEA TIME
 BUNNY’S RENT-A-MOM AGENCY
 BURA: THE WAY THE WIND BLOWS
 BURDEN OF THE BLUE
+BURDEN STREET STATION
 BUREAU
 BURGER
 BURGER SHOT
@@ -9972,6 +9993,8 @@ BackpackBattles
 BackpackJianghu
 BackpackScavenger
 BackpackSurvivors
+Backpacker Guild
+BackpackerGuild
 Backroom:Gone
 Backrooms Interception
 Backrooms Maze 2D
@@ -10854,6 +10877,8 @@ Beltion: Beyond Ritual
 Beltion:BeyondRitual
 Bemer
 Ben
+Bench Simulator
+BenchSimulator
 Bend
 Bendy and the Dark Revival
 Bendy: Lone Wolf
@@ -10925,9 +10950,11 @@ BerserkWarrior:InfiniteRoguelike
 Berserker
 Berserker Berserker
 Berserker Girl
+Berserker Onslaught
 Berserker Works
 BerserkerBerserker
 BerserkerGirl
+BerserkerOnslaught
 BerserkerWorks
 BerserkorDie
 Bertha
@@ -11666,6 +11693,7 @@ BlooberTeam
 Blood
 Blood Aliens 3
 Blood Bear
+Blood Brides
 Blood Clicker
 Blood Country
 Blood Falcon
@@ -11684,6 +11712,7 @@ BloodAliens3
 BloodBear
 BloodBound Knights
 BloodBoundKnights
+BloodBrides
 BloodClicker
 BloodCountry
 BloodFalcon
@@ -12444,10 +12473,12 @@ Breve Bug: Champions of Destiny
 BreveBug:ChampionsofDestiny
 Brevic
 Brević
+Brew or Die
 Brewing
 Brewing Stand
 BrewingStand
 Brewmatics
+BreworDie
 Brian
 Brian A
 Brian A RiceInc
@@ -12691,6 +12722,8 @@ Buena Vista Games
 BuenaVista
 BuenaVistaGames
 Bueno
+Bufo Jump
+BufoJump
 Bug
 Bug Bane Survivors
 BugBaneSurvivors
@@ -12818,7 +12851,9 @@ Bunny’s Rent-a-Mom Agency
 Bunny’sRent-a-MomAgency
 Bura: The Way the Wind Blows
 Bura:TheWaytheWindBlows
+Burden Street Station
 Burden of the Blue
+BurdenStreetStation
 BurdenoftheBlue
 Bureau
 Burger
@@ -15258,6 +15293,7 @@ COSMIC HOLES JUNIOR DEMO
 COSMIC HOLES Junior Demo
 COSMIC MINERS
 COSMIC ORDER FLEET
+COSMIC RUN
 COSMIC SCRAMBLE
 COSMIC STAR LOUNGE
 COSMIC SWARM
@@ -18700,6 +18736,7 @@ Cosmic Coliseum
 Cosmic Coop
 Cosmic Miners
 Cosmic Order Fleet
+Cosmic Run
 Cosmic Scramble
 Cosmic Star Lounge
 Cosmic Swarm
@@ -18713,6 +18750,7 @@ CosmicColiseum
 CosmicCoop
 CosmicMiners
 CosmicOrderFleet
+CosmicRun
 CosmicScramble
 CosmicStarLounge
 CosmicSurvivor
@@ -20205,6 +20243,9 @@ DCE
 DCSTUDIOS
 DCStudios
 DD64
+DDOD DEMO
+DDoD Demo
+DDoDDemo
 DE
 DE'ARNISE
 DEAD
@@ -20406,6 +20447,8 @@ DEEP LINE
 DEEP RED
 DEEP RED GAMES
 DEEP ROCK GALACTIC
+DEEP ROCK GALACTIC X ROGUE CORE
+DEEP ROCK GALACTIC: ROGUE CORE
 DEEP ROCK GALACTIC: SURVIVOR
 DEEP SEA
 DEEP SEA ARENA
@@ -20693,6 +20736,7 @@ DESKTOP MATE GUMI DLC
 DESKTOP MATE OTOMACHI UNA DLC
 DESKTOP MATE WORK CAT DLC
 DESKTOP MY CAT
+DESKTOP NARD: DICE IDLE
 DESKTOP PALS 2
 DESKTOP PASTURE
 DESKTOP PURRFECT DEMO
@@ -21462,7 +21506,9 @@ DONBLUTHLTD
 DONDON
 DONDZILA
 DONG
+DONG WU: ODYSSEY
 DONGENIE
+DONGWU:ODYSSEY
 DONJON
 DONJON MYSTERE
 DONJON MYSTÈRE
@@ -23045,6 +23091,8 @@ Deep Line
 Deep Red
 Deep Red Games
 Deep Rock Galactic
+Deep Rock Galactic x Rogue Core
+Deep Rock Galactic: Rogue Core
 Deep Rock Galactic: Survivor
 Deep Sea
 Deep Sea Arena
@@ -23069,7 +23117,9 @@ DeepLine
 DeepRed
 DeepRedGames
 DeepRockGalactic
+DeepRockGalactic:RogueCore
 DeepRockGalactic:Survivor
+DeepRockGalacticxRogueCore
 DeepSea
 DeepSeaArena
 DeepSeaHeroes
@@ -23406,6 +23456,7 @@ Desktop Immortal
 Desktop Mate GUMI DLC
 Desktop Mate Otomachi Una DLC
 Desktop Mate Work Cat DLC
+Desktop Nard: Dice Idle
 Desktop Pals 2
 Desktop Pasture
 Desktop Purrfect Demo
@@ -23432,6 +23483,7 @@ DesktopImmortal
 DesktopMateGUMIDLC
 DesktopMateOtomachiUnaDLC
 DesktopMateWorkCatDLC
+DesktopNard:DiceIdle
 DesktopPals2
 DesktopPasture
 DesktopPurrfectDemo
@@ -25550,6 +25602,7 @@ ECH8
 ECHIDNA
 ECHO
 ECHO 91
+ECHO ISLE
 ECHO PEAK
 ECHO PROTOCOL: ESCAPE ROOM
 ECHO RE:KILL
@@ -26916,6 +26969,7 @@ EccotheDolphin
 Echidna
 Echo
 Echo 91
+Echo Isle
 Echo Peak
 Echo Protocol: Escape Room
 Echo Tower
@@ -26925,6 +26979,7 @@ Echo'sInc
 Echo91
 EchoChamber: Not Welcome
 EchoChamber:NotWelcome
+EchoIsle
 EchoPeak
 EchoProtocol:EscapeRoom
 EchoTower
@@ -28426,6 +28481,7 @@ FACTORY
 FACTORY 95
 FACTORY BALLS GO!
 FACTORY PLANNER: FIRST SPARKS
+FACTORY RESET
 FACTORY TRAIN: DREAMLINE
 FADING LIGHTS
 FAETERRA
@@ -28619,6 +28675,7 @@ FARLANDSAGAIISaturnTribute
 FARLANDSAGAISaturnTribute
 FARM
 FARM CHICKEN
+FARM FOR YOU
 FARM LIFE
 FARM MANAGER 2021
 FARM RACING
@@ -29499,6 +29556,7 @@ FOOTBALL MANAGER 2024
 FOOTBALL MANAGER 26
 FOOTBALL MOGUL
 FOOTBALL RISING:ZERO TO HERO
+FOOTBALL, TACTICS & GLORY: WORLD CHAMPIONSHIP
 FOOTBALLMANAGER
 FOOTBALLMOGUL
 FOR
@@ -30217,10 +30275,12 @@ Factory
 Factory 95
 Factory Balls Go!
 Factory Planner: First Sparks
+Factory Reset
 Factory Train: DreamLine
 Factory95
 FactoryBallsGo!
 FactoryPlanner:FirstSparks
+FactoryReset
 FactoryTrain:DreamLine
 Fading Lights
 FadingLights
@@ -30481,6 +30541,7 @@ Farm Night
 Farm Racing
 Farm Simulator
 Farm Your Friends
+Farm for you
 Farm to Table
 Farm&Night
 FarmChicken
@@ -30494,6 +30555,7 @@ FarmchRevolutionDemo
 Farmer s Dynasty 2
 Farmer's Dynasty 2
 Farmer'sDynasty2
+Farmforyou
 Farming
 Farming   Supermarket Simulator
 Farming & Supermarket Simulator
@@ -31516,6 +31578,9 @@ Football Manager 2024
 Football Manager 26
 Football Mogul
 Football Rising:Zero to Hero
+Football, Tactics   Glory: World Championship
+Football, Tactics & Glory: World Championship
+Football,Tactics&Glory:WorldChampionship
 FootballLegacyManager26
 FootballManager
 FootballManager2024
@@ -32730,6 +32795,7 @@ GATHERINGOFDEVELOPERS
 GATHERINGOFDEVELOPPERS
 GATOR
 GATOR GATOR
+GATOR HUCKER
 GATORGATOR
 GATRAT
 GAU
@@ -34649,7 +34715,9 @@ GatheringofDevelopers
 GatheringofDeveloppers
 Gator
 Gator Gator
+Gator Hucker
 GatorGator
+GatorHucker
 Gau
 Gau Entertainment
 GauEntertainment
@@ -36758,6 +36826,7 @@ HEARTOFTHESEA
 HEARTOPIA
 HEARTREASURE: STELLAR JOURNEY
 HEARTS
+HEARTS ABOVE THE LINE
 HEARTS OF IRON IV
 HEARTS OF IRON IV: GENERAL EDITION
 HEARTSPELL: HORIZON ACADEMY
@@ -37424,6 +37493,9 @@ HOLY JUSTICE: GALAXY OUTCAST
 HOLY JUSTICE: GALAXY OUTCAST DEMO
 HOLY NOPE!
 HOLY SHOT
+HOLY VALKYRIE EXS-TIA F
+HOLY VALKYRIE EXS-TIA P
+HOLY VALKYRIE EXS-TIA TS
 HOLY VALKYRIE EXS-TIA: CONCERTO 1
 HOMAM : LE POING D’UN INVENTEUR
 HOMARTILLEUR
@@ -37539,6 +37611,7 @@ HORNY SLUTS IN SPACE
 HORNY VILLAGE: MILF HAREM
 HORNY WIVES' YOGA CLASS
 HORNY: ZERO MOAN 🔞🦕
+HOROYAL 〜HOLOLIVE BATTLE ROYAL〜
 HORRIPILANT
 HORROR
 HORROR CAMP
@@ -38431,8 +38504,10 @@ Heartopia
 Heartreasure: Stellar Journey
 Heartreasure:StellarJourney
 Hearts
+Hearts Above the Line
 Hearts of Iron IV
 Hearts of Iron IV: General Edition
+HeartsAbovetheLine
 HeartsofIronIV
 HeartsofIronIV:GeneralEdition
 Heartspell: Horizon Academy
@@ -39218,6 +39293,9 @@ Hjorr Halfsson
 HjorrHalfsson
 Hnefatafl Online
 HnefataflOnline
+HoRoyal ?Hololive Battle Royal?
+HoRoyal 〜Hololive Battle Royal〜
+HoRoyal〜HololiveBattleRoyal〜
 Hoard Defender VR Demo
 HoardDefenderVRDemo
 Hobbies
@@ -39323,12 +39401,21 @@ Holy Nope!
 Holy Shot
 Holy Valkyrie EXS TiA: Concerto 1
 Holy Valkyrie EXS-TiA: Concerto 1
+Holy Valkyrie ExS TIA F
+Holy Valkyrie ExS TIA P
+Holy Valkyrie ExS TIA TS
+Holy Valkyrie ExS-TIA F
+Holy Valkyrie ExS-TIA P
+Holy Valkyrie ExS-TIA TS
 HolyHoop
 HolyJustice:GalaxyOutcast
 HolyJustice:GalaxyOutcastDemo
 HolyNope!
 HolyShot
 HolyValkyrieEXS-TiA:Concerto1
+HolyValkyrieExS-TIAF
+HolyValkyrieExS-TIAP
+HolyValkyrieExS-TIATS
 Homam : Le poing d'un inventeur
 Homam : Le poing d’un inventeur
 Homam:Lepoingd’uninventeur
@@ -43978,6 +44065,7 @@ KARUIZAWA
 KASAA
 KASAA SOLUTION
 KASAASOLUTION
+KASAP
 KASEDO
 KASEDO GAMES
 KASEDOGAMES
@@ -44310,6 +44398,7 @@ KING OF MEAT
 KING OF SILENCE
 KING OF THE ARCADE
 KING OF THE MONSTERS
+KING OF TOKYO - RICHARD GARFIELD
 KING RECORDS
 KING of HOLO
 KING'S
@@ -45491,6 +45580,8 @@ King of Fighters
 King of Fighters R2
 King of Meat
 King of Silence
+King of Tokyo   Richard Garfield
+King of Tokyo - Richard Garfield
 King of the Arcade
 King of the Monsters
 King s Hand
@@ -45575,6 +45666,7 @@ KingofFightersR2
 KingofFightersThe
 KingofMeat
 KingofSilence
+KingofTokyo-RichardGarfield
 KingoftheArcade
 KingoftheMonsters
 Kings
@@ -51366,6 +51458,7 @@ MECHANICAL CHESS: REAL-TIME
 MECHANICAL FURY - PROLOGUE
 MECHANICAL LAB
 MECHANICARMS
+MECHARISE DEMO
 MECHASONIC
 MECHASSAULT
 MECHDRACHEN
@@ -54635,6 +54728,8 @@ Mechanical Lab
 MechanicalChess:Real-time
 MechanicalFury-Prologue
 MechanicalLab
+Mecharise Demo
+MechariseDemo
 Mechwarrior
 Mechwarrior 2
 Mechwarrior2
@@ -62256,6 +62351,7 @@ PALETTE FORGE
 PALETTE: CARDS & CHAOS
 PALLAS
 PALLET JACK RACING
+PALLIATIVE - REACH FOR AN ANGEL
 PALMER
 PALMSOFT
 PALOMINA
@@ -62777,6 +62873,7 @@ PEDO
 PEDO PEDO
 PEDOPEDO
 PEEPING
+PEEWEE PURPDRANK'S FOENEM CLICKER
 PEEZER
 PEEZER PEEZER
 PEEZERPEEZER
@@ -64859,6 +64956,9 @@ PaletteForge
 Pallas
 Pallet Jack Racing
 PalletJackRacing
+Palliative   Reach for an Angel
+Palliative - Reach for an Angel
+Palliative-ReachforanAngel
 PalmSoft
 Palmer
 Palomina
@@ -65348,6 +65448,9 @@ Peckers
 Pedo
 Pedo Pedo
 PedoPedo
+PeeWee Purpdrank s FOENEM Clicker
+PeeWee Purpdrank's FOENEM Clicker
+PeeWeePurpdrank'sFOENEMClicker
 Peeping
 Peezer
 Peezer Peezer
@@ -68523,8 +68626,11 @@ REBELLION
 REBELLION 2000
 REBELLION 2000 AD
 REBELLION GODSOUL: AWAKENING
+REBELLION PRINCESS|????? ?????
+REBELLION PRINCESS｜リベリオン プリンセス
 REBELLION2000
 REBELLION2000AD
+REBELLIONPRINCESS｜リベリオンプリンセス
 REBELPLAY
 REBIND DEMO
 REBIRTH FROM FLAME - SUPPORTER PACK
@@ -68711,6 +68817,7 @@ REGENCY
 REGEX GAME
 REGIS
 REGISTA: REIGN YOUR FOOTBALL CLUB
+REGULEA: INFECTION CARD BATTLE
 REI AND THE FLOATING CITY
 REIDARASSON
 REIGN OF GUILDS
@@ -68789,6 +68896,9 @@ RENEGADE SOFTWARE
 RENEGADEKID
 RENEGADESOFTWARE
 RENIFLEUR
+RENNSPORT: ENDURANCE CLASSICS PART 1
+RENNSPORT: Endurance Classics Part 1
+RENNSPORT:EnduranceClassicsPart1
 RENO
 RENO SOFT
 RENOSOFT
@@ -69284,6 +69394,7 @@ ROCK RIDGE
 ROCK RIDGE GAMES
 ROCK THE BLOCK
 ROCK THE RIM
+ROCK, PAPER, SCISSORS: SURVIVAL
 ROCK-HARD REHAB: HOW TO SURVIVE A HOSPITAL HAREM
 ROCK-PAPER-DEATH
 ROCKABILLY
@@ -69412,6 +69523,7 @@ ROGUEFALL
 ROGUEPOOL
 ROGUES
 ROGUETEMPLAR
+ROGUETRIP
 ROGUEVIVE
 ROGVENTURE
 ROI
@@ -70597,6 +70709,8 @@ RegexGame
 Regis
 Regista: Reign Your Football Club
 Regista:ReignYourFootballClub
+Regulea: Infection Card Battle
+Regulea:InfectionCardBattle
 Rei and the Floating City
 ReiandtheFloatingCity
 Reidarasson
@@ -71277,6 +71391,8 @@ Rock and Scroll
 Rock and Stone
 Rock the Block
 Rock the Rim
+Rock, Paper, Scissors: Survival
+Rock,Paper,Scissors:Survival
 Rock-Hard Rehab: How to Survive a Hospital Harem
 Rock-HardRehab:HowtoSurviveaHospitalHarem
 RockBand
@@ -83145,6 +83261,7 @@ THE QUEST FOR COLOUR
 THE QUIET HUM OF A LONELY HEART
 THE RAID OF BRUNSWICK
 THE RAILROAD CROSSING
+THE RAKE SEES YOU
 THE RANCH OF RIVERSHINE
 THE REAL FACE OF A VTUBER
 THE REASON FOR YOUR SMILE
@@ -86562,6 +86679,7 @@ The Quiet Hum of a Lonely Heart
 The RPG: My First Dungeon Smells
 The Raid of Brunswick
 The Railroad Crossing
+The Rake Sees You
 The Ranch of Rivershine
 The Real Face of a VTuber
 The Reason My Wife Has Gotten More Beautiful
@@ -87340,6 +87458,7 @@ TheQuietHumofaLonelyHeart
 TheRPG:MyFirstDungeonSmells
 TheRaidofBrunswick
 TheRailroadCrossing
+TheRakeSeesYou
 TheRanchofRivershine
 TheRealFaceofaVTuber
 TheReasonMyWifeHasGottenMoreBeautiful
@@ -90678,6 +90797,7 @@ VIOLENT RUSH
 VIOLENTRUSH
 VIOLET
 VIOLET IMPETUS
+VIOLET MANSION
 VIOLET MIND AND THE MYSTERIOUS ISLAND
 VIOLETTE
 VIPER
@@ -91504,8 +91624,10 @@ Violent Horror Stories 2
 ViolentHorrorStories2
 Violet
 Violet Impetus
+Violet Mansion
 Violet Mind and The Mysterious Island
 VioletImpetus
+VioletMansion
 VioletMindandTheMysteriousIsland
 Viper
 Vir2L
@@ -95602,6 +95724,8 @@ ZERO DEATH
 ZERO ESCAPE
 ZERO GUNNER 2
 ZERO HOUR
+ZERO PARADES: FOR DEAD SPIES
+ZERO PARADES: For Dead Spies
 ZERO POINT
 ZERO POINT SOFTWARE
 ZERO STRESS KING: IDLE DEFENSE
@@ -95614,6 +95738,7 @@ ZEROESCAPE
 ZEROGUNNER2
 ZEROHOUR
 ZEROONE TERMINAL
+ZEROPARADES:ForDeadSpies
 ZEROPOINT
 ZEROPOINTSOFTWARE
 ZEROSUITSAMUS
@@ -96157,6 +96282,7 @@ Zyrinx
 ZÈBRE
 [ MURMUR ]
 [ murmur ]
+[? ?]
 [????]
 [BEAT:KEEPER]
 [DON'T] LET GO
@@ -96186,6 +96312,8 @@ ZÈBRE
 [redacted] the safehouse
 [vladimere lhore's] bone fire effigy
 [开路先锋]
+[빈 칸]
+[빈칸]
 a
 a Difficult game about Wheelchair
 a bad christmas story
@@ -97027,6 +97155,7 @@ alien breed
 alien breed special edition 92
 alien brothers 2
 alien cartographer
+alien history
 alien infestation
 alien market simulator
 alien morgue
@@ -97337,6 +97466,7 @@ an altered state
 an easter to remember
 an exorcism
 an imp and an impostor
+an incremental game about placing blocks
 an ordinary top-down shooter
 an unplayable game?!
 ana
@@ -98607,6 +98737,7 @@ axion
 axis
 axis and
 axis and allies
+axis escape
 axis football 2026
 axisand
 axisandallies
@@ -98723,6 +98854,7 @@ backpack jianghu
 backpack scavenger
 backpack survivors
 backpackbattlechess
+backpacker guild
 backroom loop
 backroom:gone
 backrooms interception
@@ -99511,6 +99643,7 @@ below: footage 1
 beltion: beyond ritual
 bemer
 ben
+bench simulator
 bend
 bendy and the dark revival
 bendy: lone wolf
@@ -99573,6 +99706,7 @@ berserk warrior: infinite roguelike
 berserker
 berserker berserker
 berserker girl
+berserker onslaught
 berserker works
 berserkerberserker
 berserkerworks
@@ -100207,6 +100341,7 @@ blooberteam
 blood
 blood aliens 3
 blood bear
+blood brides
 blood clicker
 blood country
 blood falcon
@@ -100859,6 +100994,7 @@ breton
 breve bug: champions of destiny
 brevic
 brević
+brew or die
 brewing
 brewing stand
 brewingstand
@@ -101075,6 +101211,7 @@ buena vista games
 buenavista
 buenavistagames
 bueno
+bufo jump
 bug
 bug bane survivors
 bugbear
@@ -101172,6 +101309,7 @@ bunny's tea time
 bunny’s rent-a-mom agency
 bura: the way the wind blows
 burden of the blue
+burden street station
 bureau
 burger
 burger shot
@@ -103514,6 +103652,7 @@ cosmic coop
 cosmic holes junior demo
 cosmic miners
 cosmic order fleet
+cosmic run
 cosmic scramble
 cosmic star lounge
 cosmic swarm
@@ -104820,6 +104959,7 @@ dc studios
 dce
 dcstudios
 dd64
+ddod demo
 de
 de'Arnise
 de'arnise
@@ -105015,6 +105155,8 @@ deep line
 deep red
 deep red games
 deep rock galactic
+deep rock galactic x rogue core
+deep rock galactic: rogue core
 deep rock galactic: survivor
 deep sea
 deep sea arena
@@ -105293,6 +105435,7 @@ desktop mate gumi dlc
 desktop mate otomachi una dlc
 desktop mate work cat dlc
 desktop my cat
+desktop nard: dice idle
 desktop pals 2
 desktop pasture
 desktop purrfect demo
@@ -106039,6 +106182,7 @@ donbluthltd
 dondon
 dondzila
 dong
+dong wu: odyssey
 dongenie
 donjon
 donjon mystere
@@ -107010,6 +107154,7 @@ ech8
 echidna
 echo
 echo 91
+echo isle
 echo peak
 echo protocol: escape room
 echo re:kill
@@ -108309,6 +108454,7 @@ factory
 factory 95
 factory balls go!
 factory planner: first sparks
+factory reset
 factory train: dreamline
 fading lights
 faeterra
@@ -108490,6 +108636,7 @@ farland saga i saturn tribute
 farland saga ii saturn tribute
 farm
 farm chicken
+farm for you
 farm life
 farm manager 2021
 farm racing
@@ -109327,6 +109474,7 @@ football manager 2024
 football manager 26
 football mogul
 football rising:zero to hero
+football, tactics & glory: world championship
 footballmanager
 footballmogul
 for
@@ -110384,6 +110532,7 @@ gatheringofdevelopers
 gatheringofdeveloppers
 gator
 gator gator
+gator hucker
 gatorgator
 gau
 gau entertainment
@@ -112344,6 +112493,7 @@ heartofthesea
 heartopia
 heartreasure: stellar journey
 hearts
+hearts above the line
 hearts of iron iv
 hearts of iron iv: general edition
 heartspell: horizon academy
@@ -112986,6 +113136,9 @@ holy justice: galaxy outcast
 holy justice: galaxy outcast demo
 holy nope!
 holy shot
+holy valkyrie exs-tia f
+holy valkyrie exs-tia p
+holy valkyrie exs-tia ts
 holy valkyrie exs-tia: concerto 1
 homam : le poing d’un inventeur
 homartilleur
@@ -113101,6 +113254,7 @@ horny sluts in space
 horny village: milf harem
 horny wives' yoga class
 horny: zero moan 🔞🦕
+horoyal 〜hololive battle royal〜
 horripilant
 horror
 horror camp
@@ -115459,6 +115613,7 @@ karuizawa
 kasaa
 kasaa solution
 kasaasolution
+kasap
 kasedo
 kasedo games
 kasedogames
@@ -115776,6 +115931,7 @@ king of meat
 king of silence
 king of the arcade
 king of the monsters
+king of tokyo - richard garfield
 king records
 king's
 king's field
@@ -119354,6 +119510,7 @@ mechanical chess: real-time
 mechanical fury - prologue
 mechanical lab
 mechanicarms
+mecharise demo
 mechasonic
 mechassault
 mechdrachen
@@ -123921,6 +124078,7 @@ palette forge
 palette: cards & chaos
 pallas
 pallet jack racing
+palliative - reach for an angel
 palmer
 palmsoft
 palomina
@@ -124397,6 +124555,7 @@ pedo
 pedo pedo
 pedopedo
 peeping
+peewee purpdrank's foenem clicker
 peezer
 peezer peezer
 peezerpeezer
@@ -126989,6 +127148,7 @@ rebellion
 rebellion 2000
 rebellion 2000 ad
 rebellion godsoul: awakening
+rebellion princess｜リベリオン プリンセス
 rebellion2000
 rebellion2000ad
 rebelplay
@@ -127172,6 +127332,7 @@ regency
 regex game
 regis
 regista: reign your football club
+regulea: infection card battle
 rei and the floating city
 reidarasson
 reign of guilds
@@ -127250,6 +127411,7 @@ renegade software
 renegadekid
 renegadesoftware
 renifleur
+rennsport: endurance classics part 1
 reno
 reno soft
 renosoft
@@ -127719,6 +127881,7 @@ rock ridge
 rock ridge games
 rock the block
 rock the rim
+rock, paper, scissors: survival
 rock-hard rehab: how to survive a hospital harem
 rockabilly
 rockband
@@ -127846,6 +128009,7 @@ roguefall
 roguepool
 rogues
 roguetemplar
+roguetrip
 roguevive
 rogventure
 roi
@@ -133952,6 +134116,7 @@ the quest for colour
 the quiet hum of a lonely heart
 the raid of brunswick
 the railroad crossing
+the rake sees you
 the ranch of rivershine
 the real face of a vtuber
 the reason for your smile
@@ -136649,6 +136814,7 @@ violent horror stories 2
 violent rush
 violet
 violet impetus
+violet mansion
 violet mind and the mysterious island
 violette
 viper
@@ -138655,6 +138821,7 @@ zero death
 zero escape
 zero gunner 2
 zero hour
+zero parades: for dead spies
 zero point
 zero point software
 zero stress king: idle defense
@@ -139807,6 +139974,10 @@ zèbre
 这个CEO我当定了！
 这个ceo我当定了！
 这是谐音梗
+进击的打工人 ATTACK OF THE WORKER
+进击的打工人 Attack of the worker
+进击的打工人 attack of the worker
+进击的打工人Attackoftheworker
 连杀地牢（DUNGEON KILLING）
 连杀地牢（Dungeon Killing）
 连杀地牢（DungeonKilling）
