@@ -65,10 +65,15 @@
 /trace
 007
 007 FIRST LIGHT
+007 FIRST LIGHT - STANDARD EDITION
 007 First Light
+007 First Light   Standard Edition
+007 First Light - Standard Edition
 007 first light
+007 first light - standard edition
 0073735963
 007FirstLight
+007FirstLight-StandardEdition
 1
 1 IN A MILLION | A GAME OF ODDS
 1 TRILLION CREDITS IN DEBT
@@ -2357,7 +2362,11 @@ AES
 AESOP ROCK'S BLACK HOLE SUPERETTE EXPERIENCE
 AESTHETA
 AETERNUM GRAND PLAZA
+AETHELGARD - 12,000 ASTRALITE PACK
+AETHELGARD - 5,500 ASTRALITE PACK
 AETHELGARD - CREDIT BOOST (+50%)
+AETHELGARD - DAMAGE BOOST (+50%)
+AETHELGARD - XP BOOST (2X)
 AETHELRED
 AETHELSWITH
 AETHELWULF
@@ -2821,6 +2830,7 @@ ALISABOSKONOVITCH
 ALIVE
 ALKOR
 ALL
+ALL ABOUT LUCK
 ALL OF YOU
 ALL SYSTEMS OPERATIONAL
 ALL WILL FALL
@@ -4912,10 +4922,24 @@ AesopRock'sBlackHoleSuperetteExperience
 Aestheta
 Aeternum Grand Plaza
 AeternumGrandPlaza
+Aethelgard   12,000 Astralite Pack
+Aethelgard   5,500 Astralite Pack
 Aethelgard   Credit Boost (+50%)
+Aethelgard   Damage Boost (+50%)
+Aethelgard   XP Boost (2x)
+Aethelgard - 12,000 Astralite Pack
+Aethelgard - 5,500 Astralite Pack
 Aethelgard - Credit Boost  +50% 
 Aethelgard - Credit Boost (+50%)
+Aethelgard - Damage Boost  +50% 
+Aethelgard - Damage Boost (+50%)
+Aethelgard - XP Boost  2x 
+Aethelgard - XP Boost (2x)
+Aethelgard-12,000AstralitePack
+Aethelgard-5,500AstralitePack
 Aethelgard-CreditBoost(+50%)
+Aethelgard-DamageBoost(+50%)
+Aethelgard-XPBoost(2x)
 Aethelred
 Aethelswith
 Aethelwulf
@@ -5363,6 +5387,7 @@ AlisaBoskonovitch
 Alive
 Alkor
 All
+All About Luck
 All Female Medicine School
 All Front Assault
 All Systems Operational
@@ -5376,6 +5401,7 @@ All-Star
 All-Star Baseball
 All-StarBaseball
 All-Stars
+AllAboutLuck
 AllStar
 AllStar Baseball
 AllStarBaseball
@@ -7531,6 +7557,7 @@ BANNER PATTERN PIGLIN
 BANNER PATTERN SKULL
 BANNER PATTERN THING
 BANNER TACTICS
+BANNERET DEMO
 BANNERPATTERN
 BANNERPATTERNCREEPER
 BANNERPATTERNFLOWER
@@ -10314,6 +10341,8 @@ BannerPatternPiglin
 BannerPatternSkull
 BannerPatternThing
 BannerTactics
+Banneret Demo
+BanneretDemo
 Bannière
 Bannière blanche
 Bannière bleu
@@ -15308,6 +15337,7 @@ COREPLAYGAMES
 CORESOFT
 CORESOFT INC
 CORESOFTINC
+COREWARD
 CORGI RACE
 CORGISPACE
 CORNELIUS
@@ -15822,6 +15852,7 @@ CROP CROP
 CROP CRUSADERS
 CROP EMPIRE
 CROPACALYPSE
+CROPAGEDDON DEMO
 CROPCROP
 CROPIA
 CROSS
@@ -15836,6 +15867,7 @@ CROSSDRESSER KILLER
 CROSSED COMMANDS: COLLISION
 CROSSHAIR CONTROL
 CROSSHAIR ZERO
+CROSSHAIREDGE
 CROSSING
 CROSSING CHAINS
 CROSSITE II DEFINITIVE EDITION
@@ -18759,6 +18791,7 @@ CoreplayGames
 Coresoft
 Coresoft Inc
 CoresoftInc
+Coreward
 Corgi Race
 CorgiRace
 CorgiSpace
@@ -19350,6 +19383,8 @@ CropCrop
 CropCrusaders
 CropEmpire
 Cropacalypse
+Cropageddon Demo
+CropageddonDemo
 Cropia
 Cross
 Cross Blitz
@@ -19373,6 +19408,7 @@ CrossedCommands:Collision
 Crosshair Control
 Crosshair Zero
 CrosshairControl
+CrosshairEDGE
 CrosshairZero
 Crossing
 Crossing Chains
@@ -20124,6 +20160,7 @@ DARK SOULS™: REMASTERED
 DARK TARANZA
 DARK TARANZA DARK TARANZA
 DARK TECHNOLOGIES
+DARK WEB
 DARK WIZARDS WORLD PACK
 DARKBLACK
 DARKCHAMBERS
@@ -20702,6 +20739,7 @@ DEMON QUEST
 DEMON RESIDENT
 DEMON SLAYER -KIMETSU NO YAIBA- THE HINOKAMI CHRONICLES 2
 DEMON SLAYER -KIMETSU NO YAIBA- THE HINOKAMI CHRONICLES 2: "DEMON SLAYER: KIMETSU NO YAIBA INFINITY CASTLE" CHARACTER PASS
+DEMON SLAYER -KIMETSU NO YAIBA- THE HINOKAMI CHRONICLES 2: PLAYABLE CHARACTER: DOMA
 DEMON SLAYER -KIMETSU NO YAIBA- THE HINOKAMI CHRONICLES 2: PLAYABLE CHARACTER: GIYU TOMIOKA (INFINITY CASTLE)
 DEMON SLAYER -KIMETSU NO YAIBA- THE HINOKAMI CHRONICLES 2: PLAYABLE CHARACTER: TANJIRO KAMADO (INFINITY CASTLE)
 DEMON SLAYER -KIMETSU NO YAIBA- THE HINOKAMI CHRONICLES 2: SHINOBU KOCHO (INFINITY CASTLE) CHARACTER PACK
@@ -21997,6 +22035,7 @@ DREADCELL
 DREADFUL RIVER
 DREADHOLD
 DREADLINE: NET QUOTA
+DREADMARCH
 DREADMYST
 DREADOUT: REMASTERED COLLECTION
 DREADTOME
@@ -22682,6 +22721,7 @@ Dark Soldier
 Dark Taranza
 Dark Taranza Dark Taranza
 Dark Technologies
+Dark Web
 Dark Wizards World Pack
 DarkAdelita
 DarkAgeLegends
@@ -22726,6 +22766,7 @@ DarkSoldier
 DarkTaranza
 DarkTaranzaDarkTaranza
 DarkTechnologies
+DarkWeb
 DarkWizardsWorldPack
 Darkblack
 Darker: Chapter 1
@@ -23395,11 +23436,13 @@ Demon Quest
 Demon Resident
 Demon Slayer  Kimetsu no Yaiba  The Hinokami Chronicles 2
 Demon Slayer  Kimetsu no Yaiba  The Hinokami Chronicles 2: "Demon Slayer: Kimetsu no Yaiba Infinity Castle" Character Pass
+Demon Slayer  Kimetsu no Yaiba  The Hinokami Chronicles 2: Playable Character: Doma
 Demon Slayer  Kimetsu no Yaiba  The Hinokami Chronicles 2: Playable Character: Giyu Tomioka (Infinity Castle)
 Demon Slayer  Kimetsu no Yaiba  The Hinokami Chronicles 2: Playable Character: Tanjiro Kamado (Infinity Castle)
 Demon Slayer  Kimetsu no Yaiba  The Hinokami Chronicles 2: Shinobu Kocho (Infinity Castle) Character Pack
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: "Demon Slayer: Kimetsu no Yaiba Infinity Castle" Character Pass
+Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Playable Character: Doma
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Playable Character: Giyu Tomioka  Infinity Castle 
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Playable Character: Giyu Tomioka (Infinity Castle)
 Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2: Playable Character: Tanjiro Kamado  Infinity Castle 
@@ -23426,6 +23469,7 @@ DemonQuest
 DemonResident
 DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2
 DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2:"DemonSlayer:KimetsunoYaibaInfinityCastle"CharacterPass
+DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2:PlayableCharacter:Doma
 DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2:PlayableCharacter:GiyuTomioka(InfinityCastle)
 DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2:PlayableCharacter:TanjiroKamado(InfinityCastle)
 DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2:ShinobuKocho(InfinityCastle)CharacterPack
@@ -25530,6 +25574,8 @@ E4C SOLUTIONS, LLC
 E4CSOLUTIONS
 E4CSOLUTIONS,LLC
 E4CSOLUTIONSLLC
+E9UATIONS
+E9uations
 EA
 EA BIG
 EA BLACK
@@ -25681,6 +25727,7 @@ EASY DELIVERY CO.
 EASY INC
 EASY INTERACTIVE
 EASY Inc
+EASY POSE
 EASY STUDIO
 EASY STUDIO SUZHOU
 EASY8
@@ -25914,6 +25961,7 @@ EFFRAYANT
 EFFROYABLES
 EFIK
 EFOOTBALL
+EFOOTBALL ONLINE
 EFOOTBALL PRO EVOLUTION
 EFOOTBALL PRO EVOLUTION SOCCER
 EFOOTBALLPROEVOLUTION
@@ -25946,6 +25994,7 @@ EGGMART
 EGGO
 EGGO-DIL
 EGGODIL
+EGGS MUST FLOW
 EGGSHIT
 EGO
 EGO SOFTWARE
@@ -27081,12 +27130,14 @@ Easy 8
 Easy 8 Software
 Easy Delivery Co.
 Easy Interactive
+Easy Pose
 Easy Studio
 Easy Studio Suzhou
 Easy8
 Easy8Software
 EasyDeliveryCo.
 EasyInteractive
+EasyPose
 EasyStudio
 EasyStudioSuzhou
 Eat the Rich: Greed Games
@@ -27324,6 +27375,8 @@ Eggman
 Eggo
 Eggo-Dil
 EggoDil
+Eggs Must Flow
+EggsMustFlow
 Eggshit
 Ego
 Ego Software
@@ -29415,6 +29468,7 @@ FIVE NIGHTS AT STICKMAN
 FIVE NIGHTS IN SARANSK
 FIVENIGHTSATFREDDY'S
 FIVENIGHTSATFREDDYS
+FIX AND CLERK
 FIX AND CLERK DEMO
 FIXER TOOLKIT – WINDOW & LAYOUT MANAGER
 FIZZ
@@ -29679,6 +29733,7 @@ FOCUS HOME
 FOCUS HOME INTERACTIVE
 FOCUS KNIGHT: PRODUCTIVITY RPG
 FOCUS PACK - HEARTS OF IRON IV: PEACE FOR OUR TIME
+FOCUS WITH LUNA: COZY MAGIC STUDIES
 FOCUSCREATIVE
 FOCUSCREATIVEENTERPRISES
 FOCUSHOME
@@ -31405,7 +31460,9 @@ FiveNightsatDream's​
 FiveNightsatFreddy's
 FiveNightsatFreddy's:SecretoftheMimic
 FiveNightsatFreddys
+Fix and Clerk
 Fix and Clerk Demo
+FixandClerk
 FixandClerkDemo
 Fixer Toolkit - Window & Layout Manager
 Fixer Toolkit – Window   Layout Manager
@@ -31708,6 +31765,7 @@ Focus Home Interactive
 Focus Knight: Productivity RPG
 Focus Pack   Hearts of Iron IV: Peace For Our Time
 Focus Pack - Hearts of Iron IV: Peace For Our Time
+Focus With Luna: Cozy Magic Studies
 FocusCreative
 FocusCreativeEnterprises
 FocusGroup-FirstDay
@@ -31715,6 +31773,7 @@ FocusHome
 FocusHomeInteractive
 FocusKnight:ProductivityRPG
 FocusPack-HeartsofIronIV:PeaceForOurTime
+FocusWithLuna:CozyMagicStudies
 Fodder
 Fokos
 Fold   Fly
@@ -32627,6 +32686,7 @@ GABYSOFT
 GADD
 GADRIN
 GAEBORA
+GAELIC FOOTBALL LAOCHRA
 GAELLE
 GAGA
 GAGA COMMUNICATIONS
@@ -34499,6 +34559,8 @@ GabySoft
 Gadd
 Gadrin
 Gaebora
+Gaelic Football Laochra
+GaelicFootballLaochra
 Gaelle
 GagImpact
 Gaga
@@ -36670,6 +36732,7 @@ HAMMOND&LEYLAND
 HAMPY'S GREAT ADVENTURE
 HAMSTER
 HAMSTER HUSTLE
+HAMSTER TALK
 HAMSTERCRAFT
 HAMSTERMIND
 HAMSTER’S STICKER BOOK
@@ -37936,6 +37999,7 @@ HOVERCRAFTS X NIHILISM
 HOVERGREASE 2
 HOW 2 ESCAPE: LOST SUBMARINE
 HOW MANY SECRETS UNDER CEILING
+HOW MUCH FOR THE BODY IN THE FREEZER
 HOW NOW SEA COW?
 HOW SMART ARE YOU? IQ TEST
 HOW TO CREATE A WITCH
@@ -38299,9 +38363,11 @@ Hampy's Great Adventure
 Hampy'sGreatAdventure
 Hamster
 Hamster Hustle
+Hamster Talk
 Hamster's Sticker Book
 HamsterCraft
 HamsterHustle
+HamsterTalk
 Hamster’s Sticker Book
 Hamster’sStickerBook
 Han
@@ -39930,6 +39996,7 @@ Hovercrafts x Nihilism
 HovercraftsxNihilism
 How 2 Escape: Lost Submarine
 How Many Secrets Under Ceiling
+How Much for the Body in the Freezer
 How Now Sea Cow?
 How Smart Are You? IQ Test
 How Your Package Gets Delivered
@@ -39940,6 +40007,7 @@ How to lose one s virginity Demo
 How to lose one's virginity Demo
 How2Escape:LostSubmarine
 HowManySecretsUnderCeiling
+HowMuchfortheBodyintheFreezer
 HowNowSeaCow?
 HowSmartAreYou?IQTest
 HowYourPackageGetsDelivered
@@ -40609,6 +40677,7 @@ IMAGIC
 IMAGINARY
 IMAGINARY FACTORY
 IMAGINARY FRIEND INSTITUTION
+IMAGINARY KINGDOM
 IMAGINARYFACTORY
 IMAGINE
 IMAGINE SOFTWARE
@@ -40885,6 +40954,7 @@ INKOCHET:PaintTheWallsWithYourArrows!
 INKOID
 INKSAC
 INKVENTURE
+INKWELLERS
 INKY BLINKY BOB
 INKYPEN
 INLAND
@@ -41633,8 +41703,10 @@ ImaginEngine
 Imaginary
 Imaginary Factory
 Imaginary Friend Institution
+Imaginary Kingdom
 ImaginaryFactory
 ImaginaryFriendInstitution
+ImaginaryKingdom
 Imagine
 Imagine Software
 ImagineSoftware
@@ -41949,6 +42021,7 @@ InkShadow:Zero
 Inkling
 Inkoid
 Inkventure
+Inkwellers
 Inky Blinky Bob
 InkyBlinkyBob
 InkyPen
@@ -44743,6 +44816,7 @@ KINO
 KINSFOLK
 KINTARO
 KINTSUGI
+KIOKU: LAST SUMMER
 KIP
 KIRA
 KIRBY
@@ -45972,6 +46046,8 @@ Kino
 Kinsfolk
 Kintaro
 Kintsugi
+Kioku: Last Summer
+Kioku:LastSummer
 Kip
 Kira
 Kirby
@@ -48120,6 +48196,7 @@ LONTE
 LOOK AT ME
 LOOK DOWN
 LOOKATMYGAME
+LOOKFOORME
 LOOKING
 LOOKING GLASS
 LOOKING UP
@@ -50168,6 +50245,7 @@ Look at me
 LookAtMe
 LookAtMyGame
 LookDown
+LookFoorMe
 Lookatme
 Looking
 Looking Glass
@@ -52176,6 +52254,7 @@ METAMORF
 METAPHOR: REFANTAZIO
 METARICA
 METAVOIDAL
+METEOR SWARM OLD SCHOOL
 METEORITEFALL
 METHOD
 METHOD SOLUTIONS
@@ -55487,6 +55566,8 @@ Metaphor: ReFantazio
 Metaphor:ReFantazio
 Metarica
 Metavoidal
+Meteor Swarm Old School
+MeteorSwarmOldSchool
 MeteoriteFall
 Method
 Method Solutions
@@ -58233,6 +58314,7 @@ NICHOLAS
 NICHOLAS INGRAHAM
 NICHOLASINGRAHAM
 NICK'S TEXT ADVENTURE
+NICKELODEON EXTREME TENNIS: NEXT!
 NICKLAUS
 NICKTOONS & THE DICE OF DESTINY
 NICO SAVES THE STATE
@@ -58506,6 +58588,7 @@ NMS SOFTWARE
 NMS Software
 NMSSOFTWARE
 NMSSoftware
+NNA-TAN'S PIXEL PRINCESS
 NNOOO
 NO
 NO 48
@@ -59451,6 +59534,8 @@ NicholasIngraham
 Nick s Text Adventure
 Nick's Text Adventure
 Nick'sTextAdventure
+Nickelodeon Extreme Tennis: Next!
+NickelodeonExtremeTennis:Next!
 Nicklaus
 Nicktoons   The Dice of Destiny
 Nicktoons & The Dice of Destiny
@@ -59748,6 +59833,10 @@ Njoy Entertainment Group
 NjoyEntertainment
 NjoyEntertainmentGroup
 Nmnmah
+Nna tan's Pixel Princess
+Nna-tan s Pixel Princess
+Nna-tan's Pixel Princess
+Nna-tan'sPixelPrincess
 Nnooo
 No
 No 48
@@ -61031,6 +61120,7 @@ ORCA
 ORCA CORPORATION
 ORCACORPORATION
 ORCALYPSE
+ORCAVAN: IDLE RPG
 ORCDOM
 ORCO
 ORCO L'ORQUE
@@ -62226,6 +62316,8 @@ Orca
 Orca Corporation
 OrcaCorporation
 Orcalypse
+Orcavan: Idle RPG
+Orcavan:IdleRPG
 Orcdom
 Orco
 Orco l'orque
@@ -69336,6 +69428,7 @@ RESCUE
 RESCUE ON FRACTALUS
 RESCUE OVER 100 TOWN CATS
 RESCUE THE HOSTAGES: CRYPTIC COUNTDOWN
+RESCUE THE HOSTAGES: WORDS OF FEAR
 RESCUEONFRACTALUS
 RESEARCH
 RESEARCH STORY
@@ -69426,6 +69519,7 @@ REUNION: Autumn Leaf   FINAL RELEASE
 REUNION: Autumn Leaf - FINAL RELEASE
 REUNION:AutumnLeaf-FINALRELEASE
 REUNIUNO
+REUS
 REUSE
 REV
 REVA
@@ -70121,6 +70215,7 @@ ROSE GUNS DAYS -SEASON 1-
 ROSE OF WIND
 ROSE PAYNE
 ROSEBUD
+ROSELT CALCULATOR
 ROSELY
 ROSELY ROSELY
 ROSELYROSELY
@@ -71267,9 +71362,11 @@ Rescue
 Rescue Over 100 Town Cats
 Rescue on Fractalus
 Rescue the Hostages: Cryptic Countdown
+Rescue the Hostages: Words of Fear
 RescueOver100TownCats
 RescueonFractalus
 RescuetheHostages:CrypticCountdown
+RescuetheHostages:WordsofFear
 Research
 Research Story
 ResearchStory
@@ -71385,6 +71482,7 @@ ReturntoDarkCastle
 Reunion Online
 ReunionOnline
 ReuniunO
+Reus
 Rev
 Reva
 Reva Technologies
@@ -72161,6 +72259,8 @@ RoseGunsDays-Season1-
 RoseOfWind
 RosePayne
 RoseandLocket
+Roselt Calculator
+RoseltCalculator
 Rosely
 Rosely Rosely
 RoselyRosely
@@ -74118,6 +74218,7 @@ SIGN
 SIGN CRAFT: SIMULATOR
 SIGNAL SNOW
 SIGNAL ZONE
+SIGNALFALL
 SIGNS OF LIFE
 SIGURD
 SIGURD STYRBJORNSON
@@ -74740,6 +74841,7 @@ SNATCHER
 SNAVENGER
 SNC
 SNE
+SNEAKY SECRET MISSION!
 SNEKOBAN
 SNEMOVNA
 SNES
@@ -76503,6 +76605,7 @@ SUPER FANTASY KINGDOM
 SUPER FARMING BOY
 SUPER FIGHTER
 SUPER FIGHTER TEAM
+SUPER FIREFIGHTER
 SUPER GALAXY GAMES
 SUPER GORILLA QUEST 2: A SPACE CHIMPANZEE
 SUPER HANG ON
@@ -78798,6 +78901,7 @@ Signal Snow
 Signal Zone
 SignalSnow
 SignalZone
+Signalfall
 Signs Of Life
 SignsOfLife
 Sigurd
@@ -79539,6 +79643,8 @@ SnapshotSpiritLive!
 Snapshots
 Snatcher
 Snavenger
+Sneaky Secret Mission!
+SneakySecretMission!
 Snekoban
 Snemovna
 Snide
@@ -81663,6 +81769,7 @@ Super Fantasy Kingdom
 Super Farming Boy
 Super Fighter
 Super Fighter Team
+Super Firefighter
 Super Galaxy Games
 Super Gorilla Quest 2: A Space Chimpanzee
 Super Hang On
@@ -81779,6 +81886,7 @@ SuperFantasyKingdom
 SuperFarmingBoy
 SuperFighter
 SuperFighterTeam
+SuperFirefighter
 SuperGalaxyGames
 SuperGorillaQuest2:ASpaceChimpanzee
 SuperGrafX
@@ -82476,6 +82584,7 @@ TAL
 TAL RASHA
 TALE
 TALE OF
+TALE OF CHAK CHAK
 TALE OF EXCALIBUN
 TALE OF TALES
 TALEBUILDER
@@ -82696,6 +82805,10 @@ TAYUTAMA:IT'S HAPPY DAYS
 TAYUTAMA:KISSONMY
 TAYUTAMA:KISSONMYDEITY
 TAYUTAMAKISSONMYDEITY
+TBH : TASK BAR HERO - 3 STASH PACK
+TBH : Task Bar Hero   3 Stash Pack
+TBH : Task Bar Hero - 3 Stash Pack
+TBH:TaskBarHero-3StashPack
 TCC
 TCG CARD SHOP SIMULATOR
 TCG Card Shop Simulator
@@ -83166,6 +83279,7 @@ THE AMAZING CRACKPOTS CLUB!
 THE AMAZING SOCIETY
 THE ANCIENT MAGUS' BRIDE MIDSUMMER PILGRIMAGE
 THE ANGEL'S DEVIL TAIL - ONE MORE QUESTION 2
+THE ANGEL'S MANDATE
 THE ANOMALY DETECTIVE
 THE ANOMALY MANOR
 THE APARTMENT LIES
@@ -83746,6 +83860,7 @@ THE PATH HOME
 THE PATH OF BLADES
 THE PENTASTIC DESCENT
 THE PERFECT TOWER II
+THE PHARHAD ROAD
 THE PHOENIX GENE VR
 THE PHYSICAL
 THE PINKMAN FILES
@@ -84971,6 +85086,7 @@ TOUHOU RANDOM TOWER DEFENSE
 TOUHOU SPELL CARNIVAL
 TOUHOU VOLLEYBALL
 TOUHOU VOLLEYBALL DANMAKU
+TOUHOU YUKKURI MOUNTAIN
 TOUHOU: BLOSSOM BLADE
 TOUHOU: RECORDS OF WEALTH-SEEKING
 TOUHOUPROJECT
@@ -85815,11 +85931,13 @@ Tal Rasha
 TalRasha
 Tale
 Tale of
+Tale of Chak Chak
 Tale of Excalibun
 Tale of Tales
 Talebuilder
 Talents
 Taleof
+TaleofChakChak
 TaleofExcalibun
 TaleofTales
 Tales
@@ -86624,8 +86742,10 @@ The Amazing Society
 The Ancient Magus  Bride Midsummer Pilgrimage
 The Ancient Magus' Bride Midsummer Pilgrimage
 The Angel s Devil Tail - One More Question 2
+The Angel s Mandate
 The Angel's Devil Tail   One More Question 2
 The Angel's Devil Tail - One More Question 2
+The Angel's Mandate
 The Anomaly Detective
 The Anomaly Manor
 The Apothecary of Trubiz
@@ -87183,6 +87303,7 @@ The Path Home
 The Path of Blades
 The Pentastic Descent
 The Perfect Tower II
+The Pharhad Road
 The Phoenix Gene VR
 The Physical
 The Pinkman Files
@@ -87455,6 +87576,7 @@ TheAmazingCrackpotsClub!
 TheAmazingSociety
 TheAncientMagus'BrideMidsummerPilgrimage
 TheAngel'sDevilTail-OneMoreQuestion2
+TheAngel'sMandate
 TheAnomalyDetective
 TheAnomalyManor
 TheApothecaryofTrubiz
@@ -87971,6 +88093,7 @@ ThePathHome
 ThePathofBlades
 ThePentasticDescent
 ThePerfectTowerII
+ThePharhadRoad
 ThePhoenixGeneVR
 ThePhysical
 ThePinkmanFiles
@@ -89147,6 +89270,7 @@ Touhou Random Tower Defense
 Touhou Spell Carnival
 Touhou Volleyball
 Touhou Volleyball Danmaku
+Touhou Yukkuri Mountain
 Touhou: Blossom Blade
 Touhou: Records of Wealth Seeking
 Touhou: Records of Wealth-Seeking
@@ -89165,6 +89289,7 @@ TouhouRandomTowerDefense
 TouhouSpellCarnival
 TouhouVolleyball
 TouhouVolleyballDanmaku
+TouhouYukkuriMountain
 Tour
 Tour de France 2025
 TourdeFrance2025
@@ -97431,7 +97556,11 @@ aes
 aesop rock's black hole superette experience
 aestheta
 aeternum grand plaza
+aethelgard - 12,000 astralite pack
+aethelgard - 5,500 astralite pack
 aethelgard - credit boost (+50%)
+aethelgard - damage boost (+50%)
+aethelgard - xp boost (2x)
 aethelred
 aethelswith
 aethelwulf
@@ -97826,6 +97955,7 @@ alisaboskonovitch
 alive
 alkor
 all
+all about luck
 all of you
 all systems operational
 all will fall
@@ -99711,6 +99841,7 @@ banner pattern piglin
 banner pattern skull
 banner pattern thing
 banner tactics
+banneret demo
 bannerpattern
 bannerpatterncreeper
 bannerpatternflower
@@ -104240,6 +104371,7 @@ coreplaygames
 coresoft
 coresoft inc
 coresoftinc
+coreward
 corgi race
 corgispace
 cornelius
@@ -104739,6 +104871,7 @@ crop crop
 crop crusaders
 crop empire
 cropacalypse
+cropageddon demo
 cropcrop
 cropia
 cross
@@ -104753,6 +104886,7 @@ crossdresser killer
 crossed commands: collision
 crosshair control
 crosshair zero
+crosshairedge
 crossing
 crossing chains
 crossite ii definitive edition
@@ -105404,6 +105538,7 @@ dark souls™: remastered
 dark taranza
 dark taranza dark taranza
 dark technologies
+dark web
 dark wizards world pack
 darkblack
 darkchambers
@@ -105953,6 +106088,7 @@ demon quest
 demon resident
 demon slayer -kimetsu no yaiba- the hinokami chronicles 2
 demon slayer -kimetsu no yaiba- the hinokami chronicles 2: "demon slayer: kimetsu no yaiba infinity castle" character pass
+demon slayer -kimetsu no yaiba- the hinokami chronicles 2: playable character: doma
 demon slayer -kimetsu no yaiba- the hinokami chronicles 2: playable character: giyu tomioka (infinity castle)
 demon slayer -kimetsu no yaiba- the hinokami chronicles 2: playable character: tanjiro kamado (infinity castle)
 demon slayer -kimetsu no yaiba- the hinokami chronicles 2: shinobu kocho (infinity castle) character pack
@@ -107196,6 +107332,7 @@ dreadcell
 dreadful river
 dreadhold
 dreadline: net quota
+dreadmarch
 dreadmyst
 dreadout: remastered collection
 dreadtome
@@ -107669,9 +107806,12 @@ e4cSolutionsLLC
 e4csolutions
 e4csolutions,llc
 e4csolutionsllc
+e9uations
 eBaseball(TM): PRO SPIRIT
 eBaseball™: PRO SPIRIT
 eBaseball™:PROSPIRIT
+eFootball Online
+eFootballOnline
 eReader
 eXoSpace Combat Engineer
 eXoSpaceCombatEngineer
@@ -107776,6 +107916,7 @@ easy 8 software
 easy delivery co.
 easy inc
 easy interactive
+easy pose
 easy studio
 easy studio suzhou
 easy8
@@ -107991,6 +108132,7 @@ effrayant
 effroyables
 efik
 efootball
+efootball online
 efootball pro evolution
 efootball pro evolution soccer
 efootballproevolution
@@ -108011,6 +108153,7 @@ eggmart
 eggo
 eggo-dil
 eggodil
+eggs must flow
 eggshit
 ego
 ego software
@@ -109848,6 +109991,7 @@ five nights at stickman
 five nights in saransk
 fivenightsatfreddy's
 fivenightsatfreddys
+fix and clerk
 fix and clerk demo
 fixer toolkit – window & layout manager
 fizz
@@ -110115,6 +110259,7 @@ focus home
 focus home interactive
 focus knight: productivity rpg
 focus pack - hearts of iron iv: peace for our time
+focus with luna: cozy magic studies
 focuscreative
 focuscreativeenterprises
 focushome
@@ -110863,6 +111008,7 @@ gabysoft
 gadd
 gadrin
 gaebora
+gaelic football laochra
 gaelle
 gaga
 gaga communications
@@ -112815,6 +112961,7 @@ hammond&leyland
 hampy's great adventure
 hamster
 hamster hustle
+hamster talk
 hamstercraft
 hamstermind
 hamster’s sticker book
@@ -114055,6 +114202,7 @@ hovercrafts x nihilism
 hovergrease 2
 how 2 escape: lost submarine
 how many secrets under ceiling
+how much for the body in the freezer
 how now sea cow?
 how smart are you? iq test
 how to create a witch
@@ -114613,6 +114761,7 @@ imagic
 imaginary
 imaginary factory
 imaginary friend institution
+imaginary kingdom
 imaginaryfactory
 imagine
 imagine software
@@ -114886,6 +115035,7 @@ inkochet: paint the walls with your arrows!
 inkoid
 inksac
 inkventure
+inkwellers
 inky blinky bob
 inkypen
 inland
@@ -116715,6 +116865,7 @@ kino
 kinsfolk
 kintaro
 kintsugi
+kioku: last summer
 kip
 kira
 kirby
@@ -118813,6 +118964,7 @@ lonté
 look at me
 look down
 lookatmygame
+lookfoorme
 looking
 looking glass
 looking up
@@ -120623,6 +120775,7 @@ metamorf
 metaphor: refantazio
 metarica
 metavoidal
+meteor swarm old school
 meteoritefall
 method
 method solutions
@@ -122965,6 +123118,7 @@ nicholas
 nicholas ingraham
 nicholasingraham
 nick's text adventure
+nickelodeon extreme tennis: next!
 nicklaus
 nicktoons & the dice of destiny
 nico saves the state
@@ -123221,6 +123375,7 @@ nmnmah
 nms
 nms software
 nmssoftware
+nna-tan's pixel princess
 nnooo
 no
 no 48
@@ -124417,6 +124572,7 @@ orca
 orca corporation
 orcacorporation
 orcalypse
+orcavan: idle rpg
 orcdom
 orco
 orco l'orque
@@ -128203,6 +128359,7 @@ rescue
 rescue on fractalus
 rescue over 100 town cats
 rescue the hostages: cryptic countdown
+rescue the hostages: words of fear
 rescueonfractalus
 research
 research story
@@ -128286,6 +128443,7 @@ returns
 reunion online
 reunion: autumn leaf - final release
 reuniuno
+reus
 reuse
 rev
 reva
@@ -128944,6 +129102,7 @@ rose guns days -season 1-
 rose of wind
 rose payne
 rosebud
+roselt calculator
 rosely
 rosely rosely
 roselyrosely
@@ -130698,6 +130857,7 @@ sign
 sign craft: simulator
 signal snow
 signal zone
+signalfall
 signs of life
 sigurd
 sigurd styrbjornson
@@ -131297,6 +131457,7 @@ snatcher
 snavenger
 snc
 sne
+sneaky secret mission!
 snekoban
 snemovna
 snes
@@ -132992,6 +133153,7 @@ super fantasy kingdom
 super farming boy
 super fighter
 super fighter team
+super firefighter
 super galaxy games
 super gorilla quest 2: a space chimpanzee
 super hang on
@@ -133645,6 +133807,7 @@ tal
 tal rasha
 tale
 tale of
+tale of chak chak
 tale of excalibun
 tale of tales
 talebuilder
@@ -133864,6 +134027,7 @@ tayutama:it's happy days
 tayutama:kissonmy
 tayutama:kissonmydeity
 tayutamakissonmydeity
+tbh : task bar hero - 3 stash pack
 tcc
 tcg card shop simulator
 tcg master trader
@@ -134322,6 +134486,7 @@ the amazing crackpots club!
 the amazing society
 the ancient magus' bride midsummer pilgrimage
 the angel's devil tail - one more question 2
+the angel's mandate
 the anomaly detective
 the anomaly manor
 the apartment lies
@@ -134888,6 +135053,7 @@ the path home
 the path of blades
 the pentastic descent
 the perfect tower ii
+the pharhad road
 the phoenix gene vr
 the physical
 the pinkman files
@@ -136096,6 +136262,7 @@ touhou random tower defense
 touhou spell carnival
 touhou volleyball
 touhou volleyball danmaku
+touhou yukkuri mountain
 touhou: blossom blade
 touhou: records of wealth-seeking
 touhouproject
