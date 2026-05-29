@@ -300,6 +300,7 @@
 101 CATS HIDDEN IN PRAGUE
 101 CATS HIDDEN IN VENICE
 101 CATS IN DUBLIN
+101 CATS IN HANOI
 101 CATS IN SAINT PETERSBURG
 101 Cats Hidden in Barcelona
 101 Cats Hidden in Beijing
@@ -316,6 +317,7 @@
 101 Cats Hidden in Prague
 101 Cats Hidden in Venice
 101 Cats in Dublin
+101 Cats in Hanoi
 101 Cats in Saint Petersburg
 101 DOGS HIDDEN
 101 DOGS HIDDEN IN AMSTERDAM
@@ -362,6 +364,7 @@
 101 cats hidden in prague
 101 cats hidden in venice
 101 cats in dublin
+101 cats in hanoi
 101 cats in saint petersburg
 101 dogs hidden
 101 dogs hidden in amsterdam
@@ -393,6 +396,7 @@
 101CatsHiddeninPrague
 101CatsHiddeninVenice
 101CatsinDublin
+101CatsinHanoi
 101CatsinSaintPetersburg
 101DogsHidden
 101DogsHiddeninAmsterdam
@@ -885,7 +889,10 @@
 3.0.
 3.1
 30
+30 DAYS OF WORK
+30 Days of Work
 30 MINUTES TO RESCUE
+30 days of work
 30 minutes to rescue
 3000
 3000M TO WHATEVER’S UP THERE
@@ -894,6 +901,7 @@
 3000m to whatever’s up there
 3000mtoWhatever’sUpThere
 3096
+30DaysofWork
 30minutestorescue
 31
 31 ROOM
@@ -925,6 +933,10 @@
 369INTERACTIVE
 369Interactive
 369interactive
+3876 AD: CORRUPTION
+3876 AD: Corruption
+3876 ad: corruption
+3876AD:Corruption
 3:
 3AM ON FISH ISLAND
 3ARC UNLOCK
@@ -1410,6 +1422,7 @@
 ?? ???????? ?? ???????
 ?? Block
 ?? Demo
+?? Out of Focus
 ?? Pictective
 ?? Soil of Rebirth
 ?? grandmother
@@ -1623,6 +1636,7 @@
 ???????????-???????-
 ???????????/SlowLife Survivor
 ????????????
+????????????!!~?????????????30????~
 ?????????????
 ?????????????(TouhouEternalFrontier)
 ???????????????
@@ -1775,6 +1789,7 @@ A JOURNEY THROUGH SHADOW, TO REACH THE LIGHT.
 A KILLER CHAT! CHRISTMAS
 A Killer Chat! Christmas
 A LENDA DE NITERÓI
+A LIFE I COULDN’T FEEL
 A LINK TO PAST
 A LINK TO THE PAST
 A LITTLE PERSPECTIVE
@@ -1783,6 +1798,8 @@ A LOVE LIKE BROKEN GLASS
 A LUCKY HUNT WITH : LYRA
 A Lenda de Niteroi
 A Lenda de Niterói
+A Life I Couldn't Feel
+A Life I Couldn’t Feel
 A Little Perspective
 A Little Physics Roguelike
 A Love Like Broken Glass
@@ -2956,6 +2973,7 @@ ALVES
 ALVION
 ALendadeNiterói
 ALife
+ALifeICouldn’tFeel
 ALittlePerspective
 ALittlePhysicsRoguelike
 ALoveLikeBrokenGlass
@@ -7324,6 +7342,7 @@ BACKROOMS STORIES
 BACKROOMS: APPREHENSION
 BACKROOMS: DON T LOOK AWAY
 BACKROOMS: DON'T LOOK AWAY
+BACKROOMS: ESCAPE TOGETHER
 BACKROOMS: FACILITY UNKNOWN
 BACKROOMS: FINAL EXAM
 BACKROOMS: FORGOTTEN FLOORS
@@ -7769,6 +7788,7 @@ BASKETBALL NIGHTMARE
 BASKETBALLNIGHTMARE
 BASKETBLOW
 BASKIN ALL-IN: THE FAMILY
+BASPETBALL
 BASS
 BASS HARRIER
 BASTIAN
@@ -8009,6 +8029,7 @@ BEAUTY
 BEAUTY AND THE BEAST
 BEAUTYANDTHEBEAST
 BEAUTY’S TARGET
+BEAVERTALE
 BEBE
 BEBE BOWSER
 BEBE DAISY
@@ -10069,6 +10090,7 @@ Backrooms Interception
 Backrooms Maze 2D
 Backrooms Media
 Backrooms Santa
+Backrooms: Escape Together
 Backrooms: Facility Unknown
 Backrooms: Final Exam
 Backrooms: Forgotten Floors
@@ -10080,6 +10102,7 @@ Backrooms: Recode
 Backrooms: The Last Record
 Backrooms: The True Level
 Backrooms: The Wrong Level
+Backrooms:EscapeTogether
 Backrooms:FacilityUnknown
 Backrooms:FinalExam
 Backrooms:ForgottenFloors
@@ -10515,6 +10538,7 @@ BasketballNightmare
 Baskin All In: The Family
 Baskin All-In: The Family
 BaskinAll-In:TheFamily
+Baspetball
 Bass
 Bass Harrier
 BassHarrier
@@ -10793,6 +10817,7 @@ Beauty's Target
 BeautyandtheBeast
 Beauty’s Target
 Beauty’sTarget
+Beavertale
 Bebe
 Bebe Bowser
 Bebe Daisy
@@ -13257,6 +13282,7 @@ CALL OF DUTY®: BLACK OPS 7 - COMMAND FORCE: STARTER PACK
 CALL OF DUTY®: BLACK OPS 7 - VAULT EDITION UPGRADE
 CALL OF DUTY®: BLACK OPS III
 CALL OF DUTY®: MODERN WARFARE®
+CALL OF ELMORE
 CALL OF GIRLS
 CALL OF JUAREZ
 CALL OF JUAREZ: GUNSLINGER
@@ -13963,6 +13989,7 @@ CHAINMAILHELMET
 CHAINMAILLEGGINGS
 CHAINS ON SAND
 CHAINSAW DODGE
+CHAINSAW WOODS
 CHAINSHOT!
 CHAINSTAFF
 CHAIR
@@ -15628,6 +15655,7 @@ CRASH'NBURN
 CRASHBANDICOOT
 CRASHMALEFIQUE
 CRASHNBURN
+CRASHOUT CREW
 CRASHTEAMRACING
 CRASHTIME
 CRAVE
@@ -16349,6 +16377,7 @@ Call of Duty®: Black Ops 7 - Command Force: Starter Pack
 Call of Duty®: Black Ops 7 - Vault Edition Upgrade
 Call of Duty®: Black Ops III
 Call of Duty®: Modern Warfare®
+Call of Elmore
 Call of Girls
 Call of Juarez
 Call of Juarez: Gunslinger
@@ -16371,6 +16400,7 @@ CallofDuty®:BlackOps7-CommandForce:StarterPack
 CallofDuty®:BlackOps7-VaultEditionUpgrade
 CallofDuty®:BlackOpsIII
 CallofDuty®:ModernWarfare®
+CallofElmore
 CallofGirls
 CallofJuarez
 CallofJuarez:Gunslinger
@@ -17167,7 +17197,9 @@ ChainmailHelmet
 ChainmailLeggings
 Chains on Sand
 Chainsaw Dodge
+Chainsaw Woods
 ChainsawDodge
+ChainsawWoods
 ChainsonSand
 Chair
 Chair Debiti
@@ -19137,6 +19169,8 @@ CrashMaléfique
 CrashTeamRacing
 CrashTime
 CrashnBurn
+Crashout Crew
+CrashoutCrew
 Crave
 Crave Entertainment
 CraveEntertainment
@@ -21115,6 +21149,7 @@ DICE GOBLIN'S DEN
 DICE GOBLINS CLICKER
 DICE LEGENDS
 DICE OF KALMA
+DICE ROGUES DEMO
 DICE SHAPER
 DICE TO PAY
 DICE WITH DEATH
@@ -22021,6 +22056,7 @@ DRAKENGARD 3 ORIGINAL SOUNDTRACK
 DRAKENGARD ORIGINAL SOUNDTRACK RE-RELEASE
 DRAKULA'S ASCENSION
 DRAMAERA
+DRAMATOUR
 DRAMONS WARRIORS
 DRAQ
 DRAUGAR
@@ -23895,6 +23931,7 @@ Dice Goblin s Den
 Dice Goblin's Den
 Dice Goblins Clicker
 Dice Legends
+Dice Rogues Demo
 Dice Shaper
 Dice To Pay
 Dice With Death
@@ -23905,6 +23942,7 @@ DiceBiology
 DiceGoblin'sDen
 DiceGoblinsClicker
 DiceLegends
+DiceRoguesDemo
 DiceShaper
 DiceToPay
 DiceWithDeath
@@ -24979,6 +25017,7 @@ Drakula s Ascension
 Drakula's Ascension
 Drakula'sAscension
 Dramaera
+Dramatour
 Dramons Warriors
 DramonsWarriors
 Draq
@@ -28893,6 +28932,8 @@ FARM CHICKEN
 FARM FOR YOU
 FARM LIFE
 FARM MANAGER 2021
+FARM MANAGER WORLD - FLAGS PACK
+FARM MANAGER WORLD - SUPPORTER PACK
 FARM RACING
 FARM SIMULATOR
 FARM TO TABLE
@@ -29796,6 +29837,7 @@ FORAGE WIZARD
 FORBIDDEN
 FORBIDDEN GROUND - LAIR OF AOONI -
 FORBIDDEN OFFERING
+FORBIDDEN SCROLLS : MIDNIGHT WHISPERS DEMO
 FORBIDDEN SIREN
 FORBIDDEN TERROR: BOARD GAME
 FORBIDDEN ZONE
@@ -30763,6 +30805,10 @@ Farm
 Farm Chicken
 Farm Life
 Farm Manager 2021
+Farm Manager World   Flags Pack
+Farm Manager World   Supporter Pack
+Farm Manager World - Flags Pack
+Farm Manager World - Supporter Pack
 Farm Night
 Farm Racing
 Farm Simulator
@@ -30773,6 +30819,8 @@ Farm&Night
 FarmChicken
 FarmLife
 FarmManager2021
+FarmManagerWorld-FlagsPack
+FarmManagerWorld-SupporterPack
 FarmRacing
 FarmSimulator
 FarmYourFriends
@@ -31846,11 +31894,13 @@ Forbidden
 Forbidden Ground   Lair of Aooni  
 Forbidden Ground - Lair of Aooni -
 Forbidden Offering
+Forbidden Scrolls : Midnight Whispers Demo
 Forbidden Siren
 Forbidden Terror: Board Game
 Forbidden zone
 ForbiddenGround-LairofAooni-
 ForbiddenOffering
+ForbiddenScrolls:MidnightWhispersDemo
 ForbiddenSiren
 ForbiddenTerror:BoardGame
 Forbiddenzone
@@ -34177,6 +34227,7 @@ GRIGNOTE
 GRIGORII
 GRIGORII GRIGORII
 GRIGORIIGRIGORII
+GRIGORINIGHTDRAGON
 GRIGSBY
 GRIM
 GRIM FANDANGO
@@ -36178,6 +36229,7 @@ Grieving (Berduka)
 Grieving(Berduka)
 Griftlands
 Grignote
+GrigoriNightDragon
 Grigorii
 Grigorii Grigorii
 GrigoriiGrigorii
@@ -37087,6 +37139,7 @@ HEART OF THE SEA
 HEART SNATCHER
 HEARTBEAT
 HEARTBEAT IN THAILAND
+HEARTH & SHADOW
 HEARTILLY
 HEARTOF
 HEARTOFTHE
@@ -38772,6 +38825,9 @@ HeartKeeper
 HeartSnatcher
 Heartbeat in Thailand
 HeartbeatinThailand
+Hearth   Shadow
+Hearth & Shadow
+Hearth&Shadow
 Heartilly
 HeartintheCell:Rebirth
 Heartof
@@ -41216,6 +41272,7 @@ IRIDON INTERACTIVE AB
 IRIDONINTERACTIVE
 IRIDONINTERACTIVEAB
 IRIS
+IRIS ODYSSEY
 IRO
 IRO IRO
 IROCK
@@ -42301,6 +42358,8 @@ Iridon Interactive AB
 IridonInteractive
 IridonInteractiveAB
 Iris
+Iris Odyssey
+IrisOdyssey
 Iro
 Iro Iro
 IroIro
@@ -44440,6 +44499,7 @@ KATEMCREARY
 KATHY RAIN 2: SOOTHSAYER
 KATIC
 KATRIKATRINA
+KATSUOBUSHICLICKER
 KATZROY
 KAUFMAN
 KAWAI'IAN ISOLATION
@@ -44703,6 +44763,7 @@ KILOOGAMES
 KILYE
 KILYE KOOPA
 KILYEKOOPA
+KIM'S FARM
 KIMADO
 KIMAHRI
 KIMCHI: A STARS IN THE TRASH STORY
@@ -45603,6 +45664,7 @@ KateMcReary
 Kathy Rain 2: Soothsayer
 KathyRain2:Soothsayer
 Katic
+KatsuobushiClicker
 Katzroy
 Kaufman
 Kawai ian Isolation
@@ -45886,6 +45948,9 @@ KilooGames
 Kilye
 Kilye Koopa
 KilyeKoopa
+Kim s Farm
+Kim's Farm
+Kim'sFarm
 Kimado
 Kimahri
 Kimchi: A Stars in the Trash Story
@@ -48165,6 +48230,7 @@ LOLA
 LOLA DEL RIO
 LOLA MARIA
 LOLADELRIO
+LOLI NINJA VILLAGE
 LOLOLO
 LOLOLO ET LALALA
 LOLOLOETLALALA
@@ -50209,6 +50275,8 @@ Lola Del Rio
 Lola Maria
 LolaDelRio
 LolaMaria
+Loli Ninja Village
+LoliNinjaVillage
 Lololo
 Lololo et Lalala
 LololoetLalala
@@ -51908,6 +51976,7 @@ MEDIEVALY: BATTLE SIMULATOR
 MEDIGAMES
 MEDIGAMES STUDIOS
 MEDIGAMESSTUDIOS
+MEDIUM CHRONICLES: ROOM 644 DEMO
 MEDIVH
 MEDL
 MEDL MOBILE
@@ -52532,6 +52601,7 @@ MIGHTMAGICHEROESOFMIGHTMAGIC
 MIGHTMAGICIII
 MIGHTY
 MIGHTY GAZELLE
+MIGHTY MEOW
 MIGHTY MORPHIN POWER RANGERS
 MIGHTY THE ARMADILLO
 MIGHTYGAZELLE
@@ -52675,6 +52745,8 @@ MIMIC MAN
 MIN
 MIN MIN
 MINA
+MINA THE HOLLOWER
+MINA THE HOLLOWER SOUNDTRACK
 MINAO
 MINAO MAKABE
 MINAOMAKABE
@@ -55201,6 +55273,8 @@ Medievaly:BattleSimulator
 Medigames
 Medigames Studios
 MedigamesStudios
+Medium Chronicles: Room 644 Demo
+MediumChronicles:Room644Demo
 Medivh
 Medl
 Medl Mobile
@@ -55871,9 +55945,11 @@ MightandDelight
 MightandMagic
 Mighty
 Mighty Gazelle
+Mighty Meow
 Mighty Morphin Power Rangers
 Mighty the Armadillo
 MightyGazelle
+MightyMeow
 MightyMorphinPowerRangers
 MightytheArmadillo
 Miglou
@@ -56003,10 +56079,14 @@ Min
 Min Min
 MinMin
 Mina
+Mina the Hollower
+Mina the Hollower Soundtrack
 Minao
 Minao Makabe
 MinaoMakabe
 Minase
+MinatheHollower
+MinatheHollowerSoundtrack
 Minato
 Minato Giken
 MinatoGiken
@@ -57720,6 +57800,9 @@ NARUD
 NARUD EMIL
 NARUDEMIL
 NARUTO FRANCHISE SALE ADVERTISING APP
+NARUTO TO BORUTO: SHINOBI STRIKER SEASON PASS 10
+NARUTO TO BORUTO: SHINOBI STRIKER Season Pass 10
+NARUTOTOBORUTO:SHINOBISTRIKERSeasonPass10
 NASCAR 25
 NASCAR25
 NASH
@@ -58176,6 +58259,7 @@ NEW
 NEW CONTENT NOW AVAILABLE
 NEW EARTH SAGA OF THE NEW GODS
 NEW FACE ON THE BLOCK
+NEW FOLDER
 NEW HEIGHTS: REALISTIC CLIMBING AND BOULDERING
 NEW KID
 NEW KID CO
@@ -59442,6 +59526,7 @@ New
 New Content Now Available
 New Earth Saga of the New Gods
 New Face On The Block
+New Folder
 New Heights: Realistic Climbing and Bouldering
 New Kid
 New Kid Co
@@ -59455,6 +59540,7 @@ New Zealand Story
 NewContentNowAvailable
 NewEarthSagaoftheNewGods
 NewFaceOnTheBlock
+NewFolder
 NewHeights:RealisticClimbingandBouldering
 NewKid
 NewKidCo
@@ -60757,6 +60843,7 @@ OFFICE 5
 OFFICE AFTER HOURS
 OFFICE ASIA
 OFFICE ASIA KENKYUUSHO
+OFFICE INSPECTOR
 OFFICE KOUKAN
 OFFICE LADY: VORE GAME
 OFFICE OUTBREAK SAVIOR
@@ -61864,6 +61951,7 @@ Office 5
 Office After Hours
 Office Asia
 Office Asia Kenkyuusho
+Office Inspector
 Office Koukan
 Office Lady: Vore Game
 Office Outbreak Savior
@@ -61875,6 +61963,7 @@ Office5
 OfficeAfterHours
 OfficeAsia
 OfficeAsiaKenkyuusho
+OfficeInspector
 OfficeKoukan
 OfficeLady:VoreGame
 OfficeOutbreakSavior
@@ -65077,6 +65166,7 @@ PUBLISHING
 PUBLISHING INTERNATIONAL
 PUBLISHINGINTERNATIONAL
 PUDDING FANTASY: TALES OF GO AND MAGIC
+PUDDING THE JUG
 PUDDLE
 PUFFERFISH
 PUFFERFISH BUCKET
@@ -67941,7 +68031,9 @@ Publishing
 Publishing International
 PublishingInternational
 Pudding Fantasy: Tales of Go and Magic
+Pudding the Jug
 PuddingFantasy:TalesofGoandMagic
+PuddingtheJug
 Puddle
 Pufferfish
 Pufferfish Spawn
@@ -69887,6 +69979,7 @@ ROCK BAND 3
 ROCK CLICKER
 ROCK CRUSHER
 ROCK FLANAGAN
+ROCK ISLAND
 ROCK PAPER CLASH
 ROCK PAPER SCISSORS PARTY DEMO
 ROCK RIDGE
@@ -71901,6 +71994,7 @@ Rock Clicker
 Rock Crusher
 Rock Flanagan
 Rock Hard Rehab: How to Survive a Hospital Harem
+Rock Island
 Rock Paper Clash
 Rock Paper Scissors Party Demo
 Rock Ridge
@@ -71917,6 +72011,7 @@ RockBand
 RockClicker
 RockCrusher
 RockFlanagan
+RockIsland
 RockPaperClash
 RockPaperScissorsPartyDemo
 RockRidge
@@ -74489,6 +74584,7 @@ SIRÈNE
 SISTER SOPHIE'S CREED TO BREED
 SISTERS
 SISTERS IN SIN 🔞
+SISTERS X LOVERS
 SISTERWORDESCAPE
 SISYPHUS
 SISYPHUS ENDURES
@@ -75911,6 +76007,9 @@ STARDOCK
 STARDOCK CORPORATION
 STARDOCKCORPORATION
 STARDUST TRIAL
+STARDUST: WISH OF WITCH
+STARDUST: Wish of Witch
+STARDUST:WishofWitch
 STARFALL DEFENDERS
 STARFIELD - TERRAN ARMADA
 STARFIELD BATTLEGROUNDS
@@ -79204,7 +79303,9 @@ SisterWordEscape
 Sisters
 Sisters in Sin ?
 Sisters in Sin 🔞
+Sisters x Lovers
 SistersinSin🔞
+SistersxLovers
 Sisyphus
 Sisyphus Endures
 Sisyphus Paradox
@@ -82531,6 +82632,7 @@ TAIKO NO
 TAIKO NO TATSUJIN
 TAIKONO
 TAIKONOTATSUJIN
+TAIL OF GLORY
 TAIL SIMULATOR
 TAILS
 TAILS ADVENTURES
@@ -83468,6 +83570,7 @@ THE ELDER SCROLLS IV: OBLIVION REMASTERED
 THE ELDER SCROLLS V
 THE ELDER SCROLLS V SKYRIM
 THE ELDER SCROLLS V: SKYRIM
+THE ELDER SCROLLS V: SKYRIM ANNIVERSARY EDITION
 THE ELDER SCROLLS V: SKYRIM SPECIAL EDITION
 THE ELDERS SCROLLS 2 DAGGERFALL
 THE ELF ON THE SHELF®: CHRISTMAS HEROES
@@ -83538,6 +83641,7 @@ THE FOREVER WINTER - SCORCHLINE SKIN PACK
 THE FORGED SHOW OF WAR
 THE FORGOTTEN APARTMENT
 THE FORGOTTEN CITY
+THE FORGOTTEN KILLER
 THE FORGOTTEN MINE
 THE FORGOTTEN NIGHTMARE SERIES
 THE FORGOTTEN PAST
@@ -83897,6 +84001,7 @@ THE REASON MY WIFE HAS GOTTEN MORE BEAUTIFUL
 THE REBIRTH TALE OF BROKEN HORN DEMON LORD ALICE
 THE RED SHIFT
 THE RESCUE OF MERMAIDS
+THE RETRO EXORCIST
 THE REWINDER 2
 THE RIFF
 THE RIFT REBELS
@@ -85022,6 +85127,7 @@ TOSHIBAEMI
 TOSHINDEN
 TOTAL
 TOTAL ANNIHILATION
+TOTAL BLADE: MYTHOLOGY DEMO
 TOTAL CHAOS
 TOTAL ECLIPSE
 TOTAL REPEAT
@@ -85162,6 +85268,7 @@ TR-49
 TRAC
 TRACE DEFINITIVE EDITION
 TRACE Definitive Edition
+TRACE OF THE VILLA
 TRACEBOUND
 TRACEDefinitiveEdition
 TRACER
@@ -85868,7 +85975,9 @@ Taiko no Tatsujin
 Taikono
 TaikonoTatsujin
 Tail Simulator
+Tail of Glory
 TailSimulator
+TailofGlory
 Tails
 Tails Adventures
 Tails Doll
@@ -86928,6 +87037,7 @@ The Eighth Squad
 The Eighth Squad Demo
 The Elder Scrolls
 The Elder Scrolls IV: Oblivion Remastered
+The Elder Scrolls V: Skyrim Anniversary Edition
 The Elder Scrolls V: Skyrim Special Edition
 The Elders Scrolls 2 Daggerfall
 The Elf on the Shelf(R): Christmas Heroes
@@ -86991,6 +87101,7 @@ The Forever Winter - Scorchline Skin Pack
 The Forged Show of War
 The Forgotten Apartment
 The Forgotten City
+The Forgotten Killer
 The Forgotten Mine
 The Forgotten Nightmare Series
 The Forgotten Past
@@ -87343,6 +87454,7 @@ The Reason for Your Smile
 The Rebirth Tale of Broken Horn Demon Lord Alice
 The Red Shift
 The Rescue of Mermaids
+The Retro Exorcist
 The Rewinder 2
 The Riff
 The Rift Rebels
@@ -87752,6 +87864,7 @@ TheEighthSquad
 TheEighthSquadDemo
 TheElderScrolls
 TheElderScrollsIV:OblivionRemastered
+TheElderScrollsV:SkyrimAnniversaryEdition
 TheElderScrollsV:SkyrimSpecialEdition
 TheEldersScrolls2Daggerfall
 TheElfontheShelf®:ChristmasHeroes
@@ -87808,6 +87921,7 @@ TheForeverWinter-ScorchlineSkinPack
 TheForgedShowofWar
 TheForgottenApartment
 TheForgottenCity
+TheForgottenKiller
 TheForgottenMine
 TheForgottenNightmareSeries
 TheForgottenPast
@@ -88131,6 +88245,7 @@ TheReasonforYourSmile
 TheRebirthTaleofBrokenHornDemonLordAlice
 TheRedShift
 TheRescueofMermaids
+TheRetroExorcist
 TheRewinder2
 TheRiff
 TheRiftRebels
@@ -89178,6 +89293,7 @@ ToshibaEMI
 Toshinden
 Total
 Total Annihilation
+Total Blade: Mythology Demo
 Total Chaos
 Total Eclipse
 Total RepeAt
@@ -89196,6 +89312,7 @@ Total War: WARHAMMER III - Sayl – Tides of Torment
 Total War: WARHAMMER III - Tides of Torment
 Total War: WARHAMMER III – Tides of Torment
 TotalAnnihilation
+TotalBlade:MythologyDemo
 TotalChaos
 TotalEclipse
 TotalRepeAt
@@ -89384,7 +89501,9 @@ Tozai
 Tozai Games
 TozaiGames
 Trac
+Trace of the Villa
 Tracebound
+TraceoftheVilla
 Tracer
 Tracey
 Track
@@ -97114,6 +97233,7 @@ a hundred years of love and death
 a journey through shadow, to reach the light.
 a killer chat! christmas
 a lenda de niterói
+a life i couldn’t feel
 a link to past
 a link to the past
 a little perspective
@@ -99623,6 +99743,7 @@ backrooms santa
 backrooms stories
 backrooms: apprehension
 backrooms: don't look away
+backrooms: escape together
 backrooms: facility unknown
 backrooms: final exam
 backrooms: forgotten floors
@@ -100049,6 +100170,7 @@ basketball nightmare
 basketballnightmare
 basketblow
 baskin all-in: the family
+baspetball
 bass
 bass harrier
 bastian
@@ -100269,6 +100391,7 @@ beauty
 beauty and the beast
 beautyandthebeast
 beauty’s target
+beavertale
 bebe
 bebe bowser
 bebe daisy
@@ -102361,6 +102484,7 @@ call of duty®: black ops 7 - command force: starter pack
 call of duty®: black ops 7 - vault edition upgrade
 call of duty®: black ops iii
 call of duty®: modern warfare®
+call of elmore
 call of girls
 call of juarez
 call of juarez: gunslinger
@@ -103018,6 +103142,7 @@ chainmailhelmet
 chainmailleggings
 chains on sand
 chainsaw dodge
+chainsaw woods
 chainshot!
 chainstaff
 chair
@@ -104653,6 +104778,7 @@ crashbandicoot
 crashmalefique
 crashmaléfique
 crashnburn
+crashout crew
 crashteamracing
 crashtime
 crave
@@ -106453,6 +106579,7 @@ dice goblin's den
 dice goblins clicker
 dice legends
 dice of kalma
+dice rogues demo
 dice shaper
 dice to pay
 dice with death
@@ -107318,6 +107445,7 @@ drakengard 3 original soundtrack
 drakengard original soundtrack re-release
 drakula's ascension
 dramaera
+dramatour
 dramons warriors
 draq
 draugar
@@ -109456,6 +109584,8 @@ farm chicken
 farm for you
 farm life
 farm manager 2021
+farm manager world - flags pack
+farm manager world - supporter pack
 farm racing
 farm simulator
 farm to table
@@ -110314,6 +110444,7 @@ forage wizard
 forbidden
 forbidden ground - lair of aooni -
 forbidden offering
+forbidden scrolls : midnight whispers demo
 forbidden siren
 forbidden terror: board game
 forbidden zone
@@ -112447,6 +112578,7 @@ grignote
 grigorii
 grigorii grigorii
 grigoriigrigorii
+grigorinightdragon
 grigsby
 grim
 grim fandango
@@ -113322,6 +113454,7 @@ heart snatcher
 heart_of_the_sea
 heartbeat
 heartbeat in thailand
+hearth & shadow
 heartilly
 heartof
 heartofthe
@@ -115287,6 +115420,7 @@ iridon interactive ab
 iridoninteractive
 iridoninteractiveab
 iris
+iris odyssey
 iro
 iro iro
 irock
@@ -116507,6 +116641,7 @@ katemcreary
 kathy rain 2: soothsayer
 katic
 katrikatrina
+katsuobushiclicker
 katzroy
 kaufman
 kawai'ian isolation
@@ -116755,6 +116890,7 @@ kiloogames
 kilye
 kilye koopa
 kilyekoopa
+kim's farm
 kimado
 kimahri
 kimchi: a stars in the trash story
@@ -118934,6 +119070,7 @@ lola
 lola del rio
 lola maria
 loladelrio
+loli ninja village
 lololo
 lololo et lalala
 lololoetlalala
@@ -120448,6 +120585,7 @@ medievaly: battle simulator
 medigames
 medigames studios
 medigamesstudios
+medium chronicles: room 644 demo
 medivh
 medl
 medl mobile
@@ -121055,6 +121193,7 @@ mightmagicheroesofmightmagic
 mightmagiciii
 mighty
 mighty gazelle
+mighty meow
 mighty morphin power rangers
 mighty the armadillo
 mightygazelle
@@ -121182,6 +121321,8 @@ mimic man
 min
 min min
 mina
+mina the hollower
+mina the hollower soundtrack
 minao
 minao makabe
 minaomakabe
@@ -122622,6 +122763,7 @@ narud
 narud emil
 narudemil
 naruto franchise sale advertising app
+naruto to boruto: shinobi striker season pass 10
 nascar 25
 nash
 nashkel
@@ -123004,6 +123146,7 @@ new
 new content now available
 new earth saga of the new gods
 new face on the block
+new folder
 new heights: realistic climbing and bouldering
 new kid
 new kid co
@@ -124242,6 +124385,7 @@ office 5
 office after hours
 office asia
 office asia kenkyuusho
+office inspector
 office koukan
 office lady: vore game
 office outbreak savior
@@ -127195,6 +127339,7 @@ publishing
 publishing international
 publishinginternational
 pudding fantasy: tales of go and magic
+pudding the jug
 puddle
 pufferfish
 pufferfish bucket
@@ -128791,6 +128936,7 @@ rock band 3
 rock clicker
 rock crusher
 rock flanagan
+rock island
 rock paper clash
 rock paper scissors party demo
 rock ridge
@@ -131114,6 +131260,7 @@ sirène
 sister sophie's creed to breed
 sisters
 sisters in sin 🔞
+sisters x lovers
 sisterwordescape
 sisyphus
 sisyphus endures
@@ -132479,6 +132626,7 @@ stardock
 stardock corporation
 stardockcorporation
 stardust trial
+stardust: wish of witch
 starfall defenders
 starfield - terran armada
 starfield battlegrounds
@@ -133753,6 +133901,7 @@ taiko no
 taiko no tatsujin
 taikono
 taikonotatsujin
+tail of glory
 tail simulator
 tails
 tails adventures
@@ -134675,6 +134824,7 @@ the elder scrolls iv: oblivion remastered
 the elder scrolls v
 the elder scrolls v skyrim
 the elder scrolls v: skyrim
+the elder scrolls v: skyrim anniversary edition
 the elder scrolls v: skyrim special edition
 the elders scrolls 2 daggerfall
 the elf on the shelf®: christmas heroes
@@ -134737,6 +134887,7 @@ the forever winter - scorchline skin pack
 the forged show of war
 the forgotten apartment
 the forgotten city
+the forgotten killer
 the forgotten mine
 the forgotten nightmare series
 the forgotten past
@@ -135090,6 +135241,7 @@ the reason my wife has gotten more beautiful
 the rebirth tale of broken horn demon lord alice
 the red shift
 the rescue of mermaids
+the retro exorcist
 the rewinder 2
 the riff
 the rift rebels
@@ -136195,6 +136347,7 @@ toshibaemi
 toshinden
 total
 total annihilation
+total blade: mythology demo
 total chaos
 total eclipse
 total repeat
@@ -136336,6 +136489,7 @@ tps
 tr-49
 trac
 trace definitive edition
+trace of the villa
 tracebound
 tracer
 tracey
@@ -140145,6 +140299,7 @@ zèbre
 ささゆめしき
 さんよん ～三女？四対！～
 さんよん～三女？四対！～
+さーきゅらーディフェンス!!～とある辺境惑星開拓事務所、３０日の記録～
 たんぽぽプラネット Dandelion Planet 
 たんぽぽプラネット-DANDELION PLANET-
 たんぽぽプラネット-Dandelion Planet-
@@ -140400,6 +140555,10 @@ zèbre
 太和的疯狂农场 taihe's crazy farm
 太和的疯狂农场Taihe'sCrazyFarm
 太极剑门
+失焦 OUT OF FOCUS
+失焦 Out of Focus
+失焦 out of focus
+失焦OutofFocus
 女世異 Josei
 女世異-JOSEI
 女世異-Josei
@@ -140666,6 +140825,7 @@ zèbre
 歐特在庫比城 Alter in Cube City
 歐特在庫比城 alter in cube city
 歐特在庫比城AlterinCubeCity
+武道残编
 死者还阳ESCAPE FROM THE UNDERWORLD
 死者还阳Escape from the Underworld
 死者还阳EscapefromtheUnderworld
@@ -140763,6 +140923,7 @@ zèbre
 王异工坊FANCRAFT
 王异工坊FanCraft
 王异工坊fancraft
+王者争雄
 琉球異聞 朱桜の繋
 琉球異聞朱桜の繋
 生命火热 / DESPERATE 1
