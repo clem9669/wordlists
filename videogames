@@ -168,10 +168,12 @@
 100 Radioactive Cats
 100 Ruin Cats
 100 SEA CATS
+100 SHERWOOD CATS
 100 SINGAPORE CATS
 100 SRI LANKA CATS
 100 STARPAWS CATS
 100 Sea Cats
+100 Sherwood Cats
 100 Singapore Cats
 100 Sri Lanka Cats
 100 StarPaws Cats
@@ -223,6 +225,7 @@
 100 rooms
 100 ruin cats
 100 sea cats
+100 sherwood cats
 100 singapore cats
 100 sri lanka cats
 100 starpaws cats
@@ -286,6 +289,7 @@
 100RadioactiveCats
 100RuinCats
 100SeaCats
+100SherwoodCats
 100SingaporeCats
 100SriLankaCats
 100StarPawsCats
@@ -3518,6 +3522,7 @@ APOLLO JUSTICE
 APOLLOAPOLLO
 APOLLOJUSTICE
 APOLLON
+APOLOGY VIDEO
 APOPIA: SUGAR COATED TALE ORIGINAL SOUNDTRACK
 APOSTEK
 APOSTEK SOFTWARE
@@ -3652,6 +3657,7 @@ ARC THE LAD
 ARCADE
 ARCADE BOSS SIMULATOR
 ARCADE FOREVER
+ARCADE WORLD CUPS
 ARCADE ZONE
 ARCADE'S
 ARCADE'S GREATEST
@@ -3716,6 +3722,7 @@ ARC_the beginning
 ARC_thebeginning
 ARC’S GLITCH DEFENDER
 ARE
+ARE YOU OKAY?
 AREA
 AREA 51
 AREA 8
@@ -3733,6 +3740,7 @@ ARENA OF SUFFERING
 ARENANET
 ARESANT
 ARETHA
+AREYOUOKAY?
 ARGILLITE TAMERS
 ARGONAUT
 ARGONAUT AGENCY: GOD OF STORMS
@@ -6190,6 +6198,8 @@ Apollo Justice
 ApolloApollo
 ApolloJustice
 Apollon
+Apology Video
+ApologyVideo
 Apopia: Sugar Coated Tale Original Soundtrack
 Apopia:SugarCoatedTaleOriginalSoundtrack
 Apostek
@@ -6316,6 +6326,7 @@ ArcSystemWorks
 Arcade
 Arcade Boss Simulator
 Arcade Forever
+Arcade World Cups
 Arcade Zone
 Arcade's
 Arcade's Greatest
@@ -6324,6 +6335,7 @@ Arcade'sGreatest
 Arcade'sGreatestHits
 ArcadeBossSimulator
 ArcadeForever
+ArcadeWorldCups
 ArcadeZone
 Arcades
 Arcades Greatest
@@ -20882,6 +20894,7 @@ DEFIANT
 DEFIANT DEVELOPMENT
 DEFIANTDEVELOPMENT
 DEFRAG
+DEFYING FATE: 60 DAYS TO THE EXAM
 DEFÈS
 DEGEONS PROJECT
 DEHAKA
@@ -21400,6 +21413,7 @@ DIG
 DIG & DECODE
 DIG DIG SPUD SPUD HARVEST
 DIG DUG
+DIG INTO THE CORE
 DIG YOU FOOLS
 DIGDOG
 DIGDUG
@@ -22676,8 +22690,11 @@ DUSTWARD
 DUSTWIND: RESISTANCE
 DUTY
 DVA
+DVD SCREENSAVER 2: 30TH ANNIVERSARY SURVIVORS EDITION
 DVD SURVIVORS
+DVD Screensaver 2: 30th Anniversary Survivors Edition
 DVD Survivors
+DVDScreensaver2:30thAnniversarySurvivorsEdition
 DVDSurvivors
 DVG SURVIVORS
 DVG Survivors
@@ -23608,6 +23625,8 @@ Defest
 Defiant
 Defiant Development
 DefiantDevelopment
+Defying Fate: 60 Days to the Exam
+DefyingFate:60DaystotheExam
 Defès
 Degeons Project
 DegeonsProject
@@ -24239,6 +24258,7 @@ Dig & Decode
 Dig Dig Spud Spud Harvest
 Dig Dug
 Dig You Fools
+Dig into the core
 Dig&Decode
 DigDigSpudSpudHarvest
 DigDog
@@ -24274,6 +24294,7 @@ DigimonStoryCyberSleuth:CompleteEdition
 DigimonStoryTimeStranger
 DigimonSurvive
 DigimonWorld:NextOrder
+Digintothecore
 Digipaw
 Digital
 Digital Anvil
@@ -26111,6 +26132,7 @@ ECHOES OF MK-ULTRA
 ECHOES OF MYTH
 ECHOES OF RED
 ECHOES OF SEASONS
+ECHOES OF SIN: CONFUSION
 ECHOES OF STEEL
 ECHOES OF THE COURT
 ECHOES OF THE END
@@ -27515,6 +27537,7 @@ Echoes of MK-ULTRA
 Echoes of Myth
 Echoes of Red
 Echoes of Seasons
+Echoes of Sin: Confusion
 Echoes of Steel
 Echoes of Time
 Echoes of Vasteria
@@ -27538,6 +27561,7 @@ EchoesofMK-ULTRA
 EchoesofMyth
 EchoesofRed
 EchoesofSeasons
+EchoesofSin:Confusion
 EchoesofSteel
 EchoesofTime
 EchoesofVasteria
@@ -29279,6 +29303,7 @@ FARSIGHT TECHNOLOGIES
 FARSIGHTSTUDIOS
 FARSIGHTTECHNOLOGIES
 FART DROP DX
+FART X BULLY
 FARTDROPDX
 FARTHEST FRONTIER
 FARTHINGWORTH
@@ -31194,6 +31219,8 @@ Farron
 Farsetaf
 Farsetaf Farsetaf
 FarsetafFarsetaf
+Fart X Bully
+FartXBully
 Farthest Frontier
 FarthestFrontier
 Farthingworth
@@ -33960,6 +33987,7 @@ GLOW INK
 GLOW INK SAC
 GLOW ITEM
 GLOW ITEM FRAME
+GLOW OF HONEYDEW
 GLOW OF SNOWY NIGHT DEMO
 GLOW SQUID
 GLOW SQUID SPAWN
@@ -35965,6 +35993,7 @@ Glow Item Frame
 Glow Squid
 Glow Squid Spawn
 Glow Squid Spawn Egg
+Glow of Honeydew
 Glow of Snowy Night Demo
 GlowBerries
 GlowCubes
@@ -35975,6 +36004,7 @@ GlowItemFrame
 GlowSquid
 GlowSquidSpawn
 GlowSquidSpawnEgg
+GlowofHoneydew
 GlowofSnowyNightDemo
 Glowstone
 Glowstone Dust
@@ -37656,6 +37686,7 @@ HELIXE
 HELL
 HELL AND BACK
 HELL ARCHITECT: SURVIVORS DEMO
+HELL BUG
 HELL BUILDER
 HELL CLOCK
 HELL FORGE
@@ -38505,6 +38536,7 @@ HOW MUCH FOR THE BODY IN THE FREEZER
 HOW NOW SEA COW?
 HOW SMART ARE YOU? IQ TEST
 HOW TO CREATE A WITCH
+HOW TO DESTROY A CITY DEMO
 HOW TO LOSE ONE'S VIRGINITY DEMO
 HOW TO TRAIN YOUR BRO'S GIRLFRIEND
 HOW YOUR PACKAGE GETS DELIVERED
@@ -39393,6 +39425,7 @@ Helixe
 Hell
 Hell And Back
 Hell Architect: Survivors Demo
+Hell Bug
 Hell Builder
 Hell Clock
 Hell Forge
@@ -39407,6 +39440,7 @@ Hell's8thAvenue:Miori'sMysteriousNotebook
 Hell'sBell
 HellAndBack
 HellArchitect:SurvivorsDemo
+HellBug
 HellBuilder
 HellClock
 HellForge
@@ -40526,6 +40560,7 @@ How Many Secrets Under Ceiling
 How Much for the Body in the Freezer
 How Now Sea Cow?
 How Smart Are You? IQ Test
+How To Destroy A City Demo
 How Your Package Gets Delivered
 How to Train Your Bro s Girlfriend
 How to Train Your Bro's Girlfriend
@@ -40537,6 +40572,7 @@ HowManySecretsUnderCeiling
 HowMuchfortheBodyintheFreezer
 HowNowSeaCow?
 HowSmartAreYou?IQTest
+HowToDestroyACityDemo
 HowYourPackageGetsDelivered
 Howard
 HowlKraul
@@ -41244,6 +41280,7 @@ IMMORAL-BATHHOUSE
 IMMORTAL CARDS
 IMMORTAL LIFE
 IMMUNICA
+IMMUNITY PROTOCOL
 IMOEN
 IMP AND OAF KICK OFF!
 IMPA
@@ -41536,6 +41573,7 @@ INSERTGAMEHERE
 INSIDE
 INSIDE THE FLESH ENGINE
 INSIDER TRADING
+INSOMNIA: CHAPTER ONE
 INSOMNIAC
 INSOMNIAC GAMES
 INSOMNIACGAMES
@@ -42287,6 +42325,8 @@ Immortal Life
 ImmortalCards
 ImmortalLife
 Immunica
+Immunity Protocol
+ImmunityProtocol
 Imoen
 Imp And Oaf Kick Off!
 ImpAndOafKickOff!
@@ -42620,6 +42660,8 @@ Inside the Flesh Engine
 Insider Trading
 InsiderTrading
 InsidetheFleshEngine
+Insomnia: Chapter One
+Insomnia:ChapterOne
 Insomniac
 Insomniac Games
 InsomniacGames
@@ -43220,11 +43262,14 @@ JALISMARTELFER
 JALOPY
 JALUDO
 JAM
+JAM ADVENTURES
+JAM Adventures
 JAM SOFTWARE
 JAM Software
 JAMALBAM
 JAMALBAM JAMALBAM
 JAMALBAMJAMALBAM
+JAMAdventures
 JAMBIERES
 JAMBIERES DE MAILLES
 JAMBIERES EN DIAMANT
@@ -44882,6 +44927,7 @@ KAMA
 KAMEK
 KAMI: THE GREAT GUARDIAN
 KAMICHIKA
+KAMIKAZE EMPIRE
 KAMIKAZE STRIKE: FPV DRONE
 KAMIKITA
 KAMIOKA
@@ -46045,7 +46091,9 @@ Kamek
 Kami: The Great Guardian
 Kami:TheGreatGuardian
 Kamichika
+Kamikaze Empire
 Kamikaze Strike: FPV Drone
+KamikazeEmpire
 KamikazeStrike:FPVDrone
 Kamikita
 Kamioka
@@ -48949,6 +48997,7 @@ LOVE WITCHES
 LOVE X FANTASY: HORNY ELF
 LOVE X FANTASY: LUSTY SUCCUBUS
 LOVE, PEACE, AND ROSELEAF
+LOVECORE RHYTHM
 LOVECRAFT SURVIVORS
 LOVECRAFT'S CAT
 LOVEJUICED!  Hi Neighbor, meet Gamer. 
@@ -49050,6 +49099,7 @@ LUCKY DIME CAPER STARRING DONALD DUCK
 LUCKY DOG 1
 LUCKY PIKININI - IMS INTELLIGENCE CORP
 LUCKY SHELTER
+LUCKY'S FUNHOUSE
 LUCKYCHICKEN
 LUCKYCHLOE
 LUCKYDIMECAPERSTARRINGDONALDDUCK
@@ -49155,6 +49205,7 @@ LUST Eternal 🔞
 LUST HAREM: 1001 PLEASURES 💞
 LUST HAREM: 1001 Pleasures ?
 LUST HAREM: 1001 Pleasures 💞
+LUST O’ HEAVEN
 LUST POKER CLUB
 LUST SISTERS 🔞
 LUST STORM
@@ -51084,6 +51135,8 @@ Love,Peace,andRoseleaf
 LoveBattleSpirit
 LoveBeginsWithGoodbye
 LoveBladesandRun
+LoveCore Rhythm
+LoveCoreRhythm
 LoveCult
 LoveHospital
 LoveHotelManager
@@ -51194,6 +51247,9 @@ Lucky Dog 1
 Lucky Pikinini   IMS Intelligence Corp
 Lucky Pikinini - IMS Intelligence Corp
 Lucky Shelter
+Lucky s Funhouse
+Lucky's Funhouse
+Lucky'sFunhouse
 LuckyBastard
 LuckyBunnyCasino-AlluringCollection
 LuckyChicken
@@ -51333,6 +51389,8 @@ Lust Sisters ?
 Lust Sisters 🔞
 Lust Storm
 Lust Theory Season 3
+Lust o' Heaven
+Lust o’ Heaven
 LustArcanum
 LustArcanum-SupporterPack
 LustArcanumSoundtrack
@@ -51348,6 +51406,7 @@ Lustful Fingers
 LustfulBlackJack:MySuccubusDealer
 LustfulButlerAndCharmingSisters
 LustfulFingers
+Lusto’Heaven
 Lusty Bubbles Animated Edition
 LustyBubblesAnimatedEdition
 Lutece
@@ -54373,6 +54432,7 @@ MULTIPLES
 MULTIPLICITY 4 PRO
 MULTIPLY
 MULYAR
+MUMAGI: STELLAR SAVIORS
 MUMBIES
 MUMBIES MUMBIES
 MUMBIESMUMBIES
@@ -57860,6 +57920,8 @@ Multiplicity 4 Pro
 Multiplicity4Pro
 Multiply
 Mulyar
+Mumagi: Stellar Saviors
+Mumagi:StellarSaviors
 Mumbies
 Mumbies Mumbies
 MumbiesMumbies
@@ -61496,6 +61558,7 @@ OGDENLETAVERNIER
 OGDENTHETAVERNOWNER
 OGRE
 OGRE BATTLE
+OGRE CHAMBERS 2222
 OGRE CHAMBERS 2222 DEMO
 OGREBATTLE
 OGRES
@@ -62621,8 +62684,10 @@ OgdenleTavernier
 OgdentheTavernOwner
 Ogre
 Ogre Battle
+Ogre Chambers 2222
 Ogre Chambers 2222 Demo
 OgreBattle
+OgreChambers2222
 OgreChambers2222Demo
 Ogres
 Oh Balls Merge
@@ -63937,6 +64002,7 @@ PATTERNS OF THE OAK
 PATTY
 PAU E PEDRA
 PAUL
+PAUL BUNYAN BACK TO BANGOR
 PAUL DEFES
 PAUL DEFÈS
 PAUL PHOENIX
@@ -64908,6 +64974,7 @@ PLAYER
 PLAYER 1
 PLAYER HEAD
 PLAYER X
+PLAYER'S NEW WORLD
 PLAYER1
 PLAYERHEAD
 PLAYERS
@@ -66629,9 +66696,11 @@ Patty
 Pau e Pedra
 PauePedra
 Paul
+Paul Bunyan Back to Bangor
 Paul Defes
 Paul Defès
 Paul Phoenix
+PaulBunyanBacktoBangor
 PaulDefes
 PaulDefès
 PaulPhoenix
@@ -67652,6 +67721,9 @@ Player
 Player 1
 Player Head
 Player X
+Player s New World
+Player's New World
+Player'sNewWorld
 Player1
 PlayerHead
 PlayerX
@@ -69612,6 +69684,7 @@ RAKE IN GRASS
 RAKEIN
 RAKEIN-ScoringBigWithMonsterGirls!
 RAKEINGRASS
+RAKEO
 RAKKA: WAKE 01   SOOT
 RAKKA: WAKE 01 - SOOT
 RAKKA:WAKE01-SOOT
@@ -70329,6 +70402,7 @@ RETURN FIRE
 RETURN FROM CORE
 RETURN OF THE OBRA DINN
 RETURN TO DARK CASTLE
+RETURNAL™
 RETURNFIRE
 RETURNS
 REUNION ONLINE
@@ -70604,6 +70678,7 @@ ROAD
 ROAD FIGHTER
 ROAD RASH
 ROAD TO EMPRESS
+ROAD TO EMPRESS Ⅱ
 ROAD TO KARATL
 ROAD TO VOSTOK
 ROAD TRIP TO THE END OF THE WORLD
@@ -71485,6 +71560,7 @@ Rake In
 Rake In Grass
 RakeIn
 RakeInGrass
+Rakeo
 Raleigh
 Ralentissement
 Ralentissement du poison
@@ -72316,6 +72392,8 @@ Return from Core
 Return of the Obra Dinn
 Return to Dark Castle
 ReturnFire
+Returnal(TM)
+Returnal™
 ReturnfromCore
 ReturnoftheObraDinn
 Returns
@@ -72625,6 +72703,8 @@ Road Fighter
 Road Rash
 Road To Empress
 Road Trip to the End of the World
+Road to Empress II
+Road to Empress Ⅱ
 Road to Karatl
 Road to Vostok
 RoadCraft
@@ -72645,6 +72725,7 @@ Roads of Rage
 Roadside Research
 RoadsideResearch
 RoadsofRage
+RoadtoEmpressⅡ
 RoadtoKaratl
 RoadtoVostok
 Roar
@@ -74143,6 +74224,7 @@ SDPGames
 SEA
 SEA LIFE EXPLORER COLLECTOR'S EDITION
 SEA OF SECRETS
+SEA OF STARS: SUNSET EDITION
 SEA OF THIEVES: 2025 EDITION
 SEA OF THIEVES: 2026 EDITION
 SEA TOWN - FISH MARKET SIMULATOR
@@ -75918,6 +76000,7 @@ SOL DIVIDE
 SOLANIS
 SOLAR DEFENSE
 SOLARIS
+SOLARPUNK™
 SOLASTA II
 SOLCYCLE
 SOLD
@@ -76479,6 +76562,7 @@ SPIRIT CITY: LOFI SESSIONS - ENCHANTED GARDEN DLC
 SPIRIT CLEANSERS
 SPIRIT MAGICIAN
 SPIRIT OF THE NORTH 2
+SPIRIT TALK - COZY VISUAL NOVEL
 SPIRIT WHISPERER CONVERSATION WITH AKARI
 SPIRIT'S SHADOW MAZE: THE PATH OF POSSESSION 灵影迷宫：附身之途
 SPIRIT-SEALING TOME
@@ -77360,6 +77444,7 @@ SUDOKU ACRES
 SUDOKU DREAMS
 SUDOKU DUNGEON
 SUDOKU ONLINE WITH FRIENDS
+SUDOKU: UNLIMITED EXPANSION
 SUDOKUGO
 SUEZ CANAL TRAINING SIMULATOR DEMO
 SUGAR
@@ -77420,6 +77505,7 @@ SUMMONER REBORN
 SUMMONERS WAR: RUSH
 SUMMONNIGHT
 SUMO
+SUMO BATTLEGROUNDS
 SUMO DIGITAL
 SUMO DIGITAL LTD
 SUMODIGITAL
@@ -78725,6 +78811,7 @@ Sea Town   Fish Market Simulator
 Sea Town - Fish Market Simulator
 Sea Venture
 Sea Venture LLC
+Sea of Stars: Sunset Edition
 Sea of Thieves: 2025 Edition
 Sea of Thieves: 2026 Edition
 SeaLifeExplorerCollector'sEdition
@@ -78750,6 +78837,7 @@ SeamusDoyle
 Sean
 Sean Maher
 SeanMaher
+SeaofStars:SunsetEdition
 SeaofThieves:2025Edition
 SeaofThieves:2026Edition
 Search
@@ -80777,6 +80865,8 @@ SolDivide
 Solar Defense
 SolarDefense
 Solaris
+Solarpunk(TM)
+Solarpunk™
 Solasta II
 SolastaII
 Sold
@@ -81465,6 +81555,8 @@ Spirit City: Lofi Sessions - Enchanted Garden DLC
 Spirit Cleansers
 Spirit Magician
 Spirit Sealing Tome
+Spirit Talk   Cozy Visual Novel
+Spirit Talk - Cozy Visual Novel
 Spirit Whisperer Conversation With Akari
 Spirit of the North 2
 Spirit s Shadow Maze: The Path of Possession 灵影迷宫：附身之途
@@ -81477,6 +81569,7 @@ Spirit-SealingTome
 SpiritCity:LofiSessions-EnchantedGardenDLC
 SpiritCleansers
 SpiritMagician
+SpiritTalk-CozyVisualNovel
 SpiritWhispererConversationWithAkari
 SpiritoftheNorth2
 Spiritual Bond ~Breaking the curse, Intertwining fates~
@@ -82566,6 +82659,8 @@ Sudoku Acres
 Sudoku Dreams
 Sudoku Dungeon
 Sudoku online with friends
+Sudoku: Unlimited Expansion
+Sudoku:UnlimitedExpansion
 SudokuAcres
 SudokuDreams
 SudokuDungeon
@@ -82655,8 +82750,10 @@ SummonerReborn
 Summoners War: RUSH
 SummonersWar:RUSH
 Sumo
+Sumo Battlegrounds
 Sumo Digital
 Sumo Digital Ltd
+SumoBattlegrounds
 SumoDigital
 SumoDigitalLtd
 Sun
@@ -83472,6 +83569,7 @@ T7 Games
 T7GAMES
 T7Games
 T800
+TABLE 9
 TABLE PARTY - TOCTOC WOODMAN
 TABLE TOP CREATURE TRACKER
 TABLEAU
@@ -83547,6 +83645,7 @@ TAITO CORPORATION
 TAITOCORPORATION
 TAIWAN COOLFOX
 TAIWANESE DOMINATRIXES ARE THE BEST
+TAJ MOD | OFFICIAL SOUNDTRACK - VOLUME 1
 TAK
 TAKAHASHI
 TAKAICHIMORNSEED
@@ -84466,6 +84565,7 @@ THE DRUNKEN BEARD
 THE EARTHEN REIGN
 THE EASTERN SACRIFICE
 THE ECHO PARADOX
+THE ECHOES
 THE EDGE
 THE EIGHTH SQUAD
 THE EIGHTH SQUAD DEMO
@@ -84897,6 +84997,7 @@ THE PRESENCE RITUAL
 THE PRESIDENTIAL ASSASSINS
 THE PRESIDENTIAL ASSASSINS DEMO
 THE PRINCESS FACTORY
+THE PROFANED
 THE PROTAGONIST
 THE PUB LIFE SIMULATOR: PROLOGUE
 THE PUNISHER
@@ -85477,6 +85578,7 @@ THRONE AND LIBERTY ENTRANCED CELEBRATION PACK: SILVER
 THRONE AND LIBERTY – TALANDRE CELEBRATION PACK: GOLD
 THRONE AND LIBERTY – Talandre Celebration Pack: Gold
 THRONE OF CAPITAL
+THRONE OF DESIRE
 THRONE OF HEARTS: RISE FROM THE NIGHTMARE
 THRONEANDLIBERTY–TalandreCelebrationPack:Gold
 THRONEBREAKER
@@ -86831,9 +86933,11 @@ TaVRn s Takedown - Naheulbeuk
 TaVRn's Takedown   Naheulbeuk
 TaVRn's Takedown - Naheulbeuk
 TaVRn'sTakedown-Naheulbeuk
+Table 9
 Table Party   TocToc Woodman
 Table Party - TocToc Woodman
 Table Top Creature Tracker
+Table9
 TableParty-TocTocWoodman
 TableTopCreatureTracker
 Tableau
@@ -86931,6 +87035,10 @@ Taiwan Coolfox
 TaiwanCoolfox
 Taiwanese Dominatrixes Are the Best
 TaiwaneseDominatrixesAretheBest
+Taj Mod   Official Soundtrack - Volume 1
+Taj Mod | Official Soundtrack   Volume 1
+Taj Mod | Official Soundtrack - Volume 1
+TajMod|OfficialSoundtrack-Volume1
 Tak
 Takahashi
 TakaichiMornSeed
@@ -87974,6 +88082,7 @@ The Drunken Beard
 The Earthen Reign
 The Eastern Sacrifice
 The Echo Paradox
+The Echoes
 The Edge
 The Eighth Squad
 The Eighth Squad Demo
@@ -88385,6 +88494,7 @@ The Presence Ritual
 The Presidential Assassins
 The Presidential Assassins Demo
 The Princess Factory
+The Profaned
 The Protagonist
 The Pub Life Simulator: Prologue
 The Punisher
@@ -88813,6 +88923,7 @@ TheDrunkenBeard
 TheEarthenReign
 TheEasternSacrifice
 TheEchoParadox
+TheEchoes
 TheEdge
 TheEighthSquad
 TheEighthSquadDemo
@@ -89187,6 +89298,7 @@ ThePresenceRitual
 ThePresidentialAssassins
 ThePresidentialAssassinsDemo
 ThePrincessFactory
+TheProfaned
 TheProtagonist
 ThePubLifeSimulator:Prologue
 ThePunisher
@@ -89598,6 +89710,7 @@ Throne and Liberty Entranced Celebration Pack: Gold
 Throne and Liberty Entranced Celebration Pack: Platinum
 Throne and Liberty Entranced Celebration Pack: Silver
 Throne of Capital
+Throne of Desire
 Throne of Hearts: Rise from the Nightmare
 ThroneBreaker
 ThroneBreaker : Iron Crown
@@ -89610,6 +89723,7 @@ ThroneandLibertyEntrancedCelebrationPack:Platinum
 ThroneandLibertyEntrancedCelebrationPack:Silver
 Thronefall
 ThroneofCapital
+ThroneofDesire
 ThroneofHearts:RisefromtheNightmare
 Throst
 Through Blood and Dragons   Dragon Wars
@@ -91579,6 +91693,7 @@ UNSTIMULATED SIMULATOR
 UNSTRAYED DEMO
 UNSUNG ESCAPE
 UNTAPPED
+UNTIL THE ABYSS
 UNTIL THEY BURN
 UNTIMELY HIDDEN: PATARA
 UNTITLED CAR GAME
@@ -92051,7 +92166,9 @@ Unsung Escape
 UnsungEscape
 Untapped
 Until They Burn
+Until the Abyss
 UntilTheyBurn
+UntiltheAbyss
 Untimely Hidden: Patara
 UntimelyHidden:Patara
 Untitled Car Game
@@ -93936,6 +94053,7 @@ WANGJINREI
 WANGLIXIANG
 WANING FLOWERS OF A WORLD ETERNAL - THE RAINBOW APPEARS AFTER FLOWERING RAIN
 WANTED
+WANTED SHADOWS: UNCHAINED
 WANTED: WILD SLUTS 🔞
 WANTED: Wild Sluts ?
 WANTED: Wild Sluts 🔞
@@ -94812,6 +94930,7 @@ WORKJAM
 WORKS
 WORKSHOP
 WORLD
+WORLD CUP WAIFU CLICKER: SOCCER EVOLUTION
 WORLD ETERNAL ONLINE
 WORLD HEROES
 WORLD HEROES PERFECT
@@ -95135,6 +95254,8 @@ Waning Flowers of a World Eternal   The Rainbow Appears After Flowering Rain
 Waning Flowers of a World Eternal - The Rainbow Appears After Flowering Rain
 WaningFlowersofaWorldEternal-TheRainbowAppearsAfterFloweringRain
 Wanted
+Wanted Shadows: Unchained
+WantedShadows:Unchained
 Wantz
 Wappa
 Wappa Wappa
@@ -96274,6 +96395,7 @@ WorkingThroughTheEnd
 Works
 Workshop
 World
+World Cup Waifu Clicker: Soccer Evolution
 World Eternal Online
 World Heroes
 World Pole Stone Dusk: Diadem of the Pole
@@ -96298,6 +96420,7 @@ World of Tanks — Kimono Pack
 World of Tanks: HEAT
 World of Warships -- Publisher Sale Gift
 World of Warships — Publisher Sale Gift
+WorldCupWaifuClicker:SoccerEvolution
 WorldEternalOnline
 WorldHeroes
 WorldLine: Game Saver
@@ -96489,6 +96612,7 @@ XENO GIRLFRIEND
 XENO GIRLFRIEND 2
 XENO GIRLFRIEND 3
 XENO GIRLFRIEND 4
+XENO STRIKE
 XENO STRIKERS HYPER SQUADRON
 XENO SWARM - 异虫强袭
 XENO'S ADVENTURE
@@ -96520,6 +96644,7 @@ XHAMPI
 XHWIGGLERS
 XIANGHUA
 XIAOYU
+XIAYE'S DOORS OF MAGIC: LIGHTCHASER
 XICAT
 XICAT INTERACTIVE
 XICATINTERACTIVE
@@ -96628,6 +96753,7 @@ Xeno Girlfriend
 Xeno Girlfriend 2
 Xeno Girlfriend 3
 Xeno Girlfriend 4
+Xeno Strike
 Xeno Strikers Hyper Squadron
 Xeno Swarm   异虫强袭
 Xeno Swarm - ????
@@ -96640,6 +96766,7 @@ XenoGirlfriend
 XenoGirlfriend2
 XenoGirlfriend3
 XenoGirlfriend4
+XenoStrike
 XenoStrikersHyperSquadron
 XenoSwarm-异虫强袭
 Xenoblade
@@ -96664,6 +96791,9 @@ Xhampi
 Xhwigglers
 Xianghua
 Xiaoyu
+Xiaye s Doors of Magic: Lightchaser
+Xiaye's Doors of Magic: Lightchaser
+Xiaye'sDoorsofMagic:Lightchaser
 Xicat
 Xicat Interactive
 XicatInteractive
@@ -97011,6 +97141,7 @@ YUNETYANG
 YUNOBO
 YUNSEONG
 YUNYUN SYNDROME!? RHYTHM PSYCHOSIS
+YUPPIE PSYCHO: EXECUTIVE EDITION
 YURARIN
 YUREI
 YUREI: INK OF THE DAMNED
@@ -97472,6 +97603,8 @@ Yunobo
 Yunseong
 Yunyun Syndrome!? Rhythm Psychosis
 YunyunSyndrome!?RhythmPsychosis
+Yuppie Psycho: Executive Edition
+YuppiePsycho:ExecutiveEdition
 Yurarin
 Yurei
 Yurei: Ink of the Damned
@@ -98201,11 +98334,15 @@ Zwei
 Zynga
 Zyrinx
 ZÈBRE
+[ CONTENT DELETED ]
+[ Content Deleted ]
 [ MURMUR ]
+[ content deleted ]
 [ murmur ]
 [? ?]
 [????]
 [BEAT:KEEPER]
+[ContentDeleted]
 [DON'T] LET GO
 [Don t] Let Go
 [Don't] Let Go
@@ -99752,6 +99889,7 @@ apollo justice
 apolloapollo
 apollojustice
 apollon
+apology video
 apopia: sugar coated tale original soundtrack
 apostek
 apostek software
@@ -99871,6 +100009,7 @@ arc_the beginning
 arcade
 arcade boss simulator
 arcade forever
+arcade world cups
 arcade zone
 arcade's
 arcade's greatest
@@ -99927,6 +100066,7 @@ arctic grave demo
 arcturus
 arc’s glitch defender
 are
+are you okay?
 area
 area 51
 area 8
@@ -107244,6 +107384,7 @@ defiant
 defiant development
 defiantdevelopment
 defrag
+defying fate: 60 days to the exam
 defès
 degeons project
 dehaka
@@ -107750,6 +107891,7 @@ dig
 dig & decode
 dig dig spud spud harvest
 dig dug
+dig into the core
 dig you fools
 digdog
 digdug
@@ -108971,6 +109113,7 @@ dustward
 dustwind: resistance
 duty
 dva
+dvd screensaver 2: 30th anniversary survivors edition
 dvd survivors
 dvg survivors
 dvide
@@ -109247,6 +109390,7 @@ echoes of mk-ultra
 echoes of myth
 echoes of red
 echoes of seasons
+echoes of sin: confusion
 echoes of steel
 echoes of the court
 echoes of the end
@@ -110775,6 +110919,7 @@ farsight technologies
 farsightstudios
 farsighttechnologies
 fart drop dx
+fart x bully
 farthest frontier
 farthingworth
 fasa
@@ -113138,6 +113283,7 @@ glow ink
 glow ink sac
 glow item
 glow item frame
+glow of honeydew
 glow of snowy night demo
 glow squid
 glow squid spawn
@@ -114739,6 +114885,7 @@ helixe
 hell
 hell and back
 hell architect: survivors demo
+hell bug
 hell builder
 hell clock
 hell forge
@@ -115549,6 +115696,7 @@ how much for the body in the freezer
 how now sea cow?
 how smart are you? iq test
 how to create a witch
+how to destroy a city demo
 how to lose one's virginity demo
 how to train your bro's girlfriend
 how your package gets delivered
@@ -116143,6 +116291,7 @@ immoral-bathhouse
 immortal cards
 immortal life
 immunica
+immunity protocol
 imoen
 imp and oaf kick off!
 impa
@@ -116431,6 +116580,7 @@ insert game here
 inside
 inside the flesh engine
 insider trading
+insomnia: chapter one
 insomniac
 insomniac games
 insomniacgames
@@ -116974,6 +117124,7 @@ jalismartelfer
 jalopy
 jaludo
 jam
+jam adventures
 jam software
 jamalbam
 jamalbam jamalbam
@@ -117740,6 +117891,7 @@ kama
 kamek
 kami: the great guardian
 kamichika
+kamikaze empire
 kamikaze strike: fpv drone
 kamikita
 kamioka
@@ -120491,6 +120643,7 @@ love witches
 love x fantasy: horny elf
 love x fantasy: lusty succubus
 love, peace, and roseleaf
+lovecore rhythm
 lovecraft survivors
 lovecraft's cat
 lovejuiced! -hi neighbor, meet gamer.-
@@ -120577,6 +120730,7 @@ lucky dime caper starring donald duck
 lucky dog 1
 lucky pikinini - ims intelligence corp
 lucky shelter
+lucky's funhouse
 luckychicken
 luckychloe
 luckydimecaperstarringdonaldduck
@@ -120679,6 +120833,7 @@ lust arcanum soundtrack
 lust effect [18+]
 lust eternal 🔞
 lust harem: 1001 pleasures 💞
+lust o’ heaven
 lust poker club
 lust sisters 🔞
 lust storm
@@ -123602,6 +123757,7 @@ multiples
 multiplicity 4 pro
 multiply
 mulyar
+mumagi: stellar saviors
 mumbies
 mumbies mumbies
 mumbiesmumbies
@@ -125677,6 +125833,7 @@ ogdenletavernier
 ogdenthetavernowner
 ogre
 ogre battle
+ogre chambers 2222
 ogre chambers 2222 demo
 ogrebattle
 ogres
@@ -126775,6 +126932,7 @@ patterns of the oak
 patty
 pau e pedra
 paul
+paul bunyan back to bangor
 paul defes
 paul defès
 paul phoenix
@@ -127691,6 +127849,7 @@ player
 player 1
 player head
 player x
+player's new world
 player1
 playerhead
 players
@@ -129210,6 +129369,7 @@ rake in - scoring big with monster girls!
 rake in grass
 rakein
 rakeingrass
+rakeo
 rakka: wake 01 - soot
 raleigh
 ralentissement
@@ -129887,6 +130047,7 @@ return fire
 return from core
 return of the obra dinn
 return to dark castle
+returnal™
 returnfire
 returns
 reunion online
@@ -130143,6 +130304,7 @@ road
 road fighter
 road rash
 road to empress
+road to empress ⅱ
 road to karatl
 road to vostok
 road trip to the end of the world
@@ -131450,6 +131612,7 @@ sdpgames
 sea
 sea life explorer collector's edition
 sea of secrets
+sea of stars: sunset edition
 sea of thieves: 2025 edition
 sea of thieves: 2026 edition
 sea town - fish market simulator
@@ -133118,6 +133281,7 @@ sol divide
 solanis
 solar defense
 solaris
+solarpunk™
 solasta ii
 solcycle
 sold
@@ -133669,6 +133833,7 @@ spirit city: lofi sessions - enchanted garden dlc
 spirit cleansers
 spirit magician
 spirit of the north 2
+spirit talk - cozy visual novel
 spirit whisperer conversation with akari
 spirit's shadow maze: the path of possession 灵影迷宫：附身之途
 spirit-sealing tome
@@ -134511,6 +134676,7 @@ sudoku acres
 sudoku dreams
 sudoku dungeon
 sudoku online with friends
+sudoku: unlimited expansion
 sudokugo
 suez canal training simulator demo
 sugar
@@ -134566,6 +134732,7 @@ summoner reborn
 summoners war: rush
 summonnight
 sumo
+sumo battlegrounds
 sumo digital
 sumo digital ltd
 sumodigital
@@ -135201,6 +135368,7 @@ t7
 t7 games
 t7games
 t800
+table 9
 table party - toctoc woodman
 table top creature tracker
 tableau
@@ -135275,6 +135443,7 @@ taito corporation
 taitocorporation
 taiwan coolfox
 taiwanese dominatrixes are the best
+taj mod | official soundtrack - volume 1
 tak
 takahashi
 takaichimornseed
@@ -136177,6 +136346,7 @@ the drunken beard
 the earthen reign
 the eastern sacrifice
 the echo paradox
+the echoes
 the edge
 the eighth squad
 the eighth squad demo
@@ -136594,6 +136764,7 @@ the presence ritual
 the presidential assassins
 the presidential assassins demo
 the princess factory
+the profaned
 the protagonist
 the pub life simulator: prologue
 the punisher
@@ -137165,6 +137336,7 @@ throne and liberty entranced celebration pack: platinum
 throne and liberty entranced celebration pack: silver
 throne and liberty – talandre celebration pack: gold
 throne of capital
+throne of desire
 throne of hearts: rise from the nightmare
 thronebreaker
 thronebreaker : iron crown
@@ -138819,6 +138991,7 @@ unstimulated simulator
 unstrayed demo
 unsung escape
 untapped
+until the abyss
 until they burn
 untimely hidden: patara
 untitled car game
@@ -139797,6 +139970,7 @@ wangjinrei
 wanglixiang
 waning flowers of a world eternal - the rainbow appears after flowering rain
 wanted
+wanted shadows: unchained
 wanted: wild sluts 🔞
 wantz
 wappa
@@ -140640,6 +140814,7 @@ workjam
 works
 workshop
 world
+world cup waifu clicker: soccer evolution
 world eternal online
 world heroes
 world heroes perfect
@@ -140826,6 +141001,7 @@ xeno girlfriend
 xeno girlfriend 2
 xeno girlfriend 3
 xeno girlfriend 4
+xeno strike
 xeno strikers hyper squadron
 xeno swarm - 异虫强袭
 xeno's adventure
@@ -140853,6 +141029,7 @@ xhampi
 xhwigglers
 xianghua
 xiaoyu
+xiaye's doors of magic: lightchaser
 xicat
 xicat interactive
 xicatinteractive
@@ -141221,6 +141398,7 @@ yunetyang
 yunobo
 yunseong
 yunyun syndrome!? rhythm psychosis
+yuppie psycho: executive edition
 yurarin
 yurei
 yurei: ink of the damned
@@ -142630,6 +142808,7 @@ zèbre
 金砂梦咒golden sand dream curse
 钟塔
 错过的暑假可以放第二次吗？
+长安首富模拟器
 闇ゆく君に花束を SOUNDTRACK
 闇ゆく君に花束を Soundtrack
 闇ゆく君に花束を soundtrack
