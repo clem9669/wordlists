@@ -63,6 +63,7 @@
 //signal.
 /TRACE
 /trace
+0.5%
 007
 007 FIRST LIGHT
 007 FIRST LIGHT - STANDARD EDITION
@@ -165,9 +166,11 @@
 100 Miami Cats
 100 Music Cats
 100 RADIOACTIVE CATS
+100 RAILWAY CATS
 100 ROOMS
 100 RUIN CATS
 100 Radioactive Cats
+100 Railway Cats
 100 Ruin Cats
 100 SEA CATS
 100 SHERWOOD CATS
@@ -224,6 +227,7 @@
 100 miami cats
 100 music cats
 100 radioactive cats
+100 railway cats
 100 rooms
 100 ruin cats
 100 sea cats
@@ -289,6 +293,7 @@
 100MusicCats
 100ROOMS
 100RadioactiveCats
+100RailwayCats
 100RuinCats
 100SeaCats
 100SherwoodCats
@@ -2491,6 +2496,7 @@ AGAHNIM
 AGAIN!? THE SHERIFF’S KINKY JUSTICE
 AGAINST THE STORM - NIGHTWATCHERS
 AGAINST TWILIGHT
+AGAIN：LOOP
 AGAMEABOUTFISHING
 AGATHA CHRISTIE - DEATH ON THE NILE
 AGATSUMA
@@ -3753,6 +3759,7 @@ ARGONAUT GAMES
 ARGONAUTGAMES
 ARGONAUTS AGENCY: GORGON MEDUSA
 ARGONAUTS AGENCY: SECRET OF THE LABYRINTH
+ARGONAUTS AGENCY: WHEN SPRING WITHERED
 ARGONAUTS AGENCY: WRATH OF OLYMPUS
 ARGOSAX
 ARGOSAX THE CHAOS
@@ -5088,11 +5095,13 @@ Agahnim
 Again!? The Sheriff's Kinky Justice
 Again!? The Sheriff’s Kinky Justice
 Again!?TheSheriff’sKinkyJustice
+Again:Loop
 Against Twilight
 Against the Storm   Nightwatchers
 Against the Storm - Nightwatchers
 AgainstTwilight
 AgainsttheStorm-Nightwatchers
+Again：Loop
 Agameaboutcards
 Agameaboutsucking(upghostswithaVacuum)
 Agatha Christie   Death on the Nile
@@ -6446,9 +6455,11 @@ ArgonautAgency:GodofStorms
 ArgonautGames
 Argonauts Agency: Gorgon Medusa
 Argonauts Agency: Secret of the Labyrinth
+Argonauts Agency: When Spring Withered
 Argonauts Agency: Wrath of Olympus
 ArgonautsAgency:GorgonMedusa
 ArgonautsAgency:SecretoftheLabyrinth
+ArgonautsAgency:WhenSpringWithered
 ArgonautsAgency:WrathofOlympus
 Argosax
 Argosax the Chaos
@@ -8227,6 +8238,7 @@ BEE_SPAWN_EGG
 BEFORE EXIT: GAS STATION
 BEFORE FATE
 BEFORE THE SCREEN GOES BLACK
+BEGGAR'S LIFE
 BEGIN THE SLAUGHTER
 BEGOMAN
 BEGUILE
@@ -8696,6 +8708,7 @@ BITMASTERS
 BITMONSTER
 BITMONSTER GAMES
 BITMONSTERGAMES
+BITROCA
 BITS
 BITS & BOPS
 BITS CORP
@@ -11050,6 +11063,9 @@ Before the screen goes black
 BeforeExit:GasStation
 BeforeFate
 Beforethescreengoesblack
+Beggar s Life
+Beggar's Life
+Beggar'sLife
 Begin the Slaughter
 BegintheSlaughter
 Begoman
@@ -11578,6 +11594,7 @@ BitManagers
 BitMonster
 BitMonster Games
 BitMonsterGames
+BitRoca
 BitSlaps
 BitTrip
 Bitamania
@@ -14717,6 +14734,8 @@ CINEMAWARE
 CINEMAX
 CINERIS IV
 CINERISIV
+CINESCAPE VR
+CINESCAPEVR
 CING
 CINICROSS
 CINNABAR
@@ -20284,6 +20303,9 @@ DAISYFITZROY
 DAKKO
 DAKKO DAKKO
 DAKKODAKKO
+DAL T-4
+DAL'T 4
+DAL'T-4
 DALALI
 DALALI SOFTWARE
 DALALI SOFTWARE LTD
@@ -20714,6 +20736,10 @@ DC
 DC STUDIOS
 DC Studios
 DCE
+DCS: F 100D Super Sabre by Grinnelli Designs
+DCS: F-100D SUPER SABRE BY GRINNELLI DESIGNS
+DCS: F-100D Super Sabre by Grinnelli Designs
+DCS:F-100DSuperSabrebyGrinnelliDesigns
 DCSTUDIOS
 DCStudios
 DD64
@@ -29850,6 +29876,7 @@ FIRE HERO - PIXEL RESCUE
 FIRE HOSE
 FIRE HOSE GAMES
 FIRE IN THE HOLE
+FIRE LOOKOUT: ABANDONED POST
 FIRE MAPLE
 FIRE MAPLE GAMES
 FIRE OF LIFE: NEW DAY
@@ -30256,6 +30283,7 @@ FOGGYGolf
 FOKOS
 FOLD & FLY
 FOLD TO SHAPES
+FOLKLORE RELOADED
 FOLKORIGIN
 FOLLET
 FOLLOW NIGHTMARE
@@ -30430,6 +30458,7 @@ FOUR DIVINE ABIDINGS
 FOUR DOOR
 FOUR DOOR LEMON
 FOUR HOUSES
+FOUR LIGHTS DEMO
 FOURDOOR
 FOURDOORLEMON
 FOURHOUSES
@@ -31822,6 +31851,7 @@ Fire Hero   Pixel Rescue
 Fire Hero - Pixel Rescue
 Fire Hose
 Fire Hose Games
+Fire Lookout: Abandoned Post
 Fire Maple
 Fire Maple Games
 Fire Pro
@@ -31836,6 +31866,7 @@ FireEmblemShadowDragon
 FireHero-PixelRescue
 FireHose
 FireHoseGames
+FireLookout:AbandonedPost
 FireMaple
 FireMapleGames
 FirePro
@@ -32332,6 +32363,8 @@ Fold To Shapes
 Fold&Fly
 FoldToShapes
 FolkOrigin
+Folklore Reloaded
+FolkloreReloaded
 Follet
 Follow Nightmare
 FollowNightmare
@@ -32568,11 +32601,13 @@ Four Divine Abidings
 Four Door
 Four Door Lemon
 Four Houses
+Four Lights Demo
 FourDivineAbidings
 FourDoor
 FourDoorLemon
 FourHouses
 FourKnightVariant
+FourLightsDemo
 Fourmili
 Fourmiworld
 Fournier
@@ -37770,6 +37805,7 @@ HEAVEN
 HEAVEN DOES NOT RESPOND
 HEAVEN'S DOOR
 HEAVEN'S VAULT
+HEAVENLY BODIES
 HEAVENSHATTER
 HEAVENSTRAFER
 HEAVY
@@ -37869,6 +37905,7 @@ HENRI
 HENRY HALFHEAD
 HENTAI AGE AIRPORT
 HENTAI AGE BEACH
+HENTAI AGE CAR
 HENTAI AGE CLASSIC
 HENTAI AGE DESERT
 HENTAI AGE HOSPITAL
@@ -38103,6 +38140,7 @@ HEXEN - MODULAR SYNTHESIZER
 HEXFACTORY
 HEXICAL
 HEXISLE
+HEXPAND
 HEXPUNK
 HEXWIND
 HEY!
@@ -38748,6 +38786,7 @@ HUNGRY HORRORS
 HUNGRY LILY & THE FALLEN KNIGHT
 HUNGRY SHARK
 HUNGRYSHARK
+HUNK BATTLE GEMS
 HUNT
 HUNT ZOMBIES TOGETHER
 HUNT: SHOWDOWN 1896 - THE MADNESS OF MONTRESOR
@@ -39512,6 +39551,8 @@ Heaven's Vault
 Heaven'sDoor
 Heaven'sVault
 HeavenDoesNotRespond
+Heavenly Bodies
+HeavenlyBodies
 Heavenstrafer
 Heavy
 Heavy Hearts
@@ -39638,6 +39679,7 @@ Henry Halfhead
 HenryHalfhead
 Hentai Age Airport
 Hentai Age Beach
+Hentai Age Car
 Hentai Age Classic
 Hentai Age Desert
 Hentai Age Hospital
@@ -39773,6 +39815,7 @@ Hentai Zarhuna
 Hentai Zombie Moriana
 HentaiAgeAirport
 HentaiAgeBeach
+HentaiAgeCar
 HentaiAgeClassic
 HentaiAgeDesert
 HentaiAgeHospital
@@ -40033,6 +40076,7 @@ Hexen-ModularSynthesizer
 Hexfactory
 Hexical
 Hexisle
+Hexpand
 Hey!
 Hey! Pikmin
 Hey!Pikmin
@@ -40814,6 +40858,8 @@ HungryHorrors
 HungryLily&TheFallenKnight
 HungryShark
 HungryforApplez
+Hunk Battle Gems
+HunkBattleGems
 Hunt
 Hunt Zombies Together
 Hunt: Showdown 1896   The Madness of Montresor
@@ -41924,8 +41970,10 @@ ION STORM AUSTIN
 IONSTORM
 IONSTORMAUSTIN
 IOPRODUCTIONS
+IOSOCCER
 IOSOFTWARE
 IOSYS
+IOSoccer
 IPAHOLICS.COM
 IPAHOLICSCOM
 IPHONKY
@@ -43918,6 +43966,9 @@ JOYCEHAKANSSONASSOCIATESINC
 JOYMAKER
 JOYVAN
 JPARK
+JPMAC: PRIVILEGED
+JPMAC: Privileged
+JPMAC:Privileged
 JPark
 JR
 JR KLAP TRAP
@@ -49033,6 +49084,7 @@ LOOKING GLASS
 LOOKING UP
 LOOKINGGLASS
 LOOP
+LOOP FIGHTER
 LOOP FIREFIGHTERS
 LOOP MY CRANK
 LOOP TOWER: PROLOGUE
@@ -49048,6 +49100,7 @@ LOOT OF IDLE
 LOOT SCOOT
 LOOT TYCOON
 LOOT TYCOON - SUPPORTER PACK
+LOOTBORNE DEMO
 LOOTERS
 LOOTMAGE
 LOPEZ
@@ -51118,9 +51171,11 @@ Looking Up
 LookingGlass
 LookingUp
 Loop
+Loop Fighter
 Loop Firefighters
 Loop My Crank
 Loop Tower: Prologue
+LoopFighter
 LoopFirefighters
 LoopMage: The Infinite Trials
 LoopMage:TheInfiniteTrials
@@ -51149,6 +51204,8 @@ LootMage
 LootScoot
 LootTycoon
 LootTycoon-SupporterPack
+Lootborne Demo
+LootborneDemo
 Looters
 LootofBaal
 LootofIdle
@@ -51881,6 +51938,7 @@ MAGICAL DROP
 MAGICAL DROP 3
 MAGICAL GIRL OPAL
 MAGICAL GIRL OS 98
+MAGICAL GIRL YUSYA-CHAN AND THE LABYRINTH OF LUST ORIGINAL SOUNDTRACK
 MAGICAL GREENHOUSE
 MAGICAL MASSAGE DEMO
 MAGICAL NUT IKUNO
@@ -52946,6 +53004,7 @@ MELMANMELMAN
 MELO
 MELODRAW
 MELODY FRIENDS
+MELODY'S ESCAPE 2
 MELON
 MELON DEZIGN
 MELON MAN
@@ -54167,6 +54226,7 @@ MONSTERHUNTER
 MONSTERRANCHER
 MONSTERS
 MONSTERS & MAGICS: DIGITAL CARD GAME
+MONSTERS AND ELVES
 MONSTERS AND ME 🧟‍♂️🤷‍♂️
 MONSTERS LOOT SWAG
 MONSTERWAR
@@ -55114,6 +55174,8 @@ Magical Drop
 Magical Drop 3
 Magical Girl OS 98
 Magical Girl Opal
+Magical Girl Yusya chan and the Labyrinth of Lust Original Soundtrack
+Magical Girl Yusya-chan and the Labyrinth of Lust Original Soundtrack
 Magical Greenhouse
 Magical Massage Demo
 Magical Nut Ikuno
@@ -55128,6 +55190,7 @@ MagicalDrop
 MagicalDrop3
 MagicalGirlOS98
 MagicalGirlOpal
+MagicalGirlYusya-chanandtheLabyrinthofLustOriginalSoundtrack
 MagicalGreenhouse
 MagicalMassageDemo
 MagicalNutIkuno
@@ -56300,6 +56363,9 @@ MelmanMelman
 Melo
 Melodraw
 Melody Friends
+Melody s Escape 2
+Melody's Escape 2
+Melody'sEscape2
 MelodyFriends
 Melon
 Melon Dezign
@@ -57638,10 +57704,12 @@ Monsters
 Monsters   Magics: Digital Card Game
 Monsters & Magics: Digital Card Game
 Monsters Loot Swag
+Monsters and Elves
 Monsters and Me ??????
 Monsters and Me 🧟‍♂️🤷‍♂️
 Monsters&Magics:DigitalCardGame
 MonstersLootSwag
+MonstersandElves
 MonstersandMe🧟‍♂️🤷‍♂️
 Monstre
 Monstre des Jouets
@@ -64712,6 +64780,7 @@ PHOENIXVENTURE
 PHOENIXWRIGHT
 PHOENYX: BREAKING THE CYCLE
 PHOGS!
+PHONE FLIPPER SIMULATOR
 PHOQUE
 PHOQUES
 PHOSIMP
@@ -64908,6 +64977,7 @@ PILPOILJR
 PILPOILJR.
 PIMPALOT
 PINBALL
+PINBALL BOUNCE 2D
 PINBALL DREAM
 PINBALL FX - WILLIAMS™ PINBALL: ELVIRA AND THE PARTY MONSTERS
 PINBALL STORM: LOKANTA
@@ -65035,6 +65105,7 @@ PIXEL MART
 PIXEL MINE
 PIXEL PAR
 PIXEL PLACE
+PIXEL RAIN
 PIXEL RAMPAGE
 PIXEL RONIN
 PIXEL SHINOBI
@@ -67350,6 +67421,8 @@ PhoenixVenture
 PhoenixWright
 Phoenyx: Breaking The Cycle
 Phoenyx:BreakingTheCycle
+Phone Flipper Simulator
+PhoneFlipperSimulator
 Phoques
 Phosphor
 Phosphor Games
@@ -67568,6 +67641,7 @@ Pilotwings64
 Pimpalot
 Pinata Go Boom
 Pinball
+Pinball Bounce 2d
 Pinball Dream
 Pinball FX   Williams™ Pinball: Elvira and the Party Monsters
 Pinball FX - Williams(TM) Pinball: Elvira and the Party Monsters
@@ -67575,6 +67649,7 @@ Pinball FX - Williams™ Pinball: Elvira and the Party Monsters
 Pinball Storm: Lokanta
 Pinball Tide
 Pinball with a Gun
+PinballBounce2d
 PinballDream
 PinballFX-Williams™Pinball:ElviraandthePartyMonsters
 PinballStorm:Lokanta
@@ -67725,6 +67800,7 @@ Pixel It!
 Pixel Mart
 Pixel Mine
 Pixel Par
+Pixel Rain
 Pixel Rampage
 Pixel Ronin
 Pixel Shinobi
@@ -67756,6 +67832,7 @@ PixelJunk™Eden2
 PixelMart
 PixelMine
 PixelPar
+PixelRain
 PixelRampage
 PixelRonin
 PixelShinobi
@@ -70695,6 +70772,7 @@ REVERB
 REVERGE
 REVERGE LABS
 REVERGELABS
+REVERSE DREAM OF THE MENASPHERE
 REVERSE FISHING
 REVERSE MODULE
 REVERSI XVSX
@@ -70844,6 +70922,7 @@ RIMWORLD - ODYSSEY
 RIN
 RIN NATSUME
 RINA
+RINA'S UNDERCOVER TRAIN OPERATION
 RINGBOUND
 RINGLER
 RINGLER STUDIOS
@@ -72707,8 +72786,10 @@ Reverb
 Reverge
 Reverge Labs
 RevergeLabs
+Reverse Dream of the Menasphere
 Reverse Fishing
 Reverse Module
+ReverseDreamoftheMenasphere
 ReverseFishing
 ReverseModule
 Revistronic
@@ -72861,6 +72942,9 @@ Rin
 Rin Natsume
 RinNatsume
 Rina
+Rina s Undercover Train Operation
+Rina's Undercover Train Operation
+Rina'sUndercoverTrainOperation
 Ringbound
 Ringler
 Ringler Studios
@@ -74259,6 +74343,7 @@ SAWADA
 SAWAMURA
 SAWE
 SAWE MIKURA
+SAWEDOFFRIDDLER: HUMAN HANDSHAKE MODE
 SAWEMIKURA
 SAWMANIA
 SAWYER
@@ -74434,6 +74519,8 @@ SCOUTS OUT
 SCP - Containment Breach
 SCP 093
 SCP 3008: Infinite Store
+SCP FOUNDATION: UNIVERSE HORROR DEMO
+SCP Foundation: Universe Horror Demo
 SCP – CONTAINMENT BREACH
 SCP – Containment Breach
 SCP-093
@@ -74451,6 +74538,7 @@ SCP:CARDTAINMENTBREACH
 SCP:CBMultiplayerReborn
 SCP:FragmentedMinds
 SCP:YetAnotherDay
+SCPFoundation:UniverseHorrorDemo
 SCP–ContainmentBreach
 SCRAMBLE
 SCRAP
@@ -75550,6 +75638,7 @@ SILICONGARAGEARTS
 SILICONKNIGHTS
 SILICONSISTERS
 SILICONSISTERSINTERACTIVE
+SILK HOME: ECHOES OF THE FORBIDDEN
 SILKTRAILS: CATS IN THE GROVE
 SILLIARDS
 SILLY LINGUINE CAT SIMULATOR DELUXE ONLINE
@@ -75560,6 +75649,7 @@ SILLY'S GAMESHOW
 SILMARILS
 SILPHEED
 SILVA
+SILVARN
 SILVEIRA
 SILVER
 SILVER CREEK
@@ -75932,6 +76022,7 @@ SLEEPLESS -A Midsummer Night’s Dream-
 SLEEPLESS-AMidsummerNight’sDream-
 SLEEPY SISTER'S FRIEND
 SLICE
+SLICE THE CROPS!
 SLICER
 SLICER DICER
 SLICER DICER SLICER DICER
@@ -78128,6 +78219,7 @@ SURROUNDEAD POLY CONSTRUCTION
 SURVEILLANT
 SURVIVAL
 SURVIVAL KIDS
+SURVIVAL MACHINE
 SURVIVAL TOWN
 SURVIVAL-HORROR
 SURVIVAL: HOLD YOUR SELF
@@ -78876,6 +78968,8 @@ Sawamura
 Sawe
 Sawe Mikura
 SaweMikura
+Sawedoffriddler: Human Handshake Mode
+Sawedoffriddler:HumanHandshakeMode
 Sawmania
 Sawyer
 Sawyer Sawyer
@@ -80311,6 +80405,8 @@ SiliconGirl
 SiliconKnights
 SiliconSisters
 SiliconSistersInteractive
+Silk Home: echoes of the forbidden
+SilkHome:echoesoftheforbidden
 Silktrails: Cats in the grove
 Silktrails:Catsinthegrove
 Silliards
@@ -80757,11 +80853,13 @@ Sleepy sister s friend
 Sleepy sister's friend
 Sleepysister'sfriend
 Slice
+Slice the Crops!
 Slicer
 Slicer Dicer
 Slicer Dicer Slicer Dicer
 SlicerDicer
 SlicerDicerSlicerDicer
+SlicetheCrops!
 Slide
 Slide Show
 SlideShow
@@ -83445,11 +83543,13 @@ SurrounDeadPolyConstruction
 Surveillant
 Survival
 Survival Kids
+Survival Machine
 Survival Town
 Survival-horror
 Survival: Hold Your Self
 Survival:HoldYourSelf
 SurvivalKids
+SurvivalMachine
 SurvivalTown
 Survivalhorror
 Survivalizm   The Animal Simulator
@@ -84468,6 +84568,7 @@ TELENET SHOOTING COLLECTION LAUNCHER
 TELENETJAPAN
 TELEROTATION
 TELESYS
+TELL ME OWL
 TELLTALE
 TELLTALE GAMES
 TELLTALEGAMES
@@ -84500,6 +84601,7 @@ TEMPUS: A WIZARD AWAKES
 TEMPUS: A Wizard Awakes
 TEMPUS:AWizardAwakes
 TEN DEADLY GAMES: JAMSEPTICEYE
+TEN RINGS 2
 TEN TEK
 TENCHU
 TENENBAUM
@@ -84759,6 +84861,7 @@ THE BLACK ICE
 THE BLACK POOL: ARENA SURVIVORS
 THE BLACK ROUTE
 THE BLACK VAULT
+THE BLACKWOOD PROJECT
 THE BLEAKEST KEEP
 THE BLESSING OF AIRON
 THE BLOODY CROSS
@@ -86268,6 +86371,7 @@ TOKYOHOEI
 TOKYOHOEITV
 TOKYOSHOSEKI
 TOKË III
+TOLLWAY TYCOON
 TOM
 TOM CLANCY'S
 TOM CLANCY'S GHOST
@@ -87930,6 +88034,8 @@ TelenetJapan
 TelenetShootingCollectionLauncher
 Telerotation
 Telesys
+Tell Me Owl
+TellMeOwl
 Telltale
 Telltale Games
 TelltaleGames
@@ -87965,8 +88071,10 @@ TemporalPurge:Z
 Tempting Trevor
 TemptingTrevor
 Ten Deadly Games: Jamsepticeye
+Ten Rings 2
 Ten Tek
 TenDeadlyGames:Jamsepticeye
+TenRings2
 TenTek
 Tenchu
 Tenenbaum
@@ -88289,6 +88397,7 @@ The Black Ice
 The Black Pool: Arena Survivors
 The Black Route
 The Black Vault
+The Blackwood Project
 The Bleakest Keep
 The Blessing of Airon
 The Bloody Cross
@@ -89139,6 +89248,7 @@ TheBlackIce
 TheBlackPool:ArenaSurvivors
 TheBlackRoute
 TheBlackVault
+TheBlackwoodProject
 TheBleakestKeep
 TheBlessingofAiron
 TheBloodyCross
@@ -90503,6 +90613,8 @@ TokyoUndergroundKiller
 TokyoXtremeRacer
 Tokë III
 TokëIII
+Tollway Tycoon
+TollwayTycoon
 Tom
 Tom Clancy's
 Tom Clancy's Ghost
@@ -91799,6 +91911,7 @@ ULTIMATE - PLAY
 ULTIMATE - PLAY THE
 ULTIMATE - PLAY THE GAME
 ULTIMATE ADMIRAL: AGE OF SAIL
+ULTIMATE BLACKSMITH TYCOON ~THE APPRAISER-SHOPKEEPER CONQUERS THE BLACKSMITH TRADE~
 ULTIMATE FISHING SIMULATOR 2
 ULTIMATE FISHING® SIMULATOR
 ULTIMATE GENERAL
@@ -92216,6 +92329,8 @@ Ultimate - Play
 Ultimate - Play the
 Ultimate - Play the Game
 Ultimate Admiral: Age of Sail
+Ultimate Blacksmith Tycoon ~The Appraiser Shopkeeper Conquers the Blacksmith Trade~
+Ultimate Blacksmith Tycoon ~The Appraiser-Shopkeeper Conquers the Blacksmith Trade~
 Ultimate Fishing Simulator 2
 Ultimate Fishing(R) Simulator
 Ultimate Fishing® Simulator
@@ -92237,6 +92352,7 @@ Ultimate-Play
 Ultimate-Playthe
 Ultimate-PlaytheGame
 UltimateAdmiral:AgeofSail
+UltimateBlacksmithTycoon~TheAppraiser-ShopkeeperConquerstheBlacksmithTrade~
 UltimateFishingSimulator2
 UltimateFishing®Simulator
 UltimateGeneral
@@ -99302,6 +99418,7 @@ agahnim
 again!? the sheriff’s kinky justice
 against the storm - nightwatchers
 against twilight
+again：loop
 agameaboutfishing
 agatha christie - death on the nile
 agatsuma
@@ -100468,6 +100585,7 @@ argonaut games
 argonautgames
 argonauts agency: gorgon medusa
 argonauts agency: secret of the labyrinth
+argonauts agency: when spring withered
 argonauts agency: wrath of olympus
 argosax
 argosax the chaos
@@ -102077,6 +102195,7 @@ beeworksgames
 before exit: gas station
 before fate
 before the screen goes black
+beggar's life
 begin the slaughter
 begoman
 beguile
@@ -102537,6 +102656,7 @@ bitmasters
 bitmonster
 bitmonster games
 bitmonstergames
+bitroca
 bits
 bits & bops
 bits corp
@@ -105314,6 +105434,7 @@ cinemalandvr
 cinemaware
 cinemax
 cineris iv
+cinescape vr
 cing
 cinicross
 cinnabar
@@ -107134,6 +107255,7 @@ daisyfitzroy
 dakko
 dakko dakko
 dakkodakko
+dal't-4
 dalali
 dalali software
 dalali software ltd
@@ -107533,6 +107655,7 @@ dbzshinbudokai
 dc
 dc studios
 dce
+dcs: f-100d super sabre by grinnelli designs
 dcstudios
 dd64
 ddod demo
@@ -111724,6 +111847,7 @@ fire hero - pixel rescue
 fire hose
 fire hose games
 fire in the hole
+fire lookout: abandoned post
 fire maple
 fire maple games
 fire of life: new day
@@ -112126,6 +112250,7 @@ foggy golf
 fokos
 fold & fly
 fold to shapes
+folklore reloaded
 folkorigin
 follet
 follow nightmare
@@ -112297,6 +112422,7 @@ four divine abidings
 four door
 four door lemon
 four houses
+four lights demo
 fourdoor
 fourdoorlemon
 fourhouses
@@ -115253,6 +115379,7 @@ heaven
 heaven does not respond
 heaven's door
 heaven's vault
+heavenly bodies
 heavenshatter
 heavenstrafer
 heavy
@@ -115350,6 +115477,7 @@ henri
 henry halfhead
 hentai age airport
 hentai age beach
+hentai age car
 hentai age classic
 hentai age desert
 hentai age hospital
@@ -115578,6 +115706,7 @@ hexen - modular synthesizer
 hexfactory
 hexical
 hexisle
+hexpand
 hexpunk
 hexwind
 hey!
@@ -116192,6 +116321,7 @@ hungry horrors
 hungry lily & the fallen knight
 hungry shark
 hungryshark
+hunk battle gems
 hunt
 hunt zombies together
 hunt: showdown 1896 - the madness of montresor
@@ -117198,6 +117328,7 @@ ion storm austin
 ionstorm
 ionstormaustin
 ioproductions
+iosoccer
 iosoftware
 iosys
 ipaholics.com
@@ -118025,6 +118156,7 @@ joycehakanssonassociatesinc
 joymaker
 joyvan
 jpark
+jpmac: privileged
 jr
 jr klap trap
 jr.
@@ -120938,6 +121070,7 @@ looking glass
 looking up
 lookingglass
 loop
+loop fighter
 loop firefighters
 loop my crank
 loop tower: prologue
@@ -120953,6 +121086,7 @@ loot of idle
 loot scoot
 loot tycoon
 loot tycoon - supporter pack
+lootborne demo
 looters
 lootmage
 lopez
@@ -121524,6 +121658,7 @@ magical drop
 magical drop 3
 magical girl opal
 magical girl os 98
+magical girl yusya-chan and the labyrinth of lust original soundtrack
 magical greenhouse
 magical massage demo
 magical nut ikuno
@@ -122574,6 +122709,7 @@ melmanmelman
 melo
 melodraw
 melody friends
+melody's escape 2
 melon
 melon dezign
 melon man
@@ -123748,6 +123884,7 @@ monsterhunter
 monsterrancher
 monsters
 monsters & magics: digital card game
+monsters and elves
 monsters and me 🧟‍♂️🤷‍♂️
 monsters loot swag
 monstre
@@ -127800,6 +127937,7 @@ phoenixventure
 phoenixwright
 phoenyx: breaking the cycle
 phogs!
+phone flipper simulator
 phoque
 phoques
 phosimp
@@ -128001,6 +128139,7 @@ pilpoiljr
 pilpoiljr.
 pimpalot
 pinball
+pinball bounce 2d
 pinball dream
 pinball fx - williams™ pinball: elvira and the party monsters
 pinball storm: lokanta
@@ -128130,6 +128269,7 @@ pixel mart
 pixel mine
 pixel par
 pixel place
+pixel rain
 pixel rampage
 pixel ronin
 pixel shinobi
@@ -130545,6 +130685,7 @@ reverb
 reverge
 reverge labs
 revergelabs
+reverse dream of the menasphere
 reverse fishing
 reverse module
 reversi xvsx
@@ -130684,6 +130825,7 @@ rimworld - odyssey
 rin
 rin natsume
 rina
+rina's undercover train operation
 ringbound
 ringler
 ringler studios
@@ -131875,6 +132017,7 @@ sawada
 sawamura
 sawe
 sawe mikura
+sawedoffriddler: human handshake mode
 sawemikura
 sawmania
 sawyer
@@ -132025,6 +132168,7 @@ scourge
 scourge the hedgehog
 scourgethehedgehog
 scouts out
+scp foundation: universe horror demo
 scp – containment breach
 scp-093
 scp-3008: infinite store
@@ -133043,6 +133187,7 @@ silicongaragearts
 siliconknights
 siliconsisters
 siliconsistersinteractive
+silk home: echoes of the forbidden
 silktrails: cats in the grove
 silliards
 silly linguine cat simulator deluxe online
@@ -133053,6 +133198,7 @@ silly's gameshow
 silmarils
 silpheed
 silva
+silvarn
 silveira
 silver
 silver creek
@@ -133415,6 +133561,7 @@ sleepless
 sleepless -a midsummer night’s dream-
 sleepy sister's friend
 slice
+slice the crops!
 slicer
 slicer dicer
 slicer dicer slicer dicer
@@ -135531,6 +135678,7 @@ surroundead poly construction
 surveillant
 survival
 survival kids
+survival machine
 survival town
 survival-horror
 survival: hold your self
@@ -136416,6 +136564,7 @@ telenet shooting collection launcher
 telenetjapan
 telerotation
 telesys
+tell me owl
 telltale
 telltale games
 telltalegames
@@ -136446,6 +136595,7 @@ temporal purge: z
 tempting trevor
 tempus: a wizard awakes
 ten deadly games: jamsepticeye
+ten rings 2
 ten tek
 tenchu
 tenenbaum
@@ -136708,6 +136858,7 @@ the black ice
 the black pool: arena survivors
 the black route
 the black vault
+the blackwood project
 the bleakest keep
 the blessing of airon
 the bloody cross
@@ -138187,6 +138338,7 @@ tokyohoei
 tokyohoeitv
 tokyoshoseki
 tokë iii
+tollway tycoon
 tom
 tom clancy's
 tom clancy's ghost
@@ -139253,6 +139405,7 @@ ultimate - play
 ultimate - play the
 ultimate - play the game
 ultimate admiral: age of sail
+ultimate blacksmith tycoon ~the appraiser-shopkeeper conquers the blacksmith trade~
 ultimate fishing simulator 2
 ultimate fishing® simulator
 ultimate general
