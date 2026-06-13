@@ -1634,6 +1634,7 @@ AIRBUS A319
 AIRBUS A320
 AIRBUS A330
 AIRBUS A340 EDELWEISS
+AIRBUS A350
 AIRBUS A350 MALAYSIA AIRLINES
 AIRBUS C295
 AIRCAR
@@ -14840,6 +14841,7 @@ CAP-VERT – AFRIQUE DU SUD
 CAP-VERT – CAMEROUN
 CAP-VERT – ÉGYPTE
 CAPACITEITSTARIEF
+CAPE COD
 CAPITAINE MARLEAU
 CAPITALE EUROPEENNE DE LA CULTURE
 CAPITALE EUROPÉENNE DE LA CULTURE
@@ -25680,6 +25682,7 @@ ENTERREMENT REINE D'ANGLETERRE
 ENTLEBUCH
 ENTLEBUCHER ALPABFAHRT
 ENTRE SES MAINS
+ENVIRONNEMENT
 ENVOLE-MOI
 ENVOYÉ SPÉCIAL
 ENVOYÉ SPÉCIAL ENVOYÉ SPÉCIAL
@@ -46153,6 +46156,7 @@ KRONPLATZ
 KRONPRINZESSIN VICTORIA
 KRONPRINZESSIN VICTORIA VON SCHWEDEN
 KRONPRINZESSINVICTORIAVONSCHWEDEN
+KROONPRINS
 KROONPRINSES
 KROV
 KRUIDVAT
@@ -48126,6 +48130,7 @@ LANDQUART
 LANDQUART OUTLET
 LANDSGEMEINDE APPENZELL
 LANDSGEMEINDE GLARUS
+LANDWIRTSCHAFT
 LANDWIRTSCHAFTLICHES FAHRZEUG
 LANDY RAPPEUR
 LANESTER
@@ -49662,6 +49667,7 @@ LOTERIA DE NAVIDAD 2025
 LOTERIA DEL NINO 2026
 LOTERIA DEL NIÑO 2025
 LOTERIA DEL NIÑO 2026
+LOTERIE
 LOTERIE NATIONALE
 LOTERIE ROMANDE
 LOTHAR MATTHÄUS
@@ -55090,6 +55096,7 @@ MATCH RUGBY AUJOURD'HUI FRANCE 2 DIRECT A QUELLE HEURE
 MATCH RUGBY AUJOURD'HUI FRANCE 2 DIRECT À QUELLE HEURE
 MATCH SERBIE SUISSE
 MATCH SERVETTE
+MATCH SUISSE
 MATCH SUISSE ESPAGNE
 MATCHA
 MATCHBELGIQUEITALIE
@@ -66919,6 +66926,7 @@ PERPIGNAN – TOULOUSE
 PERPLEXITY
 PERRIER
 PERRINE LAFFONT
+PERROQUET
 PERRUQUE MASK SINGER
 PERRY BAMONTE THE CURE
 PERRY CENTER
@@ -67276,6 +67284,7 @@ PILAR RUBIO
 PILATES
 PILATUS
 PILATUS PC-6
+PILOTE D'AVION
 PILZVERGIFTUNG KINDER
 PIM FORTUYN
 PINAR ATALAY
@@ -72147,6 +72156,7 @@ RECETTE DE CREPE
 RECETTE GALETTE DES ROIS
 RECETTE GALETTE FRANGIPANE
 RECHTBANK
+RECHTSSTREIT
 RECKLINGHAUSEN
 RECLUSION CRIMINELLE
 RECONVILIER
@@ -76927,6 +76937,7 @@ SEISME SUISSE
 SEISME TURQUIE
 SEISMES
 SEIXAS
+SEIXAS TOUR D AUVERGNE
 SEKA ALEKSIĆ
 SEKO FOFANA
 SEKOU MARA
@@ -85100,6 +85111,7 @@ TROOPING THE COLOUR 2025
 TROPACK
 TROPENHAUS FRUTIGEN
 TROPHÉE DES CHAMPIONS
+TROPISCHE DAG
 TROSSARD
 TROTTINETTE
 TROTTINETTE ÉLECTRIQUE
@@ -90113,6 +90125,7 @@ VOLCAN CANARIES
 VOLCAN ISLANDE
 VOLCAN LA PALMA
 VOLCANO
+VOLEUR
 VOLEUSES NETFLIX
 VOLKAN OEZDEMIR
 VOLKANOVSKI
@@ -95632,12 +95645,14 @@ airbus a319
 airbus a320
 airbus a330
 airbus a340 edelweiss
+airbus a350
 airbus a350 malaysia airlines
 airbus c295
 airbusa220
 airbusa319
 airbusa320
 airbusa330
+airbusa350
 airbusa350malaysiaairlines
 airbusc295
 aircanadanewyork
@@ -102268,6 +102283,8 @@ cap-vert – afrique du sud
 cap-vert – cameroun
 cap-vert – égypte
 capaciteitstarief
+cape cod
+capecod
 capitaine marleau
 capitale europeenne de la culture
 capitale européenne de la culture
@@ -108288,6 +108305,7 @@ enterrement reine d'angleterre
 entlebuch
 entlebucher alpabfahrt
 entre ses mains
+environnement
 envole-moi
 envoyé spécial
 envoyé spécial envoyé spécial
@@ -112777,6 +112795,7 @@ grand slam of darts
 grand slam of darts 2025
 grand theft auto vi
 grand-prix bern
+grandcolombier
 grande fratello
 grande-synthe
 grandefratello
@@ -119096,6 +119115,7 @@ kronplatz
 kronprinzessin victoria
 kronprinzessin victoria von schweden
 kronprinzessinvictoriavonschweden
+kroonprins
 kroonprinses
 krov
 kruidvat
@@ -119750,6 +119770,7 @@ landquart
 landquart outlet
 landsgemeinde appenzell
 landsgemeinde glarus
+landwirtschaft
 landwirtschaftliches fahrzeug
 landwirtschaftlichesfahrzeug
 landy rappeur
@@ -121695,6 +121716,7 @@ loteriadelnino2026
 loteriadelniño2025
 loteriadelniño2026
 loteriadenavidad2025
+loterie
 loterie nationale
 loterie romande
 loterienationale
@@ -124092,6 +124114,7 @@ match rugby aujourdhui france 2 direct a quelle heure
 match rugby aujourdhui france 2 direct à quelle heure
 match serbie suisse
 match servette
+match suisse
 match suisse espagne
 matcha
 matchbelgiqueitalie
@@ -124110,6 +124133,7 @@ matchs de coupe du monde
 matchs de ligue 1
 matchs de ligue europa conférence
 matchsamicaux
+matchsuisse
 mate rimac
 matera
 materimac
@@ -129660,6 +129684,7 @@ perpignan–toulouse
 perplexity
 perrier
 perrine laffont
+perroquet
 perruque mask singer
 perry bamonte the cure
 perry center
@@ -130104,6 +130129,9 @@ pilar rubio
 pilates
 pilatus
 pilatus pc-6
+pilote d'avion
+pilote davion
+piloted'avion
 pilzvergiftung kinder
 pim fortuyn
 pinar atalay
@@ -132158,6 +132186,7 @@ recette galette des rois
 recette galette frangipane
 recettegalettefrangipane
 rechtbank
+rechtsstreit
 recklinghausen
 reclusion criminelle
 reconvilier
@@ -134879,6 +134908,8 @@ seismes
 seismesuisse
 seismeturquie
 seixas
+seixas tour d auvergne
+seixastourdauvergne
 seka aleksić
 seko fofana
 sekou mara
@@ -139759,6 +139790,8 @@ troopingthecolour2025
 tropack
 tropenhaus frutigen
 trophée des champions
+tropische dag
+tropischedag
 trossard
 trottinette
 trottinette électrique
@@ -141888,6 +141921,7 @@ volcan canaries
 volcan islande
 volcan la palma
 volcano
+voleur
 voleuses netflix
 volkan oezdemir
 volkanovski
