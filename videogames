@@ -1360,6 +1360,7 @@
 8-hour workday
 8-hourWorkday
 800
+808
 88
 88 AT AN EXHIBITION
 88 at an Exhibition
@@ -1614,6 +1615,7 @@
 ????? EffortlessCatch
 ????? Fantasy Youth ????????
 ????? Gods Monster
+????? IdleDiablo
 ????? Soundtrack
 ????? Summer Fantasy
 ????? Super Kalavinka
@@ -4198,6 +4200,7 @@ ASSYRIAGAME
 ASSYRIAGAMESTUDIO
 ASTAGNE
 ASTAROTH
+ASTARYN: RPG IDLER
 ASTEAM
 ASTER SYMPHONA
 ASTERISK DEMO
@@ -6925,6 +6928,8 @@ AssyriaGame
 AssyriaGameStudio
 Astagne
 Astaroth
+Astaryn: RPG Idler
+Astaryn:RPGIdler
 Aster Symphona
 AsterSymphona
 Asterisk Demo
@@ -7523,6 +7528,7 @@ BACKROOMS MAZE 2D
 BACKROOMS MEDIA
 BACKROOMS SANTA
 BACKROOMS STORIES
+BACKROOMS UNTOLD
 BACKROOMS: APPREHENSION
 BACKROOMS: DON T LOOK AWAY
 BACKROOMS: DON'T LOOK AWAY
@@ -10329,6 +10335,7 @@ Backrooms Interception
 Backrooms Maze 2D
 Backrooms Media
 Backrooms Santa
+Backrooms Untold
 Backrooms: Escape Together
 Backrooms: Facility Unknown
 Backrooms: Final Exam
@@ -10359,6 +10366,7 @@ BackroomsInterception
 BackroomsMaze2D
 BackroomsMedia
 BackroomsSanta
+BackroomsUntold
 Backseat Drivers
 BackseatDrivers
 Backshot Brothel
@@ -15011,6 +15019,7 @@ CLARABÊL
 CLARK
 CLASH
 CLASH OF BUILDERS
+CLASH OF COURTS
 CLASH OF ROCK PAPER SCISSORS
 CLASSIC
 CLASSIC BLACKJACK
@@ -16044,6 +16053,7 @@ CRAZY CARS
 CRAZY CASTLE
 CRAZY FRUIT SHOOTER
 CRAZY HOTEL TOGETHER
+CRAZY NEIGHBOUR
 CRAZY PUZZLE - COSPLAY
 CRAZY ROBOT
 CRAZY ROBOT BALL
@@ -18446,8 +18456,10 @@ Clarabêl
 Clark
 Clash
 Clash of Builders
+Clash of Courts
 Clash of Rock Paper Scissors
 ClashofBuilders
+ClashofCourts
 ClashofRockPaperScissors
 Classic
 Classic Blackjack
@@ -19657,6 +19669,7 @@ Crazy Cars
 Crazy Castle
 Crazy Fruit Shooter
 Crazy Hotel Together
+Crazy Neighbour
 Crazy Puzzle   Cosplay
 Crazy Puzzle - Cosplay
 Crazy Robot
@@ -19669,6 +19682,7 @@ CrazyCars
 CrazyCastle
 CrazyFruitShooter
 CrazyHotelTogether
+CrazyNeighbour
 CrazyPuzzle-Cosplay
 CrazyRobot
 CrazyRobotBall
@@ -20478,6 +20492,7 @@ DAIGO
 DAIGO KAZAMA
 DAIGOKAZAMA
 DAIGOROH
+DAILY BREW IDLE: MILK TEA TYCOON
 DAILY CLIMB
 DAIROU
 DAISANGEN
@@ -21743,6 +21758,7 @@ DIGIMON SURVIVE
 DIGIMON WORLD: NEXT ORDER
 DIGIPAW
 DIGITAL
+DIGITAL ANIMA: VIRTUAL LIFEFORM CARE KIT
 DIGITAL ANVIL
 DIGITAL BROS
 DIGITAL CHOCOLATE
@@ -23125,7 +23141,9 @@ Daigo
 Daigo Kazama
 DaigoKazama
 Daigoroh
+Daily Brew Idle: Milk Tea Tycoon
 Daily Climb
+DailyBrewIdle:MilkTeaTycoon
 DailyClimb
 Dairou
 Daisenryaku
@@ -24632,6 +24650,7 @@ DigimonWorld:NextOrder
 Digintothecore
 Digipaw
 Digital
+Digital Anima: Virtual Lifeform Care Kit
 Digital Anvil
 Digital Bros
 Digital Chocolate
@@ -24676,6 +24695,7 @@ Digital Works
 Digital Works Entertainment
 Digital Worlds
 Digital Worldwide
+DigitalAnima:VirtualLifeformCareKit
 DigitalAnvil
 DigitalBros
 DigitalChocolate
@@ -26853,6 +26873,7 @@ ELEMENT
 ELEMENT-174 - PART 2
 ELEMENTAL BRAWL
 ELEMENTAL COLOSSUS
+ELEMENTAL MAGIC WARS
 ELEMENTAL RUSH
 ELEMENTAL RUSH DEMO
 ELEMENTAL SOUL
@@ -27458,11 +27479,14 @@ ETERNAL LUST: REALM OF THE UNDEAD
 ETERNAL NIGHT - SPOOKY SOLITAIRE
 ETERNAL ONE
 ETERNAL RISING
+ETERNAL ROMANCE COMPLETE EDITION PLUS
+ETERNAL ROMANCE Complete Edition Plus
 ETERNAL SIEGE
 ETERNALCHAMPIONS
 ETERNALDARKNESS
 ETERNALEXILE:BENEATHTHEDARKNESS
 ETERNALLY DEPARTED
+ETERNALROMANCECompleteEditionPlus
 ETERNITY EGG
 ETERSPIRE
 ETHAN
@@ -28267,12 +28291,14 @@ Element 174   Part 2
 Element-174 - Part 2
 Element-174-Part2
 Elemental Brawl
+Elemental Magic Wars
 Elemental Rush
 Elemental Rush Demo
 Elemental Towers Demo
 Elemental War Clash
 Elemental colossus
 ElementalBrawl
+ElementalMagicWars
 ElementalRush
 ElementalRushDemo
 ElementalTowersDemo
@@ -30627,6 +30653,7 @@ FORGEDALE
 FORGEREPLY
 FORGERON
 FORGET HER
+FORGIVE ME MY LOVE
 FORGOD'SSAKE,HELPHIM!
 FORGOT
 FORGOTLINGS
@@ -30923,6 +30950,7 @@ FRIZO
 FROB: THE INCIDENT
 FROG
 FROG & ROLL DEMO
+FROG CLIMB
 FROG DETECTIVE
 FROG FOLDING SIMULATOR
 FROG HOLM
@@ -32772,6 +32800,8 @@ Forgedale
 Forgeron
 Forget Her
 ForgetHer
+Forgive Me My Love
+ForgiveMeMyLove
 Forgot
 Forgotlings
 Forgotten
@@ -33122,12 +33152,14 @@ Frob:TheIncident
 Frog
 Frog   Roll Demo
 Frog & Roll Demo
+Frog Climb
 Frog Detective
 Frog Folding Simulator
 Frog Holm
 Frog Jump
 Frog Legs
 Frog&RollDemo
+FrogClimb
 FrogDetective
 FrogFoldingSimulator
 FrogHolm
@@ -33750,6 +33782,7 @@ GAMECOCKMEDIA
 GAMECOCKMEDIAGROUP
 GAMECUBE
 GAMEDAY
+GAMEDEC - DEFINITIVE EDITION
 GAMEDEV CLICKER: TAP & BUILD
 GAMEDOCTORS
 GAMEERA
@@ -34309,6 +34342,7 @@ GIMKA
 GIMKA ENTERTAINMENT
 GIMKAENTERTAINMENT
 GIN
+GIN - THE SILVER WIND
 GINETTE
 GINGA
 GINGA FUKEI DENSETSU SAPPHIRE
@@ -34697,6 +34731,7 @@ GONERILGONERIL
 GONG GO GIRL
 GONGO
 GONZO
+GOO DEER
 GOO GO
 GOOBER DASH
 GOOBERS
@@ -35093,6 +35128,7 @@ GRIDROYALE BATTLE ROYALE
 GRIDROYALE Battle Royale
 GRIDROYALEBattleRoyale
 GRIDRUSH
+GRIDS OF THERMOMETERS
 GRIEF
 GRIEFS TEXTURE RIPPER
 GRIEFS Texture Ripper
@@ -35714,6 +35750,9 @@ Gamecock Media Group
 GamecockMedia
 GamecockMediaGroup
 Gamecube
+Gamedec   Definitive Edition
+Gamedec - Definitive Edition
+Gamedec-DefinitiveEdition
 Gamedoctors
 Gamelion
 Gamelion Studios
@@ -36314,6 +36353,9 @@ Gimka
 Gimka Entertainment
 GimkaEntertainment
 Gin
+Gin   The Silver Wind
+Gin - The Silver Wind
+Gin-TheSilverWind
 Ginette
 Ginga
 Ginga Fukei Densetsu Sapphire
@@ -36747,7 +36789,9 @@ Gong GO Girl
 GongGOGirl
 Gongo
 Gonzo
+Goo Deer
 Goo Go
+GooDeer
 GooGo
 Goober Dash
 GooberDash
@@ -37158,6 +37202,8 @@ GridFall:Nine-Grid
 Gridkeeper
 Gridle
 GridofChange
+Grids of Thermometers
+GridsofThermometers
 Grief
 Grieving  Berduka 
 Grieving (Berduka)
@@ -38913,6 +38959,7 @@ HORIZON
 HORIZON FORBIDDEN WEST™ COMPLETE EDITION
 HORIZON VALLEY
 HORIZON ZERO DAWN™ COMPLETE EDITION
+HORIZON ZERO DAWN™ REMASTERED BUNDLE
 HORN
 HORNE
 HORNER
@@ -40944,10 +40991,13 @@ Horizon Forbidden West(TM) Complete Edition
 Horizon Forbidden West™ Complete Edition
 Horizon Valley
 Horizon Zero Dawn(TM) Complete Edition
+Horizon Zero Dawn(TM) Remastered Bundle
 Horizon Zero Dawn™ Complete Edition
+Horizon Zero Dawn™ Remastered Bundle
 HorizonForbiddenWest™CompleteEdition
 HorizonValley
 HorizonZeroDawn™CompleteEdition
+HorizonZeroDawn™RemasteredBundle
 Horn
 Horne
 Horner
@@ -46524,6 +46574,7 @@ KUBEON DEMO
 KUCHIZUKE
 KUDGEL
 KUDOU
+KUDO’S KUPPA
 KUDRYAVKA
 KUDRYAVKA NOUMI
 KUDRYAVKANOUMI
@@ -47793,7 +47844,10 @@ KuafuChasestheSun
 Kubeon Demo
 KubeonDemo
 Kudgel
+Kudo's Kuppa
 Kudou
+Kudo’s Kuppa
+Kudo’sKuppa
 Kudryavka
 Kudryavka Noumi
 KudryavkaNoumi
@@ -49112,6 +49166,7 @@ LIMBIC
 LIMBIC SOFTWARE
 LIMBICSOFTWARE
 LIMBO
+LIMBY
 LIME
 LIME BANNER
 LIME BED
@@ -49557,6 +49612,7 @@ LORQUE
 LORT
 LOS
 LOS ILUMINADOS
+LOSER GOT ISEKAI’D – SEX, SIDE JOBS, AND ODD TASKS
 LOSER NAMED HANA
 LOSILUMINADOS
 LOSSLESS SCALING
@@ -51683,7 +51739,10 @@ Loriciels
 Los
 Los Iluminados
 LosIluminados
+Loser Got Isekai'd - Sex, Side Jobs, and Odd Tasks
+Loser Got Isekai’d – Sex, Side Jobs, and Odd Tasks
 Loser Named Hana
+LoserGotIsekai’d–Sex,SideJobs,andOddTasks
 LoserNamedHana
 Lossless Scaling
 LosslessScaling
@@ -54135,6 +54194,7 @@ MINDWARE STUDIOS
 MINDWARESTUDIOS
 MINDWEAVER CHRONICLES
 MINE
+MINE EMPIRE
 MINE IT DOWN
 MINE SAFETY
 MINE STORM
@@ -54441,6 +54501,7 @@ MOBILE APP
 MOBILE APP CENTER
 MOBILE BUNCHA
 MOBILE FORCE
+MOBILE FRONT
 MOBILE GAME
 MOBILE GAME STUDIO
 MOBILE POLICE OFFICER EARTH GUMBLE
@@ -57564,11 +57625,13 @@ MindwareStudios
 Mindweaver Chronicles
 MindweaverChronicles
 Mine
+Mine Empire
 Mine It Down
 Mine Safety
 Mine Storm
 Mine? Tower!
 Mine?Tower!
+MineEmpire
 MineItDown
 MineMogul
 MinePuzzle5020
@@ -57899,6 +57962,7 @@ Mobile App
 Mobile App Center
 Mobile Buncha
 Mobile Force
+Mobile Front
 Mobile Game
 Mobile Game Studio
 Mobile Police Officer EARTH Gumble
@@ -57907,6 +57971,7 @@ MobileApp
 MobileAppCenter
 MobileBuncha
 MobileForce
+MobileFront
 MobileGame
 MobileGameStudio
 MobilePoliceOfficerEARTHGumble
@@ -59506,9 +59571,13 @@ NEKKI
 NEKO
 NEKO CAFÉ STORIES
 NEKO LOOP
+NEKO MIMI SWEET HOUSEMATES Vol. 2
 NEKO NIN exHeart SPIN! LOVE+PLUS
 NEKO NO SENTOUKI: THE GREATEST FIGHTER
 NEKO NO YUME
+NEKO-MIMI SWEET HOUSEMATES VOL. 2
+NEKO-MIMI SWEET HOUSEMATES Vol. 2
+NEKO-MIMISWEETHOUSEMATESVol.2
 NEKO-NEKO MEOW CLUB
 NEKO-NIN EXHEART SPIN! LOVE+PLUS
 NEKO-NIN exHeart SPIN! LOVE+PLUS
@@ -59639,6 +59708,7 @@ NES/Famicom
 NESFAMICOM
 NESFamicom
 NESS
+NESTIFY: COZY DESIGN
 NESTLING RUSH
 NET
 NETBREAK — ORIGINAL DIGITAL SOUNDTRACK
@@ -60925,6 +60995,8 @@ Nerv Technology
 NervTechnology
 Nerzhul
 Ness
+Nestify: Cozy Design
+Nestify:CozyDesign
 Nestling Rush
 NestlingRush
 Net
@@ -62705,6 +62777,7 @@ ORBITAL CREW
 ORBITAL FIGHTER
 ORBITAL MEDIA
 ORBITAL OVERDRIVE
+ORBITAL PHYSICS SIMULATOR
 ORBITAL SIEGE
 ORBITALMEDIA
 ORBITEERS
@@ -62712,6 +62785,7 @@ ORBITMINE
 ORBITOUS
 ORBITSOFT
 ORBLOOM
+ORBOSIS GLORIOSIS
 ORBOT
 ORBRUT
 ORBS ORBS ORBS
@@ -63931,17 +64005,21 @@ Orbital Crew
 Orbital Fighter
 Orbital Media
 Orbital Overdrive
+Orbital Physics Simulator
 Orbital Siege
 OrbitalChallenge
 OrbitalCrew
 OrbitalFighter
 OrbitalMedia
 OrbitalOverdrive
+OrbitalPhysicsSimulator
 OrbitalSiege
 Orbiteers
 Orbitmine
 Orbitous
 Orbloom
+Orbosis Gloriosis
+OrbosisGloriosis
 Orbot
 Orbrut
 Orbs Orbs Orbs
@@ -66796,6 +66874,7 @@ PUFFY PUFFY
 PUFFYPUFFY
 PUFTOSS
 PUKEY
+PULL FACTOR
 PULL OUT! SPOTTED GARDEN EELS
 PULLBACK RACERS
 PULLBACKRACERS
@@ -69739,7 +69818,9 @@ Puffy Puffy
 PuffyPuffy
 Puftoss
 Pukey
+Pull Factor
 Pull Out! Spotted Garden Eels
+PullFactor
 PullOut!SpottedGardenEels
 Pullum
 Pullum Purna
@@ -71180,6 +71261,7 @@ RELICBOUND
 RELICENTERTAINMENT
 RELICTUS: BLACKOUT
 RELICWAR
+RELIEF
 RELINQUISHED: SOULS ASYLUM
 RELIQUARE
 RELM
@@ -71860,6 +71942,7 @@ ROGUE HEX
 ROGUE KINGDOMS
 ROGUE LABYRINTH
 ROGUE MASTERS
+ROGUE MATE
 ROGUE MONSTER RUSH
 ROGUE NIGHT
 ROGUE REMASTERED
@@ -73171,6 +73254,7 @@ Relicbound
 RelicofTheDungeon
 Relictus: Blackout
 Relictus:Blackout
+Relief
 Relinquished: Souls Asylum
 Relinquished:SoulsAsylum
 Reliquare
@@ -73972,6 +74056,7 @@ Rogue Hex
 Rogue Kingdoms
 Rogue Labyrinth
 Rogue Masters
+Rogue Mate
 Rogue Monster Rush
 Rogue Night
 Rogue Remastered
@@ -73992,6 +74077,7 @@ RogueHex
 RogueKingdoms
 RogueLabyrinth
 RogueMasters
+RogueMate
 RogueMonsterRush
 RogueNight
 RoguePool
@@ -74829,6 +74915,9 @@ SAND GRAIN
 SAND GRAIN STUDIOS
 SAND STORM
 SAND WITCH ADVENTURES
+SAND: RAIDERS OF SOPHIE
+SAND: Raiders of Sophie
+SAND:RaidersofSophie
 SANDBLOCKS
 SANDBOXELS
 SANDCASTLE
@@ -75679,6 +75768,7 @@ SEX SIMULATOR FOR KIKYO
 SEX Simulator for Kikyo
 SEX THERAPY
 SEX TOURIST
+SEX TRAINER'S DIARY: HIDDEN KINK
 SEX WISHES 🔮
 SEX&DICE
 SEX, SIN   ROCK N ROLL 🤘🎸
@@ -75861,6 +75951,7 @@ SHATTERED BRIDE
 SHATTERED CHESS
 SHATTERED DIMENSION
 SHATTERED DIVINITIES
+SHATTERHOLD
 SHATTERING DARKNESS
 SHATTERLAND
 SHATTERLINE
@@ -75873,6 +75964,7 @@ SHE PLAYS DIRTY
 SHE WAS 98
 SHE'S LEAVING
 SHEARS
+SHED
 SHEEP
 SHEEP & LOVE
 SHEEP FOR THE STARS
@@ -79132,6 +79224,7 @@ SYNERGISTICSOFTWARE
 SYNERGISTICSOFTWARE,INC
 SYNERGISTICSOFTWAREINC
 SYNERGY
+SYNERGY STRIKE
 SYNETIC
 SYNSOFT
 SYNTHESIS OF CORRUPTION
@@ -80381,6 +80474,8 @@ Sex On The Beach
 Sex Queen
 Sex Shop Simulator: X RAY DESIRE
 Sex Shop Simulator: X-RAY DESIRE
+Sex Trainer s Diary: Hidden Kink
+Sex Trainer's Diary: Hidden Kink
 Sex Wishes ?
 Sex Wishes 🔮
 Sex&Coffee☕️🤎
@@ -80415,6 +80510,7 @@ SexOnFire🔥
 SexOnTheBeach
 SexQueen
 SexShopSimulator:X-RAYDESIRE
+SexTrainer'sDiary:HiddenKink
 SexWishes🔮
 Sexercise Club
 SexerciseClub
@@ -80601,6 +80697,7 @@ ShatteredBride
 ShatteredChess
 ShatteredDimension
 ShatteredDivinities
+Shatterhold
 Shattering Darkness
 ShatteringDarkness
 Shatterland
@@ -84591,6 +84688,8 @@ SynergisticSoftware
 SynergisticSoftware,Inc
 SynergisticSoftwareInc
 Synergy
+Synergy Strike
+SynergyStrike
 Synetic
 Synthesis of Corruption
 SynthesisofCorruption
@@ -85135,6 +85234,7 @@ TEC TOY
 TECH
 TECH CHASE
 TECH CROUCH
+TECH EMPIRE
 TECH JUMP
 TECH TRAP
 TECHCHASE
@@ -85457,6 +85557,7 @@ TETEDEZOMBIE
 TETEDOEUF
 TETHERGEIST
 TETRA
+TETRABEASTS
 TETRAEDGE
 TETRAEDGE GAMES
 TETRAEDGEGAMES
@@ -86083,9 +86184,11 @@ THE MERRY FAIRY
 THE METAL AGE
 THE MIDNIGHT EXORCIST DEMO
 THE MIDNIGHT GARDEN: AMY'S FLOWER
+THE MIDNIGHT QUEENS
 THE MIDNIGHT WALK
 THE MIDNIGHT WALKERS
 THE MIDNIGHT WALKERS - EARLY ACCESS SUPPORTER PACK
+THE MIKI KOMORI PROJECT
 THE MILKWOMAN
 THE MINDGATE CONSPIRACY
 THE MINES
@@ -86175,6 +86278,7 @@ THE PROFANED
 THE PROTAGONIST
 THE PUB LIFE SIMULATOR: PROLOGUE
 THE PUNISHER
+THE PUPPET'S CASKET
 THE QUEEN OF PHALLI
 THE QUEST FOR COLOUR
 THE QUIET HUM OF A LONELY HEART
@@ -86526,6 +86630,7 @@ THEME
 THEME PARK
 THEMEPARK
 THEMETALAGE
+THEMIDNIGHTQUEENS
 THEMINDGATECONSPIRACY
 THEMUTE
 THEMYSTICALNINJA
@@ -88634,10 +88739,12 @@ Tec Toy
 TecMagik
 TecToy
 Tech
+Tech Empire
 Tech Jump
 Tech chase
 Tech crouch
 Tech trap
+TechEmpire
 TechGuardian: Territory Defense
 TechGuardian:TerritoryDefense
 TechJump
@@ -89012,6 +89119,7 @@ TetrX 360   Eons of Time
 TetrX 360 - Eons of Time
 TetrX360-EonsofTime
 Tetra
+Tetrabeasts
 Tetraedge
 Tetraedge Games
 TetraedgeGames
@@ -89642,6 +89750,7 @@ The Midnight Walk
 The Midnight Walkers
 The Midnight Walkers   Early Access Supporter Pack
 The Midnight Walkers - Early Access Supporter Pack
+The Miki Komori Project
 The Milkwoman
 The Mindgate Conspiracy
 The Mines
@@ -89731,6 +89840,8 @@ The Profaned
 The Protagonist
 The Pub Life Simulator: Prologue
 The Punisher
+The Puppet s Casket
+The Puppet's Casket
 The Queen of Phalli
 The Quest for Colour
 The Quiet Hum of a Lonely Heart
@@ -90471,6 +90582,7 @@ TheMidnightGarden:Amy'sFlower
 TheMidnightWalk
 TheMidnightWalkers
 TheMidnightWalkers-EarlyAccessSupporterPack
+TheMikiKomoriProject
 TheMilkwoman
 TheMindgateConspiracy
 TheMines
@@ -90556,6 +90668,7 @@ TheProfaned
 TheProtagonist
 ThePubLifeSimulator:Prologue
 ThePunisher
+ThePuppet'sCasket
 TheQueenofPhalli
 TheQuestforColour
 TheQuietHumofaLonelyHeart
@@ -92881,6 +92994,7 @@ UNEXPECTED
 UNEXPECTED DEVELOPMENT
 UNEXPECTEDDEVELOPMENT
 UNFAIR CORNERS
+UNFAIR WAR: SURVIVORS
 UNFAIR WAR: SURVIVORS DEMO
 UNFORGETTABLE LOVE
 UNFOUND FOOTAGE
@@ -93337,7 +93451,9 @@ Unera
 Unexpected
 Unexpected Development
 UnexpectedDevelopment
+UnfAIr War: Survivors
 UnfAIr War: Survivors Demo
+UnfAIrWar:Survivors
 UnfAIrWar:SurvivorsDemo
 Unfair Corners
 UnfairCorners
@@ -101856,6 +101972,7 @@ assyriagame
 assyriagamestudio
 astagne
 astaroth
+astaryn: rpg idler
 asteam
 aster symphona
 asterisk demo
@@ -102362,6 +102479,7 @@ backrooms maze 2d
 backrooms media
 backrooms santa
 backrooms stories
+backrooms untold
 backrooms: apprehension
 backrooms: don't look away
 backrooms: escape together
@@ -106509,6 +106627,7 @@ clarabêl
 clark
 clash
 clash of builders
+clash of courts
 clash of rock paper scissors
 classic
 classic blackjack
@@ -107517,6 +107636,7 @@ crazy cars
 crazy castle
 crazy fruit shooter
 crazy hotel together
+crazy neighbour
 crazy puzzle - cosplay
 crazy robot
 crazy robot ball
@@ -108197,6 +108317,7 @@ daigo
 daigo kazama
 daigokazama
 daigoroh
+daily brew idle: milk tea tycoon
 daily climb
 dairou
 daisangen
@@ -109403,6 +109524,7 @@ digimon survive
 digimon world: next order
 digipaw
 digital
+digital anima: virtual lifeform care kit
 digital anvil
 digital bros
 digital chocolate
@@ -111231,6 +111353,7 @@ element
 element-174 - part 2
 elemental brawl
 elemental colossus
+elemental magic wars
 elemental rush
 elemental rush demo
 elemental soul
@@ -111840,6 +111963,7 @@ eternal lust: realm of the undead
 eternal night - spooky solitaire
 eternal one
 eternal rising
+eternal romance complete edition plus
 eternal siege
 eternalchampions
 eternaldarkness
@@ -113321,6 +113445,7 @@ forgedale
 forgereply
 forgeron
 forget her
+forgive me my love
 forgot
 forgotlings
 forgotten
@@ -113612,6 +113737,7 @@ frizo
 frob: the incident
 frog
 frog & roll demo
+frog climb
 frog detective
 frog folding simulator
 frog holm
@@ -114147,6 +114273,7 @@ gamecockmedia
 gamecockmediagroup
 gamecube
 gameday
+gamedec - definitive edition
 gamedev clicker: tap & build
 gamedoctors
 gameera
@@ -114686,6 +114813,7 @@ gimka
 gimka entertainment
 gimkaentertainment
 gin
+gin - the silver wind
 ginette
 ginga
 ginga fukei densetsu sapphire
@@ -115061,6 +115189,7 @@ gonerilgoneril
 gong go girl
 gongo
 gonzo
+goo deer
 goo go
 goober dash
 goobers
@@ -115447,6 +115576,7 @@ gridkeeper
 gridle
 gridroyale battle royale
 gridrush
+grids of thermometers
 grief
 griefs texture ripper
 grieving (berduka)
@@ -117134,6 +117264,7 @@ horizon
 horizon forbidden west™ complete edition
 horizon valley
 horizon zero dawn™ complete edition
+horizon zero dawn™ remastered bundle
 horn
 horne
 horner
@@ -120418,6 +120549,7 @@ kubeon demo
 kuchizuke
 kudgel
 kudou
+kudo’s kuppa
 kudryavka
 kudryavka noumi
 kudryavkanoumi
@@ -121730,6 +121862,7 @@ limbic
 limbic software
 limbicsoftware
 limbo
+limby
 lime
 lime banner
 lime bed
@@ -122158,6 +122291,7 @@ lorque
 lort
 los
 los iluminados
+loser got isekai’d – sex, side jobs, and odd tasks
 loser named hana
 losiluminados
 lossless scaling
@@ -124406,6 +124540,7 @@ mindware studios
 mindwarestudios
 mindweaver chronicles
 mine
+mine empire
 mine it down
 mine safety
 mine storm
@@ -124699,6 +124834,7 @@ mobile app
 mobile app center
 mobile buncha
 mobile force
+mobile front
 mobile game
 mobile game studio
 mobile police officer earth gumble
@@ -126005,6 +126141,7 @@ neko café stories
 neko loop
 neko no sentouki: the greatest fighter
 neko no yume
+neko-mimi sweet housemates vol. 2
 neko-neko meow club
 neko-nin exheart spin! love+plus
 nekogumi
@@ -126122,6 +126259,7 @@ nes-famicom
 nes/famicom
 nesfamicom
 ness
+nestify: cozy design
 nestling rush
 net
 netbreak — original digital soundtrack
@@ -127791,6 +127929,7 @@ orbital crew
 orbital fighter
 orbital media
 orbital overdrive
+orbital physics simulator
 orbital siege
 orbitalmedia
 orbiteers
@@ -127798,6 +127937,7 @@ orbitmine
 orbitous
 orbitsoft
 orbloom
+orbosis gloriosis
 orbot
 orbrut
 orbs orbs orbs
@@ -130495,6 +130635,7 @@ puffy puffy
 puffypuffy
 puftoss
 pukey
+pull factor
 pull out! spotted garden eels
 pullback racers
 pullum
@@ -131598,6 +131739,7 @@ relicbound
 relicentertainment
 relictus: blackout
 relicwar
+relief
 relinquished: souls asylum
 reliquare
 relm
@@ -132243,6 +132385,7 @@ rogue hex
 rogue kingdoms
 rogue labyrinth
 rogue masters
+rogue mate
 rogue monster rush
 rogue night
 rogue remastered
@@ -132978,6 +133121,7 @@ sand grain
 sand grain studios
 sand storm
 sand witch adventures
+sand: raiders of sophie
 sandblocks
 sandboxels
 sandcastle
@@ -133741,6 +133885,7 @@ sex shop simulator: x-ray desire
 sex simulator for kikyo
 sex therapy
 sex tourist
+sex trainer's diary: hidden kink
 sex wishes 🔮
 sex, sin & rock'n'roll 🤘🎸
 sexercise club
@@ -133903,6 +134048,7 @@ shattered bride
 shattered chess
 shattered dimension
 shattered divinities
+shatterhold
 shattering darkness
 shatterland
 shatterline
@@ -133915,6 +134061,7 @@ she plays dirty
 she was 98
 she's leaving
 shears
+shed
 sheep
 sheep & love
 sheep for the stars
@@ -137046,6 +137193,7 @@ synergisticsoftware
 synergisticsoftware,inc
 synergisticsoftwareinc
 synergy
+synergy strike
 synetic
 synsoft
 synthesis of corruption
@@ -137545,6 +137693,7 @@ tec toy
 tech
 tech chase
 tech crouch
+tech empire
 tech jump
 tech trap
 techchase
@@ -137859,6 +138008,7 @@ tetedezombie
 tetedoeuf
 tethergeist
 tetra
+tetrabeasts
 tetraedge
 tetraedge games
 tetraedgegames
@@ -138474,9 +138624,11 @@ the merry fairy
 the metal age
 the midnight exorcist demo
 the midnight garden: amy's flower
+the midnight queens
 the midnight walk
 the midnight walkers
 the midnight walkers - early access supporter pack
+the miki komori project
 the milkwoman
 the mindgate conspiracy
 the mines
@@ -138565,6 +138717,7 @@ the profaned
 the protagonist
 the pub life simulator: prologue
 the punisher
+the puppet's casket
 the queen of phalli
 the quest for colour
 the quiet hum of a lonely heart
@@ -140715,6 +140868,7 @@ unexpected
 unexpected development
 unexpecteddevelopment
 unfair corners
+unfair war: survivors
 unfair war: survivors demo
 unforgettable love
 unfound footage
@@ -143847,6 +144001,7 @@ zèbre
 不思議な世界の観光日記ⅱ～パクルワールドとセジカの逆襲～
 不思議の大冒険 チルノ見参！２
 不思議の大冒険チルノ見参！２
+东北往事
 东方华心传TOUHOU BLOOMING SOUL
 东方华心传Touhou Blooming Soul
 东方华心传TouhouBloomingSoul
@@ -144191,6 +144346,10 @@ zèbre
 挂机猫猫传 Demo
 挂机猫猫传 demo
 挂机猫猫传Demo
+挂机破坏神 IDLEDIABLO
+挂机破坏神 IdleDiablo
+挂机破坏神 idlediablo
+挂机破坏神IdleDiablo
 捕词VOCAPOO
 捕词Vocapoo
 捕词vocapoo
@@ -144402,6 +144561,7 @@ zèbre
 狂野网 wild web
 狂野网WildWeb
 狩魔之旅
+猫咪の世界
 猫猫旅行社欢迎你！ MOMO'S REVITALIZATION PROJECT!
 猫猫旅行社欢迎你！ Momo s Revitalization Project!
 猫猫旅行社欢迎你！ Momo's Revitalization Project!
