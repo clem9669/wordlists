@@ -1882,6 +1882,7 @@ A LINK TO PAST
 A LINK TO THE PAST
 A LITTLE PERSPECTIVE
 A LITTLE PHYSICS ROGUELIKE
+A LOST MAN
 A LOVE LIKE BROKEN GLASS
 A LUCKY HUNT WITH : LYRA
 A Lenda de Niteroi
@@ -1890,6 +1891,7 @@ A Life I Couldn't Feel
 A Life I Couldn’t Feel
 A Little Perspective
 A Little Physics Roguelike
+A Lost Man
 A Love Like Broken Glass
 A Lucky Hunt With : Lyra
 A MAIDEN'S SERENADE
@@ -3086,6 +3088,7 @@ ALife
 ALifeICouldn’tFeel
 ALittlePerspective
 ALittlePhysicsRoguelike
+ALostMan
 ALoveLikeBrokenGlass
 ALuckyHuntWith:Lyra
 AM
@@ -8845,6 +8848,7 @@ BITSOF
 BITSOFMAGIC
 BITSSTUDIOS
 BITTRIP
+BITVANIA
 BIVOLT
 BIVOLT BIVOLT
 BIVOLTBIVOLT
@@ -9891,6 +9895,7 @@ BRIGITTE
 BRIKKEN
 BRILLIANT
 BRIMSTONE
+BRING THE RIFT
 BRINK
 BRIO
 BRIO WORLD - RAILWAY DEMO
@@ -11778,6 +11783,7 @@ BitsLaboratory
 BitsStudios
 Bitsof
 BitsofMagic
+Bitvania
 Bivolt
 Bivolt Bivolt
 BivoltBivolt
@@ -12999,6 +13005,8 @@ Brigitte
 Brikken
 Brilliant
 Brimstone
+Bring The Rift
+BringTheRift
 Brink
 Brio
 Brios
@@ -13945,6 +13953,7 @@ CARRYLAB
 CARS
 CART CAPERS
 CART PANIC! OS - E-COMMERCE TYCOON
+CARTAGRA
 CARTAIGH
 CARTE
 CARTE DES ANKHEGS
@@ -14382,6 +14391,7 @@ CHAKANA
 CHALET
 CHALLACHAT
 CHALLENGE
+CHALLENGE 99
 CHAMBER X
 CHAMBERLORE
 CHAMBERS
@@ -15955,6 +15965,7 @@ COZY HOME
 COZY ISLAND
 COZY JIGSAW PUZZLES
 COZY JOZY
+COZY MINING
 COZY ORGANIZER
 COZY PAINTINGS
 COZY SPACE SHOOTER
@@ -17673,6 +17684,8 @@ Chakana
 Chalet
 ChallaChat
 Challenge
+Challenge 99
+Challenge99
 Chamberlore
 Chambers
 Chameleon
@@ -19549,6 +19562,7 @@ Cozy Home
 Cozy Island
 Cozy Jigsaw Puzzles
 Cozy Jozy
+Cozy Mining
 Cozy Organizer
 Cozy Paintings
 Cozy Space Shooter
@@ -19564,6 +19578,7 @@ CozyHome
 CozyIsland
 CozyJigsawPuzzles
 CozyJozy
+CozyMining
 CozyOrganizer
 CozyPaintings
 CozySpaceShooter
@@ -20698,6 +20713,7 @@ DARK AGE LEGENDS
 DARK CHAMBERS
 DARK CHRONICLES:REAWAKENING OF EVIL
 DARK CROSS
+DARK DESCENT
 DARK DOMINION
 DARK ENERGY
 DARK EYES - SUPER SOLDIER
@@ -21060,6 +21076,7 @@ DEADLY
 DEADLY DAYS: ROADTRIP
 DEADLY DELIVERY
 DEADLY JOY
+DEADLY OBSESSION
 DEADLY QUIET
 DEADOR
 DEADORALIVE
@@ -21325,6 +21342,7 @@ DELTARUNE SOUNDTRACK
 DELTARUNE Soundtrack
 DELTARUNEGame+Soundtrack
 DELTARUNESoundtrack
+DELUGE
 DELUXE
 DELUXE COSTUME - TAMAKI
 DELVE DIVER
@@ -21354,6 +21372,7 @@ DEMON GOBLIN AND MR. KNIGHT
 DEMON ITSELF
 DEMON LORD: JUST A BLOCK
 DEMON LORD: JUST A BLOCK - SUPPORTER PACK
+DEMON PRINCESS RETREAT
 DEMON QUEST
 DEMON RESEARCHER 2
 DEMON RESIDENT
@@ -21374,6 +21393,7 @@ DEMONFROG
 DEMONFROGDEMONFROG
 DEMONHEART: THE CURSED TRIAL
 DEMONHERD
+DEMONHERD DUNGEON
 DEMONIC KISS
 DEMONIC RENTAL 😈
 DEMONOLITION
@@ -22094,14 +22114,17 @@ DJMAX RESPECT V    O.N.G.E.K.I. PACK
 DJMAX RESPECT V   CLEAR PASS : S18 PREMIUM TICKET
 DJMAX RESPECT V   CLEAR PASS : S19 CLEAR POINT BOOSTER
 DJMAX RESPECT V   CLEAR PASS : S19 PREMIUM TICKET
+DJMAX RESPECT V   V LIBERTY V PACK
 DJMAX RESPECT V -  O.N.G.E.K.I. PACK
 DJMAX RESPECT V - CLEAR PASS : S18 PREMIUM TICKET
 DJMAX RESPECT V - CLEAR PASS : S19 CLEAR POINT BOOSTER
 DJMAX RESPECT V - CLEAR PASS : S19 PREMIUM TICKET
+DJMAX RESPECT V - V LIBERTY V PACK
 DJMAXRESPECTV-CLEARPASS:S18PREMIUMTICKET
 DJMAXRESPECTV-CLEARPASS:S19CLEARPOINTBOOSTER
 DJMAXRESPECTV-CLEARPASS:S19PREMIUMTICKET
 DJMAXRESPECTV-O.N.G.E.K.I.PACK
+DJMAXRESPECTV-VLIBERTYVPACK
 DK
 DK GAMES
 DK Games
@@ -22371,7 +22394,9 @@ DON’T TURN OFF THE LIGHT
 DON’T TURN OFF THE LIGHT DEMO
 DOO
 DOO 'N' DASH
+DOO DOO VILLAGE
 DOODLE WHAT?!
+DOODOOVILLAGE
 DOOM
 DOOM DAWN
 DOOM DRIVE
@@ -23350,6 +23375,7 @@ Dark Age Legends
 Dark Chambers
 Dark Chronicles:Reawakening of Evil
 Dark Cross
+Dark Descent
 Dark Dominion
 Dark Energy
 Dark Eyes   Super Soldier
@@ -23397,6 +23423,7 @@ DarkAgeLegends
 DarkChambers
 DarkChronicles:ReawakeningofEvil
 DarkCross
+DarkDescent
 DarkDominion
 DarkEnergy
 DarkEyes-SuperSoldier
@@ -23759,10 +23786,12 @@ Deadly
 Deadly Days: Roadtrip
 Deadly Delivery
 Deadly Joy
+Deadly Obsession
 Deadly Quiet
 DeadlyDays:Roadtrip
 DeadlyDelivery
 DeadlyJoy
+DeadlyObsession
 DeadlyQuiet
 Deador
 DeadorAlive
@@ -24097,6 +24126,7 @@ Delta4Interactive
 Delta78:ThePassenger
 DeltaDirective
 DeltaQDelta
+Deluge
 Deluxe
 Deluxe Costume   Tamaki
 Deluxe Costume - Tamaki
@@ -24132,6 +24162,7 @@ Demon Itself
 Demon Lord: Just a Block
 Demon Lord: Just a Block   Supporter Pack
 Demon Lord: Just a Block - Supporter Pack
+Demon Princess Retreat
 Demon Quest
 Demon Resident
 Demon Slayer  Kimetsu no Yaiba  The Hinokami Chronicles 2
@@ -24165,6 +24196,7 @@ DemonGoblinandMr.Knight
 DemonItself
 DemonLord:JustaBlock
 DemonLord:JustaBlock-SupporterPack
+DemonPrincessRetreat
 DemonQuest
 DemonResident
 DemonSlayer-KimetsunoYaiba-TheHinokamiChronicles2
@@ -24179,6 +24211,8 @@ Demonbyte
 Demonheart: The Cursed Trial
 Demonheart:TheCursedTrial
 Demonherd
+Demonherd Dungeon
+DemonherdDungeon
 Demonic Kiss
 Demonic Rental >:)
 Demonic Rental 😈
@@ -27771,6 +27805,7 @@ EXO-CALIBRE SOUNDTRACK
 EXOCOLONY: PLANET SURVIVAL
 EXODUS
 EXODUS2
+EXOFINITY CLICKER
 EXOPAL
 EXOR
 EXOR STUDIOS
@@ -27856,6 +27891,7 @@ EYEOFENDER
 EYEOFTHEBEHOLDER
 EYES OF HELLFIRE
 EYES OF RAIN
+EYES OF THE ELDERWOOD
 EYES ON THE EXAM
 EYESONTHEEXAM
 EZ
@@ -29364,6 +29400,8 @@ ExoDigger
 ExoRallyChampionship
 ExoTrain Demo
 ExoTrainDemo
+Exofinity Clicker
+ExofinityClicker
 Exopal
 Exorcism of Montague Manor
 ExorcismofMontagueManor
@@ -29454,8 +29492,10 @@ Eyeof
 EyeofEnder
 EyeoftheBeholder
 EyeoftheErime
+Eyes Of The ElderWood
 Eyes of Hellfire
 Eyes of Rain
+EyesOfTheElderWood
 EyesofHellfire
 EyesofRain
 Ezmobo
@@ -30380,6 +30420,7 @@ FLAMBERGE
 FLAMBERGE FLAMBERGE
 FLAMBERGEFLAMBERGE
 FLAME
+FLAME UP
 FLAMES OF FREEDOM: 1821
 FLAMME
 FLAMME DEVOREUSE
@@ -32448,6 +32489,8 @@ Flamberge
 Flamberge Flamberge
 FlambergeFlamberge
 Flame
+Flame Up
+FlameUp
 Flames of Freedom: 1821
 FlamesofFreedom:1821
 Flamme
@@ -38438,6 +38481,7 @@ HENTAI PARADISE: MILF & FUTA & FURRY & SUCCUBUS
 HENTAI PIRATES SURVIVORS
 HENTAI POLICE TRIO
 HENTAI POP STAR
+HENTAI PUZZLE SIMULATOR: ANIMAL ORGASM 💦🔞[ADULT NSFW]
 HENTAI PUZZLER
 HENTAI SAKI
 HENTAI SAYO
@@ -38447,6 +38491,8 @@ HENTAI SENPAI: FUCK HOTEL ORIGINAL SOUNDTRACK
 HENTAI SENPAI: HARDCORE WHORES
 HENTAI SENPAI: KAIRAKU NO MAID SERVICE ORIGINAL SOUNDTRACK
 HENTAI SENPAI: SEIEKI AKUMA-TACHI ORIGINAL SOUNDTRACK
+HENTAI SENPAI: WAIFU SUMMER 2
+HENTAI SENPAI: WAIFU SUMMER 2 ORIGINAL SOUNDTRACK
 HENTAI SEXY MOM
 HENTAI SEXY NURSE
 HENTAI SHANTI
@@ -39170,6 +39216,7 @@ HOUSE FLIPPER 2 - SAKURA DLC
 HOUSE FLIPPER 2 - SCOOBY-DOO DLC
 HOUSE OF NECROSIS
 HOUSE OF NOWHERE
+HOUSE OF TEMPTATIONS
 HOUSE OF THE DEAD
 HOUSE OF THE DEAD 2
 HOUSE OF THE VIGIL
@@ -39266,6 +39313,7 @@ HUNGRY SHARK
 HUNGRYSHARK
 HUNK BATTLE GEMS
 HUNT
+HUNT AND PECK
 HUNT ZOMBIES TOGETHER
 HUNT: SHOWDOWN 1896 - THE MADNESS OF MONTRESOR
 HUNTA
@@ -39296,6 +39344,7 @@ HUNTER×HUNTERNEN×IMPACT
 HUNTINBUDDIES DEMO
 HUNTING WORLD
 HUNTSMAN
+HUNTSMAN AGAINST DARKNESS
 HURLENFER
 HURLEY THE HYRAX
 HURLORAGE
@@ -40242,6 +40291,8 @@ Hentai Paradise: MILF & FUTA & Furry & Succubus
 Hentai Pirates Survivors
 Hentai Police Trio
 Hentai Pop Star
+Hentai Puzzle Simulator: Animal Orgasm ??[ADULT NSFW]
+Hentai Puzzle Simulator: Animal Orgasm 💦🔞[ADULT NSFW]
 Hentai Puzzler
 Hentai Saki
 Hentai Sayo
@@ -40252,6 +40303,8 @@ Hentai Senpai: Hardcore Whores
 Hentai Senpai: Kairaku no Maid Service Original Soundtrack
 Hentai Senpai: Seieki Akuma Tachi Original Soundtrack
 Hentai Senpai: Seieki Akuma-Tachi Original Soundtrack
+Hentai Senpai: Waifu Summer 2
+Hentai Senpai: Waifu Summer 2 Original Soundtrack
 Hentai Sexy Mom
 Hentai Sexy Nurse
 Hentai Shanti
@@ -40385,6 +40438,7 @@ HentaiParadise:MILF&FUTA&Furry&Succubus
 HentaiPiratesSurvivors
 HentaiPoliceTrio
 HentaiPopStar
+HentaiPuzzleSimulator:AnimalOrgasm💦🔞[ADULTNSFW]
 HentaiPuzzler
 HentaiSaki
 HentaiSayo
@@ -40394,6 +40448,8 @@ HentaiSenpai:FuckHotelOriginalSoundtrack
 HentaiSenpai:HardcoreWhores
 HentaiSenpai:KairakunoMaidServiceOriginalSoundtrack
 HentaiSenpai:SeiekiAkuma-TachiOriginalSoundtrack
+HentaiSenpai:WaifuSummer2
+HentaiSenpai:WaifuSummer2OriginalSoundtrack
 HentaiSexyMom
 HentaiSexyNurse
 HentaiShanti
@@ -41241,6 +41297,7 @@ House Party
 House Party   Nocturnal Temptations Expansion Pack
 House Party - Nocturnal Temptations Expansion Pack
 House of Necrosis
+House of Temptations
 House of the Dead
 House of the Dead 2
 House of the Vigil
@@ -41253,6 +41310,7 @@ HouseParty
 HouseParty-NocturnalTemptationsExpansionPack
 Housemarque
 HouseofNecrosis
+HouseofTemptations
 HouseoftheDead
 HouseoftheDead2
 HouseoftheDeadThe
@@ -41382,10 +41440,12 @@ HungryforApplez
 Hunk Battle Gems
 HunkBattleGems
 Hunt
+Hunt And Peck
 Hunt Zombies Together
 Hunt: Showdown 1896   The Madness of Montresor
 Hunt: Showdown 1896 - The Madness of Montresor
 Hunt:Showdown1896-TheMadnessofMontresor
+HuntAndPeck
 HuntZombiesTogether
 Hunta
 Hunta Hunta
@@ -41435,6 +41495,8 @@ HuntinBuddiesDemo
 Hunting World
 HuntingWorld
 Huntsman
+Huntsman Against Darkness
+HuntsmanAgainstDarkness
 Hurlenfer
 Hurley The Hyrax
 HurleyTheHyrax
@@ -49715,6 +49777,7 @@ LORAN
 LORD
 LORD AMBERMAZE
 LORD AND MAIDEN
+LORD OF THE TROUGH
 LORD TRY
 LORDS
 LORDS OF MIDNIGHT
@@ -51838,9 +51901,11 @@ Lorain
 Loran
 Lord
 Lord Ambermaze
+Lord Of The Trough
 Lord TRY
 Lord and Maiden
 LordAmbermaze
+LordOfTheTrough
 LordTRY
 LordandMaiden
 Lords
@@ -52772,6 +52837,7 @@ MALL HEIST
 MALL RIVALS DEMO
 MALL RYDERS
 MALL SIMULATOR
+MALL SIMULATOR TOGETHER
 MALLORIE
 MALLORIE BARDAS-BELLIC
 MALLORIE BARDASBELLIC
@@ -52819,6 +52885,7 @@ MANCHESTER'S CRIMES: THE BEGINNINGS
 MANDARIN
 MANDARIN SOFTWARE
 MANDARINSOFTWARE
+MANDATE OF GALACTIC EMPIRES DEMO
 MANDATE OF HEAVEN
 MANDATORY FUN
 MANDELCRAFT
@@ -54845,6 +54912,7 @@ MONSTER HOOKUPS
 MONSTER HUNTER
 MONSTER HUNTER RISE + SUNBREAK
 MONSTER HUNTER STORIES 3: TWISTED REFLECTION
+MONSTER HUNTER STORIES 3: TWISTED REFLECTION - ADDITIONAL SIDE STORY: RUDY
 MONSTER HUNTER WILDS
 MONSTER HUNTER WILDS - CHARACTER & PALICO EDIT VOUCHER: SINGLE VOUCHER (FREE GIFT VERSION 2)
 MONSTER HUNTER: WORLD
@@ -56046,10 +56114,12 @@ Mall Heist
 Mall Rivals Demo
 Mall Ryders
 Mall Simulator
+Mall Simulator Together
 MallHeist
 MallRivalsDemo
 MallRyders
 MallSimulator
+MallSimulatorTogether
 Mallorie
 Mallorie Bardas-Bellic
 Mallorie BardasBellic
@@ -56112,7 +56182,9 @@ Mandarin
 Mandarin Software
 MandarinSoftware
 Mandate Of Heaven
+Mandate of Galactic Empires Demo
 MandateOfHeaven
+MandateofGalacticEmpiresDemo
 Mandatory Fun
 MandatoryFun
 MandelCraft
@@ -58314,6 +58386,8 @@ Monster Hookups
 Monster Hunter
 Monster Hunter Rise + Sunbreak
 Monster Hunter Stories 3: Twisted Reflection
+Monster Hunter Stories 3: Twisted Reflection   Additional Side Story: Rudy
+Monster Hunter Stories 3: Twisted Reflection - Additional Side Story: Rudy
 Monster Hunter Wilds
 Monster Hunter Wilds   Character & Palico Edit Voucher: Single Voucher (Free Gift Version 2)
 Monster Hunter Wilds - Character   Palico Edit Voucher: Single Voucher  Free Gift Version 2 
@@ -58357,6 +58431,7 @@ MonsterHunter
 MonsterHunter:World
 MonsterHunterRise+Sunbreak
 MonsterHunterStories3:TwistedReflection
+MonsterHunterStories3:TwistedReflection-AdditionalSideStory:Rudy
 MonsterHunterWilds
 MonsterHunterWilds-Character&PalicoEditVoucher:SingleVoucher(FreeGiftVersion2)
 MonsterKing
@@ -59439,6 +59514,7 @@ NANCYMI847J
 NANITE'S REVELRY
 NANJO
 NANNING
+NANO CODE:X
 NANO FLAT OWNER
 NANOMON VIRTUAL PET
 NAOE
@@ -60822,7 +60898,9 @@ Nanite's Revelry
 Nanite'sRevelry
 Nanjo
 Nanning
+Nano CODE:X
 Nano Flat Owner
+NanoCODE:X
 NanoFlatOwner
 Nanomon Virtual Pet
 NanomonVirtualPet
@@ -65775,6 +65853,7 @@ PINGCHEN
 PINGLISSE
 PINGORILE
 PINGOUIN
+PINGUINO DEMO
 PINK
 PINK BANNER
 PINK BED
@@ -66859,6 +66938,7 @@ PROJECT UNKNOWN
 PROJECT WARLOCK
 PROJECT WARLOCK II
 PROJECT X
+PROJECT XZ
 PROJECT ZERO
 PROJECT ZOMBOID
 PROJECT: GORGON
@@ -67104,6 +67184,7 @@ PUP CHAMPS
 PUPA
 PUPA PUPA
 PUPAPUPA
+PUPILLARY
 PUPPET TEAM
 PUPPIES
 PUPPLE POP
@@ -68486,6 +68567,8 @@ PingChen
 Pinglisse
 Pingorile
 Pingouin
+Pinguino Demo
+PinguinoDemo
 Pink
 Pink Banner
 Pink Bed
@@ -69780,6 +69863,7 @@ Project Unknown
 Project Warlock
 Project Warlock II
 Project X
+Project XZ
 Project Zero
 Project Zomboid
 Project: Gorgon
@@ -69830,6 +69914,7 @@ ProjectUnknown
 ProjectWarlock
 ProjectWarlockII
 ProjectX
+ProjectXZ
 ProjectZero
 ProjectZomboid
 Projekt
@@ -71453,6 +71538,7 @@ REMEMBER
 REMEMBER ME
 REMEMBERING EMILY
 REMI
+REMINAL
 REMINISCENCE
 REMINISCENCE OF GUSUKU: CARD AND EXPLORE
 REMNANTS OF THE RIFT
@@ -71462,6 +71548,7 @@ REMOTE MINER CO.
 REMOTE POSITION
 REMOVE VIRUS
 REMY
+REMinal
 REN'AI 0 KILOMETER
 RENARD
 RENATA
@@ -76504,10 +76591,13 @@ SILENT HILL 2 & SILENT HILL F STANDARD DUAL PACK
 SILENT HILL 2 & SILENT HILL f Deluxe Dual Pack
 SILENT HILL 2 & SILENT HILL f Standard Dual Pack
 SILENT HILL F
+SILENT HILL F - CRIMSON BUTTERFLY COSTUME
 SILENT HILL F - DIGITAL DELUXE UPGRADE
 SILENT HILL SHATTERED MEMORIES
 SILENT HILL f
+SILENT HILL f   Crimson Butterfly Costume
 SILENT HILL f   Digital Deluxe Upgrade
+SILENT HILL f - Crimson Butterfly Costume
 SILENT HILL f - Digital Deluxe Upgrade
 SILENT HOME
 SILENT HOWL
@@ -76530,6 +76620,7 @@ SILENTHILL2&SILENTHILLfDeluxeDualPack
 SILENTHILL2&SILENTHILLfStandardDualPack
 SILENTHILLSHATTEREDMEMORIES
 SILENTHILLf
+SILENTHILLf-CrimsonButterflyCostume
 SILENTHILLf-DigitalDeluxeUpgrade
 SILENTHUNTER
 SILENTSCOPE
@@ -78266,6 +78357,7 @@ STARTREK
 STARTUP COMPANY
 STARTUP FRAMES
 STARTUPFRAMES
+STARVAULT
 STARWARS
 STARWARS:KNIGHTSOFOLDREPUBLIC
 STARWARS:KNIGHTSOFTHEOLDREPUBLIC
@@ -78344,11 +78436,13 @@ STEEL KNIGHT'S ARMIS
 STEEL MONKEYS
 STEEL PANTHERS
 STEEL SEED
+STEEL SERAPHIM: PROVING GROUNDS
 STEEL SHADOWS ARENA
 STEEL SWARM: APOCALYPSE
 STEELMONKEYS
 STEELPANTHERS
 STEELRISING
+STEELSERAPHIM:PROVINGGROUNDS
 STEELSILK CHAMPIONSHIP
 STEFAON
 STEINER
@@ -85698,6 +85792,7 @@ TERRA
 TERRA BRANFORD
 TERRA FIRMA 2 DEMO
 TERRA INVICTA
+TERRA LAPSA: AFTER RAGNARÖK
 TERRA NOVA
 TERRA PIT
 TERRA REQUEST
@@ -85907,6 +86002,7 @@ THE BIGGLEBOSS INCIDENT DEMO
 THE BINARY
 THE BINARY MILL
 THE BINDING HOUR
+THE BINDING OF ISAAC: REBIRTH COMPLETE BUNDLE
 THE BIRTH CRY SOUNDTRACK
 THE BITMAP
 THE BITMAP BROTHERS
@@ -85992,6 +86088,7 @@ THE CURSE OF NORDIC COVE
 THE CURSE WE MADE
 THE CURSED GRAVE
 THE CURSED HOTEL
+THE CURSED WARD
 THE DA VINCI CRYPTEX 4
 THE DAGBY FILES
 THE DAILY LIFE OF SERVING DOLL
@@ -87282,6 +87379,7 @@ TINY PIXELS VOL. 2 - STORMY KNIGHTS
 TINY RACING
 TINY SHADOWS INTERWOVEN HEARTS
 TINY SPACE PIRATE
+TINY TERRA SPACES
 TINY TIGER
 TINY TOON ADVENTURES
 TINY TOON ADVENTURES: ACME ALL-STARS
@@ -87865,6 +87963,7 @@ TRAIN SIMULATOR
 TRAIN VALLEY ORIGINS
 TRAIN WRECK
 TRAIN YOUR SLAYER
+TRAIN45
 TRAINATIC
 TRAINER
 TRAINSIMULATOR
@@ -89245,12 +89344,15 @@ Terra
 Terra Branford
 Terra Firma 2 Demo
 Terra Invicta
+Terra Lapsa: After Ragnarok
+Terra Lapsa: After Ragnarök
 Terra Nova
 Terra Pit
 Terra Request
 TerraBranford
 TerraFirma2Demo
 TerraInvicta
+TerraLapsa:AfterRagnarök
 TerraNova
 TerraPit
 TerraRequest
@@ -89493,6 +89595,7 @@ The Biggleboss Incident Demo
 The Binary
 The Binary Mill
 The Binding Hour
+The Binding of Isaac: Rebirth Complete Bundle
 The Birth Cry Soundtrack
 The Bitmap
 The Bitmap Brothers
@@ -89583,6 +89686,7 @@ The Curse We Made
 The Curse of Nordic Cove
 The Cursed Grave
 The Cursed Hotel
+The Cursed Ward
 The Da Vinci Cryptex 4
 The Dagby Files
 The Daily Life of Serving Doll
@@ -90362,6 +90466,7 @@ TheBigglebossIncidentDemo
 TheBinary
 TheBinaryMill
 TheBindingHour
+TheBindingofIsaac:RebirthCompleteBundle
 TheBirthCrySoundtrack
 TheBitmap
 TheBitmapBrothers
@@ -90447,6 +90552,7 @@ TheCure
 TheCurseWeMade
 TheCursedGrave
 TheCursedHotel
+TheCursedWard
 TheCurseofNordicCove
 TheDaVinciCryptex4
 TheDagbyFiles
@@ -91548,6 +91654,7 @@ Tiny Pixels Vol. 2   Stormy Knights
 Tiny Pixels Vol. 2 - Stormy Knights
 Tiny Racing
 Tiny Shadows Interwoven Hearts
+Tiny Terra Spaces
 Tiny Tiger
 Tiny Toon Adventures
 Tiny Toon Adventures: ACME All-Stars
@@ -91578,6 +91685,7 @@ TinyPaws
 TinyPixelsVol.2-StormyKnights
 TinyRacing
 TinyShadowsInterwovenHearts
+TinyTerraSpaces
 TinyTiger
 TinyToonAdventures
 TinyToonAdventures:ACMEAll-Stars
@@ -92281,6 +92389,7 @@ Train Simulator
 Train Valley Origins
 Train Wreck
 Train your slayer
+Train45
 TrainDriver2
 TrainGoesRightDemo
 TrainMolesterBig-TittyUndercoverAgent~HotandSexyPrey~
@@ -94107,6 +94216,7 @@ VEKTOR
 VEKTOR GRAFIX
 VEKTORGRAFIX
 VELASTER
+VELATO
 VELEN
 VELESSCARY
 VELEZ
@@ -100179,6 +100289,7 @@ a link to past
 a link to the past
 a little perspective
 a little physics roguelike
+a lost man
 a love like broken glass
 a lucky hunt with : lyra
 a maiden's serenade
@@ -103958,6 +104069,7 @@ bitsof
 bitsofmagic
 bitsstudios
 bittrip
+bitvania
 bivolt
 bivolt bivolt
 bivoltbivolt
@@ -104964,6 +105076,7 @@ brigitte
 brikken
 brilliant
 brimstone
+bring the rift
 brink
 brio
 brio world - railway demo
@@ -105816,6 +105929,7 @@ carrylab
 cars
 cart capers
 cart panic! os - e-commerce tycoon
+cartagra
 cartaigh
 carte
 carte des ankhegs
@@ -106208,6 +106322,7 @@ chakana
 chalet
 challachat
 challenge
+challenge 99
 chamber x
 chamberlore
 chambers
@@ -107752,6 +107867,7 @@ cozy home
 cozy island
 cozy jigsaw puzzles
 cozy jozy
+cozy mining
 cozy organizer
 cozy paintings
 cozy space shooter
@@ -108721,6 +108837,7 @@ dark age legends
 dark chambers
 dark chronicles:reawakening of evil
 dark cross
+dark descent
 dark dominion
 dark energy
 dark eyes - super soldier
@@ -109051,6 +109168,7 @@ deadly
 deadly days: roadtrip
 deadly delivery
 deadly joy
+deadly obsession
 deadly quiet
 deador
 deadoralive
@@ -109303,6 +109421,7 @@ deltaqdelta
 deltarune
 deltarune game + soundtrack
 deltarune soundtrack
+deluge
 deluxe
 deluxe costume - tamaki
 delve diver
@@ -109332,6 +109451,7 @@ demon goblin and mr. knight
 demon itself
 demon lord: just a block
 demon lord: just a block - supporter pack
+demon princess retreat
 demon quest
 demon researcher 2
 demon resident
@@ -109351,6 +109471,7 @@ demonfrog
 demonfrogdemonfrog
 demonheart: the cursed trial
 demonherd
+demonherd dungeon
 demonic kiss
 demonic rental 😈
 demonolition
@@ -110062,6 +110183,7 @@ djmax respect v -  o.n.g.e.k.i. pack
 djmax respect v - clear pass : s18 premium ticket
 djmax respect v - clear pass : s19 clear point booster
 djmax respect v - clear pass : s19 premium ticket
+djmax respect v - v liberty v pack
 dk
 dk games
 dkgames
@@ -110313,6 +110435,7 @@ don’t turn off the light
 don’t turn off the light demo
 doo
 doo 'n' dash
+doo doo village
 doodle what?!
 doom
 doom dawn
@@ -112439,6 +112562,7 @@ exo-calibre soundtrack
 exocolony: planet survival
 exodus
 exodus2
+exofinity clicker
 exopal
 exor
 exor studios
@@ -112524,6 +112648,7 @@ eyeofender
 eyeofthebeholder
 eyes of hellfire
 eyes of rain
+eyes of the elderwood
 eyes on the exam
 ez
 ez soft
@@ -113364,6 +113489,7 @@ flamberge
 flamberge flamberge
 flambergeflamberge
 flame
+flame up
 flames of freedom: 1821
 flamme
 flamme devoreuse
@@ -116948,6 +117074,7 @@ hentai paradise: milf & futa & furry & succubus
 hentai pirates survivors
 hentai police trio
 hentai pop star
+hentai puzzle simulator: animal orgasm 💦🔞[adult nsfw]
 hentai puzzler
 hentai saki
 hentai sayo
@@ -116957,6 +117084,8 @@ hentai senpai: fuck hotel original soundtrack
 hentai senpai: hardcore whores
 hentai senpai: kairaku no maid service original soundtrack
 hentai senpai: seieki akuma-tachi original soundtrack
+hentai senpai: waifu summer 2
+hentai senpai: waifu summer 2 original soundtrack
 hentai sexy mom
 hentai sexy nurse
 hentai shanti
@@ -117642,6 +117771,7 @@ house flipper 2 - sakura dlc
 house flipper 2 - scooby-doo dlc
 house of necrosis
 house of nowhere
+house of temptations
 house of the dead
 house of the dead 2
 house of the vigil
@@ -117738,6 +117868,7 @@ hungry shark
 hungryshark
 hunk battle gems
 hunt
+hunt and peck
 hunt zombies together
 hunt: showdown 1896 - the madness of montresor
 hunta
@@ -117766,6 +117897,7 @@ hunter×hunter nen×impact
 huntinbuddies demo
 hunting world
 huntsman
+huntsman against darkness
 hurlenfer
 hurley the hyrax
 hurlorage
@@ -122548,6 +122680,7 @@ loran
 lord
 lord ambermaze
 lord and maiden
+lord of the trough
 lord try
 lords
 lords of midnight
@@ -123314,6 +123447,7 @@ mall heist
 mall rivals demo
 mall ryders
 mall simulator
+mall simulator together
 mallorie
 mallorie bardas-bellic
 mallorie bardasbellic
@@ -123363,6 +123497,7 @@ manchester's crimes: the beginnings
 mandarin
 mandarin software
 mandarinsoftware
+mandate of galactic empires demo
 mandate of heaven
 mandatory fun
 mandelcraft
@@ -125322,6 +125457,7 @@ monster hookups
 monster hunter
 monster hunter rise + sunbreak
 monster hunter stories 3: twisted reflection
+monster hunter stories 3: twisted reflection - additional side story: rudy
 monster hunter wilds
 monster hunter wilds - character & palico edit voucher: single voucher (free gift version 2)
 monster hunter: world
@@ -126221,6 +126357,7 @@ nancymi847j
 nanite's revelry
 nanjo
 nanning
+nano code:x
 nano flat owner
 nanomon virtual pet
 naoe
@@ -129665,6 +129802,7 @@ pingchen
 pinglisse
 pingorile
 pingouin
+pinguino demo
 pink
 pink banner
 pink bed
@@ -130763,6 +130901,7 @@ project unknown
 project warlock
 project warlock ii
 project x
+project xz
 project zero
 project zomboid
 project: gorgon
@@ -130990,6 +131129,7 @@ pup champs
 pupa
 pupa pupa
 pupapupa
+pupillary
 puppet team
 puppies
 pupple pop
@@ -132053,6 +132193,7 @@ remember
 remember me
 remembering emily
 remi
+reminal
 reminiscence
 reminiscence of gusuku: card and explore
 remnants of the rift
@@ -134699,6 +134840,7 @@ silent hill 2
 silent hill 2 & silent hill f deluxe dual pack
 silent hill 2 & silent hill f standard dual pack
 silent hill f
+silent hill f - crimson butterfly costume
 silent hill f - digital deluxe upgrade
 silent hill shattered memories
 silent home
@@ -136388,6 +136530,7 @@ startrek
 startup company
 startup frames
 startupframes
+starvault
 starwars
 starwars:knightsofoldrepublic
 starwars:knightsoftheoldrepublic
@@ -136457,6 +136600,7 @@ steel knight's armis
 steel monkeys
 steel panthers
 steel seed
+steel seraphim: proving grounds
 steel shadows arena
 steel swarm: apocalypse
 steelmonkeys
@@ -138253,6 +138397,7 @@ terra
 terra branford
 terra firma 2 demo
 terra invicta
+terra lapsa: after ragnarök
 terra nova
 terra pit
 terra request
@@ -138458,6 +138603,7 @@ the biggleboss incident demo
 the binary
 the binary mill
 the binding hour
+the binding of isaac: rebirth complete bundle
 the birth cry soundtrack
 the bitmap
 the bitmap brothers
@@ -138543,6 +138689,7 @@ the curse of nordic cove
 the curse we made
 the cursed grave
 the cursed hotel
+the cursed ward
 the da vinci cryptex 4
 the dagby files
 the daily life of serving doll
@@ -139808,6 +139955,7 @@ tiny pixels vol. 2 - stormy knights
 tiny racing
 tiny shadows interwoven hearts
 tiny space pirate
+tiny terra spaces
 tiny tiger
 tiny toon adventures
 tiny toon adventures: acme all-stars
@@ -140380,6 +140528,7 @@ train simulator
 train valley origins
 train wreck
 train your slayer
+train45
 trainatic
 trainer
 trainsimulator
@@ -141563,6 +141712,7 @@ vektor
 vektor grafix
 vektorgrafix
 velaster
+velato
 velen
 velesscary
 velez
@@ -145007,6 +145157,7 @@ zèbre
 第九人格NinthIdentity
 第九人格ninth identity
 策马守天关
+箱舟キバウ
 米姆米姆哈
 系列作品特卖
 纸上的魔法使
