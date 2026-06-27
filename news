@@ -495,6 +495,7 @@
 24H NÜRBURGRING
 24H SPA 2021
 24H SPA 2025
+24H SPA 2026
 24H SPA-FRANCORCHAMPS
 24H Spa-Francorchamps
 24H SpaFrancorchamps
@@ -535,6 +536,7 @@
 24h nürburgring
 24h spa 2021
 24h spa 2025
+24h spa 2026
 24h spa-francorchamps
 24h zolder
 24hNürburgring
@@ -546,6 +548,7 @@
 24hdumans2025
 24hnurburgring2025
 24hspa2025
+24hspa2026
 24hzolder
 24urenloopLeuven
 24uurlive
@@ -1110,6 +1113,7 @@ ACCIDENT
 ACCIDENT A1
 ACCIDENT A13 GENDARME TUÉ
 ACCIDENT A16
+ACCIDENT A28
 ACCIDENT A31 METZ
 ACCIDENT A47
 ACCIDENT A7
@@ -8615,6 +8619,7 @@ BAGCorona
 BAGNAIA
 BAGNOLS-SUR CEZE
 BAGQuarantäne
+BAHNHOF
 BAHNHOF AARAU SBB
 BAHNHOF BASEL SBB
 BAHNHOF LUZERN
@@ -16852,6 +16857,7 @@ COUPE DE FRANCE FÉMININE
 COUPE DE FRANCE RÉSULTATS
 COUPE DE SUISSE
 COUPE DU MONDE
+COUPE DU MONDE 16EME DE FINALE
 COUPE DU MONDE 2022
 COUPE DU MONDE 2030
 COUPE DU MONDE BASKET
@@ -25923,6 +25929,7 @@ ERREUR ADMINISTRATIVE
 ERROL MUSK
 ERSILIA SOUDAIS
 ERTAN WITTWER
+ERTRINKEN
 ERUPTION VOLCAN BALI
 ERUPTION VOLCAN INDONESIE
 ERWACHSENER
@@ -28767,6 +28774,7 @@ FACELAND
 FACHKRÄFTEMANGEL
 FACINET CONTE
 FACTCHECKERS
+FACTEUR
 FACTS
 FACTURE
 FACUNDO DÍAZ ACOSTA
@@ -29210,6 +29218,7 @@ FCZürich–bodø/glimt
 FCservette
 FCzurich
 FDJ
+FDJ UNITED
 FDP
 FEAR STREET
 FEARSTREET
@@ -29445,6 +29454,7 @@ FEU DE LA SAINT-JEAN
 FEU JURA
 FEU TUNNEL DU VUACHE
 FEUERLAUF
+FEUERWEHR
 FEUERWEHR HERISAU
 FEUERWERK
 FEUERWERK 1. AUGUST
@@ -30094,6 +30104,7 @@ FRANCE ETATS-UNIS JO
 FRANCE EUROVISION 2024
 FRANCE FIDJI
 FRANCE FIDJI RUGBY
+FRANCE FIDJI U20
 FRANCE FINLANDE
 FRANCE FOOT
 FRANCE GALL
@@ -33284,6 +33295,7 @@ GARMIN FENIX 7
 GARMIN STRAVA
 GARMISCH-PARTENKIRCHEN
 GARNACHO
+GAROROCK
 GAROROCK 2026
 GAROU
 GARRIDO
@@ -33811,6 +33823,7 @@ GIOVANNI SIMEONE
 GIOVANNI TOTI
 GIOVANNI ZARRELLA
 GIOVANNI ZARRELLA SHOW
+GIRAFFEN
 GIRL
 GIRMAY
 GIRO
@@ -45894,6 +45907,7 @@ KINDER
 KINDER CHRISTINA BLOCK
 KINDER RAPPEL
 KINDERARTS VELDEGEM
+KINDERDAGVERBLIJF
 KINDERFASNACHT BASEL 2026
 KINDERFEST
 KINDERFEST HERISAU
@@ -46210,6 +46224,7 @@ KREUZFAHRTSCHIFF STURM
 KREUZLINGEN
 KREUZOTTER
 KRIECHMAYR CRANS MONTANA
+KRIEG
 KRIEG USA IRAN
 KRIM
 KRIM-BRÜCKE
@@ -54098,6 +54113,7 @@ MAJDAL SHAMS
 MAJE
 MAJECKI
 MAJOR LAZER
+MAJOR PARIS COD
 MAJORANA 1
 MAJORQUE
 MAJORQUE - ATLETICO MADRID
@@ -71494,6 +71510,7 @@ Q MUSIC
 Q-POP
 Q-Pop
 QANON
+QANTAS
 QARABAG
 QARABAĞ GEGEN LEVERKUSEN
 QATAR
@@ -76798,6 +76815,7 @@ SCHAUSPIELER FRITZ WEPPER
 SCHAUSPIELERIN ANNE HECHE
 SCHAUSPIELERIN RUTH MARIA KUBITSCHEK
 SCHAWINSKI
+SCHEENDIJK
 SCHEIDUNG ASMA AL-ASSAD
 SCHELDEPRIJS
 SCHELDEPRIJS 2022
@@ -78399,6 +78417,7 @@ ST. ETIENNE
 ST. GALLEN
 ST. GALLEN - FC THUN
 ST. GALLEN - FCB
+ST. GALLEN - SCR ALTACH
 ST. GALLEN GEGEN LUZERN
 ST. GALLEN GEGEN SERVETTE
 ST. GALLEN – FC THUN
@@ -78406,6 +78425,7 @@ ST. GALLEN – FCB
 ST. GALLEN – FIORENTINA
 ST. GALLEN – GRASSHOPPERS
 ST. GALLEN – LAUSANNE-SPORT
+ST. GALLEN – SCR ALTACH
 ST. GALLEN – SERVETTE
 ST. GALLEN – SION
 ST. JOHANN
@@ -94482,6 +94502,7 @@ ZURCHER KANTONALSCHWINGFEST
 ZURCHER LANDBANK ELGG
 ZURCHER SILVESTERLAUF
 ZURICH
+ZURICH - FC SCHAFFHAUSEN
 ZURICH AIRPORT
 ZURICH AKTIE
 ZURICH OPENAIR
@@ -94935,6 +94956,7 @@ ZÜRICH STURM
 ZÜRICH TEUERSTE STADT
 ZÜRICH WETTER
 ZÜRICH ZOO
+ZÜRICH – FC SCHAFFHAUSEN
 ZÜRICH – SERVETTE
 ZÜRICH – ST. GALLEN
 ZÜRICH-MARATHON
@@ -95251,6 +95273,7 @@ accident
 accident a1
 accident a13 gendarme tué
 accident a16
+accident a28
 accident a31 metz
 accident a47
 accident a7
@@ -95361,6 +95384,7 @@ accident télésièges espagne
 accident villeneuve-d'ascq
 accident voiture beez
 accident voiture sofian kiyine
+accidenta28
 accidenta31metz
 accidenta8
 accidenta87
@@ -99175,6 +99199,7 @@ bag quarantäne
 bagayoko
 bagnaia
 bagnols-sur ceze
+bahnhof
 bahnhof aarau sbb
 bahnhof basel sbb
 bahnhof luzern
@@ -105009,6 +105034,7 @@ coupe de france féminine
 coupe de france résultats
 coupe de suisse
 coupe du monde
+coupe du monde 16eme de finale
 coupe du monde 2022
 coupe du monde 2030
 coupe du monde basket
@@ -105036,6 +105062,7 @@ coupedavis
 coupedefrancefeminine
 coupedefranceféminine
 coupedumonde
+coupedumonde16emedefinale
 coupedumondebeachsoccer2025
 coupedumondedefootball
 coupedumondedesclubsfifa
@@ -108883,6 +108910,7 @@ errol musk
 ersilia soudais
 ertan wittwer
 ertanwittwer
+ertrinken
 eruption volcan bali
 eruption volcan indonesie
 eruptionvolcanindonesie
@@ -109718,6 +109746,7 @@ faceland
 fachkräftemangel
 facinet conte
 factcheckers
+facteur
 facts
 facture
 facundo díaz acosta
@@ -110033,6 +110062,8 @@ fcz basel
 fcz frauen
 fcz-frauen
 fdj
+fdj united
+fdjunited
 fdp
 fear street
 fearstreet
@@ -110326,6 +110357,7 @@ feud'artifice21juillet2025
 feud'artificelyon14juillet2025
 feud'artificenouvelan2026
 feuerlauf
+feuerwehr
 feuerwehr herisau
 feuerwehrherisau
 feuerwerk
@@ -111090,6 +111122,7 @@ france etats-unis jo
 france eurovision 2024
 france fidji
 france fidji rugby
+france fidji u20
 france finlande
 france foot
 france gall
@@ -111238,6 +111271,7 @@ francebresil
 franceespagne
 francefidji
 francefidjirugby
+francefidjiu20
 francefoot
 francegall
 francegeorgiebasket
@@ -112095,6 +112129,7 @@ garmin strava
 garminstrava
 garmisch-partenkirchen
 garnacho
+garorock
 garorock 2026
 garorock2026
 garou
@@ -112738,6 +112773,7 @@ giovannifranzonifreundin
 giovannimpetshiperricard
 giovannisimeone
 giovannizarrellashow
+giraffen
 girl
 girmay
 giro
@@ -119093,6 +119129,7 @@ kinder christina block
 kinder rappel
 kinderarts veldegem
 kinderchristinablock
+kinderdagverblijf
 kinderfasnacht basel 2026
 kinderfasnachtbasel2026
 kinderfest
@@ -119482,6 +119519,7 @@ kreuzlingen
 kreuzotter
 kriechmayr crans montana
 kriechmayrcransmontana
+krieg
 krieg usa iran
 kriegusairan
 krim
@@ -123178,7 +123216,9 @@ majdal shams
 maje
 majecki
 major lazer
+major paris cod
 majorana 1
+majorpariscod
 majorque
 majorque - atletico madrid
 majorque - rayo
@@ -131941,6 +131981,7 @@ q beach house
 q music
 q-pop
 qanon
+qantas
 qarabag
 qarabağ gegen leverkusen
 qatar
@@ -135105,6 +135146,7 @@ schauspieler fritz wepper
 schauspielerin anne heche
 schauspielerin ruth maria kubitschek
 schawinski
+scheendijk
 scheidung asma al-assad
 scheldeprijs
 scheldeprijs 2022
@@ -136997,6 +137039,7 @@ st. etienne
 st. gallen
 st. gallen - fc thun
 st. gallen - fcb
+st. gallen - scr altach
 st. gallen gegen luzern
 st. gallen gegen servette
 st. gallen – fc thun
@@ -137005,6 +137048,7 @@ st. gallen – fiorentina
 st. gallen – grasshoppers
 st. gallen – lausanne-sport
 st. gallen – lausannesport
+st. gallen – scr altach
 st. gallen – servette
 st. gallen – sion
 st. johann
@@ -137036,9 +137080,11 @@ st.gallen – winterthur
 st.gallen – śląsk wrocław
 st.gallen-fcb
 st.gallen-fcthun
+st.gallen-scraltach
 st.gallen–fcb
 st.gallen–fcthun
 st.gallen–lausanne-sport
+st.gallen–scraltach
 st.gallen–servette
 st.mirren-glasgowrangers
 st.mirren-rangers
@@ -144427,11 +144473,13 @@ zurcherkantonalschwingfest
 zurcherlandbankelgg
 zurchersilvesterlauf
 zurich
+zurich - fc schaffhausen
 zurich airport
 zurich aktie
 zurich openair
 zurich street parade
 zurich versicherung
+zurich-fcschaffhausen
 zurich-flughafen
 zurichaktie
 zurichflughafen
@@ -144513,6 +144561,7 @@ zürich sturm
 zürich teuerste stadt
 zürich wetter
 zürich zoo
+zürich – fc schaffhausen
 zürich – servette
 zürich – st. gallen
 zürich-marathon
@@ -144520,6 +144569,7 @@ zürichmarathon
 zürichopenair
 zürichsee fähre
 zürichseefähre
+zürich–fcschaffhausen
 zürich–servette
 ÁLEX MÁRQUEZ
 ÄGERISEE
