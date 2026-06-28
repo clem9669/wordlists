@@ -4127,6 +4127,7 @@ AVION ALASKA AIRLINES
 AVION AMELIA EARHART
 AVION ANKARA
 AVION CARGO MILITAIRE TURC
+AVION CIVIL
 AVION DE CHASSE ESPAGNE
 AVION DISPARU NÉPAL
 AVION EASYJET LAC LEMAN
@@ -16597,6 +16598,8 @@ CONCORD
 CONCORD GAME
 CONCOURS EUROVISION DE LA CHANSON 2026
 CONCOURS REINE ELISABETH
+CONDAMNE
+CONDAMNÉ
 CONDAT
 CONDUCTEUR DE TRAIN SNCB VIRE
 CONDUCTEUR DE TRAIN SNCB VIRÉ
@@ -21623,6 +21626,7 @@ DETELEGRAAF
 DETROIT
 DETROIT D'ORMUZ
 DETROIT LIONS
+DETTE
 DETTE PUBLIQUE DE LA GRECE
 DETTE PUBLIQUE DE LA GRÈCE
 DEUIL NATIONAL
@@ -25083,6 +25087,8 @@ EID AL FITR 2023
 EID AL-ADHA
 EID EL-FITR 2023
 EID MUBARAK
+EIDGENOSSISCHES JODLERFEST
+EIDGENÖSSISCHES JODLERFEST
 EIDGENÖSSISCHES SCHWINGFEST
 EIFEL
 EIFFEL
@@ -29531,6 +29537,7 @@ FIFA FUSSBALL-WELTMEISTERSCHAFT 2026™
 FIFA THE BEST 2023
 FIFA The Best 2023
 FIFA WORLD CUP 2026
+FIFA WORLD CUP 2026 BRACKET
 FIFA WORLD CUP 2026 STANDINGS
 FIFA YOUTH CUP
 FIFA-MUSEUM
@@ -37346,6 +37353,7 @@ HELENE PARISOT
 HELENE ROLLES
 HELENE SEGARA
 HELGE SCHNEIDER
+HELICOPTERE
 HELICOPTERE GENEVE
 HELIKOPTER ABSTURZ NEW YORK
 HELIKOPTERABSTURZ KANADA
@@ -39050,6 +39058,7 @@ HÄGENDORF: MANN ZÜNDET SICH AN
 HÄRKINGEN
 HÄTZINGEN
 HÈLÈNE SÈGARA
+HÉLICOPTÈRE
 HÉLICOPTÈRE ALLEMAND
 HÉLÈNE GRÉMILLON
 HÉLÈNE ROLLÈS
@@ -39755,6 +39764,7 @@ IRANISCHE RAKETEN
 IREEN SHEER
 IREEN WUST
 IRELAND VS ENGLAND
+IRELAND VS INDIA
 IRENE CADURISCH
 IRENE CARA
 IRENE CARA OVERLEDEN
@@ -54112,6 +54122,7 @@ MAJA RINIKER
 MAJDAL SHAMS
 MAJE
 MAJECKI
+MAJOR COD
 MAJOR LAZER
 MAJOR PARIS COD
 MAJORANA 1
@@ -61828,6 +61839,7 @@ NAMUR
 NAMUR ALERTE BOMBE
 NAMUR EN MAI
 NANA MOUSKOURI
+NANCY
 NANCY FAESER
 NANCY FRANGIONE
 NANCY PELOSI
@@ -62821,6 +62833,7 @@ NOTRE-DAME BRULE
 NOTRE-DAME DE PARIS
 NOTRUFNUMMERN SCHWEIZ
 NOTRUFNUMMERNSCHWEIZ
+NOTTE
 NOTTINGHAM
 NOTTINGHAM - ASTON VILLA
 NOTTINGHAM - CHELSEA
@@ -72031,6 +72044,7 @@ RATPgreve
 RATZINGER
 RAUB LOUVRE PARIS
 RAUHNÄCHTE 2021
+RAUL FERNANDEZ
 RAUMSONDE KOSMOS 482 ABSTURZ
 RAUMSTATION ISS
 RAVANUSA
@@ -76565,6 +76579,7 @@ SANDRINE QUÉTIER
 SANDRINE ROUSSEAU
 SANDRINE ROUSSEAU ESPAGNE
 SANDRINE ROUSSEAU IRANIENNES
+SANDRINE TAS
 SANDRINE TREINER
 SANDRO BROTZ
 SANDRO ZURBRUGG
@@ -78185,6 +78200,7 @@ SPECTRE
 SPEED
 SPEED PEDELEC
 SPEEDPEDELEC
+SPEELSCHEMA FIFA WK 2026
 SPEISEKARTEN-ANGST
 SPELLETJES
 SPENCER
@@ -83652,6 +83668,8 @@ T1
 TABAC
 TABELLE DER FIFA FUssBALL-WM 2026
 TABELLE DER FIFA FUßBALL-WM 2026
+TABELLONE MONDIALI FIFA 2026
+TABLEAU DE LA PHASE FINALE DE LA COUPE DU MONDE DE LA FIFA 2026
 TABLEAU DES MEDAILLES
 TABLEAU DES MEDAILLES JO 2024
 TABLEAU DES MEDAILLES JO 2026
@@ -85484,6 +85502,8 @@ TURKIYE
 TURKMENISTAN
 TURNEN OLYMPISCHE SPELEN
 TURNHOUT
+TURNIERBAUM DER FIFA FUssBALL-WM 2026
+TURNIERBAUM DER FIFA FUßBALL-WM 2026
 TURNIERBAUM EM 2024
 TURNING RED
 TURQUIE
@@ -98971,6 +98991,7 @@ avion alaska airlines
 avion amelia earhart
 avion ankara
 avion cargo militaire turc
+avion civil
 avion de chasse espagne
 avion disparu népal
 avion easyjet lac leman
@@ -98982,6 +99003,7 @@ avion ryanair
 avion vatry
 avionankara
 avioncargomilitaireturc
+avioncivil
 aviondechasseespagne
 avionmilitaire
 avionravitailleuramericain
@@ -104724,6 +104746,8 @@ concord game
 concours eurovision de la chanson 2026
 concours reine elisabeth
 concourseurovisiondelachanson2026
+condamne
+condamné
 condat
 conducteur de train sncb vire
 conducteur de train sncb viré
@@ -106568,6 +106592,7 @@ detroit d'ormuz
 detroit dormuz
 detroit lions
 detroitd'ormuz
+dette
 dette publique de la grece
 dette publique de la grèce
 dettepubliquedelagrece
@@ -107893,7 +107918,11 @@ eid al fitr 2023
 eid al-adha
 eid el-fitr 2023
 eid mubarak
+eidgenossisches jodlerfest
+eidgenossischesjodlerfest
+eidgenössisches jodlerfest
 eidgenössisches schwingfest
+eidgenössischesjodlerfest
 eidmubarak
 eifel
 eiffel
@@ -109397,6 +109426,7 @@ eva-jane
 evadebleeker
 evaelle
 evaelle harcèlement
+evagreen
 evalongoria
 evalys
 evamendes
@@ -110440,6 +110470,7 @@ fifa fussballweltmeisterschaft 2026(TM)
 fifa fussballweltmeisterschaft 2026™
 fifa the best 2023
 fifa world cup 2026
+fifa world cup 2026 bracket
 fifa world cup 2026 standings
 fifa youth cup
 fifa-museum
@@ -110453,6 +110484,7 @@ fifafussball-weltmeisterschaft2026(TM)
 fifafussball-weltmeisterschaft2026™
 fifawk voor clubs
 fifaworldcup2026
+fifaworldcup2026bracket
 fifaworldcup2026standings
 figaro
 figeac
@@ -114496,6 +114528,7 @@ helenedarroze
 helenegremillon
 helensiff
 helge schneider
+helicoptere
 helicoptere geneve
 helikopter absturz new york
 helikopterabsturz kanada
@@ -115191,6 +115224,7 @@ hägendorf: mann zündet sich an
 härkingen
 hätzingen
 hèlène sègara
+hélicoptère
 hélicoptère allemand
 hélène grémillon
 hélène rollès
@@ -116141,7 +116175,9 @@ iranteheran
 ireen sheer
 ireen wust
 ireland vs england
+ireland vs india
 irelandvsengland
+irelandvsindia
 irene cadurisch
 irene cara
 irene cara overleden
@@ -123215,9 +123251,11 @@ majariniker
 majdal shams
 maje
 majecki
+major cod
 major lazer
 major paris cod
 majorana 1
+majorcod
 majorpariscod
 majorque
 majorque - atletico madrid
@@ -126948,6 +126986,7 @@ namur alerte bombe
 namur en mai
 namuralertebombe
 nana mouskouri
+nancy
 nancy faeser
 nancy frangione
 nancy pelosi
@@ -128119,6 +128158,7 @@ notre-dame brule
 notre-dame de paris
 notrufnummern schweiz
 notrufnummernschweiz
+notte
 nottingham
 nottingham - aston villa
 nottingham - chelsea
@@ -132441,6 +132481,8 @@ ratzinger
 raub louvre paris
 raublouvreparis
 rauhnächte 2021
+raul fernandez
+raulfernandez
 raumsonde kosmos 482 absturz
 raumsondekosmos482absturz
 raumstation iss
@@ -134826,8 +134868,10 @@ sandrine quétier
 sandrine rousseau
 sandrine rousseau espagne
 sandrine rousseau iraniennes
+sandrine tas
 sandrine treiner
 sandrinerousseau
+sandrinetas
 sandro brotz
 sandro zurbrugg
 sandro zurbrügg
@@ -136790,6 +136834,8 @@ spectre
 speed
 speed pedelec
 speedpedelec
+speelschema fifa wk 2026
+speelschemafifawk2026
 speisekarten-angst
 spelletjes
 spencer
@@ -138358,6 +138404,9 @@ tabelle der fifa fußball-wm 2026
 tabelle der fifa fußballwm 2026
 tabellederfifafussball-wm2026
 tabellederfifafußball-wm2026
+tabellone mondiali fifa 2026
+tabellonemondialififa2026
+tableau de la phase finale de la coupe du monde de la fifa 2026
 tableau des medailles
 tableau des medailles jo 2024
 tableau des medailles jo 2026
@@ -138369,6 +138418,7 @@ tableau euro 2021
 tableau medailles jo 2026
 tableau roland garros
 tableau roland garros 2025
+tableaudelaphasefinaledelacoupedumondedelafifa2026
 tableaudesmedaillesjo2026
 tableaudesmedaillesparalympiques2026
 tableaudesmédaillesjo2026
@@ -140640,7 +140690,13 @@ turkiye
 turkmenistan
 turnen olympische spelen
 turnhout
+turnierbaum der fifa fussball-wm 2026
+turnierbaum der fifa fussballwm 2026
+turnierbaum der fifa fußball-wm 2026
+turnierbaum der fifa fußballwm 2026
 turnierbaum em 2024
+turnierbaumderfifafussball-wm2026
+turnierbaumderfifafußball-wm2026
 turning red
 turquie
 turquie autriche
