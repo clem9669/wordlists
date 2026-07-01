@@ -1509,6 +1509,7 @@
 ??:??
 ??:?? (Vampiress: Eternal Duet)
 ??:???
+??:??? - ???? (The Wolf: Season 1 - Kiss of Fate)
 ??:????
 ??:???? Demo
 ??:???? Oriental Dreams : The Forgotten Realm
@@ -8354,6 +8355,7 @@ BEDLAM
 BEDLAM GAMES
 BEDLAMGAMES
 BEDO
+BEDROOMS ON THE MOON
 BEDTIME NIGHTMARE
 BEE
 BEE CAREFUL!
@@ -9162,6 +9164,7 @@ BLOCK BOUNCE
 BLOCK CLASH
 BLOCK CLICKER
 BLOCK MATCH
+BLOCK SPRAWL
 BLOCK STUN
 BLOCK-LITE
 BLOCKBOT
@@ -11218,6 +11221,8 @@ Bed
 Bedlam
 Bedlam Games
 BedlamGames
+Bedrooms on the Moon
+BedroomsontheMoon
 Bedtime Nightmare
 BedtimeNightmare
 Bee
@@ -12164,12 +12169,14 @@ Block Clash
 Block Clicker
 Block Lite
 Block Match
+Block Sprawl
 Block stun
 Block-Lite
 BlockBounce
 BlockClash
 BlockClicker
 BlockMatch
+BlockSprawl
 Blockbot
 Blockbot Blockbot
 BlockbotBlockbot
@@ -14031,6 +14038,7 @@ CARTE VIERGE
 CARTEADO
 CARTEDESANKHEGS
 CARTES
+CARTESIAN BATTLE
 CARTEVIERGE
 CARTOON
 CARTOON SURVIVOR
@@ -14100,6 +14108,7 @@ CASSIECAGE
 CASSIEDRAKE
 CAST & SPELL
 CAST N CHILL
+CASTAWAY: LOST HORIZON
 CASTELLA
 CASTING CLICKER
 CASTING WHISPERS
@@ -14149,6 +14158,7 @@ CAT SCREEN
 CAT SIMULATOR: MEOW
 CAT SPAWN
 CAT SPAWN EGG
+CAT SQUEEZE
 CAT SYNDICATE: ISTANBUL
 CAT WATCH
 CAT'S SHOWDOWN
@@ -16166,6 +16176,7 @@ CRASHTEAMRACING
 CRASHTIME
 CRAVE
 CRAVE ENTERTAINMENT
+CRAVE THE BURN
 CRAVEENTERTAINMENT
 CRAVIC
 CRAVIĆ
@@ -16482,6 +16493,7 @@ CRYPT CRAWLER
 CRYPT ROBBERY
 CRYPTO MINING
 CRYPTOBIOSIS
+CRYPTOGRID
 CRYPTS & CURVES
 CRYSIS
 CRYSTAL
@@ -17323,6 +17335,8 @@ Carte des ankhegs
 Carte vierge
 Carteado
 Cartedesankhegs
+Cartesian Battle
+CartesianBattle
 Cartevierge
 Cartoon
 Cartoon Survivor
@@ -17403,6 +17417,8 @@ Cast   Spell
 Cast & Spell
 Cast n Chill
 Cast&Spell
+Castaway: Lost Horizon
+Castaway:LostHorizon
 Castella
 Casting Clicker
 Casting Whispers
@@ -17468,6 +17484,7 @@ Cat Screen
 Cat Simulator: Meow
 Cat Spawn
 Cat Spawn Egg
+Cat Squeeze
 Cat Syndicate: Istanbul
 Cat Watch
 Cat at Home
@@ -17496,6 +17513,7 @@ CatScreen
 CatSimulator:Meow
 CatSpawn
 CatSpawnEgg
+CatSqueeze
 CatSyndicate:Istanbul
 CatToySimulator
 CatWatch
@@ -19804,7 +19822,9 @@ Crashout Crew
 CrashoutCrew
 Crave
 Crave Entertainment
+Crave the Burn
 CraveEntertainment
+CravetheBurn
 Cravic
 Cravić
 Crawfish
@@ -20180,6 +20200,7 @@ Crypt Robbery
 CryptCrawler
 CryptRobbery
 Crypto Mining
+CryptoGrid
 CryptoMining
 Crypts   Curves
 Crypts & Curves
@@ -21137,6 +21158,7 @@ DEAD HEAD DRIVE
 DEAD IN YOUR TRACKZ
 DEAD ISLAND
 DEAD ISLAND 2
+DEAD MATRIX CHAMBER
 DEAD OIL
 DEAD OR
 DEAD OR ALIVE
@@ -21615,6 +21637,7 @@ DESKTOP FISHING
 DESKTOP FISHING CAT
 DESKTOP FOREST
 DESKTOP GOLF
+DESKTOP HELLFARMER
 DESKTOP HEROES
 DESKTOP IMMORTAL
 DESKTOP MASCOT NUNU-NUI
@@ -21939,6 +21962,7 @@ DIGITAL CRYPT'S FANTASY MARBLES
 DIGITAL DESKTOP CATS
 DIGITAL DEVELOPMENTS
 DIGITAL DIALECT
+DIGITAL DIAMOND BASEBALL V14
 DIGITAL DREAMS
 DIGITAL ECLIPSE
 DIGITAL ECLIPSE: CYBERPUNK SURVIVOR
@@ -22577,6 +22601,7 @@ DOUBLE HELIX
 DOUBLE HELIX GAMES
 DOUBLE IT
 DOUBLE JUMP
+DOUBLE KNIGHT
 DOUBLE OR NOTHING
 DOUBLE TRIP
 DOUBLEDIAMOND
@@ -23797,6 +23822,7 @@ Dead Head Drive
 Dead In Your TrackZ
 Dead Island
 Dead Island 2
+Dead Matrix Chamber
 Dead Oil
 Dead Or Alive 2
 Dead Pets: A Punk Rock Slice of Life Sim
@@ -23848,6 +23874,7 @@ DeadHeadDrive
 DeadInYourTrackZ
 DeadIsland
 DeadIsland2
+DeadMatrixChamber
 DeadOil
 DeadOrAlive2
 DeadPets:APunkRockSliceofLifeSim
@@ -24459,6 +24486,7 @@ Desktop Fishing
 Desktop Fishing Cat
 Desktop Forest
 Desktop Golf
+Desktop Hellfarmer
 Desktop Heroes
 Desktop Immortal
 Desktop Mascot Nunu nui
@@ -24489,6 +24517,7 @@ DesktopFishing
 DesktopFishingCat
 DesktopForest
 DesktopGolf
+DesktopHellfarmer
 DesktopHeroes
 DesktopImmortal
 DesktopMascotNunu-nui
@@ -24872,6 +24901,7 @@ Digital Crypt's Fantasy Marbles
 Digital Desktop Cats
 Digital Developments
 Digital Dialect
+Digital Diamond Baseball V14
 Digital Dreams
 Digital Eclipse
 Digital Eclipse: Cyberpunk Survivor
@@ -24916,6 +24946,7 @@ DigitalCrypt'sFantasyMarbles
 DigitalDesktopCats
 DigitalDevelopments
 DigitalDialect
+DigitalDiamondBaseballV14
 DigitalDreams
 DigitalEclipse
 DigitalEclipse:CyberpunkSurvivor
@@ -25592,6 +25623,7 @@ Double Hawk
 Double Helix
 Double Helix Games
 Double It
+Double Knight
 Double Trip
 Double jump
 Double or Nothing
@@ -25611,6 +25643,7 @@ DoubleHawk
 DoubleHelix
 DoubleHelixGames
 DoubleIt
+DoubleKnight
 DoubleTrip
 Doublejump
 DoubleorNothing
@@ -27578,6 +27611,7 @@ EROCRAFT
 EROLA
 ERRANTS
 ERRATA
+ERRATUM
 ERROR
 ERROR 2351
 ERROR: GIRLFRIEND NOT FOUND
@@ -29058,6 +29092,7 @@ Erocraft
 Erola
 Errants
 Errata
+Erratum
 Error
 Error 2351
 Error2351
@@ -30062,6 +30097,7 @@ FEED
 FEED MY MECH
 FEED THE FLAME
 FEED THE FLAMES
+FEED THE PIT
 FEED THE QUEEN
 FEED THE REACTOR
 FEEDING YUYUKO
@@ -30684,6 +30720,7 @@ FLOURISH
 FLOW
 FLOW READER — SPEED READING TRAINER
 FLOWCITY BUILDER
+FLOWDECK
 FLOWER
 FLOWER BANNER
 FLOWER BANNER PATTERN
@@ -30874,6 +30911,7 @@ FOREVER
 FOREVER ENTERTAINMENT
 FOREVER ENTERTAINMENT S.A
 FOREVER ENTERTAINMENT SA
+FOREVER RPG
 FOREVER WITH YOU
 FOREVER-HAPPY-TOWN
 FOREVERENTERTAINMENT
@@ -32027,9 +32065,11 @@ Fee
 Feed
 Feed The Flame
 Feed The Flames
+Feed The Pit
 Feed the Reactor
 FeedTheFlame
 FeedTheFlames
+FeedThePit
 FeedtheReactor
 Feel
 Feel a Thick Creampie with the Super Famous Busty Girl
@@ -32781,6 +32821,7 @@ Flow Reader -- Speed Reading Trainer
 Flow Reader — Speed Reading Trainer
 FlowCity Builder
 FlowCityBuilder
+FlowDeck
 FlowReader—SpeedReadingTrainer
 Flower
 Flower Escape
@@ -33033,10 +33074,12 @@ Forever
 Forever Entertainment
 Forever Entertainment S.A
 Forever Entertainment SA
+Forever RPG
 Forever With You
 ForeverEntertainment
 ForeverEntertainmentS.A
 ForeverEntertainmentSA
+ForeverRPG
 ForeverWithYou
 Forge
 Forge Reply
@@ -35651,6 +35694,7 @@ GUILDS OF MOUNTGATE DEMO
 GUILDWARS
 GUILE
 GUILTY
+GUILTY AS CHARGED! DEMO
 GUILTY AS SOCK!
 GUILTY GEAR
 GUILTY GEAR  STRIVE 
@@ -37695,10 +37739,12 @@ GuildsofGreybrook
 GuildsofMountgateDemo
 Guile
 Guilty
+Guilty As Charged! Demo
 Guilty Gear
 Guilty Gear  Strive  Season Pass 5
 Guilty Gear -Strive- Season Pass 5
 Guilty as Sock!
+GuiltyAsCharged!Demo
 GuiltyGear
 GuiltyGear-Strive-SeasonPass5
 GuiltyasSock!
@@ -39308,6 +39354,7 @@ HOT AND LOVELY : PURPLE LUST
 HOT AND LOVELY : SEDUCTION WAIFU
 HOT ASSES
 HOT DAWN UPRISING
+HOT HOLES
 HOT LAVA
 HOT SHOT MONKEY
 HOT STAKES CASINO - AMERICAN ROULETTE
@@ -39332,6 +39379,7 @@ HOTGENSTUDIOS
 HOTHEAD
 HOTHEAD GAMES
 HOTHEADGAMES
+HOTHOLES
 HOTHOUSE
 HOTHOUSE CREATIONS
 HOTHOUSECREATIONS
@@ -42910,6 +42958,7 @@ ISURUGI
 ISellLemonade:Prologue
 ISpy
 IT
+IT HEARS YOU
 IT LURKS
 IT REACHES
 IT TAKES TWO
@@ -42932,6 +42981,7 @@ ITEM FRAME
 ITEMEDIA
 ITEMFRAME
 ITEMedia
+ITHEARSYOU
 ITHERAEL
 ITHERAËL
 ITHYA: MAGIC STUDIES
@@ -54694,6 +54744,7 @@ MIRABAR SOFTAWARE
 MIRABARSOFTAWARE
 MIRACLE
 MIRACLE BRAVE
+MIRACLE BRAVE: BEAST DEFENSE LINE
 MIRACLE DESIGNS
 MIRACLE GAMES
 MIRACLEDESIGNS
@@ -55022,6 +55073,7 @@ MONDOPRODUCTIONS
 MONEY
 MONEY THEFT 3 LAST MISSION
 MONEYCLICKER
+MONGOL 2
 MONICA
 MONIQUE
 MONKEE
@@ -58161,9 +58213,11 @@ MiraBar Softaware
 MiraBarSoftaware
 Miracle
 Miracle Brave
+Miracle Brave: Beast Defense Line
 Miracle Designs
 Miracle Games
 MiracleBrave
+MiracleBrave:BeastDefenseLine
 MiracleDesigns
 MiracleGames
 Mirage
@@ -58506,6 +58560,8 @@ MondoProductions
 Money Theft 3 Last Mission
 MoneyClicker
 MoneyTheft3LastMission
+Mongol 2
+Mongol2
 Monica
 Monique
 Monkee
@@ -60875,6 +60931,7 @@ NOWPRODUCTION
 NOX
 NOXCODE
 NOXCODE DEMO
+NOXE
 NOYAU
 NOYE
 NRUFF
@@ -67048,6 +67105,7 @@ PROBEENTERTAINMENT
 PROBEENTERTAINMENTLIMITED
 PROBESOFTWARE
 PROBESOFTWARELTD
+PROBLEMATIC
 PROBOTECTOR
 PROCOVISION
 PROCYCLING
@@ -67485,6 +67543,7 @@ PUZZLEKINGS
 PUZZLEPANIC
 PUZZLEQUEST
 PUZZLES DESERT
+PUZZLES DINO
 PUZZLESERIES
 PVP GOLDEN ARMOR OF GUAN JIAN SHOU SKIN DLC
 PVP Golden Armor of Guan Jian Shou Skin DLC
@@ -69976,6 +70035,7 @@ ProbeEntertainment
 ProbeEntertainmentLimited
 ProbeSoftware
 ProbeSoftwareLtd
+Problematic
 Probotector
 Procovision
 Prod
@@ -70474,7 +70534,9 @@ Puzzleand
 PuzzleandAction
 Puzzlegame
 Puzzles Desert
+Puzzles Dino
 PuzzlesDesert
+PuzzlesDino
 Pvt
 Pvt.Ltd
 PvtLtd
@@ -71714,6 +71776,7 @@ REGENCY
 REGEX GAME
 REGIS
 REGISTA: REIGN YOUR FOOTBALL CLUB
+REGRET TO INFORM
 REGULEA: INFECTION CARD BATTLE
 REI AND THE FLOATING CITY
 REIDARASSON
@@ -72381,6 +72444,7 @@ ROCKOON
 ROCKRIDGE
 ROCKRIDGEGAMES
 ROCKS IN SPACE
+ROCKS.EXE
 ROCKSTAR
 ROCKSTAR GAMES
 ROCKSTAR LEEDS
@@ -73704,6 +73768,8 @@ RegexGame
 Regis
 Regista: Reign Your Football Club
 Regista:ReignYourFootballClub
+Regret To Inform
+RegretToInform
 Regulea: Infection Card Battle
 Regulea:InfectionCardBattle
 Rei and the Floating City
@@ -75681,6 +75747,7 @@ SCEJAPAN
 SCEJAPANSTUDIO
 SCEJapan
 SCEJapanStudio
+SCELEROPHOBIA
 SCENE INVESTIGATORS
 SCENE NO.0
 SCESANTA
@@ -75717,6 +75784,7 @@ SCHOOL 666
 SCHOOL CRISIS
 SCHOOL GHOST STORIES
 SCHOOL QUEST
+SCHOOL RUNNER
 SCHOOLBOY ESCAPE 2: VILLAGE
 SCHOOLGIRL CARD PULL SIMULATOR
 SCHOOLS
@@ -76254,6 +76322,7 @@ SEX ADVENTURES - INCEST FAMILY - EPISODE 9
 SEX ADVENTURES - NAUGHTY SISTERS - EPISODE 9
 SEX ARENA: PASSION OF AQUILON 💋⚔️
 SEX CHANGE CONTRACT AND MOLESTER GIRL
+SEX CLUB
 SEX COACH: HOT YOGA
 SEX DORM🔞
 SEX EMPIRE - EPISODE 1
@@ -76298,6 +76367,7 @@ SEX, SIN   ROCK N ROLL 🤘🎸
 SEX, SIN & ROCK'N'ROLL ??
 SEX, SIN & ROCK'N'ROLL 🤘🎸
 SEX,SIN&ROCK'N'ROLL🤘🎸
+SEXCLUB
 SEXERCISE CLUB
 SEXGuildSimulator⚔️🔞
 SEXHOUSE:OrgyParty😈💦
@@ -80360,6 +80430,7 @@ ScaryShadowSpot-AllIn
 ScaryTogether
 ScatoLogic
 Scav
+Scelerophobia
 Scene Investigators
 Scene No.0
 SceneInvestigators
@@ -80389,10 +80460,12 @@ School 666
 School Crisis
 School Ghost Stories
 School Quest
+School Runner
 School666
 SchoolCrisis
 SchoolGhostStories
 SchoolQuest
+SchoolRunner
 Schoolboy Escape 2: Village
 SchoolboyEscape2:Village
 Schoolgirl Card Pull Simulator
@@ -86411,6 +86484,7 @@ THE DERAILED
 THE DEVIL RAIS'D THE STORM
 THE DICE LODGE
 THE DINNER
+THE DISAPPEARING MUNICIPALITY WORKER
 THE DISCLOSURE LOOP
 THE DOME
 THE DOME SOFTWARE
@@ -86595,6 +86669,7 @@ THE HOLLOW LIGHTHOUSE
 THE HONEST LITTLE FISHER
 THE HONORED WIFE
 THE HORROR AT HIGHROOK
+THE HOST'S DEADLY GAMES
 THE HOST: CATACLYSM
 THE HOTEL
 THE HOUSE BELOW
@@ -86845,6 +86920,7 @@ THE OLD MAN’S WILL
 THE OLD WOMAN | 無言老婆
 THE OLIVER
 THE OLIVER TWINS
+THE ONE CHAPTER 4
 THE ORIGINAL MOORHUHN HUNT
 THE OTHERS
 THE OUTER WORLDS
@@ -86978,6 +87054,7 @@ THE SOLITARY EXISTENCE OF A LITTLE UNIVERSE
 THE SON OF ART
 THE SOUL COLLECTOR 2 - IDLE GAME
 THE SOUL OF ROMIT
+THE SOUND OF PIANO
 THE SOVEREIGN
 THE SPACE BETWEEN (SUBATOMIC FORGE)
 THE SPIRAL
@@ -87684,6 +87761,7 @@ TINY PAWS
 TINY PIXELS VOL. 2 - STORMY KNIGHTS
 TINY RACING
 TINY SHADOWS INTERWOVEN HEARTS
+TINY SLIME FARM
 TINY SPACE PIRATE
 TINY TERRA SPACES
 TINY TIGER
@@ -88668,6 +88746,7 @@ TUM TUM TUM: Dance Party
 TUMBLE EGG
 TUMBLE TYPE
 TUMBLEBOY
+TUMBLES
 TUMTUMTUM:DanceParty
 TUNA
 TUNE IN TO THE SHOW
@@ -90023,6 +90102,7 @@ The Demon Queen's Dire Dilemma
 The Derailed
 The Dice Lodge
 The Dinner
+The Disappearing Municipality Worker
 The Disclosure Loop
 The Dome
 The Dome Software
@@ -90191,6 +90271,8 @@ The Hollow Lighthouse
 The Honest Little Fisher
 The Honored Wife
 The Horror at Highrook
+The Host s deadly games
+The Host's deadly games
 The Host: Cataclysm
 The Hotel
 The House Below
@@ -90431,6 +90513,7 @@ The Old Woman | ????
 The Old Woman | 無言老婆
 The Oliver
 The Oliver Twins
+The One Chapter 4
 The Original Moorhuhn Hunt
 The Others
 The Outer Worlds
@@ -90573,6 +90656,7 @@ The Son of Art
 The Soul Collector 2   Idle Game
 The Soul Collector 2 - Idle Game
 The Soul of Romit
+The Sound of Piano
 The Sovereign
 The Space Between  Subatomic Forge 
 The Space Between (Subatomic Forge)
@@ -90901,6 +90985,7 @@ TheDemonQueen'sDireDilemma
 TheDerailed
 TheDiceLodge
 TheDinner
+TheDisappearingMunicipalityWorker
 TheDisclosureLoop
 TheDome
 TheDomeSoftware
@@ -91058,6 +91143,7 @@ TheHollowLighthouse
 TheHonestLittleFisher
 TheHonoredWife
 TheHorroratHighrook
+TheHost'sdeadlygames
 TheHost:Cataclysm
 TheHotel
 TheHouse:MysteryEscape
@@ -91275,6 +91361,7 @@ TheOldMan’sWill
 TheOldWoman|無言老婆
 TheOliver
 TheOliverTwins
+TheOneChapter4
 TheOriginalMoorhuhnHunt
 TheOthers
 TheOuterWorlds
@@ -91400,6 +91487,7 @@ TheSolitaryExistenceofaLittleUniverse
 TheSonofArt
 TheSoulCollector2-IdleGame
 TheSoulofRomit
+TheSoundofPiano
 TheSovereign
 TheSpaceBetween(SubatomicForge)
 TheSpiral
@@ -91988,6 +92076,7 @@ Tiny Pixels Vol. 2   Stormy Knights
 Tiny Pixels Vol. 2 - Stormy Knights
 Tiny Racing
 Tiny Shadows Interwoven Hearts
+Tiny Slime Farm
 Tiny Terra Spaces
 Tiny Tiger
 Tiny Toon Adventures
@@ -92019,6 +92108,7 @@ TinyPaws
 TinyPixelsVol.2-StormyKnights
 TinyRacing
 TinyShadowsInterwovenHearts
+TinySlimeFarm
 TinyTerraSpaces
 TinyTiger
 TinyToonAdventures
@@ -93141,6 +93231,7 @@ Tumble Type
 TumbleBoy
 TumbleEgg
 TumbleType
+Tumbles
 Tuna
 Tune in to the show
 Tuneintotheshow
@@ -94438,6 +94529,7 @@ VALVE INDEX® REPLACEMENT RIGHT CONTROLLER
 VALVE INDEX® REPLACEMENT TETHER
 VALVE SOFTWARE
 VALVESOFTWARE
+VALVONTAA
 VALYGAR
 VALYGAR CORTHALA
 VALYGARCORTHALA
@@ -95007,6 +95099,7 @@ VOID ASCENDANCY
 VOID CLICKERS
 VOID CREW
 VOID FIGHTERS
+VOID FUTURE PROLOGUE
 VOID HARVEST DEMO
 VOID JUMP VR
 VOID MARAUDERS
@@ -95239,6 +95332,7 @@ ValveIndex®ReplacementLeftController
 ValveIndex®ReplacementRightController
 ValveIndex®ReplacementTether
 ValveSoftware
+Valvontaa
 Valygar
 Valygar Corthala
 ValygarCorthala
@@ -98853,6 +98947,9 @@ XMen
 XMen VS Street Fighter
 XMenVSStreetFighter
 XMultiply
+XO Planets
+XO-PLANETS
+XO-Planets
 XONOX
 XP
 XP SLIME
@@ -100179,6 +100276,7 @@ ZX Spectrum
 ZXSPECTRUM
 ZXSpectrum
 ZYNGA
+ZYNTARIS
 ZYRINX
 Zabac
 Zaccaria Pinball
@@ -100537,6 +100635,7 @@ Zuljin
 Zushi
 Zwei
 Zynga
+Zyntaris
 Zyrinx
 ZÈBRE
 [ CONTENT DELETED ]
@@ -103926,6 +104025,7 @@ bedlam
 bedlam games
 bedlamgames
 bedo
+bedrooms on the moon
 bedtime nightmare
 bee
 bee careful!
@@ -104717,6 +104817,7 @@ block bounce
 block clash
 block clicker
 block match
+block sprawl
 block stun
 block-lite
 blockbot
@@ -106325,6 +106426,7 @@ carte vierge
 carteado
 cartedesankhegs
 cartes
+cartesian battle
 cartevierge
 cartoon
 cartoon survivor
@@ -106391,6 +106493,7 @@ cassiecage
 cassiedrake
 cast & spell
 cast n chill
+castaway: lost horizon
 castella
 casting clicker
 casting whispers
@@ -106441,6 +106544,7 @@ cat screen
 cat simulator: meow
 cat spawn
 cat spawn egg
+cat squeeze
 cat syndicate: istanbul
 cat watch
 cat's showdown
@@ -108379,6 +108483,7 @@ crashteamracing
 crashtime
 crave
 crave entertainment
+crave the burn
 craveentertainment
 cravic
 cravić
@@ -108686,6 +108791,7 @@ crypt crawler
 crypt robbery
 crypto mining
 cryptobiosis
+cryptogrid
 crypts & curves
 crysis
 crystal
@@ -109531,6 +109637,7 @@ dead head drive
 dead in your trackz
 dead island
 dead island 2
+dead matrix chamber
 dead oil
 dead or
 dead or alive
@@ -109990,6 +110097,7 @@ desktop fishing
 desktop fishing cat
 desktop forest
 desktop golf
+desktop hellfarmer
 desktop heroes
 desktop immortal
 desktop mascot nunu-nui
@@ -110309,6 +110417,7 @@ digital crypt's fantasy marbles
 digital desktop cats
 digital developments
 digital dialect
+digital diamond baseball v14
 digital dreams
 digital eclipse
 digital eclipse: cyberpunk survivor
@@ -110913,6 +111022,7 @@ double helix
 double helix games
 double it
 double jump
+double knight
 double or nothing
 double trip
 doublediamond
@@ -112633,6 +112743,7 @@ erocraft
 erola
 errants
 errata
+erratum
 error
 error 2351
 error: girlfriend not found
@@ -113446,6 +113557,7 @@ feed
 feed my mech
 feed the flame
 feed the flames
+feed the pit
 feed the queen
 feed the reactor
 feeding yuyuko
@@ -114039,6 +114151,7 @@ flourish
 flow
 flow reader — speed reading trainer
 flowcity builder
+flowdeck
 flower
 flower banner
 flower banner pattern
@@ -114227,6 +114340,7 @@ forever entertainment
 forever entertainment s.a
 forever entertainment sa
 forever happy town
+forever rpg
 forever with you
 forever-happy-town
 foreverentertainment
@@ -116606,6 +116720,7 @@ guilds of mountgate demo
 guildwars
 guile
 guilty
+guilty as charged! demo
 guilty as sock!
 guilty gear
 guilty gear -strive-
@@ -118138,6 +118253,7 @@ hot and lovely : purple lust
 hot and lovely : seduction waifu
 hot asses
 hot dawn uprising
+hot holes
 hot lava
 hot shot monkey
 hot stakes casino - american roulette
@@ -119479,6 +119595,7 @@ istom games
 istomgames
 isurugi
 it
+it hears you
 it lurks
 it reaches
 it takes two
@@ -125505,6 +125622,7 @@ mirabar softaware
 mirabarsoftaware
 miracle
 miracle brave
+miracle brave: beast defense line
 miracle designs
 miracle games
 miracledesigns
@@ -125815,6 +125933,7 @@ mondoproductions
 money
 money theft 3 last mission
 moneyclicker
+mongol 2
 monica
 monique
 monkee
@@ -127825,6 +127944,7 @@ nowproduction
 nox
 noxcode
 noxcode demo
+noxe
 noyau
 noye
 noyé
@@ -131228,6 +131348,7 @@ probeentertainment
 probeentertainmentlimited
 probesoftware
 probesoftwareltd
+problematic
 probotector
 procovision
 procycling
@@ -131653,6 +131774,7 @@ puzzlekings
 puzzlepanic
 puzzlequest
 puzzles desert
+puzzles dino
 puzzleseries
 pvp golden armor of guan jian shou skin dlc
 pvp uniform & bunny outfit dlc
@@ -132583,6 +132705,7 @@ regency
 regex game
 regis
 regista: reign your football club
+regret to inform
 regulea: infection card battle
 rei and the floating city
 reidarasson
@@ -133214,6 +133337,7 @@ rockoon
 rockridge
 rockridgegames
 rocks in space
+rocks.exe
 rockstar
 rockstar games
 rockstar leeds
@@ -134238,6 +134362,7 @@ sceelondonstudio
 scei
 scejapan
 scejapanstudio
+scelerophobia
 scene investigators
 scene no.0
 scesanta
@@ -134268,6 +134393,7 @@ school 666
 school crisis
 school ghost stories
 school quest
+school runner
 schoolboy escape 2: village
 schoolgirl card pull simulator
 schools
@@ -134752,6 +134878,7 @@ sex adventures - incest family - episode 9
 sex adventures - naughty sisters - episode 9
 sex arena: passion of aquilon 💋⚔️
 sex change contract and molester girl
+sex club
 sex coach: hot yoga
 sex dorm🔞
 sex empire - episode 1
@@ -139189,6 +139316,7 @@ the derailed
 the devil rais'd the storm
 the dice lodge
 the dinner
+the disappearing municipality worker
 the disclosure loop
 the dome
 the dome software
@@ -139362,6 +139490,7 @@ the hollow lighthouse
 the honest little fisher
 the honored wife
 the horror at highrook
+the host's deadly games
 the host: cataclysm
 the hotel
 the house below
@@ -139608,6 +139737,7 @@ the old man’s will
 the old woman | 無言老婆
 the oliver
 the oliver twins
+the one chapter 4
 the original moorhuhn hunt
 the others
 the outer worlds
@@ -139741,6 +139871,7 @@ the solitary existence of a little universe
 the son of art
 the soul collector 2 - idle game
 the soul of romit
+the sound of piano
 the sovereign
 the space between (subatomic forge)
 the spiral
@@ -140436,6 +140567,7 @@ tiny paws
 tiny pixels vol. 2 - stormy knights
 tiny racing
 tiny shadows interwoven hearts
+tiny slime farm
 tiny space pirate
 tiny terra spaces
 tiny tiger
@@ -141384,6 +141516,7 @@ tum tum tum: dance party
 tumble egg
 tumble type
 tumbleboy
+tumbles
 tuna
 tune in to the show
 tunguska: the visitation - final cut
@@ -142077,6 +142210,7 @@ valve index® replacement right controller
 valve index® replacement tether
 valve software
 valvesoftware
+valvontaa
 valygar
 valygar corthala
 valygarcorthala
@@ -142634,6 +142768,7 @@ void ascendancy
 void clickers
 void crew
 void fighters
+void future prologue
 void harvest demo
 void jump vr
 void marauders
@@ -142648,6 +142783,7 @@ void war
 void/breaker
 void81: the backrooms
 voidblade
+voidfutureprologue
 voidhue demo
 voidling bound
 voidnomaly
@@ -144004,6 +144140,7 @@ xmg
 xmg studio
 xmgstudio
 xmultiply
+xo-planets
 xonox
 xp
 xp slime
@@ -144725,6 +144862,7 @@ zx
 zx spectrum
 zxspectrum
 zynga
+zyntaris
 zyrinx
 zèbre
 ¿ Y ? A SHORT MEMOIR TOLD IN BITS
@@ -145085,6 +145223,7 @@ zèbre
 即时象棋：旧棋新弈HyperChineseChess
 厨师今天不做菜
 双人成行
+双面魔君心上仙
 叛逆の守護者
 古咒迷途  lost curse 
 古咒迷途 (LOST CURSE)
@@ -145680,6 +145819,12 @@ zèbre
 群島物語 - 實習鍊金術士的 90 天之旅
 群島物語-實習鍊金術士的90天之旅
 翻翻卡
+老狼：第一季   宿命之吻 (The Wolf: Season 1   Kiss of Fate)
+老狼：第一季 - 宿命之吻  The Wolf: Season 1 - Kiss of Fate 
+老狼：第一季 - 宿命之吻 (THE WOLF: SEASON 1 - KISS OF FATE)
+老狼：第一季 - 宿命之吻 (The Wolf: Season 1 - Kiss of Fate)
+老狼：第一季 - 宿命之吻 (the wolf: season 1 - kiss of fate)
+老狼：第一季-宿命之吻(TheWolf:Season1-KissofFate)
 聊斋.鬼王争霸
 聲姿迴響
 背后3:阴戏
