@@ -1399,12 +1399,15 @@
 88atanExhibition
 8AM: THE OFFICE
 8AM: THE SHOPPING MALL
+8AM: THE SUBWAY
 8AM: THE SWIMMING POOL
 8AM: The Office
 8AM: The Shopping Mall
+8AM: The Subway
 8AM: The Swimming Pool
 8AM:TheOffice
 8AM:TheShoppingMall
+8AM:TheSubway
 8AM:TheSwimmingPool
 8BIT
 8BIT GAMES
@@ -1416,6 +1419,7 @@
 8TH
 8am: the office
 8am: the shopping mall
+8am: the subway
 8am: the swimming pool
 8bit
 8bit Games
@@ -1869,6 +1873,7 @@ A Fox Tale
 A GAME ABOUT BUILDING A TOWER
 A GAME ABOUT CARDS
 A GAME ABOUT CUTTING A TREE
+A GAME ABOUT LEADING A CROWDS
 A GAME ABOUT MAKING A PLANET
 A GAME ABOUT MAKING A PLANET - SUPPORTER PACK
 A GAME ABOUT MINING ROCKS
@@ -1879,6 +1884,7 @@ A GENTLEMEN'S DISPUTE
 A GOOD DEED ON HARRIS AVENUE
 A Game About Building A Tower
 A Game About Cutting A Tree
+A Game About Leading A Crowds
 A Game About Making A Planet
 A Game About Making A Planet   Supporter Pack
 A Game About Making A Planet - Supporter Pack
@@ -2595,6 +2601,7 @@ AGE OF EMPIRES IV: ANNIVERSARY EDITION
 AGE OF EMPIRES MOBILE: PC EDITION
 AGE OF GODS
 AGE OF HISTORY II
+AGE OF LEGACY DEMO
 AGE OF MEMOLOGY
 AGE OF MYTHOLOGY: RETOLD - EXPANSION PASS
 AGE OF MYTHOLOGY: RETOLD - NEW GODS PACK: DEMETER
@@ -2650,6 +2657,7 @@ AGU
 AGameAboutBuildingATower
 AGameAboutCuttingATree
 AGameAboutFishing
+AGameAboutLeadingACrowds
 AGameAboutMakingAPlanet
 AGameAboutMakingAPlanet-SupporterPack
 AGameAboutMiningRocks
@@ -2878,6 +2886,7 @@ ALCUINALCUIN
 ALDARIS
 ALE ABBEY - MONASTERY BREWERY TYCOON
 ALEBOUND
+ALEK
 ALEN
 ALERT
 ALESTE
@@ -5252,6 +5261,7 @@ Age of Empires IV: Anniversary Edition
 Age of Empires Mobile: PC Edition
 Age of Gods
 Age of History II
+Age of Legacy Demo
 Age of Memology
 Age of Mythology: Retold   Expansion Pass
 Age of Mythology: Retold   New Gods Pack: Demeter
@@ -5291,6 +5301,7 @@ AgeofEmpiresIV:AnniversaryEdition
 AgeofEmpiresMobile:PCEdition
 AgeofGods
 AgeofHistoryII
+AgeofLegacyDemo
 AgeofMemology
 AgeofMythology:Retold-ExpansionPass
 AgeofMythology:Retold-NewGodsPack:Demeter
@@ -8287,6 +8298,7 @@ BDSMSex-Futanari
 BDSMSex-Futanari2
 BE
 BE ??
+BE MISSED AND REMEMBERED: THE LETTER FROM MAYOIGA
 BE MY LUST
 BE MY LUST 2
 BE MY LUST 3
@@ -8517,6 +8529,7 @@ BEN
 BENCH SIMULATOR
 BEND
 BENDY AND THE DARK REVIVAL
+BENDY AND THE INK MACHINE
 BENDY: LONE WOLF
 BENEATH
 BENEATH A STEEL SKY
@@ -9837,6 +9850,7 @@ BRAINROT ANIMALS FIGHTING
 BRAINROT BATTLE
 BRAINROT BATTLE ROYALE
 BRAINROT BATTLE SIMULATOR
+BRAINROT FIGHT
 BRAINROT ONLINE - BALLERINA CAPPUCCINO
 BRAINROT ROYALE
 BRAINROT WARS
@@ -11119,11 +11133,13 @@ Bazar Simulator Online
 Bazar Simulator: The Wan Story
 BazarSimulator:TheWanStory
 BazarSimulatorOnline
+Be Missed and Remembered: The Letter from Mayoiga
 Be My Lust
 Be My Lust 2
 Be My Lust 3
 Be Queen Bee
 BeDo
+BeMissedandRemembered:TheLetterfromMayoiga
 BeMyLust
 BeMyLust2
 BeMyLust3
@@ -11424,9 +11440,11 @@ Bench Simulator
 BenchSimulator
 Bend
 Bendy and the Dark Revival
+Bendy and the Ink Machine
 Bendy: Lone Wolf
 Bendy:LoneWolf
 BendyandtheDarkRevival
+BendyandtheInkMachine
 Beneath
 Beneath Cloudvein
 Beneath The Six
@@ -12942,6 +12960,7 @@ Brainphant
 Brainrot Animals Fighting
 Brainrot Battle Royale
 Brainrot Battle Simulator
+Brainrot Fight
 Brainrot Online   Ballerina Cappuccino
 Brainrot Online - Ballerina Cappuccino
 Brainrot Royale
@@ -12954,6 +12973,7 @@ Brainrot:AnimalQuizzes
 BrainrotAnimalsFighting
 BrainrotBattleRoyale
 BrainrotBattleSimulator
+BrainrotFight
 BrainrotOnline-BallerinaCappuccino
 BrainrotRoyale
 BrainrotWars
@@ -14104,6 +14124,7 @@ CARRIER COMMAND
 CARRIERCOMMAND
 CARROM 2.0 || كيرم 2.0
 CARROT
+CARROT CATCHER
 CARROT ON A STICK
 CARROTONASTICK
 CARRY
@@ -14233,6 +14254,7 @@ CAT GO: TACTICAL DEFENSE BRAW
 CAT HOME
 CAT HOSTEL 开一间猫咪民宿吧！
 CAT ISLAND PETRICHOR
+CAT MAIL CO.
 CAT PRESIDENT: 3RD-RATE CANDIDATE
 CAT PUZZLE
 CAT RESCUE INC
@@ -15963,6 +15985,7 @@ CORESOFT INC
 CORESOFTINC
 COREWARD
 CORGI RACE
+CORGI SURVIVOR
 CORGISPACE
 CORNELIUS
 CORNELIUS SLATE
@@ -17416,7 +17439,9 @@ Carrom 2.0 || ???? 2.0
 Carrom 2.0 || كيرم 2.0
 Carrom2.0||كيرم2.0
 Carrot
+Carrot Catcher
 Carrot on a Stick
+CarrotCatcher
 CarrotonaStick
 Carry
 Carry Lab
@@ -17574,6 +17599,7 @@ Cat Home
 Cat Hostel ????????!
 Cat Hostel 开一间猫咪民宿吧！
 Cat Island Petrichor
+Cat Mail Co.
 Cat President: 3rd Rate Candidate
 Cat President: 3rd-Rate Candidate
 Cat Puzzle
@@ -17604,6 +17630,7 @@ CatGo:TacticalDefenseBraw
 CatHome
 CatHostel开一间猫咪民宿吧！
 CatIslandPetrichor
+CatMailCo.
 CatPresident:3rd-RateCandidate
 CatPuzzle
 CatRescueInc
@@ -19566,8 +19593,10 @@ Coresoft Inc
 CoresoftInc
 Coreward
 Corgi Race
+Corgi Survivor
 CorgiRace
 CorgiSpace
+CorgiSurvivor
 Cornelius
 Cornelius Slate
 CorneliusSlate
@@ -20986,6 +21015,7 @@ DARK PIT
 DARK PROJECT
 DARK QUEST 4
 DARK RALLY
+DARK REAPER SHOOTS! 2
 DARK RIDE: THE FELINE FIX
 DARK SAMUS
 DARK SEA
@@ -21822,6 +21852,7 @@ DESTINY 2: THE EDGE OF FATE
 DESTINY 2: TRIUMPHANT REWARDS SILVER BUNDLE
 DESTINY 2: YEAR OF PROPHECY
 DESTINY 2: YEAR OF PROPHECY ULTIMATE EDITION
+DESTINY OF IMMORTAL
 DESTROY
 DESTROY ALL HUMANS!
 DESTROY THE WALL
@@ -21984,6 +22015,7 @@ DIAMOND SHOVEL
 DIAMOND SOFTWARE
 DIAMOND SUN
 DIAMOND SWORD
+DIAMOND-DIE
 DIAMONDAXE
 DIAMONDBOOTS
 DIAMONDCHESTPLATE
@@ -23684,6 +23716,7 @@ Dark Pit
 Dark Project
 Dark Quest 4
 Dark Rally
+Dark Reaper Shoots! 2
 Dark Ride: The Feline Fix
 Dark Samus
 Dark Sea
@@ -23731,6 +23764,7 @@ DarkPit
 DarkProject
 DarkQuest4
 DarkRally
+DarkReaperShoots!2
 DarkRide:TheFelineFix
 DarkSamus
 DarkSea
@@ -24727,12 +24761,14 @@ Destiny 2: The Edge of Fate
 Destiny 2: Triumphant Rewards Silver Bundle
 Destiny 2: Year of Prophecy
 Destiny 2: Year of Prophecy Ultimate Edition
+Destiny of Immortal
 Destiny2:Renegades
 Destiny2:TheCollection
 Destiny2:TheEdgeofFate
 Destiny2:TriumphantRewardsSilverBundle
 Destiny2:YearofProphecy
 Destiny2:YearofProphecyUltimateEdition
+DestinyofImmortal
 Destroy
 Destroy All Humans!
 Destroy the Wall
@@ -24893,6 +24929,7 @@ Diamond
 Diamond Axe
 Diamond Boots
 Diamond Chestplate
+Diamond Die
 Diamond Helmet
 Diamond Hoe
 Diamond Horse
@@ -24905,6 +24942,7 @@ Diamond Software
 Diamond Sun
 Diamond Sword
 Diamond escape
+Diamond-Die
 DiamondAxe
 DiamondBoots
 DiamondChestplate
@@ -26919,6 +26957,8 @@ ECHOCHAMBER: NOT WELCOME
 ECHOES FROM THE SOUL
 ECHOES IN THE DEEP - A FATEFORGE TALE
 ECHOES OF A THREAD
+ECHOES OF AINCRAD
+ECHOES OF AINCRAD - ULTIMATE UPGRADE PACK
 ECHOES OF BAIKAL
 ECHOES OF FORGOTTEN DREAMS
 ECHOES OF FORGOTTEN DREAMS DIGITAL ART BOOK
@@ -27041,6 +27081,7 @@ EDNA
 EDU SIMULATOR
 EDUCATIF
 EDUCATION
+EDUCATIONAL FAMILY GAMES
 EDUSIMULATOR
 EDUWARE
 EDUWARE SERVICES
@@ -27818,6 +27859,7 @@ ESCAPE FROM TARKOV - PREPARE FOR ESCAPE EXPANSION PACK
 ESCAPE FROM TARKOV: PVE ZONE
 ESCAPE FROM TIMOKHA 2: ARMY
 ESCAPE FROM TUNG TUNG SAHUR
+ESCAPE FROM UMBRA
 ESCAPE FROM YANDERE
 ESCAPE GAME: CAMPER 2
 ESCAPE HOUSE
@@ -28007,6 +28049,7 @@ EVER ROACH
 EVER WAR
 EVERFALL 2: IDLE DUNGEON RPG
 EVERFALL: IDLE DUNGEON RPG
+EVERGARDEN
 EVERGLEN
 EVERLIFE
 EVERPLAY
@@ -28352,6 +28395,9 @@ Echoes From The Soul
 Echoes Runner
 Echoes in the Deep   A Fateforge Tale
 Echoes in the Deep - A Fateforge Tale
+Echoes of Aincrad
+Echoes of Aincrad   Ultimate Upgrade Pack
+Echoes of Aincrad - Ultimate Upgrade Pack
 Echoes of Baikal
 Echoes of Forgotten Dreams
 Echoes of Forgotten Dreams Digital Art Book
@@ -28378,6 +28424,8 @@ Echoes of the Wind
 EchoesFromTheSoul
 EchoesRunner
 EchoesintheDeep-AFateforgeTale
+EchoesofAincrad
+EchoesofAincrad-UltimateUpgradePack
 EchoesofBaikal
 EchoesofForgottenDreams
 EchoesofForgottenDreamsDigitalArtBook
@@ -28506,6 +28554,8 @@ EduWare Services
 EduWareServices
 Educatif
 Education
+Educational Family Games
+EducationalFamilyGames
 Edward
 Edward Grimes
 Edward T.Fortune
@@ -29325,6 +29375,7 @@ Escape from Tarkov - Prepare for Escape Edition
 Escape from Tarkov - Prepare for Escape Expansion Pack
 Escape from Tarkov: PVE Zone
 Escape from Tung Tung Sahur
+Escape from Umbra
 Escape from Yandere
 Escape of the school
 Escape the Backrooms
@@ -29369,6 +29420,7 @@ EscapefromTarkov-PrepareforEscapeEdition
 EscapefromTarkov-PrepareforEscapeExpansionPack
 EscapefromTarkov:PVEZone
 EscapefromTungTungSahur
+EscapefromUmbra
 EscapefromYandere
 Escapen t
 Escapen't
@@ -29575,6 +29627,7 @@ Everfall 2: Idle Dungeon RPG
 Everfall2:IdleDungeonRPG
 Everfall: Idle Dungeon RPG
 Everfall:IdleDungeonRPG
+Evergarden
 Everglen
 Everlife
 Everplay
@@ -34743,6 +34796,7 @@ GHLOBOT GALAXY
 GHOM
 GHOST
 GHOST CODE: ESCAPE
+GHOST EXORCIST
 GHOST GAMES
 GHOST IN THE FEED
 GHOST IN THE GRID
@@ -34824,6 +34878,7 @@ GIFTED: THE TOMBS DEMO
 GIFTS, PLEASE
 GIFTUP-FARM
 GIGA
+GIGABASH - ULTRAMAN ZERO DLC
 GIGANTE
 GIGAS
 GIGASWORD
@@ -35100,6 +35155,7 @@ GOBLIN DISH
 GOBLIN GOOPMAXXING
 GOBLIN LORD WANTS ME TO BECOME A VIRGIN WIZARD BY MANAGING THE BROTHEL!?
 GOBLIN QUEST III
+GOBLIN SOLITAIRE
 GOBLIN VS PRINCESS
 GOBLIN VYKE: THE THIEF TYCOON
 GOBLIN: MUTATION
@@ -35384,6 +35440,8 @@ GRAN
 GRAN THEFT LURE
 GRAN TURISMO
 GRAN TURISMO 3
+GRANBLUE FANTASY: RELINK - ENDLESS RAGNAROK (STANDARD EDITION)
+GRANBLUE FANTASY: RELINK - ENDLESS RAGNAROK UPGRADE KIT (STANDARD EDITION)
 GRAND
 GRAND BATTLE SWAN COLOSSEUM
 GRAND DONALD TRUMP SIMULATOR
@@ -36031,6 +36089,7 @@ GX4000
 GYM CAMP SIMULATOR
 GYM SIMULATOR
 GYRE
+GYRO
 GYROIDE
 GYROPIA
 GYRUSS
@@ -36760,6 +36819,7 @@ GhlobotGalaxy
 Ghom
 Ghost
 Ghost Code: Escape
+Ghost Exorcist
 Ghost Games
 Ghost In The Feed
 Ghost In The Grid
@@ -36776,6 +36836,7 @@ Ghost Warrior
 Ghost of Tsushima DIRECTOR S CUT
 Ghost of Tsushima DIRECTOR'S CUT
 GhostCode:Escape
+GhostExorcist
 GhostGames
 GhostInTheFeed
 GhostInTheGrid
@@ -36853,6 +36914,9 @@ Gifted:TheTombsDemo
 Gifts, Please
 Gifts,Please
 Giga
+GigaBash   Ultraman Zero DLC
+GigaBash - Ultraman Zero DLC
+GigaBash-UltramanZeroDLC
 GigaWing
 Gigante
 Gigas
@@ -37146,6 +37210,7 @@ Goblin Dish
 Goblin Goopmaxxing
 Goblin Lord wants me to become a Virgin Wizard by Managing The Brothel!?
 Goblin Quest III
+Goblin Solitaire
 Goblin VS Princess
 Goblin Vyke: The Thief Tycoon
 Goblin: Mutation
@@ -37157,6 +37222,7 @@ GoblinDish
 GoblinGoopmaxxing
 GoblinLordwantsmetobecomeaVirginWizardbyManagingTheBrothel!?
 GoblinQuestIII
+GoblinSolitaire
 GoblinVSPrincess
 GoblinVyke:TheThiefTycoon
 Goblins
@@ -37487,6 +37553,14 @@ Gran Theft Lure
 Gran Turismo
 GranTheftLure
 GranTurismo
+Granblue Fantasy: Relink   Endless Ragnarok (Standard Edition)
+Granblue Fantasy: Relink   Endless Ragnarok Upgrade Kit (Standard Edition)
+Granblue Fantasy: Relink - Endless Ragnarok  Standard Edition 
+Granblue Fantasy: Relink - Endless Ragnarok (Standard Edition)
+Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit  Standard Edition 
+Granblue Fantasy: Relink - Endless Ragnarok Upgrade Kit (Standard Edition)
+GranblueFantasy:Relink-EndlessRagnarok(StandardEdition)
+GranblueFantasy:Relink-EndlessRagnarokUpgradeKit(StandardEdition)
 Grand
 Grand Battle Swan Colosseum
 Grand Donald Trump Simulator
@@ -38128,6 +38202,7 @@ Gym Simulator
 GymCampSimulator
 GymSimulator
 Gyre
+Gyro
 Gyroide
 Gyruss
 GÖREV
@@ -39395,6 +39470,7 @@ HOLLOW WARD
 HOLLOWAY
 HOLLOWBROOK - APARTMENTS
 HOLLOWDEEP
+HOLLOWFORGE
 HOLLOWMIREDemo
 HOLLYWARE
 HOLLYWARE ENTERTAINMENT
@@ -41442,6 +41518,7 @@ Hollowbrook   Apartments
 Hollowbrook - Apartments
 Hollowbrook-Apartments
 Hollowdeep
+Hollowforge
 Hollyware
 Hollyware Entertainment
 HollywareEntertainment
@@ -42068,12 +42145,14 @@ I AM COIN
 I AM NOT A ROBOT
 I AM SAKUYA FPS: LUNARIAN INVASION
 I AM THE DAO
+I AM THE DEMON KING: STOP SUN WUKONG
 I ANTASIZED AGAIN
 I Am A Stick
 I Am Better Than You
 I Am Busy Digging A Hole
 I Am Not A Robot
 I Am Sakuya FPS: Lunarian Invasion
+I Am the Demon King: Stop Sun Wukong
 I Antasized Again
 I BEAT MY MEAT TO MY YANDERE GOTH FRIEND'S MOM
 I BECAME MY PUNK SON'S FAKE GIRLFRIEND
@@ -42195,6 +42274,7 @@ IAmBetterThanYou
 IAmBusyDiggingAHole
 IAmNotARobot
 IAmSakuyaFPS:LunarianInvasion
+IAmtheDemonKing:StopSunWukong
 IAntasizedAgain
 IBA
 IBA GROUP
@@ -44876,6 +44956,7 @@ JHM
 JIAOZI & SHOPKEEPER DEMO
 JIGGLY STRIKE
 JIGGLYPUFF
+JIGOKURAKU: BATTLE IN HELL'S PARADISE
 JIGSAW INDUSTRY
 JIGSAW PUZZLE
 JIGSAW PUZZLE PALACE
@@ -45727,6 +45808,9 @@ Jiaozi&ShopkeeperDemo
 Jiggly Strike
 JigglyStrike
 Jigglypuff
+Jigokuraku: BATTLE IN HELL S PARADISE
+Jigokuraku: BATTLE IN HELL'S PARADISE
+Jigokuraku:BATTLEINHELL'SPARADISE
 Jigsaw Industry
 Jigsaw Puzzle
 Jigsaw Puzzle Palace
@@ -49964,6 +50048,7 @@ LINGXIAOYU
 LINK
 LINK CARTOON
 LINK ENFANT
+LINK LAB
 LINK PENGUINS
 LINK Penguins
 LINK'S
@@ -50078,6 +50163,7 @@ LITTLE PETSVILLE DESKTOP
 LITTLE PROBLEMS: A COZY DETECTIVE GAME
 LITTLE ROCKET LAB
 LITTLE SAMSON
+LITTLE SLIME AND THE CROWN
 LITTLE SMILES DAYCARE
 LITTLE SQUIRREL CABIN
 LITTLE THINGS
@@ -52040,9 +52126,11 @@ Lingotdefer
 Lingotdor
 Link
 Link Cartoon
+Link Lab
 Link enfant
 Link's
 LinkCartoon
+LinkLab
 Linkcp
 Linkenfant
 Linkle
@@ -52145,6 +52233,7 @@ Little Petsville Desktop
 Little Problems: A Cozy Detective Game
 Little Rocket Lab
 Little Samson
+Little Slime and the Crown
 Little Smiles Daycare
 Little Squirrel Cabin
 Little Things
@@ -52181,6 +52270,7 @@ LittlePetsvilleDesktop
 LittleProblems:ACozyDetectiveGame
 LittleRocketLab
 LittleSamson
+LittleSlimeandtheCrown
 LittleSmilesDaycare
 LittleSquirrelCabin
 LittleThings
@@ -54640,6 +54730,7 @@ MICROMEGA
 MICROMOSAICS
 MICRONET
 MICRONICS
+MICRONOVA
 MICROPROSE
 MICROPROSE SOCCER
 MICROPROSE SOFTWARE
@@ -55629,6 +55720,7 @@ MOOSHROOMSPAWNEGG
 MOPOO
 MOPOO MOPOO
 MOPOOMOPOO
+MORA'S CAT SCRATCHER PLUS
 MORATORIUM: DON’T BEAT THIS GAME
 MORBID METAL
 MORDHAGEN
@@ -58082,6 +58174,7 @@ Micromosaics
 Microméga
 Micronet
 Micronics
+Micronova
 Microprose
 Microprose Soccer
 MicroproseSoccer
@@ -59206,6 +59299,9 @@ MooshroomSpawnEgg
 Mopoo
 Mopoo Mopoo
 MopooMopoo
+Mora s Cat Scratcher PLUS
+Mora's Cat Scratcher PLUS
+Mora'sCatScratcherPLUS
 Moratorium: Don't Beat This Game
 Moratorium: Don’t Beat This Game
 Moratorium:Don’tBeatThisGame
@@ -65601,6 +65697,7 @@ PAPAYA STUDIO
 PAPAYASTUDIO
 PAPAYETI
 PAPER
+PAPER BASEBALL
 PAPER CANNON
 PAPER CRAFT
 PAPER CUT
@@ -68293,6 +68390,7 @@ PapayaStudio
 Papayeti
 Papayéti
 Paper
+Paper Baseball
 Paper Cannon
 Paper Craft
 Paper Depths
@@ -68305,6 +68403,7 @@ Paper Soccer
 Paper Wars
 Paper cut
 Paper dance Engine
+PaperBaseball
 PaperCannon
 PaperCraft
 PaperDepths
@@ -77770,6 +77869,7 @@ SKULLERSKULLER
 SKULLKID
 SKULLOMANIA
 SKULLPIRATES
+SKULLS SKULLS SKULLS BY DANIEL DA SILVA
 SKULLX: AIBOHPHOBIA
 SKULL_BANNER_PATTERN
 SKURVY
@@ -77957,6 +78057,7 @@ SMARTBOMB
 SMARTBOMB INTERACTIVE
 SMARTBOMBINTERACTIVE
 SMARTDOG
+SMARTERWAYSPRODUCTIONS: ANDROMEDA - SUPPORTER PACK
 SMARTMEMESEARCH PRO
 SMASH
 SMASH BROS
@@ -77983,6 +78084,7 @@ SMLSD
 SMOKE
 SMOKE & LOTTERY SIMULATOR
 SMOKE BREAK!
+SMOKE TOWN
 SMOKEY
 SMOKEY LE DRAGON
 SMOKEYLEDRAGON
@@ -78019,6 +78121,7 @@ SNAKEEATER
 SNAKES
 SNAKEYBOSS
 SNAP & GRAB
+SNAPCATS
 SNAPSHOT SPIRIT LIVE!
 SNAPSHOTS
 SNATCHER
@@ -80199,6 +80302,7 @@ SWEET BERRIES
 SWEET CASINO 2
 SWEET CHEERING
 SWEET CHEONGSAM
+SWEET DANCE
 SWEET DELIVERY
 SWEET DRIVER
 SWEET DUNGEON
@@ -82701,6 +82805,8 @@ Skuller
 Skuller Skuller
 SkullerSkuller
 Skullomania
+Skulls Skulls Skulls by Daniel da Silva
+SkullsSkullsSkullsbyDanieldaSilva
 Skurvy
 Skweek
 Sky
@@ -82946,6 +83052,9 @@ SmartBombInteractive
 SmartMemeSearch Pro
 SmartMemeSearchPro
 Smartdog
+SmarterWaysProductions: Andromeda   Supporter Pack
+SmarterWaysProductions: Andromeda - Supporter Pack
+SmarterWaysProductions:Andromeda-SupporterPack
 Smash
 Smash Bros
 Smash Out Colony
@@ -82980,8 +83089,10 @@ Smoke
 Smoke   Lottery Simulator
 Smoke & Lottery Simulator
 Smoke Break!
+Smoke Town
 Smoke&LotterySimulator
 SmokeBreak!
+SmokeTown
 Smokey
 Smokey le dragon
 Smokeyledragon
@@ -83028,6 +83139,7 @@ Snake贪吃蛇
 Snap   Grab
 Snap & Grab
 Snap&Grab
+SnapCats
 Snapshot Spirit Live!
 SnapshotSpiritLive!
 Snapshots
@@ -85701,6 +85813,7 @@ Sweet Berries
 Sweet Casino 2
 Sweet Cheering
 Sweet Cheongsam
+Sweet Dance
 Sweet Delivery
 Sweet Driver
 Sweet Dungeon
@@ -85741,6 +85854,7 @@ SweetBerries
 SweetCasino2
 SweetCheering
 SweetCheongsam
+SweetDance
 SweetDelivery
 SweetDriver
 SweetDungeon
@@ -86794,6 +86908,7 @@ TETRISONLINE,INC
 TETRISONLINEINC
 TETRISTHEGRANDMASTER
 TETRO RUNNER
+TETROGUE
 TETRX 360 - EONS OF TIME
 TETSUJIN
 TEVI   Bunny Magician Cosmetic Pack
@@ -87417,6 +87532,7 @@ THE MAZE: L'ULTIMO SOLDATO
 THE MELTY WAY
 THE MEMOLOGICAL DUNGEON
 THE MENACE BELOW
+THE MERIDIAN
 THE MERRY FAIRY
 THE MESSAGE FROM DEEP SPACE
 THE METAL AGE
@@ -87728,6 +87844,7 @@ THE WITCHER III
 THE WITCHER III WILD HUNT
 THE WITCHER III: WILD HUNT
 THE WOMAN ABOVE
+THE WORLD BELOW - A CALL WITHIN
 THE WORLD ENDS IN OHIO
 THE WRECK THAT SHOULD NOT BE
 THE WRONG FLOOR
@@ -88925,6 +89042,7 @@ TRAINZ
 TRALALERO TRALALA : SURVIVE THE NIGHT
 TRAMP
 TRANCE
+TRANCE WORLD
 TRANCHE
 TRANCHE DE PASTEQUE
 TRANCHE DE PASTEQUE SCINTILLANTE
@@ -90423,6 +90541,7 @@ TetrisOnlineInc
 TetrisTheGrandMaster
 Tetro Runner
 TetroRunner
+Tetrogue
 Tetsujin
 Tex
 Tex Murphy
@@ -91040,6 +91159,7 @@ The Maze: L'ultimo soldato
 The Melty Way
 The Memological Dungeon
 The Menace Below
+The Meridian
 The Merry Fairy
 The Message from Deep Space
 The Midnight Exorcist Demo
@@ -91363,6 +91483,8 @@ The Witcher 3: Wild Hunt
 The Witcher 3: Wild Hunt   Complete Edition
 The Witcher 3: Wild Hunt - Complete Edition
 The Woman Above
+The World Below   A Call Within
+The World Below - A Call Within
 The World Ends in Ohio
 The Wreck That Should Not Be
 The Wrong Floor
@@ -91902,6 +92024,7 @@ TheMazeSurvivor:The9thEntrants
 TheMeltyWay
 TheMemologicalDungeon
 TheMenaceBelow
+TheMeridian
 TheMerryFairy
 TheMessagefromDeepSpace
 TheMidnightExorcistDemo
@@ -92188,6 +92311,7 @@ TheWitchandTheLostBabies
 TheWitcher3:WildHunt
 TheWitcher3:WildHunt-CompleteEdition
 TheWomanAbove
+TheWorldBelow-ACallWithin
 TheWorldEndsinOhio
 TheWreckThatShouldNotBe
 TheWrongFloor
@@ -93450,6 +93574,8 @@ Tralalero Tralala : Survive the night
 TralaleroTralala:Survivethenight
 Tramp
 Trance
+Trance World
+TranceWorld
 Tranche
 Tranche de pastèque
 Tranche de pastèque scintillante
@@ -97106,6 +97232,7 @@ WATCHDOGS
 WATCHER FROM THE VOID
 WATCHER'S EYE
 WATCHING THE SKY
+WATCH_DOGS® 2
 WATCH▷
 WATER
 WATER BUCKET
@@ -97319,6 +97446,7 @@ WHERE HELL IS BORN
 WHERE IS LENA?
 WHERE IS MOMMY
 WHERE IS MOTHER
+WHERE IS MY PET? DEMO
 WHERE IS MY POCKET?
 WHERE IT ALL BEGAN - SEASON 1
 WHERE STONES SLEEP
@@ -98403,6 +98531,9 @@ Watch The Pet
 Watch the Cornline VR
 WatchDogs
 WatchThePet
+Watch_Dogs(R) 2
+Watch_Dogs® 2
+Watch_Dogs®2
 Watcher from the Void
 Watcher s Eye
 Watcher's Eye
@@ -98675,6 +98806,7 @@ Where We Echo
 Where We Used to Play Demo
 Where Winds Meet
 Where is Mother
+Where is My Pet? Demo
 Where it all Began   Season 1
 Where it all Began - Season 1
 Where s My Futa Deck?
@@ -98698,6 +98830,7 @@ WhereWeEcho
 WhereWeUsedtoPlayDemo
 WhereWindsMeet
 WhereisMother
+WhereisMyPet?Demo
 WhereitallBegan-Season1
 WheretheHeartRests
 Wheretheforestends
@@ -101400,6 +101533,7 @@ a frog in a small pond
 a game about building a tower
 a game about cards
 a game about cutting a tree
+a game about leading a crowds
 a game about making a planet
 a game about making a planet - supporter pack
 a game about mining rocks
@@ -101939,6 +102073,7 @@ age of empires iv: anniversary edition
 age of empires mobile: pc edition
 age of gods
 age of history ii
+age of legacy demo
 age of memology
 age of mythology: retold - expansion pass
 age of mythology: retold - new gods pack: demeter
@@ -102165,6 +102300,7 @@ alcuinalcuin
 aldaris
 ale abbey - monastery brewery tycoon
 alebound
+alek
 alen
 alert
 aleste
@@ -104577,6 +104713,7 @@ bdsm sex
 bdsm sex - futanari
 bdsm sex - futanari 2
 be
+be missed and remembered: the letter from mayoiga
 be my lust
 be my lust 2
 be my lust 3
@@ -104807,6 +104944,7 @@ ben
 bench simulator
 bend
 bendy and the dark revival
+bendy and the ink machine
 bendy: lone wolf
 beneath
 beneath a steel sky
@@ -106084,6 +106222,7 @@ brainrot animals fighting
 brainrot battle
 brainrot battle royale
 brainrot battle simulator
+brainrot fight
 brainrot online - ballerina cappuccino
 brainrot royale
 brainrot wars
@@ -107098,6 +107237,7 @@ carrier command
 carriercommand
 carrom 2.0 || كيرم 2.0
 carrot
+carrot catcher
 carrot on a stick
 carrotonastick
 carry
@@ -107225,6 +107365,7 @@ cat go: tactical defense braw
 cat home
 cat hostel 开一间猫咪民宿吧！
 cat island petrichor
+cat mail co.
 cat president: 3rd-rate candidate
 cat puzzle
 cat rescue inc
@@ -108885,6 +109026,7 @@ coresoft inc
 coresoftinc
 coreward
 corgi race
+corgi survivor
 corgispace
 cornelius
 cornelius slate
@@ -110075,6 +110217,7 @@ dark pit
 dark project
 dark quest 4
 dark rally
+dark reaper shoots! 2
 dark ride: the feline fix
 dark samus
 dark sea
@@ -110862,6 +111005,7 @@ destiny 2: the edge of fate
 destiny 2: triumphant rewards silver bundle
 destiny 2: year of prophecy
 destiny 2: year of prophecy ultimate edition
+destiny of immortal
 destroy
 destroy all humans!
 destroy the wall
@@ -111016,6 +111160,7 @@ diamond shovel
 diamond software
 diamond sun
 diamond sword
+diamond-die
 diamondaxe
 diamondboots
 diamondchestplate
@@ -112616,6 +112761,8 @@ echochamber: not welcome
 echoes from the soul
 echoes in the deep - a fateforge tale
 echoes of a thread
+echoes of aincrad
+echoes of aincrad - ultimate upgrade pack
 echoes of baikal
 echoes of forgotten dreams
 echoes of forgotten dreams digital art book
@@ -112740,6 +112887,7 @@ edna
 edu simulator
 educatif
 education
+educational family games
 eduware
 eduware services
 eduwareservices
@@ -113497,6 +113645,7 @@ escape from tarkov - prepare for escape expansion pack
 escape from tarkov: pve zone
 escape from timokha 2: army
 escape from tung tung sahur
+escape from umbra
 escape from yandere
 escape game: camper 2
 escape house
@@ -113681,6 +113830,7 @@ ever roach
 ever war
 everfall 2: idle dungeon rpg
 everfall: idle dungeon rpg
+evergarden
 everglen
 everlife
 everplay
@@ -116363,6 +116513,7 @@ ghlobot galaxy
 ghom
 ghost
 ghost code: escape
+ghost exorcist
 ghost games
 ghost in the feed
 ghost in the grid
@@ -116438,6 +116589,7 @@ gift up - farm
 gifted: the tombs demo
 gifts, please
 giga
+gigabash - ultraman zero dlc
 gigante
 gigas
 gigasword
@@ -116702,6 +116854,7 @@ goblin dish
 goblin goopmaxxing
 goblin lord wants me to become a virgin wizard by managing the brothel!?
 goblin quest iii
+goblin solitaire
 goblin vs princess
 goblin vyke: the thief tycoon
 goblin: mutation
@@ -116982,6 +117135,8 @@ gran
 gran theft lure
 gran turismo
 gran turismo 3
+granblue fantasy: relink - endless ragnarok (standard edition)
+granblue fantasy: relink - endless ragnarok upgrade kit (standard edition)
 grand
 grand battle swan colosseum
 grand donald trump simulator
@@ -117584,6 +117739,7 @@ gx4000
 gym camp simulator
 gym simulator
 gyre
+gyro
 gyroide
 gyropia
 gyruss
@@ -118806,6 +118962,7 @@ hollow ward
 holloway
 hollowbrook - apartments
 hollowdeep
+hollowforge
 hollyware
 hollyware entertainment
 hollywareentertainment
@@ -119277,6 +119434,7 @@ i am coin
 i am not a robot
 i am sakuya fps: lunarian invasion
 i am the dao
+i am the demon king: stop sun wukong
 i antasized again
 i beat my meat to my yandere goth friend's mom
 i became my punk son's fake girlfriend
@@ -120813,6 +120971,7 @@ jhm
 jiaozi & shopkeeper demo
 jiggly strike
 jigglypuff
+jigokuraku: battle in hell's paradise
 jigsaw industry
 jigsaw puzzle
 jigsaw puzzle palace
@@ -123652,6 +123811,7 @@ lingxiaoyu
 link
 link cartoon
 link enfant
+link lab
 link penguins
 link's
 link's awakening
@@ -123763,6 +123923,7 @@ little petsville desktop
 little problems: a cozy detective game
 little rocket lab
 little samson
+little slime and the crown
 little smiles daycare
 little squirrel cabin
 little things
@@ -125980,6 +126141,7 @@ micromosaics
 microméga
 micronet
 micronics
+micronova
 microprose
 microprose soccer
 microprose software
@@ -126934,6 +127096,7 @@ mooshroomspawnegg
 mopoo
 mopoo mopoo
 mopoomopoo
+mora's cat scratcher plus
 moratorium: don’t beat this game
 morbid metal
 mordhagen
@@ -130273,6 +130436,7 @@ papayastudio
 papayeti
 papayéti
 paper
+paper baseball
 paper cannon
 paper craft
 paper cut
@@ -136614,6 +136778,7 @@ skullerskuller
 skullkid
 skullomania
 skullpirates
+skulls skulls skulls by daniel da silva
 skullx: aibohphobia
 skurvy
 skweek
@@ -136792,6 +136957,7 @@ smartbomb
 smartbomb interactive
 smartbombinteractive
 smartdog
+smarterwaysproductions: andromeda - supporter pack
 smartmemesearch pro
 smash
 smash bros
@@ -136818,6 +136984,7 @@ smlsd
 smoke
 smoke & lottery simulator
 smoke break!
+smoke town
 smokey
 smokey le dragon
 smokeyledragon
@@ -136853,6 +137020,7 @@ snakeeater
 snakes
 snakeyboss
 snap & grab
+snapcats
 snapshot spirit live!
 snapshots
 snatcher
@@ -138950,6 +139118,7 @@ sweet berries
 sweet casino 2
 sweet cheering
 sweet cheongsam
+sweet dance
 sweet delivery
 sweet driver
 sweet dungeon
@@ -139930,6 +140099,7 @@ tetrisonline,inc
 tetrisonlineinc
 tetristhegrandmaster
 tetro runner
+tetrogue
 tetrx 360 - eons of time
 tetsujin
 tevi - bunny magician cosmetic pack
@@ -140536,6 +140706,7 @@ the maze: l'ultimo soldato
 the melty way
 the memological dungeon
 the menace below
+the meridian
 the merry fairy
 the message from deep space
 the metal age
@@ -140846,6 +141017,7 @@ the witcher iii
 the witcher iii wild hunt
 the witcher iii: wild hunt
 the woman above
+the world below - a call within
 the world ends in ohio
 the wreck that should not be
 the wrong floor
@@ -142021,6 +142193,7 @@ trainz
 tralalero tralala : survive the night
 tramp
 trance
+trance world
 tranche
 tranche de pasteque
 tranche de pasteque scintillante
@@ -144106,6 +144279,7 @@ watch
 watch dogs
 watch the cornline vr
 watch the pet
+watch_dogs® 2
 watchdogs
 watcher from the void
 watcher's eye
@@ -144306,6 +144480,7 @@ where hell is born
 where is lena?
 where is mommy
 where is mother
+where is my pet? demo
 where is my pocket?
 where it all began - season 1
 where stones sleep
@@ -146115,6 +146290,7 @@ zèbre
 勇者之路
 勇者传承
 勇者大暴走
+十米爆爽超变
 千军纵横 专服版
 千军纵横-专服版
 南朝香华诡事录
