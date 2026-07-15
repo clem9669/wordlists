@@ -2228,6 +2228,8 @@ ALLERHEILIGEN
 ALLERHEILIGEN 2021
 ALLERHEILIGEN WO FEIERTAG
 ALLERTA METEO
+ALLERTA TEMPORALE DI MEDIA INTENSITA
+ALLERTA TEMPORALE DI MEDIA INTENSITÀ
 ALLES IN DE STRIJD
 ALLEZ LES BLEUS
 ALLIANZ
@@ -9364,6 +9366,8 @@ BELLE PEREZ
 BELLE, BELLE, BELLE
 BELLE, BELLE, BELLE FILM
 BELLE-FILLE
+BELLE-ILE-EN-MER
+BELLE-ÎLE-EN-MER
 BELLERIVESTRASSE
 BELLEROPHON
 BELLEWAERDE
@@ -10567,6 +10571,7 @@ BRAND KREUZLINGEN
 BRAND KRIENS
 BRAND LANAKEN
 BRAND LANGSTRASSE
+BRAND LEUVEN
 BRAND LINDENHOF ZURICH
 BRAND LINDENHOF ZÜRICH
 BRAND LINTHAL
@@ -14700,9 +14705,11 @@ CADIX – ATLÉTICO MADRID
 CADIX – BARCELONA
 CADIX – REAL MADRID
 CAEN
+CAEN - PARIS 13 ATLETICO
 CAEN – GUINGAMP
 CAEN – METZ
 CAEN – NANTES
+CAEN – PARIS 13 ATLETICO
 CAEN – PARIS FC
 CAEN – RODEZ
 CAEN – SOCHAUX
@@ -15890,6 +15897,7 @@ CHOCOMEL
 CHOLERA
 CHOLERA AUSBRUCH AFRIKA
 CHOLERA KREUZFAHRTSCHIFF
+CHOLESTEROL
 CHOLET
 CHOLET BASKET
 CHOMAGE
@@ -22574,6 +22582,7 @@ DWARS DOOR VLAANDEREN 2024 PARCOURS
 DWAYNE JOHNSON
 DYBALA
 DYING LIGHT 2
+DYLAN DESCHAMPS
 DYLAN DIETRICH
 DYLAN GROENEWEGEN
 DYLAN MEYER
@@ -29908,6 +29917,7 @@ FLORIAN AST
 FLORIAN DAVID FITZ
 FLORIAN FISCHER SNOWBOARD
 FLORIAN GILLET
+FLORIAN LIPOWITZ
 FLORIAN PHILIPPOT
 FLORIAN ROSSI
 FLORIAN SILBEREISEN
@@ -45615,6 +45625,7 @@ KANTON GRAUBÜNDEN BÄR
 KANTON SCHWYZ
 KANTON ST.GALLEN CORONA
 KANTONSPOLIZEI BERN
+KANTONSPOLIZEI ST. GALLEN
 KANTONSPOLIZEI THURGAU
 KANTONSPOLIZEI URI
 KANTONSRATSWAHLEN ST.GALLEN
@@ -45919,6 +45930,7 @@ KETANJI BROWN JACKSON
 KETNET
 KETNET ZOMERTOUR
 KETO-DIÄT
+KETTINGBOTSING
 KETTINGBOTSING NAZARETH
 KEV ADAMS
 KEVIN - ALLEIN IN NEW YORK
@@ -50233,6 +50245,7 @@ LUCIA-FEST
 LUCIANO CAPASSO
 LUCIANO DARDERI
 LUCID AIR
+LUCID MOTORS
 LUCIE AUBRAC
 LUCIE BERNARDONI
 LUCIE CARRASCO
@@ -56354,6 +56367,7 @@ MIGROS FELDSCHLOSSCHEN
 MIGROS FELDSCHLÖSSCHEN
 MIGROS GRITTIBANZ
 MIGROS GRITTIBÄNZ
+MIGROS RAUCHLACHS
 MIGROS SNACKAUTOMATEN
 MIGROS VERKAUFT HOTELPLAN
 MIGUEL ANGEL LOPEZ
@@ -57016,6 +57030,7 @@ MORZINE
 MOSCOU
 MOSCOU BRUXELLES
 MOSCOVICI
+MOSELLE
 MOSELLE – INONDATIONS
 MOSES INGRAM
 MOSES J. MOSELEY
@@ -65431,6 +65446,8 @@ ORBAN
 ORBE DISPARITION
 ORCA
 ORCHIES
+ORDRE NATIONAL DE LA LEGION D'HONNEUR
+ORDRE NATIONAL DE LA LÉGION D'HONNEUR
 OREBRO
 OREL MANGALA
 ORELSAN
@@ -66650,6 +66667,7 @@ PAOLA LOCATELLI
 PAOLA TURCI
 PAOLINI
 PAOLO BANCHERO
+PAOLO BELLI
 PAOLO DUCA
 PAOLO LIUZZO
 PAOLO NUTINI
@@ -67373,6 +67391,7 @@ PETER PIOT
 PETER R. DE VRIES
 PETER REBER
 PETER RENKENS
+PETER RUNGGALDIER
 PETER SAGAN
 PETER SAUBER
 PETER SCOLARI
@@ -67937,6 +67956,7 @@ POLICIER MORT NAHEL
 POLISSE
 POLITICO
 POLITIE
+POLITIEZONE CARMA
 POLITIQUE
 POLIZEI
 POLIZEI BERN
@@ -72257,6 +72277,7 @@ RAVENNA
 RAVIL MAGANOV
 RAY LIOTTA
 RAY STEVENSON
+RAY VERHAEGHE
 RAYA
 RAYAN
 RAYAN CHERKI
@@ -73201,6 +73222,7 @@ ROBERT PATTINSON
 ROBERT PICKTON
 ROBERT PLANT
 ROBERT REDFORD
+ROBERT ROTHER
 ROBERT SUBER
 ROBERT-MICHON
 ROBERTA MELESI
@@ -89222,6 +89244,7 @@ UWE BOHM
 UWE KOCKISCH
 UWE KRUPP
 UWE SEELER
+UWE STEIMLE
 UZ GENT
 UZES
 UZH
@@ -94625,6 +94648,7 @@ ZIAN
 ZIBELEMÄRIT BERN
 ZIDANE
 ZIEKENHUIS
+ZIEKTE
 ZIEKTE MG
 ZIEKTE VAN CROHN
 ZIEKTE VAN DUPUYTREN
@@ -96969,7 +96993,11 @@ allerheiligen 2021
 allerheiligen wo feiertag
 allerheiligenwofeiertag
 allerta meteo
+allerta temporale di media intensita
+allerta temporale di media intensità
 allertameteo
+allertatemporaledimediaintensita
+allertatemporaledimediaintensità
 alles in de strijd
 allez les bleus
 allianz
@@ -100383,9 +100411,13 @@ belle perez
 belle, belle, belle
 belle, belle, belle film
 belle-fille
+belle-ile-en-mer
+belle-île-en-mer
+belleileenmer
 bellerivestrasse
 bellerophon
 bellewaerde
+belleîleenmer
 bellingcat
 bellingham
 bellinzona
@@ -101809,6 +101841,7 @@ brand kreuzlingen
 brand kriens
 brand lanaken
 brand langstrasse
+brand leuven
 brand lindenhof zurich
 brand lindenhof zürich
 brand linthal
@@ -101876,6 +101909,7 @@ brandinboppelsen
 brandkaiseraugst
 brandkreuzlingen
 brandlanaken
+brandleuven
 brandlindenhofzurich
 brandlindenhofzürich
 brandlinthal
@@ -102711,12 +102745,16 @@ cadix – barcelona
 cadix – real madrid
 cadixziekenhuis
 caen
+caen - paris 13 atletico
 caen – guingamp
 caen – metz
 caen – nantes
+caen – paris 13 atletico
 caen – paris fc
 caen – rodez
 caen – sochaux
+caen-paris13atletico
+caen–paris13atletico
 caf
 caf fevrier
 caf online
@@ -104156,6 +104194,7 @@ cholera
 cholera ausbruch afrika
 cholera kreuzfahrtschiff
 choleraausbruchafrika
+cholesterol
 cholet
 cholet basket
 chomage
@@ -106265,6 +106304,7 @@ daniellevy
 danielmickelson
 danielpolette
 danielradcliffe
+danielriolo
 danielstucki
 danielyule
 daniil medvedev
@@ -107991,6 +108031,7 @@ dwars door vlaanderen 2024 parcours
 dwayne johnson
 dybala
 dying light 2
+dylan deschamps
 dylan dietrich
 dylan groenewegen
 dylan meyer
@@ -107998,6 +108039,7 @@ dylan o'brien
 dylan robert
 dylan teuns
 dylan van baarle
+dylandeschamps
 dylandietrich
 dylangroenewegen
 dylanmeyer
@@ -111246,6 +111288,7 @@ florian ast
 florian david fitz
 florian fischer snowboard
 florian gillet
+florian lipowitz
 florian philippot
 florian rossi
 florian silbereisen
@@ -111260,6 +111303,7 @@ florian zeller
 floriana scarlato
 floriane bascou
 floriangillet
+florianlipowitz
 florianrossi
 floriansilbereisen
 florianvermeersch
@@ -119157,9 +119201,11 @@ kanton st.gallen corona
 kantongraubundenbar
 kantongraubündenbär
 kantonspolizei bern
+kantonspolizei st. gallen
 kantonspolizei thurgau
 kantonspolizei uri
 kantonspolizeibern
+kantonspolizeist.gallen
 kantonspolizeithurgau
 kantonspolizeiuri
 kantonsratswahlen st.gallen
@@ -119542,6 +119588,7 @@ ketanji brown jackson
 ketnet
 ketnet zomertour
 keto-diät
+kettingbotsing
 kettingbotsing nazareth
 kettingbotsingnazareth
 kev adams
@@ -123135,7 +123182,9 @@ luciano darderi
 lucianocapasso
 lucianodarderi
 lucid air
+lucid motors
 lucidair
+lucidmotors
 lucie aubrac
 lucie bernardoni
 lucie carrasco
@@ -126399,6 +126448,7 @@ migros feldschlosschen
 migros feldschlösschen
 migros grittibanz
 migros grittibänz
+migros rauchlachs
 migros snackautomaten
 migros verkauft hotelplan
 migrosbrot
@@ -126407,6 +126457,7 @@ migrosfeldschlosschen
 migrosfeldschlösschen
 migrosgrittibanz
 migrosgrittibänz
+migrosrauchlachs
 migrossnackautomaten
 miguel angel lopez
 miguel angel silvestre
@@ -127201,6 +127252,7 @@ moscou
 moscou bruxelles
 moscoubruxelles
 moscovici
+moselle
 moselle – inondations
 moses ingram
 moses j. moseley
@@ -129711,6 +129763,12 @@ orbe disparition
 orbedisparition
 orca
 orchies
+ordre national de la legion d'honneur
+ordre national de la legion dhonneur
+ordre national de la légion d'honneur
+ordre national de la légion dhonneur
+ordrenationaldelalegiond'honneur
+ordrenationaldelalégiond'honneur
 orebro
 orel mangala
 orelsan
@@ -130143,10 +130201,12 @@ paola locatelli
 paola turci
 paolini
 paolo banchero
+paolo belli
 paolo duca
 paolo liuzzo
 paolo nutini
 paolo pininfarina
+paolobelli
 paoloduca
 pap ndiaye
 papa
@@ -131010,6 +131070,7 @@ peter piot
 peter r. de vries
 peter reber
 peter renkens
+peter runggaldier
 peter sagan
 peter sauber
 peter scolari
@@ -131044,6 +131105,7 @@ peterknabel
 peterknäbel
 petermagyar
 peterr.devries
+peterrunggaldier
 petersauber
 peterspuhler
 peterthiel
@@ -131715,6 +131777,8 @@ policier mort nahel
 polisse
 politico
 politie
+politiezone carma
+politiezonecarma
 politique
 polizei
 polizei bern
@@ -132836,6 +132900,7 @@ racing92–montauban
 racinglarochelle
 radar
 radar meteo
+radarmeteo
 radicant
 radicondoli
 radio
@@ -133152,6 +133217,7 @@ ravenna
 ravil maganov
 ray liotta
 ray stevenson
+ray verhaeghe
 raya
 rayan
 rayan cherki
@@ -133188,6 +133254,7 @@ rayo-valencia
 rayon
 rayovallecano
 rayo–realoviedo
+rayverhaeghe
 rb leipzig
 rb leipzig  stuttgart
 rb leipzig - bayern
@@ -134216,6 +134283,7 @@ robert pattinson
 robert pickton
 robert plant
 robert redford
+robert rother
 robert suber
 robert-michon
 roberta melesi
@@ -134244,6 +134312,7 @@ robertocirillo
 robertomancini
 robertomartinez
 robertredford
+robertrother
 robin cuche
 robin des bois
 robin dowell
@@ -142317,8 +142386,10 @@ uwe bohm
 uwe kockisch
 uwe krupp
 uwe seeler
+uwe steimle
 uwekockisch
 uwekrupp
+uwesteimle
 uz gent
 uzes
 uzgent
@@ -145093,6 +145164,7 @@ zian
 zibelemärit bern
 zidane
 ziekenhuis
+ziekte
 ziekte mg
 ziekte van crohn
 ziekte van dupuytren
