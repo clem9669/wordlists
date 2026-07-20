@@ -194,11 +194,13 @@
 100 SINGAPORE CATS
 100 SRI LANKA CATS
 100 STARPAWS CATS
+100 SWAMP CATS
 100 Sea Cats
 100 Sherwood Cats
 100 Singapore Cats
 100 Sri Lanka Cats
 100 StarPaws Cats
+100 Swamp Cats
 100 THAILAND CATS
 100 TRIALS
 100 Thailand Cats
@@ -253,6 +255,7 @@
 100 singapore cats
 100 sri lanka cats
 100 starpaws cats
+100 swamp cats
 100 thailand cats
 100 trials
 100 vampire cats
@@ -319,6 +322,7 @@
 100SingaporeCats
 100SriLankaCats
 100StarPawsCats
+100SwampCats
 100ThailandCats
 100Trials
 100VampireCats
@@ -2525,6 +2529,7 @@ AERO FIGHTERS
 AEROBLASTERS
 AEROCORP
 AEROFIGHTERS
+AEROLICIOUS
 AEROWINGS
 AERUTA
 AES
@@ -5188,6 +5193,7 @@ AeroBlasters
 AeroFighters
 AeroWings
 Aerocorp
+Aerolicious
 Aeruta
 Aesop Rock s Black Hole Superette Experience
 Aesop Rock's Black Hole Superette Experience
@@ -14353,6 +14359,7 @@ CASTLE OF HEART: RETOLD
 CASTLE OF ILLUSION
 CASTLE OF SECRETS
 CASTLE SHIKIGAMI
+CASTLEBORNE SURVIVORS
 CASTLEOFILLUSION
 CASTLES
 CASTLESHIKIGAMI
@@ -14910,6 +14917,7 @@ CHESS OF FIVE ELEMENTS
 CHESS OF MANA
 CHESS WITH IDIOTS
 CHESS: DEFINITIVE EDITION
+CHESSBASE'26 SE
 CHESSBOYCHESS
 CHESSEMBLE
 CHESSFERATU
@@ -15178,6 +15186,7 @@ CHRONICLES: IMMORTAL SECT
 CHRONICLESOFRIDDICK
 CHRONICLESOFRIDDICK:ESCAPEFROMBUTCHERBAY
 CHRONIGMA
+CHRONIME PUZZLE: CATS
 CHRONIME PUZZLE: GIRLS
 CHRONO
 CHRONO CROSS
@@ -17727,6 +17736,8 @@ CastleDefender
 CastleFemdom:OfficeBot
 CastleForbidden
 CastleShikigami
+Castleborne Survivors
+CastleborneSurvivors
 CastleofHeart:Retold
 CastleofIllusion
 CastleofSecrets
@@ -18309,6 +18320,9 @@ Chess of Mana
 Chess: Definitive Edition
 Chess:DefinitiveEdition
 ChessAI
+ChessBase 26 SE
+ChessBase'26 SE
+ChessBase'26SE
 ChessBoyChess
 ChessEmpire
 ChessHunt
@@ -18646,7 +18660,9 @@ Chronicles:ImmortalSect
 ChroniclesofRiddick
 ChroniclesofRiddick:EscapefromButcherBay
 Chronigma
+Chronime Puzzle: Cats
 Chronime Puzzle: Girls
+ChronimePuzzle:Cats
 ChronimePuzzle:Girls
 Chrono
 Chrono Cross
@@ -21261,6 +21277,7 @@ DARKOBREVIC
 DARKOBREVIĆ
 DARKPIT
 DARKPROJECT
+DARKRAY
 DARKRISE: WAR OF THE UNDEAD
 DARKROOM
 DARKSAMUS
@@ -22668,6 +22685,7 @@ DOC
 DOC DOC
 DOCDOC
 DOCELOT
+DOCK DOCTOR
 DOCKBAR
 DOCKED
 DOCTEUR
@@ -22762,6 +22780,7 @@ DOME
 DOME KEEPER
 DOME KEEPER: THE LOST KEEPERS
 DOMESTIQUE
+DOMIIINO
 DOMINATED BY SADISTIC RICH TRIO
 DOMINATED BY: THE SADISTIC NERD NEXT DOOR
 DOMINATED BY: YANDERE GOTH BUNNY
@@ -22777,6 +22796,7 @@ DOMINATED BY: YANDERE GOTH MILF MAID
 DOMINATED BY: YANDERE GOTH MOMMY
 DOMINATED BY: YANDERE GOTH WEEB BULLY
 DOMINATED BY: YANDERE GOTH WEEB GIRLFRIEND
+DOMINION OF THE FORGOTTEN
 DOMINIONS
 DOMINO TITAN
 DOMINOVA
@@ -23994,6 +24014,7 @@ DarkPit
 DarkProject
 DarkQuest4
 DarkRally
+DarkRay
 DarkReaperShoots!2
 DarkRide:TheFelineFix
 DarkSamus
@@ -25687,7 +25708,9 @@ DobbelDungeon
 Doc
 Doc Doc
 DocDoc
+Dock Doctor
 DockBar
+DockDoctor
 Docked
 Docteur
 Docteur Eggman
@@ -25813,6 +25836,8 @@ Dominatedby:YandereGothMommy
 Dominatedby:YandereGothWeebBully
 Dominatedby:YandereGothWeebGirlfriend
 DominatedbySadisticRichTrio
+Dominion Of The Forgotten
+DominionOfTheForgotten
 Dominions
 Domino Titan
 DominoTitan
@@ -30287,6 +30312,7 @@ FACTORIDLING
 FACTORY
 FACTORY 95
 FACTORY BALLS GO!
+FACTORY ON A TRAIN DEMO
 FACTORY PLANNER: FIRST SPARKS
 FACTORY RESET
 FACTORY TRAIN: DREAMLINE
@@ -31416,6 +31442,7 @@ FOOLISH EARTHLINGS!
 FOOS
 FOOT
 FOOTBALL
+FOOTBALL CARD BATTLE
 FOOTBALL LEGACY MANAGER 26
 FOOTBALL MANAGER
 FOOTBALL MANAGER 2024
@@ -31470,6 +31497,7 @@ FOREST RITES
 FOREST TIME
 FORESTIA
 FORESTLAW
+FORESTRESS SHADE
 FOREVER
 FOREVER ENTERTAINMENT
 FOREVER ENTERTAINMENT S.A
@@ -31806,6 +31834,7 @@ FROGGY
 FROGGY SOFTWARE
 FROGGYSOFTWARE
 FROGMIND
+FROGRAMMER
 FROGSHOT ADVENTURE
 FROGTOSS
 FROGTOSS GAMES
@@ -31984,6 +32013,7 @@ FUNEX: STOCK MARKET SIMULATOR
 FUNEX: Stock Market Simulator
 FUNEX:StockMarketSimulator
 FUNGAL COLONY SIM 2
+FUNGE
 FUNGI CROSSING
 FUNGUS
 FUNHOME
@@ -32188,11 +32218,13 @@ Factory Balls Go!
 Factory Planner: First Sparks
 Factory Reset
 Factory Train: DreamLine
+Factory on a Train Demo
 Factory95
 FactoryBallsGo!
 FactoryPlanner:FirstSparks
 FactoryReset
 FactoryTrain:DreamLine
+FactoryonaTrainDemo
 Fading Lights
 FadingLights
 FaeTerra
@@ -33579,6 +33611,8 @@ FoolingDead
 Foolish Earthlings!
 FoolishEarthlings!
 Foot
+FootBall Card Battle
+FootBallCardBattle
 Football
 Football Legacy Manager 26
 Football Manager
@@ -33666,6 +33700,8 @@ ForestRites
 ForestTime
 Forestia
 ForestofLostWanderers
+Forestress Shade
+ForestressShade
 Forever
 Forever Entertainment
 Forever Entertainment S.A
@@ -34067,6 +34103,7 @@ Froggy
 Froggy Software
 FroggySoftware
 Frogmind
+Frogrammer
 Frogshot Adventure
 FrogshotAdventure
 Frogtoss
@@ -34272,6 +34309,7 @@ Funeral of Y
 FuneralofY
 Fungal Colony Sim 2
 FungalColonySim2
+Funge
 Fungi Crossing
 FungiCrossing
 Fungus
@@ -35647,6 +35685,7 @@ GOMAR&SHIOH
 GOMARSHIOH
 GOMOKU
 GON
+GONE EXPLORING
 GONE FISHING
 GONE Fishing
 GONE HOME
@@ -36091,6 +36130,7 @@ GRIMSHIRE
 GRIMSLAIR
 GRIMWAR
 GRIN
+GRIND 'EM ALL
 GRIND HERO: MMORPG
 GRIND MOMO
 GRINDER
@@ -37749,9 +37789,11 @@ Gomar&Shioh
 GomarShioh
 Gomoku
 Gon
+Gone Exploring
 Gone Home
 Gone: The Agent
 Gone:TheAgent
+GoneExploring
 GoneHome
 Goneril
 Goneril Goneril
@@ -38224,7 +38266,10 @@ Grimes
 Grimoire
 Grimshire
 Grimslair
+Grind  Em All
+Grind 'Em All
 Grind Hero: MMORPG
+Grind'EmAll
 GrindHero:MMORPG
 GrindMaster: Auto Clicker
 GrindMaster:AutoClicker
@@ -40287,6 +40332,7 @@ HYPATIA DEMO
 HYPER
 HYPER CHESS
 HYPER DEVBOX
+HYPER HITMANS
 HYPER OLYMPICS
 HYPER PROFIT PETS
 HYPER SPORTS
@@ -42521,6 +42567,7 @@ Hyper
 Hyper Chess
 Hyper Devbox
 Hyper Drive
+Hyper Hitmans
 Hyper Olympics
 Hyper Profit Pets
 Hyper Sports
@@ -42529,6 +42576,7 @@ Hyper-Drive
 HyperChess
 HyperCoven
 HyperDevbox
+HyperHitmans
 HyperOlympics
 HyperProfitPets
 HyperSports
@@ -50981,6 +51029,7 @@ LOVE AT LAST LIGHT
 LOVE BATTLE SPIRIT
 LOVE BEGINS WITH GOODBYE
 LOVE BLADES AND RUN
+LOVE CRAFT | DEEP SEA GROOM
 LOVE CULT
 LOVE HOSPITAL
 LOVE HOTEL MANAGER
@@ -53181,6 +53230,8 @@ Love
 Love Battle Spirit
 Love Begins With Goodbye
 Love Blades and Run
+Love Craft   Deep Sea Groom
+Love Craft | Deep Sea Groom
 Love Cult
 Love Hospital
 Love Hotel Manager
@@ -53214,6 +53265,7 @@ LoveBeginsWithGoodbye
 LoveBladesandRun
 LoveCore Rhythm
 LoveCoreRhythm
+LoveCraft|DeepSeaGroom
 LoveCult
 LoveHospital
 LoveHotelManager
@@ -61571,6 +61623,7 @@ NINE POUND STUDIOS
 NINE SOLS
 NINEPOUND
 NINEPOUNDSTUDIOS
+NINFIT
 NINJA
 NINJA CATS: TACTICS
 NINJA CATS: Tactics
@@ -62886,6 +62939,7 @@ Nimbus
 Nimillion   The last expedition
 Nimillion - The last expedition
 Nimillion-Thelastexpedition
+NinFit
 Nina
 Nina Cortex
 Nina Williams
@@ -66358,6 +66412,7 @@ PARADOX
 PARADOX DEVELOPMENT
 PARADOX INTERACTIVE
 PARADOX SOFTWARE
+PARADOX TOWER DEMO
 PARADOXDEVELOPMENT
 PARADOXINTERACTIVE
 PARADOXSOFTWARE
@@ -67632,6 +67687,7 @@ PLUS
 PNEUMA
 PNG BATTLE
 PNGBATTLE
+PNO：琴音
 POCHARD JAMIE
 POCHE
 POCHE D'ENCRE
@@ -68362,6 +68418,7 @@ PROJECT: NOVA
 PROJECT: OJISAN
 PROJECT:M
 PROJECT:OJISAN
+PROJECT:TACO
 PROJECTACES
 PROJECTDIVA
 PROJECTFIRESTART
@@ -69087,9 +69144,11 @@ Paradox
 Paradox Development
 Paradox Interactive
 Paradox Software
+Paradox Tower Demo
 ParadoxDevelopment
 ParadoxInteractive
 ParadoxSoftware
+ParadoxTowerDemo
 Paradyce
 Paragon
 Paragon 5
@@ -70502,6 +70561,8 @@ Plungelo
 Pluralys
 Plus
 Pneuma
+Pno:??
+Pno：琴音
 Pochard Jamie
 PochardJamie
 Poche
@@ -71354,6 +71415,7 @@ Project:M
 Project:Mist
 Project:MortuusAstrumPlayableTeaser
 Project:Nova
+Project:Taco
 ProjectAbsentia
 ProjectAces
 ProjectBabble:Baballonia
@@ -72406,6 +72468,8 @@ RAIJIN
 RAIL GUNNER
 RAILROAD
 RAILROAD CORPORATION 2
+RAILROAD MANAGER - MAPS PACK
+RAILROAD MANAGER - TRAINS PACK
 RAILROAD TO HELL 3
 RAILROAD TYCOON
 RAILROAD TYCOON 2
@@ -74349,10 +74413,16 @@ Rail Gunner
 RailGunner
 Railroad
 Railroad Corporation 2
+Railroad Manager   Maps Pack
+Railroad Manager   Trains Pack
+Railroad Manager - Maps Pack
+Railroad Manager - Trains Pack
 Railroad Tycoon
 Railroad Tycoon 2
 Railroad to Hell 3
 RailroadCorporation2
+RailroadManager-MapsPack
+RailroadManager-TrainsPack
 RailroadTycoon
 RailroadTycoon2
 RailroadtoHell3
@@ -77078,6 +77148,7 @@ SCOOTX
 SCOPE
 SCOPE BATTLE ROYALE
 SCOPE X
+SCORCHED DOMINION
 SCORCHIE ADVENTURES
 SCORCHING DESERT
 SCORE
@@ -79059,6 +79130,7 @@ SOLIDUS
 SOLIDUS SNAKE
 SOLIDUSSNAKE
 SOLITAIRE
+SOLITAIRE - COMPLETE COLLECTION
 SOLITARE
 SOLITARE GROUP
 SOLITAREGROUP
@@ -79746,6 +79818,7 @@ SQUARES PROXIMITY
 SQUARESOFT
 SQUARSENAL
 SQUATCH
+SQUAVITY
 SQUAWK
 SQUAWKS
 SQUAWKS LE PERROQUET
@@ -80284,6 +80357,7 @@ STRATEGICSIMULATIONS,INC
 STRATEGICSIMULATIONSINC
 STRATEGIE
 STRATEGOS
+STRATEGO® ONLINE
 STRATEGY
 STRATEGY FIRST
 STRATEGYFIRST
@@ -81844,6 +81918,8 @@ Scope Battle Royale
 Scope X
 ScopeBattleRoyale
 ScopeX
+Scorched Dominion
+ScorchedDominion
 Scorchie Adventures
 ScorchieAdventures
 Scorching Desert
@@ -84130,6 +84206,9 @@ SolidSoftware
 Solidus
 Solidus Snake
 SolidusSnake
+Solitaire   Complete Collection
+Solitaire - Complete Collection
+Solitaire-CompleteCollection
 Solitare
 Solitare Group
 SolitareGroup
@@ -85001,6 +85080,7 @@ SquaresProximity
 Squaresoft
 Squarsenal
 Squatch
+Squavity
 Squawk
 Squawks
 Squawks le perroquet
@@ -85635,7 +85715,10 @@ StrategicSimulations
 StrategicSimulations,Inc
 StrategicSimulationsInc
 StrategicStalemate
+Stratego(R) Online
 Strategos
+Stratego® Online
+Stratego®Online
 Strategy
 Strategy First
 StrategyFirst
@@ -87712,6 +87795,7 @@ TEXELIZER
 TEXMURPHY
 TEXPLORE
 TEXT ESCAPE: DOOMSDAY CITY
+TEXTVAS
 TEYON
 TEZCATLIPOCA
 TEZZEL: THE TILEMAKER'S TALE
@@ -87923,6 +88007,7 @@ THE DARKNESS BELOW
 THE DEAD AWAIT
 THE DEAD HOUSE
 THE DEADALUS ENCOUNTER
+THE DEADLINE
 THE DEADSEAT
 THE DEATH FOREST
 THE DEATHMIND
@@ -88605,6 +88690,7 @@ THE VISION FACTORY
 THE VORIK CYCLE
 THE VOXEL
 THE VOXEL AGENTS
+THE WACKYTOWN GAME
 THE WAKE (DEMO)
 THE WALKING DEAD
 THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES
@@ -90324,6 +90410,7 @@ TURTLESPAWN
 TURTLESPAWNEGG
 TURTLE_HELMET
 TURTLE_SPAWN_EGG
+TUTOR'S GENTLE TRAP
 TUVECINA
 TV
 TWEETER
@@ -91374,6 +91461,7 @@ Texelizer
 Texplore
 Text Escape: Doomsday City
 TextEscape:DoomsdayCity
+Textvas
 Teyon
 Tezcatlipoca
 Tezzel: The Tilemaker s Tale
@@ -91607,6 +91695,7 @@ The Darkblade Demo
 The Darkness Below
 The Dead Await
 The Dead House
+The DeadLine
 The Deadalus Encounter
 The Deadseat
 The Deathmind
@@ -92282,6 +92371,7 @@ The Vision
 The Vision Factory
 The Voxel
 The Voxel Agents
+The Wackytown Game
 The Wake  Demo 
 The Wake (Demo)
 The Walking Dead: The Telltale Definitive Series
@@ -92526,6 +92616,7 @@ TheDarkbladeDemo
 TheDarknessBelow
 TheDeadAwait
 TheDeadHouse
+TheDeadLine
 TheDeadalusEncounter
 TheDeadseat
 TheDeathmind
@@ -93135,6 +93226,7 @@ TheVision
 TheVisionFactory
 TheVoxel
 TheVoxelAgents
+TheWackytownGame
 TheWake(Demo)
 TheWalkingDead:TheTelltaleDefinitiveSeries
 TheWalkingTrade
@@ -94939,6 +95031,9 @@ TurtleShell
 TurtleSpawn
 TurtleSpawnEgg
 Turtles
+Tutor s Gentle Trap
+Tutor's Gentle Trap
+Tutor'sGentleTrap
 Tweeter
 Twelve
 Twelve Boxes
@@ -95156,6 +95251,7 @@ UBOAT   Type IX: Distant Coasts
 UBOAT - TYPE IX: DISTANT COASTS
 UBOAT - Type IX: Distant Coasts
 UBOAT-TypeIX:DistantCoasts
+UCHI NO HEYA!
 UEP
 UEP SYSTEMS
 UEP Systems
@@ -95626,6 +95722,8 @@ UbisoftSingapour
 UbisoftSofia
 UbisoftToronto
 UbisoftVancouver
+Uchi No Heya!
+UchiNoHeya!
 Uglette
 Ugly Mansion
 UglyMansion
@@ -98374,6 +98472,7 @@ WHIPTAIL INTERACTIVE
 WHIPTAILINTERACTIVE
 WHIRLWIND MAGICIAN
 WHISKER
+WHISKER TALES
 WHISKER WANDERLUST: THE WONDROUS JOURNEY
 WHISKERS
 WHISKERS WHISKERS
@@ -99767,7 +99866,9 @@ WhiptailInteractive
 Whirlwind Magician
 WhirlwindMagician
 Whisker
+Whisker Tales
 Whisker Wanderlust: The Wondrous Journey
+WhiskerTales
 WhiskerWanderlust:TheWondrousJourney
 Whiskers
 Whiskers Whiskers
@@ -102930,6 +103031,7 @@ aero fighters
 aeroblasters
 aerocorp
 aerofighters
+aerolicious
 aerowings
 aeruta
 aes
@@ -108315,6 +108417,7 @@ castle of heart: retold
 castle of illusion
 castle of secrets
 castle shikigami
+castleborne survivors
 castleidler
 castleofillusion
 castles
@@ -108825,6 +108928,7 @@ chess of five elements
 chess of mana
 chess with idiots
 chess: definitive edition
+chessbase'26 se
 chessboychess
 chessemble
 chessferatu
@@ -109096,6 +109200,7 @@ chronicles: immortal sect
 chroniclesofriddick
 chroniclesofriddick:escapefrombutcherbay
 chronigma
+chronime puzzle: cats
 chronime puzzle: girls
 chrono
 chrono cross
@@ -111257,6 +111362,7 @@ darkobrevic
 darkobrević
 darkpit
 darkproject
+darkray
 darkrise: war of the undead
 darkroom
 darksamus
@@ -112592,6 +112698,7 @@ doc
 doc doc
 docdoc
 docelot
+dock doctor
 dockbar
 docked
 docteur
@@ -112679,6 +112786,7 @@ dome
 dome keeper
 dome keeper: the lost keepers
 domestique
+domiiino
 dominated by sadistic rich trio
 dominated by: the sadistic nerd next door
 dominated by: yandere goth bunny
@@ -112694,6 +112802,7 @@ dominated by: yandere goth milf maid
 dominated by: yandere goth mommy
 dominated by: yandere goth weeb bully
 dominated by: yandere goth weeb girlfriend
+dominion of the forgotten
 dominions
 domino titan
 dominova
@@ -115144,6 +115253,7 @@ factoridling
 factory
 factory 95
 factory balls go!
+factory on a train demo
 factory planner: first sparks
 factory reset
 factory train: dreamline
@@ -116210,6 +116320,7 @@ foolish earthlings!
 foos
 foot
 football
+football card battle
 football legacy manager 26
 football manager
 football manager 2024
@@ -116262,6 +116373,7 @@ forest rites
 forest time
 forestia
 forestlaw
+forestress shade
 forever
 forever entertainment
 forever entertainment s.a
@@ -116593,6 +116705,7 @@ froggy
 froggy software
 froggysoftware
 frogmind
+frogrammer
 frogshot adventure
 frogtoss
 frogtoss games
@@ -116758,6 +116871,7 @@ funcom
 funeral of y
 funex: stock market simulator
 fungal colony sim 2
+funge
 fungi crossing
 fungus
 funky
@@ -118047,6 +118161,7 @@ gomar&shioh
 gomarshioh
 gomoku
 gon
+gone exploring
 gone fishing
 gone home
 gone: the agent
@@ -118477,6 +118592,7 @@ grimshire
 grimslair
 grimwar
 grin
+grind 'em all
 grind hero: mmorpg
 grind momo
 grinder
@@ -120458,6 +120574,7 @@ hypatia demo
 hyper
 hyper chess
 hyper devbox
+hyper hitmans
 hyper olympics
 hyper profit pets
 hyper sports
@@ -125367,6 +125484,7 @@ love at last light
 love battle spirit
 love begins with goodbye
 love blades and run
+love craft | deep sea groom
 love cult
 love hospital
 love hotel manager
@@ -129664,6 +129782,7 @@ nine pound studios
 nine sols
 ninepound
 ninepoundstudios
+ninfit
 ninja
 ninja cats: tactics
 ninja gaiden
@@ -131648,6 +131767,7 @@ paradox
 paradox development
 paradox interactive
 paradox software
+paradox tower demo
 paradoxdevelopment
 paradoxinteractive
 paradoxsoftware
@@ -132869,6 +132989,7 @@ pluralys
 plus
 pneuma
 png battle
+pno：琴音
 pochard jamie
 poche
 poche d'encre
@@ -133614,6 +133735,7 @@ project: mortuus astrum playable teaser
 project: nova
 project: ojisan
 project:m
+project:taco
 projectaces
 projectdiva
 projectfirestart
@@ -134310,6 +134432,8 @@ raijin
 rail gunner
 railroad
 railroad corporation 2
+railroad manager - maps pack
+railroad manager - trains pack
 railroad to hell 3
 railroad tycoon
 railroad tycoon 2
@@ -136596,6 +136720,7 @@ scootx
 scope
 scope battle royale
 scope x
+scorched dominion
 scorchie adventures
 scorching desert
 score
@@ -138437,6 +138562,7 @@ solidus
 solidus snake
 solidussnake
 solitaire
+solitaire - complete collection
 solitare
 solitare group
 solitaregroup
@@ -139102,6 +139228,7 @@ squares proximity
 squaresoft
 squarsenal
 squatch
+squavity
 squawk
 squawks
 squawks le perroquet
@@ -139608,6 +139735,7 @@ strategicsimulations,inc
 strategicsimulationsinc
 strategie
 strategos
+stratego® online
 strategy
 strategy first
 strategyfirst
@@ -141327,6 +141455,7 @@ texelizer
 texmurphy
 texplore
 text escape: doomsday city
+textvas
 teyon
 tezcatlipoca
 tezzel: the tilemaker's tale
@@ -141541,6 +141670,7 @@ the darkness below
 the dead await
 the dead house
 the deadalus encounter
+the deadline
 the deadseat
 the death forest
 the deathmind
@@ -142208,6 +142338,7 @@ the vision factory
 the vorik cycle
 the voxel
 the voxel agents
+the wackytown game
 the wake (demo)
 the walking dead
 the walking dead: the telltale definitive series
@@ -143878,6 +144009,7 @@ turtles
 turtleshell
 turtlespawn
 turtlespawnegg
+tutor's gentle trap
 tv
 tweeter
 twelve
@@ -144042,6 +144174,7 @@ ubisofttoronto
 ubisoftvancouver
 uboat
 uboat - type ix: distant coasts
+uchi no heya!
 uep
 uep systems
 uepsystems
@@ -145761,6 +145894,7 @@ whiptail interactive
 whiptailinteractive
 whirlwind magician
 whisker
+whisker tales
 whisker wanderlust: the wondrous journey
 whiskers
 whiskers whiskers
