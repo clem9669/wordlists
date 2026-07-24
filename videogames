@@ -105,6 +105,8 @@
 1,200WelcomePack-RainbowSixSiege
 1.76????
 1.76复古沉默
+1.80????
+1.80战神微变
 10
 100 AFRICA CATS
 100 AZTEC CATS
@@ -1630,6 +1632,7 @@
 ???? ~????????????~ ??? ?????
 ????(??)/Journey of Destiny(dependent origination)
 ????(????)
+????(?????????)
 ????(Book Shooter)
 ????(Book Shooter) Demo
 ????(Dungeon Killing)
@@ -1712,6 +1715,7 @@
 ?????? MY COLD GIRLFRIEND
 ?????? Mini Kingdom Wars
 ?????? More?Love Yuri
+?????? My Tasty Husband
 ?????? No One Sleep Tonight
 ?????? The Curse of Womanland
 ?????? ~ Touhou Dystopian
@@ -2199,6 +2203,7 @@ ABYSS CHASER
 ABYSS DUNGEON
 ABYSS ESCHATON SURVIVORS
 ABYSS GAME
+ABYSS KITCHEN
 ABYSS MANAGER IDLE
 ABYSS PROTECTION
 ABYSSAL
@@ -2592,6 +2597,7 @@ AFTERBURNER
 AFTERBURNER2
 AFTERBURNERCLIMAX
 AFTERBURNERCOMPLETE
+AFTERCLERK
 AFTERGLOW-THE FIFTH ENDING
 AFTERNOON AFFAIRS & HELPLESS HOUSEWIVES
 AFTERNOON FRONTLINE
@@ -4233,6 +4239,8 @@ ASGEIR
 ASGEIR APAIZDRAGON
 ASGEIRAPAIZDRAGON
 ASH & ADAM'S EXISTENTIAL TREADS
+ASHBOUND ENDLESS HUNT
+ASHBOUND EXPANSE
 ASHE
 ASHEARA
 ASHES OF AMBITION
@@ -4387,6 +4395,7 @@ ASTRO PORT
 ASTRO PROTOCOL
 ASTRO PROTOCOL - DIGITAL ARTBOOK
 ASTRO PROTOCOL SOUNDTRACK
+ASTRO RAIDERS
 ASTROASTRO
 ASTROBOYOMEGAFACTOR
 ASTROGEO
@@ -4907,6 +4916,7 @@ Abyss Chaser
 Abyss Dungeon
 Abyss Eschaton Survivors
 Abyss Game
+Abyss Kitchen
 Abyss Manager Idle
 Abyss Protection
 AbyssBistro
@@ -4915,6 +4925,7 @@ AbyssChaser
 AbyssDungeon
 AbyssEschatonSurvivors
 AbyssGame
+AbyssKitchen
 AbyssManagerIdle
 AbyssProtection
 Abyssus
@@ -5271,6 +5282,7 @@ AfterBurner
 AfterBurner2
 AfterBurnerClimax
 AfterBurnerComplete
+AfterClerk
 AfterHours:LinesofDesire-S1
 AfterHueDemo
 AfterInc:Revival
@@ -7038,6 +7050,10 @@ AsgeirApaizdragon
 Ash   Adam s Existential Treads
 Ash & Adam's Existential Treads
 Ash&Adam'sExistentialTreads
+Ashbound Endless Hunt
+Ashbound Expanse
+AshboundEndlessHunt
+AshboundExpanse
 Ashe
 Asheara
 Ashes of Ambition
@@ -7210,6 +7226,7 @@ Astro Protocol
 Astro Protocol   Digital Artbook
 Astro Protocol - Digital Artbook
 Astro Protocol Soundtrack
+Astro Raiders
 AstroAstro
 AstroBoyOmegaFactor
 AstroColony
@@ -7224,6 +7241,7 @@ AstroProtocol
 AstroProtocol-DigitalArtbook
 AstroProtocolSoundtrack
 AstroRage2049
+AstroRaiders
 Astrogeo
 Astrohaulers
 Astronook
@@ -9584,7 +9602,9 @@ BOB-OMB
 BOB-OMB ROSE
 BOB-OMBROSE
 BOBA BUBA
+BOBA CAFE SIMULATOR
 BOBBLE
+BOBBLE SHOP SIMULATOR
 BOBBY
 BOBBY FULBRIGHT
 BOBBYFULBRIGHT
@@ -10339,6 +10359,7 @@ BUGZZYBUGZZY
 BUHEI
 BUILD & SURVIVE
 BUILD-A-LOT: ON VACATION
+BUILDER SIMULATOR
 BUILDERS
 BUILDERS OF EGYPT
 BUILDERS OF GREECE
@@ -12656,8 +12677,12 @@ BobConnell(Individu)
 BobGame
 BobRichards
 Boba Buba
+Boba Cafe Simulator
 BobaBuba
+BobaCafeSimulator
 Bobble
+Bobble Shop Simulator
+BobbleShopSimulator
 Bobby
 Bobby Fulbright
 BobbyFulbright
@@ -13550,6 +13575,8 @@ Build a lot: On Vacation
 Build&Survive
 Build-a-lot: On Vacation
 Build-a-lot:OnVacation
+Builder Simulator
+BuilderSimulator
 Builders
 Builders of Egypt
 Builders of Greece
@@ -16021,6 +16048,7 @@ CONQUER LANDS
 CONQUER LANDS DEMO
 CONQUER THE TOWER
 CONQUER THE WORLD
+CONQUEROR'S BLADE: THREE KINGDOMS
 CONQUEROR'S STAGE
 CONQUEST
 CONQUEST TACTICS : REALM OF SIN
@@ -19657,8 +19685,11 @@ Conquer the world
 ConquerLands
 ConquerLandsDemo
 ConquerforGlory
+Conqueror s Blade: Three Kingdoms
 Conqueror s Stage
+Conqueror's Blade: Three Kingdoms
 Conqueror's Stage
+Conqueror'sBlade:ThreeKingdoms
 Conqueror'sStage
 ConquertheTower
 Conquertheworld
@@ -22560,6 +22591,7 @@ DINO PIRANHA
 DINO QUEST
 DINO RHINO
 DINO TOWER ARENA
+DINOBLADE
 DINOCRISIS
 DINOPIRANHA
 DINOPUNK: THE CACOPS ADVENTURE
@@ -25618,6 +25650,7 @@ DinoPiranha
 DinoQuest
 DinoRhino
 DinoTowerArena
+Dinoblade
 Dinopunk: the Cacops adventure
 Dinopunk:theCacopsadventure
 Dinosaur Zoo VR : Dinosaur Hunting
@@ -27878,6 +27911,7 @@ ELTON MANOR: REQUIEM OF THE CURSED ROSES
 ELTORRO
 ELUNE
 ELVEN DESIRE
+ELVEN FRIENDS
 ELVEN HUNTRESS: SUNVEIL DEMO
 ELVENFOUNDRY
 ELVIS
@@ -29369,8 +29403,10 @@ EltonManor:RequiemoftheCursedRoses
 Eltorro
 Elune
 Elven Desire
+Elven Friends
 Elven Huntress: Sunveil Demo
 ElvenDesire
+ElvenFriends
 ElvenHuntress:SunveilDemo
 Elvenfoundry
 Elvis
@@ -32219,6 +32255,7 @@ FURIOUS KITCHEN
 FURNACE
 FURNITURE TOSS
 FURO
+FURRY ADVENTURE 2
 FURRY ADVENTURE 3 - BIG BOOBAS!
 FURRY AIM TRAINER
 FURRY BANGER
@@ -34531,6 +34568,7 @@ FuriousKitchen
 Furnace
 Furniture Toss
 FurnitureToss
+Furry Adventure 2
 Furry Adventure 3   Big Boobas!
 Furry Adventure 3 - Big Boobas!
 Furry Aim Trainer
@@ -34545,6 +34583,7 @@ Furry Star Command - Hentai Jigsaw
 Furry Star Command – Hentai Jigsaw
 Furry Superstar ?
 Furry Superstar 🌟
+FurryAdventure2
 FurryAdventure3-BigBoobas!
 FurryAimTrainer
 FurryChristmasTemptation–NaughtyJigsaw
@@ -34837,6 +34876,7 @@ GAMANIADIGITAL
 GAMANIADIGITALENTERTAINMENT
 GAMBARION
 GAMBETTE
+GAMBETTO
 GAMBILLION
 GAMBLE WITH YOUR FRIENDS
 GAMBLE YOUR BREATH
@@ -35071,6 +35111,7 @@ GAS POWERED
 GAS POWERED GAMES
 GAS STATION STORY
 GASLAMP CASES 6: HAUNTED WATERS
+GASLAMP CASES 8: QUEST FOR THE RELIC
 GASPAR
 GASPAR GASPAR
 GASPARGASPAR
@@ -35757,6 +35798,7 @@ GODBREAKERS
 GODCRAFT SIMULATOR
 GODDESS SCROLL - THE LAST STARLIGHT
 GODEATER
+GODFALL: EMBERS
 GODFORSAKEN
 GODHAND
 GODIUS ETERNAL WAR
@@ -36291,6 +36333,7 @@ GRIGORINIGHTDRAGON
 GRIGSBY
 GRILL YOUR FRIENDS PREMATCH
 GRIM
+GRIM DAWN - FANGS OF ASTERKARN
 GRIM FANDANGO
 GRIM PASTURES: OUTLAWS
 GRIM TALES: PRISONERS OF THE PAST COLLECTOR'S EDITION
@@ -36662,6 +36705,7 @@ GX
 GX-4000
 GX4000
 GYM CAMP SIMULATOR
+GYM RAT SIMULATOR
 GYM SIMULATOR
 GYRE
 GYRO
@@ -36801,6 +36845,7 @@ GamaniaDigital
 GamaniaDigitalEntertainment
 Gambarion
 Gambette
+Gambetto
 Gambillion
 Gamble With Your Friends
 Gamble Your Breath
@@ -37082,7 +37127,9 @@ GasPowered
 GasPoweredGames
 GasStationStory
 Gaslamp Cases 6: Haunted Waters
+Gaslamp Cases 8: Quest for the Relic
 GaslampCases6:HauntedWaters
+GaslampCases8:QuestfortheRelic
 Gaspar
 Gaspar Gaspar
 GasparGaspar
@@ -37846,6 +37893,8 @@ GodcraftSimulator
 Goddess Scroll   The Last Starlight
 Goddess Scroll - The Last Starlight
 GoddessScroll-TheLastStarlight
+Godfall: Embers
+Godfall:Embers
 GodinaCloset
 Godius Eternal War
 GodiusEternalWar
@@ -38427,6 +38476,8 @@ Grigsby
 Grill Your Friends Prematch
 GrillYourFriendsPrematch
 Grim
+Grim Dawn   Fangs of Asterkarn
+Grim Dawn - Fangs of Asterkarn
 Grim Pastures: Outlaws
 Grim Tales: Prisoners of the Past Collector s Edition
 Grim Tales: Prisoners of the Past Collector's Edition
@@ -38434,6 +38485,7 @@ Grim chan's Soul Fight
 Grim-chan s Soul Fight
 Grim-chan's Soul Fight
 Grim-chan'sSoulFight
+GrimDawn-FangsofAsterkarn
 GrimPastures:Outlaws
 GrimTales:PrisonersofthePastCollector'sEdition
 Grimdark Survivors
@@ -38792,8 +38844,10 @@ Gwen
 GwenBlade Witcheresque
 GwenBladeWitcheresque
 Gym Camp Simulator
+Gym Rat Simulator
 Gym Simulator
 GymCampSimulator
+GymRatSimulator
 GymSimulator
 Gyre
 Gyro
@@ -39611,6 +39665,7 @@ HENTAI SUMMER SWAP
 HENTAI TALES: 7 DAYS CYCLE
 HENTAI TALES: A SUCCUBUS ARCHIVE
 HENTAI TALES: ACADEMY'S RECORD
+HENTAI TALES: BOOBY IN BLACK STOCKINGS
 HENTAI TALES: BREEDING ORDER 2050
 HENTAI TALES: BUSTY MIKO’S SECRET BOND
 HENTAI TALES: CREAMPIE CUCKOLD WIFE
@@ -41485,6 +41540,7 @@ Hentai Tales: 7 Days Cycle
 Hentai Tales: A Succubus Archive
 Hentai Tales: Academy s Record
 Hentai Tales: Academy's Record
+Hentai Tales: Booby in Black Stockings
 Hentai Tales: Breeding Order 2050
 Hentai Tales: Busty Miko's Secret Bond
 Hentai Tales: Busty Miko’s Secret Bond
@@ -41640,6 +41696,7 @@ HentaiSummerSwap
 HentaiTales:7DaysCycle
 HentaiTales:ASuccubusArchive
 HentaiTales:Academy'sRecord
+HentaiTales:BoobyinBlackStockings
 HentaiTales:BreedingOrder2050
 HentaiTales:BustyMiko’sSecretBond
 HentaiTales:CreampieCuckoldWife
@@ -50719,6 +50776,7 @@ LIMIT BREAK
 LIMIT//LESS: PHYSICS BIKE CHALLENGE
 LIMIT//LESS:PHYSICSBIKECHALLENGE
 LIMITED
+LIMITLESS SURVIVOR
 LIMPITOYABLE
 LIMSCAPE : THE LIMINAL SPACE EXPLORER
 LIMSCAPE:THELIMINALSPACEEXPLORER
@@ -51187,6 +51245,7 @@ LOST STORIES
 LOST TOTEM TRAJIPON!
 LOST TOYS
 LOST TRUST-EPISODE 1
+LOST VESSEL
 LOSTBOYS
 LOSTECHO
 LOSTED MIND
@@ -51421,6 +51480,7 @@ LUMENA
 LUMENKNIGHT
 LUMIERE
 LUMINARIA: DARK ECHOES
+LUMINAS: PARASITE REIGN
 LUMINES
 LUMINES ARISE
 LUMINES ARISE ORIGINAL SOUNDTRACK
@@ -51461,6 +51521,7 @@ LUSCHER
 LUST   MAGIC ✨
 LUST & MAGIC ?
 LUST & MAGIC ✨
+LUST AND AGONY IN NETORI:THE RITUAL OF DESPAIR
 LUST ARCANUM
 LUST ARCANUM - SUPPORTER PACK
 LUST ARCANUM SOUNDTRACK
@@ -52821,6 +52882,8 @@ LiminalExplorer
 Limit Break
 LimitBreak
 Limited
+Limitless Survivor
+LimitlessSurvivor
 Lin
 Line
 Line Clipper: Tennis Tactics
@@ -53358,6 +53421,7 @@ Lost Totem Trajipon!
 Lost Toys
 Lost Trust Episode 1
 Lost Trust-Episode 1
+Lost Vessel
 Lost and Found Co.
 Lost in
 Lost in Blue
@@ -53394,6 +53458,7 @@ LostStories
 LostTotemTrajipon!
 LostToys
 LostTrust-Episode1
+LostVessel
 LostandFoundCo.
 Losted Mind
 LostedMind
@@ -53678,6 +53743,8 @@ LumenKnight
 Lumena
 Luminaria: Dark Echoes
 Luminaria:DarkEchoes
+Luminas: Parasite Reign
+Luminas:ParasiteReign
 Lumines
 Lumines Arise
 Lumines Arise Original Soundtrack
@@ -53743,6 +53810,7 @@ Lust Sisters ?
 Lust Sisters 🔞
 Lust Storm
 Lust Theory Season 3
+Lust and Agony in Netori:The Ritual of Despair
 Lust o' Heaven
 Lust o’ Heaven
 LustArcanum
@@ -53754,6 +53822,7 @@ LustPokerClub
 LustSisters🔞
 LustStorm
 LustTheorySeason3
+LustandAgonyinNetori:TheRitualofDespair
 Lustborn
 Lustful BlackJack: My Succubus Dealer
 Lustful Butler And Charming Sisters
@@ -54140,6 +54209,7 @@ MAHTRIS 108
 MAI
 MAID CARD GACHA: COLLECT, DISPLAY, COMPLETE
 MAID FOR MY MASTER
+MAID LIFE SS
 MAID OF SALVATION
 MAID SISTERS' SERVICE
 MAIDEN
@@ -54279,6 +54349,7 @@ MAMA NYAH'S HOUSE OF TAROT
 MAMAN
 MAMAYETI
 MAMIRAL
+MAMMON’S WAGER
 MAMON KING
 MAMORU
 MAMORU SUMII
@@ -56250,6 +56321,9 @@ MOMMA GAME HOUSE
 MOMMAGAME
 MOMMAGAMEHOUSE
 MOMMY DON'T HURT ME MOMMY DON'T HURT ME MOMMY DON'T HURT ME
+MOMMY S SQUIRT!
+MOMMY'S SQUIRT!
+MOMMY'SSQUIRT!
 MOMMY’S SLIPPER
 MOMO
 MOMO CRASH
@@ -56954,6 +57028,7 @@ MUTSNOTYPO
 MUTTON
 MUTUAL HARROW
 MUV-LUV
+MUYU
 MUZZA
 MVP
 MVP BASEBALL
@@ -57462,11 +57537,13 @@ Mahtris108
 Mai
 Maid Card Gacha: Collect, Display, Complete
 Maid For My Master
+Maid Life SS
 Maid Sisters  Service
 Maid Sisters' Service
 Maid of Salvation
 MaidCardGacha:Collect,Display,Complete
 MaidForMyMaster
+MaidLifeSS
 MaidSisters'Service
 Maiden
 Maiden And Lord DLC Lafayette Special Body Movement
@@ -57625,6 +57702,9 @@ Maman
 Mamayeti
 Mamayéti
 Mamiral
+Mammon's Wager
+Mammon’s Wager
+Mammon’sWager
 Mamon King
 MamonKing
 Mamoru
@@ -72333,6 +72413,7 @@ QUICKSILVERSOFTWAREINC
 QUIET DAN
 QUIET OFFICE FLOORS
 QUIETCORNER
+QUIETD
 QUIETDAN
 QUILL
 QUILLHOLLOW
@@ -77320,6 +77401,7 @@ SCARY 8 BITS
 SCARY GAME
 SCARY GAME 2: THE MAD SHEPHERD
 SCARY SHADOW SPOT - ALL IN
+SCARY STORIES: GROTESQUE
 SCARY TOGETHER
 SCATOLOGIC
 SCAV
@@ -78770,6 +78852,7 @@ SINGLETRAC ENTERTAINMENT
 SINGLETRACENTERTAINMENT
 SINGSTAR
 SINGULARITY
+SINHERITANCE
 SINISISTAR 2
 SINISOMNIA
 SINISTER NIGHT 2
@@ -79971,6 +80054,7 @@ SPIRIT CLEANSERS
 SPIRIT MAGICIAN
 SPIRIT OF THE DOME
 SPIRIT OF THE NORTH 2
+SPIRIT ROUTE
 SPIRIT TALK - COZY VISUAL NOVEL
 SPIRIT WHISPERER CONVERSATION WITH AKARI
 SPIRIT'S SHADOW MAZE: THE PATH OF POSSESSION 灵影迷宫：附身之途
@@ -80245,6 +80329,9 @@ STAR WARS ROGUE SQUADRON
 STAR WARS ROGUE SQUADRON 2
 STAR WARS TIE FIGHTER
 STAR WARS TRILOGY
+STAR WARS ZERO COMPANY™
+STAR WARS Zero Company(TM)
+STAR WARS Zero Company™
 STAR WARS(TM) Battlefront(TM) II
 STAR WARS(TM) Jedi Bundle
 STAR WARS(TM): The Old Republic(TM) - Continue the Fight
@@ -80381,6 +80468,7 @@ STARWARSROGUESQUADRON
 STARWARSROGUESQUADRON2
 STARWARSTIEFIGHTER
 STARWARSTRILOGY
+STARWARSZeroCompany™
 STARWARS™:TheOldRepublic™-ContinuetheFight
 STARWARS™:TheOldRepublic™-MastertheFight:CargoTransportEdition
 STARWARS™Battlefront™II
@@ -80896,6 +80984,7 @@ SUGAR CANE
 SUGAR SHATTER
 SUGARCANE
 SUGAWARA
+SUIKA EVOLUTION: SHAKE & MERGE
 SUIKA SPRUNKI EDITION
 SUIKODEN
 SUIT
@@ -81190,6 +81279,7 @@ SUPERMARIOSUNSHINE
 SUPERMARIOWORLD
 SUPERMARKET CHAOS
 SUPERMARKET SIMULATOR
+SUPERMARKET SIMULATOR: IDLE TYCOON CLICKER
 SUPERMARKET SUPER BUNDLE
 SUPERMASSIVE
 SUPERMASSIVE GAMES
@@ -82119,11 +82209,13 @@ Scary Game
 Scary Game 2: The Mad Shepherd
 Scary Shadow Spot   All In
 Scary Shadow Spot - All In
+Scary Stories: Grotesque
 Scary Together
 Scary8Bits
 ScaryGame
 ScaryGame2:TheMadShepherd
 ScaryShadowSpot-AllIn
+ScaryStories:Grotesque
 ScaryTogether
 ScatoLogic
 Scav
@@ -83753,6 +83845,7 @@ SingleTrac
 SingleTrac Entertainment
 SingleTracEntertainment
 Singularity
+Sinheritance
 Sinhotel
 Sinisomnia
 Sinister Night 2
@@ -85206,6 +85299,7 @@ Spirit City: Lofi Sessions   Enchanted Garden DLC
 Spirit City: Lofi Sessions - Enchanted Garden DLC
 Spirit Cleansers
 Spirit Magician
+Spirit Route
 Spirit Sealing Tome
 Spirit Talk   Cozy Visual Novel
 Spirit Talk - Cozy Visual Novel
@@ -85222,6 +85316,7 @@ Spirit-SealingTome
 SpiritCity:LofiSessions-EnchantedGardenDLC
 SpiritCleansers
 SpiritMagician
+SpiritRoute
 SpiritTalk-CozyVisualNovel
 SpiritWhispererConversationWithAkari
 SpiritoftheDome
@@ -86377,7 +86472,10 @@ Sugar Shatter
 SugarCane
 SugarShatter
 Sugawara
+Suika Evolution: Shake   Merge
+Suika Evolution: Shake & Merge
 Suika Sprunki Edition
+SuikaEvolution:Shake&Merge
 SuikaSprunkiEdition
 Suikoden
 Suit
@@ -86794,9 +86892,11 @@ Superman
 SupermarCAT
 Supermarket Chaos
 Supermarket Simulator
+Supermarket Simulator: Idle Tycoon Clicker
 Supermarket Super Bundle
 SupermarketChaos
 SupermarketSimulator
+SupermarketSimulator:IdleTycoonClicker
 SupermarketSuperBundle
 Supermassive
 Supermassive Games
@@ -88158,6 +88258,7 @@ THE ALCHEMIST'S CARDS
 THE ALCHEMIST'S ELIXIR
 THE ALGORITHM
 THE ALGORITHM GUILD
+THE ALLEY
 THE ALTERS
 THE ALTERS BENCHMARK TOOL
 THE ALTERS: LAST VARIABLE
@@ -88356,6 +88457,7 @@ THE DREAMS IN THE PEACOCK HOUSE
 THE DRIFTER
 THE DROWNED DEAL
 THE DRUNKEN BEARD
+THE DUNGEON OF LULU FAREA: REBIRTH
 THE DUNGEON PERSISTS
 THE EARTHEN REIGN
 THE EASTERN SACRIFICE
@@ -88840,6 +88942,7 @@ THE PROTAGONIST
 THE PUB LIFE SIMULATOR: PROLOGUE
 THE PUNISHER
 THE PUPPET'S CASKET
+THE PURPLE FOREST RITUAL
 THE QUEEN OF PHALLI
 THE QUEST FOR COLOUR
 THE QUIET HUM OF A LONELY HEART
@@ -88893,6 +88996,7 @@ THE SEVEN DAYS I SPENT WITH YOU
 THE SEVEN DEADLY SINS: ORIGIN
 THE SEVEN ENCHANTMENTS
 THE SHADE
+THE SHADOW
 THE SHADOW CROWN - FROSTWYND CHRONICLES
 THE SHADOW OF SHADOWS
 THE SHADOW OF SWALLOW
@@ -89360,6 +89464,7 @@ THIS IS LOVE
 THIS IS WHY WE DON'T PLAY GOLF
 THIS SHIP GOES BRRR
 THIS SHORT INDIE GAME MADE ME MISS MY FRIENDS | RAINY PLAYS LONELY GAME LIVESTREAM
+THIS STATION: THE ESCAPE
 THIS WAR OF MINE
 THIS WILL NOT GO WELL
 THIS WINTER OF OURS
@@ -91851,6 +91956,7 @@ The Alchemist's Cards
 The Alchemist's Elixir
 The Algorithm
 The Algorithm Guild
+The Alley
 The Alters
 The Alters Benchmark Tool
 The Alters: Last Variable
@@ -92054,6 +92160,7 @@ The Drifter
 The Drowned Deal
 The Drunken Beard
 The Dungeon Persists
+The Dungeon of Lulu Farea: Rebirth
 The Earthen Reign
 The Eastern Sacrifice
 The Echo Paradox
@@ -92521,6 +92628,7 @@ The Pub Life Simulator: Prologue
 The Punisher
 The Puppet s Casket
 The Puppet's Casket
+The Purple Forest Ritual
 The Queen of Phalli
 The Quest for Colour
 The Quiet Hum of a Lonely Heart
@@ -92574,6 +92682,7 @@ The Seven Bad Apples
 The Seven Deadly Sins: Origin
 The Seven Enchantments
 The Shade
+The Shadow
 The Shadow Crown   Frostwynd Chronicles
 The Shadow Crown - Frostwynd Chronicles
 The Shadow of Shadows
@@ -92787,6 +92896,7 @@ TheAlchemist'sCards
 TheAlchemist'sElixir
 TheAlgorithm
 TheAlgorithmGuild
+TheAlley
 TheAlters
 TheAlters:LastVariable
 TheAltersBenchmarkTool
@@ -92978,6 +93088,7 @@ TheDrippingSound
 TheDrownedDeal
 TheDrunkenBeard
 TheDungeonPersists
+TheDungeonofLuluFarea:Rebirth
 TheEarthenReign
 TheEasternSacrifice
 TheEchoParadox
@@ -93402,6 +93513,7 @@ TheProtagonist
 ThePubLifeSimulator:Prologue
 ThePunisher
 ThePuppet'sCasket
+ThePurpleForestRitual
 TheQueenofPhalli
 TheQuestforColour
 TheQuietHumofaLonelyHeart
@@ -93450,6 +93562,7 @@ TheSevenBadApples
 TheSevenDeadlySins:Origin
 TheSevenEnchantments
 TheShade
+TheShadow
 TheShadowCrown-FrostwyndChronicles
 TheShadowofShadows
 TheShadowoftheWarringStatesPeriod
@@ -93730,6 +93843,7 @@ This Is Golf Demo
 This Is Why We Don t Play Golf
 This Is Why We Don't Play Golf
 This Ship Goes Brrr
+This Station: The Escape
 This War of Mine
 This Winter of Ours
 This cap is so fun, no cap Demo
@@ -93744,6 +93858,7 @@ ThisGrandLife2
 ThisIsGolfDemo
 ThisIsWhyWeDon'tPlayGolf
 ThisShipGoesBrrr
+ThisStation:TheEscape
 ThisWarofMine
 ThisWinterofOurs
 Thiscapissofun,nocapDemo
@@ -102407,6 +102522,7 @@ ZOMBIFIEDPIGLINSPAWN
 ZOMBIFIEDPIGLINSPAWNEGG
 ZOMBIFIED_PIGLIN_SPAWN_EGG
 ZOMBOCALYPSE NOW!
+ZOMBUFFOONERY
 ZOMBUTCHER: MONSTER BUSINESS SIMULATOR
 ZOMBUTCHER: Monster Business Simulator
 ZOMBUTCHER:MonsterBusinessSimulator
@@ -102464,6 +102580,7 @@ ZXSPECTRUM
 ZXSpectrum
 ZYNGA
 ZYNTARIS
+ZYRCON
 ZYRINX
 Zabac
 Zaccaria Pinball
@@ -102776,6 +102893,7 @@ ZombifiedPiglinSpawn
 ZombifiedPiglinSpawnEgg
 Zombocalypse Now!
 ZombocalypseNow!
+Zombuffoonery
 Zomom
 Zone
 Zone 404
@@ -102826,6 +102944,7 @@ Zushi
 Zwei
 Zynga
 Zyntaris
+Zyrcon
 Zyrinx
 ZÈBRE
 [ CONTENT DELETED ]
@@ -103105,6 +103224,7 @@ abyss chaser
 abyss dungeon
 abyss eschaton survivors
 abyss game
+abyss kitchen
 abyss manager idle
 abyss protection
 abyssal
@@ -103435,6 +103555,7 @@ afterburner
 afterburner2
 afterburnerclimax
 afterburnercomplete
+afterclerk
 afterglow-the fifth ending
 afternoon affairs & helpless housewives
 afternoon frontline
@@ -104926,6 +105047,8 @@ asgeir
 asgeir apaizdragon
 asgeirapaizdragon
 ash & adam's existential treads
+ashbound endless hunt
+ashbound expanse
 ashe
 asheara
 ashes of ambition
@@ -105071,6 +105194,7 @@ astro port
 astro protocol
 astro protocol - digital artbook
 astro protocol soundtrack
+astro raiders
 astroastro
 astroboyomegafactor
 astrogeo
@@ -107278,7 +107402,9 @@ bob-omb
 bob-omb rose
 bob-ombrose
 boba buba
+boba cafe simulator
 bobble
+bobble shop simulator
 bobby
 bobby fulbright
 bobbyfulbright
@@ -108013,6 +108139,7 @@ bugzzybugzzy
 buhei
 build & survive
 build-a-lot: on vacation
+builder simulator
 builders
 builders of egypt
 builders of greece
@@ -110338,6 +110465,7 @@ conquer lands
 conquer lands demo
 conquer the tower
 conquer the world
+conqueror's blade: three kingdoms
 conqueror's stage
 conquest
 conquest tactics : realm of sin
@@ -112909,6 +113037,7 @@ dino piranha
 dino quest
 dino rhino
 dino tower arena
+dinoblade
 dinocrisis
 dinopiranha
 dinopunk: the cacops adventure
@@ -114751,6 +114880,7 @@ elton manor: requiem of the cursed roses
 eltorro
 elune
 elven desire
+elven friends
 elven huntress: sunveil demo
 elvenfoundry
 elvis
@@ -117325,6 +117455,7 @@ furious kitchen
 furnace
 furniture toss
 furo
+furry adventure 2
 furry adventure 3 - big boobas!
 furry aim trainer
 furry banger
@@ -117585,6 +117716,7 @@ gamaniadigital
 gamaniadigitalentertainment
 gambarion
 gambette
+gambetto
 gambillion
 gamble with your friends
 gamble your breath
@@ -117819,6 +117951,7 @@ gas powered
 gas powered games
 gas station story
 gaslamp cases 6: haunted waters
+gaslamp cases 8: quest for the relic
 gaspar
 gaspar gaspar
 gaspargaspar
@@ -118468,6 +118601,7 @@ godbreakers
 godcraft simulator
 goddess scroll - the last starlight
 godeater
+godfall: embers
 godhand
 godius eternal war
 godof
@@ -118989,6 +119123,7 @@ grigorinightdragon
 grigsby
 grill your friends prematch
 grim
+grim dawn - fangs of asterkarn
 grim fandango
 grim pastures: outlaws
 grim tales: prisoners of the past collector's edition
@@ -119324,6 +119459,7 @@ gx
 gx-4000
 gx4000
 gym camp simulator
+gym rat simulator
 gym simulator
 gyre
 gyro
@@ -120130,6 +120266,7 @@ hentai summer swap
 hentai tales: 7 days cycle
 hentai tales: a succubus archive
 hentai tales: academy's record
+hentai tales: booby in black stockings
 hentai tales: breeding order 2050
 hentai tales: busty miko’s secret bond
 hentai tales: creampie cuckold wife
@@ -125410,6 +125547,7 @@ liminality
 limit break
 limit//less: physics bike challenge
 limited
+limitless survivor
 limpitoyable
 limscape : the liminal space explorer
 lin
@@ -125865,6 +126003,7 @@ lost stories
 lost totem trajipon!
 lost toys
 lost trust-episode 1
+lost vessel
 lostboys
 lostecho
 losted mind
@@ -126082,6 +126221,7 @@ lumena
 lumenknight
 lumiere
 luminaria: dark echoes
+luminas: parasite reign
 lumines
 lumines arise
 lumines arise original soundtrack
@@ -126120,6 +126260,7 @@ lure of passion
 lured in
 luscher
 lust & magic ✨
+lust and agony in netori:the ritual of despair
 lust arcanum
 lust arcanum - supporter pack
 lust arcanum soundtrack
@@ -126474,6 +126615,7 @@ mahtris 108
 mai
 maid card gacha: collect, display, complete
 maid for my master
+maid life ss
 maid of salvation
 maid sisters' service
 maiden
@@ -126615,6 +126757,7 @@ maman
 mamayeti
 mamayéti
 mamiral
+mammon’s wager
 mamon king
 mamoru
 mamoru sumii
@@ -128519,6 +128662,7 @@ momma game house
 mommagame
 mommagamehouse
 mommy don't hurt me mommy don't hurt me mommy don't hurt me
+mommy's squirt!
 mommy’s slipper
 momo
 momo crash
@@ -129205,6 +129349,7 @@ muts no typo
 mutton
 mutual harrow
 muv-luv
+muyu
 muzza
 mvp
 mvp baseball
@@ -134716,6 +134861,7 @@ quicksilversoftwareinc
 quiet dan
 quiet office floors
 quietcorner
+quietd
 quill
 quillhollow
 quintet
@@ -137082,6 +137228,7 @@ scary 8 bits
 scary game
 scary game 2: the mad shepherd
 scary shadow spot - all in
+scary stories: grotesque
 scary together
 scatologic
 scav
@@ -138400,6 +138547,7 @@ singletrac entertainment
 singletracentertainment
 singstar
 singularity
+sinheritance
 sinisistar 2
 sinisomnia
 sinister night 2
@@ -139561,6 +139709,7 @@ spirit cleansers
 spirit magician
 spirit of the dome
 spirit of the north 2
+spirit route
 spirit talk - cozy visual novel
 spirit whisperer conversation with akari
 spirit's shadow maze: the path of possession 灵影迷宫：附身之途
@@ -139820,6 +139969,7 @@ star wars rogue squadron
 star wars rogue squadron 2
 star wars tie fighter
 star wars trilogy
+star wars zero company™
 star wars: knights of old republic
 star wars: knights of the old republic
 star wars: tie fighter
@@ -140443,6 +140593,7 @@ sugar cane
 sugar shatter
 sugarcane
 sugawara
+suika evolution: shake & merge
 suika sprunki edition
 suikoden
 suit
@@ -140730,6 +140881,7 @@ supermariosunshine
 supermarioworld
 supermarket chaos
 supermarket simulator
+supermarket simulator: idle tycoon clicker
 supermarket super bundle
 supermassive
 supermassive games
@@ -141967,6 +142119,7 @@ the alchemist's cards
 the alchemist's elixir
 the algorithm
 the algorithm guild
+the alley
 the alters
 the alters benchmark tool
 the alters: last variable
@@ -142165,6 +142318,7 @@ the dreams in the peacock house
 the drifter
 the drowned deal
 the drunken beard
+the dungeon of lulu farea: rebirth
 the dungeon persists
 the earthen reign
 the eastern sacrifice
@@ -142636,6 +142790,7 @@ the protagonist
 the pub life simulator: prologue
 the punisher
 the puppet's casket
+the purple forest ritual
 the queen of phalli
 the quest for colour
 the quiet hum of a lonely heart
@@ -142689,6 +142844,7 @@ the seven days i spent with you
 the seven deadly sins: origin
 the seven enchantments
 the shade
+the shadow
 the shadow crown - frostwynd chronicles
 the shadow of shadows
 the shadow of swallow
@@ -143152,6 +143308,7 @@ this is love
 this is why we don't play golf
 this ship goes brrr
 this short indie game made me miss my friends | rainy plays lonely game livestream
+this station: the escape
 this war of mine
 this will not go well
 this winter of ours
@@ -147748,6 +147905,7 @@ zombifiedpiglinspawn
 zombifiedpiglinspawnegg
 zombifié
 zombocalypse now!
+zombuffoonery
 zombutcher: monster business simulator
 zomom
 zone
@@ -147800,6 +147958,7 @@ zx spectrum
 zxspectrum
 zynga
 zyntaris
+zyrcon
 zyrinx
 zèbre
 ¿ Y ? A SHORT MEMOIR TOLD IN BITS
@@ -148108,6 +148267,7 @@ zèbre
 你救世主播？
 你的牛子
 依灵修仙
+侠影录
 侦探，请守护我的秘密吧！
 修仙实操手册
 修仙记——消消乐乱斗
@@ -148409,6 +148569,10 @@ zèbre
 我的桌娘 my girl
 我的桌娘MyGirl
 我的秘密暑假
+我的美味丈夫 MY TASTY HUSBAND
+我的美味丈夫 My Tasty Husband
+我的美味丈夫 my tasty husband
+我的美味丈夫MyTastyHusband
 我的高冷女友 MY COLD GIRLFRIEND
 我的高冷女友 my cold girlfriend
 我的高冷女友MYCOLDGIRLFRIEND
@@ -148780,6 +148944,7 @@ zèbre
 策马守天关
 箱舟キバウ
 米姆米姆哈
+糺糺縁糸（きゅうきゅうえんし）
 系列作品特卖
 纸上的魔法使
 纸房子
