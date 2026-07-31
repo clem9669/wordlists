@@ -2685,6 +2685,7 @@ AGENT
 AGENT 9
 AGENT C
 AGENT IMPERIAL
+AGENT SHERINE: DANCING FOX
 AGENT SIRIUS
 AGENT SMITH
 AGENTIMPERIAL
@@ -5396,12 +5397,14 @@ Agent 9
 Agent C
 Agent Imperial
 Agent Impérial
+Agent Sherine: Dancing Fox
 Agent Sirius
 Agent Smith
 Agent9
 AgentC
 AgentImperial
 AgentImpérial
+AgentSherine:DancingFox
 AgentSirius
 AgentSmith
 Agents
@@ -9045,6 +9048,7 @@ BINARYDESIGN
 BINARYEMOTIONS
 BINARYVISIONS
 BIND
+BINGO BETTY
 BINGO MACHINE
 BINGO ROULETTE
 BINOTEQ
@@ -9286,6 +9290,7 @@ BLACKWATER EXCHANGE - CITY TROUBLE
 BLACKWATER EXCHANGE - STARTER LEDGER
 BLACKWELL
 BLACKWOOD DIVISION
+BLACKWOOD LODGE: THE SIBLINGS
 BLACK_DYE
 BLADE
 BLADE & SOUL NEO
@@ -9484,6 +9489,7 @@ BLOOD RAVEN
 BLOOD STORM: ALIEN PURGE
 BLOOD VIAL
 BLOOD WEST: SCAVENGERS
+BLOOD WITHOUT A NAME: ORIGINAL SOUNDTRACK
 BLOOD: REFRESHED SUPPLY™
 BLOODAXE
 BLOODBORNE
@@ -9653,6 +9659,7 @@ BO'RAI CHO
 BO'RAICHO
 BOARD FORGE
 BOARD GAME PARTY
+BOARD POKER
 BOARDERS
 BOARDFALL
 BOARDWALK BUILDERS
@@ -12043,8 +12050,10 @@ BinaryDesign
 BinaryEmotions
 BinaryVisions
 Bind
+Bingo Betty
 Bingo Machine
 Bingo Roulette
+BingoBetty
 BingoMachine
 BingoRoulette
 Binoteq
@@ -12308,7 +12317,9 @@ BlackwaterExchange-CityTrouble
 BlackwaterExchange-StarterLedger
 Blackwell
 Blackwood Division
+Blackwood Lodge: The Siblings
 BlackwoodDivision
+BlackwoodLodge:TheSiblings
 Blade
 Blade   Soul NEO
 Blade & Soul NEO
@@ -12554,6 +12565,7 @@ Blood Raven
 Blood Storm: Alien Purge
 Blood Vial
 Blood West: Scavengers
+Blood Without a Name: Original Soundtrack
 Blood in the Ice
 Blood of Mehran
 Blood of Mehran Soundtrack
@@ -12577,6 +12589,7 @@ BloodRayne
 BloodStorm:AlienPurge
 BloodVial
 BloodWest:Scavengers
+BloodWithoutaName:OriginalSoundtrack
 Bloodaxe
 Bloodhouse
 Bloodhouse Ltd
@@ -12735,8 +12748,10 @@ BoRai
 BoRai Cho
 BoRaiCho
 Board Forge
+Board Poker
 Board game party
 BoardForge
+BoardPoker
 Boarders
 Boardfall
 Boardgameparty
@@ -14332,6 +14347,7 @@ CARD
 CARD ARTISAN
 CARD CODER DEMO
 CARD CULTIVATION
+CARD HOMESTEAD
 CARD ROGUELIKE OF MUSOU FARMING DEMO
 CARD SHOP SIMULATOR MULTIPLAYER
 CARD TRAINER
@@ -14558,6 +14574,7 @@ CATALANO
 CATALINA'S HORROR ADVENTURE
 CATANKS
 CATAPULT LEGEND
+CATASTROPHIC
 CATBUN IDLE
 CATCAT
 CATCH IT
@@ -16375,6 +16392,7 @@ COSMIC ROBOTS
 COSMIC RUN
 COSMIC SCRAMBLE
 COSMIC STAR LOUNGE
+COSMIC SURVIVOR
 COSMIC SWARM
 COSMIC TAILS DEMO
 COSMIC WAVES
@@ -17688,6 +17706,7 @@ Card
 Card Artisan
 Card Coder Demo
 Card Cultivation
+Card Homestead
 Card Shop Simulator Multiplayer
 Card Trainer
 Card en Ciel Expansion Pass
@@ -17697,6 +17716,7 @@ Card-en-CielExpansionPass
 CardArtisan
 CardCoderDemo
 CardCultivation
+CardHomestead
 CardScrawl
 CardShopSimulatorMultiplayer
 CardTrainer
@@ -18012,6 +18032,7 @@ Catalina'sHorrorAdventure
 Catanks
 Catapult Legend
 CatapultLegend
+Catastrophic
 CatatHome
 CatcarriedButterfly
 Catch Me
@@ -20091,6 +20112,7 @@ Cosmic Robots
 Cosmic Run
 Cosmic Scramble
 Cosmic Star Lounge
+Cosmic Survivor
 Cosmic Swarm
 Cosmic Tails Demo
 Cosmic Waves
@@ -21996,6 +22018,7 @@ DEFENDERSOFOASIS
 DEFENSE
 DEFENSE GRID 2 - AFTERMATH
 DEFENSE LEGEND 5: SURVIVOR TD
+DEFENSE OF FORT BURTON
 DEFENSE OF WANCOTTE
 DEFENSORES DEL BARRIO
 DEFENSORESDELBARRIO
@@ -23553,6 +23576,7 @@ DREAMCORE: RABBIT HOLE
 DREAMER
 DREAMFAB
 DREAMFACTORY
+DREAMFORGE DEMO
 DREAMING ON THE LAST LIGHT 人偶馆绮幻夜
 DREAMLAND
 DREAMON
@@ -24897,9 +24921,11 @@ Defense
 Defense Grid 2   Aftermath
 Defense Grid 2 - Aftermath
 Defense Legend 5: Survivor TD
+Defense Of Fort Burton
 Defense of Wancotte
 DefenseGrid2-Aftermath
 DefenseLegend5:SurvivorTD
+DefenseOfFortBurton
 DefenseofWancotte
 Defentrix
 Defes
@@ -26774,6 +26800,8 @@ DreamCatcher
 DreamDazia
 DreamDoctor
 DreamFactory
+DreamForge Demo
+DreamForgeDemo
 DreamGame
 DreamGarden
 DreamNight
@@ -30843,6 +30871,7 @@ FANTASY PIECES: CHAPTER II
 FANTASY WORLD DIZZY
 FANTASY WORLD SIMULATOR
 FANTASY ZONE
+FANTASYJOURNEY
 FANTASYLIFEi:TheGirlWhoStealsTime
 FANTASYSYNTH - GROOVEBOX
 FANTASYWORLDDIZZY
@@ -32823,6 +32852,7 @@ FantasyCar:CarDesignSimulator造车模拟器
 FantasyForest
 FantasyGrounds-Dungeons&DragonsRavenloftTheHorrorsWithin
 FantasyIdleDungeon
+FantasyJourney
 FantasyKommander:FascinationofEvil
 FantasyLegend.TheFrozenCentury
 FantasyMaidenWars-DREAMOFTHESTRAYDREAMER-
@@ -36520,6 +36550,7 @@ GREatEffectsDevelopment
 GRIBOUILLE
 GRID OF CHANGE
 GRIDFALL: NINE-GRID
+GRIDHOLM
 GRIDKEEPER
 GRIDLE
 GRIDROYALE BATTLE ROYALE
@@ -38676,6 +38707,7 @@ Grid of Change
 GridFall: Nine Grid
 GridFall: Nine-Grid
 GridFall:Nine-Grid
+Gridholm
 Gridkeeper
 Gridle
 GridofChange
@@ -39846,6 +39878,7 @@ HENTAI LUNARA
 HENTAI MAGIC
 HENTAI MAGIC ACADEMY
 HENTAI MAGIC MILF
+HENTAI MAID SHIRA
 HENTAI MARINA
 HENTAI MATURE MILF
 HENTAI MERMAID SIRENA
@@ -40640,6 +40673,7 @@ HOVER RANCHER
 HOVERCRAFTS X NIHILISM
 HOVERGREASE 2
 HOW 2 ESCAPE: LOST SUBMARINE
+HOW MANY DUDES?
 HOW MANY SECRETS UNDER CEILING
 HOW MUCH FOR THE BODY IN THE FREEZER
 HOW MUCH IS ?
@@ -41732,6 +41766,7 @@ Hentai Lunara
 Hentai Magic
 Hentai Magic Academy
 Hentai Magic Milf
+Hentai Maid Shira
 Hentai Marina
 Hentai Mature Milf
 Hentai Mermaid Sirena
@@ -41893,6 +41928,7 @@ HentaiLunara
 HentaiMagic
 HentaiMagicAcademy
 HentaiMagicMilf
+HentaiMaidShira
 HentaiMarina
 HentaiMatureMilf
 HentaiMermaidSirena
@@ -42827,6 +42863,7 @@ HoverRancher
 Hovercrafts x Nihilism
 HovercraftsxNihilism
 How 2 Escape: Lost Submarine
+How Many Dudes?
 How Many Secrets Under Ceiling
 How Much Is ?
 How Much for the Body in the Freezer
@@ -42842,6 +42879,7 @@ How to create a witch
 How to lose one s virginity Demo
 How to lose one's virginity Demo
 How2Escape:LostSubmarine
+HowManyDudes?
 HowManySecretsUnderCeiling
 HowMuchIs?
 HowMuchfortheBodyintheFreezer
@@ -43769,6 +43807,7 @@ INFILTRATING ROUDILLE
 INFILTRATION
 INFINICRYPT
 INFINITE
+INFINITE ARCANA
 INFINITE BOWLING
 INFINITE BREAD
 INFINITE CANYON
@@ -43779,6 +43818,7 @@ INFINITE DUNGEON: IDLE ADVENTURE
 INFINITE EINSTEIN TILES
 INFINITE FOOD FACTORY
 INFINITE GALGAME
+INFINITE GAME CARTRIDGE COLLECTION - ENDLESS DIVER
 INFINITE INTERACTIVE
 INFINITE LASER
 INFINITE LASER DOG
@@ -44900,6 +44940,7 @@ InfiltratingRoudille
 Infiltration
 Infinicrypt
 Infinite
+Infinite Arcana
 Infinite Bowling
 Infinite Bread
 Infinite Canyon
@@ -44909,6 +44950,8 @@ Infinite Dungeon: Idle Adventure
 Infinite Einstein Tiles
 Infinite Food Factory
 Infinite Galgame
+Infinite Game Cartridge Collection   Endless Diver
+Infinite Game Cartridge Collection - Endless Diver
 Infinite Interactive
 Infinite Laser
 Infinite Laser Dog
@@ -44921,6 +44964,7 @@ Infinite Orienteering: The Hiker's Path
 Infinite Ruins
 Infinite Space: Mining
 Infinite Ventures
+InfiniteArcana
 InfiniteBowling
 InfiniteBread
 InfiniteCanyon
@@ -44930,6 +44974,7 @@ InfiniteDungeon:IdleAdventure
 InfiniteEinsteinTiles
 InfiniteFoodFactory
 InfiniteGalgame
+InfiniteGameCartridgeCollection-EndlessDiver
 InfiniteInteractive
 InfiniteLaser
 InfiniteLaserDog
@@ -47377,6 +47422,7 @@ KAIRE
 KAIRI
 KAIRI MIZUKAMI
 KAIRIMIZUKAMI
+KAIROS: UNTIL THE DAWN BREAKS
 KAIROSOFT
 KAISHAIN
 KAITEN
@@ -48573,6 +48619,8 @@ Kaire
 Kairi
 Kairi Mizukami
 KairiMizukami
+Kairos: Until the Dawn Breaks
+Kairos:UntiltheDawnBreaks
 Kairosoft
 Kaishain
 Kaiten
@@ -54279,6 +54327,7 @@ MACHINARIUM
 MACHINE
 MACHINE CHILD
 MACHINE MIND
+MACHINE PARTY
 MACHINE TOWER 2984 SOUNDTRACK
 MACHINEFALL
 MACHINEGAMES
@@ -55630,6 +55679,7 @@ MERGE
 MERGE GAMES
 MERGE MAESTRO
 MERGE MATCH MARCH
+MERGE PARADE
 MERGEGAMES
 MERIDIAN
 MERIT
@@ -55665,6 +55715,7 @@ METAL
 METAL AGE
 METAL ARMS
 METAL ARMS: GLITCH IN THE SYSTEM
+METAL DETECTOR ISLAND
 METAL EDEN
 METAL GEAR
 METAL GEAR RISING: REVENGEANCE
@@ -57592,12 +57643,14 @@ Machinarium
 Machine
 Machine Child
 Machine Mind
+Machine Party
 Machine Tower 2984 Soundtrack
 MachineChild
 MachineGames
 MachineGunner2 : Bullet Transcending
 MachineGunner2:BulletTranscending
 MachineMind
+MachineParty
 MachineTower2984Soundtrack
 MachineWorks
 MachineWorks Northwest
@@ -59159,9 +59212,11 @@ Merge
 Merge Games
 Merge Maestro
 Merge Match March
+Merge Parade
 MergeGames
 MergeMaestro
 MergeMatchMarch
+MergeParade
 Meridian
 Merit
 Merit Studios
@@ -59198,6 +59253,7 @@ MetahorrorTherapySession
 Metal
 Metal Arms
 Metal Arms: Glitch in the System
+Metal Detector Island
 Metal Gear
 Metal Gear Solid
 Metal Gear Solid Ghost Babel
@@ -59213,6 +59269,7 @@ Metal Sonic 30
 Metal Storm
 MetalArms
 MetalArms:GlitchintheSystem
+MetalDetectorIsland
 MetalGear
 MetalGearSolid
 MetalGearSolidGhostBabel
@@ -67034,6 +67091,7 @@ PANDORA SOFTWARE
 PANDORA'S TOYBOX
 PANDORABOX
 PANDORASOFTWARE
+PANEL PANIC
 PANELCOMP
 PANESIAN
 PANG
@@ -67246,6 +67304,8 @@ PARKITECT
 PARKOUR PAWS
 PARKPLACE
 PARKPLACEPRODUCTIONS
+PARKSIDE: DECAYED SOUL MANIPULATION
+PARKSIDE:DECAYEDSOULMANIPULATION
 PARKSUN-WOO
 PARKSUNWOO
 PARKTOUR
@@ -69775,7 +69835,9 @@ Pandora's Toybox
 Pandora'sToybox
 PandoraBox
 PandoraSoftware
+Panel Panic
 PanelComp
+PanelPanic
 Panesian
 Pang
 Pangea
@@ -73369,6 +73431,7 @@ RANDERLINE GMBH
 RANDERLINEGMBH
 RANDOM
 RANDOM ACCESS
+RANDOM DRAGONS
 RANDOM FANTASY DEFENSE
 RANDOM HOUSE
 RANDOMACCESS
@@ -73743,6 +73806,7 @@ RED ROGUE SEA
 RED SPIDER: VENGEANCE REMASTERED DONATION VER.
 RED STORM
 RED STORM ENTERTAINMENT
+RED THE COOK
 RED VIPER
 RED VIPER RED VIPER
 RED WASP
@@ -74813,6 +74877,7 @@ ROSCO
 ROSE
 ROSE AND LOCKET
 ROSE GUNS DAYS -SEASON 1-
+ROSE GUNS DAYS -SEASON 2-
 ROSE OF WIND
 ROSE PAYNE
 ROSEBUD
@@ -74966,6 +75031,8 @@ RUN QUAD RUN
 RUN RUN IGUANA!
 RUN TAVERNQUEST
 RUN, VEGGIES!
+RUN.WORLD
+RUN.world
 RUNA ILLUSTRA
 RUNABOUT
 RUNAWAY
@@ -75324,9 +75391,11 @@ Randerline gmbh
 Randerlinegmbh
 Random
 Random Access
+Random Dragons
 Random Fantasy Defense
 Random House
 RandomAccess
+RandomDragons
 RandomFantasyDefense
 RandomHouse
 Randomice
@@ -75746,6 +75815,7 @@ Red Viper Red Viper
 Red Wasp
 Red Wasp Design
 Red s Ascent
+Red the Cook
 Red's Ascent
 Red'sAscent
 RedBanner
@@ -75812,6 +75882,7 @@ Redstone Repeater
 RedstoneComparator
 RedstoneDust
 RedstoneRepeater
+RedtheCook
 Redtribe
 Redwalda
 Redwalda Redwalda
@@ -77003,11 +77074,14 @@ Rosanne
 Rosco
 Rose
 Rose Guns Days  Season 1 
+Rose Guns Days  Season 2 
 Rose Guns Days -Season 1-
+Rose Guns Days -Season 2-
 Rose Of Wind
 Rose Payne
 Rose and Locket
 RoseGunsDays-Season1-
+RoseGunsDays-Season2-
 RoseOfWind
 RosePayne
 RoseandLocket
@@ -79004,6 +79078,7 @@ SHUYIN
 SHYERA
 SHYMA AND THE LESBIAN DEMON LORD
 SIC BO MACAU: THE ULTIMATE CASINO DICE GAME
+SICARIUS DEMO
 SICHFRITH
 SICHFRITH MAC IMAIR
 SICHFRITHMACIMAIR
@@ -79646,6 +79721,7 @@ SLOTS & DAGGERS
 SLUG
 SLUG SURVIVAL
 SLUGTRIP
+SLUICE THAT GOOSE! DEMO
 SLUMBER PARTY
 SLUMBERER'S UNIVERSE
 SLUMS: HAULER
@@ -79846,6 +79922,7 @@ SNOWMAN MO
 SNOWRUNNER + ROADCRAFT LOYALTY BUNDLE
 SNOWRUNNER + ROADCRAFT – REBUILD EDITION LOYALTY BUNDLE
 SNOWVILLIERS
+SNT PLAN
 SNUGFANG
 SNYDER
 SNÄGÄRI PINBALL
@@ -80848,6 +80925,8 @@ STARARC ECHO
 STARBAG
 STARBASE STARLIGHT
 STARBOI
+STARBREED
+STARBREED ARTBOOK
 STARBREEZE
 STARBREW STATION - AUTO-MAINTENANCE DROID UNIT
 STARBREW STATION - INTERIOR DECORATOR'S PACK
@@ -81564,6 +81643,7 @@ SUNCRAFT
 SUNDERED SOUL: CHAINS OF THE UNDYING
 SUNDY STAIRWAY
 SUNELECTRONICS
+SUNFALL '80
 SUNFINITY
 SUNFLOWER STRONGHOLD
 SUNFLOWERS
@@ -84016,6 +84096,8 @@ SiNiSistar 2
 SiNiSistar2
 Sic Bo Macau: The Ultimate Casino Dice Game
 SicBoMacau:TheUltimateCasinoDiceGame
+Sicarius Demo
+SicariusDemo
 Sichfrith
 Sichfrith mac Imair
 SichfrithmacImair
@@ -84777,6 +84859,8 @@ Slug
 Slug Survival
 SlugSurvival
 Slugtrip
+Sluice That Goose! Demo
+SluiceThatGoose!Demo
 Slumber Party
 SlumberParty
 Slumberer s Universe
@@ -84988,6 +85072,8 @@ Snowman Mo
 SnowmanMo
 SnowxHime
 Snow•Fall
+Snt Plan
+SntPlan
 Snugfang
 Snyder
 Snägäri Pinball
@@ -86233,6 +86319,9 @@ Starbag
 Starbase Starlight
 StarbaseStarlight
 Starboi
+Starbreed
+Starbreed Artbook
+StarbreedArtbook
 Starbreeze
 Starbrew Station   Auto Maintenance Droid Unit
 Starbrew Station   Interior Decorator's Pack
@@ -87155,6 +87244,9 @@ Sundered Soul: Chains of the Undying
 SunderedSoul:ChainsoftheUndying
 Sundy Stairway
 SundyStairway
+Sunfall  80
+Sunfall '80
+Sunfall'80
 Sunfinity
 Sunflower Stronghold
 SunflowerStronghold
@@ -88263,6 +88355,7 @@ TASHA
 TASHA DENU
 TASHADENU
 TASK
+TASK BAR OF RAGNALIS
 TASK DOCK
 TASK FORCE ADMIRAL - VOL.1: AMERICAN CARRIER BATTLES
 TASKTWIST
@@ -88662,6 +88755,7 @@ TERMINAL HACKER: OVERRIDE
 TERMINAL LUCIDITY
 TERMINAL LUCIDITY ERA
 TERMINAL REALITY
+TERMINAL WARFARE
 TERMINALREALITY
 TERMINAL命令合集
 TERMINATOR
@@ -88676,6 +88770,7 @@ TERMiesDuels
 TERNSTORY
 TERRA
 TERRA BRANFORD
+TERRA CONCORDIA: CIVILIZATIONS IN HARMONY
 TERRA FIRMA 2 DEMO
 TERRA INVICTA
 TERRA LAPSA: AFTER RAGNARÖK
@@ -89365,6 +89460,7 @@ THE LIGHTKEEPER
 THE LIGHTNING GIRL
 THE LIGHTNING STRUCK ORPHAN
 THE LILLIPUT WORKSHOP
+THE LIMINAL TEXTURE - MISSING TEXTURE
 THE LION GAMBLES EVERYTHING HE OWNS
 THE LIQUID JET
 THE LITTLE PIXEL THAT COULD
@@ -89535,6 +89631,7 @@ THE REASON FOR YOUR SMILE
 THE REASON MY WIFE HAS GOTTEN MORE BEAUTIFUL
 THE REBIRTH TALE OF BROKEN HORN DEMON LORD ALICE
 THE RED SHIFT
+THE RELIC: FIRST GUARDIAN
 THE REMNANTS
 THE RESCUE OF MERMAIDS
 THE RESERVE
@@ -90767,6 +90864,7 @@ TOUGOU
 TOUGOU DEL AMIGO
 TOUGOUDELAMIGO
 TOUHOU
+TOUHOU BRAWL
 TOUHOU DANMAKU KAGURA PHANTASIA LOST: EXTRA SONG PACK VOL. 13
 TOUHOU DANMAKU KAGURA PHANTASIA LOST: EXTRA SONG PACK VOL. 14
 TOUHOU DEFENSE TALE ~ AI TEST IN TOUHOU ~
@@ -91900,9 +91998,11 @@ Tasha
 Tasha Denu
 TashaDenu
 Task
+Task Bar of Ragnalis
 Task Dock
 Task Force Admiral   Vol.1: American Carrier Battles
 Task Force Admiral - Vol.1: American Carrier Battles
+TaskBarofRagnalis
 TaskDock
 TaskForceAdmiral-Vol.1:AmericanCarrierBattles
 TaskTwist
@@ -92324,6 +92424,7 @@ Terminal Hacker: Override
 Terminal Lucidity
 Terminal Lucidity Era
 Terminal Reality
+Terminal Warfare
 Terminal????
 TerminalBreach:FinalDawn
 TerminalCursorSoundtrack
@@ -92331,6 +92432,7 @@ TerminalHacker:Override
 TerminalLucidity
 TerminalLucidityEra
 TerminalReality
+TerminalWarfare
 Terminal命令合集
 Terminator
 Terminator 2D: NO FATE
@@ -92346,6 +92448,7 @@ TernStory
 TerrY
 Terra
 Terra Branford
+Terra Concordia: Civilizations in Harmony
 Terra Firma 2 Demo
 Terra Invicta
 Terra Lapsa: After Ragnarok
@@ -92354,6 +92457,7 @@ Terra Nova
 Terra Pit
 Terra Request
 TerraBranford
+TerraConcordia:CivilizationsinHarmony
 TerraFirma2Demo
 TerraInvicta
 TerraLapsa:AfterRagnarök
@@ -93055,6 +93159,8 @@ The Lightkeeper
 The Lightning Girl
 The Lightning Struck Orphan
 The Lilliput Workshop
+The Liminal Texture   Missing Texture
+The Liminal Texture - Missing Texture
 The Lion Gambles Everything He Owns
 The Liquid Jet
 The Little Pixel That Could
@@ -93232,6 +93338,7 @@ The Reason My Wife Has Gotten More Beautiful
 The Reason for Your Smile
 The Rebirth Tale of Broken Horn Demon Lord Alice
 The Red Shift
+The Relic: First Guardian
 The Remnants
 The Rescue of Mermaids
 The Reserve
@@ -93957,6 +94064,7 @@ TheLightningGirl
 TheLightningStruckOrphan
 TheLightofCelestia
 TheLilliputWorkshop
+TheLiminalTexture-MissingTexture
 TheLionGamblesEverythingHeOwns
 TheLiquidJet
 TheLittlePixelThatCould
@@ -94121,6 +94229,7 @@ TheReasonMyWifeHasGottenMoreBeautiful
 TheReasonforYourSmile
 TheRebirthTaleofBrokenHornDemonLordAlice
 TheRedShift
+TheRelic:FirstGuardian
 TheRemnants
 TheRescueofMermaids
 TheReserve
@@ -95322,6 +95431,7 @@ Tougou
 Tougou Del Amigo
 TougouDelAmigo
 Touhou
+Touhou Brawl
 Touhou Danmaku Kagura Phantasia Lost: Extra Song Pack Vol. 13
 Touhou Danmaku Kagura Phantasia Lost: Extra Song Pack Vol. 14
 Touhou Defense Tale ~ AI Test in Touhou ~
@@ -95351,6 +95461,7 @@ Touhou:BeyondGensokyo
 Touhou:BlossomBlade
 Touhou:DivineLand-MajestyinGame-
 Touhou:RecordsofWealth-Seeking
+TouhouBrawl
 TouhouDanmakuKaguraPhantasiaLost:ExtraSongPackVol.13
 TouhouDanmakuKaguraPhantasiaLost:ExtraSongPackVol.14
 TouhouDefenseTale~AITestinTouhou~
@@ -99322,6 +99433,7 @@ WATER DROP BRICK BREAKER
 WATER MARGIN ONLINE
 WATER MARGIN SCROLLS
 WATER OF M
+WATER SPIRIT ESCAPE
 WATER WOMB WORLD
 WATERBUCKET
 WATERLILY
@@ -99626,6 +99738,7 @@ WHO CLICKED MY BONES?
 WHO DID IT? - CASE PACK #1
 WHO IS ETHAN?
 WHO TRAINED THE HERO? -SPIN OF FATE-
+WHO'S AT THE DOOR - SUPPORTERS PACK
 WHO'S AT THE DOOR?
 WHO'S BEAST
 WHO'S HUNGRY?
@@ -100656,12 +100769,14 @@ Water Bucket
 Water Drop Brick Breaker
 Water Margin Online
 Water Margin Scrolls
+Water Spirit Escape
 Water Womb World
 Water of M
 WaterBucket
 WaterDropBrickBreaker
 WaterMarginOnline
 WaterMarginScrolls
+WaterSpiritEscape
 WaterWombWorld
 Waterlily
 Waterlily Games
@@ -101071,12 +101186,16 @@ Who Is Ethan?
 Who Trained the Hero?  Spin of Fate 
 Who Trained the Hero? -Spin of Fate-
 Who s Hungry?
+Who s at the door - Supporters Pack
 Who s at the door?
 Who s beast
 Who's Hungry?
+Who's at the door   Supporters Pack
+Who's at the door - Supporters Pack
 Who's at the door?
 Who's beast
 Who'sHungry?
+Who'satthedoor-SupportersPack
 Who'satthedoor?
 Who'sbeast
 WhoClickedMyBones?
@@ -104285,6 +104404,7 @@ agent 9
 agent c
 agent imperial
 agent impérial
+agent sherine: dancing fox
 agent sirius
 agent smith
 agentimperial
@@ -107494,6 +107614,7 @@ binarydesign
 binaryemotions
 binaryvisions
 bind
+bingo betty
 bingo machine
 bingo roulette
 binoteq
@@ -107725,6 +107846,7 @@ blackwater exchange - city trouble
 blackwater exchange - starter ledger
 blackwell
 blackwood division
+blackwood lodge: the siblings
 blade
 blade & soul neo
 blade and dragon vr
@@ -107922,6 +108044,7 @@ blood raven
 blood storm: alien purge
 blood vial
 blood west: scavengers
+blood without a name: original soundtrack
 blood: refreshed supply™
 bloodaxe
 bloodborne
@@ -108076,6 +108199,7 @@ bo'rai cho
 bo'raicho
 board forge
 board game party
+board poker
 boarders
 boardfall
 boardwalk builders
@@ -109430,6 +109554,7 @@ card
 card artisan
 card coder demo
 card cultivation
+card homestead
 card roguelike of musou farming demo
 card shop simulator multiplayer
 card trainer
@@ -109654,6 +109779,7 @@ catalano
 catalina's horror adventure
 catanks
 catapult legend
+catastrophic
 catbun idle
 catcat
 catch it
@@ -111395,6 +111521,7 @@ cosmic robots
 cosmic run
 cosmic scramble
 cosmic star lounge
+cosmic survivor
 cosmic swarm
 cosmic tails demo
 cosmic waves
@@ -113030,6 +113157,7 @@ defendersofoasis
 defense
 defense grid 2 - aftermath
 defense legend 5: survivor td
+defense of fort burton
 defense of wancotte
 defensores del barrio
 defentrix
@@ -114511,6 +114639,7 @@ dreamcore: rabbit hole
 dreamer
 dreamfab
 dreamfactory
+dreamforge demo
 dreaming on the last light 人偶馆绮幻夜
 dreamland
 dreamon
@@ -116666,6 +116795,7 @@ fantasy pieces: chapter ii
 fantasy world dizzy
 fantasy world simulator
 fantasy zone
+fantasyjourney
 fantasysynth - groovebox
 fantasyworlddizzy
 fantasyzone
@@ -119845,6 +119975,7 @@ grezzo
 gribouille
 grid of change
 gridfall: nine-grid
+gridholm
 gridkeeper
 gridle
 gridroyale battle royale
@@ -120967,6 +121098,7 @@ hentai lunara
 hentai magic
 hentai magic academy
 hentai magic milf
+hentai maid shira
 hentai marina
 hentai mature milf
 hentai mermaid sirena
@@ -121722,6 +121854,7 @@ hover rancher
 hovercrafts x nihilism
 hovergrease 2
 how 2 escape: lost submarine
+how many dudes?
 how many secrets under ceiling
 how much for the body in the freezer
 how much is ?
@@ -122527,6 +122660,7 @@ infiltrating roudille
 infiltration
 infinicrypt
 infinite
+infinite arcana
 infinite bowling
 infinite bread
 infinite canyon
@@ -122537,6 +122671,7 @@ infinite dungeon: idle adventure
 infinite einstein tiles
 infinite food factory
 infinite galgame
+infinite game cartridge collection - endless diver
 infinite interactive
 infinite laser
 infinite laser dog
@@ -123983,6 +124118,7 @@ kaire
 kairi
 kairi mizukami
 kairimizukami
+kairos: until the dawn breaks
 kairosoft
 kaishain
 kaiten
@@ -127152,6 +127288,7 @@ machinarium
 machine
 machine child
 machine mind
+machine party
 machine tower 2984 soundtrack
 machinefall
 machinegames
@@ -128476,6 +128613,7 @@ merge
 merge games
 merge maestro
 merge match march
+merge parade
 mergegames
 meridian
 merit
@@ -128510,6 +128648,7 @@ metal
 metal age
 metal arms
 metal arms: glitch in the system
+metal detector island
 metal eden
 metal gear
 metal gear rising: revengeance
@@ -133035,6 +133174,7 @@ pandora software
 pandora's toybox
 pandorabox
 pandorasoftware
+panel panic
 panelcomp
 panesian
 pang
@@ -133251,6 +133391,7 @@ parkitect
 parkour paws
 parkplace
 parkplaceproductions
+parkside: decayed soul manipulation
 parksun-woo
 parksunwoo
 parktour
@@ -135935,6 +136076,7 @@ randerline gmbh
 randerlinegmbh
 random
 random access
+random dragons
 random fantasy defense
 random house
 randomaccess
@@ -136287,6 +136429,7 @@ red rogue sea
 red spider: vengeance remastered donation ver.
 red storm
 red storm entertainment
+red the cook
 red viper
 red viper red viper
 red wasp
@@ -137299,6 +137442,7 @@ rosco
 rose
 rose and locket
 rose guns days -season 1-
+rose guns days -season 2-
 rose of wind
 rose payne
 rosebud
@@ -137441,6 +137585,7 @@ run quad run
 run run iguana!
 run tavernquest
 run, veggies!
+run.world
 runa illustra
 runabout
 runaway
@@ -139080,6 +139225,7 @@ shyma and the lesbian demon lord
 siMarket Cloth Store Simulator
 siMarketClothStoreSimulator
 sic bo macau: the ultimate casino dice game
+sicarius demo
 sichfrith
 sichfrith mac imair
 sichfrithmacimair
@@ -139693,6 +139839,7 @@ slots & daggers
 slug
 slug survival
 slugtrip
+sluice that goose! demo
 slumber party
 slumberer's universe
 slums: hauler
@@ -139871,6 +140018,7 @@ snowman mo
 snowrunner + roadcraft loyalty bundle
 snowrunner + roadcraft – rebuild edition loyalty bundle
 snowvilliers
+snt plan
 snugfang
 snyder
 snägäri pinball
@@ -140834,6 +140982,8 @@ stararc echo
 starbag
 starbase starlight
 starboi
+starbreed
+starbreed artbook
 starbreeze
 starbrew station - auto-maintenance droid unit
 starbrew station - interior decorator's pack
@@ -141525,6 +141675,7 @@ suncraft
 sundered soul: chains of the undying
 sundy stairway
 sunelectronics
+sunfall '80
 sunfinity
 sunflower stronghold
 sunflowers
@@ -142439,6 +142590,7 @@ tasha
 tasha denu
 tashadenu
 task
+task bar of ragnalis
 task dock
 task force admiral - vol.1: american carrier battles
 tasktwist
@@ -142817,6 +142969,7 @@ terminal hacker: override
 terminal lucidity
 terminal lucidity era
 terminal reality
+terminal warfare
 terminalreality
 terminal命令合集
 terminator
@@ -142830,6 +142983,7 @@ ternstory
 terrY
 terra
 terra branford
+terra concordia: civilizations in harmony
 terra firma 2 demo
 terra invicta
 terra lapsa: after ragnarök
@@ -143502,6 +143656,7 @@ the lightkeeper
 the lightning girl
 the lightning struck orphan
 the lilliput workshop
+the liminal texture - missing texture
 the lion gambles everything he owns
 the liquid jet
 the little pixel that could
@@ -143671,6 +143826,7 @@ the reason for your smile
 the reason my wife has gotten more beautiful
 the rebirth tale of broken horn demon lord alice
 the red shift
+the relic: first guardian
 the remnants
 the rescue of mermaids
 the reserve
@@ -144885,6 +145041,7 @@ tougou
 tougou del amigo
 tougoudelamigo
 touhou
+touhou brawl
 touhou danmaku kagura phantasia lost: extra song pack vol. 13
 touhou danmaku kagura phantasia lost: extra song pack vol. 14
 touhou defense tale ~ ai test in touhou ~
@@ -147186,6 +147343,7 @@ water drop brick breaker
 water margin online
 water margin scrolls
 water of m
+water spirit escape
 water womb world
 waterbucket
 waterlily
@@ -147472,6 +147630,7 @@ who clicked my bones?
 who did it? - case pack #1
 who is ethan?
 who trained the hero? -spin of fate-
+who's at the door - supporters pack
 who's at the door?
 who's beast
 who's hungry?
@@ -149163,6 +149322,7 @@ zèbre
 你的牛子
 依灵修仙
 侠影录
+侠落：百花杀尽
 侦探，请守护我的秘密吧！
 修仙实操手册
 修仙记——消消乐乱斗
