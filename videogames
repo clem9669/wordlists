@@ -108,6 +108,11 @@
 1.80????
 1.80战神微变
 10
+10 Man Idle
+10-MAN IDLE
+10-Man Idle
+10-ManIdle
+10-man idle
 100 AFRICA CATS
 100 AZTEC CATS
 100 AZTEC CATS - ARTBOOK
@@ -209,6 +214,8 @@
 100 TRIALS
 100 Thailand Cats
 100 Trials
+100 UNDERSEA CATS
+100 Undersea Cats
 100 VAMPIRE CATS
 100 Vampire Cats
 100 WORDS
@@ -263,6 +270,7 @@
 100 swamp cats
 100 thailand cats
 100 trials
+100 undersea cats
 100 vampire cats
 100 words
 100 zombie cats
@@ -331,6 +339,7 @@
 100SwampCats
 100ThailandCats
 100Trials
+100UnderseaCats
 100VampireCats
 100Words
 100ZombieCats
@@ -381,6 +390,7 @@
 101 DOGS HIDDEN IN MIAMI
 101 DOGS HIDDEN IN NEW DELHI
 101 DOGS HIDDEN IN NEW YORK
+101 DOGS HIDDEN IN PARIS
 101 DOGS HIDDEN IN ROME
 101 DOGS HIDDEN IN SHANGHAI
 101 DOGS HIDDEN IN SINGAPORE
@@ -398,6 +408,7 @@
 101 Dogs Hidden in Miami
 101 Dogs Hidden in New Delhi
 101 Dogs Hidden in New York
+101 Dogs Hidden in Paris
 101 Dogs Hidden in Rome
 101 Dogs Hidden in Shanghai
 101 Dogs Hidden in Singapore
@@ -432,6 +443,7 @@
 101 dogs hidden in miami
 101 dogs hidden in new delhi
 101 dogs hidden in new york
+101 dogs hidden in paris
 101 dogs hidden in rome
 101 dogs hidden in shanghai
 101 dogs hidden in singapore
@@ -466,6 +478,7 @@
 101DogsHiddeninMiami
 101DogsHiddeninNewDelhi
 101DogsHiddeninNewYork
+101DogsHiddeninParis
 101DogsHiddeninRome
 101DogsHiddeninShanghai
 101DogsHiddeninSingapore
@@ -4783,6 +4796,7 @@ AVGOS AVGOS
 AVGOSAVGOS
 AVIAN KNIGHTS
 AVIARIUM
+AVOIDVANIA
 AVON
 AVON BOOKS
 AVONBOOKS
@@ -7653,6 +7667,7 @@ AvgosAvgos
 Avian Knights
 AvianKnights
 Aviarium
+Avoidvania
 Avon
 Avon Books
 AvonBooks
@@ -9972,6 +9987,7 @@ BOUMBALA BOUMBALA
 BOUMBALABOUMBALA
 BOUMBOUM
 BOUNCE 2
+BOUNCE ARENA SIMULATOR
 BOUNCE BALL CLICKER
 BOUNCE CAT
 BOUNCE FOREVER
@@ -13111,12 +13127,14 @@ Boumbala
 Boumbala Boumbala
 BoumbalaBoumbala
 Bounce 2
+Bounce Arena Simulator
 Bounce Ball Clicker
 Bounce Cat
 Bounce Forever
 Bounce IT
 Bounce Quest
 Bounce2
+BounceArenaSimulator
 BounceBallClicker
 BounceCat
 BounceForever
@@ -14612,6 +14630,7 @@ CATS AND COWS
 CATS ARE MONEY
 CATS AROUND US: BLACK CAT
 CATS AWAY
+CATS BLOCKS: HOT SPRINGS
 CATS HIDDEN AROUND THE WORLD 2
 CATS HIDDEN IN CHANG'AN
 CATS HIDDEN IN CHRISTMAS - MORE MERRY LEVELS
@@ -14623,6 +14642,7 @@ CATS VISITING EL DORADO
 CATS VISITING FAIRY TALES
 CATS VS RATS
 CATS VS TROLLS
+CATSBLOCKS:HOTSPRINGS
 CATSPAWN
 CATSPAWNEGG
 CATTLE
@@ -16490,6 +16510,7 @@ COUSETTE
 COUSIN CATCHER
 COUSIN'S HOUSE
 COVENANT OF SOLITUDE
+COVER STORY
 COVERT X UNIVERSE
 COVET THE COUNTDOWN
 COVID 29
@@ -20243,6 +20264,8 @@ Cousin'sHouse
 CousinCatcher
 Covenant of Solitude
 CovenantofSolitude
+Cover Story
+CoverStory
 Covert X Universe
 CovertXUniverse
 Covet the Countdown
@@ -22293,6 +22316,7 @@ DESKTOP FISHING
 DESKTOP FISHING CAT
 DESKTOP FOREST
 DESKTOP GOLF
+DESKTOP GRASS
 DESKTOP HELLFARMER
 DESKTOP HEROES
 DESKTOP IMMORTAL
@@ -23242,6 +23266,7 @@ DOOR
 DOOR KICKERS 2: TASK FORCE NORTH
 DOOR(2/3)¹³
 DOORWAY 2
+DOPAMINE EGGS
 DOPAMINE OVERDRIVE
 DOPAmine Overdrive
 DOPAmineOverdrive
@@ -23700,6 +23725,7 @@ DRONE SECTOR
 DRONE SIMULATOR VR
 DRONE STRIKE - TB2
 DRONE:MODERN WARFARE
+DRONED
 DROP
 DROP ADVENTURE - مغامرة قطرة
 DROP AND GROW
@@ -25262,6 +25288,7 @@ Desktop Fishing
 Desktop Fishing Cat
 Desktop Forest
 Desktop Golf
+Desktop Grass
 Desktop Hellfarmer
 Desktop Heroes
 Desktop Immortal
@@ -25295,6 +25322,7 @@ DesktopFishing
 DesktopFishingCat
 DesktopForest
 DesktopGolf
+DesktopGrass
 DesktopHellfarmer
 DesktopHeroes
 DesktopImmortal
@@ -26403,6 +26431,8 @@ Door(2/3)¹³
 DoorKickers2:TaskForceNorth
 Doorway 2
 Doorway2
+Dopamine Eggs
+DopamineEggs
 DopePie Survivors 3D
 DopePieSurvivors3D
 DoppelTest
@@ -26972,6 +27002,7 @@ DroneRacing
 DroneSector
 DroneSimulatorVR
 DroneStrike-Tb2
+Droned
 Drop
 Drop Adventure   مغامرة قطرة
 Drop Adventure - ?????? ????
@@ -28172,6 +28203,7 @@ EMBRACE THE BRILLIANCE
 EMBRYO
 EMERALD
 EMERALD BLUE
+EMERALD FLOWER
 EMERALD SOFTWARE
 EMERALD VALLEY
 EMERALDSOFTWARE
@@ -28584,6 +28616,7 @@ ESCAPE SIMULATOR 2
 ESCAPE THE BACKROOMS
 ESCAPE THE COMPLEX
 ESCAPE THE CRADLE
+ESCAPE THE HOUSE
 ESCAPE THE HUMANS
 ESCAPE THE LABYRINTH
 ESCAPE THE MARINE LAB
@@ -29686,9 +29719,11 @@ EmbracetheBrilliance
 Embryo
 Emerald
 Emerald Blue
+Emerald Flower
 Emerald Software
 Emerald Valley
 EmeraldBlue
+EmeraldFlower
 EmeraldSoftware
 EmeraldValley
 Emeraude
@@ -30132,6 +30167,7 @@ Escape from Vacov
 Escape from Yandere
 Escape of the school
 Escape the Backrooms
+Escape the House
 Escape the Marine Lab
 Escape the Maze
 Escape the Urban Underground.
@@ -30182,6 +30218,7 @@ Escapen t
 Escapen't
 Escapeoftheschool
 EscapetheBackrooms
+EscapetheHouse
 EscapetheMarineLab
 EscapetheMaze
 EscapetheUrbanUnderground.
@@ -32153,6 +32190,7 @@ FRAZER
 FRCTL
 FREAK
 FREAKING HALLWAY
+FREBBVENTURE ALLIANCE
 FRED
 FRED SABERHAGEN
 FREDDY
@@ -34429,6 +34467,8 @@ Frazer
 Freak
 Freaking Hallway
 FreakingHallway
+Frebbventure Alliance
+FrebbventureAlliance
 Fred
 Fred Saberhagen
 FredSaberhagen
@@ -35708,6 +35748,7 @@ GHOSTS 'N
 GHOSTS 'N GOBLINS
 GHOSTS N
 GHOSTS N GOBLINS
+GHOSTS OF TABOR : LEGACY
 GHOSTS'N
 GHOSTS'NGOBLINS
 GHOSTSN
@@ -37773,10 +37814,12 @@ Ghosts 'n
 Ghosts 'n Goblins
 Ghosts n
 Ghosts n Goblins
+Ghosts of Tabor : LEGACY
 Ghosts'n
 Ghosts'nGoblins
 Ghostsn
 GhostsnGoblins
+GhostsofTabor:LEGACY
 Ghostwriter Workshop
 GhostwriterWorkshop
 Ghouls
@@ -39218,6 +39261,7 @@ HACKERJACK
 HACKERS: THE REVOLUTION BEGINS
 HACKGU
 HACKHACK
+HACKHUB - ULTIMATE HACKER SIMULATOR
 HACKNET
 HACKSAW
 HACKSAW MASSACRE
@@ -39347,6 +39391,7 @@ HAMSTER
 HAMSTER HUSTLE
 HAMSTER TALK
 HAMSTER, EAT, RUN
+HAMSTERBALLIN'
 HAMSTERCRAFT
 HAMSTERMIND
 HAMSTER’S STICKER BOOK
@@ -39411,6 +39456,7 @@ HAPPY BLUE FISH
 HAPPY BONES: WELCOME HOME
 HAPPY COOKIES
 HAPPY DAY
+HAPPY DIGGER GO-GO
 HAPPY ISLAND FANTASY
 HAPPY MONSTER
 HAPPY NUCLEAR
@@ -40964,6 +41010,9 @@ Hack and Slay
 Hack42:TypingIncrementalDemo
 HackAndClimb
 HackHack
+HackHub   Ultimate Hacker Simulator
+HackHub - Ultimate Hacker Simulator
+HackHub-UltimateHackerSimulator
 HackSaw
 HackTheStarsDemo
 Hackand
@@ -41115,6 +41164,8 @@ Hamster,Eat,Run
 HamsterCraft
 HamsterHustle
 HamsterTalk
+Hamsterballin 
+Hamsterballin'
 Hamster’s Sticker Book
 Hamster’sStickerBook
 Han
@@ -41189,6 +41240,8 @@ Happy Blue Fish
 Happy Bones: Welcome Home
 Happy Cookies
 Happy Day
+Happy Digger Go Go
+Happy Digger Go-Go
 Happy Island Fantasy
 Happy Monster
 Happy Nuclear
@@ -41203,6 +41256,7 @@ HappyBlueFish
 HappyBones:WelcomeHome
 HappyCookies
 HappyDay
+HappyDiggerGo-Go
 HappyIslandFantasy
 HappyMonster
 HappyNuclear
@@ -51565,6 +51619,7 @@ LORD AMBERMAZE
 LORD AND MAIDEN
 LORD OF THE TROUGH
 LORD TRY
+LORDRESS
 LORDS
 LORDS OF MIDNIGHT
 LORDS OF RAVAGE
@@ -53764,6 +53819,7 @@ LordAmbermaze
 LordOfTheTrough
 LordTRY
 LordandMaiden
+Lordress
 Lords
 Lords of Midnight
 Lords of Ravage
@@ -57038,6 +57094,7 @@ MORNINGSTAR
 MORNINGSTARMULTIMEDIA
 MOROI
 MORPHIN
+MORPHING BLOCKS
 MORRIS
 MORROWIND
 MORSE
@@ -57437,6 +57494,7 @@ MUSIC
 MUSIC DISC
 MUSIC DISC PIGSTEP
 MUSIC DRIVE: CHASE THE BEAT
+MUSICA
 MUSICAL
 MUSICAL MAZE
 MUSICAL METEORS
@@ -57513,6 +57571,7 @@ MY CV
 MY DATING EMPIRE
 MY DAUGHTER IN FAMILY AI
 MY DAUGHTER IN FAMILY AI - OUTFIT DLC 2
+MY DIGITAL DIARY
 MY DORM - SEASON 1
 MY DREAM GARAGE DEMO
 MY EERIE LAIR DEMO
@@ -60716,6 +60775,8 @@ MorningStar
 MorningStarMultimedia
 Moroi
 Morphin
+Morphing Blocks
+MorphingBlocks
 Morris
 Morrowind
 Morse Challenger
@@ -61139,6 +61200,7 @@ Music Drive: Chase the Beat
 MusicDisc
 MusicDrive:ChasetheBeat
 MusicRunner
+Musica
 Musical
 Musical Maze
 Musical Meteors
@@ -61186,6 +61248,7 @@ My Dating Empire
 My Daughter In Family Ai
 My Daughter in Family AI   Outfit DLC 2
 My Daughter in Family AI - Outfit DLC 2
+My Digital Diary
 My Dorm   Season 1
 My Dorm - Season 1
 My Dream Garage Demo
@@ -61289,6 +61352,7 @@ MyCrushisaClerkfromHell
 MyDatingEmpire
 MyDaughterInFamilyAi
 MyDaughterinFamilyAI-OutfitDLC2
+MyDigitalDiary
 MyDorm-Season1
 MyDreamGarageDemo
 MyEerieLairDemo
@@ -62708,6 +62772,7 @@ NOMNOMIA
 NOMORE
 NOMOREHEROES
 NOMOREWORKFORITO
+NOMSTERS
 NON-VIRTUAL REALITY GAMES
 NONE
 NONE STUDIO
@@ -65306,6 +65371,7 @@ ORDERS, CAPTAIN!
 ORDILOGIC
 ORDILOGIC SYSTEMS
 ORDILOGICSYSTEMS
+ORE & ODDS
 OREFLUX
 ORGANIZATION
 ORGANIZE MY SHOP
@@ -66592,6 +66658,9 @@ Orders,Captain!
 Ordilogic
 Ordilogic Systems
 OrdilogicSystems
+Ore   Odds
+Ore & Odds
+Ore&Odds
 Oreflux
 Organization
 Organize my Shop
@@ -68328,6 +68397,7 @@ PIXEL RAIN
 PIXEL RAMPAGE
 PIXEL RONIN
 PIXEL SHINOBI
+PIXEL THREE KINGDOMS: ZOMBIE DUNGEON
 PIXEL TOYS
 PIXEL TROOPERS
 PIXEL WAY: PROLOGUE
@@ -71147,6 +71217,7 @@ Pixel Rain
 Pixel Rampage
 Pixel Ronin
 Pixel Shinobi
+Pixel Three Kingdoms: Zombie Dungeon
 Pixel Toys
 Pixel Troopers
 Pixel Way: Prologue
@@ -71182,6 +71253,7 @@ PixelRampage
 PixelRonin
 PixelShinobi
 PixelStorm
+PixelThreeKingdoms:ZombieDungeon
 PixelTorque
 PixelToys
 PixelTroopers
@@ -74360,6 +74432,7 @@ RIDDICK
 RIDDICK:
 RIDE 6
 RIDE THE DRAGON: THE AWAKENING OF THE DRAGON TAMER
+RIDE UP TOGETHER DEMO
 RIDE!
 RIDE6
 RIDER
@@ -76456,8 +76529,10 @@ RicoMuerte
 Riddick
 Riddick:
 Ride The Dragon: The Awakening of the Dragon Tamer
+Ride Up Together Demo
 Ride!
 RideTheDragon:TheAwakeningoftheDragonTamer
+RideUpTogetherDemo
 Rider
 Riders
 Riders Republic
@@ -78202,6 +78277,7 @@ SCREEN GREENS
 SCREEN SPACE
 SCREENCHEAT
 SCREENPLAY
+SCREENSAVER IDLE
 SCREENSIDE STATION
 SCREENWOLF
 SCREEPS: ARENA
@@ -79160,6 +79236,7 @@ SHUTTERBUDS
 SHUTTERED
 SHUTTERING
 SHUTTLE
+SHUTTLE STRIKE
 SHUWA SHUWA GUIN!
 SHUYIN
 SHYERA
@@ -80365,6 +80442,7 @@ SOUL MONSTERS CARD GAME
 SOUL REAVER
 SOUL REFLEX
 SOUL RIDERS
+SOUL SCROLL
 SOUL SIGHT
 SOUL SLASHER
 SOUL SORTER: A MORALITY PERSONALITY TEST
@@ -80706,6 +80784,7 @@ SPIRIT CITY: LOFI SESSIONS - ENCHANTED GARDEN DLC
 SPIRIT CLEANSERS
 SPIRIT MAGICIAN
 SPIRIT OF THE DOME
+SPIRIT OF THE NORTH
 SPIRIT OF THE NORTH 2
 SPIRIT ROUTE
 SPIRIT TALK - COZY VISUAL NOVEL
@@ -82043,6 +82122,7 @@ SURREAL SOFTWARE
 SURREALITY CHECK
 SURREALSOFTWARE
 SURROUNDEAD POLY CONSTRUCTION
+SURROUNDEDBYBOYS
 SURVEILLANT
 SURVIVAL
 SURVIVAL KIDS
@@ -83040,6 +83120,8 @@ Screen Greens
 Screen Space
 ScreenBoy
 ScreenGreens
+ScreenSaver Idle
+ScreenSaverIdle
 ScreenSpace
 ScreenWolf
 Screencheat
@@ -84178,6 +84260,8 @@ ShurukaBoxing
 Shuttered
 Shuttering
 Shuttle
+Shuttle Strike
+ShuttleStrike
 Shuwa Shuwa Guin!
 ShuwaShuwaGuin!
 Shuyin
@@ -85569,6 +85653,7 @@ Soul Monsters Card Game
 Soul Reaver
 Soul Reflex
 Soul Riders
+Soul Scroll
 Soul Sight
 Soul Slasher
 Soul Sorter: A Morality Personality Test
@@ -85605,6 +85690,7 @@ SoulQuest
 SoulReaver
 SoulReflex
 SoulRiders
+SoulScroll
 SoulSight
 SoulSlasher
 SoulSorter:AMoralityPersonalityTest
@@ -86034,6 +86120,7 @@ Spirit Talk   Cozy Visual Novel
 Spirit Talk - Cozy Visual Novel
 Spirit Whisperer Conversation With Akari
 Spirit of the Dome
+Spirit of the North
 Spirit of the North 2
 Spirit s Shadow Maze: The Path of Possession 灵影迷宫：附身之途
 Spirit&Steel
@@ -86049,6 +86136,7 @@ SpiritRoute
 SpiritTalk-CozyVisualNovel
 SpiritWhispererConversationWithAkari
 SpiritoftheDome
+SpiritoftheNorth
 SpiritoftheNorth2
 Spiritual Bond ~Breaking the curse, Intertwining fates~
 Spiritual Bond ～Breaking the curse, Intertwining fates～
@@ -87714,6 +87802,7 @@ Surreality Check
 SurrealityCheck
 SurrounDead Poly Construction
 SurrounDeadPolyConstruction
+SurroundedByBoys
 Surveillant
 Survival
 Survival Kids
@@ -88931,6 +89020,7 @@ TETEDOEUF
 TETHERGEIST
 TETRA
 TETRABEASTS
+TETRACLASH REFORGED
 TETRAEDGE
 TETRAEDGE GAMES
 TETRAEDGEGAMES
@@ -91196,6 +91286,7 @@ TRASMOZ LEGENDS SOUNDTRACK
 TRAUCMAHR
 TRAUMA FOOTBALL
 TRAUMA PETS
+TRAUMAHACK
 TRAVEL CUISINE 2: SWEET LIFE
 TRAVELER ARENA
 TRAVELER LOST
@@ -92643,6 +92734,8 @@ TetrX 360 - Eons of Time
 TetrX360-EonsofTime
 Tetra
 Tetrabeasts
+Tetraclash Reforged
+TetraclashReforged
 Tetraedge
 Tetraedge Games
 TetraedgeGames
@@ -99548,6 +99641,7 @@ WATERLILYGAMES
 WATERMELON
 WATERMELON DEVELOPMENT
 WATERMELONDEVELOPMENT
+WATERPARK SIMULATOR
 WATERS
 WATERTIGHT
 WATERTIME
@@ -99571,6 +99665,7 @@ WAY OF HORNY: FIRST TOUCH
 WAY OF HORNY: LOVE PARADISE
 WAY OF HORNY: LUCKY PLUMBER
 WAY OF THE HUNTER 2
+WAY OF THE WIND
 WAY TO TOWN
 WAYBLAZER DÄMMERUNG
 WAYBLAZER DÄMMERUNG SOUND COLLECTION
@@ -100892,6 +100987,8 @@ Watermelon
 Watermelon Development
 WatermelonDevelopment
 WaterofM
+Waterpark Simulator
+WaterparkSimulator
 Waters
 Watertight
 Watertime
@@ -100921,6 +101018,7 @@ Way of Horny: First Touch
 Way of Horny: Love Paradise
 Way of Horny: Lucky Plumber
 Way of the Hunter 2
+Way of the Wind
 Way to Town
 WayForward
 WayPoint
@@ -100939,6 +101037,7 @@ WayofHorny:FirstTouch
 WayofHorny:LoveParadise
 WayofHorny:LuckyPlumber
 WayoftheHunter2
+WayoftheWind
 Ways
 Ways of Alchemy
 WaysofAlchemy
@@ -102418,6 +102517,7 @@ YOIYAMI BISCUIT
 YOKAI ART 2: TALES OF THE NINE-TAILS
 YOKAI BUSTERS
 YOKAI TALES
+YOKAI: LUST SECRET 🪭
 YOKO
 YOKO NO HANASHI
 YOKO SOFT
@@ -102823,6 +102923,9 @@ Yokai Art 2: Tales of the Nine Tails
 Yokai Art 2: Tales of the Nine-Tails
 Yokai Busters
 Yokai Tales
+Yokai: Lust Secret ?
+Yokai: Lust Secret 🪭
+Yokai:LustSecret🪭
 YokaiArt2:TalesoftheNine-Tails
 YokaiBusters
 YokaiTales
@@ -106414,6 +106517,7 @@ avgos avgos
 avgosavgos
 avian knights
 aviarium
+avoidvania
 avon
 avon books
 avonbooks
@@ -108610,6 +108714,7 @@ boumbala boumbala
 boumbalaboumbala
 boumboum
 bounce 2
+bounce arena simulator
 bounce ball clicker
 bounce cat
 bounce forever
@@ -109925,6 +110030,7 @@ cats and cows
 cats are money
 cats around us: black cat
 cats away
+cats blocks: hot springs
 cats hidden around the world 2
 cats hidden in chang'an
 cats hidden in christmas - more merry levels
@@ -111725,6 +111831,7 @@ cousette
 cousin catcher
 cousin's house
 covenant of solitude
+cover story
 covert x universe
 covet the countdown
 covid-29
@@ -113528,6 +113635,7 @@ desktop fishing
 desktop fishing cat
 desktop forest
 desktop golf
+desktop grass
 desktop hellfarmer
 desktop heroes
 desktop immortal
@@ -114429,6 +114537,7 @@ door
 door kickers 2: task force north
 door(2/3)¹³
 doorway 2
+dopamine eggs
 dopamine overdrive
 dopepie survivors 3d
 doppelganger
@@ -114863,6 +114972,7 @@ drone sector
 drone simulator vr
 drone strike - tb2
 drone:modern warfare
+droned
 drop
 drop adventure - مغامرة قطرة
 drop and grow
@@ -115889,6 +115999,7 @@ embrace the brilliance
 embryo
 emerald
 emerald blue
+emerald flower
 emerald software
 emerald valley
 emeraldsoftware
@@ -116306,6 +116417,7 @@ escape simulator 2
 escape the backrooms
 escape the complex
 escape the cradle
+escape the house
 escape the humans
 escape the labyrinth
 escape the marine lab
@@ -118108,6 +118220,7 @@ frazer
 frctl
 freak
 freaking hallway
+frebbventure alliance
 fred
 fred saberhagen
 freddy
@@ -119250,6 +119363,7 @@ ghosts 'n
 ghosts 'n goblins
 ghosts n
 ghosts n goblins
+ghosts of tabor : legacy
 ghosts'n
 ghosts'ngoblins
 ghostsn
@@ -120535,6 +120649,7 @@ hackerjack
 hackers: the revolution begins
 hackgu
 hackhack
+hackhub - ultimate hacker simulator
 hacknet
 hacksaw
 hacksaw massacre
@@ -120654,6 +120769,7 @@ hamster
 hamster hustle
 hamster talk
 hamster, eat, run
+hamsterballin'
 hamstercraft
 hamstermind
 hamster’s sticker book
@@ -120717,6 +120833,7 @@ happy blue fish
 happy bones: welcome home
 happy cookies
 happy day
+happy digger go-go
 happy island fantasy
 happy monster
 happy nuclear
@@ -126974,6 +127091,7 @@ lord ambermaze
 lord and maiden
 lord of the trough
 lord try
+lordress
 lords
 lords of midnight
 lords of ravage
@@ -129998,6 +130116,7 @@ morningstar
 morningstarmultimedia
 moroi
 morphin
+morphing blocks
 morris
 morrowind
 morse
@@ -130380,6 +130499,7 @@ music disc
 music disc pigstep
 music drive: chase the beat
 music_disc_pigstep
+musica
 musical
 musical maze
 musical meteors
@@ -130442,6 +130562,7 @@ my cv
 my dating empire
 my daughter in family ai
 my daughter in family ai - outfit dlc 2
+my digital diary
 my dorm - season 1
 my dream garage demo
 my eerie lair demo
@@ -131685,6 +131806,7 @@ nomnom treasure hunt
 nomnomia
 nomore
 nomoreheroes
+nomsters
 non-virtual reality games
 none
 none studio
@@ -132850,6 +132972,7 @@ orders, captain!
 ordilogic
 ordilogic systems
 ordilogicsystems
+ore & odds
 oreflux
 organization
 organize my shop
@@ -134420,6 +134543,7 @@ pixel rain
 pixel rampage
 pixel ronin
 pixel shinobi
+pixel three kingdoms: zombie dungeon
 pixel toys
 pixel troopers
 pixel way: prologue
@@ -137017,6 +137141,7 @@ riddick
 riddick:
 ride 6
 ride the dragon: the awakening of the dragon tamer
+ride up together demo
 ride!
 rider
 riders
@@ -138482,6 +138607,7 @@ screen greens
 screen space
 screencheat
 screenplay
+screensaver idle
 screenside station
 screenwolf
 screeps: arena
@@ -139364,6 +139490,7 @@ shutterbuds
 shuttered
 shuttering
 shuttle
+shuttle strike
 shuwa shuwa guin!
 shuyin
 shyera
@@ -140514,6 +140641,7 @@ soul monsters card game
 soul reaver
 soul reflex
 soul riders
+soul scroll
 soul sight
 soul slasher
 soul sorter: a morality personality test
@@ -140852,6 +140980,7 @@ spirit city: lofi sessions - enchanted garden dlc
 spirit cleansers
 spirit magician
 spirit of the dome
+spirit of the north
 spirit of the north 2
 spirit route
 spirit talk - cozy visual novel
@@ -142129,6 +142258,7 @@ surreal software
 surreality check
 surrealsoftware
 surroundead poly construction
+surroundedbyboys
 surveillant
 survival
 survival kids
@@ -143197,6 +143327,7 @@ tetedoeuf
 tethergeist
 tetra
 tetrabeasts
+tetraclash reforged
 tetraedge
 tetraedge games
 tetraedgegames
@@ -145424,6 +145555,7 @@ trasmoz legends soundtrack
 traucmahr
 trauma football
 trauma pets
+traumahack
 travel cuisine 2: sweet life
 traveler arena
 traveler lost
@@ -147504,6 +147636,7 @@ waterlilygames
 watermelon
 watermelon development
 watermelondevelopment
+waterpark simulator
 waters
 watertight
 watertime
@@ -147527,6 +147660,7 @@ way of horny: first touch
 way of horny: love paradise
 way of horny: lucky plumber
 way of the hunter 2
+way of the wind
 way to town
 wayblazer dämmerung
 wayblazer dämmerung sound collection
@@ -148604,6 +148738,7 @@ yoiyami biscuit
 yokai art 2: tales of the nine-tails
 yokai busters
 yokai tales
+yokai: lust secret 🪭
 yoko
 yoko no hanashi
 yoko soft
