@@ -1947,6 +1947,7 @@ A GAME ABOUT MAKING A PLANET
 A GAME ABOUT MAKING A PLANET - SUPPORTER PACK
 A GAME ABOUT MAKING NUMBERS GO UP
 A GAME ABOUT MINING ROCKS
+A GAME ABOUT PENGUINS
 A GAME ABOUT PENGUINS: FIRST CATCH
 A GAME ABOUT SHOOTING BULLETS AT BULLETS (AGASBAB)
 A GAME ABOUT SUCKING (UP GHOSTS WITH A VACUUM)
@@ -1961,6 +1962,7 @@ A Game About Making A Planet   Supporter Pack
 A Game About Making A Planet - Supporter Pack
 A Game About Making Numbers Go Up
 A Game About Mining Rocks
+A Game About Penguins
 A Game About Penguins: First Catch
 A Game About Shooting Bullets At Bullets  AGASBAB 
 A Game About Shooting Bullets At Bullets (AGASBAB)
@@ -2247,6 +2249,7 @@ ABSURD STORY: BACK HOME
 ABSURDINTERACTIVE
 ABYLIGHT
 ABYRITH
+ABYS ORBIT
 ABYSS
 ABYSS BISTRO
 ABYSS CARDS
@@ -2763,6 +2766,7 @@ AGameAboutMakingAPlanet
 AGameAboutMakingAPlanet-SupporterPack
 AGameAboutMakingNumbersGoUp
 AGameAboutMiningRocks
+AGameAboutPenguins
 AGameAboutPenguins:FirstCatch
 AGameAboutShootingBulletsAtBullets(AGASBAB)
 AGameMyMomCameUpWith
@@ -2890,6 +2894,7 @@ AI女友 AI GIRLFRIEND
 AI女友 AI girlfriend
 AI女友AIgirlfriend
 AJANTIS
+AJNABEE - THE UNKNOWN
 AKAI
 AKAI KATANA
 AKAIKATANA
@@ -3554,6 +3559,7 @@ ANIME DREAM MATCH: PRIMATES
 ANIME DREAM MATCH: REPTILES
 ANIME MINESWEEPER
 ANIME SCARY TEACHER 3D
+ANIMOSITY
 ANIROG
 ANJU
 ANKAMA
@@ -4994,6 +5000,8 @@ AbsurdInteractive
 AbsurdStory:BackHome
 Abylight
 Abyrith
+Abys Orbit
+AbysOrbit
 Abyss
 Abyss Bistro
 Abyss Cards
@@ -5590,6 +5598,9 @@ AisystemTokyo
 Aiwa
 Aizawa
 Ajantis
+Ajnabee   The Unknown
+Ajnabee - The Unknown
+Ajnabee-TheUnknown
 Ajourneythroughshadow,toReachthelight.
 Akai
 Akai Katana
@@ -6353,6 +6364,7 @@ AnimeDreamMatch:Primates
 AnimeDreamMatch:Reptiles
 AnimeMinesweeper
 AnimeScaryTeacher3D
+Animosity
 Anirog
 Anju
 Ankama
@@ -9220,6 +9232,7 @@ BISHIBOSH
 BISON
 BIST SQUAD
 BIT
+BIT BREAKER
 BIT BUDDY
 BIT CORP
 BIT ESC
@@ -9660,6 +9673,7 @@ BLUE PLANET SOFTWARE
 BLUE PRINCE
 BLUE ROSE REPRISE
 BLUE SHIFT
+BLUE SHIP
 BLUE SKY
 BLUE SKY SOFTWARE
 BLUE SPHERE
@@ -9696,6 +9710,7 @@ BLUEPOINT GAMES
 BLUEPOINTGAMES
 BLUEPRINT BOB
 BLUESHIFT
+BLUESHIP
 BLUESIDE
 BLUESIDE STUDIOS
 BLUESIDESTUDIOS
@@ -12249,6 +12264,7 @@ Bison
 Bist Squad
 BistSquad
 Bit
+Bit Breaker
 Bit Buddy
 Bit Corp
 Bit ESC
@@ -12256,6 +12272,7 @@ Bit Generations
 Bit Managers
 Bit Mine Clicker
 Bit.Trip
+BitBreaker
 BitBuddy
 BitCorp
 BitCraft Online
@@ -14592,6 +14609,7 @@ CASCADEGAMES
 CASE
 CASE 1963
 CASE CLOSED
+CASE OF 1980
 CASE RECORDS: LOST NIGHT
 CASE RECORDS: Lost Night
 CASE SEALED DEMO
@@ -15692,6 +15710,7 @@ CLAIRE REDFIELD
 CLAIREREDFIELD
 CLAIRVAL
 CLAN
+CLAN AND CROWN
 CLAN DURAMONT
 CLAN NOCTURNUS
 CLANCY'S
@@ -15850,6 +15869,7 @@ CLOUD CATS` LAND
 CLOUD CRASHERS
 CLOUD DWELLERS
 CLOUD POPPER (TODDLER/EARLY YEARS GAME)
+CLOUD SCULPTOR
 CLOUD SERVER SIMULATOR
 CLOUD STRIFE
 CLOUD UPRISING
@@ -16095,6 +16115,7 @@ COLORDREAMS
 COLORDREAMS,INC
 COLORDREAMSINC
 COLORED PENCIL BAKERY
+COLORING
 COLORING GAME 10K
 COLORING VOXELS
 COLORIZED
@@ -16952,6 +16973,7 @@ CRIMSONSKIES
 CRIMSONSQUAD
 CRIMSONVIPER
 CRISIS
+CRISIS CAPITAL
 CRISIS: THE THIRD WAY
 CRISOL: THEATER OF IDOLS
 CRISTAL
@@ -17045,6 +17067,7 @@ CROWN
 CROWN AND ADVENTURE
 CROWN CHAINED
 CROWN CHAOS
+CROWN JEWELS
 CROWN OF LUST [18+] 👑
 CROWNBOUND - FANTASY KINGDOM SIM
 CROWNBREAKERS DEMO
@@ -17112,6 +17135,7 @@ CRYPTOBIOSIS
 CRYPTOGRID
 CRYPTR
 CRYPTS & CURVES
+CRYPTS OF CARITH - CHAPEL CELLAR DEMO
 CRYSIS
 CRYSTAL
 CRYSTAL CASTLES
@@ -18015,10 +18039,12 @@ Case
 Case 1963
 Case Closed
 Case Sealed Demo
+Case of 1980
 Case1963
 CaseClosed
 CaseCracker3
 CaseSealedDemo
+Caseof1980
 Casey
 Casey Noir and Carved Pumpkin s Latte
 Casey Noir and Carved Pumpkin's Latte
@@ -19297,8 +19323,10 @@ Clairval
 Clan
 Clan Duramont
 Clan Nocturnus
+Clan and Crown
 ClanDuramont
 ClanNocturnus
+ClanandCrown
 Clancy's
 Clancys
 Clank
@@ -19490,6 +19518,7 @@ Cloud Cats` Land
 Cloud Crashers
 Cloud Popper  Toddler/Early Years Game 
 Cloud Popper (Toddler/Early Years Game)
+Cloud Sculptor
 Cloud Server Simulator
 Cloud Strife
 CloudCannon
@@ -19497,6 +19526,7 @@ CloudCannonCloudCannon
 CloudCats`Land
 CloudCrashers
 CloudPopper(Toddler/EarlyYearsGame)
+CloudSculptor
 CloudServerSimulator
 CloudStrife
 Cloudheim
@@ -19752,6 +19782,7 @@ Colorant pour la laine
 Colorantpourlalaine
 Colored Pencil Bakery
 ColoredPencilBakery
+Coloring
 Coloring Game 10K
 Coloring Voxels
 ColoringGame10K
@@ -20783,8 +20814,10 @@ CrimsonViper
 CrimsonWavesontheEmeraldSea:AmaranthineMoon
 Crisalida
 Crisis
+Crisis Capital
 Crisis: The Third Way
 Crisis:TheThirdWay
+CrisisCapital
 Crisol: Theater of Idols
 Crisol:TheaterofIdols
 Cristal
@@ -20895,11 +20928,13 @@ CrowleyHotel.TheJHChronicles
 Crown
 Crown Chained
 Crown Chaos
+Crown Jewels
 Crown and Adventure
 Crown of Lust [18+] ?
 Crown of Lust [18+] 👑
 CrownChained
 CrownChaos
+CrownJewels
 CrownandAdventure
 Crownbound   Fantasy Kingdom Sim
 Crownbound - Fantasy Kingdom Sim
@@ -20981,7 +21016,10 @@ CryptoMining
 Cryptr
 Crypts   Curves
 Crypts & Curves
+Crypts Of Carith   Chapel Cellar Demo
+Crypts Of Carith - Chapel Cellar Demo
 Crypts&Curves
+CryptsOfCarith-ChapelCellarDemo
 Crysis
 Crystal
 Crystal Castles
@@ -21942,6 +21980,7 @@ DEAD APPLES DARE
 DEAD AS DISCO
 DEAD BEFORE WORK: THE COMMUTE
 DEAD BEYOND
+DEAD BROKE
 DEAD BY BACKROOMS ANOMALY
 DEAD BY DAYLIGHT
 DEAD BY DAYLIGHT - SINISTER GRACE
@@ -24750,6 +24789,7 @@ Dead 4 Now: Bio-Weapon Simulator
 Dead Above
 Dead Apples Dare
 Dead Beyond
+Dead Broke
 Dead Cat Bounce
 Dead Cells
 Dead Exhale
@@ -24800,6 +24840,7 @@ Dead4Now:Bio-WeaponSimulator
 DeadAbove
 DeadApplesDare
 DeadBeyond
+DeadBroke
 DeadCatBounce
 DeadCells
 DeadCore Redux
@@ -31909,6 +31950,7 @@ FLAVIEEICHOUETTE
 FLAVIUS
 FLAVIUS HONORIUS
 FLAVIUSHONORIUS
+FLAVORS OF SPAIN
 FLAW
 FLEAU
 FLECHE
@@ -32105,6 +32147,7 @@ FOCUS HOME INTERACTIVE
 FOCUS KNIGHT: PRODUCTIVITY RPG
 FOCUS PACK - HEARTS OF IRON IV: PEACE FOR OUR TIME
 FOCUS WITH LUNA: COZY MAGIC STUDIES
+FOCUSBOND
 FOCUSCREATIVE
 FOCUSCREATIVEENTERPRISES
 FOCUSHOME
@@ -34087,6 +34130,8 @@ FlavieEichouette
 Flavius
 Flavius Honorius
 FlaviusHonorius
+Flavors of Spain
+FlavorsofSpain
 Fleau
 Fleche
 Fleck   Grus
@@ -34316,6 +34361,7 @@ Focus Knight: Productivity RPG
 Focus Pack   Hearts of Iron IV: Peace For Our Time
 Focus Pack - Hearts of Iron IV: Peace For Our Time
 Focus With Luna: Cozy Magic Studies
+FocusBond
 FocusCreative
 FocusCreativeEnterprises
 FocusGroup-FirstDay
@@ -44055,6 +44101,7 @@ IMMERSIX
 IMMINENCE
 IMMORAL-BATHHOUSE
 IMMORTAL CARDS
+IMMORTAL GENERALS
 IMMORTAL LIFE
 IMMUNICA
 IMMUNITY PROTOCOL
@@ -45174,8 +45221,10 @@ Imminence
 Immoral Bathhouse
 Immoral-Bathhouse
 Immortal Cards
+Immortal Generals
 Immortal Life
 ImmortalCards
+ImmortalGenerals
 ImmortalLife
 Immunica
 Immunity Protocol
@@ -57832,6 +57881,7 @@ MUDDUCK
 MUDDUCKPRODUCTIONS
 MUDVENTURE
 MUERTE
+MUGI
 MUGNAIO
 MUHE SPACE
 MUKKE: MUSIC MACHINE
@@ -65033,6 +65083,7 @@ ODINODIN
 ODISEA
 ODIUMFLOREO
 ODON
+ODYNLOC
 ODYSSEY
 ODYSSEY RPG
 ODYSSEY SOFTWARE
@@ -66217,6 +66268,7 @@ OdinOdin
 Odisea
 Odiumfloreo
 Odon
+Odynloc
 Odyssey
 Odyssey RPG
 Odyssey Software
@@ -89181,6 +89233,9 @@ TASK BAR OF RAGNALIS
 TASK DOCK
 TASK FORCE ADMIRAL - VOL.1: AMERICAN CARRIER BATTLES
 TASKTWIST
+TASMON: TASKBAR MONSTERS
+TASMON: Taskbar Monsters
+TASMON:TaskbarMonsters
 TASSADAR
 TASTROFF
 TASTY BEVERAGE
@@ -89823,6 +89878,7 @@ THE BIRTH CRY SOUNDTRACK
 THE BITMAP
 THE BITMAP BROTHERS
 THE BLACK ICE
+THE BLACK LILY BLOOMS IN HER EYES
 THE BLACK POOL: ARENA SURVIVORS
 THE BLACK ROUTE
 THE BLACK VAULT
@@ -89957,6 +90013,7 @@ THE DREAMS IN THE PEACOCK HOUSE
 THE DRIFTER
 THE DROWNED DEAL
 THE DRUNKEN BEARD
+THE DUNGEON OF HORROR
 THE DUNGEON OF LULU FAREA: REBIRTH
 THE DUNGEON PERSISTS
 THE EARTHEN REIGN
@@ -90638,6 +90695,7 @@ THE WALKING DEAD
 THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES
 THE WALKING TRADE
 THE WANDERING VILLAGE
+THE WAR MACHINE
 THE WARP
 THE WARP FACTORY
 THE WARRIOR
@@ -91211,6 +91269,7 @@ TIME SNATCHER HANDY
 TIME SNATCHER HANDY - ORIGINAL SOUNDTRACK
 TIME SPACE REBUILD
 TIME TO LOVE
+TIME TO MORP
 TIME TRIAL
 TIME WARNER
 TIME WARNER INTERACTIVE
@@ -93586,6 +93645,7 @@ The Birth Cry Soundtrack
 The Bitmap
 The Bitmap Brothers
 The Black Ice
+The Black Lily Blooms in Her Eyes
 The Black Pool: Arena Survivors
 The Black Route
 The Black Vault
@@ -93721,6 +93781,7 @@ The Dreams in the Peacock House
 The Drifter
 The Drowned Deal
 The Drunken Beard
+The Dungeon Of Horror
 The Dungeon Persists
 The Dungeon of Lulu Farea: Rebirth
 The Earthen Reign
@@ -94401,6 +94462,7 @@ The Wake (Demo)
 The Walking Dead: The Telltale Definitive Series
 The Walking Trade
 The Wandering Village
+The War Machine
 The Warp
 The Warp Factory
 The Warrior
@@ -94545,6 +94607,7 @@ TheBirthCrySoundtrack
 TheBitmap
 TheBitmapBrothers
 TheBlackIce
+TheBlackLilyBloomsinHerEyes
 TheBlackPool:ArenaSurvivors
 TheBlackRoute
 TheBlackVault
@@ -94675,6 +94738,7 @@ TheDrifter
 TheDrippingSound
 TheDrownedDeal
 TheDrunkenBeard
+TheDungeonOfHorror
 TheDungeonPersists
 TheDungeonofLuluFarea:Rebirth
 TheEarthenReign
@@ -95286,6 +95350,7 @@ TheWake(Demo)
 TheWalkingDead:TheTelltaleDefinitiveSeries
 TheWalkingTrade
 TheWanderingVillage
+TheWarMachine
 TheWarp
 TheWarpFactory
 TheWarrior
@@ -95739,6 +95804,7 @@ Time Warp
 Time Warp Productions
 Time of the Lilies
 Time to Love
+Time to Morp
 TimeCrisis
 TimeDilationLab
 TimeGamers:12000YearsinOneSquareMile
@@ -95773,6 +95839,7 @@ Timesplitters
 Timestamps: Lost Love
 Timestamps:LostLove
 TimetoLove
+TimetoMorp
 Timing window
 Timingwindow
 Timmy
@@ -97572,6 +97639,7 @@ UNFORGETTABLE LOVE
 UNFOUND FOOTAGE
 UNHINGED PET STORE SIMULATOR
 UNHOLD
+UNHUMAN
 UNI
 UNI CODE
 UNI POST
@@ -98957,6 +99025,7 @@ VOID FUTURE PROLOGUE
 VOID HARVEST DEMO
 VOID JUMP VR
 VOID MARAUDERS
+VOID MINER
 VOID MINER – INCREMENTAL ASTEROIDS ROGUELITE
 VOID OF LILLY
 VOID RESURGENCE
@@ -99024,6 +99093,7 @@ VOSPETKASimulator
 VOX
 VOX POPULI: CANADA 2025
 VOXEL
+VOXELFORGE
 VOXELGRAM 2
 VOXMAGIC - REALTIME VOICE CHANGER
 VOYAGERS OF NERA
@@ -99872,6 +99942,7 @@ Void Fighters
 Void Harvest Demo
 Void Jump VR
 Void Marauders
+Void Miner
 Void Miner - Incremental Asteroids Roguelite
 Void Miner – Incremental Asteroids Roguelite
 Void Resurgence
@@ -99889,6 +99960,7 @@ VoidHue Demo
 VoidHueDemo
 VoidJumpVR
 VoidMarauders
+VoidMiner
 VoidMiner–IncrementalAsteroidsRoguelite
 VoidResurgence
 VoidSails
@@ -99944,6 +100016,7 @@ VoxMagic - Realtime Voice Changer
 VoxMagic-RealtimeVoiceChanger
 VoxPopuli:Canada2025
 Voxel
+VoxelForge
 Voxelgram 2
 Voxelgram2
 Voyagers of Nera
@@ -100500,6 +100573,7 @@ WEJbA: We Exist Just to be Alive
 WEJbA:WeExistJusttobeAlive
 WELCOME TO BLOOMROOTS
 WELCOME TO CAFE LUMIÈRE! ~A DRAGON GIRL CONCEPT CAFE~
+WELCOME TO DESAL
 WELCOME TO DOLL TOWN
 WELCOME TO ELITE CAFE
 WELCOME TO FREE WILL - COMPLETE EDITION
@@ -101873,6 +101947,7 @@ Welcome To The Dark Place
 Welcome to Bloomroots
 Welcome to Cafe Lumiere! ~A Dragon Girl Concept Cafe~
 Welcome to Cafe Lumière! ~A Dragon Girl Concept Cafe~
+Welcome to Desal
 Welcome to Doll Town
 Welcome to Elite Cafe
 Welcome to Free Will   Complete Edition
@@ -101883,6 +101958,7 @@ WelcomeToMyDomain
 WelcomeToTheDarkPlace
 WelcometoBloomroots
 WelcometoCafeLumière!~ADragonGirlConceptCafe~
+WelcometoDesal
 WelcometoDollTown
 WelcometoEliteCafe
 WelcometoFreeWill-CompleteEdition
@@ -104323,6 +104399,7 @@ ZOZO
 ZSLIDE
 ZUL'JIN
 ZULJIN
+ZUNDA8
 ZURD HUNT
 ZURDHUNT
 ZUSHI
@@ -104807,6 +104884,7 @@ a game about making a planet
 a game about making a planet - supporter pack
 a game about making numbers go up
 a game about mining rocks
+a game about penguins
 a game about penguins: first catch
 a game about shooting bullets at bullets (agasbab)
 a game about sucking (up ghosts with a vacuum)
@@ -104980,6 +105058,7 @@ absurd story: back home
 absurdinteractive
 abylight
 abyrith
+abys orbit
 abyss
 abyss bistro
 abyss cards
@@ -105499,6 +105578,7 @@ aizasia
 aizawa
 ai女友 ai girlfriend
 ajantis
+ajnabee - the unknown
 akai
 akai katana
 akaikatana
@@ -106140,6 +106220,7 @@ anime dream match: primates
 anime dream match: reptiles
 anime minesweeper
 anime scary teacher 3d
+animosity
 anirog
 anju
 ankama
@@ -108688,6 +108769,7 @@ bishibosh
 bison
 bist squad
 bit
+bit breaker
 bit buddy
 bit corp
 bit esc
@@ -109120,6 +109202,7 @@ blue planet software
 blue prince
 blue rose reprise
 blue shift
+blue ship
 blue sky
 blue sky software
 blue sphere
@@ -110679,6 +110762,7 @@ cascadegames
 case
 case 1963
 case closed
+case of 1980
 case records: lost night
 case sealed demo
 casecracker3
@@ -111722,6 +111806,7 @@ claire redfield
 claireredfield
 clairval
 clan
+clan and crown
 clan duramont
 clan nocturnus
 clancy's
@@ -111876,6 +111961,7 @@ cloud cats` land
 cloud crashers
 cloud dwellers
 cloud popper (toddler/early years game)
+cloud sculptor
 cloud server simulator
 cloud strife
 cloud uprising
@@ -112100,6 +112186,7 @@ colordreams
 colordreams,inc
 colordreamsinc
 colored pencil bakery
+coloring
 coloring game 10k
 coloring voxels
 colorized
@@ -112946,6 +113033,7 @@ crimsonskies
 crimsonsquad
 crimsonviper
 crisis
+crisis capital
 crisis: the third way
 crisol: theater of idols
 cristal
@@ -113034,6 +113122,7 @@ crown
 crown and adventure
 crown chained
 crown chaos
+crown jewels
 crown of lust [18+] 👑
 crownbound - fantasy kingdom sim
 crownbreakers demo
@@ -113096,6 +113185,7 @@ cryptobiosis
 cryptogrid
 cryptr
 crypts & curves
+crypts of carith - chapel cellar demo
 crysis
 crystal
 crystal castles
@@ -113936,6 +114026,7 @@ dead apples dare
 dead as disco
 dead before work: the commute
 dead beyond
+dead broke
 dead by backrooms anomaly
 dead by daylight
 dead by daylight - sinister grace
@@ -118551,6 +118642,7 @@ flavieeichouette
 flavius
 flavius honorius
 flaviushonorius
+flavors of spain
 flaw
 fleau
 fleche
@@ -118751,6 +118843,7 @@ focus home interactive
 focus knight: productivity rpg
 focus pack - hearts of iron iv: peace for our time
 focus with luna: cozy magic studies
+focusbond
 focuscreative
 focuscreativeenterprises
 focushome
@@ -123604,6 +123697,7 @@ immersix
 imminence
 immoral-bathhouse
 immortal cards
+immortal generals
 immortal life
 immunica
 immunity protocol
@@ -131327,6 +131421,7 @@ mudduck
 mudduckproductions
 mudventure
 muerte
+mugi
 mugnaio
 muhe space
 mukke: music machine
@@ -133104,6 +133199,7 @@ odinodin
 odisea
 odiumfloreo
 odon
+odynloc
 odyssey
 odyssey rpg
 odyssey software
@@ -143847,6 +143943,7 @@ task bar of ragnalis
 task dock
 task force admiral - vol.1: american carrier battles
 tasktwist
+tasmon: taskbar monsters
 tassadar
 tastroff
 tasty beverage
@@ -144463,6 +144560,7 @@ the birth cry soundtrack
 the bitmap
 the bitmap brothers
 the black ice
+the black lily blooms in her eyes
 the black pool: arena survivors
 the black route
 the black vault
@@ -144596,6 +144694,7 @@ the dreams in the peacock house
 the drifter
 the drowned deal
 the drunken beard
+the dungeon of horror
 the dungeon of lulu farea: rebirth
 the dungeon persists
 the earthen reign
@@ -145264,6 +145363,7 @@ the walking dead
 the walking dead: the telltale definitive series
 the walking trade
 the wandering village
+the war machine
 the warp
 the warp factory
 the warrior
@@ -145827,6 +145927,7 @@ time snatcher handy
 time snatcher handy - original soundtrack
 time space rebuild
 time to love
+time to morp
 time trial
 time warner
 time warner interactive
@@ -147316,6 +147417,7 @@ unforgettable love
 unfound footage
 unhinged pet store simulator
 unhold
+unhuman
 uni
 uni post
 uni post company
@@ -148157,6 +148259,7 @@ void future prologue
 void harvest demo
 void jump vr
 void marauders
+void miner
 void miner – incremental asteroids roguelite
 void of lilly
 void resurgence
@@ -148213,6 +148316,7 @@ vospetka simulator
 vox
 vox populi: canada 2025
 voxel
+voxelforge
 voxelgram 2
 voxmagic - realtime voice changer
 voyagers of nera
@@ -148755,6 +148859,7 @@ weiss
 wejba: we exist just to be alive
 welcome to bloomroots
 welcome to cafe lumière! ~a dragon girl concept cafe~
+welcome to desal
 welcome to doll town
 welcome to elite cafe
 welcome to free will - complete edition
@@ -150304,6 +150409,7 @@ zozo
 zslide
 zul'jin
 zuljin
+zunda8
 zurd hunt
 zushi
 zwei
