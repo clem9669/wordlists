@@ -1844,6 +1844,7 @@
 ????FanCraft
 ????Golden Sand Dream Curse
 ????Ninth Identity
+????Square Knight
 ????TASOGARE
 ????Ten innocent people
 ????ol
@@ -3912,6 +3913,7 @@ ARCADE ARCHITECT
 ARCADE BOSS SIMULATOR
 ARCADE FOREVER
 ARCADE MOGUL
+ARCADE SURVIVORS
 ARCADE WORLD CUPS
 ARCADE ZONE
 ARCADE'S
@@ -6753,6 +6755,7 @@ Arcade Architect
 Arcade Boss Simulator
 Arcade Forever
 Arcade Mogul
+Arcade Survivors
 Arcade World Cups
 Arcade Zone
 Arcade's
@@ -6764,6 +6767,7 @@ ArcadeArchitect
 ArcadeBossSimulator
 ArcadeForever
 ArcadeMogul
+ArcadeSurvivors
 ArcadeWorldCups
 ArcadeZone
 Arcades
@@ -8120,6 +8124,7 @@ BALL'S JOURNEY
 BALL2 BATTLE
 BALLAD
 BALLAD OF THE MAGIC WAND
+BALLATORY
 BALLISTIC
 BALLOOMIA: SKY PLAYGROUND
 BALLOON & YOU
@@ -9518,8 +9523,10 @@ BLIGHTSTORM
 BLIMBLAU: KILL THEM ALL!
 BLIMM
 BLIND BOX
+BLIND RAGE
 BLIND SURVIVAL
 BLIND TOUCH
+BLIND TOUCH VR
 BLIND TRUST: THE CITY
 BLINDING OVERSIGHT
 BLINDSIMULATOR
@@ -9817,6 +9824,7 @@ BOCHI COLLECTION
 BOD EFSANESI: PARS
 BODEFSANESI:PARS
 BODY & SOUL
+BODY SUSHI
 BODYCAM
 BODYGUARD: CELLWARS
 BODYPANIC
@@ -10034,6 +10042,7 @@ BOTTESENNETHERITE
 BOTTESENOR
 BOTTLE
 BOTTLE CAN FLOAT
+BOTTLE CRACKS
 BOTTLE O
 BOTTLE O ENCHANTING
 BOTTLE O'
@@ -10095,6 +10104,7 @@ BOUNDER BOUNDER
 BOUNDERBOUNDER
 BOUNTY
 BOUNTY BOB STRIKES BACK
+BOUNTY DRAG RACING - OUTLAW PACK 11
 BOUNTYBOBSTRIKESBACK
 BOURBON RISKY
 BOURBON RISKY DEMO
@@ -11029,6 +11039,7 @@ BallSlickers
 Ballad
 Ballad of the Magic Wand
 BalladoftheMagicWand
+Ballatory
 Ballistic
 Balloomia: Sky Playground
 Balloomia:SkyPlayground
@@ -12601,13 +12612,17 @@ Blimblau: Kill Them All!
 Blimblau:KillThemAll!
 Blimm
 Blind Box
+Blind Rage
 Blind Survival
 Blind Touch
+Blind Touch VR
 Blind Trust: The City
 BlindBox
+BlindRage
 BlindSimulator
 BlindSurvival
 BlindTouch
+BlindTouchVR
 BlindTrust:TheCity
 Blinding Oversight
 BlindingOversight
@@ -12947,8 +12962,10 @@ Bochi Collection
 BochiCollection
 Body   Soul
 Body & Soul
+Body Sushi
 Body&Soul
 BodyPanic
+BodySushi
 Bodycam
 Boeuf
 Boeuf cru
@@ -13201,12 +13218,14 @@ Bottesenfer
 Bottesenor
 Bottle
 Bottle Can Float
+Bottle Cracks
 Bottle Rocket
 Bottle o
 Bottle o Enchanting
 Bottle o'
 Bottle o' Enchanting
 BottleCanFloat
+BottleCracks
 BottleRocket
 Bottleo
 Bottleo'
@@ -13271,7 +13290,10 @@ Bounder Bounder
 BounderBounder
 Bounty
 Bounty Bob Strikes Back
+Bounty Drag Racing   Outlaw Pack 11
+Bounty Drag Racing - Outlaw Pack 11
 BountyBobStrikesBack
+BountyDragRacing-OutlawPack11
 Bourbon Risky
 Bourbon Risky Demo
 BourbonRisky
@@ -15249,6 +15271,7 @@ CHESSMASTER
 CHESSMATCH
 CHESSRPG DEMO
 CHESST
+CHESSTRIS DEMO
 CHEST
 CHEST BUSTER
 CHESTPLATE
@@ -15616,6 +15639,7 @@ CIRCUITS & SYSTEMS
 CIRCUITS&
 CIRCUITS&SYSTEMS
 CIRCULAR FALLACY
+CIRCULO
 CIRCUS
 CIRCUS CHARLIE
 CIRCUS FREAK
@@ -15857,6 +15881,7 @@ CLONFERT
 CLOSE
 CLOSE COMBAT
 CLOSECOMBAT
+CLOSED CIRCUIT: RECURSIVE IDLE
 CLOSR
 CLOTHING STORE SIMULATOR
 CLOTILDE
@@ -17233,6 +17258,7 @@ CULPEPPER
 CULT
 CULT 87
 CULT OF FLIES
+CULT OF PIN
 CULT OF SHADOWS
 CULT OF THE LAMB
 CULT OF THE LAMB: THE FATE OF THE LAMBS
@@ -18738,6 +18764,8 @@ Chessferatu
 Chessmaster
 ChessofFiveElements
 ChessofMana
+Chesstris Demo
+ChesstrisDemo
 Chest
 Chest Buster
 Chest!Gotcha!
@@ -19182,6 +19210,7 @@ Circuits&
 Circuits&Systems
 Circular Fallacy
 CircularFallacy
+Circulo
 Circus
 Circus Charlie
 Circus Freak
@@ -19506,6 +19535,8 @@ ClosR
 Close
 Close Combat
 CloseCombat
+Closed Circuit: Recursive Idle
+ClosedCircuit:RecursiveIdle
 Clothing Store Simulator
 ClothingStoreSimulator
 Clotilde
@@ -21129,12 +21160,14 @@ CulinaryWizard
 Culpepper
 Cult
 Cult 87
+Cult of PiN
 Cult of Shadows
 Cult of the Lamb
 Cult of the Lamb: The Fate of the Lambs
 Cult87
 Cultivation: Mystic Realm of Spirit Mountain
 Cultivation:MysticRealmofSpiritMountain
+CultofPiN
 CultofShadows
 CultoftheLamb
 CultoftheLamb:TheFateoftheLambs
@@ -22437,6 +22470,7 @@ DEPTHBOUND DESCENT
 DEPTHEAVEN
 DEPTHS OF INSANITY 3
 DEPTHS OF INSANITY 3 SOUNDTRACK
+DEPTHS OF PROVIDENCE
 DERAIL VALLEY
 DERBY
 DERBY DERBY
@@ -22525,6 +22559,7 @@ DESKTOP NARD: DICE IDLE
 DESKTOP OVERLAYS
 DESKTOP PALS 2
 DESKTOP PASTURE
+DESKTOP PINFORGE
 DESKTOP PURRFECT DEMO
 DESKTOP RAID
 DESKTOP RAID - SUPPORTER PACK
@@ -23823,6 +23858,7 @@ DREAMCATCHER 2003
 DREAMCATCHER INTERACTIVE
 DREAMCATCHERINTERACTIVE
 DREAMCORE: RABBIT HOLE
+DREAMECHO
 DREAMER
 DREAMFAB
 DREAMFACTORY
@@ -25423,8 +25459,10 @@ Depthbound Descent
 DepthboundDescent
 Depths of Insanity 3
 Depths of Insanity 3 Soundtrack
+Depths of Providence
 DepthsofInsanity3
 DepthsofInsanity3Soundtrack
+DepthsofProvidence
 Derail Valley
 DerailValley
 Derby
@@ -25524,6 +25562,7 @@ Desktop Nard: Dice Idle
 Desktop Overlays
 Desktop Pals 2
 Desktop Pasture
+Desktop Pinforge
 Desktop Purrfect Demo
 Desktop Raid
 Desktop Raid   Supporter Pack
@@ -25559,6 +25598,7 @@ DesktopNard:DiceIdle
 DesktopOverlays
 DesktopPals2
 DesktopPasture
+DesktopPinforge
 DesktopPurrfectDemo
 DesktopRaid
 DesktopRaid-SupporterPack
@@ -27094,6 +27134,7 @@ DreamBreaker
 DreamCatcher
 DreamDazia
 DreamDoctor
+DreamEcho
 DreamFactory
 DreamForge Demo
 DreamForgeDemo
@@ -31571,6 +31612,7 @@ FIGHTLAND
 FIGHTNIGHT
 FIGURE
 FIGURE KNOCKOUT DEMO
+FIGURE SHOP SIMULATOR
 FIJIAN DOMINATRIXES ARE THE BEST
 FILE TRICKS
 FILES
@@ -33635,7 +33677,9 @@ FightingLayer
 FightingforLand/打怪兽抢领地
 Fightland
 Figure KnockOut Demo
+Figure Shop Simulator
 FigureKnockOutDemo
+FigureShopSimulator
 Fijian Dominatrixes Are the Best
 FijianDominatrixesAretheBest
 File Tricks
@@ -36386,6 +36430,7 @@ GOBETOUT
 GOBEUR
 GOBEUR GOBEUR
 GOBEURGOBEUR
+GOBLIN AND RECIPES: MATCH-3 ADVENTURE
 GOBLIN BUSTER: INCREMENTAL TOWER DEFENSE
 GOBLIN CAMP
 GOBLIN CLEANUP
@@ -36809,6 +36854,7 @@ GRAVITY
 GRAVITY CIRCUIT
 GRAVITY CONTROL
 GRAVITY GAME
+GRAVITY GROVE
 GRAVITY STATION
 GRAVITY STORM - FIRST MISSION
 GRAVITY WHIPPED DEMO
@@ -38498,6 +38544,8 @@ Goblin Quest III
 Goblin Solitaire
 Goblin VS Princess
 Goblin Vyke: The Thief Tycoon
+Goblin and Recipes: Match 3 Adventure
+Goblin and Recipes: Match-3 Adventure
 Goblin: Mutation
 Goblin:Mutation
 GoblinBuster:IncrementalTowerDefense
@@ -38511,6 +38559,7 @@ GoblinQuestIII
 GoblinSolitaire
 GoblinVSPrincess
 GoblinVyke:TheThiefTycoon
+GoblinandRecipes:Match-3Adventure
 Goblins
 Goblins Stole My Panties ?
 Goblins Stole My Panties 👙
@@ -38961,6 +39010,7 @@ Gravity
 Gravity Circuit
 Gravity Control
 Gravity Game
+Gravity Grove
 Gravity Station
 Gravity Storm   First Mission
 Gravity Storm - First Mission
@@ -38971,6 +39021,7 @@ Gravity'sEdge
 GravityCircuit
 GravityControl
 GravityGame
+GravityGrove
 GravityStation
 GravityStorm-FirstMission
 GravityWhippedDemo
@@ -39724,6 +39775,7 @@ HAMMOND&
 HAMMOND&LEYLAND
 HAMPY'S GREAT ADVENTURE
 HAMSTER
+HAMSTER BALLERS
 HAMSTER HUSTLE
 HAMSTER TALK
 HAMSTER, EAT, RUN
@@ -40872,6 +40924,7 @@ HOME RUN
 HOME SHEEP HOME: FARMAGEDDON PARTY EDITION
 HOME SWEET HOMECOMING
 HOME VISION
+HOME4US
 HOMEBODY HOSTESS
 HOMEBREW
 HOMECOMPUTER
@@ -40884,6 +40937,7 @@ HOMEGROWN
 HOMEGROWN GAMES
 HOMEGROWNGAMES
 HOMEMEDIA
+HOMEOSTASIS
 HOMERUN
 HOMESHIFT SOUNDTRACK
 HOMESICKNESS
@@ -41498,11 +41552,13 @@ Hampy s Great Adventure
 Hampy's Great Adventure
 Hampy'sGreatAdventure
 Hamster
+Hamster Ballers
 Hamster Hustle
 Hamster Talk
 Hamster's Sticker Book
 Hamster, Eat, Run
 Hamster,Eat,Run
+HamsterBallers
 HamsterCraft
 HamsterHustle
 HamsterTalk
@@ -43022,6 +43078,7 @@ Home Sweet Homecoming
 Home Vision
 Home for Friends: Beloved Pets Collector s Edition
 Home for Friends: Beloved Pets Collector's Edition
+Home4Us
 HomeBeforeWinter(HBW)
 HomeComputer
 HomeComputer Software
@@ -43042,6 +43099,7 @@ HomeforFriends:BelovedPetsCollector'sEdition
 Homegrown
 Homegrown Games
 HomegrownGames
+Homeostasis
 Homeshift Soundtrack
 HomeshiftSoundtrack
 Homework
@@ -50751,6 +50809,7 @@ LAST EPOCH - FRACTURED LEGEND SUPPORTER PACK
 LAST GUEST AT SUNSET
 LAST HEIST
 LAST JOURNAL
+LAST LAWN STANDING DEMO
 LAST LINE: ZOMBIE HORDE
 LAST MAGE
 LAST MILE
@@ -52768,6 +52827,7 @@ Last Epoch - Fractured Legend Supporter Pack
 Last Guest at Sunset
 Last Heist
 Last Journal
+Last Lawn Standing Demo
 Last Line: Zombie Horde
 Last Mage
 Last Ninja
@@ -52794,6 +52854,7 @@ LastEpoch-FracturedLegendSupporterPack
 LastGuestatSunset
 LastHeist
 LastJournal
+LastLawnStandingDemo
 LastLine:ZombieHorde
 LastMage
 LastNinja
@@ -54978,6 +55039,7 @@ MAEMAE
 MAESTRO
 MAESTRO LEVEL EDITOR
 MAFIA
+MAFIA HERO: STREETS OF SURVIVAL
 MAFIA: THE OLD COUNTRY
 MAGAZINE
 MAGE AND MONSTERS II
@@ -58329,8 +58391,10 @@ Maestro
 Maestro Level Editor
 MaestroLevelEditor
 Mafia
+Mafia Hero: Streets of Survival
 Mafia: The Old Country
 Mafia:TheOldCountry
+MafiaHero:StreetsofSurvival
 Magazine
 Mage Arena
 Mage Tower Massacre
@@ -68107,6 +68171,7 @@ PAWN.OS()
 PAWS AGAINST THE WORLD
 PAWSKY
 PAX
+PAX AUTOCRATICA
 PAX AUTOCRATICA: PROLOGUE
 PAX DEI
 PAX SOFTONICA
@@ -68587,6 +68652,7 @@ PHOTO STUDIO SIMULATOR
 PHOTO STUDIO SIMULATOR - CAMERA DLC
 PHOTOGRAPHE
 PHOTOGRAPHY AGENCY
+PHOTOSOUNDER
 PHYLLOSOMA
 PHYSICS WORLD: EVOLUTION
 PIANO CHILDREN
@@ -70946,9 +71012,11 @@ Paws Against the World
 PawsAgainsttheWorld
 Pawsky
 Pax
+Pax Autocratica
 Pax Autocratica: Prologue
 Pax Dei
 Pax Softonica
+PaxAutocratica
 PaxAutocratica:Prologue
 PaxDei
 PaxSoftonica
@@ -71373,6 +71441,7 @@ PhotoStudioSimulator-cameraDLC
 Photographe
 Photography Agency
 PhotographyAgency
+Photosounder
 Phyllosoma
 Physics World: Evolution
 PhysicsWorld:Evolution
@@ -74403,6 +74472,7 @@ REALLYGNAWTY
 REALM OF BALLS
 REALM OF INK
 REALM RACER
+REALMBOUND FRONTIER
 REALMOON
 REALMS
 REALMS CUP
@@ -75139,6 +75209,7 @@ RIVER
 RIVER CITY
 RIVER CITY RANSOM
 RIVER CITY SAGA: JOURNEY TO THE WEST
+RIVER DEVIL/河牌恶魔
 RIVER HILL
 RIVER HILL SOFTWARE
 RIVER RAID
@@ -75754,6 +75825,7 @@ RUGBY LEAGUE 26
 RUINA
 RUINS OF FEAR
 RUINSSTORY
+RULE OR FALL
 RULES
 RUMBRAL
 RUMI
@@ -76419,6 +76491,8 @@ Realm Racer
 Realm of Balls
 Realm of Ink
 RealmRacer
+Realmbound Frontier
+RealmboundFrontier
 RealmofBalls
 RealmofInk
 Realms
@@ -77298,6 +77372,8 @@ River
 River City
 River City Ransom
 River City Saga: Journey to the West
+River Devil/????
+River Devil/河牌恶魔
 River Hill
 River Hill Software
 River Raid
@@ -77305,6 +77381,7 @@ River raid
 RiverCity
 RiverCityRansom
 RiverCitySaga:JourneytotheWest
+RiverDevil/河牌恶魔
 RiverHill
 RiverHillSoftware
 RiverRaid
@@ -77992,6 +78069,8 @@ Ruina
 Ruins Of Fear
 RuinsOfFear
 RuinsStory
+Rule or Fall
+RuleorFall
 Rules
 Rumbral
 Rumi
@@ -79476,6 +79555,7 @@ SHADOW OF WINTER
 SHADOW PRESIDENT
 SHADOW PRINCESS
 SHADOW PROTOCOL
+SHADOW SLAYER
 SHADOW SOFTWARE
 SHADOW TACTICS: BLADES OF THE SHOGUN
 SHADOW THE HEDGEHOG
@@ -79838,6 +79918,7 @@ SHRIMPACT
 SHRIMPGAME:KRILLCONFIRMED
 SHRINE'S LEGACY
 SHRINK ROOMS
+SHRINKAT
 SHROOMS! TOWER DEFENCE
 SHROUD OF THE WOODS
 SHROUDED ASPECT
@@ -81931,6 +82012,7 @@ STELLAR INDUSTRIALIST
 STELLAR ODYSSEY
 STELLAR OUTCAST: ARENA
 STELLAR REACH
+STELLAR SMASH DEMO
 STELLAR STONE
 STELLARCRAFT
 STELLARFISH
@@ -82346,6 +82428,7 @@ SUCCUBUS STORIES
 SUCCUBUS SUCCESSOR: DELILAH'S JUICY JOURNEY
 SUCCUBUS SURVIVORS
 SUCCUBUS: THE LUSTBORN CURSE
+SUCCULENT BREAK
 SUCH A GUY
 SUCHIE-PAI
 SUCHIEPAI
@@ -82858,6 +82941,7 @@ SWARM SWEEPER
 SWARMBOUND
 SWASHBUCKLER
 SWAT
+SWEAT EQUITY
 SWEATING
 SWEEP
 SWEEP BUMP
@@ -84437,6 +84521,7 @@ Shadow Mansion 2
 Shadow Of Winter
 Shadow President
 Shadow Princess
+Shadow Slayer
 Shadow Software
 Shadow Tactics: Blades of the Shogun
 Shadow Tor
@@ -84461,6 +84546,7 @@ ShadowMansion 2
 ShadowOfWinter
 ShadowPresident
 ShadowPrincess
+ShadowSlayer
 ShadowSoftware
 ShadowTactics:BladesoftheShogun
 ShadowTor
@@ -84893,6 +84979,7 @@ Shrine's Legacy
 Shrine'sLegacy
 Shrink Rooms
 ShrinkRooms
+Shrinkat
 Shrooms! Tower Defence
 Shrooms!TowerDefence
 Shroud of the Woods
@@ -87370,6 +87457,7 @@ Stellar Industrialist
 Stellar Odyssey
 Stellar Outcast: Arena
 Stellar Reach
+Stellar Smash Demo
 Stellar Stone
 StellarArchipelago
 StellarBlade™
@@ -87381,6 +87469,7 @@ StellarIndustrialist
 StellarOdyssey
 StellarOutcast:Arena
 StellarReach
+StellarSmashDemo
 StellarStone
 Stellarcraft
 Stellaris: BioGenesis
@@ -87951,6 +88040,8 @@ SuccubusStories
 SuccubusSuccessor:Delilah'sJuicyJourney
 SuccubusSurvivors
 SuccubusofAphrodisia:Ako'sFirstEmbrace
+Succulent Break
+SucculentBreak
 Such a guy
 Suchaguy
 Suchie-Pai
@@ -88604,6 +88695,8 @@ SwarmMe
 SwarmSweeper
 Swarmbound
 Swashbuckler
+Sweat Equity
+SweatEquity
 Sweep
 Sweep Bump
 SweepBump
@@ -89861,6 +89954,7 @@ THE BEARDED LADIES
 THE BEARDED LADIES CONSULTING
 THE BEARER & THE LAST FLAME DEMO
 THE BEAST KING PLAN
+THE BEGINNER'S GUIDE
 THE BEHEMOT
 THE BEHEMOTH
 THE BEST INVESTOR
@@ -90560,6 +90654,7 @@ THE SCIENTIST BATTLES
 THE SCOURGE | TAI ƯƠNG
 THE SCREAM OF DARKNESS
 THE SCROLL OF TAIWU : BEYOND THE DOME
+THE SCULPTOR
 THE SECRET OF MONKEY ISLAND
 THE SERPENT & THE SEED
 THE SEVEN BAD APPLES
@@ -90669,6 +90764,7 @@ THE ULTRA REALISTIC ACCURATE FARMER SIMULATOR
 THE UNCULTURED
 THE UNDERCOVER OFFICER'S OBSCENE EDUCATION ~SEX-CRAZED YAKUMO~
 THE UNDERDOG
+THE UNDERGROUND PRESS
 THE UNFAMILIARS
 THE UNHOLY PRIEST
 THE UNREALTOR
@@ -91760,6 +91856,7 @@ TOUCH
 TOUCH FOO
 TOUCH GRASS: A BIT-SIZED CHRISTMAS ADVENTURE
 TOUCH MY BOOBS CLICK
+TOUCH OF MADNESS
 TOUCH THE SKY
 TOUCH!
 TOUCH! GENERATIONS
@@ -91826,6 +91923,7 @@ TOWER OF BABEL: SURVIVORS OF CHAOS - GOLDEN DRAGON PACK
 TOWER OF DOGMA
 TOWER OF DRUAGA
 TOWER OF JANK
+TOWER OF SCHERBENMARK
 TOWER OF TIME
 TOWER OF WISHES 4: SHAKA
 TOWER STUDIOS
@@ -92391,6 +92489,7 @@ TURCAN
 TURCAN RESEARCH
 TURCANRESEARCH
 TURF
+TURING HEADS
 TURISMO
 TURKEY HUNTING - THE SEASON
 TURKISH THRONE
@@ -92433,6 +92532,8 @@ TURTLESPAWN
 TURTLESPAWNEGG
 TURTLE_HELMET
 TURTLE_SPAWN_EGG
+TUSSLE WORKS
+TUSSLEWORKS
 TUTOR'S GENTLE TRAP
 TUVECINA
 TV
@@ -93629,6 +93730,8 @@ The Bearded Ladies Consulting
 The Bearer   The Last Flame Demo
 The Bearer & The Last Flame Demo
 The Beast King Plan
+The Beginner s Guide
+The Beginner's Guide
 The Behemot
 The Behemoth
 The Between
@@ -94315,6 +94418,7 @@ The Scourge   Tai Ương
 The Scourge | Tai Uong
 The Scourge | Tai Ương
 The Scroll of Taiwu : Beyond The Dome
+The Sculptor
 The Serpent   The Seed
 The Serpent & The Seed
 The Seven Bad Apples
@@ -94437,6 +94541,7 @@ The Undercover Officer s Obscene Education ~Sex-Crazed Yakumo~
 The Undercover Officer's Obscene Education ~Sex Crazed Yakumo~
 The Undercover Officer's Obscene Education ~Sex-Crazed Yakumo~
 The Underdog
+The Underground Press
 The Unfamiliars
 The Unholy Priest
 The Unrealtor
@@ -94591,6 +94696,7 @@ TheBeardedLadies
 TheBeardedLadiesConsulting
 TheBearer&TheLastFlameDemo
 TheBeastKingPlan
+TheBeginner'sGuide
 TheBehemot
 TheBehemoth
 TheBetween
@@ -95223,6 +95329,7 @@ TheSalesman
 TheScientistBattles
 TheScourge|TaiƯơng
 TheScrollofTaiwu:BeyondTheDome
+TheSculptor
 TheSerpent&TheSeed
 TheSevenBadApples
 TheSevenDeadlySins:Origin
@@ -95325,6 +95432,7 @@ TheUltraRealisticAccurateFarmerSimulator
 TheUncultured
 TheUndercoverOfficer'sObsceneEducation~Sex-CrazedYakumo~
 TheUnderdog
+TheUndergroundPress
 TheUnfamiliars
 TheUnholyPriest
 TheUnrealtor
@@ -96398,6 +96506,7 @@ Touch Foo
 Touch Grass: A Bit Sized Christmas Adventure
 Touch Grass: A Bit-Sized Christmas Adventure
 Touch My Boobs Click
+Touch of Madness
 Touch the Sky
 Touch!
 Touch! Generations
@@ -96407,6 +96516,7 @@ TouchGrass:ABit-SizedChristmasAdventure
 TouchMyBoobsClick
 Touching the Female Swordsman
 TouchingtheFemaleSwordsman
+TouchofMadness
 Touchstone
 TouchtheSky
 Tough
@@ -96503,6 +96613,7 @@ Tower of Babel: Survivors of Chaos   Golden Dragon Pack
 Tower of Babel: Survivors of Chaos - Golden Dragon Pack
 Tower of Druaga
 Tower of Jank
+Tower of Scherbenmark
 Tower of Time
 Tower.defense  : Program The Fight Demo
 Tower.defense(): Program The Fight Demo
@@ -96526,6 +96637,7 @@ Towerix91
 TowerofBabel:SurvivorsofChaos-GoldenDragonPack
 TowerofDruaga
 TowerofJank
+TowerofScherbenmark
 TowerofTime
 Towers Heritage Demo
 TowersHeritageDemo
@@ -97140,6 +97252,8 @@ Turcan
 Turcan Research
 TurcanResearch
 Turf
+Turing Heads
+TuringHeads
 Turismo
 Turkey Hunting   The Season
 Turkey Hunting - The Season
@@ -98394,6 +98508,7 @@ VALCONGAMES
 VALDIS
 VALDIS VALDIS
 VALDISVALDIS
+VALDRAX BEYOND THE RIFT
 VALEHONA TAP!
 VALENTINE
 VALENTINE'S DAY 💘
@@ -98991,6 +99106,7 @@ VIVIANMONROE
 VIVID
 VIVID GAMES
 VIVID IMAGE
+VIVID INTRUSION
 VIVID WORLD
 VIVID WORLD / ビビッドワールド SOUNDTRACK
 VIVID/STASIS
@@ -99199,6 +99315,8 @@ ValconGames
 Valdis
 Valdis Valdis
 ValdisValdis
+Valdrax Beyond the Rift
+ValdraxBeyondtheRift
 Valehona Tap!
 ValehonaTap!
 Valentine
@@ -99905,11 +100023,13 @@ Viviane
 Vivid
 Vivid Games
 Vivid Image
+Vivid Intrusion
 Vivid World
 Vivid World / ???????? Soundtrack
 Vivid World / ビビッドワールド Soundtrack
 VividGames
 VividImage
+VividIntrusion
 VividWorld
 VividWorld/ビビッドワールドSoundtrack
 Vivisection
@@ -106552,6 +106672,7 @@ arcade architect
 arcade boss simulator
 arcade forever
 arcade mogul
+arcade survivors
 arcade world cups
 arcade zone
 arcade's
@@ -107697,6 +107818,7 @@ ball's journey
 ball2 battle
 ballad
 ballad of the magic wand
+ballatory
 ballistic
 balloomia: sky playground
 balloon & you
@@ -109048,8 +109170,10 @@ blightstorm
 blimblau: kill them all!
 blimm
 blind box
+blind rage
 blind survival
 blind touch
+blind touch vr
 blind trust: the city
 blinding oversight
 blindsimulator
@@ -109330,6 +109454,7 @@ boccino
 bochi collection
 bod efsanesi: pars
 body & soul
+body sushi
 bodycam
 bodyguard: cellwars
 bodypanic
@@ -109540,6 +109665,7 @@ bottesennetherite
 bottesenor
 bottle
 bottle can float
+bottle cracks
 bottle o
 bottle o enchanting
 bottle o'
@@ -109599,6 +109725,7 @@ bounder bounder
 bounderbounder
 bounty
 bounty bob strikes back
+bounty drag racing - outlaw pack 11
 bountybobstrikesback
 bourbon risky
 bourbon risky demo
@@ -111351,6 +111478,7 @@ chessmaster
 chessmatch
 chessrpg demo
 chesst
+chesstris demo
 chest
 chest buster
 chestplate
@@ -111716,6 +111844,7 @@ circuits & systems
 circuits&
 circuits&systems
 circular fallacy
+circulo
 circus
 circus charlie
 circus freak
@@ -111949,6 +112078,7 @@ clonfert
 close
 close combat
 closecombat
+closed circuit: recursive idle
 closr
 clothing store simulator
 clotilde
@@ -113281,6 +113411,7 @@ culpepper
 cult
 cult 87
 cult of flies
+cult of pin
 cult of shadows
 cult of the lamb
 cult of the lamb: the fate of the lambs
@@ -114465,6 +114596,7 @@ depthbound descent
 deptheaven
 depths of insanity 3
 depths of insanity 3 soundtrack
+depths of providence
 derail valley
 derby
 derby derby
@@ -114550,6 +114682,7 @@ desktop nard: dice idle
 desktop overlays
 desktop pals 2
 desktop pasture
+desktop pinforge
 desktop purrfect demo
 desktop raid
 desktop raid - supporter pack
@@ -115776,6 +115909,7 @@ dreamcatcher 2003
 dreamcatcher interactive
 dreamcatcherinteractive
 dreamcore: rabbit hole
+dreamecho
 dreamer
 dreamfab
 dreamfactory
@@ -118278,6 +118412,7 @@ fightland
 fightnight
 figure
 figure knockout demo
+figure shop simulator
 fijian dominatrixes are the best
 file tricks
 files
@@ -120608,6 +120743,7 @@ gobetout
 gobeur
 gobeur gobeur
 gobeurgobeur
+goblin and recipes: match-3 adventure
 goblin buster: incremental tower defense
 goblin camp
 goblin cleanup
@@ -121026,6 +121162,7 @@ gravity
 gravity circuit
 gravity control
 gravity game
+gravity grove
 gravity station
 gravity storm - first mission
 gravity whipped demo
@@ -121709,6 +121846,7 @@ hammond&
 hammond&leyland
 hampy's great adventure
 hamster
+hamster ballers
 hamster hustle
 hamster talk
 hamster, eat, run
@@ -122831,6 +122969,7 @@ home run
 home sheep home: farmageddon party edition
 home sweet homecoming
 home vision
+home4us
 homebody hostess
 homebrew
 homecomputer
@@ -122843,6 +122982,7 @@ homegrown
 homegrown games
 homegrowngames
 homemedia
+homeostasis
 homerun
 homeshift soundtrack
 homesickness
@@ -126805,6 +126945,7 @@ last epoch - fractured legend supporter pack
 last guest at sunset
 last heist
 last journal
+last lawn standing demo
 last line: zombie horde
 last mage
 last mile
@@ -128607,6 +128748,7 @@ maemae
 maestro
 maestro level editor
 mafia
+mafia hero: streets of survival
 mafia: the old country
 magazine
 mage and monsters ii
@@ -134802,6 +134944,7 @@ pawn.os()
 paws against the world
 pawsky
 pax
+pax autocratica
 pax autocratica: prologue
 pax dei
 pax softonica
@@ -135221,6 +135364,7 @@ photo studio simulator
 photo studio simulator - camera dlc
 photographe
 photography agency
+photosounder
 phyllosoma
 physics world: evolution
 phébus
@@ -137602,6 +137746,7 @@ reallygnawty
 realm of balls
 realm of ink
 realm racer
+realmbound frontier
 realms
 realms cup
 realms of
@@ -138299,6 +138444,7 @@ river
 river city
 river city ransom
 river city saga: journey to the west
+river devil/河牌恶魔
 river hill
 river hill software
 river raid
@@ -138874,6 +139020,7 @@ rugby league 26
 ruina
 ruins of fear
 ruinsstory
+rule or fall
 rules
 rumbral
 rumi
@@ -140165,6 +140312,7 @@ shadow of winter
 shadow president
 shadow princess
 shadow protocol
+shadow slayer
 shadow software
 shadow tactics: blades of the shogun
 shadow the hedgehog
@@ -140517,6 +140665,7 @@ shrimp game: krill confirmed
 shrimpact
 shrine's legacy
 shrink rooms
+shrinkat
 shrooms! tower defence
 shroud of the woods
 shrouded aspect
@@ -142505,6 +142654,7 @@ stellar industrialist
 stellar odyssey
 stellar outcast: arena
 stellar reach
+stellar smash demo
 stellar stone
 stellarcraft
 stellarfish
@@ -142913,6 +143063,7 @@ succubus stories
 succubus successor: delilah's juicy journey
 succubus survivors
 succubus: the lustborn curse
+succulent break
 such a guy
 suchie-pai
 suchiepai
@@ -143409,6 +143560,7 @@ swarm sweeper
 swarmbound
 swashbuckler
 swat
+sweat equity
 sweating
 sweep
 sweep bump
@@ -144543,6 +144695,7 @@ the bearded ladies
 the bearded ladies consulting
 the bearer & the last flame demo
 the beast king plan
+the beginner's guide
 the behemot
 the behemoth
 the best investor
@@ -145228,6 +145381,7 @@ the scientist battles
 the scourge | tai ương
 the scream of darkness
 the scroll of taiwu : beyond the dome
+the sculptor
 the secret of monkey island
 the serpent & the seed
 the seven bad apples
@@ -145337,6 +145491,7 @@ the ultra realistic accurate farmer simulator
 the uncultured
 the undercover officer's obscene education ~sex-crazed yakumo~
 the underdog
+the underground press
 the unfamiliars
 the unholy priest
 the unrealtor
@@ -146408,6 +146563,7 @@ touch
 touch foo
 touch grass: a bit-sized christmas adventure
 touch my boobs click
+touch of madness
 touch the sky
 touch!
 touch! generations
@@ -146474,6 +146630,7 @@ tower of babel: survivors of chaos - golden dragon pack
 tower of dogma
 tower of druaga
 tower of jank
+tower of scherbenmark
 tower of time
 tower of wishes 4: shaka
 tower studios
@@ -147009,6 +147166,7 @@ turcan
 turcan research
 turcanresearch
 turf
+turing heads
 turismo
 turkey hunting - the season
 turkish throne
@@ -147051,6 +147209,7 @@ turtles
 turtleshell
 turtlespawn
 turtlespawnegg
+tussle works
 tutor's gentle trap
 tv
 tweeter
@@ -147640,6 +147799,7 @@ valcongames
 valdis
 valdis valdis
 valdisvaldis
+valdrax beyond the rift
 valehona tap!
 valentine
 valentine's day 💘
@@ -148225,6 +148385,7 @@ vivianmonroe
 vivid
 vivid games
 vivid image
+vivid intrusion
 vivid world
 vivid world / ビビッドワールド soundtrack
 vivid/stasis
@@ -151107,6 +151268,10 @@ zèbre
 方块 Block
 方块 block
 方块Block
+方块骑士SQUARE KNIGHT
+方块骑士Square Knight
+方块骑士SquareKnight
+方块骑士square knight
 无极之境:放置
 无色世界  Colorless World 
 无色世界 (COLORLESS WORLD)
