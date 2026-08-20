@@ -165,7 +165,9 @@
 100 Factory Cats
 100 Fantasy Cats
 100 Forest Cats
+100 GOBLIN CATS
 100 GREECE CATS
+100 Goblin Cats
 100 Greece Cats
 100 HIDDEN PANDAS: VILLAGE
 100 HONG KONG CATS
@@ -247,6 +249,7 @@
 100 factory cats
 100 fantasy cats
 100 forest cats
+100 goblin cats
 100 greece cats
 100 hidden pandas: village
 100 hong kong cats
@@ -321,6 +324,7 @@
 100FactoryCats
 100FantasyCats
 100ForestCats
+100GoblinCats
 100GreeceCats
 100HiddenPandas:Village
 100HongKongCats
@@ -3083,6 +3087,7 @@ ALGUESECHEE
 ALICE
 ALICE AND THE DEVIL'S PRISON
 ALICE IN DISGUISE
+ALICE IN WONDERLAND: THE CROWN OF WISHES
 ALICE'S WORLD
 ALIEN
 ALIEN 8
@@ -3265,6 +3270,7 @@ ALTRON
 ALTRON CORPORATION
 ALTRONCORPORATION
 ALTRUISTIC
+ALUMINIUM CITY
 ALUNDRA
 ALVARO
 ALVARO D'ALVADE
@@ -4150,6 +4156,7 @@ ARMORPROJECT
 ARMORSTAND
 ARMOUT
 ARMS
+ARMS DEALER
 ARMS OF GOD SOUNDTRACK
 ARMS:
 ARMURE
@@ -5812,11 +5819,13 @@ Alice
 Alice and the Devil s Prison
 Alice and the Devil's Prison
 Alice in Disguise
+Alice in Wonderland: The Crown of Wishes
 Alice s World
 Alice's World
 Alice'sWorld
 AliceandtheDevil'sPrison
 AliceinDisguise
+AliceinWonderland:TheCrownofWishes
 Alien
 Alien 8
 Alien After
@@ -6038,6 +6047,8 @@ Altron
 Altron Corporation
 AltronCorporation
 Altruistic
+Aluminium City
+AluminiumCity
 Alundra
 Alvaro
 Alvaro d'Alvade
@@ -7012,8 +7023,10 @@ ArmoredWarfare-SummerBundle
 ArmoredWarriors
 ArmorofGod
 Arms
+Arms Dealer
 Arms of God Soundtrack
 Arms:
+ArmsDealer
 ArmsofGodSoundtrack
 Armure
 Armure en cuir
@@ -8051,6 +8064,7 @@ BACKYARD BASEBALL '01
 BACKYARD BASKETBALL '01
 BACKYARD DIGGER
 BACKYARD HOCKEY '02
+BACKYARD PAINTBALL
 BACKYARD SPORTS
 BACKYARDSPORTS
 BACK：FADE
@@ -8836,6 +8850,7 @@ BEERCRUSH
 BEESHU
 BEESPAWN
 BEESPAWNEGG
+BEETLE SUMO
 BEETROOT
 BEETROOT SEEDS
 BEETROOT SOUP
@@ -10989,11 +11004,13 @@ Backyard Basketball '01
 Backyard Digger
 Backyard Hockey  02
 Backyard Hockey '02
+Backyard Paintball
 Backyard Sports
 BackyardBaseball'01
 BackyardBasketball'01
 BackyardDigger
 BackyardHockey'02
+BackyardPaintball
 BackyardSports
 Back：Fade
 Bacon
@@ -11814,6 +11831,8 @@ Beer Runner
 BeerClicker
 BeerRunner
 Beeshu
+Beetle Sumo
+BeetleSumo
 Beetroot
 Beetroot Seeds
 Beetroot Soup
@@ -15934,6 +15953,7 @@ CLICHÃ©
 CLICHÉ HORROR 2000S: THE WITCH’S LAIR
 CLICHÉ QUEST
 CLICK
+CLICK & CURATE: IDLE PHOTOGRAPHY
 CLICK AND CONQUER
 CLICK CLUCK
 CLICK THE SHAPE
@@ -16327,6 +16347,7 @@ COMMAND&CONQUER
 COMMAND&CONQUER:REDALERT
 COMMAND&CONQUERREDALERT
 COMMAND-Ω OMEGA
+COMMAND-Ω OMEGA 2
 COMMAND.OVERRIDE
 COMMANDAND
 COMMANDANDCONQUER
@@ -16734,7 +16755,9 @@ COSMOPOLICE
 COSMOPOLICEGALIVAN
 COSMOS
 COSMOS INTERACTIVE
+COSMOS VR
 COSMOSINTERACTIVE
+COSMOSVR
 COSMOTHESEEDRIAN
 COSMOTILES
 COSMULA
@@ -19595,6 +19618,8 @@ Cliché Horror 2000s: The Witch’s Lair
 Cliché Quest
 ClichéHorror2000s:TheWitch’sLair
 ClichéQuest
+Click   Curate: Idle Photography
+Click & Curate: Idle Photography
 Click A Duck
 Click Cluck
 Click Her
@@ -19606,6 +19631,7 @@ Click to Civ
 Click to Live
 Click to Punch
 Click to win 5000 achievement
+Click&Curate:IdlePhotography
 Click-A-Duck
 Click-Her
 ClickCluck
@@ -20046,10 +20072,14 @@ Command and
 Command and Conquer
 Command thousands troops
 Command Ω Omega
+Command Ω Omega 2
 Command&Conquer
 Command-? Omega
+Command-? Omega 2
 Command-Ω Omega
+Command-Ω Omega 2
 Command-ΩOmega
+Command-ΩOmega2
 Command.Override
 CommandConquer
 Commandand
@@ -22361,6 +22391,7 @@ DECK OF MANDATE DEMO
 DECK OF TREADS
 DECK-A-DOODLE SOLITAIRE
 DECK13
+DECKALYPSE
 DECKARD
 DECKARD CAIN
 DECKARDCAIN
@@ -22719,6 +22750,7 @@ DESKTANK
 DESKTOP ANT FARM SIMULATOR
 DESKTOP COMPANION
 DESKTOP DEFENDER
+DESKTOP DETECTIVE
 DESKTOP DICE
 DESKTOP DOG PARK
 DESKTOP ENGINE
@@ -25281,6 +25313,7 @@ Deck-A-DoodleSolitaire
 Deck13
 DeckDash
 DeckDefense
+Deckalypse
 Deckard
 Deckard Cain
 DeckardCain
@@ -25744,6 +25777,7 @@ Desktank
 Desktop Ant Farm Simulator
 Desktop Companion
 Desktop Defender
+Desktop Detective
 Desktop Dice
 Desktop Dog Park
 Desktop Engine
@@ -25781,6 +25815,7 @@ Desktop Warriors
 DesktopAntFarmSimulator
 DesktopCompanion
 DesktopDefender
+DesktopDetective
 DesktopDice
 DesktopDogPark
 DesktopEngine
@@ -28845,12 +28880,16 @@ ENDLESS MIND
 ENDLESS RACING
 ENDLESS SIGNAL
 ENDLESS SNAKE
+ENDLESS SPACE™ 2
+ENDLESS Space(TM) 2
+ENDLESS Space™ 2
 ENDLESS TILES
 ENDLESS WAVES SURVIVAL
 ENDLESS WONDER VR
 ENDLESS(TM) Legend
 ENDLESS(TM) Legend 2
 ENDLESSSIGNAL
+ENDLESSSpace™2
 ENDLESS™ LEGEND
 ENDLESS™ LEGEND 2
 ENDLESS™ Legend
@@ -33139,6 +33178,7 @@ FUREURDELOUPFUREURDELOUP
 FURI
 FURIOUS KITCHEN
 FURNACE
+FURNITURE FU
 FURNITURE TOSS
 FURO
 FURRY ADVENTURE 2
@@ -35528,7 +35568,9 @@ Furi
 Furious Kitchen
 FuriousKitchen
 Furnace
+Furniture Fu
 Furniture Toss
+FurnitureFu
 FurnitureToss
 Furry Adventure 2
 Furry Adventure 3   Big Boobas!
@@ -36370,6 +36412,7 @@ GHIRAHIM
 GHLOBOT GALAXY
 GHOM
 GHOST
+GHOST BUSTER:VILLAGE
 GHOST CODE: ESCAPE
 GHOST EXORCIST
 GHOST GAMES
@@ -37322,6 +37365,7 @@ GRIM DAWN - FANGS OF ASTERKARN
 GRIM FANDANGO
 GRIM PASTURES: OUTLAWS
 GRIM TALES: PRISONERS OF THE PAST COLLECTOR'S EDITION
+GRIM TRIALS
 GRIM-CHAN'S SOUL FIGHT
 GRIMDARK SURVIVORS
 GRIME&GOLD
@@ -38447,6 +38491,7 @@ Ghlobot Galaxy
 GhlobotGalaxy
 Ghom
 Ghost
+Ghost Buster:Village
 Ghost Code: Escape
 Ghost Exorcist
 Ghost Games
@@ -38464,6 +38509,7 @@ Ghost Vault
 Ghost Warrior
 Ghost of Tsushima DIRECTOR S CUT
 Ghost of Tsushima DIRECTOR'S CUT
+GhostBuster:Village
 GhostCode:Escape
 GhostExorcist
 GhostGames
@@ -39514,6 +39560,7 @@ Grim Dawn - Fangs of Asterkarn
 Grim Pastures: Outlaws
 Grim Tales: Prisoners of the Past Collector s Edition
 Grim Tales: Prisoners of the Past Collector's Edition
+Grim Trials
 Grim chan's Soul Fight
 Grim-chan s Soul Fight
 Grim-chan's Soul Fight
@@ -39522,6 +39569,7 @@ GrimAxiom
 GrimDawn-FangsofAsterkarn
 GrimPastures:Outlaws
 GrimTales:PrisonersofthePastCollector'sEdition
+GrimTrials
 Grimdark Survivors
 GrimdarkSurvivors
 Grime Gold
@@ -40481,6 +40529,7 @@ HEARTBEAT
 HEARTBEAT IN THAILAND
 HEARTCORE DESCENT
 HEARTH & SHADOW
+HEARTH AND HAMLET
 HEARTILLY
 HEARTOF
 HEARTOFTHE
@@ -41333,6 +41382,7 @@ HOPE HARRISON
 HOPE: A POTATO STORY
 HOPECOUGARS
 HOPEESTHEIM
+HOPELESS DAYS
 HOPELESS SEA
 HOPLITE
 HOPLITE RESEARCH
@@ -42348,7 +42398,9 @@ Heartbeat in Thailand
 HeartbeatinThailand
 Hearth   Shadow
 Hearth & Shadow
+Hearth and Hamlet
 Hearth&Shadow
+HearthandHamlet
 Heartilly
 HeartintheCell:Rebirth
 Heartof
@@ -43523,7 +43575,9 @@ HopeCompany
 HopeCougars
 HopeEstheim
 HopeHarrison
+Hopeless Days
 Hopeless Sea
+HopelessDays
 HopelessSea
 Hoplite
 Hoplite Research
@@ -51028,6 +51082,9 @@ LABYRINTH'S DEPTHS
 LABYRINTHESIS
 LABYRINTHINE
 LABYRINTHINE DREAD
+LABYRINTHOS: THE DEPTHS WANT YOU
+LABYRINTHOS: The Depths Want You
+LABYRINTHOS:TheDepthsWantYou
 LACEY
 LACEY JONAS
 LACEYJONAS
@@ -52563,6 +52620,7 @@ LOS ILUMINADOS
 LOSER GOT ISEKAI’D – SEX, SIDE JOBS, AND ODD TASKS
 LOSER NAMED HANA
 LOSILUMINADOS
+LOSS LIMIT
 LOSSLESS SCALING
 LOST
 LOST : TABOO FOREST
@@ -54797,6 +54855,8 @@ Loser Got Isekai’d – Sex, Side Jobs, and Odd Tasks
 Loser Named Hana
 LoserGotIsekai’d–Sex,SideJobs,andOddTasks
 LoserNamedHana
+Loss Limit
+LossLimit
 Lossless Scaling
 LosslessScaling
 Lost
@@ -55857,6 +55917,7 @@ MANOMIO
 MANOMIO LLC
 MANOMIOLLC
 MANOR LORDS
+MANORISM
 MANQUANT
 MANS
 MANSION
@@ -55917,6 +55978,7 @@ MARECHAL
 MAREDARE
 MARET
 MARGAUX
+MARGINCALL
 MARI'S MAGICAL DELIVERIES
 MARIA
 MARIA ROBOTNIK
@@ -59307,6 +59369,7 @@ Manomio LLC
 ManomioLLC
 Manor Lords
 ManorLords
+Manorism
 Manquant
 Mans
 Mansion
@@ -59383,6 +59446,7 @@ MareDare
 Marechal
 Maret
 Margaux
+MarginCall
 Mari s Magical Deliveries
 Mari's Magical Deliveries
 Mari'sMagicalDeliveries
@@ -63246,10 +63310,12 @@ NEUTRESTRICTE
 NEVE
 NEVER ENDING BEYOND
 NEVER FORGET
+NEVER HAPPENED
 NEVER IMMORTAL
 NEVER STOP ROLLING
 NEVER TRUST A FOX
 NEVERAWAKE FLASHBACK
+NEVERHAPPENED
 NEVERLAND
 NEVERSOFT
 NEVERSOFT ENTERTAINMENT
@@ -68848,6 +68914,7 @@ PCStoreSimulator
 PDAMILL
 PDAMill
 PEACE INCARNATE
+PEACEFUL BUG CATCHING STORY
 PEACEFUL FARM
 PEACEQUARIUM
 PEACH
@@ -68921,6 +68988,7 @@ PENGI
 PENGI PENGI
 PENGINET
 PENGIPENGI
+PENGPONG
 PENGPONG: PROLOGUE
 PENGUIN
 PENGUIN ADVENTURE
@@ -69145,12 +69213,14 @@ PHANTOM NECRO
 PHANTOM OF THE LILY
 PHANTOM SPAWN
 PHANTOM SPAWN EGG
+PHANTOM TAG: MANIFEST
 PHANTOM THE HUNTRESS
 PHANTOM TOWER DEMO
 PHANTOMCOMPASS
 PHANTOMMEMBRANE
 PHANTOMSPAWN
 PHANTOMSPAWNEGG
+PHANTOMTAG:MANIFEST
 PHANTOM_MEMBRANE
 PHANTOM_SPAWN_EGG
 PHARAH
@@ -70546,6 +70616,7 @@ PROJECT MOTOR RACING: GROUP 5 REVIVAL PACK
 PROJECT MOTOR RACING: GTE DECADE PACK
 PROJECT MOTOR RACING: YEAR 1 SEASON PASS
 PROJECT N.E.K.O.
+PROJECT P.I.T.T.
 PROJECT REBEARTH
 PROJECT ROD3NT
 PROJECT SIGNAL
@@ -70900,6 +70971,7 @@ PUZZLES BOARS
 PUZZLES COLD WEAPONS
 PUZZLES DESERT
 PUZZLES DINO
+PUZZLES EVIL DOGS
 PUZZLES: FISH
 PUZZLES: SPACE CATS
 PUZZLESERIES
@@ -71627,7 +71699,9 @@ Payout-ShopSimulator
 Payroll
 Peace Incarnate
 PeaceIncarnate
+Peaceful Bug Catching Story
 Peaceful Farm
+PeacefulBugCatchingStory
 PeacefulFarm
 Peacequarium
 Peach
@@ -71704,6 +71778,7 @@ PenduloStudios
 Penelo
 Penelope Pendrick and the Art of Deceit
 PenelopePendrickandtheArtofDeceit
+PengPong
 PengPong: Prologue
 PengPong:Prologue
 Pengel
@@ -73639,6 +73714,7 @@ Project Motor Racing: GTE Decade Pack
 Project Motor Racing: Group 5 Revival Pack
 Project Motor Racing: Year 1 Season Pass
 Project N.E.K.O.
+Project P.I.T.T.
 Project Rebearth
 Project Rod3nt
 Project Signal
@@ -73699,6 +73775,7 @@ ProjectMotorRacing:GTEDecadePack
 ProjectMotorRacing:Group5RevivalPack
 ProjectMotorRacing:Year1SeasonPass
 ProjectN.E.K.O.
+ProjectP.I.T.T.
 ProjectRebearth
 ProjectRod3nt
 ProjectSignal
@@ -74062,6 +74139,7 @@ Puzzles Boars
 Puzzles Cold Weapons
 Puzzles Desert
 Puzzles Dino
+Puzzles Evil Dogs
 Puzzles: Fish
 Puzzles: Space Cats
 Puzzles:Fish
@@ -74070,6 +74148,7 @@ PuzzlesBoars
 PuzzlesColdWeapons
 PuzzlesDesert
 PuzzlesDino
+PuzzlesEvilDogs
 Pvt
 Pvt.Ltd
 PvtLtd
@@ -75159,6 +75238,7 @@ REBELLION2000AD
 REBELLIONPRINCESS｜リベリオンプリンセス
 REBELPLAY
 REBELS OF THE REALM DEMO
+REBIND
 REBIND DEMO
 REBIRTH FROM FLAME - SUPPORTER PACK
 REBIRTH OF LEGAL MANIAC 2
@@ -75339,6 +75419,7 @@ REFLEXIVE
 REFLEXIVE ENTERTAINEMENT
 REFLEXIVEENTERTAINEMENT
 REFLUX
+REFMUSEPAPER
 REFUGE
 REGAN
 REGAN REGAN
@@ -75786,6 +75867,7 @@ RINO MARKETING
 RINOMARKETING
 RINTH
 RIO
+RION'S TASKBAR MINE
 RIOT
 RIOT CONTROL SIMULATOR: ROOKIE DAY
 RIP CURRENT
@@ -76174,6 +76256,7 @@ ROLENTO SCHUGERG
 ROLENTOSCHUGERG
 ROLL A BLADE
 ROLL TO FREEDOM
+ROLL TO RUIN
 ROLLBOT
 ROLLBOUND
 ROLLCATS
@@ -77189,6 +77272,7 @@ Rebellion2000AD
 RebellionGODSOUL:Awakening
 Rebels of the Realm Demo
 RebelsoftheRealmDemo
+Rebind
 Rebind Demo
 RebindDemo
 Rebirth from Flame   Supporter Pack
@@ -77407,6 +77491,7 @@ Reflexive
 Reflexive Entertainement
 ReflexiveEntertainement
 Reflux
+RefmusePaper
 Refuge
 Regan
 Regan Regan
@@ -77931,6 +78016,9 @@ Rino Marketing
 RinoMarketing
 Rinth
 Rio
+Rion s Taskbar Mine
+Rion's Taskbar Mine
+Rion'sTaskbarMine
 Riot
 Riot Control Simulator: Rookie Day
 RiotControlSimulator:RookieDay
@@ -78422,6 +78510,7 @@ Rolento Schugerg
 RolentoSchugerg
 Roll A Blade
 Roll To Freedom
+Roll to Ruin
 RollABlade
 RollBot
 RollCats
@@ -78449,6 +78538,7 @@ RollingRumble
 RollingStarSoundtrack
 RollingThunder
 RollingThunder2
+RolltoRuin
 Rolo
 Rolo to the Rescue
 Rolocule
@@ -80268,6 +80358,7 @@ SHANTAE
 SHANTYTOWN
 SHAO
 SHAO KAHN
+SHAO SONG I
 SHAOKAHN
 SHAPE
 SHAPE GAMES
@@ -81961,6 +82052,7 @@ SPACE SHUTTLE
 SPACE SIM TYCOON
 SPACE SOCCER SHOWDOWN
 SPACE STORM
+SPACE TALES
 SPACE TRENCH
 SPACE WAR ECONOMY IDLE
 SPACE WARS
@@ -82184,6 +82276,7 @@ SPIRIT TALK - COZY VISUAL NOVEL
 SPIRIT WHISPERER CONVERSATION WITH AKARI
 SPIRIT'S SHADOW MAZE: THE PATH OF POSSESSION 灵影迷宫：附身之途
 SPIRIT-SEALING TOME
+SPIRITED LINE
 SPIRITUAL BOND ～BREAKING THE CURSE, INTERTWINING FATES～
 SPIRITUEL
 SPIRITUS VINDICTA
@@ -82767,6 +82860,7 @@ STIGMA: THE SALEM LEGACY
 STIGMA: The Salem Legacy
 STIGMA:TheSalemLegacy
 STILL HERE
+STILL IN THE FOG
 STILL IT RUNS
 STILL LIFE INSIDE
 STILL SPACE
@@ -83128,6 +83222,7 @@ SUDOKU ACRES
 SUDOKU DREAMS
 SUDOKU DUNGEON
 SUDOKU HAVEN
+SUDOKU MANSION
 SUDOKU ONLINE WITH FRIENDS
 SUDOKU: UNLIMITED EXPANSION
 SUDOKUGO
@@ -85314,7 +85409,9 @@ Shantae
 ShantyTown
 Shao
 Shao Kahn
+Shao Song I
 ShaoKahn
+ShaoSongI
 Shape
 Shape Games
 Shape Sweeper
@@ -87315,6 +87412,7 @@ Space Sex Lab 🚀
 Space Shuttle
 Space Sim Tycoon
 Space Soccer Showdown
+Space Tales
 Space Trench
 Space War Economy Idle
 Space Wars
@@ -87376,6 +87474,7 @@ SpaceShuttle
 SpaceSimTycoon
 SpaceSoccerShowdown
 SpaceSteps
+SpaceTales
 SpaceTrench
 SpaceVenture
 SpaceWarEconomyIdle
@@ -87639,6 +87738,8 @@ SpiritMagician
 SpiritRoute
 SpiritTalk-CozyVisualNovel
 SpiritWhispererConversationWithAkari
+Spirited Line
+SpiritedLine
 SpiritoftheDome
 SpiritoftheNorth
 SpiritoftheNorth2
@@ -88317,6 +88418,7 @@ Still Life Inside
 Still Space
 Still Wakes the Deep: Siren's Rest
 Still Wakes the Deep: Siren’s Rest
+Still in the Fog
 Still, I am.
 Still,Iam.
 StillHere
@@ -88324,6 +88426,7 @@ StillItRuns
 StillLifeInside
 StillSpace
 StillWakestheDeep:Siren’sRest
+StillintheFog
 Sting
 StingerEP1
 Stitchlings
@@ -88811,6 +88914,7 @@ Sudoku Acres
 Sudoku Dreams
 Sudoku Dungeon
 Sudoku Haven
+Sudoku Mansion
 Sudoku online with friends
 Sudoku: Unlimited Expansion
 Sudoku:UnlimitedExpansion
@@ -88819,6 +88923,7 @@ SudokuDreams
 SudokuDungeon
 SudokuGo
 SudokuHaven
+SudokuMansion
 Sudokuonlinewithfriends
 Suez Canal Training Simulator Demo
 SuezCanalTrainingSimulatorDemo
@@ -91562,6 +91667,7 @@ THE WAKE (DEMO)
 THE WALKING DEAD
 THE WALKING DEAD: THE TELLTALE DEFINITIVE SERIES
 THE WALKING TRADE
+THE WALKS WE USED TO TAKE
 THE WANDERING VILLAGE
 THE WAR MACHINE
 THE WARP
@@ -92127,6 +92233,7 @@ TIKI TONG
 TIKIMON
 TIKIPILOTE
 TIKITONG
+TILE & TINY
 TILE TIDES
 TILED TOWER
 TILEGUESSER
@@ -92423,6 +92530,7 @@ TOM GOLDBERG
 TOM SNYDER
 TOM ZANOVICH
 TOMAHAWK
+TOMATO DEALER
 TOMB
 TOMB OF CHACAL
 TOMB RAIDER
@@ -95386,6 +95494,7 @@ The Wake  Demo
 The Wake (Demo)
 The Walking Dead: The Telltale Definitive Series
 The Walking Trade
+The Walks We Used To Take
 The Wandering Village
 The War Machine
 The Warp
@@ -96290,6 +96399,7 @@ TheWackytownGame
 TheWake(Demo)
 TheWalkingDead:TheTelltaleDefinitiveSeries
 TheWalkingTrade
+TheWalksWeUsedToTake
 TheWanderingVillage
 TheWarMachine
 TheWarp
@@ -96719,7 +96829,10 @@ Tiki Tong
 TikiPilote
 TikiTong
 Tikimon
+Tile   Tiny
+Tile & Tiny
 Tile Tides
+Tile&Tiny
 TileGuesser
 TileTides
 Tiled Tower
@@ -97120,6 +97233,8 @@ TomGoldberg
 TomSnyder
 TomZanovich
 Tomahawk
+Tomato Dealer
+TomatoDealer
 Tomb
 Tomb Raider
 Tomb Raider Anniversary
@@ -99957,6 +100072,7 @@ VISTEC
 VISUAL
 VISUAL CONCEPTS
 VISUAL IMPACT
+VISUAL NOVEL TRANSFORMER
 VISUAL NOVEL: CALL OF TOILET
 VISUAL NOVEL: DASHING 90S
 VISUAL SCIENCES
@@ -100887,12 +101003,14 @@ Vistec
 Visual
 Visual Concepts
 Visual Impact
+Visual Novel Transformer
 Visual Novel: Call of Toilet
 Visual Sciences
 Visual novel: Dashing 90s
 VisualConcepts
 VisualImpact
 VisualNovel:CallofToilet
+VisualNovelTransformer
 VisualSciences
 Visualnovel:Dashing90s
 Vita
@@ -102014,6 +102132,7 @@ WITH CHILE IN MY BONES
 WITH EYES CLOSED - SEASON 2
 WITH IT WE LEAVE
 WITH MY LITTLE EYE
+WITH THE DEVILISH HER…
 WITH YOU FORGOTTEN FROM MY MEMORY
 WITH YOU: OUR HEARTFELT JOURNEY
 WITH ZETA KUN
@@ -103564,6 +103683,8 @@ With Eyes Closed - Season 2
 With It We Leave
 With My Little Eye
 With You: Our Heartfelt Journey
+With the Devilish Her...
+With the Devilish Her…
 With you forgotten from my memory
 WithChileinmyBones
 WithEyesClosed-Season2
@@ -103599,6 +103720,7 @@ WithoutADoubt
 WithoutRegret
 WithoutSanctuary
 WithoutaDawn
+WiththeDevilishHer…
 Withyouforgottenfrommymemory
 Witness To Mass Incarceration
 WitnessToMassIncarceration
@@ -106796,6 +106918,7 @@ algueséchée
 alice
 alice and the devil's prison
 alice in disguise
+alice in wonderland: the crown of wishes
 alice's world
 alien
 alien 8
@@ -106978,6 +107101,7 @@ altron
 altron corporation
 altroncorporation
 altruistic
+aluminium city
 alundra
 alvaro
 alvaro d'alvade
@@ -107795,6 +107919,7 @@ armorproject
 armorstand
 armout
 arms
+arms dealer
 arms of god soundtrack
 arms:
 armure
@@ -108650,6 +108775,7 @@ backyard baseball '01
 backyard basketball '01
 backyard digger
 backyard hockey '02
+backyard paintball
 backyard sports
 backyardsports
 back：fade
@@ -109396,6 +109522,7 @@ beercrush
 beeshu
 beespawn
 beespawnegg
+beetle sumo
 beetroot
 beetroot seeds
 beetroot soup
@@ -112994,6 +113121,7 @@ clichã©
 cliché horror 2000s: the witch’s lair
 cliché quest
 click
+click & curate: idle photography
 click and conquer
 click cluck
 click the shape
@@ -113368,6 +113496,7 @@ command&conquer
 command&conquer:redalert
 command&conquerredalert
 command-ω omega
+command-ω omega 2
 command.override
 commandand
 commandandconquer
@@ -113775,6 +113904,7 @@ cosmopolice
 cosmopolicegalivan
 cosmos
 cosmos interactive
+cosmos vr
 cosmosinteractive
 cosmotheseedrian
 cosmotiles
@@ -115314,6 +115444,7 @@ deck of mandate demo
 deck of treads
 deck-a-doodle solitaire
 deck13
+deckalypse
 deckard
 deckard cain
 deckardcain
@@ -115662,6 +115793,7 @@ desktank
 desktop ant farm simulator
 desktop companion
 desktop defender
+desktop detective
 desktop dice
 desktop dog park
 desktop engine
@@ -118196,6 +118328,7 @@ endless mind
 endless racing
 endless signal
 endless snake
+endless space™ 2
 endless tiles
 endless waves survival
 endless wonder vr
@@ -120661,6 +120794,7 @@ fureurdeloupfureurdeloup
 furi
 furious kitchen
 furnace
+furniture fu
 furniture toss
 furo
 furry adventure 2
@@ -121437,6 +121571,7 @@ ghirahim
 ghlobot galaxy
 ghom
 ghost
+ghost buster:village
 ghost code: escape
 ghost exorcist
 ghost games
@@ -122357,6 +122492,7 @@ grim dawn - fangs of asterkarn
 grim fandango
 grim pastures: outlaws
 grim tales: prisoners of the past collector's edition
+grim trials
 grim-chan's soul fight
 grimdark survivors
 grime&gold
@@ -123276,6 +123412,7 @@ heartbeat
 heartbeat in thailand
 heartcore descent
 hearth & shadow
+hearth and hamlet
 heartilly
 heartof
 heartofthe
@@ -124096,6 +124233,7 @@ hope harrison
 hope: a potato story
 hopecougars
 hopeestheim
+hopeless days
 hopeless sea
 hoplite
 hoplite research
@@ -127788,6 +127926,7 @@ labyrinth's depths
 labyrinthesis
 labyrinthine
 labyrinthine dread
+labyrinthos: the depths want you
 lacey
 lacey jonas
 laceyjonas
@@ -129321,6 +129460,7 @@ los iluminados
 loser got isekai’d – sex, side jobs, and odd tasks
 loser named hana
 losiluminados
+loss limit
 lossless scaling
 lost
 lost : taboo forest
@@ -130203,6 +130343,7 @@ manomio
 manomio llc
 manomiollc
 manor lords
+manorism
 manquant
 mans
 mansion
@@ -130263,6 +130404,7 @@ marechal
 maredare
 maret
 margaux
+margincall
 mari's magical deliveries
 maria
 maria robotnik
@@ -133525,6 +133667,7 @@ neutrestricte
 neve
 never ending beyond
 never forget
+never happened
 never immortal
 never stop rolling
 never trust a fox
@@ -136132,6 +136275,7 @@ pckid
 pcmsdos
 pdamill
 peace incarnate
+peaceful bug catching story
 peaceful farm
 peacequarium
 peach
@@ -136205,6 +136349,7 @@ pengi
 pengi pengi
 penginet
 pengipengi
+pengpong
 pengpong: prologue
 penguin
 penguin adventure
@@ -136417,6 +136562,7 @@ phantom necro
 phantom of the lily
 phantom spawn
 phantom spawn egg
+phantom tag: manifest
 phantom the huntress
 phantom tower demo
 phantom_membrane
@@ -137833,6 +137979,7 @@ project motor racing: group 5 revival pack
 project motor racing: gte decade pack
 project motor racing: year 1 season pass
 project n.e.k.o.
+project p.i.t.t.
 project rebearth
 project rod3nt
 project signal
@@ -138167,6 +138314,7 @@ puzzles boars
 puzzles cold weapons
 puzzles desert
 puzzles dino
+puzzles evil dogs
 puzzles: fish
 puzzles: space cats
 puzzleseries
@@ -138941,6 +139089,7 @@ rebellion2000
 rebellion2000ad
 rebelplay
 rebels of the realm demo
+rebind
 rebind demo
 rebirth from flame - supporter pack
 rebirth of legal maniac 2
@@ -139116,6 +139265,7 @@ reflexive
 reflexive entertainement
 reflexiveentertainement
 reflux
+refmusepaper
 refuge
 regan
 regan regan
@@ -139538,6 +139688,7 @@ rino marketing
 rinomarketing
 rinth
 rio
+rion's taskbar mine
 riot
 riot control simulator: rookie day
 rip current
@@ -139917,6 +140068,7 @@ rolento schugerg
 rolentoschugerg
 roll a blade
 roll to freedom
+roll to ruin
 rollbot
 rollbound
 rollcats
@@ -141525,6 +141677,7 @@ shantae
 shantytown
 shao
 shao kahn
+shao song i
 shaokahn
 shape
 shape games
@@ -143156,6 +143309,7 @@ space shuttle
 space sim tycoon
 space soccer showdown
 space storm
+space tales
 space trench
 space war economy idle
 space wars
@@ -143372,6 +143526,7 @@ spirit talk - cozy visual novel
 spirit whisperer conversation with akari
 spirit's shadow maze: the path of possession 灵影迷宫：附身之途
 spirit-sealing tome
+spirited line
 spiritual bond ～breaking the curse, intertwining fates～
 spirituel
 spiritus vindicta
@@ -143908,6 +144063,7 @@ sticky fingers
 stiff neck
 stigma: the salem legacy
 still here
+still in the fog
 still it runs
 still life inside
 still space
@@ -144265,6 +144421,7 @@ sudoku acres
 sudoku dreams
 sudoku dungeon
 sudoku haven
+sudoku mansion
 sudoku online with friends
 sudoku: unlimited expansion
 sudokugo
@@ -146719,6 +146876,7 @@ the wake (demo)
 the walking dead
 the walking dead: the telltale definitive series
 the walking trade
+the walks we used to take
 the wandering village
 the war machine
 the warp
@@ -147266,6 +147424,7 @@ tiki tong
 tikimon
 tikipilote
 tikitong
+tile & tiny
 tile tides
 tiled tower
 tileguesser
@@ -147557,6 +147716,7 @@ tom goldberg
 tom snyder
 tom zanovich
 tomahawk
+tomato dealer
 tomb
 tomb of chacal
 tomb raider
@@ -149581,6 +149741,7 @@ vistec
 visual
 visual concepts
 visual impact
+visual novel transformer
 visual novel: call of toilet
 visual novel: dashing 90s
 visual sciences
@@ -150666,6 +150827,7 @@ with chile in my bones
 with eyes closed - season 2
 with it we leave
 with my little eye
+with the devilish her…
 with you forgotten from my memory
 with you: our heartfelt journey
 with zeta kun
@@ -152563,6 +152725,7 @@ zèbre
 时漏界限-edge- demo
 时漏界限-edge-Demo
 星夜往事录：彩蜃
+星天へ発つ日
 星宇战舰 ASTRAL-BATTLECRAFT
 星宇战舰 Astral Battlecraft
 星宇战舰 Astral-Battlecraft
