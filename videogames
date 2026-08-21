@@ -1610,6 +1610,7 @@
 ??:???? Oriental Dreams : The Forgotten Realm
 ??:???? The Sage's Spirit: Shining Flame Demo
 ??:????,????
+??:?????
 ??:Terreno di caccia
 ???
 ???   ?????????
@@ -4300,6 +4301,7 @@ ARTIFICIALMIND+
 ARTIFICIALMIND+MOVEMENT
 ARTIFICIALMINDAND
 ARTIFICIALMINDANDMOVEMENT
+ARTIFICIALOVERTHROW
 ARTIFICIALSTUDIOS
 ARTIS IMPACT
 ARTISAN
@@ -7193,6 +7195,7 @@ ArtificialMind+
 ArtificialMind+Movement
 ArtificialMindand
 ArtificialMindandMovement
+ArtificialOverthrow
 ArtificialStudios
 Artis Impact
 ArtisImpact
@@ -8127,6 +8130,7 @@ BAIT   TACKLE STORE SIMULATOR
 BAIT & TACKLE
 BAIT & TACKLE STORE SIMULATOR
 BAIT&TACKLESTORESIMULATOR
+BAITO FIGHT!!: PART-TIME DEVIL HUNTER
 BAJKA
 BAJOUE
 BAKAHAZARD 3
@@ -10445,6 +10449,9 @@ BRIDGE
 BRIDGE RACE: BUSY DLC
 BRIDGE RACE: SPOOKY DLC
 BRIEFCASE
+BRIGADOR KILLERS
+BRIGADOR KILLERS SOUNDTRACK
+BRIGADOR KILLERS: PILGRIM AUDIOBOOK
 BRIGGS
 BRIGHT
 BRIGHT IDEAS
@@ -11082,6 +11089,9 @@ BaineSabotdesang
 Bait   Tackle
 Bait & Tackle
 Bait&Tackle
+Baito Fight!!: Part time Devil Hunter
+Baito Fight!!: Part-time Devil Hunter
+BaitoFight!!:Part-timeDevilHunter
 Bajka
 Bajoue
 Bakahazard 3
@@ -13729,6 +13739,12 @@ Bridge Race: Spooky DLC
 BridgeRace:BusyDLC
 BridgeRace:SpookyDLC
 Briefcase
+Brigador Killers
+Brigador Killers Soundtrack
+Brigador Killers: Pilgrim Audiobook
+BrigadorKillers
+BrigadorKillers:PilgrimAudiobook
+BrigadorKillersSoundtrack
 Briggs
 Bright
 Bright Ideas
@@ -14570,6 +14586,7 @@ CAPITAINEWHISKER
 CAPITAINEWHITING
 CAPIVARA CLICKER
 CAPIVARA ZEN
+CAPOTE
 CAPPENOIS
 CAPPENOIS CAPPENOIS
 CAPPENOISCAPPENOIS
@@ -14868,6 +14885,7 @@ CAT MEOW-TILATION
 CAT PRESIDENT: 3RD-RATE CANDIDATE
 CAT PUZZLE
 CAT RESCUE INC
+CAT RHAPSODY
 CAT SCREEN
 CAT SIMULATOR: MEOW
 CAT SPAWN
@@ -14877,6 +14895,7 @@ CAT SYNDICATE: ISTANBUL
 CAT WATCH
 CAT'S SHOWDOWN
 CATABOUM
+CATACLISMO
 CATACLYSMIC BITE
 CATACOUACS
 CATALANO
@@ -16856,6 +16875,7 @@ COZY HOME
 COZY ISLAND
 COZY JIGSAW PUZZLES
 COZY JOZY
+COZY MARBLES
 COZY MINING
 COZY ORGANIZER
 COZY PAINTINGS
@@ -17952,6 +17972,7 @@ Capivara Clicker
 Capivara Zen
 CapivaraClicker
 CapivaraZen
+Capote
 Cappenois
 Cappenois Cappenois
 CappenoisCappenois
@@ -18358,6 +18379,7 @@ Cat President: 3rd Rate Candidate
 Cat President: 3rd-Rate Candidate
 Cat Puzzle
 Cat Rescue Inc
+Cat Rhapsody
 Cat Screen
 Cat Simulator: Meow
 Cat Spawn
@@ -18394,6 +18416,7 @@ CatMeow-tilation
 CatPresident:3rd-RateCandidate
 CatPuzzle
 CatRescueInc
+CatRhapsody
 CatScreen
 CatSimulator:Meow
 CatSpawn
@@ -18403,6 +18426,7 @@ CatSyndicate:Istanbul
 CatToySimulator
 CatWatch
 Cataboum
+Cataclismo
 Cataclysmic Bite
 CataclysmicBite
 Catacouacs
@@ -20697,6 +20721,7 @@ Cozy Home
 Cozy Island
 Cozy Jigsaw Puzzles
 Cozy Jozy
+Cozy Marbles
 Cozy Mining
 Cozy Organizer
 Cozy Paintings
@@ -20714,6 +20739,7 @@ CozyHome
 CozyIsland
 CozyJigsawPuzzles
 CozyJozy
+CozyMarbles
 CozyMining
 CozyOrganizer
 CozyPaintings
@@ -22147,11 +22173,13 @@ DAWN BREAK
 DAWN OF
 DAWN OF CORRUPTION
 DAWN OF PLAY
+DAWN ONE
 DAWN SANATORIUM
 DAWN VILLAGE
 DAWNHOLD
 DAWNOF
 DAWNOFPLAY
+DAWNONE
 DAWSON
 DAXOLOTL
 DAXTER
@@ -23273,6 +23301,7 @@ DIRTZONE
 DISARRAY
 DISASTER ARMS - IMPACT PROJECT B.A.H.N.
 DISC
+DISC DUNGEON
 DISC GOLF
 DISC GOLF CITY
 DISCARD ALL HOPE - DEMO
@@ -24216,6 +24245,7 @@ DROWNED SPAWN EGG
 DROWNEDSPAWN
 DROWNEDSPAWNEGG
 DROWNED_SPAWN_EGG
+DRPDRV
 DRSTEWART
 DRUAGA
 DRUG EMPIRE
@@ -26432,8 +26462,10 @@ Disaster Arms   Impact Project B.A.H.N.
 Disaster Arms - Impact Project B.A.H.N.
 DisasterArms-ImpactProjectB.A.H.N.
 Disc
+Disc Dungeon
 Disc Golf
 Disc Golf City
+DiscDungeon
 DiscGolf
 DiscGolfCity
 Discard All Hope   Demo
@@ -27562,6 +27594,7 @@ Drowned Spawn Egg
 DrownedSpawn
 DrownedSpawnEgg
 DrowntheBride
+DrpDrv
 Druaga
 Drug Empire
 DrugEmpire
@@ -28093,6 +28126,7 @@ EARTH DEFENSE
 EARTH DEFENSE FORCE
 EARTH FORGE
 EARTH MUST DIE
+EARTH SIMULATOR
 EARTH VS MARS
 EARTHBOUND
 EARTHDEFENSE
@@ -28990,6 +29024,7 @@ ENTERTAINMENT SIMULATOR
 ENTERTAINMENTINT
 ENTEX
 ENTHAUR : LOST IN SLUMBER
+ENTITY RESEARCH GROUP
 ENTITY: THE BLACK DAY
 ENTITY:THEBLACKDAY
 ENTONNOIR
@@ -29625,11 +29660,13 @@ Earth Defense
 Earth Defense Force
 Earth Forge
 Earth Must Die
+Earth Simulator
 Earth vs Mars
 EarthDefense
 EarthDefenseForce
 EarthForge
 EarthMustDie
+EarthSimulator
 Earthbound
 Earthly
 Earthly Soft
@@ -30562,6 +30599,8 @@ EntertheGungeon
 Entex
 Enthaur : Lost in Slumber
 Enthaur:LostinSlumber
+Entity Research Group
+EntityResearchGroup
 Entraineur
 EntraineurL
 Entraineuse
@@ -32902,6 +32941,7 @@ FRIEDGREENAPPS
 FRIEDLANDER
 FRIEND OF A SLIME
 FRIENDS
+FRIENDS BEFORE ENEMIES
 FRIENDSMOB
 FRIES DRIVE
 FRIGA
@@ -35245,6 +35285,8 @@ Friedlander
 Friend of a Slime
 FriendofaSlime
 Friends
+Friends Before Enemies
+FriendsBeforeEnemies
 Friendsmob
 Fries Drive
 FriesDrive
@@ -35868,6 +35910,7 @@ GALENTHDYSLEY
 GALIVAN
 GALLERY
 GALLIOUS
+GALLIPOLI
 GALLOP
 GALLOP RACER
 GALLOPRACER
@@ -37871,6 +37914,7 @@ GalenthDysley
 Galivan
 Gallery
 Gallious
+Gallipoli
 Gallop
 Gallop Racer
 GallopRacer
@@ -40321,6 +40365,7 @@ HARUMIKIMIHARA
 HARVEST
 HARVEST CAFE
 HARVEST CAFE : PROLOGUE
+HARVEST HAND
 HARVEST HOLLOW DEMO
 HARVEST LOOP
 HARVEST MOON
@@ -40713,6 +40758,7 @@ HENTAI ELF ELARIA
 HENTAI FLESH
 HENTAI FURRY BUNNY
 HENTAI FURRY COW
+HENTAI FURRY DRAGONY
 HENTAI FURRY FOXY
 HENTAI FURRY PIG
 HENTAI FURRY PONY
@@ -41368,6 +41414,7 @@ HOOKSTONE
 HOOKSTONE PRODUCTIONS
 HOOKSTONEPRODUCTIONS
 HOOLIGANS
+HOOP EMPIRE
 HOOPSTER
 HOP CO OP
 HOP DROP
@@ -41552,6 +41599,8 @@ HOW SHALL WE DIE
 HOW SMART ARE YOU? IQ TEST
 HOW TO CREATE A WITCH
 HOW TO DESTROY A CITY DEMO
+HOW TO FISH
+HOW TO KILL A FLY [ H2KAF ]
 HOW TO LOSE ONE'S VIRGINITY DEMO
 HOW TO MAKE AN ATOMIC BOMB IN YOUR GARDEN
 HOW TO TRAIN YOUR BRO'S GIRLFRIEND
@@ -41568,6 +41617,7 @@ HSU HAO
 HSUHAO
 HU MAJIANG
 HU-CARD
+HUA MANLOU
 HUANGGUOSHU WATERFALL IN GUIZHOU
 HUCARD
 HUCAST
@@ -41705,6 +41755,7 @@ HYPER CHESS
 HYPER DEVBOX
 HYPER HITMANS
 HYPER OLYMPICS
+HYPER PRIMATE
 HYPER PROFIT PETS
 HYPER SPORTS
 HYPER TEAM RECON
@@ -41729,6 +41780,7 @@ HYPERIAL SOFTWARE
 HYPERIALSOFTWARE
 HYPERINFLATION DUNGEON
 HYPEROLYMPICS
+HYPERPRIMATE
 HYPERSPACE
 HYPERSPACE COWGIRLS
 HYPERSPACECOWGIRLS
@@ -42158,6 +42210,7 @@ HarumiKimihara
 Harvest
 Harvest Cafe
 Harvest Cafe : Prologue
+Harvest Hand
 Harvest Hollow Demo
 Harvest Loop
 Harvest Moon
@@ -42166,6 +42219,7 @@ Harvest Moon®: Home Sweet Home Special Edition
 Harvest Reaper
 HarvestCafe
 HarvestCafe:Prologue
+HarvestHand
 HarvestHollowDemo
 HarvestLoop
 HarvestMoon
@@ -42638,6 +42692,7 @@ Hentai Elf Elaria
 Hentai Flesh
 Hentai Furry Bunny
 Hentai Furry Cow
+Hentai Furry Dragony
 Hentai Furry Foxy
 Hentai Furry Pig
 Hentai Furry Pony
@@ -42803,6 +42858,7 @@ HentaiElfElaria
 HentaiFlesh
 HentaiFurryBunny
 HentaiFurryCow
+HentaiFurryDragony
 HentaiFurryFoxy
 HentaiFurryPig
 HentaiFurryPony
@@ -43558,6 +43614,8 @@ Hookstone
 Hookstone Productions
 HookstoneProductions
 Hooligans
+Hoop Empire
+HoopEmpire
 Hoopster
 Hop Drop
 Hop n  Hook
@@ -43794,6 +43852,7 @@ How Shall We Die
 How Smart Are You? IQ Test
 How To Destroy A City Demo
 How Your Package Gets Delivered
+How to Fish
 How to Make an Atomic Bomb in Your Garden
 How to Train Your Bro s Girlfriend
 How to Train Your Bro's Girlfriend
@@ -43812,6 +43871,7 @@ HowToDestroyACityDemo
 HowYourPackageGetsDelivered
 Howard
 HowlKraul
+HowtoFish
 HowtoMakeanAtomicBombinYourGarden
 HowtoTrainYourBro'sGirlfriend
 Howtocreateawitch
@@ -43827,6 +43887,8 @@ Hu Majiang
 Hu-Card
 HuCard
 HuMajiang
+Hua Manlou
+HuaManlou
 Huangguoshu Waterfall in Guizhou
 HuangguoshuWaterfallinGuizhou
 Hudson
@@ -44216,6 +44278,8 @@ I.D.P
 I3
 I3 I3
 I3I3
+IAH: INTERNET WAR
+IAH:INTERNETWAR
 IAIDOKA_INTERLUDE
 IAMMETEOR
 IAMTHEDAO
@@ -48548,6 +48612,7 @@ KAROUS
 KART
 KART ATTACK
 KART RACING STRIKE
+KART RACING STRIKE DEMO
 KARTFINITY
 KARTING4FUN
 KARTING4FUN DEMO
@@ -49341,6 +49406,10 @@ KOTAL
 KOTAL KAHN
 KOTALKAHN
 KOTAMA AND ACADEMY CITADEL
+KOTAMON: MY SIS FOUND A SUPER-RARE CARD IN HER CEREAL BOX, SO I BECAME A GARBAGE MAN TO FIND THE ENTIRE COLLECTION AND EARN $1,000,000
+KOTAMON: My Sis Found A Super Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000
+KOTAMON: My Sis Found A Super-Rare Card In Her Cereal Box, So I Became A Garbage Man To Find The Entire Collection And Earn $1,000,000
+KOTAMON:MySisFoundASuper-RareCardInHerCerealBox,SoIBecameAGarbageManToFindTheEntireCollectionAndEarn$1,000,000
 KOTARO SURVIVOR
 KOTARO Survivor
 KOTAROSurvivor
@@ -49773,8 +49842,10 @@ Karous
 Kart
 Kart Attack
 Kart Racing Strike
+Kart Racing Strike Demo
 KartAttack
 KartRacingStrike
+KartRacingStrikeDemo
 Kartfinity
 Karting4Fun
 Karting4Fun Demo
@@ -52458,6 +52529,7 @@ LLOYD THE MONKEY: REMASTERED
 LLOYD WEBSTER
 LLOYDWEBSTER
 LO-FI GIRL: AI ASSISTANT 🎧🤍
+LO-FI LAUNDROMAT
 LOAFING TOWN
 LOAFING TOWN SUPPORTER PACK
 LOBO
@@ -52479,6 +52551,7 @@ LOCKDOWNProtocol
 LOCKE
 LOCKE COLE
 LOCKECOLE
+LOCKED AND WAGERED: A GIRLFRIEND AT STAKE
 LOCKED IN FOR THE WIN
 LOCKED IN MY DARKNESS 2: THE ROOM
 LOCKER
@@ -54640,9 +54713,12 @@ Lloyd the Monkey: Remastered
 LloydWebster
 LloydtheMonkey:Remastered
 Lo Fi Girl: AI Assistant 🎧🤍
+Lo Fi Laundromat
 Lo-Fi Girl: AI Assistant ?<3
 Lo-Fi Girl: AI Assistant 🎧🤍
+Lo-Fi Laundromat
 Lo-FiGirl:AIAssistant🎧🤍
+Lo-FiLaundromat
 Loafing Town
 Loafing Town Supporter Pack
 LoafingTown
@@ -54667,8 +54743,10 @@ Locke
 Locke Cole
 LockeCole
 Locked In For The Win
+Locked and Wagered: A Girlfriend at Stake
 Locked in my Darkness 2: The Room
 LockedInForTheWin
+LockedandWagered:AGirlfriendatStake
 LockedinmyDarkness2:TheRoom
 Locker
 Lockhart
@@ -56552,6 +56630,7 @@ MEDICUS
 MEDIENWERKST
 MEDIEVAL CRAFTER: BLACKSMITH
 MEDIEVAL DYNASTY
+MEDIEVAL FANTASY BLACKSMITH SHOP
 MEDIEVAL HORSE DEALER SIMULATOR DEMO
 MEDIEVAL MACHINES BUILDER
 MEDIEVAL STARTUP
@@ -57644,6 +57723,7 @@ MITKIN&
 MITKIN&PETROV
 MITKIN&PETROVPRODUCTIONS
 MITNAL
+MITOBIT
 MITSUHISA
 MITSUHISA KABURAGI
 MITSUHISAKABURAGI
@@ -60074,11 +60154,13 @@ Medicus
 Medienwerkst
 Medieval Crafter: Blacksmith
 Medieval Dynasty
+Medieval Fantasy Blacksmith Shop
 Medieval Horse Dealer Simulator Demo
 Medieval Machines Builder
 Medieval StartUp
 MedievalCrafter:Blacksmith
 MedievalDynasty
+MedievalFantasyBlacksmithShop
 MedievalHorseDealerSimulatorDemo
 MedievalMachinesBuilder
 MedievalStartUp
@@ -61299,6 +61381,7 @@ Mitkin & Petrov Productions
 Mitkin&
 Mitkin&Petrov
 Mitkin&PetrovProductions
+Mitobit
 Mitsuhisa
 Mitsuhisa Kaburagi
 MitsuhisaKaburagi
@@ -69486,6 +69569,7 @@ PILPOILJR
 PILPOILJR.
 PIMPALOT
 PIN MONEY
+PINATA SMASH: INCREMENTAL CIRCUS DEMO
 PINBALL
 PINBALL BOUNCE 2D
 PINBALL DREAM
@@ -72334,6 +72418,8 @@ Pin Money
 PinMoney
 PinRogue
 Pinata Go Boom
+Pinata Smash: Incremental Circus Demo
+PinataSmash:IncrementalCircusDemo
 Pinball
 Pinball Bounce 2d
 Pinball Dream
@@ -76358,6 +76444,7 @@ ROOM TO BREATHE
 ROOM TO BREATHE DEMO
 ROOM4
 ROOM4GAMES
+ROOMBALLS
 ROOMBATTLE
 ROOMFOOTBALL-SandStorm
 ROOMFOOTBALL-Shipyard
@@ -78619,6 +78706,7 @@ Room601
 RoomEscape:Mark'sRoom
 RoomForOne!
 RoomRules
+Roomballs
 Roombattle
 Roommate Lover: Love in Progress
 RoommateLover:LoveinProgress
@@ -80798,6 +80886,7 @@ SILASCOBB
 SILENCE FOREST
 SILENCY: CUBE 666
 SILENT
+SILENT BREATH
 SILENT CASTLE
 SILENT CLEANING
 SILENT CORE NIGHT – HOLIDAY EDITION
@@ -80835,6 +80924,7 @@ SILENT SNOW
 SILENT SOFTWARE
 SILENT STAY
 SILENT WATCHER
+SILENTBREATH
 SILENTGROVE
 SILENTGROVESTUDIOS
 SILENTHILL
@@ -83126,6 +83216,7 @@ STUDIOZERO
 STUDY TIME ANOMALY
 STUDYX - SAVE GAME CODES & STUDY ANY SUBJECT
 STUFF
+STUFF IT!
 STUKOV
 STUKOV ALEXEI
 STUKOVALEXEI
@@ -88785,6 +88876,8 @@ StudyX - Save Game Codes   Study Any Subject
 StudyX - Save Game Codes & Study Any Subject
 StudyX-SaveGameCodes&StudyAnySubject
 Stuff
+Stuff It!
+StuffIt!
 Stukov
 Stukov Alexei
 StukovAlexei
@@ -90745,6 +90838,7 @@ THE
 THE 109TH HERO
 THE 1500 YEAR OLD FOREST ELF AND MY ANTI-MATERIEL SNIPER RIFLE
 THE 27TH DIMENSION
+THE 3310 PARADOX
 THE 5'6" GAME
 THE 5TH DOOR
 THE 7TH GUEST
@@ -91249,6 +91343,7 @@ THE LAST NINJA COLLECTION + BONUS GAMES
 THE LAST NORDIC TRIBE
 THE LAST OF US
 THE LAST OF US™ PART II REMASTERED
+THE LAST PORTAL
 THE LAST PURGE
 THE LAST REUNION
 THE LAST SALVAGE SQUAD
@@ -92061,6 +92156,7 @@ THOUGHT
 THOUSAND
 THOUSAND FLOORS
 THOUSAND N' THOUSAND: MIMICO
+THOUSANDS OF HEROES
 THQ
 THQ NORDIC
 THQ Nordic
@@ -92105,6 +92201,7 @@ THRONE AND LIBERTY ENTRANCED CELEBRATION PACK: SILVER
 THRONE AND LIBERTY – TALANDRE CELEBRATION PACK: GOLD
 THRONE AND LIBERTY – Talandre Celebration Pack: Gold
 THRONE OF CAPITAL
+THRONE OF CARDS
 THRONE OF DESIRE
 THRONE OF HEARTS: RISE FROM THE NIGHTMARE
 THRONEANDLIBERTY–TalandreCelebrationPack:Gold
@@ -93458,6 +93555,7 @@ TWILIGHT PARADE: MOONLIT MONONOKE
 TWILIGHT SYNDICATE
 TWILIGHT TAILS
 TWIN
+TWIN BALLS JOURNEY
 TWIN TILE
 TWIN TRIALS
 TWINBEE
@@ -94557,6 +94655,7 @@ The 109th Hero
 The 1500 Year Old Forest Elf and My Anti Materiel Sniper Rifle
 The 1500 Year Old Forest Elf and My Anti-Materiel Sniper Rifle
 The 27th Dimension
+The 3310 Paradox
 The 5 6" Game
 The 5'6" Game
 The 5th Door
@@ -95064,6 +95163,7 @@ The Last Guild
 The Last Hope: Exodus
 The Last Ninja Collection + Bonus Games
 The Last Nordic Tribe
+The Last Portal
 The Last Purge
 The Last Reunion
 The Last Salvage Squad
@@ -95554,6 +95654,7 @@ The shaved ice shop
 The109thHero
 The1500YearOldForestElfandMyAnti-MaterielSniperRifle
 The27thDimension
+The3310Paradox
 The5'6"Game
 The5thDoor
 The7thGuest
@@ -96018,6 +96119,7 @@ TheLastGuild
 TheLastHope:Exodus
 TheLastNinjaCollection+BonusGames
 TheLastNordicTribe
+TheLastPortal
 TheLastPurge
 TheLastReunion
 TheLastSalvageSquad
@@ -96638,6 +96740,8 @@ Thousand N  Thousand: Mimico
 Thousand N' Thousand: Mimico
 ThousandFloors
 ThousandN'Thousand:Mimico
+Thousands of Heroes
+ThousandsofHeroes
 Three
 Three Kingdom   Zhang Jiao Revival
 Three Kingdom - Zhang Jiao Revival
@@ -96690,6 +96794,7 @@ Throne and Liberty Entranced Celebration Pack: Gold
 Throne and Liberty Entranced Celebration Pack: Platinum
 Throne and Liberty Entranced Celebration Pack: Silver
 Throne of Capital
+Throne of Cards
 Throne of Desire
 Throne of Hearts: Rise from the Nightmare
 ThroneBreaker
@@ -96703,6 +96808,7 @@ ThroneandLibertyEntrancedCelebrationPack:Platinum
 ThroneandLibertyEntrancedCelebrationPack:Silver
 Thronefall
 ThroneofCapital
+ThroneofCards
 ThroneofDesire
 ThroneofHearts:RisefromtheNightmare
 Throst
@@ -98301,8 +98407,10 @@ TwilightParade:MoonlitMononoke
 TwilightSyndicate
 TwilightTails
 Twin
+Twin Balls Journey
 Twin Tile
 Twin Trials
+TwinBallsJourney
 TwinBee
 TwinTile
 TwinTrials
@@ -99483,6 +99591,7 @@ VAATI
 VACATION ADVENTURES: CRUISE DIRECTOR 9 GRAND TOUR USA 2 COLLECTOR'S EDITION
 VACATION ADVENTURES: PARK RANGER 17 COLLECTORS EDITION
 VACATION ADVENTURES: PARK RANGER 18 COLLECTORS EDITION
+VACATION CAFE SIMULATOR
 VACATION IN PARADISE
 VACATION TERMINAL
 VACHE
@@ -99810,6 +99919,7 @@ VICARIOUSVISIONS
 VICCOM
 VICE
 VICE CITY
+VICE SIGNALLING
 VICE VERSA
 VICE VISION RUNNER
 VICECITY
@@ -100295,11 +100405,13 @@ Vacation Adventures: Cruise Director 9 Grand Tour USA 2 Collector s Edition
 Vacation Adventures: Cruise Director 9 Grand Tour USA 2 Collector's Edition
 Vacation Adventures: Park Ranger 17 Collectors Edition
 Vacation Adventures: Park Ranger 18 Collectors Edition
+Vacation Cafe Simulator
 Vacation Terminal
 Vacation in Paradise
 VacationAdventures:CruiseDirector9GrandTourUSA2Collector'sEdition
 VacationAdventures:ParkRanger17CollectorsEdition
 VacationAdventures:ParkRanger18CollectorsEdition
+VacationCafeSimulator
 VacationTerminal
 VacationinParadise
 Vagabrew Demo
@@ -100697,8 +100809,10 @@ Vicarious
 Vicarious Visions
 VicariousVisions
 Viccom
+Vice Signalling
 Vice Versa
 Vice Vision Runner
+ViceSignalling
 ViceVersa
 ViceVisionRunner
 Vicelin
@@ -101408,6 +101522,7 @@ WARDEN OF THE SUNKEN KEEP
 WARDEN WATTS
 WARDENS OF WEN
 WARDENWATTS
+WARDOGS
 WARDZABAC
 WARE
 WAREHOUSE TYCOON
@@ -108056,6 +108171,7 @@ artificialmind+
 artificialmind+movement
 artificialmindand
 artificialmindandmovement
+artificialoverthrow
 artificialstudios
 artis impact
 artisan
@@ -108836,6 +108952,7 @@ bainesabot-de-sang
 bainesabotdesang
 bait & tackle
 bait & tackle store simulator
+baito fight!!: part-time devil hunter
 bajka
 bajoue
 bakahazard 3
@@ -111066,6 +111183,9 @@ bridge
 bridge race: busy dlc
 bridge race: spooky dlc
 briefcase
+brigador killers
+brigador killers soundtrack
+brigador killers: pilgrim audiobook
 briggs
 bright
 bright ideas
@@ -111800,6 +111920,7 @@ capitainewhisker
 capitainewhiting
 capivara clicker
 capivara zen
+capote
 cappenois
 cappenois cappenois
 cappenoiscappenois
@@ -112095,6 +112216,7 @@ cat meow-tilation
 cat president: 3rd-rate candidate
 cat puzzle
 cat rescue inc
+cat rhapsody
 cat screen
 cat simulator: meow
 cat spawn
@@ -112104,6 +112226,7 @@ cat syndicate: istanbul
 cat watch
 cat's showdown
 cataboum
+cataclismo
 cataclysmic bite
 catacouacs
 catalano
@@ -113999,6 +114122,7 @@ cozy home
 cozy island
 cozy jigsaw puzzles
 cozy jozy
+cozy marbles
 cozy mining
 cozy organizer
 cozy paintings
@@ -115219,6 +115343,7 @@ dawn break
 dawn of
 dawn of corruption
 dawn of play
+dawn one
 dawn sanatorium
 dawn village
 dawnhold
@@ -116312,6 +116437,7 @@ dirtzone
 disarray
 disaster arms - impact project b.a.h.n.
 disc
+disc dungeon
 disc golf
 disc golf city
 discard all hope - demo
@@ -117179,6 +117305,7 @@ drowned spawn egg
 drowned_spawn_egg
 drownedspawn
 drownedspawnegg
+drpdrv
 drstewart
 druaga
 drug empire
@@ -117594,6 +117721,7 @@ earth defense
 earth defense force
 earth forge
 earth must die
+earth simulator
 earth vs mars
 earthbound
 earthdefense
@@ -118429,6 +118557,7 @@ entertainment simulator
 entertainmentint
 entex
 enthaur : lost in slumber
+entity research group
 entity: the black day
 entonnoir
 entraineur
@@ -120535,6 +120664,7 @@ friedgreenapps
 friedlander
 friend of a slime
 friends
+friends before enemies
 friendsmob
 fries drive
 friga
@@ -121046,6 +121176,7 @@ galenthdysley
 galivan
 gallery
 gallious
+gallipoli
 gallop
 gallop racer
 gallopracer
@@ -123194,6 +123325,7 @@ harumikimihara
 harvest
 harvest cafe
 harvest cafe : prologue
+harvest hand
 harvest hollow demo
 harvest loop
 harvest moon
@@ -123592,6 +123724,7 @@ hentai elf elaria
 hentai flesh
 hentai furry bunny
 hentai furry cow
+hentai furry dragony
 hentai furry foxy
 hentai furry pig
 hentai furry pony
@@ -124220,6 +124353,7 @@ hookstone
 hookstone productions
 hookstoneproductions
 hooligans
+hoop empire
 hoopster
 hop drop
 hop n' hook
@@ -124392,12 +124526,16 @@ how shall we die
 how smart are you? iq test
 how to create a witch
 how to destroy a city demo
+how to fish
+how to kill a fly [ H2KAF ]
+how to kill a fly [ h2kaf ]
 how to lose one's virginity demo
 how to make an atomic bomb in your garden
 how to train your bro's girlfriend
 how your package gets delivered
 howard
 howlkraul
+howtokillafly[H2KAF]
 hozy
 hq
 hrothgar
@@ -124408,6 +124546,7 @@ hsu hao
 hsuhao
 hu majiang
 hu-card
+hua manlou
 huangguoshu waterfall in guizhou
 hucard
 hucast
@@ -124540,6 +124679,7 @@ hyper chess
 hyper devbox
 hyper hitmans
 hyper olympics
+hyper primate
 hyper profit pets
 hyper sports
 hyper team recon
@@ -124702,6 +124842,7 @@ iVisionTechnologies
 iVisionTechnologiesPty
 iVisionTechnologiesPtyLtd
 iWin
+iah: internet war
 iaidoka_interlude
 iammeteor
 ian's rocket
@@ -126795,6 +126936,7 @@ karous
 kart
 kart attack
 kart racing strike
+kart racing strike demo
 kartfinity
 karting4fun
 karting4fun demo
@@ -127553,6 +127695,7 @@ kotal
 kotal kahn
 kotalkahn
 kotama and academy citadel
+kotamon: my sis found a super-rare card in her cereal box, so i became a garbage man to find the entire collection and earn $1,000,000
 kotaro survivor
 kotenok
 koto
@@ -129302,6 +129445,7 @@ lloyd the monkey: remastered
 lloyd webster
 lloydwebster
 lo-fi girl: ai assistant 🎧🤍
+lo-fi laundromat
 loafing town
 loafing town supporter pack
 lobo
@@ -129321,6 +129465,7 @@ lockdown protocol
 locke
 locke cole
 lockecole
+locked and wagered: a girlfriend at stake
 locked in for the win
 locked in my darkness 2: the room
 locker
@@ -130963,6 +131108,7 @@ medicus
 medienwerkst
 medieval crafter: blacksmith
 medieval dynasty
+medieval fantasy blacksmith shop
 medieval horse dealer simulator demo
 medieval machines builder
 medieval startup
@@ -132016,6 +132162,7 @@ mitkin&
 mitkin&petrov
 mitkin&petrovproductions
 mitnal
+mitobit
 mitsuhisa
 mitsuhisa kaburagi
 mitsuhisakaburagi
@@ -136836,6 +136983,7 @@ pilpoiljr
 pilpoiljr.
 pimpalot
 pin money
+pinata smash: incremental circus demo
 pinball
 pinball bounce 2d
 pinball dream
@@ -140163,6 +140311,7 @@ room to breathe
 room to breathe demo
 room4
 room4games
+roomballs
 roombattle
 roommate lover: love in progress
 roommates, romance, and ringing hearts
@@ -142106,6 +142255,7 @@ silascobb
 silence forest
 silency: cube 666
 silent
+silent breath
 silent castle
 silent cleaning
 silent core night – holiday edition
@@ -144326,6 +144476,7 @@ studiozero
 study time anomaly
 studyx - save game codes & study any subject
 stuff
+stuff it!
 stukov
 stukov alexei
 stukovalexei
@@ -145964,6 +146115,7 @@ the
 the 109th hero
 the 1500 year old forest elf and my anti-materiel sniper rifle
 the 27th dimension
+the 3310 paradox
 the 5'6" game
 the 5th door
 the 7th guest
@@ -146460,6 +146612,7 @@ the last ninja collection + bonus games
 the last nordic tribe
 the last of us
 the last of us™ part ii remastered
+the last portal
 the last purge
 the last reunion
 the last salvage squad
@@ -147269,6 +147422,7 @@ thought
 thousand
 thousand floors
 thousand n' thousand: mimico
+thousands of heroes
 thq
 thq nordic
 thq wireless
@@ -147307,6 +147461,7 @@ throne and liberty entranced celebration pack: platinum
 throne and liberty entranced celebration pack: silver
 throne and liberty – talandre celebration pack: gold
 throne of capital
+throne of cards
 throne of desire
 throne of hearts: rise from the nightmare
 thronebreaker
@@ -148605,6 +148760,7 @@ twilight parade: moonlit mononoke
 twilight syndicate
 twilight tails
 twin
+twin balls journey
 twin tile
 twin trials
 twinbee
@@ -149166,6 +149322,7 @@ vaati
 vacation adventures: cruise director 9 grand tour usa 2 collector's edition
 vacation adventures: park ranger 17 collectors edition
 vacation adventures: park ranger 18 collectors edition
+vacation cafe simulator
 vacation in paradise
 vacation terminal
 vache
@@ -149485,6 +149642,7 @@ vicariousvisions
 viccom
 vice
 vice city
+vice signalling
 vice versa
 vice vision runner
 vicecity
@@ -150134,6 +150292,7 @@ warden of the sunken keep
 warden watts
 wardens of wen
 wardenwatts
+wardogs
 wardzabac
 ware
 warehouse tycoon
@@ -152331,6 +152490,7 @@ zèbre
 光与影之恋ChiaroscuroLovers
 光域
 光芒世界·暗影中的少女
+全网有点怪
 八つ灯   Yatsuakari
 八つ灯 | YATSUAKARI
 八つ灯 | Yatsuakari
@@ -152536,6 +152696,7 @@ zèbre
 山河小侠
 崩坏之兆：饥荒
 工地四重奏
+帝国：权杖与文明
 帝王霸业
 幻域 FANTASY DOMAIN
 幻域 Fantasy Domain
