@@ -65,6 +65,7 @@
 .HACKG.U
 .INC
 .Inc
+.PANIC
 .THEPRODUKKT
 .hack
 .hack//G.U
@@ -72,6 +73,7 @@
 .hackG.U
 .hackg.u
 .inc
+.panic
 .theprodukkt
 /
 //SIGNAL.
@@ -8115,6 +8117,7 @@ BACKFLIP
 BACKFLIP MADNESS 2
 BACKFLIP STUDIOS
 BACKFLIPSTUDIOS
+BACKFOOLS
 BACKHOME : เดินกลับบ้านในทางสามแยก
 BACKPACK BATTLES
 BACKPACK DUNGEON
@@ -8605,6 +8608,7 @@ BASILEDELAINE
 BASIM
 BASIM IBN ISHAQ
 BASIMIBNISHAQ
+BASIS LABS
 BASKETBALL
 BASKETBALL NIGHTMARE
 BASKETBALLNIGHTMARE
@@ -9531,6 +9535,7 @@ BLACK SEA STUDIOS
 BLACK SHADOW
 BLACK SOULS
 BLACK SOULS II
+BLACK STACK
 BLACK STIGMA
 BLACK STIGMA   Starter Pack
 BLACK STIGMA - STARTER PACK
@@ -9545,6 +9550,7 @@ BLACKDOOM
 BLACKDYE
 BLACKELEMENT
 BLACKELEMENTSOFTWARE
+BLACKFALL: CYBORGS DOWN
 BLACKFIRE CRUSADE
 BLACKGOAT DEMO
 BLACKHOLE
@@ -9588,6 +9594,7 @@ BLACKSMITH: IGNITE THE FORGE
 BLACKSMITHGAMES
 BLACKSOULS
 BLACKSOULSII
+BLACKSTACK
 BLACKSTIGMA
 BLACKSTIGMA-StarterPack
 BLACKSTUMP
@@ -10070,6 +10077,7 @@ BOMAN DELGADO
 BOMANDELGADO
 BOMB
 BOMB BOMB
+BOMB FARM
 BOMB JACK
 BOMB SQUAD
 BOMB'S LAIR
@@ -11057,6 +11065,7 @@ Backflip Madness 2
 Backflip Studios
 BackflipMadness2
 BackflipStudios
+Backfools
 Backpack Battles
 Backpack Dungeon
 Backpack Jianghu
@@ -11545,6 +11554,8 @@ BasiledeLaine
 Basim
 Basim Ibn Ishaq
 BasimIbnIshaq
+Basis Labs
+BasisLabs
 BasketBlow
 Basketball
 Basketball Nightmare
@@ -12674,6 +12685,8 @@ BlackSeaStudios
 BlackShadow
 BlackStump
 BlackTiger
+Blackfall: Cyborgs Down
+Blackfall:CyborgsDown
 Blackfire Crusade
 BlackfireCrusade
 Blackhole Survivors
@@ -13268,12 +13281,14 @@ Boman Delgado
 BomanDelgado
 Bomb
 Bomb Bomb
+Bomb Farm
 Bomb Jack
 Bomb Squad
 Bomb s Lair
 Bomb's Lair
 Bomb'sLair
 BombBomb
+BombFarm
 BombJack
 BombMachine Gunzohg
 BombMachineGunzohg
@@ -14724,6 +14739,7 @@ CAPITAINEWHITING
 CAPIVARA CLICKER
 CAPIVARA ZEN
 CAPOTE
+CAPP'S ASCENT DEMO
 CAPPENOIS
 CAPPENOIS CAPPENOIS
 CAPPENOISCAPPENOIS
@@ -14920,6 +14936,7 @@ CASCADE
 CASCADE GAMES
 CASCADEGAMES
 CASE
+CASE - قضية
 CASE 1963
 CASE CLOSED
 CASE OF 1980
@@ -15351,6 +15368,7 @@ CHAIR
 CHAIR DEBITI
 CHAIR ENTERTAINMENT
 CHAIR PUTREFIEE
+CHAIR TAI CHI
 CHAIRENTERTAINMENT
 CHAIRPUTREFIEE
 CHAKANA
@@ -16390,11 +16408,14 @@ COLA
 COLA COLA
 COLACOLA
 COLD
+COLD AISLE: DATA CENTER TYCOON
+COLD AISLE: Data Center Tycoon
 COLD BEAM
 COLD BEAM GAMES
 COLD BLOOM
 COLD CALLING
 COLD TRIGGER
+COLDAISLE:DataCenterTycoon
 COLDBEAM
 COLDBEAMGAMES
 COLDSIDE: RETRO EDITION
@@ -18134,6 +18155,9 @@ Capivara Zen
 CapivaraClicker
 CapivaraZen
 Capote
+Capp s Ascent Demo
+Capp's Ascent Demo
+Capp'sAscentDemo
 Cappenois
 Cappenois Cappenois
 CappenoisCappenois
@@ -18408,10 +18432,14 @@ Cascade
 Cascade Games
 CascadeGames
 Case
+Case   قضية
+Case - ????
+Case - قضية
 Case 1963
 Case Closed
 Case Sealed Demo
 Case of 1980
+Case-قضية
 Case1963
 CaseClosed
 CaseCracker3
@@ -18867,9 +18895,11 @@ ChainsonSand
 Chair
 Chair Debiti
 Chair Entertainment
+Chair Tai Chi
 Chair putréfiée
 ChairDebiti
 ChairEntertainment
+ChairTaiChi
 Chairputréfiée
 Chakana
 Chalet
@@ -22660,6 +22690,7 @@ DEEP DRIFT SIGNAL BELOW
 DEEP DUCK TROUBLE STARRING DONALD DUCK
 DEEP FRIED
 DEEP FRIED ENTERTAINMENT
+DEEP HAUL
 DEEP HELL
 DEEP IN THE FIELDS
 DEEP INSIDE: AMORE SOLA MI FA REMIRARE
@@ -23817,6 +23848,7 @@ DON'T ASK SUCCUBUS
 DON'T BREAK
 DON'T BREATHE IN!
 DON'T CRACK!
+DON'T DROP THE CAKE
 DON'T DROP THE SOAP
 DON'T ESCAPE: 4 DAYS TO SURVIVE
 DON'T FALL
@@ -25599,6 +25631,7 @@ Deep Drift Signal Below
 Deep Duck Trouble Starring Donald Duck
 Deep Fried
 Deep Fried Entertainment
+Deep Haul
 Deep Hell
 Deep Inside: Amore sola mi fa remirare
 Deep Line
@@ -25633,6 +25666,7 @@ DeepDriftSignalBelow
 DeepDuckTroubleStarringDonaldDuck
 DeepFried
 DeepFriedEntertainment
+DeepHaul
 DeepHell
 DeepInside:Amoresolamifaremirare
 DeepLine
@@ -26984,6 +27018,7 @@ Don Resetti
 Don t Ask Succubus
 Don t Break
 Don t Crack!
+Don t Drop The Cake
 Don t Drop The Soap
 Don t Escape: 4 Days to Survive
 Don t FOOL ME, Beauties!
@@ -27014,6 +27049,7 @@ Don't
 Don't Ask Succubus
 Don't Break
 Don't Crack!
+Don't Drop The Cake
 Don't Drop The Soap
 Don't Escape: 4 Days to Survive
 Don't FOOL ME, Beauties!
@@ -27054,6 +27090,7 @@ Don't wake up Demo
 Don'tAskSuccubus
 Don'tBreak
 Don'tCrack!
+Don'tDropTheCake
 Don'tDropTheSoap
 Don'tEscape:4DaystoSurvive
 Don'tFOOLME,Beauties!
@@ -31700,6 +31737,7 @@ FAIRIES CIRCUS
 FAIRY RESCUE
 FAIRY TALE TD 2 童话塔防2
 FAIRYLAND
+FAIRYSITE
 FAIRYTALE
 FAITH
 FAITH FARTHINGWORTH
@@ -33686,6 +33724,7 @@ FairyLand
 FairyRescue
 FairyTale
 FairyTaleTD2童话塔防2
+Fairysite
 Faith
 Faith Farthingworth
 Faith Requiem
@@ -37559,6 +37598,7 @@ GREAT ESCAPE
 GREAT MEME RESET 2026
 GREAT NAVAL
 GREAT NAVAL BATTLES
+GREAT NORTHERN WAR
 GREAT TOUGH BIKINI 6
 GREATBATTLES
 GREATBATTLESTHE
@@ -37646,6 +37686,7 @@ GREVE GRAPHICS
 GREVEGRAPHICS
 GREY
 GREY BOX
+GREY CLOAKS OF ARON: THE SLEEPING VILLAGE
 GREY HACK
 GREY MARKET
 GREYBOX
@@ -39756,6 +39797,7 @@ Great Escape
 Great Meme Reset 2026
 Great Naval
 Great Naval Battles
+Great Northern War
 Great Tough Bikini 6
 GreatBattles
 GreatBattlesThe
@@ -39767,6 +39809,7 @@ GreatEscape
 GreatMemeReset2026
 GreatNaval
 GreatNavalBattles
+GreatNorthernWar
 GreatToughBikini6
 Greatest
 Greatest Angels
@@ -39854,9 +39897,11 @@ Greve Graphics
 GreveGraphics
 Grey
 Grey Box
+Grey Cloaks of Aron: The Sleeping Village
 Grey Hack
 Grey Market
 GreyBox
+GreyCloaksofAron:TheSleepingVillage
 GreyHack
 GreyMarket
 Greywind s Legacy - A Text Based, Skill Progression, RPG
@@ -40557,6 +40602,7 @@ HAPPY BONES: WELCOME HOME
 HAPPY COOKIES
 HAPPY DAY
 HAPPY DIGGER GO-GO
+HAPPY ENDINGS
 HAPPY ISLAND FANTASY
 HAPPY MONSTER
 HAPPY NUCLEAR
@@ -40655,6 +40701,7 @@ HARUMI
 HARUMI KIMIHARA
 HARUMIKIMIHARA
 HARVEST
+HARVEST ARCANA
 HARVEST CAFE
 HARVEST CAFE : PROLOGUE
 HARVEST HAND
@@ -40663,6 +40710,7 @@ HARVEST LOOP
 HARVEST MOON
 HARVEST MOON®: HOME SWEET HOME SPECIAL EDITION
 HARVEST REAPER
+HARVESTARCANA
 HARVESTMOON
 HASARD
 HASBRO
@@ -41144,6 +41192,7 @@ HENTAI TANVI
 HENTAI VAMPIRES
 HENTAI WAIFU PIECES
 HENTAI WORLD APOCALOVE
+HENTAI WORLD BLUE
 HENTAI WORLD BUNNY
 HENTAI WORLD CAVE
 HENTAI WORLD FALL
@@ -42398,6 +42447,7 @@ Happy Cookies
 Happy Day
 Happy Digger Go Go
 Happy Digger Go-Go
+Happy Endings
 Happy Island Fantasy
 Happy Monster
 Happy Nuclear
@@ -42413,6 +42463,7 @@ HappyBones:WelcomeHome
 HappyCookies
 HappyDay
 HappyDiggerGo-Go
+HappyEndings
 HappyIslandFantasy
 HappyMonster
 HappyNuclear
@@ -43112,6 +43163,7 @@ Hentai Tales: Vampire Prey
 Hentai Tanvi
 Hentai Vampires
 Hentai World Apocalove
+Hentai World Blue
 Hentai World Bunny
 Hentai World Cave
 Hentai World Fall
@@ -43267,6 +43319,7 @@ HentaiTales:VampirePrey
 HentaiTanvi
 HentaiVampires
 HentaiWorldApocalove
+HentaiWorldBlue
 HentaiWorldBunny
 HentaiWorldCave
 HentaiWorldFall
@@ -45005,6 +45058,7 @@ IMPACTSOFTWAREDEVELOPMENT
 IMPARTIAL
 IMPERIAL
 IMPERIAL COMMAND
+IMPERIAL KNIGHTS
 IMPERIUS
 IMPORTANT PEOPLE OF HISTORY: PRESIDENTS - GEORGE WASHINGTON
 IMPOSSIBLE SLASHER! HACK AND SLASH
@@ -46146,7 +46200,9 @@ ImpactSoftwareDevelopment
 Impartial
 Imperial
 Imperial Command
+Imperial Knights
 ImperialCommand
+ImperialKnights
 Imperius
 Important People of History: Presidents   George Washington
 Important People of History: Presidents - George Washington
@@ -47805,6 +47861,7 @@ JUST KILL IT
 JUST KISSED
 JUST KISSED GAMES
 JUST ONE MORE LINK
+JUST OPEN THE DOOR
 JUST POOL
 JUST THE BOSS FIGHTS
 JUST UKEMI
@@ -48698,6 +48755,7 @@ Just Kill It
 Just Kissed
 Just Kissed Games
 Just One More Link
+Just Open The Door
 Just Pool
 Just Ukemi
 Just Updated
@@ -48730,6 +48788,7 @@ JustKillIt
 JustKissed
 JustKissedGames
 JustOneMoreLink
+JustOpenTheDoor
 JustPool
 JustRun
 JustUkemi
@@ -49350,6 +49409,7 @@ KINGDOM ASCENSION
 KINGDOM COME: DELIVERANCE II
 KINGDOM COME: DELIVERANCE ROYAL EDITION
 KINGDOM CONQUER
+KINGDOM CUMQUEST
 KINGDOM DICE
 KINGDOM HEARTS
 KINGDOM HEARTS  HD 1.5+2.5 ReMIX 
@@ -50640,6 +50700,7 @@ Kingdom Ascension
 Kingdom Come: Deliverance II
 Kingdom Come: Deliverance Royal Edition
 Kingdom Conquer
+Kingdom Cumquest
 Kingdom Dice
 Kingdom Hearts
 Kingdom Klicker
@@ -50671,6 +50732,7 @@ KingdomAscension
 KingdomCome:DeliveranceII
 KingdomCome:DeliveranceRoyalEdition
 KingdomConquer
+KingdomCumquest
 KingdomDice
 KingdomHearts
 KingdomKlicker
@@ -52382,6 +52444,7 @@ LEVEL 9
 LEVEL 9 COMPUTING
 LEVEL DENIED
 LEVEL DOWN
+LEVEL P
 LEVEL5
 LEVEL9
 LEVEL9COMPUTING
@@ -52476,6 +52539,7 @@ LIF LIF
 LIFE
 LIFE FORCE
 LIFE IN MIDDLE EAST
+LIFE IN RED LINE
 LIFE IN RIO
 LIFE IS
 LIFE IS STRANGE
@@ -53093,6 +53157,7 @@ LOST IN THE WORLD OF SUCCUBI
 LOST IN TRANSIT
 LOST INFINITY
 LOST LETTER
+LOST LIGHT
 LOST LULLABIES: THE ORPHANAGE CHRONICLES
 LOST LUMINOSITY
 LOST MY COLLECTION OF 600 STARS
@@ -54511,11 +54576,13 @@ Level 9
 Level 9 Computing
 Level Denied
 Level Down
+Level P
 Level5
 Level9
 Level9Computing
 LevelDenied
 LevelDown
+LevelP
 LevelUp With 100 Cyber Girlfriend
 LevelUpWith100CyberGirlfriend
 Levendeurdemasques
@@ -54614,6 +54681,7 @@ Life Is
 Life Is Strange
 Life in Middle East
 Life in Rio
+Life in red line
 Life is Strange: Reunion
 Life is Strange: Reunion   Deluxe Edition
 Life is Strange: Reunion - Deluxe Edition
@@ -54628,6 +54696,7 @@ LifeIsStrange
 LifeSimOS
 LifeinMiddleEast
 LifeinRio
+Lifeinredline
 LifeisStrange:Reunion
 LifeisStrange:Reunion-DeluxeEdition
 LifeofGuy-Chapter1
@@ -55334,6 +55403,7 @@ Lost In Space   The First Adventure
 Lost In Space - The First Adventure
 Lost Infinity
 Lost Letter
+Lost Light
 Lost Lullabies: The Orphanage Chronicles
 Lost Luminosity
 Lost Records: Bloom   Rage
@@ -55376,6 +55446,7 @@ LostInLofi
 LostInSpace-TheFirstAdventure
 LostInfinity
 LostLetter
+LostLight
 LostLullabies:TheOrphanageChronicles
 LostLuminosity
 LostRecords:Bloom&Rage
@@ -57264,6 +57335,7 @@ MENTAL SALVO
 MENTRIX
 MENTRIX SOFTWARE
 MENTRIXSOFTWARE
+MEOW BOX CITY
 MEOW MY CROP!
 MEOW PATH 2
 MEOW SURVIVORS
@@ -60868,6 +60940,7 @@ MentalSalvo
 Mentrix
 Mentrix Software
 MentrixSoftware
+Meow Box City
 Meow My Crop!
 Meow Path 2
 Meow Survivors
@@ -60877,6 +60950,7 @@ Meow Weight Loss Diary
 Meow s Meow
 Meow's Meow
 Meow'sMeow
+MeowBoxCity
 MeowCraft
 MeowGun: Hell Denizen
 MeowGun:HellDenizen
@@ -63708,6 +63782,7 @@ NEON ABYSS
 NEON ANGORA: THE CABARET CLUB
 NEON BLOCK
 NEON BULLET
+NEON CRUISERS
 NEON DIGITAL
 NEON DIVIDE
 NEON FANTASY: DINOSAURS
@@ -65081,6 +65156,7 @@ Neon
 Neon Abyss
 Neon Angora: The Cabaret Club
 Neon Bullet
+Neon Cruisers
 Neon Digital
 Neon Divide
 Neon Fantasy: Dinosaurs
@@ -65103,6 +65179,7 @@ Neon Whispers
 NeonAbyss
 NeonAngora:TheCabaretClub
 NeonBullet
+NeonCruisers
 NeonDigital
 NeonDivide
 NeonFantasy:Dinosaurs
@@ -66695,6 +66772,7 @@ OGStreamerBeats
 OGames
 OH BALLS MERGE
 OH BUOY!
+OH NO! I’M SURROUNDED BY POLYGONS!
 OH PUCK!
 OH SO HERO!
 OH?ME
@@ -67914,10 +67992,13 @@ OgreChambers2222Demo
 Ogres
 Oh Balls Merge
 Oh Buoy!
+Oh No! I'm Surrounded by Polygons!
+Oh No! I’m Surrounded by Polygons!
 Oh Puck!
 Oh So Hero!
 OhBallsMerge
 OhBuoy!
+OhNo!I’mSurroundedbyPolygons!
 OhPuck!
 OhSoHero!
 Oharion
@@ -71516,6 +71597,7 @@ PURSUIT
 PURUPURU: PULL IT ALONG
 PUSH & PLUNDER
 PUSH AND PLUNDER DEMO
+PUSH AND PULL
 PUSH DEFENSE
 PUSHING KIDS OFF BIKES
 PUSHLE DELUXE
@@ -74697,9 +74779,11 @@ Push   Plunder
 Push & Plunder
 Push Defense
 Push and Plunder Demo
+Push and Pull
 Push&Plunder
 PushDefense
 PushandPlunderDemo
+PushandPull
 Pushing Kids Off Bikes
 PushingKidsOffBikes
 Pushle DELUXE
@@ -76232,6 +76316,7 @@ RESOLUTION INTERACTIVE
 RESOLUTION INTERACTIVE AB
 RESOLUTIONINTERACTIVE
 RESOLUTIONINTERACTIVEAB
+RESONANCE
 RESONANCE SOLSTICE
 RESONANT BLADE
 RESONANT DUSK
@@ -77245,6 +77330,7 @@ RUNNINGTRAIN|走ル列車！
 RUNNINGWITH
 RUNNINGWITHRIFLES
 RUNNINGWITHSCISSORS
+RUNOUT - HOTHEAD PAWS
 RUNPUNK: THE PARKOUR GAME
 RUNWAY™
 RUPERT
@@ -78356,6 +78442,7 @@ Resolution Interactive
 Resolution Interactive AB
 ResolutionInteractive
 ResolutionInteractiveAB
+Resonance
 Resonance Solstice
 ResonanceSolstice
 Resonant Blade
@@ -79484,6 +79571,9 @@ Run of the Lost
 Run, Veggies!
 Run,Veggies!
 RunCoffeeRun
+RunOut   Hothead Paws
+RunOut - Hothead Paws
+RunOut-HotheadPaws
 RunPunk: The parkour game
 RunPunk:Theparkourgame
 RunQuadRun
@@ -79998,6 +80088,7 @@ SANDSTORM
 SANDUSTRY
 SANDY
 SANFU
+SANGUIS AMANTIS
 SANI YANG'S LABORATORY
 SANITY BREAK
 SANITY LOOPS
@@ -81256,6 +81347,7 @@ SHIROTAGACHI
 SHITAKE
 SHKSHK
 SHMUP BOSS
+SHNIK
 SHNURGLE
 SHOBOU
 SHOCK
@@ -81381,6 +81473,7 @@ SID MEIER'S CIVILIZATION VII
 SID MEIER'S PIRATES!
 SID MEIERS PIRATES!
 SIDE EFFECT
+SIDEBAR STARSHIP
 SIDEDROP
 SIDEKICKS
 SIDEQUEST
@@ -81531,6 +81624,7 @@ SILICON GARAGE
 SILICON GARAGE ARTS
 SILICON GIRL
 SILICON KNIGHTS
+SILICON PATH
 SILICON SCARS
 SILICON SISTERS
 SILICON SISTERS INTERACTIVE
@@ -83210,6 +83304,7 @@ STAR SOLDIER
 STAR SORAIGHT FANTASY: MAGIC TO REACH THE SKY
 STAR TREK
 STAR TREK: VOYAGER - ACROSS THE UNKNOWN
+STAR VALOR
 STAR VALOR - BASE BUILDING
 STAR VORTEX
 STAR WARS
@@ -84935,6 +85030,8 @@ SandsofSkullcreek
 Sandustry
 Sandy
 Sanfu
+Sanguis Amantis
+SanguisAmantis
 Sani Yang s Laboratory
 Sani Yang's Laboratory
 SaniYang'sLaboratory
@@ -86383,6 +86480,7 @@ ShirohebiandTheTowerofMercy
 Shitake
 Shmup Boss
 ShmupBoss
+Shnik
 Shnurgle
 ShoJinDen
 Shobou
@@ -86552,6 +86650,8 @@ SideEffect
 SideQuest
 SideQuest Studios
 SideQuestStudios
+Sidebar Starship
+SidebarStarship
 Sidekicks
 Sidequest Survivors
 SidequestSurvivors
@@ -86700,6 +86800,7 @@ Silicon Garage
 Silicon Garage Arts
 Silicon Girl
 Silicon Knights
+Silicon Path
 Silicon Scars
 Silicon Sisters
 Silicon Sisters Interactive
@@ -86714,6 +86815,7 @@ SiliconGarage
 SiliconGarageArts
 SiliconGirl
 SiliconKnights
+SiliconPath
 SiliconScars
 SiliconSisters
 SiliconSistersInteractive
@@ -88738,6 +88840,7 @@ Star Soraight Fantasy: Magic to reach the sky
 Star Trek
 Star Trek: Voyager   Across the Unknown
 Star Trek: Voyager - Across the Unknown
+Star Valor
 Star Valor   Base Building
 Star Valor - Base Building
 Star Vortex
@@ -88797,6 +88900,7 @@ StarSoldier
 StarSoraightFantasy:Magictoreachthesky
 StarTrek
 StarTrek:Voyager-AcrosstheUnknown
+StarValor
 StarValor-BaseBuilding
 StarVortex
 StarWars
@@ -90797,6 +90901,7 @@ TAMAGO
 TAMAMOJI
 TAMAO
 TAMARA
+TAME ME HARD!
 TAMSOFT
 TAMTAM
 TAMTEX
@@ -93359,6 +93464,7 @@ TONYLARUSSA
 TONYLARUSSABASEBALL
 TOO HOT TO BE TRUE DEMO
 TOO MANY BOTS
+TOO MANY TOYS!
 TOOIE
 TOOLWORKS
 TOON
@@ -93567,6 +93673,7 @@ TOWER LORDS
 TOWER OF BABEL: SURVIVORS OF CHAOS - GOLDEN DRAGON PACK
 TOWER OF DOGMA
 TOWER OF DRUAGA
+TOWER OF GAND
 TOWER OF JANK
 TOWER OF SCHERBENMARK
 TOWER OF TIME
@@ -94576,6 +94683,8 @@ TamTam
 Tamamoji
 Tamao
 Tamara
+Tame Me Hard!
+TameMeHard!
 Tamsoft
 Tamtex
 Tanach: A Journey Through the Hebrew Bible
@@ -98120,8 +98229,10 @@ TonyLaRussaBaseball
 Tonya
 Too Hot to Be True Demo
 Too Many Bots
+Too Many Toys!
 TooHottoBeTrueDemo
 TooManyBots
+TooManyToys!
 Tooie
 Toolworks
 Toon
@@ -98399,6 +98510,7 @@ Tower War
 Tower of Babel: Survivors of Chaos   Golden Dragon Pack
 Tower of Babel: Survivors of Chaos - Golden Dragon Pack
 Tower of Druaga
+Tower of Gand
 Tower of Jank
 Tower of Scherbenmark
 Tower of Time
@@ -98423,6 +98535,7 @@ Towerfolk
 Towerix91
 TowerofBabel:SurvivorsofChaos-GoldenDragonPack
 TowerofDruaga
+TowerofGand
 TowerofJank
 TowerofScherbenmark
 TowerofTime
@@ -102426,6 +102539,7 @@ WARRIV
 WARS
 WARS ACROSS THE WORLD: CORSICA 1764
 WARS:
+WARSCAPE ALPHA
 WARSIM: THE REALM OF ASLONA
 WARSPACE 2
 WART
@@ -102700,6 +102814,7 @@ WHERE IT ALL BEGAN - SEASON 1
 WHERE STONES SLEEP
 WHERE THE F$CK IS MY BITCOIN ⁉️
 WHERE THE FOREST ENDS
+WHERE THE HEART IS: SEASON 2
 WHERE THE HEART RESTS
 WHERE WE ECHO
 WHERE WE USED TO PLAY
@@ -103792,6 +103907,8 @@ Warriv
 Wars
 Wars Across The World: Corsica 1764
 WarsAcrossTheWorld:Corsica1764
+Warscape Alpha
+WarscapeAlpha
 Warsim: The Realm of Aslona
 Warsim:TheRealmofAslona
 Warspace 2
@@ -104145,6 +104262,7 @@ Where s My Futa Deck?
 Where s That Clown?!
 Where s my egg? Demo
 Where the Heart Rests
+Where the Heart is: Season 2
 Where the forest ends
 Where's My Futa Deck?
 Where's My Futa Deck? Bonekeep
@@ -104166,6 +104284,7 @@ WhereisMother
 WhereisMyPet?Demo
 WhereitallBegan-Season1
 WheretheHeartRests
+WheretheHeartis:Season2
 Wheretheforestends
 Where’s My Futa Deck? Bonekeep
 Where’sMyFutaDeck?Bonekeep
@@ -109672,6 +109791,7 @@ backflip
 backflip madness 2
 backflip studios
 backflipstudios
+backfools
 backhome : เดินกลับบ้านในทางสามแยก
 backpack battles
 backpack dungeon
@@ -110136,6 +110256,7 @@ basiledelaine
 basim
 basim ibn ishaq
 basimibnishaq
+basis labs
 basketball
 basketball nightmare
 basketballnightmare
@@ -111028,6 +111149,7 @@ black sea studios
 black shadow
 black souls
 black souls ii
+black stack
 black stigma
 black stigma - starter pack
 black tiger
@@ -111041,6 +111163,7 @@ blackdoom
 blackdye
 blackelement
 blackelementsoftware
+blackfall: cyborgs down
 blackfire crusade
 blackgoat demo
 blackhole
@@ -111542,6 +111665,7 @@ boman delgado
 bomandelgado
 bomb
 bomb bomb
+bomb farm
 bomb jack
 bomb squad
 bomb's lair
@@ -112757,6 +112881,7 @@ capitainewhiting
 capivara clicker
 capivara zen
 capote
+capp's ascent demo
 cappenois
 cappenois cappenois
 cappenoiscappenois
@@ -112952,6 +113077,7 @@ cascade
 cascade games
 cascadegames
 case
+case - قضية
 case 1963
 case closed
 case of 1980
@@ -113334,6 +113460,7 @@ chair debiti
 chair entertainment
 chair putrefiee
 chair putréfiée
+chair tai chi
 chairentertainment
 chairputrefiee
 chairputréfiée
@@ -114343,6 +114470,7 @@ cola
 cola cola
 colacola
 cold
+cold aisle: data center tycoon
 cold beam
 cold beam games
 cold bloom
@@ -116470,6 +116598,7 @@ deep drift signal below
 deep duck trouble starring donald duck
 deep fried
 deep fried entertainment
+deep haul
 deep hell
 deep in the fields
 deep inside: amore sola mi fa remirare
@@ -117571,6 +117700,7 @@ don't ask succubus
 don't break
 don't breathe in!
 don't crack!
+don't drop the cake
 don't drop the soap
 don't escape: 4 days to survive
 don't fall
@@ -120117,6 +120247,7 @@ fairies circus
 fairy rescue
 fairy tale td 2 童话塔防2
 fairyland
+fairysite
 fairytale
 faith
 faith farthingworth
@@ -123392,6 +123523,7 @@ great escape
 great meme reset 2026
 great naval
 great naval battles
+great northern war
 great tough bikini 6
 greatbattles
 greatbattlesthe
@@ -123479,6 +123611,7 @@ greve graphics
 grevegraphics
 grey
 grey box
+grey cloaks of aron: the sleeping village
 grey hack
 grey market
 greybox
@@ -124116,6 +124249,7 @@ happy bones: welcome home
 happy cookies
 happy day
 happy digger go-go
+happy endings
 happy island fantasy
 happy monster
 happy nuclear
@@ -124211,6 +124345,7 @@ harumi
 harumi kimihara
 harumikimihara
 harvest
+harvest arcana
 harvest cafe
 harvest cafe : prologue
 harvest hand
@@ -124706,6 +124841,7 @@ hentai tanvi
 hentai vampires
 hentai waifu pieces
 hentai world apocalove
+hentai world blue
 hentai world bunny
 hentai world cave
 hentai world fall
@@ -126097,6 +126233,7 @@ impactsoftwaredevelopment
 impartial
 imperial
 imperial command
+imperial knights
 imperius
 important people of history: presidents - george washington
 impossible slasher! hack and slash
@@ -127591,6 +127728,7 @@ just kill it
 just kissed
 just kissed games
 just one more link
+just open the door
 just pool
 just the boss fights
 just ukemi
@@ -128205,6 +128343,7 @@ kingdom ascension
 kingdom come: deliverance ii
 kingdom come: deliverance royal edition
 kingdom conquer
+kingdom cumquest
 kingdom dice
 kingdom hearts
 kingdom hearts -hd 1.5+2.5 remix-
@@ -129860,6 +129999,7 @@ level 9
 level 9 computing
 level denied
 level down
+level p
 level5
 level9
 level9computing
@@ -129947,6 +130087,7 @@ lif lif
 life
 life force
 life in middle east
+life in red line
 life in rio
 life is
 life is strange
@@ -130549,6 +130690,7 @@ lost in the world of succubi
 lost in transit
 lost infinity
 lost letter
+lost light
 lost lullabies: the orphanage chronicles
 lost luminosity
 lost my collection of 600 stars
@@ -132264,6 +132406,7 @@ mental salvo
 mentrix
 mentrix software
 mentrixsoftware
+meow box city
 meow my crop!
 meow path 2
 meow survivors
@@ -134623,6 +134766,7 @@ neon abyss
 neon angora: the cabaret club
 neon block
 neon bullet
+neon cruisers
 neon digital
 neon divide
 neon fantasy: dinosaurs
@@ -136121,6 +136265,7 @@ ogrebattle
 ogres
 oh balls merge
 oh buoy!
+oh no! i’m surrounded by polygons!
 oh puck!
 oh so hero!
 oharion
@@ -139386,6 +139531,7 @@ pursuit
 purupuru: pull it along
 push & plunder
 push and plunder demo
+push and pull
 push defense
 pushing kids off bikes
 pushle deluxe
@@ -140562,6 +140708,7 @@ resolution interactive
 resolution interactive ab
 resolutioninteractive
 resolutioninteractiveab
+resonance
 resonance solstice
 resonant blade
 resonant dusk
@@ -141511,6 +141658,7 @@ running with rifles
 running with scissors
 runningwith
 runningwithscissors
+runout - hothead paws
 runpunk: the parkour game
 runway™
 rupert
@@ -141914,6 +142062,7 @@ sandstorm
 sandustry
 sandy
 sanfu
+sanguis amantis
 sani yang's laboratory
 sanity break
 sanity loops
@@ -143046,6 +143195,7 @@ shirotagachi
 shitake
 shkshk
 shmup boss
+shnik
 shnurgle
 shobou
 shock
@@ -143169,6 +143319,7 @@ sid meier's civilization vii
 sid meier's pirates!
 sid meiers pirates!
 side effect
+sidebar starship
 sidedrop
 sidekicks
 sidequest
@@ -143300,6 +143451,7 @@ silicon garage
 silicon garage arts
 silicon girl
 silicon knights
+silicon path
 silicon scars
 silicon sisters
 silicon sisters interactive
@@ -144919,6 +145071,7 @@ star soldier
 star soraight fantasy: magic to reach the sky
 star trek
 star trek: voyager - across the unknown
+star valor
 star valor - base building
 star vortex
 star wars
@@ -146487,6 +146640,7 @@ tamago
 tamamoji
 tamao
 tamara
+tame me hard!
 tamsoft
 tamtam
 tamtex
@@ -148982,6 +149136,7 @@ tonylarussa
 tonylarussabaseball
 too hot to be true demo
 too many bots
+too many toys!
 tooie
 toolworks
 toon
@@ -149185,6 +149340,7 @@ tower lords
 tower of babel: survivors of chaos - golden dragon pack
 tower of dogma
 tower of druaga
+tower of gand
 tower of jank
 tower of scherbenmark
 tower of time
@@ -151463,6 +151619,7 @@ warriv
 wars
 wars across the world: corsica 1764
 wars:
+warscape alpha
 warsim: the realm of aslona
 warspace 2
 wart
@@ -151715,6 +151872,7 @@ where it all began - season 1
 where stones sleep
 where the f$ck is my bitcoin ⁉️
 where the forest ends
+where the heart is: season 2
 where the heart rests
 where we echo
 where we used to play
@@ -153906,6 +154064,7 @@ zèbre
 捕词vocapoo
 探岛海龟汤
 掼蛋纯净版
+摆烂大学生会遇到废物神
 摸鱼游戏合集
 敵国工場への潜入
 文字城邦
