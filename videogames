@@ -93,9 +93,11 @@
 007FirstLight
 007FirstLight-StandardEdition
 1
+1 HP DUNGEON
 1 IN A MILLION | A GAME OF ODDS
 1 TRILLION CREDITS IN DEBT
 1 Trillion Credits In Debt
+1 hp dungeon
 1 in a Million   A game of odds
 1 in a Million | A game of odds
 1 in a million | a game of odds
@@ -720,6 +722,7 @@
 1C
 1GAMES
 1Games
+1HPDUNGEON
 1ST
 1ST PLAYABLE
 1ST PLAYABLE PRODUCTIONS
@@ -10238,6 +10241,7 @@ BOTHTEC, INC
 BOTHTEC,INC
 BOTHTECINC
 BOTOMY
+BOTS TO MARS
 BOTTES
 BOTTES DE MAILLES
 BOTTES EN CUIR
@@ -10876,6 +10880,7 @@ BUNNYBAKERY
 BUNNYBASTION
 BUNNYBastion
 BUNNYFLY: SEASON OF SUMMER
+BUNNYHOP
 BUNNYHOPPERS
 BUNNY’S RENT-A-MOM AGENCY
 BURA: THE WAY THE WIND BLOWS
@@ -13480,6 +13485,8 @@ Bothtec, Inc
 Bothtec,Inc
 BothtecInc
 Botomy
+Bots to Mars
+BotstoMars
 Bottes
 Bottes de mailles
 Bottes en Netherite
@@ -14258,6 +14265,7 @@ BunnyBunker
 BunnyFly: Season of Summer
 BunnyFly:SeasonofSummer
 BunnySpaceOdyssey:FlopHop
+Bunnyhop
 Bunnyhoppers
 Bunny’s Rent a Mom Agency
 Bunny’s Rent-a-Mom Agency
@@ -15061,6 +15069,7 @@ CATAPULT LEGEND
 CATASTROPHIC
 CATBUN IDLE
 CATCAT
+CATCH FLEX
 CATCH IT
 CATCH ME
 CATCH THE LIGHT
@@ -15881,6 +15890,7 @@ CHRONOTRIGGER®
 CHU
 CHU CHU ROCKET
 CHUBBY CATS
+CHUCHEL
 CHUCHU
 CHUCHU CHUCHU
 CHUCHUCHUCHU
@@ -16279,6 +16289,7 @@ COALITION
 COAST
 COASTAL SUMMIT SPORTS: COLLEGE ATHLETICS 27
 COASTER CRASH COURSE
+COASTEROID DEMO
 COBALINK
 COBALINK SAS
 COBALINKSAS
@@ -16390,6 +16401,7 @@ COHEN
 COHORT
 COHORT STUDIOS
 COHORTSTUDIOS
+COILED SILENCE
 COIN FLIPPIN'
 COIN HUNTER
 COIN IDLE
@@ -17013,6 +17025,7 @@ COUSETTE
 COUSIN CATCHER
 COUSIN'S HOUSE
 COVENANT OF SOLITUDE
+COVER MY BUNS
 COVER STORY
 COVERT X UNIVERSE
 COVET THE COUNTDOWN
@@ -17578,6 +17591,7 @@ CUBEESCAPE
 CUBER
 CUBES & SPHERES
 CUBETORY
+CUBE_
 CUBIC COSMOS
 CUBIC ODYSSEY
 CUBIO
@@ -18633,10 +18647,12 @@ CatapultLegend
 Catastrophic
 CatatHome
 CatcarriedButterfly
+Catch Flex
 Catch Me
 Catch it
 Catch the Light
 Catch the Light Demo
+CatchFlex
 CatchMe
 Catching Spirits
 CatchingSpirits
@@ -20036,6 +20052,8 @@ Coastal Summit Sports: College Athletics 27
 CoastalSummitSports:CollegeAthletics27
 Coaster Crash Course
 CoasterCrashCourse
+Coasteroid Demo
+CoasteroidDemo
 Cobalink
 Cobalink SAS
 CobalinkSAS
@@ -20131,6 +20149,8 @@ Cohen
 Cohort
 Cohort Studios
 CohortStudios
+Coiled Silence
+CoiledSilence
 Coin Flippin 
 Coin Flippin'
 Coin Hunter
@@ -20901,7 +20921,9 @@ Cousin'sHouse
 CousinCatcher
 Covenant of Solitude
 CovenantofSolitude
+Cover My Buns
 Cover Story
+CoverMyBuns
 CoverStory
 Covert X Universe
 CovertXUniverse
@@ -22587,6 +22609,7 @@ DEATH MACHINE
 DEATH METAL DERBY
 DEATH NOMAD
 DEATH ON HOLLY RIDGE
+DEATH PARADISE
 DEATH ROW ESCAPE
 DEATH STANDING
 DEATH STRANDING 2: ON THE BEACH
@@ -22713,6 +22736,7 @@ DEEP SKY DERELICTS
 DEEP SLEEP
 DEEP SLEEP: LABYRINTH OF THE FORSAKEN
 DEEP SPACE MERCHANT
+DEEPCLAIM
 DEEPDIG: TOGETHER
 DEEPDUCKTROUBLESTARRINGDONALDDUCK
 DEEPFRIED
@@ -22941,6 +22965,7 @@ DEPTHEAVEN
 DEPTHS OF INSANITY 3
 DEPTHS OF INSANITY 3 SOUNDTRACK
 DEPTHS OF PROVIDENCE
+DER ANZEIGENHAUPTMEISTER
 DERAIL VALLEY
 DERBY
 DERBY DERBY
@@ -23042,6 +23067,7 @@ DESKTOP SURVIVORS 98
 DESKTOP WAIFU
 DESKTOP WAIFU DEFENDER
 DESKTOP WARRIORS
+DESKTOPDRIFTER.EXE
 DESKTOWN
 DESKWORM
 DESKX
@@ -23600,6 +23626,7 @@ DISSIPATIONDELAMAGIE
 DISSOLUTION OF THE SILENT UNION
 DISTANT OCEANIC GETAWAY
 DISTILLERY
+DISTINCT SUDOKU
 DISTINCTIVE
 DISTINCTIVE DEVELOPMENTS
 DISTINCTIVE SOFTWARE
@@ -25500,6 +25527,7 @@ Death Machine
 Death Metal Derby
 Death Nomad
 Death On Holly Ridge
+Death Paradise
 Death Row Escape
 Death Standing
 Death Trap Mountain
@@ -25525,6 +25553,7 @@ DeathMachine
 DeathMetalDerby
 DeathNomad
 DeathOnHollyRidge
+DeathParadise
 DeathRowEscape
 DeathStanding
 DeathTrapMountain
@@ -25687,6 +25716,7 @@ DeepSilver
 DeepSkyDerelicts
 DeepSleep:LabyrinthoftheForsaken
 DeepSpaceMerchant
+Deepclaim
 Deepground
 Deephold
 DeepintheFields
@@ -25971,6 +26001,8 @@ Depths of Providence
 DepthsofInsanity3
 DepthsofInsanity3Soundtrack
 DepthsofProvidence
+Der Anzeigenhauptmeister
+DerAnzeigenhauptmeister
 Derail Valley
 DerailValley
 Derby
@@ -26091,6 +26123,7 @@ DesktopDefender
 DesktopDetective
 DesktopDice
 DesktopDogPark
+DesktopDrifter.exe
 DesktopEngine
 DesktopFidget
 DesktopFishing
@@ -26788,6 +26821,8 @@ DissolutionoftheSilentUnion
 Distant Oceanic Getaway
 DistantOceanicGetaway
 Distillery
+Distinct Sudoku
+DistinctSudoku
 Distinctive
 Distinctive Developments
 Distinctive Software
@@ -29779,6 +29814,7 @@ EXIENT
 EXIENT ENTERTAINMENT
 EXIENTENTERTAINMENT
 EXILE
+EXILES OF THE DARK DUNGEON
 EXILIUM: KIRO
 EXIPELAGO
 EXIT
@@ -31473,6 +31509,8 @@ Exient
 Exient Entertainment
 ExientEntertainment
 Exile
+Exiles of the Dark Dungeon
+ExilesoftheDarkDungeon
 Exilium: Kiro
 Exilium:Kiro
 Exipelago
@@ -32968,6 +33006,7 @@ FORKLIFT CERTIFIED : STACKED AND LOADED
 FORKS AND DAGGERS
 FORM
 FORMAT CONVERTER TSAR
+FORMIC FORTRESS
 FORMS
 FORMULA
 FORMULA ONE
@@ -35286,6 +35325,8 @@ ForksandDaggers
 Form
 Format Converter Tsar
 FormatConverterTsar
+Formic Fortress
+FormicFortress
 Forms
 Formula
 Formula One
@@ -37279,6 +37320,9 @@ GOMAR&SHIOH
 GOMARSHIOH
 GOMOKU
 GON
+GON: GOD OF NOTHING
+GON: God Of Nothing
+GON:GodOfNothing
 GONE EXPLORING
 GONE FISHING
 GONE Fishing
@@ -38105,6 +38149,7 @@ GWENBLADE WITCHERESQUE
 GX
 GX-4000
 GX4000
+GYEONWOO'S LOVE
 GYM CAMP SIMULATOR
 GYM RAT SIMULATOR
 GYM SIMULATOR
@@ -40318,6 +40363,9 @@ Guérisseur
 Gwen
 GwenBlade Witcheresque
 GwenBladeWitcheresque
+Gyeonwoo s Love
+Gyeonwoo's Love
+Gyeonwoo'sLove
 Gym Camp Simulator
 Gym Rat Simulator
 Gym Simulator
@@ -42104,6 +42152,7 @@ HYDROFOIL SURFING
 HYDROPAWNICS
 HYDROTHUNDER
 HYDROTICK: WATER REMINDER & AQUARIUM MANAGER
+HYETYN: THE LAST CHARGE
 HYKE:NORTHERN LIGHT(S)
 HYKE:Northern Light s 
 HYKE:Northern Light(s)
@@ -44460,6 +44509,8 @@ HydrodynamicsofHope&Optimism
 Hydrofoil Surfing
 HydrofoilSurfing
 Hydropawnics
+Hyetyn: The Last Charge
+Hyetyn:TheLastCharge
 Hymer 2000
 Hymer2000
 Hyo
@@ -45086,6 +45137,7 @@ IN MY BUBBLE •°
 IN NEXT LIFE
 IN OUR PARLOR
 IN PURR-SUIT
+IN SEARCH OF FREEDOM
 IN SILENT WALLS : SUJET 13
 IN THE BLUE MOONLIGHT
 IN THE MIDST OF A NEVERENDING SEASON
@@ -46227,6 +46279,7 @@ In Next Life
 In Our Parlor
 In Purr Suit
 In Purr-Suit
+In Search of Freedom
 In Silent Walls : Sujet 13
 In The Roots Of The Mountain
 In Their Shoes
@@ -46250,6 +46303,7 @@ InMyBubble•°
 InNextLife
 InOurParlor
 InPurr-Suit
+InSearchofFreedom
 InSilentWalls:Sujet13
 InTheLake
 InTheRootsOfTheMountain
@@ -53399,6 +53453,7 @@ LULLABIES MADE OF STATIC
 LULLABY OF Y
 LULLAPOPS SAIL RACE
 LULU
+LULULALA
 LUMA
 LUMBER AND PLUNDER
 LUMBER JAX
@@ -55615,6 +55670,7 @@ LoyalNeutre
 Loz
 Ltd
 Ltda
+LuLuLaLa
 Lu[Idle]
 Lubba
 Luc
@@ -57287,6 +57343,7 @@ MEMBRES DE YEVON
 MEMBRESDEYEVON
 MEMBRILLO HID MY SOCKS
 MEME CARDS: CHAOS DECK
+MEME FARM
 MEME MERGE 3D
 MEME SURVIVORS: BACKROOMS
 MEMO R.I.P.
@@ -57341,6 +57398,7 @@ MEOW PATH 2
 MEOW SURVIVORS
 MEOW TOWER - DOOMSGUARD
 MEOW WEIGHT LOSS DIARY
+MEOW WITH PIPELINE
 MEOW'S MEOW
 MEOWCRAFT
 MEOWGUN: HELL DENIZEN
@@ -59198,6 +59256,7 @@ MY EX-FUTURE FAMILY SEASON 2: TWISTS OF FATE
 MY FAIR DAMNATION
 MY FATHER LIED
 MY FAV CHILL STREAMER DIES A MILLION TIMES｜ゆるゆる生配信する推しは100万回死ぬ
+MY FIRE IS BIGGER THAN YOURS
 MY FISHING DESKTOP
 MY FRIEND BARRINGTON
 MY FRIEND PEDRO
@@ -60885,9 +60944,11 @@ MembresdeYevon
 Membrillo Hid My Socks
 MembrilloHidMySocks
 Meme Cards: Chaos Deck
+Meme Farm
 Meme Merge 3D
 Meme Survivors: Backrooms
 MemeCards:ChaosDeck
+MemeFarm
 MemeMerge3D
 MemeSurvivors:Backrooms
 Memo R.I.P.
@@ -60948,6 +61009,7 @@ Meow Tower   Doomsguard
 Meow Tower - Doomsguard
 Meow Weight Loss Diary
 Meow s Meow
+Meow with Pipeline
 Meow's Meow
 Meow'sMeow
 MeowBoxCity
@@ -60963,6 +61025,7 @@ Meowment
 Meowmunitions
 Meowstery of a Growing Aurora
 MeowsteryofaGrowingAurora
+MeowwithPipeline
 Mephiles
 Mephiles the Dark
 MephilestheDark
@@ -62962,6 +63025,7 @@ My Ex-Future Family Season 2
 My Ex-Future Family Season 2: Twists of Fate
 My Fav Chill Streamer Dies a Million Times|????????????100????
 My Fav Chill Streamer Dies a Million Times｜ゆるゆる生配信する推しは100万回死ぬ
+My Fire Is Bigger Than Yours
 My Fishing Desktop
 My Friend Barrington
 My Friend Pedro
@@ -63067,6 +63131,7 @@ MyEggduck-Wallpaper&IconPack
 MyEx-FutureFamilySeason2
 MyEx-FutureFamilySeason2:TwistsofFate
 MyFavChillStreamerDiesaMillionTimes｜ゆるゆる生配信する推しは100万回死ぬ
+MyFireIsBiggerThanYours
 MyFishingDesktop
 MyFriendBarrington
 MyFriendPedro
@@ -70900,6 +70965,7 @@ PORTERS
 PORTHA
 PORTVAILLANT
 POSE CRUSH: WAIFU EDITION
+POSER
 POSITION
 POSITIVE
 POSSESS SQUAD
@@ -71137,6 +71203,7 @@ PRISMARINESHARD
 PRISMKIKAKU
 PRISON ARCHITECT
 PRISON CAT
+PRISON COOK SIMULATOR
 PRISON ESCAPE SIMULATOR
 PRISON GLOW
 PRISON LOVE
@@ -74246,12 +74313,14 @@ PrismarineShard
 PrismofYou
 Prison Architect
 Prison CAT
+Prison Cook Simulator
 Prison Escape Simulator
 Prison Glow
 Prison Miner
 Prison Out
 PrisonArchitect
 PrisonCAT
+PrisonCookSimulator
 PrisonEscapeSimulator
 PrisonGlow
 PrisonMiner
@@ -80209,6 +80278,7 @@ SAVAGE
 SAVAGE ENTERTAINMENT
 SAVAGEENTERTAINMENT
 SAVARA
+SAVE CENT
 SAVE GRANNY
 SAVE MY SCRAP
 SAVE NEW YORK 2030
@@ -80441,6 +80511,7 @@ SCRAMBRAWL DEMO
 SCRAP
 SCRAP MECHANIC
 SCRAP MECHANIC - FAN PACK
+SCRAP SNAP
 SCRAP YARD IDLE
 SCRAPS OF NOVA
 SCRATCHIES
@@ -81438,6 +81509,7 @@ SHUFFLE SHOWDOWN
 SHUFFLEHUNT
 SHUFFLES 'N SCUFFLES
 SHUFFLESHOWDOWN
+SHUJAA
 SHUJINKO
 SHULK
 SHULKER
@@ -81943,6 +82015,7 @@ SKULL8
 SKULLBANNER
 SKULLBANNERPATTERN
 SKULLBREAKER
+SKULLCHEF
 SKULLER
 SKULLER SKULLER
 SKULLERSKULLER
@@ -85175,6 +85248,7 @@ Savage
 Savage Entertainment
 SavageEntertainment
 Savara
+Save Cent
 Save Granny
 Save My Scrap
 Save New York 2030
@@ -85185,6 +85259,7 @@ Save the Kingdom - Warrior Rising
 Save the President : Trust Issues
 Save the Red Box: Prologue
 Save the eggs
+SaveCent
 SaveDaOcean
 SaveGranny
 SaveMyScrap
@@ -85399,9 +85474,11 @@ Scrap
 Scrap Mechanic
 Scrap Mechanic   Fan Pack
 Scrap Mechanic - Fan Pack
+Scrap Snap
 Scrap Yard Idle
 ScrapMechanic
 ScrapMechanic-FanPack
+ScrapSnap
 ScrapYardIdle
 Scraps of Nova
 ScrapsofNova
@@ -86599,6 +86676,7 @@ ShuffleHunt
 Shuffles  n Scuffles
 Shuffles 'n Scuffles
 Shuffles'nScuffles
+Shujaa
 Shujinko
 Shulk
 Shulker
@@ -87182,6 +87260,7 @@ SkullPirates
 SkullX: Aibohphobia
 SkullX:Aibohphobia
 Skullbreaker
+Skullchef
 Skuller
 Skuller Skuller
 SkullerSkuller
@@ -99834,6 +99913,7 @@ UNWANTED DUNGEON DEMO
 UNYIELDER
 UOZUMI
 UP
+UP POLE!
 UP TO DIVINE
 UPCREEK
 UPFALL
@@ -99863,6 +99943,7 @@ URBAN UNDERGROUNDS
 URBANSCAN
 URBEX NIGTHMARE
 URBEX SIMULATOR
+URBEX: LANKY WOODS
 URBOSA
 URIDIUM
 URIEN
@@ -100358,7 +100439,9 @@ Unwanted Dungeon Demo
 UnwantedDungeonDemo
 Uozumi
 Up
+Up Pole!
 Up To Divine
+UpPole!
 UpToDivine
 Upcreek
 Upfall
@@ -100397,6 +100480,8 @@ Urbanrunaway
 Urbanscan
 Urbex Nigthmare
 Urbex Simulator
+Urbex: Lanky Woods
+Urbex:LankyWoods
 UrbexNigthmare
 UrbexSimulator
 Urbosa
@@ -111821,6 +111906,7 @@ bothtec, inc
 bothtec,inc
 bothtecinc
 botomy
+bots to mars
 bottes
 bottes de mailles
 bottes en cuir
@@ -112443,6 +112529,7 @@ bunny's tea time
 bunnybakery
 bunnybastion
 bunnyfly: season of summer
+bunnyhop
 bunnyhoppers
 bunny’s rent-a-mom agency
 bura: the way the wind blows
@@ -113200,6 +113287,7 @@ catapult legend
 catastrophic
 catbun idle
 catcat
+catch flex
 catch it
 catch me
 catch the light
@@ -113972,6 +114060,7 @@ chronotrigger
 chu
 chu chu rocket
 chubby cats
+chuchel
 chuchu
 chuchu chuchu
 chuchuchuchu
@@ -114353,6 +114442,7 @@ coalition
 coast
 coastal summit sports: college athletics 27
 coaster crash course
+coasteroid demo
 cobalink
 cobalink sas
 cobalinksas
@@ -114452,6 +114542,7 @@ cohen
 cohort
 cohort studios
 cohortstudios
+coiled silence
 coin flippin'
 coin hunter
 coin idle
@@ -115067,6 +115158,7 @@ cousette
 cousin catcher
 cousin's house
 covenant of solitude
+cover my buns
 cover story
 covert x universe
 covet the countdown
@@ -115607,6 +115699,7 @@ cube parkour
 cube shooter
 cube slayer
 cube-field+
+cube_
 cubeescape
 cubehitscorner
 cuber
@@ -116502,6 +116595,7 @@ death machine
 death metal derby
 death nomad
 death on holly ridge
+death paradise
 death row escape
 death standing
 death stranding 2: on the beach
@@ -116621,6 +116715,7 @@ deep sky derelicts
 deep sleep
 deep sleep: labyrinth of the forsaken
 deep space merchant
+deepclaim
 deepdig: together
 deepducktroublestarringdonaldduck
 deepfried
@@ -116842,6 +116937,7 @@ deptheaven
 depths of insanity 3
 depths of insanity 3 soundtrack
 depths of providence
+der anzeigenhauptmeister
 derail valley
 derby
 derby derby
@@ -116940,6 +117036,7 @@ desktop survivors 98
 desktop waifu
 desktop waifu defender
 desktop warriors
+desktopdrifter.exe
 desktopmycat
 desktown
 deskworm
@@ -117494,6 +117591,7 @@ dissipationdelamagie
 dissolution of the silent union
 distant oceanic getaway
 distillery
+distinct sudoku
 distinctive
 distinctive developments
 distinctive software
@@ -120037,6 +120135,7 @@ exient
 exient entertainment
 exiententertainment
 exile
+exiles of the dark dungeon
 exilium: kiro
 exipelago
 exit
@@ -121414,6 +121513,7 @@ forklift certified : stacked and loaded
 forks and daggers
 form
 format converter tsar
+formic fortress
 forms
 formula
 formula one
@@ -123210,6 +123310,7 @@ gomar&shioh
 gomarshioh
 gomoku
 gon
+gon: god of nothing
 gone exploring
 gone fishing
 gone home
@@ -123983,6 +124084,7 @@ gwenblade witcheresque
 gx
 gx-4000
 gx4000
+gyeonwoo's love
 gym camp simulator
 gym rat simulator
 gym simulator
@@ -125706,6 +125808,7 @@ hydrofoil surfing
 hydropawnics
 hydrothunder
 hydrotick: water reminder & aquarium manager
+hyetyn: the last charge
 hyke:northern light(s)
 hymer 2000
 hyo
@@ -126258,6 +126361,7 @@ in my bubble •°
 in next life
 in our parlor
 in purr-suit
+in search of freedom
 in silent walls : sujet 13
 in the Blue Moonlight
 in the blue moonlight
@@ -130915,6 +131019,7 @@ lullabies made of static
 lullaby of y
 lullapops sail race
 lulu
+lululala
 luma
 lumber and plunder
 lumber jax
@@ -132362,6 +132467,7 @@ membres de yevon
 membresdeyevon
 membrillo hid my socks
 meme cards: chaos deck
+meme farm
 meme merge 3d
 meme survivors: backrooms
 memo r.i.p.
@@ -132412,6 +132518,7 @@ meow path 2
 meow survivors
 meow tower - doomsguard
 meow weight loss diary
+meow with pipeline
 meow's meow
 meowcraft
 meowgun: hell denizen
@@ -134180,6 +134287,7 @@ my ex-future family season 2: twists of fate
 my fair damnation
 my father lied
 my fav chill streamer dies a million times｜ゆるゆる生配信する推しは100万回死ぬ
+my fire is bigger than yours
 my fishing desktop
 my friend barrington
 my friend pedro
@@ -138853,6 +138961,7 @@ porters
 portha
 portvaillant
 pose crush: waifu edition
+poser
 position
 positive
 possess squad
@@ -139089,6 +139198,7 @@ prismarineshard
 prismkikaku
 prison architect
 prison cat
+prison cook simulator
 prison escape simulator
 prison glow
 prison love
@@ -142177,6 +142287,7 @@ savage
 savage entertainment
 savageentertainment
 savara
+save cent
 save granny
 save my scrap
 save new york 2030
@@ -142371,6 +142482,7 @@ scrambrawl demo
 scrap
 scrap mechanic
 scrap mechanic - fan pack
+scrap snap
 scrap yard idle
 scraps of nova
 scratchies
@@ -143282,6 +143394,7 @@ shu
 shuffle showdown
 shufflehunt
 shuffles 'n scuffles
+shujaa
 shujinko
 shulk
 shulker
@@ -143767,6 +143880,7 @@ skull_banner_pattern
 skullbanner
 skullbannerpattern
 skullbreaker
+skullchef
 skuller
 skuller skuller
 skullerskuller
@@ -150432,6 +150546,7 @@ unwanted dungeon demo
 unyielder
 uozumi
 up
+up pole!
 up to divine
 upcreek
 upfall
@@ -150460,6 +150575,7 @@ urban undergrounds
 urbanscan
 urbex nigthmare
 urbex simulator
+urbex: lanky woods
 urbosa
 uridium
 urien
