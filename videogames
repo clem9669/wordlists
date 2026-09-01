@@ -1497,14 +1497,17 @@
 8AM: THE SHOPPING MALL
 8AM: THE SUBWAY
 8AM: THE SWIMMING POOL
+8AM: THE WAREHOUSE
 8AM: The Office
 8AM: The Shopping Mall
 8AM: The Subway
 8AM: The Swimming Pool
+8AM: The Warehouse
 8AM:TheOffice
 8AM:TheShoppingMall
 8AM:TheSubway
 8AM:TheSwimmingPool
+8AM:TheWarehouse
 8BIT
 8BIT GAMES
 8BITGAMES
@@ -1517,6 +1520,7 @@
 8am: the shopping mall
 8am: the subway
 8am: the swimming pool
+8am: the warehouse
 8bit
 8bit Games
 8bit games
@@ -1668,6 +1672,7 @@
 ???:???
 ???:????? Demo
 ???:??????
+???:????????,??????
 ???:LexiLoong
 ????
 ???? (Bagua Alley)
@@ -2629,6 +2634,7 @@ ADVENT NEON®
 ADVENTURE
 ADVENTURE INTERNATIONAL
 ADVENTURE ISLAND
+ADVENTURE LAND - THE CODE MMORPG
 ADVENTURE OF SAMSARA
 ADVENTURE SEEKERS: LOST TO SEA COLLECTOR'S EDITION
 ADVENTURE TD
@@ -4202,6 +4208,7 @@ ARKHAMDEVELOPMENT
 ARKTidesofFortune
 ARMA
 ARMA REFORGER
+ARMADA FIGHTERS
 ARMADA PET WARS DEMO
 ARMADILLO
 ARMAGEDDON
@@ -5391,6 +5398,8 @@ AdventNEON®
 Adventure
 Adventure International
 Adventure Island
+Adventure Land   The Code MMORPG
+Adventure Land - The Code MMORPG
 Adventure Seekers: Lost to Sea Collector s Edition
 Adventure Seekers: Lost to Sea Collector's Edition
 Adventure TD
@@ -5404,6 +5413,7 @@ Adventure'sPlanet
 Adventure'sPlanetSRL
 AdventureInternational
 AdventureIsland
+AdventureLand-TheCodeMMORPG
 AdventureSeekers:LosttoSeaCollector'sEdition
 AdventureTD
 AdventureTime:PiratesoftheEnchiridion
@@ -7100,7 +7110,9 @@ ArkhamDevelopment
 ArmOut
 Arma Reforger
 ArmaReforger
+Armada Fighters
 Armada Pet Wars Demo
+ArmadaFighters
 ArmadaPetWarsDemo
 Armadillo
 Armageddon
@@ -14904,6 +14916,7 @@ CARNIVALGAMES
 CARNIVORES
 CARO
 CAROL
+CAROL AND THE BELLS: A COZY STRATEGY GAME
 CAROL SHAW (PERSONNE
 CAROL SHAW (PERSONNE INDIVIDUELL
 CAROLSHAW(PERSONNE
@@ -17357,6 +17370,7 @@ CRICKET
 CRICKET CAPTAIN 2025
 CRICKET MANAGEMENT TYCOON
 CRIME DETECTIVE: RED FLAGS
+CRIME SCENE CLEAN: PARANORMAL
 CRIMEBLOC
 CRIMINALLY YOURS
 CRIMP
@@ -17368,6 +17382,7 @@ CRIMSON DESERT
 CRIMSON DESERT DELUXE EDITION
 CRIMSON DESERT ENHANCED
 CRIMSON DESERT STANDARD EDITION
+CRIMSON ENGINES
 CRIMSON LOOP
 CRIMSON MANSION
 CRIMSON NIGHT
@@ -18400,8 +18415,10 @@ Caro
 Carol
 Carol Shaw (Personne
 Carol Shaw (Personne Individuell
+Carol and the Bells: A Cozy Strategy Game
 CarolShaw(Personne
 CarolShaw(PersonneIndividuell
+CarolandtheBells:ACozyStrategyGame
 Carotte
 Carotte dorée
 Carotte sur un baton
@@ -21297,8 +21314,10 @@ Cricket Management Tycoon
 CricketCaptain2025
 CricketManagementTycoon
 Crime Detective: Red Flags
+Crime Scene Clean: Paranormal
 CrimeBloc
 CrimeDetective:RedFlags
+CrimeSceneClean:Paranormal
 Criminally Yours
 CriminallyYours
 Crimp
@@ -21310,6 +21329,7 @@ Crimson Desert
 Crimson Desert Deluxe Edition
 Crimson Desert Enhanced
 Crimson Desert Standard Edition
+Crimson Engines
 Crimson Loop
 Crimson Mansion
 Crimson Night
@@ -21323,6 +21343,7 @@ CrimsonDesert
 CrimsonDesertDeluxeEdition
 CrimsonDesertEnhanced
 CrimsonDesertStandardEdition
+CrimsonEngines
 CrimsonLoop
 CrimsonMansion
 CrimsonNight
@@ -23206,10 +23227,13 @@ DEVIL MAY
 DEVIL MAY CRY
 DEVIL MAY CRY 3
 DEVIL MAY CRY 5
+DEVIL S LIMINAL
 DEVIL'S
 DEVIL'S CRUSH
 DEVIL'S DRIZZLE
+DEVIL'S LIMINAL
 DEVIL'SCRUSH
+DEVIL'SLIMINAL
 DEVILJIN
 DEVILKAZUYA
 DEVILMAY
@@ -24406,6 +24430,7 @@ DREAMER
 DREAMFAB
 DREAMFACTORY
 DREAMFORGE DEMO
+DREAMHERO
 DREAMING ON THE LAST LIGHT 人偶馆绮幻夜
 DREAMLAND
 DREAMON
@@ -24801,6 +24826,7 @@ DVIDE ARTS
 DVIDE ARTS INC
 DVIDEARTS
 DVIDEARTSINC
+DVOR
 DVORAH
 DVa
 DVide
@@ -27742,6 +27768,7 @@ DreamForge Demo
 DreamForgeDemo
 DreamGame
 DreamGarden
+DreamHero
 DreamHouseCleaning
 DreamNight
 DreamOn
@@ -28222,6 +28249,7 @@ Dustward
 Dustwind: Resistance
 Dustwind:Resistance
 Duty
+Dvor
 Dwarf Eats Mountain
 Dwarf Saga
 DwarfEatsMountain
@@ -28798,6 +28826,7 @@ EGGMART
 EGGO
 EGGO-DIL
 EGGODIL
+EGGOS: INCREMENTAL GAME DEV
 EGGS MUST FLOW
 EGGSCAPE
 EGGSHIT
@@ -30315,6 +30344,8 @@ EggBall
 EggChef
 EggChickenFarm
 EggFinder
+EggOS: Incremental Game Dev
+EggOS:IncrementalGameDev
 Eggerland
 Egglings
 Eggman
@@ -32483,6 +32514,10 @@ FIRE PRO
 FIRE PRO WRESTLING
 FIREBALL
 FIREBIRD
+FIREBOY & WATERGIRL 1: THE FOREST TEMPLE
+FIREBOY & WATERGIRL 2: THE LIGHT TEMPLE
+FIREBOY & WATERGIRL 3: THE ICE TEMPLE
+FIREBOY & WATERGIRL 4: THE CRYSTAL TEMPLE
 FIREBRAND
 FIREBRAND GAMES
 FIREBRANDGAMES
@@ -34622,6 +34657,18 @@ FireMapleGames
 FirePro
 FireProWrestling
 Firebird
+Fireboy   Watergirl 1: The Forest Temple
+Fireboy   Watergirl 2: The Light Temple
+Fireboy   Watergirl 3: The Ice Temple
+Fireboy   Watergirl 4: The Crystal Temple
+Fireboy & Watergirl 1: The Forest Temple
+Fireboy & Watergirl 2: The Light Temple
+Fireboy & Watergirl 3: The Ice Temple
+Fireboy & Watergirl 4: The Crystal Temple
+Fireboy&Watergirl1:TheForestTemple
+Fireboy&Watergirl2:TheLightTemple
+Fireboy&Watergirl3:TheIceTemple
+Fireboy&Watergirl4:TheCrystalTemple
 Firebrand
 Firebrand Games
 FirebrandGames
@@ -37022,6 +37069,7 @@ GLIMMERLEPOISSON-PECHEUR
 GLIMMERLEPOISSONPECHEUR
 GLIMPO
 GLIMVALE : MY MINI OVERWORLD
+GLINT GRADE
 GLISTERING
 GLISTERING MELON
 GLISTERING MELON SLICE
@@ -37781,6 +37829,7 @@ GREatEffects
 GREatEffectsDevelopment
 GRIBOUILLE
 GRID OF CHANGE
+GRIDFALL
 GRIDFALL: NINE-GRID
 GRIDHOLM
 GRIDKEEPER
@@ -39158,6 +39207,8 @@ Glimmerlepoisson-pecheur
 Glimmerlepoissonpecheur
 Glimvale : My Mini Overworld
 Glimvale:MyMiniOverworld
+Glint Grade
+GlintGrade
 Glistering
 Glistering Melon
 Glistering Melon Slice
@@ -41593,6 +41644,7 @@ HIRAGANA FLASHCARDS
 HIRAGANA HERO
 HIRAGANA HERO DEMO
 HIRANO
+HIRE
 HIRED STARS
 HIROGAMI
 HIROSE
@@ -43793,6 +43845,7 @@ HiraganaFlashcards
 HiraganaHero
 HiraganaHeroDemo
 Hirano
+Hire
 Hired Stars
 HiredStars
 Hirogami
@@ -45178,6 +45231,7 @@ IMarriedMyGiantYandereGothBully
 IMax
 IMissedtheApocalypse
 IN
+IN & OUT
 IN A BIT OF TALES
 IN A WORLD AFTER PEOPLE DEMO
 IN DEATH WE LOVE
@@ -45556,6 +45610,7 @@ INTERNATIONAL SUPERSTAR
 INTERNATIONAL SUPERSTAR SOCCER
 INTERNATIONAL SUPERSTAR SOCCER DELUXE
 INTERNATIONAL TENNIS
+INTERNATIONAL TRADING LEAGUE
 INTERNATIONALCRICKET
 INTERNATIONALCRICKETCAPTAIN
 INTERNATIONALKARATE+
@@ -46321,6 +46376,8 @@ ImpulseGames
 ImpulseReactor
 Impérial
 In
+In   Out
+In & Out
 In My Bubble o?
 In My Bubble •°
 In Next Life
@@ -46335,6 +46392,7 @@ In Utero
 In a Bit of Tales
 In a World After People Demo
 In the Midst of a Neverending Season
+In&Out
 In-House
 InHome
 InHome Software
@@ -46788,6 +46846,7 @@ International Superstar
 International Superstar Soccer
 International Superstar Soccer Deluxe
 International Tennis
+International Trading League
 InternationalBasketballManager26
 InternationalCricket
 InternationalCricketCaptain
@@ -46797,6 +46856,7 @@ InternationalSuperstar
 InternationalSuperstarSoccer
 InternationalSuperstarSoccerDeluxe
 InternationalTennis
+InternationalTradingLeague
 Internet
 Internet Entrepreneurship Simulator
 Internet Survivor Survivors
@@ -52519,6 +52579,8 @@ LET HER GO
 LET HIM BAKE
 LET IT CONSUME DEMO
 LET IT DIE: INFERNO
+LET IT DIE: OFFLINE KEY
+LET IT DIE: Offline Key
 LET ME CATCH YOU
 LET ME GRADUATE
 LET THEM TRADE
@@ -52536,6 +52598,7 @@ LETDECO
 LETHAL DUNGEON
 LETIFER
 LETITDIE:INFERNO
+LETITDIE:OfflineKey
 LETRAINDESTAUPES
 LETS
 LETS NUKE MARS
@@ -58036,6 +58099,7 @@ MIMETIC - PROP HUNT HIDE AND SEEK
 MIMI IN MEOWNDERING HOUSE
 MIMIBIRD
 MIMIC
+MIMIC ESCAPE
 MIMIC MAN
 MIMIC PARTY
 MIN
@@ -59242,6 +59306,7 @@ MUSIC_DISC_PIGSTEP
 MUSIQUE
 MUSTSCREAM
 MUSYNX:RETURN
+MUTAGENIC
 MUTANT
 MUTANT FOOTBALL LEAGUE 2
 MUTANT LEAGUE FOOTBALL
@@ -61659,8 +61724,10 @@ Mimetic-Prophunthideandseek
 Mimi in Meowndering House
 MimiBird
 Mimic
+Mimic Escape
 Mimic Man
 Mimic Party
+MimicEscape
 MimicMan
 MimicParty
 MimiinMeownderingHouse
@@ -63041,6 +63108,7 @@ MusicalSlime
 Musicien
 Musique
 MustScream
+Mutagenic
 Mutant
 Mutant Football League 2
 Mutant League Football
@@ -64289,6 +64357,7 @@ NIGHTMAZE
 NIGHTMIST
 NIGHTORK ADVENTURES 3 - ARENA
 NIGHTPYRE DEMO
+NIGHTROOT
 NIGHTS
 NIGHTS (GAMELOFT)
 NIGHTS (SEGA)
@@ -64637,6 +64706,7 @@ NOMORE
 NOMOREHEROES
 NOMOREWORKFORITO
 NOMSTERS
+NOMËN IPSA
 NON-VIRTUAL REALITY GAMES
 NONE
 NONE STUDIO
@@ -65678,6 +65748,7 @@ Nightork Adventures 3 - Arena
 NightorkAdventures3-Arena
 Nightpyre Demo
 NightpyreDemo
+Nightroot
 Nights
 Nights (Gameloft)
 Nights (Sega)
@@ -66074,7 +66145,10 @@ Nomad
 Nomad Nightmare   Episode 1: Awakening
 Nomad Nightmare - Episode 1: Awakening
 NomadNightmare-Episode1:Awakening
+Nomen Ipsa
 Nomnomia
+Nomën Ipsa
+NomënIpsa
 Non Virtual Reality Games
 Non-Virtual Reality Games
 Non-VirtualRealityGames
@@ -66913,6 +66987,7 @@ OGStreamerBeats
 OGames
 OH BALLS MERGE
 OH BUOY!
+OH MY HAT
 OH NO! I’M SURROUNDED BY POLYGONS!
 OH PUCK!
 OH SO HERO!
@@ -68133,12 +68208,14 @@ OgreChambers2222Demo
 Ogres
 Oh Balls Merge
 Oh Buoy!
+Oh My Hat
 Oh No! I'm Surrounded by Polygons!
 Oh No! I’m Surrounded by Polygons!
 Oh Puck!
 Oh So Hero!
 OhBallsMerge
 OhBuoy!
+OhMyHat
 OhNo!I’mSurroundedbyPolygons!
 OhPuck!
 OhSoHero!
@@ -69086,6 +69163,7 @@ PACKIN
 PACKIN VIDEO
 PACKINVIDEO
 PACKONOMY
+PACKPUNK
 PACMAN
 PACMAN VS
 PACMANIA
@@ -70016,6 +70094,7 @@ PHANTOM LOOP: FULL CIRCLE
 PHANTOM MEMBRANE
 PHANTOM NECRO
 PHANTOM OF THE LILY
+PHANTOM PROTOCOL
 PHANTOM SPAWN
 PHANTOM SPAWN EGG
 PHANTOM TAG: MANIFEST
@@ -70703,6 +70782,7 @@ PLUMY
 PLUNGELO
 PLURALYS
 PLUS
+PLUSHY STORE TIDY UP
 PNEUMA
 PNG BATTLE
 PNGBATTLE
@@ -71473,7 +71553,10 @@ PROJECTX
 PROJECTZERO
 PROJEKT
 PROJEKT GODHAND
+PROJEKT GODHAND ACT 2 "PURGATORIO"
+PROJEKT GODHAND act 2 "purgatorio"
 PROJEKTGODHAND
+PROJEKTGODHANDact2"purgatorio"
 PROLOGUE: GO WAYBACK!
 PROMO ÉDITEUR
 PROMOTIONNELLE
@@ -71897,6 +71980,7 @@ Packie McReary
 PackieMcReary
 PackmyLunchBox
 Packonomy
+Packpunk
 Pacmania
 Pact of Steel
 Pacto
@@ -72844,6 +72928,7 @@ Phantom Incident
 Phantom Loop: Full Circle
 Phantom Membrane
 Phantom Necro
+Phantom Protocol
 Phantom Spawn
 Phantom Spawn Egg
 Phantom Tower Demo
@@ -72858,6 +72943,7 @@ PhantomIncident
 PhantomLoop:FullCircle
 PhantomMembrane
 PhantomNecro
+PhantomProtocol
 PhantomSpawn
 PhantomSpawnEgg
 PhantomTowerDemo
@@ -73702,6 +73788,8 @@ Plumy
 Plungelo
 Pluralys
 Plus
+Plushy Store Tidy Up
+PlushyStoreTidyUp
 Pneuma
 Pno:??
 Pno：琴音
@@ -75136,8 +75224,10 @@ QIÚ 泅
 QNG
 QOHELET
 QPET ZOO
+QPOPGIRL
 QPet Zoo
 QPetZoo
+QPopGirl
 QQ MEDIA STUDIO
 QQQ
 QR CONTROLLER
@@ -76309,6 +76399,7 @@ REIKAMIZUSAWA
 REIKO
 REIKO MURAKAMI
 REIKOMURAKAMI
+REINCARNAGE
 REINCARNATED AS A DARK LORD BEFORE TAKING OVER THE WORLD WITH POWER 999999999
 REINCARNATION GALGAME BECOME HEROINE!
 REINE
@@ -77415,6 +77506,7 @@ RUINA
 RUINS OF FEAR
 RUINSSTORY
 RULE OR FALL
+RULE SEEKER
 RULES
 RUMBRAL
 RUMI
@@ -79690,7 +79782,9 @@ Ruina
 Ruins Of Fear
 RuinsOfFear
 RuinsStory
+Rule Seeker
 Rule or Fall
+RuleSeeker
 RuleorFall
 Rules
 Rumbral
@@ -80023,6 +80117,7 @@ SAHUR:EscapeTogether
 SAIBOT
 SAIGUSA
 SAIKEY ASSETS MANAGER
+SAIL: EVOLVED TIDES
 SAILFRONT
 SAINT OF CHAINS
 SAINT SLAYER: SPEAR OF SACRILEGE
@@ -80733,6 +80828,7 @@ SECONDAIRES
 SECONDS TILL DESTRUCTION
 SECONDSIGHT
 SECRET
+SECRET BASE
 SECRET CATS - INDEPENDENCE DAY
 SECRET DICE
 SECRET EXIT
@@ -81016,6 +81112,7 @@ SERIEMADNESS
 SERIES
 SERIOUS
 SERIOUS SAM
+SERIOUS SAM FRANCHISE ADVERTISING APP
 SERIOUSSAM
 SERPENFLAMME
 SERPENT
@@ -81028,6 +81125,7 @@ SERVEUSE
 SERVICE
 SERVICE CLIENTELE
 SERVICE CLIENTÈLE
+SERVICE EQUALS SURVIVAL
 SERVICE PLEASE: FIRST DINNER
 SERVICECLIENTELE
 SERVICECLIENTÈLE
@@ -83577,6 +83675,7 @@ STARS
 STARSAND ISLAND
 STARSAND ISLAND CLASSIC EUROPEAN FURNITURE, FASHION & VEHICLES DLC
 STARSHIELD
+STARSHIP KEPLER
 STARSHIP THEORY
 STARSHIP TROOPERS: EXTERMINATION - PATH TO CITIZENSHIP MEGA SUPPORTER PACK
 STARSHIP TROOPERS: ULTIMATE BUG WAR!
@@ -83594,6 +83693,7 @@ STARTUP COMPANY
 STARTUP FRAMES
 STARTUPFRAMES
 STARVAULT
+STARWALKER
 STARWARS
 STARWARS:KNIGHTSOFOLDREPUBLIC
 STARWARS:KNIGHTSOFTHEOLDREPUBLIC
@@ -84975,6 +85075,8 @@ Saibot
 Saigusa
 Saikey Assets Manager
 SaikeyAssetsManager
+Sail: Evolved Tides
+Sail:EvolvedTides
 SailFront
 Saint Slayer: Spear of Sacrilege
 Saint of Chains
@@ -85752,6 +85854,7 @@ SecondSight
 Seconds Till Destruction
 SecondsTillDestruction
 Secret
+Secret Base
 Secret Cats   Independence Day
 Secret Cats - Independence Day
 Secret Dice
@@ -85763,6 +85866,7 @@ Secret Seeker
 Secret Some
 Secret Spots Demo
 Secret of Mana
+SecretBase
 SecretCats-IndependenceDay
 SecretDice
 SecretExit
@@ -86049,7 +86153,9 @@ Seriedecloneno48
 Series
 Serious
 Serious Sam
+Serious Sam Franchise Advertising App
 SeriousSam
+SeriousSamFranchiseAdvertisingApp
 Serpenflamme
 Serpent s Gaze
 Serpent's Gaze
@@ -86064,9 +86170,11 @@ Serveuse
 Service
 Service Clientele
 Service Clientèle
+Service Equals Survival
 Service Please: First Dinner
 ServiceClientele
 ServiceClientèle
+ServiceEqualsSurvival
 ServiceIT: You can do IT
 ServiceIT:YoucandoIT
 ServicePlease:FirstDinner
@@ -89151,10 +89259,12 @@ Starsand Island Classic European Furniture, Fashion & Vehicles DLC
 StarsandIsland
 StarsandIslandClassicEuropeanFurniture,Fashion&VehiclesDLC
 Starshield
+Starship Kepler
 Starship Theory
 Starship Troopers: Extermination   Path to Citizenship MEGA Supporter Pack
 Starship Troopers: Extermination - Path to Citizenship MEGA Supporter Pack
 Starship Troopers: Ultimate Bug War!
+StarshipKepler
 StarshipTheory
 StarshipTroopers:Extermination-PathtoCitizenshipMEGASupporterPack
 StarshipTroopers:UltimateBugWar!
@@ -89168,6 +89278,7 @@ Startup Company
 Startup frames
 StartupCompany
 Startupframes
+Starwalker
 Starwave
 Stash: A Card Looter
 Stash:ACardLooter
@@ -91608,6 +91719,7 @@ TERRAFORMING TITANS
 TERRAGLYPH
 TERRAKO
 TERRANOVA
+TERRARIA
 TERRASAVE
 TERRASPACE
 TERRASTONE
@@ -91833,6 +91945,7 @@ THE BLACK VAULT
 THE BLACKWOOD PROJECT
 THE BLEAKEST KEEP
 THE BLESSING OF AIRON
+THE BLOOD OF DAWNWALKER
 THE BLOODY CROSS
 THE BOMB SPLIT
 THE BOOK OF AARU
@@ -91933,6 +92046,7 @@ THE DEADALUS ENCOUNTER
 THE DEADLINE
 THE DEADSEAT
 THE DEATH FOREST
+THE DEATH GAME REPORT
 THE DEATHMIND
 THE DEEP LIBRARY
 THE DEEPWOODS
@@ -93191,6 +93305,7 @@ TIDES OF DARKNESS
 TIDES OF TOMORROW 🌊
 TIDESOFDARKNESS
 TIDEWANE
+TIDEWRACK
 TIDUS
 TIDY MART
 TIDY UP
@@ -95456,6 +95571,7 @@ Terraforming Titans
 TerraformingTitans
 Terraglyph
 Terrako
+Terraria
 Terraspace
 Terrastone
 Terrence
@@ -95716,6 +95832,7 @@ The Black Vault
 The Blackwood Project
 The Bleakest Keep
 The Blessing of Airon
+The Blood of Dawnwalker
 The Bloody Cross
 The Bomb Split
 The Book of Aaru
@@ -95820,6 +95937,7 @@ The Dead House
 The DeadLine
 The Deadalus Encounter
 The Deadseat
+The Death Game Report
 The Deathmind
 The Deep Library
 The Deepwoods
@@ -96719,6 +96837,7 @@ TheBlackVault
 TheBlackwoodProject
 TheBleakestKeep
 TheBlessingofAiron
+TheBloodofDawnwalker
 TheBloodyCross
 TheBombSplit
 TheBookofAaru
@@ -96818,6 +96937,7 @@ TheDeadHouse
 TheDeadLine
 TheDeadalusEncounter
 TheDeadseat
+TheDeathGameReport
 TheDeathmind
 TheDeepLibrary
 TheDeepwoods
@@ -97873,6 +97993,7 @@ TideWane
 Tides of Tomorrow ?
 Tides of Tomorrow 🌊
 TidesofTomorrow🌊
+Tidewrack
 Tidus
 Tidy Mart
 Tidy Up
@@ -107728,6 +107849,7 @@ advent neon®
 adventure
 adventure international
 adventure island
+adventure land - the code mmorpg
 adventure of samsara
 adventure seekers: lost to sea collector's edition
 adventure td
@@ -109140,6 +109262,7 @@ arkhamcity
 arkhamdevelopment
 arma
 arma reforger
+armada fighters
 armada pet wars demo
 armadillo
 armageddon
@@ -113217,6 +113340,7 @@ carnivalgames
 carnivores
 caro
 carol
+carol and the bells: a cozy strategy game
 carol shaw (personne
 carol shaw (personne individuell
 carolshaw(personne
@@ -115576,6 +115700,7 @@ cricket
 cricket captain 2025
 cricket management tycoon
 crime detective: red flags
+crime scene clean: paranormal
 crimebloc
 criminally yours
 crimp
@@ -115587,6 +115712,7 @@ crimson desert
 crimson desert deluxe edition
 crimson desert enhanced
 crimson desert standard edition
+crimson engines
 crimson loop
 crimson mansion
 crimson night
@@ -117272,6 +117398,7 @@ devil may cry 5
 devil's
 devil's crush
 devil's drizzle
+devil's liminal
 devil'scrush
 deviljin
 devilkazuya
@@ -118395,6 +118522,7 @@ dreamer
 dreamfab
 dreamfactory
 dreamforge demo
+dreamhero
 dreaming on the last light 人偶馆绮幻夜
 dreamland
 dreamon
@@ -118767,6 +118895,7 @@ dvide arts
 dvide arts inc
 dvidearts
 dvideartsinc
+dvor
 dvorah
 dwarf eats mountain
 dwarf saga
@@ -119237,6 +119366,7 @@ eggmart
 eggo
 eggo-dil
 eggodil
+eggos: incremental game dev
 eggs must flow
 eggscape
 eggshit
@@ -121090,6 +121220,10 @@ fire pro
 fire pro wrestling
 fireball
 firebird
+fireboy & watergirl 1: the forest temple
+fireboy & watergirl 2: the light temple
+fireboy & watergirl 3: the ice temple
+fireboy & watergirl 4: the crystal temple
 firebrand
 firebrand games
 firebrandgames
@@ -123108,6 +123242,7 @@ glimmerlepoisson-pecheur
 glimmerlepoissonpecheur
 glimpo
 glimvale : my mini overworld
+glint grade
 glistering
 glistering melon
 glistering melon slice
@@ -123846,6 +123981,7 @@ greywind's legacy - a text based, skill progression, rpg
 grezzo
 gribouille
 grid of change
+gridfall
 gridfall: nine-grid
 gridholm
 gridkeeper
@@ -125357,6 +125493,7 @@ hiragana flashcards
 hiragana hero
 hiragana hero demo
 hirano
+hire
 hired stars
 hirogami
 hirose
@@ -126481,6 +126618,7 @@ impérial
 imry
 imry demo
 in
+in & out
 in Death we Love
 in a bit of tales
 in a world after people demo
@@ -126855,6 +126993,7 @@ international superstar
 international superstar soccer
 international superstar soccer deluxe
 international tennis
+international trading league
 internationalcricket
 internationalcricketcaptain
 internationalkarate+
@@ -130203,6 +130342,7 @@ let her go
 let him bake
 let it consume demo
 let it die: inferno
+let it die: offline key
 let me catch you
 let me graduate
 let them trade
@@ -133195,6 +133335,7 @@ mimetic - prop hunt hide and seek
 mimi in meowndering house
 mimibird
 mimic
+mimic escape
 mimic man
 mimic party
 min
@@ -134360,6 +134501,7 @@ musicrunner
 musique
 mustscream
 musynx:return
+mutagenic
 mutant
 mutant football league 2
 mutant league football
@@ -135352,6 +135494,7 @@ nightmaze
 nightmist
 nightork adventures 3 - arena
 nightpyre demo
+nightroot
 nights
 nights (gameloft)
 nights (sega)
@@ -135679,6 +135822,7 @@ nomnomia
 nomore
 nomoreheroes
 nomsters
+nomën ipsa
 non-virtual reality games
 none
 none studio
@@ -136510,6 +136654,7 @@ ogrebattle
 ogres
 oh balls merge
 oh buoy!
+oh my hat
 oh no! i’m surrounded by polygons!
 oh puck!
 oh so hero!
@@ -137200,6 +137345,7 @@ packin
 packin video
 packinvideo
 packonomy
+packpunk
 pacman
 pacman vs
 pacmania
@@ -138061,6 +138207,7 @@ phantom loop: full circle
 phantom membrane
 phantom necro
 phantom of the lily
+phantom protocol
 phantom spawn
 phantom spawn egg
 phantom tag: manifest
@@ -138747,6 +138894,7 @@ plumy
 plungelo
 pluralys
 plus
+plushy store tidy up
 pneuma
 png battle
 pno：琴音
@@ -139530,6 +139678,7 @@ projectx
 projectzero
 projekt
 projekt godhand
+projekt godhand act 2 "purgatorio"
 prologue: go wayback!
 promo éditeur
 promotionnelle
@@ -139929,6 +140078,7 @@ qiú 泅
 qng
 qohelet
 qpet zoo
+qpopgirl
 qq media studio
 qqq
 qr controller
@@ -140809,6 +140959,7 @@ reikamizusawa
 reiko
 reiko murakami
 reikomurakami
+reincarnage
 reincarnated as a dark lord before taking over the world with power 999999999
 reincarnation galgame become heroine!
 reine
@@ -141848,6 +141999,7 @@ ruina
 ruins of fear
 ruinsstory
 rule or fall
+rule seeker
 rules
 rumbral
 rumi
@@ -142107,6 +142259,7 @@ sahur: escape together
 saibot
 saigusa
 saikey assets manager
+sail: evolved tides
 sailfront
 saint of chains
 saint slayer: spear of sacrilege
@@ -142750,6 +142903,7 @@ secondaires
 seconds till destruction
 secondsight
 secret
+secret base
 secret cats - independence day
 secret dice
 secret exit
@@ -143009,6 +143163,7 @@ seriemadness
 series
 serious
 serious sam
+serious sam franchise advertising app
 serioussam
 serpenflamme
 serpent
@@ -143021,6 +143176,7 @@ serveuse
 service
 service clientele
 service clientèle
+service equals survival
 service please: first dinner
 serviceclientele
 serviceclientèle
@@ -145430,6 +145586,7 @@ stars
 starsand island
 starsand island classic european furniture, fashion & vehicles dlc
 starshield
+starship kepler
 starship theory
 starship troopers: extermination - path to citizenship mega supporter pack
 starship troopers: ultimate bug war!
@@ -145447,6 +145604,7 @@ startup company
 startup frames
 startupframes
 starvault
+starwalker
 starwars
 starwars:knightsofoldrepublic
 starwars:knightsoftheoldrepublic
@@ -147412,6 +147570,7 @@ terraforming titans
 terraglyph
 terrako
 terranova
+terraria
 terrasave
 terraspace
 terrastone
@@ -147633,6 +147792,7 @@ the black vault
 the blackwood project
 the bleakest keep
 the blessing of airon
+the blood of dawnwalker
 the bloody cross
 the bomb split
 the book of aaru
@@ -147733,6 +147893,7 @@ the deadalus encounter
 the deadline
 the deadseat
 the death forest
+the death game report
 the deathmind
 the deep library
 the deepwoods
@@ -148961,6 +149122,7 @@ tides of darkness
 tides of tomorrow 🌊
 tidesofdarkness
 tidewane
+tidewrack
 tidus
 tidy mart
 tidy up
@@ -154672,6 +154834,7 @@ zèbre
 祟り坂 | tatari curse road
 祟り坂|TATARICurseroad
 禁地直播
+空之歌：每当磁针再次振动，我便在此等待
 空野まなみの事件録 ― 空白のカルテ ―
 空野まなみの事件録―空白のカルテ―
 第一次挂机
