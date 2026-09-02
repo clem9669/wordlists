@@ -5046,6 +5046,7 @@ AXOLOTL
 AXOLOTL BUCKET
 AXOLOTL DANS
 AXOLOTL DANS UN SEAU
+AXOLOTL RANGEFIGHTERS
 AXOLOTL SPAWN
 AXOLOTL SPAWN EGG
 AXOLOTLBUCKET
@@ -8013,10 +8014,12 @@ Axol s Quest
 Axol's Quest
 Axol'sQuest
 Axolotl
+Axolotl Rangefighters
 Axolotl Spawn
 Axolotl Spawn Egg
 Axolotl dans
 Axolotl dans un seau
+AxolotlRangefighters
 AxolotlSpawn
 AxolotlSpawnEgg
 Axolotldans
@@ -9029,6 +9032,7 @@ BEHOLD THE HORDE
 BEHOLDER
 BEHOLDSTUDIOS
 BEHOLGAR 2
+BEING A DIK - SEASON 3
 BEIZ
 BEL-AIR
 BEL-AIR SOFTWARE
@@ -12058,6 +12062,9 @@ BeholdtheHorde
 Beholgar 2
 Beholgar2
 BeiZ
+Being a DIK   Season 3
+Being a DIK - Season 3
+BeingaDIK-Season3
 Bel-Air
 Bel-Air Software
 Bel-AirSoftware
@@ -16115,6 +16122,7 @@ CLANK HUGHES
 CLANKER CLEANUP
 CLANKERS!
 CLANKHUGHES
+CLANNAD
 CLANNOCTURNUS
 CLANS OF FOUR COLOR: IMPOSSIBLE PROMISE
 CLAP
@@ -16149,6 +16157,7 @@ CLAUSTROMANIA
 CLAVIATOR
 CLAWPUNK
 CLAWS OF POWER
+CLAWS OF SORIA: ESCAPE THE SUCCUBUS NIGHT
 CLAWS OF THE FOREST
 CLAWS: COMMAND LINE ADVANCED WARFARE SYSTEM
 CLAWS: Command Line Advanced Warfare System
@@ -17385,6 +17394,7 @@ CRIMSON DESERT STANDARD EDITION
 CRIMSON ENGINES
 CRIMSON LOOP
 CRIMSON MANSION
+CRIMSON MOON
 CRIMSON NIGHT
 CRIMSON OATH
 CRIMSON SKIES
@@ -19868,8 +19878,10 @@ ClaudioSerafino
 Claustromania
 Claviator
 Claws Of Power
+Claws of Soria: Escape the Succubus Night
 Claws of the Forest
 ClawsOfPower
+ClawsofSoria:EscapetheSuccubusNight
 ClawsoftheForest
 Clay
 Clay Ball
@@ -21332,6 +21344,7 @@ Crimson Desert Standard Edition
 Crimson Engines
 Crimson Loop
 Crimson Mansion
+Crimson Moon
 Crimson Night
 Crimson Oath
 Crimson Skies
@@ -21346,6 +21359,7 @@ CrimsonDesertStandardEdition
 CrimsonEngines
 CrimsonLoop
 CrimsonMansion
+CrimsonMoon
 CrimsonNight
 CrimsonOath
 CrimsonSkies
@@ -22924,6 +22938,7 @@ DEMON FROG
 DEMON FROG DEMON FROG
 DEMON GOBLIN AND MR. KNIGHT
 DEMON ITSELF
+DEMON KINGDOM
 DEMON LORD: JUST A BLOCK
 DEMON LORD: JUST A BLOCK - SUPPORTER PACK
 DEMON PRINCESS RETREAT
@@ -23184,6 +23199,7 @@ DETECTIVES UNITED: MISSION POSSIBLE COLLECTOR'S EDITION
 DETN8
 DETN8 GAMES
 DETN8GAMES
+DETONATE & DASH
 DETOX MY HEART
 DETROIT: BECOME HUMAN
 DEUKDO BEAT
@@ -23463,6 +23479,7 @@ DIGITAL REALITY
 DIGITAL RED
 DIGITAL SMOKE
 DIGITAL SMOKE LLC
+DIGITAL SURVIVOR
 DIGITAL TALES
 DIGITAL WORKS
 DIGITAL WORKS ENTERTAINMENT
@@ -23696,6 +23713,7 @@ DISTURBINGFEARS-Workplace
 DIVA
 DIVERGENCE: BEYOND THE SINGULARITY (PART 1)
 DIVERS
+DIVIDER DAVE
 DIVINE DINER
 DIVINE OMEN
 DIVINE ORDERS
@@ -24625,6 +24643,7 @@ DUAL
 DUAL ECLIPSE
 DUAL FORCE
 DUAL SHADOWS
+DUB TOGETHER
 DUBAIL
 DUBIOR
 DUBIOR JR
@@ -24642,6 +24661,7 @@ DUC HACHE VIANDE
 DUCHACHEVIANDE
 DUCK
 DUCK BLOCK
+DUCK COLLECTOR
 DUCK DASH
 DUCK DEFENDER
 DUCK DUCK GOOSE
@@ -25929,6 +25949,7 @@ Demon Frog
 Demon Frog Demon Frog
 Demon Goblin and Mr. Knight
 Demon Itself
+Demon Kingdom
 Demon Lord: Just a Block
 Demon Lord: Just a Block   Supporter Pack
 Demon Lord: Just a Block - Supporter Pack
@@ -25965,6 +25986,7 @@ DemonFrog
 DemonFrogDemonFrog
 DemonGoblinandMr.Knight
 DemonItself
+DemonKingdom
 DemonLord:JustaBlock
 DemonLord:JustaBlock-SupporterPack
 DemonPrincessRetreat
@@ -26299,6 +26321,9 @@ DetectivesUnited:MissionPossibleCollector'sEdition
 Detn8
 Detn8 Games
 Detn8Games
+Detonate   Dash
+Detonate & Dash
+Detonate&Dash
 Detox My Heart
 DetoxMyHeart
 Detroit: Become Human
@@ -26625,6 +26650,7 @@ Digital Reality
 Digital Red
 Digital Smoke
 Digital Smoke LLC
+Digital Survivor
 Digital Tales
 Digital Works
 Digital Works Entertainment
@@ -26670,6 +26696,7 @@ DigitalReality
 DigitalRed
 DigitalSmoke
 DigitalSmokeLLC
+DigitalSurvivor
 DigitalTales
 DigitalWare
 DigitalWorks
@@ -26897,6 +26924,8 @@ DistrictZero
 Divergence: Beyond the Singularity  Part 1 
 Divergence: Beyond the Singularity (Part 1)
 Divergence:BeyondtheSingularity(Part1)
+Divider Dave
+DividerDave
 Divine Diner
 Divine Omen
 Divine Orders
@@ -27977,6 +28006,8 @@ Dual Shadows
 DualEclipse
 DualForce
 DualShadows
+Dub Together
+DubTogether
 Dubail
 Dubior
 Dubior Jr
@@ -27995,6 +28026,7 @@ Duc Hache Viande
 DucHacheViande
 Duck
 Duck Block
+Duck Collector
 Duck Dash
 Duck Defender
 Duck Duck Goose
@@ -28002,6 +28034,7 @@ Duck Hunt
 Duck Side of the Moon Soundtrack
 Duck Tales
 DuckBlock
+DuckCollector
 DuckDash
 DuckDefender
 DuckDuckGoose
@@ -28920,6 +28953,7 @@ ELDER SCROLLS TRAVELS
 ELDERGUARDIAN
 ELDERGUARDIANSPAWN
 ELDERGUARDIANSPAWNEGG
+ELDERMYTH
 ELDERS
 ELDERSCROLLS
 ELDERSCROLLSIV
@@ -30445,6 +30479,7 @@ ElderRing
 ElderScrolls
 ElderScrollsThe
 ElderScrollsTravels
+Eldermyth
 Elders
 Eldoth
 Eldoth Kron
@@ -33697,6 +33732,7 @@ FUTANARI HAVE A HEART TOO
 FUTANARI MASTER!
 FUTANARI'S SEX WORLD!
 FUTARUNNER:BigDickEdition
+FUTASCOPE
 FUTURA
 FUTURE
 FUTURE FRAGMENTS
@@ -36911,6 +36947,7 @@ GHOST TOWN SEEKERS
 GHOST TRAVELER: ADVENTURES IN EDO
 GHOST TRAVELER: Adventures in Edo
 GHOST TRICK
+GHOST TRUCK: DEATH ARENA
 GHOST VAULT
 GHOST WARRIOR
 GHOSTBUSTERS
@@ -39008,6 +39045,7 @@ Ghost Publishing
 Ghost Shooter
 Ghost Town Seekers
 Ghost Trick
+Ghost Truck: Death Arena
 Ghost Vault
 Ghost Warrior
 Ghost of Tsushima DIRECTOR S CUT
@@ -39026,6 +39064,7 @@ GhostPublishing
 GhostShooter
 GhostTownSeekers
 GhostTrick
+GhostTruck:DeathArena
 GhostVault
 GhostWarrior
 Ghostbusters
@@ -40553,6 +40592,7 @@ HACKSAW MASSACRE
 HACKSOCIETY
 HADEAN TACTICS: MOONHUNTER DLC
 HADES
+HADES HINDERANCE
 HADES II
 HADRIEL
 HAELE 3D   Hand Poses Pro   Drawing References
@@ -42382,7 +42422,9 @@ HacksawMassacre
 Hadean Tactics: Moonhunter DLC
 HadeanTactics:MoonhunterDLC
 Hades
+Hades Hinderance
 Hades II
+HadesHinderance
 HadesII
 Hadriel
 Haemimont
@@ -52787,6 +52829,7 @@ LIGHTKEEPER'S CURSE
 LIGHTNING
 LIGHTNING FAST
 LIGHTQB
+LIGHTS OF DUNHUANG
 LIGHTSAVER
 LIGHTSHOCK
 LIGHTSHOCKSOFTWARE
@@ -53596,6 +53639,7 @@ LUNA
 LUNA & SOL: NIGHTMARE WARD
 LUNA ANOMALY
 LUNA DRIFT
+LUNA SKYRIDER
 LUNA TACTICS
 LUNA'S ROOM
 LUNAR
@@ -54955,6 +54999,8 @@ LightningFast
 LightofCoco
 LightofReversingDestiny
 LightoftheEternalNight
+Lights Of DunHuang
+LightsOfDunHuang
 Lightsaver
 Lightyear Frontier
 LightyearFrontier
@@ -55946,6 +55992,7 @@ Luna   Sol: Nightmare Ward
 Luna & Sol: Nightmare Ward
 Luna Anomaly
 Luna Drift
+Luna Skyrider
 Luna Tactics
 Luna s Room
 Luna&Sol:NightmareWard
@@ -55953,6 +56000,7 @@ Luna's Room
 Luna'sRoom
 LunaAnomaly
 LunaDrift
+LunaSkyrider
 LunaTactics
 Lunar
 Lunar Ascendant
@@ -56841,6 +56889,7 @@ MARTECH
 MARTELFER
 MARTH
 MARTHA IS DEAD
+MARTHA'S DOLLS 2
 MARTIN
 MARTIN BRYANT
 MARTIN FINNEGAN
@@ -57013,6 +57062,7 @@ MATCH
 MATCH UP
 MATCH! THE 12 CZ WARS
 MATCH3TOWER
+MATCH: ISEKAI JOURNEY
 MATCHBOX
 MATCHBUZZ
 MATCHMAKER: DUNGEON HEART
@@ -58639,6 +58689,7 @@ MONEYCLICKER
 MONGOL 2
 MONICA
 MONIQUE
+MONKE SURVIVOR
 MONKEE
 MONKEY
 MONKEY BAR
@@ -58732,6 +58783,7 @@ MONSTER OPS 15
 MONSTER OPS 16
 MONSTER OPS 19
 MONSTER OPS 20
+MONSTER OPS 22
 MONSTER OPS 7
 MONSTER OPS 9
 MONSTER PATH
@@ -60367,6 +60419,9 @@ Martech
 Martelfer
 Marth
 Martha Is Dead
+Martha s Dolls 2
+Martha's Dolls 2
+Martha'sDolls2
 MarthaIsDead
 Martin
 Martin Bryant
@@ -60552,6 +60607,8 @@ Match up
 Match! The 12 CZ Wars
 Match!The12CZWars
 Match3Tower
+Match: Isekai Journey
+Match:IsekaiJourney
 MatchBuzz
 Matchbox
 Matchmaker: Dungeon Heart
@@ -62341,6 +62398,8 @@ Mongol 2
 Mongol2
 Monica
 Monique
+Monke Survivor
+MonkeSurvivor
 Monkee
 Monkey
 Monkey Bar
@@ -62437,6 +62496,7 @@ Monster Ops 15
 Monster Ops 16
 Monster Ops 19
 Monster Ops 20
+Monster Ops 22
 Monster Ops 7
 Monster Ops 9
 Monster Path
@@ -62481,6 +62541,7 @@ MonsterOps15
 MonsterOps16
 MonsterOps19
 MonsterOps20
+MonsterOps22
 MonsterOps7
 MonsterOps9
 MonsterPath
@@ -64879,8 +64940,10 @@ NTR Neko Maid: Erotic Favor
 NTR OFFICE
 NTR Office
 NTR SEXY GIRL WITH COLD-HEARDED
+NTR SNEAKY GIRLFRIEND EPISODE 1
 NTR Sexy girl with Cold hearded
 NTR Sexy girl with Cold-hearded
+NTR Sneaky Girlfriend Episode 1
 NTR TAVERN
 NTR Tavern
 NTR by my Younger Childhood Friend!? His size Ruined Me for My Boyfriend!!
@@ -64907,6 +64970,7 @@ NTRLiveBroadcast!?WhileonPhonewithHerBoyftiend,FromBehind...Soundtrack
 NTRNekoMaid:EroticFavor
 NTROffice
 NTRSexygirlwithCold-hearded
+NTRSneakyGirlfriendEpisode1
 NTRTavern
 NTRbymyYoungerChildhoodFriend!?HissizeRuinedMeforMyBoyfriend!!
 NTRbymyYoungerChildhoodFriend!?HissizeRuinedMeforMyBoyfriend!!ASMRSoundtrack
@@ -64933,6 +64997,7 @@ NUGGET
 NUICE INDUSTRIES
 NUIT
 NUKEM
+NULL
 NULL DUN
 NULL HØRIZØN
 NULLA VIA
@@ -67604,6 +67669,7 @@ OVERTHETOPGAMES
 OVERTHETOWER
 OVERTHROWN
 OVERTIME : PAPER TRAIL
+OVERTIME : PATROL
 OVERTRICK
 OVERWATCH
 OVERWATCH® - ULTIMATE BATTLE PASS BUNDLE 2026: SEASON 1
@@ -68974,7 +69040,9 @@ OvertheTop
 OvertheTopGames
 Overthrown
 Overtime : Paper Trail
+Overtime : Patrol
 Overtime:PaperTrail
+Overtime:Patrol
 Overtrick
 Overwatch(R) - Ultimate Battle Pass Bundle 2026: Season 1
 Overwatch(R) - Ultimate Battle Pass Bundle 2026: Season 2
@@ -69375,6 +69443,7 @@ PAONCORPORATION
 PAONCorporation
 PAPA
 PAPA TANGO
+PAPABILE
 PAPAO: THE LEGEND OF THE BOGEYMAN
 PAPAO: The Legend of the Bogeyman
 PAPAO:TheLegendoftheBogeyman
@@ -69800,6 +69869,7 @@ PEACEFUL BUG CATCHING STORY
 PEACEFUL FARM
 PEACEQUARIUM
 PEACH
+PEACH PEACH DIARY
 PEACH TANGLE
 PEACH WILKINS
 PEACHES INTERPLANETARY
@@ -70640,6 +70710,7 @@ PLASTIC
 PLASTIC CONFLICT
 PLASTIC COW
 PLASTIC COW GAMES
+PLASTIC MEN: WAR NEVER CHANGES
 PLASTIC REALITY
 PLASTIC REALITY TECHNOLOGIES
 PLASTICCOW
@@ -71038,6 +71109,9 @@ POOR ARTIFACT MAKER
 POORARTIFACTMAKER
 POOYAN
 POP
+POP FLOAT A-WAY
+POP Float a way
+POP Float a-way
 POP OPTICS
 POP STAR LIFE
 POP'N
@@ -71050,6 +71124,7 @@ POPEYE
 POPFUL
 POPFUL MAIL
 POPFULMAIL
+POPFloata-way
 POPI
 POPI STUDIO
 POPISTUDIO
@@ -72202,6 +72277,7 @@ PanzerKlikermkIYanks
 PanzerStrike
 Paolo
 Papa
+Papabile
 Paparazzi
 Paparrazzi
 Papaya
@@ -72617,8 +72693,10 @@ PeacefulBugCatchingStory
 PeacefulFarm
 Peacequarium
 Peach
+Peach Peach Diary
 Peach Tangle
 Peach Wilkins
+PeachPeachDiary
 PeachTangle
 PeachWilkins
 Peaches Interplanetary
@@ -73618,11 +73696,13 @@ Plastic
 Plastic Conflict
 Plastic Cow
 Plastic Cow Games
+Plastic Men: War never changes
 Plastic Reality
 Plastic Reality Technologies
 PlasticConflict
 PlasticCow
 PlasticCowGames
+PlasticMen:Warneverchanges
 PlasticReality
 PlasticRealityTechnologies
 Plastron
@@ -75646,6 +75726,10 @@ R.I.P. - Reincarnation Insurance Program
 R.I.P.-ReincarnationInsuranceProgram
 R.O.B
 R2
+R6 SIEGE BATTLE PASS - BATTLE PASS BUNDLE
+R6 Siege Battle Pass   Battle Pass Bundle
+R6 Siege Battle Pass - Battle Pass Bundle
+R6SiegeBattlePass-BattlePassBundle
 RA RA BOOM
 RA RA BOOM SOUNDTRACK
 RAANAA - THE SHAMAN GIRL
@@ -80091,6 +80175,7 @@ SAELIG DEMO
 SAELIG Demo
 SAELIGDemo
 SAFANA
+SAFE PLACE
 SAFE QUACKER
 SAFEHAVEN
 SAFFIRE
@@ -80180,6 +80265,7 @@ SALMON_BUCKET
 SALMON_SPAWN_EGG
 SALOONERY
 SALT
+SALT & SCHOONERS
 SALT 2: SHORES OF GOLD
 SALT PLAYER FOR WINDOWS
 SALT: SUPER AWESOME LASER TAG
@@ -80698,6 +80784,7 @@ SCREAMING SAVAGE BLOOD DEATH
 SCREAMyouLOSE
 SCREEN BOY
 SCREEN GREENS
+SCREEN PALS
 SCREEN SPACE
 SCREENCHEAT
 SCREENPLAY
@@ -83492,6 +83579,7 @@ STACKMANCY
 STACK TO ASCENSION
 STADIUM
 STAGE
+STAGED
 STAGIAIRE
 STAIN
 STAINLESS
@@ -84502,6 +84590,7 @@ SUPER THANKSGIVING
 SUPER WADDLE DOO
 SUPER WASH SIMULATOR
 SUPER WEAPON MASTER 超级武器大师
+SUPER WILOO DELUXE
 SUPER WODEN: RALLY EDGE SOUNDTRACK
 SUPER WORLD WAR
 SUPER X
@@ -85046,8 +85135,10 @@ Saeko
 Saeko Nanjo
 SaekoNanjo
 Safana
+Safe Place
 Safe Quacker
 SafeHaven
+SafePlace
 SafeQuacker
 Saffire
 Saga
@@ -85147,8 +85238,11 @@ SalmonSpawn
 SalmonSpawnEgg
 Saloonery
 Salt
+Salt   Schooners
+Salt & Schooners
 Salt 2: Shores of Gold
 Salt Player for Windows
+Salt&Schooners
 Salt2:ShoresofGold
 SaltPlayerforWindows
 Salty
@@ -85684,9 +85778,11 @@ Screamunderthehouse
 Scream～After～ShortStory
 Screen Boy
 Screen Greens
+Screen Pals
 Screen Space
 ScreenBoy
 ScreenGreens
+ScreenPals
 ScreenSaver Idle
 ScreenSaverIdle
 ScreenSpace
@@ -89049,6 +89145,7 @@ Stackmancy
 Stack to Ascension
 Stadium
 Stage
+Staged
 Stagiaire
 Stain
 Stainless
@@ -90317,6 +90414,7 @@ Super Waddle Doo
 Super Wash Simulator
 Super Weapon Master ??????
 Super Weapon Master 超级武器大师
+Super Wiloo Deluxe
 Super Woden: Rally Edge Soundtrack
 Super World War
 Super X
@@ -90445,6 +90543,7 @@ SuperVillainStudios
 SuperWaddleDoo
 SuperWashSimulator
 SuperWeaponMaster超级武器大师
+SuperWilooDeluxe
 SuperWoden:RallyEdgeSoundtrack
 SuperWorldWar
 SuperX
@@ -91853,6 +91952,7 @@ THE 8TH
 THE 8TH DAY
 THE ABANDONED HOUSE IN YEONGDEOK
 THE ABBESS GARDEN
+THE ABJURATION STAND
 THE ABYSSAL MAZE
 THE AC130 SLAYS THE ZOMBIES.
 THE ADVENTURE
@@ -92823,6 +92923,7 @@ THE WITCHER III
 THE WITCHER III WILD HUNT
 THE WITCHER III: WILD HUNT
 THE WOMAN ABOVE
+THE WOODS
 THE WORLD BELOW - A CALL WITHIN
 THE WORLD ENDS IN OHIO
 THE WORLD WELL: BLOOD OF CARO
@@ -93194,6 +93295,7 @@ THQNordic
 THQWIRELESS
 THQWireless
 THRASHER
+THREAD MATCH FESTIVAL
 THREE
 THREE KINGDOM - ZHANG JIAO REVIVAL
 THREE KINGDOMS : ALIAS
@@ -93765,6 +93867,7 @@ TOOTHROT
 TOOTUM
 TOP
 TOP ALERT
+TOP CHECK: A CHESS CARD GAME
 TOP DOWN ZOMBIES
 TOP GNOME
 TOP HEROES
@@ -95731,6 +95834,7 @@ The AC130 slays the zombies.
 The AI Bubble
 The Abandoned House in Yeongdeok
 The Abbess Garden
+The Abjuration Stand
 The Abyssal Maze
 The Adventure
 The Adventure Company
@@ -96735,6 +96839,7 @@ The room where you can t leave without drinking water
 The room where you can't leave without drinking water
 The seven days i spent with you
 The shaved ice shop
+The woods
 The109thHero
 The1500YearOldForestElfandMyAnti-MaterielSniperRifle
 The27thDimension
@@ -96751,6 +96856,7 @@ TheAC130slaysthezombies.
 TheAIBubble
 TheAbandonedHouseinYeongdeok
 TheAbbessGarden
+TheAbjurationStand
 TheAbyssalMaze
 TheAdventure
 TheAdventureCompany
@@ -97691,6 +97797,7 @@ These Are Them
 TheseAreThem
 Thesevendaysispentwithyou
 Theshavediceshop
+Thewoods
 Thexder
 They Come In Boxes
 They Killed Your Cat
@@ -97849,6 +97956,8 @@ ThousandFloors
 ThousandN'Thousand:Mimico
 Thousands of Heroes
 ThousandsofHeroes
+Thread Match Festival
+ThreadMatchFestival
 Three
 Three Kingdom   Zhang Jiao Revival
 Three Kingdom - Zhang Jiao Revival
@@ -98549,6 +98658,7 @@ Toothrot
 Tootum
 Top
 Top Alert
+Top Check: A Chess Card Game
 Top Down Zombies
 Top Gnome
 Top Heroes
@@ -98556,6 +98666,7 @@ Top Hunter
 Top Spin
 Top tier
 TopAlert
+TopCheck:AChessCardGame
 TopCraft
 TopDownZombies
 TopGnome
@@ -100937,6 +101048,7 @@ VECTAGUARD
 VECTOR
 VECTOR 2
 VECTOR 2 GAMES
+VECTOR SURGE - SUPPORT DEVELOPER
 VECTOR THE CROCODILE
 VECTOR UNIT
 VECTOR2
@@ -101465,6 +101577,7 @@ VOIDSAYER
 VOIDSOUL
 VOIDTRAIN
 VOIDTRAIN - TOUR DE VOID
+VOIPVAULT
 VOITURE
 VOL
 VOL'JIN
@@ -101821,11 +101934,14 @@ VectaGuard
 Vector
 Vector 2
 Vector 2 Games
+Vector Surge   Support Developer
+Vector Surge - Support Developer
 Vector Unit
 Vector the Crocodile
 Vector2
 Vector2Games
 VectorCell
+VectorSurge-SupportDeveloper
 VectorUnit
 Vectoraid
 Vectordean
@@ -102372,6 +102488,7 @@ VladimirLem
 Vlambeer
 Vlare
 Vlipper
+VoIPVault
 Vocabelum
 Vogster
 Vogster Entertainment
@@ -102874,6 +102991,7 @@ WASTE
 WASTE SORTING
 WASTELAND
 WASTELAND BITES
+WASTELAND FUTURE DEMO
 WASTELAND HORROR RADIO: EPISODE 1 - THE RADIO
 WASTELAND HORROR RADIO: EPISODE 2 - THE LIGHTHOUSE
 WASTELAND OUTPOST
@@ -103113,6 +103231,7 @@ WHEELCHAIR FOR TWO
 WHEELCHAIR WIZARDS SUPPORTER PACK
 WHEELER
 WHEELHAUS
+WHEELMATES
 WHEELS
 WHEN STARS COLLIDE
 WHEN WE HAD WINGS
@@ -104239,6 +104358,7 @@ Waste Sorting
 WasteSorting
 Wasteland
 Wasteland Bites
+Wasteland Future Demo
 Wasteland Horror Radio: Episode 1   The Radio
 Wasteland Horror Radio: Episode 1 - The Radio
 Wasteland Horror Radio: Episode 2   The Lighthouse
@@ -104246,6 +104366,7 @@ Wasteland Horror Radio: Episode 2 - The Lighthouse
 Wasteland Outpost
 Wasteland Shop Simulator
 WastelandBites
+WastelandFutureDemo
 WastelandHorrorRadio:Episode1-TheRadio
 WastelandHorrorRadio:Episode2-TheLighthouse
 WastelandOutpost
@@ -104544,6 +104665,7 @@ Wheat
 Wheat Seeds
 WheatSeeds
 Wheel World
+WheelMates
 WheelWorld
 Wheelchair For Two
 Wheelchair Wizards Supporter Pack
@@ -110011,6 +110133,7 @@ axolotl
 axolotl bucket
 axolotl dans
 axolotl dans un seau
+axolotl rangefighters
 axolotl spawn
 axolotl spawn egg
 axolotl_bucket
@@ -110947,6 +111070,7 @@ behold the horde
 beholder
 beholdstudios
 beholgar 2
+being a dik - season 3
 beiz
 bel-air
 bel-air software
@@ -114484,6 +114608,7 @@ clank hughes
 clanker cleanup
 clankers!
 clankhughes
+clannad
 clannocturnus
 clans of four color: impossible promise
 clap
@@ -114518,6 +114643,7 @@ claustromania
 claviator
 clawpunk
 claws of power
+claws of soria: escape the succubus night
 claws of the forest
 claws: command line advanced warfare system
 clay
@@ -115715,6 +115841,7 @@ crimson desert standard edition
 crimson engines
 crimson loop
 crimson mansion
+crimson moon
 crimson night
 crimson oath
 crimson skies
@@ -117098,6 +117225,7 @@ demon frog
 demon frog demon frog
 demon goblin and mr. knight
 demon itself
+demon kingdom
 demon lord: just a block
 demon lord: just a block - supporter pack
 demon princess retreat
@@ -117351,6 +117479,7 @@ detectives united: mission possible collector's edition
 detn8
 detn8 games
 detn8games
+detonate & dash
 detox my heart
 detroit: become human
 deukdo beat
@@ -117625,6 +117754,7 @@ digital reality
 digital red
 digital smoke
 digital smoke llc
+digital survivor
 digital tales
 digital works
 digital works entertainment
@@ -117856,6 +117986,7 @@ disturbing fears - workplace
 diva
 divergence: beyond the singularity (part 1)
 divers
+divider dave
 divine diner
 divine omen
 divine orders
@@ -118699,6 +118830,7 @@ dual
 dual eclipse
 dual force
 dual shadows
+dub together
 dubail
 dubior
 dubior jr
@@ -118716,6 +118848,7 @@ duc hache viande
 duchacheviande
 duck
 duck block
+duck collector
 duck dash
 duck defender
 duck duck goose
@@ -119449,6 +119582,7 @@ elder scrolls travels
 elderguardian
 elderguardianspawn
 elderguardianspawnegg
+eldermyth
 elders
 elderscrolls
 elderscrollsiv
@@ -122362,6 +122496,7 @@ futanari goddess 🕯️
 futanari have a heart too
 futanari master!
 futanari's sex world!
+futascope
 futura
 future
 future fragments
@@ -123092,6 +123227,7 @@ ghost shooter
 ghost town seekers
 ghost traveler: adventures in edo
 ghost trick
+ghost truck: death arena
 ghost vault
 ghost warrior
 ghostbusters
@@ -124434,6 +124570,7 @@ hacksaw massacre
 hacksociety
 hadean tactics: moonhunter dlc
 hades
+hades hinderance
 hades ii
 hadriel
 haele 3d - hand poses pro - drawing references
@@ -130539,6 +130676,7 @@ lightkeeper's curse
 lightning
 lightning fast
 lightqb
+lights of dunhuang
 lightsaver
 lightshock
 lightshocksoftware
@@ -131317,6 +131455,7 @@ luna
 luna & sol: nightmare ward
 luna anomaly
 luna drift
+luna skyrider
 luna tactics
 luna's room
 lunar
@@ -132138,6 +132277,7 @@ martech
 martelfer
 marth
 martha is dead
+martha's dolls 2
 martin
 martin bryant
 martin finnegan
@@ -132303,6 +132443,7 @@ match
 match up
 match! the 12 cz wars
 match3tower
+match: isekai journey
 matchbox
 matchbuzz
 matchmaker: dungeon heart
@@ -133851,6 +133992,7 @@ moneyclicker
 mongol 2
 monica
 monique
+monke survivor
 monkee
 monkey
 monkey bar
@@ -133944,6 +134086,7 @@ monster ops 15
 monster ops 16
 monster ops 19
 monster ops 20
+monster ops 22
 monster ops 7
 monster ops 9
 monster path
@@ -135981,6 +136124,7 @@ ntr live broadcast!? while on phone with her boyftiend, from behind...soundtrack
 ntr neko maid: erotic favor
 ntr office
 ntr sexy girl with cold-hearded
+ntr sneaky girlfriend episode 1
 ntr tavern
 ntrance
 ntreev
@@ -136015,6 +136159,7 @@ nugget
 nuice industries
 nuit
 nukem
+null
 null dun
 null hørizøn
 nulla via
@@ -137221,6 +137366,7 @@ overthetop
 overthetopgames
 overthrown
 overtime : paper trail
+overtime : patrol
 overtrick
 overwatch
 overwatch® - ultimate battle pass bundle 2026: season 1
@@ -137546,6 +137692,7 @@ paon corporation
 paoncorporation
 papa
 papa tango
+papabile
 papao: the legend of the bogeyman
 paparazzi
 paparrazzi
@@ -137925,6 +138072,7 @@ peaceful bug catching story
 peaceful farm
 peacequarium
 peach
+peach peach diary
 peach tangle
 peach wilkins
 peaches interplanetary
@@ -138756,6 +138904,7 @@ plastic
 plastic conflict
 plastic cow
 plastic cow games
+plastic men: war never changes
 plastic reality
 plastic reality technologies
 plasticcow
@@ -139163,6 +139312,7 @@ poopsentai
 poor artifact maker
 pooyan
 pop
+pop float a-way
 pop optics
 pop star life
 pop'n
@@ -140261,6 +140411,7 @@ r.e.p.o.
 r.i.p. - reincarnation insurance program
 r.o.b
 r2
+r6 siege battle pass - battle pass bundle
 ra ra boom
 ra ra boom soundtrack
 raanaa - the shaman girl
@@ -142235,6 +142386,7 @@ saeko: giantess dating sim
 saekonanjo
 saelig demo
 safana
+safe place
 safe quacker
 safehaven
 saffire
@@ -142322,6 +142474,7 @@ salmonspawn
 salmonspawnegg
 saloonery
 salt
+salt & schooners
 salt 2: shores of gold
 salt player for windows
 salt: super awesome laser tag
@@ -142786,6 +142939,7 @@ screaming in the basement (2025)
 screaming savage blood death
 screen boy
 screen greens
+screen pals
 screen space
 screencheat
 screenplay
@@ -145422,6 +145576,7 @@ stackmancy
 stack to ascension
 stadium
 stage
+staged
 stagiaire
 stain
 stainless
@@ -146385,6 +146540,7 @@ super thanksgiving
 super waddle doo
 super wash simulator
 super weapon master 超级武器大师
+super wiloo deluxe
 super woden: rally edge soundtrack
 super world war
 super x
@@ -147699,6 +147855,7 @@ the Devil rais'd the storm
 the Shadow of Swallow
 the abandoned house in yeongdeok
 the abbess garden
+the abjuration stand
 the abyssal maze
 the ac130 slays the zombies.
 the adventure
@@ -148656,6 +148813,7 @@ the witcher iii
 the witcher iii wild hunt
 the witcher iii: wild hunt
 the woman above
+the woods
 the world below - a call within
 the world ends in ohio
 the world well: blood of caro
@@ -149022,6 +149180,7 @@ thq wireless
 thqnordic
 thqwireless
 thrasher
+thread match festival
 three
 three kingdom - zhang jiao revival
 three kingdoms : alias
@@ -149571,6 +149730,7 @@ toothrot
 tootum
 top
 top alert
+top check: a chess card game
 top down zombies
 top gnome
 top heroes
@@ -151107,6 +151267,7 @@ vectaguard
 vector
 vector 2
 vector 2 games
+vector surge - support developer
 vector the crocodile
 vector unit
 vector2
@@ -151618,6 +151779,7 @@ voidronaut
 voidsayer
 voidtrain
 voidtrain - tour de void
+voipvault
 voiture
 vol
 vol'jin
@@ -152061,6 +152223,7 @@ waste
 waste sorting
 wasteland
 wasteland bites
+wasteland future demo
 wasteland horror radio: episode 1 - the radio
 wasteland horror radio: episode 2 - the lighthouse
 wasteland outpost
@@ -152283,6 +152446,7 @@ wheelchair for two
 wheelchair wizards supporter pack
 wheeler
 wheelhaus
+wheelmates
 wheels
 when stars collide
 when we had wings
@@ -154017,6 +154181,7 @@ zèbre
 ユレイシア英雄戦記　- chronicle of arstenia500 -
 ユレイシア英雄戦記　-ChronicleofArstenia500-
 ラビィとパネルでしりとり
+一把菜刀打天下
 万界沙城：战魂燃天
 三国.争霸
 三国.兵临城下
