@@ -1,5 +1,6 @@
  BURIED TAPES  The Cleaner
  BURIED TAPES  The Parking
+ TwwwT  The Witches Who Weave Timelines
 !
 !DREAM
 !Dream
@@ -46,6 +47,9 @@
 (Personne
 (SEGA)
 (Sega)
+(TWWWT) THE WITCHES WHO WEAVE TIMELINES
+(TwwwT) The Witches Who Weave Timelines
+(TwwwT)TheWitchesWhoWeaveTimelines
 (buried tapes) the cleaner
 (buried tapes) the parking
 (gameloft)
@@ -54,6 +58,7 @@
 (ocean)
 (personne
 (sega)
+(twwwt) the witches who weave timelines
 +
 + PC MAKER
 + PC Maker
@@ -1668,6 +1673,7 @@
 ??? | Phantom Reckoning
 ??? | TATARI Curse road
 ??? | Yatsuakari
+???! ??&?? (Colorting! Catch&Rabi)
 ???(WuXing Card)
 ???----?????
 ???-???
@@ -3034,6 +3040,7 @@ AKAONI
 AKAONI STUDIO
 AKAONISTUDIO
 AKARA
+AKASHA
 AKASHA: TALIOKATA'S TOMB
 AKATORI
 AKATSUKI
@@ -10203,6 +10210,7 @@ BONEHOLD DEMO
 BONELORDS
 BONEMEAL
 BONES
+BONES AND COINS
 BONGFISH
 BONGFISH INTERACTIVE
 BONGFISH INTERACTIVE ENTERTAINME
@@ -10599,6 +10607,7 @@ BREATHOFWILD
 BREATHOFWILDPONG
 BREED
 BREEZY BAKES SIMULATOR
+BREEZY BLOOMS
 BRENDA
 BRENDAN
 BRENDAN DE CLONFERT
@@ -13442,6 +13451,8 @@ Bonehold Demo
 BoneholdDemo
 Bonelords
 Bones
+Bones and Coins
+BonesandCoins
 Bongfish
 Bongfish Interactive
 Bongfish Interactive Entertainme
@@ -13932,7 +13943,9 @@ BreathofLife
 BreathofLifeDemo
 Breed
 Breezy Bakes Simulator
+Breezy Blooms
 BreezyBakesSimulator
+BreezyBlooms
 Brenda
 Brendan
 Brendan de Clonfert
@@ -15393,6 +15406,7 @@ CELLARDOORGAMES
 CELLCHEMIST
 CELLDOM CLASSIC
 CELLNAVI
+CELLS
 CELLULAIRE
 CELLVEILANCE
 CELLVEILANCE-4K
@@ -15967,6 +15981,7 @@ CHRONICLES: IMMORTAL SECT
 CHRONICLESOFRIDDICK
 CHRONICLESOFRIDDICK:ESCAPEFROMBUTCHERBAY
 CHRONIGMA
+CHRONIME PUZZLE: ANIMALS
 CHRONIME PUZZLE: CATS
 CHRONIME PUZZLE: DOGS
 CHRONIME PUZZLE: GIRLS
@@ -16323,6 +16338,7 @@ CLOSE
 CLOSE COMBAT
 CLOSECOMBAT
 CLOSED CIRCUIT: RECURSIVE IDLE
+CLOSER THAN ALLOWED: AFTER THE BELL
 CLOSR
 CLOTHING STORE SIMULATOR
 CLOTILDE
@@ -18942,6 +18958,7 @@ CellarKeeper
 Cellchemist
 Celldom Classic
 CelldomClassic
+Cells
 Cellveilance
 Cellveilance 4K
 Cellveilance-4K
@@ -19634,9 +19651,11 @@ Chronicles:ImmortalSect
 ChroniclesofRiddick
 ChroniclesofRiddick:EscapefromButcherBay
 Chronigma
+Chronime Puzzle: Animals
 Chronime Puzzle: Cats
 Chronime Puzzle: Dogs
 Chronime Puzzle: Girls
+ChronimePuzzle:Animals
 ChronimePuzzle:Cats
 ChronimePuzzle:Dogs
 ChronimePuzzle:Girls
@@ -20093,6 +20112,8 @@ Close Combat
 CloseCombat
 Closed Circuit: Recursive Idle
 ClosedCircuit:RecursiveIdle
+Closer than Allowed: After the Bell
+CloserthanAllowed:AftertheBell
 Clothing Store Simulator
 ClothingStoreSimulator
 Clotilde
@@ -23213,6 +23234,7 @@ DESKTOP OVERLAYS
 DESKTOP PAL
 DESKTOP PALS 2
 DESKTOP PASTURE
+DESKTOP PET: DONEATFISH
 DESKTOP PINFORGE
 DESKTOP PURRFECT DEMO
 DESKTOP RAID
@@ -23460,6 +23482,7 @@ DICE BEAUTY: ROGUELIKE TACTICS DEMO
 DICE BIOLOGY
 DICE CARNIVAL
 DICE CHEMIST
+DICE GAME
 DICE GOBLIN'S DEN
 DICE GOBLINS CLICKER
 DICE GUN COMMANDO
@@ -23808,6 +23831,7 @@ DISTURBING FEARS   Workplace
 DISTURBING FEARS - WORKPLACE
 DISTURBING FEARS - Workplace
 DISTURBINGFEARS-Workplace
+DITHERMASTER STUDIO
 DIVA
 DIVERGENCE: BEYOND THE SINGULARITY (PART 1)
 DIVERS
@@ -24071,6 +24095,7 @@ DON'T STEP ON THE
 DON'T STEP ON THE CRACKS
 DON'T STOP BULLYING ME, BEASTGIRLS!
 DON'T STOP IN RED WOOD
+DON'T STOP MIKE
 DON'T TOUCH ME - GOBLIN ZOMBIES
 DON'T TURN BACK
 DON'T WAKE UP DEMO
@@ -26297,6 +26322,7 @@ Desktop Overlays
 Desktop Pal
 Desktop Pals 2
 Desktop Pasture
+Desktop Pet: DonEatFish
 Desktop Pinforge
 Desktop Purrfect Demo
 Desktop Raid
@@ -26337,6 +26363,7 @@ DesktopOverlays
 DesktopPal
 DesktopPals2
 DesktopPasture
+DesktopPet:DonEatFish
 DesktopPinforge
 DesktopPurrfectDemo
 DesktopRaid
@@ -26610,6 +26637,7 @@ Dice Beauty: Roguelike Tactics Demo
 Dice Biology
 Dice Carnival
 Dice Chemist
+Dice Game
 Dice Goblin s Den
 Dice Goblin's Den
 Dice Goblins Clicker
@@ -26626,6 +26654,7 @@ DiceBeauty:RoguelikeTacticsDemo
 DiceBiology
 DiceCarnival
 DiceChemist
+DiceGame
 DiceGoblin'sDen
 DiceGoblinsClicker
 DiceGunCommando
@@ -27038,6 +27067,8 @@ District VR Demo
 District Zero
 DistrictVRDemo
 DistrictZero
+DitherMaster Studio
+DitherMasterStudio
 Divergence: Beyond the Singularity  Part 1 
 Divergence: Beyond the Singularity (Part 1)
 Divergence:BeyondtheSingularity(Part1)
@@ -27278,6 +27309,7 @@ Don t Pray
 Don t Starve Together
 Don t Stop Bullying me, Beastgirls!
 Don t Stop In Red Wood
+Don t Stop Mike
 Don t Touch Me - Goblin Zombies
 Don t Turn Back
 Don t breathe in!
@@ -27316,6 +27348,7 @@ Don't Step On The
 Don't Step On The Cracks
 Don't Stop Bullying me, Beastgirls!
 Don't Stop In Red Wood
+Don't Stop Mike
 Don't Talk to Strangers
 Don't Tell Mom: I Fed My Stepsister ??
 Don't Touch Me   Goblin Zombies
@@ -27357,6 +27390,7 @@ Don'tStepOnThe
 Don'tStepOnTheCracks
 Don'tStopBullyingme,Beastgirls!
 Don'tStopInRedWood
+Don'tStopMike
 Don'tTouchMe-GoblinZombies
 Don'tTurnBack
 Don'tbreathein!
@@ -37533,6 +37567,7 @@ GOING ONCE!
 GOING TO HIGH SCHOOL WITH LIRA
 GOLD
 GOLD AND GRAVES
+GOLD AND ROBOT
 GOLD DEFENCE
 GOLD FINGER
 GOLD FOR RETIREMENT SOUNDTRACK
@@ -39720,6 +39755,7 @@ Gold Mining Simulator 2 Singleplayer Demo
 Gold Nugget
 Gold Up
 Gold and Graves
+Gold and Robot
 Gold for Retirement Soundtrack
 GoldDefence
 GoldFinger
@@ -39731,6 +39767,7 @@ GoldMiningSimulator2SingleplayerDemo
 GoldNugget
 GoldUp
 GoldandGraves
+GoldandRobot
 Goldberg
 Golden
 Golden Apple
@@ -45192,6 +45229,7 @@ IDLE ASTEROIDS
 IDLE BOSS RUSH
 IDLE CAR CLICKER
 IDLE CHAPEL
+IDLE CLACKER
 IDLE COLORS
 IDLE CRITTER ADVENTURE
 IDLE CRYPTO MINING
@@ -45788,6 +45826,7 @@ INTELLIVISION
 INTELLIVISION WORLD SERIES BASEBALL
 INTELLIVISIONWORLDSERIESBASEBALL
 INTEND SYSTEM
+INTENDED PARTIES
 INTENSE
 INTENSE GAMES
 INTENSEGAMES
@@ -46337,6 +46376,7 @@ Idle Adventurer
 Idle Asteroids
 Idle Car Clicker
 Idle Chapel
+Idle Clacker
 Idle Colors
 Idle Critter Adventure
 Idle Crypto Mining
@@ -46377,6 +46417,7 @@ IdleAdventurer
 IdleAsteroids
 IdleCarClicker
 IdleChapel
+IdleClacker
 IdleColors
 IdleCritterAdventure
 IdleCryptoMining
@@ -46997,6 +47038,8 @@ Intellivision World Series Baseball
 IntellivisionWorldSeriesBaseball
 Intend System
 IntendSystem
+Intended Parties
+IntendedParties
 Intense
 Intense Games
 IntenseGames
@@ -53418,6 +53461,7 @@ LOCKER
 LOCKHART
 LOCKNCHASE
 LOCKSTONE MOUNTAINS
+LOCKTALE
 LOCO
 LOCO ENT
 LOCO MUKO
@@ -55649,6 +55693,7 @@ Lockhart
 LocknChase
 Lockstone Mountains
 LockstoneMountains
+Locktale
 Loco
 Loco Ent
 LocoEnt
@@ -57314,6 +57359,7 @@ MATH-HAVOC
 MATHBITS
 MATHEMATICIAN
 MATHEO
+MATHER
 MATHIGO
 MATHILDA
 MATHILDE
@@ -59098,6 +59144,7 @@ MOON CRASHERS
 MOON MICE: THE GAME
 MOON PATROL
 MOON RIVER
+MOON SWARM DEMO
 MOON TROPICA
 MOONACTIVE
 MOONBYTE
@@ -60881,6 +60928,7 @@ MathWarudo:Grassland&Beyond
 Mathbits
 Mathematician
 Matheo
+Mather
 Mathigo
 Mathilda
 Mathilde
@@ -62876,6 +62924,7 @@ Moon Crashers
 Moon Mice: The Game
 Moon Patrol
 Moon River
+Moon Swarm Demo
 Moon Tropica
 Moon and Fang
 MoonActive
@@ -62892,6 +62941,7 @@ MoonPatrol
 MoonRiver
 MoonScape
 MoonShot
+MoonSwarmDemo
 MoonTropica
 MoonandFang
 Moondusk Masquerade
@@ -67532,6 +67582,7 @@ ONIGIRIRUN
 ONIMUSHA
 ONIMUSHA 2: SAMURAI'S DESTINY
 ONIMUSHA: WAY OF THE SWORD
+ONIMUSHA: WOTS - OUTFIT FOR THE ONI LADY: HINOA
 ONIONXLAYER: EXTRACTION
 ONIRIC
 ONIRIC GAMES
@@ -68821,7 +68872,10 @@ Onimusha 2: Samurai s Destiny
 Onimusha 2: Samurai's Destiny
 Onimusha2:Samurai'sDestiny
 Onimusha: Way of the Sword
+Onimusha: WotS   Outfit for the Oni Lady: Hinoa
+Onimusha: WotS - Outfit for the Oni Lady: Hinoa
 Onimusha:WayoftheSword
+Onimusha:WotS-OutfitfortheOniLady:Hinoa
 OnionXLayer: Extraction
 OnionXLayer:Extraction
 Oniric
@@ -71125,7 +71179,9 @@ PLOBANIA 47/B DEMO
 PLODDING RECOVERY
 PLOKO
 PLOY CO.
+PLUG IN
 PLUG IN DIGITAL ADVERTISING APP
+PLUGIN
 PLUID
 PLUID PLUID
 PLUIDPLUID
@@ -72241,6 +72297,7 @@ PUZZLES HAMSTER
 PUZZLES: FISH
 PUZZLES: SPACE CATS
 PUZZLESERIES
+PUZZLETWIST
 PVP GOLDEN ARMOR OF GUAN JIAN SHOU SKIN DLC
 PVP Golden Armor of Guan Jian Shou Skin DLC
 PVP UNIFORM & BUNNY OUTFIT DLC
@@ -72257,6 +72314,7 @@ PX2:TheTermination
 PYJAMA
 PYJAMA SAM
 PYJAMASAM
+PYRA
 PYRAM
 PYRAM TRISTESIÈGE
 PYRAMID
@@ -75453,6 +75511,7 @@ PuzzleQuest
 PuzzleSeries
 PuzzleSpyInternational
 PuzzleTemptation:AnimeReveal
+PuzzleTwist
 Puzzleand
 PuzzleandAction
 Puzzlegame
@@ -75482,6 +75541,7 @@ PvtLtd
 Pyjama
 Pyjama Sam
 PyjamaSam
+Pyra
 Pyram
 Pyram Tristesiège
 PyramTristesiège
@@ -75769,6 +75829,7 @@ QUIZZ
 QUIZZ GAME
 QUIZZGAME
 QUME: ECHOES OF SAND
+QUMINO
 QUOTIX
 QUOTIX SOFTWARE
 QUOTIXSOFTWARE
@@ -75972,6 +76033,7 @@ Quizz Game
 QuizzGame
 Qume: Echoes of Sand
 Qume:EchoesofSand
+Qumino
 Quotix
 Quotix Software
 QuotixSoftware
@@ -81568,6 +81630,7 @@ SEVEN SINNERS
 SEVENDAYS DEMO
 SEVENS
 SEVENTH MANSION: THE FIRST ESCAPE
+SEWER CRAWLER
 SEWER RAIDERS
 SEWERCIDE
 SEX   DICE
@@ -81862,6 +81925,7 @@ SHELD
 SHELD SHELD
 SHELDSHELD
 SHELF BY SHELF: BOOKSTORE SIMULATOR
+SHELF HAPPENS
 SHELKE
 SHELL
 SHELL OF A KING
@@ -83624,6 +83688,7 @@ SPELBRAWL
 SPELL ALCHEMIST
 SPELL SLIDE
 SPELLBOUND
+SPELLBOUND & SHELVED
 SPELLBOUND BEAUTIES
 SPELLBOUND: MALACHITE COVEN
 SPELLCARVED
@@ -85327,6 +85392,7 @@ SYNAPSE SOFTWARE
 SYNAPSE SOFTWARE CORPORATION
 SYNAPSESOFTWARE
 SYNAPSESOFTWARECORPORATION
+SYNC TOGETHER
 SYNCERS
 SYNCROCHROMIA
 SYNDEO-COMPLEX
@@ -86660,7 +86726,9 @@ Sevendays Demo
 SevendaysDemo
 Seventh Mansion: The First Escape
 SeventhMansion:TheFirstEscape
+Sewer Crawler
 Sewer Raiders
+SewerCrawler
 SewerRaiders
 Sex   Coffee ☕️🤎
 Sex   Fast Food Demo
@@ -87018,7 +87086,9 @@ Sheik
 Sheld
 Sheld Sheld
 SheldSheld
+Shelf Happens
 Shelf by Shelf: Bookstore Simulator
+ShelfHappens
 ShelfbyShelf:BookstoreSimulator
 Shelke
 Shell
@@ -89147,7 +89217,10 @@ SpellCatcher
 SpellForce
 SpellSlide
 Spellbound
+Spellbound   Shelved
+Spellbound & Shelved
 Spellbound Beauties
+Spellbound&Shelved
 Spellbound: Malachite Coven
 Spellbound:MalachiteCoven
 SpellboundBeauties
@@ -91318,6 +91391,8 @@ Synapse Software
 Synapse Software Corporation
 SynapseSoftware
 SynapseSoftwareCorporation
+Sync Together
+SyncTogether
 Syncers
 SyncroChromia
 Syndeo Complex
@@ -92363,6 +92438,7 @@ THE ASSEMBLY LINE
 THE ASTERION
 THE ATTACK ON EGG HARBOR
 THE AWAKENER: BATTLE TENDENCY
+THE AYNA
 THE AZURE ONE
 THE BACKROOMS DELUXE 2
 THE BACKROOMS: EXPEDITION
@@ -96259,6 +96335,7 @@ The Assembly Line
 The Asterion
 The Attack on Egg Harbor
 The Awakener: Battle Tendency
+The Ayna
 The Azure One
 The Backrooms Deluxe 2
 The Backrooms: Expedition
@@ -97275,6 +97352,7 @@ TheAssemblyLine
 TheAsterion
 TheAttackonEggHarbor
 TheAwakener:BattleTendency
+TheAyna
 TheAzureOne
 TheBackrooms:Expedition
 TheBackrooms:RescueExpedition
@@ -101689,6 +101767,7 @@ VIGIL
 VIGIL GAMES
 VIGILANTE
 VIGILGAMES
+VIGILO
 VII
 VIKING
 VIKING BREAKER
@@ -102012,6 +102091,7 @@ VORTEX-G: Anti-Gravity Racing & Track Editor
 VORTEX-G:Anti-GravityRacing&TrackEditor
 VORTEXDESIGN
 VORTEXSOFTWARE
+VORTHA RACING
 VORTICA
 VORTX
 VOSPETKA SIMULATOR
@@ -102600,6 +102680,7 @@ Vigil
 Vigil Games
 VigilGames
 Vigilante
+Vigilo
 Vikendova akce
 Viking
 Viking Breaker
@@ -102977,6 +103058,8 @@ Vortex Design
 Vortex Software
 VortexDesign
 VortexSoftware
+Vortha racing
+Vortharacing
 Vortica
 Vox
 Vox Populi: Canada 2025
@@ -104175,6 +104258,7 @@ WORLD RALLY CHAMPIONSHIP
 WORLD TREE RANCH: ELVEN LEGACY
 WORLD WAR CHESS
 WORLD WAR II ARMORED RECON
+WORLD WAR II AUTO BATTLER
 WORLD WAR LEGION
 WORLD WAR Z
 WORLD WAR Z + TOXIC COMMANDO - STANDARD EDITION - LOYALTY
@@ -105797,6 +105881,7 @@ World Rally Championship
 World Tree Ranch: Elven Legacy
 World War Chess
 World War II Armored Recon
+World War II Auto Battler
 World War Legion
 World War Z
 World War Z + Toxic Commando   Standard Edition   Loyalty
@@ -105830,6 +105915,7 @@ WorldShadow
 WorldTreeRanch:ElvenLegacy
 WorldWarChess
 WorldWarIIArmoredRecon
+WorldWarIIAutoBattler
 WorldWarLegion
 WorldWarZ
 WorldWarZ+ToxicCommando-StandardEdition-Loyalty
@@ -108692,6 +108778,7 @@ akaoni
 akaoni studio
 akaonistudio
 akara
+akasha
 akasha: taliokata's tomb
 akatori
 akatsuki
@@ -112597,6 +112684,7 @@ bonehold demo
 bonelords
 bonemeal
 bones
+bones and coins
 bongfish
 bongfish interactive
 bongfish interactive entertainme
@@ -112979,6 +113067,7 @@ breathofwild
 breathofwildpong
 breed
 breezy bakes simulator
+breezy blooms
 brenda
 brendan
 brendan de clonfert
@@ -114273,6 +114362,7 @@ cellardoorgames
 cellchemist
 celldom classic
 cellnavi
+cells
 cellulaire
 cellveilance
 cellveilance-4k
@@ -114844,6 +114934,7 @@ chronicles: immortal sect
 chroniclesofriddick
 chroniclesofriddick:escapefrombutcherbay
 chronigma
+chronime puzzle: animals
 chronime puzzle: cats
 chronime puzzle: dogs
 chronime puzzle: girls
@@ -115187,6 +115278,7 @@ close
 close combat
 closecombat
 closed circuit: recursive idle
+closer than allowed: after the bell
 closr
 clothing store simulator
 clotilde
@@ -117854,6 +117946,7 @@ desktop overlays
 desktop pal
 desktop pals 2
 desktop pasture
+desktop pet: doneatfish
 desktop pinforge
 desktop purrfect demo
 desktop raid
@@ -118092,6 +118185,7 @@ dice beauty: roguelike tactics demo
 dice biology
 dice carnival
 dice chemist
+dice game
 dice goblin's den
 dice goblins clicker
 dice gun commando
@@ -118439,6 +118533,7 @@ distributrains
 district vr demo
 district zero
 disturbing fears - workplace
+dithermaster studio
 diva
 divergence: beyond the singularity (part 1)
 divers
@@ -118663,6 +118758,7 @@ don't step on the
 don't step on the cracks
 don't stop bullying me, beastgirls!
 don't stop in red wood
+don't stop mike
 don't touch me - goblin zombies
 don't turn back
 don't wake up demo
@@ -124105,6 +124201,7 @@ going once!
 going to high school with lira
 gold
 gold and graves
+gold and robot
 gold defence
 gold finger
 gold for retirement soundtrack
@@ -126993,6 +127090,7 @@ idle asteroids
 idle boss rush
 idle car clicker
 idle chapel
+idle clacker
 idle colors
 idle critter adventure
 idle crypto mining
@@ -127558,6 +127656,7 @@ intellivision
 intellivision world series baseball
 intellivisionworldseriesbaseball
 intend system
+intended parties
 intense
 intense games
 intensegames
@@ -131536,6 +131635,7 @@ locker
 lockhart
 locknchase
 lockstone mountains
+locktale
 loco
 loco ent
 loco muko
@@ -132962,6 +133062,7 @@ math-havoc
 mathbits
 mathematician
 matheo
+mather
 mathigo
 mathilda
 mathilde
@@ -134670,6 +134771,7 @@ moon crashers
 moon mice: the game
 moon patrol
 moon river
+moon swarm demo
 moon tropica
 moonactive
 moonbride
@@ -137493,6 +137595,7 @@ onigiri shop simulator
 onimusha
 onimusha 2: samurai's destiny
 onimusha: way of the sword
+onimusha: wots - outfit for the oni lady: hinoa
 onionxlayer: extraction
 oniric
 oniric games
@@ -139549,6 +139652,7 @@ plobania 47/b demo
 plodding recovery
 ploko
 ploy co.
+plug in
 plug in digital advertising app
 pluid
 pluid pluid
@@ -140655,6 +140759,7 @@ puzzles hamster
 puzzles: fish
 puzzles: space cats
 puzzleseries
+puzzletwist
 pvp golden armor of guan jian shou skin dlc
 pvp uniform & bunny outfit dlc
 pvt
@@ -140664,6 +140769,7 @@ px2: the termination
 pyjama
 pyjama sam
 pyjamasam
+pyra
 pyram
 pyram tristesiège
 pyramid
@@ -140905,6 +141011,7 @@ quizz
 quizz game
 quizzgame
 qume: echoes of sand
+qumino
 quotix
 quotix software
 quotixsoftware
@@ -143898,6 +144005,7 @@ seven sinners
 sevendays demo
 sevens
 seventh mansion: the first escape
+sewer crawler
 sewer raiders
 sewercide
 sex & coffee ☕️🤎
@@ -144156,6 +144264,7 @@ sheld
 sheld sheld
 sheldsheld
 shelf by shelf: bookstore simulator
+shelf happens
 shelke
 shell
 shell of a king
@@ -145839,6 +145948,7 @@ spelbrawl
 spell alchemist
 spell slide
 spellbound
+spellbound & shelved
 spellbound beauties
 spellbound: malachite coven
 spellcarved
@@ -147464,6 +147574,7 @@ synapse software
 synapse software corporation
 synapsesoftware
 synapsesoftwarecorporation
+sync together
 syncers
 syncrochromia
 syndeo-complex
@@ -148448,6 +148559,7 @@ the assembly line
 the asterion
 the attack on egg harbor
 the awakener: battle tendency
+the ayna
 the azure one
 the backrooms deluxe 2
 the backrooms: expedition
@@ -152059,6 +152171,7 @@ vigil
 vigil games
 vigilante
 vigilgames
+vigilo
 vii
 viking
 viking breaker
@@ -152368,6 +152481,7 @@ vortex software
 vortex-g: anti-gravity racing & track editor
 vortexdesign
 vortexsoftware
+vortha racing
 vortica
 vortx
 vospetka simulator
@@ -153540,6 +153654,7 @@ world rally championship
 world tree ranch: elven legacy
 world war chess
 world war ii armored recon
+world war ii auto battler
 world war legion
 world war z
 world war z + toxic commando - standard edition - loyalty
@@ -155957,6 +156072,11 @@ zèbre
 이상한 사냥터 Demo
 이상한 사냥터 demo
 이상한사냥터Demo
+컬러팅! 캐치 라비  Colorting! Catch Rabi 
+컬러팅! 캐치&라비 (COLORTING! CATCH&RABI)
+컬러팅! 캐치&라비 (Colorting! Catch&Rabi)
+컬러팅! 캐치&라비 (colorting! catch&rabi)
+컬러팅!캐치&라비(Colorting!Catch&Rabi)
 큐트 여전사 3  Cute Warrior Girl 3 
 큐트 여전사 3 (CUTE WARRIOR GIRL 3)
 큐트 여전사 3 (Cute Warrior Girl 3)
