@@ -1779,6 +1779,7 @@
 ????:???? Hyper Chinese Chess
 ????:?????
 ????:??????
+????:PaoHuZi
 ?????
 ?????  Twelve Succubus
 ????? -The Cursed Underground Parking Lot-
@@ -4152,6 +4153,7 @@ ARENA
 ARENA : RUN AND HIT
 ARENA BREAKOUT: INFINITE
 ARENA II
+ARENA IMMORTALIS
 ARENA OF SACRIFICE
 ARENA OF SUFFERING
 ARENANET
@@ -7081,11 +7083,13 @@ Arena
 Arena : Run And Hit
 Arena Breakout: Infinite
 Arena II
+Arena Immortalis
 Arena of Sacrifice
 Arena of Suffering
 Arena:RunAndHit
 ArenaBreakout:Infinite
 ArenaII
+ArenaImmortalis
 ArenaNet
 ArenaofSacrifice
 ArenaofSuffering
@@ -8662,6 +8666,7 @@ BARRETWALLACE
 BARROK 2
 BARRY
 BARTUC
+BARYUM
 BASARA
 BASCH
 BASE BREAKERS
@@ -11621,6 +11626,7 @@ Barrok 2
 Barrok2
 Barry
 Bartuc
+Baryum
 Basara
 Basch
 Base Breakers
@@ -14993,6 +14999,7 @@ CAROL
 CAROL AND THE BELLS: A COZY STRATEGY GAME
 CAROL SHAW (PERSONNE
 CAROL SHAW (PERSONNE INDIVIDUELL
+CAROLINA HEAT
 CAROLSHAW(PERSONNE
 CAROLSHAW(PERSONNEINDIVIDUELL
 CAROTTE
@@ -17331,6 +17338,7 @@ CRAZY COIN POKER
 CRAZY FRUIT SHOOTER
 CRAZY HOTEL TOGETHER
 CRAZY NEIGHBOUR
+CRAZY POCKET
 CRAZY PUZZLE - COSPLAY
 CRAZY ROBOT
 CRAZY ROBOT BALL
@@ -18510,6 +18518,8 @@ Carol and the Bells: A Cozy Strategy Game
 CarolShaw(Personne
 CarolShaw(PersonneIndividuell
 CarolandtheBells:ACozyStrategyGame
+Carolina Heat
+CarolinaHeat
 Carotte
 Carotte dorée
 Carotte sur un baton
@@ -21293,6 +21303,7 @@ Crazy Coin Poker
 Crazy Fruit Shooter
 Crazy Hotel Together
 Crazy Neighbour
+Crazy Pocket
 Crazy Puzzle   Cosplay
 Crazy Puzzle - Cosplay
 Crazy Robot
@@ -21307,6 +21318,7 @@ CrazyCoinPoker
 CrazyFruitShooter
 CrazyHotelTogether
 CrazyNeighbour
+CrazyPocket
 CrazyPuzzle-Cosplay
 CrazyRobot
 CrazyRobotBall
@@ -22345,6 +22357,7 @@ DARIUSBURSTChronicleSaviours
 DARK
 DARK ADELITA
 DARK AGE LEGENDS
+DARK BONE PRISON
 DARK CASTLE
 DARK CHAMBERS
 DARK CHRONICLES:REAWAKENING OF EVIL
@@ -22505,6 +22518,7 @@ DATAEASTUSA
 DATAM
 DATAM POLYSTER
 DATAM Polyster
+DATAMINERS
 DATAMOST
 DATAMOST INC
 DATAMOSTINC
@@ -22754,6 +22768,7 @@ DEADZONE: ROGUE
 DEAL ME, DEVIL!
 DEAL WITH THE DEVIL CHAPTER: 2 - FROM TUONELA TO HELL
 DEALER BUST! | ROGUELIKE BLACKJACK
+DEALER'S DICE
 DEALER'S LIFE LEGEND
 DEAN
 DEAN WINCHELL
@@ -23490,6 +23505,7 @@ DICE LEGENDS
 DICE OF KALMA
 DICE ROGUES DEMO
 DICE SHAPER
+DICE TAVERN: FARKLE ROGUELIKE
 DICE TO PAY
 DICE WITH DEATH
 DICEBALL
@@ -23519,6 +23535,7 @@ DIDDYKONGRACING
 DIDI
 DIDIDIG
 DIE
+DIE DIVER
 DIE GUTE
 DIE GUTE FABRIK
 DIE IN THE DUNGEON
@@ -23738,6 +23755,7 @@ DIRTBAG MAHJONG
 DIRTY AIR
 DIRTY BUSINESS
 DIRTY FANTASY
+DIRTY LAUNDRY
 DIRTY PIANO LESSONS 🍓
 DIRTY PIRATES
 DIRTY TEACHERS
@@ -24913,6 +24931,7 @@ DUNGEONS  DRAGONS
 DUNGEONS & DRAGONS
 DUNGEONS & DRAGONS: DRAGONSHARD
 DUNGEONS & DRIVERS
+DUNGEONS OF DREADMOOR
 DUNGEONS OF ETERNITY
 DUNGEONS OF ETERNITY ORIGINAL SOUNDTRACK
 DUNGEONS OF UHR DEMO
@@ -25228,6 +25247,7 @@ Darius
 Dark
 Dark Adelita
 Dark Age Legends
+Dark Bone Prison
 Dark Castle
 Dark Chambers
 Dark Chronicles:Reawakening of Evil
@@ -25279,6 +25299,7 @@ Dark Web
 Dark Wizards World Pack
 DarkAdelita
 DarkAgeLegends
+DarkBonePrison
 DarkCastle
 DarkChambers
 DarkChronicles:ReawakeningofEvil
@@ -25403,6 +25424,7 @@ Database
 Database Software
 DatabaseSoftware
 Databyte
+Dataminers
 Datamost
 Datamost Inc
 DatamostInc
@@ -25704,8 +25726,11 @@ Deal me, Devil!
 DealWithTheDevilChapter:2-FromTuonelatoHell
 Dealer Bust!   Roguelike BlackJack
 Dealer Bust! | Roguelike BlackJack
+Dealer s Dice
 Dealer s Life Legend
+Dealer's Dice
 Dealer's Life Legend
+Dealer'sDice
 Dealer'sLifeLegend
 DealerBust!|RoguelikeBlackJack
 Dealme,Devil!
@@ -26645,6 +26670,7 @@ Dice Gun Commando
 Dice Legends
 Dice Rogues Demo
 Dice Shaper
+Dice Tavern: Farkle Roguelike
 Dice To Pay
 Dice With Death
 Dice of Kalma
@@ -26661,6 +26687,7 @@ DiceGunCommando
 DiceLegends
 DiceRoguesDemo
 DiceShaper
+DiceTavern:FarkleRoguelike
 DiceToPay
 DiceWithDeath
 Diceball
@@ -26695,9 +26722,11 @@ DiddyKongRacing
 Didi
 DidyouvisitCommutatorApply
 Die
+Die Diver
 Die Gute
 Die Gute Fabrik
 Die in the Dungeon
+DieDiver
 DieGute
 DieGuteFabrik
 DieLessEndLess
@@ -26962,11 +26991,13 @@ DirgeofSorrows:ANationReborn
 Dirty Air
 Dirty Business
 Dirty Fantasy
+Dirty Laundry
 Dirty Piano Lessons ?
 Dirty Piano Lessons 🍓
 DirtyAir
 DirtyBusiness
 DirtyFantasy
+DirtyLaundry
 DirtyPianoLessons🍓
 Dirtzone
 DisGo
@@ -28389,6 +28420,7 @@ Dungeons  Dragons
 Dungeons & Dragons
 Dungeons & Dragons: Dragonshard
 Dungeons & Drivers
+Dungeons of Dreadmoor
 Dungeons of Eternity
 Dungeons of Eternity Original Soundtrack
 Dungeons of Uhr Demo
@@ -28396,6 +28428,7 @@ Dungeons&Dragons
 Dungeons&Dragons:Dragonshard
 Dungeons&Drivers
 DungeonsDragons
+DungeonsofDreadmoor
 DungeonsofEternity
 DungeonsofEternityOriginalSoundtrack
 DungeonsofUhrDemo
@@ -32013,6 +32046,7 @@ FACTORIDLING
 FACTORY
 FACTORY 95
 FACTORY BALLS GO!
+FACTORY DEFAULT: BUILD, TRADE, REPEAT
 FACTORY ON A TRAIN DEMO
 FACTORY PLANNER: FIRST SPARKS
 FACTORY RESET
@@ -32687,6 +32721,7 @@ FINISH THE DISHES!
 FINISH THE DISHES! DEMO
 FINISHER
 FINISHHIM
+FINITIMI
 FINITO
 FINK
 FINN
@@ -33000,6 +33035,7 @@ FLOATING ISLE DAYS
 FLOCK AROUND
 FLOOD
 FLOOD RETURNS
+FLOOD WITH FRIENDS
 FLOODLIGHT
 FLOODPUNK
 FLOOR
@@ -33319,6 +33355,7 @@ FORTS
 FORTS & CASTLES
 FORTS - FIREBIRD
 FORTS - FIREBIRD (ORIGINAL SOUNDTRACK)
+FORTUNA'S LEDGER
 FORTUNE
 FORTUNE FLIPPER
 FORTUNE PARADOX
@@ -34002,12 +34039,14 @@ Factoridling
 Factory
 Factory 95
 Factory Balls Go!
+Factory Default: Build, Trade, Repeat
 Factory Planner: First Sparks
 Factory Reset
 Factory Train: DreamLine
 Factory on a Train Demo
 Factory95
 FactoryBallsGo!
+FactoryDefault:Build,Trade,Repeat
 FactoryPlanner:FirstSparks
 FactoryReset
 FactoryTrain:DreamLine
@@ -34827,6 +34866,7 @@ FinishHim
 FinishTheDishes!
 FinishTheDishes!Demo
 Finisher
+Finitimi
 Finito
 Fink
 Finn
@@ -35250,7 +35290,9 @@ Flock Around
 FlockAround
 Flood
 Flood Returns
+Flood With Friends
 FloodReturns
+FloodWithFriends
 Floodlight
 Floodpunk
 Floor
@@ -35677,6 +35719,9 @@ Forts - Firebird (Original Soundtrack)
 Forts&Castles
 Forts-Firebird
 Forts-Firebird(OriginalSoundtrack)
+Fortuna s Ledger
+Fortuna's Ledger
+Fortuna'sLedger
 Fortune
 Fortune Flipper
 Fortune Paradox
@@ -38145,6 +38190,7 @@ GRIZZLYPANDA
 GRIZZY AND THE LEMMINGS - CRAZY PARTY
 GRODRAGON
 GROGNON
+GROKY
 GROM
 GROM HURLENFER
 GROMHURLENFER
@@ -40785,6 +40831,7 @@ HACK AND CLIMB
 HACK AND SLAY
 HACK HACK
 HACK THE STARS DEMO
+HACK YOU DEMO
 HACK.BAK
 HACK//GU
 HACKAND
@@ -42617,6 +42664,7 @@ Hack 42: Typing Incremental Demo
 Hack And Climb
 Hack Hack
 Hack The Stars Demo
+Hack You Demo
 Hack and
 Hack and Slay
 Hack42:TypingIncrementalDemo
@@ -42627,6 +42675,7 @@ HackHub - Ultimate Hacker Simulator
 HackHub-UltimateHackerSimulator
 HackSaw
 HackTheStarsDemo
+HackYouDemo
 Hackand
 HackandSlay
 Hacked: The Streamer
@@ -48224,6 +48273,7 @@ JUMPKINGQUEST
 JUMPMAP
 JUMPPASS 2
 JUMPSCARE SLAYER
+JUMPY VS. CHOMPY
 JUN
 JUN HAYASE
 JUN KAZAMA
@@ -49110,6 +49160,8 @@ Jumpscare Slayer
 JumpscareSlayer
 JumptheTrack
 JumptheTrackSoundtrack
+Jumpy vs. Chompy
+Jumpyvs.Chompy
 Jun
 Jun Hayase
 Jun Kazama
@@ -53371,6 +53423,7 @@ LIVING ON VIOLENT EXPERIENCES
 LIVING PIPES
 LIVING WITH A LITTLE FOX GIRL
 LIVING WITH MY LITTLE SISTER
+LIVINGBATTLE MILITARY
 LIVIO
 LIVIO MORGANTI
 LIVIOMORGANTI
@@ -55597,6 +55650,8 @@ Living On Violent Experiences
 Living Pipes
 Living with a Little Fox Girl
 Living with my Little Sister
+LivingBattle Military
+LivingBattleMilitary
 LivingLegends:FrozenDestinyCollector'sEdition
 LivingNightmares-FalseFamiliar
 LivingOnViolentExperiences
@@ -59702,6 +59757,7 @@ MY COZY ROOM DEMO
 MY CROSSHAIR
 MY CRUSH IS A CLERK FROM HELL
 MY CV
+MY DARLING DARK ELF
 MY DATING EMPIRE
 MY DAUGHTER IN FAMILY AI
 MY DAUGHTER IN FAMILY AI - OUTFIT DLC 2
@@ -63504,6 +63560,7 @@ My Classmate is AV Actress
 My Cozy Room Demo
 My Crosshair
 My Crush is a Clerk from Hell
+My Darling Dark Elf
 My Dating Empire
 My Daughter In Family Ai
 My Daughter in Family AI   Outfit DLC 2
@@ -63619,6 +63676,7 @@ MyClassmateisAVActress
 MyCozyRoomDemo
 MyCrosshair
 MyCrushisaClerkfromHell
+MyDarlingDarkElf
 MyDatingEmpire
 MyDaughterInFamilyAi
 MyDaughterinFamilyAI-OutfitDLC2
@@ -64681,6 +64739,7 @@ NIGHT GRIP
 NIGHT INVASION
 NIGHT JACKAL: BLOOD DEBT
 NIGHT LIGHT
+NIGHT MANIAC: THE ORIGIN OF STEVEN
 NIGHT MARKET SIMULATOR
 NIGHT OF NIGHTMARE
 NIGHT OF SEVEN DREAMS
@@ -65167,6 +65226,7 @@ NOTEBOOK BATTLEGROUNDS
 NOTEBOOK WORKSHOP DEMO
 NOTHING BEYOND THIS POINT
 NOTHING REMAINS
+NOTHING STRANGE HERE
 NOTHING TO DECLARE
 NOTHMERE
 NOTIFYXR
@@ -65194,6 +65254,7 @@ NOVARAMA
 NOVASWARM
 NOVEL CREATION -ICHISHIKI-
 NOVEL CREATION -ICHISHIKI- DEMO
+NOVEL FORGER: SUICIDE MR. FURY
 NOVEL HAVEN
 NOVEL ROGUE
 NOVELSTUDIO
@@ -66047,6 +66108,7 @@ Night Grip
 Night Invasion
 Night Jackal: Blood Debt
 Night Light
+Night Maniac: The Origin Of Steven
 Night Market Simulator
 Night Patrol Rules
 Night Patrol:Barracks
@@ -66072,6 +66134,7 @@ NightGrip
 NightInvasion
 NightJackal:BloodDebt
 NightLight
+NightManiac:TheOriginOfSteven
 NightMare King
 NightMareKing
 NightMarketSimulator
@@ -66645,9 +66708,11 @@ NotebookBattlegrounds
 NotebookWorkshopDemo
 Nothing Beyond This Point
 Nothing Remains
+Nothing Strange Here
 Nothing To Declare
 NothingBeyondThisPoint
 NothingRemains
+NothingStrangeHere
 NothingToDeclare
 Nothmere
 NotifyXR
@@ -66675,10 +66740,12 @@ Novel Creation  Ichishiki
 Novel Creation  Ichishiki  Demo
 Novel Creation -Ichishiki-
 Novel Creation -Ichishiki- Demo
+Novel Forger: Suicide Mr. Fury
 Novel Haven
 Novel Rogue
 NovelCreation-Ichishiki-
 NovelCreation-Ichishiki-Demo
+NovelForger:SuicideMr.Fury
 NovelHaven
 NovelRogue
 NovelStudio
@@ -67664,6 +67731,7 @@ OPERATION P.L.U.S.H
 OPERATION REMODE
 OPERATION SINGULARITY
 OPERATION WOLF
+OPERATION: BLACK GENESIS - THE IMMORTAL TRIALS
 OPERATION: OUTBREAK
 OPERATION: SURFACE TAKEOVER
 OPERATION: TANGO
@@ -68966,9 +69034,12 @@ Operation P.L.U.S.H
 Operation REMODE
 Operation Singularity
 Operation Wolf
+Operation: Black Genesis   The Immortal Trials
+Operation: Black Genesis - The Immortal Trials
 Operation: Outbreak
 Operation: Surface Takeover
 Operation: Tango
+Operation:BlackGenesis-TheImmortalTrials
 Operation:Outbreak
 Operation:SurfaceTakeover
 Operation:Tango
@@ -69893,6 +69964,7 @@ PARASITESX
 PARASOL
 PARASOL STARS
 PARASOLSTARS
+PARASOMNIA
 PARASYDRE
 PARASYDRE ENRAGE
 PARASYDREENRAGE
@@ -69923,6 +69995,7 @@ PARK PLACE PRODUCTIONS
 PARK RANGER SIMULATOR
 PARK SUN-WOO
 PARK SUNWOO
+PARKASAURUS
 PARKER
 PARKER BROTHERS
 PARKERBROTHERS
@@ -72763,6 +72836,7 @@ ParasitesX
 Parasol
 Parasol Stars
 ParasolStars
+Parasomnia
 Parasydre
 Parasydre enrage
 Parasydre enragé
@@ -72806,6 +72880,7 @@ ParkRangerSimulator
 ParkSun-woo
 ParkSunwoo
 ParkTour
+Parkasaurus
 Parker
 Parker Brothers
 ParkerBrothers
@@ -76903,6 +76978,7 @@ REMINISCENCE OF GUSUKU: CARD AND EXPLORE
 REMNANTS OF THE RIFT
 REMNANTS: OMISION
 REMO
+REMOTE GAMEPAD
 REMOTE MINER CO.
 REMOTE POSITION
 REMOVE VIRUS
@@ -77976,6 +78052,7 @@ RUN OF THE LOST
 RUN QUAD RUN
 RUN RUN IGUANA!
 RUN TAVERNQUEST
+RUN TO RUN
 RUN, VEGGIES!
 RUN.WORLD
 RUN.world
@@ -79021,8 +79098,10 @@ Remnants: Omision
 Remnants:Omision
 RemnantsoftheRift
 Remo
+Remote Gamepad
 Remote Miner Co.
 Remote Position
+RemoteGamepad
 RemoteMinerCo.
 RemotePosition
 Remove Virus
@@ -80268,6 +80347,7 @@ Run Quad Run
 Run Run Iguana!
 Run TavernQuest
 Run of the Lost
+Run to Run
 Run, Veggies!
 Run,Veggies!
 RunCoffeeRun
@@ -80335,6 +80415,7 @@ RunningWithScissors
 Runningwith
 RunningwithScissors
 RunoftheLost
+RuntoRun
 Runway(TM)
 Runway™
 Rupert
@@ -82539,6 +82620,7 @@ SIPS AND SONNETS
 SIPSSASSIN
 SIR
 SIR EBRUM
+SIR GALGANO - A MEDIEVAL TALE
 SIR, WE HAVE AN ORC PROBLEM
 SIR-TECH
 SIRE
@@ -83093,6 +83175,7 @@ SOFT PRO INTERNATIONAL
 SOFT TOUCH
 SOFT VISION
 SOFT VISION INTERNATIONAL
+SOFT(A)WARE
 SOFTAWARE
 SOFTBANK
 SOFTBANK CORPORATION
@@ -83408,6 +83491,7 @@ SOUL BLAZER
 SOUL CALIBUR
 SOUL CARD DUEL
 SOUL CARDS
+SOUL CHAINED
 SOUL DESCENT: INVADE OF ETHER R
 SOUL EDGE
 SOUL EYES DEMON: REMAKE EYES
@@ -83694,6 +83778,7 @@ SPELLBOUND: MALACHITE COVEN
 SPELLCARVED
 SPELLCATCHER
 SPELLFORCE
+SPELLSTEEL
 SPELLSY
 SPELUNKY
 SPHENOID
@@ -83794,6 +83879,7 @@ SPLASHDAMAGE
 SPLASHPOTION
 SPLAT SPLAT
 SPLATSPLASM
+SPLATTER PIECE
 SPLATTERBOT
 SPLATTERHOUSE
 SPLINTER
@@ -85175,6 +85261,7 @@ SURVIVE THE SPIN
 SURVIVE, RESIST, COLLABORATE - A WORLD WAR 2 CHOICE-BASED STORY
 SURVIVING MARS
 SURVIVING MARS: PIONEER
+SURVIVING MARS: RELAUNCHED - FEEDING THE FUTURE
 SURVIVOR
 SURVIVOR 01 DEMO
 SURVIVOR 01 Demo
@@ -87797,10 +87884,13 @@ SipsandSonnets
 Sipssassin
 Sir
 Sir Ebrum
+Sir Galgano   A Medieval Tale
+Sir Galgano - A Medieval Tale
 Sir, We Have an Orc Problem
 Sir,WeHaveanOrcProblem
 Sir-Tech
 SirEbrum
+SirGalgano-AMedievalTale
 SirKwitz 2
 SirKwitz2
 SirTech
@@ -88462,6 +88552,7 @@ Sofix
 Sofix Corporation
 SofixCorporation
 Soft
+Soft A ware
 Soft Culture
 Soft Machine
 Soft Money
@@ -88470,6 +88561,7 @@ Soft Pro International
 Soft Touch
 Soft Vision
 Soft Vision International
+Soft(A)ware
 SoftCulture
 SoftEgg
 SoftGold
@@ -88832,6 +88924,7 @@ Soul Blazer
 Soul Calibur
 Soul Card Duel
 Soul Cards
+Soul Chained
 Soul Descent: Invade of Ether R
 Soul Edge
 Soul Eyes Demon: Remake Eyes
@@ -88870,6 +88963,7 @@ SoulCaliburIV
 SoulCaliburSoulEdge
 SoulCardDuel
 SoulCards
+SoulChained
 SoulDescent:InvadeofEtherR
 SoulEdge
 SoulEyesDemon:RemakeEyes
@@ -89224,6 +89318,7 @@ Spellbound&Shelved
 Spellbound: Malachite Coven
 Spellbound:MalachiteCoven
 SpellboundBeauties
+Spellsteel
 Spellsy
 Sphenoid
 Sphere
@@ -89360,6 +89455,8 @@ SplashShotGolfLegend
 Splat Splat
 SplatSplat
 Splatsplasm
+Splatter Piece
+SplatterPiece
 Splatterbot
 Splatterhouse
 Splinter
@@ -91110,8 +91207,11 @@ SurvivetheSilence
 SurvivetheSpin
 Surviving Mars
 Surviving Mars: Pioneer
+Surviving Mars: Relaunched   Feeding the Future
+Surviving Mars: Relaunched - Feeding the Future
 SurvivingMars
 SurvivingMars:Pioneer
+SurvivingMars:Relaunched-FeedingtheFuture
 Survivor
 Survivor Strain   Season 1
 Survivor Strain - Season 1
@@ -94143,6 +94243,7 @@ TOHOCOMPANY
 TOHOSUNRISE
 TOHOTOPIA
 TOI 2 ATTACK
+TOILET 101
 TOILET 8
 TOILET BATTLE HERO
 TOILET FEMDOM 3: CHRISTMAS PUNKS
@@ -94906,6 +95007,7 @@ TROPICAL_FISH_SPAWN_EGG
 TROPY
 TROUBLE
 TROUBLE IN COOKIE TOWN
+TROUBLE THIEF
 TROUBLED WATERS
 TROUBLESHOOTER: ABANDONED CHILDREN
 TROUBLESHOOTER: Abandoned Children
@@ -98922,10 +99024,12 @@ TohoCompany
 TohoSunrise
 Toi 2 Attack
 Toi2Attack
+Toilet 101
 Toilet 8
 Toilet Battle Hero
 Toilet Femdom 3: Christmas Punks
 Toilet Femdom: Christmas Party
+Toilet101
 Toilet8
 ToiletBattleHero
 ToiletFemdom3:ChristmasPunks
@@ -99920,7 +100024,9 @@ TropicalFishSpawnEgg
 TropicalMonsterGirls
 Tropy
 Trouble
+Trouble Thief
 Trouble in Cookie Town
+TroubleThief
 Troubled Waters
 TroubledWaters
 TroubleinCookieTown
@@ -101643,6 +101749,7 @@ VESPERIS
 VESPIA: SHIELD OF ABERRATION
 VESSEL
 VETASOFT
+VETERUM
 VETTIN
 VEX
 VEX SPAWN
@@ -102562,6 +102669,7 @@ Vespia: Shield of Aberration
 Vespia:ShieldofAberration
 Vessel
 Vetasoft
+Veterum
 Vettin
 Vex
 Vex Spawn
@@ -103871,6 +103979,7 @@ WILD HUNT
 WILD RADIO FLUX
 WILD SCRIPT: NATURE
 WILD TOWER
+WILD TRAIL
 WILD WEST MINER SIMULATOR DEMO
 WILD WEST: PROTOTYPE
 WILDARMS
@@ -105397,6 +105506,7 @@ Wild Horse Racing
 Wild Radio Flux
 Wild Script: Nature
 Wild Tower
+Wild Trail
 Wild West Miner Simulator Demo
 Wild West: Prototype
 WildAlone
@@ -105407,6 +105517,7 @@ WildHorseRacing
 WildRadioFlux
 WildScript:Nature
 WildTower
+WildTrail
 WildWest:Prototype
 WildWestMinerSimulatorDemo
 Wilder Bound   荒野拼图
@@ -109833,6 +109944,7 @@ arena
 arena : run and hit
 arena breakout: infinite
 arena ii
+arena immortalis
 arena of sacrifice
 arena of suffering
 arenanet
@@ -111196,6 +111308,7 @@ barretwallace
 barrok 2
 barry
 bartuc
+baryum
 basara
 basch
 base breakers
@@ -113992,6 +114105,7 @@ carol
 carol and the bells: a cozy strategy game
 carol shaw (personne
 carol shaw (personne individuell
+carolina heat
 carolshaw(personne
 carolshaw(personneindividuell
 carotte
@@ -116239,6 +116353,7 @@ crazy coin poker
 crazy fruit shooter
 crazy hotel together
 crazy neighbour
+crazy pocket
 crazy puzzle - cosplay
 crazy robot
 crazy robot ball
@@ -117110,6 +117225,7 @@ dariusburst chronicle saviours
 dark
 dark adelita
 dark age legends
+dark bone prison
 dark castle
 dark chambers
 dark chronicles:reawakening of evil
@@ -117257,6 +117373,7 @@ dataeast
 dataeastusa
 datam
 datam polyster
+dataminers
 datamost
 datamost inc
 datamostinc
@@ -117484,6 +117601,7 @@ deadzone: rogue
 deal me, devil!
 deal with the devil chapter: 2 - from tuonela to hell
 dealer bust! | roguelike blackjack
+dealer's dice
 dealer's life legend
 dean
 dean winchell
@@ -118193,6 +118311,7 @@ dice legends
 dice of kalma
 dice rogues demo
 dice shaper
+dice tavern: farkle roguelike
 dice to pay
 dice with death
 diceball
@@ -118222,6 +118341,7 @@ diddykongracing
 didi
 dididig
 die
+die diver
 die gute
 die gute fabrik
 die in the dungeon
@@ -118446,6 +118566,7 @@ dirtbagMAHJONG
 dirty air
 dirty business
 dirty fantasy
+dirty laundry
 dirty piano lessons 🍓
 dirty pirates
 dirty teachers
@@ -119530,6 +119651,7 @@ dungeons  dragons
 dungeons & dragons
 dungeons & dragons: dragonshard
 dungeons & drivers
+dungeons of dreadmoor
 dungeons of eternity
 dungeons of eternity original soundtrack
 dungeons of uhr demo
@@ -121265,6 +121387,7 @@ factoridling
 factory
 factory 95
 factory balls go!
+factory default: build, trade, repeat
 factory on a train demo
 factory planner: first sparks
 factory reset
@@ -121877,6 +122000,7 @@ finish the dishes!
 finish the dishes! demo
 finisher
 finishhim
+finitimi
 finito
 fink
 finn
@@ -122189,6 +122313,7 @@ floating isle days
 flock around
 flood
 flood returns
+flood with friends
 floodlight
 floodpunk
 floor
@@ -122503,6 +122628,7 @@ forts
 forts & castles
 forts - firebird
 forts - firebird (original soundtrack)
+fortuna's ledger
 fortune
 fortune flipper
 fortune paradox
@@ -124759,6 +124885,7 @@ grizzlypanda
 grizzy and the lemmings - crazy party
 grodragon
 grognon
+groky
 grom
 grom hurlenfer
 gromhurlenfer
@@ -125120,6 +125247,7 @@ hack and climb
 hack and slay
 hack hack
 hack the stars demo
+hack you demo
 hack.bak
 hack//GU
 hack//gu
@@ -128743,6 +128871,7 @@ jumpjet rex
 jumpmap
 jumppass 2
 jumpscare slayer
+jumpy vs. chompy
 jun
 jun hayase
 jun kazama
@@ -131552,6 +131681,7 @@ living on violent experiences
 living pipes
 living with a little fox girl
 living with my little sister
+livingbattle military
 livio
 livio morganti
 liviomorganti
@@ -135297,6 +135427,7 @@ my cozy room demo
 my crosshair
 my crush is a clerk from hell
 my cv
+my darling dark elf
 my dating empire
 my daughter in family ai
 my daughter in family ai - outfit dlc 2
@@ -136202,6 +136333,7 @@ night grip
 night invasion
 night jackal: blood debt
 night light
+night maniac: the origin of steven
 night market simulator
 night of nightmare
 night of seven dreams
@@ -136666,6 +136798,7 @@ notebook battlegrounds
 notebook workshop demo
 nothing beyond this point
 nothing remains
+nothing strange here
 nothing to declare
 nothmere
 notifyxr
@@ -136691,6 +136824,7 @@ novarama
 novaswarm
 novel creation -ichishiki-
 novel creation -ichishiki- demo
+novel forger: suicide mr. fury
 novel haven
 novel rogue
 novelstudio
@@ -137668,6 +137802,7 @@ operation p.l.u.s.h
 operation remode
 operation singularity
 operation wolf
+operation: black genesis - the immortal trials
 operation: outbreak
 operation: surface takeover
 operation: tango
@@ -138433,6 +138568,7 @@ parasitesx
 parasol
 parasol stars
 parasolstars
+parasomnia
 parasydre
 parasydre enrage
 parasydre enragé
@@ -138467,6 +138603,7 @@ park place productions
 park ranger simulator
 park sun-woo
 park sunwoo
+parkasaurus
 parker
 parker brothers
 parkerbrothers
@@ -141798,6 +141935,7 @@ reminiscence of gusuku: card and explore
 remnants of the rift
 remnants: omision
 remo
+remote gamepad
 remote miner co.
 remote position
 remove virus
@@ -142805,6 +142943,7 @@ run of the lost
 run quad run
 run run iguana!
 run tavernquest
+run to run
 run, veggies!
 run.world
 runa illustra
@@ -144840,6 +144979,7 @@ sips and sonnets
 sipssassin
 sir
 sir ebrum
+sir galgano - a medieval tale
 sir, we have an orc problem
 sir-tech
 sire
@@ -145365,6 +145505,7 @@ soft pro international
 soft touch
 soft vision
 soft vision international
+soft(a)ware
 softaware
 softbank
 softbank corporation
@@ -145673,6 +145814,7 @@ soul blazer
 soul calibur
 soul card duel
 soul cards
+soul chained
 soul descent: invade of ether r
 soul edge
 soul eyes demon: remake eyes
@@ -145954,6 +146096,7 @@ spellbound: malachite coven
 spellcarved
 spellcatcher
 spellforce
+spellsteel
 spellsy
 spelunky
 sphenoid
@@ -146051,6 +146194,7 @@ splashdamage
 splashpotion
 splat splat
 splatsplasm
+splatter piece
 splatterbot
 splatterhouse
 splinter
@@ -147369,6 +147513,7 @@ survive the spin
 survive, resist, collaborate - a world war 2 choice-based story
 surviving mars
 surviving mars: pioneer
+surviving mars: relaunched - feeding the future
 survivor
 survivor 01 demo
 survivor strain - season 1
@@ -150227,6 +150372,7 @@ tohocompany
 tohosunrise
 tohotopia
 toi 2 attack
+toilet 101
 toilet 8
 toilet battle hero
 toilet femdom 3: christmas punks
@@ -150985,6 +151131,7 @@ tropicalfishspawnegg
 tropy
 trouble
 trouble in cookie town
+trouble thief
 troubled waters
 troubleshooter: abandoned children
 troupe
@@ -152057,6 +152204,7 @@ vesperis
 vespia: shield of aberration
 vessel
 vetasoft
+veterum
 vettin
 vex
 vex spawn
@@ -153271,6 +153419,7 @@ wild hunt
 wild radio flux
 wild script: nature
 wild tower
+wild trail
 wild west miner simulator demo
 wild west: prototype
 wildarms
@@ -155089,6 +155238,7 @@ zèbre
 回煞录|PhantomReckoning
 回避男
 团子岛密语2
+图灵证言
 在异世界打怪的修仙者
 在赛博世界和100个道侣修仙
 地禍駐車場  The Cursed Underground Parking Lot 
@@ -155905,6 +156055,9 @@ zèbre
 道渡しのオーレリア demo
 道渡しのオーレリアDemo
 遥豊のサレテ
+郴州字牌：PAOHUZI
+郴州字牌：PaoHuZi
+郴州字牌：paohuzi
 都市青年模拟器
 酒馆战争
 重启人生
