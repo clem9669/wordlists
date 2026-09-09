@@ -1697,6 +1697,7 @@
 ???? - ????
 ???? - ?????
 ???? - ??????? 90 ???
+???? - ????????? - Demo
 ???? - Finding
 ???? - MagicPet
 ???? - Perpetual Classroom - Demo
@@ -2718,6 +2719,7 @@ AEROBLASTERS
 AEROCORP
 AEROFIGHTERS
 AEROLICIOUS
+AEROVICE FRUTIGER WORLD
 AEROWINGS
 AERUTA
 AES
@@ -3448,6 +3450,7 @@ AMERICAN ACTION AB
 AMERICAN EAGLE
 AMERICAN GAME
 AMERICAN GAME CARTRIDGES
+AMERICAN HIGH SCHOOL BASKETBALL DYNASTY
 AMERICAN LASER
 AMERICAN LASER GAMES
 AMERICAN LASER GAMES INC
@@ -4069,6 +4072,7 @@ ARCADE ARCHITECT
 ARCADE AUDIENCE
 ARCADE BOSS SIMULATOR
 ARCADE FOREVER
+ARCADE GALAXY
 ARCADE MOGUL
 ARCADE SURVIVORS
 ARCADE WORLD CUPS
@@ -4773,6 +4777,7 @@ ATLANTIS INTERACTIVE ENTERTAINME
 ATLANTISINTERACTIVE
 ATLANTISINTERACTIVEENTERTAINME
 ATLAS
+ATLAS FALLEN: REIGN OF SAND
 ATLAS HANDS
 ATLUS
 ATLUS USA /
@@ -5497,6 +5502,8 @@ AeroFighters
 AeroWings
 Aerocorp
 Aerolicious
+Aerovice Frutiger World
+AeroviceFrutigerWorld
 Aeruta
 Aesop Rock s Black Hole Superette Experience
 Aesop Rock's Black Hole Superette Experience
@@ -6259,6 +6266,7 @@ American Action AB
 American Eagle
 American Game
 American Game Cartridges
+American High School Basketball Dynasty
 American Laser
 American Laser Games
 American Laser Games Inc
@@ -6280,6 +6288,7 @@ AmericanActionAB
 AmericanEagle
 AmericanGame
 AmericanGameCartridges
+AmericanHighSchoolBasketballDynasty
 AmericanLaser
 AmericanLaserGames
 AmericanLaserGamesInc
@@ -6982,6 +6991,7 @@ Arcade Architect
 Arcade Audience
 Arcade Boss Simulator
 Arcade Forever
+Arcade Galaxy
 Arcade Mogul
 Arcade Survivors
 Arcade World Cups
@@ -6995,6 +7005,7 @@ ArcadeArchitect
 ArcadeAudience
 ArcadeBossSimulator
 ArcadeForever
+ArcadeGalaxy
 ArcadeMogul
 ArcadeSurvivors
 ArcadeWorldCups
@@ -7746,7 +7757,9 @@ Atlantis Interactive Entertainme
 AtlantisInteractive
 AtlantisInteractiveEntertainme
 Atlas
+Atlas Fallen: Reign Of Sand
 Atlas Hands
+AtlasFallen:ReignOfSand
 AtlasHands
 Atlus
 Atlus USA /
@@ -8587,6 +8600,7 @@ BARBARA: SEX STORY
 BARBARAJOHNSON
 BARBARBARBAR
 BARBARE
+BARBARIAN SAGA: THE BEASTMASTER
 BARBE-TRANCHANTE
 BARBECUE
 BARBECUE WITH FRIENDS
@@ -8942,6 +8956,7 @@ BEAT THE BEATS VR
 BEAT TOKYO WITH JIMOTOISM
 BEATCHIP '95
 BEATE
+BEATERCORE
 BEATMANIA
 BEATMANIA 2DX
 BEATMANIA IIDX
@@ -10258,6 +10273,7 @@ BOOKERDEWITT
 BOOKLET'S BIG STORY
 BOOKS
 BOOKSHOP SIMULATOR
+BOOKSTORE INCREMENTAL
 BOOLAT
 BOOLAT GAMES
 BOOLATGAMES
@@ -11547,6 +11563,8 @@ Barbara Johnson
 Barbara: Sex Story
 Barbara:SexStory
 BarbaraJohnson
+Barbarian Saga: The Beastmaster
+BarbarianSaga:TheBeastmaster
 Barbe-Tranchante
 BarbeTranchante
 Barbecue
@@ -11956,6 +11974,7 @@ BeatTokyowithJimotoism
 Beat\'em\'All
 Beat\em\All
 Beate
+BeaterCore
 Beatmania
 Beatmania 2DX
 Beatmania IIDX
@@ -13516,6 +13535,8 @@ BookofFei
 Books
 Bookshop Simulator
 BookshopSimulator
+Bookstore Incremental
+BookstoreIncremental
 Boolat
 Boolat Games
 BoolatGames
@@ -15182,7 +15203,9 @@ CATABOUM
 CATACLISMO
 CATACLYSMIC BITE
 CATACOUACS
+CATAL CARTA
 CATALANO
+CATALCARTA
 CATALINA'S HORROR ADVENTURE
 CATANKS
 CATAPULT LEGEND
@@ -16415,6 +16438,7 @@ COACH
 COACHING
 COAL
 COALITION
+COANNCO
 COAST
 COASTAL SUMMIT SPORTS: COLLEGE ATHLETICS 27
 COASTER CRASH COURSE
@@ -16952,6 +16976,7 @@ COQ
 COQUETTE
 COQUETTE COQUETTE
 COQUETTECOQUETTE
+COQUÍ CRUSADER: DEFENDERS OF BORIKÉN
 COR DRACONIS
 CORA
 CORAL
@@ -16964,6 +16989,7 @@ CORCOVADO'S NIGHT GUARD
 CORDELIA
 CORDELIA CORDELIA
 CORDELIACORDELIA
+CORDELS & SPELLS
 CORDEON
 CORE
 CORE DEFENSE 2099
@@ -17852,6 +17878,7 @@ CUTESOR - CURSOR STUDIO
 CUTHBERT
 CUTHBERT CUTHBERT
 CUTHBERTCUTHBERT
+CUTIE CLICKER
 CUTTER
 CUTTHE
 CUTTHEROPE
@@ -20201,6 +20228,7 @@ Co-opKaijuHorrorCooking
 Co.,LTD
 Co.,Ltd
 Co.Ltd
+CoAnnCo
 CoLTD
 CoLtd
 CoOPERATION:MultiTurn
@@ -20837,6 +20865,9 @@ Coq
 Coquette
 Coquette Coquette
 CoquetteCoquette
+Coqui Crusader: Defenders of Boriken
+Coquí Crusader: Defenders of Borikén
+CoquíCrusader:DefendersofBorikén
 Cor Draconis
 CorDraconis
 Coral
@@ -20851,6 +20882,9 @@ Corcovado'sNightGuard
 Cordelia
 Cordelia Cordelia
 CordeliaCordelia
+Cordels   Spells
+Cordels & Spells
+Cordels&Spells
 Cordeon
 Cordéon
 Core
@@ -21940,6 +21974,8 @@ Cutesor-CursorStudio
 Cuthbert
 Cuthbert Cuthbert
 CuthbertCuthbert
+Cutie Clicker
+CutieClicker
 Cutter
 Cutthe
 CuttheRope
@@ -23216,6 +23252,7 @@ DESIGNWAREINC
 DESK GARDEN
 DESK KANOJO
 DESK PAWS
+DESK TOP RACER
 DESKBLOOM
 DESKCAT
 DESKIE
@@ -23326,6 +23363,7 @@ DETECTIVE BLOODPHOBIA
 DETECTIVE DANA
 DETECTIVE INSTINCT: FAREWELL, MY BELOVED
 DETECTIVE MALINOWSKI THE TRUTH WILL BE REVEALED
+DETECTIVE VR
 DETECTIVE-SceneCrime
 DETECTIVES UNITED: MISSION POSSIBLE COLLECTOR'S EDITION
 DETN8
@@ -24814,6 +24852,7 @@ DUCK SIDE OF THE MOON SOUNDTRACK
 DUCK TALES
 DUCKHUNT
 DUCKTALES
+DUCKTILE
 DUDE IN THE DARK
 DUDE SIMULATOR: MY APOLOGIES
 DUDE THE DARK AGENT
@@ -26310,11 +26349,13 @@ Designs
 Desk Garden
 Desk Kanojo
 Desk Paws
+Desk Top Racer
 DeskBloom
 DeskGarden
 DeskKanojo
 DeskLayer
 DeskPaws
+DeskTopRacer
 DeskX
 Deskcat
 Deskie
@@ -26476,6 +26517,7 @@ Detective Bloodphobia
 Detective Dana
 Detective Instinct: Farewell, My Beloved
 Detective Malinowski The Truth Will Be Revealed
+Detective VR
 Detective26
 DetectiveAraka
 DetectiveBeebo:NightattheMansion
@@ -26483,6 +26525,7 @@ DetectiveBloodphobia
 DetectiveDana
 DetectiveInstinct:Farewell,MyBeloved
 DetectiveMalinowskiTheTruthWillBeRevealed
+DetectiveVR
 Detectives United: Mission Possible Collector s Edition
 Detectives United: Mission Possible Collector's Edition
 DetectivesUnited:MissionPossibleCollector'sEdition
@@ -28231,6 +28274,7 @@ DuckDuckGoose
 DuckHunt
 DuckSideoftheMoonSoundtrack
 DuckTales
+Ducktile
 Dude Simulator: My Apologies
 Dude The Dark Agent
 Dude in the Dark
@@ -32361,6 +32405,7 @@ FAUX CRASH
 FAUXCRASH
 FAVELA DEFENDER
 FAVELA KICK: THE FINAL GOAL
+FAWE
 FAWN THE FLORIST
 FAY
 FAZZY
@@ -34449,6 +34494,7 @@ Favela Defender
 Favela Kick: The Final Goal
 FavelaDefender
 FavelaKick:TheFinalGoal
+Fawe
 Fawn The Florist
 FawnTheFlorist
 Fay
@@ -40938,6 +40984,7 @@ HALLOWEEN MYSTERY: 100 HIDDEN OBJECT FRUITS
 HALLOWEEN NIGHT
 HALLOWEEN STORIES: THE DEATH CARD COLLECTOR'S EDITION
 HALLOWEEN TROUBLE 7: THE APPRENTICE
+HALLOWEEN: DIGITAL DELUXE UPGRADE
 HALLOWEEN: THE GAME
 HALLS OF THE DAMNED
 HALLUCINATIONS
@@ -41035,6 +41082,7 @@ HANNAH VCR
 HANRAHAN
 HANTA HEARTS
 HANZ
+HANZI BIRD
 HANZO
 HAO
 HAP TO DAY
@@ -41070,6 +41118,7 @@ HARD COUNT
 HARD DRIVE
 HARD DRIVIN
 HARD EDGE - WAR ZONE
+HARD ROCK CLICKER
 HARD TRUCK
 HARD TRUCK: 18 WHEELS OF STEEL
 HARDAF
@@ -42780,7 +42829,9 @@ Halloween Night
 Halloween Stories: The Death Card Collector s Edition
 Halloween Stories: The Death Card Collector's Edition
 Halloween Trouble 7: The Apprentice
+Halloween: Digital Deluxe Upgrade
 Halloween: The Game
+Halloween:DigitalDeluxeUpgrade
 Halloween:TheGame
 HalloweenFilledWithCats
 HalloweenMystery:100HiddenObjectFruits
@@ -42898,6 +42949,8 @@ Hanrahan
 Hanta Hearts
 HantaHearts
 Hanz
+Hanzi Bird
+HanziBird
 Hanzo
 Hao
 Hap to Day
@@ -42942,6 +42995,7 @@ Hard Count
 Hard Drive
 Hard Edge   War Zone
 Hard Edge - War Zone
+Hard Rock Clicker
 Hard Truck
 Hard Truck: 18 Wheels of Steel
 Hard drivin
@@ -42951,6 +43005,7 @@ HardCount
 HardDrive
 HardDriverz
 HardEdge-WarZone
+HardRockClicker
 HardTruck
 HardTruck:18WheelsofSteel
 Hardcore Circus
@@ -45557,6 +45612,9 @@ IN & OUT
 IN A BIT OF TALES
 IN A WORLD AFTER PEOPLE DEMO
 IN DEATH WE LOVE
+IN DEMO
+IN Demo
+IN FALSUS
 IN MY BUBBLE •°
 IN NEXT LIFE
 IN OUR PARLOR
@@ -45664,6 +45722,7 @@ INDUSTRIAL
 INDUSTRIES
 INDUSTRIES.INC
 INDUSTRIESINC
+INDemo
 INERBYS
 INEVITABLE
 INEVITABLE ENTERTAINMENT
@@ -46110,6 +46169,7 @@ IRON SHOVEL
 IRON SOLDIER
 IRON SWORD
 IRON TANGLE BREAKOUT
+IRON WASTELAND
 IRONAXE
 IRONBOOTS
 IRONBYTE
@@ -46704,6 +46764,7 @@ Impérial
 In
 In   Out
 In & Out
+In Falsus
 In My Bubble o?
 In My Bubble •°
 In Next Life
@@ -46720,6 +46781,7 @@ In a World After People Demo
 In the Midst of a Neverending Season
 In&Out
 In-House
+InFalsus
 InHome
 InHome Software
 InHomeSoftware
@@ -47342,6 +47404,7 @@ Iron Shovel
 Iron Soldier
 Iron Sword
 Iron Tangle Breakout
+Iron Wasteland
 Iron&Ivory
 IronAxe
 IronBoots
@@ -47370,6 +47433,7 @@ IronShovel
 IronSoldier
 IronSword
 IronTangleBreakout
+IronWasteland
 Ironclad
 Ironclad Games
 IroncladGames
@@ -50099,6 +50163,9 @@ KLUDGE
 KLUMP
 KLUMSY
 KLumsy
+KN TOWER - BUILD YOUR SKYSCRAPER EMPIRE
+KN Tower   Build your skyscraper empire
+KN Tower - Build your skyscraper empire
 KNAARENS
 KNAIGHTS
 KNEAD, SQUEEZE, WRAP!
@@ -50135,6 +50202,7 @@ KNIGHTSOFTHEOLDREPUBLIC
 KNIGHTSOFTHEROUND
 KNIGHTSOFVALOUR
 KNIGHTTECHNOLOGIES
+KNITBONE
 KNOCK
 KNOCK DOWN
 KNOCK KNOCK!
@@ -50154,6 +50222,7 @@ KNOWLEDGE BOOK
 KNOWLEDGEBOOK
 KNOWMAD
 KNOWWONDER
+KNTower-Buildyourskyscraperempire
 KNUCKLE
 KNUCKLE IS BONES
 KNUCKLE JOE
@@ -51478,6 +51547,7 @@ KnightsofValour
 KnightsoftheCrusades
 KnightsoftheRound
 KnightsvsAliens
+KnitBone
 Knock
 Knock Down
 Knock Knock!
@@ -59199,6 +59269,7 @@ MOON CRASHERS
 MOON MICE: THE GAME
 MOON PATROL
 MOON RIVER
+MOON SHOP SIMULATOR
 MOON SWARM DEMO
 MOON TROPICA
 MOONACTIVE
@@ -59248,6 +59319,7 @@ MOOSHROOMSPAWNEGG
 MOPOO
 MOPOO MOPOO
 MOPOOMOPOO
+MOR
 MORA'S CAT SCRATCHER PLUS
 MORATORIUM: DON’T BEAT THIS GAME
 MORBID METAL
@@ -59856,6 +59928,7 @@ MYCOPUNK
 MYCROFT HOLMES SIMULATOR
 MYFATHERLIED
 MYHEROACADEMIA:All’sJustice
+MYHISTORY
 MYIDEALBOOBS
 MYKROSCURSOR
 MYLSTAR
@@ -62980,6 +63053,7 @@ Moon Crashers
 Moon Mice: The Game
 Moon Patrol
 Moon River
+Moon Shop Simulator
 Moon Swarm Demo
 Moon Tropica
 Moon and Fang
@@ -62996,6 +63070,7 @@ MoonNightShift
 MoonPatrol
 MoonRiver
 MoonScape
+MoonShopSimulator
 MoonShot
 MoonSwarmDemo
 MoonTropica
@@ -63707,6 +63782,7 @@ MyGirlfriendIsanEgg
 MyGothBullyLikesSittingonMyFace
 MyGymAdventure!
 MyHentaiWaifu:Puzzle
+MyHiStory
 MyHornyAnimeGirls
 MyInfamousDungeon
 MyIsekaiHotel
@@ -68082,6 +68158,7 @@ OVERWATCH®: JUNO COMPLETE MYTHIC WEAPON SKIN BUNDLE
 OVERWATCH®: LUNAR NEW YEAR 2026 VALUE BUNDLE
 OVERWATCH®: MAUGA COMPLETE MYTHIC HERO SKIN BUNDLE
 OVERWATCH®: SOJOURN COMPLETE MYTHIC WEAPON SKIN BUNDLE
+OVERWATCH®: WIDOWMAKER COMPLETE MYTHIC HERO SKIN BUNDLE
 OVERWORDS
 OVERWORDS: INFINITY
 OVERWORK EMPIRE
@@ -69462,6 +69539,7 @@ Overwatch(R): Juno Complete Mythic Weapon Skin Bundle
 Overwatch(R): Lunar New Year 2026 Value Bundle
 Overwatch(R): Mauga Complete Mythic Hero Skin Bundle
 Overwatch(R): Sojourn Complete Mythic Weapon Skin Bundle
+Overwatch(R): Widowmaker Complete Mythic Hero Skin Bundle
 Overwatch®   Ultimate Battle Pass Bundle 2026: Season 1
 Overwatch®   Ultimate Battle Pass Bundle 2026: Season 2
 Overwatch®   Ultimate Battle Pass Bundle 2026: Season 3
@@ -69488,6 +69566,7 @@ Overwatch®: Juno Complete Mythic Weapon Skin Bundle
 Overwatch®: Lunar New Year 2026 Value Bundle
 Overwatch®: Mauga Complete Mythic Hero Skin Bundle
 Overwatch®: Sojourn Complete Mythic Weapon Skin Bundle
+Overwatch®: Widowmaker Complete Mythic Hero Skin Bundle
 Overwatch®:AnaCompleteMythicHeroSkinBundle
 Overwatch®:GenjiCompleteMythicWeaponSkinBundle
 Overwatch®:HanzoCompleteMythicWeaponSkinBundle
@@ -69495,6 +69574,7 @@ Overwatch®:JunoCompleteMythicWeaponSkinBundle
 Overwatch®:LunarNewYear2026ValueBundle
 Overwatch®:MaugaCompleteMythicHeroSkinBundle
 Overwatch®:SojournCompleteMythicWeaponSkinBundle
+Overwatch®:WidowmakerCompleteMythicHeroSkinBundle
 Overwatch®StarterPack2026:Season1
 Overwatch®StarterPack2026:Season2
 Overwatch®StarterPack2026:Season3
@@ -70945,6 +71025,7 @@ PISS OFF
 PISTOLS AT DAWN
 PIT
 PIT MALEFIQUE
+PIT OF FEARS
 PIT PIONEERS
 PIT WARS
 PITBULL
@@ -71072,6 +71153,7 @@ PLANET LUST
 PLANET MOON
 PLANET NEMO
 PLANET NEMO PRODUCTIONS
+PLANET NINE
 PLANET STRIKE
 PLANET ZOO
 PLANET ZOO: ASIA ANIMAL PACK
@@ -73881,6 +73963,7 @@ Pit Pioneers
 Pit Wars
 Pit malefique
 Pit maléfique
+Pit of Fears
 PitPioneers
 PitWars
 Pitbull
@@ -73899,6 +73982,7 @@ Pitfall 2
 Pitfall2
 Pitmalefique
 Pitmaléfique
+PitofFears
 Pittbox
 Pittbox Pittbox
 PittboxPittbox
@@ -74060,6 +74144,7 @@ Planet Lust
 Planet Moon
 Planet Nemo
 Planet Nemo Productions
+Planet Nine
 Planet Strike
 Planet Zoo
 Planet Zoo: Asia Animal Pack
@@ -74074,6 +74159,7 @@ PlanetLust
 PlanetMoon
 PlanetNemo
 PlanetNemoProductions
+PlanetNine
 PlanetOrbit Demo
 PlanetOrbitDemo
 PlanetStrike
@@ -76983,6 +77069,7 @@ REMOTE MINER CO.
 REMOTE POSITION
 REMOVE VIRUS
 REMY
+REMY THORNFIELD: ROYAL DREAMS
 REMinal
 REN'AI 0 KILOMETER
 RENARD
@@ -79107,6 +79194,8 @@ RemotePosition
 Remove Virus
 RemoveVirus
 Remy
+Remy Thornfield: Royal Dreams
+RemyThornfield:RoyalDreams
 Ren ai 0 Kilometer
 Ren'ai 0 Kilometer
 Ren'ai0Kilometer
@@ -82978,6 +83067,7 @@ SMELLY BUBBLES
 SMELLY BUBBLES: SUPPORTER
 SMILE AND PLAY
 SMILE DOG
+SMILE PROTOCOL
 SMILEBIT
 SMILERS DEN DELUXXX
 SMILES
@@ -88351,8 +88441,10 @@ Smelly Bubbles: Supporter
 SmellyBubbles
 SmellyBubbles:Supporter
 Smile Dog
+Smile Protocol
 Smile and Play
 SmileDog
+SmileProtocol
 SmileandPlay
 Smilebit
 Smilers Den Deluxxx
@@ -91829,6 +91921,7 @@ TANEWOMAKUTORI
 TANG'S
 TANG'S ELECTRONIC
 TANG'SELECTRONIC
+TANGENT
 TANGLED CRISIS
 TANGO
 TANGO GAMEWORKS
@@ -93848,6 +93941,7 @@ THREE KINGDOMS: SHU-HAN CHRONICLES
 THREE LEGIONS: EROSION OF THE ABYSS
 THREE RINGS
 THREE WISHES
+THREE'S A CROWD
 THREE-SIXTY
 THREE-SIXTY PACIFIC
 THREE-SIXTYPACIFIC
@@ -94455,6 +94549,8 @@ TORNADONTORNADON
 TORNICOTON
 TORNICOTON TORNICOTON
 TORNICOTONTORNICOTON
+TORO 2
+TORO2
 TOROA: SKYCALL
 TORONTO
 TORPEX
@@ -95032,6 +95128,7 @@ TRUCKSIMULATOR
 TRUCO ARGENTINO
 TRUCO BAR
 TRUCOBAR
+TRUDGE
 TRUE
 TRUE AXIS
 TRUE COLORS OF A STAR
@@ -98529,6 +98626,9 @@ Three Kingdoms: Shu-Han Chronicles
 Three Legions: Erosion of the Abyss
 Three Rings
 Three Wishes
+Three s a Crowd
+Three's a Crowd
+Three'saCrowd
 Three-Sixty
 Three-Sixty Pacific
 Three-SixtyPacific
@@ -100667,6 +100767,7 @@ UNDERCOVER
 UNDERDOG FUTSAL
 UNDERGIRL: SUBMISSION PATH
 UNDERGROUNDED
+UNDERKEEP
 UNDERKING KINGDOM
 UNDERKINGKINGDOM
 UNDERMINE 2
@@ -101159,6 +101260,7 @@ Undercoders
 Undercover
 Underdog Futsal
 UnderdogFutsal
+Underkeep
 UndertheRiver
 UndertheTable
 Underwater
@@ -102164,6 +102266,7 @@ VOL
 VOL'JIN
 VOLATILE
 VOLCANO SIMULATOR - REUNION ISLAND
+VOLDARK
 VOLDO
 VOLEUR
 VOLGA
@@ -102207,7 +102310,9 @@ VOSPETKASimulator
 VOX
 VOX POPULI: CANADA 2025
 VOXEL
+VOXEL DRIFT RACER
 VOXEL ISLE SIMULATOR
+VOXELDRIFTRACER
 VOXELFORGE
 VOXELGRAM 2
 VOXELISLESIMULATOR
@@ -103138,6 +103243,7 @@ Volatile
 Volcano Simulator   Reunion Island
 Volcano Simulator - Reunion Island
 VolcanoSimulator-ReunionIsland
+Voldark
 Voldo
 Voleur
 Volga
@@ -103359,6 +103465,7 @@ WANAKO STUDIOS
 WANAKOSTUDIOS
 WAND
 WANDER STARS
+WANDERBURG
 WANDERER'S WATERS
 WANDERING
 WANDERING SWORD
@@ -104661,6 +104768,7 @@ WanakoStudios
 Wand
 Wander Stars
 WanderStars
+Wanderburg
 Wanderer s Waters
 Wanderer's Waters
 Wanderer'sWaters
@@ -108643,6 +108751,7 @@ aeroblasters
 aerocorp
 aerofighters
 aerolicious
+aerovice frutiger world
 aerowings
 aeruta
 aes
@@ -109274,6 +109383,7 @@ american action ab
 american eagle
 american game
 american game cartridges
+american high school basketball dynasty
 american laser
 american laser games
 american laser games inc
@@ -109871,6 +109981,7 @@ arcade architect
 arcade audience
 arcade boss simulator
 arcade forever
+arcade galaxy
 arcade mogul
 arcade survivors
 arcade world cups
@@ -110488,6 +110599,7 @@ atlantis interactive entertainme
 atlantisinteractive
 atlantisinteractiveentertainme
 atlas
+atlas fallen: reign of sand
 atlas hands
 atlus
 atlus usa /
@@ -111235,6 +111347,7 @@ barbara: sex story
 barbarajohnson
 barbarbarbar
 barbare
+barbarian saga: the beastmaster
 barbe-tranchante
 barbecue
 barbecue with friends
@@ -111563,6 +111676,7 @@ beat\'em\'all
 beat\em\all
 beatchip '95
 beate
+beatercore
 beatmania
 beatmania 2dx
 beatmania iidx
@@ -112840,6 +112954,7 @@ bookerdewitt
 booklet's big story
 books
 bookshop simulator
+bookstore incremental
 boolat
 boolat games
 boolatgames
@@ -114288,6 +114403,7 @@ cataboum
 cataclismo
 cataclysmic bite
 catacouacs
+catal carta
 catalano
 catalina's horror adventure
 catanks
@@ -115456,6 +115572,7 @@ coach
 coaching
 coal
 coalition
+coannco
 coast
 coastal summit sports: college athletics 27
 coaster crash course
@@ -115977,6 +116094,7 @@ coq
 coquette
 coquette coquette
 coquettecoquette
+coquí crusader: defenders of borikén
 cor draconis
 cora
 coral
@@ -115989,6 +116107,7 @@ corcovado's night guard
 cordelia
 cordelia cordelia
 cordeliacordelia
+cordels & spells
 cordeon
 cordéon
 core
@@ -116847,6 +116966,7 @@ cutesor - cursor studio
 cuthbert
 cuthbert cuthbert
 cuthbertcuthbert
+cutie clicker
 cutter
 cutthe
 cuttherope
@@ -118031,6 +118151,7 @@ designwareinc
 desk garden
 desk kanojo
 desk paws
+desk top racer
 deskbloom
 deskcat
 deskie
@@ -118140,6 +118261,7 @@ detective bloodphobia
 detective dana
 detective instinct: farewell, my beloved
 detective malinowski the truth will be revealed
+detective vr
 detectives united: mission possible collector's edition
 detn8
 detn8 games
@@ -119533,6 +119655,7 @@ duck side of the moon soundtrack
 duck tales
 duckhunt
 ducktales
+ducktile
 dude in the dark
 dude simulator: my apologies
 dude the dark agent
@@ -121677,6 +121800,7 @@ faux crash
 fauxcrash
 favela defender
 favela kick: the final goal
+fawe
 fawn the florist
 fay
 fazzy
@@ -125349,6 +125473,7 @@ halloween mystery: 100 hidden object fruits
 halloween night
 halloween stories: the death card collector's edition
 halloween trouble 7: the apprentice
+halloween: digital deluxe upgrade
 halloween: the game
 halls of the damned
 hallucinations
@@ -125443,6 +125568,7 @@ hannah vcr
 hanrahan
 hanta hearts
 hanz
+hanzi bird
 hanzo
 hao
 hap to day
@@ -125476,6 +125602,7 @@ hard count
 hard drive
 hard drivin
 hard edge - war zone
+hard rock clicker
 hard truck
 hard truck: 18 wheels of steel
 hardaf
@@ -127471,6 +127598,8 @@ in Death we Love
 in a bit of tales
 in a world after people demo
 in death we love
+in demo
+in falsus
 in my bubble •°
 in next life
 in our parlor
@@ -128009,6 +128138,7 @@ iron shovel
 iron soldier
 iron sword
 iron tangle breakout
+iron wasteland
 ironaxe
 ironboots
 ironbyte
@@ -129750,6 +129880,7 @@ klubitii
 kludge
 klump
 klumsy
+kn tower - build your skyscraper empire
 knaarens
 knaights
 knead, squeeze, wrap!
@@ -129785,6 +129916,7 @@ knightsoftheoldrepublic
 knightsoftheround
 knightsofvalour
 knighttechnologies
+knitbone
 knock
 knock down
 knock knock!
@@ -134901,6 +135033,7 @@ moon crashers
 moon mice: the game
 moon patrol
 moon river
+moon shop simulator
 moon swarm demo
 moon tropica
 moonactive
@@ -134949,6 +135082,7 @@ mooshroomspawnegg
 mopoo
 mopoo mopoo
 mopoomopoo
+mor
 mora's cat scratcher plus
 moratorium: don’t beat this game
 morbid metal
@@ -135523,6 +135657,7 @@ mycelium conquest
 mycopsychosys: remastered
 mycopunk
 mycroft holmes simulator
+myhistory
 mykroscursor
 mylstar
 mylstar electronics
@@ -138136,6 +138271,7 @@ overwatch®: juno complete mythic weapon skin bundle
 overwatch®: lunar new year 2026 value bundle
 overwatch®: mauga complete mythic hero skin bundle
 overwatch®: sojourn complete mythic weapon skin bundle
+overwatch®: widowmaker complete mythic hero skin bundle
 overwords
 overwords: infinity
 overwork empire
@@ -139485,6 +139621,7 @@ pistols at dawn
 pit
 pit malefique
 pit maléfique
+pit of fears
 pit pioneers
 pit wars
 pitbull
@@ -139609,6 +139746,7 @@ planet lust
 planet moon
 planet nemo
 planet nemo productions
+planet nine
 planet strike
 planet zoo
 planet zoo: asia animal pack
@@ -141940,6 +142078,7 @@ remote miner co.
 remote position
 remove virus
 remy
+remy thornfield: royal dreams
 ren'ai 0 kilometer
 renard
 renata
@@ -145328,6 +145467,7 @@ smelly bubbles
 smelly bubbles: supporter
 smile and play
 smile dog
+smile protocol
 smilebit
 smilers den deluxxx
 smiles
@@ -148023,6 +148163,7 @@ tanewomakutori
 tang's
 tang's electronic
 tang'selectronic
+tangent
 tangled crisis
 tango
 tango gameworks
@@ -149995,6 +150136,7 @@ three kingdoms: shu-han chronicles
 three legions: erosion of the abyss
 three rings
 three wishes
+three's a crowd
 three-sixty
 three-sixty pacific
 three-sixtypacific
@@ -150580,6 +150722,7 @@ tornadontornadon
 tornicoton
 tornicoton tornicoton
 tornicotontornicoton
+toro 2
 toroa: skycall
 toronto
 torpex
@@ -151153,6 +151296,7 @@ truck:
 trucksimulator
 truco argentino
 truco bar
+trudge
 true
 true axis
 true colors of a star
@@ -151681,6 +151825,7 @@ undercover
 underdog futsal
 undergirl: submission path
 undergrounded
+underkeep
 underking kingdom
 undermine 2
 underred
@@ -152602,6 +152747,7 @@ vol
 vol'jin
 volatile
 volcano simulator - reunion island
+voldark
 voldo
 voleur
 volga
@@ -152636,6 +152782,7 @@ vospetka simulator
 vox
 vox populi: canada 2025
 voxel
+voxel drift racer
 voxel isle simulator
 voxelforge
 voxelgram 2
@@ -152835,6 +152982,7 @@ wanako studios
 wanakostudios
 wand
 wander stars
+wanderburg
 wanderer's waters
 wandering
 wandering sword
@@ -155358,6 +155506,10 @@ zèbre
 异兽山海
 异能重组
 弑神斩月
+弾幕乱舞 ― バレットバラージュ ― DEMO
+弾幕乱舞 ― バレットバラージュ ― Demo
+弾幕乱舞 ― バレットバラージュ ― demo
+弾幕乱舞―バレットバラージュ―Demo
 归拾  PhiloDeka  Soundtrack
 归拾 (PHILODEKA) SOUNDTRACK
 归拾 (PhiloDeka) Soundtrack
