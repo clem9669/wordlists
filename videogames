@@ -1737,6 +1737,7 @@
 ???? Physical TRAIN ~??????????~
 ???? Roaming Backrooms
 ???? So long, My Youth
+???? The Last Glimmer of the Martial Way
 ???? This One Doesn't Count
 ???? Weapons
 ???? mow grass
@@ -4518,6 +4519,7 @@ ASHES OF AMBITION
 ASHES OF CREATION
 ASHES OF HOLLOWAY BAY
 ASHES OF KARDORIA
+ASHFALL KEEP
 ASHFIRE KEEP
 ASHGARD: INFINITY MASK
 ASHGARD: Infinity Mask
@@ -4679,6 +4681,7 @@ ASTRO RAIDERS
 ASTROASTRO
 ASTROBOYOMEGAFACTOR
 ASTROBUILDER
+ASTRODIG
 ASTROGEO
 ASTROHAULERS
 ASTROMATCH
@@ -7492,6 +7495,8 @@ AshesofAmbition
 AshesofCreation
 AshesofHollowayBay
 AshesofKardoria
+Ashfall Keep
+AshfallKeep
 Ashfire Keep
 AshfireKeep
 Ashley
@@ -7678,6 +7683,7 @@ Astro Raiders
 AstroAstro
 AstroBoyOmegaFactor
 AstroColony
+AstroDig
 AstroFelix
 AstroFighters2
 AstroFlame:StarfighterDemo
@@ -22330,6 +22336,7 @@ DAISHO: SURVIVAL OF A SAMURAI
 DAISY
 DAISY FITZROY
 DAISYFITZROY
+DAKENSHI
 DAKKO
 DAKKO DAKKO
 DAKKODAKKO
@@ -22480,6 +22487,7 @@ DARIUSBURSTChronicleSaviours
 DARK
 DARK ADELITA
 DARK AGE LEGENDS
+DARK AVOS
 DARK BONE PRISON
 DARK CASTLE
 DARK CHAMBERS
@@ -24085,6 +24093,7 @@ DOC DOC
 DOCDOC
 DOCELOT
 DOCK DOCTOR
+DOCKABLE
 DOCKBAR
 DOCKED
 DOCTEUR
@@ -24516,6 +24525,7 @@ DRAFT DAY SPORTS: COLLEGE FOOTBALL 2026
 DRAFT DAY SPORTS: PRO FOOTBALL 2026
 DRAG IT
 DRAG RACING KAOS - "ONE MORE RUN"
+DRAG'N WASH
 DRAGENAS
 DRAGGIN'
 DRAGIT
@@ -25386,6 +25396,7 @@ Darius
 Dark
 Dark Adelita
 Dark Age Legends
+Dark Avos
 Dark Bone Prison
 Dark Castle
 Dark Chambers
@@ -25438,6 +25449,7 @@ Dark Web
 Dark Wizards World Pack
 DarkAdelita
 DarkAgeLegends
+DarkAvos
 DarkBonePrison
 DarkCastle
 DarkChambers
@@ -27315,6 +27327,7 @@ DocDoc
 Dock Doctor
 DockBar
 DockDoctor
+Dockable
 Docked
 Docteur
 Docteur Eggman
@@ -27884,6 +27897,9 @@ DraftDaySports:CollegeFootball2026
 DraftDaySports:ProFootball2026
 Drag Racing Kaos   "One More Run"
 Drag Racing Kaos - "One More Run"
+Drag n Wash
+Drag'n Wash
+Drag'nWash
 DragRacingKaos-"OneMoreRun"
 Dragenas
 Draggin 
@@ -29388,6 +29404,7 @@ ELECTRONJUMPGAMES
 ELEFTHERIOS
 ELEFTHERIOS CHRISTODOULATOS
 ELEFTHERIOSCHRISTODOULATOS
+ELEGY FOR A VIOLET
 ELEKTROGAMES
 ELEKTRUC
 ELEMENT
@@ -29711,6 +29728,7 @@ ENGUARDE L'ESPADON
 ENGUARDE LESPADON
 ENGUARDEL'ESPADON
 ENGUARDELESPADON
+ENHANCED AFFAIR
 ENIGMA
 ENIGMA SOFTWARE
 ENIGMA VARIATIONS
@@ -29980,6 +29998,7 @@ ESCAPE Z
 ESCAPE30DAYCIRCLE
 ESCAPE: SCHOOL DEMO
 ESCAPE:THE NOUGHT
+ESCAPEAWAY!
 ESCAPEFROMBUTCHERBAY
 ESCAPEFROMTIMOKHA2:ARMY
 ESCAPEN'T
@@ -30046,6 +30065,7 @@ ETERNAL DECAY SOULS
 ETERNAL DREAMS: POKER RPG
 ETERNAL EXILE: BENEATH THE DARKNESS
 ETERNAL EXODUS
+ETERNAL GROVE
 ETERNAL HUNT
 ETERNAL LUST: REALM OF THE UNDEAD
 ETERNAL NIGHT - SPOOKY SOLITAIRE
@@ -30922,6 +30942,8 @@ Electronicshopsimulator
 Eleftherios
 Eleftherios Christodoulatos
 EleftheriosChristodoulatos
+Elegy For A Violet
+ElegyForAViolet
 Elektrogames
 Elektruc
 Element
@@ -31307,6 +31329,8 @@ Enguarde l'espadon
 Enguarde lespadon
 Enguardel'espadon
 Enguardelespadon
+Enhanced Affair
+EnhancedAffair
 Enigma
 Enigma Software
 Enigma Variations
@@ -31695,6 +31719,7 @@ Eternal Darkness
 Eternal Decay Souls
 Eternal Dreams: Poker RPG
 Eternal Exodus
+Eternal Grove
 Eternal Hunt
 Eternal Lust: Realm of the Undead
 Eternal Night   Spooky Solitaire
@@ -31711,6 +31736,7 @@ EternalDarkness
 EternalDecaySouls
 EternalDreams:PokerRPG
 EternalExodus
+EternalGrove
 EternalHunt
 EternalLust:RealmoftheUndead
 EternalNight-SpookySolitaire
@@ -32359,6 +32385,7 @@ FANTASTIC FINDINGS HIDDEN SEASONS
 FANTASTIC PETTY
 FANTASTICAL MAZE
 FANTASY
+FANTASY BIRD WOODS
 FANTASY CAR : CAR DESIGN SIMULATOR 造车模拟器
 FANTASY FOREST
 FANTASY GROUNDS - DUNGEONS & DRAGONS RAVENLOFT THE HORRORS WITHIN
@@ -33762,6 +33789,7 @@ FRIEDGREEN
 FRIEDGREENAPPS
 FRIEDLANDER
 FRIEND OF A SLIME
+FRIENDLY FIRE
 FRIENDS
 FRIENDS BEFORE ENEMIES
 FRIENDSMOB
@@ -34412,6 +34440,7 @@ FantasticPetty
 Fantastical Maze
 FantasticalMaze
 Fantasy
+Fantasy Bird Woods
 Fantasy Car : Car Design Simulator ?????
 Fantasy Car : Car Design Simulator 造车模拟器
 Fantasy Forest
@@ -34431,6 +34460,7 @@ Fantasy Pieces: Chapter II
 Fantasy World Dizzy
 Fantasy World Simulator
 Fantasy Zone
+FantasyBirdWoods
 FantasyCar:CarDesignSimulator造车模拟器
 FantasyForest
 FantasyGrounds-Dungeons&DragonsRavenloftTheHorrorsWithin
@@ -36173,6 +36203,8 @@ FriedGreen
 FriedGreenApps
 Friedlander
 Friend of a Slime
+Friendly Fire
+FriendlyFire
 FriendofaSlime
 Friends
 Friends Before Enemies
@@ -37492,6 +37524,7 @@ GIRL.EXE
 GIRL.EXE.EXE
 GIRLFISHING: CATCH YOUR GIRLFRIEND!
 GIRLFRIEND GPT
+GIRLFRIEND SIMULATOR
 GIRLFRIENDS: OFFICE!
 GIRLFRIENDS:OFFICE!
 GIRLS
@@ -39626,7 +39659,9 @@ GirlFishing: Catch your Girlfriend!
 GirlFishing:CatchyourGirlfriend!
 GirlFrame
 Girlfriend GPT
+Girlfriend Simulator
 GirlfriendGPT
+GirlfriendSimulator
 Girls
 Girls  Dorm -Managing an all-girls  dormitory-
 Girls  Dorm -Managing an all-girls  dormitory- After
@@ -45259,9 +45294,11 @@ I FOUND MYSELF IN A STRANGE HOUSE AND I'M SCARED
 I HATE ORCS: IN MY GARDEN
 I HAVE DIED
 I HAVE NO MOUTH, AND I MUST SCREAM
+I HAVE ONLY MP
 I Hate Orcs: In My Garden
 I Have Died
 I Have No Mouth, and I Must Scream
+I Have Only MP
 I KNOW THIS PLACE..? (CHAPTER II)
 I Know This Place..?  chapter II 
 I Know This Place..? (chapter II)
@@ -45613,6 +45650,7 @@ IGUANAENTERTAINMENT
 IHateOrcs:InMyGarden
 IHaveDied
 IHaveNoMouth,andIMustScream
+IHaveOnlyMP
 II
 II:
 IIDX
@@ -49677,6 +49715,7 @@ KALYPSOMEDIA
 KALYPTUS
 KAMA
 KAMEK
+KAMENKIK AND FRIENDS
 KAMI: THE GREAT GUARDIAN
 KAMICHIKA
 KAMIKAZE EMPIRE
@@ -50089,6 +50128,7 @@ KILLZONE
 KILMER
 KILMER SOFTWARE
 KILMERSOFTWARE
+KILNBORN
 KILOO
 KILOO GAMES
 KILOOGAMES
@@ -50297,6 +50337,7 @@ KITTY LOVES BIRDS
 KITTY WITCHY
 KITTY'S LAST ADVENTURE
 KITTYGROUP
+KIVAM
 KIVAN
 KIWI
 KIWI'S ADVENTURE
@@ -50918,6 +50959,8 @@ KalypsoMedia
 Kalyptus
 Kama
 Kamek
+Kamenkik and Friends
+KamenkikandFriends
 Kami: The Great Guardian
 Kami:TheGreatGuardian
 Kamichika
@@ -51363,6 +51406,7 @@ Killzone
 Kilmer
 Kilmer Software
 KilmerSoftware
+Kilnborn
 Kiloo
 Kiloo Games
 KilooGames
@@ -51641,6 +51685,7 @@ KittyFinder
 KittyGroup
 KittyLovesBirds
 KittyWitchy
+Kivam
 Kivan
 Kiwi
 Kiwi s Adventure
@@ -52180,6 +52225,7 @@ KyyGames
 KyyGamesOy
 Kéké
 Kérozène
+Kıvam
 L
 L'
 L'AGE
@@ -64895,6 +64941,7 @@ NEXOFT
 NEXON
 NEXT
 NEXT GENERATION
+NEXT GIRL, PLEASE 🎬
 NEXT LEVEL
 NEXT LEVEL GAMES
 NEXT LEVEL SOFTWARE
@@ -65532,6 +65579,7 @@ NOUVEAUX
 NOUVEAUX MEMBRES
 NOUVEAUXMEMBRES
 NOVA
+NOVA DROP
 NOVA GAMES
 NOVA GAMES LTD
 NOVA NOVA
@@ -66311,12 +66359,15 @@ Nexoft
 Nexon
 Next
 Next Generation
+Next Girl, Please ?
+Next Girl, Please 🎬
 Next Level
 Next Level Games
 Next Level Software
 Next Quintillionaire
 Next Run
 NextGeneration
+NextGirl,Please🎬
 NextLevel
 NextLevelGames
 NextLevelSoftware
@@ -67026,10 +67077,12 @@ Nouveaux
 Nouveaux membres
 Nouveauxmembres
 Nova
+Nova Drop
 Nova Games
 Nova Games Ltd
 Nova Roma
 Nova Survivors
+NovaDrop
 NovaGames
 NovaGamesLtd
 NovaRoma
@@ -70234,8 +70287,11 @@ PARADOXINTERACTIVE
 PARADOXSOFTWARE
 PARADYCE
 PARAGON
+PARAGON 21 DEMO
+PARAGON 21 Demo
 PARAGON 5
 PARAGON PUBLISHING
+PARAGON21Demo
 PARAGON5
 PARAGONPUBLISHING
 PARALIVES
@@ -71825,6 +71881,7 @@ POOKIE HAS A FANTASY 2
 POOKIE HAS A FANTASY 3 : FINALE
 POOKIE'S LINGERIE SHOP
 POOL
+POOL BALL BATTLE ROYALE
 POOL LIVE TOUR MAX
 POOL PARTY
 POOL SHARK
@@ -74920,9 +74977,11 @@ Pookie's Lingerie Shop
 Pookie'sLingerieShop
 PookiehasaFantasy2
 PookiehasaFantasy3:Finale
+Pool Ball Battle Royale
 Pool Live Tour Max
 Pool Party
 Pool Shark
+PoolBallBattleRoyale
 PoolLiveTourMax
 PoolParty
 PoolShark
@@ -81399,6 +81458,7 @@ SBcatfight game
 SBcatfightgame
 SCAGJPT
 SCALE MAIL
+SCALE2FIT
 SCALES OF SILENCE
 SCAMMER  99
 SCAMMER '99
@@ -81910,6 +81970,7 @@ SELCHOW&
 SELCHOW&RIGHTER
 SELECTION
 SELECTION BIAS
+SELECTION KINGDOM: LEVEL 1 - LIMITED -
 SELECTIVE MEMORY
 SELECTSOFT
 SELENA'S CHARM: SWEET HOME
@@ -85047,6 +85108,7 @@ STRINGATE
 STRINOVA - ENIGMA WITCH BUNDLE (MEREDITH)
 STRINOVA - PUMPKIN CHARMER BUNDLE (BAI MO)
 STRINOVA - TRICK OR TREAT BUNDLE (EIKA)
+STRIP MALL SIMULATOR
 STRIP MEMORY: UNLOCKED DESIRES
 STRIP ROYALE DEMO
 STRIPJONG - SUPER REAL MAHJONG VENUS RETURNS
@@ -86988,7 +87050,10 @@ Selchow&
 Selchow&Righter
 Selection
 Selection Bias
+Selection Kingdom: Level 1   Limited  
+Selection Kingdom: Level 1 - Limited -
 SelectionBias
+SelectionKingdom:Level1-Limited-
 Selective Memory
 SelectiveMemory
 Selectsoft
@@ -90817,8 +90882,10 @@ Strinova - Trick or Treat Bundle (Eika)
 Strinova-EnigmaWitchBundle(Meredith)
 Strinova-PumpkinCharmerBundle(BaiMo)
 Strinova-TrickorTreatBundle(Eika)
+Strip Mall Simulator
 Strip Memory: Unlocked Desires
 Strip Royale Demo
+StripMallSimulator
 StripMemory:UnlockedDesires
 StripRoyaleDemo
 Stripjong   Super Real Mahjong Venus Returns
@@ -92407,6 +92474,7 @@ TDS - TOWER DEFENSE STRATEGY
 TDS - Tower Defense Strategy
 TDS-TowerDefenseStrategy
 TEA PARTY SIMULATOR 2015™
+TEACH KIDS MATH
 TEACH ME MASTER
 TEACHER
 TEACHER CREATURE
@@ -96234,7 +96302,9 @@ TayutamaKissonMyDeity
 Tea Party Simulator 2015(TM)
 Tea Party Simulator 2015™
 TeaPartySimulator2015™
+Teach Kids Math
 Teach Me Master
+TeachKidsMath
 TeachMeMaster
 Teacher
 Teacher Creature
@@ -102081,6 +102151,7 @@ VEGAS CASINO & SLOTS: SLOTTIST
 VEGAS CRAPS BY POKERIST
 VEGETABLES OF MASS DESTRUCTION
 VEGETAUX
+VEGETEAMBLE
 VEIL OF TORMENT
 VEIL PHANE - PATH TO REDEMPTION
 VEIL: MIRAGES
@@ -102987,6 +103058,7 @@ VegasCasino&Slots:Slottist
 VegasCrapsbyPokerist
 Vegetables of Mass Destruction
 VegetablesofMassDestruction
+Vegeteamble
 Veil Phane   Path to Redemption
 Veil Phane - Path to Redemption
 Veil of Torment
@@ -107111,6 +107183,7 @@ YOU SEE ME?
 YOU SUCK AND I HATE YOU: PART 1
 YOU SUCK AT FOOTBALL
 YOU WERE THERE -君はそこにいた-
+YOU WILL GET RICH!
 YOU WITHIN ME
 YOU and ME and HER: A Love Story
 YOU'VE CHANGED DEMO
@@ -107547,6 +107620,7 @@ You Suck At Football
 You Were There  君はそこにいた 
 You Were There -???????-
 You Were There -君はそこにいた-
+You Will Get Rich!
 You Within Me
 You are a Fucking Idiot!
 You are the Bomb: A Game About Rolling Bombs
@@ -107576,6 +107650,7 @@ YouMustRemember
 YouOweMe
 YouSuckAtFootball
 YouWereThere-君はそこにいた-
+YouWillGetRich!
 YouWithinMe
 YouareaFuckingIdiot!
 YouaretheBomb:AGameAboutRollingBombs
@@ -110717,6 +110792,7 @@ ashes of ambition
 ashes of creation
 ashes of holloway bay
 ashes of kardoria
+ashfall keep
 ashfire keep
 ashgard: infinity mask
 ashley
@@ -110869,6 +110945,7 @@ astro raiders
 astroastro
 astroboyomegafactor
 astrobuilder
+astrodig
 astrogeo
 astrohaulers
 astromatch
@@ -117579,6 +117656,7 @@ daisho: survival of a samurai
 daisy
 daisy fitzroy
 daisyfitzroy
+dakenshi
 dakko
 dakko dakko
 dakkodakko
@@ -117720,6 +117798,7 @@ dariusburst chronicle saviours
 dark
 dark adelita
 dark age legends
+dark avos
 dark bone prison
 dark castle
 dark chambers
@@ -119227,6 +119306,7 @@ doc doc
 docdoc
 docelot
 dock doctor
+dockable
 dockbar
 docked
 docteur
@@ -119643,6 +119723,7 @@ draft day sports: college football 2026
 draft day sports: pro football 2026
 drag it
 drag racing kaos - "one more run"
+drag'n wash
 dragenas
 draggin'
 dragnet
@@ -120849,6 +120930,7 @@ electronjumpgames
 eleftherios
 eleftherios christodoulatos
 eleftherioschristodoulatos
+elegy for a violet
 elektrogames
 elektruc
 element
@@ -121165,6 +121247,7 @@ enguarde l'espadon
 enguarde lespadon
 enguardel'espadon
 enguardelespadon
+enhanced affair
 enigma
 enigma software
 enigma variations
@@ -121441,6 +121524,7 @@ escape z
 escape30daycircle
 escape: school demo
 escape:the nought
+escapeaway!
 escapefrombutcherbay
 escapen't
 escaping wonderland
@@ -121501,6 +121585,7 @@ eternal decay souls
 eternal dreams: poker rpg
 eternal exile: beneath the darkness
 eternal exodus
+eternal grove
 eternal hunt
 eternal lust: realm of the undead
 eternal night - spooky solitaire
@@ -122040,6 +122125,7 @@ fantastic findings hidden seasons
 fantastic petty
 fantastical maze
 fantasy
+fantasy bird woods
 fantasy car : car design simulator 造车模拟器
 fantasy forest
 fantasy grounds - dungeons & dragons ravenloft the horrors within
@@ -123372,6 +123458,7 @@ friedgreen
 friedgreenapps
 friedlander
 friend of a slime
+friendly fire
 friends
 friends before enemies
 friendsmob
@@ -124547,6 +124634,7 @@ girl.exe
 girl.exe.exe
 girlfishing: catch your girlfriend!
 girlfriend gpt
+girlfriend simulator
 girlfriends: office!
 girls
 girls garden
@@ -127534,6 +127622,7 @@ i found myself in a strange house and i'm scared
 i hate orcs: in my garden
 i have died
 i have no mouth, and i must scream
+i have only mp
 i know this place..? (chapter ii)
 i married my giant yandere goth bully
 i missed the apocalypse
@@ -129648,6 +129737,7 @@ kalypsomedia
 kalyptus
 kama
 kamek
+kamenkik and friends
 kami: the great guardian
 kamichika
 kamikaze empire
@@ -130039,6 +130129,7 @@ killzone
 kilmer
 kilmer software
 kilmersoftware
+kilnborn
 kiloo
 kiloo games
 kiloogames
@@ -130743,6 +130834,7 @@ kyygames
 kyygamesoy
 kéké
 kérozène
+kıvam
 l
 l'
 l'End
@@ -136775,6 +136867,7 @@ nexoft
 nexon
 next
 next generation
+next girl, please 🎬
 next level
 next level games
 next level software
@@ -137366,6 +137459,7 @@ nouveaux
 nouveaux membres
 nouveauxmembres
 nova
+nova drop
 nova games
 nova games ltd
 nova nova
@@ -139088,6 +139182,7 @@ paradoxinteractive
 paradoxsoftware
 paradyce
 paragon
+paragon 21 demo
 paragon 5
 paragon publishing
 paragon5
@@ -140626,6 +140721,7 @@ pookie has a fantasy 2
 pookie has a fantasy 3 : finale
 pookie's lingerie shop
 pool
+pool ball battle royale
 pool live tour max
 pool party
 pool shark
@@ -144126,6 +144222,7 @@ sbcatfight game
 sbmfr
 scagjpt
 scale mail
+scale2fit
 scales of silence
 scammer '99
 scanner force
@@ -144568,6 +144665,7 @@ selchow&
 selchow&righter
 selection
 selection bias
+selection kingdom: level 1 - limited -
 selective memory
 selectsoft
 selena's charm: sweet home
@@ -147533,6 +147631,7 @@ stringate
 strinova - enigma witch bundle (meredith)
 strinova - pumpkin charmer bundle (bai mo)
 strinova - trick or treat bundle (eika)
+strip mall simulator
 strip memory: unlocked desires
 strip royale demo
 stripjong - super real mahjong venus returns
@@ -148784,6 +148883,7 @@ tdk mediactive
 tdkmediactive
 tds - tower defense strategy
 tea party simulator 2015™
+teach kids math
 teach me master
 teacher
 teacher creature
@@ -152706,6 +152806,7 @@ vegas casino & slots: slottist
 vegas craps by pokerist
 vegetables of mass destruction
 vegetaux
+vegeteamble
 veil of torment
 veil phane - path to redemption
 veil: mirages
@@ -154882,6 +154983,7 @@ you see me?
 you suck and i hate you: part 1
 you suck at football
 you were there -君はそこにいた-
+you will get rich!
 you within me
 you've changed demo
 you.tapes
@@ -156257,6 +156359,10 @@ zèbre
 正体 SHOUT-AI
 正体 shout-ai
 正体SHOUT-AI
+武道余晖 THE LAST GLIMMER OF THE MARTIAL WAY
+武道余晖 The Last Glimmer of the Martial Way
+武道余晖 the last glimmer of the martial way
+武道余晖TheLastGlimmeroftheMartialWay
 武道残编
 死者还阳ESCAPE FROM THE UNDERWORLD
 死者还阳Escape from the Underworld
