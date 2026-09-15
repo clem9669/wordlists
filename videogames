@@ -1465,6 +1465,7 @@
 75 demons
 75Demons
 76
+771
 77P EGG: CUBICLE 77
 77p egg: Cubicle 77
 77p egg: cubicle 77
@@ -1844,6 +1845,7 @@
 ?????? ~Ogre's Ambition~
 ?????? ~special~
 ??????100?????
+??????2
 ??????3C?????
 ??????3C????? - Digital Artbook
 ??????3C????? -Original Soundtrack-
@@ -2058,6 +2060,7 @@ A GAME ABOUT SUCKING (UP GHOSTS WITH A VACUUM)
 A GAME MY MOM CAME UP WITH
 A GENTLEMEN'S DISPUTE
 A GOOD DEED ON HARRIS AVENUE
+A GRAVEYARD SHIFT
 A Game About Building A Tower
 A Game About Creating The Universe
 A Game About Cutting A Tree
@@ -2076,6 +2079,7 @@ A Game My Mom Came Up With
 A Gentlemen s Dispute
 A Gentlemen's Dispute
 A Good Deed On Harris Avenue
+A Graveyard Shift
 A HAUNTING NOVEL: BURTON HOTEL COLLECTOR'S EDITION
 A HAUNTING NOVEL: SURFACED SECRETS COLLECTOR'S EDITION
 A HOME IS SAFE
@@ -2519,6 +2523,7 @@ ACTIVATE
 ACTIVE
 ACTIVE ENTERPRISES
 ACTIVE FRAMES
+ACTIVE MATTER
 ACTIVEENTERPRISES
 ACTIVEFRAMES
 ACTIVISION
@@ -2772,6 +2777,7 @@ AFTER BURNER
 AFTER BURNER 2
 AFTER BURNER CLIMAX
 AFTER BURNER COMPLETE
+AFTER DARK JIGSAW
 AFTER HOURS: LINES OF DESIRE - S1
 AFTER HUE DEMO
 AFTER INC: REVIVAL
@@ -2909,6 +2915,7 @@ AGameAboutShootingDucks
 AGameMyMomCameUpWith
 AGentlemen'sDispute
 AGoodDeedOnHarrisAvenue
+AGraveyardShift
 AH SPARE ME GIANTESS
 AHRENS
 AHauntingNovel:BurtonHotelCollector'sEdition
@@ -4155,12 +4162,14 @@ ARCTIC DIGGER TCG COLLECTION PROLOGUE
 ARCTIC GRAVE DEMO
 ARCTIC SHIFT: FUEL STATION
 ARCTURUS
+ARCTURUS VISION CAMERA
 ARC_THE BEGINNING
 ARC_the beginning
 ARC_thebeginning
 ARC’S GLITCH DEFENDER
 ARDUO
 ARE
+ARE YOU CHICKEN?
 ARE YOU OKAY?
 AREA
 AREA 51
@@ -5004,6 +5013,7 @@ AVALON HILL
 AVALON INTERACTIVE
 AVALON JEWELS
 AVALON JEWELS 2 COLLECTOR'S EDITION
+AVALONCLASH
 AVALONE'S ADVENTURERS: MY PARENTS WERE ASSASSINATED SO I'VE STARTED AN ADVENTURING PARTY TO AVOID A POLITICAL MARRIAGE
 AVALONHILL
 AVALONINTERACTIVE
@@ -5340,8 +5350,10 @@ Actionware
 Activate
 Active
 Active Enterprises
+Active Matter
 Active frames
 ActiveEnterprises
+ActiveMatter
 Activeframes
 Activision
 Activision Blizzard
@@ -5579,6 +5591,7 @@ After Burner
 After Burner 2
 After Burner Climax
 After Burner Complete
+After Dark Jigsaw
 After Hours: Lines of Desire   S1
 After Hours: Lines of Desire - S1
 After Hue Demo
@@ -5597,6 +5610,7 @@ AfterBurner2
 AfterBurnerClimax
 AfterBurnerComplete
 AfterClerk
+AfterDarkJigsaw
 AfterHours:LinesofDesire-S1
 AfterHueDemo
 AfterImage
@@ -7122,10 +7136,14 @@ ArcticDiggerTCGCollectionPrologue
 ArcticGraveDemo
 ArcticShift:FuelStation
 Arcturus
+Arcturus Vision Camera
+ArcturusVisionCamera
 Arc’s Glitch Defender
 Arc’sGlitchDefender
 Arduo
 Are
+Are You Chicken?
+AreYouChicken?
 Area
 Area 51
 Area Survivors
@@ -8013,6 +8031,7 @@ Avalon Interactive
 Avalon Jewels
 Avalon Jewels 2 Collector s Edition
 Avalon Jewels 2 Collector's Edition
+AvalonClash
 AvalonGates:1MillionD
 AvalonHill
 AvalonInteractive
@@ -8706,6 +8725,7 @@ BARNBURNERS DEMO
 BARNHOUSE
 BARNHOUSE EFFECT
 BARNHOUSEEFFECT
+BARNS & BEAMS DEMO
 BARON
 BARON K.ROOLENSTEIN
 BARON KROOLENSTEIN
@@ -11089,6 +11109,7 @@ BURNOUT3:TAKEDOWN
 BURNOUT3TAKEDOWN
 BURNWOOD
 BURR PUZZLE
+BURROWS OF CAIRNTIR
 BURST NOIR   Fireworks Simulator
 BURST NOIR - FIREWORKS SIMULATOR
 BURST NOIR - Fireworks Simulator
@@ -11687,6 +11708,9 @@ BarnburnersDemo
 Barnhouse
 Barnhouse Effect
 BarnhouseEffect
+Barns   Beams Demo
+Barns & Beams Demo
+Barns&BeamsDemo
 Baron
 Baron K.Roolenstein
 Baron KRoolenstein
@@ -14531,6 +14555,8 @@ Burnout
 Burnwood
 Burr Puzzle
 BurrPuzzle
+Burrows of Cairntir
+BurrowsofCairntir
 Buscabit: A treasure hunter adventure
 Buscabit:Atreasurehunteradventure
 Bush Dog
@@ -16352,6 +16378,7 @@ CLAY BALL
 CLAY SIMMONS
 CLAY SIMONS
 CLAYBALL
+CLAYMONSTERS
 CLAYN
 CLAYN CLAYN
 CLAYNCLAYN
@@ -17828,6 +17855,7 @@ CTHULHU DETECTIVE
 CTRL ALT DEAL
 CTXM
 CUBE
+CUBE BOY
 CUBE BURST 3D
 CUBE COMMANDO
 CUBE CRAWLER
@@ -20118,6 +20146,7 @@ Clay Ball
 Clay Simmons
 Clay Simons
 ClayBall
+ClayMonsters
 ClaySimmons
 ClaySimons
 Clayn
@@ -21896,6 +21925,7 @@ CthulhuDetective
 Ctrl Alt Deal
 CtrlAltDeal
 Cube
+Cube Boy
 Cube Burst 3D
 Cube Commando
 Cube Crawler
@@ -21908,6 +21938,7 @@ Cube Parkour
 Cube Shooter
 Cube Slayer
 Cube-Field+
+CubeBoy
 CubeBurst3D
 CubeCommando
 CubeCrawler
@@ -23400,6 +23431,7 @@ DESKTOP MASCOT NUNU-NUI
 DESKTOP MATE GUMI DLC
 DESKTOP MATE HATSUNE MIKU MAGICAL MIRAI 2026 VER. DLC
 DESKTOP MATE OTOMACHI UNA DLC
+DESKTOP MATE TSURUMAKI MAKI DLC
 DESKTOP MATE WORK CAT DLC
 DESKTOP MY CAT
 DESKTOP NARD: DICE IDLE
@@ -23599,6 +23631,7 @@ DIABLOII
 DIABLOTY
 DIABLOTY DIABLOTY
 DIABLOTYDIABLOTY
+DIABLO® IV
 DIABLO® IV: AGE OF HATRED COLLECTION
 DIABLO® IV: LORD OF HATRED™
 DIABLO® IV: LORD OF HATRED™ - STANDARD EDITION
@@ -24279,6 +24312,7 @@ DON'T STEP ON
 DON'T STEP ON THE
 DON'T STEP ON THE CRACKS
 DON'T STOP BULLYING ME, BEASTGIRLS!
+DON'T STOP CUTTING THE TREES!
 DON'T STOP IN RED WOOD
 DON'T STOP MIKE
 DON'T TOUCH ME - GOBLIN ZOMBIES
@@ -24810,6 +24844,7 @@ DRIEDKELP
 DRIED_KELP
 DRIFT
 DRIFT HIGHWAY: RETRO CONSOLE EDITION
+DRIFT INVADERS
 DRIFT LEGENDS 2
 DRIFT OFF
 DRIFT SURVIVORS
@@ -26524,6 +26559,7 @@ Desktop Mascot Nunu-nui
 Desktop Mate GUMI DLC
 Desktop Mate Hatsune Miku MAGICAL MIRAI 2026 Ver. DLC
 Desktop Mate Otomachi Una DLC
+Desktop Mate Tsurumaki Maki DLC
 Desktop Mate Work Cat DLC
 Desktop Nard: Dice Idle
 Desktop Overlays
@@ -26565,6 +26601,7 @@ DesktopMascotNunu-nui
 DesktopMateGUMIDLC
 DesktopMateHatsuneMikuMAGICALMIRAI2026Ver.DLC
 DesktopMateOtomachiUnaDLC
+DesktopMateTsurumakiMakiDLC
 DesktopMateWorkCatDLC
 DesktopNard:DiceIdle
 DesktopOverlays
@@ -26765,6 +26802,7 @@ Dia
 Diablo
 Diablo II: Resurrected - Infernal Edition
 Diablo II: Resurrected – Infernal Edition
+Diablo(R) IV
 Diablo(R) IV: Age of Hatred Collection
 Diablo(R) IV: Lord of Hatred(TM)
 Diablo(R) IV: Lord of Hatred(TM) - Standard Edition
@@ -26774,6 +26812,7 @@ DiabloII:Resurrected–InfernalEdition
 Diabloty
 Diabloty Diabloty
 DiablotyDiabloty
+Diablo® IV
 Diablo® IV: Age of Hatred Collection
 Diablo® IV: Lord of Hatred™
 Diablo® IV: Lord of Hatred™   Standard Edition
@@ -26782,6 +26821,7 @@ Diablo® IV: Lord of Hatred™ - Standard Edition
 Diablo® IV: Lord of Hatred™ - Ultimate Edition
 Diablo® IV: Vessel of Hatred™   Expansion Bundle
 Diablo® IV: Vessel of Hatred™ - Expansion Bundle
+Diablo®IV
 Diablo®IV:AgeofHatredCollection
 Diablo®IV:LordofHatred™
 Diablo®IV:LordofHatred™-StandardEdition
@@ -27527,6 +27567,7 @@ Don t Pop My Bubble
 Don t Pray
 Don t Starve Together
 Don t Stop Bullying me, Beastgirls!
+Don t Stop Cutting The Trees!
 Don t Stop In Red Wood
 Don t Stop Mike
 Don t Touch Me - Goblin Zombies
@@ -27566,6 +27607,7 @@ Don't Step On
 Don't Step On The
 Don't Step On The Cracks
 Don't Stop Bullying me, Beastgirls!
+Don't Stop Cutting The Trees!
 Don't Stop In Red Wood
 Don't Stop Mike
 Don't Talk to Strangers
@@ -27608,6 +27650,7 @@ Don'tStepOn
 Don'tStepOnThe
 Don'tStepOnTheCracks
 Don'tStopBullyingme,Beastgirls!
+Don'tStopCuttingTheTrees!
 Don'tStopInRedWood
 Don'tStopMike
 Don'tTouchMe-GoblinZombies
@@ -28253,6 +28296,7 @@ Dried Kelp
 DriedKelp
 Drift
 Drift Highway: Retro Console Edition
+Drift Invaders
 Drift Legends 2
 Drift Off
 Drift Survivors
@@ -28261,6 +28305,7 @@ Drift تفحيط
 Drift-?????
 Drift-تفحيط
 DriftHighway:RetroConsoleEdition
+DriftInvaders
 DriftLegends2
 DriftOff
 DriftSurvivors
@@ -32374,6 +32419,7 @@ FALLOUT2
 FALLOUT3
 FALLSTREAK 2: TRAUM
 FALSE FLAG
+FALSE NORMALITY
 FALSTAD
 FAME
 FAME SOFT
@@ -33587,6 +33633,7 @@ FORTUNE
 FORTUNE FLIPPER
 FORTUNE PARADOX
 FORTUNEGG: SPECIES REVIVAL
+FORTY DEPTHS BENEATH KNOSSOS: THE MINOTAUR'S MAZE
 FORUM
 FORZA
 FORZA HORIZON 5
@@ -34418,7 +34465,9 @@ FalloutNewVegasUltimate
 Fallstreak 2: Traum
 Fallstreak2:Traum
 False Flag
+False Normality
 FalseFlag
+FalseNormality
 Falstad
 Famicom
 Familiar Findings
@@ -35970,6 +36019,9 @@ FortuneFlipper
 FortuneParadox
 Fortunegg: Species Revival
 Fortunegg:SpeciesRevival
+Forty Depths Beneath Knossos: The Minotaur s Maze
+Forty Depths Beneath Knossos: The Minotaur's Maze
+FortyDepthsBeneathKnossos:TheMinotaur'sMaze
 Forté
 Forum
 Forza
@@ -41849,6 +41901,7 @@ HENTAI MAGIC MILF
 HENTAI MAID SHIRA
 HENTAI MARINA
 HENTAI MATURE MILF
+HENTAI MAYHEM
 HENTAI MERMAID SIRENA
 HENTAI MILF DAILY
 HENTAI MOMMY
@@ -41985,6 +42038,7 @@ HEROES OF MIGHT AND MAGIC III
 HEROES OF MIGHT AND MAGIC III: HORN OF THE ABYSS
 HEROES OF MIGHT AND MAGIC: OLDEN ERA
 HEROES OF MOUNT DRAGON
+HEROES OF RETRIBUTION DEMO
 HEROES OF THE SEVEN ISLANDS
 HEROES OF THE TRIANGLE: MASK RUSH
 HEROES UNHINGED
@@ -43842,6 +43896,7 @@ Hentai Magic Milf
 Hentai Maid Shira
 Hentai Marina
 Hentai Mature Milf
+Hentai Mayhem
 Hentai Mermaid Sirena
 Hentai Milf Daily
 Hentai Mommy
@@ -44012,6 +44067,7 @@ HentaiMagicMilf
 HentaiMaidShira
 HentaiMarina
 HentaiMatureMilf
+HentaiMayhem
 HentaiMermaidSirena
 HentaiMilfDaily
 HentaiMommy
@@ -44160,6 +44216,7 @@ Heroes of Might and Magic 2
 Heroes of Might and Magic III: Horn of the Abyss
 Heroes of Might and Magic: Olden Era
 Heroes of Mount Dragon
+Heroes of Retribution Demo
 Heroes of the Seven Islands
 Heroes of the Triangle: Mask Rush
 Heroes' Call   A Casual MMO Guild Sim
@@ -44186,6 +44243,7 @@ HeroesofMightandMagic2
 HeroesofMightandMagic:OldenEra
 HeroesofMightandMagicIII:HornoftheAbyss
 HeroesofMountDragon
+HeroesofRetributionDemo
 HeroesoftheSevenIslands
 HeroesoftheTriangle:MaskRush
 Herofrenia Infinite Hyperdeath
@@ -45580,6 +45638,7 @@ IDL Group
 IDLE ABYSS MINER
 IDLE ADVENTURER
 IDLE ASTEROIDS
+IDLE BOOKSTORE
 IDLE BOSS RUSH
 IDLE CAR CLICKER
 IDLE CHAPEL
@@ -46737,6 +46796,7 @@ IdiomRoyale
 Idle Abyss Miner
 Idle Adventurer
 Idle Asteroids
+Idle Bookstore
 Idle Car Clicker
 Idle Chapel
 Idle Clacker
@@ -46778,6 +46838,7 @@ Idle Waters
 IdleAbyssMiner
 IdleAdventurer
 IdleAsteroids
+IdleBookstore
 IdleCarClicker
 IdleChapel
 IdleClacker
@@ -47914,6 +47975,7 @@ JACK NICKLAUS GOLF
 JACK RYAN
 JACK STREET
 JACK'S 510 RACING
+JACK'S ACHIEVEMENTS SIMULATOR: DOG & LAVA
 JACK-2
 JACK-4
 JACK-5
@@ -48773,8 +48835,11 @@ Jack Nicklaus Golf
 Jack Ryan
 Jack Street
 Jack s 510 Racing
+Jack s Achievements Simulator: Dog   Lava
 Jack's 510 Racing
+Jack's Achievements Simulator: Dog & Lava
 Jack's510Racing
+Jack'sAchievementsSimulator:Dog&Lava
 Jack-2
 Jack-4
 Jack-5
@@ -50029,6 +50094,7 @@ KENKYUUSHO
 KENNEDY
 KENSHI
 KEPLER 186F - VOICE PACK: XUQI JIANG
+KEPLER 186F - VOICE PACK: YUER
 KEPLERIAN SPACE DISCOVERY
 KERBAL SPACE PROGRAM
 KERNELBAY
@@ -50492,6 +50558,7 @@ KNOWWONDER
 KNTower-Buildyourskyscraperempire
 KNUCKLE
 KNUCKLE IS BONES
+KNUCKLE JET
 KNUCKLE JOE
 KNUCKLE JOE KNUCKLE JOE
 KNUCKLEJOE
@@ -50784,6 +50851,8 @@ KTelInternationalLtd
 KTelSoftware
 KUAFU CHASES THE SUN
 KUBEON DEMO
+KUBO 3
+KUBO3
 KUCHIZUKE
 KUDGEL
 KUDOU
@@ -51280,8 +51349,11 @@ Kenkyuusho
 Kennedy
 Kenshi
 Kepler 186F   Voice Pack: XuQi Jiang
+Kepler 186F   Voice Pack: Yuer
 Kepler 186F - Voice Pack: XuQi Jiang
+Kepler 186F - Voice Pack: Yuer
 Kepler186F-VoicePack:XuQiJiang
+Kepler186F-VoicePack:Yuer
 Keplerian Space Discovery
 KeplerianSpaceDiscovery
 Kerbal Space Program
@@ -51847,9 +51919,11 @@ KnowledgeBook
 Knowmad
 Knuckle
 Knuckle Is Bones
+Knuckle Jet
 Knuckle Joe
 Knuckle Joe Knuckle Joe
 KnuckleIsBones
+KnuckleJet
 KnuckleJoe
 KnuckleJoeKnuckleJoe
 Knuckles
@@ -54216,6 +54290,7 @@ LUCKY CHICKEN
 LUCKY CHLOE
 LUCKY DIME CAPER STARRING DONALD DUCK
 LUCKY DOG 1
+LUCKY DUCKIES
 LUCKY PIKININI - IMS INTELLIGENCE CORP
 LUCKY SHELTER
 LUCKY SHOT
@@ -56563,6 +56638,7 @@ Lucky Chicken
 Lucky Chloe
 Lucky Dime Caper Starring Donald Duck
 Lucky Dog 1
+Lucky Duckies
 Lucky Pikinini   IMS Intelligence Corp
 Lucky Pikinini - IMS Intelligence Corp
 Lucky Shelter
@@ -56576,6 +56652,7 @@ LuckyChicken
 LuckyChloe
 LuckyDimeCaperStarringDonaldDuck
 LuckyDog1
+LuckyDuckies
 LuckyPikinini-IMSIntelligenceCorp
 LuckyShelter
 LuckyShot
@@ -57149,6 +57226,7 @@ MAHOU ARMS
 MAHOUTEQ!
 MAHTRIS 108
 MAI
+MAI TRANG
 MAID CARD GACHA: COLLECT, DISPLAY, COMPLETE
 MAID FOR MY MASTER
 MAID LIFE SS
@@ -59148,6 +59226,7 @@ MIURA
 MIX
 MIX IT!
 MIX-UP
+MIXED SPIRITS: BARTENDER
 MIXERO
 MIXTAPE
 MIYA & AYA: HENTAI PUZZLE 18+
@@ -60624,6 +60703,8 @@ MahouArms
 Mahtris 108
 Mahtris108
 Mai
+Mai Trang
+MaiTrang
 Maid Card Gacha: Collect, Display, Complete
 Maid For My Master
 Maid Life SS
@@ -62892,6 +62973,8 @@ Miura
 Mix
 Mix it!
 Mix-up
+Mixed Spirits: Bartender
+MixedSpirits:Bartender
 Mixero
 Mixit!
 Mixtape
@@ -70839,6 +70922,7 @@ PEREVITTORIO
 PERFECT
 PERFECT DARK
 PERFECT GUARD
+PERFECT PLACE
 PERFECT SON-IN-LAW: HIDDEN S-RANK DEMO
 PERFECT TIDES: STATION TO STATION
 PERFECT WORLD
@@ -73714,6 +73798,7 @@ PerennialDusk-Kinsenka-
 Perfect
 Perfect Dark
 Perfect Guard
+Perfect Place
 Perfect Son In Law: Hidden S Rank Demo
 Perfect Son-In-Law: Hidden S-Rank Demo
 Perfect Tides: Station to Station
@@ -73721,6 +73806,7 @@ Perfect World
 Perfect World Entertainment
 PerfectDark
 PerfectGuard
+PerfectPlace
 PerfectSon-In-Law:HiddenS-RankDemo
 PerfectTides:StationtoStation
 PerfectWorld
@@ -77506,6 +77592,10 @@ RESCUE THE HOSTAGES: WORDS OF FEAR
 RESCUEONFRACTALUS
 RESEARCH
 RESEARCH STORY
+RESET 0: Entropy Architect
+RESET-0: ENTROPY ARCHITECT
+RESET-0: Entropy Architect
+RESET-0:EntropyArchitect
 RESETGAME
 RESETTI
 RESETgame
@@ -77897,6 +77987,7 @@ RNGESUS SLAYER
 ROACH POST
 ROACH ROYALE
 ROAD
+ROAD CONNECT
 ROAD DEFENSE RACING
 ROAD FIGHTER
 ROAD RASH
@@ -80121,6 +80212,7 @@ Roach Royale
 RoachPost
 RoachRoyale
 Road
+Road Connect
 Road Defense Racing
 Road Fighter
 Road Rash
@@ -80132,6 +80224,7 @@ Road to Empress II
 Road to Empress Ⅱ
 Road to Karatl
 Road to Vostok
+RoadConnect
 RoadCraft
 RoadCraft   Rebuild Edition
 RoadCraft   Reclaim Expansion
@@ -81514,6 +81607,7 @@ SAYLOR ANIME PUZZLE BOYS & GIRLS
 SAYOKO
 SAYOKO UKITSU
 SAYOKOUKITSU
+SAYONARA++
 SAZANAMI
 SAZH
 SAZH KATZROY
@@ -83988,6 +84082,7 @@ SOUL CHAINED
 SOUL DESCENT: INVADE OF ETHER R
 SOUL EDGE
 SOUL EYES DEMON: REMAKE EYES
+SOUL INJECTOR COMMANDO
 SOUL LAND: AWAKENING WORLD
 SOUL MACHINE
 SOUL MATES
@@ -85254,6 +85349,7 @@ SUBDUEDGAMES
 SUBJECT 33
 SUBJECT33
 SUBJECT: DINHA
+SUBLIGHT
 SUBLIME ELEMENT
 SUBLIMINAL
 SUBLIMINAL ECHOES
@@ -89443,6 +89539,7 @@ Soul Chained
 Soul Descent: Invade of Ether R
 Soul Edge
 Soul Eyes Demon: Remake Eyes
+Soul Injector Commando
 Soul Land: Awakening World
 Soul Machine
 Soul Mates
@@ -89482,6 +89579,7 @@ SoulChained
 SoulDescent:InvadeofEtherR
 SoulEdge
 SoulEyesDemon:RemakeEyes
+SoulInjectorCommando
 SoulLand:AwakeningWorld
 SoulMachine
 SoulMates
@@ -91065,6 +91163,7 @@ Subdued Games
 SubduedGames
 Subject: Dinha
 Subject:Dinha
+Sublight
 Sublime element
 Sublimeelement
 Subliminal
@@ -92419,6 +92518,7 @@ TAPTAP
 TAPTAPTAP
 TAPULOUS
 TAPUPS
+TAPYBUDDY
 TAQUERO'S HOUSE
 TARANTULA
 TARANTULA STUDIOS
@@ -93567,6 +93667,7 @@ THE LAST WEREWOLF
 THE LAST WINTER KNIGHT
 THE LATE GUEST
 THE LATE GUEST SOUNDTRACK
+THE LAUNDRY THAT WON’T OPEN.
 THE LAURENCIA -로렌스 기행문-
 THE LAWS OF PROBABILITY
 THE LAZARUS GAME
@@ -93716,6 +93817,7 @@ THE NIGHT IS LONG
 THE NIGHT JACKALS VOL. 1
 THE NIGHT OF THE FULL MOON
 THE NIGHT SHE TOOK CONTROL ~SOUGANKYO~
+THE NIGHT SHIFT
 THE NOBODY WOODS : LUCY DEMO
 THE NOEXISTENCEN OF MORPHEAN PARADOX : THE FOREST OF SILVER SHALLOTS
 THE NOMAD SOUL
@@ -93884,6 +93986,7 @@ THE SOFTWARE GUILD
 THE SOFTWARE TOOLWORKS
 THE SOJOURNING WISE WOMAN'S FINAL QUEST
 THE SOLITARY EXISTENCE OF A LITTLE UNIVERSE
+THE SOLYANI'S CODE
 THE SON OF ART
 THE SORTING BUREAU
 THE SOUL COLLECTOR 2 - IDLE GAME
@@ -96254,6 +96357,7 @@ Taplay
 Tapper
 Tapulous
 Tapups
+TapyBuddy
 Taquero s House
 Taquero's House
 Taquero'sHouse
@@ -97487,6 +97591,8 @@ The Last of Us(TM) Part II Remastered
 The Last of Us™ Part II Remastered
 The Late Guest
 The Late Guest Soundtrack
+The Laundry That Won't Open.
+The Laundry That Won’t Open.
 The Laurencia  로렌스 기행문 
 The Laurencia -??? ???-
 The Laurencia -로렌스 기행문-
@@ -97629,6 +97735,7 @@ The Night Is Long
 The Night Jackals Vol. 1
 The Night Of The Full Moon
 The Night She Took Control ~Sougankyo~
+The Night Shift
 The Nobody Woods : Lucy Demo
 The Nomad Soul
 The Novice: Animal Kingdom
@@ -97807,6 +97914,8 @@ The Software Toolworks
 The Sojourning Wise Woman s Final Quest
 The Sojourning Wise Woman's Final Quest
 The Solitary Existence of a Little Universe
+The Solyani s Code
+The Solyani's Code
 The Son of Art
 The Sorting Bureau
 The Soul Collector 2   Idle Game
@@ -98471,6 +98580,7 @@ TheLastofRAM
 TheLastofUs™PartIIRemastered
 TheLateGuest
 TheLateGuestSoundtrack
+TheLaundryThatWon’tOpen.
 TheLaurencia-로렌스기행문-
 TheLawsofProbability
 TheLazarusGame
@@ -98599,6 +98709,7 @@ TheNightIsLong
 TheNightJackalsVol.1
 TheNightOfTheFullMoon
 TheNightSheTookControl~Sougankyo~
+TheNightShift
 TheNobodyWoods:LucyDemo
 TheNomadSoul
 TheNovice:AnimalKingdom
@@ -98755,6 +98866,7 @@ TheSoftwareGuild
 TheSoftwareToolworks
 TheSojourningWiseWoman'sFinalQuest
 TheSolitaryExistenceofaLittleUniverse
+TheSolyani'sCode
 TheSonofArt
 TheSortingBureau
 TheSoulCollector2-IdleGame
@@ -102808,6 +102920,7 @@ VOXELDRIFTRACER
 VOXELFORGE
 VOXELGRAM 2
 VOXELISLESIMULATOR
+VOXIO - SOUNDBOARD
 VOXMAGIC - REALTIME VOICE CHANGER
 VOYAGERS OF NERA
 VOYAGEUR
@@ -103782,6 +103895,9 @@ Voxel
 VoxelForge
 Voxelgram 2
 Voxelgram2
+Voxio   Soundboard
+Voxio - Soundboard
+Voxio-Soundboard
 Voyagers of Nera
 VoyagersofNera
 Voyageur
@@ -104002,6 +104118,7 @@ WAR GRID HERO
 WAR LORDS 战争领主
 WAR OF DOTS
 WAR OF DOTS PLUS
+WAR OF RIGHTS
 WAR OF THE AUSTRIAN SUCCESSION
 WAR OF THE DAMNED
 WAR UNTOLD
@@ -105320,6 +105437,7 @@ War Untold
 War and Politics
 War of Dots
 War of Dots Plus
+War of Rights
 War of the Austrian Succession
 War of the Damned
 WarBoard: Arena Empire
@@ -105496,6 +105614,7 @@ WarnerInteractive
 Warning
 WarofDots
 WarofDotsPlus
+WarofRights
 WaroftheAustrianSuccession
 WaroftheDamned
 Warp
@@ -108803,6 +108922,7 @@ a game about sucking (up ghosts with a vacuum)
 a game my mom came up with
 a gentlemen's dispute
 a good deed on harris avenue
+a graveyard shift
 a haunting novel: burton hotel collector's edition
 a haunting novel: surfaced secrets collector's edition
 a home is safe
@@ -109096,6 +109216,7 @@ activate
 active
 active enterprises
 active frames
+active matter
 activeenterprises
 activeframes
 activision
@@ -109309,6 +109430,7 @@ after burner
 after burner 2
 after burner climax
 after burner complete
+after dark jigsaw
 after hours: lines of desire - s1
 after hue demo
 after inc: revival
@@ -110571,9 +110693,11 @@ arctic digger tcg collection prologue
 arctic grave demo
 arctic shift: fuel station
 arcturus
+arcturus vision camera
 arc’s glitch defender
 arduo
 are
+are you chicken?
 are you okay?
 area
 area 51
@@ -111314,6 +111438,7 @@ avalon hill
 avalon interactive
 avalon jewels
 avalon jewels 2 collector's edition
+avalonclash
 avalone's adventurers: my parents were assassinated so i've started an adventuring party to avoid a political marriage
 avalonhill
 avaloninteractive
@@ -111938,6 +112063,7 @@ barnburners demo
 barnhouse
 barnhouse effect
 barnhouseeffect
+barns & beams demo
 baron
 baron k.roolenstein
 baron kroolenstein
@@ -114234,6 +114360,7 @@ burnout3:takedown
 burnout3takedown
 burnwood
 burr puzzle
+burrows of cairntir
 burst noir - fireworks simulator
 buscabit: a treasure hunter adventure
 bush dog
@@ -115963,6 +116090,7 @@ clay ball
 clay simmons
 clay simons
 clayball
+claymonsters
 clayn
 clayn clayn
 claynclayn
@@ -117390,6 +117518,7 @@ cthulhu detective
 ctrl alt deal
 ctxm
 cube
+cube boy
 cube burst 3d
 cube commando
 cube crawler
@@ -118744,6 +118873,7 @@ desktop mascot nunu-nui
 desktop mate gumi dlc
 desktop mate hatsune miku magical mirai 2026 ver. dlc
 desktop mate otomachi una dlc
+desktop mate tsurumaki maki dlc
 desktop mate work cat dlc
 desktop my cat
 desktop nard: dice idle
@@ -118934,6 +119064,7 @@ diabloii
 diabloty
 diabloty diabloty
 diablotydiabloty
+diablo® iv
 diablo® iv: age of hatred collection
 diablo® iv: lord of hatred™
 diablo® iv: lord of hatred™ - standard edition
@@ -119570,6 +119701,7 @@ don't step on
 don't step on the
 don't step on the cracks
 don't stop bullying me, beastgirls!
+don't stop cutting the trees!
 don't stop in red wood
 don't stop mike
 don't touch me - goblin zombies
@@ -120070,6 +120202,7 @@ dried_kelp
 driedkelp
 drift
 drift highway: retro console edition
+drift invaders
 drift legends 2
 drift off
 drift survivors
@@ -122195,6 +122328,7 @@ fallout2
 fallout3
 fallstreak 2: traum
 false flag
+false normality
 falstad
 fame
 fame soft
@@ -123344,6 +123478,7 @@ fortune
 fortune flipper
 fortune paradox
 fortunegg: species revival
+forty depths beneath knossos: the minotaur's maze
 forté
 forum
 forza
@@ -126710,6 +126845,7 @@ hentai magic milf
 hentai maid shira
 hentai marina
 hentai mature milf
+hentai mayhem
 hentai mermaid sirena
 hentai milf daily
 hentai mommy
@@ -126843,6 +126979,7 @@ heroes of might and magic iii
 heroes of might and magic iii: horn of the abyss
 heroes of might and magic: olden era
 heroes of mount dragon
+heroes of retribution demo
 heroes of the seven islands
 heroes of the triangle: mask rush
 heroes unhinged
@@ -127948,6 +128085,7 @@ idl group
 idle abyss miner
 idle adventurer
 idle asteroids
+idle bookstore
 idle boss rush
 idle car clicker
 idle chapel
@@ -128959,6 +129097,7 @@ jack nicklaus golf
 jack ryan
 jack street
 jack's 510 racing
+jack's achievements simulator: dog & lava
 jack-2
 jack-4
 jack-5
@@ -130111,6 +130250,7 @@ kenkyuusho
 kennedy
 kenshi
 kepler 186f - voice pack: xuqi jiang
+kepler 186f - voice pack: yuer
 keplerian space discovery
 kerbal space program
 kernelbay
@@ -130552,6 +130692,7 @@ knowmad
 knowwonder
 knuckle
 knuckle is bones
+knuckle jet
 knuckle joe
 knuckle joe knuckle joe
 knucklejoe
@@ -130828,6 +130969,7 @@ ktelsoftware
 ktrl smash
 kuafu chases the sun
 kubeon demo
+kubo 3
 kuchizuke
 kudgel
 kudou
@@ -132847,6 +132989,7 @@ lucky chicken
 lucky chloe
 lucky dime caper starring donald duck
 lucky dog 1
+lucky duckies
 lucky pikinini - ims intelligence corp
 lucky shelter
 lucky shot
@@ -133327,6 +133470,7 @@ mahou arms
 mahouteq!
 mahtris 108
 mai
+mai trang
 maid card gacha: collect, display, complete
 maid for my master
 maid life ss
@@ -135267,6 +135411,7 @@ miura
 mix
 mix it!
 mix-up
+mixed spirits: bartender
 mixero
 mixtape
 miya & aya: hentai puzzle 18+
@@ -139749,6 +139894,7 @@ perevittorio
 perfect
 perfect dark
 perfect guard
+perfect place
 perfect son-in-law: hidden s-rank demo
 perfect tides: station to station
 perfect world
@@ -142790,6 +142936,7 @@ rescue the hostages: words of fear
 rescueonfractalus
 research
 research story
+reset-0: entropy architect
 resetgame
 resetti
 resident
@@ -143153,6 +143300,7 @@ rngesus slayer
 roach post
 roach royale
 road
+road connect
 road defense racing
 road fighter
 road rash
@@ -144338,6 +144486,7 @@ saylor anime puzzle boys & girls
 sayoko
 sayoko ukitsu
 sayokoukitsu
+sayonara++
 sazanami
 sazh
 sazh katzroy
@@ -146624,6 +146773,7 @@ soul chained
 soul descent: invade of ether r
 soul edge
 soul eyes demon: remake eyes
+soul injector commando
 soul land: awakening world
 soul machine
 soul mates
@@ -147835,6 +147985,7 @@ subdued games
 subduedgames
 subject 33
 subject: dinha
+sublight
 sublime element
 subliminal
 subliminal echoes
@@ -148891,6 +149042,7 @@ taptap
 taptaptap
 tapulous
 tapups
+tapybuddy
 taquero's house
 tarantula
 tarantula studios
@@ -149998,6 +150150,7 @@ the last werewolf
 the last winter knight
 the late guest
 the late guest soundtrack
+the laundry that won’t open.
 the laurencia -로렌스 기행문-
 the laws of probability
 the lazarus game
@@ -150146,6 +150299,7 @@ the night is long
 the night jackals vol. 1
 the night of the full moon
 the night she took control ~sougankyo~
+the night shift
 the nobody woods : lucy demo
 the noexistencen of morphean paradox : the forest of silver shallots
 the nomad soul
@@ -150314,6 +150468,7 @@ the software guild
 the software toolworks
 the sojourning wise woman's final quest
 the solitary existence of a little universe
+the solyani's code
 the son of art
 the sorting bureau
 the soul collector 2 - idle game
@@ -153479,6 +153634,7 @@ voxel drift racer
 voxel isle simulator
 voxelforge
 voxelgram 2
+voxio - soundboard
 voxmagic - realtime voice changer
 voyagers of nera
 voyageur
@@ -153713,6 +153869,7 @@ war grid hero
 war lords 战争领主
 war of dots
 war of dots plus
+war of rights
 war of the austrian succession
 war of the damned
 war untold
@@ -156293,6 +156450,7 @@ zèbre
 我的美味丈夫 My Tasty Husband
 我的美味丈夫 my tasty husband
 我的美味丈夫MyTastyHusband
+我的钓鱼世界2
 我的高冷女友 MY COLD GIRLFRIEND
 我的高冷女友 my cold girlfriend
 我的高冷女友MYCOLDGIRLFRIEND
