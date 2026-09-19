@@ -4755,6 +4755,7 @@ AStandardDeviation
 ASteam
 ASweetDateWith:Azalea
 AT
+AT FACE VALUE
 AT MY BEST FRIEND'S HOUSE
 AT NIGHT: THE NURSE
 AT NIGHT: THE STUDENT
@@ -4926,6 +4927,7 @@ AUERMEDIA&
 AUERMEDIA&ENTERTAINMENT
 AUGMENT ANTHEM
 AUGMENTED FEAR
+AUGMENTED YUT
 AUGUSTUS
 AUGUSTUS SINCLAIR
 AUGUSTUSSINCLAIR
@@ -7764,12 +7766,14 @@ Asvara
 Asylum
 Asylum Entertainment
 AsylumEntertainment
+At Face Value
 At My Best Friend s House
 At My Best Friend's House
 At Night: The Nurse
 At Night: The Student
 At Run Time
 At the Summit of Mount Rojerya
+AtFaceValue
 AtMyBestFriend'sHouse
 AtNight:TheNurse
 AtNight:TheStudent
@@ -7932,7 +7936,9 @@ AuerMedia&Entertainment
 Augment Anthem
 AugmentAnthem
 Augmented Fear
+Augmented Yut
 AugmentedFear
+AugmentedYut
 Augustus
 Augustus Sinclair
 AugustusSinclair
@@ -9584,6 +9590,7 @@ BIOSHOCK
 BIOSPARK
 BIOSPARKBIOSPARK
 BIOTYPE
+BIOVOID
 BIOWARE
 BIOYSQUE
 BIP
@@ -9706,6 +9713,7 @@ BLACK GOLD - SHINING TOWN
 BLACK HOLE
 BLACK HOLE ENTERTAINMENT
 BLACK HOLE FISHING
+BLACK HOLE GROW FOREVER
 BLACK HOLE: FARMAGEDDON
 BLACK ISLE
 BLACK ISLE STUDIOS
@@ -10521,6 +10529,7 @@ BOUNCY BALL
 BOUNCY BOUNCY
 BOUNCYBOUNCY
 BOUND BETWEEN DESKS
+BOUND BY DESTINY
 BOUNDER
 BOUNDER BOUNDER
 BOUNDERBOUNDER
@@ -12737,6 +12746,7 @@ Bionic Commando Elite Force
 BionicCommando
 BionicCommandoEliteForce
 Biotype
+Biovoid
 Bioware
 Bioysque
 Biped
@@ -12865,6 +12875,7 @@ Black Gold - Shining Town
 Black Hole
 Black Hole Entertainment
 Black Hole Fishing
+Black Hole Grow Forever
 Black Hole: Farmageddon
 Black Isle
 Black Isle Studios
@@ -12912,6 +12923,7 @@ BlackHole
 BlackHole:Farmageddon
 BlackHoleEntertainment
 BlackHoleFishing
+BlackHoleGrowForever
 BlackIsle
 BlackIsleStudios
 BlackJacket-SupporterPack
@@ -13831,7 +13843,9 @@ Bouncy Bouncy
 BouncyBall
 BouncyBouncy
 Bound Between Desks
+Bound by Destiny
 BoundBetweenDesks
+BoundbyDestiny
 Bounder
 Bounder Bounder
 BounderBounder
@@ -15075,6 +15089,7 @@ CAPYBARAGAMES
 CAPYVARIAS
 CAPYVARIAS SOUNDTRACK
 CAR
+CAR CLUB TUNING STORM
 CAR DEALER SIMULATOR
 CAR MECHANIC
 CAR MECHANIC SIMULATOR
@@ -15399,6 +15414,7 @@ CATS VISITING FAIRY TALES
 CATS VS RATS
 CATS VS TROLLS
 CATSBLOCKS:HOTSPRINGS
+CATSKILL MINE: 10,000FT BELOW
 CATSPAWN
 CATSPAWNEGG
 CATTLE
@@ -15972,6 +15988,7 @@ CHIKI
 CHIKI CHIKI BOYS
 CHIKICHIKIBOYS
 CHIKURA
+CHILDHOOD SLOTS
 CHILDREN OF MORTA
 CHILDREN'S
 CHILDREN'S COMPUTER
@@ -18581,6 +18598,7 @@ Capyvarias
 Capyvarias Soundtrack
 CapyvariasSoundtrack
 Car
+Car Club Tuning Storm
 Car Dealer Simulator
 Car Mechanic
 Car Mechanic Simulator
@@ -18595,6 +18613,7 @@ Car Tuning Garage Simulator
 Car Tuning Garage Simulator
 Car-Toon Chaos
 Car-ToonChaos
+CarClubTuningStorm
 CarDealerSimulator
 CarMechanic
 CarMechanicSimulator
@@ -19064,6 +19083,8 @@ CatsVsRats
 CatsandCows
 CatsinCozyRooms
 CatsinPaint
+Catskill Mine: 10,000ft Below
+CatskillMine:10,000ftBelow
 CatsvsTrolls
 Cattle
 Cattle Call
@@ -19628,6 +19649,8 @@ Chiki
 Chiki Chiki Boys
 ChikiChikiBoys
 Chikura
+Childhood Slots
+ChildhoodSlots
 Children of Morta
 Children s Future
 Children's
@@ -22962,6 +22985,7 @@ DEAD IN YOUR TRACKZ
 DEAD ISLAND
 DEAD ISLAND 2
 DEAD MAN'S GULCH
+DEAD MARGIN
 DEAD MATRIX CHAMBER
 DEAD NIGHT HIGHWAY
 DEAD OIL
@@ -23030,6 +23054,7 @@ DEAN
 DEAN WINCHELL
 DEANIMA
 DEANWINCHELL
+DEAR JOURNEY...
 DEAR LIGHTHOUSE
 DEAR ME, I WAS...
 DEAR MIRROR FLOWER
@@ -23040,6 +23065,7 @@ DEATH AND TAXES
 DEATH BURGER
 DEATH BY SCROLLING
 DEATH BY TAXES DEMO
+DEATH COUNTER DEMO
 DEATH END RE;QUEST: CODE Z
 DEATH GAME HOTEL - STORY MODE & AVATAR SET
 DEATH IN A PARTY - ACT I
@@ -23670,6 +23696,7 @@ DEVOLVERDIGITAL
 DEVOREUSE
 DEVOSE
 DEVSISTERS
+DEWDROP
 DEWITT
 DEXPERIENCE
 DEXSWEEPER
@@ -24043,6 +24070,8 @@ DISC DUNGEON
 DISC GOLF
 DISC GOLF CITY
 DISCARD ALL HOPE - DEMO
+DISCIPLINE SIMULATOR
+DISCIPLINESIMULATOR
 DISCO
 DISCONNECT 2
 DISCORD BOT ENGINE
@@ -24140,6 +24169,9 @@ DIVISION
 DIXIE
 DIXIE KONG
 DIXIEKONG
+DIY DADISH
+DIY Dadish
+DIYDadish
 DIZM
 DIZM ENTERTAINMENT
 DIZMENTERTAINMENT
@@ -25891,6 +25923,7 @@ Dead Island
 Dead Island 2
 Dead Man s Gulch
 Dead Man's Gulch
+Dead Margin
 Dead Matrix Chamber
 Dead Night Highway
 Dead Oil
@@ -25947,6 +25980,7 @@ DeadInYourTrackZ
 DeadIsland
 DeadIsland2
 DeadMan'sGulch
+DeadMargin
 DeadMatrixChamber
 DeadNightHighway
 DeadOil
@@ -26041,17 +26075,20 @@ Dealme,Devil!
 Dean
 Dean Winchell
 DeanWinchell
+Dear Journey...
 Dear Lighthouse
 Dear Mirror Flower
 Dear Mirror Flower Soundtrack
 Dear me, I was...
 Dear my? ?
 Dear my『 』
+DearJourney...
 DearLighthouse
 DearMirrorFlower
 DearMirrorFlowerSoundtrack
 Dearme,Iwas...
 Dearmy『』
+Death Counter Demo
 Death Game Hotel   Story Mode & Avatar Set
 Death Game Hotel - Story Mode   Avatar Set
 Death Game Hotel - Story Mode & Avatar Set
@@ -26082,6 +26119,7 @@ Death's Web
 Death'sDoor
 Death'sLife2
 Death'sWeb
+DeathCounterDemo
 DeathGameHotel-StoryMode&AvatarSet
 DeathInAbyss
 DeathKitchen
@@ -26888,6 +26926,7 @@ Devolver Digital
 DevolverDigital
 Devoreuse
 Devsisters
+Dewdrop
 DexSweeper
 Dexter
 Dezaemon
@@ -30266,6 +30305,7 @@ ETERNALLY DEPARTED
 ETERNALROMANCECompleteEditionPlus
 ETERNITUBES 3D
 ETERNITY EGG
+ETERNITY LOST: MYSTERY OF AURUM COLLECTOR'S EDITION
 ETERSPIRE
 ETHAN
 ETHAN WINTERS
@@ -31938,7 +31978,10 @@ EternallyDeparted
 Eternitubes 3D
 Eternitubes3D
 Eternity Egg
+Eternity Lost: Mystery of Aurum Collector s Edition
+Eternity Lost: Mystery of Aurum Collector's Edition
 EternityEgg
+EternityLost:MysteryofAurumCollector'sEdition
 Eterspire
 Ethan
 Ethan Winters
@@ -32610,6 +32653,7 @@ FAPFEETS
 FAPOUT 69 ☢️
 FAR
 FAR CRY
+FAR CRY® 6
 FAR FAR WEST
 FAR FISHING
 FAR FROM DEAD   Demo Ver.  
@@ -34692,10 +34736,13 @@ Fapout 69 ☢️
 Fapout69☢️
 Far
 Far Cry
+Far Cry(R) 6
+Far Cry® 6
 Far Far West
 Far Fishing
 Far Mining
 FarCry
+FarCry®6
 FarFarWest
 FarFishing
 FarMining
@@ -45589,6 +45636,7 @@ I WAS REBORN IN A FANTASY WORLD WITH A COCK AS LONG AS THE NAME OF THIS GAME!
 I WILL NEVER FALL FOR MY TSUNDERE CLASSMATE, SO I WILL JUST DATE A BACKGROUND CHARACTER INSTEAD!
 I WILL PURIFY YOU
 I WISH I HAD NEVER GONE INTO THE DUNGEON
+I WISH YOU WEREN'T HERE
 I WOKE UP IN THE HOUSE OF A FAT MAN: HE'S OVER 30 YEARS OLD AND LOVES BEER AND GAMES
 I WRITE GAMES NOT TRAGEDIES
 I Wanna Play That Picture Puzzle with Numbers All Day!
@@ -45599,6 +45647,8 @@ I Was a Failed Day Trader Who Lost Everything, But After Being Reincarnated in A
 I Was a Failed Day Trader Who Lost Everything, But After Being Reincarnated in Another World, My Textbook Technical Analysis Actually Works and Now I'm the Richest Man in the Kingdom!?
 I Will Never Fall For My Tsundere Classmate, So I Will Just Date A Background Character Instead!
 I Wish I Had Never Gone into the Dungeon
+I Wish You Weren t Here
+I Wish You Weren't Here
 I Write Games Not Tragedies
 I am Coin
 I am a bad guy in school bullying
@@ -45799,7 +45849,9 @@ IDEAWORKS3D
 IDEAWORKS3D!
 IDEAWORKSGAME
 IDEAWORKSGAMESTUDIO
+IDEL CAVITY INC.
 IDEL WORLD
+IDELCAVITYINC.
 IDIOM ROYALE
 IDL
 IDL GROUP
@@ -46862,6 +46914,7 @@ IWanttoBelieve-RoswoodRadio
 IWasaFailedDayTraderWhoLostEverything,ButAfterBeingReincarnatedinAnotherWorld,MyTextbookTechnicalAnalysisActuallyWorksandNowI'mtheRichestManintheKingdom!?
 IWillNeverFallForMyTsundereClassmate,SoIWillJustDateABackgroundCharacterInstead!
 IWishIHadNeverGoneintotheDungeon
+IWishYouWeren'tHere
 IWriteGamesNotTragedies
 IX
 IXION
@@ -51107,6 +51160,9 @@ KWEENA
 KWEENA QUEN
 KWEENAQUEN
 KYBURZ
+KYC: K STANDS FOR KILLING DEMO
+KYC: K stands for Killing Demo
+KYC:KstandsforKillingDemo
 KYDOS
 KYDOS STUDIO
 KYDOSSTUDIO
@@ -64966,6 +65022,7 @@ NEED: No End
 NEED:NoEnd
 NEEDFOR
 NEEDFORSPEED
+NEEDLE IN A HAYSTACK - A TIME FOR GOATS
 NEELSEN
 NEFARIAN
 NEFARIOUS
@@ -65064,6 +65121,7 @@ NEON ABYSS
 NEON ANGORA: THE CABARET CLUB
 NEON BLOCK
 NEON BULLET
+NEON CITY LEGENDS
 NEON CRUISERS
 NEON DIGITAL
 NEON DIVIDE
@@ -65391,6 +65449,7 @@ NIGEL WEIR
 NIGELTHORNHILL
 NIGELWEIR
 NIGHT
+NIGHT ALLEY : ตรอกลวง ดวงดับ
 NIGHT CASTLE
 NIGHT CLERK
 NIGHT GRIP
@@ -65401,6 +65460,7 @@ NIGHT MANIAC: THE ORIGIN OF STEVEN
 NIGHT MARKET SIMULATOR
 NIGHT OF NIGHTMARE
 NIGHT OF SEVEN DREAMS
+NIGHT OF THE LIVING BUBBLE
 NIGHT OF THE OLDBRAND
 NIGHT OF THE STARS
 NIGHT PATROL RULES
@@ -65410,6 +65470,7 @@ NIGHT SHIFT
 NIGHT SHIFT AT NATE'S
 NIGHT SHIFT AT THE GYM
 NIGHT SHIFT AT THE MUSEUM
+NIGHT SHIFT: ANOMALY
 NIGHT SWARM
 NIGHT SWARM DEMO
 NIGHT TERROR
@@ -66360,6 +66421,9 @@ NeedForScream
 Needfor
 NeedforSpeed
 NeedforSpeed™Heat
+Needle In A Haystack   A Time For Goats
+Needle In A Haystack - A Time For Goats
+NeedleInAHaystack-ATimeForGoats
 Neelsen
 Nefarian
 Nefarious
@@ -66469,6 +66533,7 @@ Neon
 Neon Abyss
 Neon Angora: The Cabaret Club
 Neon Bullet
+Neon City Legends
 Neon Cruisers
 Neon Digital
 Neon Divide
@@ -66493,6 +66558,7 @@ Neon Whispers
 NeonAbyss
 NeonAngora:TheCabaretClub
 NeonBullet
+NeonCityLegends
 NeonCruisers
 NeonDigital
 NeonDivide
@@ -66775,6 +66841,8 @@ Nigel Weir
 NigelThornhill
 NigelWeir
 Night
+Night Alley : ??????? ??????
+Night Alley : ตรอกลวง ดวงดับ
 Night Castle
 Night Clerk
 Night Grip
@@ -66792,14 +66860,17 @@ Night Shift at Nate s
 Night Shift at Nate's
 Night Shift at the Gym
 Night Shift at the Museum
+Night Shift: Anomaly
 Night Swarm
 Night Swarm Demo
 Night Terror
 Night Trap
 Night of Nightmare
 Night of Seven Dreams
+Night of the Living Bubble
 Night of the Stars
 Night of the oldbrand
+NightAlley:ตรอกลวงดวงดับ
 NightBreak
 NightCastle
 NightClerk
@@ -66816,6 +66887,7 @@ NightPatrolRules
 NightPatrol：Barracks
 NightSchool
 NightShift
+NightShift:Anomaly
 NightShiftatNate's
 NightShiftattheGym
 NightShiftattheMuseum
@@ -66856,6 +66928,7 @@ Nightmariners
 Nightmarise
 NightofNightmare
 NightofSevenDreams
+NightoftheLivingBubble
 NightoftheStars
 Nightoftheoldbrand
 Nightork Adventures 3   Arena
@@ -71528,6 +71601,7 @@ PILLAGED VILLAGE: HUMBLED BY SAVAGES
 PILLAGER
 PILLAGER SPAWN
 PILLAGER SPAWN EGG
+PILLAGERS: THE POISONED THRONE
 PILLAGERSPAWN
 PILLAGERSPAWNEGG
 PILLAGER_SPAWN_EGG
@@ -71674,6 +71748,7 @@ PIVOTALGAMES
 PIX ELIZ GREAT TRILOGY
 PIXARK
 PIXEL
+PIXEL BLACKJACK  -  二十一点
 PIXEL BLUE
 PIXEL BONFIRE (DESKTOP MASCOT)
 PIXEL CANYON
@@ -74473,6 +74548,8 @@ Pillager Spawn
 Pillager Spawn Egg
 PillagerSpawn
 PillagerSpawnEgg
+Pillagers: The Poisoned Throne
+Pillagers:ThePoisonedThrone
 Pillar of Knight
 PillarofKnight
 Pilot
@@ -74648,6 +74725,9 @@ Pix Eliz Great Trilogy
 PixARK
 PixElizGreatTrilogy
 Pixel
+Pixel BlackJack     二十一点
+Pixel BlackJack  -  ????
+Pixel BlackJack  -  二十一点
 Pixel Blue
 Pixel Bonfire  Desktop Mascot 
 Pixel Bonfire (Desktop Mascot)
@@ -74685,6 +74765,7 @@ Pixel Toys
 Pixel Troopers
 Pixel Way: Prologue
 Pixel Worldcraft Map Creator
+PixelBlackJack-二十一点
 PixelBlue
 PixelBonfire(DesktopMascot)
 PixelBurg
@@ -81507,6 +81588,7 @@ SAKURA KASUGANO
 SAKURA SUCCUBUS 10
 SAKURA TSUCHIYA
 SAKURA WARS
+SAKURA: THE ETERNAL NIGHT
 SAKURAKASUGANO
 SAKURATSUCHIYA
 SAKURAWARS
@@ -82069,6 +82151,7 @@ SCREENSAVER IDLE
 SCREENSIDE STATION
 SCREENWOLF
 SCREEPS: ARENA
+SCREW IT
 SCREWBALL
 SCRIBBLE BOTS
 SCRIBBLE HUNT
@@ -82488,6 +82571,7 @@ SERRANO
 SERRE
 SERVANT OF THE LAKE
 SERVER FARM IDLE
+SERVER-ADMIN SIMULATOR
 SERVEUSE
 SERVICE
 SERVICE CLIENTELE
@@ -82832,6 +82916,7 @@ SHELF BY SHELF: BOOKSTORE SIMULATOR
 SHELF HAPPENS
 SHELKE
 SHELL
+SHELL INSIDE
 SHELL OF A KING
 SHELLBORNE
 SHELLDIVER
@@ -83650,6 +83735,7 @@ SLANT SIX
 SLANT SIX GAMES
 SLANTSIX
 SLANTSIXGAMES
+SLAP THE GAMER
 SLAPAROO
 SLAPPINGROT
 SLAPSTICK BOSSES
@@ -83724,6 +83810,7 @@ SLIME STORE SIMULATOR
 SLIME SURVIVORS
 SLIME TALES
 SLIME TOWER
+SLIME TRADER
 SLIME WARS
 SLIME WAY
 SLIME WORLD
@@ -83959,6 +84046,7 @@ SNOWBOARD KIDS
 SNOWBOARDING
 SNOWBOARDKIDS
 SNOWBROTHERS
+SNOWDESKTOP
 SNOWDRIFT
 SNOWDROP AND THE FOUR SISTERS
 SNOWED UNDER | 雪葬
@@ -84143,6 +84231,7 @@ SOME: THE HOUSE
 SOME: The House
 SOME:TheHouse
 SOMEBODY'S RAMYEON SHOP
+SOMEBODY'S TALE
 SOMECOMPANY
 SOMEDAY YOULL GET THERE(언젠가는 도착해)
 SOMEONE CREEPY
@@ -84673,6 +84762,7 @@ SPINNAKER
 SPINNI
 SPINNI SPINNI
 SPINNISPINNI
+SPINNOPOLY
 SPIRAL
 SPIRAL HOUSE
 SPIRAL STRIKE
@@ -86539,6 +86629,8 @@ Sakura Kasugano
 Sakura Succubus 10
 Sakura Tsuchiya
 Sakura Wars
+Sakura: The Eternal Night
+Sakura:TheEternalNight
 SakuraBunnyGirls2
 SakuraDrift
 SakuraGozen
@@ -87131,6 +87223,8 @@ Screenside Station
 ScreensideStation
 Screeps: Arena
 Screeps:Arena
+Screw IT
+ScrewIT
 Screwball
 Scribble Bots
 ScribbleBots
@@ -87605,7 +87699,10 @@ Serrano
 Serre
 Servant of the Lake
 ServantoftheLake
+Server Admin Simulator
 Server Farm Idle
+Server-Admin Simulator
+Server-AdminSimulator
 ServerFarmIdle
 Serveuse
 Service
@@ -88039,7 +88136,9 @@ ShelfHappens
 ShelfbyShelf:BookstoreSimulator
 Shelke
 Shell
+Shell Inside
 Shell of a King
+ShellInside
 ShellMobile: Titan Rampart
 ShellMobile:TitanRampart
 ShellShock Live
@@ -88996,10 +89095,12 @@ Slant Six
 Slant Six Games
 SlantSix
 SlantSixGames
+Slap the Gamer
 Slaparoo
 Slappingrot
 Slapstick Bosses
 SlapstickBosses
+SlaptheGamer
 Slash
 Slasher
 Slate
@@ -89086,6 +89187,7 @@ Slime Store Simulator
 Slime Survivors
 Slime Tales
 Slime Tower
+Slime Trader
 Slime Wars
 Slime Way
 Slime World
@@ -89106,6 +89208,7 @@ SlimeStoreSimulator
 SlimeSurvivors
 SlimeTales
 SlimeTower
+SlimeTrader
 SlimeWars
 SlimeWay
 SlimeWorld
@@ -89357,6 +89460,7 @@ SnowAsh
 SnowBrosClassicCollection
 SnowBrothers
 SnowDefense
+SnowDesktop
 SnowJob
 SnowPlowingSimulator
 SnowRoute
@@ -89603,8 +89707,11 @@ Some Company
 SomeAssemblyRequired
 SomeCompany
 Somebody s Ramyeon Shop
+Somebody s Tale
 Somebody's Ramyeon Shop
+Somebody's Tale
 Somebody'sRamyeonShop
+Somebody'sTale
 Someday Youll Get There 언젠가는 도착해 
 Someday Youll Get There(???? ???)
 Someday Youll Get There(언젠가는 도착해)
@@ -90265,6 +90372,7 @@ Spinnaker
 Spinni
 Spinni Spinni
 SpinniSpinni
+Spinnopoly
 SpintoSurvive
 Spiral
 Spiral House
@@ -93616,6 +93724,7 @@ THE DOME SOFTWARE
 THE DOME SOFTWARE DEVELOPMENTS
 THE DONUT GALLERY
 THE DOOMED KNIGHT
+THE DOOR FACTORY
 THE DOUBLE
 THE DOWN BELOW
 THE DRAGON AND THE SWORD
@@ -93928,6 +94037,7 @@ THE LAST SHORES
 THE LAST SKI TRIP
 THE LAST SPELL
 THE LAST SPELL - TALES OF TORMENT
+THE LAST STAND LEGACY COLLECTION
 THE LAST STAR WALKER - SEASON 1
 THE LAST STARSHIP
 THE LAST STRAND
@@ -95331,6 +95441,7 @@ TONYHAWKSPROSKATER2
 TONYLARUSSA
 TONYLARUSSABASEBALL
 TOO HOT TO BE TRUE DEMO
+TOO MANY BALLS
 TOO MANY BOTS
 TOO MANY TOYS!
 TOOIE
@@ -95748,6 +95859,7 @@ TRASH GOBLIN
 TRASH GOBLIN - GOBLIN PLUSH TRINKET
 TRASH RALLY
 TRASH SORTER SIMULATOR
+TRASH WARS
 TRASHBASHER
 TRASHBASHERTRASHBASHER
 TRASHRALLY
@@ -97576,6 +97688,7 @@ The Dome Software
 The Dome Software Developments
 The Donut Gallery
 The Doomed Knight
+The Door Factory
 The Down Below
 The Dragon and the Sword
 The Drawstring Dungeon
@@ -97875,6 +97988,7 @@ The Last Ski Trip
 The Last Spell
 The Last Spell   Tales of Torment
 The Last Spell - Tales of Torment
+The Last Stand Legacy Collection
 The Last Star Walker   Season 1
 The Last Star Walker - Season 1
 The Last Starship
@@ -98594,6 +98708,7 @@ TheDomeSoftware
 TheDomeSoftwareDevelopments
 TheDonutGallery
 TheDoomedKnight
+TheDoorFactory
 TheDownBelow
 TheDragonandtheSword
 TheDrawstringDungeon
@@ -98869,6 +98984,7 @@ TheLastShores
 TheLastSkiTrip
 TheLastSpell
 TheLastSpell-TalesofTorment
+TheLastStandLegacyCollection
 TheLastStarWalker-Season1
 TheLastStarship
 TheLastStrand
@@ -100211,9 +100327,11 @@ TonyLaRussa
 TonyLaRussaBaseball
 Tonya
 Too Hot to Be True Demo
+Too Many Balls
 Too Many Bots
 Too Many Toys!
 TooHottoBeTrueDemo
+TooManyBalls
 TooManyBots
 TooManyToys!
 Tooie
@@ -100795,6 +100913,7 @@ Trash Goblin   Goblin Plush Trinket
 Trash Goblin - Goblin Plush Trinket
 Trash Rally
 Trash Sorter Simulator
+Trash Wars
 TrashBasher
 TrashBasherTrashBasher
 TrashCollectorSimulator:SurviveEdition
@@ -100802,6 +100921,7 @@ TrashGoblin
 TrashGoblin-GoblinPlushTrinket
 TrashRally
 TrashSorterSimulator
+TrashWars
 Trasmoz Legends Soundtrack
 TrasmozLegendsSoundtrack
 Traucmahr
@@ -101724,6 +101844,7 @@ UNEXPECTEDDEVELOPMENT
 UNFAIR CORNERS
 UNFAIR WAR: SURVIVORS
 UNFAIR WAR: SURVIVORS DEMO
+UNFOLD FLOWER
 UNFORGETTABLE LOVE
 UNFOUND FOOTAGE
 UNHINGED PET STORE SIMULATOR
@@ -102227,6 +102348,8 @@ UnfAIrWar:Survivors
 UnfAIrWar:SurvivorsDemo
 Unfair Corners
 UnfairCorners
+Unfold Flower
+UnfoldFlower
 Unforgettable Love
 UnforgettableLove
 Unfound Footage
@@ -102714,7 +102837,10 @@ VELEZ&
 VELEZ&DUBAIL
 VELLUM
 VELO
+VELOCIDE DEMO
+VELOCIDE Demo
 VELOCIDE OVERDRIVE
+VELOCIDEDemo
 VELOCITY ONE
 VELOCITY RIDERS
 VELORIA: THE KNOT OF CANDLES
@@ -104557,6 +104683,7 @@ WARIOWAREINC
 WARLOCK SURVIVORS
 WARLORDS
 WARLORDS BATTLEGROUND: EXTRACTION
+WARM
 WARMONGERS
 WARNER
 WARNER BROS
@@ -105940,6 +106067,7 @@ WarlockSurvivors
 Warlords
 Warlords Battleground: Extraction
 WarlordsBattleground:Extraction
+Warm
 Warmongers
 Warner
 Warner Bros
@@ -111545,6 +111673,7 @@ asylum
 asylum entertainment
 asylumentertainment
 at
+at face value
 at my best friend's house
 at night: the nurse
 at night: the student
@@ -111697,6 +111826,7 @@ auermedia&
 auermedia&entertainment
 augment anthem
 augmented fear
+augmented yut
 augustus
 augustus sinclair
 augustussinclair
@@ -113219,6 +113349,7 @@ bioshock
 biospark
 biosparkbiospark
 biotype
+biovoid
 bioware
 bioysque
 bip
@@ -113338,6 +113469,7 @@ black gold - shining town
 black hole
 black hole entertainment
 black hole fishing
+black hole grow forever
 black hole: farmageddon
 black isle
 black isle studios
@@ -114121,6 +114253,7 @@ bouncy ball
 bouncy bouncy
 bouncybouncy
 bound between desks
+bound by destiny
 bounder
 bounder bounder
 bounderbounder
@@ -115171,6 +115304,7 @@ capybaragames
 capyvarias
 capyvarias soundtrack
 car
+car club tuning storm
 car dealer simulator
 car mechanic
 car mechanic simulator
@@ -115492,6 +115626,7 @@ cats visiting el dorado
 cats visiting fairy tales
 cats vs rats
 cats vs trolls
+catskill mine: 10,000ft below
 catspawn
 catspawnegg
 cattle
@@ -116014,6 +116149,7 @@ chiki
 chiki chiki boys
 chikichikiboys
 chikura
+childhood slots
 children of morta
 children's
 children's computer
@@ -118729,6 +118865,7 @@ dead in your trackz
 dead island
 dead island 2
 dead man's gulch
+dead margin
 dead matrix chamber
 dead night highway
 dead oil
@@ -118793,6 +118930,7 @@ dean
 dean winchell
 deanima
 deanwinchell
+dear journey...
 dear lighthouse
 dear me, i was...
 dear mirror flower
@@ -118803,6 +118941,7 @@ death and taxes
 death burger
 death by scrolling
 death by taxes demo
+death counter demo
 death end re;quest: code z
 death game hotel - story mode & avatar set
 death in a party - act i
@@ -119411,6 +119550,7 @@ devolverdigital
 devoreuse
 devose
 devsisters
+dewdrop
 dewitt
 dexperience
 dexpérience
@@ -119778,6 +119918,7 @@ disc dungeon
 disc golf
 disc golf city
 discard all hope - demo
+discipline simulator
 disco
 disconnect 2
 discord bot engine
@@ -119872,6 +120013,7 @@ division
 dixie
 dixie kong
 dixiekong
+diy dadish
 dizm
 dizm entertainment
 dizmentertainment
@@ -122227,6 +122369,7 @@ eternaldarkness
 eternally departed
 eternitubes 3d
 eternity egg
+eternity lost: mystery of aurum collector's edition
 eterspire
 ethan
 ethan winters
@@ -122785,6 +122928,7 @@ fap feets
 fapout 69 ☢️
 far
 far cry
+far cry® 6
 far far west
 far fishing
 far from dead - demo ver. -
@@ -128293,6 +128437,7 @@ i was reborn in a fantasy world with a cock as long as the name of this game!
 i will never fall for my tsundere classmate, so i will just date a background character instead!
 i will purify you
 i wish i had never gone into the dungeon
+i wish you weren't here
 i woke up in the house of a fat man: he's over 30 years old and loves beer and games
 i write games not tragedies
 i'd kill you as a worm
@@ -128482,6 +128627,7 @@ ideaworks3d
 ideaworks3d!
 ideaworksgame
 ideaworksgamestudio
+idel cavity inc.
 idel world
 idelworld
 idiom royale
@@ -131451,6 +131597,7 @@ kweena
 kweena quen
 kweenaquen
 kyburz
+kyc: k stands for killing demo
 kydos
 kydos studio
 kydosstudio
@@ -137270,6 +137417,7 @@ need for speed™ heat
 need: no end
 needfor
 needforspeed
+needle in a haystack - a time for goats
 neelsen
 nefarian
 nefarious
@@ -137356,6 +137504,7 @@ neon abyss
 neon angora: the cabaret club
 neon block
 neon bullet
+neon city legends
 neon cruisers
 neon digital
 neon divide
@@ -137652,6 +137801,7 @@ nigel weir
 nigelthornhill
 nigelweir
 night
+night alley : ตรอกลวง ดวงดับ
 night castle
 night clerk
 night grip
@@ -137662,6 +137812,7 @@ night maniac: the origin of steven
 night market simulator
 night of nightmare
 night of seven dreams
+night of the living bubble
 night of the oldbrand
 night of the stars
 night patrol rules
@@ -137671,6 +137822,7 @@ night shift
 night shift at nate's
 night shift at the gym
 night shift at the museum
+night shift: anomaly
 night swarm
 night swarm demo
 night terror
@@ -140708,6 +140860,7 @@ pillager
 pillager spawn
 pillager spawn egg
 pillager_spawn_egg
+pillagers: the poisoned throne
 pillagerspawn
 pillagerspawnegg
 pillar of knight
@@ -140852,6 +141005,7 @@ pivotalgames
 pix eliz great trilogy
 pixark
 pixel
+pixel blackjack  -  二十一点
 pixel blue
 pixel bonfire (desktop mascot)
 pixel canyon
@@ -144590,6 +144744,7 @@ sakura kasugano
 sakura succubus 10
 sakura tsuchiya
 sakura wars
+sakura: the eternal night
 sakurakasugano
 sakuratsuchiya
 sakurawars
@@ -145098,6 +145253,7 @@ screensaver idle
 screenside station
 screenwolf
 screeps: arena
+screw it
 screwball
 scribble bots
 scribble hunt
@@ -145480,6 +145636,7 @@ serrano
 serre
 servant of the lake
 server farm idle
+server-admin simulator
 serveuse
 service
 service clientele
@@ -145788,6 +145945,7 @@ shelf by shelf: bookstore simulator
 shelf happens
 shelke
 shell
+shell inside
 shell of a king
 shellborne
 shelldiver
@@ -146564,6 +146722,7 @@ slant six
 slant six games
 slantsix
 slantsixgames
+slap the gamer
 slaparoo
 slappingrot
 slapstick bosses
@@ -146633,6 +146792,7 @@ slime store simulator
 slime survivors
 slime tales
 slime tower
+slime trader
 slime wars
 slime way
 slime world
@@ -146846,6 +147006,7 @@ snowboard kids
 snowboarding
 snowboardkids
 snowbrothers
+snowdesktop
 snowdrift
 snowdrop and the four sisters
 snowed under | 雪葬
@@ -147031,6 +147192,7 @@ some assembly required
 some company
 some: the house
 somebody's ramyeon shop
+somebody's tale
 somecompany
 someday youll get there(언젠가는 도착해)
 someone creepy
@@ -147549,6 +147711,7 @@ spinnaker
 spinni
 spinni spinni
 spinnispinni
+spinnopoly
 spiral
 spiral house
 spiral strike
@@ -150282,6 +150445,7 @@ the dome software
 the dome software developments
 the donut gallery
 the doomed knight
+the door factory
 the double
 the down below
 the dragon and the sword
@@ -150582,6 +150746,7 @@ the last shores
 the last ski trip
 the last spell
 the last spell - tales of torment
+the last stand legacy collection
 the last star walker - season 1
 the last starship
 the last strand
@@ -151957,6 +152122,7 @@ tonyhawksproskater2
 tonylarussa
 tonylarussabaseball
 too hot to be true demo
+too many balls
 too many bots
 too many toys!
 tooie
@@ -152361,6 +152527,7 @@ trash goblin
 trash goblin - goblin plush trinket
 trash rally
 trash sorter simulator
+trash wars
 trashbasher
 trashbashertrashbasher
 trashrally
@@ -153149,6 +153316,7 @@ unexpecteddevelopment
 unfair corners
 unfair war: survivors
 unfair war: survivors demo
+unfold flower
 unforgettable love
 unfound footage
 unhinged pet store simulator
@@ -153576,6 +153744,7 @@ velez&
 velez&dubail
 vellum
 velo
+velocide demo
 velocide overdrive
 velocity one
 velocity riders
@@ -154421,6 +154590,7 @@ wariowareinc
 warlock survivors
 warlords
 warlords battleground: extraction
+warm
 warmongers
 warner
 warner bros
