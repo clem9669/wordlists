@@ -427,6 +427,7 @@
 2026 WINTER OLYMPICS ICE HOCKEY
 2026 winter olympics ice hockey
 2026winterolympicsicehockey
+2027
 2030
 20KM BRUSSEL
 20KM BRUXELLES
@@ -3796,6 +3797,7 @@ ASTRID LINDGREN
 ASTRID PANOSYAN-BOUVET
 ASTRID VAN NOORWEGEN
 ASTRID VEILLON
+ASTRID VON NORWEGEN
 ASTRO BOT
 ASTRO BOT PS5
 ASTROLOGIE
@@ -9709,6 +9711,7 @@ BERGHEIM
 BERGHUIS
 BERGRENNEN HEMBERG
 BERGRENNEN OBERHALLAU
+BERGRETTUNG
 BERGS
 BERGSTURZ
 BERGSTURZ BRIENZ GR
@@ -38586,6 +38589,7 @@ HUNTINGDON
 HUNTINGTON
 HURGHADA
 HURKACZ
+HURRIKAN
 HURRIKAN GABRIELLE
 HURRIKAN KARIBIK
 HURRIKAN MELISSA
@@ -40376,6 +40380,7 @@ INTERNATIONALE VROUWENDAG
 INTERNATIONALE VROUWENDAG 2022
 INTERNATIONALE VROUWENDAG 2025
 INTERNATIONALER FRAUENTAG
+INTERNAZIONALE
 INTERNET EXPLORER
 INTERNET PROXIMUS PANNE
 INTERPOL
@@ -49118,6 +49123,7 @@ LANDY RAPPEUR
 LANESTER
 LANGDURIG ZIEKEN
 LANGE LEEMSTRAAT ANTWERPEN
+LANGENTHAL
 LANGLAUFZENTRUM GANTRISCH
 LANGNAU AM ALBIS
 LANGRES
@@ -50131,6 +50137,7 @@ LIBYE – CAP-VERT
 LIBYEN UNWETTER
 LIBYEN ÜBERSCHWEMMUNGEN
 LIBÉRATION
+LICENCIEMENT
 LICENCIEMENT PASS SANITAIRE
 LICENCIEMENTS AMAZON
 LICENZIAMENTO
@@ -51177,6 +51184,7 @@ LYCEE TOULOUSE-LAUTREC
 LYCEEN MORT LILLE BAC
 LYCÉE MONTAIGNE BORDEAUX
 LYDIA
+LYDIA BOUCHARD
 LYDIA PEETERS
 LYDIE LOGÉ
 LYES LOUFFOK
@@ -63923,6 +63931,7 @@ NOTVORRAT SCHWEIZ
 NOUHAILA BENZINA
 NOUREDDINE FARIHI
 NOURI
+NOURRISSON
 NOUS FINIRONS ENSEMBLE
 NOUS, LES LEROY
 NOUSSAIR MAZRAOUI
@@ -67420,6 +67429,7 @@ PAGER
 PAGNOL
 PAHALGAM ATTACK
 PAIDE LINNAMEESKOND
+PAIEMENT
 PAIPORTA
 PAIRI DAIZA
 PAK VS SA
@@ -68584,6 +68594,7 @@ PIETER SERRY
 PIETER TIMMERS
 PIETER VERELST
 PIETERMAN
+PIETON
 PIETRO GENUARDI
 PIETRO LOMBARDI
 PIETRO PAROLIN
@@ -68681,6 +68692,7 @@ PIZOL
 PIZOL SKIGEBIET
 PIZZA
 PIZZA BUITONI
+PIÉTON
 PIÑERA
 PJANIC
 PKK
@@ -77542,6 +77554,7 @@ SAINT-AMAND-MONTROND
 SAINT-ANTOINE
 SAINT-BLAISE
 SAINT-BREVIN-LES-PINS
+SAINT-BRIEUC
 SAINT-CIRQ-LAPOPIE
 SAINT-DENIS
 SAINT-DIZIER
@@ -79786,6 +79799,7 @@ STAATSLOTERIJ
 STABHOCHSPRUNG
 STABHOCHSPRUNG WELTREKORD
 STACEY WILLIAMS
+STADE
 STADE BREST – LEVERKUSEN
 STADE BRESTOIS
 STADE DE FRANCE
@@ -85209,6 +85223,7 @@ TAUX LIVRETS EPARGNE 2026
 TAUX LIVRETS ÉPARGNE 2026
 TAWFIK BENTAYEB
 TAX-ON-WEB
+TAXE
 TAXE D'HABITATION
 TAXE FONCIERE 2023
 TAXE FONCIERE 2024
@@ -91313,6 +91328,7 @@ VERDICT JOHNNY DEPP
 VERENA OFARIM
 VERENA STEINER
 VERENIGD KONINKRIJK
+VERENIGD RUSLAND
 VERENIGDE STATEN
 VERETOUT
 VERHAFTUNG
@@ -93696,6 +93712,7 @@ WESTMINSTER ABBEY
 WESTMINSTER HALL
 WESTROZEBEKE
 WESTWORLD
+WETENSCHAP
 WETENSCHAPPERS ONTDEKKEN NIEUWE KLEUR
 WETRANSFER
 WETTBEWERBSKOMMISSION
@@ -95823,6 +95840,7 @@ ZEE
 ZEEAREND
 ZEEDZ
 ZEEKR
+ZEELAND
 ZEIT
 ZEITFAHREN OLYMPIA
 ZEITUMSTELLUNG
@@ -95949,6 +95967,7 @@ ZODIAC KILLER
 ZODIAC ZWEMBAD
 ZODIAC-KILLER
 ZODIAC-ZWEMBAD
+ZODIAQUE
 ZOE BACKSTEDT
 ZOE CLAESSENS
 ZOE CRISTOFOLI
@@ -96021,6 +96040,7 @@ ZUG ENTGLEIST BERN
 ZUGER HERBSTMESSE
 ZUGER KANTONALES SCHWINGFEST 2023
 ZUGER ZEITUNG
+ZUGSPITZE
 ZUGUNGLUCK DANEMARK
 ZUGUNGLUCK SPANIEN
 ZUGUNGLUCK TSCHECHIEN
@@ -100224,10 +100244,12 @@ astrid panosyan-bouvet
 astrid panosyanbouvet
 astrid van noorwegen
 astrid veillon
+astrid von norwegen
 astriddebelgique
 astridpanosyan-bouvet
 astridvannoorwegen
 astridveillon
+astridvonnorwegen
 astro bot
 astro bot ps5
 astrologie
@@ -102178,6 +102200,7 @@ bergheim
 berghuis
 bergrennen hemberg
 bergrennen oberhallau
+bergrettung
 bergs
 bergsturz
 bergsturz brienz gr
@@ -118040,6 +118063,7 @@ huntingdon
 huntington
 hurghada
 hurkacz
+hurrikan
 hurrikan gabrielle
 hurrikan karibik
 hurrikan melissa
@@ -118911,6 +118935,7 @@ internationale vrouwendag 2022
 internationale vrouwendag 2025
 internationaler frauentag
 internationalevrouwendag2025
+internazionale
 internet explorer
 internet proximus panne
 internetproximuspanne
@@ -123410,6 +123435,7 @@ lanester
 langdurig zieken
 langdurigzieken
 lange leemstraat antwerpen
+langenthal
 langlaufzentrum gantrisch
 langnau am albis
 langnauamalbis
@@ -124754,6 +124780,7 @@ libyen unwetter
 libyen überschwemmungen
 libye–cap-vert
 libération
+licenciement
 licenciement pass sanitaire
 licenciements amazon
 licenziamento
@@ -126063,7 +126090,9 @@ lyceen mort lille bac
 lycée montaigne bordeaux
 lycéemontaignebordeaux
 lydia
+lydia bouchard
 lydia peeters
+lydiabouchard
 lydie logé
 lyes louffok
 lykke li
@@ -131159,6 +131188,7 @@ nice-marseille
 nice-matin
 nice-monaco
 nicelille
+nicematin
 niceparisfc
 nice–angers
 nice–monaco
@@ -131760,6 +131790,7 @@ noubliez pas les paroles !
 nouhaila benzina
 noureddine farihi
 nouri
+nourrisson
 nous finirons ensemble
 nous, les leroy
 noussair mazraoui
@@ -132940,6 +132971,7 @@ pagnol
 pahalgam attack
 pahalgamattack
 paide linnameeskond
+paiement
 paiporta
 pairi daiza
 pairidaiza
@@ -134387,6 +134419,7 @@ pieter verelst
 pieteraerts
 pieterloose
 pieterman
+pieton
 pietro genuardi
 pietro lombardi
 pietro parolin
@@ -134514,6 +134547,7 @@ pizol
 pizol skigebiet
 pizza
 pizza buitoni
+piéton
 piñera
 pjanic
 pkk
@@ -137594,6 +137628,7 @@ rolandgarros2026direct
 rolandgarroslive
 rolandkaiser
 rolandleitinger
+rolandlescure
 rolandmagdane
 rolex
 rolex carl f. bucherer
@@ -138409,6 +138444,7 @@ saint-amand-montrond
 saint-antoine
 saint-blaise
 saint-brevin-les-pins
+saint-brieuc
 saint-cirq-lapopie
 saint-denis
 saint-dizier
@@ -141164,6 +141200,7 @@ staatsloterij
 stabhochsprung
 stabhochsprung weltrekord
 stacey williams
+stade
 stade brest – leverkusen
 stade brestois
 stade de france
@@ -142751,6 +142788,7 @@ tauxlivretsépargne2026
 tawfik bentayeb
 tawfikbentayeb
 tax-on-web
+taxe
 taxe d'habitation
 taxe fonciere 2023
 taxe fonciere 2024
@@ -146255,9 +146293,11 @@ verena steiner
 verenaofarim
 verenasteiner
 verenigd koninkrijk
+verenigd rusland
 verenigde staten
 verenigdestaten
 verenigdkoninkrijk
+verenigdrusland
 veretout
 verhaftung
 verkeer
@@ -147723,6 +147763,7 @@ westminster hall
 westnilvirussardinien
 westrozebeke
 westworld
+wetenschap
 wetenschappers ontdekken nieuwe kleur
 wetenschappersontdekkennieuwekleur
 wetransfer
@@ -148656,6 +148697,7 @@ zee
 zeearend
 zeedz
 zeekr
+zeeland
 zeit
 zeitfahren olympia
 zeitumstellung
@@ -148801,6 +148843,7 @@ zodiac killer
 zodiac zwembad
 zodiac-killer
 zodiac-zwembad
+zodiaque
 zoe backstedt
 zoe claessens
 zoe cristofoli
@@ -148893,6 +148936,7 @@ zuger herbstmesse
 zuger kantonales schwingfest 2023
 zuger zeitung
 zugerzeitung
+zugspitze
 zugungluck danemark
 zugungluck spanien
 zugungluck tschechien
