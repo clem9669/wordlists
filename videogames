@@ -1698,6 +1698,7 @@
 ???4649(Office4649)
 ???:??
 ???:???
+???:????
 ???:????? Demo
 ???:??????
 ???:????????,??????
@@ -1862,6 +1863,7 @@
 ???????
 ??????? - Demonic Mahjong
 ??????? 44 Hidden Naomis
+??????? : Edo Village Nightmare
 ??????? ?????!2
 ??????? ???????????? in ???????
 ??????? LoveLife of QingLan Island
@@ -2988,6 +2990,7 @@ AIDeskPet
 AIDesktopPet
 AIFACTORY
 AIFactory
+AIGENROBO
 AIGUILLON
 AIGUILLON SAUVAGE
 AIGUILLONSAUVAGE
@@ -8433,6 +8436,7 @@ BAINESABOTDESANG
 BAIT   TACKLE STORE SIMULATOR
 BAIT & TACKLE
 BAIT & TACKLE STORE SIMULATOR
+BAIT SOUL
 BAIT&TACKLESTORESIMULATOR
 BAITO FIGHT!!: PART-TIME DEVIL HUNTER
 BAJKA
@@ -9062,11 +9066,13 @@ BEASTMAN
 BEASTS OF FORTUNE
 BEAT
 BEAT BOUNCE – MARBLE MUSIC BALL VIDEO CREATOR
+BEAT BOXY
 BEAT DODGER
 BEAT OF REBELLION
 BEAT PAWS ODYSSEY
 BEAT PET
 BEAT QUEST
+BEAT SABER
 BEAT SLICER
 BEAT THE BEATS VR
 BEAT TOKYO WITH JIMOTOISM
@@ -9329,6 +9335,7 @@ BEST
 BEST FRIENDS
 BEST MEDIA
 BEST SERVED COLD
+BEST SLIME OF MY LIFE
 BEST WAY
 BESTGAMEEVER
 BESTIA FORGE
@@ -9975,6 +9982,7 @@ BLITZ ARCADE
 BLITZ GAME
 BLITZ GAMES
 BLITZ HAUL
+BLITZ JONG
 BLITZARCADE
 BLITZGAME
 BLITZGAMES
@@ -11468,7 +11476,9 @@ BaineSabot-de-sang
 BaineSabotdesang
 Bait   Tackle
 Bait & Tackle
+Bait Soul
 Bait&Tackle
+BaitSoul
 Baito Fight!!: Part time Devil Hunter
 Baito Fight!!: Part-time Devil Hunter
 BaitoFight!!:Part-timeDevilHunter
@@ -12108,15 +12118,18 @@ BeastsofFortune
 Beat
 Beat Bounce - Marble Music Ball Video Creator
 Beat Bounce – Marble Music Ball Video Creator
+Beat Boxy
 Beat Dodger
 Beat Paws Odyssey
 Beat Pet
 Beat Quest
+Beat Saber
 Beat Slicer
 Beat Tokyo with Jimotoism
 Beat of Rebellion
 Beat the Beats VR
 BeatBounce–MarbleMusicBallVideoCreator
+BeatBoxy
 BeatChip  95
 BeatChip '95
 BeatChip'95
@@ -12124,6 +12137,7 @@ BeatDodger
 BeatPawsOdyssey
 BeatPet
 BeatQuest
+BeatSaber
 BeatSlicer
 BeatTokyowithJimotoism
 Beat\'em\'All
@@ -12444,11 +12458,13 @@ Best
 Best Friends
 Best Media
 Best Served Cold
+Best Slime of my Life
 Best Way
 BestFriends
 BestGameEver
 BestMedia
 BestServedCold
+BestSlimeofmyLife
 BestWay
 Bestia Forge
 BestiaForge
@@ -13206,10 +13222,12 @@ Blitz Arcade
 Blitz Game
 Blitz Games
 Blitz Haul
+Blitz Jong
 BlitzArcade
 BlitzGame
 BlitzGames
 BlitzHaul
+BlitzJong
 Blitzkrieg Express
 BlitzkriegExpress
 Blitzstrike
@@ -17117,9 +17135,12 @@ CONTRACTVILLE
 CONTRAINDICATION DIGITAL ARTBOOK
 CONTREBANDIER
 CONTROL
+CONTROL RESONANT
+CONTROL Resonant
 CONTROL ULTIMATE EDITION
 CONTROLE
 CONTROLLERMETA
+CONTROLResonant
 CONTRÔLE
 CONUNDRUM
 CONVENT CHRONICLES: REVELATION
@@ -23566,6 +23587,7 @@ DESK PAWS
 DESK TOP RACER
 DESKBLOOM
 DESKCAT
+DESKFAMILIAR
 DESKIE
 DESKLAYER
 DESKTANK
@@ -26730,6 +26752,7 @@ Desk Kanojo
 Desk Paws
 Desk Top Racer
 DeskBloom
+DeskFamiliar
 DeskGarden
 DeskKanojo
 DeskLayer
@@ -29264,6 +29287,7 @@ EBENEZERVONCLUTCH
 EBIFRYER
 EBIFRYER EBIFRYER
 EBIFRYEREBIFRYER
+EBITAPES
 EBIVISION
 EBOLA VILLAGE
 EBOLAVILLAGE
@@ -29867,7 +29891,10 @@ EMMA'S UMBRELLA
 EMMAKLIESEN
 EMME
 EMOJI CATCHER
+EMOJI JACKPOT: WORD FINDER
+EMOJI JACKPOT: Word Finder
 EMOJIFICATION
+EMOJIJACKPOT:WordFinder
 EMOTELAB
 EMOTION
 EMOTIONAL
@@ -30808,6 +30835,7 @@ EattheRich:GreedGames
 Ebenezer
 Ebenezer Von Clutch
 EbenezerVonClutch
+EbiTapes
 Ebifryer
 Ebifryer Ebifryer
 EbifryerEbifryer
@@ -33658,6 +33686,7 @@ FLUTTER
 FLUTTERING
 FLUXIS
 FLUXKEEP
+FLUXWERKS
 FLY
 FLY HARD
 FLY OVER! 100KM! MOUNTAINS!
@@ -34232,6 +34261,7 @@ FRUIT
 FRUIT CASKET
 FRUIT DREAM
 FRUIT FUSION!
+FRUIT GOLF
 FRUIT MOUNTAIN PARTY
 FRUIT SNAKE ARENA
 FRUIT VS. ALIENS
@@ -34277,6 +34307,7 @@ FUEL
 FUEL GAMES
 FUEL HARVEST TOGETHER
 FUEL STATION SIMULATOR
+FUEL UP
 FUELGAMES
 FUERTE
 FUGA: MELODIES OF STEEL 3
@@ -35971,6 +36002,7 @@ Flute of Gobelin
 FluteofGobelin
 Flutter
 Fluttering
+FluxWerks
 Fluxkeep
 Fly
 Fly Hard
@@ -36703,6 +36735,7 @@ Fruit
 Fruit Casket
 Fruit Dream
 Fruit Fusion!
+Fruit Golf
 Fruit Mountain Party
 Fruit Snake Arena
 Fruit vs. Aliens
@@ -36711,6 +36744,7 @@ FruitDream
 FruitFall Catcher
 FruitFallCatcher
 FruitFusion!
+FruitGolf
 FruitMountainParty
 FruitSnakeArena
 Fruitgeddon
@@ -36751,9 +36785,11 @@ Fuel
 Fuel Games
 Fuel Harvest Together
 Fuel Station Simulator
+Fuel Up
 FuelGames
 FuelHarvestTogether
 FuelStationSimulator
+FuelUp
 Fuerte
 Fuga: Melodies of Steel 3
 Fuga:MelodiesofSteel3
@@ -42363,6 +42399,7 @@ HEROES OF THE SEVEN ISLANDS
 HEROES OF THE TRIANGLE: MASK RUSH
 HEROES UNHINGED
 HEROES' CALL - A CASUAL MMO GUILD SIM
+HEROES' VOW: THREE KINGDOMS
 HEROES:
 HEROES:TRAILSINTHESKY
 HEROES:TRAILSINTHESKYTHE
@@ -42653,6 +42690,7 @@ HITECHEXPRESSIONS
 HITECHPRODUCTIONS
 HITECSOFTWARE
 HITHURT
+HITLESS
 HITMAKER
 HITMAN
 HITMAN 2
@@ -44541,6 +44579,7 @@ HeroSiege
 HeroSquare
 Heroes
 Heroes  Call - A Casual MMO Guild Sim
+Heroes  Vow: Three Kingdoms
 Heroes Battle Awakening
 Heroes Of Might And Magic III
 Heroes Unhinged
@@ -44559,7 +44598,9 @@ Heroes of the Seven Islands
 Heroes of the Triangle: Mask Rush
 Heroes' Call   A Casual MMO Guild Sim
 Heroes' Call - A Casual MMO Guild Sim
+Heroes' Vow: Three Kingdoms
 Heroes'Call-ACasualMMOGuildSim
+Heroes'Vow:ThreeKingdoms
 Heroes:
 Heroes:TrailsintheSky
 Heroes:TrailsintheSkyThe
@@ -46928,6 +46969,7 @@ ISLAND LIFE WITH MAYALALA
 ISLAND MARKET SIMULATOR
 ISLAND MARKET SIMULATOR SOUNDTRACK
 ISLAND MARKET SIMULATOR: PROLOGUE
+ISLAND NTR SURVIVAL SS
 ISLAND OF CORRUPTION
 ISLAND OF ENCHANTMENT
 ISLAND OFF OUTER DARKNESS
@@ -48173,6 +48215,7 @@ Island Life With Mayalala
 Island Market Simulator
 Island Market Simulator Soundtrack
 Island Market Simulator: Prologue
+Island NTR Survival SS
 Island Of Enchantment
 Island Off Outer Darkness
 Island Paradise
@@ -48185,6 +48228,7 @@ IslandLifeWithMayalala
 IslandMarketSimulator
 IslandMarketSimulator:Prologue
 IslandMarketSimulatorSoundtrack
+IslandNTRSurvivalSS
 IslandOfEnchantment
 IslandOffOuterDarkness
 IslandParadise
@@ -57596,6 +57640,7 @@ MAGNA
 MAGNAT
 MAGNAVOX
 MAGNECUBE
+MAGNET
 MAGNET HUNT
 MAGNETIC
 MAGNETIC FIELDS
@@ -65822,6 +65867,7 @@ NINTENDOSNESSUPERFAMICOM
 NINTENDOWARS
 NINTENDOWORLDCUP
 NIOH 3
+NIOS
 NIPPETS
 NIPPON
 NIPPON DEXTER
@@ -66036,6 +66082,7 @@ NOMNOMIA
 NOMORE
 NOMOREHEROES
 NOMOREWORKFORITO
+NOMORI
 NOMSTERS
 NOMËN IPSA
 NON-VIRTUAL REALITY GAMES
@@ -66171,6 +66218,8 @@ NOW AVAILABLE ON LINUX!
 NOW LOADING
 NOW PRODUCTION
 NOW SHIPPING
+NOW SHOWING: A CINEMA PROGRAMMING GAME
+NOW SHOWING: A Cinema Programming Game
 NOW WITH STEAM WORKSHOP!
 NOWAY
 NOWAY STUDIO
@@ -66180,6 +66229,7 @@ NOWHERE PROPHET
 NOWHERE TO GO
 NOWPRO
 NOWPRODUCTION
+NOWSHOWING:ACinemaProgrammingGame
 NOX
 NOXCODE
 NOXCODE DEMO
@@ -67525,6 +67575,7 @@ Nomad Nightmare - Episode 1: Awakening
 NomadNightmare-Episode1:Awakening
 Nomen Ipsa
 Nomnomia
+Nomori
 Nomën Ipsa
 NomënIpsa
 Non Virtual Reality Games
@@ -68552,6 +68603,7 @@ ONE MORE 6IX
 ONE MORE BUTTON
 ONE MORE EXPERIMENT
 ONE MORE GEM
+ONE MORE PEARL!
 ONE MORE TRY: PROLOGUE
 ONE OF THE MANY
 ONE OF THOSE GAMES
@@ -69812,6 +69864,7 @@ One Man´s Trash Demo
 One More 6ix
 One More Button
 One More Experiment
+One More Pearl!
 One More Try: Prologue
 One Piece
 One Piece: Grand Battle Swan Colosseum
@@ -69852,6 +69905,7 @@ OneMan´sTrashDemo
 OneMore6ix
 OneMoreButton
 OneMoreExperiment
+OneMorePearl!
 OneMoreTry:Prologue
 OnePiece
 OnePiece:GrandBattleSwanColosseum
@@ -71897,6 +71951,7 @@ PIRANHAGAMES
 PIRANHAPLANT
 PIRARUCU'S MONEY RUSH
 PIRATE COVE SIMULATOR
+PIRATE GUY 2 NEW LAND
 PIRATE PATROL
 PIRATE PLATOON
 PIRATE'S BOOTY
@@ -72008,6 +72063,7 @@ PIZZA DELIVERY IN A STORM
 PIZZA EMPIRE
 PIZZA HOUSE SIMULATOR🍕
 PIZZA PANIC!
+PIZZA REVOLUTION
 PIZZA SHOP SIMULATOR
 PIZZACAT
 PIÑATA GO BOOM
@@ -74869,6 +74925,7 @@ Pirarucu s Money Rush
 Pirarucu's Money Rush
 Pirarucu'sMoneyRush
 Pirate Cove Simulator
+Pirate Guy 2 New Land
 Pirate Patrol
 Pirate Platoon
 Pirate s Booty
@@ -74879,6 +74936,7 @@ Pirate'sBooty
 Pirate'sDual
 PirateCoveSimulator
 PirateGate
+PirateGuy2NewLand
 PiratePatrol
 PiratePlatoon
 Pirates
@@ -75043,6 +75101,7 @@ Pizza Empire
 Pizza House Simulator?
 Pizza House Simulator🍕
 Pizza Panic!
+Pizza Revolution
 Pizza Shop Simulator
 Pizza at Resort 64
 PizzaCat
@@ -75050,6 +75109,7 @@ PizzaDeliveryinaStorm
 PizzaEmpire
 PizzaHouseSimulator🍕
 PizzaPanic!
+PizzaRevolution
 PizzaShopSimulator
 PizzaatResort64
 Piñata Go Boom
@@ -78436,6 +78496,7 @@ RIO
 RION'S TASKBAR MINE
 RIOT
 RIOT CONTROL SIMULATOR: ROOKIE DAY
+RIP
 RIP CURRENT
 RIP PARTY
 RIP Party
@@ -82395,6 +82456,7 @@ SCROLL OF TAIWU - EIGHT YEARS, ONE JOURNEY
 SCROLL OF TAIWU - GREEN HILLS REMAIN
 SCROLL OF TAIWU - THE TRANSMOGRIFYING CRICKET
 SCROLLS
+SCROLLS OF TORAH, PROPHETS & WRITINGS
 SCRONGLY
 SCRUB
 SCRUB DUDES
@@ -84763,6 +84825,7 @@ SPACE EMPIRES
 SPACE ENDS
 SPACE ENGINEERS - ECONOMY 2 PACK
 SPACE ENGINEERS: PROSPERITY PACK
+SPACE FISHING: VERTI-GO!
 SPACE FLEET LOGISTICS
 SPACE FORCE BARGAIN BIN
 SPACE GRUNTS: CHRONO SHARD
@@ -85530,6 +85593,7 @@ STEINER
 STEINMAN
 STELA BOSS
 STELABOSS
+STELLA SUPERNOVA: THE ASTRAL VALE
 STELLAR
 STELLAR ARCHIPELAGO
 STELLAR BLADE™
@@ -85885,6 +85949,7 @@ STUDIOLIVERPOOL
 STUDIOS
 STUDIOSIESTA
 STUDIOZERO
+STUDY ABROAD SIM
 STUDY TIME ANOMALY
 STUDY § STEADY
 STUDYX - SAVE GAME CODES & STUDY ANY SUBJECT
@@ -86404,6 +86469,7 @@ SURFACE BREAKER
 SURFERS CODE
 SURFSUP
 SURGEON SIMULATOR
+SURGEON SIMULATOR 2
 SURPRISINGLY FINE 2: WIND / WAVE
 SURREAL
 SURREAL SOFTWARE
@@ -87493,6 +87559,9 @@ ScrollOfTaiwu-GreenHillsRemain
 ScrollOfTaiwu-TheTransmogrifyingCricket
 ScrollofCards:DraftandAscend
 Scrolls
+Scrolls of Torah, Prophets   Writings
+Scrolls of Torah, Prophets & Writings
+ScrollsofTorah,Prophets&Writings
 Scrongly
 Scrub Dudes
 ScrubDudes
@@ -90302,6 +90371,8 @@ Space Ends
 Space Engineers   Economy 2 Pack
 Space Engineers - Economy 2 Pack
 Space Engineers: Prosperity Pack
+Space Fishing: Verti Go!
+Space Fishing: Verti-Go!
 Space Fleet Logistics
 Space Force Bargain Bin
 Space Grunts: Chrono Shard
@@ -90364,6 +90435,7 @@ SpaceEmpires
 SpaceEnds
 SpaceEngineers-Economy2Pack
 SpaceEngineers:ProsperityPack
+SpaceFishing:Verti-Go!
 SpaceFleetLogistics
 SpaceForceBargainBin
 SpaceGrunts:ChronoShard
@@ -91238,6 +91310,8 @@ Steep™
 Stefaon
 Steiner
 Steinman
+Stella Supernova: The Astral Vale
+StellaSupernova:TheAstralVale
 Stellar
 Stellar Archipelago
 Stellar Blade(TM)
@@ -91737,8 +91811,10 @@ StudioSystem:GuardianAngel-TheDocument
 StudioZero
 Studios
 Study ? Steady
+Study Abroad Sim
 Study Time Anomaly
 Study § Steady
+StudyAbroadSim
 StudyTimeAnomaly
 StudyX   Save Game Codes & Study Any Subject
 StudyX - Save Game Codes   Study Any Subject
@@ -92411,7 +92487,9 @@ Surfers Code
 SurfersCode
 SurfsUp
 Surgeon Simulator
+Surgeon Simulator 2
 SurgeonSimulator
+SurgeonSimulator2
 Surprisingly Fine 2: Wind / Wave
 SurprisinglyFine2:Wind/Wave
 Surreal
@@ -93525,6 +93603,7 @@ TELL ME OWL
 TELLTALE
 TELLTALE GAMES
 TELLTALEGAMES
+TELLY NO VISION DEMO
 TELSTAR
 TEMLEGEN: SYSTEM BREAKDOWN
 TEMPEST
@@ -93809,6 +93888,7 @@ THE APOTHECARY OF TRUBIZ
 THE APP
 THE APP FARM
 THE APPRENTICE
+THE ARCADE DEMO
 THE ARENA
 THE ART OF RA RA BOOM
 THE ART OF REFLECTION
@@ -93986,6 +94066,7 @@ THE DOME
 THE DOME SOFTWARE
 THE DOME SOFTWARE DEVELOPMENTS
 THE DONUT GALLERY
+THE DOOMED DRAW (大凶)
 THE DOOMED KNIGHT
 THE DOOR FACTORY
 THE DOUBLE
@@ -94141,6 +94222,7 @@ THE GRAND
 THE GRAND MASTER
 THE GRANDFATHER
 THE GRASS REAPER
+THE GRAVE DEAL
 THE GRAY-CROWNED REINCARNATE
 THE GREAT AMERICAN CROSS COUNTRY ROAD RACE
 THE GREAT ESCAPE
@@ -94512,6 +94594,7 @@ THE PHOENIX GENE VR
 THE PHYSICAL
 THE PIGMENT
 THE PINKMAN FILES
+THE PIPER OF DAWN
 THE PISSING GAME
 THE PIVOT OF TAO – SIX FALLS
 THE PIXOTRON 49
@@ -96028,6 +96111,7 @@ TRAGIDLE
 TRAIL OF GODS: THE CURSED ISLAND
 TRAIL OF STARS
 TRAILKEEPER
+TRAILRUSH
 TRAILS
 TRAILS IN THE SKY
 TRAILS IN THE SKY 1ST CHAPTER
@@ -97416,6 +97500,8 @@ TellMeOwl
 Telltale
 Telltale Games
 TelltaleGames
+Telly No Vision Demo
+TellyNoVisionDemo
 Telstar
 Temlegen: System Breakdown
 Temlegen:SystemBreakdown
@@ -97775,6 +97861,7 @@ The Apothecary of Trubiz
 The App
 The App Farm
 The Apprentice
+The Arcade Demo
 The Arena
 The Art of Ra Ra BOOM
 The Art of Reflection
@@ -97960,6 +98047,9 @@ The Dome
 The Dome Software
 The Dome Software Developments
 The Donut Gallery
+The Doomed Draw  大凶 
+The Doomed Draw (??)
+The Doomed Draw (大凶)
 The Doomed Knight
 The Door Factory
 The Down Below
@@ -98098,6 +98188,7 @@ The Grand
 The Grand Master
 The Grandfather
 The Grass Reaper
+The Grave Deal
 The Gray Crowned Reincarnate
 The Gray-Crowned Reincarnate
 The Great American Cross Country Road Race
@@ -98468,6 +98559,7 @@ The Phoenix Gene VR
 The Physical
 The Pigment
 The Pinkman Files
+The Piper of Dawn
 The Pissing Game
 The Pivot of Tao - Six Falls
 The Pivot of Tao – Six Falls
@@ -98811,6 +98903,7 @@ TheApothecaryofTrubiz
 TheApp
 TheAppFarm
 TheApprentice
+TheArcadeDemo
 TheArena
 TheArtifactProtocol
 TheArtifactory
@@ -98984,6 +99077,7 @@ TheDome
 TheDomeSoftware
 TheDomeSoftwareDevelopments
 TheDonutGallery
+TheDoomedDraw(大凶)
 TheDoomedKnight
 TheDoorFactory
 TheDownBelow
@@ -99113,6 +99207,7 @@ TheGrand
 TheGrandMaster
 TheGrandfather
 TheGrassReaper
+TheGraveDeal
 TheGray-CrownedReincarnate
 TheGreatAmericanCrossCountryRoadRace
 TheGreatEscape
@@ -99448,6 +99543,7 @@ ThePhoenixGeneVR
 ThePhysical
 ThePigment
 ThePinkmanFiles
+ThePiperofDawn
 ThePissingGame
 ThePivotofTao–SixFalls
 ThePixotron49
@@ -101023,6 +101119,7 @@ TrafficRivals:1v1Duels
 Tragidle
 Trail of Gods: The Cursed Island
 Trail of Stars
+TrailRush
 Trailkeeper
 TrailofGods:TheCursedIsland
 TrailofStars
@@ -102089,6 +102186,7 @@ UNCLE NOOK'S SURVIVORS
 UNCLE OTTO'S MANSION
 UNCLEAN WATER
 UNCLEOFFICE:UNCLE DATING SIMULATOR
+UNCLES
 UNDEAD FORTRESS
 UNDEAD KINGDOM SURVIVORS
 UNDEAD TIDE: LIGHT'S DEFENSE
@@ -102157,6 +102255,8 @@ UNICYCLE TOGETHER
 UNIDENTIFIED FELINE OBLITERATORS
 UNIHORN
 UNINVITED: SECURITY SERVICE
+UNION MAX
+UNION MAX GUIDEBOOK
 UNION OF GNOMES
 UNIPACC
 UNIPOST
@@ -102574,6 +102674,7 @@ UncleOffice:uncleDatingSimulator
 UncleOtto'sMansion
 Unclean Water
 UncleanWater
+Uncles
 Undead Fortress
 Undead Kingdom Survivors
 Undead Tide: Light s Defense
@@ -102665,7 +102766,11 @@ UnidentifiedFelineObliterators
 Unihorn
 Uninvited: Security Service
 Uninvited:SecurityService
+Union Max
+Union Max Guidebook
 Union of Gnomes
+UnionMax
+UnionMaxGuidebook
 UnionofGnomes
 Unique
 Unit
@@ -105255,6 +105360,7 @@ WELCOME TO PLANET E1D0R4D0!
 WELCOME TO THE DARK PLACE
 WELCOME TO THE SHAREHOUSE! ~ DOMESTIC LIFE WITH THREE CUTE GIRLS~
 WELL
+WELL DWELLER
 WELOVEKATAMARI
 WEREHOUSE
 WEREWOLF PARTY
@@ -106689,6 +106795,8 @@ WelcometoFreeWill-CompleteEdition
 WelcometoPlanetE1d0r4d0!
 WelcometotheSharehouse!~domesticlifewiththreecutegirls~
 Well
+Well Dweller
+WellDweller
 Weneedadoorman.Demo
 Werehouse
 Werewolf Party
@@ -110353,6 +110461,7 @@ aicomcorporation
 aicomi
 aideen
 aifactory
+aigenrobo
 aiguillon
 aiguillon sauvage
 aiguillonsauvage
@@ -112532,6 +112641,7 @@ bainesabot-de-sang
 bainesabotdesang
 bait & tackle
 bait & tackle store simulator
+bait soul
 baito fight!!: part-time devil hunter
 bajka
 bajoue
@@ -113120,11 +113230,13 @@ beastman
 beasts of fortune
 beat
 beat bounce – marble music ball video creator
+beat boxy
 beat dodger
 beat of rebellion
 beat paws odyssey
 beat pet
 beat quest
+beat saber
 beat slicer
 beat the beats vr
 beat tokyo with jimotoism
@@ -113386,6 +113498,7 @@ best
 best friends
 best media
 best served cold
+best slime of my life
 best way
 bestgameever
 bestia forge
@@ -114014,6 +114127,7 @@ blitz arcade
 blitz game
 blitz games
 blitz haul
+blitz jong
 blitzarcade
 blitzgame
 blitzgames
@@ -117526,6 +117640,7 @@ contractville
 contraindication digital artbook
 contrebandier
 control
+control resonant
 control ultimate edition
 controle
 controllermeta
@@ -119688,6 +119803,7 @@ desk paws
 desk top racer
 deskbloom
 deskcat
+deskfamiliar
 deskie
 desklayer
 desktank
@@ -121628,6 +121744,7 @@ ebenezervonclutch
 ebifryer
 ebifryer ebifryer
 ebifryerebifryer
+ebitapes
 ebivision
 ebola village
 ebon crucible
@@ -122194,6 +122311,7 @@ emma's umbrella
 emmakliesen
 emme
 emoji catcher
+emoji jackpot: word finder
 emojification
 emotelab
 emotion
@@ -124127,6 +124245,7 @@ flutter
 fluttering
 fluxis
 fluxkeep
+fluxwerks
 fly
 fly hard
 fly over! 100km! mountains!
@@ -124682,6 +124801,7 @@ fruit
 fruit casket
 fruit dream
 fruit fusion!
+fruit golf
 fruit mountain party
 fruit snake arena
 fruit vs. aliens
@@ -124720,6 +124840,7 @@ fuel
 fuel games
 fuel harvest together
 fuel station simulator
+fuel up
 fuelgames
 fuerte
 fuga: melodies of steel 3
@@ -127873,6 +127994,7 @@ heroes of the seven islands
 heroes of the triangle: mask rush
 heroes unhinged
 heroes' call - a casual mmo guild sim
+heroes' vow: three kingdoms
 heroes:
 heroes:trailsinthesky
 heroes:trailsintheskythe
@@ -128143,6 +128265,7 @@ hitechexpressions
 hitechproductions
 hitecsoftware
 hithurt
+hitless
 hitmaker
 hitman
 hitman 2
@@ -129863,6 +129986,7 @@ island life with mayalala
 island market simulator
 island market simulator soundtrack
 island market simulator: prologue
+island ntr survival ss
 island of corruption
 island of enchantment
 island off outer darkness
@@ -134347,6 +134471,7 @@ magna
 magnat
 magnavox
 magnecube
+magnet
 magnet hunt
 magnetic
 magnetic fields
@@ -138347,6 +138472,7 @@ nintendosnessuperfamicom
 nintendowars
 nintendoworldcup
 nioh 3
+nios
 nippets
 nippon
 nippon dexter
@@ -138549,6 +138675,7 @@ nomnom treasure hunt
 nomnomia
 nomore
 nomoreheroes
+nomori
 nomsters
 nomën ipsa
 non-virtual reality games
@@ -138681,6 +138808,7 @@ now available on linux!
 now loading
 now production
 now shipping
+now showing: a cinema programming game
 now with steam workshop!
 noway
 noway studio
@@ -139542,6 +139670,7 @@ one more 6ix
 one more button
 one more experiment
 one more gem
+one more pearl!
 one more try: prologue
 one of the many
 one of those games
@@ -141330,6 +141459,7 @@ piranhagames
 piranhaplant
 pirarucu's money rush
 pirate cove simulator
+pirate guy 2 new land
 pirate patrol
 pirate platoon
 pirate's booty
@@ -141442,6 +141572,7 @@ pizza delivery in a storm
 pizza empire
 pizza house simulator🍕
 pizza panic!
+pizza revolution
 pizza shop simulator
 pizzacat
 piñata go boom
@@ -144182,6 +144313,7 @@ rio
 rion's taskbar mine
 riot
 riot control simulator: rookie day
+rip
 rip current
 rip party
 ripoux
@@ -145647,6 +145779,7 @@ scroll of taiwu - eight years, one journey
 scroll of taiwu - green hills remain
 scroll of taiwu - the transmogrifying cricket
 scrolls
+scrolls of torah, prophets & writings
 scrongly
 scrub
 scrub dudes
@@ -147867,6 +148000,7 @@ space empires
 space ends
 space engineers - economy 2 pack
 space engineers: prosperity pack
+space fishing: verti-go!
 space fleet logistics
 space force bargain bin
 space grunts: chrono shard
@@ -148582,6 +148716,7 @@ stefaon
 steiner
 steinman
 stela boss
+stella supernova: the astral vale
 stellar
 stellar archipelago
 stellar blade™
@@ -148932,6 +149067,7 @@ studioliverpool
 studios
 studiosiesta
 studiozero
+study abroad sim
 study time anomaly
 study § steady
 studyx - save game codes & study any subject
@@ -149435,6 +149571,7 @@ surface breaker
 surfers code
 surfsup
 surgeon simulator
+surgeon simulator 2
 surprisingly fine 2: wind / wave
 surreal
 surreal software
@@ -150384,6 +150521,7 @@ tell me owl
 telltale
 telltale games
 telltalegames
+telly no vision demo
 telstar
 temlegen: system breakdown
 tempest
@@ -150660,6 +150798,7 @@ the apothecary of trubiz
 the app
 the app farm
 the apprentice
+the arcade demo
 the arena
 the art of Tortoise Walking
 the art of ra ra boom
@@ -150838,6 +150977,7 @@ the dome
 the dome software
 the dome software developments
 the donut gallery
+the doomed draw (大凶)
 the doomed knight
 the door factory
 the double
@@ -150983,6 +151123,7 @@ the grand
 the grand master
 the grandfather
 the grass reaper
+the grave deal
 the gray-crowned reincarnate
 the great american cross country road race
 the great escape
@@ -151350,6 +151491,7 @@ the phoenix gene vr
 the physical
 the pigment
 the pinkman files
+the piper of dawn
 the pissing game
 the pivot of tao – six falls
 the pixotron 49
@@ -152828,6 +152970,7 @@ tragidle
 trail of gods: the cursed island
 trail of stars
 trailkeeper
+trailrush
 trails
 trails in the sky
 trails in the sky 1st chapter
@@ -153677,6 +153820,7 @@ uncle nook's survivors
 uncle otto's mansion
 unclean water
 uncleoffice:uncle dating simulator
+uncles
 undead fortress
 undead kingdom survivors
 undead tide: light's defense
@@ -153741,6 +153885,8 @@ unicycle together
 unidentified feline obliterators
 unihorn
 uninvited: security service
+union max
+union max guidebook
 union of gnomes
 unipacc
 unipost
@@ -155240,6 +155386,7 @@ welcome to planet e1d0r4d0!
 welcome to the dark place
 welcome to the sharehouse! ~ domestic life with three cute girls~
 well
+well dweller
 welovekatamari
 werehouse
 werewolf party
@@ -157345,6 +157492,11 @@ zèbre
 她毕业了 So long, My Youth
 她毕业了 so long, my youth
 她毕业了Solong,MyYouth
+妹控计划
+姉妹道中千両箱 : EDO VILLAGE NIGHTMARE
+姉妹道中千両箱 : Edo Village Nightmare
+姉妹道中千両箱 : edo village nightmare
+姉妹道中千両箱:EdoVillageNightmare
 学生时代   初阳
 学生时代   新春服装包
 学生时代 - 初阳
@@ -157557,6 +157709,7 @@ zèbre
 文字遊戯(日本語版)
 斗将
 斗笠江湖
+新世界：暗影成双
 新盗墓笔记（官方正版）
 方块 BLOCK
 方块 Block
