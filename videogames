@@ -1706,6 +1706,7 @@
 ????
 ???? (Bagua Alley)
 ???? (Colorless World)
+???? (The Dreaming Woods)
 ???? (lost curse)
 ???? - ??
 ???? - ????
@@ -1738,6 +1739,7 @@
 ???? Libido Estates
 ???? Lost Dream Chronicle demo
 ???? Magic Knights
+???? Magic Realm
 ???? Memory Maze
 ???? Mineral Hunter
 ???? Mobile era
@@ -1783,6 +1785,7 @@
 ????1:??
 ????3
 ????30 DAYS
+????300?
 ????79??
 ????: ????
 ????:60s Exploring the Endless Land:60s
@@ -1795,6 +1798,7 @@
 ????:???? Demo
 ????:???? Hyper Chinese Chess
 ????:?????
+????:????? A Transfer Student from Chang'an
 ????:??????
 ????:PaoHuZi
 ?????
@@ -2344,6 +2348,8 @@ ABACUS SOFTWARE
 ABACUSSOFTWARE
 ABALONE
 ABANDONED ARCHIVE
+ABANDONED GAMESHOP
+ABANDONED HOSPITAL PATROL
 ABATHUR
 ABATTOIR: COW ESCAPE
 ABE'S
@@ -4622,6 +4628,7 @@ ASSASSIN OF DOMBARDOS
 ASSASSIN OF DRAGON
 ASSASSIN OF MONSTERS
 ASSASSIN OF SPIDER
+ASSASSIN OF WEREWOLF
 ASSASSIN'S
 ASSASSIN'S CREED
 ASSASSIN'S CREED 2
@@ -5199,7 +5206,11 @@ Abacus Software
 AbacusSoftware
 Abalone
 Abandoned Archive
+Abandoned Gameshop
+Abandoned Hospital Patrol
 AbandonedArchive
+AbandonedGameshop
+AbandonedHospitalPatrol
 Abathur
 Abattoir: Cow Escape
 Abattoir:CowEscape
@@ -7612,6 +7623,7 @@ AssEscape
 Assassin Of Aliens
 Assassin Of Dombardos
 Assassin Of Spider
+Assassin Of Werewolf
 Assassin and Sister
 Assassin of Demon
 Assassin of Dragon
@@ -7644,6 +7656,7 @@ Assassin'sCreed®Origins
 AssassinOfAliens
 AssassinOfDombardos
 AssassinOfSpider
+AssassinOfWerewolf
 AssassinandSister
 AssassinofDemon
 AssassinofDragon
@@ -9341,6 +9354,7 @@ BESNARD
 BEST
 BEST FRIENDS
 BEST MEDIA
+BEST PUPPY CERTIFICATE
 BEST SERVED COLD
 BEST SLIME OF MY LIFE
 BEST WAY
@@ -10445,6 +10459,7 @@ BOOMSHEETS
 BOOOX
 BOOSTER
 BOOTANT
+BOOTHILL
 BOOTLEG
 BOOTS
 BORAI
@@ -12466,12 +12481,14 @@ Besnard
 Best
 Best Friends
 Best Media
+Best Puppy Certificate
 Best Served Cold
 Best Slime of my Life
 Best Way
 BestFriends
 BestGameEver
 BestMedia
+BestPuppyCertificate
 BestServedCold
 BestSlimeofmyLife
 BestWay
@@ -13761,6 +13778,7 @@ BoomerangJack
 Booox
 Booster
 Bootant
+Boothill
 Bootleg
 Boots
 Border Overload
@@ -16909,6 +16927,7 @@ COLVERT
 COM2US
 COMANCHE
 COMBAT
+COMBAT CONDUCTOR
 COMBAT DE GEANTS
 COMBAT EVOLVED
 COMBAT KART
@@ -20783,6 +20802,7 @@ Colvert
 Com2uS
 Comanche
 Combat
+Combat Conductor
 Combat Kart
 Combat Mission
 Combat Mission 2: Barbarossa to Berlin
@@ -20790,6 +20810,7 @@ Combat Mission 3: Afrika Korps
 Combat Mission Shock Force 2: Battle Pack
 Combat de geants
 Combat de géants
+CombatConductor
 CombatKart
 CombatMission
 CombatMission2:BarbarossatoBerlin
@@ -23175,6 +23196,7 @@ DEATH IN ABYSS
 DEATH KITCHEN
 DEATH MACHINE
 DEATH METAL DERBY
+DEATH MOMOTARO
 DEATH NOMAD
 DEATH ON HOLLY RIDGE
 DEATH PARADISE
@@ -23494,6 +23516,7 @@ DEMPA
 DEMPA SHINBUNSHA
 DEMPASHINBUNSHA
 DEN
+DEN KO SENKA
 DEN'Z
 DEN-DEN: TOKYO HORROR DEMO
 DENCRE
@@ -23508,6 +23531,7 @@ DENJAA DENJAA
 DENJAADENJAA
 DENJIN
 DENKI
+DENKOSENKA
 DENNOU
 DENNOU EIZO
 DENNOUEIZO
@@ -24465,6 +24489,7 @@ DOLPHINSPAWNEGG
 DOLPHIN_SPAWN_EGG
 DOLVEN
 DOM
+DOMAIN: EVIL INVASION
 DOMAINE
 DOMAINE PUBLIC
 DOMAINEPUBLIC
@@ -26215,6 +26240,7 @@ Death In Abyss
 Death Kitchen
 Death Machine
 Death Metal Derby
+Death Momotaro
 Death Nomad
 Death On Holly Ridge
 Death Paradise
@@ -26244,6 +26270,7 @@ DeathInAbyss
 DeathKitchen
 DeathMachine
 DeathMetalDerby
+DeathMomotaro
 DeathNomad
 DeathOnHollyRidge
 DeathParadise
@@ -27754,6 +27781,8 @@ DolphinSpawn
 DolphinSpawnEgg
 Dolven
 Dom
+Domain: Evil Invasion
+Domain:EvilInvasion
 Domaine
 Domaine Public
 DomainePublic
@@ -38135,6 +38164,8 @@ GLU GAMES
 GLU GAMES INC
 GLU MOBILE
 GLUDISTRIBUTION
+GLUE BLOCKS
+GLUEBLOCKS
 GLUGAMES
 GLUGAMESINC
 GLUIGI
@@ -38234,6 +38265,7 @@ GOBLIN VYKE: THE THIEF TYCOON
 GOBLIN: MUTATION
 GOBLINCHESS
 GOBLINS
+GOBLINS AND GUNSLINGERS
 GOBLINS STOLE MY PANTIES 👙
 GOBO & SPIKE
 GOD
@@ -39119,6 +39151,7 @@ GUN SURVIVOR
 GUN SWINGER
 GUN.DOG.REVENGE
 GUNBIRD - 2
+GUNBLADE RANGER
 GUNBOAT GOD
 GUNBOT DIPLOMACY
 GUNCASTER
@@ -40427,7 +40460,9 @@ GoblinandRecipes:Match-3Adventure
 Goblins
 Goblins Stole My Panties ?
 Goblins Stole My Panties 👙
+Goblins and Gunslingers
 GoblinsStoleMyPanties👙
+GoblinsandGunslingers
 Gobo   Spike
 Gobo & Spike
 Gobo&Spike
@@ -41367,6 +41402,8 @@ GunX - Lock and Load
 GunX-LockandLoad
 GunZ: The Duel
 GunZ:TheDuel
+Gunblade Ranger
+GunbladeRanger
 Gunboat God
 GunboatGod
 Gunbot Diplomacy
@@ -41655,6 +41692,7 @@ HALIFAX
 HALIGEN ZERO
 HALKEN
 HALL
+HALL OF MIRRORS
 HALLABORATORY
 HALLOWED CORE
 HALLOWEEN FILLED WITH CATS
@@ -43525,6 +43563,8 @@ Haligen Zero
 HaligenZero
 Halken
 Hall
+Hall of Mirrors
+HallofMirrors
 Hallowed Core
 HallowedCore
 Halloween Filled With Cats
@@ -48506,6 +48546,7 @@ JAGEX GAMES
 JAGEXGAMES
 JAGGED
 JAGGED ALLIANCE
+JAGGED ALLIANCE 3
 JAGGEDALLIANCE
 JAGUAR
 JAGUAR CD
@@ -49377,7 +49418,9 @@ Jagex Games
 JagexGames
 Jagged
 Jagged Alliance
+Jagged Alliance 3
 JaggedAlliance
+JaggedAlliance3
 Jaguar
 Jaguar CD
 Jaguar/Jaguar
@@ -50225,6 +50268,7 @@ KADAJ,
 KADAJ, YAZOO ET LOZ
 KADAJ,YAZOOETLOZ
 KADIN THE SOUL EATER
+KADMON
 KADOKAWA
 KADOKAWA SHOTEN
 KADOKAWASHOTEN
@@ -50630,6 +50674,7 @@ KHILBRON
 KI
 KIAI RESONANCE
 KIBBUTZ
+KIBO TO YUME
 KIBORG
 KIBORG SOUNDTRACK
 KIBORG Soundtrack
@@ -50792,6 +50837,7 @@ KINGDOM OF CHOICES
 KINGDOM OF NIGHT
 KINGDOM OF THE BEAST: CAT
 KINGDOM RULES
+KINGDOM RUSH  - TOWER DEFENSE
 KINGDOM RUSH FRONTIERS - TOWER DEFENSE
 KINGDOM UNDER
 KINGDOM UNDER FIRE
@@ -51483,6 +51529,7 @@ Kadaj, Yazoo et Loz
 Kadaj,YazooetLoz
 Kadin the Soul Eater
 KadintheSoulEater
+Kadmon
 Kadokawa
 Kadokawa Shoten
 KadokawaShoten
@@ -51915,6 +51962,8 @@ Ki
 Kiai Resonance
 KiaiResonance
 Kibbutz
+Kibo to Yume
+KibotoYume
 Kick Bot DX
 Kick Yourself On
 Kick n Hell
@@ -52110,6 +52159,8 @@ Kingdom Hearts
 Kingdom Klicker
 Kingdom Loop
 Kingdom Of Choices
+Kingdom Rush    Tower Defense
+Kingdom Rush  - Tower Defense
 Kingdom Rush Frontiers   Tower Defense
 Kingdom Rush Frontiers - Tower Defense
 Kingdom Under
@@ -52142,6 +52193,7 @@ KingdomHearts
 KingdomKlicker
 KingdomLoop
 KingdomOfChoices
+KingdomRush-TowerDefense
 KingdomRushFrontiers-TowerDefense
 KingdomUnder
 KingdomUnderFire
@@ -53901,6 +53953,7 @@ LEWD NETWORK
 LEX
 LEX LUTHOR
 LEXICON
+LEXICON ODYSSEY ~~A JAPANESE-LEARNING RPG~~
 LEXIROGUE
 LEXIS
 LEXIS NUMERIQUE
@@ -56088,6 +56141,9 @@ Lex Luthor
 LexLuthor
 LexiRogue
 Lexicon
+Lexicon Odyssey ~~A Japanese Learning RPG~~
+Lexicon Odyssey ~~A Japanese-Learning RPG~~
+LexiconOdyssey~~AJapanese-LearningRPG~~
 Lexis
 Lexis NumÃ©rique
 Lexis Numérique
@@ -58062,6 +58118,7 @@ MARINE.EXE - Desktop RPG
 MARINE.EXE-DesktopRPG
 MARINEMALICE
 MARINETHERACOON
+MARINE♡SLALOM
 MARINS
 MARIO
 MARIO  LUIGI SUPERSTAR SAGA
@@ -61613,8 +61670,10 @@ Marina
 Marine
 Marine Malice
 Marine the Racoon
+Marine<3Slalom
 MarineMalice
 MarinetheRacoon
+Marine♡Slalom
 Marins
 Mario
 Mario  Luigi Superstar Saga
@@ -64881,6 +64940,7 @@ Myths are 100% True
 Mythsare100%True
 Mythscroll
 Mz
+MÔRGAN
 MÜLLER
 Médolie
 Méduséléctrique
@@ -64907,6 +64967,7 @@ Métaminions Métaminions
 MétaminionsMétaminions
 Métroide
 Métroides
+Môrgan
 Müller
 N
 N TRANCE
@@ -65339,6 +65400,7 @@ NEKKETSU
 NEKKI
 NEKO
 NEKO CAFÉ STORIES
+NEKO DIARY🐾 猫愿日记
 NEKO LOOP
 NEKO MIMI SWEET HOUSEMATES Vol. 2
 NEKO NIN exHeart SPIN! LOVE+PLUS
@@ -65444,10 +65506,12 @@ NEON STUDIOS
 NEON VICE CLUB SIMULATOR
 NEON WARFIELD
 NEON WHISPERS
+NEON WIRE
 NEONBLOCK
 NEONPLAY
 NEONSTUDIOS
 NEONSURVIVOR
+NEONWIRE
 NEOPETS - MEGA MINI GAMES COLLECTION - THE NEOPIAN ARCADE ODYSSEY
 NEOPICA
 NEOSOFTWARE
@@ -66751,6 +66815,8 @@ Nekki
 Neko
 Neko Cafe Stories
 Neko Café Stories
+Neko Diary? ????
+Neko Diary🐾 猫愿日记
 Neko Loop
 Neko Neko Meow Club
 Neko No Sentouki: The Greatest Fighter
@@ -66760,6 +66826,7 @@ Neko no Yume
 Neko-Neko Meow Club
 Neko-NekoMeowClub
 NekoCaféStories
+NekoDiary🐾猫愿日记
 NekoLoop
 NekoNoSentouki:TheGreatestFighter
 NekoRogue
@@ -68922,6 +68989,7 @@ ORGASM LAB SIMULATOR 💦🍌
 ORGRIM
 ORGRIM DOOMHAMMER
 ORGRIMDOOMHAMMER
+ORI AND THE WILL OF THE WISPS
 ORIENTED
 ORIENTMAPLE.COM
 ORIENTMAPLECOM
@@ -69108,6 +69176,7 @@ OVERCLOCKED ARENA: INSTABILITY PROTOCOL
 OVERCOME YOUR FEARS - CARETAKER
 OVERDEAD
 OVERDRAWN
+OVERDRIVE 2048
 OVERENCUMBERED IN ANOTHER WORLD
 OVERFIELD
 OVERGROWN
@@ -70274,6 +70343,8 @@ OrgasmLabSimulator💦🍌
 Orgrim
 Orgrim Doomhammer
 OrgrimDoomhammer
+Ori and the Will of the Wisps
+OriandtheWilloftheWisps
 Oriented
 Orientmaple.com
 Orientmaplecom
@@ -70494,6 +70565,8 @@ Overcome Your Fears   Caretaker
 Overcome Your Fears - Caretaker
 OvercomeYourFears-Caretaker
 Overdrawn
+Overdrive 2048
+Overdrive2048
 Overencumbered In Another World
 OverencumberedInAnotherWorld
 Overgrown
@@ -72095,6 +72168,7 @@ PIXEL MART
 PIXEL MINE
 PIXEL PAR
 PIXEL PLACE
+PIXEL PLANET SURVIVOR
 PIXEL PUZZLES ILLUSTRATIONS & ANIME: GRAFFITI
 PIXEL Q (YOUR PERSONAL AI AGENT)
 PIXEL RAIN
@@ -75096,6 +75170,7 @@ Pixel It!
 Pixel Mart
 Pixel Mine
 Pixel Par
+Pixel Planet Survivor
 Pixel Puzzles Illustrations   Anime: Graffiti
 Pixel Puzzles Illustrations & Anime: Graffiti
 Pixel Q  Your Personal AI Agent 
@@ -75135,6 +75210,7 @@ PixelJunk™Eden2
 PixelMart
 PixelMine
 PixelPar
+PixelPlanetSurvivor
 PixelPop 2087
 PixelPop2087
 PixelPuzzlesIllustrations&Anime:Graffiti
@@ -77519,6 +77595,7 @@ RAIJIN
 RAIL GUNNER
 RAIL ROUTE
 RAILBREAK DX
+RAILMINER DEMO
 RAILROAD
 RAILROAD CORPORATION 2
 RAILROAD MANAGER - MAPS PACK
@@ -78331,6 +78408,7 @@ RESURECTION.
 RESURRECTION
 RESURRECTION OF SANTIAGO
 RETRACE THE LIGHT
+RETRIEVAL
 RETRO
 RETRO ARCADE SHOP SIMULATOR
 RETRO ARCADE SHOP SIMULATOR (DEMO)
@@ -79570,6 +79648,8 @@ RailGunner
 RailRoute
 Railbreak DX
 RailbreakDX
+Railminer Demo
+RailminerDemo
 Railroad
 Railroad Corporation 2
 Railroad Manager   Maps Pack
@@ -82247,6 +82327,7 @@ SAUCE
 SAUCE DIGITAL
 SAUCE FACTORY TYCOON
 SAUCEDIGITAL
+SAUCY SUCCUBUS
 SAUL
 SAUL D'ALESSIO
 SAUL DALESSIO
@@ -82679,6 +82760,7 @@ SECRETS OF BLACKROCK MANOR - ESCAPE ROOM
 SECT HOUSE
 SECTION 13
 SECTOR
+SECTOR 13: HAUNTED WOODS
 SECTOR 404
 SECTOR UNKNOWN
 SECTOR UNKNOWN - PROLOGUE
@@ -85919,6 +86001,7 @@ STRAYSPAWNEGG
 STREAM DEFENSE PROTOCOL
 STREAM QUEST
 STREAM STAR: SENSATIONS
+STREAM TOOLKIT - STREAMING TOOLS & CHAT TRANSLATION
 STREAMER FLOWERS
 STREAMING RACE
 STREET
@@ -87332,6 +87415,8 @@ Sauce Digital
 Sauce Factory Tycoon
 SauceDigital
 SauceFactoryTycoon
+Saucy Succubus
+SaucySuccubus
 Saul
 Saul d'Alessio
 Saul dAlessio
@@ -87825,11 +87910,13 @@ SectHouse
 Section 13
 Section13
 Sector
+Sector 13: Haunted Woods
 Sector 404
 Sector Unknown
 Sector Unknown   Prologue
 Sector Unknown - Prologue
 Sector Unknown Soundtrack
+Sector13:HauntedWoods
 Sector3
 Sector3 Games
 Sector3Games
@@ -91733,9 +91820,13 @@ StrayTekirs
 Stream Defense Protocol
 Stream Quest
 Stream Star: Sensations
+Stream Toolkit   Streaming Tools & Chat Translation
+Stream Toolkit - Streaming Tools   Chat Translation
+Stream Toolkit - Streaming Tools & Chat Translation
 StreamDefenseProtocol
 StreamQuest
 StreamStar:Sensations
+StreamToolkit-StreamingTools&ChatTranslation
 Streamer Flowers
 StreamerFlowers
 Streaming Race
@@ -93298,6 +93389,7 @@ TANGSELECTRONIC
 TANISHA
 TANITA
 TANK
+TANK BATTLE CLASSIC
 TANK CATABOUM
 TANK FIGHT READY
 TANK MECHANIC SIMULATOR
@@ -94126,6 +94218,7 @@ THE CREATOR DEMO
 THE CREW MOTORFEST
 THE CRIMSON DIAMOND
 THE CRIMSON LYRE
+THE CROOKED HAND
 THE CROSLEY TOWER HORROR
 THE CRUCIBALL
 THE CRYSTALLINE REALM
@@ -96120,6 +96213,7 @@ TOWER OF DOGMA
 TOWER OF DRUAGA
 TOWER OF GAND
 TOWER OF JANK
+TOWER OF PESTILENCE
 TOWER OF SCHERBENMARK
 TOWER OF TIME
 TOWER OF WISHES 4: SHAKA
@@ -96299,6 +96393,7 @@ TRANSMISSIONGAMES
 TRANSMUTOWERS
 TRANSPAWT TRAIN
 TRANSPORT
+TRANSPORT FEVER 3
 TRANSPORT LEGION
 TRANSPORT TYCOON
 TRANSPORTER
@@ -96472,6 +96567,7 @@ TRIONWORLDS
 TRIP
 TRIP MEDIA
 TRIPLE
+TRIPLE PAIRING
 TRIPLE PLAY
 TRIPLEPLAY
 TRIPMEDIA
@@ -97174,11 +97270,13 @@ TangsElectronic
 Tanisha
 Tanita
 Tank
+Tank Battle Classic
 Tank Cataboum
 Tank Fight Ready
 Tank Mechanic Simulator
 Tank Rogue
 Tank Squad
+TankBattleClassic
 TankCataboum
 TankFightReady
 TankMechanicSimulator
@@ -98114,6 +98212,7 @@ The Creator Demo
 The Crew Motorfest
 The Crimson Diamond
 The Crimson Lyre
+The Crooked Hand
 The Crosley Tower Horror
 The Cruciball
 The Crystalline Realm
@@ -99147,6 +99246,7 @@ TheCreatorDemo
 TheCrewMotorfest
 TheCrimsonDiamond
 TheCrimsonLyre
+TheCrookedHand
 TheCrosleyTowerHorror
 TheCruciball
 TheCrystallineRealm
@@ -101117,6 +101217,7 @@ Tower of Babel: Survivors of Chaos - Golden Dragon Pack
 Tower of Druaga
 Tower of Gand
 Tower of Jank
+Tower of Pestilence
 Tower of Scherbenmark
 Tower of Time
 Tower.defense  : Program The Fight Demo
@@ -101142,6 +101243,7 @@ TowerofBabel:SurvivorsofChaos-GoldenDragonPack
 TowerofDruaga
 TowerofGand
 TowerofJank
+TowerofPestilence
 TowerofScherbenmark
 TowerofTime
 Towers Heritage Demo
@@ -101388,8 +101490,10 @@ TransmuTowers
 Transpawt Train
 TranspawtTrain
 Transport
+Transport Fever 3
 Transport Legion
 Transport Tycoon
+TransportFever3
 TransportLegion
 TransportTycoon
 Transporter
@@ -101616,7 +101720,9 @@ Trip
 Trip Media
 TripMedia
 Triple
+Triple Pairing
 Triple Play
+TriplePairing
 TriplePlay
 Trippy Plains
 TrippyPlains
@@ -103683,6 +103789,7 @@ VIRTUAL ON
 VIRTUAL PLAYGROUND
 VIRTUAL READER (PERSONAL VR LIBRARY)
 VIRTUAL RIDES 3 - FUNFAIR SIMULATOR
+VIRTUAL SKIES FPV VR
 VIRTUAL SPAGHETTI
 VIRTUAL STUDIO
 VIRTUAL TOYS
@@ -104642,6 +104749,7 @@ Virtual Reader  Personal VR Library
 Virtual Reader (Personal VR Library)
 Virtual Rides 3   Funfair Simulator
 Virtual Rides 3 - Funfair Simulator
+Virtual Skies FPV VR
 Virtual Spaghetti
 Virtual Studio
 Virtual Toys
@@ -104662,6 +104770,7 @@ VirtualOn
 VirtualPlayground
 VirtualReader(PersonalVRLibrary)
 VirtualRides3-FunfairSimulator
+VirtualSkiesFPVVR
 VirtualSpaghetti
 VirtualStudio
 VirtualToys
@@ -108382,6 +108491,7 @@ YOSHIYUKIKABURAGI
 YOU
 YOU AND ME AND HER: A LOVE STORY
 YOU ARE A FUCKING IDIOT!
+YOU ARE NEWTON
 YOU ARE SPEED
 YOU ARE THE BOMB: A GAME ABOUT ROLLING BOMBS
 YOU ARE THE LIGHT – AN AUDIOVISUAL VR JOURNEY
@@ -108397,6 +108507,7 @@ YOU DONT KNOW JACK
 YOU HAD A BAD DREAM
 YOU KNOW THE DRILL
 YOU MUST REMEMBER
+YOU ONLY DREAM ONCE - UNKNOWN PLAYER’S ISLAND ADVENTURE
 YOU OWE ME
 YOU REINCARNATED INTO THE GAME WORLD AND FUCKED THE NPCS!-ANIMATION-
 YOU SEE ME?
@@ -108408,6 +108519,7 @@ YOU WITHIN ME
 YOU and ME and HER: A Love Story
 YOU'VE CHANGED DEMO
 YOU.TAPES
+YOUARENEWTON
 YOUCHOSIS
 YOUDA
 YOUDA GAMES
@@ -108841,6 +108953,9 @@ You Dont Know
 You Dont Know Jack
 You Know The Drill
 You Must Remember
+You Only Dream Once   Unknown Player’s Island Adventure
+You Only Dream Once - Unknown Player's Island Adventure
+You Only Dream Once - Unknown Player’s Island Adventure
 You Owe Me
 You Suck At Football
 You Were There  君はそこにいた 
@@ -108873,6 +108988,7 @@ YouDontKnow
 YouDontKnowJack
 YouKnowTheDrill
 YouMustRemember
+YouOnlyDreamOnce-UnknownPlayer’sIslandAdventure
 YouOweMe
 YouSuckAtFootball
 YouWereThere-君はそこにいた-
@@ -110064,6 +110180,8 @@ abacus software
 abacussoftware
 abalone
 abandoned archive
+abandoned gameshop
+abandoned hospital patrol
 abathur
 abattoir: cow escape
 abe's
@@ -112091,6 +112209,7 @@ assassin of dombardos
 assassin of dragon
 assassin of monsters
 assassin of spider
+assassin of werewolf
 assassin's
 assassin's creed
 assassin's creed 2
@@ -113622,6 +113741,7 @@ besnard
 best
 best friends
 best media
+best puppy certificate
 best served cold
 best slime of my life
 best way
@@ -114687,6 +114807,7 @@ boomsheets
 booox
 booster
 bootant
+boothill
 bootleg
 boots
 borai
@@ -117527,6 +117648,7 @@ colvert
 com2us
 comanche
 combat
+combat conductor
 combat de geants
 combat de géants
 combat evolved
@@ -119518,6 +119640,7 @@ death in abyss
 death kitchen
 death machine
 death metal derby
+death momotaro
 death nomad
 death on holly ridge
 death paradise
@@ -119821,6 +119944,7 @@ dempa
 dempa shinbunsha
 dempashinbunsha
 den
+den ko senka
 den'z
 den-den: tokyo horror demo
 dencre
@@ -120726,6 +120850,7 @@ dolphinspawn
 dolphinspawnegg
 dolven
 dom
+domain: evil invasion
 domaine
 domaine public
 domainepublic
@@ -126172,6 +126297,7 @@ glu games
 glu games inc
 glu mobile
 gludistribution
+glue blocks
 glugames
 glugamesinc
 gluigi
@@ -126262,6 +126388,7 @@ goblin vyke: the thief tycoon
 goblin: mutation
 goblinchess
 goblins
+goblins and gunslingers
 goblins stole my panties 👙
 gobo & spike
 god
@@ -127090,6 +127217,7 @@ gun survivor
 gun swinger
 gun.dog.revenge
 gunbird - 2
+gunblade ranger
 gunboat god
 gunbot diplomacy
 guncaster
@@ -127346,6 +127474,7 @@ halifax
 haligen zero
 halken
 hall
+hall of mirrors
 hallaboratory
 hallowed core
 halloween filled with cats
@@ -130330,6 +130459,7 @@ jagex games
 jagexgames
 jagged
 jagged alliance
+jagged alliance 3
 jaggedalliance
 jaguar
 jaguar cd
@@ -131099,6 +131229,7 @@ kadaj,
 kadaj, yazoo et loz
 kadaj,yazooetloz
 kadin the soul eater
+kadmon
 kadokawa
 kadokawa shoten
 kadokawashoten
@@ -131485,6 +131616,7 @@ khilbron
 ki
 kiai resonance
 kibbutz
+kibo to yume
 kiborg
 kiborg soundtrack
 kick bot dx
@@ -131638,6 +131770,7 @@ kingdom of choices
 kingdom of night
 kingdom of the beast: cat
 kingdom rules
+kingdom rush  - tower defense
 kingdom rush frontiers - tower defense
 kingdom under
 kingdom under fire
@@ -133333,6 +133466,7 @@ lewdcontrol
 lex
 lex luthor
 lexicon
+lexicon odyssey ~~a japanese-learning rpg~~
 lexirogue
 lexis
 lexis numerique
@@ -134971,6 +135105,7 @@ marine the racoon
 marine.exe - desktop rpg
 marinemalice
 marinetheracoon
+marine♡slalom
 marins
 mario
 mario  luigi superstar saga
@@ -137733,6 +137868,7 @@ métaminions métaminions
 métaminionsmétaminions
 métroide
 métroides
+môrgan
 müller
 n
 n trance
@@ -138071,6 +138207,7 @@ nekketsu
 nekki
 neko
 neko café stories
+neko diary🐾 猫愿日记
 neko loop
 neko no sentouki: the greatest fighter
 neko no yume
@@ -138164,6 +138301,7 @@ neon studios
 neon vice club simulator
 neon warfield
 neon whispers
+neon wire
 neonplay
 neonstudios
 neonsurvivor
@@ -140045,6 +140183,7 @@ orgasm lab simulator 💦🍌
 orgrim
 orgrim doomhammer
 orgrimdoomhammer
+ori and the will of the wisps
 oriented
 orientmaple.com
 orientmaplecom
@@ -140221,6 +140360,7 @@ overclocked arena: instability protocol
 overcome your fears - caretaker
 overdead
 overdrawn
+overdrive 2048
 overencumbered in another world
 overfield
 overgrown
@@ -141678,6 +141818,7 @@ pixel mart
 pixel mine
 pixel par
 pixel place
+pixel planet survivor
 pixel puzzles illustrations & anime: graffiti
 pixel q (your personal ai agent)
 pixel rain
@@ -143472,6 +143613,7 @@ raijin
 rail gunner
 rail route
 railbreak dx
+railminer demo
 railroad
 railroad corporation 2
 railroad manager - maps pack
@@ -144236,6 +144378,7 @@ resurection.
 resurrection
 resurrection of santiago
 retrace the light
+retrieval
 retro
 retro arcade shop simulator
 retro arcade shop simulator (demo)
@@ -145676,6 +145819,7 @@ sauce
 sauce digital
 sauce factory tycoon
 saucedigital
+saucy succubus
 saul
 saul d'alessio
 saul dalessio
@@ -146054,6 +146198,7 @@ secrets of blackrock manor - escape room
 sect house
 section 13
 sector
+sector 13: haunted woods
 sector 404
 sector unknown
 sector unknown - prologue
@@ -149101,6 +149246,7 @@ strayspawnegg
 stream defense protocol
 stream quest
 stream star: sensations
+stream toolkit - streaming tools & chat translation
 streamer flowers
 streaming race
 street
@@ -150290,6 +150436,7 @@ tangselectronic
 tanisha
 tanita
 tank
+tank battle classic
 tank cataboum
 tank fight ready
 tank mechanic simulator
@@ -151090,6 +151237,7 @@ the creator demo
 the crew motorfest
 the crimson diamond
 the crimson lyre
+the crooked hand
 the crosley tower horror
 the cruciball
 the crystalline realm
@@ -153038,6 +153186,7 @@ tower of dogma
 tower of druaga
 tower of gand
 tower of jank
+tower of pestilence
 tower of scherbenmark
 tower of time
 tower of wishes 4: shaka
@@ -153211,6 +153360,7 @@ transmissiongames
 transmutowers
 transpawt train
 transport
+transport fever 3
 transport legion
 transport tycoon
 transporter
@@ -153392,6 +153542,7 @@ trionworlds
 trip
 trip media
 triple
+triple pairing
 triple play
 tripleplay
 tripmedia
@@ -154770,6 +154921,7 @@ virtual on
 virtual playground
 virtual reader (personal vr library)
 virtual rides 3 - funfair simulator
+virtual skies fpv vr
 virtual spaghetti
 virtual studio
 virtual toys
@@ -156603,6 +156755,7 @@ yoshiyukikaburagi
 you
 you and me and her: a love story
 you are a fucking idiot!
+you are newton
 you are speed
 you are the bomb: a game about rolling bombs
 you are the light – an audiovisual vr journey
@@ -156618,6 +156771,7 @@ you dont know jack
 you had a bad dream
 you know the drill
 you must remember
+you only dream once - unknown player’s island adventure
 you owe me
 you reincarnated into the game world and fucked the npcs!-animation-
 you see me?
@@ -157991,6 +158145,11 @@ zèbre
 桌面塔罗 Desktop Tarot
 桌面塔罗 desktop tarot
 桌面塔罗DesktopTarot
+梦境森林  The Dreaming Woods 
+梦境森林 (THE DREAMING WOODS)
+梦境森林 (The Dreaming Woods)
+梦境森林 (the dreaming woods)
+梦境森林(TheDreamingWoods)
 梦境管理公司：渡魂行者
 梦幻传奇
 棋桜
@@ -158116,6 +158275,7 @@ zèbre
 烈焰屠龙·神兵觉醒
 烧尾宴
 热血屠龙
+無名から伝説のアイドルへ
 狂野网 WILD WEB
 狂野网 Wild Web
 狂野网 wild web
@@ -158496,6 +158656,7 @@ zèbre
 骤雨终日 Demo
 骤雨终日 demo
 骤雨终日Demo
+高三最后300天
 高中生模拟器THE EXISTENCE THEORY OF THE NO.13 HIGH SCHOOL
 高中生模拟器The Existence Theory of the No.13 High School
 高中生模拟器TheExistenceTheoryoftheNo.13HighSchool
@@ -158504,6 +158665,11 @@ zèbre
 高球王者 GolfKings
 高球王者 golfkings
 高球王者GolfKings
+高考移民：常安转校生 A TRANSFER STUDENT FROM CHANG'AN
+高考移民：常安转校生 A Transfer Student from Chang an
+高考移民：常安转校生 A Transfer Student from Chang'an
+高考移民：常安转校生 a transfer student from chang'an
+高考移民：常安转校生ATransferStudentfromChang'an
 鬼灵的冒险GUILING s Adventure
 鬼灵的冒险GUILING'S ADVENTURE
 鬼灵的冒险GUILING's Adventure
@@ -158527,6 +158693,10 @@ zèbre
 魔姬征服者  Twelve Succubus
 魔姬征服者  twelve succubus
 魔姬征服者TwelveSuccubus
+魔法之境 MAGIC REALM
+魔法之境 Magic Realm
+魔法之境 magic realm
+魔法之境MagicRealm
 魔法少女ノ魔女裁判
 魔法少女甜心3D MAGICAL GIRL SWEETHEART 3D
 魔法少女甜心3D Magical Girl Sweetheart 3D
