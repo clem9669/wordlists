@@ -1950,6 +1950,7 @@
 ????TASOGARE
 ????Ten innocent people
 ????ol
+???Grave digging for wealth
 ???SSB2
 ???Shankala
 ???Xtrip
@@ -2812,6 +2813,7 @@ AFTER HUE DEMO
 AFTER INC: REVIVAL
 AFTER LIGHT FADES
 AFTER SCHOOL GROUNDS (방과후운동장)
+AFTER SCHOOL SPARKLES: COMPLETE EDITION
 AFTER THE AFTERLIFE
 AFTER THE HERO
 AFTER THE STREAM WENT DARK
@@ -5652,6 +5654,7 @@ After Light Fades
 After School Grounds  방과후운동장 
 After School Grounds (??????)
 After School Grounds (방과후운동장)
+After School Sparkles: Complete Edition
 After The Afterlife
 After Work
 After the Hero
@@ -5669,6 +5672,7 @@ AfterImage
 AfterInc:Revival
 AfterLightFades
 AfterSchoolGrounds(방과후운동장)
+AfterSchoolSparkles:CompleteEdition
 AfterTheAfterlife
 AfterWar
 AfterWork
@@ -23580,6 +23584,7 @@ DEPT HEAVEN
 DEPT.
 DEPT. HEAVEN
 DEPT.HEAVEN
+DEPTH DIVER
 DEPTH OF MIND
 DEPTHBOUND DESCENT
 DEPTHEAVEN
@@ -26748,7 +26753,9 @@ Dept.
 Dept. Heaven
 Dept.Heaven
 DeptHeaven
+Depth Diver
 Depth of Mind
+DepthDiver
 Depthbound Descent
 DepthboundDescent
 DepthofMind
@@ -33185,6 +33192,7 @@ FICELLE
 FICKLE CARD LEGEND
 FICTION
 FIDGET WIDGET
+FIDUCIA: RENT THE WORLD
 FIELD
 FIELD OF POLARITY
 FIELD OF SCREAMS
@@ -35339,6 +35347,8 @@ FickleCardLegend
 Fiction
 Fidget Widget
 FidgetWidget
+Fiducia: Rent The World
+Fiducia:RentTheWorld
 Field
 Field Of Screams
 Field of Polarity
@@ -37742,6 +37752,7 @@ GEMGENERICLABEL
 GEMINI RUSH
 GEMINTERNATIONAL
 GEMINTERNATIONALCORPORATION
+GEMORIUM
 GEMRA
 GEMRA GEMRA
 GEMRAGEMRA
@@ -38371,6 +38382,7 @@ GOLDEN CARROT
 GOLDEN CHESTPLATE
 GOLDEN GATE
 GOLDEN GATE CREW
+GOLDEN GOBLIN PLAYER
 GOLDEN HELMET
 GOLDEN HOE
 GOLDEN HORSE
@@ -39187,6 +39199,7 @@ GUNCASTER
 GUNDROID
 GUNFIGHT ARENA
 GUNFIRE REBORN - ECHOES FROM PRIMAL GROVE
+GUNFIREFANTASY
 GUNGHO
 GUNGHO WORKS
 GUNGHOWORKS
@@ -39853,6 +39866,7 @@ Gemblades
 Gemerl
 Gemini Rush
 GeminiRush
+Gemorium
 Gemra
 Gemra Gemra
 GemraGemra
@@ -40590,6 +40604,7 @@ Golden Carrot
 Golden Chestplate
 Golden Gate
 Golden Gate Crew
+Golden Goblin Player
 Golden Helmet
 Golden Hoe
 Golden Horse
@@ -40614,6 +40629,7 @@ GoldenEye 007
 GoldenEye007
 GoldenGate
 GoldenGateCrew
+GoldenGoblinPlayer
 GoldenHelmet
 GoldenHoe
 GoldenHorse
@@ -41443,6 +41459,7 @@ Gunfight Arena
 GunfightArena
 Gunfire Reborn   Echoes From Primal Grove
 Gunfire Reborn - Echoes From Primal Grove
+GunfireFantasy
 GunfireReborn-EchoesFromPrimalGrove
 Gungho
 Gungho Works
@@ -41850,6 +41867,7 @@ HAPPY ISLAND FANTASY
 HAPPY MONSTER
 HAPPY NUCLEAR
 HAPPY PET
+HAPPY PET ISLAND
 HAPPY PIGGY 2
 HAPPY PUPPY
 HAPPY TRAILS
@@ -43075,6 +43093,7 @@ HORBERG
 HORDE
 HORDE FROM HELL
 HORDE OF VISCOUNT
+HORDE SLAYER
 HORDEKILL DEMO
 HORDEKILL Demo
 HORDEKILLDemo
@@ -43405,6 +43424,7 @@ HYPER SPORTS
 HYPER TEAM RECON
 HYPER-DRIVE
 HYPERBEAT
+HYPERBOARD EXTREME
 HYPERCAR RACING
 HYPERCHARGE: UNBOXED
 HYPERCHARGE: Unboxed
@@ -43751,6 +43771,7 @@ Happy Island Fantasy
 Happy Monster
 Happy Nuclear
 Happy Pet
+Happy Pet Island
 Happy Piggy 2
 Happy Puppy
 Happy Trails
@@ -43768,6 +43789,7 @@ HappyIslandFantasy
 HappyMonster
 HappyNuclear
 HappyPet
+HappyPetIsland
 HappyPiggy2
 HappyPuppy
 HappyTrails
@@ -45388,8 +45410,10 @@ Horace Farthingworth
 HoraceFarthingworth
 Horazon
 Horberg
+Horde Slayer
 Horde from Hell
 Horde of Viscount
+HordeSlayer
 HordefromHell
 Hordelord
 HordeofViscount
@@ -45845,6 +45869,8 @@ HyperProfitPets
 HyperSports
 HyperTeamRecon
 Hyper_Sea_5000
+Hyperboard Extreme
+HyperboardExtreme
 Hypercar Racing
 HypercarRacing
 Hypercore
@@ -48725,6 +48751,7 @@ JAPANARTMEDIA(JAM)
 JAPANDATAWORKS
 JAPANDATAWORKSINC
 JAPANESE LOVE
+JAPANESE RAMEN SIMULATOR
 JAPANESE ROMAJI ADVENTURE 3D
 JAPANESE SALARYMAN DEMO
 JAPANESELOVE
@@ -49591,8 +49618,10 @@ JapanMediaProgramming
 JapanSystem
 JapanSystemSupply
 JapanVistec
+Japanese Ramen Simulator
 Japanese Romaji Adventure 3D
 Japanese Salaryman Demo
+JapaneseRamenSimulator
 JapaneseRomajiAdventure3D
 JapaneseSalarymanDemo
 Jar
@@ -50488,6 +50517,7 @@ KART
 KART ATTACK
 KART RACING STRIKE
 KART RACING STRIKE DEMO
+KARTBOARD DASH
 KARTFINITY
 KARTING4FUN
 KARTING4FUN DEMO
@@ -51759,6 +51789,8 @@ Kart Racing Strike Demo
 KartAttack
 KartRacingStrike
 KartRacingStrikeDemo
+Kartboard Dash
+KartboardDash
 Kartfinity
 Karting4Fun
 Karting4Fun Demo
@@ -58250,6 +58282,7 @@ MARISA OF LIARTOP MOUNTAIN
 MARISKA
 MARISKA LUTZ
 MARISKALUTZ
+MARITIME SIMULATOR
 MARITO
 MARIUS
 MARIYA
@@ -59997,6 +60030,8 @@ MOCHI
 MOCHI O
 MOCHI'S COSY QUEST
 MOCHI-O
+MOCHIKA AND THE SEVEN PASTRY SINS
+MOCHIKAANDTHESEVENPASTRYSINS
 MOD SHOOTER
 MODAVUJ PLATFORM
 MODDING SDK
@@ -61811,6 +61846,8 @@ MarisaofLiartopMountain
 Mariska
 Mariska Lutz
 MariskaLutz
+Maritime Simulator
+MaritimeSimulator
 Marito
 Marius
 Mariya
@@ -66395,6 +66432,7 @@ NOVA DROP
 NOVA GAMES
 NOVA GAMES LTD
 NOVA NOVA
+NOVA ORIGIN
 NOVA ROMA
 NOVA SURVIVORS
 NOVAE: LAST LIGHT
@@ -66514,6 +66552,7 @@ NU GENERATION
 NU GENERATION GAMES
 NUCLEAR OPTION
 NUCLEAR THRONE
+NUCLEOSYNTHETICA
 NUDE
 NUDE MAKER
 NUDE STAR: KAWAII STRIP SHOW — BACKSTAGE SECRETS REVEALED
@@ -67922,11 +67961,13 @@ Nova
 Nova Drop
 Nova Games
 Nova Games Ltd
+Nova Origin
 Nova Roma
 Nova Survivors
 NovaDrop
 NovaGames
 NovaGamesLtd
+NovaOrigin
 NovaRoma
 NovaSurvivors
 Novagen
@@ -67997,6 +68038,7 @@ Nuclear Option
 Nuclear Throne
 NuclearOption
 NuclearThrone
+NucleoSynthetica
 Nude
 Nude Maker
 Nude Star: Kawaii Strip Show -- Backstage Secrets Revealed
@@ -73248,6 +73290,7 @@ PROJECT CHROMATA
 PROJECT COBALT
 PROJECT DEEP NEXUS
 PROJECT DEJAVU
+PROJECT DEVOURSLIME
 PROJECT DIVA
 PROJECT FILE LIBRARY
 PROJECT FIRESTART
@@ -73365,6 +73408,7 @@ PROTOTYPEJACK
 PROVIDENCE
 PROWER
 PROXIMA B THE DEMO
+PROXIMITY
 PROXY ADVENTURE: SIMULATION ROOM
 PROYECTO HUEMUL
 PRU'HA
@@ -76480,6 +76524,7 @@ Project Cobalt
 Project DIVA
 Project Deep Nexus
 Project Dejavu
+Project DevourSlime
 Project File Library
 Project Firestart
 Project Gotham
@@ -76545,6 +76590,7 @@ ProjectCobalt
 ProjectDIVA
 ProjectDeepNexus
 ProjectDejavu
+ProjectDevourSlime
 ProjectFileLibrary
 ProjectFirestart
 ProjectGotham
@@ -76650,6 +76696,7 @@ Providence
 Prower
 Proxima B The Demo
 ProximaBTheDemo
+Proximity
 Proxy Adventure: Simulation Room
 ProxyAdventure:SimulationRoom
 Proyecto Huemul
@@ -82673,6 +82720,7 @@ SCRAP MECHANIC - FAN PACK
 SCRAP SNAP
 SCRAP YARD IDLE
 SCRAPS OF NOVA
+SCRATCH TICKETS WITH YOUR FRIENDS 🎰
 SCRATCHIES
 SCREAM - STEAM EDITION -
 SCREAM UNDER THE HOUSE
@@ -82841,6 +82889,7 @@ SECRETOFMONKEYISLAND
 SECRETS OF BLACKROCK MANOR - ESCAPE ROOM
 SECT HOUSE
 SECTION 13
+SECTION 80
 SECTOR
 SECTOR 13: HAUNTED WOODS
 SECTOR 404
@@ -84755,6 +84804,7 @@ SOLIDUSSNAKE
 SOLITAIRE
 SOLITAIRE - COMPLETE COLLECTION
 SOLITAIRE DECK
+SOLITAIRE TOGETHER
 SOLITARE
 SOLITARE GROUP
 SOLITAREGROUP
@@ -85016,6 +85066,7 @@ SOULMON
 SOULQUEST
 SOULREAVER
 SOULS
+SOULS RUNNER
 SOULSTONE SURVIVORS
 SOULUP
 SOUND
@@ -85255,6 +85306,7 @@ SPELLBOUND & SHELVED
 SPELLBOUND BEAUTIES
 SPELLBOUND: MALACHITE COVEN
 SPELLCARVED
+SPELLCASTER UNIVERSITY
 SPELLCASTER UNIVERSITY - GEARS AND GOBELINS
 SPELLCATCHER
 SPELLFORCE
@@ -87769,6 +87821,9 @@ ScrapSnap
 ScrapYardIdle
 Scraps of Nova
 ScrapsofNova
+Scratch Tickets With Your Friends ?
+Scratch Tickets With Your Friends 🎰
+ScratchTicketsWithYourFriends🎰
 Scratchies
 Scream   Steam Edition  
 Scream - Steam Edition -
@@ -87996,7 +88051,9 @@ SecretsofBlackrockManor-EscapeRoom
 Sect House
 SectHouse
 Section 13
+Section 80
 Section13
+Section80
 Sector
 Sector 13: Haunted Woods
 Sector 404
@@ -90252,8 +90309,10 @@ SolidusSnake
 Solitaire   Complete Collection
 Solitaire - Complete Collection
 Solitaire Deck
+Solitaire Together
 Solitaire-CompleteCollection
 SolitaireDeck
+SolitaireTogether
 Solitare
 Solitare Group
 SolitareGroup
@@ -90574,6 +90633,8 @@ Soulmask: Shifting Sands
 Soulmask:ShiftingSands
 Soulmon
 Souls
+Souls Runner
+SoulsRunner
 Soulstone Survivors
 SoulstoneSurvivors
 Sound
@@ -90898,8 +90959,10 @@ Spellbound&Shelved
 Spellbound: Malachite Coven
 Spellbound:MalachiteCoven
 SpellboundBeauties
+Spellcaster University
 Spellcaster University   Gears and Gobelins
 Spellcaster University - Gears and Gobelins
+SpellcasterUniversity
 SpellcasterUniversity-GearsandGobelins
 Spellsteel
 Spellsy
@@ -94014,6 +94077,7 @@ TERRAFORMING TITANS
 TERRAGLYPH
 TERRAKO
 TERRANOVA
+TERRANOVA ENGINE
 TERRARIA
 TERRARIUM II
 TERRASAVE
@@ -96748,6 +96812,7 @@ TRUCK CITY
 TRUCK COMPANY
 TRUCK MAXXING
 TRUCK SIMULATOR
+TRUCK TITANS
 TRUCK WORLD: AUSTRALIA - FIRST HAUL
 TRUCK:
 TRUCKSIMULATOR
@@ -97949,6 +98014,8 @@ TerraFirma2Demo
 TerraInvicta
 TerraLapsa:AfterRagnarök
 TerraNova
+TerraNova Engine
+TerraNovaEngine
 TerraPhysics&Money
 TerraPit
 TerraRequest
@@ -101911,6 +101978,7 @@ Truck City
 Truck Company
 Truck Maxxing
 Truck Simulator
+Truck Titans
 Truck World: Australia   First Haul
 Truck World: Australia - First Haul
 Truck:
@@ -101918,6 +101986,7 @@ TruckCity
 TruckCompany
 TruckMaxxing
 TruckSimulator
+TruckTitans
 TruckWorld:Australia-FirstHaul
 Truco Argentino
 TrucoArgentino
@@ -103638,6 +103707,7 @@ VERSE JUMPER
 VERSEBOUND
 VERSOPIC
 VERSUS
+VERSUS ONE
 VERSUS OST
 VERT
 VERTE
@@ -104088,6 +104158,7 @@ VOLMVOLM
 VOLOVIK
 VOLTAGE
 VOLTEX
+VOLTUS' NEON NIGHTMARE - COLOSSAL CURE
 VOLUNTARY ISOLATION
 VON
 VONKELVELD
@@ -104580,7 +104651,9 @@ Versebound
 Versopic
 Versus
 Versus OST
+Versus One
 VersusOST
+VersusOne
 Vert
 Vertra
 Vertra Animation
@@ -105084,6 +105157,10 @@ VolmVolm
 Volovik
 Voltage
 Voltex
+Voltus  Neon Nightmare - Colossal Cure
+Voltus' Neon Nightmare   Colossal Cure
+Voltus' Neon Nightmare - Colossal Cure
+Voltus'NeonNightmare-ColossalCure
 Voluntary Isolation
 VoluntaryIsolation
 Von
@@ -106361,6 +106438,9 @@ WOW Entertainment
 WOWENTERTAINMENT
 WOWEntertainment
 WOZITDEV'S 3D CHESS
+WPG RAVELIN
+WPG Ravelin
+WPGRavelin
 WRACK: RECLAMATION
 WRAITH OF THE CARDS
 WRANGLE RANCH
@@ -110680,6 +110760,7 @@ after hue demo
 after inc: revival
 after light fades
 after school grounds (방과후운동장)
+after school sparkles: complete edition
 after the afterlife
 after the hero
 after the stream went dark
@@ -120109,6 +120190,7 @@ dept heaven
 dept.
 dept. heaven
 dept.heaven
+depth diver
 depth of mind
 depthbound descent
 deptheaven
@@ -124051,6 +124133,7 @@ ficelle
 fickle card legend
 fiction
 fidget widget
+fiducia: rent the world
 field
 field of polarity
 field of screams
@@ -125985,6 +126068,7 @@ gemgenericlabel
 gemini rush
 geminternational
 geminternationalcorporation
+gemorium
 gemra
 gemra gemra
 gemragemra
@@ -126589,6 +126673,7 @@ golden carrot
 golden chestplate
 golden gate
 golden gate crew
+golden goblin player
 golden helmet
 golden hoe
 golden horse
@@ -127347,6 +127432,7 @@ guncaster
 gundroid
 gunfight arena
 gunfire reborn - echoes from primal grove
+gunfirefantasy
 gungho
 gungho works
 gunghoworks
@@ -127721,6 +127807,7 @@ happy island fantasy
 happy monster
 happy nuclear
 happy pet
+happy pet island
 happy piggy 2
 happy puppy
 happy trails
@@ -128913,6 +129000,7 @@ horberg
 horde
 horde from hell
 horde of viscount
+horde slayer
 hordekill demo
 hordelord
 hori
@@ -129224,6 +129312,7 @@ hyper team recon
 hyper-drive
 hyper_sea_5000
 hyperbeat
+hyperboard extreme
 hypercar racing
 hypercharge: unboxed
 hypercore
@@ -130716,6 +130805,7 @@ japanartmedia(jam)
 japandataworks
 japandataworksinc
 japanese love
+japanese ramen simulator
 japanese romaji adventure 3d
 japanese salaryman demo
 japanmedia
@@ -131523,6 +131613,7 @@ kart
 kart attack
 kart racing strike
 kart racing strike demo
+kartboard dash
 kartfinity
 karting4fun
 karting4fun demo
@@ -135311,6 +135402,7 @@ marisa of liartop mountain
 mariska
 mariska lutz
 mariskalutz
+maritime simulator
 marito
 marius
 mariya
@@ -136979,6 +137071,7 @@ mocha camo
 mochi
 mochi's cosy quest
 mochi-o
+mochika and the seven pastry sins
 mod shooter
 modavuj platform
 modding sdk
@@ -139206,6 +139299,7 @@ nova drop
 nova games
 nova games ltd
 nova nova
+nova origin
 nova roma
 nova survivors
 novae: last light
@@ -139288,6 +139382,7 @@ nu generation
 nu generation games
 nuclear option
 nuclear throne
+nucleosynthetica
 nude
 nude maker
 nude star: kawaii strip show — backstage secrets revealed
@@ -142969,6 +143064,7 @@ project chromata
 project cobalt
 project deep nexus
 project dejavu
+project devourslime
 project diva
 project file library
 project firestart
@@ -143079,6 +143175,7 @@ prototypejack
 providence
 prower
 proxima b the demo
+proximity
 proxy adventure: simulation room
 proyecto huemul
 pru'ha
@@ -146185,6 +146282,7 @@ scrap mechanic - fan pack
 scrap snap
 scrap yard idle
 scraps of nova
+scratch tickets with your friends 🎰
 scratchies
 scream - steam edition -
 scream under the house
@@ -146337,6 +146435,7 @@ secretofmonkeyisland
 secrets of blackrock manor - escape room
 sect house
 section 13
+section 80
 sector
 sector 13: haunted woods
 sector 404
@@ -148122,6 +148221,7 @@ solidussnake
 solitaire
 solitaire - complete collection
 solitaire deck
+solitaire together
 solitare
 solitare group
 solitaregroup
@@ -148374,6 +148474,7 @@ soulmon
 soulquest
 soulreaver
 souls
+souls runner
 soulstone survivors
 soulup
 sound
@@ -148608,6 +148709,7 @@ spellbound & shelved
 spellbound beauties
 spellbound: malachite coven
 spellcarved
+spellcaster university
 spellcaster university - gears and gobelins
 spellcatcher
 spellforce
@@ -151082,6 +151184,7 @@ terraforming titans
 terraglyph
 terrako
 terranova
+terranova engine
 terraria
 terrarium ii
 terrasave
@@ -153766,6 +153869,7 @@ truck city
 truck company
 truck maxxing
 truck simulator
+truck titans
 truck world: australia - first haul
 truck:
 trucksimulator
@@ -154823,6 +154927,7 @@ verse jumper
 versebound
 versopic
 versus
+versus one
 versus ost
 vert
 verte
@@ -155254,6 +155359,7 @@ volmvolm
 volovik
 voltage
 voltex
+voltus' neon nightmare - colossal cure
 voluntary isolation
 von
 vonkelveld
@@ -156501,6 +156607,7 @@ wozitdev s 3D Chess
 wozitdev's 3D Chess
 wozitdev's 3d chess
 wozitdev's3DChess
+wpg ravelin
 wrack: reclamation
 wraith of the cards
 wrangle ranch
@@ -157564,6 +157671,7 @@ zèbre
 《赛博朋克 2077：终极版》
 《赛博朋克2077：往日之影》
 《赛博朋克2077：终极版》
+『スクジサマ』を巡る考察
 【REDACTED】：SEXCP-069
 【REDACTED】：SexCP 069
 【REDACTED】：SexCP-069
@@ -158175,6 +158283,7 @@ zèbre
 捕词Vocapoo
 捕词vocapoo
 探岛海龟汤
+推しマスコット
 掼蛋纯净版
 摆烂大学生会遇到废物神
 摸鱼游戏合集
@@ -158488,6 +158597,10 @@ zèbre
 百鬼图鉴-国风·挂机·卡牌·游戏
 皇帝游戏：天下 皇游天下
 皇帝游戏：天下-皇游天下
+盗墓贼GRAVE DIGGING FOR WEALTH
+盗墓贼Grave digging for wealth
+盗墓贼Gravediggingforwealth
+盗墓贼grave digging for wealth
 盗梦诡探：神鬼出游
 盛夏离与合
 盟军远征: 地下世界
