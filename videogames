@@ -528,10 +528,13 @@
 1080Snowboarding
 1080snowboarding
 10ACLE
+10COUNTAVOIDANCE
+10CountAvoidance
 10TONS
 10TONS LTD
 10TONSLTD
 10acle
+10countavoidance
 10tons
 10tons Ltd
 10tons ltd
@@ -1664,6 +1667,7 @@
 ??:???? Demo
 ??:???? Oriental Dreams : The Forgotten Realm
 ??:???? The Sage's Spirit: Shining Flame Demo
+??:????(Norn Saber : The Guardian's Oath)
 ??:????,????
 ??:?????
 ??:Terreno di caccia
@@ -1750,6 +1754,7 @@
 ???? Physical TRAIN ~??????????~
 ???? Roaming Backrooms
 ???? So long, My Youth
+???? THIRD LAW
 ???? The 4th Ryokan
 ???? The Last Glimmer of the Martial Way
 ???? This One Doesn't Count
@@ -2314,6 +2319,8 @@ A.EddyGoldfarband
 A.EddyGoldfarbandAssociates
 A.I. P.I.
 A.I.P.I.
+A.I.TTORNEY
+A.I.ttorney
 A.K.O
 A.K.O   Arrow Keys Only
 A.K.O - ARROW KEYS ONLY
@@ -10170,6 +10177,7 @@ BLOODSTAINED: RITUAL OF THE NIGHT
 BLOODTHIEF
 BLOODWRIGHT
 BLOODY
+BLOODY BUNNY 3D
 BLOODY ROAR
 BLOODYROAR
 BLOOM
@@ -13478,7 +13486,9 @@ Bloodstained:RitualoftheNight
 Bloodthief
 Bloodwright
 Bloody
+Bloody Bunny 3D
 Bloody Roar
+BloodyBunny3D
 BloodyRoar
 Bloom
 Bloom N Buzz
@@ -16008,6 +16018,7 @@ CHART WEAVER
 CHASE
 CHASE HQ
 CHASE ST
+CHASE THE NUMBER
 CHASEHQ
 CHASER
 CHASERS DASH & BASH
@@ -19686,8 +19697,10 @@ ChartWeaver
 Chase
 Chase HQ
 Chase St
+Chase The Number
 ChaseHQ
 ChaseSt
+ChaseTheNumber
 Chasers Dash   Bash
 Chasers Dash & Bash
 ChasersDash&Bash
@@ -23330,6 +23343,8 @@ DEADLAND: FALLEN APARTMENT DLC 禁闭乐园：堕罪之寓 DLC
 DEADLAND: FALLEN APARTMENT 禁闭乐园：堕罪之寓
 DEADLINE
 DEADLINE GAMES
+DEADLINE: LAST CHECKPOINT
+DEADLINE:LASTCHECKPOINT
 DEADLINEGAMES
 DEADLIVERY NIGHT
 DEADLY
@@ -25361,6 +25376,7 @@ DRODRPG2:ACourageousRescue
 DROGNAN
 DROID MUST DELIVER
 DROMSYNT
+DRONE N GONE
 DRONE RACING
 DRONE SECTOR
 DRONE SIMULATOR VR
@@ -28906,6 +28922,7 @@ Drone Sector
 Drone Simulator VR
 Drone Strike   Tb2
 Drone Strike - Tb2
+Drone n Gone
 Drone:Modern Warfare
 Drone:ModernWarfare
 DroneRacing
@@ -28913,6 +28930,7 @@ DroneSector
 DroneSimulatorVR
 DroneStrike-Tb2
 Droned
+DronenGone
 Drop
 Drop Adventure   مغامرة قطرة
 Drop Adventure - ?????? ????
@@ -30250,6 +30268,7 @@ EMPTY
 EMPTY CLIP
 EMPTY CLIP STUDIOS
 EMPTY GAUGE
+EMPTY INBOX
 EMPTY MAP
 EMPTY THE OCEAN WITH A BUCKET
 EMPTY WORLD
@@ -30638,6 +30657,7 @@ ESCAPE THE LABYRINTH
 ESCAPE THE MARINE LAB
 ESCAPE THE MAZE
 ESCAPE THE MONSTALKERS!
+ESCAPE THE PLAYGROUND
 ESCAPE THE PYRAMID
 ESCAPE THE URBAN UNDERGROUND.
 ESCAPE THE WOJAK GOTY
@@ -31877,12 +31897,14 @@ Empty
 Empty Clip
 Empty Clip Studios
 Empty Gauge
+Empty Inbox
 Empty Map
 Empty World
 Empty the ocean with a bucket
 EmptyClip
 EmptyClipStudios
 EmptyGauge
+EmptyInbox
 EmptyMap
 EmptyWorld
 Emptytheoceanwithabucket
@@ -32282,6 +32304,7 @@ Escape the Grind
 Escape the House
 Escape the Marine Lab
 Escape the Maze
+Escape the Playground
 Escape the Urban Underground.
 Escape to the Italian brainrot
 Escape! House of Bonds
@@ -32345,6 +32368,7 @@ EscapetheGrind
 EscapetheHouse
 EscapetheMarineLab
 EscapetheMaze
+EscapethePlayground
 EscapetheUrbanUnderground.
 EscapetotheItalianbrainrot
 Escaping Wonderland
@@ -37536,6 +37560,8 @@ GABRIEL KNIGHT
 GABRIELKNIGHT
 GABY
 GABYSOFT
+GACHA AND SLEEP
+GACHAANDSLEEP
 GACHAMON
 GADD
 GADRIN
@@ -43493,6 +43519,7 @@ HOT DAWN UPRISING
 HOT DOGS, HORSESHOES & HAND GRENADES
 HOT HOLES
 HOT LAVA
+HOT MEALS FAST WHEELS - PROLOGUE
 HOT SHOT MONKEY
 HOT STAKES CASINO - AMERICAN ROULETTE
 HOT STRIPPERS
@@ -43579,6 +43606,7 @@ HOW TO KILL A FLY [ H2KAF ]
 HOW TO LOSE ONE'S VIRGINITY DEMO
 HOW TO MAKE AN ATOMIC BOMB IN YOUR GARDEN
 HOW TO TRAIN YOUR BRO'S GIRLFRIEND
+HOW TO WAIT FOR THE BUS
 HOW YOUR PACKAGE GETS DELIVERED
 HOWARD
 HOWLKRAUL
@@ -45538,6 +45566,7 @@ Holiday Motel Simulator
 HolidayHarry
 HolidayMotelSimulator
 Hollcroft
+Hollenburg 'Hell Castle' Demo
 Hollow Floor
 Hollow Ground
 Hollow Jump
@@ -45848,6 +45877,8 @@ Hot Dawn Uprising
 Hot Dogs, Horseshoes   Hand Grenades
 Hot Dogs, Horseshoes & Hand Grenades
 Hot Lava
+Hot Meals Fast Wheels   Prologue
+Hot Meals Fast Wheels - Prologue
 Hot Shot Monkey
 Hot Stakes Casino   American Roulette
 Hot Stakes Casino - American Roulette
@@ -45862,6 +45893,7 @@ HotBUSA
 HotDawnUprising
 HotDogs,Horseshoes&HandGrenades
 HotLava
+HotMealsFastWheels-Prologue
 HotShotMonkey
 HotStakesCasino-AmericanRoulette
 HotandLovely:PurpleLust
@@ -45959,6 +45991,7 @@ How to Fish X Gamble With Your Friends
 How to Make an Atomic Bomb in Your Garden
 How to Train Your Bro s Girlfriend
 How to Train Your Bro's Girlfriend
+How to Wait for the Bus
 How to create a witch
 How to lose one s virginity Demo
 How to lose one's virginity Demo
@@ -45978,6 +46011,7 @@ HowtoFish
 HowtoFishXGambleWithYourFriends
 HowtoMakeanAtomicBombinYourGarden
 HowtoTrainYourBro'sGirlfriend
+HowtoWaitfortheBus
 Howtocreateawitch
 Howtoloseone'svirginityDemo
 Hozy
@@ -46243,12 +46277,16 @@ Hyrule
 Hytham
 Hytham Hytham
 HythamHytham
+HÖLLENBURG 'HELL CASTLE' DEMO
 Hélaine
 Hélium
 Hériss
 Hérisse-Poil
 HérissePoil
 Héros
+Höllenburg  Hell Castle  Demo
+Höllenburg 'Hell Castle' Demo
+Höllenburg'HellCastle'Demo
 I
 I AM A BAD GUY IN SCHOOL BULLYING
 I AM A STICK
@@ -46563,6 +46601,7 @@ IDLE INCOME
 IDLE INFERNO
 IDLE JUMPER
 IDLE LAND OF EXILE
+IDLE MINER
 IDLE PET UFO
 IDLE PIXELS
 IDLE PROTOCOL
@@ -46848,6 +46887,7 @@ IN THE ROOTS OF THE MOUNTAIN
 IN THEIR SHOES
 IN THESE HALLOWED HALLS
 IN UTERO
+IN YOUR HANDS
 IN-HOUSE
 INARIUS
 INAYA
@@ -47743,6 +47783,7 @@ Idle Income
 Idle Inferno
 Idle Jumper
 Idle Land of Exile
+Idle Miner
 Idle Pixels
 Idle Protocol
 Idle Quest Simulator
@@ -47791,6 +47832,7 @@ IdleIncome
 IdleInferno
 IdleJumper
 IdleLandofExile
+IdleMiner
 IdleOn
 IdlePixels
 IdleProtocol
@@ -48026,6 +48068,7 @@ In The Roots Of The Mountain
 In Their Shoes
 In These Hallowed Halls
 In Utero
+In Your Hands
 In a Bit of Tales
 In a World After People Demo
 In the Midst of a Neverending Season
@@ -48058,6 +48101,7 @@ InUtero
 InXile
 InXile Entertainment
 InXileEntertainment
+InYourHands
 InaBitofTales
 InaWorldAfterPeopleDemo
 Inarius
@@ -51272,6 +51316,7 @@ KING RECORDS
 KING of HOLO
 KING'S
 KING'S BOUNTY: ULTIMATE EDITION
+KING'S CUP: THE ONLINE MULTIPLAYER DRINKING GAME
 KING'S FIELD
 KING'S HAND
 KING'S LYNN LEISURE FARM
@@ -52588,11 +52633,13 @@ King of Tokyo - Richard Garfield
 King of the Arcade
 King of the Monsters
 King s Bounty: Ultimate Edition
+King s Cup: The online multiplayer drinking game
 King s Hand
 King s Lynn Leisure Farm
 King s Subsidy
 King's
 King's Bounty: Ultimate Edition
+King's Cup: The online multiplayer drinking game
 King's Field
 King's Hand
 King's Lynn Leisure Farm
@@ -52600,6 +52647,7 @@ King's Quest
 King's Subsidy
 King's Well
 King'sBounty:UltimateEdition
+King'sCup:Theonlinemultiplayerdrinkinggame
 King'sField
 King'sHand
 King'sLynnLeisureFarm
@@ -53736,6 +53784,7 @@ LAST $50
 LAST BREATH
 LAST BULLET
 LAST CROWN GAMBIT
+LAST DELIVERY
 LAST EPOCH
 LAST EPOCH - FRACTURED LEGEND SUPPORTER PACK
 LAST FIEFDOM
@@ -55837,6 +55886,7 @@ Last $50
 Last Breath
 Last Bullet
 Last Crown Gambit
+Last Delivery
 Last Epoch
 Last Epoch   Fractured Legend Supporter Pack
 Last Epoch - Fractured Legend Supporter Pack
@@ -55869,6 +55919,7 @@ Last$50
 LastBreath
 LastBullet
 LastCrownGambit
+LastDelivery
 LastEpoch
 LastEpoch-FracturedLegendSupporterPack
 LastFiefdom
@@ -66426,6 +66477,7 @@ NIGHT SHIFT AT NATE'S
 NIGHT SHIFT AT THE GYM
 NIGHT SHIFT AT THE MUSEUM
 NIGHT SHIFT: ANOMALY
+NIGHT STUDY
 NIGHT SWARM
 NIGHT SWARM DEMO
 NIGHT TERROR
@@ -67839,6 +67891,7 @@ Night Shift at Nate's
 Night Shift at the Gym
 Night Shift at the Museum
 Night Shift: Anomaly
+Night Study
 Night Swarm
 Night Swarm Demo
 Night Terror
@@ -67870,6 +67923,7 @@ NightShift:Anomaly
 NightShiftatNate's
 NightShiftattheGym
 NightShiftattheMuseum
+NightStudy
 NightSwarm
 NightSwarmDemo
 NightTerror
@@ -69419,6 +69473,7 @@ ONLY FARMS ?
 ONLY FARMS 🍑
 ONLY GOOD BABYSITTERS GO TO HEAVEN
 ONLY HARD
+ONLY MINING DEMO
 ONLY ONE NIGHT
 ONLY SEX
 ONLY UP: CHAN CHAINED TOGETHER
@@ -70740,6 +70795,7 @@ Only Faces Remain
 Only Farming   Cozy Harvesting Game
 Only Farming - Cozy Harvesting Game
 Only Good Babysitters Go To Heaven
+Only Mining Demo
 Only One Night
 Only Up: Chan Chained Together
 Only Whores Survive ?
@@ -70751,6 +70807,7 @@ OnlyDown:NotUp!
 OnlyFacesRemain
 OnlyFarming-CozyHarvestingGame
 OnlyGoodBabysittersGoToHeaven
+OnlyMiningDemo
 OnlyOneNight
 OnlySluts: WAIFU MATCH <3
 OnlySluts: WAIFU MATCH 💖
@@ -73138,6 +73195,7 @@ POCO
 PODOBOO
 POEM OF THE STARHERD
 POGGERS 2 - A-MAZE-THING
+POGO GNOM
 POGO STICK: ULTIMATE CHALLENGE
 POGO TOGETHER
 POHLM
@@ -76272,8 +76330,10 @@ PoemoftheStarherd
 Poggers 2   A Maze Thing
 Poggers 2 - A-Maze-Thing
 Poggers2-A-Maze-Thing
+Pogo Gnom
 Pogo Stick: Ultimate Challenge
 Pogo Together
+PogoGnom
 PogoStick:UltimateChallenge
 PogoTogether
 Pohlm
@@ -84705,6 +84765,7 @@ SINBADEXPRESS
 SINCLAIR
 SINDEL
 SINEMORSK: OIL INCLUSIVE
+SINEVER: FIRST SEAL
 SINFUL VILLA 🔞
 SINGAPORE
 SINGAPOUR
@@ -85421,6 +85482,7 @@ SOLITARY SENTINEL
 SOLITUDE
 SOLO BREEDING
 SOLO CHESS
+SOLO CULTIVATION 独修
 SOLO DEFENDING
 SOLO KNIGHT
 SOLO LEVELING: ARISE OVERDRIVE
@@ -86308,6 +86370,12 @@ STAR WARS(TM) Battlefront(TM) II
 STAR WARS(TM) Jedi Bundle
 STAR WARS(TM): The Old Republic(TM) - Continue the Fight
 STAR WARS(TM): The Old Republic(TM) - Master the Fight: Cargo Transport Edition
+STAR WARS: GALACTIC RACER™
+STAR WARS: GALACTIC RACER™ DELUXE UPGRADE
+STAR WARS: Galactic Racer(TM)
+STAR WARS: Galactic Racer(TM) Deluxe Upgrade
+STAR WARS: Galactic Racer™
+STAR WARS: Galactic Racer™ Deluxe Upgrade
 STAR WARS: KNIGHTS OF OLD REPUBLIC
 STAR WARS: KNIGHTS OF THE OLD REPUBLIC
 STAR WARS: TIE FIGHTER
@@ -86326,6 +86394,7 @@ STAR'S PEACES: MEMORIAL EDITION
 STARARC ECHO
 STARBAG
 STARBASE STARLIGHT
+STARBLOOM RANCH
 STARBOI
 STARBREED
 STARBREED ARTBOOK
@@ -86426,6 +86495,8 @@ STARTUPFRAMES
 STARVAULT
 STARWALKER
 STARWARS
+STARWARS:GalacticRacer™
+STARWARS:GalacticRacer™DeluxeUpgrade
 STARWARS:KNIGHTSOFOLDREPUBLIC
 STARWARS:KNIGHTSOFTHEOLDREPUBLIC
 STARWARS:TIEFIGHTER
@@ -86629,6 +86700,7 @@ STITCHLINGS
 STOCK FIGHTER
 STOCKAGE
 STOCKS
+STOLEMATES
 STOLEN LEGACY RISE OF THE FALLEN
 STOMACH
 STOMPER
@@ -86994,6 +87066,7 @@ SUDOKI-DOKI: A HENTAI SUDOKU GAME!
 SUDOKU ACRES
 SUDOKU DREAMS
 SUDOKU DUNGEON
+SUDOKU GIRLS: HAWAII VACATION
 SUDOKU HAVEN
 SUDOKU MANSION
 SUDOKU ONLINE WITH FRIENDS
@@ -90110,6 +90183,8 @@ Sinclair
 Sindel
 Sinemorsk: oil inclusive
 Sinemorsk:oilinclusive
+Sinever: First Seal
+Sinever:FirstSeal
 Sinful Villa ?
 Sinful Villa 🔞
 SinfulVilla🔞
@@ -90984,6 +91059,8 @@ SolitarySentinel
 Solitude
 Solo Breeding
 Solo Chess
+Solo Cultivation ??
+Solo Cultivation 独修
 Solo Defending
 Solo Knight
 Solo Leveling: ARISE OVERDRIVE
@@ -90993,6 +91070,7 @@ Solo Shift!
 Solo Tactics
 SoloBreeding
 SoloChess
+SoloCultivation独修
 SoloDefending
 SoloKnight
 SoloLeveling:ARISEOVERDRIVE
@@ -92144,6 +92222,8 @@ StarWitch
 Starbag
 Starbase Starlight
 StarbaseStarlight
+Starbloom Ranch
+StarbloomRanch
 Starboi
 Starbreed
 Starbreed Artbook
@@ -92490,6 +92570,7 @@ Stitchlings
 Stock Fighter
 StockFighter
 Stocks
+Stolemates
 Stolen Legacy Rise of The Fallen
 StolenLegacyRiseofTheFallen
 Stomach
@@ -93003,6 +93084,7 @@ SuddenStrike4
 Sudoku Acres
 Sudoku Dreams
 Sudoku Dungeon
+Sudoku Girls: Hawaii Vacation
 Sudoku Haven
 Sudoku Mansion
 Sudoku Solace
@@ -93012,6 +93094,7 @@ Sudoku:UnlimitedExpansion
 SudokuAcres
 SudokuDreams
 SudokuDungeon
+SudokuGirls:HawaiiVacation
 SudokuGo
 SudokuHaven
 SudokuMansion
@@ -95639,6 +95722,7 @@ THE OFFICE ROOMS
 THE OFFICE ROOMS DEMO
 THE OFFICE VOID
 THE OFFICE: DIRTY SECRETS
+THE OKTOBERFEST ARMOR SET
 THE OLD FLESH OF NURAGA
 THE OLD MANSION: ETERNAL NIGHT
 THE OLD MANSION: ETERNAL NIGHT DEMO
@@ -95725,6 +95809,7 @@ THE RITUAL
 THE RIVER
 THE ROACH HOTEL
 THE ROAD OF REBIRTH
+THE ROAD REMEMBERS
 THE ROGUE
 THE ROGUE PRINCE OF PERSIA
 THE ROOM
@@ -97093,6 +97178,7 @@ TOWER LORDS
 TOWER OF BABEL: SURVIVORS OF CHAOS - GOLDEN DRAGON PACK
 TOWER OF DOGMA
 TOWER OF DRUAGA
+TOWER OF FANGS: SUMMONED TO ANOTHER WORLD, I WAS LOCKED IN A TOWER WITH 299 STRIKERS, ONLY THE LAST EGOIST GOES HOME
 TOWER OF GAND
 TOWER OF JANK
 TOWER OF PESTILENCE
@@ -99661,6 +99747,7 @@ The Odyssey Simulator
 The Office Rooms Demo
 The Office Void
 The Office: Dirty Secrets
+The Oktoberfest Armor Set
 The Old Flesh of Nuraga
 The Old Man's Will
 The Old Man’s Will
@@ -99753,6 +99840,7 @@ The Rite Holds
 The Ritual
 The River
 The Roach Hotel
+The Road Remembers
 The Road of Rebirth
 The Rogue
 The Rogue Prince of Persia
@@ -100671,6 +100759,7 @@ TheOdysseySimulator
 TheOffice:DirtySecrets
 TheOfficeRoomsDemo
 TheOfficeVoid
+TheOktoberfestArmorSet
 TheOldFleshofNuraga
 TheOldMan’sWill
 TheOldWoman|無言老婆
@@ -100755,6 +100844,7 @@ TheRiteHolds
 TheRitual
 TheRiver
 TheRoachHotel
+TheRoadRemembers
 TheRoadofRebirth
 TheRogue
 TheRoguePrinceofPersia
@@ -102167,6 +102257,7 @@ Tower War
 Tower of Babel: Survivors of Chaos   Golden Dragon Pack
 Tower of Babel: Survivors of Chaos - Golden Dragon Pack
 Tower of Druaga
+Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home
 Tower of Gand
 Tower of Jank
 Tower of Pestilence
@@ -102193,6 +102284,7 @@ Towerfolk
 Towerix91
 TowerofBabel:SurvivorsofChaos-GoldenDragonPack
 TowerofDruaga
+TowerofFangs:SummonedtoAnotherWorld,IWasLockedinaTowerwith299Strikers,OnlytheLastEgoistGoesHome
 TowerofGand
 TowerofJank
 TowerofPestilence
@@ -104414,6 +104506,7 @@ VEIL OF TORMENT
 VEIL PHANE - PATH TO REDEMPTION
 VEIL: MIRAGES
 VEIL: PROJECT CONDUCTOR
+VEILLOMBRE
 VEILWOOD
 VEIN
 VEINS LIKE TAPEWORMS
@@ -104928,6 +105021,7 @@ VOID81: THE BACKROOMS
 VOID81: The Backrooms
 VOID81:TheBackrooms
 VOIDBLADE
+VOIDFALL
 VOIDHUE DEMO
 VOIDLING BOUND
 VOIDNOMALY
@@ -105351,6 +105445,7 @@ Veil:Mirages
 Veil:ProjectConductor
 VeilPhane-PathtoRedemption
 VeilWood
+Veillombre
 VeilofTorment
 Veins Like Tapeworms
 VeinsLikeTapeworms
@@ -105913,6 +106008,7 @@ Void of Lilly
 VoidAscendancy
 VoidClickers
 VoidCrew
+VoidFall
 VoidFighters
 VoidHarvestDemo
 VoidHue Demo
@@ -106416,6 +106512,7 @@ WATARAI
 WATATUYO-ANOTHER
 WATCH
 WATCH DOGS
+WATCH PARTY: WATCH THE WEB TOGETHER (DEMO)
 WATCH THE CORNLINE VR
 WATCH THE EDGE HONEY!
 WATCH THE PET
@@ -106593,6 +106690,7 @@ WEREWOLF PARTY
 WEREWOLF: THE INNER BEAST
 WEREWOLF: THE INNER BEAST - UNRATED
 WEREWOLVES REVENGE
+WERFAST
 WERNER
 WERNER VON CROY
 WERNERVONCROY
@@ -106734,6 +106832,7 @@ WHITE BANNER
 WHITE BED
 WHITE BIRDS
 WHITE BIRDS PRODUCTIONS
+WHITE CHRISTMAS DEMO
 WHITE DAY: A LABYRINTH NAMED SCHOOL
 WHITE DYE
 WHITE ETERNAL
@@ -107343,6 +107442,7 @@ WXPGames
 WYBORN
 WYRDWIC: AT THE HEART OF A NEW WORLD
 WYRED
+WYRMGATE DEMO
 WZRDS
 Wacky
 Wacky West
@@ -107829,10 +107929,13 @@ Watatuyo ANOTHER
 Watatuyo-ANOTHER
 Watch
 Watch Dogs
+Watch Party: Watch the Web Together  Demo 
+Watch Party: Watch the Web Together (Demo)
 Watch The Edge Honey!
 Watch The Pet
 Watch the Cornline VR
 WatchDogs
+WatchParty:WatchtheWebTogether(Demo)
 WatchTheEdgeHoney!
 WatchThePet
 Watch_Dogs(R) 2
@@ -108054,6 +108157,7 @@ Werewolf:TheInnerBeast-Unrated
 WerewolfParty
 Werewolves Revenge
 WerewolvesRevenge
+Werfast
 Werner
 Werner Von Croy
 WernerVonCroy
@@ -108269,6 +108373,7 @@ White Banner
 White Bed
 White Birds
 White Birds Productions
+White Christmas Demo
 White Day: A Labyrinth Named School
 White Dye
 White Eternal
@@ -108278,6 +108383,7 @@ WhiteBanner
 WhiteBed
 WhiteBirds
 WhiteBirdsProductions
+WhiteChristmasDemo
 WhiteDay:ALabyrinthNamedSchool
 WhiteDye
 WhiteEternal
@@ -109010,6 +109116,8 @@ Wyborn
 Wyrdwic: At the Heart of a New World
 Wyrdwic:AttheHeartofaNewWorld
 Wyred
+WyrmGate Demo
+WyrmGateDemo
 X
 X MULTIPLY
 X Magnifier
@@ -111191,6 +111299,7 @@ a.eddygoldfarb
 a.eddygoldfarband
 a.eddygoldfarbandassociates
 a.i. p.i.
+a.i.ttorney
 a.k.o
 a.k.o - arrow keys only
 a.p
@@ -115535,6 +115644,7 @@ bloodstained: ritual of the night
 bloodthief
 bloodwright
 bloody
+bloody bunny 3d
 bloody roar
 bloodyroar
 bloom
@@ -117731,6 +117841,7 @@ chart weaver
 chase
 chase hq
 chase st
+chase the number
 chasehq
 chaser
 chasers dash & bash
@@ -120698,6 +120809,7 @@ deadland: fallen apartment dlc 禁闭乐园：堕罪之寓 dlc
 deadland: fallen apartment 禁闭乐园：堕罪之寓
 deadline
 deadline games
+deadline: last checkpoint
 deadlinegames
 deadlivery night
 deadly
@@ -122607,6 +122719,7 @@ drodonkovacs
 drognan
 droid must deliver
 dromsynt
+drone n gone
 drone racing
 drone sector
 drone simulator vr
@@ -123752,6 +123865,7 @@ empty
 empty clip
 empty clip studios
 empty gauge
+empty inbox
 empty map
 empty the ocean with a bucket
 empty world
@@ -124133,6 +124247,7 @@ escape the labyrinth
 escape the marine lab
 escape the maze
 escape the monstalkers!
+escape the playground
 escape the pyramid
 escape the urban underground.
 escape the wojak goty
@@ -126547,6 +126662,7 @@ gabriel knight
 gabrielknight
 gaby
 gabysoft
+gacha and sleep
 gachamon
 gadd
 gadrin
@@ -130043,6 +130159,7 @@ hot dawn uprising
 hot dogs, horseshoes & hand grenades
 hot holes
 hot lava
+hot meals fast wheels - prologue
 hot shot monkey
 hot stakes casino - american roulette
 hot strippers
@@ -130124,6 +130241,7 @@ how to kill a fly [ h2kaf ]
 how to lose one's virginity demo
 how to make an atomic bomb in your garden
 how to train your bro's girlfriend
+how to wait for the bus
 how your package gets delivered
 howard
 howlkraul
@@ -130331,6 +130449,7 @@ hériss
 hérisse-poil
 hérissepoil
 héros
+höllenburg 'hell castle' demo
 i
 i am a bad guy in school bullying
 i am a stick
@@ -130595,6 +130714,7 @@ idle income
 idle inferno
 idle jumper
 idle land of exile
+idle miner
 idle pet ufo
 idle pixels
 idle protocol
@@ -130851,6 +130971,7 @@ in the roots of the mountain
 in their shoes
 in these hallowed halls
 in utero
+in your hands
 in-house
 inDeathweLove
 inZOI
@@ -132956,6 +133077,7 @@ king quest
 king records
 king's
 king's bounty: ultimate edition
+king's cup: the online multiplayer drinking game
 king's field
 king's hand
 king's lynn leisure farm
@@ -133997,6 +134119,7 @@ last $50
 last breath
 last bullet
 last crown gambit
+last delivery
 last epoch
 last epoch - fractured legend supporter pack
 last fiefdom
@@ -139857,6 +139980,7 @@ night shift at nate's
 night shift at the gym
 night shift at the museum
 night shift: anomaly
+night study
 night swarm
 night swarm demo
 night terror
@@ -141279,6 +141403,7 @@ only farming - cozy harvesting game
 only farms 🍑
 only good babysitters go to heaven
 only hard
+only mining demo
 only one night
 only sex
 only up: chan chained together
@@ -143415,6 +143540,7 @@ poco
 podoboo
 poem of the starherd
 poggers 2 - a-maze-thing
+pogo gnom
 pogo stick: ultimate challenge
 pogo together
 pohlm
@@ -148628,6 +148754,7 @@ sinbadexpress
 sinclair
 sindel
 sinemorsk: oil inclusive
+sinever: first seal
 sinful villa 🔞
 singapore
 singapour
@@ -149315,6 +149442,7 @@ solitary sentinel
 solitude
 solo breeding
 solo chess
+solo cultivation 独修
 solo defending
 solo knight
 solo leveling: arise overdrive
@@ -150163,6 +150291,8 @@ star wars rogue squadron 2
 star wars tie fighter
 star wars trilogy
 star wars zero company™
+star wars: galactic racer™
+star wars: galactic racer™ deluxe upgrade
 star wars: knights of old republic
 star wars: knights of the old republic
 star wars: tie fighter
@@ -150175,6 +150305,7 @@ star's peaces: memorial edition
 stararc echo
 starbag
 starbase starlight
+starbloom ranch
 starboi
 starbreed
 starbreed artbook
@@ -150461,6 +150592,7 @@ stitchlings
 stock fighter
 stockage
 stocks
+stolemates
 stolen legacy rise of the fallen
 stomach
 stomper
@@ -150822,6 +150954,7 @@ sudoki-doki: a hentai sudoku game!
 sudoku acres
 sudoku dreams
 sudoku dungeon
+sudoku girls: hawaii vacation
 sudoku haven
 sudoku mansion
 sudoku online with friends
@@ -153139,6 +153272,7 @@ the office rooms
 the office rooms demo
 the office void
 the office: dirty secrets
+the oktoberfest armor set
 the old flesh of nuraga
 the old mansion: eternal night
 the old mansion: eternal night demo
@@ -153225,6 +153359,7 @@ the ritual
 the river
 the roach hotel
 the road of rebirth
+the road remembers
 the rogue
 the rogue prince of persia
 the room
@@ -154561,6 +154696,7 @@ tower lords
 tower of babel: survivors of chaos - golden dragon pack
 tower of dogma
 tower of druaga
+tower of fangs: summoned to another world, i was locked in a tower with 299 strikers, only the last egoist goes home
 tower of gand
 tower of jank
 tower of pestilence
@@ -155976,6 +156112,7 @@ veil of torment
 veil phane - path to redemption
 veil: mirages
 veil: project conductor
+veillombre
 veilwood
 vein
 veins like tapeworms
@@ -156467,6 +156604,7 @@ void war
 void/breaker
 void81: the backrooms
 voidblade
+voidfall
 voidfutureprologue
 voidhue demo
 voidling bound
@@ -156945,6 +157083,7 @@ watarai
 watatuyo-another
 watch
 watch dogs
+watch party: watch the web together (demo)
 watch the cornline vr
 watch the edge honey!
 watch the pet
@@ -157106,6 +157245,7 @@ werewolf party
 werewolf: the inner beast
 werewolf: the inner beast - unrated
 werewolves revenge
+werfast
 werner
 werner von croy
 wernervoncroy
@@ -157243,6 +157383,7 @@ white banner
 white bed
 white birds
 white birds productions
+white christmas demo
 white day: a labyrinth named school
 white dye
 white eternal
@@ -157818,6 +157959,7 @@ wxpgames
 wyborn
 wyrdwic: at the heart of a new world
 wyred
+wyrmgate demo
 wzrds
 x
 x multiply
@@ -159227,6 +159369,11 @@ zèbre
 女儿国的诅咒 the curse of womanland
 女儿国的诅咒TheCurseofWomanland
 女神的贴身男仆
+女神：守護之約 Norn Saber : The Guardian s Oath 
+女神：守護之約(NORN SABER : THE GUARDIAN'S OATH)
+女神：守護之約(Norn Saber : The Guardian's Oath)
+女神：守護之約(NornSaber:TheGuardian'sOath)
+女神：守護之約(norn saber : the guardian's oath)
 她毕业了 SO LONG, MY YOUTH
 她毕业了 So long, My Youth
 她毕业了 so long, my youth
@@ -159242,6 +159389,7 @@ zèbre
 学生时代 - 新春服装包
 学生时代-初阳
 学生时代-新春服装包
+宗门轮回
 宝姉妹   スクラッチシミュレーター
 宝姉妹 | スクラッチシミュレーター
 宝姉妹|スクラッチシミュレーター
@@ -159811,6 +159959,9 @@ zèbre
 空野まなみの事件録 ― 空白のカルテ ―
 空野まなみの事件録―空白のカルテ―
 第一次挂机
+第三定律 THIRD LAW
+第三定律 third law
+第三定律THIRDLAW
 第九人格NINTH IDENTITY
 第九人格Ninth Identity
 第九人格NinthIdentity
