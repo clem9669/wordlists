@@ -1241,6 +1241,7 @@ ACCIDENT MORTEL SAINT LEGER
 ACCIDENT MOUSCRON
 ACCIDENT NEUCHATEL
 ACCIDENT NYON
+ACCIDENT PARAPENTE VALAIS
 ACCIDENT PARIS
 ACCIDENT PISCINE LA CHAUX DE FONDS
 ACCIDENT PLOMBIÈRES
@@ -2043,6 +2044,7 @@ ALEX MARQUEZ
 ALEX MORGAN
 ALEX PEREIRA
 ALEX PULLIN
+ALEX VIZOREK
 ALEX WILSON
 ALEX ZANARDI
 ALEXANDER BLESSIN
@@ -9561,6 +9563,8 @@ BELMONDO
 BELMONDO OVERLEDEN
 BELMONDO TOT
 BELOEGA
+BELOW
+BELOW NETFLIX
 BELP
 BELUGA
 BELÇIKA - TÜRKIYE
@@ -15718,6 +15722,8 @@ CFF
 CFIntercity
 CFO
 CFO LOL
+CFR CLUJ - ,,U" CLUJ
+CFR CLUJ - „U” CLUJ
 CGI
 CGN
 CGT
@@ -16351,6 +16357,7 @@ CHRISTOPHE DE BEUKELAER
 CHRISTOPHE DECHAVANNE
 CHRISTOPHE DELCOURT
 CHRISTOPHE DELOIRE
+CHRISTOPHE DUGARRY
 CHRISTOPHE GALTIER
 CHRISTOPHE GALTIER PSG
 CHRISTOPHE HONDELATTE
@@ -17672,6 +17679,7 @@ CYBER MONDAY ANGEBOTE
 CYBER MONDAY DEALS
 CYBERAANVAL
 CYBERAANVAL BRUSSELS AIRPORT
+CYBERANGRIFF
 CYBERANGRIFF STRYKER
 CYBERATTAQUE
 CYBERATTAQUE AEROPORTS
@@ -34395,6 +34403,7 @@ GEREMY CREDEVILLE
 GERHARD ANDREY
 GERHARD PFISTER
 GERHARD RICHTER
+GERHARD SCHRODER
 GERHARD SCHRÖDER
 GERI HALLIWELL
 GERICHT
@@ -38513,6 +38522,7 @@ HOPP SCHWIIZ!
 HOPPER ET LE HAMSTER DES TÉNÈBRES
 HOPPSCHWIIZ
 HORAIRE RAMADAN 2022
+HORECA
 HORIZON FORBIDDEN WEST
 HORLOGE
 HORLOGE PARLANTE
@@ -42638,6 +42648,7 @@ JEAN MOULIN
 JEAN NABAA
 JEAN NOEL BARROT
 JEAN ONANA
+JEAN PAUL BELMONDO
 JEAN PAUL GAULTIER
 JEAN PAUL ROUVE
 JEAN PETIT
@@ -46829,6 +46840,7 @@ KILLIAN MOTTET
 KILLING JOKE
 KILLINGTON
 KILMARNOCK
+KIM
 KIM BASINGER
 KIM CLIJSTERS
 KIM DE BAAT
@@ -50483,6 +50495,7 @@ LINE PAPIN
 LINE RENAUD
 LINE UP TOMORROWLAND 2025
 LINGOT D'OR
+LINIENBUS
 LINIENBUS GESTOHLEN
 LINKEDIN
 LINKERWOOFER
@@ -50566,6 +50579,7 @@ LITAUEN
 LITAUEN GEGEN TÜRKEI
 LITECOIN
 LITERATURNOBELPREIS 2025
+LITERATURNOBELPREIS 2026
 LITTLE BIRD
 LITTLE GIRL BLUE
 LITUANIE
@@ -55679,6 +55693,8 @@ MARC MARQUEZ
 MARC MARQUEZ MOTOGP
 MARC OVERMARS
 MARC PASTEGER
+MARC PERE
+MARC PÉRÉ
 MARC REBILLET
 MARC ROCHAT
 MARC SERGEANT
@@ -63233,6 +63249,8 @@ NATIONALFEIERTAG FRANKREICH
 NATIONALFEIERTAG SCHWEIZ
 NATIONALFEIERTAG ÖSTERREICH
 NATIONALISATION EDF
+NATIONALITE
+NATIONALITÉ
 NATIONALRAT
 NATIONALRAT BERN
 NATIONALRAT FATHI DERDER TODESURSACHE
@@ -86955,6 +86973,7 @@ TRELISSAC
 TREMBLANT
 TREMBLEMENT DE TERRE
 TREMBLEMENT DE TERRE ANGERS
+TREMBLEMENT DE TERRE BELGIQUE
 TREMBLEMENT DE TERRE BREST
 TREMBLEMENT DE TERRE COLOMBIE
 TREMBLEMENT DE TERRE FRANCE
@@ -90021,6 +90040,7 @@ UBBStadeFrançais
 UBBStadeToulousain
 UBER
 UBER EATS
+UBERFAHREN
 UBERHOLVORGANG
 UBERSCHWEMMUNGEN AUSTRALIEN
 UBERSCHWEMMUNGEN SUDFRANKREICH
@@ -97250,6 +97270,7 @@ accident mortel saint leger
 accident mouscron
 accident neuchatel
 accident nyon
+accident parapente valais
 accident paris
 accident piscine la chaux de fonds
 accident plombières
@@ -97322,6 +97343,7 @@ accidentmortelcurbigny
 accidentmortelhotton
 accidentmortelsaintleger
 accidentneuchatel
+accidentparapentevalais
 accidentpiscinelachauxdefonds
 accidentrallyedelafourmedambert
 accidents au sénégal
@@ -98318,6 +98340,7 @@ alex marquez
 alex morgan
 alex pereira
 alex pullin
+alex vizorek
 alex wilson
 alex zanardi
 alexander blessin
@@ -98436,6 +98459,7 @@ alexmanninger
 alexmarquez
 alexpereira
 alexpullin
+alexvizorek
 alfa romeo
 alfa romeo 33 stradale
 alfa romeo milano
@@ -102312,6 +102336,9 @@ belmondo
 belmondo overleden
 belmondo tot
 beloega
+below
+below netflix
+belownetflix
 belp
 beluga
 belçika  türkiye
@@ -105718,6 +105745,12 @@ cff
 cfo
 cfo lol
 cfolol
+cfr cluj  ,,u" cluj
+cfr cluj  „u” cluj
+cfr cluj - ,,u" cluj
+cfr cluj - „u” cluj
+cfrcluj-,,u"cluj
+cfrcluj-„u”cluj
 cgi
 cgn
 cgt
@@ -106499,6 +106532,7 @@ christophe de beukelaer
 christophe dechavanne
 christophe delcourt
 christophe deloire
+christophe dugarry
 christophe galtier
 christophe galtier psg
 christophe hondelatte
@@ -106520,6 +106554,7 @@ christophe ruggia adèle haenel
 christophe urios
 christophe willem
 christophedebeukelaer
+christophedugarry
 christophelambert
 christophelambrecht
 christophelaporte
@@ -108222,6 +108257,7 @@ cyber monday deals
 cyberaanval
 cyberaanval brussels airport
 cyberaanvalbrusselsairport
+cyberangriff
 cyberangriff stryker
 cyberangriffstryker
 cyberattaque
@@ -115819,8 +115855,11 @@ geremy credeville
 gerhard andrey
 gerhard pfister
 gerhard richter
+gerhard schroder
 gerhard schröder
 gerhardpfister
+gerhardschroder
+gerhardschröder
 geri halliwell
 gericht
 germania  francia
@@ -118328,6 +118367,7 @@ hopp schwiiz!
 hopper et le hamster des ténèbres
 hoppschwiiz
 horaire ramadan 2022
+horeca
 horizon forbidden west
 horloge
 horloge parlante
@@ -120554,6 +120594,7 @@ jean moulin
 jean nabaa
 jean noel barrot
 jean onana
+jean paul belmondo
 jean paul gaultier
 jean paul rouve
 jean petit
@@ -120741,6 +120782,7 @@ jeannoel spitzer
 jeannoelbarrot
 jeannoël spitzer
 jeanpaul huchon
+jeanpaulbelmondo
 jeanpaulhuchon
 jeanpaulrouve
 jeanpierre foucault
@@ -122758,6 +122800,7 @@ killiancorredor
 killing joke
 killington
 kilmarnock
+kim
 kim basinger
 kim clijsters
 kim de baat
@@ -125618,6 +125661,7 @@ lineuptomorrowland2025
 lingot d'or
 lingot dor
 lingotd'or
+linienbus
 linienbus gestohlen
 linienbusgestohlen
 linkedin
@@ -125717,7 +125761,9 @@ litauen
 litauen gegen türkei
 litecoin
 literaturnobelpreis 2025
+literaturnobelpreis 2026
 literaturnobelpreis2025
+literaturnobelpreis2026
 little bird
 little girl blue
 lituanie
@@ -127754,6 +127800,8 @@ marc marquez
 marc marquez motogp
 marc overmars
 marc pasteger
+marc pere
+marc péré
 marc rebillet
 marc rochat
 marc sergeant
@@ -127861,6 +127909,8 @@ marcos llorente
 marcoschwarz
 marcosllorente
 marcoverratti
+marcpere
+marcpéré
 marcrochat
 marcus maurer charite
 marcus rashford
@@ -131357,6 +131407,8 @@ nationalfeiertag frankreich
 nationalfeiertag schweiz
 nationalfeiertag österreich
 nationalisation edf
+nationalite
+nationalité
 nationalleague
 nationalrat
 nationalrat bern
@@ -144263,6 +144315,7 @@ thierry solère
 thierry theys
 thierryafschrift
 thierryardisson
+thierrybreton
 thierryburkartjaninealbiez
 thierryburkartmelinasalaorni
 thierrycotillard
@@ -145428,6 +145481,7 @@ trelissac
 tremblant
 tremblement de terre
 tremblement de terre angers
+tremblement de terre belgique
 tremblement de terre brest
 tremblement de terre colombie
 tremblement de terre france
@@ -145446,6 +145500,7 @@ tremblement terre new york
 tremblement terre nice
 tremblementdeterre
 tremblementdeterreangers
+tremblementdeterrebelgique
 tremblementdeterrebrest
 tremblementdeterrecolombie
 tremblementdeterrepaysbas
@@ -145947,6 +146002,7 @@ ubbtoulouse
 ubbtoulousechampionscup
 uber
 uber eats
+uberfahren
 uberholvorgang
 uberschwemmungen australien
 uberschwemmungen sudfrankreich
@@ -150251,6 +150307,7 @@ zürich–servette
 ÖsterreichTürkei
 ÖsterreichgegenItalien
 Östersund
+ÜBERFAHREN
 ÜBERHOLVORGANG
 ÜBERSCHWEMMUNG DEUTSCHLAND
 ÜBERSCHWEMMUNGEN AUSTRALIEN
@@ -150468,6 +150525,7 @@ zürich–servette
 österreichschließtgrenzen
 österreich–kosovo
 östersund
+überfahren
 überholvorgang
 überschwemmung deutschland
 überschwemmungen australien
@@ -150528,6 +150586,8 @@ zürich–servette
 الريالضدسلتافيغو
 الريالضدليفانتي
 الطقس
+الطقس غدًا
+الطقسغدًا
 ايناس النجار
 ايناسالنجار
 برشلونة ضد رايو فاليكانو
