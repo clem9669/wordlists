@@ -1759,6 +1759,7 @@
 ???? The Last Glimmer of the Martial Way
 ???? This One Doesn't Count
 ???? Weapons
+???? kizutsuke
 ???? mow grass
 ???? ~?????!~
 ???? ~????????????~ ??? ?????
@@ -1882,6 +1883,7 @@
 ??????? : Edo Village Nightmare
 ??????? ?????!2
 ??????? ???????????? in ???????
+??????? Death Angel Requiem
 ??????? LoveLife of QingLan Island
 ??????? NullKitchenException
 ??????? Taihe's Crazy Farm
@@ -2447,6 +2449,7 @@ ACACIADOOR
 ACADEMY
 ACADEMY LOVE SAGA: TENNIS ANGELS
 ACADEMY OF SAMSARA
+ACADEMY SOCCER MANAGER
 ACAJOU
 ACCELEROTO
 ACCEPT OR REJECT
@@ -4756,6 +4759,7 @@ ASTRAL BOUT
 ASTRAL EDEN [CHAPTER 1]
 ASTRAL LODGE
 ASTRAL LORDS
+ASTRAL SHIFTER
 ASTRAL SOFTWARE
 ASTRALBOUT
 ASTRALSOFTWARE
@@ -5355,8 +5359,10 @@ Acacia Door
 AcaciaDoor
 Academy
 Academy Love Saga: Tennis Angels
+Academy Soccer Manager
 Academy of Samsara
 AcademyLoveSaga:TennisAngels
+AcademySoccerManager
 AcademyofSamsara
 Acceleroto
 Accept or Reject
@@ -7822,6 +7828,7 @@ Astral Eden [CHAPTER 1]
 Astral Lodge
 Astral Lords
 Astral Software
+Astral shifter
 Astral:SteamEdition
 AstralAscension
 AstralAscent
@@ -7831,6 +7838,7 @@ AstralEden[CHAPTER1]
 AstralLodge
 AstralLords
 AstralSoftware
+Astralshifter
 Astralyte
 Astray: Zero
 Astray:Zero
@@ -9571,6 +9579,7 @@ BIG FIVE SOFTWARE
 BIG FLIP BASKETBALL
 BIG FUN
 BIG FUN GAMES
+BIG FURRY WEEKENDS!
 BIG GOLDEN ROCK
 BIG HEAD
 BIG HEAD GAMES
@@ -10701,6 +10710,7 @@ BOUNDERBOUNDER
 BOUNTY
 BOUNTY BOB STRIKES BACK
 BOUNTY DRAG RACING - OUTLAW PACK 11
+BOUNTY HUNTER HORRORS
 BOUNTY HUNTERS
 BOUNTYBOBSTRIKESBACK
 BOURBON RISKY
@@ -12756,6 +12766,7 @@ Big Five Software
 Big Flip Basketball
 Big Fun
 Big Fun Games
+Big Furry Weekends!
 Big Golden Rock
 Big Head
 Big Head Games
@@ -12821,6 +12832,7 @@ BigFiveSoftware
 BigFlipBasketball
 BigFun
 BigFunGames
+BigFurryWeekends!
 BigGoldenRock
 BigHead
 BigHeadGames
@@ -14088,9 +14100,11 @@ Bounty
 Bounty Bob Strikes Back
 Bounty Drag Racing   Outlaw Pack 11
 Bounty Drag Racing - Outlaw Pack 11
+Bounty Hunter Horrors
 Bounty Hunters
 BountyBobStrikesBack
 BountyDragRacing-OutlawPack11
+BountyHunterHorrors
 BountyHunters
 Bourbon Risky
 Bourbon Risky Demo
@@ -16842,6 +16856,7 @@ CLOUD
 CLOUD CANNON
 CLOUD CANNON CLOUD CANNON
 CLOUD CATS` LAND
+CLOUD CLICKER
 CLOUD CRASHERS
 CLOUD DWELLERS
 CLOUD POPPER (TODDLER/EARLY YEARS GAME)
@@ -17052,6 +17067,7 @@ COLDAISLE:DataCenterTycoon
 COLDBEAM
 COLDBEAMGAMES
 COLDSIDE: RETRO EDITION
+COLDSTAR
 COLDWAKE
 COLDWOOD
 COLDWOOD INTERACTIVE
@@ -20753,6 +20769,7 @@ Cloud
 Cloud Cannon
 Cloud Cannon Cloud Cannon
 Cloud Cats` Land
+Cloud Clicker
 Cloud Crashers
 Cloud Popper  Toddler/Early Years Game 
 Cloud Popper (Toddler/Early Years Game)
@@ -20762,6 +20779,7 @@ Cloud Strife
 CloudCannon
 CloudCannonCloudCannon
 CloudCats`Land
+CloudClicker
 CloudCrashers
 CloudPopper(Toddler/EarlyYearsGame)
 CloudSculptor
@@ -20973,6 +20991,7 @@ ColdCalling
 ColdSide: Retro Edition
 ColdSide:RetroEdition
 ColdTrigger
+Coldstar
 Coldwake
 Coldwood
 Coldwood Interactive
@@ -23023,6 +23042,7 @@ DARIUSBURSTChronicleSaviours
 DARK
 DARK ADELITA
 DARK AGE LEGENDS
+DARK AND DARKER - EAS11 SEASONAL PACK
 DARK ARE THE CRYPTS: THE LOST IDEA
 DARK AVOS
 DARK BONE PRISON
@@ -24517,6 +24537,7 @@ DISHAROON
 DISHONORED
 DISILLUSION
 DISK
+DISK Y Demo
 DISK-COUNT
 DISK-COUNT SOFTWARE
 DISK-COUNT SOFTWARE INC
@@ -24524,6 +24545,9 @@ DISK-COUNT SOFTWARE, INC
 DISK-COUNTSOFTWARE
 DISK-COUNTSOFTWARE,INC
 DISK-COUNTSOFTWAREINC
+DISK-Y DEMO
+DISK-Y Demo
+DISK-YDemo
 DISKCOUNT
 DISKCOUNT SOFTWARE
 DISKCOUNT SOFTWARE INC
@@ -24844,6 +24868,7 @@ DON'T FOOL ME, BEAUTIES!
 DON'T FORGET THE BEAR
 DON'T FORGET TO SMILE
 DON'T FOWL DOWN
+DON'T GIVE UP
 DON'T GO UP THERE
 DON'T KNOCK AGAIN, SABRINA!
 DON'T LET YOUR DAD FIND OUT
@@ -26089,6 +26114,8 @@ Dark Taranza Dark Taranza
 Dark Technologies
 Dark Web
 Dark Wizards World Pack
+Dark and Darker   EAS11 Seasonal Pack
+Dark and Darker - EAS11 Seasonal Pack
 DarkAdelita
 DarkAgeLegends
 DarkAreTheCrypts:TheLostIdea
@@ -26145,6 +26172,7 @@ DarkTaranzaDarkTaranza
 DarkTechnologies
 DarkWeb
 DarkWizardsWorldPack
+DarkandDarker-EAS11SeasonalPack
 Darkblack
 Darker: Chapter 1
 Darker:Chapter1
@@ -28195,6 +28223,7 @@ Don t Flip First
 Don t Forget The Bear
 Don t Forget to Smile
 Don t Fowl Down
+Don t Give Up
 Don t Go Up There
 Don t Knock Again, Sabrina!
 Don t Let Your Dad Find Out
@@ -28230,6 +28259,7 @@ Don't Flip First
 Don't Forget The Bear
 Don't Forget to Smile
 Don't Fowl Down
+Don't Give Up
 Don't Go Up There
 Don't Knock Again, Sabrina!
 Don't Let Your Dad Find Out
@@ -28276,6 +28306,7 @@ Don'tFlipFirst
 Don'tForgetTheBear
 Don'tForgettoSmile
 Don'tFowlDown
+Don'tGiveUp
 Don'tGoUpThere
 Don'tKnockAgain,Sabrina!
 Don'tLetYourDadFindOut
@@ -30944,6 +30975,7 @@ EVELYNKLEIN
 EVEN IF TEMPEST
 EVEN OR ODD 1
 EVEN20: THE INTERFERENCE OF PARALLELS
+EVENIN' SHIFT
 EVENORODD1
 EVENT
 EVENT HORIZON
@@ -32671,6 +32703,9 @@ Evelyn Klein
 EvelynKlein
 Even20: The Interference of Parallels
 Even20:TheInterferenceofParallels
+Evenin  Shift
+Evenin' Shift
+Evenin'Shift
 Event
 Event Horizon
 Event Horizon Software
@@ -33306,6 +33341,7 @@ FARNHAM LE POIVROT
 FARNHAM THE DRUNK
 FARNHAMLEPOIVROT
 FARNHAMTHEDRUNK
+FARPOINT ADVENTURE
 FARRON
 FARSETAF
 FARSETAF FARSETAF
@@ -35368,6 +35404,8 @@ FarCry®6
 FarFarWest
 FarFishing
 FarMining
+FarPoint Adventure
+FarPointAdventure
 FarSight
 FarSight Studios
 FarSight Technologies
@@ -42941,6 +42979,7 @@ HENTAI VAMPIRES
 HENTAI WAIFU PIECES
 HENTAI WORLD APOCALOVE
 HENTAI WORLD BLUE
+HENTAI WORLD BUILD
 HENTAI WORLD BUNNY
 HENTAI WORLD CAVE
 HENTAI WORLD FALL
@@ -42995,6 +43034,7 @@ HERO MANIA
 HERO OF THE HIVE
 HERO SEEKERS
 HERO SIEGE
+HERO, DEMON AND ME 3P
 HEROCRAFT
 HEROES
 HEROES BATTLE AWAKENING
@@ -45008,6 +45048,7 @@ Hentai Tanvi
 Hentai Vampires
 Hentai World Apocalove
 Hentai World Blue
+Hentai World Build
 Hentai World Bunny
 Hentai World Cave
 Hentai World Fall
@@ -45173,6 +45214,7 @@ HentaiTanvi
 HentaiVampires
 HentaiWorldApocalove
 HentaiWorldBlue
+HentaiWorldBuild
 HentaiWorldBunny
 HentaiWorldCave
 HentaiWorldFall
@@ -45232,6 +45274,8 @@ Hero Siege
 Hero in an All Forgiving Fantasy World RPG
 Hero in an All-Forgiving Fantasy World RPG
 Hero of the Hive
+Hero, Demon and Me 3P
+Hero,DemonandMe3P
 HeroCompany
 HeroCraft
 HeroHavenTD
@@ -47001,6 +47045,7 @@ IMPACT SOFTWARE DEVELOPMENT
 IMPACTSOFTWARE
 IMPACTSOFTWAREDEVELOPMENT
 IMPARTIAL
+IMPERFECT BALANCE COLLECTION
 IMPERIAL
 IMPERIAL COMMAND
 IMPERIAL KNIGHTS
@@ -47322,6 +47367,7 @@ INSOMNIAC
 INSOMNIAC GAMES
 INSOMNIACGAMES
 INSPECTOR H.G.W.
+INSPECTOR SOMMERS IN: OUROBORIAN MADNESS
 INSPECTORH.G.W.
 INSPIRAL: ECHOES OF GRAVITY
 INSPIRATION TEST
@@ -48187,6 +48233,8 @@ Impact Software Development
 ImpactSoftware
 ImpactSoftwareDevelopment
 Impartial
+Imperfect Balance Collection
+ImperfectBalanceCollection
 Imperial
 Imperial Command
 Imperial Knights
@@ -48574,6 +48622,8 @@ Insomnia:ChapterOne
 Insomniac
 Insomniac Games
 InsomniacGames
+Inspector Sommers in: Ouroborian Madness
+InspectorSommersin:OuroborianMadness
 Inspiral: Echoes of Gravity
 Inspiral:EchoesofGravity
 Inspiration Test
@@ -53734,6 +53784,7 @@ LABY'S VILLAGE
 LABYRINTH : DRACULA'S LAIR
 LABYRINTH FLOWERS
 LABYRINTH OF ANXIETY
+LABYRINTH OF REVERIE
 LABYRINTH OF THE DEMON KING
 LABYRINTH OF TOUHOU TRI -THE DREAMING GIRLS & THE MYSTERIOUS ORBS-
 LABYRINTH SWORD PRINCESS
@@ -53843,6 +53894,7 @@ LANESPLIT DEMO
 LANESPLIT Demo
 LANESPLITDemo
 LANG
+LANG OPS: BLANK CANVAS
 LANGE
 LANGE ET LE DEMON
 LANGEETLEDEMON
@@ -54767,6 +54819,7 @@ LIGHT SHOCK SOFTWARE S.N.C
 LIGHT SHOCK SOFTWARE SNC
 LIGHT UP THE TOWN
 LIGHT WEIGHT
+LIGHT WORK
 LIGHT YOUR WAY
 LIGHT&
 LIGHT&SHADOWS
@@ -55292,6 +55345,7 @@ LORAN
 LORD
 LORD AMBERMAZE
 LORD AND MAIDEN
+LORD LIBERTY QUEST II ~PURE WHITE~
 LORD OF KENSAI SOUNDTRACK
 LORD OF THE TROUGH
 LORD TRY
@@ -55808,6 +55862,7 @@ Labyrinth Flowers
 Labyrinth Of The Demon King
 Labyrinth Sword Princess
 Labyrinth Trailblazer
+Labyrinth of Reverie
 Labyrinth of Touhou Tri  The Dreaming Girls & The Mysterious Orbs 
 Labyrinth of Touhou Tri -The Dreaming Girls   The Mysterious Orbs-
 Labyrinth of Touhou Tri -The Dreaming Girls & The Mysterious Orbs-
@@ -55824,6 +55879,7 @@ Labyrinthesis
 Labyrinthine
 Labyrinthine Dread
 LabyrinthineDread
+LabyrinthofReverie
 LabyrinthofTouhouTri-TheDreamingGirls&TheMysteriousOrbs-
 Labyrinthofanxiety
 Lacey
@@ -55932,6 +55988,8 @@ Landwarf
 Lane Rider: Highway Runner
 LaneRider:HighwayRunner
 Lang
+Lang Ops: Blank Canvas
+LangOps:BlankCanvas
 Langford
 Langrisser
 Lankhor
@@ -56984,6 +57042,7 @@ Light Shock Software s.n.c
 Light Shock Software snc
 Light Up The Town
 Light Weight
+Light Work
 Light in the woods
 Light of Coco
 Light of Reversing Destiny
@@ -57014,6 +57073,7 @@ LightShockSoftwares.n.c
 LightShockSoftwaresnc
 LightUpTheTown
 LightWeight
+LightWork
 Lightbox
 Lightbox Interactive
 LightboxInteractive
@@ -57618,11 +57678,13 @@ Lorain
 Loran
 Lord
 Lord Ambermaze
+Lord Liberty Quest II ~Pure White~
 Lord Of The Trough
 Lord TRY
 Lord and Maiden
 Lord of Kensai Soundtrack
 LordAmbermaze
+LordLibertyQuestII~PureWhite~
 LordOfTheTrough
 LordTRY
 LordandMaiden
@@ -58624,6 +58686,7 @@ MAKE IT COUNT
 MAKE IT! GYOZA
 MAKE IT! SHAVED ICE
 MAKE SOFTWARE
+MAKE THE EMPIRE GREAT AGAIN
 MAKE TRACKS GREAT AGAIN
 MAKE WATERMELON
 MAKEBARI
@@ -60930,6 +60993,7 @@ MONSTER OPS 7
 MONSTER OPS 9
 MONSTER PATH
 MONSTER RANCHER
+MONSTER SHOWDOWN DEMO
 MONSTER SLAYER: MOTION EDITION
 MONSTER TAMER
 MONSTER TOWER
@@ -61490,6 +61554,7 @@ MUSHROOM HUNTER WORLD
 MUSHROOM ISLAND WORK DIARY
 MUSHROOM MUSUME
 MUSHROOM NOOK
+MUSHROOM SIMULATOR
 MUSHROOM SIMULATOR CO-OP
 MUSHROOM STEW
 MUSHROOM SURVIVORS
@@ -61497,6 +61562,7 @@ MUSHROOMS
 MUSHROOMSTEW
 MUSHROOTS
 MUSIC
+MUSIC BAND SIMULATOR:TOGETHER
 MUSIC DISC
 MUSIC DISC PIGSTEP
 MUSIC DRIVE: CHASE THE BEAT
@@ -61509,6 +61575,7 @@ MUSICAL PLAN LTD
 MUSICAL SLIME
 MUSICALPLAN
 MUSICALPLANLTD
+MUSICBANDSIMULATOR:TOGETHER
 MUSICDISC
 MUSICDISCPIGSTEP
 MUSICIEN
@@ -62176,6 +62243,7 @@ Make Tracks Great Again
 Make Watermelon
 Make it! Gyoza
 Make it! Shaved Ice
+Make the Empire Great Again
 MakeItCount
 MakeSoftware
 MakeTracksGreatAgain
@@ -62184,6 +62252,7 @@ Makebari
 Makeit!Gyoza
 Makeit!ShavedIce
 Maker
+MaketheEmpireGreatAgain
 Maki
 Maki Genryusai
 Maki Hirose
@@ -64745,6 +64814,7 @@ Monster Ops 7
 Monster Ops 9
 Monster Path
 Monster Rancher
+Monster Showdown Demo
 Monster Slayer: Motion Edition
 Monster Tamer
 Monster Tower
@@ -64793,6 +64863,7 @@ MonsterOps7
 MonsterOps9
 MonsterPath
 MonsterRancher
+MonsterShowdownDemo
 MonsterSlayer:MotionEdition
 MonsterTamer
 MonsterTower
@@ -65404,6 +65475,7 @@ Mushroom Hunter World
 Mushroom Island Work Diary
 Mushroom Musume
 Mushroom Nook
+Mushroom Simulator
 Mushroom Simulator Co op
 Mushroom Simulator Co-op
 Mushroom Stew
@@ -65412,6 +65484,7 @@ MushroomHunterWorld
 MushroomIslandWorkDiary
 MushroomMusume
 MushroomNook
+MushroomSimulator
 MushroomSimulatorCo-op
 MushroomStew
 MushroomSurvivors
@@ -67198,6 +67271,7 @@ NOVA ORIGIN
 NOVA ROMA
 NOVA SLASH
 NOVA SURVIVORS
+NOVA WARP
 NOVAE: LAST LIGHT
 NOVAE: Last Light
 NOVAE:LastLight
@@ -68746,6 +68820,7 @@ Nova Origin
 Nova Roma
 Nova Slash
 Nova Survivors
+Nova Warp
 NovaDrop
 NovaGames
 NovaGamesLtd
@@ -68753,6 +68828,7 @@ NovaOrigin
 NovaRoma
 NovaSlash
 NovaSurvivors
+NovaWarp
 Novagen
 Novak
 Novalogic
@@ -72570,6 +72646,7 @@ PERLE DE L'ENDER
 PERLE DE LENDER
 PERLEDEL'ENDER
 PERLEDELENDER
+PERMAFROST
 PEROT
 PEROT PEROT
 PEROTPEROT
@@ -72678,6 +72755,7 @@ PHANTOM
 PHANTOM BLADE ZERO
 PHANTOM COMPASS
 PHANTOM ECHOES CHAPTER I
+PHANTOM FLEET
 PHANTOM FLOOR
 PHANTOM FOOLS
 PHANTOM INCIDENT
@@ -74473,6 +74551,7 @@ PURRPLATE
 PURRRFECT SPA
 PURRRFECT SPA DEMO
 PURRRIFIERS: CLEANING CHAOS (PLAY FOR FREE WITH FRIEND'S PASS)
+PURRTALIATION
 PURSUIT
 PURUPURU: PULL IT ALONG
 PUSH & PLUNDER
@@ -75526,6 +75605,7 @@ Perle de l'Ender
 Perle de lEnder
 Perledel'Ender
 PerledelEnder
+Permafrost
 Perot
 Perot Perot
 PerotPerot
@@ -75620,6 +75700,7 @@ Phantom
 Phantom Blade Zero
 Phantom Compass
 Phantom Echoes Chapter I
+Phantom Fleet
 Phantom Floor
 Phantom Fools
 Phantom Incident
@@ -75636,6 +75717,7 @@ Phantom the Huntress
 PhantomBladeZero
 PhantomCompass
 PhantomEchoesChapterI
+PhantomFleet
 PhantomFloor
 PhantomFools
 PhantomIncident
@@ -77799,6 +77881,7 @@ PurrrfectSpaDemo
 Purrrifiers: Cleaning Chaos  Play for Free with Friend s Pass 
 Purrrifiers: Cleaning Chaos (Play for Free with Friend's Pass)
 Purrrifiers:CleaningChaos(PlayforFreewithFriend'sPass)
+Purrtaliation
 Pursuit
 PuruPuru: Pull It Along
 PuruPuru:PullItAlong
@@ -77955,10 +78038,14 @@ Q ENTERTAINMENT
 Q Entertainment
 Q GAMES
 Q Games
+Q Rely: AI Friend
 Q UP
 Q*BERT
 Q*Bert
 Q*bert
+Q-RELY: AI FRIEND
+Q-Rely: AI Friend
+Q-Rely:AIFriend
 Q-UP
 Q.D
 Q.D - QUALTRONIC DEVICES, INC
@@ -84732,6 +84819,7 @@ SIDEQUEST
 SIDEQUEST STUDIOS
 SIDEQUEST SURVIVORS
 SIDEQUESTSTUDIOS
+SIDEWALK SIMULATOR
 SIDHE
 SIDHE INTERACTIVE
 SIDHEINTERACTIVE
@@ -85832,6 +85920,7 @@ SONIC RACING: CROSSWORLDS
 SONIC RACING: CROSSWORLDS - DIGITAL DELUXE EDITION
 SONIC RACING: CROSSWORLDS - MEGA MAN PACK
 SONIC RACING: CROSSWORLDS - TEENAGE MUTANT NINJA TURTLES PACK
+SONIC RACING: CROSSWORLDS SEASON PASS TWO
 SONIC RUMBLE
 SONIC SOFTWARE
 SONIC SOFTWARE PLANNING
@@ -86099,6 +86188,7 @@ SPACE HULK: DEATHWING ENHANCED EDITION
 SPACE INVADERS
 SPACE INVASION INFINITE
 SPACE IS RED
+SPACE JK
 SPACE LORA - ADULT ONLY
 SPACE MAMA
 SPACE MANBOW
@@ -86119,6 +86209,7 @@ SPACE SIM TYCOON
 SPACE SOCCER SHOWDOWN
 SPACE STORM
 SPACE TALES
+SPACE TANKS
 SPACE TRENCH
 SPACE WAR ECONOMY IDLE
 SPACE WARS
@@ -86145,6 +86236,7 @@ SPACEHARRIER
 SPACEHULK
 SPACEINVADERS
 SPACEJET PILOT
+SPACEJK
 SPACEMAMA
 SPACEMAN
 SPACEMAN'S LUCK
@@ -90141,6 +90233,8 @@ SidebarStarship
 Sidekicks
 Sidequest Survivors
 SidequestSurvivors
+Sidewalk Simulator
+SidewalkSimulator
 Sidhe
 Sidhe Interactive
 SidheInteractive
@@ -91467,6 +91561,7 @@ Sonic Racing: CrossWorlds   Teenage Mutant Ninja Turtles Pack
 Sonic Racing: CrossWorlds - Digital Deluxe Edition
 Sonic Racing: CrossWorlds - Mega Man Pack
 Sonic Racing: CrossWorlds - Teenage Mutant Ninja Turtles Pack
+Sonic Racing: CrossWorlds Season Pass Two
 Sonic Rumble
 Sonic Software
 Sonic Software Planning
@@ -91491,6 +91586,7 @@ SonicRacing:CrossWorlds
 SonicRacing:CrossWorlds-DigitalDeluxeEdition
 SonicRacing:CrossWorlds-MegaManPack
 SonicRacing:CrossWorlds-TeenageMutantNinjaTurtlesPack
+SonicRacing:CrossWorldsSeasonPassTwo
 SonicRumble
 SonicSoftware
 SonicSoftwarePlanning
@@ -91785,6 +91881,7 @@ Space Shuttle
 Space Sim Tycoon
 Space Soccer Showdown
 Space Tales
+Space Tanks
 Space Trench
 Space War Economy Idle
 Space Wars
@@ -91848,6 +91945,7 @@ SpaceSimTycoon
 SpaceSoccerShowdown
 SpaceSteps
 SpaceTales
+SpaceTanks
 SpaceTrench
 SpaceVenture
 SpaceWarEconomyIdle
@@ -95480,6 +95578,7 @@ THE CRYSTALLINE REALM
 THE CUBE, SAVE US
 THE CUBIC AND THEIR SUPPORTERS
 THE CUNICULUS OF PARADISE
+THE CUP DEMO
 THE CURE
 THE CURSE OF NORDIC COVE
 THE CURSE WE MADE
@@ -95566,6 +95665,7 @@ THE ELF ON THE SHELF®: CHRISTMAS HEROES
 THE EMPATHY ALGORITHM
 THE EMPTY EYES
 THE EMPTY HALLS
+THE ENCHANTED CRAYON
 THE END GROWS
 THE END IS NIGH
 THE END OF GAMEPLAY
@@ -96220,6 +96320,7 @@ THE SUSHI HOUSE
 THE SWARM 2
 THE SWASHBUGGLERS
 THE SYNDICATE: CLASSIFIED OPERATIONS
+THE SZYK
 THE TALE OF OATH
 THE TALE OF RELM
 THE TALE OF SPRING CITY
@@ -98095,6 +98196,7 @@ TURBO CHILLI PTY LTD
 TURBO DISMOUNT® 2
 TURBO ESPRIT
 TURBO TRUCK ISLANDS
+TURBO ZONE: CAR ROYALE
 TURBOCHILLI
 TURBOCHILLIPTY
 TURBOCHILLIPTYLTD
@@ -99544,6 +99646,7 @@ The Cruciball
 The Crystalline Realm
 The Cubic and Their Supporters
 The Cuniculus of Paradise
+The Cup Demo
 The Cure
 The Curse We Made
 The Curse of Nordic Cove
@@ -99622,6 +99725,7 @@ The Elf on the Shelf®: Christmas Heroes
 The Empathy Algorithm
 The Empty Eyes
 The Empty Halls
+The Enchanted Crayon
 The End Grows
 The End Is Nigh
 The End of Gameplay
@@ -100283,6 +100387,7 @@ The Sushi House
 The Swarm 2
 The Swashbugglers
 The Syndicate: Classified Operations
+The Szyk
 The TEAM game:Corgi me
 The TEAM game:Corgi&me
 The Tale of Oath
@@ -100605,6 +100710,7 @@ TheCruciball
 TheCrystallineRealm
 TheCubicandTheirSupporters
 TheCuniculusofParadise
+TheCupDemo
 TheCure
 TheCurseWeMade
 TheCursedGrave
@@ -100680,6 +100786,7 @@ TheElfontheShelf®:ChristmasHeroes
 TheEmpathyAlgorithm
 TheEmptyEyes
 TheEmptyHalls
+TheEnchantedCrayon
 TheEndGrows
 TheEndIsNigh
 TheEndlessVillage
@@ -101272,6 +101379,7 @@ TheSushiHouse
 TheSwarm2
 TheSwashbugglers
 TheSyndicate:ClassifiedOperations
+TheSzyk
 TheTEAMgame:Corgi&me
 TheTaleofOath
 TheTaleofRelm
@@ -103325,6 +103433,7 @@ Turbo Dismount(R) 2
 Turbo Dismount® 2
 Turbo Esprit
 Turbo Truck Islands
+Turbo Zone: Car Royale
 TurboChilli
 TurboChilliPty
 TurboChilliPtyLtd
@@ -103336,6 +103445,7 @@ TurboGraphx 16
 TurboGraphx16
 TurboGraphxCD
 TurboTruckIslands
+TurboZone:CarRoyale
 Turcan
 Turcan Research
 TurcanResearch
@@ -106980,6 +107090,7 @@ WEBGAMES3D.COM
 WEBGAMES3DCOM
 WEBMASTER
 WEBOSAURS
+WEBS OF REVERIE
 WEBSTER
 WEBZEN
 WEDDING
@@ -108430,6 +108541,8 @@ Webfoot Technologies
 WebfootTechnologies
 Webmaster
 Webosaurs
+Webs of Reverie
+WebsofReverie
 Webster
 Webzen
 Wedding
@@ -111762,6 +111875,7 @@ acaciadoor
 academy
 academy love saga: tennis angels
 academy of samsara
+academy soccer manager
 acajou
 acceleroto
 accept or reject
@@ -113814,6 +113928,7 @@ astral bout
 astral eden [chapter 1]
 astral lodge
 astral lords
+astral shifter
 astral software
 astralbout
 astralsoftware
@@ -115400,6 +115515,7 @@ big five software
 big flip basketball
 big fun
 big fun games
+big furry weekends!
 big golden rock
 big head
 big head games
@@ -116489,6 +116605,7 @@ bounderbounder
 bounty
 bounty bob strikes back
 bounty drag racing - outlaw pack 11
+bounty hunter horrors
 bounty hunters
 bountybobstrikesback
 bourbon risky
@@ -118977,6 +119094,7 @@ cloud
 cloud cannon
 cloud cannon cloud cannon
 cloud cats` land
+cloud clicker
 cloud crashers
 cloud dwellers
 cloud popper (toddler/early years game)
@@ -119167,6 +119285,7 @@ cold trigger
 coldbeam
 coldbeamgames
 coldside: retro edition
+coldstar
 coldwake
 coldwood
 coldwood interactive
@@ -120835,6 +120954,7 @@ dariusburst chronicle saviours
 dark
 dark adelita
 dark age legends
+dark and darker - eas11 seasonal pack
 dark are the crypts: the lost idea
 dark avos
 dark bone prison
@@ -122265,6 +122385,7 @@ disk-count software, inc
 disk-countsoftware
 disk-countsoftware,inc
 disk-countsoftwareinc
+disk-y demo
 diskcount
 diskcount software
 diskcount software inc
@@ -122531,6 +122652,7 @@ don't fool me, beauties!
 don't forget the bear
 don't forget to smile
 don't fowl down
+don't give up
 don't go up there
 don't knock again, sabrina!
 don't let your dad find out
@@ -124820,6 +124942,7 @@ even if tempest
 even or odd 1
 even20: the interference of parallels
 evenifTEMPEST
+evenin' shift
 event
 event horizon
 event horizon software
@@ -125352,6 +125475,7 @@ farnham le poivrot
 farnham the drunk
 farnhamlepoivrot
 farnhamthedrunk
+farpoint adventure
 farron
 farsetaf
 farsetaf farsetaf
@@ -129899,6 +130023,7 @@ hentai vampires
 hentai waifu pieces
 hentai world apocalove
 hentai world blue
+hentai world build
 hentai world bunny
 hentai world cave
 hentai world fall
@@ -129950,6 +130075,7 @@ hero mania
 hero of the hive
 hero seekers
 hero siege
+hero, demon and me 3p
 herocraft
 heroes
 heroes battle awakening
@@ -131343,6 +131469,7 @@ impact software development
 impactsoftware
 impactsoftwaredevelopment
 impartial
+imperfect balance collection
 imperial
 imperial command
 imperial knights
@@ -131657,6 +131784,7 @@ insomniac
 insomniac games
 insomniacgames
 inspector h.g.w.
+inspector sommers in: ouroborian madness
 inspiral: echoes of gravity
 inspiration test
 inspoquest
@@ -134293,6 +134421,7 @@ laby's village
 labyrinth : dracula's lair
 labyrinth flowers
 labyrinth of anxiety
+labyrinth of reverie
 labyrinth of the demon king
 labyrinth of touhou tri -the dreaming girls & the mysterious orbs-
 labyrinth sword princess
@@ -134401,6 +134530,7 @@ lane rider: highway runner
 lanesplit
 lanesplit demo
 lang
+lang ops: blank canvas
 lange
 lange et le demon
 lange et le démon
@@ -135333,6 +135463,7 @@ light shock software s.n.c
 light shock software snc
 light up the town
 light weight
+light work
 light your way
 light&
 light&shadows
@@ -135842,6 +135973,7 @@ loran
 lord
 lord ambermaze
 lord and maiden
+lord liberty quest ii ~pure white~
 lord of kensai soundtrack
 lord of the trough
 lord try
@@ -136640,6 +136772,7 @@ make it count
 make it! gyoza
 make it! shaved ice
 make software
+make the empire great again
 make tracks great again
 make watermelon
 makebari
@@ -138856,6 +138989,7 @@ monster ops 7
 monster ops 9
 monster path
 monster rancher
+monster showdown demo
 monster slayer: motion edition
 monster tamer
 monster tower
@@ -139396,6 +139530,7 @@ mushroom hunter world
 mushroom island work diary
 mushroom musume
 mushroom nook
+mushroom simulator
 mushroom simulator co-op
 mushroom stew
 mushroom survivors
@@ -139403,6 +139538,7 @@ mushrooms
 mushroomstew
 mushroots
 music
+music band simulator:together
 music disc
 music disc pigstep
 music drive: chase the beat
@@ -140894,6 +141030,7 @@ nova origin
 nova roma
 nova slash
 nova survivors
+nova warp
 novae: last light
 novagames
 novagamesltd
@@ -143129,6 +143266,7 @@ perle de l'ender
 perle de lender
 perledel'ender
 perledelender
+permafrost
 perot
 perot perot
 perotperot
@@ -143226,6 +143364,7 @@ phantom
 phantom blade zero
 phantom compass
 phantom echoes chapter i
+phantom fleet
 phantom floor
 phantom fools
 phantom incident
@@ -145004,6 +145143,7 @@ purrplate
 purrrfect spa
 purrrfect spa demo
 purrrifiers: cleaning chaos (play for free with friend's pass)
+purrtaliation
 pursuit
 purupuru: pull it along
 push & plunder
@@ -145123,6 +145263,7 @@ q
 q entertainment
 q games
 q*bert
+q-rely: ai friend
 q-up
 q.d
 q.d - qualtronic devices, inc
@@ -148922,6 +149063,7 @@ sidequest
 sidequest studios
 sidequest survivors
 sidequeststudios
+sidewalk simulator
 sidhe
 sidhe interactive
 sidheinteractive
@@ -149967,6 +150109,7 @@ sonic racing: crossworlds
 sonic racing: crossworlds - digital deluxe edition
 sonic racing: crossworlds - mega man pack
 sonic racing: crossworlds - teenage mutant ninja turtles pack
+sonic racing: crossworlds season pass two
 sonic rumble
 sonic software
 sonic software planning
@@ -150229,6 +150372,7 @@ space hulk: deathwing enhanced edition
 space invaders
 space invasion infinite
 space is red
+space jk
 space lora - adult only
 space mama
 space manbow
@@ -150249,6 +150393,7 @@ space sim tycoon
 space soccer showdown
 space storm
 space tales
+space tanks
 space trench
 space war economy idle
 space wars
@@ -153203,6 +153348,7 @@ the crystalline realm
 the cube, save us
 the cubic and their supporters
 the cuniculus of paradise
+the cup demo
 the cure
 the curse of nordic cove
 the curse we made
@@ -153288,6 +153434,7 @@ the elf on the shelf®: christmas heroes
 the empathy algorithm
 the empty eyes
 the empty halls
+the enchanted crayon
 the end grows
 the end is nigh
 the end of gameplay
@@ -153929,6 +154076,7 @@ the sushi house
 the swarm 2
 the swashbugglers
 the syndicate: classified operations
+the szyk
 the tale of oath
 the tale of relm
 the tale of spring city
@@ -155737,6 +155885,7 @@ turbo chilli pty ltd
 turbo dismount® 2
 turbo esprit
 turbo truck islands
+turbo zone: car royale
 turbochilli
 turbochillipty
 turbochilliptyltd
@@ -157670,6 +157819,7 @@ webgames3d.com
 webgames3dcom
 webmaster
 webosaurs
+webs of reverie
 webster
 webzen
 wedding
@@ -159512,6 +159662,9 @@ zèbre
 カタネガイ
 カブトムシの森
 カワサキデビルズ
+キズツケ KIZUTSUKE
+キズツケ kizutsuke
+キズツケkizutsuke
 キー暴動
 ギルド探求団へようこそ！
 クイズ大臣
@@ -159767,6 +159920,10 @@ zèbre
 同城游美女捕鱼
 君と最後の放課後
 吾皇万岁
+告死天使招魂令 DEATH ANGEL REQUIEM
+告死天使招魂令 Death Angel Requiem
+告死天使招魂令 death angel requiem
+告死天使招魂令DeathAngelRequiem
 周间特惠
 呪いの穢れ唄　鳴海龍也の回奇録
 命运之轮（序章）/JOURNEY OF DESTINY(DEPENDENT ORIGINATION)
@@ -160818,6 +160975,7 @@ zèbre
 금태양 시뮬레이터 soundtrack
 금태양시뮬레이터
 금태양시뮬레이터Soundtrack
+농구제왕
 도형세계에서 렙업하자   Calamity
 도형세계에서 렙업하자 - CALAMITY
 도형세계에서 렙업하자 - Calamity
