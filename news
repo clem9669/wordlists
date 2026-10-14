@@ -922,6 +922,7 @@ A38 Unfall
 A380
 A38Unfall
 A400M
+A7
 A7 TODLICHER UNFALL DEMO
 A7 TÖDLICHER UNFALL DEMO
 A72
@@ -15478,6 +15479,8 @@ CAT STEVENS
 CAT'S EYES
 CATALOGNE
 CATANIA
+CATAPULTE ELECTROMAGNETIQUE
+CATAPULTE ÉLECTROMAGNÉTIQUE
 CATASTROPHE
 CATE BLANCHETT
 CATERINA MURINO
@@ -30167,6 +30170,8 @@ FEYENOORD  CLUB BRUGGE
 FEYENOORD  PSV
 FEYENOORD - AJAX
 FEYENOORD - AZ
+FEYENOORD - COME
+FEYENOORD - COMO
 FEYENOORD - EXCELSIOR
 FEYENOORD - GA EAGLES
 FEYENOORD - NEC
@@ -30174,6 +30179,7 @@ FEYENOORD - PSV
 FEYENOORD - UNION
 FEYENOORD GEGEN STURM GRAZ
 FEYENOORD – AJAX
+FEYENOORD – CÔME
 FEYENOORD – EXCELSIOR
 FEYENOORD – LEVERKUSEN
 FEYENOORD – UTRECHT
@@ -30590,6 +30596,7 @@ FLURONA
 FLUVIUS
 FLUVOXAMIN
 FLY
+FLYDUBAI
 FLYER
 FLYER HUTTWIL
 FLYING TIGER
@@ -49379,8 +49386,10 @@ LASCHET
 LASEMO
 LASER
 LASK
+LASK - LIVERPOOL
 LASK LINZ
 LASK Linz
+LASK – LIVERPOOL
 LASKLinz
 LASSALLE HAUS
 LASSANA DIARRA
@@ -55197,6 +55206,7 @@ MAHMOUD AHMADINEJAD
 MAHNUNG
 MAHOMES
 MAHRA AL-MAKTOUM
+MAHRAH AL NAHYAN
 MAHREZ
 MAHSA AMINI
 MAHSA AMINI IRAN
@@ -78592,6 +78602,7 @@ SCHWINGFEST
 SCHWINGFEST APPENZELL
 SCHWINGFEST RIGGISBERG
 SCHWINGFEST THUN
+SCHWYZ
 SCHWÄGALP
 SCHWÄGALP-SCHWINGET
 SCHÄDEL-HIRN-TRAUMA
@@ -86122,6 +86133,7 @@ THIAGO MOTTA
 THIAM
 THIBAU DIERICKX
 THIBAU NYS
+THIBAUD FLAMENT
 THIBAUD VERLINDEN
 THIBAULT DE MONTAIGU
 THIBAULT DE MONTALEMBERT
@@ -90395,6 +90407,7 @@ UN JOUR SANS FIN
 UN LONG DIMANCHE DE FIANÇAILLES
 UN MARIAGE TROP PARFAIT
 UN METIER SERIEUX
+UN MILLION
 UN MOMENT D'ÉGAREMENT
 UN OURS DANS LE JURA
 UN P'TIT TRUC EN PLUS
@@ -97015,6 +97028,7 @@ a350
 a38 unfall
 a380
 a400m
+a7
 a7 todlicher unfall demo
 a7 tödlicher unfall demo
 a72
@@ -105531,6 +105545,10 @@ cat stevens
 cat's eyes
 catalogne
 catania
+catapulte electromagnetique
+catapulte électromagnétique
+catapulteelectromagnetique
+catapulteélectromagnétique
 catastrophe
 cate blanchett
 caterina murino
@@ -108752,6 +108770,7 @@ danielbernhardt
 danielbilalian
 danielcamus
 danielcarr
+danielcraig
 danielcraigjamesbond
 danielcurtislee
 daniele de rossi
@@ -113669,6 +113688,7 @@ feyenoord
 feyenoord  ajax
 feyenoord  az
 feyenoord  club brugge
+feyenoord  como
 feyenoord  excelsior
 feyenoord  ga eagles
 feyenoord  nec
@@ -113676,6 +113696,8 @@ feyenoord  psv
 feyenoord  union
 feyenoord - ajax
 feyenoord - az
+feyenoord - come
+feyenoord - como
 feyenoord - excelsior
 feyenoord - ga eagles
 feyenoord - nec
@@ -113683,17 +113705,21 @@ feyenoord - psv
 feyenoord - union
 feyenoord gegen sturm graz
 feyenoord – ajax
+feyenoord – côme
 feyenoord – excelsior
 feyenoord – leverkusen
 feyenoord – utrecht
 feyenoord-ajax
 feyenoord-az
+feyenoord-come
+feyenoord-como
 feyenoord-excelsior
 feyenoord-gaeagles
 feyenoord-nec
 feyenoord-psv
 feyenoord-union
 feyenoord–ajax
+feyenoord–côme
 feyenoord–excelsior
 feyenoord–utrecht
 fff
@@ -114191,6 +114217,7 @@ flurona
 fluvius
 fluvoxamin
 fly
+flydubai
 flyer
 flyer huttwil
 flying tiger
@@ -124318,7 +124345,11 @@ laschet
 lasemo
 laser
 lask
+lask - liverpool
 lask linz
+lask – liverpool
+lask-liverpool
+lask–liverpool
 laspalmas–realsociedad
 lassalle haus
 lassallehaus
@@ -127294,6 +127325,8 @@ mahmoudahmadinejad
 mahnung
 mahomes
 mahra al-maktoum
+mahrah al nahyan
+mahrahalnahyan
 mahrez
 mahsa amini
 mahsa amini iran
@@ -136563,6 +136596,7 @@ psgbayern
 psgbrest
 psgchelsea
 psgdembele
+psgmanchestercity
 psgmercato
 psgom
 psgstrasbourg
@@ -139569,6 +139603,7 @@ saliharaiss
 salim berrada
 saliou ciss
 sally rooney
+sallyrooney
 sallys welt
 salma hayek
 salma paralluelo
@@ -140369,6 +140404,7 @@ schwingfest
 schwingfest appenzell
 schwingfest riggisberg
 schwingfest thun
+schwyz
 schwägalp
 schwägalp-schwinget
 schädel-hirn-trauma
@@ -144516,7 +144552,9 @@ thiago motta
 thiam
 thibau dierickx
 thibau nys
+thibaud flament
 thibaud verlinden
+thibaudflament
 thibaudierickx
 thibault de montaigu
 thibault de montalembert
@@ -146502,6 +146540,7 @@ un jour sans fin
 un long dimanche de fiançailles
 un mariage trop parfait
 un metier serieux
+un million
 un moment d'égarement
 un ours dans le jura
 un p'tit truc en plus
@@ -146799,6 +146838,7 @@ universite harvard
 universiteharvard
 université harvard
 universitéharvard
+unmillion
 uno-sicherheitsrat
 unplanned
 unrecord
