@@ -2045,6 +2045,7 @@ A DATE WITH CHESTER 2
 A DAY TO REMEMBER
 A DAY'S WORK
 A DECENT FAREWELL
+A DETECTIVE STORY
 A DIFFICULT GAME ABOUT LETTERS
 A DIFFICULT GAME ABOUT WHEELCHAIR
 A DIRECTIONLESS CYCLE
@@ -2055,6 +2056,7 @@ A Date With Chester 2
 A Day s Work
 A Day's Work
 A Decent Farewell
+A Detective Story
 A Difficult Game About Letters
 A Directionless Cycle
 A Doctor s Term
@@ -2742,6 +2744,7 @@ ADVENTURE'SPLANETSRL
 ADVENTUREINTERNATIONAL
 ADVENTUREISLAND
 ADVENTURER'S GAMBIT: DUNGEONS OF FORTUNE
+ADVENTURERS GUILD
 ADVENTURES
 ADVENTURES OF WILLY DICKHARD
 ADVENTURES PLANET
@@ -2756,6 +2759,7 @@ ADVENTUREVISION
 ADateWithChester2
 ADay'sWork
 ADecentFarewell
+ADetectiveStory
 ADifficultGameAboutLetters
 ADirectionlessCycle
 ADoctor'sTerm
@@ -3295,6 +3299,7 @@ ALICE
 ALICE AND THE DEVIL'S PRISON
 ALICE IN DISGUISE
 ALICE IN WONDERLAND: THE CROWN OF WISHES
+ALICE NATION
 ALICE OU O MUNDO?
 ALICE'S WORLD
 ALIEN
@@ -3522,6 +3527,7 @@ AMANDE
 AMANITA
 AMANITA DESIGN
 AMANITADESIGN
+AMANOJAKU NIGHTMARE
 AMANSIONontheHILL
 AMARANTH SOURCE ONLINE
 AMAVIEW: DESKTOP GIFS
@@ -3622,6 +3628,7 @@ AMONG THIEVES
 AMONG US 3D
 AMONGTHIEVES
 AMP
+AMPANIC
 AMPED
 AMPHIBARIUM
 AMPHINOBI
@@ -5635,6 +5642,8 @@ AdventureofSamsara
 Adventurer s Gambit: Dungeons of Fortune
 Adventurer's Gambit: Dungeons of Fortune
 Adventurer'sGambit:DungeonsofFortune
+Adventurers Guild
+AdventurersGuild
 Adventures
 Adventures Of Willy Dickhard
 Adventures Planet
@@ -6156,6 +6165,7 @@ Algue
 Algue séchée
 Algueséchée
 Alice
+Alice Nation
 Alice and the Devil s Prison
 Alice and the Devil's Prison
 Alice in Disguise
@@ -6164,6 +6174,7 @@ Alice ou o Mundo?
 Alice s World
 Alice's World
 Alice'sWorld
+AliceNation
 AliceandtheDevil'sPrison
 AliceinDisguise
 AliceinWonderland:TheCrownofWishes
@@ -6421,6 +6432,8 @@ Amande
 Amanita
 Amanita Design
 AmanitaDesign
+Amanojaku Nightmare
+AmanojakuNightmare
 Amaranth Source Online
 AmaranthSourceOnline
 Amaze
@@ -10938,6 +10951,7 @@ BREADBOX
 BREADBULLS
 BREADWALK
 BREADWINNER SIMULATOR
+BREAK ORDER
 BREAK SHOOT
 BREAK SHOOT DEMO
 BREAK SIEGE
@@ -14405,12 +14419,14 @@ Breadbulls
 Breadwalk
 Breadwinner Simulator
 BreadwinnerSimulator
+Break Order
 Break Shoot
 Break Shoot Demo
 Break Siege
 Break a bot
 Break-a-bot
 BreakDespair2D
+BreakOrder
 BreakShoot
 BreakShootDemo
 BreakSiege
@@ -23152,6 +23168,7 @@ DARK
 DARK ADELITA
 DARK AGE LEGENDS
 DARK AND DARKER - EAS11 SEASONAL PACK
+DARK AND LIGHT
 DARK ARE THE CRYPTS: THE LOST IDEA
 DARK AVOS
 DARK BONE PRISON
@@ -23455,6 +23472,7 @@ DAYTONA
 DAYTONA USA
 DAYTONAUSA
 DAYZ
+DAYZ BADLANDS
 DAZE
 DAZZ
 DB-SOFT
@@ -23662,6 +23680,7 @@ DECEIVED OF JOY
 DECEPTION
 DECIDE 4 GOD
 DECIPHONY
+DECISIVE DECKS
 DECK
 DECK 13
 DECK DASH
@@ -23893,6 +23912,7 @@ DEMOIT!
 DEMON
 DEMON ATTACK
 DEMON DUST
+DEMON FACE PUNCHING CLUB
 DEMON FROG
 DEMON FROG DEMON FROG
 DEMON GENERAL KIRSTEN
@@ -25114,6 +25134,7 @@ DOOM: THE DARK AGES
 DOOM: The Dark Ages
 DOOM:TheDarkAges
 DOOMDAWN
+DOOMED OTAKU
 DOOMER SIMULATOR
 DOOMERSIMULATOR
 DOOMFIST
@@ -26239,6 +26260,7 @@ Dark Web
 Dark Wizards World Pack
 Dark and Darker   EAS11 Seasonal Pack
 Dark and Darker - EAS11 Seasonal Pack
+Dark and Light
 DarkAdelita
 DarkAgeLegends
 DarkAreTheCrypts:TheLostIdea
@@ -26296,6 +26318,7 @@ DarkTechnologies
 DarkWeb
 DarkWizardsWorldPack
 DarkandDarker-EAS11SeasonalPack
+DarkandLight
 Darkblack
 Darkenstein 3D: Total Trampage
 Darkenstein3D:TotalTrampage
@@ -26480,6 +26503,8 @@ DayOff:Moonriverincident
 DayOffSimulator
 DayTradingSimulator
 DayZ
+DayZ Badlands
+DayZBadlands
 DayandNight
 Daydam Knight
 DaydamKnight
@@ -26795,6 +26820,8 @@ DeceivedOfJoy
 Deception
 Decide 4 God
 Decide4God
+Decisive Decks
+DecisiveDecks
 Deck
 Deck 13
 Deck A Doodle Solitaire
@@ -27092,6 +27119,7 @@ Demogue Nicolas
 DemogueNicolas
 Demon
 Demon Attack
+Demon Face Punching Club
 Demon Frog
 Demon Frog Demon Frog
 Demon General Kirsten
@@ -27132,6 +27160,7 @@ Demon'sDoor:TheCheckpoint
 Demon'sGunPlay2
 Demon'sSoulbound
 DemonAttack
+DemonFacePunchingClub
 DemonFrog
 DemonFrogDemonFrog
 DemonGeneralKirsten
@@ -28574,6 +28603,8 @@ Doom'sEye
 DoomDrive
 DoomParty
 DoomSurvivor:HordeRush
+Doomed Otaku
+DoomedOtaku
 Doomfist
 Doomhammer
 Doomriderz
@@ -30907,6 +30938,7 @@ ESCAPE FROM CHANCELLOR'S CHAMBERS
 ESCAPE FROM COMPANY
 ESCAPE FROM CRIMSON MANOR: TRAPPED TOGETHER
 ESCAPE FROM DUCKOV
+ESCAPE FROM ELOHELL
 ESCAPE FROM EVER AFTER
 ESCAPE FROM EVER AFTER - SUPPORTER PACK
 ESCAPE FROM HADRIAN'S WALL
@@ -32568,6 +32600,7 @@ Escape from Butcher Bay
 Escape from Chancellor s Chambers
 Escape from Chancellor's Chambers
 Escape from Company
+Escape from EloHell
 Escape from Ever After
 Escape from Ever After   Supporter Pack
 Escape from Ever After - Supporter Pack
@@ -32638,6 +32671,7 @@ Escapefrom8-BitHighSoundtrack
 EscapefromButcherBay
 EscapefromChancellor'sChambers
 EscapefromCompany
+EscapefromEloHell
 EscapefromEverAfter
 EscapefromEverAfter-SupporterPack
 EscapefromHadrian'sWall
@@ -33631,6 +33665,7 @@ FEDERICOBIGLIOCCA
 FEE
 FEED
 FEED MY MECH
+FEED THE CUPS
 FEED THE FLAME
 FEED THE FLAMES
 FEED THE PIT
@@ -34615,6 +34650,7 @@ FORZA HORIZON 6 WELCOME PACK
 FORZA MOTORSPORT
 FORZAMOTORSPORT
 FORZEFIELD
+FOSSIL DIGGER
 FOSSOYEUR
 FOTO BOY: FLASHSTAR
 FOUDRE
@@ -35799,10 +35835,12 @@ Feed
 Feed The Flame
 Feed The Flames
 Feed The Pit
+Feed the Cups
 Feed the Reactor
 FeedTheFlame
 FeedTheFlames
 FeedThePit
+FeedtheCups
 FeedtheReactor
 Feel
 Feel a Thick Creampie with the Super Famous Busty Girl
@@ -37083,6 +37121,8 @@ ForzaHorizon6VIPMembership
 ForzaHorizon6WelcomePack
 ForzaMotorsport
 ForzeField
+Fossil Digger
+FossilDigger
 Foto Boy: Flashstar
 FotoBoy:Flashstar
 Fouetty
@@ -38633,6 +38673,7 @@ GIANTFALL
 GIANTMEDIA
 GIANTMEDIAGROUP
 GIANT’S HEART
+GIBLINGS
 GIDEON
 GIDEON WYBORN
 GIDEONWYBORN
@@ -39386,6 +39427,7 @@ GRAVITY GAME
 GRAVITY GROVE
 GRAVITY STATION
 GRAVITY STORM - FIRST MISSION
+GRAVITY VECTOR
 GRAVITY WHIPPED DEMO
 GRAVITY'S EDGE
 GRAVSCAPE
@@ -40822,6 +40864,7 @@ GiantWaifuWashSimulator💦
 Giantfall
 Giant’s Heart
 Giant’sHeart
+Giblings
 Gideon
 Gideon Wyborn
 GideonWyborn
@@ -41656,6 +41699,7 @@ Gravity Grove
 Gravity Station
 Gravity Storm   First Mission
 Gravity Storm - First Mission
+Gravity Vector
 Gravity Whipped Demo
 Gravity s Edge
 Gravity's Edge
@@ -41666,6 +41710,7 @@ GravityGame
 GravityGrove
 GravityStation
 GravityStorm-FirstMission
+GravityVector
 GravityWhippedDemo
 Gravscape
 Gray
@@ -42804,6 +42849,7 @@ HAVIK
 HAWK
 HAWK'S
 HAWKS
+HAY! ONE BILLION!
 HAYASE
 HAYATE
 HAYATO
@@ -44799,6 +44845,8 @@ Havik
 Hawk
 Hawk's
 Hawks
+Hay! One Billion!
+Hay!OneBillion!
 Hayase
 Hayate
 Hayato
@@ -47350,6 +47398,7 @@ INCREDIBLE TECHNOLOGIES
 INCREDIBLEMACHINE
 INCREDIBLEMACHINETHE
 INCREDIBLETECHNOLOGIES
+INCREDULITY
 INCREKNIGHT
 INCREMENTAL DUNGEON
 INCREMENTAL FROG
@@ -48574,6 +48623,7 @@ IncredibleDracula:LicensetoRelax
 IncredibleMachine
 IncredibleMachineThe
 IncredibleTechnologies
+Incredulity
 Incremental Dungeon
 Incremental Frog
 Incremental Ragebait
@@ -51215,6 +51265,7 @@ KADOKAWA SHOTEN
 KADOKAWASHOTEN
 KADOKURA
 KADOWAKI
+KAEBON
 KAEL'THAS
 KAELAN
 KAELAVERSE: PEMASCAPE
@@ -51549,6 +51600,7 @@ KEN KEN
 KENDALL
 KENDALL KENDALL
 KENDALLKENDALL
+KENG'S LITTLE UNIVERSE
 KENGO
 KENGO MIYAZAWA
 KENGOMIYAZAWA
@@ -52839,6 +52891,9 @@ KenKen
 Kendall
 Kendall Kendall
 KendallKendall
+Keng s Little Universe
+Keng's Little Universe
+Keng'sLittleUniverse
 Kengo
 Kengo Miyazawa
 KengoMiyazawa
@@ -55689,6 +55744,7 @@ LOTUSESPRITTURBOCHALLENGE
 LOTUSLAND
 LOTUSLAND STUDIOS
 LOTUSLANDSTUDIOS
+LOTWICK HILL
 LOU
 LOUD
 LOUD LOUD
@@ -56016,6 +56072,7 @@ LY
 LYCORIS
 LYDIE
 LYDINA AND THE DUNGEON OF DEBAUCHERY
+LYFE OF THE BLADE
 LYING THIEVES: AMSTERDAM
 LYNEJA
 LYNEJA LYNEJA
@@ -58095,6 +58152,8 @@ LotusEspritTurboChallenge
 Lotusland
 Lotusland Studios
 LotuslandStudios
+Lotwick Hill
+LotwickHill
 Lou
 Loud
 Loud Loud
@@ -58501,6 +58560,8 @@ Lycoris
 Lydie
 Lydina and the Dungeon of Debauchery
 LydinaandtheDungeonofDebauchery
+Lyfe of the Blade
+LyfeoftheBlade
 Lying Thieves: Amsterdam
 LyingThieves:Amsterdam
 Lyneja
@@ -58880,6 +58941,7 @@ MAHJONG EXPEDITION
 MAHJONG HOUSE: CHALLENGE ALL ACHIEVEMENTS
 MAHJONG MYSTERIES - ANCIENT ATHENA
 MAHJONG REALMS
+MAHJONG, SEX & GIRLS
 MAHOU ARMS
 MAHOUTEQ!
 MAHTRIS 108
@@ -60027,6 +60089,7 @@ MEOW SURVIVORS
 MEOW TOWER - DOOMSGUARD
 MEOW WEIGHT LOSS DIARY
 MEOW WITH PIPELINE
+MEOW XIAOXI IS WATCHING YOU
 MEOW'S MEOW
 MEOWCRAFT
 MEOWGUN: HELL DENIZEN
@@ -62432,6 +62495,9 @@ Mahjong House: Challenge All Achievements
 Mahjong Mysteries   Ancient Athena
 Mahjong Mysteries - Ancient Athena
 Mahjong Realms
+Mahjong, Sex   Girls
+Mahjong, Sex & Girls
+Mahjong,Sex&Girls
 MahjongEncyclopedia
 MahjongExpedition
 MahjongHouse:ChallengeAllAchievements
@@ -63770,6 +63836,7 @@ Meow Survivors
 Meow Tower   Doomsguard
 Meow Tower - Doomsguard
 Meow Weight Loss Diary
+Meow Xiaoxi Is Watching You
 Meow s Meow
 Meow with Pipeline
 Meow's Meow
@@ -63785,6 +63852,7 @@ MeowSquad:IncrementalFishing
 MeowSurvivors
 MeowTower-Doomsguard
 MeowWeightLossDiary
+MeowXiaoxiIsWatchingYou
 Meowment
 Meowmunitions
 Meowstery of a Growing Aurora
@@ -67055,6 +67123,7 @@ NIGELTHORNHILL
 NIGELWEIR
 NIGHT
 NIGHT ALLEY : ตรอกลวง ดวงดับ
+NIGHT BLOOD W : CUTTHROAT WOLF
 NIGHT CASTLE
 NIGHT CLERK
 NIGHT GRIP
@@ -67465,6 +67534,7 @@ NOM
 NOM NOM: COZY FOREST CAFÉ
 NOMAD
 NOMAD NIGHTMARE - EPISODE 1: AWAKENING
+NOMADICA DEMO
 NOMIA
 NOMNOM TREASURE HUNT
 NOMNOMIA
@@ -68491,6 +68561,7 @@ NigelWeir
 Night
 Night Alley : ??????? ??????
 Night Alley : ตรอกลวง ดวงดับ
+Night Blood W : Cutthroat Wolf
 Night Castle
 Night Clerk
 Night Grip
@@ -68521,6 +68592,7 @@ Night of the Living Bubble
 Night of the Stars
 Night of the oldbrand
 NightAlley:ตรอกลวงดวงดับ
+NightBloodW:CutthroatWolf
 NightBreak
 NightCastle
 NightClerk
@@ -69005,6 +69077,8 @@ Nomad
 Nomad Nightmare   Episode 1: Awakening
 Nomad Nightmare - Episode 1: Awakening
 NomadNightmare-Episode1:Awakening
+Nomadica Demo
+NomadicaDemo
 Nomen Ipsa
 Nomnomia
 Nomori
@@ -73692,6 +73766,7 @@ PLATFORM 0
 PLATFORM 6 ONLINE | 6番線オンライン協力異変探し
 PLATFORM VAULT
 PLATFORM0
+PLATFORMINO
 PLATINA :: LAB
 PLATINE
 PLATINE DISPOSITIF
@@ -76816,6 +76891,7 @@ Platform 6 ONLINE | 6番線オンライン協力異変探し
 Platform Vault
 Platform6ONLINE|6番線オンライン協力異変探し
 PlatformVault
+Platformino
 Platine
 Platine Dispositif
 PlatineDispositif
@@ -83923,6 +83999,7 @@ SCALE MAIL
 SCALE2FIT
 SCALES OF SILENCE
 SCAM CENTER SABOTEUR
+SCAM WITH YOUR FRIENDS
 SCAMMER  99
 SCAMMER '99
 SCAMMER'99
@@ -84208,6 +84285,9 @@ SEAL OF MAGIC
 SEAL OF SHADOWS
 SEALED
 SEALED IN
+SEAMARK DEMO
+SEAMARK Demo
+SEAMARKDemo
 SEAMEN PERFORMANCE OVERLAY
 SEAMSPACE: MINESWEEPER
 SEAMUS
@@ -85792,6 +85872,7 @@ SLEDGEHAMMER GAMES
 SLEDGEHAMMERGAMES
 SLEENA
 SLEEP AWAKE
+SLEEP WALK
 SLEEPAWAKE
 SLEEPER AGENT
 SLEEPING DRAGON
@@ -86248,6 +86329,7 @@ SOLITAREGROUP
 SOLITARY SENTINEL
 SOLITUDE
 SOLO BREEDING
+SOLO BUILD LEVELING
 SOLO CHESS
 SOLO CULTIVATION 独修
 SOLO DEFENDING
@@ -86835,6 +86917,7 @@ SPIRIT & STEEL
 SPIRIT ANIMAL SURVIVAL
 SPIRIT CITY: LOFI SESSIONS - ENCHANTED GARDEN DLC
 SPIRIT CLEANSERS
+SPIRIT GEMS - SUPPORTER PACK
 SPIRIT MAGICIAN
 SPIRIT OF THE DOME
 SPIRIT OF THE NORTH
@@ -87831,6 +87914,7 @@ SUCCUBUS SUCCESSOR: DELILAH'S JUICY JOURNEY
 SUCCUBUS SURVIVORS
 SUCCUBUS: THE LUSTBORN CURSE
 SUCCULENT BREAK
+SUCCUQUEST
 SUCH A GUY
 SUCHIE-PAI
 SUCHIEPAI
@@ -89142,7 +89226,9 @@ ScaleMail
 Scales of Silence
 ScalesofSilence
 Scam Center Saboteur
+Scam With Your Friends
 ScamCenterSaboteur
+ScamWithYourFriends
 Scanner Force
 Scanner Sombre
 ScannerForce
@@ -91340,6 +91426,8 @@ Sledgehammer
 Sledgehammer Games
 SledgehammerGames
 Sleena
+Sleep Walk
+SleepWalk
 Sleeper Agent
 SleeperAgent
 Sleeping Dragon
@@ -91888,6 +91976,7 @@ Solitary Sentinel
 SolitarySentinel
 Solitude
 Solo Breeding
+Solo Build Leveling
 Solo Chess
 Solo Cultivation ??
 Solo Cultivation 独修
@@ -91899,6 +91988,7 @@ Solo Leveling: ARISE OVERDRIVE - Jeju Island Raid Special Pack
 Solo Shift!
 Solo Tactics
 SoloBreeding
+SoloBuildLeveling
 SoloChess
 SoloCultivation独修
 SoloDefending
@@ -92647,6 +92737,8 @@ Spirit Animal Survival
 Spirit City: Lofi Sessions   Enchanted Garden DLC
 Spirit City: Lofi Sessions - Enchanted Garden DLC
 Spirit Cleansers
+Spirit Gems   Supporter Pack
+Spirit Gems - Supporter Pack
 Spirit Magician
 Spirit Route
 Spirit Sealing Tome
@@ -92666,6 +92758,7 @@ Spirit-SealingTome
 SpiritAnimalSurvival
 SpiritCity:LofiSessions-EnchantedGardenDLC
 SpiritCleansers
+SpiritGems-SupporterPack
 SpiritMagician
 SpiritRoute
 SpiritTalk-CozyVisualNovel
@@ -93911,6 +94004,7 @@ SuccubusSurvivors
 SuccubusofAphrodisia:Ako'sFirstEmbrace
 Succulent Break
 SucculentBreak
+Succuquest
 Such a guy
 Suchaguy
 Suchie-Pai
@@ -95076,6 +95170,9 @@ TAKARATOMY
 TAKASHIMA
 TAKE
 TAKE ME IN TOTALITY
+TAKE MY BOMB
+TAKE MY BOMB SUPPORT PACK 
+TAKE MY BOMB(SUPPORT PACK)
 TAKE TWO
 TAKE TWO INTERACTIVE
 TAKE YOU HOME
@@ -95084,6 +95181,8 @@ TAKEDA
 TAKEDA TAKAHASHI
 TAKEDATAKAHASHI
 TAKEDOWN
+TAKEMYBOMB
+TAKEMYBOMB(SUPPORTPACK)
 TAKERU
 TAKETWO
 TAKETWOINTERACTIVE
@@ -96899,6 +96998,7 @@ THE WITCHER III
 THE WITCHER III WILD HUNT
 THE WITCHER III: WILD HUNT
 THE WOMAN ABOVE
+THE WOODMAN
 THE WOODS
 THE WORLD BELOW - A CALL WITHIN
 THE WORLD ENDS IN OHIO
@@ -97385,6 +97485,7 @@ TICK
 TICK THROW
 TICK TICK
 TICK TOCK: A TALE FOR TWO
+TICKERBOUND
 TICKTHROW
 TICKTICK
 TICTACRANGERSDURISQUE
@@ -97402,6 +97503,7 @@ TIDY & BRIGHT: TOGETHER AT THE CHRISTMAS MARKET
 TIDY MART
 TIDY TOKENS
 TIDY UP
+TIDY UP HER TOYS DEMO
 TIDY UP THE FLOWER SHOP
 TIE
 TIE FIGHTER
@@ -97647,6 +97749,7 @@ TOBIASRIEFERS
 TOCA
 TODAY'S MENU
 TODAY’S FEATURED DEAL
+TODD THE TECHNICIAN
 TODO LIST 783
 TOEI
 TOEI ANIMATION.CO,LTD
@@ -100996,6 +101099,7 @@ The Witcher 3: Wild Hunt - Complete Edition
 The Witcher 3: Wild Hunt -- Remastered
 The Witcher 3: Wild Hunt — Remastered
 The Woman Above
+The Woodman
 The World Below   A Call Within
 The World Below - A Call Within
 The World Ends in Ohio
@@ -101983,6 +102087,7 @@ TheWitcher3:WildHunt
 TheWitcher3:WildHunt-CompleteEdition
 TheWitcher3:WildHunt—Remastered
 TheWomanAbove
+TheWoodman
 TheWorldBelow-ACallWithin
 TheWorldEndsinOhio
 TheWorldWell:BloodofCaro
@@ -102350,6 +102455,7 @@ Tick Tock: A Tale for Two
 Tick throw
 TickTick
 TickTock:ATaleforTwo
+Tickerbound
 Tickthrow
 Tictactoe Sets?????
 Tictactoe Sets井字棋合集
@@ -102369,11 +102475,13 @@ Tidy & Bright: Together at the Christmas Market
 Tidy Mart
 Tidy Tokens
 Tidy Up
+Tidy Up Her Toys Demo
 Tidy Up the Flower Shop
 Tidy&Bright:TogetherattheChristmasMarket
 TidyMart
 TidyTokens
 TidyUp
+TidyUpHerToysDemo
 TidyUptheFlowerShop
 Tie Me, Bind Me, HIT ME!
 TieMe,BindMe,HITME!
@@ -102685,6 +102793,8 @@ Today's Menu
 Today'sMenu
 Today’s Featured Deal
 Today’sFeaturedDeal
+Todd The Technician
+ToddTheTechnician
 ToeJam
 ToeJam and Earl
 ToeJamandEarl
@@ -107508,6 +107618,7 @@ WASHOUT
 WASP
 WASTE
 WASTE SORTING
+WASTE YOUR TIME
 WASTELAND
 WASTELAND BITES
 WASTELAND FUTURE DEMO
@@ -108925,7 +109036,9 @@ Washout
 Wasp
 Waste
 Waste Sorting
+Waste Your Time
 WasteSorting
+WasteYourTime
 Wasteland
 Wasteland Bites
 Wasteland Future Demo
@@ -110545,6 +110658,7 @@ YELLOW BED
 YELLOW CLICKER
 YELLOW DYE
 YELLOW HORN
+YELLOW TERMINAL
 YELLOWBANNER
 YELLOWBED
 YELLOWDYE
@@ -110969,11 +111083,13 @@ Yellow Bed
 Yellow Clicker
 Yellow Dye
 Yellow Horn
+Yellow Terminal
 YellowBanner
 YellowBed
 YellowClicker
 YellowDye
 YellowHorn
+YellowTerminal
 Yeng
 Yeng Isen
 YengIsen
@@ -112205,6 +112321,7 @@ a date with chester 2
 a day to remember
 a day's work
 a decent farewell
+a detective story
 a difficult game about letters
 a difficult game about wheelchair
 a directionless cycle
@@ -112682,6 +112799,7 @@ adventure'splanetsrl
 adventureinternational
 adventureisland
 adventurer's gambit: dungeons of fortune
+adventurers guild
 adventures
 adventures of willy dickhard
 adventures planet
@@ -113125,6 +113243,7 @@ alice
 alice and the devil's prison
 alice in disguise
 alice in wonderland: the crown of wishes
+alice nation
 alice ou o mundo?
 alice's world
 alien
@@ -113339,6 +113458,7 @@ amande
 amanita
 amanita design
 amanitadesign
+amanojaku nightmare
 amaranth source online
 amaview: desktop gifs
 amax
@@ -113438,6 +113558,7 @@ among thieves
 among us 3d
 amongthieves
 amp
+ampanic
 amped
 amphibarium
 amphinobi
@@ -117364,6 +117485,7 @@ breadbox
 breadbulls
 breadwalk
 breadwinner simulator
+break order
 break shoot
 break shoot demo
 break siege
@@ -121560,6 +121682,7 @@ dark
 dark adelita
 dark age legends
 dark and darker - eas11 seasonal pack
+dark and light
 dark are the crypts: the lost idea
 dark avos
 dark bone prison
@@ -121837,6 +121960,7 @@ daytona
 daytona usa
 daytonausa
 dayz
+dayz badlands
 daze
 dazz
 db-soft
@@ -122025,6 +122149,7 @@ deceived of joy
 deception
 decide 4 god
 deciphony
+decisive decks
 deck
 deck 13
 deck dash
@@ -122249,6 +122374,7 @@ demoguenicolas
 demon
 demon attack
 demon dust
+demon face punching club
 demon frog
 demon frog demon frog
 demon general kirsten
@@ -123384,6 +123510,7 @@ doom's
 doom's eye
 doom'seye
 doom: the dark ages
+doomed otaku
 doomer simulator
 doomfist
 doomhammer
@@ -125350,6 +125477,7 @@ escape from chancellor's chambers
 escape from company
 escape from crimson manor: trapped together
 escape from duckov
+escape from elohell
 escape from ever after
 escape from ever after - supporter pack
 escape from hadrian's wall
@@ -126213,6 +126341,7 @@ federicobigliocca
 fee
 feed
 feed my mech
+feed the cups
 feed the flame
 feed the flames
 feed the pit
@@ -127161,6 +127290,7 @@ forza horizon 6 welcome pack
 forza motorsport
 forzamotorsport
 forzefield
+fossil digger
 fossoyeur
 foto boy: flashstar
 foudre
@@ -128520,6 +128650,7 @@ giantfall
 giantmedia
 giantmediagroup
 giant’s heart
+giblings
 gideon
 gideon wyborn
 gideonwyborn
@@ -129247,6 +129378,7 @@ gravity game
 gravity grove
 gravity station
 gravity storm - first mission
+gravity vector
 gravity whipped demo
 gravity's edge
 gravscape
@@ -130300,6 +130432,7 @@ havik
 hawk
 hawk's
 hawks
+hay! one billion!
 hayase
 hayate
 hayato
@@ -132203,6 +132336,7 @@ incredible technologies
 incrediblemachine
 incrediblemachinethe
 incredibletechnologies
+incredulity
 increknight
 incremental dungeon
 incremental frog
@@ -133751,6 +133885,7 @@ kadokawa shoten
 kadokawashoten
 kadokura
 kadowaki
+kaebon
 kael'thas
 kaelan
 kaelaverse: pemascape
@@ -134067,6 +134202,7 @@ ken ken
 kendall
 kendall kendall
 kendallkendall
+keng's little universe
 kengo
 kengo miyazawa
 kengomiyazawa
@@ -136727,6 +136863,7 @@ lotusespritturbochallenge
 lotusland
 lotusland studios
 lotuslandstudios
+lotwick hill
 lou
 loud
 loud loud
@@ -137022,6 +137159,7 @@ ly
 lycoris
 lydie
 lydina and the dungeon of debauchery
+lyfe of the blade
 lying thieves: amsterdam
 lyneja
 lyneja lyneja
@@ -137358,6 +137496,7 @@ mahjong expedition
 mahjong house: challenge all achievements
 mahjong mysteries - ancient athena
 mahjong realms
+mahjong, sex & girls
 mahou arms
 mahouteq!
 mahtris 108
@@ -138477,6 +138616,7 @@ meow survivors
 meow tower - doomsguard
 meow weight loss diary
 meow with pipeline
+meow xiaoxi is watching you
 meow's meow
 meowcraft
 meowgun: hell denizen
@@ -141205,6 +141345,7 @@ nigelthornhill
 nigelweir
 night
 night alley : ตรอกลวง ดวงดับ
+night blood w : cutthroat wolf
 night castle
 night clerk
 night grip
@@ -141594,6 +141735,7 @@ nom
 nom nom: cozy forest café
 nomad
 nomad nightmare - episode 1: awakening
+nomadica demo
 nomia
 nomnom treasure hunt
 nomnomia
@@ -144651,6 +144793,7 @@ platesformes
 platform 0
 platform 6 online | 6番線オンライン協力異変探し
 platform vault
+platformino
 platina :: lab
 platine
 platine dispositif
@@ -148616,6 +148759,7 @@ scale mail
 scale2fit
 scales of silence
 scam center saboteur
+scam with your friends
 scammer '99
 scanner force
 scanner sombre
@@ -148852,6 +148996,7 @@ seal of magic
 seal of shadows
 sealed
 sealed in
+seamark demo
 seamen performance overlay
 seamspace: minesweeper
 seamus
@@ -150322,6 +150467,7 @@ sledgehammer games
 sledgehammergames
 sleena
 sleep awake
+sleep walk
 sleeper agent
 sleeping dragon
 sleepless
@@ -150753,6 +150899,7 @@ solitaregroup
 solitary sentinel
 solitude
 solo breeding
+solo build leveling
 solo chess
 solo cultivation 独修
 solo defending
@@ -151325,6 +151472,7 @@ spirit & steel
 spirit animal survival
 spirit city: lofi sessions - enchanted garden dlc
 spirit cleansers
+spirit gems - supporter pack
 spirit magician
 spirit of the dome
 spirit of the north
@@ -152258,6 +152406,7 @@ succubus successor: delilah's juicy journey
 succubus survivors
 succubus: the lustborn curse
 succulent break
+succuquest
 such a guy
 suchie-pai
 suchiepai
@@ -153137,6 +153286,8 @@ takaratomy
 takashima
 take
 take me in totality
+take my bomb
+take my bomb(support pack)
 take two
 take two interactive
 take you home
@@ -154917,6 +155068,7 @@ the witcher iii
 the witcher iii wild hunt
 the witcher iii: wild hunt
 the woman above
+the woodman
 the woods
 the world below - a call within
 the world ends in ohio
@@ -155383,6 +155535,7 @@ tick
 tick throw
 tick tick
 tick tock: a tale for two
+tickerbound
 tickthrow
 ticktick
 tictacrangersdurisque
@@ -155400,6 +155553,7 @@ tidy & bright: together at the christmas market
 tidy mart
 tidy tokens
 tidy up
+tidy up her toys demo
 tidy up the flower shop
 tie
 tie fighter
@@ -155638,6 +155792,7 @@ tobiasriefers
 toca
 today's menu
 today’s featured deal
+todd the technician
 todo list 783
 toei
 toei animation.co,ltd
@@ -158450,6 +158605,7 @@ washout
 wasp
 waste
 waste sorting
+waste your time
 wasteland
 wasteland bites
 wasteland future demo
@@ -159581,6 +159737,7 @@ yellow bed
 yellow clicker
 yellow dye
 yellow horn
+yellow terminal
 yellowbanner
 yellowbed
 yellowdye
@@ -160703,6 +160860,7 @@ zèbre
 嘉德莉亚的挽歌 ～Wind and Dream～
 嘉德莉亚的挽歌 ～wind and dream～
 嘉德莉亚的挽歌～WindandDream～
+囚笼之诗
 四方行
 四方行 DEMO
 四方行 Demo
@@ -161633,6 +161791,7 @@ zèbre
 除邪2(chuxie2)
 隔壁的美艳人妻
 零域都市：猫娘编队
+零氪超变
 雷霆之眼
 霓渊之城：爱神觉醒
 霸世狂刀
