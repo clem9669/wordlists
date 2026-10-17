@@ -1898,6 +1898,7 @@
 ??????? ~parallel~
 ???????(1)
 ???????(KAMITSUBAKI ACADEMY NEWSPAPER CLUB)
+???????-CrosshairLab
 ???????-NovelStone-
 ???????-as the Night's, Reincarnation-
 ???????3 ~Genie~
@@ -4819,6 +4820,7 @@ ASTRODIG
 ASTROGEO
 ASTROHAULERS
 ASTROLITE
+ASTROLOGY 101
 ASTROMATCH
 ASTRONEER
 ASTRONOOK
@@ -7928,6 +7930,8 @@ Astrobuilder
 Astrogeo
 Astrohaulers
 Astrolite
+Astrology 101
+Astrology101
 Astronook
 Astropods: Starside Glaze
 Astropods:StarsideGlaze
@@ -9409,6 +9413,7 @@ BELAIR
 BELAIR SOFTWARE
 BELAIRSOFTWARE
 BELCHA
+BELGO ODYSSEY
 BELIAL
 BELISARIO
 BELL
@@ -9570,6 +9575,7 @@ BEYOND SUNSET
 BEYOND THE RED DOOR
 BEYOND THE SECOND HOUR
 BEYOND THE SPACE WALL
+BEYOND THESE STARS
 BEYOND XII
 BEYOND YARDWORK SIMULATOR PROLOGUE
 BEYOND YOUR WALL
@@ -10154,6 +10160,7 @@ BLIGHTED DEEP
 BLIGHTFELL
 BLIGHTSEED
 BLIGHTSPIRE
+BLIGHTSTONE
 BLIGHTSTORM
 BLIMBLAU: KILL THEM ALL!
 BLIMM
@@ -12566,6 +12573,8 @@ BelAir
 BelAir Software
 BelAirSoftware
 Belcha
+Belgo Odyssey
+BelgoOdyssey
 Belial
 Belisario
 Bell
@@ -12766,6 +12775,7 @@ Beyond Silence
 Beyond Sunset
 Beyond The Second Hour
 Beyond The Space Wall
+Beyond These Stars
 Beyond Yardwork Simulator Prologue
 Beyond Your Wall
 Beyond the Red Door
@@ -12783,6 +12793,7 @@ BeyondSilence
 BeyondSunset
 BeyondTheSecondHour
 BeyondTheSpaceWall
+BeyondTheseStars
 BeyondYardworkSimulatorPrologue
 BeyondYourWall
 BeyondtheRedDoor
@@ -13450,6 +13461,7 @@ BlightedDeep
 Blightfell
 Blightseed
 Blightspire
+Blightstone
 Blightstorm
 Blimblau: Kill Them All!
 Blimblau:KillThemAll!
@@ -16038,6 +16050,7 @@ CHAI
 CHAIN
 CHAIN SHOT!
 CHAINED BACKROOMS
+CHAINED BEASTS
 CHAINED BIKES
 CHAINED HORROR EXPERIENCES ～AT THE THE CATTY PARK～
 CHAINMAIL
@@ -17433,6 +17446,7 @@ CONNER
 CONNOR
 CONQUER
 CONQUER FOR GLORY
+CONQUER HER
 CONQUER LANDS
 CONQUER LANDS DEMO
 CONQUER THE TOWER
@@ -19732,10 +19746,12 @@ Chain Shot!
 ChainShot!
 ChainStaff
 Chained Backrooms
+Chained Beasts
 Chained Bikes
 Chained Horror Experiences ~AT THE THE CATTY PARK~
 Chained Horror Experiences ～AT THE THE CATTY PARK～
 ChainedBackrooms
+ChainedBeasts
 ChainedBikes
 ChainedHorrorExperiences～ATTHETHECATTYPARK～
 Chainmail
@@ -21433,11 +21449,13 @@ Connelley
 Conner
 Connor
 Conquer
+Conquer Her
 Conquer Lands
 Conquer Lands Demo
 Conquer for Glory
 Conquer the Tower
 Conquer the world
+ConquerHer
 ConquerLands
 ConquerLandsDemo
 ConquerforGlory
@@ -29951,6 +29969,7 @@ ECAPYC SOFTWARE
 ECAPYC Software
 ECAPYCSOFTWARE
 ECAPYCSoftware
+ECCENTRIC WANDER DEMO
 ECCLES
 ECCO
 ECCO THE
@@ -31512,6 +31531,8 @@ Ebrum
 Ecaille
 Ecaille de tortue
 Ecailledetortue
+Eccentric Wander Demo
+EccentricWanderDemo
 Eccles
 Ecco
 Ecco the
@@ -33999,6 +34020,7 @@ FIOLEDEXPERIENCE
 FIRAXIS
 FIRE
 FIRE & CROWN: A DEMO OF THE HUNDRED YEARS' WAR
+FIRE AND WATER: SPIRITS OF THE FOREST
 FIRE BURNING CITY
 FIRE CHARGE
 FIRE EMBLEM
@@ -34147,6 +34169,7 @@ FIVE NIGHTS AT MONKEYS: FLAT MODE
 FIVE NIGHTS AT STICKMAN
 FIVE NIGHTS IN SARANSK
 FIVE NIGHTS WITH DINO
+FIVE NIGHTS WITH MAIDS
 FIVENIGHTSATFREDDY'S
 FIVENIGHTSATFREDDYS
 FIX AND CLERK
@@ -34712,11 +34735,14 @@ FOX_SPAWN_EGG
 FPS
 FPS CREATOR
 FPS Creator
+FPS GAME
+FPS Game
 FPS PERFORMANCE LAB
 FPS Performance Lab
 FPSCORE
 FPSCore
 FPSCreator
+FPSGame
 FPSPerformanceLab
 FRACTA REGNA
 FRACTAL ODYSSEY DEMO
@@ -36239,6 +36265,7 @@ Fire Maple
 Fire Maple Games
 Fire Pro
 Fire Pro Wrestling
+Fire and Water: Spirits of the Forest
 Fire in the Hole
 Fire of Life: New Day
 Fire&Crown:ADemooftheHundredYears'War
@@ -36255,6 +36282,7 @@ FireMaple
 FireMapleGames
 FirePro
 FireProWrestling
+FireandWater:SpiritsoftheForest
 Firebird
 Fireboy   Watergirl 1: The Forest Temple
 Fireboy   Watergirl 2: The Light Temple
@@ -36442,6 +36470,7 @@ Five Nights at Freddy's
 Five Nights at Freddy's: Secret of the Mimic
 Five Nights at Freddys
 Five Nights with Dino
+Five Nights with Maids
 FiveElementsChess
 FiveHeartsUnderOneRoofseason2
 FiveHeartsUnderOneRoofseason2-Soundtrack
@@ -36458,6 +36487,7 @@ FiveNightsatFreddy's
 FiveNightsatFreddy's:SecretoftheMimic
 FiveNightsatFreddys
 FiveNightswithDino
+FiveNightswithMaids
 Fix and Clerk
 Fix and Clerk Demo
 FixandClerk
@@ -37981,6 +38011,7 @@ GALACTAKNIGHTGALACTAKNIGHT
 GALACTIC CONFLICT
 GALACTIC CONQUEST
 GALACTIC GLITCH
+GALACTIC KEBAB DEMO
 GALACTIC MECHA GUNSUIT
 GALACTIC OUTLAWS
 GALACTIC OVERTHROW
@@ -38309,6 +38340,7 @@ GATE GUARDIAN
 GATE OF THUNDER
 GATEAU
 GATEBREAKERS
+GATEKEEPER
 GATEOFTHUNDER
 GATES
 GATES OF EDEN
@@ -38600,6 +38632,7 @@ GHASTSPAWNEGG
 GHASTTEAR
 GHEED
 GHEZAL
+GHILLIE WARS
 GHIRAHIM
 GHLOBOT GALAXY
 GHOM
@@ -39132,6 +39165,7 @@ GOMAR & SHIOH
 GOMAR&SHIOH
 GOMARSHIOH
 GOMOKU
+GOMOKUSOCCER
 GON
 GON: GOD OF NOTHING
 GON: God Of Nothing
@@ -39568,6 +39602,7 @@ GREatEffects
 GREatEffectsDevelopment
 GRIBOUILLE
 GRID OF CHANGE
+GRID64
 GRIDBOUND
 GRIDENERGY
 GRIDFALL
@@ -40066,6 +40101,7 @@ GalactiWar-EmpireSimulator
 Galactic Conflict
 Galactic Conquest
 Galactic Glitch
+Galactic Kebab Demo
 Galactic Mecha GunSuit
 Galactic Outlaws
 Galactic Overthrow
@@ -40075,6 +40111,7 @@ Galactic Vault
 GalacticConflict
 GalacticConquest
 GalacticGlitch
+GalacticKebabDemo
 GalacticMechaGunSuit
 GalacticOutlaws
 GalacticOverthrow
@@ -40461,6 +40498,7 @@ Gate of Thunder
 GateGuardian
 Gateau
 Gatebreakers
+Gatekeeper
 GateofThunder
 Gates
 Gates of Eden
@@ -40770,6 +40808,8 @@ GhastSpawnEgg
 GhastTear
 Gheed
 Ghezal
+Ghillie Wars
+GhillieWars
 Ghirahim
 Ghlobot Galaxy
 GhlobotGalaxy
@@ -41390,6 +41430,7 @@ Gomar & Shioh
 Gomar&Shioh
 GomarShioh
 Gomoku
+GomokuSoccer
 Gon
 Gone Exploring
 Gone Home
@@ -43205,6 +43246,7 @@ HENTAI TALES: MASTER, YOUR SEX CLASS BEGINS NOW
 HENTAI TALES: OFFICE DEPRAVITY
 HENTAI TALES: OFFICE SEX HANDLER
 HENTAI TALES: POSSESSION STREAM NIGHTMARE IDOL
+HENTAI TALES: PROFANE ARBITRATION
 HENTAI TALES: SECRETS GLASSES & GYARU
 HENTAI TALES: SHRINE MAIDEN'S JUICY FRUITS
 HENTAI TALES: SLAVE APP - ARROGANT SISTERS
@@ -43276,6 +43318,7 @@ HERO SIEGE
 HERO, DEMON AND ME 3P
 HEROCRAFT
 HEROES
+HEROES  BATTLE HYMN：Demonfire Era Demo
 HEROES BATTLE AWAKENING
 HEROES OF HAMMERWATCH II
 HEROES OF HIGHER REALMS
@@ -43292,8 +43335,12 @@ HEROES OF RETRIBUTION DEMO
 HEROES OF THE SEVEN ISLANDS
 HEROES OF THE TRIANGLE: MASK RUSH
 HEROES UNHINGED
+HEROES' BATTLE HYMN:Demonfire Era Demo
+HEROES' BATTLE HYMN：DEMONFIRE ERA DEMO
+HEROES' BATTLE HYMN：Demonfire Era Demo
 HEROES' CALL - A CASUAL MMO GUILD SIM
 HEROES' VOW: THREE KINGDOMS
+HEROES'BATTLEHYMN：DemonfireEraDemo
 HEROES:
 HEROES:TRAILSINTHESKY
 HEROES:TRAILSINTHESKYTHE
@@ -45280,6 +45327,7 @@ Hentai Tales: Master, Your Sex Class Begins Now
 Hentai Tales: Office Depravity
 Hentai Tales: Office Sex Handler
 Hentai Tales: Possession Stream Nightmare Idol
+Hentai Tales: Profane Arbitration
 Hentai Tales: Secrets Glasses   Gyaru
 Hentai Tales: Secrets Glasses & Gyaru
 Hentai Tales: Shrine Maiden s Juicy Fruits
@@ -45450,6 +45498,7 @@ HentaiTales:Master,YourSexClassBeginsNow
 HentaiTales:OfficeDepravity
 HentaiTales:OfficeSexHandler
 HentaiTales:PossessionStreamNightmareIdol
+HentaiTales:ProfaneArbitration
 HentaiTales:SecretsGlasses&Gyaru
 HentaiTales:ShrineMaiden'sJuicyFruits
 HentaiTales:SlaveApp-ArrogantSisters
@@ -47574,6 +47623,7 @@ INKOCHET: PAINT THE WALLS WITH YOUR ARROWS!
 INKOCHET: Paint The Walls With Your Arrows!
 INKOCHET:PaintTheWallsWithYourArrows!
 INKOID
+INKPRESS
 INKSAC
 INKUBO
 INKVENTURE
@@ -48837,6 +48887,7 @@ InkSac
 InkShadow:Zero
 Inkling
 Inkoid
+Inkpress
 Inkventure
 Inkwellers
 Inky Blinky Bob
@@ -50201,6 +50252,7 @@ JURI
 JURI HAN
 JURIHAN
 JUST
+JUST A CAT
 JUST A GUY :  ONLINE MULTIPLAYER RAGDOLL GAME DEMO
 JUST A GUY :  Online Multiplayer Ragdoll Game Demo
 JUST A LITTLE LONGER
@@ -51155,6 +51207,7 @@ Just Updated   New Content Added!
 Just Updated - New Content Added!
 Just Updated!
 Just Waiting Cats
+Just a Cat
 Just a Little Longer
 Just the Boss Fights
 JustAPixelCharacterCreator
@@ -51188,6 +51241,7 @@ JustUpdated
 JustUpdated!
 JustUpdated-NewContentAdded!
 JustWaitingCats
+JustaCat
 JustaLittleLonger
 Juste
 Justice
@@ -61747,6 +61801,7 @@ MR. MEAT
 MR. MICRO
 MR. PHOTOGRAPHER - INTO THE LIGHT
 MR. PREPPER
+MR. PREPPER - MOUNTAINEER DLC
 MR. PRESIDENT WE HAVE A SITUATION!
 MR. SAX
 MR. SLEEPY MAN
@@ -65682,6 +65737,8 @@ Mr. Micro
 Mr. Photographer   Into The Light
 Mr. Photographer - Into The Light
 Mr. Prepper
+Mr. Prepper   Mountaineer DLC
+Mr. Prepper - Mountaineer DLC
 Mr. President We Have A Situation!
 Mr. Sax
 Mr. Sleepy Man
@@ -65703,6 +65760,7 @@ Mr.Meat
 Mr.Micro
 Mr.Photographer-IntoTheLight
 Mr.Prepper
+Mr.Prepper-MountaineerDLC
 Mr.PresidentWeHaveASituation!
 Mr.Sax
 Mr.SleepyMan
@@ -66719,6 +66777,7 @@ NEKO-NIN exHeart SPIN! LOVE+PLUS
 NEKO-NINexHeartSPIN!LOVE+PLUS
 NEKOGUMI
 NEKOKAMI - THE HUMAN RESTORATION PROJECT
+NEKOMANCER
 NEKOMANCER OF NOWHERE
 NEKOPARA AFTER
 NEKOPARA After
@@ -66913,6 +66972,10 @@ NETHERSTAR
 NETHERWART
 NETORI KNIGHTS
 NETWORK
+NETWORK   CYBER SECURITY SIMULATOR Demo
+NETWORK & CYBER SECURITY SIMULATOR DEMO
+NETWORK & CYBER SECURITY SIMULATOR Demo
+NETWORK&CYBERSECURITYSIMULATORDemo
 NETWORKS
 NEULAND
 NEULAND MULTIMEDIA
@@ -67510,6 +67573,7 @@ NODE MATH
 NODE: THE LAST FAVOR OF THE ANTARII
 NODE: The Last Favor of the Antarii
 NODE:TheLastFavoroftheAntarii
+NODEBREAK DEMO
 NODOSIS
 NOEL
 NOEL KREISS
@@ -68169,6 +68233,7 @@ Nekogumi
 Nekokami   The Human Restoration Project
 Nekokami - The Human Restoration Project
 Nekokami-TheHumanRestorationProject
+Nekomancer
 Nekomancer of Nowhere
 NekomancerofNowhere
 NekonoYume
@@ -69046,6 +69111,8 @@ Noddy Noddy
 NoddyNoddy
 Node Math
 NodeMath
+Nodebreak Demo
+NodebreakDemo
 Nodosis
 Noel
 Noel Kreiss
@@ -70220,6 +70287,7 @@ OPEN GUARD
 OPEN INTEREST
 OPEN ROBOT
 OPEN SESAME
+OPEN SOURCERER
 OPEN SYSTEM
 OPEN UP, MICHAEL!
 OPENCORP
@@ -71560,6 +71628,7 @@ Open Emotion Studios
 Open Interest
 Open Robot
 Open Sesame
+Open Sourcerer
 Open System
 OpenCloseDoor
 OpenCorp
@@ -71568,6 +71637,7 @@ OpenEmotionStudios
 OpenInterest
 OpenRobot
 OpenSesame
+OpenSourcerer
 OpenSystem
 Opera
 Opera House
@@ -74949,6 +75019,7 @@ PURE BADMINTON DEMO
 PURE HEAT
 PURE IDLE
 PURE INSTINCT KATANA
+PURE MUAY THAI
 PURE POOL PRO
 PURE SHOOTER
 PURNA
@@ -75004,7 +75075,9 @@ PUZZLE BOBBLE
 PUZZLE BOBBLE EVERYBUBBLE!
 PUZZLE BOBBLE MINI
 PUZZLE DEPOT
+PUZZLE FIREWORKS
 PUZZLE GAME
+PUZZLE JUNGLE
 PUZZLE KINGS
 PUZZLE NATURE
 PUZZLE PANIC
@@ -78281,12 +78354,14 @@ Pure Badminton Demo
 Pure Heat
 Pure Idle
 Pure Instinct Katana
+Pure Muay Thai
 Pure Pool Pro
 Pure Shooter
 PureBadmintonDemo
 PureHeat
 PureIdle
 PureInstinctKatana
+PureMuayThai
 PurePoolPro
 PureShooter
 Purna
@@ -78362,6 +78437,8 @@ Puzzle Bobble
 Puzzle Bobble Everybubble!
 Puzzle Bobble Mini
 Puzzle Depot
+Puzzle Fireworks
+Puzzle Jungle
 Puzzle Kings
 Puzzle Nature
 Puzzle Panic
@@ -78382,6 +78459,8 @@ PuzzleBobble
 PuzzleBobbleEverybubble!
 PuzzleBobbleMini
 PuzzleDepot
+PuzzleFireworks
+PuzzleJungle
 PuzzleKings
 PuzzleNature
 PuzzlePanic
@@ -86310,6 +86389,7 @@ SOLDOUT
 SOLDOUTSOFTWARE
 SOLE SALVATION DEMO
 SOLEIL
+SOLEMNFABLE
 SOLE_BLOCKDEFENDERS
 SOLICITORZ
 SOLID
@@ -87024,6 +87104,7 @@ SPRUCEBOAT
 SPRUCEDOOR
 SPRUNKI HORROR FROM THE LOOP
 SPUD KEEPER
+SPUDFALL
 SPUDTOON - BORN TO PEEL
 SPUDTRAP
 SPUTNIK
@@ -87434,6 +87515,7 @@ STEAMWORLD
 STEAMWORLD DIG 2
 STEAMWRECKED
 STEEL
+STEEL & FORTUNE
 STEEL CENTURY GROOVE
 STEEL CRAWLERS
 STEEL DEFENCE
@@ -87600,6 +87682,9 @@ STORE IT!
 STORE KEEPER
 STORE SIMULATOR PETTIKKADA
 STORE WARS: MULTIPLAYER SHOP SIMULATOR
+STOREBOT: TIDY UP PC PARTS
+STOREBOT: Tidy Up PC Parts
+STOREBOT:TidyUpPCParts
 STOREBOUGHTMILK
 STORIES ADRIFT: WAKE - PROLOGUE
 STORIES BEST LEFT UNTOLD
@@ -88094,6 +88179,7 @@ SUPER CHIPFLAKE Ü: QUEST FOR THE UNCOOKED SCHNITZEL
 SUPER CLOWN PUZZLES
 SUPER COBRA
 SUPER COLUMNS
+SUPER CUBER
 SUPER CURSOR
 SUPER DARK DECEPTION - CHAPTER 2
 SUPER DARTS CHAMPS
@@ -92899,6 +92985,7 @@ SpruceDoor
 Sprunki Horror from the Loop
 SprunkiHorrorfromtheLoop
 Spud Keeper
+SpudFall
 SpudKeeper
 Spudtoon   Born To Peel
 Spudtoon - Born To Peel
@@ -93327,6 +93414,8 @@ SteamWorld Dig 2
 SteamWorldDig2
 Steamwrecked
 Steel
+Steel   Fortune
+Steel & Fortune
 Steel Century Groove
 Steel Crawlers
 Steel Defence
@@ -93338,6 +93427,7 @@ Steel Panthers
 Steel Seed
 Steel Swarm: APOCALYPSE
 Steel shadows arena
+Steel&Fortune
 SteelCenturyGroove
 SteelCrawlers
 SteelDefence
@@ -94256,6 +94346,7 @@ Super Chipflake Ü: Quest for the Uncooked Schnitzel
 Super Clown Puzzles
 Super Cobra
 Super Columns
+Super Cuber
 Super Cursor
 Super Dark Deception   Chapter 2
 Super Dark Deception - Chapter 2
@@ -94384,6 +94475,7 @@ SuperChipflakeÜ:QuestfortheUncookedSchnitzel
 SuperClownPuzzles
 SuperCobra
 SuperColumns
+SuperCuber
 SuperCursor
 SuperDarkDeception-Chapter2
 SuperDartsChamps
@@ -96460,6 +96552,7 @@ THE KING IS WATCHING
 THE KING OF ASSASSINS - THE KINGDOM
 THE KING OF FIGHTERS
 THE KING OF GO
+THE KING'S GAMBIT
 THE KING'S GAME: THROUGH THE VEIL
 THE KITCHEN KNIFE
 THE KNIGHT OF NIRAKING
@@ -96622,6 +96715,7 @@ THE MARTIAL WORLD OF DRINKING：WU SONG
 THE MASOCHISTIC BALL
 THE MASQUERADE
 THE MATRON OF ASHES
+THE MAYOR’S HAND
 THE MAZE SURVIVOR: THE 9TH ENTRANTS
 THE MAZE: L'ULTIMO SOLDATO
 THE MELTY WAY
@@ -98281,6 +98375,7 @@ TRADING CARD INSPECTOR
 TRADING CARD SHOP SIMULATOR
 TRAFFIC RIVALS: 1V1 DUELS
 TRAFFIC STOP ANOMALY
+TRAFFICJAM
 TRAGIDLE
 TRAIL OF GODS: THE CURSED ISLAND
 TRAIL OF STARS
@@ -100552,7 +100647,9 @@ The King of Assassins   The Kingdom
 The King of Assassins - The Kingdom
 The King of Fighters
 The King of Go
+The King s Gambit
 The King s Game: Through the Veil
+The King's Gambit
 The King's Game: Through the Veil
 The Kitchen Knife
 The Knight of Niraking
@@ -100707,6 +100804,8 @@ The Married Woman Nextdoor - Creampie SEX Beside Her Husband
 The Masochistic Ball
 The Masquerade
 The Matron of Ashes
+The Mayor's Hand
+The Mayor’s Hand
 The Maze Survivor: The 9th Entrants
 The Maze: L ultimo soldato
 The Maze: L'ultimo soldato
@@ -101596,6 +101695,7 @@ TheKeeper'sPath
 TheKendamaChallenge:100Players
 TheKey
 TheKindling
+TheKing'sGambit
 TheKing'sGame:ThroughtheVeil
 TheKingisWatching
 TheKingofAssassins-TheKingdom
@@ -101737,6 +101837,7 @@ TheMarriedWomanNextdoor-CreampieSEXBesideHerHusband
 TheMasochisticBall
 TheMasquerade
 TheMatronofAshes
+TheMayor’sHand
 TheMaze:L'ultimosoldato
 TheMazeSurvivor:The9thEntrants
 TheMeltyWay
@@ -103463,6 +103564,7 @@ TradingCardInspector
 TradingCardShopSimulator
 Traffic Rivals: 1v1 Duels
 Traffic Stop Anomaly
+TrafficJam
 TrafficRivals:1v1Duels
 TrafficStopAnomaly
 Tragidle
@@ -108007,6 +108109,7 @@ WIDESCREEN
 WIDESCREEN GAMES
 WIDESCREENGAMES
 WIDGET WARRIORS
+WIFE'S BEDROOM
 WIGGLER
 WIGMUND
 WIGMUND WIGMUND
@@ -108300,6 +108403,7 @@ WODEN
 WODEN WODEN
 WODENWODEN
 WOLF
+WOLF ISLAND
 WOLF MATE
 WOLF SPAWN
 WOLF SPAWN EGG
@@ -109592,6 +109696,9 @@ Wideload Games
 WideloadGames
 Widget Warriors
 WidgetWarriors
+Wife s Bedroom
+Wife's Bedroom
+Wife'sBedroom
 Wiggler
 Wigmund
 Wigmund Wigmund
@@ -109957,11 +110064,13 @@ Woden
 Woden Woden
 WodenWoden
 Wolf
+Wolf Island
 Wolf Mate
 Wolf Spawn
 Wolf Spawn Egg
 Wolf Team
 Wolf with Inn
+WolfIsland
 WolfMate
 WolfQuest Anniversary   Tower Fall
 WolfQuest Anniversary - Tower Fall
@@ -110634,6 +110743,7 @@ YASHA: LEGENDS OF THE DEMON BLADE - ARTBOOK
 YASHA: LEGENDS OF THE DEMON BLADE - ORIGINAL SOUNDTRACK
 YASHA: LEGENDS OF THE DEMON BLADE - SINGLES
 YASHICHI
+YATAI 8
 YAXI TAXI
 YAYA
 YAYA PANDA
@@ -111058,6 +111168,8 @@ Yasha:LegendsoftheDemonBlade-Artbook
 Yasha:LegendsoftheDemonBlade-OriginalSoundtrack
 Yasha:LegendsoftheDemonBlade-Singles
 Yashichi
+Yatai 8
+Yatai8
 Yaxi Taxi
 YaxiTaxi
 Yaya
@@ -114656,6 +114768,7 @@ astrodig
 astrogeo
 astrohaulers
 astrolite
+astrology 101
 astromatch
 astroneer
 astronook
@@ -115998,6 +116111,7 @@ belair
 belair software
 belairsoftware
 belcha
+belgo odyssey
 belial
 belisario
 bell
@@ -116158,6 +116272,7 @@ beyond sunset
 beyond the red door
 beyond the second hour
 beyond the space wall
+beyond these stars
 beyond xii
 beyond yardwork simulator prologue
 beyond your wall
@@ -116723,6 +116838,7 @@ blighted deep
 blightfell
 blightseed
 blightspire
+blightstone
 blightstorm
 blimblau: kill them all!
 blimm
@@ -118914,6 +119030,7 @@ chai
 chain
 chain shot!
 chained backrooms
+chained beasts
 chained bikes
 chained horror experiences ～at the the catty park～
 chainmail
@@ -120273,6 +120390,7 @@ conner
 connor
 conquer
 conquer for glory
+conquer her
 conquer lands
 conquer lands demo
 conquer the tower
@@ -124526,6 +124644,7 @@ ecailledetortue
 ecapyc
 ecapyc software
 ecapycsoftware
+eccentric wander demo
 eccles
 ecco
 ecco the
@@ -126649,6 +126768,7 @@ fioledexpérience
 firaxis
 fire
 fire & crown: a demo of the hundred years' war
+fire and water: spirits of the forest
 fire burning city
 fire charge
 fire emblem
@@ -126794,6 +126914,7 @@ five nights at monkeys: flat mode
 five nights at stickman
 five nights in saransk
 five nights with dino
+five nights with maids
 fivenightsatfreddy's
 fivenightsatfreddys
 fix and clerk
@@ -127351,6 +127472,7 @@ foxy's potion shop
 foxysofts
 fps
 fps creator
+fps game
 fps performance lab
 fpscore
 fracta regna
@@ -127991,6 +128113,7 @@ galactaknightgalactaknight
 galactic conflict
 galactic conquest
 galactic glitch
+galactic kebab demo
 galactic mecha gunsuit
 galactic outlaws
 galactic overthrow
@@ -128317,6 +128440,7 @@ gate guardian
 gate of thunder
 gateau
 gatebreakers
+gatekeeper
 gateofthunder
 gates
 gates of eden
@@ -128580,6 +128704,7 @@ ghastspawnegg
 ghasttear
 gheed
 ghezal
+ghillie wars
 ghirahim
 ghlobot galaxy
 ghom
@@ -129091,6 +129216,7 @@ gomar & shioh
 gomar&shioh
 gomarshioh
 gomoku
+gomokusoccer
 gon
 gon: god of nothing
 gone exploring
@@ -129512,6 +129638,7 @@ greywind's legacy - a text based, skill progression, rpg
 grezzo
 gribouille
 grid of change
+grid64
 gridbound
 gridenergy
 gridfall
@@ -130778,6 +130905,7 @@ hentai tales: master, your sex class begins now
 hentai tales: office depravity
 hentai tales: office sex handler
 hentai tales: possession stream nightmare idol
+hentai tales: profane arbitration
 hentai tales: secrets glasses & gyaru
 hentai tales: shrine maiden's juicy fruits
 hentai tales: slave app - arrogant sisters
@@ -130862,6 +130990,7 @@ heroes of retribution demo
 heroes of the seven islands
 heroes of the triangle: mask rush
 heroes unhinged
+heroes' battle hymn：demonfire era demo
 heroes' call - a casual mmo guild sim
 heroes' vow: three kingdoms
 heroes:
@@ -132507,6 +132636,7 @@ ink shadow: zero
 inkling
 inkochet: paint the walls with your arrows!
 inkoid
+inkpress
 inksac
 inkubo
 inkventure
@@ -133757,6 +133887,7 @@ juri
 juri han
 jurihan
 just
+just a cat
 just a guy :  online multiplayer ragdoll game demo
 just a little longer
 just a pixel character creator
@@ -140203,6 +140334,7 @@ mr. meat
 mr. micro
 mr. photographer - into the light
 mr. prepper
+mr. prepper - mountaineer dlc
 mr. president we have a situation!
 mr. sax
 mr. sleepy man
@@ -140979,6 +141111,7 @@ neko-neko meow club
 neko-nin exheart spin! love+plus
 nekogumi
 nekokami - the human restoration project
+nekomancer
 nekomancer of nowhere
 nekopara after
 nekopara vol. 1
@@ -141160,6 +141293,7 @@ netherstar
 netherwart
 netori knights
 network
+network & cyber security simulator demo
 networks
 neuland
 neuland multimedia
@@ -141711,6 +141845,7 @@ noddy noddy
 noddynoddy
 node math
 node: the last favor of the antarii
+nodebreak demo
 nodosis
 noel
 noel kreiss
@@ -142833,6 +142968,7 @@ open guard
 open interest
 open robot
 open sesame
+open sourcerer
 open system
 open up, michael!
 opencorp
@@ -145957,6 +146093,7 @@ pure badminton demo
 pure heat
 pure idle
 pure instinct katana
+pure muay thai
 pure pool pro
 pure shooter
 purna
@@ -146013,7 +146150,9 @@ puzzle bobble
 puzzle bobble everybubble!
 puzzle bobble mini
 puzzle depot
+puzzle fireworks
 puzzle game
+puzzle jungle
 puzzle kings
 puzzle nature
 puzzle panic
@@ -150881,6 +151020,7 @@ soldoutsoftware
 sole salvation demo
 sole_blockdefenders
 soleil
+solemnfable
 solicitorz
 solid
 solid software
@@ -151576,6 +151716,7 @@ spruceboat
 sprucedoor
 sprunki horror from the loop
 spud keeper
+spudfall
 spudtoon - born to peel
 spudtrap
 sputnik
@@ -151938,6 +152079,7 @@ steamworld
 steamworld dig 2
 steamwrecked
 steel
+steel & fortune
 steel century groove
 steel crawlers
 steel defence
@@ -152097,6 +152239,7 @@ store it!
 store keeper
 store simulator pettikkada
 store wars: multiplayer shop simulator
+storebot: tidy up pc parts
 storeboughtmilk
 stories adrift: wake - prologue
 stories best left untold
@@ -152582,6 +152725,7 @@ super chipflake ü: quest for the uncooked schnitzel
 super clown puzzles
 super cobra
 super columns
+super cuber
 super cursor
 super dark deception - chapter 2
 super darts champs
@@ -154534,6 +154678,7 @@ the king is watching
 the king of assassins - the kingdom
 the king of fighters
 the king of go
+the king's gambit
 the king's game: through the veil
 the kitchen knife
 the knight of niraking
@@ -154695,6 +154840,7 @@ the martial world of drinking：wu song
 the masochistic ball
 the masquerade
 the matron of ashes
+the mayor’s hand
 the maze survivor: the 9th entrants
 the maze: l'ultimo soldato
 the melty way
@@ -156310,6 +156456,7 @@ trading card inspector
 trading card shop simulator
 traffic rivals: 1v1 duels
 traffic stop anomaly
+trafficjam
 tragidle
 trail of gods: the cursed island
 trail of stars
@@ -158974,6 +159121,7 @@ widescreen
 widescreen games
 widescreengames
 widget warriors
+wife's bedroom
 wiggler
 wigmund
 wigmund wigmund
@@ -159262,6 +159410,7 @@ woden
 woden woden
 wodenwoden
 wolf
+wolf island
 wolf mate
 wolf spawn
 wolf spawn egg
@@ -159715,6 +159864,7 @@ yasha: legends of the demon blade - artbook
 yasha: legends of the demon blade - original soundtrack
 yasha: legends of the demon blade - singles
 yashichi
+yatai 8
 yaxi taxi
 yaya
 yaya panda
@@ -161623,6 +161773,7 @@ zèbre
 莫待无花空折枝：做题家的 git 重启日志
 莫待无花空折枝：做题家的Git重启日志
 萍城异闻录
+萤光之旅
 落恩典记/LOSEGRACETALE
 落恩典记/LoseGraceTale
 落恩典记/losegracetale
@@ -161691,6 +161842,10 @@ zèbre
 超级妙音鸟 Super Kalavinka
 超级妙音鸟 super kalavinka
 超级妙音鸟SuperKalavinka
+超级自定义准星 CrosshairLab
+超级自定义准星-CROSSHAIRLAB
+超级自定义准星-CrosshairLab
+超级自定义准星-crosshairlab
 躁のあなた鬱のあたし｜MANIC YOU AND DEPRESSED ME
 躁のあなた鬱のあたし｜Manic you and depressed me
 躁のあなた鬱のあたし｜Manicyouanddepressedme
