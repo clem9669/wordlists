@@ -861,6 +861,7 @@
 ????? ???
 ?????? ?? ???? ????
 ?????? ?? ???? ????????
+?????? ?? ??????
 ?????? ?? ???????
 ?????? ??????
 ?????? ???????
@@ -2218,6 +2219,7 @@ ALICE MUNRO
 ALICE NEVERS
 ALICE POL
 ALICE ROBINSON
+ALICE SCHWARZER
 ALICE SEBOLD
 ALICE TAGLIONI
 ALICE WEIDEL
@@ -3107,6 +3109,7 @@ ANTHROPIC
 ANTI COVID
 ANTIBES
 ANTICICLONE
+ANTICYCLONE
 ANTIFA
 ANTIGEN-SCHNELLTEST
 ANTIKÖRPER-TEST CORONA
@@ -10107,6 +10110,7 @@ BINIAM GIRMAY
 BINNINGEN TÖTUNGSDELIKT
 BIOBEST
 BIONTECH-AKTIE
+BIOWARE
 BIPER
 BIPEUR
 BIPOLAIRE STOORNIS
@@ -15742,6 +15746,7 @@ CERTIFICAT COVID EUROPEEN
 CERTIFICAT COVID EUROPeEN
 CERTIFICAT COVID EUROPéEN
 CERTIFICAT COVID SUISSE
+CERTIFICAT MEDICAL
 CERTIFICAT MÉDICAL
 CERTIFICATCOVID
 CERTIFICATCOVIDEUROPEEN
@@ -17723,6 +17728,7 @@ CULLY JAZZ
 CULLY JAZZ FESTIVAL
 CULT OF THE LAMB
 CULTURA
+CULTURISME
 CUNEYT ARKIN
 CUP
 CUP SCHWEIZ
@@ -22760,6 +22766,7 @@ DOOMSDAY PLANE
 DOORNAPPEL
 DOORNROOSJE MUSICAL
 DOOZ KAWA
+DOPPELNAME
 DORDOGNE
 DORDRECHT - FEYENOORD
 DORF (ZH
@@ -34024,6 +34031,7 @@ GAL GADOT
 GALA
 GALA DEI CASTELLI
 GALA DRAGOT
+GALA SLIMSTE MENS
 GALAPAGOS
 GALAPAGOS KOERS
 GALATASARAY
@@ -34762,6 +34770,7 @@ GLASS ONION
 GLASTONBURY
 GLASTONBURY 2023
 GLATTZENTRUM
+GLEE
 GLEITSCHIRMUNFALL LENK
 GLEN CUYLE
 GLEN DE BOECK
@@ -50511,6 +50520,7 @@ LILIANE BETTENCOURT
 LILIANE SAINT-PIERRE
 LILIBET
 LILLE
+LILLE - GALATASARAY
 LILLE - METZ
 LILLE - NICE
 LILLE - SALZBOURG
@@ -50527,6 +50537,7 @@ LILLE – BREST
 LILLE – CLERMONT
 LILLE – FENERBAHÇE
 LILLE – FEYENOORD
+LILLE – GALATASARAY
 LILLE – LENS
 LILLE – LORIENT
 LILLE – LYON
@@ -51005,6 +51016,7 @@ LOS ANGELES WALDBRÄNDE
 LOSC
 LOSC LILLE
 LOSC LILLE VS PARIS SAINT-GERMAIN F.C. STANDINGS
+LOSC VS GALATASARAY
 LOSENE KEITA
 LOST
 LOST ARK
@@ -56917,6 +56929,7 @@ MEGASCOLIA MACULATA
 MEGEVE
 MEGHAN
 MEGHAN MARKLE
+MEGHAN, DUCHESS OF SUSSEX
 MEGHANMARKLE
 MEHDI CARCELA
 MEHDI GHEZZAR
@@ -68016,6 +68029,7 @@ PARENTS DIVORCÉS
 PARER
 PARET PEINTRE
 PARFAIT COULIBALY
+PARIJS
 PARIJS NICE 2022
 PARIJS NICE 2023
 PARIJS ROUBAIX
@@ -69584,6 +69598,7 @@ PRETRE ASSASSINÉ
 PRETTY WOMAN
 PREUßEN MÜNSTER GEGEN BAYERN
 PREVISION
+PREVISION DES ORAGES VIOLENTS
 PREY
 PRIDE ANTWERPEN
 PRIDE BERN
@@ -69845,6 +69860,7 @@ PRÉSIDENT JIMMY CARTER
 PRÉSIDENT TRUMP
 PRÉSUMÉ INNOCENT
 PRÉVISION
+PRÉVISION DES ORAGES VIOLENTS
 PRÊT À TAUX ZÉRO IMMOBILIER
 PRéSIDENTS
 PS
@@ -91667,6 +91683,7 @@ VAN VLEUTEN
 VANCE
 VANCE BOELTER
 VANCOUVER
+VANDALISME
 VANESA
 VANESSA CHINITOR
 VANESSA DEMOUY
@@ -93972,6 +93989,7 @@ WATCHES AND WONDERS 2025
 WATER CIRCUS
 WATERLICHT
 WATERLOO
+WATEROVERLAST
 WATERTEKORT GRIEKSE EILANDEN
 WATERWORLD
 WATFORD
@@ -98786,6 +98804,7 @@ alice munro
 alice nevers
 alice pol
 alice robinson
+alice schwarzer
 alice sebold
 alice taglioni
 alice weidel
@@ -98793,6 +98812,7 @@ alice weidel afd
 aliceattal
 alicedavid
 alicerobinson
+aliceschwarzer
 aliceweidel
 alicia aylies
 alicia keys
@@ -99910,6 +99930,7 @@ anthropic
 anti covid
 antibes
 anticiclone
+anticyclone
 antifa
 antigen-schnelltest
 antikörper-test corona
@@ -103234,6 +103255,7 @@ biniamgirmay
 binningen tötungsdelikt
 biobest
 biontech-aktie
+bioware
 biper
 bipeur
 bipolaire stoornis
@@ -106034,10 +106056,12 @@ certificat covid
 certificat covid europeen
 certificat covid européen
 certificat covid suisse
+certificat medical
 certificat médical
 certificatcovid
 certificatcovideuropeen
 certificatcovideuropéen
+certificatmedical
 certificatmédical
 cerundolo
 ces 2022
@@ -108584,6 +108608,7 @@ cully jazz
 cully jazz festival
 cult of the lamb
 cultura
+culturisme
 cuneyt arkin
 cup
 cup schweiz
@@ -110405,6 +110430,7 @@ doornroosje musical
 doornroosjemusical
 dooz kawa
 doozkawa
+doppelname
 dordogne
 dordrecht  feyenoord
 dordrecht - feyenoord
@@ -115700,9 +115726,11 @@ gal gadot
 gala
 gala dei castelli
 gala dragot
+gala slimste mens
 galapagos
 galapagos koers
 galapagoskoers
+galaslimstemens
 galatasaray
 galatasaray  az
 galatasaray  kocaelispor
@@ -116629,6 +116657,7 @@ glass onion
 glastonbury
 glastonbury 2023
 glattzentrum
+glee
 gleitschirmunfall lenk
 gleitschirmunfalllenk
 glen cuyle
@@ -125996,6 +126025,7 @@ lilianebettencourt
 lilianmartin
 lilibet
 lille
+lille - galatasaray
 lille - metz
 lille - nice
 lille - salzbourg
@@ -126012,6 +126042,7 @@ lille – brest
 lille – clermont
 lille – fenerbahçe
 lille – feyenoord
+lille – galatasaray
 lille – lens
 lille – lorient
 lille – lyon
@@ -126032,6 +126063,7 @@ lille – toulouse
 lille – troyes
 lille – usl dunkerque
 lille-aston villa
+lille-galatasaray
 lille-juventus
 lille-metz
 lille-toulouse
@@ -126041,6 +126073,7 @@ lillemarseille
 lillers
 lillestrøm  antwerp
 lille–auxerre
+lille–galatasaray
 lille–metz
 lille–toulouse
 lilli tagger
@@ -126620,8 +126653,10 @@ losc
 losc lille
 losc lille vs paris saint-germain f.c. standings
 losc lille vs paris saintgermain f.c. standings
+losc vs galatasaray
 losclille
 losclillevsparissaint-germainf.c.standings
+loscvsgalatasaray
 losene keita
 losenekeita
 lost
@@ -128176,6 +128211,7 @@ manuelafrey
 manuelakemp
 manuelfeller
 manuelneuer
+manuelvalls
 manuka-honig
 manunited
 manunited - aston villa
@@ -129687,6 +129723,8 @@ megascolia maculata
 megeve
 meghan
 meghan markle
+meghan, duchess of sussex
+meghan,duchessofsussex
 meghanmarkle
 megryan
 mehdi carcela
@@ -134512,6 +134550,7 @@ parer
 paret peintre
 paretpeintre
 parfait coulibaly
+parijs
 parijs nice 2022
 parijs nice 2023
 parijs roubaix
@@ -136474,6 +136513,8 @@ pretre assassiné
 pretty woman
 preußen münster gegen bayern
 prevision
+prevision des orages violents
+previsiondesoragesviolents
 prey
 pride antwerpen
 pride bern
@@ -136821,6 +136862,8 @@ présidentdelafifa
 présidents
 présumé innocent
 prévision
+prévision des orages violents
+prévisiondesoragesviolents
 prêt à taux zéro immobilier
 ps
 ps plus avril 2026
@@ -147623,6 +147666,7 @@ vance
 vance boelter
 vanceboelter
 vancouver
+vandalisme
 vanderpoel
 vanesa
 vanessa chinitor
@@ -149002,6 +149046,7 @@ watchesandwonders2025
 water circus
 waterlicht
 waterloo
+wateroverlast
 watertekort griekse eilanden
 waterworld
 watford
@@ -151253,6 +151298,8 @@ zürich–servette
 погодазавтра
 тигран кеосаян
 тигранкеосаян
+الأهلي ضد القناة
+الأهليضدالقناة
 الريال ضد رايو فاليكانو
 الريال ضد سلتا فيغو
 الريال ضد ليفانتي
