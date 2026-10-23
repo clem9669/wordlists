@@ -83,7 +83,9 @@
 /
 //SIGNAL.
 //signal.
+/DEPLOY.SELF
 /TRACE
+/deploy.self
 /trace
 0.5%
 007
@@ -2026,6 +2028,7 @@ A COMPLETELY FICTIONAL STORY ABOUT A CITY INSIDE A WHALE
 A CORGI'S COZY HIKE
 A COUPLE NIGHTS AT THE CHUD HOUSE
 A COZY CLASSICS: COLOR LINES
+A CRUISE FOR MURDER
 A Cafe Couple's Joyful Life of Resistance
 A Café Couple s Joyful Life of Resistance
 A Café Couple's Joyful Life of Resistance
@@ -2048,6 +2051,7 @@ A Corgi s Cozy Hike
 A Corgi's Cozy Hike
 A Couple Nights At The Chud House
 A Cozy Classics: Color Lines
+A Cruise for Murder
 A DATE WITH CHESTER 2
 A DAY TO REMEMBER
 A DAY'S WORK
@@ -2630,6 +2634,7 @@ ACompletelyFictionalStoryAboutaCityInsideaWhale
 ACorgi'sCozyHike
 ACoupleNightsAtTheChudHouse
 ACozyClassics:ColorLines
+ACruiseforMurder
 AD
 AD ASTRA INFINITA: THE NEW EVOLUTION
 AD BLOCKER: AN ACTION PUZZLE GAME SOUNDTRACK
@@ -2857,6 +2862,7 @@ AFTER BURNER 2
 AFTER BURNER CLIMAX
 AFTER BURNER COMPLETE
 AFTER DARK JIGSAW
+AFTER FRAME DEMO
 AFTER HOURS: LINES OF DESIRE - S1
 AFTER HUE DEMO
 AFTER INC: REVIVAL
@@ -3069,6 +3075,7 @@ AILE
 AIM
 AIM BEAT CHARM
 AIM TECHNOLOGY
+AIM TRACER
 AIM TRAINER BEE PRO
 AIM Technology
 AIME
@@ -5774,6 +5781,7 @@ After Burner 2
 After Burner Climax
 After Burner Complete
 After Dark Jigsaw
+After Frame Demo
 After Hours: Lines of Desire   S1
 After Hours: Lines of Desire - S1
 After Hue Demo
@@ -5794,6 +5802,7 @@ AfterBurnerClimax
 AfterBurnerComplete
 AfterClerk
 AfterDarkJigsaw
+AfterFrameDemo
 AfterHours:LinesofDesire-S1
 AfterHueDemo
 AfterImage
@@ -5957,8 +5966,10 @@ AiguillonSauvage
 Aihara
 Aile
 Aim Beat Charm
+Aim Tracer
 Aim Trainer Bee Pro
 AimBeatCharm
+AimTracer
 AimTrainerBeePro
 Aime
 Aimé
@@ -11404,6 +11415,7 @@ BUNNIE RABBOT
 BUNNIERABBOT
 BUNNIES & BALLGAMES!
 BUNNY BUNKER
+BUNNY COMING
 BUNNY GIRL SPA ～A NAUGHTY MASSAGE FOR A SASSY GAL～
 BUNNY HOPPER
 BUNNY SPACE ODYSSEY: FLOPHOP
@@ -14964,6 +14976,7 @@ Bunnies   Ballgames!
 Bunnies & Ballgames!
 Bunnies&Ballgames!
 Bunny Bunker
+Bunny Coming
 Bunny Girl Spa ~A Naughty Massage for a Sassy Gal~
 Bunny Girl Spa ～A Naughty Massage for a Sassy Gal～
 Bunny Hopper
@@ -14977,6 +14990,7 @@ Bunny'sBodaciousBuffetBonanza
 Bunny'sTeaTime
 BunnyBakery
 BunnyBunker
+BunnyComing
 BunnyFly: Season of Summer
 BunnyFly:SeasonofSummer
 BunnyGirlSpa～ANaughtyMassageforaSassyGal～
@@ -16361,6 +16375,7 @@ CHERRY'S JOI
 CHESHIRE
 CHESHIRE ENGINEERING
 CHESHIREENGINEERING
+CHESS
 CHESS AI
 CHESS EMPIRE
 CHESS HUNT
@@ -16985,6 +17000,7 @@ CLIM SNAIL
 CLIMAX
 CLIMAX ENTERTAINMENT
 CLIMAXENTERTAINMENT
+CLIMB KING
 CLIMB UP TOGETHER
 CLIMB! NYARUMA ACTION PUZZLE
 CLIMBER
@@ -18600,6 +18616,7 @@ CYAN BED
 CYAN BRAIN
 CYAN DYE
 CYAN GARAMONDE
+CYAN SOUL
 CYAN WORLDS
 CYANBANNER
 CYANBED
@@ -20112,6 +20129,7 @@ Cherry'sJOI
 Cheshire
 Cheshire Engineering
 CheshireEngineering
+Chess
 Chess AI
 Chess Empire
 Chess Hunt
@@ -20916,9 +20934,11 @@ ClimSnail
 Climax
 Climax Entertainment
 ClimaxEntertainment
+Climb King
 Climb Up Together
 Climb! NYARUMA Action Puzzle
 Climb!NYARUMAActionPuzzle
+ClimbKing
 ClimbUpTogether
 Climber
 Climber Toys: Together
@@ -22870,11 +22890,13 @@ Cyan Banner
 Cyan Bed
 Cyan Dye
 Cyan Garamonde
+Cyan Soul
 Cyan Worlds
 CyanBanner
 CyanBed
 CyanDye
 CyanGaramonde
+CyanSoul
 CyanWorlds
 Cyanide
 Cyanide Studio
@@ -24248,6 +24270,7 @@ DESKTOP RAID - SUPPORTER PACK
 DESKTOP SNAIL ASSASSIN
 DESKTOP STRIPPER
 DESKTOP SURVIVORS 98
+DESKTOP TAXI
 DESKTOP TIDE
 DESKTOP TINY TIDES
 DESKTOP WAIFU
@@ -25968,6 +25991,7 @@ DUNGEON FORGE
 DUNGEON GALS
 DUNGEON GATEKEEPER
 DUNGEON HUNTER
+DUNGEON INN
 DUNGEON KEEPER
 DUNGEON MANA
 DUNGEON MARKET SIMULATOR
@@ -27531,6 +27555,7 @@ Desktop Raid - Supporter Pack
 Desktop Snail Assassin
 Desktop Stripper
 Desktop Survivors 98
+Desktop Taxi
 Desktop Tide
 Desktop Tiny Tides
 Desktop Waifu
@@ -27580,6 +27605,7 @@ DesktopRaid-SupporterPack
 DesktopSnailAssassin
 DesktopStripper
 DesktopSurvivors98
+DesktopTaxi
 DesktopTide
 DesktopTinyTides
 DesktopWaifu
@@ -29607,6 +29633,7 @@ Dungeon Forge
 Dungeon Gals
 Dungeon Gatekeeper
 Dungeon Hunter
+Dungeon Inn
 Dungeon Keeper
 Dungeon Mana
 Dungeon Market Simulator
@@ -29654,6 +29681,7 @@ DungeonForge
 DungeonGals
 DungeonGatekeeper
 DungeonHunter
+DungeonInn
 DungeonKeeper
 DungeonMana
 DungeonMarketSimulator
@@ -33955,6 +33983,7 @@ FEVES
 FEVES DE CACAO
 FEVESDECACAO
 FEY
+FIBONEX
 FICELLE
 FICKLE CARD LEGEND
 FICTION
@@ -34290,6 +34319,7 @@ FIT
 FIT MY ZOO
 FITBLOCKS～WOODEN BLOCK PUZZLE～
 FITNESS GAME
+FITNESS WAIFU 18+
 FITZGERALD
 FITZPATRICK
 FITZRANDOLPH
@@ -34434,6 +34464,7 @@ FLEXILE
 FLEXILE STUDIO
 FLEXILESTUDIO
 FLICKY
+FLIEGERALARM
 FLIES.
 FLIGHT
 FLIGHT ESSENTIALS
@@ -36159,6 +36190,7 @@ Feu
 Fever Meme
 FeverMeme
 Fey
+Fibonex
 Ficelle
 Fickle Card Legend
 FickleCardLegend
@@ -36591,7 +36623,9 @@ FitBlocks~Wooden block puzzle~
 FitBlocks～Wooden block puzzle～
 FitBlocks～Woodenblockpuzzle～
 FitMyZoo
+Fitness Waifu 18+
 Fitness game
+FitnessWaifu18+
 Fitnessgame
 FitzRandolph
 Fitzgerald
@@ -36782,6 +36816,7 @@ Flexile
 Flexile Studio
 FlexileStudio
 Flicky
+Fliegeralarm
 Flies.
 Flight
 Flight Essentials
@@ -38503,6 +38538,7 @@ GATE GUARDIAN
 GATE OF THUNDER
 GATEAU
 GATEBREAKERS
+GATEHOLT
 GATEKEEPER
 GATEOFTHUNDER
 GATES
@@ -40675,6 +40711,7 @@ Gate of Thunder
 GateGuardian
 Gateau
 Gatebreakers
+Gateholt
 Gatekeeper
 GateofThunder
 Gates
@@ -42724,6 +42761,7 @@ HALLOWEEN TROUBLE 7: THE APPRENTICE
 HALLOWEEN TROUBLE 8 COLLECTOR'S EDITION
 HALLOWEEN: DIGITAL DELUXE UPGRADE
 HALLOWEEN: THE GAME
+HALLOWEENIES CANDY RUN
 HALLS OF THE DAMNED
 HALLS OF TORMENT - THE LOST ARCHIVES
 HALLUCINATIONS
@@ -44666,6 +44704,8 @@ HalloweenNight
 HalloweenStories:TheDeathCardCollector'sEdition
 HalloweenTrouble7:TheApprentice
 HalloweenTrouble8Collector'sEdition
+Halloweenies Candy Run
+HalloweeniesCandyRun
 Halls of Torment   The Lost Archives
 Halls of Torment - The Lost Archives
 Halls of the damned
@@ -49917,6 +49957,7 @@ JAMY
 JAN
 JAN JANSEN
 JANE
+JANE FRIDAY: AFTER HOURS
 JANHKE
 JANITORI
 JANJANSEN
@@ -50794,6 +50835,8 @@ Jan
 Jan Jansen
 JanJansen
 Jane
+Jane Friday: After Hours
+JaneFriday:AfterHours
 Janhke
 Janitori
 Jano
@@ -54619,6 +54662,7 @@ LAST LINE: ZOMBIE HORDE
 LAST MAGE
 LAST MILE
 LAST NINJA
+LAST OASIS
 LAST OF US
 LAST ON DUTY
 LAST ORDERS
@@ -56752,6 +56796,7 @@ Last Light: Survival
 Last Line: Zombie Horde
 Last Mage
 Last Ninja
+Last Oasis
 Last On Duty
 Last Orders
 Last Outpost
@@ -56785,6 +56830,7 @@ LastLight:Survival
 LastLine:ZombieHorde
 LastMage
 LastNinja
+LastOasis
 LastOnDuty
 LastOrders
 LastOutpost
@@ -59889,6 +59935,7 @@ MATCH3TOWER
 MATCH: ISEKAI JOURNEY
 MATCHBOX
 MATCHBUZZ
+MATCHMAKER95 - A PROGRAMMING SIMULATOR
 MATCHMAKER: DUNGEON HEART
 MATCHOLOGY
 MATCHUP
@@ -61735,6 +61782,7 @@ MOON PATROL
 MOON RIVER
 MOON SHOP SIMULATOR
 MOON SWARM DEMO
+MOON SWEEPERS
 MOON TROPICA
 MOONACTIVE
 MOONBYTE
@@ -63574,6 +63622,9 @@ Match3Tower
 Match: Isekai Journey
 Match:IsekaiJourney
 MatchBuzz
+MatchMaker95   A Programming Simulator
+MatchMaker95 - A Programming Simulator
+MatchMaker95-AProgrammingSimulator
 Matchbox
 Matchmaker: Dungeon Heart
 Matchmaker:DungeonHeart
@@ -65646,6 +65697,7 @@ Moon Patrol
 Moon River
 Moon Shop Simulator
 Moon Swarm Demo
+Moon Sweepers
 Moon Tropica
 Moon and Fang
 MoonActive
@@ -65664,6 +65716,7 @@ MoonScape
 MoonShopSimulator
 MoonShot
 MoonSwarmDemo
+MoonSweepers
 MoonTropica
 MoonandFang
 Moondusk Masquerade
@@ -75052,6 +75105,7 @@ PROJECT N.E.K.O.
 PROJECT P.I.T.T.
 PROJECT REBEARTH
 PROJECT ROD3NT
+PROJECT SCREAMS
 PROJECT SIGNAL
 PROJECT SKYWARD
 PROJECT SOLARIS
@@ -78358,6 +78412,7 @@ Project N.E.K.O.
 Project P.I.T.T.
 Project Rebearth
 Project Rod3nt
+Project Screams
 Project Signal
 Project Skyward
 Project Solaris
@@ -78423,6 +78478,7 @@ ProjectN.E.K.O.
 ProjectP.I.T.T.
 ProjectRebearth
 ProjectRod3nt
+ProjectScreams
 ProjectSignal
 ProjectSkyward
 ProjectSolaris
@@ -84005,6 +84061,7 @@ SACNOTH
 SACOM
 SACRED EARTH - REVERIE
 SACRED WORLD
+SACRIFICE SANCTUARY: THE RITUAL MAIDEN'S LIFE WITH MONSTERS
 SAD
 SAD CAT
 SAD CAT SOFTWARE
@@ -84419,6 +84476,7 @@ SAVE THE RED BOX: PROLOGUE
 SAVED BY THE COUPON
 SAVEDAOCEAN
 SAVEN
+SAVING SONGBURG™
 SAVOR HOUR
 SAVY
 SAVY SODA
@@ -85727,6 +85785,7 @@ SHUTTERBUDS
 SHUTTERED
 SHUTTERING
 SHUTTEROUT
+SHUTTERSPEED
 SHUTTLE
 SHUTTLE STRIKE
 SHUWA SHUWA GUIN!
@@ -87189,6 +87248,7 @@ SPACEHULK
 SPACEINVADERS
 SPACEJET PILOT
 SPACEJK
+SPACEL DEMO
 SPACEMAMA
 SPACEMAN
 SPACEMAN'S LUCK
@@ -87455,6 +87515,7 @@ SPORTSINTERACTIVE
 SPORTSINTERACTIVELTD
 SPORTVIDA CYBERDASH
 SPOT
+SPOT THE DIFFERENCE FIGHTER
 SPOT THE WORD
 SPOTLIGHT
 SPOTLIGHT SOFTWARE
@@ -88010,6 +88071,7 @@ STICK INFINITE KINGDOM
 STICK IT TO THE STICKMAN
 STICK RPG 2: DIRECTOR'S CUT
 STICKCROSS CLASSIC
+STICKER DETECTIVE: BY THE BOOK
 STICKMAN
 STICKMAN BEACH VOLLEYBALL DELUXE
 STICKMAN PHYSICS BATTLE ARENA
@@ -88251,6 +88313,7 @@ STRIKE
 STRIKE & RESIST
 STRIKE AGAIN VR
 STRIKE BACK
+STRIKEM
 STRIKER
 STRIKERS
 STRIKERS 1945
@@ -88264,6 +88327,7 @@ STRINGATE
 STRINOVA - ENIGMA WITCH BUNDLE (MEREDITH)
 STRINOVA - PUMPKIN CHARMER BUNDLE (BAI MO)
 STRINOVA - TRICK OR TREAT BUNDLE (EIKA)
+STRIP BUBBLES: A NIGHT IN THE CITY
 STRIP MALL SIMULATOR
 STRIP MEMORY: MILFY LIBRARIANS
 STRIP MEMORY: UNLOCKED DESIRES
@@ -88906,6 +88970,7 @@ SUSIEPARALLÈLE
 SUSIESUSIE
 SUSPECTE
 SUSPECTO
+SUSPENCIL
 SUSPICIOUS
 SUSPICIOUS STEW
 SUSPICIOUSSTEW
@@ -88944,6 +89009,7 @@ SWARM SWEEPER
 SWARMBOUND
 SWASHBUCKLER
 SWAT
+SWAT MOSQUITO: SLEEPLESS NIGHTS
 SWEAT EQUITY
 SWEATING
 SWEEP
@@ -89208,6 +89274,9 @@ Sacred Earth - Reverie
 Sacred World
 SacredEarth-Reverie
 SacredWorld
+Sacrifice Sanctuary: The Ritual Maiden s Life With Monsters
+Sacrifice Sanctuary: The Ritual Maiden's Life With Monsters
+SacrificeSanctuary:TheRitualMaiden'sLifeWithMonsters
 Sad
 Sad Cat
 Sad Cat Software
@@ -89672,6 +89741,9 @@ SavetheKingdom-WarriorRising
 SavethePresident:TrustIssues
 SavetheRedBox:Prologue
 Savetheeggs
+Saving Songburg(TM)
+Saving Songburg™
+SavingSongburg™
 Savor Hour
 SavorHour
 Savy
@@ -91200,6 +91272,7 @@ ShurukaBoxing
 ShutterOut
 Shuttered
 Shuttering
+Shutterspeed
 Shuttle
 Shuttle Strike
 ShuttleStrike
@@ -92999,6 +93072,8 @@ Spacegolf!
 SpaceisRed
 Spacejet Pilot
 SpacejetPilot
+Spacel Demo
+SpacelDemo
 Spaceman s Luck
 Spaceman's Luck
 Spaceman'sLuck
@@ -93355,10 +93430,12 @@ Sportvida CyberDash
 SportvidaCyberDash
 Spot
 Spot The Word
+Spot the Difference Fighter
 SpotTheWord
 Spotlight
 Spotlight Software
 SpotlightSoftware
+SpottheDifferenceFighter
 Spottr
 Spottr Labs
 SpottrLabs
@@ -93985,6 +94062,8 @@ StickWord
 StickandStack
 Stickcross Classic
 StickcrossClassic
+Sticker Detective: By the Book
+StickerDetective:BytheBook
 Stickman
 Stickman Beach Volleyball DELUXE
 Stickman Physics Battle Arena
@@ -94334,10 +94413,12 @@ Strinova - Trick or Treat Bundle (Eika)
 Strinova-EnigmaWitchBundle(Meredith)
 Strinova-PumpkinCharmerBundle(BaiMo)
 Strinova-TrickorTreatBundle(Eika)
+Strip Bubbles: A night in the City
 Strip Mall Simulator
 Strip Memory: Milfy Librarians
 Strip Memory: Unlocked Desires
 Strip Royale Demo
+StripBubbles:AnightintheCity
 StripMallSimulator
 StripMemory:MilfyLibrarians
 StripMemory:UnlockedDesires
@@ -95201,6 +95282,7 @@ Susie parallèle
 SusieSusie
 Susieparallele
 Susieparallèle
+Suspencil
 Suspicious
 Suspicious Stew
 SuspiciousStew
@@ -95242,6 +95324,8 @@ SwarmSweeper
 Swarmbound
 SwarmoftheSea
 Swashbuckler
+Swat Mosquito: Sleepless Nights
+SwatMosquito:SleeplessNights
 Sweat Equity
 SweatEquity
 Sweep
@@ -96236,6 +96320,7 @@ TELENET
 TELENET JAPAN
 TELENET SHOOTING COLLECTION LAUNCHER
 TELENETJAPAN
+TELEPORT MASTER
 TELEROTATION
 TELESYS
 TELL ME OWL
@@ -97317,6 +97402,7 @@ THE REASON MY WIFE HAS GOTTEN MORE BEAUTIFUL
 THE REBIRTH TALE OF BROKEN HORN DEMON LORD ALICE
 THE RED SHIFT
 THE REFEREE COMMITTEE
+THE REFLECTION
 THE RELIC: FIRST GUARDIAN
 THE REMNANTS
 THE RESCUE OF MERMAIDS
@@ -97544,6 +97630,7 @@ THE WITCHER 3: WILD HUNT — REMASTERED
 THE WITCHER III
 THE WITCHER III WILD HUNT
 THE WITCHER III: WILD HUNT
+THE WIZARD IS SUS
 THE WOMAN ABOVE
 THE WOODMAN
 THE WOODS
@@ -97936,6 +98023,7 @@ THREE KINGDOMS CLUB MANAGER
 THREE KINGDOMS MUSHOUDEN
 THREE KINGDOMS: RIVAL MANDATES
 THREE KINGDOMS: SHU-HAN CHRONICLES
+THREE KINGDOMS:YI
 THREE LEGIONS: EROSION OF THE ABYSS
 THREE RINGS
 THREE WISHES
@@ -98052,6 +98140,7 @@ TIDY MART
 TIDY TOKENS
 TIDY UP
 TIDY UP HER TOYS DEMO
+TIDY UP THE BACKROOMS
 TIDY UP THE FLOWER SHOP
 TIE
 TIE FIGHTER
@@ -100275,6 +100364,8 @@ Telenet Japan
 Telenet Shooting Collection Launcher
 TelenetJapan
 TelenetShootingCollectionLauncher
+Teleport Master
+TeleportMaster
 Telerotation
 Telesys
 Tell Me Owl
@@ -101431,6 +101522,7 @@ The Reason for Your Smile
 The Rebirth Tale of Broken Horn Demon Lord Alice
 The Red Shift
 The Referee Committee
+The Reflection
 The Relic: First Guardian
 The Remnants
 The Rescue of Mermaids
@@ -101670,6 +101762,7 @@ The Witcher 3: Wild Hunt   Complete Edition
 The Witcher 3: Wild Hunt - Complete Edition
 The Witcher 3: Wild Hunt -- Remastered
 The Witcher 3: Wild Hunt — Remastered
+The Wizard is SUS
 The Woman Above
 The Woodman
 The World Below   A Call Within
@@ -102459,6 +102552,7 @@ TheReasonforYourSmile
 TheRebirthTaleofBrokenHornDemonLordAlice
 TheRedShift
 TheRefereeCommittee
+TheReflection
 TheRelic:FirstGuardian
 TheRemnants
 TheRescueofMermaids
@@ -102665,6 +102759,7 @@ TheWitchandTheLostBabies
 TheWitcher3:WildHunt
 TheWitcher3:WildHunt-CompleteEdition
 TheWitcher3:WildHunt—Remastered
+TheWizardisSUS
 TheWomanAbove
 TheWoodman
 TheWorldBelow-ACallWithin
@@ -102899,6 +102994,7 @@ Three Kingdoms Mushouden
 Three Kingdoms: Rival Mandates
 Three Kingdoms: Shu Han Chronicles
 Three Kingdoms: Shu-Han Chronicles
+Three Kingdoms:Yi
 Three Legions: Erosion of the Abyss
 Three Rings
 Three Wishes
@@ -102912,6 +103008,7 @@ ThreeKingdom-ZhangJiaoRevival
 ThreeKingdoms:Alias
 ThreeKingdoms:RivalMandates
 ThreeKingdoms:Shu-HanChronicles
+ThreeKingdoms:Yi
 ThreeKingdomsBorn
 ThreeKingdomsClassic
 ThreeKingdomsClubManager
@@ -103055,12 +103152,14 @@ Tidy Mart
 Tidy Tokens
 Tidy Up
 Tidy Up Her Toys Demo
+Tidy Up The Backrooms
 Tidy Up the Flower Shop
 Tidy&Bright:TogetherattheChristmasMarket
 TidyMart
 TidyTokens
 TidyUp
 TidyUpHerToysDemo
+TidyUpTheBackrooms
 TidyUptheFlowerShop
 Tie Me, Bind Me, HIT ME!
 TieMe,BindMe,HITME!
@@ -106117,6 +106216,7 @@ VAMPIRE
 VAMPIRE CAT DEMO
 VAMPIRE CRAWLERS X VAMPIRE SURVIVORS
 VAMPIRE CRAWLERS: THE TURBO WILDCARD FROM VAMPIRE SURVIVORS
+VAMPIRE GIRL - THE FALLEN VAMPIRE -
 VAMPIRE INSTINCT
 VAMPIRE KILLER
 VAMPIRE LEGENDS 🦇
@@ -107015,6 +107115,8 @@ Vampire
 Vampire Cat Demo
 Vampire Crawlers x Vampire Survivors
 Vampire Crawlers: The Turbo Wildcard from Vampire Survivors
+Vampire Girl   The Fallen Vampire  
+Vampire Girl - The Fallen Vampire -
 Vampire Instinct
 Vampire Legends ?
 Vampire Legends 🦇
@@ -107043,6 +107145,7 @@ VampireBlaze
 VampireCatDemo
 VampireCrawlers:TheTurboWildcardfromVampireSurvivors
 VampireCrawlersxVampireSurvivors
+VampireGirl-TheFallenVampire-
 VampireInstinct
 VampireLegends🦇
 VampirePrison
@@ -112966,6 +113069,7 @@ a completely fictional story about a city inside a whale
 a corgi's cozy hike
 a couple nights at the chud house
 a cozy classics: color lines
+a cruise for murder
 a date with chester 2
 a day to remember
 a day's work
@@ -113533,6 +113637,7 @@ after burner 2
 after burner climax
 after burner complete
 after dark jigsaw
+after frame demo
 after hours: lines of desire - s1
 after hue demo
 after inc: revival
@@ -113687,6 +113792,7 @@ ailé
 aim
 aim beat charm
 aim technology
+aim tracer
 aim trainer bee pro
 aime
 aimtechnology
@@ -118547,6 +118653,7 @@ bunnie rabbot
 bunnierabbot
 bunnies & ballgames!
 bunny bunker
+bunny coming
 bunny girl spa ～a naughty massage for a sassy gal～
 bunny hopper
 bunny space odyssey: flophop
@@ -119829,6 +119936,7 @@ cherry's joi
 cheshire
 cheshire engineering
 cheshireengineering
+chess
 chess ai
 chess empire
 chess hunt
@@ -120441,6 +120549,7 @@ clim snail
 climax
 climax entertainment
 climaxentertainment
+climb king
 climb up together
 climb! nyaruma action puzzle
 climber
@@ -121997,6 +122106,7 @@ cyan bed
 cyan brain
 cyan dye
 cyan garamonde
+cyan soul
 cyan worlds
 cyanbanner
 cyanbed
@@ -123275,6 +123385,7 @@ desktop raid - supporter pack
 desktop snail assassin
 desktop stripper
 desktop survivors 98
+desktop taxi
 desktop tide
 desktop tiny tides
 desktop waifu
@@ -124874,6 +124985,7 @@ dungeon forge
 dungeon gals
 dungeon gatekeeper
 dungeon hunter
+dungeon inn
 dungeon keeper
 dungeon mana
 dungeon market simulator
@@ -127162,6 +127274,7 @@ feves
 feves de cacao
 fevesdecacao
 fey
+fibonex
 ficelle
 fickle card legend
 fiction
@@ -127480,6 +127593,7 @@ fit
 fit my zoo
 fitblocks～wooden block puzzle～
 fitness game
+fitness waifu 18+
 fitzgerald
 fitzpatrick
 fitzrandolph
@@ -127622,6 +127736,7 @@ flexile
 flexile studio
 flexilestudio
 flicky
+fliegeralarm
 flies.
 flight
 flight essentials
@@ -129034,6 +129149,7 @@ gate guardian
 gate of thunder
 gateau
 gatebreakers
+gateholt
 gatekeeper
 gateofthunder
 gates
@@ -130797,6 +130913,7 @@ halloween trouble 7: the apprentice
 halloween trouble 8 collector's edition
 halloween: digital deluxe upgrade
 halloween: the game
+halloweenies candy run
 halls of the damned
 halls of torment - the lost archives
 hallucinations
@@ -133961,6 +134078,7 @@ jamy
 jan
 jan jansen
 jane
+jane friday: after hours
 janhke
 janitori
 janjansen
@@ -136225,6 +136343,7 @@ last line: zombie horde
 last mage
 last mile
 last ninja
+last oasis
 last of us
 last on duty
 last orders
@@ -138881,6 +139000,7 @@ match3tower
 match: isekai journey
 matchbox
 matchbuzz
+matchmaker95 - a programming simulator
 matchmaker: dungeon heart
 matchology
 matchup
@@ -140644,6 +140764,7 @@ moon patrol
 moon river
 moon shop simulator
 moon swarm demo
+moon sweepers
 moon tropica
 moonactive
 moonbride
@@ -146483,6 +146604,7 @@ project n.e.k.o.
 project p.i.t.t.
 project rebearth
 project rod3nt
+project screams
 project signal
 project skyward
 project solaris
@@ -149144,6 +149266,7 @@ sacnoth
 sacom
 sacred earth - reverie
 sacred world
+sacrifice sanctuary: the ritual maiden's life with monsters
 sad
 sad cat
 sad cat software
@@ -149538,6 +149661,7 @@ save the red box: prologue
 saved by the coupon
 savedaocean
 saven
+saving songburg™
 savor hour
 savy
 savy soda
@@ -150705,6 +150829,7 @@ shutterbuds
 shuttered
 shuttering
 shutterout
+shutterspeed
 shuttle
 shuttle strike
 shuwa shuwa guin!
@@ -152103,6 +152228,7 @@ spaceharrier
 spacehulk
 spaceinvaders
 spacejet pilot
+spacel demo
 spacemama
 spaceman
 spaceman's luck
@@ -152364,6 +152490,7 @@ sportsinteractive
 sportsinteractiveltd
 sportvida cyberdash
 spot
+spot the difference fighter
 spot the word
 spotlight
 spotlight software
@@ -152866,6 +152993,7 @@ stick infinite kingdom
 stick it to the stickman
 stick rpg 2: director's cut
 stickcross classic
+sticker detective: by the book
 stickman
 stickman beach volleyball deluxe
 stickman physics battle arena
@@ -153100,6 +153228,7 @@ strike
 strike & resist
 strike again vr
 strike back
+strikem
 striker
 strikers
 strikers 1945
@@ -153113,6 +153242,7 @@ stringate
 strinova - enigma witch bundle (meredith)
 strinova - pumpkin charmer bundle (bai mo)
 strinova - trick or treat bundle (eika)
+strip bubbles: a night in the city
 strip mall simulator
 strip memory: milfy librarians
 strip memory: unlocked desires
@@ -153734,6 +153864,7 @@ susieparallèle
 susiesusie
 suspecte
 suspecto
+suspencil
 suspicious
 suspicious stew
 suspicious_stew
@@ -153771,6 +153902,7 @@ swarm sweeper
 swarmbound
 swashbuckler
 swat
+swat mosquito: sleepless nights
 sweat equity
 sweating
 sweep
@@ -154636,6 +154768,7 @@ telenet
 telenet japan
 telenet shooting collection launcher
 telenetjapan
+teleport master
 telerotation
 telesys
 tell me owl
@@ -155693,6 +155826,7 @@ the reason my wife has gotten more beautiful
 the rebirth tale of broken horn demon lord alice
 the red shift
 the referee committee
+the reflection
 the relic: first guardian
 the remnants
 the rescue of mermaids
@@ -155918,6 +156052,7 @@ the witcher 3: wild hunt — remastered
 the witcher iii
 the witcher iii wild hunt
 the witcher iii: wild hunt
+the wizard is sus
 the woman above
 the woodman
 the woods
@@ -156300,6 +156435,7 @@ three kingdoms club manager
 three kingdoms mushouden
 three kingdoms: rival mandates
 three kingdoms: shu-han chronicles
+three kingdoms:yi
 three legions: erosion of the abyss
 three rings
 three wishes
@@ -156405,6 +156541,7 @@ tidy mart
 tidy tokens
 tidy up
 tidy up her toys demo
+tidy up the backrooms
 tidy up the flower shop
 tie
 tie fighter
@@ -158404,6 +158541,7 @@ vampire
 vampire cat demo
 vampire crawlers x vampire survivors
 vampire crawlers: the turbo wildcard from vampire survivors
+vampire girl - the fallen vampire -
 vampire instinct
 vampire killer
 vampire legends 🦇
@@ -161722,6 +161860,7 @@ zèbre
 合金子弹
 同城游美女捕鱼
 君と最後の放課後
+君临传奇之风起云涌
 吾皇万岁
 告死天使招魂令 DEATH ANGEL REQUIEM
 告死天使招魂令 Death Angel Requiem
@@ -161858,6 +161997,7 @@ zèbre
 封神传奇
 封神演义沙盘模拟器
 射！就完事了
+将棋
 小枠内館の祝 KOWAKUNAI CELEBRATION
 小枠内館の祝 kowakunai celebration
 小枠内館の祝KOWAKUNAICELEBRATION
