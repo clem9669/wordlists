@@ -64,6 +64,9 @@
 + PC Maker
 + pc maker
 +PCMaker
++PROTECTUS 
++PROTECTUS-
++protectus-
 -
 .HACK
 .HACK//G.U
@@ -2645,6 +2648,7 @@ AD ASTRA INFINITA: THE NEW EVOLUTION
 AD BLOCKER: AN ACTION PUZZLE GAME SOUNDTRACK
 AD BLOCKER: An Action Puzzle Game Soundtrack
 AD INFINITUM
+AD NAUSEAM - THE WRONG SIDE
 ADA
 ADA WONG
 ADAM
@@ -3818,6 +3822,7 @@ ANIMA CODEX
 ANIMA GAME
 ANIMA GAME STUDIO
 ANIMA GATE OF MEMORIES: I&II REMASTER
+ANIMA TRIUM
 ANIMAGAME
 ANIMAGAMESTUDIO
 ANIMAL
@@ -5227,6 +5232,7 @@ AVON
 AVON BOOKS
 AVONBOOKS
 AVRIL
+AVXRPG
 AVaOut
 AVeryFoolishRemasterofBerettaMondatta
 AWAITING YOUR HORDERS
@@ -5557,8 +5563,11 @@ Actuator : Overt Abnormality
 Actuator:OvertAbnormality
 Ad Astra Infinita: The New Evolution
 Ad Infinitum
+Ad Nauseam   The Wrong Side
+Ad Nauseam - The Wrong Side
 AdAstraInfinita:TheNewEvolution
 AdInfinitum
+AdNauseam-TheWrongSide
 Ada
 Ada Wong
 AdaWong
@@ -6794,10 +6803,12 @@ Anima Game
 Anima Game Studio
 Anima Gate of Memories: I II Remaster
 Anima Gate of Memories: I&II Remaster
+Anima Trium
 AnimaCodex
 AnimaGame
 AnimaGameStudio
 AnimaGateofMemories:I&IIRemaster
+AnimaTrium
 Animal
 Animal Chameleon
 Animal Crossing
@@ -10136,6 +10147,7 @@ BLAISE
 BLAKE
 BLAKE DEXTER
 BLAKEDEXTER
+BLAMCON'S CYBER RANGE
 BLAME YOUR AIM
 BLANC
 BLANCA
@@ -13438,6 +13450,9 @@ Blaise
 Blake
 Blake Dexter
 BlakeDexter
+Blamcon s Cyber Range
+Blamcon's Cyber Range
+Blamcon'sCyberRange
 Blame your Aim
 BlameyourAim
 Blanca
@@ -16411,6 +16426,7 @@ CHESSMATCH
 CHESSRPG DEMO
 CHESST
 CHESSTAN
+CHESSTRIA
 CHESSTRIS DEMO
 CHESSXPANSE
 CHEST
@@ -17566,6 +17582,7 @@ CONQUEST
 CONQUEST TACTICS : REALM OF SIN
 CONSERVATION CONCENTRATION
 CONSOLE KINGDOM
+CONSOLE SPACE
 CONSONANCE
 CONSORTS OF THE EMPEROR
 CONSPIRACY
@@ -18083,6 +18100,7 @@ CRAZY CAR
 CRAZY CARPENTER
 CRAZY CARS
 CRAZY CASTLE
+CRAZY CITY GOLF
 CRAZY COIN POKER
 CRAZY FRUIT SHOOTER
 CRAZY HOTEL TOGETHER
@@ -20178,6 +20196,7 @@ Chessferatu
 Chessmaster
 ChessofFiveElements
 ChessofMana
+Chesstria
 Chesstris Demo
 ChesstrisDemo
 Chest
@@ -21600,7 +21619,9 @@ ConquestTactics:RealmofSin
 Conservation Concentration
 ConservationConcentration
 Console Kingdom
+Console Space
 ConsoleKingdom
+ConsoleSpace
 Consonance
 Consorts of the Emperor
 ConsortsoftheEmperor
@@ -22236,6 +22257,7 @@ Crazy Car
 Crazy Carpenter
 Crazy Cars
 Crazy Castle
+Crazy City Golf
 Crazy Coin Poker
 Crazy Fruit Shooter
 Crazy Hotel Together
@@ -22251,6 +22273,7 @@ CrazyCar
 CrazyCarpenter
 CrazyCars
 CrazyCastle
+CrazyCityGolf
 CrazyCoinPoker
 CrazyFruitShooter
 CrazyHotelTogether
@@ -24875,6 +24898,7 @@ DISNEYMOBILE
 DISNEYSOFTWARE
 DISNEYSPORTS
 DISPATCH
+DISPATCH CONTROL
 DISPATCHED
 DISPEL DARK
 DISPOSITIF
@@ -25779,6 +25803,7 @@ DRIVE OUT
 DRIVE TOGETHER
 DRIVECRAFT
 DRIVECRAZY
+DRIVEDECK
 DRIVER
 DRIVERLESS DESIRE
 DRIVERSION
@@ -28308,6 +28333,8 @@ DisneyMobile
 DisneySoftware
 DisneySports
 Dispatch
+Dispatch Control
+DispatchControl
 Dispel Dark
 DispelDark
 Dispositif
@@ -29404,6 +29431,7 @@ DriveAndUnwind
 DriveBeyondHorizons
 DriveCraft
 DriveCrazy
+DriveDeck
 DriveOut
 DriveTogether
 Driver
@@ -30435,6 +30463,7 @@ EINAR ARPENTFALAISE
 EINARARPENT'FALAISE
 EINARARPENTFALAISE
 EINHERJAR'S ASCENT
+EIROKU: PATH OF THE WANDERER
 EIVAAGAMES
 EIVOR
 EIVOR VARINSDOTTIR
@@ -32022,6 +32051,8 @@ EinarArpentfalaise
 Einherjar s Ascent
 Einherjar's Ascent
 Einherjar'sAscent
+Eiroku: Path of the Wanderer
+Eiroku:PathoftheWanderer
 EivaaGames
 Eivor
 Eivor Varinsdottir
@@ -34879,6 +34910,7 @@ FOUDRE
 FOUETTY
 FOUETTY FOUETTY
 FOUETTYFOUETTY
+FOULBREAKER
 FOUNDATION
 FOUNDATION GAMES
 FOUNDATIONGAMES
@@ -37377,6 +37409,7 @@ FotoBoy:Flashstar
 Fouetty
 Fouetty Fouetty
 FouettyFouetty
+Foulbreaker
 Foundation
 Foundation Games
 FoundationGames
@@ -39861,6 +39894,7 @@ GRIEFS TEXTURE RIPPER
 GRIEFS Texture Ripper
 GRIEFSTextureRipper
 GRIEVING (BERDUKA)
+GRIFFORD ACADEMY
 GRIFTLANDS
 GRIGNOTE
 GRIGORII
@@ -42184,6 +42218,8 @@ Grief
 Grieving  Berduka 
 Grieving (Berduka)
 Grieving(Berduka)
+Grifford Academy
+GriffordAcademy
 Griftlands
 Grignote
 GrigoriNightDragon
@@ -43299,6 +43335,7 @@ HECTOR
 HECTOR RODRIGUEZ
 HECTORRODRIGUEZ
 HEDGE FUND MANAGER SIMULATOR MMO
+HEDGE KNIGHT
 HEDGEHOG
 HEELS
 HEGGO
@@ -45344,7 +45381,9 @@ Hector
 Hector Rodriguez
 HectorRodriguez
 Hedge Fund Manager Simulator MMO
+Hedge Knight
 HedgeFundManagerSimulatorMMO
+HedgeKnight
 Hedgehog
 Heels
 Heiankyo
@@ -52330,6 +52369,7 @@ KISMET
 KISS
 KISS   COFFEE
 KISS & COFFEE
+KISS ME ON THE OLIGARCH'S DIME
 KISS OF SIN: REWINDING FLAME
 KISS ON MY
 KISS ON MY DEITY
@@ -53720,9 +53760,12 @@ Kisen: Seeker of Aenjan City
 Kisen:SeekerofAenjanCity
 Kismet
 Kiss
+Kiss Me on the Oligarch s Dime
+Kiss Me on the Oligarch's Dime
 Kiss of Sin: Rewinding Flame
 Kiss on My
 Kiss on My Deity
+KissMeontheOligarch'sDime
 Kissed
 Kissed By A Star
 KissedByAStar
@@ -54695,6 +54738,7 @@ LAST DELIVERY
 LAST EPOCH
 LAST EPOCH - FRACTURED LEGEND SUPPORTER PACK
 LAST FIEFDOM
+LAST FISHERMAN
 LAST GUEST AT SUNSET
 LAST HAVEN: IDLE SURVIVAL
 LAST HEIST
@@ -55366,6 +55410,9 @@ LEVEL P
 LEVEL5
 LEVEL9
 LEVEL9COMPUTING
+LEVELS DEMO
+LEVELS Demo
+LEVELSDemo
 LEVELUP WITH 100 CYBER GIRLFRIEND
 LEVENDEURDEMASQUES
 LEVENERABLEARBREMOJO
@@ -56369,6 +56416,7 @@ LUMA
 LUMBER AND PLUNDER
 LUMBER JAX
 LUMBER VALLEY
+LUMBRIX
 LUMENA
 LUMENKNIGHT
 LUMESPROUT
@@ -56831,6 +56879,7 @@ Last Epoch
 Last Epoch   Fractured Legend Supporter Pack
 Last Epoch - Fractured Legend Supporter Pack
 Last Fiefdom
+Last Fisherman
 Last Guest at Sunset
 Last Haven: Idle Survival
 Last Heist
@@ -56865,6 +56914,7 @@ LastDelivery
 LastEpoch
 LastEpoch-FracturedLegendSupporterPack
 LastFiefdom
+LastFisherman
 LastGuestatSunset
 LastHaven:IdleSurvival
 LastHeist
@@ -58844,6 +58894,7 @@ Lumber and Plunder
 LumberJax
 LumberValley
 LumberandPlunder
+Lumbrix
 LumenKnight
 Lumena
 Lumina:Last Bloom
@@ -61472,6 +61523,7 @@ MNM Software
 MNMSOFTWARE
 MNMSoftware
 MNetwork
+MO WU TIAN GONG
 MOADRA
 MOANARCHY DEMO
 MOANING MORON OF THE MOUNTAIN
@@ -65314,7 +65366,9 @@ MmeThornhill
 Mnema: The Fallen Remembered
 Mnema:TheFallenRemembered
 Mnemosyne
+Mo Wu Tian Gong
 MoStar
+MoWuTianGong
 Moadra
 Moanarchy Demo
 MoanarchyDemo
@@ -74119,6 +74173,7 @@ PIXELARIUM: FREE LANDS
 PIXELART CHARACTER CREATOR
 PIXELATE TD
 PIXELBLUE
+PIXELBOSS: SHATTERED DEPTHS
 PIXELBURG
 PIXELEGEND
 PIXELFEDERATION
@@ -74985,6 +75040,7 @@ PRINCIA
 PRINCIPAUX
 PRISION IN CLICKER
 PRISM
+PRISM CORE
 PRISM KIKAKU
 PRISM OF YOU
 PRISM SHIFT
@@ -77198,6 +77254,8 @@ Pixel Worldcraft Map Creator
 PixelBlackJack-二十一点
 PixelBlue
 PixelBonfire(DesktopMascot)
+PixelBoss: Shattered Depths
+PixelBoss:ShatteredDepths
 PixelBurg
 PixelCanyon
 PixelChessIdleRPG
@@ -78274,10 +78332,12 @@ Princia
 Prision in Clicker
 PrisioninClicker
 Prism
+Prism Core
 Prism Kikaku
 Prism Shift
 Prism Wilds
 Prism of You
+PrismCore
 PrismKikaku
 PrismShift
 PrismWilds
@@ -79236,6 +79296,7 @@ QUESTFOR
 QUESTFORGLORY
 QUESTWOOD
 QUESTY CHESS
+QUICK TRANSLATE ENGINE
 QUICKCAST
 QUICKIE MASSAGE 🧴💦
 QUICKIE: A LOVE HOTEL STORY
@@ -79445,7 +79506,9 @@ QuestoftheHero
 Questwood
 Questy Chess
 QuestyChess
+Quick Translate Engine
 QuickMaze
+QuickTranslateEngine
 Quickcast
 Quickie Massage ??
 Quickie Massage 🧴💦
@@ -85576,6 +85639,7 @@ SHE PLAYS DIRTY
 SHE SUCKED ME ONCE, AND DRY
 SHE WAS 98
 SHE'S LEAVING
+SHEAR LINE
 SHEARS
 SHED
 SHEEP
@@ -86483,6 +86547,7 @@ SLEEPLESS-AMidsummerNight’sDream-
 SLEEPY SISTER'S FRIEND
 SLICE
 SLICE THE CROPS!
+SLICEFALL
 SLICER
 SLICER DICER
 SLICER DICER SLICER DICER
@@ -86957,6 +87022,7 @@ SOMBREVOYAGEUR
 SOME
 SOME ASSEMBLY REQUIRED
 SOME COMPANY
+SOME THINGS STAY BROKEN
 SOME: THE HOUSE
 SOME: The House
 SOME:TheHouse
@@ -87449,6 +87515,7 @@ SPELLCATCHER
 SPELLFORCE
 SPELLSTEEL
 SPELLSY
+SPELLWEAVE
 SPELUNKY
 SPHENOID
 SPHERE
@@ -87704,7 +87771,10 @@ SQUINKY
 SQUIRREL
 SQUIRRELS GONE NUTS
 SQUIRT
+SQUIRT GAME ?
+SQUIRT GAME 💦
 SQUIRTERZZ
+SQUIRTGAME💦
 SQUIRTLE
 SQUISH UNITS
 SQUISH Units
@@ -91007,6 +91077,8 @@ She's Leaving
 She'sLeaving
 ShePlaysDirty
 SheSuckedMeOnce,andDry
+Shear line
+Shearline
 Shears
 Sheep
 Sheep   Love
@@ -92679,8 +92751,10 @@ SombreVoyageur
 Some
 Some Assembly Required
 Some Company
+Some Things Stay Broken
 SomeAssemblyRequired
 SomeCompany
+SomeThingsStayBroken
 Somebody s Ramyeon Shop
 Somebody s Tale
 Somebody's Ramyeon Shop
@@ -93295,6 +93369,7 @@ SpellCarved
 SpellCatcher
 SpellForce
 SpellSlide
+SpellWeave
 Spellbound
 Spellbound   Shelved
 Spellbound & Shelved
@@ -98171,6 +98246,7 @@ THUNDER HAWK
 THUNDER HOOP COLLECTION (QUBYTE CLASSICS)
 THUNDER MOUNTAIN
 THUNDER SPIKES VOLLEYBALL DEMO
+THUNDER TRAINING GROUND
 THUNDER TRUCKS: HEAVY RACERS
 THUNDERBYTE
 THUNDERFORCE
@@ -98964,9 +99040,11 @@ TR-49
 TRAC
 TRACE DEFINITIVE EDITION
 TRACE Definitive Edition
+TRACE IT
 TRACE OF THE VILLA
 TRACEBOUND
 TRACEDefinitiveEdition
+TRACEIT
 TRACER
 TRACEY
 TRACK
@@ -103194,6 +103272,7 @@ Thunder Hoop Collection  QUByte Classics
 Thunder Hoop Collection (QUByte Classics)
 Thunder Mountain
 Thunder Spikes Volleyball Demo
+Thunder Training Ground
 Thunder Trucks: Heavy Racers
 Thunder and Line ing
 Thunder and Line ing Demo
@@ -103206,6 +103285,7 @@ ThunderHawk
 ThunderHoopCollection(QUByteClassics)
 ThunderMountain
 ThunderSpikesVolleyballDemo
+ThunderTrainingGround
 ThunderTrucks:HeavyRacers
 ThunderandLine-ing
 ThunderandLine-ingDemo
@@ -105417,6 +105497,7 @@ UNFAIR WAR: SURVIVORS
 UNFAIR WAR: SURVIVORS DEMO
 UNFOLD FLOWER
 UNFORGETTABLE LOVE
+UNFORGIVING DUNGEON
 UNFOUND FOOTAGE
 UNHINGED PET STORE SIMULATOR
 UNHOLD
@@ -105944,6 +106025,8 @@ Unfold Flower
 UnfoldFlower
 Unforgettable Love
 UnforgettableLove
+Unforgiving Dungeon
+UnforgivingDungeon
 Unfound Footage
 UnfoundFootage
 Unhinged Pet Store Simulator
@@ -108865,6 +108948,7 @@ WILD ALONE
 WILD AMERICAS
 WILD ARMS
 WILD CLIMBERS PEAK PANIC
+WILD DRAW
 WILD GUNS
 WILD HORSE RACING
 WILD HUNT
@@ -109100,6 +109184,7 @@ WIZARD SOFT
 WIZARD TOURNAMENT
 WIZARD VIDEO
 WIZARD VIDEO GAMES
+WIZARD X WORLD
 WIZARD'S WARP
 WIZARDPUNKS!!!
 WIZARDRY
@@ -110463,6 +110548,7 @@ Wild Alone
 Wild Americas
 Wild Arms
 Wild Climbers Peak Panic
+Wild Draw
 Wild Guns
 Wild Horse Racing
 Wild Radio Flux
@@ -110477,6 +110563,7 @@ WildAlone
 WildAmericas
 WildArms
 WildClimbersPeakPanic
+WildDraw
 WildGuns
 WildHorseRacing
 WildRadioFlux
@@ -110767,6 +110854,7 @@ Wizard Soft
 Wizard Tournament
 Wizard Video
 Wizard Video Games
+Wizard X World
 Wizard of Legend 2
 Wizard s Warp
 Wizard's Gambit
@@ -110780,6 +110868,7 @@ WizardTournament
 WizardVideo
 WizardVideoGames
 WizardWare
+WizardXWorld
 WizardofLegend2
 Wizardry
 Wizards
@@ -113552,6 +113641,7 @@ ad
 ad astra infinita: the new evolution
 ad blocker: an action puzzle game soundtrack
 ad infinitum
+ad nauseam - the wrong side
 ada
 ada wong
 adam
@@ -114589,6 +114679,7 @@ anima codex
 anima game
 anima game studio
 anima gate of memories: i&ii remaster
+anima trium
 animagame
 animagamestudio
 animal
@@ -115855,6 +115946,7 @@ avon
 avon books
 avonbooks
 avril
+avxrpg
 awaiting your horders
 awakeness: yalda night
 awakening
@@ -117519,6 +117611,7 @@ blaise
 blake
 blake dexter
 blakedexter
+blamcon's cyber range
 blame your aim
 blanc
 blanca
@@ -120069,6 +120162,7 @@ chessmatch
 chessrpg demo
 chesst
 chesstan
+chesstria
 chesstris demo
 chessxpanse
 chest
@@ -121190,6 +121284,7 @@ conquest
 conquest tactics : realm of sin
 conservation concentration
 console kingdom
+console space
 consonance
 consorts of the emperor
 conspiracy
@@ -121693,6 +121788,7 @@ crazy car
 crazy carpenter
 crazy cars
 crazy castle
+crazy city golf
 crazy coin poker
 crazy fruit shooter
 crazy hotel together
@@ -124069,6 +124165,7 @@ disneymobile
 disneysoftware
 disneysports
 dispatch
+dispatch control
 dispatched
 dispel dark
 dispositif
@@ -124883,6 +124980,7 @@ drive out
 drive together
 drivecraft
 drivecrazy
+drivedeck
 driver
 driverless desire
 driversion
@@ -125722,6 +125820,7 @@ einar arpentfalaise
 einararpent'falaise
 einararpentfalaise
 einherjar's ascent
+eiroku: path of the wanderer
 eivaagames
 eivor
 eivor varinsdottir
@@ -128239,6 +128338,7 @@ foudre
 fouetty
 fouetty fouetty
 fouettyfouetty
+foulbreaker
 foundation
 foundation games
 foundationgames
@@ -130490,6 +130590,7 @@ grids of thermometers
 grief
 griefs texture ripper
 grieving (berduka)
+grifford academy
 griftlands
 grignote
 grigorii
@@ -131530,6 +131631,7 @@ hector
 hector rodriguez
 hectorrodriguez
 hedge fund manager simulator mmo
+hedge knight
 hedgehog
 heels
 heggo
@@ -135527,6 +135629,7 @@ kisen: seeker of aenjan city
 kismet
 kiss
 kiss & coffee
+kiss me on the oligarch's dime
 kiss of sin: rewinding flame
 kiss on my
 kiss on my deity
@@ -136456,6 +136559,7 @@ last delivery
 last epoch
 last epoch - fractured legend supporter pack
 last fiefdom
+last fisherman
 last guest at sunset
 last haven: idle survival
 last heist
@@ -137117,6 +137221,7 @@ level p
 level5
 level9
 level9computing
+levels demo
 levelup with 100 cyber girlfriend
 levendeurdemasques
 levenerablearbremojo
@@ -138075,6 +138180,7 @@ luma
 lumber and plunder
 lumber jax
 lumber valley
+lumbrix
 lumena
 lumenknight
 lumesprout
@@ -140540,6 +140646,7 @@ mnetwork
 mnm
 mnm software
 mnmsoftware
+mo wu tian gong
 moadra
 moanarchy demo
 moaning moron of the mountain
@@ -145692,6 +145799,7 @@ pixelarium: free lands
 pixelart character creator
 pixelate td
 pixelblue
+pixelboss: shattered depths
 pixelburg
 pixelegend
 pixelfederation
@@ -146557,6 +146665,7 @@ princia
 principaux
 prision in clicker
 prism
+prism core
 prism kikaku
 prism of you
 prism shift
@@ -147327,6 +147436,7 @@ questfor
 questforglory
 questwood
 questy chess
+quick translate engine
 quickcast
 quickie massage 🧴💦
 quickie: a love hotel story
@@ -150699,6 +150809,7 @@ she plays dirty
 she sucked me once, and dry
 she was 98
 she's leaving
+shear line
 shears
 shed
 sheep
@@ -151557,6 +151668,7 @@ sleepless -a midsummer night’s dream-
 sleepy sister's friend
 slice
 slice the crops!
+slicefall
 slicer
 slicer dicer
 slicer dicer slicer dicer
@@ -152011,6 +152123,7 @@ sombrevoyageur
 some
 some assembly required
 some company
+some things stay broken
 some: the house
 somebody's ramyeon shop
 somebody's tale
@@ -152488,6 +152601,7 @@ spellcatcher
 spellforce
 spellsteel
 spellsy
+spellweave
 spelunky
 sphenoid
 sphere
@@ -152733,6 +152847,7 @@ squinky
 squirrel
 squirrels gone nuts
 squirt
+squirt game 💦
 squirterzz
 squirtle
 squish units
@@ -156634,6 +156749,7 @@ thunder hawk
 thunder hoop collection (qubyte classics)
 thunder mountain
 thunder spikes volleyball demo
+thunder training ground
 thunder trucks: heavy racers
 thunderbyte
 thunderforce
@@ -157403,6 +157519,7 @@ tps
 tr-49
 trac
 trace definitive edition
+trace it
 trace of the villa
 tracebound
 tracer
@@ -158378,6 +158495,7 @@ unfair war: survivors
 unfair war: survivors demo
 unfold flower
 unforgettable love
+unforgiving dungeon
 unfound footage
 unhinged pet store simulator
 unhold
@@ -160157,6 +160275,7 @@ wild alone
 wild americas
 wild arms
 wild climbers peak panic
+wild draw
 wild guns
 wild horse racing
 wild hunt
@@ -160391,6 +160510,7 @@ wizard soft
 wizard tournament
 wizard video
 wizard video games
+wizard x world
 wizard's warp
 wizardry
 wizards
@@ -161936,6 +162056,7 @@ zèbre
 八つ灯 | Yatsuakari
 八つ灯 | yatsuakari
 八つ灯|Yatsuakari
+六年级奶瓦聚会
 再上一层
 再战大极品+255
 再来点百合吧 MORE☆LOVE YURI
