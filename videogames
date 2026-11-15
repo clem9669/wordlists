@@ -1712,6 +1712,7 @@
 ???   ?????????
 ??? -Cha-No-Ma-
 ??? -Fukiage-
+??? / Rules of the Inn
 ??? 3:?? - ????
 ??? ??(Hero of Ideal)
 ??? ???
@@ -2171,12 +2172,16 @@ A Good Deed On Harris Avenue
 A Graveyard Shift
 A HAUNTING NOVEL: BURTON HOTEL COLLECTOR'S EDITION
 A HAUNTING NOVEL: SURFACED SECRETS COLLECTOR'S EDITION
+A HEART-STIRRING DATE BY VICTORIA HARBOUR: NEW YEAR'S EVE AT THE TURN OF THE MILLENNIUM
 A HOME IS SAFE
 A HUNDRED YEARS OF LOVE AND DEATH
 A Haunting Novel: Burton Hotel Collector s Edition
 A Haunting Novel: Burton Hotel Collector's Edition
 A Haunting Novel: Surfaced Secrets Collector s Edition
 A Haunting Novel: Surfaced Secrets Collector's Edition
+A Heart Stirring Date by Victoria Harbour: New Year's Eve at the Turn of the Millennium
+A Heart-Stirring Date by Victoria Harbour: New Year s Eve at the Turn of the Millennium
+A Heart-Stirring Date by Victoria Harbour: New Year's Eve at the Turn of the Millennium
 A Home Is Safe
 A Hundred Years of Love and Death
 A JOURNEY THROUGH SHADOW, TO REACH THE LIGHT.
@@ -3049,6 +3054,7 @@ AH SPARE ME GIANTESS
 AHRENS
 AHauntingNovel:BurtonHotelCollector'sEdition
 AHauntingNovel:SurfacedSecretsCollector'sEdition
+AHeart-StirringDatebyVictoriaHarbour:NewYear'sEveattheTurnoftheMillennium
 AHomeIsSafe
 AHundredYearsofLoveandDeath
 AI
@@ -5229,6 +5235,7 @@ AUTUMNGAMES
 AUTUMNMOON
 AUTUMNMOONENTERTAINMENT
 AUX
+AUXPIPE
 AV DIRECTOR LIFE!
 AV Director Life!
 AVA
@@ -8422,6 +8429,7 @@ Autumn Moon Entertainment
 AutumnGames
 AutumnMoon
 AutumnMoonEntertainment
+AuxPipe
 Ava
 Ava Hunt and Thieves of the Lost Demo
 Ava Tate
@@ -8912,6 +8920,7 @@ BALLOON PARTY
 BALLOON POP 9999
 BALLOON TO THE MOON 2
 BALLOURSON
+BALLPEAK
 BALLS & GAMBLE DEMO
 BALLS SOULS: HARDCORE PLATFORMER
 BALLS VS. TOMBS
@@ -10191,6 +10200,7 @@ BLACK OPS ENTERTAINMENT
 BLACK PEARL
 BLACK PEARL SOFTWARE
 BLACK PIECES MOVE FIRST
+BLACK PYRAMID
 BLACK ROCK
 BLACK ROCK STUDIO
 BLACK SCREEN
@@ -10401,6 +10411,7 @@ BLIGHTSTORM
 BLIMBLAU: KILL THEM ALL!
 BLIMM
 BLIND BOX
+BLIND KATANA: THE EMBER KEEPER
 BLIND NIGHT
 BLIND RAGE
 BLIND ROUTE
@@ -10761,6 +10772,7 @@ BOKEH ADVENTURE
 BOKOBLIN
 BOKTAI
 BOL
+BOLD HOLE
 BOLT BOT SCREWY VIRUSES
 BOLVAR
 BOLVAR FORDRAGON
@@ -11250,6 +11262,7 @@ BREATHOFTHEWILDPONG
 BREATHOFWILD
 BREATHOFWILDPONG
 BREED
+BREEZE OF ADVENTURE
 BREEZY BAKES SIMULATOR
 BREEZY BLOOMS
 BRENDA
@@ -12068,6 +12081,7 @@ BalloonParty
 BalloonPop9999
 BalloontotheMoon2
 Ballourson
+Ballpeak
 Balls   Gamble Demo
 Balls & Gamble Demo
 Balls souls: Hardcore platformer
@@ -13529,6 +13543,7 @@ Black Ops Entertainment
 Black Pearl
 Black Pearl Software
 Black Pieces Move First
+Black Pyramid
 Black Rock
 Black Rock Studio
 Black Sea
@@ -13579,6 +13594,7 @@ BlackPiecesMoveFirst
 BlackPowder
 BlackPowder labs
 BlackPowderlabs
+BlackPyramid
 BlackRock
 BlackRockStudio
 BlackSea
@@ -13796,6 +13812,7 @@ Blimblau: Kill Them All!
 Blimblau:KillThemAll!
 Blimm
 Blind Box
+Blind Katana: The Ember Keeper
 Blind Night
 Blind Rage
 Blind Route
@@ -13804,6 +13821,7 @@ Blind Touch
 Blind Touch VR
 Blind Trust: The City
 BlindBox
+BlindKatana:TheEmberKeeper
 BlindNight
 BlindRage
 BlindRoute
@@ -14219,6 +14237,8 @@ BokehAdventure
 Bokoblin
 Boktai
 Bol
+Bold Hole
+BoldHole
 Bolt Bot Screwy Viruses
 BoltBotScrewyViruses
 Bolvar
@@ -14831,6 +14851,8 @@ BreathofFireIV
 BreathofLife
 BreathofLifeDemo
 Breed
+Breeze Of Adventure
+BreezeOfAdventure
 Breezy Bakes Simulator
 Breezy Blooms
 BreezyBakesSimulator
@@ -17510,6 +17532,7 @@ CODBUCKET
 CODE
 CODE MONKEYS
 CODE MYSTICS
+CODE RED RTS
 CODE VEIN
 CODE VEIN II
 CODE VEIN II   Deluxe Upgrade Pack
@@ -17742,6 +17765,7 @@ COMMANDCONQUERREDALERT
 COMMANDE
 COMMANDER
 COMMANDER KEEN
+COMMANDER'S DILEMMA
 COMMANDERKEEN
 COMMANDO
 COMMANDOS
@@ -18701,6 +18725,7 @@ CROWN OF THE NILE: CLEOPATRA'S CHOICE
 CROWN OF TIME
 CROWNBOUND - FANTASY KINGDOM SIM
 CROWNBREAKERS DEMO
+CROWNS & COLOSSI
 CROWNS OF HISTORY
 CROWNSEEKER
 CROY
@@ -19064,6 +19089,7 @@ CYCLAUDE CYCLAUDE
 CYCLAUDECYCLAUDE
 CYCLE
 CYCLE IDLE RPG
+CYCLE OF THE FIRST DAWN
 CYCLIA JOURNEY
 CYCLIAJOURNEY
 CYCLIC TRIVIA
@@ -21569,10 +21595,12 @@ Code
 Code Knight
 Code Monkeys
 Code Mystics
+Code Red RTS
 Code Velocity
 Code-Knight
 CodeMonkeys
 CodeMystics
+CodeRedRTS
 CodeVelocity
 Codebase
 Codelock
@@ -21821,6 +21849,9 @@ Commandant Vee
 CommandantVee
 Commander
 Commander Keen
+Commander s Dilemma
+Commander's Dilemma
+Commander'sDilemma
 CommanderKeen
 Commando
 Commandos
@@ -23016,7 +23047,10 @@ CrownbreakersDemo
 CrownofLust[18+]👑
 CrownofTime
 CrownoftheNile:Cleopatra'sChoice
+Crowns   Colossi
+Crowns & Colossi
 Crowns of History
+Crowns&Colossi
 Crownseeker
 CrownsofHistory
 Croy
@@ -23465,7 +23499,9 @@ Cyclaude Cyclaude
 CyclaudeCyclaude
 Cycle
 Cycle Idle RPG
+Cycle of the First Dawn
 CycleIdleRPG
+CycleoftheFirstDawn
 Cyclic Trivia
 CyclicTrivia
 Cycling
@@ -23972,6 +24008,7 @@ DATAMPOLYSTER
 DATAMPolyster
 DATASOFT
 DATATREK
+DATAWANDER
 DATAWEST
 DATAWORKS
 DATE BANGER
@@ -25788,6 +25825,7 @@ DONUTGAMES
 DONUTS FOR DEER TEETH
 DON`T PEEK
 DON`TPEEK
+DON’T  DROP!!
 DON’T MAKE HER OPEN HER EYES!
 DON’T POP!: SPLASH RACE
 DON’T TALK TO STRANGERS
@@ -29209,6 +29247,7 @@ Don t breathe in!
 Don t press X to free the pirate!
 Don t wake up Demo
 Don't
+Don't  Drop!!
 Don't Ask Succubus
 Don't Break
 Don't Breathe or They Might Hear
@@ -29365,6 +29404,7 @@ Donut Games
 DonutGames
 Donuts for Deer Teeth
 DonutsforDeerTeeth
+Don’t  Drop!!
 Don’t Make Her Open Her Eyes!
 Don’t Pop!: Splash Race
 Don’t Talk to Strangers
@@ -29372,6 +29412,7 @@ Don’t Tell Mom: I Fed My Stepsister 💦😳
 Don’t Touch the Bug
 Don’t Turn Off the Light
 Don’t Turn Off the Light Demo
+Don’tDrop!!
 Don’tMakeHerOpenHerEyes!
 Don’tPop!:SplashRace
 Don’tTalktoStrangers
@@ -39625,6 +39666,7 @@ GERTH
 GERTRUDE
 GERZE THE DEEP
 GESTAHL
+GESTALT JOURNEY
 GESTION
 GET
 GET 0UT
@@ -41851,6 +41893,8 @@ Gertrude
 Gerze The Deep
 GerzeTheDeep
 Gestahl
+Gestalt Journey
+GestaltJourney
 Gestion
 Get
 Get Clucked
@@ -44863,6 +44907,7 @@ HOARD DEFENDER VR DEMO
 HOARD SEEKER
 HOBBIES
 HOBBIT
+HOCKEY COACH DYNASTY
 HOCKEY FIRE
 HOCKEY LEGACY MANAGER 26
 HOCKEY LEGACY MANAGER 27
@@ -45310,6 +45355,7 @@ HUMANSOFT
 HUMBLE
 HUMBLE GAMING
 HUMBLEGAMING
+HUME INDEX
 HUMEROUS (REBOOT)
 HUMMINGBIRD
 HUMMINGBIRD SOFT
@@ -47218,9 +47264,11 @@ HoardDefenderVRDemo
 HoardSeeker
 Hobbies
 Hobbit
+Hockey Coach Dynasty
 Hockey Fire
 Hockey Legacy Manager 26
 Hockey Legacy Manager 27
+HockeyCoachDynasty
 HockeyFire
 HockeyLegacyManager26
 HockeyLegacyManager27
@@ -47814,6 +47862,8 @@ HumansvsAliensBattleWorlds
 Humble
 Humble Gaming
 HumbleGaming
+Hume Index
+HumeIndex
 Humerous  REBOOT 
 Humerous (REBOOT)
 Humerous(REBOOT)
@@ -48057,6 +48107,9 @@ I Beat My Meat to My Yandere Goth Friend s Mom
 I Beat My Meat to My Yandere Goth Friend's Mom
 I Became my Punk Son s Fake Girlfriend
 I Became my Punk Son's Fake Girlfriend
+I CHING: CHINESE TAROT & WISDOM OF CHANGE
+I Ching: Chinese Tarot   Wisdom of Change
+I Ching: Chinese Tarot & Wisdom of Change
 I DON'T DO OVERTIME
 I DRINK SORREL COFFEE TO REBOOT REALITY, BUT I'M BEING HUNTED BY MONSTER GIRLS AND ARMED AGENTS
 I Don t Do Overtime
@@ -48295,6 +48348,7 @@ ICR-MultiplayerCarRacing
 ICU ANOMALY
 ICU Anomaly
 ICUAnomaly
+IChing:ChineseTarot&WisdomofChange
 ID
 ID SOFTWARE
 ID Software
@@ -57544,6 +57598,7 @@ LUST HAREM: 1001 PLEASURES 💞
 LUST HAREM: 1001 Pleasures ?
 LUST HAREM: 1001 Pleasures 💞
 LUST HORIZONS
+LUST ISLES
 LUST O’ HEAVEN
 LUST POKER CLUB
 LUST SISTERS 🔞
@@ -60070,6 +60125,7 @@ Lust Arcanum - Supporter Pack
 Lust Arcanum Soundtrack
 Lust Effect [18+]
 Lust Horizons
+Lust Isles
 Lust Poker Club
 Lust Sisters ?
 Lust Sisters 🔞
@@ -60084,6 +60140,7 @@ LustArcanum-SupporterPack
 LustArcanumSoundtrack
 LustEffect[18+]
 LustHorizons
+LustIsles
 LustPokerClub
 LustSisters🔞
 LustStorm
@@ -60445,6 +60502,7 @@ MAGICIANS OF MULTIPLICATION ISLAND
 MAGICIEN
 MAGICJUNGLE
 MAGICJUNGLESOFTWARE
+MAGICKA 2
 MAGICLEAN
 MAGICPENGEL
 MAGICPENGEL:THEQUESTFORCOLOUR
@@ -60679,6 +60737,7 @@ MAN OF Y
 MANA
 MANA BATTLE
 MANACASTER
+MANAFEST
 MANAGER
 MANAGERS
 MANALIA NOTES -A MEMORY OF INNOCENCE-
@@ -63708,6 +63767,7 @@ MY SADISTIC GIRLFRIENDS
 MY SCOUT LIFE
 MY SEXY FAIRIES
 MY SEXY NEIGHBOUR 2
+MY SISTER
 MY SLEEPING GIRLFRIEND
 MY SPLITTING IMAGE
 MY SUCCUBUS VISITOR
@@ -64096,6 +64156,8 @@ Magicaladvertence
 Magicians of Multiplication Island
 MagiciansofMultiplicationIsland
 Magicien
+Magicka 2
+Magicka2
 Magicsoft
 Magie
 Magifact
@@ -64374,6 +64436,7 @@ Mana
 Mana Battle
 ManaBattle
 Manacaster
+Manafest
 Manager
 Managers
 Manalia Notes  A memory of innocence 
@@ -67751,6 +67814,7 @@ My Rusty Submarine - New Waters
 My Sadistic Girlfriends
 My Scout Life
 My Sexy Fairies
+My Sister
 My Sleeping Girlfriend
 My Splitting Image
 My Succubus Visitor
@@ -67871,6 +67935,7 @@ MyRustySubmarine-NewWaters
 MySadisticGirlfriends
 MyScoutLife
 MySexyFairies
+MySister
 MySleepingGirlfriend
 MySplittingImage
 MySuccubusVisitor
@@ -71977,6 +72042,7 @@ ONE MORE ADVENTURE
 ONE MORE BUTTON
 ONE MORE EXPERIMENT
 ONE MORE GEM
+ONE MORE LAWN
 ONE MORE PEARL!
 ONE MORE TRY: PROLOGUE
 ONE NIGHT AT KEVIN'S VR
@@ -72344,6 +72410,7 @@ OUMBOUMOUMBOUM
 OUNUS: CHAPTER ONE
 OUR BAD ENDING
 OUR BRIEF ETERNITY
+OUR CAMPUS LIFE
 OUR DOOMED BUNKER
 OUR DREADLING
 OUR FLICK ERASERS 4
@@ -73292,6 +73359,7 @@ One More 6ix
 One More Adventure
 One More Button
 One More Experiment
+One More Lawn
 One More Pearl!
 One More Try: Prologue
 One Night at Kevin s VR
@@ -73341,6 +73409,7 @@ OneMore6ix
 OneMoreAdventure
 OneMoreButton
 OneMoreExperiment
+OneMoreLawn
 OneMorePearl!
 OneMoreTry:Prologue
 OneNightatKevin'sVR
@@ -73773,6 +73842,7 @@ Our Home, My Keeper
 Our Summer Festival 2
 Our Town Hero
 Our War: Firepower Suppression
+Our campus life
 OurBadEnding
 OurBriefEternity
 OurClicker
@@ -73783,6 +73853,7 @@ OurHome,MyKeeper
 OurSummerFestival2
 OurTownHero
 OurWar:FirepowerSuppression
+Ourcampuslife
 Ourlands
 Ours
 Oursin
@@ -76956,9 +77027,11 @@ PUSH & PLUNDER
 PUSH AND PLUNDER DEMO
 PUSH AND PULL
 PUSH DEFENSE
+PUSH MID
 PUSH PUSH
 PUSHING KIDS OFF BIKES
 PUSHLE DELUXE
+PUSHMID
 PUSS IN BOX
 PUSSY FUN
 PUT BACK STUFF
@@ -81496,6 +81569,7 @@ RAY BOCCINO
 RAY FORCE
 RAY GARI
 RAY OF LIFE
+RAY RAY ZOMBIES
 RAY THE FLYING SQUIRREL
 RAYA
 RAYA SYSTEMS
@@ -81744,6 +81818,7 @@ RED CHAT RITUAL  – TSUMIMI TIME
 RED CIRCUIT REBELLION
 RED CLICKER
 RED COMPANY
+RED CRUCIBLE ASSAULT
 RED DAWN
 RED DEAD
 RED DEAD REDEMPTION
@@ -83027,6 +83102,9 @@ ROYBROMWELL
 RPG
 RR
 RSP
+RSP ULTIMATE BATTLE
+RSP Ultimate Battle
+RSPUltimateBattle
 RSVP
 RTL
 RTL ENTERPRISES
@@ -83637,11 +83715,13 @@ Ray
 Ray Boccino
 Ray Force
 Ray Gari
+Ray Ray Zombies
 Ray of Life
 Ray the Flying Squirrel
 RayBoccino
 RayForce
 RayGari
+RayRayZombies
 Raya
 Raya Systems
 RayaSystems
@@ -83943,6 +84023,7 @@ Red Chat Ritual  – TSUMIMI TIME
 Red Circuit Rebellion
 Red Clicker
 Red Company
+Red Crucible Assault
 Red Dead
 Red Dead Redemption
 Red Dead Redemption 2
@@ -83990,6 +84071,7 @@ RedChatRitual–TSUMIMITIME
 RedCircuitRebellion
 RedClicker
 RedCompany
+RedCrucibleAssault
 RedDead
 RedDeadRedemption
 RedDeadRedemption2
@@ -87724,6 +87806,7 @@ SILICON PATH
 SILICON SCARS
 SILICON SISTERS
 SILICON SISTERS INTERACTIVE
+SILICON TYCOON
 SILICON&
 SILICON&SYNAPSE
 SILICON&SYNAPSE,INC
@@ -90247,6 +90330,7 @@ SUBSPACE ESCAPE DEMO
 SUBSPACE RETICULUM
 SUBSPACE: REDUX
 SUBSTANCE 3D PAINTER 2026
+SUBSURFACE
 SUBSURVIVAL: SSN-13 "GRENDEL"
 SUBSØNIC
 SUBTERRANAUTS
@@ -93330,6 +93414,7 @@ Silicon Path
 Silicon Scars
 Silicon Sisters
 Silicon Sisters Interactive
+Silicon Tycoon
 Silicon&
 Silicon&Synapse
 Silicon&Synapse,Inc
@@ -93345,6 +93430,7 @@ SiliconPath
 SiliconScars
 SiliconSisters
 SiliconSistersInteractive
+SiliconTycoon
 Silk Home: echoes of the forbidden
 SilkHome:echoesoftheforbidden
 Silktrails: Cats in the grove
@@ -96506,6 +96592,7 @@ SubspaceEscapeDemo
 SubspaceReticulum
 Substance 3D Painter 2026
 Substance3DPainter2026
+Subsurface
 Subterranauts
 Subtracto
 Subversive Memories
@@ -98344,6 +98431,7 @@ TENGOKU
 TENNIS
 TENNIS ELBOW
 TENNISELBOW
+TENREI
 TENSE PARKING
 TENSE PARKING 2
 TENSEI
@@ -98624,6 +98712,7 @@ THE ATTACK ON EGG HARBOR
 THE AWAKENER: BATTLE TENDENCY
 THE AYNA
 THE AZURE ONE
+THE BACKLOG
 THE BACKROOMS DELUXE 2
 THE BACKROOMS: EXPEDITION
 THE BACKROOMS: RESCUE EXPEDITION
@@ -99276,6 +99365,7 @@ THE MERRY FAIRY
 THE MESSAGE FROM DEEP SPACE
 THE MESSENGER
 THE METAL AGE
+THE MIDNIGHT CLIENT
 THE MIDNIGHT EXORCIST DEMO
 THE MIDNIGHT GARDEN: AMY'S FLOWER
 THE MIDNIGHT QUEENS
@@ -99684,6 +99774,7 @@ THEAPPRENTICE
 THEASSEMBLY
 THEASSEMBLYLINE
 THEATER
+THEBACKLOG
 THEBARD'STALE
 THEBARD'STALES
 THEBARDSTALE
@@ -100363,6 +100454,7 @@ TIPPED ARROW
 TIPPEDARROW
 TIR
 TIRA
+TISULAND
 TITAN
 TITAN CORE
 TITAN ISLES
@@ -101599,6 +101691,7 @@ TWISTEDDRAGONMEDIA
 TWISTEDMETAL
 TWISTEDPIXEL
 TWO
+TWO & TWO: AGENTS DEMO
 TWO CLUBS ONE PLAYER
 TWO LIVES
 TWO LIVES LEFT
@@ -102505,6 +102598,7 @@ Tengoku
 Tennis
 Tennis Elbow
 TennisElbow
+Tenrei
 Tense Parking
 Tense Parking 2
 TenseParking
@@ -103505,6 +103599,7 @@ The Merlies
 The Merry Fairy
 The Message from Deep Space
 The Messenger
+The Midnight Client
 The Midnight Exorcist Demo
 The Midnight Garden: Amy s Flower
 The Midnight Garden: Amy's Flower
@@ -104578,6 +104673,7 @@ TheMerlies
 TheMerryFairy
 TheMessagefromDeepSpace
 TheMessenger
+TheMidnightClient
 TheMidnightExorcistDemo
 TheMidnightGarden:Amy'sFlower
 TheMidnightWalk
@@ -105600,6 +105696,7 @@ Tipped Arrow
 TippedArrow
 Tir
 Tira
+Tisuland
 Titan
 Titan Core
 Titan Isles
@@ -107116,6 +107213,8 @@ TwistedTower
 TwistedToys
 TwistedToysDemo
 Two
+Two   Two: Agents Demo
+Two & Two: Agents Demo
 Two Clubs One Player
 Two Fifteen
 Two Lives
@@ -107132,6 +107231,7 @@ Two Tribes
 Two Types Pollos
 Two Voices: A Journey Through the MET with Rin and Mio
 Two the Top
+Two&Two:AgentsDemo
 Two-Fifteen
 TwoClubsOnePlayer
 TwoFiveSix
@@ -111456,6 +111556,7 @@ WORKSHOP
 WORLD
 WORLD CUP WAIFU CLICKER: SOCCER EVOLUTION
 WORLD ETERNAL ONLINE
+WORLD GUESSER
 WORLD HEROES
 WORLD HEROES PERFECT
 WORLD OF
@@ -113213,6 +113314,7 @@ Workshop
 World
 World Cup Waifu Clicker: Soccer Evolution
 World Eternal Online
+World Guesser
 World Heroes
 World Pole Stone Dusk: Diadem of the Pole
 World Rally
@@ -113245,6 +113347,7 @@ World: 23806
 World:23806
 WorldCupWaifuClicker:SoccerEvolution
 WorldEternalOnline
+WorldGuesser
 WorldHeroes
 WorldLine: Game Saver
 WorldLine:GameSaver
@@ -114911,6 +115014,7 @@ ZOMBIEPIGMANSPAWN
 ZOMBIEPIGMANSPAWNEGG
 ZOMBIES
 ZOMBIES AND STRANGERS
+ZOMBIES AREN'T REAL
 ZOMBIES ATE MY NEIGHBOURS
 ZOMBIES OVERLOADED
 ZOMBIESATEMYNEIGHBOURS
@@ -115314,9 +115418,12 @@ ZombieVillagerSpawn
 ZombieVillagerSpawnEgg
 ZombieWastelandTogether
 Zombies
+Zombies Aren t Real
+Zombies Aren't Real
 Zombies Ate My Neighbours
 Zombies Overloaded
 Zombies and Strangers
+ZombiesAren'tReal
 ZombiesAteMyNeighbours
 ZombiesOverloaded
 ZombiesandStrangers
@@ -115512,6 +115619,7 @@ a good deed on harris avenue
 a graveyard shift
 a haunting novel: burton hotel collector's edition
 a haunting novel: surfaced secrets collector's edition
+a heart-stirring date by victoria harbour: new year's eve at the turn of the millennium
 a home is safe
 a hundred years of love and death
 a journey through shadow, to reach the light.
@@ -118115,6 +118223,7 @@ autumngames
 autumnmoon
 autumnmoonentertainment
 aux
+auxpipe
 av director life!
 ava
 ava hunt and thieves of the lost demo
@@ -118534,6 +118643,7 @@ balloon party
 balloon pop 9999
 balloon to the moon 2
 ballourson
+ballpeak
 balls & gamble demo
 balls souls: hardcore platformer
 balls vs. tombs
@@ -119767,6 +119877,7 @@ black ops entertainment
 black pearl
 black pearl software
 black pieces move first
+black pyramid
 black rock
 black rock studio
 black screen
@@ -119970,6 +120081,7 @@ blightstorm
 blimblau: kill them all!
 blimm
 blind box
+blind katana: the ember keeper
 blind night
 blind rage
 blind route
@@ -120309,6 +120421,7 @@ bokeh adventure
 bokoblin
 boktai
 bol
+bold hole
 bolt bot screwy viruses
 bolvar
 bolvar fordragon
@@ -120782,6 +120895,7 @@ breathofthewildpong
 breathofwild
 breathofwildpong
 breed
+breeze of adventure
 breezy bakes simulator
 breezy blooms
 brenda
@@ -123239,6 +123353,7 @@ codbucket
 code
 code monkeys
 code mystics
+code red rts
 code vein
 code vein ii
 code vein ii - deluxe upgrade pack
@@ -123452,6 +123567,7 @@ commandconquerredalert
 commande
 commander
 commander keen
+commander's dilemma
 commanderkeen
 commando
 commandos
@@ -124388,6 +124504,7 @@ crown of the nile: cleopatra's choice
 crown of time
 crownbound - fantasy kingdom sim
 crownbreakers demo
+crowns & colossi
 crowns of history
 crownseeker
 croy
@@ -124733,6 +124850,7 @@ cyclaude cyclaude
 cyclaudecyclaude
 cycle
 cycle idle rpg
+cycle of the first dawn
 cyclia journey
 cyclic trivia
 cycling
@@ -125207,6 +125325,7 @@ datamostinc
 datampolyster
 datasoft
 datatrek
+datawander
 datawest
 dataworks
 date banger
@@ -126894,6 +127013,7 @@ donut
 donut games
 donutgames
 donuts for deer teeth
+don’t  drop!!
 don’t make her open her eyes!
 don’t pop!: splash race
 don’t talk to strangers
@@ -132062,6 +132182,7 @@ gerth
 gertrude
 gerze the deep
 gestahl
+gestalt journey
 gestion
 get
 get 0ut
@@ -134760,6 +134881,7 @@ hoard defender vr demo
 hoard seeker
 hobbies
 hobbit
+hockey coach dynasty
 hockey fire
 hockey legacy manager 26
 hockey legacy manager 27
@@ -135198,6 +135320,7 @@ humansoft
 humble
 humble gaming
 humblegaming
+hume index
 humerous (reboot)
 hummingbird
 hummingbird soft
@@ -135366,6 +135489,7 @@ i am the demon king: stop sun wukong
 i antasized again
 i beat my meat to my yandere goth friend's mom
 i became my punk son's fake girlfriend
+i ching: chinese tarot & wisdom of change
 i don't do overtime
 i drink sorrel coffee to reboot reality, but i'm being hunted by monster girls and armed agents
 i forgot to take the chicken out of the freezer
@@ -140819,6 +140943,7 @@ lust effect [18+]
 lust eternal 🔞
 lust harem: 1001 pleasures 💞
 lust horizons
+lust isles
 lust o’ heaven
 lust poker club
 lust sisters 🔞
@@ -141126,6 +141251,7 @@ magicians of multiplication island
 magicien
 magicjungle
 magicjunglesoftware
+magicka 2
 magiclean
 magicpengel
 magicpengel:thequestforcolour
@@ -141362,6 +141488,7 @@ man of y
 mana
 mana battle
 manacaster
+manafest
 manager
 managers
 manalia notes -a memory of innocence-
@@ -144250,6 +144377,7 @@ my sadistic girlfriends
 my scout life
 my sexy fairies
 my sexy neighbour 2
+my sister
 my sleeping girlfriend
 my splitting image
 my succubus visitor
@@ -146541,6 +146669,7 @@ one more adventure
 one more button
 one more experiment
 one more gem
+one more lawn
 one more pearl!
 one more try: prologue
 one night at kevin's vr
@@ -146877,6 +147006,7 @@ oumboumoumboum
 ounus: chapter one
 our bad ending
 our brief eternity
+our campus life
 our doomed bunker
 our dreadling
 our flick erasers 4
@@ -149859,6 +149989,7 @@ push & plunder
 push and plunder demo
 push and pull
 push defense
+push mid
 push push
 pushing kids off bikes
 pushle deluxe
@@ -150568,6 +150699,7 @@ ray boccino
 ray force
 ray gari
 ray of life
+ray ray zombies
 ray the flying squirrel
 raya
 raya systems
@@ -150793,6 +150925,7 @@ red chat ritual  – tsumimi time
 red circuit rebellion
 red clicker
 red company
+red crucible assault
 red dawn
 red dead
 red dead redemption
@@ -152005,6 +152138,7 @@ roybromwell
 rpg
 rr
 rsp
+rsp ultimate battle
 rsvp
 rtl
 rtl enterprises
@@ -154011,6 +154145,7 @@ silicon path
 silicon scars
 silicon sisters
 silicon sisters interactive
+silicon tycoon
 silicon&
 silicon&synapse
 silicon&synapse,inc
@@ -156413,6 +156548,7 @@ subspace escape demo
 subspace reticulum
 subspace: redux
 substance 3d painter 2026
+subsurface
 subsurvival: ssn-13 "grendel"
 subsønic
 subterranauts
@@ -157904,6 +158040,7 @@ tengoku
 tennis
 tennis elbow
 tenniselbow
+tenrei
 tense parking
 tense parking 2
 tensei
@@ -158175,6 +158312,7 @@ the attack on egg harbor
 the awakener: battle tendency
 the ayna
 the azure one
+the backlog
 the backrooms deluxe 2
 the backrooms: expedition
 the backrooms: rescue expedition
@@ -158812,6 +158950,7 @@ the merry fairy
 the message from deep space
 the messenger
 the metal age
+the midnight client
 the midnight exorcist demo
 the midnight garden: amy's flower
 the midnight queens
@@ -159872,6 +160011,7 @@ tipped arrow
 tippedarrow
 tir
 tira
+tisuland
 titan
 titan core
 titan isles
@@ -161057,6 +161197,7 @@ twisteddragonmedia
 twistedmetal
 twistedpixel
 two
+two & two: agents demo
 two clubs one player
 two lives
 two lives left
@@ -163606,6 +163747,7 @@ workshop
 world
 world cup waifu clicker: soccer evolution
 world eternal online
+world guesser
 world heroes
 world heroes perfect
 world of
@@ -164560,6 +164702,7 @@ zombiepigmanspawn
 zombiepigmanspawnegg
 zombies
 zombies and strangers
+zombies aren't real
 zombies ate my neighbours
 zombies overloaded
 zombiesatemyneighbours
@@ -164949,6 +165092,7 @@ zèbre
 中国式高考CHINESEGAOKAO‌
 中国式高考ChineseGaokao‌
 中国式高考chinesegaokao‌
+中国球王之路
 主公請躺好
 主角
 九州剑歌
@@ -165234,6 +165378,10 @@ zèbre
 宠物街金鱼姬 pet street story
 宠物街金鱼姬PetStreetStory
 审判者
+宿の掟 / RULES OF THE INN
+宿の掟 / Rules of the Inn
+宿の掟 / rules of the inn
+宿の掟/RulesoftheInn
 寻味记
 寻龙分金模拟器
 导演，请多多指教
